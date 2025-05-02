@@ -15,7 +15,7 @@ export function loadTexts(scene, camera) { // 🔹 camera 매개변수 추가
                     const textGeometry = new TextGeometry(text, {
                         font: font,
                         size: 0.4,
-                        height: 0.01
+                        height: 1
                     });
 
                     textGeometry.center(); // 텍스트 중앙 정렬
