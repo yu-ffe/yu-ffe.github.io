@@ -13,7 +13,9 @@ export function createFloor(scene, renderer) {
   [colorTexture, normalTexture, roughnessTexture].forEach(tex => {
     tex.wrapS = THREE.RepeatWrapping;
     tex.wrapT = THREE.RepeatWrapping;
-    tex.repeat.set(1, 1);
+    tex.repeat.set(2, 2);
+  tex.center.set(0.5, 0.5);
+  tex.rotation = Math.PI / 2; // 90도 회전 (시계 반대방향 기준)
   });
 
   // 바닥: 일반 박스 형태

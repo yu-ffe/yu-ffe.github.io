@@ -19,7 +19,7 @@ export function createWalls(scene) {
   [colorTexture, normalTexture, roughnessTexture].forEach((tex) => {
     tex.wrapS = THREE.RepeatWrapping;
     tex.wrapT = THREE.RepeatWrapping;
-    tex.repeat.set(1, 1);
+    tex.repeat.set(4, 4);
   });
 
   const wallMaterial = new THREE.MeshStandardMaterial({
@@ -33,7 +33,7 @@ export function createWalls(scene) {
   // 왼쪽 벽 생성 (기존대로)
   const leftWallGeometry = new THREE.BoxGeometry(20, 14, 0.5);
   const leftWall = new THREE.Mesh(leftWallGeometry, wallMaterial);
-  leftWall.position.set(-9.7, 5.35 - 5, 0);
+  leftWall.position.set(-9.75, 5.35 - 5, 0);
   leftWall.rotation.y = Math.PI / 2;
   scene.add(leftWall);
 
@@ -44,7 +44,7 @@ export function createWalls(scene) {
   const backWallMesh = new THREE.Mesh(backWallGeometry, wallMaterial);
 
   // 벽의 월드 위치 및 회전 설정 (CSG 연산 전에는 반드시 안 함)
-  const wallPos = new THREE.Vector3(0, 5.35 - 5, -9.7);
+  const wallPos = new THREE.Vector3(0, 5.35 - 5, -9.75);
   const wallRot = new THREE.Euler(0, 0, 0);
 
   // 2. 구멍용 박스 생성
