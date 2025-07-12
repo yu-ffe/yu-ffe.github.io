@@ -6,6 +6,8 @@ import { createSurfaceFinishCubes } from "./objects/surfaceFinish.js";
 import { loadBlocks } from "./objects/blockManager.js";
 import { loadTexts } from "./objects/textManager.js";
 import { setupLights } from "./lights/lights.js"; // ✅ 추가
+import { createCharacter } from "./objects/characterController.js";
+
 
 const scene = new THREE.Scene();
 scene.background = new THREE.Color(0xb55d27);
@@ -73,3 +75,4 @@ function animate() {
   renderer.render(scene, camera);
 }
 animate();
+createCharacter(scene, camera); // ✅ 카메라 넘겨줌
