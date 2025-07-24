@@ -5,6 +5,7 @@ import { createWalls } from "./objects/walls.js";
 import { createSurfaceFinishCubes } from "./objects/surfaceFinish.js";
 import { loadBlocks } from "./objects/blockManager.js";
 import { loadTexts } from "./objects/textManager.js";
+import { createTable } from "./objects/table.js";
 import { setupLights } from "./lights/lights.js"; // ✅ 추가
 
 const scene = new THREE.Scene();
@@ -33,18 +34,12 @@ document.body.appendChild(renderer.domElement);
 // ✅ 조명 분리
 setupLights(scene, renderer); // renderer 전달
 
-// 테스트용 큐브
-const geometry = new THREE.BoxGeometry(1, 1, 1);
-const material = new THREE.MeshStandardMaterial({ color: 0xff5555 });
-const cube = new THREE.Mesh(geometry, material);
-cube.position.set(2, 10, -10);
-scene.add(cube);
-
 // 지형 및 블록
 createFloor(scene);
 createWalls(scene);
-loadBlocks(scene);
-loadTexts(scene, camera);
+// loadBlocks(scene);
+// loadTexts(scene, camera);
+createTable(scene); // ✅ 테이블 생성
 
 // 이벤트 처리
 handleClick(camera, scene, renderer);
