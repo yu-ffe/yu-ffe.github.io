@@ -22,7 +22,7 @@ const camera = new THREE.OrthographicCamera(
   0.1,
   1000
 );
-camera.position.set(40, 40, 40);
+camera.position.set(50, 50, 50);
 camera.lookAt(0, 0, 0);
 
 const renderer = new THREE.WebGLRenderer({
