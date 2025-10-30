@@ -24,23 +24,49 @@ export function createFloor(scene, renderer) {
     roughness: 0.0,
   });
 
-  const blackMaterial = new THREE.MeshBasicMaterial({
-    color: 0x200f08, // 완전 검정
+  const brownMaterial = new THREE.MeshBasicMaterial({
+    color: 0x200f08, 
   });
 
   const floorMaterials = [
-    blackMaterial, // right
-    blackMaterial, // left
+    brownMaterial, // right
+    brownMaterial, // left
     woodMaterial,  // top (위쪽면)
-    blackMaterial, // bottom
-    blackMaterial, // front
-    blackMaterial  // back
+    brownMaterial, // bottom
+    brownMaterial, // front
+    brownMaterial  // back
   ];
 
   const groundGeometry = new THREE.BoxGeometry(20, 0.7, 20);
   const ground = new THREE.Mesh(groundGeometry, floorMaterials);
   ground.position.y = -7.0;
   scene.add(ground);
+  
+  const hazyBlackMaterial = new THREE.MeshBasicMaterial({
+    color: 0x222222, // 어두운 회색
+  });
+
+  const blackMaterial = new THREE.MeshBasicMaterial({
+    color: 0x111111, // 검정
+  });
+
+    const entireBlackMaterial = new THREE.MeshBasicMaterial({
+    color: 0x000000, // 검정
+  });
+
+  const lowerMaterials = [
+    hazyBlackMaterial, // right
+    blackMaterial, // left
+    entireBlackMaterial, // top (위쪽면)
+    blackMaterial,  // bottom
+    blackMaterial, // front
+    blackMaterial  // back
+  ];
+
+  const lowerBlockGeometry = new THREE.BoxGeometry(20, 0.7 * 2, 20);
+  const lowerBlock = new THREE.Mesh(lowerBlockGeometry, lowerMaterials);
+  lowerBlock.position.y = ground.position.y - 2; // 아래로 붙이기
+  scene.add(lowerBlock);
 
   if (renderer) {
     renderer.outputColorSpace = THREE.SRGBColorSpace;

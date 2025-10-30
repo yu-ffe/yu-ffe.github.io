@@ -9,7 +9,7 @@ import { createTable } from "./objects/table.js";
 import { setupLights } from "./lights/lights.js"; // ✅ 추가
 
 const scene = new THREE.Scene();
-scene.background = new THREE.Color(0xb55d27);
+scene.background = new THREE.Color(0x0E0608);
 
 // 카메라 생성
 const aspect = window.innerWidth / window.innerHeight;
