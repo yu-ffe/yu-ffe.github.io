@@ -68,3 +68,38 @@ function animate() {
   renderer.render(scene, camera);
 }
 animate();
+
+
+
+/// WILL BE DELTED LATER ///
+const textureLoader = new THREE.TextureLoader();
+textureLoader.load("./image/else/62f9297e-48f1-422a-a234-e57aa98763d2.png", (texture) => {
+  const geometry = new THREE.PlaneGeometry(10, 10); // 크기 조정
+  const material = new THREE.MeshBasicMaterial({
+    map: texture,
+    transparent: true, // PNG 투명도 유지
+  });
+  const imagePlane = new THREE.Mesh(geometry, material);
+
+  // 위치와 회전 설정 (정면으로 보이게)
+  imagePlane.position.set(0, 5, 0);
+  // imagePlane.rotation.y = Math.PI / 4; // 필요시 조정
+
+  scene.add(imagePlane);
+});
+
+const textureLoader2 = new THREE.TextureLoader();
+textureLoader2.load("./image/else/62f9297e-48f1-422a-a234-e57aa98763d3.png", (texture) => {
+  const geometry2 = new THREE.PlaneGeometry(10, 10); // 크기 조정
+  const material2 = new THREE.MeshBasicMaterial({
+    map: texture,
+    transparent: true, // PNG 투명도 유지
+  });
+  const imagePlane2 = new THREE.Mesh(geometry2, material2);
+
+  // 위치와 회전 설정 (정면으로 보이게)
+  imagePlane2.position.set(10, 5, 0);
+  // imagePlane.rotation.y = Math.PI / 4; // 필요시 조정
+
+  scene.add(imagePlane2);
+});
