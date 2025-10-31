@@ -22,8 +22,8 @@ addImagePlanes(scene);
 
 registerClickHandler(camera, scene);
 
-Promise.all([loadBlocks(scene), loadTexts(scene, camera)]).catch((error) => {
-  console.error("Asset loading failed:", error);
-});
+// Promise.all([loadBlocks(scene), loadTexts(scene, camera)]).catch((error) => {
+//   console.error("Asset loading failed:", error);
+// });
 
 app.start();
