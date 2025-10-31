@@ -32,7 +32,50 @@
   </head>
   <body>
     <main>
-      <canvas id="webgl-canvas" aria-label="3D 렌더링 캔버스"></canvas>
+      <section class="desktop-view" aria-label="PC 환경 전용 인터페이스">
+        <div class="info-panel">
+          <p class="eyebrow">PC EXPERIENCE</p>
+          <h1>WebGL 3D Showcase</h1>
+          <p>
+            고사양 그래픽을 위한 최적화된 PC 인터페이스입니다. 실시간 조명과 깊이감,
+            그리고 정교한 머티리얼 표현을 통해 YU__FFE의 3D 포트폴리오를 경험해 보세요.
+          </p>
+          <ul>
+            <li>실시간 조명과 머티리얼 튜닝</li>
+            <li>트랙볼 기반 인터랙티브 카메라</li>
+            <li>Three.js 커스텀 셰이더 파이프라인</li>
+          </ul>
+          <div class="notice" role="note">
+            <strong>TIP</strong>
+            <span>마우스 드래그와 휠로 시점을 조작할 수 있어요.</span>
+          </div>
+        </div>
+        <div class="canvas-wrapper">
+          <canvas id="webgl-canvas" aria-label="3D 렌더링 캔버스"></canvas>
+        </div>
+      </section>
+
+      <section class="mobile-view" aria-label="모바일 프리뷰 안내">
+        <p class="eyebrow">MOBILE PREVIEW</p>
+        <h1>모바일에서는 미리보기로 감상하세요</h1>
+        <p>
+          3D 렌더링은 PC 환경에서 가장 안정적으로 제공됩니다. 지금은 작품 소개와 링크만
+          확인할 수 있어요. 더 생생한 경험을 위해 데스크톱에서 다시 방문해 주세요!
+        </p>
+        <div class="mobile-actions">
+          <a class="action primary" href="mailto:contact@yu-ffe.dev">문의하기</a>
+          <a
+            class="action secondary"
+            href="https://github.com/yu-ffe"
+            target="_blank"
+            rel="noopener"
+            >GitHub 살펴보기</a
+          >
+        </div>
+        <p class="mobile-footnote">
+          PC에서 접속하면 인터랙티브 3D 콘텐츠와 함께 더 많은 정보를 확인할 수 있습니다.
+        </p>
+      </section>
     </main>
 
     <script type="module" src="scripts/main.js"></script>
