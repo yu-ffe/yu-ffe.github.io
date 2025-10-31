@@ -1,74 +1,64 @@
-import * as THREE from 'https://unpkg.com/three@0.160.0/build/three.module.js';
+import * as THREE from "three";
 
-export function createFloor(scene, renderer) {
+const WOOD_TEXTURES = {
+  map: "../../image/Material/Wood/Wood067_1K-PNG_Color.png",
+  normalMap: "../../image/Material/Wood/Wood067_1K-PNG_NormalGL.png",
+  roughnessMap: "../../image/Material/Wood/Wood067_1K-PNG_Roughness.png",
+};
+
+const FLOOR_SIZE = { width: 20, height: 0.7, depth: 20 };
+const LOWER_BLOCK_OFFSET = 2;
+
+export function createFloor(scene) {
   const textureLoader = new THREE.TextureLoader();
-
-  const colorTexture = textureLoader.load('../../image/Material/Wood/Wood067_1K-PNG_Color.png');
-  const normalTexture = textureLoader.load('../../image/Material/Wood/Wood067_1K-PNG_NormalGL.png');
-  const roughnessTexture = textureLoader.load('../../image/Material/Wood/Wood067_1K-PNG_Roughness.png');
-
-  colorTexture.colorSpace = THREE.SRGBColorSpace;
-
-  [colorTexture, normalTexture, roughnessTexture].forEach(tex => {
-    tex.wrapS = THREE.RepeatWrapping;
-    tex.wrapT = THREE.RepeatWrapping;
-    tex.repeat.set(2, 2);
-    tex.center.set(0.5, 0.5);
-    tex.rotation = Math.PI / 2;
-  });
+  const textures = Object.entries(WOOD_TEXTURES).reduce((acc, [key, path]) => {
+    const texture = textureLoader.load(path);
+    texture.wrapS = THREE.RepeatWrapping;
+    texture.wrapT = THREE.RepeatWrapping;
+    texture.repeat.set(2, 2);
+    texture.center.set(0.5, 0.5);
+    texture.rotation = Math.PI / 2;
+    if (key === "map") {
+      texture.colorSpace = THREE.SRGBColorSpace;
+    }
+    acc[key] = texture;
+    return acc;
+  }, {});
 
   const woodMaterial = new THREE.MeshStandardMaterial({
-    map: colorTexture,
-    normalMap: normalTexture,
-    roughnessMap: roughnessTexture,
-    roughness: 0.0,
+    map: textures.map,
+    normalMap: textures.normalMap,
+    roughnessMap: textures.roughnessMap,
+    roughness: 0.2,
   });
 
-  const brownMaterial = new THREE.MeshBasicMaterial({
-    color: 0x200f08, 
-  });
+  const accentMaterial = new THREE.MeshBasicMaterial({ color: 0x200f08 });
 
   const floorMaterials = [
-    brownMaterial, // right
-    brownMaterial, // left
-    woodMaterial,  // top (위쪽면)
-    brownMaterial, // bottom
-    brownMaterial, // front
-    brownMaterial  // back
+    accentMaterial,
+    accentMaterial,
+    woodMaterial,
+    accentMaterial,
+    accentMaterial,
+    accentMaterial,
   ];
 
-  const groundGeometry = new THREE.BoxGeometry(20, 0.7, 20);
+  const groundGeometry = new THREE.BoxGeometry(
+    FLOOR_SIZE.width,
+    FLOOR_SIZE.height,
+    FLOOR_SIZE.depth
+  );
   const ground = new THREE.Mesh(groundGeometry, floorMaterials);
   ground.position.y = -7.0;
   scene.add(ground);
-  
-  const hazyBlackMaterial = new THREE.MeshBasicMaterial({
-    color: 0x222222, // 어두운 회색
-  });
 
-  const blackMaterial = new THREE.MeshBasicMaterial({
-    color: 0x111111, // 검정
-  });
-
-    const entireBlackMaterial = new THREE.MeshBasicMaterial({
-    color: 0x000000, // 검정
-  });
-
-  const lowerMaterials = [
-    hazyBlackMaterial, // right
-    blackMaterial, // left
-    entireBlackMaterial, // top (위쪽면)
-    blackMaterial,  // bottom
-    blackMaterial, // front
-    blackMaterial  // back
-  ];
-
-  const lowerBlockGeometry = new THREE.BoxGeometry(20, 0.7 * 2, 20);
+  const lowerMaterials = Array(6).fill(new THREE.MeshBasicMaterial({ color: 0x111111 }));
+  const lowerBlockGeometry = new THREE.BoxGeometry(
+    FLOOR_SIZE.width,
+    FLOOR_SIZE.height * 2,
+    FLOOR_SIZE.depth
+  );
   const lowerBlock = new THREE.Mesh(lowerBlockGeometry, lowerMaterials);
-  lowerBlock.position.y = ground.position.y - 2; // 아래로 붙이기
+  lowerBlock.position.y = ground.position.y - LOWER_BLOCK_OFFSET;
   scene.add(lowerBlock);
-
-  if (renderer) {
-    renderer.outputColorSpace = THREE.SRGBColorSpace;
-  }
 }

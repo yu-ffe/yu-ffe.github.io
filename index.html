@@ -1,44 +1,40 @@
 <!DOCTYPE html>
 <html lang="ko">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="YU__FFE의 개인 웹 페이지로, WebGL을 활용한 3D 그래픽을 표시합니다.">
-    <meta name="keywords" content="WebGL, Three.js, 3D Graphics, GLTF">
-    <meta name="author" content="YU__FFE">
-    <meta property="og:title" content="YU__FFE's Page">
-    <meta property="og:description" content="WebGL과 Three.js를 활용한 인터랙티브 3D 경험을 제공합니다.">
-    <meta property="og:type" content="website">
-    <meta property="og:url" content="https://yourwebsite.com">
-    <meta property="og:image" content="https://yourwebsite.com/preview-image.jpg">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="YU__FFE의 개인 웹 페이지로, WebGL을 활용한 3D 그래픽을 표시합니다."
+    />
+    <meta name="keywords" content="WebGL, Three.js, 3D Graphics, GLTF" />
+    <meta name="author" content="YU__FFE" />
+    <meta property="og:title" content="YU__FFE's Page" />
+    <meta
+      property="og:description"
+      content="WebGL과 Three.js를 활용한 인터랙티브 3D 경험을 제공합니다."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://yourwebsite.com" />
+    <meta property="og:image" content="https://yourwebsite.com/preview-image.jpg" />
     <title>YU__FFE's Page</title>
-    <link rel="stylesheet" href="styles.css">
-    <!-- <link rel="icon" href="favicon.ico" type="image/x-icon"> -->
-    <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
-</head>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml" />
 
-<body>
+    <script type="importmap">
+      {
+        "imports": {
+          "three": "https://cdn.jsdelivr.net/npm/three@0.177.0/build/three.module.js",
+          "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.177.0/examples/jsm/"
+        }
+      }
+    </script>
+  </head>
+  <body>
     <main>
-        <canvas id="webgl-canvas" aria-label="3D 렌더링 캔버스"></canvas>
+      <canvas id="webgl-canvas" aria-label="3D 렌더링 캔버스"></canvas>
     </main>
 
-    <!-- 라이브러리 로드 -->
-    <script type="importmap">
-        {
-            "imports": {
-                "three": "https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.module.js",
-                "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.152.2/examples/jsm/"
-            }
-        }
-        </script>
-        
-    <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/examples/js/loaders/GLTFLoader.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/examples/js/controls/OrbitControls.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/examples/js/libs/dat.gui.module.js"></script>
-
-    <!-- 스크립트 -->
-    <script type="module" src="scripts/main.js" defer></script>
-</body>
-
+    <script type="module" src="scripts/main.js"></script>
+  </body>
 </html>

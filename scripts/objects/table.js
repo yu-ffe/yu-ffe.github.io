@@ -1,26 +1,26 @@
 import * as THREE from "three";
 
-// 큐브형 테이블 생성 (상판 + 다리 4개)
+const TABLE_TOP = { size: [10, 1, 6], position: [0, -2, 0] };
+const TABLE_LEGS = [
+  { position: [-4.5, -4, -2.5] },
+  { position: [-4.5, -4, 2.5] },
+  { position: [4.5, -4, -2.5] },
+  { position: [4.5, -4, 2.5] },
+];
+
 export function createTable(scene) {
   const material = new THREE.MeshStandardMaterial({ color: 0x8b5a2b });
 
-  // 테이블 상판
-  const topGeometry = new THREE.BoxGeometry(10, 1, 6);
+  const topGeometry = new THREE.BoxGeometry(...TABLE_TOP.size);
   const top = new THREE.Mesh(topGeometry, material);
-  top.position.set(0, -2, 0);
+  top.position.set(...TABLE_TOP.position);
   scene.add(top);
 
-  // 다리 생성 함수
-  const createLeg = (x, z) => {
-    const legGeometry = new THREE.BoxGeometry(1, 5, 1);
-    const leg = new THREE.Mesh(legGeometry, material);
-    leg.position.set(x, -4, z);
-    scene.add(leg);
-  };
+  const legGeometry = new THREE.BoxGeometry(1, 5, 1);
 
-  // 다리 4개 배치
-  createLeg(-4.5, -2.5);
-  createLeg(-4.5,  2.5);
-  createLeg( 4.5, -2.5);
-  createLeg( 4.5,  2.5);
+  TABLE_LEGS.forEach(({ position }) => {
+    const leg = new THREE.Mesh(legGeometry, material);
+    leg.position.set(...position);
+    scene.add(leg);
+  });
 }
