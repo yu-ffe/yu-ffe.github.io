@@ -1,21 +1,28 @@
 import * as THREE from "three";
 
-// JSON 데이터를 불러와 블럭 생성
-export function loadBlocks(scene) {
-    fetch("./data/blocks.json")
-        .then(response => response.json())
-        .then(blocks => {
-            blocks.forEach(blockData => {
-                const { x, y, z, color } = blockData;
+const DEFAULT_BLOCK_URL = "data/blocks.json";
 
-                const geometry = new THREE.BoxGeometry(2, 2, 2);
-                const material = new THREE.MeshStandardMaterial({ color });
+export async function loadBlocks(scene, url = DEFAULT_BLOCK_URL) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch block data: ${response.status}`);
+    }
 
-                const block = new THREE.Mesh(geometry, material);
-                block.position.set(x, y, z);
+    const blocks = await response.json();
+    blocks.forEach((blockData) => {
+      const { x, y, z, color } = blockData;
+      const block = new THREE.Mesh(
+        new THREE.BoxGeometry(2, 2, 2),
+        new THREE.MeshStandardMaterial({ color })
+      );
 
-                scene.add(block);
-            });
-        })
-        .catch(error => console.error("블록 데이터를 불러오는 중 오류 발생:", error));
+      block.position.set(x, y, z);
+      block.castShadow = true;
+      block.receiveShadow = true;
+      scene.add(block);
+    });
+  } catch (error) {
+    console.error("[loadBlocks]", error);
+  }
 }

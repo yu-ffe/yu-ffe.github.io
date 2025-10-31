@@ -1,9 +1,6 @@
 import * as THREE from "three";
 
-export function setupLights(scene, renderer) {
-  renderer.shadowMap.enabled = true;
-  renderer.shadowMap.type = THREE.PCFSoftShadowMap;
-
+export function setupLights(scene) {
   addSunLight(scene);
   addLEDLight(scene);
   addLamp1(scene);
@@ -12,7 +9,6 @@ export function setupLights(scene, renderer) {
   addGlowingCube(scene);
 }
 
-// 🌞 오른쪽에서 왼쪽으로 비추는 태양광
 function addSunLight(scene) {
   const sunLight = new THREE.DirectionalLight(0xffffff, 0.7);
   sunLight.position.set(10, 10, -20);
@@ -29,7 +25,6 @@ function addSunLight(scene) {
   scene.add(sunLight.target);
 }
 
-// 📦 천장 LED
 function addLEDLight(scene) {
   const led = new THREE.RectAreaLight(0xddeeff, 1.5, 10, 10);
   led.position.set(0, 9, 0);
@@ -37,7 +32,6 @@ function addLEDLight(scene) {
   scene.add(led);
 }
 
-// 💡 램프 1 – 천장 전구 느낌 PointLight
 function addLamp1(scene) {
   const light = new THREE.PointLight(0xffccaa, 1.2, 10);
   light.position.set(9, -4, -8);
@@ -55,7 +49,6 @@ function addLamp1(scene) {
   scene.add(mesh);
 }
 
-// 💡 램프 2 – 스탠드형 SpotLight
 function addLamp2(scene) {
   const spot = new THREE.SpotLight(0xffaa55, 20, 15, Math.PI / 6, 0.3);
   spot.position.set(5, -1, -7);
@@ -71,7 +64,6 @@ function addLamp2(scene) {
   scene.add(stand);
 }
 
-// 🔦 랜턴 – PointLight + Mesh
 function addLantern(scene) {
   const light = new THREE.PointLight(0xff8800, 1.5, 10);
   light.position.set(-8, 1.2, -2);
@@ -89,7 +81,6 @@ function addLantern(scene) {
   scene.add(body);
 }
 
-// ✨ 기타 발광 큐브
 function addGlowingCube(scene) {
   const glowMat = new THREE.MeshStandardMaterial({
     color: 0x111111,

@@ -1,144 +1,105 @@
 import * as THREE from "three";
 import { CSG } from "../libs/esm/CSG.js";
+import { loadTextureSet } from "../utils/textureUtils.js";
+import { WALL_TEXTURES } from "../config/assets.js";
 
-export function createWalls(scene) {
-  const textureLoader = new THREE.TextureLoader();
+export function createWalls(scene, textures = WALL_TEXTURES) {
+  const textureSet = loadTextureSet(textures);
 
-  const colorTexture = textureLoader.load(
-    "../../image/Material/Wallpaper/Wallpaper001A_1K-PNG_Color.png"
-  );
-  const normalTexture = textureLoader.load(
-    "../../image/Material/Wallpaper/Wallpaper001A_1K-PNG_NormalGL.png"
-  );
-  const roughnessTexture = textureLoader.load(
-    "../../image/Material/Wallpaper/Wallpaper001A_1K-PNG_Roughness.png"
-  );
+  const createWallpaperMaterial = (baseColor) =>
+    new THREE.MeshStandardMaterial({
+      map: textureSet.color,
+      normalMap: textureSet.normal,
+      roughnessMap: textureSet.roughness,
+      roughness: 1.0,
+      side: THREE.DoubleSide,
+      color: baseColor,
+    });
 
-  colorTexture.colorSpace = THREE.SRGBColorSpace;
+  const solidMaterial = (color) =>
+    new THREE.MeshBasicMaterial({ color, side: THREE.DoubleSide });
 
-  [colorTexture, normalTexture, roughnessTexture].forEach((tex) => {
-    tex.wrapS = THREE.RepeatWrapping;
-    tex.wrapT = THREE.RepeatWrapping;
-    tex.repeat.set(4, 4);
-  });
-
-  const darkBrown = new THREE.Color(0x200f08); // 검정에 가까운 어두운 갈색
+  const darkBrown = new THREE.Color(0x200f08);
+  const accentBrown = new THREE.Color(0xaa8b66);
+  const neutralWhite = new THREE.Color(0xffffff);
 
   const leftWallMaterials = [
-    new THREE.MeshBasicMaterial({ color: darkBrown, side: THREE.DoubleSide }),
-    new THREE.MeshBasicMaterial({ color: darkBrown, side: THREE.DoubleSide }),
-    new THREE.MeshBasicMaterial({ color: darkBrown, side: THREE.DoubleSide }),
-    new THREE.MeshStandardMaterial({
-      map: colorTexture,
-      normalMap: normalTexture,
-      roughnessMap: roughnessTexture,
-      roughness: 1.0,
-      side: THREE.DoubleSide,
-      color: new THREE.Color(0xaa8b66),
-    }),
-    new THREE.MeshStandardMaterial({
-      map: colorTexture,
-      normalMap: normalTexture,
-      roughnessMap: roughnessTexture,
-      roughness: 1.0,
-      side: THREE.DoubleSide,
-      color: new THREE.Color(0xaa8b66),
-    }),
-    new THREE.MeshStandardMaterial({
-      map: colorTexture,
-      normalMap: normalTexture,
-      roughnessMap: roughnessTexture,
-      roughness: 1.0,
-      side: THREE.DoubleSide,
-      color: new THREE.Color(0xaa8b66),
-    }),
+    solidMaterial(darkBrown),
+    solidMaterial(darkBrown),
+    solidMaterial(darkBrown),
+    createWallpaperMaterial(accentBrown),
+    createWallpaperMaterial(accentBrown),
+    createWallpaperMaterial(accentBrown),
   ];
 
   const backWallMaterials = [
-    new THREE.MeshBasicMaterial({ color: darkBrown, side: THREE.DoubleSide }),
-    new THREE.MeshBasicMaterial({ 
-      map: colorTexture,
-      normalMap: normalTexture,
-      roughnessMap: roughnessTexture,
-      roughness: 1.0,
-      side: THREE.DoubleSide,
-      color: 0xffffff }),
-    new THREE.MeshBasicMaterial({ color: darkBrown, side: THREE.DoubleSide }),
-    new THREE.MeshStandardMaterial({
-      map: colorTexture,
-      normalMap: normalTexture,
-      roughnessMap: roughnessTexture,
-      roughness: 1.0,
-      side: THREE.DoubleSide,
-      color: new THREE.Color(0xffffff),
-    }),
-    new THREE.MeshStandardMaterial({
-      map: colorTexture,
-      normalMap: normalTexture,
-      roughnessMap: roughnessTexture,
-      roughness: 1.0,
-      side: THREE.DoubleSide,
-      color: new THREE.Color(0xaa8b66),
-    }),
-    new THREE.MeshStandardMaterial({
-      map: colorTexture,
-      normalMap: normalTexture,
-      roughnessMap: roughnessTexture,
-      roughness: 1.0,
-      side: THREE.DoubleSide,
-      color: new THREE.Color(0xaa8b66),
-    }),
+    solidMaterial(darkBrown),
+    createWallpaperMaterial(neutralWhite),
+    solidMaterial(darkBrown),
+    createWallpaperMaterial(neutralWhite),
+    createWallpaperMaterial(accentBrown),
+    createWallpaperMaterial(accentBrown),
   ];
 
-  const leftWallGeometry = new THREE.BoxGeometry(20, 14, 0.5);
-  const leftWall = new THREE.Mesh(leftWallGeometry, leftWallMaterials);
-  leftWall.position.set(-9.75, 5.35 - 5, 0);
+  const leftWall = new THREE.Mesh(
+    new THREE.BoxGeometry(20, 14, 0.5),
+    leftWallMaterials
+  );
+  leftWall.position.set(-9.75, 0.35, 0);
   leftWall.rotation.y = Math.PI / 2;
+  leftWall.receiveShadow = true;
   scene.add(leftWall);
 
-  const backWallGeometry = new THREE.BoxGeometry(20, 14, 0.5);
-  const backWallMesh = new THREE.Mesh(backWallGeometry, backWallMaterials);
-
-  const wallPos = new THREE.Vector3(0, 5.35 - 5, -9.75);
-  const wallRot = new THREE.Euler(0, 0, 0);
-
-  const windowHoleGeometry = new THREE.BoxGeometry(5, 5, 1);
-  const windowHoleMesh = new THREE.Mesh(windowHoleGeometry);
-
-  windowHoleMesh.position.set(-4, 1, 0);
-  windowHoleMesh.updateMatrix();
-  backWallMesh.updateMatrix();
-
-  const backWallCSG = CSG.fromMesh(backWallMesh);
-  const holeCSG = CSG.fromMesh(windowHoleMesh);
-  const subtractedCSG = backWallCSG.subtract(holeCSG);
-
-  const backWallWithHole = CSG.toMesh(
-    subtractedCSG,
-    backWallMesh.matrix,
+  const backWall = new THREE.Mesh(
+    new THREE.BoxGeometry(20, 14, 0.5),
     backWallMaterials
   );
+  backWall.position.set(0, 0.35, -9.75);
+  backWall.receiveShadow = true;
+  backWall.updateMatrix();
 
-  backWallWithHole.position.copy(wallPos);
-  backWallWithHole.rotation.copy(wallRot);
-  scene.add(backWallWithHole);
+  const wallWithWindow = carveWindow(backWall);
+  wallWithWindow.receiveShadow = true;
+  scene.add(wallWithWindow);
 
   const frameMaterial = new THREE.MeshStandardMaterial({
-    color: 0xffffff,
+    color: neutralWhite,
     metalness: 0.6,
     roughness: 0.3,
   });
 
+  buildWindowFrame(scene, frameMaterial);
+}
+
+function carveWindow(wallMesh) {
+  const wallCSG = CSG.fromMesh(wallMesh);
+
+  const windowHole = new THREE.Mesh(new THREE.BoxGeometry(5, 5, 1));
+  windowHole.position.set(-4, 1, 0);
+  windowHole.updateMatrix();
+
+  const result = wallCSG.subtract(CSG.fromMesh(windowHole));
+  const mesh = CSG.toMesh(result, wallMesh.matrix, wallMesh.material);
+  mesh.position.copy(wallMesh.position);
+  mesh.rotation.copy(wallMesh.rotation);
+  return mesh;
+}
+
+function buildWindowFrame(scene, material) {
   const frameDepth = 0.2;
   const frameWidth = 0.35;
 
-  const verticalFrameGeo = new THREE.BoxGeometry(frameWidth, 6, frameDepth);
-  const verticalFrame = new THREE.Mesh(verticalFrameGeo, frameMaterial);
+  const verticalFrame = new THREE.Mesh(
+    new THREE.BoxGeometry(frameWidth, 6, frameDepth),
+    material
+  );
   verticalFrame.position.set(-4, 1, -9.7);
   scene.add(verticalFrame);
 
-  const horizontalFrameGeo = new THREE.BoxGeometry(6, frameWidth, frameDepth);
-  const horizontalFrame = new THREE.Mesh(horizontalFrameGeo, frameMaterial);
+  const horizontalFrame = new THREE.Mesh(
+    new THREE.BoxGeometry(6, frameWidth, frameDepth),
+    material
+  );
   horizontalFrame.position.set(-4, 1.4, -9.7);
   scene.add(horizontalFrame);
 }

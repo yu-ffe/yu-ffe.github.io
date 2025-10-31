@@ -2,35 +2,47 @@ import * as THREE from "three";
 import { FontLoader } from "three/addons/loaders/FontLoader.js";
 import { TextGeometry } from "three/addons/geometries/TextGeometry.js";
 
-export function loadTexts(scene, camera) { // 🔹 camera 매개변수 추가
-    fetch("./data/texts.json")
-        .then(response => response.json())
-        .then(texts => {
-            const fontLoader = new FontLoader();
-            fontLoader.load("https://threejs.org/examples/fonts/helvetiker_regular.typeface.json", (font) => {
-                texts.forEach((textData) => {
-                    const { x, y, z, text, link } = textData;
+const DEFAULT_TEXT_URL = "data/texts.json";
+const FONT_URL = "https://threejs.org/examples/fonts/helvetiker_regular.typeface.json";
 
-                    // 텍스트 생성
-                    const textGeometry = new TextGeometry(text, {
-                        font: font,
-                        size: 0.4,
-                        height: 1
-                    });
+export async function loadTexts(scene, camera, url = DEFAULT_TEXT_URL) {
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Failed to fetch text data: ${response.status}`);
+    }
 
-                    textGeometry.center(); // 텍스트 중앙 정렬
-                    const textMaterial = new THREE.MeshBasicMaterial({ color: 0xffffff });
-                    const textMesh = new THREE.Mesh(textGeometry, textMaterial);
+    const texts = await response.json();
+    const font = await loadFont(FONT_URL);
 
-                    textMesh.position.set(x, y, z);
-                    textMesh.userData.link = link;
+    texts.forEach((textData) => {
+      const { x, y, z, text, link } = textData;
+      const textMesh = createTextMesh(font, text);
+      textMesh.position.set(x, y, z);
+      textMesh.userData.link = link;
+      textMesh.lookAt(camera.position);
+      scene.add(textMesh);
+    });
+  } catch (error) {
+    console.error("[loadTexts]", error);
+  }
+}
 
-                    // 🔹 항상 카메라를 향하도록 설정
-                    textMesh.lookAt(camera.position);
+function createTextMesh(font, text) {
+  const textGeometry = new TextGeometry(text, {
+    font,
+    size: 0.4,
+    height: 1,
+  });
 
-                    scene.add(textMesh);
-                });
-            });
-        })
-        .catch(error => console.error("텍스트 데이터를 불러오는 중 오류 발생:", error));
+  textGeometry.center();
+  const material = new THREE.MeshBasicMaterial({ color: 0xffffff });
+  return new THREE.Mesh(textGeometry, material);
+}
+
+function loadFont(url) {
+  return new Promise((resolve, reject) => {
+    const loader = new FontLoader();
+    loader.load(url, resolve, undefined, reject);
+  });
 }
