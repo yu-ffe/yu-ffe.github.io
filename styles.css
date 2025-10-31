@@ -5,34 +5,54 @@
     overflow: hidden; /* 스크롤 바 제거 */
 }
 
-
 html, body {
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
 }
 
 body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ffffff; /* PC에서 여백을 자연스럽게 흰색으로 표시 */
+}
+
+main {
+    width: 100%;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
     background: radial-gradient(circle, #8a8a8a, #2b2b2b);
 }
 
-@keyframes gradientAnimation {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-}
-
-img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-}
-
-
 canvas {
     display: block;
     width: 100%;
     height: 100%;
+}
+
+@media (min-width: 768px) {
+    body {
+        padding: 0 4vw;
+    }
+
+    main {
+        width: min(100%, 92vw);
+        max-width: 1100px;
+        height: 92vh;
+        border-radius: 24px;
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        padding: 0 8vw;
+    }
+
+    main {
+        width: min(100%, 1000px);
+        height: 90vh;
+    }
 }
