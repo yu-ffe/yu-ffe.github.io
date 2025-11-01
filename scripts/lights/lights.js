@@ -1,54 +1,48 @@
 import * as THREE from "three";
 
 export function setupLights(scene) {
-  addAmbient(scene);
-  addMoonLight(scene);
-  addChandelierLight(scene);
-  addShelfAccent(scene);
-  addRimLight(scene);
+  addAmbientGlow(scene);
+  addMoonlight(scene);
+  addWindowWash(scene);
+  addRimAccent(scene);
 }
 
-function addAmbient(scene) {
-  const ambient = new THREE.AmbientLight(0x1a2232, 0.65);
-  scene.add(ambient);
+function addAmbientGlow(scene) {
+  const hemi = new THREE.HemisphereLight(0xdcecff, 0x132335, 0.6);
+  scene.add(hemi);
 }
 
-function addMoonLight(scene) {
-  const moon = new THREE.DirectionalLight(0x5ed7ff, 0.55);
-  moon.position.set(-14, 18, 12);
-  moon.target.position.set(-2, -4, -1);
+function addMoonlight(scene) {
+  const moon = new THREE.DirectionalLight(0x9fcfff, 0.85);
+  moon.position.set(-32, 34, 22);
+  moon.target.position.set(-6, -4, -10);
   moon.castShadow = true;
-  moon.shadow.mapSize.set(1024, 1024);
-  moon.shadow.camera.near = 2;
-  moon.shadow.camera.far = 60;
-  moon.shadow.camera.left = -20;
-  moon.shadow.camera.right = 20;
-  moon.shadow.camera.top = 20;
-  moon.shadow.camera.bottom = -20;
+  moon.shadow.mapSize.set(2048, 2048);
+  moon.shadow.camera.near = 5;
+  moon.shadow.camera.far = 140;
+  moon.shadow.camera.left = -45;
+  moon.shadow.camera.right = 35;
+  moon.shadow.camera.top = 40;
+  moon.shadow.camera.bottom = -40;
   scene.add(moon);
   scene.add(moon.target);
 }
 
-function addChandelierLight(scene) {
-  const chandelier = new THREE.PointLight(0xffe6bd, 1.6, 28, 2);
-  chandelier.position.set(-0.5, 9.5, -1.2);
-  chandelier.castShadow = true;
-  chandelier.shadow.mapSize.set(1024, 1024);
-  scene.add(chandelier);
+function addWindowWash(scene) {
+  const windowLight = new THREE.PointLight(0x7cbcff, 0.9, 36, 1.8);
+  windowLight.position.set(-11.5, 1.2, -7.5);
+  scene.add(windowLight);
+
+  const frostFill = new THREE.SpotLight(0xbdd9ff, 0.45, 46, Math.PI / 3, 0.35, 1.4);
+  frostFill.position.set(18, 18, 24);
+  frostFill.target.position.set(0, -6, -2);
+  frostFill.castShadow = false;
+  scene.add(frostFill);
+  scene.add(frostFill.target);
 }
 
-function addShelfAccent(scene) {
-  const accent = new THREE.SpotLight(0x7ff2d3, 0.9, 22, Math.PI / 4.2, 0.45, 1);
-  accent.position.set(6.5, 10, -4.5);
-  accent.target.position.set(3.5, -4, -6);
-  accent.castShadow = true;
-  accent.shadow.mapSize.set(1024, 1024);
-  scene.add(accent);
-  scene.add(accent.target);
-}
-
-function addRimLight(scene) {
-  const rim = new THREE.PointLight(0x3cf6c8, 0.5, 25, 2);
-  rim.position.set(-6, -1, 8);
+function addRimAccent(scene) {
+  const rim = new THREE.PointLight(0xa7c8ff, 0.55, 42, 1.6);
+  rim.position.set(12, 4, 10);
   scene.add(rim);
 }
