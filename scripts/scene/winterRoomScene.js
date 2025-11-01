@@ -92,14 +92,14 @@ function createWalls(parent) {
     metalness: 0.18,
   });
 
-  const leftWall = new THREE.Mesh(
-    new THREE.BoxGeometry(WALL_THICKNESS, height, depth),
-    wallMaterial
-  );
-  leftWall.position.set(-width / 2 + WALL_THICKNESS / 2, floorLevel + height / 2, 0);
-  leftWall.castShadow = true;
-  leftWall.receiveShadow = true;
-  parent.add(leftWall);
+  const exitDetails = createLeftWallWithExit({
+    width,
+    depth,
+    height,
+    floorLevel,
+    material: wallMaterial,
+    parent,
+  });
 
   const backWall = new THREE.Mesh(
     new THREE.BoxGeometry(width, height, WALL_THICKNESS),
@@ -109,6 +109,14 @@ function createWalls(parent) {
   backWall.castShadow = true;
   backWall.receiveShadow = true;
   parent.add(backWall);
+
+  createExitStairs(parent, {
+    exitBottomY: exitDetails.exitBottomY,
+    exitCenterZ: exitDetails.exitCenterZ,
+    exitWidth: exitDetails.exitWidth,
+    floorLevel,
+    wallInnerX: exitDetails.wallInnerX,
+  });
 
   const baseboardHeight = 0.65;
   const baseboardDepth = 0.3;
@@ -134,6 +142,133 @@ function createWalls(parent) {
     -depth / 2 + baseboardDepth / 2
   );
   parent.add(backBaseboard);
+}
+
+function createLeftWallWithExit({
+  width,
+  depth,
+  height,
+  floorLevel,
+  material,
+  parent,
+}) {
+  const halfHeight = height / 2;
+  const halfDepth = depth / 2;
+
+  const exitOpening = Object.freeze({
+    width: 4.4,
+    height: 4.8,
+    ceilingOffset: 1.2,
+    frontInset: 1.6,
+  });
+
+  const wallShape = new THREE.Shape();
+  wallShape.moveTo(-halfDepth, -halfHeight);
+  wallShape.lineTo(halfDepth, -halfHeight);
+  wallShape.lineTo(halfDepth, halfHeight);
+  wallShape.lineTo(-halfDepth, halfHeight);
+  wallShape.closePath();
+
+  const exitCenterZ =
+    halfDepth - exitOpening.frontInset - exitOpening.width / 2;
+  const exitBottomRelative =
+    halfHeight - exitOpening.ceilingOffset - exitOpening.height;
+
+  const exitHole = new THREE.Path();
+  exitHole.moveTo(
+    exitCenterZ - exitOpening.width / 2,
+    exitBottomRelative
+  );
+  exitHole.lineTo(
+    exitCenterZ - exitOpening.width / 2,
+    exitBottomRelative + exitOpening.height
+  );
+  exitHole.lineTo(
+    exitCenterZ + exitOpening.width / 2,
+    exitBottomRelative + exitOpening.height
+  );
+  exitHole.lineTo(
+    exitCenterZ + exitOpening.width / 2,
+    exitBottomRelative
+  );
+  exitHole.closePath();
+
+  wallShape.holes.push(exitHole);
+
+  const geometry = new THREE.ExtrudeGeometry(wallShape, {
+    depth: WALL_THICKNESS,
+    bevelEnabled: false,
+  });
+  geometry.translate(0, 0, -WALL_THICKNESS / 2);
+  geometry.rotateY(-Math.PI / 2);
+
+  const leftWall = new THREE.Mesh(geometry, material);
+  leftWall.position.set(
+    -width / 2 + WALL_THICKNESS / 2,
+    floorLevel + halfHeight,
+    0
+  );
+  leftWall.castShadow = true;
+  leftWall.receiveShadow = true;
+  leftWall.name = "LeftWallWithExit";
+  parent.add(leftWall);
+
+  return {
+    exitBottomY: floorLevel + halfHeight + exitBottomRelative,
+    exitCenterZ,
+    exitWidth: exitOpening.width,
+    wallInnerX: -width / 2 + WALL_THICKNESS,
+  };
+}
+
+function createExitStairs(parent, { exitBottomY, exitCenterZ, exitWidth, floorLevel, wallInnerX }) {
+  const floorTopY = floorLevel;
+  const totalRise = exitBottomY - floorTopY;
+  const steps = 6;
+  const stepHeight = totalRise / steps;
+  const stepDepth = 1.35;
+  const stepWidth = exitWidth + 1.4;
+
+  const stairMaterial = new THREE.MeshStandardMaterial({
+    color: 0xc7d9eb,
+    roughness: 0.65,
+    metalness: 0.12,
+    emissive: new THREE.Color(0x13283d).multiplyScalar(0.05),
+  });
+
+  const stairsGroup = new THREE.Group();
+  stairsGroup.name = "ExitStairs";
+
+  const topStepX = wallInnerX + stepDepth / 2;
+
+  for (let i = 0; i < steps; i += 1) {
+    const stepGeometry = new THREE.BoxGeometry(stepDepth, stepHeight, stepWidth);
+    const step = new THREE.Mesh(stepGeometry, stairMaterial);
+    step.castShadow = true;
+    step.receiveShadow = true;
+
+    const x = topStepX + (steps - 1 - i) * stepDepth;
+    const y = floorTopY + stepHeight * (i + 0.5);
+    step.position.set(x, y, exitCenterZ);
+    stairsGroup.add(step);
+  }
+
+  const landingDepth = stepDepth * 0.9;
+  const landingHeight = stepHeight * 0.9;
+  const landing = new THREE.Mesh(
+    new THREE.BoxGeometry(landingDepth, landingHeight, exitWidth + 0.6),
+    stairMaterial
+  );
+  landing.castShadow = true;
+  landing.receiveShadow = true;
+  landing.position.set(
+    wallInnerX - landingDepth / 2,
+    exitBottomY - landingHeight / 2,
+    exitCenterZ
+  );
+  stairsGroup.add(landing);
+
+  parent.add(stairsGroup);
 }
 
 function createCeilingCove(parent) {
