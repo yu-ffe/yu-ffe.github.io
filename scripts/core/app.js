@@ -17,7 +17,7 @@ export class ThreeApp {
     this.camera = createOrthographicCamera();
     this.renderer = createRenderer(this.canvas);
 
-    this.resizeHandler = createResizeHandler(this.camera, this.renderer);
+    this.resizeHandler = createResizeHandler(this.canvas, this.camera, this.renderer);
     this.resizeHandler();
     window.addEventListener("resize", this.resizeHandler);
   }
@@ -34,6 +34,9 @@ export class ThreeApp {
   dispose() {
     this.renderer.setAnimationLoop(null);
     window.removeEventListener("resize", this.resizeHandler);
+    if (typeof this.resizeHandler.dispose === "function") {
+      this.resizeHandler.dispose();
+    }
     this.renderer.dispose();
   }
 }
