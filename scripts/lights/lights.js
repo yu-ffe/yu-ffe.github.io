@@ -5,6 +5,7 @@ export function setupLights(scene) {
   addMoonLight(scene);
   addChandelierLight(scene);
   addShelfAccent(scene);
+  addDividerGlow(scene);
   addRimLight(scene);
 }
 
@@ -39,12 +40,22 @@ function addChandelierLight(scene) {
 
 function addShelfAccent(scene) {
   const accent = new THREE.SpotLight(0x7ff2d3, 0.9, 22, Math.PI / 4.2, 0.45, 1);
-  accent.position.set(6.5, 10, -4.5);
-  accent.target.position.set(3.5, -4, -6);
+  accent.position.set(5.8, 9.4, -5.2);
+  accent.target.position.set(3.2, -3.5, -7);
   accent.castShadow = true;
   accent.shadow.mapSize.set(1024, 1024);
   scene.add(accent);
   scene.add(accent.target);
+}
+
+function addDividerGlow(scene) {
+  const dividerLight = new THREE.SpotLight(0x8ff4d2, 0.6, 18, Math.PI / 5.2, 0.65, 1.2);
+  dividerLight.position.set(-8, 8.5, -5.2);
+  dividerLight.target.position.set(-4.2, -2.5, -4.6);
+  dividerLight.castShadow = true;
+  dividerLight.shadow.mapSize.set(1024, 1024);
+  scene.add(dividerLight);
+  scene.add(dividerLight.target);
 }
 
 function addRimLight(scene) {
