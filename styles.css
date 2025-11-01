@@ -18,6 +18,11 @@ body {
     background: radial-gradient(circle, #8a8a8a, #2b2b2b);
 }
 
+main {
+    width: 100vw;
+    height: 100vh;
+}
+
 @keyframes gradientAnimation {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }

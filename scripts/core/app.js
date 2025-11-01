@@ -4,6 +4,14 @@ import { createOrthographicCamera } from "./camera.js";
 import { createRenderer } from "./renderer.js";
 import { createResizeHandler } from "./resizeHandler.js";
 
+function getCanvasDimensions(canvas) {
+  const fallbackWidth = typeof window !== "undefined" ? window.innerWidth : 1;
+  const fallbackHeight = typeof window !== "undefined" ? window.innerHeight : 1;
+  const width = canvas?.clientWidth || fallbackWidth;
+  const height = canvas?.clientHeight || fallbackHeight;
+  return { width, height };
+}
+
 export class ThreeApp {
   constructor({ canvas }) {
     if (!canvas) {
@@ -14,10 +22,12 @@ export class ThreeApp {
     this.scene = new THREE.Scene();
     this.scene.background = new THREE.Color(BACKGROUND_COLOR);
 
-    this.camera = createOrthographicCamera();
-    this.renderer = createRenderer(this.canvas);
+    const initialDimensions = getCanvasDimensions(this.canvas);
 
-    this.resizeHandler = createResizeHandler(this.camera, this.renderer);
+    this.camera = createOrthographicCamera(initialDimensions);
+    this.renderer = createRenderer(this.canvas, initialDimensions);
+
+    this.resizeHandler = createResizeHandler(this.camera, this.renderer, this.canvas);
     this.resizeHandler();
     window.addEventListener("resize", this.resizeHandler);
   }
