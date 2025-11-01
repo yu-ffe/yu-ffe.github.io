@@ -6,11 +6,15 @@ export function createResizeHandler(camera, renderer) {
     const height = window.innerHeight;
     const aspect = width / height;
 
-    camera.left = (FRUSTUM_SIZE * aspect) / -2;
-    camera.right = (FRUSTUM_SIZE * aspect) / 2;
-    camera.top = FRUSTUM_SIZE / 2;
-    camera.bottom = FRUSTUM_SIZE / -2;
-    camera.zoom = aspect < 1 ? 0.6 : 1.0;
+    if (camera.isPerspectiveCamera) {
+      camera.aspect = aspect;
+    } else {
+      camera.left = (FRUSTUM_SIZE * aspect) / -2;
+      camera.right = (FRUSTUM_SIZE * aspect) / 2;
+      camera.top = FRUSTUM_SIZE / 2;
+      camera.bottom = FRUSTUM_SIZE / -2;
+      camera.zoom = aspect < 1 ? 0.6 : 1.0;
+    }
     camera.updateProjectionMatrix();
 
     renderer.setSize(width, height);
