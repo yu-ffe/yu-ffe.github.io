@@ -1,4 +1,5 @@
 import * as THREE from "three";
+import { CSG } from "../libs/esm/CSG.js";
 
 const ROOM_SIZE = Object.freeze({
   width: 26,
@@ -10,6 +11,15 @@ const ROOM_SIZE = Object.freeze({
 const WALL_THICKNESS = 0.6;
 const FLOOR_THICKNESS = 0.9;
 const BASE_OFFSET = 2.2;
+const FRONT_OPEN_OFFSET = 6;
+
+const WINDOW_CONFIG = Object.freeze({
+  width: 9.5,
+  height: 7,
+  sillHeight: 3.5,
+  frameThickness: 0.35,
+  depthOffset: -7,
+});
 
 export function initializeWinterRoomScene(scene) {
   const roomGroup = new THREE.Group();
@@ -19,6 +29,7 @@ export function initializeWinterRoomScene(scene) {
   createFloor(roomGroup);
   createWalls(roomGroup);
   createCeilingCove(roomGroup);
+  createFrontFrame(roomGroup);
   createWindow(roomGroup);
 
   scene.add(roomGroup);
@@ -92,14 +103,50 @@ function createWalls(parent) {
     metalness: 0.18,
   });
 
+  const sideWallDepth = depth - FRONT_OPEN_OFFSET;
+
   const leftWall = new THREE.Mesh(
-    new THREE.BoxGeometry(WALL_THICKNESS, height, depth),
+    new THREE.BoxGeometry(WALL_THICKNESS, height, sideWallDepth),
     wallMaterial
   );
-  leftWall.position.set(-width / 2 + WALL_THICKNESS / 2, floorLevel + height / 2, 0);
+  leftWall.position.set(
+    -width / 2 + WALL_THICKNESS / 2,
+    floorLevel + height / 2,
+    -FRONT_OPEN_OFFSET / 2
+  );
   leftWall.castShadow = true;
   leftWall.receiveShadow = true;
   parent.add(leftWall);
+
+  const rightWall = new THREE.Mesh(
+    new THREE.BoxGeometry(WALL_THICKNESS, height, sideWallDepth),
+    wallMaterial
+  );
+  rightWall.position.set(
+    width / 2 - WALL_THICKNESS / 2,
+    floorLevel + height / 2,
+    -FRONT_OPEN_OFFSET / 2
+  );
+  rightWall.updateMatrix();
+
+  const windowOpening = new THREE.Mesh(
+    new THREE.BoxGeometry(WALL_THICKNESS + 0.12, WINDOW_CONFIG.height + 0.6, WINDOW_CONFIG.width + 0.6)
+  );
+  windowOpening.position.set(
+    width / 2 - WALL_THICKNESS / 2 + 0.01,
+    floorLevel + WINDOW_CONFIG.sillHeight + WINDOW_CONFIG.height / 2,
+    WINDOW_CONFIG.depthOffset
+  );
+  windowOpening.updateMatrix();
+
+  const rightWallWithWindow = CSG.toMesh(
+    CSG.fromMesh(rightWall).subtract(CSG.fromMesh(windowOpening)),
+    rightWall.matrix,
+    wallMaterial
+  );
+  rightWallWithWindow.castShadow = true;
+  rightWallWithWindow.receiveShadow = true;
+  parent.add(rightWallWithWindow);
 
   const backWall = new THREE.Mesh(
     new THREE.BoxGeometry(width, height, WALL_THICKNESS),
@@ -114,13 +161,13 @@ function createWalls(parent) {
   const baseboardDepth = 0.3;
 
   const leftBaseboard = new THREE.Mesh(
-    new THREE.BoxGeometry(baseboardDepth, baseboardHeight, depth),
+    new THREE.BoxGeometry(baseboardDepth, baseboardHeight, sideWallDepth - 0.6),
     accentMaterial
   );
   leftBaseboard.position.set(
     -width / 2 + baseboardDepth / 2,
     floorLevel + baseboardHeight / 2,
-    0
+    -FRONT_OPEN_OFFSET / 2
   );
   parent.add(leftBaseboard);
 
@@ -134,6 +181,17 @@ function createWalls(parent) {
     -depth / 2 + baseboardDepth / 2
   );
   parent.add(backBaseboard);
+
+  const rightBaseboard = new THREE.Mesh(
+    new THREE.BoxGeometry(baseboardDepth, baseboardHeight, sideWallDepth - 0.6),
+    accentMaterial
+  );
+  rightBaseboard.position.set(
+    width / 2 - baseboardDepth / 2,
+    floorLevel + baseboardHeight / 2,
+    -FRONT_OPEN_OFFSET / 2
+  );
+  parent.add(rightBaseboard);
 }
 
 function createCeilingCove(parent) {
@@ -170,17 +228,63 @@ function createCeilingCove(parent) {
   parent.add(backCove);
 }
 
-function createWindow(parent) {
-  const { width, floorLevel, depth } = ROOM_SIZE;
+function createFrontFrame(parent) {
+  const { width, depth, height, floorLevel } = ROOM_SIZE;
+  const postRadius = 0.45;
+  const postBottom = floorLevel + 0.2;
+  const postTop = floorLevel + height - 0.5;
+  const postTotalHeight = postTop - postBottom;
+  const postCylinderLength = Math.max(postTotalHeight - postRadius * 2, 0.1);
+  const postCenterY = (postTop + postBottom) / 2;
+  const sideWallDepth = depth - FRONT_OPEN_OFFSET;
+  const frontZ = -FRONT_OPEN_OFFSET / 2 + sideWallDepth / 2 - postRadius * 0.1;
 
-  const windowWidth = 9.5;
-  const windowHeight = 7;
-  const sillHeight = 3.5;
-  const frameThickness = 0.35;
+  const frameMaterial = new THREE.MeshStandardMaterial({
+    color: 0xb9d1ed,
+    roughness: 0.55,
+    metalness: 0.22,
+  });
+
+  const leftPost = new THREE.Mesh(
+    new THREE.CapsuleGeometry(postRadius, postCylinderLength, 8, 16),
+    frameMaterial
+  );
+  leftPost.position.set(
+    -width / 2 + WALL_THICKNESS + postRadius * 0.6,
+    postCenterY,
+    frontZ
+  );
+  leftPost.castShadow = true;
+  leftPost.receiveShadow = true;
+  parent.add(leftPost);
+
+  const rightPost = leftPost.clone();
+  rightPost.position.x = width / 2 - WALL_THICKNESS - postRadius * 0.6;
+  parent.add(rightPost);
+
+  const headerRadius = 0.35;
+  const headerSpan = width - 2 * (WALL_THICKNESS + postRadius * 0.6);
+  const headerCylinderLength = Math.max(headerSpan - headerRadius * 2, 0.1);
+
+  const header = new THREE.Mesh(
+    new THREE.CapsuleGeometry(headerRadius, headerCylinderLength, 6, 16),
+    frameMaterial
+  );
+  header.rotation.z = Math.PI / 2;
+  header.position.set(0, postTop - headerRadius * 0.2, frontZ);
+  header.castShadow = true;
+  header.receiveShadow = true;
+  parent.add(header);
+}
+
+function createWindow(parent) {
+  const { width, floorLevel } = ROOM_SIZE;
+  const { width: windowWidth, height: windowHeight, sillHeight, frameThickness, depthOffset } =
+    WINDOW_CONFIG;
 
   const windowGroup = new THREE.Group();
-  windowGroup.position.set(-width / 2 + WALL_THICKNESS / 2 + 0.01, 0, -depth / 3);
-  windowGroup.rotation.y = Math.PI / 2;
+  windowGroup.position.set(width / 2 - WALL_THICKNESS / 2 - 0.01, 0, depthOffset);
+  windowGroup.rotation.y = -Math.PI / 2;
 
   const frameMaterial = new THREE.MeshStandardMaterial({
     color: 0xa3c5e6,

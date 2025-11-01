@@ -4,7 +4,6 @@ export function setupLights(scene) {
   addAmbientGlow(scene);
   addMoonlight(scene);
   addWindowWash(scene);
-  addRimAccent(scene);
 }
 
 function addAmbientGlow(scene) {
@@ -41,8 +40,3 @@ function addWindowWash(scene) {
   scene.add(frostFill.target);
 }
 
-function addRimAccent(scene) {
-  const rim = new THREE.PointLight(0xa7c8ff, 0.55, 42, 1.6);
-  rim.position.set(12, 4, 10);
-  scene.add(rim);
-}
