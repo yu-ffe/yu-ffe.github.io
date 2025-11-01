@@ -2,53 +2,53 @@ import * as THREE from "three";
 
 export function setupLights(scene) {
   addAmbient(scene);
-  addMoonLight(scene);
-  addChandelierLight(scene);
-  addShelfAccent(scene);
-  addRimLight(scene);
+  addWindowLight(scene);
+  addFireplaceLight(scene);
+  addAccentFill(scene);
 }
 
 function addAmbient(scene) {
-  const ambient = new THREE.AmbientLight(0x1a2232, 0.65);
+  const ambient = new THREE.AmbientLight(0x1a2736, 0.55);
   scene.add(ambient);
 }
 
-function addMoonLight(scene) {
-  const moon = new THREE.DirectionalLight(0x5ed7ff, 0.55);
-  moon.position.set(-14, 18, 12);
-  moon.target.position.set(-2, -4, -1);
-  moon.castShadow = true;
-  moon.shadow.mapSize.set(1024, 1024);
-  moon.shadow.camera.near = 2;
-  moon.shadow.camera.far = 60;
-  moon.shadow.camera.left = -20;
-  moon.shadow.camera.right = 20;
-  moon.shadow.camera.top = 20;
-  moon.shadow.camera.bottom = -20;
-  scene.add(moon);
-  scene.add(moon.target);
+function addWindowLight(scene) {
+  const windowLight = new THREE.DirectionalLight(0x8dc7ff, 0.8);
+  windowLight.position.set(-22, 18, 8);
+  windowLight.target.position.set(-6, -4, -2);
+  windowLight.castShadow = true;
+  windowLight.shadow.mapSize.set(2048, 2048);
+  windowLight.shadow.camera.near = 4;
+  windowLight.shadow.camera.far = 80;
+  windowLight.shadow.camera.left = -24;
+  windowLight.shadow.camera.right = 16;
+  windowLight.shadow.camera.top = 22;
+  windowLight.shadow.camera.bottom = -18;
+  scene.add(windowLight);
+  scene.add(windowLight.target);
 }
 
-function addChandelierLight(scene) {
-  const chandelier = new THREE.PointLight(0xffe6bd, 1.6, 28, 2);
-  chandelier.position.set(-0.5, 9.5, -1.2);
-  chandelier.castShadow = true;
-  chandelier.shadow.mapSize.set(1024, 1024);
-  scene.add(chandelier);
+function addFireplaceLight(scene) {
+  const glow = new THREE.PointLight(0xffb56b, 1.4, 20, 1.8);
+  glow.position.set(2.2, 2.6, -6.5);
+  glow.castShadow = true;
+  glow.shadow.mapSize.set(1024, 1024);
+  scene.add(glow);
+
+  const mantleGlow = new THREE.SpotLight(0xfdd6a3, 0.5, 30, Math.PI / 3.2, 0.35, 1.5);
+  mantleGlow.position.set(2.4, 7.5, -7.2);
+  mantleGlow.target.position.set(2.2, 4.2, -6.8);
+  mantleGlow.castShadow = true;
+  scene.add(mantleGlow);
+  scene.add(mantleGlow.target);
 }
 
-function addShelfAccent(scene) {
-  const accent = new THREE.SpotLight(0x7ff2d3, 0.9, 22, Math.PI / 4.2, 0.45, 1);
-  accent.position.set(6.5, 10, -4.5);
-  accent.target.position.set(3.5, -4, -6);
-  accent.castShadow = true;
-  accent.shadow.mapSize.set(1024, 1024);
-  scene.add(accent);
-  scene.add(accent.target);
-}
+function addAccentFill(scene) {
+  const fill = new THREE.PointLight(0x52d6b7, 0.45, 28, 2.2);
+  fill.position.set(-10, 3.2, 4.8);
+  scene.add(fill);
 
-function addRimLight(scene) {
-  const rim = new THREE.PointLight(0x3cf6c8, 0.5, 25, 2);
-  rim.position.set(-6, -1, 8);
+  const rim = new THREE.PointLight(0x2f88ff, 0.35, 32, 2);
+  rim.position.set(10, 9, 10);
   scene.add(rim);
 }
