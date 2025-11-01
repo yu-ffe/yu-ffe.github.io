@@ -1,29 +1,41 @@
 import { ThreeApp } from "./core/app.js";
 import { registerClickHandler } from "./events/clickEvents.js";
-import { createFloor } from "./objects/floor.js";
-import { createWalls } from "./objects/walls.js";
-import { createSurfaceFinishCubes } from "./objects/surfaceFinish.js";
-import { loadBlocks } from "./objects/blockManager.js";
-import { loadTexts } from "./objects/textManager.js";
-import { createTable } from "./objects/table.js";
-import { addImagePlanes } from "./objects/imagePlanes.js";
 import { setupLights } from "./lights/lights.js";
+import {
+  createCornerShell,
+  createCarpet,
+  createPictureFrames,
+  createBookshelf,
+  createFloatingShelves,
+  createAccentTable,
+  createChandelier,
+} from "./objects/cornerScene.js";
+import { loadFurnitureModels } from "./objects/furnitureLoader.js";
 
 const canvas = document.getElementById("webgl-canvas");
 const app = new ThreeApp({ canvas });
 const { scene, camera } = app;
 
-setupLights(scene);
-createFloor(scene);
-createWalls(scene);
-createSurfaceFinishCubes(scene);
-createTable(scene);
-addImagePlanes(scene);
+async function init() {
+  setupLights(scene);
 
-registerClickHandler(camera, scene);
+  createCornerShell(scene);
+  createCarpet(scene);
+  createPictureFrames(scene);
+  createBookshelf(scene);
+  createFloatingShelves(scene);
+  createAccentTable(scene);
+  createChandelier(scene);
 
-// Promise.all([loadBlocks(scene), loadTexts(scene, camera)]).catch((error) => {
-//   console.error("Asset loading failed:", error);
-// });
+  registerClickHandler(camera, scene);
 
-app.start();
+  try {
+    await loadFurnitureModels(scene);
+  } catch (error) {
+    console.error("Failed to load remote furniture assets:", error);
+  }
+
+  app.start();
+}
+
+init();
