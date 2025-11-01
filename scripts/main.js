@@ -4,10 +4,11 @@ import { setupLights } from "./lights/lights.js";
 import {
   createCornerShell,
   createCarpet,
+  createBranchShadow,
   createPictureFrames,
   createBookshelf,
   createFloatingShelves,
-  createAccentTable,
+  createAccentTables,
   createChandelier,
 } from "./objects/cornerScene.js";
 import { loadFurnitureModels } from "./objects/furnitureLoader.js";
@@ -21,10 +22,11 @@ async function init() {
 
   createCornerShell(scene);
   createCarpet(scene);
+  createBranchShadow(scene);
   createPictureFrames(scene);
   createBookshelf(scene);
   createFloatingShelves(scene);
-  createAccentTable(scene);
+  createAccentTables(scene);
   createChandelier(scene);
 
   registerClickHandler(camera, scene);

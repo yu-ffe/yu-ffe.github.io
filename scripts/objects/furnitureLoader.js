@@ -34,18 +34,18 @@ export async function loadFurnitureModels(scene) {
 
   const placements = [
     {
-      position: new THREE.Vector3(-3.4, 0, 1.8),
-      rotation: Math.PI / 4,
+      position: new THREE.Vector3(-4.2, 0, 0.8),
+      rotation: Math.PI / 5,
       color: 0xff4f6a,
     },
     {
-      position: new THREE.Vector3(0.2, 0, 3.4),
-      rotation: -Math.PI / 2.6,
+      position: new THREE.Vector3(-0.4, 0, -1.6),
+      rotation: Math.PI,
       color: 0xff5d79,
     },
     {
-      position: new THREE.Vector3(-1.1, 0, -0.6),
-      rotation: Math.PI / 6,
+      position: new THREE.Vector3(2.6, 0, 0.9),
+      rotation: -Math.PI / 1.7,
       color: 0xff4f6a,
     },
   ];

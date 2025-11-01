@@ -1,6 +1,6 @@
 import * as THREE from "three";
 import { BACKGROUND_COLOR } from "../config/constants.js";
-import { createOrthographicCamera } from "./camera.js";
+import { createPerspectiveCamera } from "./camera.js";
 import { createRenderer } from "./renderer.js";
 import { createResizeHandler } from "./resizeHandler.js";
 
@@ -14,7 +14,7 @@ export class ThreeApp {
     this.scene = new THREE.Scene();
     this.scene.background = new THREE.Color(BACKGROUND_COLOR);
 
-    this.camera = createOrthographicCamera();
+    this.camera = createPerspectiveCamera();
     this.renderer = createRenderer(this.canvas);
 
     this.resizeHandler = createResizeHandler(this.camera, this.renderer);
