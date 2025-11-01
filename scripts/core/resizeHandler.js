@@ -1,10 +1,18 @@
 import { FRUSTUM_SIZE } from "../config/constants.js";
+import { updateRendererSize } from "./renderer.js";
 
-export function createResizeHandler(camera, renderer) {
+function getAspectRatio(canvas) {
+  const fallbackWidth = window.innerWidth;
+  const fallbackHeight = window.innerHeight || 1;
+  const width = canvas?.clientWidth || fallbackWidth;
+  const height = canvas?.clientHeight || fallbackHeight;
+  const safeHeight = height === 0 ? 1 : height;
+  return Math.max(width, 1) / safeHeight;
+}
+
+export function createResizeHandler(camera, renderer, canvas) {
   return function handleResize() {
-    const width = window.innerWidth;
-    const height = window.innerHeight;
-    const aspect = width / height;
+    const aspect = getAspectRatio(canvas);
 
     camera.left = (FRUSTUM_SIZE * aspect) / -2;
     camera.right = (FRUSTUM_SIZE * aspect) / 2;
@@ -13,6 +21,6 @@ export function createResizeHandler(camera, renderer) {
     camera.zoom = aspect < 1 ? 0.6 : 1.0;
     camera.updateProjectionMatrix();
 
-    renderer.setSize(width, height);
+    updateRendererSize(renderer, canvas);
   };
 }

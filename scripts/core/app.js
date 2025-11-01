@@ -14,10 +14,13 @@ export class ThreeApp {
     this.scene = new THREE.Scene();
     this.scene.background = new THREE.Color(BACKGROUND_COLOR);
 
-    this.camera = createOrthographicCamera();
+    const { clientWidth, clientHeight } = this.canvas;
+    const aspect = clientHeight === 0 ? 1 : Math.max(clientWidth, 1) / clientHeight;
+
+    this.camera = createOrthographicCamera(aspect);
     this.renderer = createRenderer(this.canvas);
 
-    this.resizeHandler = createResizeHandler(this.camera, this.renderer);
+    this.resizeHandler = createResizeHandler(this.camera, this.renderer, this.canvas);
     this.resizeHandler();
     window.addEventListener("resize", this.resizeHandler);
   }
