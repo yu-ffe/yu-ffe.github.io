@@ -1,20 +1,22 @@
 import * as THREE from "three";
 import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
+const CORNER_RADIUS = 1.2;
+
 export function addWalls(parent) {
   const { width, depth, height, floorLevel } = ROOM_SIZE;
 
   const wallMaterial = new THREE.MeshStandardMaterial({
-    color: 0xf2f7fc,
-    roughness: 0.78,
-    metalness: 0.12,
-    emissive: new THREE.Color(0x13283d).multiplyScalar(0.08),
+    color: 0xe9f1ff,
+    roughness: 0.7,
+    metalness: 0.06,
+    emissive: new THREE.Color(0x1c2737).multiplyScalar(0.06),
   });
 
   const accentMaterial = new THREE.MeshStandardMaterial({
-    color: 0xbdd7f4,
-    roughness: 0.7,
-    metalness: 0.18,
+    color: 0xf7d9b9,
+    roughness: 0.55,
+    metalness: 0.12,
   });
 
   const { mesh: leftWall, holeMetrics } = createLeftWallWithEscapeExit({
@@ -28,7 +30,12 @@ export function addWalls(parent) {
   const holeBottomWorldY = floorLevel + height / 2 + holeMetrics.bottom;
 
   const backWall = new THREE.Mesh(
-    new THREE.BoxGeometry(width, height, WALL_THICKNESS),
+    createRoundedPanelGeometry({
+      width,
+      height,
+      depth: WALL_THICKNESS,
+      radius: CORNER_RADIUS,
+    }),
     wallMaterial
   );
   backWall.position.set(0, floorLevel + height / 2, -depth / 2 + WALL_THICKNESS / 2);
@@ -61,6 +68,20 @@ export function addWalls(parent) {
   );
   parent.add(backBaseboard);
 
+  const cornerCove = new THREE.Mesh(
+    new THREE.CylinderGeometry(CORNER_RADIUS, CORNER_RADIUS, height, 32, 1, true, 0, Math.PI / 2),
+    wallMaterial
+  );
+  cornerCove.position.set(
+    -width / 2 + CORNER_RADIUS,
+    floorLevel + height / 2,
+    -depth / 2 + CORNER_RADIUS
+  );
+  cornerCove.rotation.y = Math.PI / 2;
+  cornerCove.castShadow = true;
+  cornerCove.receiveShadow = true;
+  parent.add(cornerCove);
+
   return {
     stairsConfig: {
       floorLevel,
@@ -81,12 +102,11 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
     frontMargin: 1.1,
   };
 
-  const wallShape = new THREE.Shape();
-  wallShape.moveTo(-halfDepth, -height / 2);
-  wallShape.lineTo(halfDepth, -height / 2);
-  wallShape.lineTo(halfDepth, height / 2);
-  wallShape.lineTo(-halfDepth, height / 2);
-  wallShape.lineTo(-halfDepth, -height / 2);
+  const wallShape = createRoundedRectShape({
+    width: depth,
+    height,
+    radius: CORNER_RADIUS,
+  });
 
   const holeTop = height / 2 - escapeHole.topMargin;
   const holeBottom = holeTop - escapeHole.height;
@@ -121,4 +141,35 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
       width: escapeHole.width,
     },
   };
+}
+
+function createRoundedPanelGeometry({ width, height, depth, radius }) {
+  const panelShape = createRoundedRectShape({ width, height, radius });
+  const geometry = new THREE.ExtrudeGeometry(panelShape, {
+    depth,
+    bevelEnabled: false,
+    steps: 1,
+  });
+  geometry.center();
+  return geometry;
+}
+
+function createRoundedRectShape({ width, height, radius }) {
+  const halfWidth = width / 2;
+  const halfHeight = height / 2;
+  const clampedRadius = Math.min(radius, halfWidth, halfHeight);
+
+  const shape = new THREE.Shape();
+  shape.moveTo(-halfWidth + clampedRadius, -halfHeight);
+  shape.lineTo(halfWidth - clampedRadius, -halfHeight);
+  shape.quadraticCurveTo(halfWidth, -halfHeight, halfWidth, -halfHeight + clampedRadius);
+  shape.lineTo(halfWidth, halfHeight - clampedRadius);
+  shape.quadraticCurveTo(halfWidth, halfHeight, halfWidth - clampedRadius, halfHeight);
+  shape.lineTo(-halfWidth + clampedRadius, halfHeight);
+  shape.quadraticCurveTo(-halfWidth, halfHeight, -halfWidth, halfHeight - clampedRadius);
+  shape.lineTo(-halfWidth, -halfHeight + clampedRadius);
+  shape.quadraticCurveTo(-halfWidth, -halfHeight, -halfWidth + clampedRadius, -halfHeight);
+  shape.closePath();
+
+  return shape;
 }

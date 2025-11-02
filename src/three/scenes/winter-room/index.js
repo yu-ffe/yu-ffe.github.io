@@ -6,6 +6,7 @@ import { addWalls } from "./components/walls.js";
 import { addCeilingCove } from "./components/ceilingCove.js";
 import { addWindow } from "./components/window.js";
 import { addEscapeStairs } from "./components/stairs.js";
+import { addDecor } from "./components/decor.js";
 
 export function initializeWinterRoomScene(scene) {
   const roomGroup = new THREE.Group();
@@ -17,6 +18,7 @@ export function initializeWinterRoomScene(scene) {
   addCeilingCove(roomGroup);
   addWindow(roomGroup);
   addEscapeStairs(roomGroup, stairsConfig);
+  addDecor(roomGroup);
 
   scene.add(roomGroup);
   scene.fog = new THREE.Fog(FOG_COLOR, FOG_NEAR, FOG_FAR);
