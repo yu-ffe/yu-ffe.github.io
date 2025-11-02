@@ -1,4 +1,4 @@
-import { FRUSTUM_SIZE } from "../config/constants.js";
+import { FRUSTUM_SIZE } from "../constants/environment.js";
 
 export function createResizeHandler(camera, renderer) {
   return function handleResize() {

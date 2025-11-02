@@ -1,8 +1,8 @@
 import * as THREE from "three";
-import { BACKGROUND_COLOR } from "../config/constants.js";
-import { createOrthographicCamera } from "./camera.js";
-import { createRenderer } from "./renderer.js";
-import { createResizeHandler } from "./resizeHandler.js";
+import { BACKGROUND_COLOR } from "../constants/environment.js";
+import { createOrthographicCamera } from "./createCamera.js";
+import { createRenderer } from "./createRenderer.js";
+import { createResizeHandler } from "./createResizeHandler.js";
 
 export class ThreeApp {
   constructor({ canvas }) {

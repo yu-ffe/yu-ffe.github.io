@@ -1,5 +1,5 @@
 import { useEffect, useRef } from 'react';
-import { createThreeExperience } from '../three/main.js';
+import { createThreeExperience } from '../three/index.js';
 
 function ThreeCanvas() {
   const canvasRef = useRef(null);

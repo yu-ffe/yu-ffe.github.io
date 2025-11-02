@@ -1,7 +1,13 @@
 import * as THREE from "three";
-import { FRUSTUM_SIZE, CAMERA_CLIP_NEAR, CAMERA_CLIP_FAR } from "../config/constants.js";
+import {
+  FRUSTUM_SIZE,
+  CAMERA_CLIP_NEAR,
+  CAMERA_CLIP_FAR,
+} from "../constants/environment.js";
 
-export function createOrthographicCamera(aspect = window.innerWidth / window.innerHeight) {
+export function createOrthographicCamera(
+  aspect = window.innerWidth / window.innerHeight
+) {
   const camera = new THREE.OrthographicCamera(
     (FRUSTUM_SIZE * aspect) / -2,
     (FRUSTUM_SIZE * aspect) / 2,
