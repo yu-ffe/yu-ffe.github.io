@@ -6,7 +6,11 @@ const FONT_URL = "https://threejs.org/examples/fonts/helvetiker_regular.typeface
 
 export async function loadTexts(scene, camera) {
   try {
-    const response = await fetch("./data/texts.json");
+    const response = await fetch("/data/texts.json");
+    if (!response.ok) {
+      throw new Error(`Unexpected ${response.status} response when fetching text data.`);
+    }
+
     const texts = await response.json();
     const font = await loadFont();
 

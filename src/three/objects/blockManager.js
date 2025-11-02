@@ -2,7 +2,11 @@ import * as THREE from "three";
 
 export async function loadBlocks(scene) {
   try {
-    const response = await fetch("./data/blocks.json");
+    const response = await fetch("/data/blocks.json");
+    if (!response.ok) {
+      throw new Error(`Unexpected ${response.status} response when fetching block data.`);
+    }
+
     const blocks = await response.json();
 
     blocks.forEach(({ x, y, z, color }) => {
