@@ -4,7 +4,7 @@ const mouse = new THREE.Vector2();
 const raycaster = new THREE.Raycaster();
 
 export function registerClickHandler(camera, scene) {
-  window.addEventListener("click", (event) => {
+  function handleClick(event) {
     mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
     mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
 
@@ -15,5 +15,11 @@ export function registerClickHandler(camera, scene) {
     if (firstHit && firstHit.object?.userData?.link) {
       window.open(firstHit.object.userData.link, "_blank");
     }
-  });
+  }
+
+  window.addEventListener("click", handleClick);
+
+  return () => {
+    window.removeEventListener("click", handleClick);
+  };
 }
