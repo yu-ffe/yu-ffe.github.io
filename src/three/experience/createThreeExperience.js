@@ -13,8 +13,8 @@ export function createThreeExperience(canvas) {
 
   const removeClickHandler = registerClickNavigation(app.camera, app.scene);
 
-  loadBlocks(app.scene);
-  loadTexts(app.scene, app.camera);
+  // loadBlocks(app.scene);
+  // loadTexts(app.scene, app.camera);
 
   app.start();
 
