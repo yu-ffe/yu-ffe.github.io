@@ -10,7 +10,7 @@ export function createResizeHandler(camera, renderer) {
     camera.right = (FRUSTUM_SIZE * aspect) / 2;
     camera.top = FRUSTUM_SIZE / 2;
     camera.bottom = FRUSTUM_SIZE / -2;
-    camera.zoom = aspect < 1 ? 0.6 : 1.0;
+    camera.zoom = aspect < 1 ? 0.5 : 0.85;
     camera.updateProjectionMatrix();
 
     renderer.setSize(width, height);
