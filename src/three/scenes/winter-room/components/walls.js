@@ -1,6 +1,6 @@
 // Stream_LiveGame :: 벽면 지오메트리 생성을 위해 Three.js를 사용한다.
 import * as THREE from "three";
-import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
+import { FLOOR_THICKNESS, ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
 const CORNER_RADIUS = 1.2;
 
@@ -26,23 +26,25 @@ export function addWalls(parent) {
     height,
     material: wallMaterial,
   });
+  const wallCenterY = floorLevel + height / 2 - FLOOR_THICKNESS / 2;
   // Stream_LiveGame :: 왼쪽 벽을 방 내부 위치에 배치한다.
-  leftWall.position.set(-width / 2 + WALL_THICKNESS / 2, floorLevel + height / 2, 0);
+  leftWall.position.set(-width / 2 + WALL_THICKNESS / 2, wallCenterY, 0);
   parent.add(leftWall);
 
   // Stream_LiveGame :: 계단 생성에 필요한 탈출구 기준 좌표를 계산한다.
-  const holeBottomWorldY = floorLevel + height / 2 + holeMetrics.bottom;
+  const holeBottomWorldY = leftWall.position.y + holeMetrics.bottom;
 
   const backWall = new THREE.Mesh(
     createRoundedPanelGeometry({
       width,
-      height,
+      height: height + FLOOR_THICKNESS,
       depth: WALL_THICKNESS,
       radius: CORNER_RADIUS,
+      bottomRadius: 0,
     }),
     wallMaterial
   );
-  backWall.position.set(0, floorLevel + height / 2, -depth / 2 + WALL_THICKNESS / 2);
+  backWall.position.set(0, wallCenterY, -depth / 2 + WALL_THICKNESS / 2);
   backWall.castShadow = true;
   backWall.receiveShadow = true;
   parent.add(backWall);
@@ -68,14 +70,17 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
     frontMargin: 1.1,
   };
 
+  const wallHeight = height + FLOOR_THICKNESS;
+
   // Stream_LiveGame :: 둥근 모서리를 가진 기본 벽 형태를 만든다.
   const wallShape = createRoundedRectShape({
     width: depth,
-    height,
+    height: wallHeight,
     radius: CORNER_RADIUS,
+    bottomRadius: 0,
   });
 
-  const holeTop = height / 2 - escapeHole.topMargin;
+  const holeTop = wallHeight / 2 - escapeHole.topMargin;
   const holeBottom = holeTop - escapeHole.height;
   const holeFront = halfDepth - escapeHole.frontMargin;
   const holeBack = holeFront - escapeHole.width;
@@ -111,9 +116,9 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
   };
 }
 
-function createRoundedPanelGeometry({ width, height, depth, radius }) {
+function createRoundedPanelGeometry({ width, height, depth, radius, bottomRadius = radius }) {
   // Stream_LiveGame :: 후면 벽 패널을 위해 모서리가 둥근 형상을 생성한다.
-  const panelShape = createRoundedRectShape({ width, height, radius });
+  const panelShape = createRoundedRectShape({ width, height, radius, bottomRadius });
   const geometry = new THREE.ExtrudeGeometry(panelShape, {
     depth,
     bevelEnabled: false,
@@ -123,22 +128,66 @@ function createRoundedPanelGeometry({ width, height, depth, radius }) {
   return geometry;
 }
 
-function createRoundedRectShape({ width, height, radius }) {
+function createRoundedRectShape({ width, height, radius, bottomRadius = radius }) {
   const halfWidth = width / 2;
   const halfHeight = height / 2;
-  const clampedRadius = Math.min(radius, halfWidth, halfHeight);
+  const clampedTopRadius = Math.min(radius, halfWidth, halfHeight);
+  const clampedBottomRadius = Math.min(bottomRadius, halfWidth, halfHeight);
 
   // Stream_LiveGame :: 라운드 처리된 직사각형 경로를 정의한다.
   const shape = new THREE.Shape();
-  shape.moveTo(-halfWidth + clampedRadius, -halfHeight);
-  shape.lineTo(halfWidth - clampedRadius, -halfHeight);
-  shape.quadraticCurveTo(halfWidth, -halfHeight, halfWidth, -halfHeight + clampedRadius);
-  shape.lineTo(halfWidth, halfHeight - clampedRadius);
-  shape.quadraticCurveTo(halfWidth, halfHeight, halfWidth - clampedRadius, halfHeight);
-  shape.lineTo(-halfWidth + clampedRadius, halfHeight);
-  shape.quadraticCurveTo(-halfWidth, halfHeight, -halfWidth, halfHeight - clampedRadius);
-  shape.lineTo(-halfWidth, -halfHeight + clampedRadius);
-  shape.quadraticCurveTo(-halfWidth, -halfHeight, -halfWidth + clampedRadius, -halfHeight);
+  shape.moveTo(-halfWidth + clampedBottomRadius, -halfHeight);
+
+  if (clampedBottomRadius > 0) {
+    shape.lineTo(halfWidth - clampedBottomRadius, -halfHeight);
+    shape.quadraticCurveTo(
+      halfWidth,
+      -halfHeight,
+      halfWidth,
+      -halfHeight + clampedBottomRadius
+    );
+  } else {
+    shape.lineTo(halfWidth, -halfHeight);
+  }
+
+  shape.lineTo(halfWidth, halfHeight - clampedTopRadius);
+
+  if (clampedTopRadius > 0) {
+    shape.quadraticCurveTo(
+      halfWidth,
+      halfHeight,
+      halfWidth - clampedTopRadius,
+      halfHeight
+    );
+  } else {
+    shape.lineTo(halfWidth, halfHeight);
+  }
+
+  shape.lineTo(-halfWidth + clampedTopRadius, halfHeight);
+
+  if (clampedTopRadius > 0) {
+    shape.quadraticCurveTo(
+      -halfWidth,
+      halfHeight,
+      -halfWidth,
+      halfHeight - clampedTopRadius
+    );
+  } else {
+    shape.lineTo(-halfWidth, halfHeight);
+  }
+
+  if (clampedBottomRadius > 0) {
+    shape.lineTo(-halfWidth, -halfHeight + clampedBottomRadius);
+    shape.quadraticCurveTo(
+      -halfWidth,
+      -halfHeight,
+      -halfWidth + clampedBottomRadius,
+      -halfHeight
+    );
+  } else {
+    shape.lineTo(-halfWidth, -halfHeight);
+  }
+
   shape.closePath();
 
   return shape;
