@@ -4,7 +4,6 @@ export function setupLights(scene) {
   addAmbientGlow(scene);
   addMoonlight(scene);
   addWindowWash(scene);
-  addRimAccent(scene);
   addCozyShelfLight(scene);
 }
 
@@ -34,28 +33,16 @@ function addWindowWash(scene) {
   windowLight.position.set(-11.5, 1.2, -7.5);
   scene.add(windowLight);
 
-  const frostFill = new THREE.SpotLight(0xcbdfff, 0.38, 46, Math.PI / 3, 0.35, 1.4);
-  frostFill.position.set(18, 18, 24);
-  frostFill.target.position.set(0, -6, -2);
+  const frostFill = new THREE.SpotLight(0xcbdfff, 0.28, 40, Math.PI / 3.4, 0.45, 1.3);
+  frostFill.position.set(-8, 12, -14);
+  frostFill.target.position.set(-4, 2, -6);
   frostFill.castShadow = false;
   scene.add(frostFill);
   scene.add(frostFill.target);
 }
 
-function addRimAccent(scene) {
-  const rim = new THREE.PointLight(0xb5d8ff, 0.45, 42, 1.6);
-  rim.position.set(12, 4, 10);
-  scene.add(rim);
-}
-
 function addCozyShelfLight(scene) {
-  const shelfLamp = new THREE.PointLight(0xffd6a1, 1.15, 24, 1.4);
+  const shelfLamp = new THREE.PointLight(0xffd6a1, 0.95, 20, 1.4);
   shelfLamp.position.set(10, 6, -9);
   scene.add(shelfLamp);
-
-  const frameGlow = new THREE.SpotLight(0xffcaa6, 0.65, 18, Math.PI / 4, 0.48, 1.8);
-  frameGlow.position.set(-12, 7.2, 8);
-  frameGlow.target.position.set(-10.2, 4.8, 6);
-  scene.add(frameGlow);
-  scene.add(frameGlow.target);
 }

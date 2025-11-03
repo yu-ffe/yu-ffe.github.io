@@ -19,29 +19,65 @@ export function addFloor(parent) {
   parent.add(baseFloor);
 
   const plankGroup = new THREE.Group();
-  plankGroup.position.y = floorLevel + 0.02;
 
   const plankCount = 12;
-  const plankGap = 0.12;
-  const plankWidth = width / plankCount;
+  const segmentWidth = width / plankCount;
   const plankHeight = 0.18;
-
-  const plankGeometry = new THREE.BoxGeometry(
-    plankWidth - plankGap,
-    plankHeight,
-    depth
-  );
+  const baseGap = 0.12;
 
   for (let i = 0; i < plankCount; i += 1) {
-    const toneShift = 0.08 * Math.sin(i * 1.37);
+    const seed = i * 19.73;
+    const toneShift = 0.08 * Math.sin(seed);
     const plankMaterial = new THREE.MeshStandardMaterial({
       color: new THREE.Color(0x7b5a3c).offsetHSL(0, 0, toneShift),
       roughness: 0.6,
       metalness: 0.08,
     });
 
+    const gapBefore =
+      i === 0
+        ? THREE.MathUtils.lerp(baseGap * 0.2, baseGap * 0.6, seededNoise(seed))
+        : THREE.MathUtils.lerp(baseGap * 0.6, baseGap * 1.6, seededNoise(seed));
+    const gapAfter = THREE.MathUtils.lerp(
+      baseGap * 0.4,
+      baseGap * 1.4,
+      seededNoise(seed + 5.31)
+    );
+
+    const availableWidth = Math.max(
+      segmentWidth * 0.55,
+      segmentWidth - gapBefore - gapAfter
+    );
+    const plankWidth = THREE.MathUtils.lerp(
+      availableWidth * 0.72,
+      availableWidth * 0.97,
+      seededNoise(seed + 2.17)
+    );
+    const depthScale = THREE.MathUtils.lerp(
+      0.96,
+      0.995,
+      seededNoise(seed + 8.51)
+    );
+
+    const plankGeometry = new THREE.BoxGeometry(
+      plankWidth,
+      plankHeight,
+      depth * depthScale
+    );
+
     const plank = new THREE.Mesh(plankGeometry, plankMaterial);
-    plank.position.x = -width / 2 + plankWidth * i + plankWidth / 2;
+    const segmentStart = -width / 2 + segmentWidth * i;
+    plank.position.x = segmentStart + gapBefore + plankWidth / 2;
+    plank.position.y =
+      floorLevel + 0.02 + THREE.MathUtils.lerp(-0.015, 0.018, seededNoise(seed + 3.89));
+    plank.position.z = THREE.MathUtils.lerp(
+      -0.14,
+      0.14,
+      seededNoise(seed + 11.63)
+    );
+    plank.rotation.y = THREE.MathUtils.degToRad(
+      THREE.MathUtils.lerp(-0.6, 0.6, seededNoise(seed + 6.42))
+    );
     plank.castShadow = true;
     plank.receiveShadow = true;
 
@@ -49,4 +85,8 @@ export function addFloor(parent) {
   }
 
   parent.add(plankGroup);
+}
+
+function seededNoise(seed) {
+  return (Math.sin(seed * 12.9898) + 1) / 2;
 }

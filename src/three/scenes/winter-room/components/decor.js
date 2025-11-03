@@ -2,75 +2,55 @@ import * as THREE from "three";
 import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
 export function addDecor(parent) {
-  const frame = createPictureFrame();
+  const frames = createGalleryWall();
   const bookshelf = createBookshelf();
 
-  parent.add(frame);
+  frames.forEach((frame) => parent.add(frame));
   parent.add(bookshelf);
 }
 
-function createPictureFrame() {
+function createGalleryWall() {
   const { width, height, floorLevel, depth } = ROOM_SIZE;
+  const mountZ = -depth / 2 + WALL_THICKNESS / 2 + 0.04;
 
-  const frameWidth = 3.6;
-  const frameHeight = 2.6;
-  const frameDepth = 0.18;
-  const borderThickness = 0.35;
+  const frames = [];
 
-  const outerShape = new THREE.Shape();
-  outerShape.moveTo(-frameWidth / 2 - borderThickness, -frameHeight / 2 - borderThickness);
-  outerShape.lineTo(frameWidth / 2 + borderThickness, -frameHeight / 2 - borderThickness);
-  outerShape.lineTo(frameWidth / 2 + borderThickness, frameHeight / 2 + borderThickness);
-  outerShape.lineTo(-frameWidth / 2 - borderThickness, frameHeight / 2 + borderThickness);
-  outerShape.lineTo(-frameWidth / 2 - borderThickness, -frameHeight / 2 - borderThickness);
-
-  const innerHole = new THREE.Path();
-  innerHole.moveTo(-frameWidth / 2, -frameHeight / 2);
-  innerHole.lineTo(frameWidth / 2, -frameHeight / 2);
-  innerHole.lineTo(frameWidth / 2, frameHeight / 2);
-  innerHole.lineTo(-frameWidth / 2, frameHeight / 2);
-  innerHole.lineTo(-frameWidth / 2, -frameHeight / 2);
-  outerShape.holes.push(innerHole);
-
-  const frameGeometry = new THREE.ExtrudeGeometry(outerShape, {
-    depth: frameDepth,
-    bevelEnabled: false,
+  const tallFrame = createRectangularFrame({
+    width: 3.2,
+    height: 4.4,
+    border: 0.32,
+    depth: 0.22,
+    frameColor: 0xdcb48e,
+    canvasColor: 0xa8d8ff,
   });
-  frameGeometry.center();
+  tallFrame.position.set(-1.6, floorLevel + height - 6.2, mountZ);
+  tallFrame.rotation.z = THREE.MathUtils.degToRad(2.4);
+  frames.push(tallFrame);
 
-  const frameMaterial = new THREE.MeshStandardMaterial({
-    color: 0xdcb48e,
-    metalness: 0.25,
-    roughness: 0.35,
-    emissive: new THREE.Color(0x6f3a1f).multiplyScalar(0.08),
+  const wideFrame = createRectangularFrame({
+    width: 4.8,
+    height: 2.4,
+    border: 0.28,
+    depth: 0.16,
+    frameColor: 0xc99971,
+    canvasColor: 0xffe5cc,
   });
+  wideFrame.position.set(2.4, floorLevel + height - 5.3, mountZ + 0.02);
+  wideFrame.rotation.z = THREE.MathUtils.degToRad(-4.2);
+  frames.push(wideFrame);
 
-  const frameMesh = new THREE.Mesh(frameGeometry, frameMaterial);
-  frameMesh.castShadow = true;
+  const roundFrame = createCircularFrame({
+    radius: 1.45,
+    border: 0.28,
+    depth: 0.18,
+    frameColor: 0xf0d2b4,
+    canvasColor: 0xf4f9ff,
+  });
+  roundFrame.position.set(5.3, floorLevel + height - 6.4, mountZ + 0.04);
+  roundFrame.rotation.z = THREE.MathUtils.degToRad(3.2);
+  frames.push(roundFrame);
 
-  const artCanvas = new THREE.Mesh(
-    new THREE.PlaneGeometry(frameWidth, frameHeight),
-    new THREE.MeshStandardMaterial({
-      color: 0x92c5ff,
-      emissive: new THREE.Color(0xffc48c).multiplyScalar(0.12),
-      roughness: 0.9,
-      metalness: 0.05,
-    })
-  );
-  artCanvas.position.z = frameDepth / 2 + 0.02;
-
-  const frameGroup = new THREE.Group();
-  frameGroup.add(frameMesh);
-  frameGroup.add(artCanvas);
-
-  frameGroup.position.set(
-    -width / 2 + WALL_THICKNESS + frameDepth / 2 + 0.05,
-    floorLevel + height - frameHeight - 1.6,
-    depth / 2 - 5.8
-  );
-  frameGroup.rotation.y = Math.PI / 2;
-
-  return frameGroup;
+  return frames;
 }
 
 function createBookshelf() {
@@ -174,4 +154,107 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
 
 function seededNoise(seed) {
   return (Math.sin(seed * 127.1) + 1) / 2;
+}
+
+function createRectangularFrame({
+  width,
+  height,
+  border,
+  depth,
+  frameColor,
+  canvasColor,
+}) {
+  const outerShape = new THREE.Shape();
+  outerShape.moveTo(-width / 2 - border, -height / 2 - border);
+  outerShape.lineTo(width / 2 + border, -height / 2 - border);
+  outerShape.lineTo(width / 2 + border, height / 2 + border);
+  outerShape.lineTo(-width / 2 - border, height / 2 + border);
+  outerShape.lineTo(-width / 2 - border, -height / 2 - border);
+
+  const innerHole = new THREE.Path();
+  innerHole.moveTo(-width / 2, -height / 2);
+  innerHole.lineTo(width / 2, -height / 2);
+  innerHole.lineTo(width / 2, height / 2);
+  innerHole.lineTo(-width / 2, height / 2);
+  innerHole.lineTo(-width / 2, -height / 2);
+  outerShape.holes.push(innerHole);
+
+  const frameGeometry = new THREE.ExtrudeGeometry(outerShape, {
+    depth,
+    bevelEnabled: false,
+  });
+  frameGeometry.center();
+
+  const frameMaterial = new THREE.MeshStandardMaterial({
+    color: frameColor,
+    metalness: 0.26,
+    roughness: 0.32,
+    emissive: new THREE.Color(frameColor).multiplyScalar(0.06),
+  });
+
+  const frameMesh = new THREE.Mesh(frameGeometry, frameMaterial);
+  frameMesh.castShadow = true;
+
+  const artCanvas = new THREE.Mesh(
+    new THREE.PlaneGeometry(width, height),
+    new THREE.MeshStandardMaterial({
+      color: canvasColor,
+      emissive: new THREE.Color(canvasColor).multiplyScalar(0.1),
+      roughness: 0.88,
+      metalness: 0.04,
+    })
+  );
+  artCanvas.position.z = depth / 2 + 0.02;
+
+  const frameGroup = new THREE.Group();
+  frameGroup.add(frameMesh);
+  frameGroup.add(artCanvas);
+
+  return frameGroup;
+}
+
+function createCircularFrame({ radius, border, depth, frameColor, canvasColor }) {
+  const outerRadius = radius + border;
+
+  const frameShape = new THREE.Shape();
+  frameShape.absarc(0, 0, outerRadius, 0, Math.PI * 2, false);
+  const innerHole = new THREE.Path();
+  innerHole.absarc(0, 0, radius, 0, Math.PI * 2, true);
+  frameShape.holes.push(innerHole);
+
+  const frameGeometry = new THREE.ExtrudeGeometry(frameShape, {
+    depth,
+    bevelEnabled: false,
+  });
+  frameGeometry.center();
+
+  const frameMaterial = new THREE.MeshStandardMaterial({
+    color: frameColor,
+    metalness: 0.24,
+    roughness: 0.3,
+    emissive: new THREE.Color(frameColor).multiplyScalar(0.08),
+  });
+
+  const frameMesh = new THREE.Mesh(frameGeometry, frameMaterial);
+  frameMesh.castShadow = true;
+  frameMesh.receiveShadow = true;
+
+  const artCanvas = new THREE.Mesh(
+    new THREE.CircleGeometry(radius, 48),
+    new THREE.MeshStandardMaterial({
+      color: canvasColor,
+      emissive: new THREE.Color(canvasColor).multiplyScalar(0.08),
+      roughness: 0.9,
+      metalness: 0.03,
+    })
+  );
+  artCanvas.position.z = depth / 2 + 0.02;
+
+  const frameGroup = new THREE.Group();
+  frameGroup.add(frameMesh);
+  frameGroup.add(artCanvas);
+
+  frameGroup.castShadow = true;
+
+  return frameGroup;
 }

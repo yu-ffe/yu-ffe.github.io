@@ -47,22 +47,22 @@ export function addWalls(parent) {
   const baseboardDepth = 0.3;
 
   const leftBaseboard = new THREE.Mesh(
-    new THREE.BoxGeometry(baseboardDepth, baseboardHeight, depth),
+    new THREE.BoxGeometry(baseboardDepth, baseboardHeight, depth - baseboardDepth),
     accentMaterial
   );
   leftBaseboard.position.set(
     -width / 2 + baseboardDepth / 2,
     floorLevel + baseboardHeight / 2,
-    0
+    baseboardDepth / 2
   );
   parent.add(leftBaseboard);
 
   const backBaseboard = new THREE.Mesh(
-    new THREE.BoxGeometry(width, baseboardHeight, baseboardDepth),
+    new THREE.BoxGeometry(width - baseboardDepth, baseboardHeight, baseboardDepth),
     accentMaterial
   );
   backBaseboard.position.set(
-    0,
+    baseboardDepth / 2,
     floorLevel + baseboardHeight / 2,
     -depth / 2 + baseboardDepth / 2
   );
