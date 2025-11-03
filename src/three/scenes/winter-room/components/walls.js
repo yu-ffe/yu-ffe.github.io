@@ -1,13 +1,10 @@
 import * as THREE from "three";
-import { FLOOR_THICKNESS, ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
+import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
 const CORNER_RADIUS = 1.2;
 
 export function addWalls(parent) {
   const { width, depth, height, floorLevel } = ROOM_SIZE;
-
-  // [LiveGame] Anchor the walls directly on the foundation rather than the finish floor.
-  const wallBaseLevel = floorLevel - FLOOR_THICKNESS;
 
   const wallMaterial = new THREE.MeshStandardMaterial({
     color: 0xe9f1ff,
@@ -27,29 +24,21 @@ export function addWalls(parent) {
     height,
     material: wallMaterial,
   });
-  leftWall.position.set(
-    -width / 2 + WALL_THICKNESS / 2,
-    wallBaseLevel + height / 2,
-    0
-  );
+  leftWall.position.set(-width / 2 + WALL_THICKNESS / 2, floorLevel + height / 2, 0);
   parent.add(leftWall);
 
-  const holeBottomWorldY = wallBaseLevel + height / 2 + holeMetrics.bottom;
+  const holeBottomWorldY = floorLevel + height / 2 + holeMetrics.bottom;
 
   const backWall = new THREE.Mesh(
     createRoundedPanelGeometry({
       width,
       height,
       depth: WALL_THICKNESS,
-      topRadius: CORNER_RADIUS,
+      radius: CORNER_RADIUS,
     }),
     wallMaterial
   );
-  backWall.position.set(
-    0,
-    wallBaseLevel + height / 2,
-    -depth / 2 + WALL_THICKNESS / 2
-  );
+  backWall.position.set(0, floorLevel + height / 2, -depth / 2 + WALL_THICKNESS / 2);
   backWall.castShadow = true;
   backWall.receiveShadow = true;
   parent.add(backWall);
@@ -57,7 +46,6 @@ export function addWalls(parent) {
   const baseboardHeight = 0.65;
   const baseboardDepth = 0.3;
 
-  // [LiveGame] Keep the trim aligned with the finished floor surface for visual cohesion.
   const leftBaseboard = new THREE.Mesh(
     new THREE.BoxGeometry(baseboardDepth, baseboardHeight, depth - baseboardDepth),
     accentMaterial
@@ -84,10 +72,9 @@ export function addWalls(parent) {
     new THREE.CylinderGeometry(CORNER_RADIUS, CORNER_RADIUS, height, 32, 1, true, 0, Math.PI / 2),
     wallMaterial
   );
-  // [LiveGame] Seat the curved corner on the same foundation-driven datum as the other walls.
   cornerCove.position.set(
     -width / 2 + CORNER_RADIUS,
-    wallBaseLevel + height / 2,
+    floorLevel + height / 2,
     -depth / 2 + CORNER_RADIUS
   );
   cornerCove.rotation.y = Math.PI / 2;
@@ -106,7 +93,6 @@ export function addWalls(parent) {
   };
 }
 
-// [LiveGame] Create the left wall, keeping a squared bottom edge for structural realism.
 function createLeftWallWithEscapeExit({ depth, height, material }) {
   const halfDepth = depth / 2;
   const escapeHole = {
@@ -119,7 +105,7 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
   const wallShape = createRoundedRectShape({
     width: depth,
     height,
-    topRadius: CORNER_RADIUS,
+    radius: CORNER_RADIUS,
   });
 
   const holeTop = height / 2 - escapeHole.topMargin;
@@ -157,8 +143,8 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
   };
 }
 
-function createRoundedPanelGeometry({ width, height, depth, topRadius }) {
-  const panelShape = createRoundedRectShape({ width, height, topRadius });
+function createRoundedPanelGeometry({ width, height, depth, radius }) {
+  const panelShape = createRoundedRectShape({ width, height, radius });
   const geometry = new THREE.ExtrudeGeometry(panelShape, {
     depth,
     bevelEnabled: false,
@@ -168,63 +154,21 @@ function createRoundedPanelGeometry({ width, height, depth, topRadius }) {
   return geometry;
 }
 
-// [LiveGame] Generate a rectangle with only the top corners chamfered.
-function createRoundedRectShape({ width, height, topRadius, bottomRadius = 0 }) {
+function createRoundedRectShape({ width, height, radius }) {
   const halfWidth = width / 2;
   const halfHeight = height / 2;
-  const safeTopRadius = Math.min(topRadius ?? 0, halfWidth, halfHeight);
-  const safeBottomRadius = Math.min(bottomRadius ?? 0, halfWidth, halfHeight);
+  const clampedRadius = Math.min(radius, halfWidth, halfHeight);
 
   const shape = new THREE.Shape();
-
-  // [LiveGame] Start at the bottom-left edge and move clockwise.
-  shape.moveTo(-halfWidth, -halfHeight + safeBottomRadius);
-
-  if (safeBottomRadius > 0) {
-    shape.quadraticCurveTo(
-      -halfWidth,
-      -halfHeight,
-      -halfWidth + safeBottomRadius,
-      -halfHeight
-    );
-  } else {
-    shape.lineTo(-halfWidth, -halfHeight);
-  }
-
-  shape.lineTo(halfWidth, -halfHeight);
-
-  if (safeBottomRadius > 0) {
-    shape.quadraticCurveTo(
-      halfWidth,
-      -halfHeight,
-      halfWidth,
-      -halfHeight + safeBottomRadius
-    );
-  }
-
-  shape.lineTo(halfWidth, halfHeight - safeTopRadius);
-
-  if (safeTopRadius > 0) {
-    shape.quadraticCurveTo(
-      halfWidth,
-      halfHeight,
-      halfWidth - safeTopRadius,
-      halfHeight
-    );
-  }
-
-  shape.lineTo(-halfWidth + safeTopRadius, halfHeight);
-
-  if (safeTopRadius > 0) {
-    shape.quadraticCurveTo(
-      -halfWidth,
-      halfHeight,
-      -halfWidth,
-      halfHeight - safeTopRadius
-    );
-  }
-
-  shape.lineTo(-halfWidth, -halfHeight + safeBottomRadius);
+  shape.moveTo(-halfWidth + clampedRadius, -halfHeight);
+  shape.lineTo(halfWidth - clampedRadius, -halfHeight);
+  shape.quadraticCurveTo(halfWidth, -halfHeight, halfWidth, -halfHeight + clampedRadius);
+  shape.lineTo(halfWidth, halfHeight - clampedRadius);
+  shape.quadraticCurveTo(halfWidth, halfHeight, halfWidth - clampedRadius, halfHeight);
+  shape.lineTo(-halfWidth + clampedRadius, halfHeight);
+  shape.quadraticCurveTo(-halfWidth, halfHeight, -halfWidth, halfHeight - clampedRadius);
+  shape.lineTo(-halfWidth, -halfHeight + clampedRadius);
+  shape.quadraticCurveTo(-halfWidth, -halfHeight, -halfWidth + clampedRadius, -halfHeight);
   shape.closePath();
 
   return shape;

@@ -1,9 +1,6 @@
 import * as THREE from "three";
 import { FLOOR_THICKNESS, ROOM_SIZE } from "../constants.js";
 
-// [LiveGame] Utility constant to keep irregular plank edges under control.
-const EDGE_VARIATION_RATIO = 0.18;
-
 export function addFloor(parent) {
   const { width, depth, floorLevel } = ROOM_SIZE;
 
@@ -24,7 +21,6 @@ export function addFloor(parent) {
   const plankGroup = new THREE.Group();
 
   const plankCount = 12;
-  // [LiveGame] Derive the available width per plank so we can offset their edges.
   const segmentWidth = width / plankCount;
   const plankHeight = 0.18;
   const baseGap = 0.12;
@@ -63,24 +59,11 @@ export function addFloor(parent) {
       seededNoise(seed + 8.51)
     );
 
-    const plankDepth = depth * depthScale;
-
     const plankGeometry = new THREE.BoxGeometry(
       plankWidth,
       plankHeight,
-      plankDepth,
-      2,
-      1,
-      6
+      depth * depthScale
     );
-
-    // [LiveGame] Roughen the plank edges so the floor boards feel aged.
-    addSplinteredEdgeDetails({
-      geometry: plankGeometry,
-      seed,
-      plankWidth,
-      plankDepth,
-    });
 
     const plank = new THREE.Mesh(plankGeometry, plankMaterial);
     const segmentStart = -width / 2 + segmentWidth * i;
@@ -104,62 +87,6 @@ export function addFloor(parent) {
   parent.add(plankGroup);
 }
 
-// [LiveGame] Provide deterministic pseudo-noise so planks stay stable across renders.
 function seededNoise(seed) {
   return (Math.sin(seed * 12.9898) + 1) / 2;
-}
-
-// [LiveGame] Bend the vertices close to the plank ends for a subtle splitting effect.
-function addSplinteredEdgeDetails({ geometry, seed, plankWidth, plankDepth }) {
-  const position = geometry.attributes.position;
-  const halfDepth = plankDepth / 2;
-  const endThreshold = halfDepth * (1 - EDGE_VARIATION_RATIO * 0.35);
-  const halfWidth = plankWidth / 2;
-
-  for (let i = 0; i < position.count; i += 1) {
-    const originalX = position.getX(i);
-    const originalY = position.getY(i);
-    const originalZ = position.getZ(i);
-
-    const normalizedX = (originalX + halfWidth) / (plankWidth || 1);
-    const depthEdgeSign = Math.sign(originalZ);
-    const nearEnd = Math.abs(originalZ) >= endThreshold;
-
-    if (nearEnd) {
-      const splitSeed = seed + depthEdgeSign * 41.29 + normalizedX * 13.7;
-      const splitOffset = THREE.MathUtils.lerp(
-        -plankWidth * EDGE_VARIATION_RATIO,
-        plankWidth * EDGE_VARIATION_RATIO,
-        seededNoise(splitSeed)
-      );
-
-      position.setX(i, originalX + splitOffset * 0.35);
-
-      const notchSeed = seed + depthEdgeSign * 97.11 + normalizedX * 27.61;
-      const notchDepth = THREE.MathUtils.lerp(
-        -plankDepth * 0.045,
-        plankDepth * 0.08,
-        seededNoise(notchSeed)
-      );
-
-      if (originalY >= 0) {
-        position.setZ(i, originalZ + notchDepth * 0.55);
-      } else {
-        position.setZ(i, originalZ + notchDepth * 0.18);
-      }
-    }
-
-    if (originalY > 0 && Math.abs(originalZ) < endThreshold) {
-      const warpSeed = seed + normalizedX * 52.13 + i * 0.17;
-      const warp = THREE.MathUtils.lerp(
-        -plankWidth * 0.015,
-        plankWidth * 0.015,
-        seededNoise(warpSeed)
-      );
-      position.setX(i, position.getX(i) + warp * (1 - Math.abs(originalZ) / halfDepth));
-    }
-  }
-
-  position.needsUpdate = true;
-  geometry.computeVertexNormals();
 }
