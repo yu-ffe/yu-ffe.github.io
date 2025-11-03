@@ -7,7 +7,7 @@ export function addFloor(parent) {
   const baseMaterial = new THREE.MeshStandardMaterial({
     color: 0x392b21,
     roughness: 0.82,
-    metalness: 0.05,
+    metalness: 0.5,
   });
 
   const baseFloor = new THREE.Mesh(
@@ -22,7 +22,7 @@ export function addFloor(parent) {
 
   const plankCount = 12;
   const segmentWidth = width / plankCount;
-  const plankHeight = 0.18;
+  const plankHeight = 0.68;
   const baseGap = 0.12;
 
   for (let i = 0; i < plankCount; i += 1) {
