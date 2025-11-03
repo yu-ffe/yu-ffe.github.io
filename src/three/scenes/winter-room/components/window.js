@@ -1,3 +1,4 @@
+// Stream_LiveGame :: 창문 구성 요소 생성을 위해 Three.js를 사용한다.
 import * as THREE from "three";
 import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
@@ -19,6 +20,7 @@ export function addWindow(parent) {
     metalness: 0.25,
   });
 
+  // Stream_LiveGame :: 기본적인 수직/수평 프레임 지오메트리를 준비한다.
   const verticalFrameGeometry = new THREE.BoxGeometry(frameThickness, windowHeight, frameThickness);
   const horizontalFrameGeometry = new THREE.BoxGeometry(
     windowWidth + frameThickness,
@@ -26,6 +28,7 @@ export function addWindow(parent) {
     frameThickness
   );
 
+  // Stream_LiveGame :: 좌우 기둥 프레임을 배치한다.
   const leftFrame = new THREE.Mesh(verticalFrameGeometry, frameMaterial);
   leftFrame.position.set(-windowWidth / 2 - frameThickness / 2, floorLevel + sillHeight + windowHeight / 2, 0);
   windowGroup.add(leftFrame);
@@ -34,6 +37,7 @@ export function addWindow(parent) {
   rightFrame.position.x = windowWidth / 2 + frameThickness / 2;
   windowGroup.add(rightFrame);
 
+  // Stream_LiveGame :: 상단, 하단 프레임과 중간 문살을 추가한다.
   const topFrame = new THREE.Mesh(horizontalFrameGeometry, frameMaterial);
   topFrame.position.set(0, floorLevel + sillHeight + windowHeight + frameThickness / 2, 0);
   windowGroup.add(topFrame);
@@ -47,6 +51,7 @@ export function addWindow(parent) {
   muntin.position.set(0, floorLevel + sillHeight + windowHeight / 2, 0);
   windowGroup.add(muntin);
 
+  // Stream_LiveGame :: 유리재질 평면을 만들어 빛을 통과시키는 효과를 준다.
   const glazing = new THREE.Mesh(
     new THREE.PlaneGeometry(windowWidth, windowHeight),
     new THREE.MeshPhysicalMaterial({
@@ -63,6 +68,7 @@ export function addWindow(parent) {
   glazing.castShadow = false;
   windowGroup.add(glazing);
 
+  // Stream_LiveGame :: 창문에서 퍼지는 서리 빛을 표현하는 추가 평면.
   const frostGlow = new THREE.Mesh(
     new THREE.PlaneGeometry(windowWidth + 0.8, windowHeight + 0.8),
     new THREE.MeshBasicMaterial({

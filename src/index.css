@@ -1,9 +1,11 @@
+/* Stream_LiveGame :: 모든 요소 초기화 및 박스 모델 통일. */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
+/* Stream_LiveGame :: 전체 문서와 루트 컨테이너 높이/너비를 화면 크기에 맞춘다. */
 html,
 body,
 #root {
@@ -11,6 +13,7 @@ body,
   height: 100%;
 }
 
+/* Stream_LiveGame :: 전역 배경, 텍스트 색상, 폰트 패밀리를 지정한다. */
 body {
   background-color: #0f1b2d;
   color: #ffffff;
@@ -18,6 +21,7 @@ body {
     "Segoe UI", sans-serif;
 }
 
+/* Stream_LiveGame :: 캔버스 요소가 레이아웃 흐름에 맞게 채워지도록 한다. */
 canvas {
   display: block;
   width: 100%;

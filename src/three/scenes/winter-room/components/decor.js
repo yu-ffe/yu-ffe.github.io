@@ -1,7 +1,9 @@
+// Stream_LiveGame :: 장식 요소 생성을 위해 Three.js를 사용한다.
 import * as THREE from "three";
 import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
 export function addDecor(parent) {
+  // Stream_LiveGame :: 벽 장식과 책장을 각각 구성한다.
   const frames = createGalleryWall();
   const bookshelf = createBookshelf();
 
@@ -15,6 +17,7 @@ function createGalleryWall() {
 
   const frames = [];
 
+  // Stream_LiveGame :: 세로형 액자를 생성하여 벽에 배치한다.
   const tallFrame = createRectangularFrame({
     width: 3.2,
     height: 4.4,
@@ -27,6 +30,7 @@ function createGalleryWall() {
   tallFrame.rotation.z = THREE.MathUtils.degToRad(2.4);
   frames.push(tallFrame);
 
+  // Stream_LiveGame :: 가로형 액자로 균형을 맞춘다.
   const wideFrame = createRectangularFrame({
     width: 4.8,
     height: 2.4,
@@ -39,6 +43,7 @@ function createGalleryWall() {
   wideFrame.rotation.z = THREE.MathUtils.degToRad(-4.2);
   frames.push(wideFrame);
 
+  // Stream_LiveGame :: 원형 액자를 추가하여 시각적 변화를 준다.
   const roundFrame = createCircularFrame({
     radius: 1.45,
     border: 0.28,
@@ -62,6 +67,7 @@ function createBookshelf() {
   const shelfDepth = 1.2;
   const panelThickness = 0.22;
 
+  // Stream_LiveGame :: 책장 전체에 사용할 나무 재질.
   const shelfMaterial = new THREE.MeshStandardMaterial({
     color: 0xcaa77a,
     roughness: 0.55,
@@ -72,6 +78,7 @@ function createBookshelf() {
   const sideGeometry = new THREE.BoxGeometry(panelThickness, shelfHeight, shelfDepth);
   const topBottomGeometry = new THREE.BoxGeometry(shelfWidth, panelThickness, shelfDepth);
 
+  // Stream_LiveGame :: 좌우 기둥과 상판/하판을 배치한다.
   const leftSide = new THREE.Mesh(sideGeometry, shelfMaterial);
   leftSide.position.x = -shelfWidth / 2 + panelThickness / 2;
   shelfGroup.add(leftSide);
@@ -90,12 +97,14 @@ function createBookshelf() {
 
   const shelfLevels = 3;
   for (let i = 1; i <= shelfLevels; i += 1) {
+    // Stream_LiveGame :: 각 층마다 얇은 선반을 추가한다.
     const shelf = new THREE.Mesh(topBottomGeometry, shelfMaterial);
     shelf.scale.y = 0.5;
     shelf.position.y = -shelfHeight / 2 + (shelfHeight / (shelfLevels + 1)) * i;
     shelfGroup.add(shelf);
   }
 
+  // Stream_LiveGame :: 책장을 풍성하게 보이게 하기 위해 책을 채운다.
   addBooksToShelf(shelfGroup, shelfWidth, shelfHeight, shelfDepth, panelThickness);
 
   shelfGroup.position.set(
@@ -122,6 +131,7 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
 
     for (let i = 0; i < booksInRow; i += 1) {
       const seed = row * 31 + i * 17;
+      // Stream_LiveGame :: 책 높이와 두께를 시드 기반으로 변형.
       const height = THREE.MathUtils.lerp(
         bookHeightRange[0],
         bookHeightRange[1],
@@ -138,6 +148,7 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
 
       const book = new THREE.Mesh(bookGeometry, bookMaterial);
       book.position.set(offsetX + thickness / 2, rowY + height / 2, 0);
+      // Stream_LiveGame :: 약간 기울여 자연스러운 배열을 만든다.
       book.rotation.z = (seededNoise(seed + 11) - 0.5) * 0.12;
       book.castShadow = true;
       book.receiveShadow = true;
@@ -146,6 +157,7 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
       offsetX += thickness + 0.12;
 
       if (offsetX > shelfWidth / 2 - panelThickness - 0.4) {
+        // Stream_LiveGame :: 선반 너비를 초과하면 다음 줄로 넘어간다.
         break;
       }
     }
@@ -153,6 +165,7 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
 }
 
 function seededNoise(seed) {
+  // Stream_LiveGame :: 사인 함수를 이용한 결정적 노이즈 함수.
   return (Math.sin(seed * 127.1) + 1) / 2;
 }
 
@@ -195,6 +208,7 @@ function createRectangularFrame({
   const frameMesh = new THREE.Mesh(frameGeometry, frameMaterial);
   frameMesh.castShadow = true;
 
+  // Stream_LiveGame :: 내부 캔버스를 추가하여 그림 느낌을 완성한다.
   const artCanvas = new THREE.Mesh(
     new THREE.PlaneGeometry(width, height),
     new THREE.MeshStandardMaterial({
@@ -216,6 +230,7 @@ function createRectangularFrame({
 function createCircularFrame({ radius, border, depth, frameColor, canvasColor }) {
   const outerRadius = radius + border;
 
+  // Stream_LiveGame :: 원형 액자 외곽과 내부 홀을 정의한다.
   const frameShape = new THREE.Shape();
   frameShape.absarc(0, 0, outerRadius, 0, Math.PI * 2, false);
   const innerHole = new THREE.Path();
@@ -239,6 +254,7 @@ function createCircularFrame({ radius, border, depth, frameColor, canvasColor })
   frameMesh.castShadow = true;
   frameMesh.receiveShadow = true;
 
+  // Stream_LiveGame :: 원형 캔버스를 배치하여 은은한 색감을 더한다.
   const artCanvas = new THREE.Mesh(
     new THREE.CircleGeometry(radius, 48),
     new THREE.MeshStandardMaterial({

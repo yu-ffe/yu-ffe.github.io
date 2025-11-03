@@ -1,3 +1,4 @@
+// Stream_LiveGame :: 벽면 지오메트리 생성을 위해 Three.js를 사용한다.
 import * as THREE from "three";
 import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
@@ -6,6 +7,7 @@ const CORNER_RADIUS = 1.2;
 export function addWalls(parent) {
   const { width, depth, height, floorLevel } = ROOM_SIZE;
 
+  // Stream_LiveGame :: 기본 벽과 강조 요소에 사용할 재질을 정의한다.
   const wallMaterial = new THREE.MeshStandardMaterial({
     color: 0xe9f1ff,
     roughness: 0.7,
@@ -24,9 +26,11 @@ export function addWalls(parent) {
     height,
     material: wallMaterial,
   });
+  // Stream_LiveGame :: 왼쪽 벽을 방 내부 위치에 배치한다.
   leftWall.position.set(-width / 2 + WALL_THICKNESS / 2, floorLevel + height / 2, 0);
   parent.add(leftWall);
 
+  // Stream_LiveGame :: 계단 생성에 필요한 탈출구 기준 좌표를 계산한다.
   const holeBottomWorldY = floorLevel + height / 2 + holeMetrics.bottom;
 
   const backWall = new THREE.Mesh(
@@ -64,6 +68,7 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
     frontMargin: 1.1,
   };
 
+  // Stream_LiveGame :: 둥근 모서리를 가진 기본 벽 형태를 만든다.
   const wallShape = createRoundedRectShape({
     width: depth,
     height,
@@ -75,6 +80,7 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
   const holeFront = halfDepth - escapeHole.frontMargin;
   const holeBack = holeFront - escapeHole.width;
 
+  // Stream_LiveGame :: 탈출구 모양을 정의하여 벽에 구멍을 뚫는다.
   const escapePath = new THREE.Path();
   escapePath.moveTo(holeBack, holeBottom);
   escapePath.lineTo(holeFront, holeBottom);
@@ -106,6 +112,7 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
 }
 
 function createRoundedPanelGeometry({ width, height, depth, radius }) {
+  // Stream_LiveGame :: 후면 벽 패널을 위해 모서리가 둥근 형상을 생성한다.
   const panelShape = createRoundedRectShape({ width, height, radius });
   const geometry = new THREE.ExtrudeGeometry(panelShape, {
     depth,
@@ -121,6 +128,7 @@ function createRoundedRectShape({ width, height, radius }) {
   const halfHeight = height / 2;
   const clampedRadius = Math.min(radius, halfWidth, halfHeight);
 
+  // Stream_LiveGame :: 라운드 처리된 직사각형 경로를 정의한다.
   const shape = new THREE.Shape();
   shape.moveTo(-halfWidth + clampedRadius, -halfHeight);
   shape.lineTo(halfWidth - clampedRadius, -halfHeight);
