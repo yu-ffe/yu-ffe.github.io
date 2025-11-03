@@ -17,9 +17,20 @@ export async function loadTexts(scene, camera) {
     const texts = await response.json();
     const font = await loadFont();
 
-    texts.forEach(({ x, y, z, text, link }) => {
+    texts.forEach((entry) => {
+      const { x, y, z, text, title, link } = entry;
+      if (!Number.isFinite(x) || !Number.isFinite(y) || !Number.isFinite(z)) {
+        // Stream_LiveGame :: 좌표 정보가 없으면 텍스트 생성을 건너뛴다.
+        return;
+      }
+
+      const content = typeof text === "string" ? text : title;
+      if (!content) {
+        return;
+      }
+
       // Stream_LiveGame :: 문자열을 3D 메시로 변환한다.
-      const geometry = new TextGeometry(text, {
+      const geometry = new TextGeometry(content, {
         font,
         size: 0.4,
         height: 1,

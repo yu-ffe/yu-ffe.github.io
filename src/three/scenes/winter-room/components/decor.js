@@ -5,10 +5,13 @@ import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 export function addDecor(parent) {
   // Stream_LiveGame :: 벽 장식과 책장을 각각 구성한다.
   const frames = createGalleryWall();
-  const bookshelf = createBookshelf();
+  const { bookshelf, books } = createBookshelf();
 
   frames.forEach((frame) => parent.add(frame));
   parent.add(bookshelf);
+
+  // Stream_LiveGame :: 상호작용 가능한 책 객체 참조를 저장한다.
+  bookshelf.userData.books = books;
 }
 
 function createGalleryWall() {
@@ -62,6 +65,7 @@ function createBookshelf() {
   const { width, depth, height, floorLevel } = ROOM_SIZE;
 
   const shelfGroup = new THREE.Group();
+  shelfGroup.name = "Bookshelf";
   const shelfWidth = 6.4;
   const shelfHeight = 4.6;
   const shelfDepth = 1.2;
@@ -105,7 +109,13 @@ function createBookshelf() {
   }
 
   // Stream_LiveGame :: 책장을 풍성하게 보이게 하기 위해 책을 채운다.
-  addBooksToShelf(shelfGroup, shelfWidth, shelfHeight, shelfDepth, panelThickness);
+  const books = addBooksToShelf(
+    shelfGroup,
+    shelfWidth,
+    shelfHeight,
+    shelfDepth,
+    panelThickness
+  );
 
   shelfGroup.position.set(
     width / 2 - shelfWidth / 2 - 1.2,
@@ -113,7 +123,7 @@ function createBookshelf() {
     -depth / 2 + WALL_THICKNESS + shelfDepth / 2 + 0.02
   );
 
-  return shelfGroup;
+  return { bookshelf: shelfGroup, books };
 }
 
 function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickness) {
@@ -123,6 +133,8 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
 
   const startY = -shelfHeight / 2 + panelThickness * 2;
   const shelfSpacing = (shelfHeight - panelThickness * 2) / 4;
+
+  const books = [];
 
   for (let row = 0; row < 3; row += 1) {
     const booksInRow = 7 + row * 2;
@@ -154,6 +166,7 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
       book.receiveShadow = true;
 
       group.add(book);
+      books.push(book);
       offsetX += thickness + 0.12;
 
       if (offsetX > shelfWidth / 2 - panelThickness - 0.4) {
@@ -162,6 +175,7 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
       }
     }
   }
+  return books;
 }
 
 function seededNoise(seed) {
