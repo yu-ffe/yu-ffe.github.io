@@ -15,7 +15,7 @@ export function initializeWinterRoomScene(scene) {
   addFoundation(roomGroup);
   addFloor(roomGroup);
   const { stairsConfig } = addWalls(roomGroup);
-  addCeilingCove(roomGroup);
+  // addCeilingCove(roomGroup);
   addWindow(roomGroup);
   addEscapeStairs(roomGroup, stairsConfig);
   addDecor(roomGroup);

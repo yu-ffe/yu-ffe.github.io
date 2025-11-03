@@ -43,44 +43,6 @@ export function addWalls(parent) {
   backWall.receiveShadow = true;
   parent.add(backWall);
 
-  const baseboardHeight = 0.65;
-  const baseboardDepth = 0.3;
-
-  const leftBaseboard = new THREE.Mesh(
-    new THREE.BoxGeometry(baseboardDepth, baseboardHeight, depth - baseboardDepth),
-    accentMaterial
-  );
-  leftBaseboard.position.set(
-    -width / 2 + baseboardDepth / 2,
-    floorLevel + baseboardHeight / 2,
-    baseboardDepth / 2
-  );
-  parent.add(leftBaseboard);
-
-  const backBaseboard = new THREE.Mesh(
-    new THREE.BoxGeometry(width - baseboardDepth, baseboardHeight, baseboardDepth),
-    accentMaterial
-  );
-  backBaseboard.position.set(
-    baseboardDepth / 2,
-    floorLevel + baseboardHeight / 2,
-    -depth / 2 + baseboardDepth / 2
-  );
-  parent.add(backBaseboard);
-
-  const cornerCove = new THREE.Mesh(
-    new THREE.CylinderGeometry(CORNER_RADIUS, CORNER_RADIUS, height, 32, 1, true, 0, Math.PI / 2),
-    wallMaterial
-  );
-  cornerCove.position.set(
-    -width / 2 + CORNER_RADIUS,
-    floorLevel + height / 2,
-    -depth / 2 + CORNER_RADIUS
-  );
-  cornerCove.rotation.y = Math.PI / 2;
-  cornerCove.castShadow = true;
-  cornerCove.receiveShadow = true;
-  parent.add(cornerCove);
 
   return {
     stairsConfig: {
