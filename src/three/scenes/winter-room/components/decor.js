@@ -61,17 +61,22 @@ function createGalleryWall() {
 
   return frames;
 }
-
 function createBookshelf() {
   const { width, depth, height, floorLevel } = ROOM_SIZE;
 
   const shelfGroup = new THREE.Group();
-  const shelfWidth = 6.4;
-  const shelfHeight = 4.6;
-  const shelfDepth = 1.2;
+
+  // 벽면 꽉 채우기: 좌우는 살짝 여유만, 상단만 소량 여유
+  const sideMargin = 0.4;
+  const topMargin = 0.6;
+  const backGap = 0.02;
+
   const panelThickness = 0.22;
 
-  // Stream_LiveGame :: 책장 전체에 사용할 나무 재질.
+  const shelfWidth  = Math.max( width - sideMargin * 2, 6.0 );
+  const shelfHeight = Math.max( height - topMargin, 4.0 );
+  const shelfDepth  = Math.min( 1.4, depth - WALL_THICKNESS - 0.12 );
+
   const shelfMaterial = new THREE.MeshStandardMaterial({
     color: 0xcaa77a,
     roughness: 0.55,
@@ -79,109 +84,121 @@ function createBookshelf() {
     emissive: new THREE.Color(0x4a2e1c).multiplyScalar(0.06),
   });
 
-  const sideGeometry = new THREE.BoxGeometry(panelThickness, shelfHeight, shelfDepth);
+  // 기둥/상하판
+  const sideGeometry      = new THREE.BoxGeometry(panelThickness, shelfHeight, shelfDepth);
   const topBottomGeometry = new THREE.BoxGeometry(shelfWidth, panelThickness, shelfDepth);
 
-  // Stream_LiveGame :: 좌우 기둥과 상판/하판을 배치한다.
   const leftSide = new THREE.Mesh(sideGeometry, shelfMaterial);
   leftSide.position.x = -shelfWidth / 2 + panelThickness / 2;
-  shelfGroup.add(leftSide);
-
   const rightSide = leftSide.clone();
-  rightSide.position.x = shelfWidth / 2 - panelThickness / 2;
-  shelfGroup.add(rightSide);
+  rightSide.position.x =  shelfWidth / 2 - panelThickness / 2;
 
   const topPanel = new THREE.Mesh(topBottomGeometry, shelfMaterial);
-  topPanel.position.y = shelfHeight / 2 - panelThickness / 2;
-  shelfGroup.add(topPanel);
-
+  topPanel.position.y =  shelfHeight / 2 - panelThickness / 2;
   const bottomPanel = topPanel.clone();
   bottomPanel.position.y = -shelfHeight / 2 + panelThickness / 2;
-  shelfGroup.add(bottomPanel);
 
-  const shelfLevels = 3;
+  shelfGroup.add(leftSide, rightSide, topPanel, bottomPanel);
+
+  // 선반층: 벽 높이에 맞춰 5단
+  const shelfLevels = 5;
   for (let i = 1; i <= shelfLevels; i += 1) {
-    // Stream_LiveGame :: 각 층마다 얇은 선반을 추가한다.
     const shelf = new THREE.Mesh(topBottomGeometry, shelfMaterial);
     shelf.scale.y = 0.5;
     shelf.position.y = -shelfHeight / 2 + (shelfHeight / (shelfLevels + 1)) * i;
     shelfGroup.add(shelf);
   }
 
-  // Stream_LiveGame :: 책장을 풍성하게 보이게 하기 위해 책을 채운다.
-  const books = addBooksToShelf(
+  // 책 채우기(좌하단 → 우하단으로 밀도 감소)
+  const books = addBooksToShelfGradient(
     shelfGroup,
     shelfWidth,
     shelfHeight,
     shelfDepth,
-    panelThickness
+    panelThickness,
+    shelfLevels
   );
 
+  // 바닥 위에 "놓이게": 하단이 floorLevel에 닿도록
   shelfGroup.position.set(
-    width / 2 - shelfWidth / 2 - 1.2,
-    floorLevel + height - shelfHeight / 2 - 1.8,
-    -depth / 2 + WALL_THICKNESS + shelfDepth / 2 + 0.02
+    0,                                  // 벽 중앙 정렬
+    floorLevel + shelfHeight / 2,       // 바닥 접지
+    -depth / 2 + WALL_THICKNESS + shelfDepth / 2 + backGap // 뒷벽에 밀착
   );
 
-  return {
-    group: shelfGroup,
-    books,
-  };
+  return { group: shelfGroup, books };
 }
 
-function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickness) {
+// 좌하단에서 우하단으로 갈수록 책 밀도를 줄이는 배치
+function addBooksToShelfGradient(group, shelfWidth, shelfHeight, shelfDepth, panelThickness, shelfLevels) {
+  const usableWidth = shelfWidth - panelThickness * 2 - 0.8; // 좌우 여백
+  const startX = -shelfWidth / 2 + panelThickness + 0.4;
+  const endX   =  shelfWidth / 2 - panelThickness - 0.4;
+
   const bookDepth = shelfDepth - panelThickness * 2;
-  const bookHeightRange = [0.8, 1.6];
-  const colors = [0xffebe0, 0xffcfd2, 0xf9b4ab, 0xbce6ff, 0xacc3ff, 0xd6e4f5];
+  const colors = [0xffebe0, 0xffcfd2, 0xf9b4ab, 0xbce6ff, 0xacc3ff, 0xd6e4f5, 0xf2e6b8];
 
   const startY = -shelfHeight / 2 + panelThickness * 2;
-  const shelfSpacing = (shelfHeight - panelThickness * 2) / 4;
+  const shelfSpacing = (shelfHeight - panelThickness * 2) / (shelfLevels + 1);
   const bookMeshes = [];
 
-  for (let row = 0; row < 3; row += 1) {
-    const booksInRow = 7 + row * 2;
+  for (let row = 0; row < shelfLevels; row += 1) {
     const rowY = startY + shelfSpacing * (row + 1);
-    let offsetX = -shelfWidth / 2 + panelThickness + 0.4;
+    const rowNorm = row / Math.max(1, shelfLevels - 1); // 0=아래, 1=위
 
-    for (let i = 0; i < booksInRow; i += 1) {
-      const seed = row * 31 + i * 17;
-      // Stream_LiveGame :: 책 높이와 두께를 시드 기반으로 변형.
-      const height = THREE.MathUtils.lerp(
-        bookHeightRange[0],
-        bookHeightRange[1],
-        seededNoise(seed)
-      );
-      const thickness = 0.22 + seededNoise(seed + 5) * 0.18;
-      const bookGeometry = new THREE.BoxGeometry(thickness, height, bookDepth);
-      const bookMaterial = new THREE.MeshStandardMaterial({
-        color: colors[(row * booksInRow + i) % colors.length],
-        roughness: 0.4,
-        metalness: 0.05,
-        emissive: new THREE.Color(0xffe2c5).multiplyScalar(0.06),
-      });
+    let x = startX;
+    let i = 0;
+    while (x < endX) {
+      const seed = row * 101 + i * 37;
 
-      const book = new THREE.Mesh(bookGeometry, bookMaterial);
-      book.position.set(offsetX + thickness / 2, rowY + height / 2, 0);
-      // Stream_LiveGame :: 약간 기울여 자연스러운 배열을 만든다.
-      book.rotation.z = (seededNoise(seed + 11) - 0.5) * 0.12;
-      book.castShadow = true;
-      book.receiveShadow = true;
-      book.userData.isInteractiveBook = false;
-      book.userData.link = null;
-      book.userData.highlight = {
-        originalPosition: book.position.clone(),
-        originalColor: book.material.color.clone(),
-        originalEmissive: book.material.emissive.clone(),
-      };
+      // 기본 두께/틈
+      const thickness = 0.22 + seededNoise(seed + 5) * 0.22;
+      const gap = THREE.MathUtils.lerp(0.08, 0.16, seededNoise(seed + 9));
 
-      group.add(book);
-      bookMeshes.push(book);
-      offsetX += thickness + 0.12;
+      // x 진행 비율(왼쪽 0 → 오른쪽 1)
+      const t = (x - startX) / usableWidth;
 
-      if (offsetX > shelfWidth / 2 - panelThickness - 0.4) {
-        // Stream_LiveGame :: 선반 너비를 초과하면 다음 줄로 넘어간다.
-        break;
+      // 밀도 함수: 왼쪽·아래에선 빽빽, 오른쪽·위로 갈수록 성글게
+      const density =
+        1.0
+        - 0.65 * t           // 오른쪽으로 갈수록 감소
+        - 0.20 * rowNorm     // 위로 갈수록 약간 감소
+        + 0.08 * (seededNoise(seed + 11) - 0.5); // 살짝 랜덤
+
+      if (density > 0.35) {
+        // 책 하나 배치
+        const height = THREE.MathUtils.lerp(0.9, Math.max(1.7, shelfHeight * 0.22), seededNoise(seed));
+        const bookGeometry = new THREE.BoxGeometry(thickness, height, bookDepth);
+        const bookMaterial = new THREE.MeshStandardMaterial({
+          color: colors[(row * 17 + i) % colors.length],
+          roughness: 0.42,
+          metalness: 0.05,
+          emissive: new THREE.Color(0xffe2c5).multiplyScalar(0.05),
+        });
+
+        const book = new THREE.Mesh(bookGeometry, bookMaterial);
+        book.position.set(x + thickness / 2, rowY + height / 2, 0);
+        book.rotation.z = (seededNoise(seed + 13) - 0.5) * 0.12; // 살짝 기울기
+        book.castShadow = true;
+        book.receiveShadow = true;
+
+        book.userData.isInteractiveBook = false;
+        book.userData.link = null;
+        book.userData.highlight = {
+          originalPosition: book.position.clone(),
+          originalColor: book.material.color.clone(),
+          originalEmissive: book.material.emissive.clone(),
+        };
+
+        group.add(book);
+        bookMeshes.push(book);
+
+        x += thickness + gap;
+      } else {
+        // 공백만 두고 넘어가 밀도 낮춤
+        x += THREE.MathUtils.lerp(0.18, 0.32, seededNoise(seed + 21));
       }
+      i += 1;
     }
   }
 
@@ -189,9 +206,9 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
 }
 
 function seededNoise(seed) {
-  // Stream_LiveGame :: 사인 함수를 이용한 결정적 노이즈 함수.
   return (Math.sin(seed * 127.1) + 1) / 2;
 }
+
 
 function createRectangularFrame({
   width,

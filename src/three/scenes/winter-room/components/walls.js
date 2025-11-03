@@ -27,13 +27,12 @@ export function addWalls(parent) {
     material: wallMaterial,
   });
   const wallCenterY = floorLevel + height / 2 - FLOOR_THICKNESS / 2;
-  // Stream_LiveGame :: 왼쪽 벽을 방 내부 위치에 배치한다.
+
+  // Stream_LiveGame :: 왼쪽 벽 배치
   leftWall.position.set(-width / 2 + WALL_THICKNESS / 2, wallCenterY, 0);
   parent.add(leftWall);
 
-  // Stream_LiveGame :: 계단 생성에 필요한 탈출구 기준 좌표를 계산한다.
-  const holeBottomWorldY = leftWall.position.y + holeMetrics.bottom;
-
+  // Stream_LiveGame :: 후면 벽 배치
   const backWall = new THREE.Mesh(
     createRoundedPanelGeometry({
       width,
@@ -49,11 +48,27 @@ export function addWalls(parent) {
   backWall.receiveShadow = true;
   parent.add(backWall);
 
+  // Stream_LiveGame :: 코너 기둥 추가 (왼쪽-후면 코너를 깔끔하게 덮는다)
+  const cornerPillar = createCornerPillar({
+    height: height + FLOOR_THICKNESS,
+    diameter: WALL_THICKNESS, // 벽과 약간 겹치게 해서 틈 제거
+    material: accentMaterial,
+  });
+
+  // 방 내부 좌표계 기준: 왼쪽(back-left) 코너 위치
+  cornerPillar.position.set(
+    -width / 2 + WALL_THICKNESS / 2,
+    wallCenterY,
+    -depth / 2 + WALL_THICKNESS / 2
+  );
+  cornerPillar.castShadow = true;
+  cornerPillar.receiveShadow = true;
+  parent.add(cornerPillar);
 
   return {
     stairsConfig: {
       floorLevel,
-      holeBottomY: holeBottomWorldY,
+      holeBottomY: leftWall.position.y + holeMetrics.bottom,
       holeCenterZ: holeMetrics.centerZ,
       holeWidth: holeMetrics.width,
       roomWidth: width,
@@ -72,7 +87,6 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
 
   const wallHeight = height + FLOOR_THICKNESS;
 
-  // Stream_LiveGame :: 둥근 모서리를 가진 기본 벽 형태를 만든다.
   const wallShape = createRoundedRectShape({
     width: depth,
     height: wallHeight,
@@ -85,7 +99,6 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
   const holeFront = halfDepth - escapeHole.frontMargin;
   const holeBack = holeFront - escapeHole.width;
 
-  // Stream_LiveGame :: 탈출구 모양을 정의하여 벽에 구멍을 뚫는다.
   const escapePath = new THREE.Path();
   escapePath.moveTo(holeBack, holeBottom);
   escapePath.lineTo(holeFront, holeBottom);
@@ -117,7 +130,6 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
 }
 
 function createRoundedPanelGeometry({ width, height, depth, radius, bottomRadius = radius }) {
-  // Stream_LiveGame :: 후면 벽 패널을 위해 모서리가 둥근 형상을 생성한다.
   const panelShape = createRoundedRectShape({ width, height, radius, bottomRadius });
   const geometry = new THREE.ExtrudeGeometry(panelShape, {
     depth,
@@ -134,18 +146,12 @@ function createRoundedRectShape({ width, height, radius, bottomRadius = radius }
   const clampedTopRadius = Math.min(radius, halfWidth, halfHeight);
   const clampedBottomRadius = Math.min(bottomRadius, halfWidth, halfHeight);
 
-  // Stream_LiveGame :: 라운드 처리된 직사각형 경로를 정의한다.
   const shape = new THREE.Shape();
   shape.moveTo(-halfWidth + clampedBottomRadius, -halfHeight);
 
   if (clampedBottomRadius > 0) {
     shape.lineTo(halfWidth - clampedBottomRadius, -halfHeight);
-    shape.quadraticCurveTo(
-      halfWidth,
-      -halfHeight,
-      halfWidth,
-      -halfHeight + clampedBottomRadius
-    );
+    shape.quadraticCurveTo(halfWidth, -halfHeight, halfWidth, -halfHeight + clampedBottomRadius);
   } else {
     shape.lineTo(halfWidth, -halfHeight);
   }
@@ -153,12 +159,7 @@ function createRoundedRectShape({ width, height, radius, bottomRadius = radius }
   shape.lineTo(halfWidth, halfHeight - clampedTopRadius);
 
   if (clampedTopRadius > 0) {
-    shape.quadraticCurveTo(
-      halfWidth,
-      halfHeight,
-      halfWidth - clampedTopRadius,
-      halfHeight
-    );
+    shape.quadraticCurveTo(halfWidth, halfHeight, halfWidth - clampedTopRadius, halfHeight);
   } else {
     shape.lineTo(halfWidth, halfHeight);
   }
@@ -166,29 +167,35 @@ function createRoundedRectShape({ width, height, radius, bottomRadius = radius }
   shape.lineTo(-halfWidth + clampedTopRadius, halfHeight);
 
   if (clampedTopRadius > 0) {
-    shape.quadraticCurveTo(
-      -halfWidth,
-      halfHeight,
-      -halfWidth,
-      halfHeight - clampedTopRadius
-    );
+    shape.quadraticCurveTo(-halfWidth, halfHeight, -halfWidth, halfHeight - clampedTopRadius);
   } else {
     shape.lineTo(-halfWidth, halfHeight);
   }
 
   if (clampedBottomRadius > 0) {
     shape.lineTo(-halfWidth, -halfHeight + clampedBottomRadius);
-    shape.quadraticCurveTo(
-      -halfWidth,
-      -halfHeight,
-      -halfWidth + clampedBottomRadius,
-      -halfHeight
-    );
+    shape.quadraticCurveTo(-halfWidth, -halfHeight, -halfWidth + clampedBottomRadius, -halfHeight);
   } else {
     shape.lineTo(-halfWidth, -halfHeight);
   }
 
   shape.closePath();
-
   return shape;
+}
+
+// Stream_LiveGame :: 코너 기둥 생성 (큐브 형태, 자연스러운 색조)
+function createCornerPillar({ height, size, material }) {
+  // 벽보다 약간 따뜻하고 채도가 낮은 톤
+  const pillarMaterial = new THREE.MeshStandardMaterial({
+    color: 0xe5ebf5,        // 벽(#e9f1ff)보다 미세하게 어두운 회청색
+    roughness: 0.65,        // 벽보다 살짝 매끈하게
+    metalness: 0.08,        // 약간 더 금속감 부여
+    emissive: new THREE.Color(0x2a3545).multiplyScalar(0.04), // 벽의 어두운 음영 보완
+  });
+
+  const geometry = new THREE.BoxGeometry(size, height, size);
+  const mesh = new THREE.Mesh(geometry, pillarMaterial);
+  mesh.castShadow = true;
+  mesh.receiveShadow = true;
+  return mesh;
 }
