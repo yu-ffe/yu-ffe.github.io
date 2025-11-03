@@ -23,9 +23,14 @@ export function initializeWinterRoomScene(scene) {
   // addCeilingCove(roomGroup);
   addWindow(roomGroup);
   addEscapeStairs(roomGroup, stairsConfig);
-  addDecor(roomGroup);
+  const decorDetails = addDecor(roomGroup);
 
   // Stream_LiveGame :: 완성된 그룹을 씬에 추가하고 안개를 적용한다.
   scene.add(roomGroup);
   scene.fog = new THREE.Fog(FOG_COLOR, FOG_NEAR, FOG_FAR);
+
+  return {
+    roomGroup,
+    bookshelfBooks: decorDetails?.bookshelfBooks ?? [],
+  };
 }

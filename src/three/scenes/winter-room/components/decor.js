@@ -5,10 +5,14 @@ import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 export function addDecor(parent) {
   // Stream_LiveGame :: 벽 장식과 책장을 각각 구성한다.
   const frames = createGalleryWall();
-  const bookshelf = createBookshelf();
+  const { group: bookshelf, books } = createBookshelf();
 
   frames.forEach((frame) => parent.add(frame));
   parent.add(bookshelf);
+
+  return {
+    bookshelfBooks: books,
+  };
 }
 
 function createGalleryWall() {
@@ -105,7 +109,13 @@ function createBookshelf() {
   }
 
   // Stream_LiveGame :: 책장을 풍성하게 보이게 하기 위해 책을 채운다.
-  addBooksToShelf(shelfGroup, shelfWidth, shelfHeight, shelfDepth, panelThickness);
+  const books = addBooksToShelf(
+    shelfGroup,
+    shelfWidth,
+    shelfHeight,
+    shelfDepth,
+    panelThickness
+  );
 
   shelfGroup.position.set(
     width / 2 - shelfWidth / 2 - 1.2,
@@ -113,7 +123,10 @@ function createBookshelf() {
     -depth / 2 + WALL_THICKNESS + shelfDepth / 2 + 0.02
   );
 
-  return shelfGroup;
+  return {
+    group: shelfGroup,
+    books,
+  };
 }
 
 function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickness) {
@@ -123,6 +136,7 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
 
   const startY = -shelfHeight / 2 + panelThickness * 2;
   const shelfSpacing = (shelfHeight - panelThickness * 2) / 4;
+  const bookMeshes = [];
 
   for (let row = 0; row < 3; row += 1) {
     const booksInRow = 7 + row * 2;
@@ -152,8 +166,16 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
       book.rotation.z = (seededNoise(seed + 11) - 0.5) * 0.12;
       book.castShadow = true;
       book.receiveShadow = true;
+      book.userData.isInteractiveBook = false;
+      book.userData.link = null;
+      book.userData.highlight = {
+        originalPosition: book.position.clone(),
+        originalColor: book.material.color.clone(),
+        originalEmissive: book.material.emissive.clone(),
+      };
 
       group.add(book);
+      bookMeshes.push(book);
       offsetX += thickness + 0.12;
 
       if (offsetX > shelfWidth / 2 - panelThickness - 0.4) {
@@ -162,6 +184,8 @@ function addBooksToShelf(group, shelfWidth, shelfHeight, shelfDepth, panelThickn
       }
     }
   }
+
+  return bookMeshes;
 }
 
 function seededNoise(seed) {
@@ -200,44 +224,40 @@ function createRectangularFrame({
 
   const frameMaterial = new THREE.MeshStandardMaterial({
     color: frameColor,
-    metalness: 0.26,
-    roughness: 0.32,
-    emissive: new THREE.Color(frameColor).multiplyScalar(0.06),
+    roughness: 0.6,
+    metalness: 0.15,
+  });
+
+  const canvasMaterial = new THREE.MeshStandardMaterial({
+    color: canvasColor,
+    roughness: 0.9,
+    metalness: 0.02,
   });
 
   const frameMesh = new THREE.Mesh(frameGeometry, frameMaterial);
-  frameMesh.castShadow = true;
 
-  // Stream_LiveGame :: 내부 캔버스를 추가하여 그림 느낌을 완성한다.
-  const artCanvas = new THREE.Mesh(
-    new THREE.PlaneGeometry(width, height),
-    new THREE.MeshStandardMaterial({
-      color: canvasColor,
-      emissive: new THREE.Color(canvasColor).multiplyScalar(0.1),
-      roughness: 0.88,
-      metalness: 0.04,
-    })
-  );
-  artCanvas.position.z = depth / 2 + 0.02;
+  const canvasGeometry = new THREE.PlaneGeometry(width, height);
+  const canvasMesh = new THREE.Mesh(canvasGeometry, canvasMaterial);
+  canvasMesh.position.z = depth / 2 + 0.01;
 
-  const frameGroup = new THREE.Group();
-  frameGroup.add(frameMesh);
-  frameGroup.add(artCanvas);
+  const group = new THREE.Group();
+  group.add(frameMesh);
+  group.add(canvasMesh);
+  group.castShadow = true;
+  group.receiveShadow = true;
 
-  return frameGroup;
+  return group;
 }
 
 function createCircularFrame({ radius, border, depth, frameColor, canvasColor }) {
-  const outerRadius = radius + border;
+  const outerShape = new THREE.Shape();
+  outerShape.absarc(0, 0, radius + border, 0, Math.PI * 2, false);
 
-  // Stream_LiveGame :: 원형 액자 외곽과 내부 홀을 정의한다.
-  const frameShape = new THREE.Shape();
-  frameShape.absarc(0, 0, outerRadius, 0, Math.PI * 2, false);
   const innerHole = new THREE.Path();
   innerHole.absarc(0, 0, radius, 0, Math.PI * 2, true);
-  frameShape.holes.push(innerHole);
+  outerShape.holes.push(innerHole);
 
-  const frameGeometry = new THREE.ExtrudeGeometry(frameShape, {
+  const frameGeometry = new THREE.ExtrudeGeometry(outerShape, {
     depth,
     bevelEnabled: false,
   });
@@ -245,32 +265,27 @@ function createCircularFrame({ radius, border, depth, frameColor, canvasColor })
 
   const frameMaterial = new THREE.MeshStandardMaterial({
     color: frameColor,
-    metalness: 0.24,
-    roughness: 0.3,
-    emissive: new THREE.Color(frameColor).multiplyScalar(0.08),
+    roughness: 0.55,
+    metalness: 0.18,
+  });
+
+  const canvasMaterial = new THREE.MeshStandardMaterial({
+    color: canvasColor,
+    roughness: 0.85,
+    metalness: 0.04,
   });
 
   const frameMesh = new THREE.Mesh(frameGeometry, frameMaterial);
-  frameMesh.castShadow = true;
-  frameMesh.receiveShadow = true;
 
-  // Stream_LiveGame :: 원형 캔버스를 배치하여 은은한 색감을 더한다.
-  const artCanvas = new THREE.Mesh(
-    new THREE.CircleGeometry(radius, 48),
-    new THREE.MeshStandardMaterial({
-      color: canvasColor,
-      emissive: new THREE.Color(canvasColor).multiplyScalar(0.08),
-      roughness: 0.9,
-      metalness: 0.03,
-    })
-  );
-  artCanvas.position.z = depth / 2 + 0.02;
+  const canvasGeometry = new THREE.CircleGeometry(radius, 64);
+  const canvasMesh = new THREE.Mesh(canvasGeometry, canvasMaterial);
+  canvasMesh.position.z = depth / 2 + 0.01;
 
-  const frameGroup = new THREE.Group();
-  frameGroup.add(frameMesh);
-  frameGroup.add(artCanvas);
+  const group = new THREE.Group();
+  group.add(frameMesh);
+  group.add(canvasMesh);
+  group.castShadow = true;
+  group.receiveShadow = true;
 
-  frameGroup.castShadow = true;
-
-  return frameGroup;
+  return group;
 }
