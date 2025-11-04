@@ -1,11 +1,10 @@
 // Stream_LiveGame :: 책장 상호작용 구현을 위한 Three.js 도구를 사용한다.
 import * as THREE from "three";
-import { projectPointerToNDC } from "./utils/projectPointerToNDC.js";
 
 const pointer = new THREE.Vector2();
 const raycaster = new THREE.Raycaster();
 
-export function setupBookshelfInteractions(camera, books, bookEntries, domElement) {
+export function setupBookshelfInteractions(camera, books, bookEntries) {
   if (!camera || !Array.isArray(books) || books.length === 0) {
     return () => {};
   }
@@ -28,13 +27,11 @@ export function setupBookshelfInteractions(camera, books, bookEntries, domElemen
     book.userData.title = title ?? text ?? "";
   });
 
-  return registerHighlightHandlers(camera, selectedBooks, domElement);
+  return registerHighlightHandlers(camera, selectedBooks);
 }
 
-function registerHighlightHandlers(camera, interactiveBooks, domElement) {
+function registerHighlightHandlers(camera, interactiveBooks) {
   let hoveredBook = null;
-
-  const eventTarget = domElement ?? window;
 
   function updateHighlight(target) {
     if (hoveredBook === target) {
@@ -56,35 +53,37 @@ function registerHighlightHandlers(camera, interactiveBooks, domElement) {
   }
 
   function handlePointerMove(event) {
-    updatePointer(event, domElement);
+    updatePointer(event.clientX, event.clientY);
     raycaster.setFromCamera(pointer, camera);
     const [hit] = raycaster.intersectObjects(interactiveBooks, false);
     updateHighlight(hit?.object ?? null);
   }
 
-  function handlePointerLeave() {
-    updateHighlight(null);
+  function handlePointerOut(event) {
+    if (!event.relatedTarget || !(event.relatedTarget instanceof Element)) {
+      updateHighlight(null);
+    }
   }
 
   function handleBlur() {
     updateHighlight(null);
   }
 
-  eventTarget.addEventListener("pointermove", handlePointerMove);
-  eventTarget.addEventListener("pointerleave", handlePointerLeave);
+  window.addEventListener("pointermove", handlePointerMove);
+  window.addEventListener("pointerout", handlePointerOut);
   window.addEventListener("blur", handleBlur);
 
   return () => {
     updateHighlight(null);
-    eventTarget.removeEventListener("pointermove", handlePointerMove);
-    eventTarget.removeEventListener("pointerleave", handlePointerLeave);
+    window.removeEventListener("pointermove", handlePointerMove);
+    window.removeEventListener("pointerout", handlePointerOut);
     window.removeEventListener("blur", handleBlur);
   };
 }
 
-function updatePointer(event, domElement) {
-  const { x, y } = projectPointerToNDC(event, domElement);
-  pointer.set(x, y);
+function updatePointer(clientX, clientY) {
+  pointer.x = (clientX / window.innerWidth) * 2 - 1;
+  pointer.y = -(clientY / window.innerHeight) * 2 + 1;
 }
 
 function applyHighlight(book) {

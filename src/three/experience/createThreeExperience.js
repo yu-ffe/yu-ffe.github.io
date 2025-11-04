@@ -20,7 +20,7 @@ export function createThreeExperience(canvas) {
   setupLights(app.scene);
 
   // Stream_LiveGame :: 사용자 클릭을 추적하는 핸들러를 등록하고 제거 함수를 받는다.
-  const removeClickHandler = registerClickNavigation(app.camera, app.scene, app.canvas);
+  const removeClickHandler = registerClickNavigation(app.camera, app.scene);
 
   let disposeBookshelfInteractions = () => {};
   let isDisposed = false;
@@ -33,8 +33,7 @@ export function createThreeExperience(canvas) {
     disposeBookshelfInteractions = setupBookshelfInteractions(
       app.camera,
       bookshelfBooks,
-      bookEntries,
-      app.canvas
+      bookEntries
     );
   });
 
