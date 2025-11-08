@@ -1,7 +1,4 @@
-// Modified version of the bookshelf interactions script.
-// This adjusts the number of interactive books so we can assign more than three
-// clickable entries (e.g. to our mini‑games).
-
+// Stream_LiveGame :: 책장 상호작용 구현을 위한 Three.js 도구를 사용한다.
 import * as THREE from "three";
 
 const pointer = new THREE.Vector2();
@@ -12,15 +9,11 @@ export function setupBookshelfInteractions(camera, books, bookEntries) {
     return () => {};
   }
 
-  // Keep only entries with a non‑empty link.
   const entries = Array.isArray(bookEntries)
     ? bookEntries.filter((entry) => typeof entry?.link === "string" && entry.link.length > 0)
     : [];
 
-  // Allow up to 10 interactive books. Previously this was hard capped at 3, which
-  // limited how many book links could be interactive. Our mini‑games require
-  // more interactive entries.
-  const interactiveCount = Math.min(entries.length, books.length, 10);
+  const interactiveCount = Math.min(entries.length, books.length, 3);
   if (interactiveCount === 0) {
     return () => {};
   }
