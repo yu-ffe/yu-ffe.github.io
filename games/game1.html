@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mini Game 1: Spin Cube</title>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        background: #000;
+        color: #fff;
+        font-family: sans-serif;
+      }
+      #info {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="info">Click the cube to make it spin faster. Get to 10 clicks to win!</div>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.min.js"></script>
+    <script>
+      // Set up scene, camera and renderer
+      const scene = new THREE.Scene();
+      const camera = new THREE.PerspectiveCamera(
+        75,
+        window.innerWidth / window.innerHeight,
+        0.1,
+        1000
+      );
+      const renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
+
+      // Create a cube
+      const geometry = new THREE.BoxGeometry(1, 1, 1);
+      const material = new THREE.MeshStandardMaterial({ color: 0x0080ff });
+      const cube = new THREE.Mesh(geometry, material);
+      scene.add(cube);
+
+      // Lighting
+      const ambient = new THREE.AmbientLight(0xffffff, 0.8);
+      scene.add(ambient);
+      const point = new THREE.PointLight(0xffffff, 0.6);
+      point.position.set(5, 5, 5);
+      scene.add(point);
+
+      camera.position.z = 3;
+
+      let spinSpeed = 0.01;
+      let clickCount = 0;
+      let won = false;
+
+      function animate() {
+        requestAnimationFrame(animate);
+        cube.rotation.x += spinSpeed;
+        cube.rotation.y += spinSpeed;
+        renderer.render(scene, camera);
+      }
+      animate();
+
+      window.addEventListener("resize", () => {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+      });
+
+      // Increase spin speed and track clicks
+      window.addEventListener("click", () => {
+        if (won) return;
+        spinSpeed += 0.02;
+        clickCount++;
+        if (clickCount >= 10) {
+          won = true;
+          document.getElementById("info").innerText =
+            "You win! The cube is spinning fast.";
+        }
+      });
+    </script>
+  </body>
+</html>

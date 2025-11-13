@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mini Game 6: Maze Runner</title>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        background: #000;
+        color: #fff;
+        font-family: sans-serif;
+      }
+      #info {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="info">Reach the green goal. Use arrow keys to move.</div>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.min.js"></script>
+    <script>
+      const scene = new THREE.Scene();
+      const camera = new THREE.PerspectiveCamera(
+        75,
+        window.innerWidth / window.innerHeight,
+        0.1,
+        1000
+      );
+      camera.position.set(0, 8, 8);
+      camera.lookAt(0, 0, 0);
+      const renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
+      // lighting
+      const ambient = new THREE.AmbientLight(0xffffff, 0.6);
+      scene.add(ambient);
+      const dir = new THREE.DirectionalLight(0xffffff, 0.6);
+      dir.position.set(5, 10, 5);
+      scene.add(dir);
+      // floor
+      const floor = new THREE.Mesh(
+        new THREE.PlaneGeometry(10, 10),
+        new THREE.MeshStandardMaterial({ color: 0x222222 })
+      );
+      floor.rotation.x = -Math.PI / 2;
+      scene.add(floor);
+      // maze walls layout (7x7 grid) 1 = wall, 0 = path
+      const layout = [
+        "1111111",
+        "1000001",
+        "1011101",
+        "1000101",
+        "1110101",
+        "1000001",
+        "1111111",
+      ];
+      const walls = [];
+      const cellSize = 10 / (layout.length - 1);
+      for (let z = 0; z < layout.length; z++) {
+        for (let x = 0; x < layout[z].length; x++) {
+          if (layout[z][x] === "1") {
+            const box = new THREE.Mesh(
+              new THREE.BoxGeometry(cellSize, 1, cellSize),
+              new THREE.MeshStandardMaterial({ color: 0x444444 })
+            );
+            box.position.set(
+              x * cellSize - 5 + cellSize / 2,
+              0.5,
+              z * cellSize - 5 + cellSize / 2
+            );
+            scene.add(box);
+            walls.push(box);
+          }
+        }
+      }
+      // start (blue) and end (green)
+      const player = new THREE.Mesh(
+        new THREE.SphereGeometry(0.3, 32, 32),
+        new THREE.MeshStandardMaterial({ color: 0x0080ff })
+      );
+      player.position.set(-4 + cellSize, 0.3, -4 + cellSize);
+      scene.add(player);
+      const goal = new THREE.Mesh(
+        new THREE.BoxGeometry(cellSize * 0.6, 0.3, cellSize * 0.6),
+        new THREE.MeshStandardMaterial({ color: 0x00aa00 })
+      );
+      goal.position.set(4 - cellSize, 0.15, 4 - cellSize);
+      scene.add(goal);
+      // controls
+      const keys = {};
+      window.addEventListener("keydown", (e) => (keys[e.key] = true));
+      window.addEventListener("keyup", (e) => (keys[e.key] = false));
+      let won = false;
+      function animate() {
+        requestAnimationFrame(animate);
+        if (!won) {
+          const step = 0.05;
+          let dx = 0;
+          let dz = 0;
+          if (keys["ArrowLeft"]) dx -= step;
+          if (keys["ArrowRight"]) dx += step;
+          if (keys["ArrowUp"]) dz -= step;
+          if (keys["ArrowDown"]) dz += step;
+          // compute new position
+          const newPos = player.position.clone();
+          newPos.x += dx;
+          newPos.z += dz;
+          // collision check
+          let blocked = false;
+          for (const w of walls) {
+            const distX = Math.abs(newPos.x - w.position.x);
+            const distZ = Math.abs(newPos.z - w.position.z);
+            const minDist = cellSize / 2 - 0.3; // allow some margin
+            if (distX < minDist && distZ < minDist) {
+              blocked = true;
+              break;
+            }
+          }
+          if (!blocked) {
+            player.position.copy(newPos);
+          }
+          // check finish
+          if (player.position.distanceTo(goal.position) < 0.6) {
+            won = true;
+            document.getElementById("info").innerText = "You escaped the maze!";
+          }
+        }
+        renderer.render(scene, camera);
+      }
+      animate();
+      window.addEventListener("resize", () => {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+      });
+    </script>
+  </body>
+</html>

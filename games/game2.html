@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mini Game 2: Collect Stars</title>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        background: #000;
+        color: #fff;
+        font-family: sans-serif;
+      }
+      #info {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="info">Use arrow keys to move the blue sphere. Collect all stars!</div>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.min.js"></script>
+    <script>
+      const scene = new THREE.Scene();
+      const camera = new THREE.PerspectiveCamera(
+        75,
+        window.innerWidth / window.innerHeight,
+        0.1,
+        1000
+      );
+      const renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
+      // top‑down camera
+      camera.position.set(0, 10, 0);
+      camera.lookAt(0, 0, 0);
+
+      // ground
+      const groundGeo = new THREE.PlaneGeometry(20, 20);
+      const groundMat = new THREE.MeshStandardMaterial({ color: 0x222222 });
+      const ground = new THREE.Mesh(groundGeo, groundMat);
+      ground.rotation.x = -Math.PI / 2;
+      scene.add(ground);
+
+      // lighting
+      const ambient = new THREE.AmbientLight(0xffffff, 0.6);
+      scene.add(ambient);
+      const dir = new THREE.DirectionalLight(0xffffff, 0.6);
+      dir.position.set(3, 10, 3);
+      scene.add(dir);
+
+      // player sphere
+      const playerGeo = new THREE.SphereGeometry(0.5, 32, 32);
+      const playerMat = new THREE.MeshStandardMaterial({ color: 0x0080ff });
+      const player = new THREE.Mesh(playerGeo, playerMat);
+      player.position.y = 0.5;
+      scene.add(player);
+
+      // stars
+      const stars = [];
+      const starGeo = new THREE.IcosahedronGeometry(0.3, 0);
+      const starMat = new THREE.MeshStandardMaterial({ color: 0xffff00, emissive: 0xffe400 });
+      for (let i = 0; i < 6; i++) {
+        const star = new THREE.Mesh(starGeo, starMat.clone());
+        star.position.set(
+          (Math.random() - 0.5) * 12,
+          0.3,
+          (Math.random() - 0.5) * 12
+        );
+        scene.add(star);
+        stars.push(star);
+      }
+
+      // movement
+      const keys = {};
+      window.addEventListener("keydown", (e) => {
+        keys[e.key] = true;
+      });
+      window.addEventListener("keyup", (e) => {
+        keys[e.key] = false;
+      });
+
+      let collected = 0;
+      let won = false;
+
+      function animate() {
+        requestAnimationFrame(animate);
+        // update player movement
+        const speed = 0.1;
+        if (!won) {
+          if (keys["ArrowLeft"]) player.position.x -= speed;
+          if (keys["ArrowRight"]) player.position.x += speed;
+          if (keys["ArrowUp"]) player.position.z -= speed;
+          if (keys["ArrowDown"]) player.position.z += speed;
+        }
+        // keep within bounds
+        player.position.x = THREE.MathUtils.clamp(player.position.x, -9, 9);
+        player.position.z = THREE.MathUtils.clamp(player.position.z, -9, 9);
+        // check collisions with stars
+        for (let i = stars.length - 1; i >= 0; i--) {
+          const star = stars[i];
+          if (player.position.distanceTo(star.position) < 0.6) {
+            scene.remove(star);
+            stars.splice(i, 1);
+            collected++;
+            document.getElementById("info").innerText = `Stars collected: ${collected}/6`;
+          }
+        }
+        if (!won && stars.length === 0) {
+          won = true;
+          document.getElementById("info").innerText =
+            "You collected all the stars! You win.";
+        }
+        renderer.render(scene, camera);
+      }
+      animate();
+
+      window.addEventListener("resize", () => {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+      });
+    </script>
+  </body>
+</html>

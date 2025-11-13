@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Mini Game 8: Stack Builder</title>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+        background: #000;
+        color: #fff;
+        font-family: sans-serif;
+      }
+      #info {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        z-index: 10;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="info">Click to drop cubes. Stack 10 cubes high!</div>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.min.js"></script>
+    <script>
+      const scene = new THREE.Scene();
+      const camera = new THREE.PerspectiveCamera(
+        75,
+        window.innerWidth / window.innerHeight,
+        0.1,
+        1000
+      );
+      camera.position.set(0, 8, 10);
+      camera.lookAt(0, 0, 0);
+      const renderer = new THREE.WebGLRenderer({ antialias: true });
+      renderer.setSize(window.innerWidth, window.innerHeight);
+      document.body.appendChild(renderer.domElement);
+      const ambient = new THREE.AmbientLight(0xffffff, 0.6);
+      scene.add(ambient);
+      const dir = new THREE.DirectionalLight(0xffffff, 0.6);
+      dir.position.set(5, 10, 5);
+      scene.add(dir);
+      // base platform
+      const platform = new THREE.Mesh(
+        new THREE.PlaneGeometry(8, 4),
+        new THREE.MeshStandardMaterial({ color: 0x333333 })
+      );
+      platform.rotation.x = -Math.PI / 2;
+      scene.add(platform);
+      const cubes = [];
+      let dropping = null;
+      let cubeCount = 0;
+      let won = false;
+      function dropCube() {
+        if (won || dropping) return;
+        const geo = new THREE.BoxGeometry(1, 1, 1);
+        const mat = new THREE.MeshStandardMaterial({ color: 0x55aaff });
+        const cube = new THREE.Mesh(geo, mat);
+        cube.position.set((Math.random() - 0.5) * 6, 10, 0);
+        cube.userData.velocity = -4;
+        dropping = cube;
+        scene.add(cube);
+      }
+      window.addEventListener("click", dropCube);
+      function animate(time) {
+        requestAnimationFrame(animate);
+        const delta = (time - (animate.last || time)) / 1000;
+        animate.last = time;
+        // update dropping cube
+        if (dropping) {
+          dropping.position.y += dropping.userData.velocity * delta;
+          // check for collision with stack or platform
+          const targetY = cubeCount * 1 + 0.5;
+          if (dropping.position.y <= targetY) {
+            dropping.position.y = targetY;
+            cubes.push(dropping);
+            cubeCount++;
+            dropping = null;
+            document.getElementById("info").innerText =
+              `Cubes stacked: ${cubeCount}/10`;
+            if (cubeCount >= 10) {
+              won = true;
+              document.getElementById("info").innerText =
+                "You built a tall stack! Well done.";
+            }
+          }
+        }
+        renderer.render(scene, camera);
+      }
+      animate();
+      window.addEventListener("resize", () => {
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+        renderer.setSize(window.innerWidth, window.innerHeight);
+      });
+    </script>
+  </body>
+</html>
