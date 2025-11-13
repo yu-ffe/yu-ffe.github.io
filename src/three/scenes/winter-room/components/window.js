@@ -60,7 +60,12 @@ export function addWindow(parent, opening = {}) {
   windowGroup.add(middleRail);
 
   // Stream_LiveGame :: 이중 창문의 유리창과 프레임을 생성한다.
-  const sashHeight = Math.max(0.4, (windowHeight - frameThickness * 1.6) / 2);
+  const availableHeight = Math.max(0, windowHeight - frameThickness * 2);
+  const baseSashHeight = Math.max(0.4, (windowHeight - frameThickness * 1.6) / 2);
+  const sashHeight = Math.min(
+    availableHeight / 2,
+    Math.max(0.3, baseSashHeight * 0.75)
+  );
   const sashWidth = Math.max(0.4, windowWidth - frameThickness * 1.4);
   const sashSlideDistance = Math.max(0, sashHeight - frameThickness * 1.2);
 
@@ -107,14 +112,22 @@ export function addWindow(parent, opening = {}) {
   const topSash = createSash();
   const bottomSash = createSash();
 
-  const topSashY = floorLevel + sillHeight + windowHeight - frameThickness - sashHeight / 2;
-  const bottomSashBaseY = floorLevel + sillHeight + frameThickness + sashHeight / 2;
-  const exteriorSashZ = frameThickness / 2 + 0.02;
-  // Keep the bottom sash tucked just behind the exterior sash so it can slide without overlap.
+  const bottomEdgeY = floorLevel + sillHeight + frameThickness;
+  const topEdgeY = floorLevel + sillHeight + windowHeight - frameThickness;
+  const clearance = Math.max(0, availableHeight - sashHeight * 2);
+  const bottomSashClosedY = bottomEdgeY + sashHeight / 2 + clearance / 2;
+  const topSashClosedY = Math.min(topEdgeY - sashHeight / 2, bottomSashClosedY + sashHeight);
+  const exteriorFlushZ = frameThickness / 2 - 0.01;
+  // Keep the bottom sash tucked just behind the exterior sash while staying within the wall thickness.
   const sashDepthOffset = Math.min(sashFrameThickness * 0.75, frameThickness * 0.45);
+  const interiorFlushLimit = -frameThickness / 2 + 0.01;
+  const bottomSashClosedZ = Math.max(
+    interiorFlushLimit,
+    exteriorFlushZ - sashDepthOffset
+  );
 
-  topSash.position.set(0, topSashY, exteriorSashZ);
-  bottomSash.position.set(0, bottomSashBaseY, exteriorSashZ - sashDepthOffset);
+  topSash.position.set(0, topSashClosedY, exteriorFlushZ);
+  bottomSash.position.set(0, bottomSashClosedY, bottomSashClosedZ);
 
   windowGroup.add(topSash);
   windowGroup.add(bottomSash);
@@ -125,7 +138,7 @@ export function addWindow(parent, opening = {}) {
   };
 
   const updateSashPosition = () => {
-    bottomSash.position.y = bottomSashBaseY + sashSlideDistance * slidingState.current;
+    bottomSash.position.y = bottomSashClosedY + sashSlideDistance * slidingState.current;
   };
 
   const update = (delta) => {
