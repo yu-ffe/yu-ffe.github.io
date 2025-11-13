@@ -9,4 +9,4 @@ export const ROOM_SIZE = Object.freeze({
 // Stream_LiveGame :: 구조물 두께 관련 상수.
 export const WALL_THICKNESS = 0.6;
 export const FLOOR_THICKNESS = 0.9;
-export const BASE_OFFSET = 2.2;
+export const BASE_OFFSET = 5;
