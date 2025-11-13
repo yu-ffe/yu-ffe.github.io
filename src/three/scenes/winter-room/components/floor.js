@@ -1,6 +1,7 @@
 // floor.js
 // Stream_LiveGame :: 바닥 메시 구성에 Three.js를 사용한다.
 import * as THREE from "three";
+import { RoundedBoxGeometry } from "three/examples/jsm/geometries/RoundedBoxGeometry.js";
 import { FLOOR_THICKNESS, ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
 export function addFloor(parent) {
@@ -66,10 +67,12 @@ export function addFloor(parent) {
 
     const depthScale = THREE.MathUtils.lerp(0.96, 0.992, seededNoise(seed + 8.51));
 
-    const plankGeometry = new THREE.BoxGeometry(
+    const plankGeometry = new RoundedBoxGeometry(
       plankWidth,
       plankHeight,
-      innerDepth * depthScale - depthTrim * 2
+      innerDepth * depthScale - depthTrim * 2,
+      2,
+      Math.min(plankHeight, plankWidth) * 0.08
     );
 
     const plank = new THREE.Mesh(plankGeometry, plankMaterial);
