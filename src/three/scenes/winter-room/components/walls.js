@@ -48,6 +48,15 @@ export function addWalls(parent) {
   backWall.receiveShadow = true;
   parent.add(backWall);
 
+  const brickBackdrop = createStaggeredBrickWall({
+    width,
+    height: height + FLOOR_THICKNESS,
+    brickDepth: WALL_THICKNESS * 0.6,
+  });
+  const brickOffset = WALL_THICKNESS / 2 + brickBackdrop.userData.brickDepth / 2 + WALL_THICKNESS * 0.1;
+  brickBackdrop.position.set(0, wallCenterY, -depth / 2 - brickOffset);
+  parent.add(brickBackdrop);
+
   // Stream_LiveGame :: 코너 기둥 추가 (왼쪽-후면 코너를 깔끔하게 덮는다)
   const cornerPillar = createCornerPillar({
     height: height + FLOOR_THICKNESS,
@@ -209,4 +218,67 @@ function createCornerPillar({ height, size, material }) {
   mesh.castShadow = true;
   mesh.receiveShadow = true;
   return mesh;
+}
+
+function createStaggeredBrickWall({ width, height, brickWidth = 1.6, brickHeight = 0.55, brickDepth = 0.36 }) {
+  const group = new THREE.Group();
+  group.userData.brickDepth = brickDepth;
+
+  const geometry = new THREE.BoxGeometry(brickWidth, brickHeight, brickDepth);
+  const material = new THREE.MeshStandardMaterial({
+    color: 0xb36b46,
+    roughness: 0.85,
+    metalness: 0.05,
+  });
+  material.vertexColors = true;
+
+  const horizontalGap = brickWidth * 0.08;
+  const verticalGap = brickHeight * 0.12;
+  const strideX = brickWidth + horizontalGap;
+  const strideY = brickHeight + verticalGap;
+
+  const rows = Math.ceil(height / strideY) + 1;
+  const bricksPerRow = Math.ceil(width / strideX) + 2;
+
+  const totalInstances = rows * bricksPerRow;
+  const instancedMesh = new THREE.InstancedMesh(geometry, material, totalInstances);
+  instancedMesh.receiveShadow = true;
+
+  const dummy = new THREE.Object3D();
+  const brickColor = new THREE.Color(material.color);
+  let instanceIndex = 0;
+
+  for (let row = 0; row < rows; row += 1) {
+    const y = -height / 2 + row * strideY + brickHeight / 2;
+    const offset = (row % 2 === 0 ? 0 : strideX / 2);
+
+    for (let col = 0; col < bricksPerRow; col += 1) {
+      const x = -width / 2 + col * strideX + offset + brickWidth / 2;
+
+      if (x - brickWidth / 2 > width / 2 || x + brickWidth / 2 < -width / 2) {
+        continue;
+      }
+
+      dummy.position.set(x, y, 0);
+      dummy.updateMatrix();
+      instancedMesh.setMatrixAt(instanceIndex, dummy.matrix);
+
+      const seed = Math.sin(row * 37 + col * 17) * 43758.5453;
+      const variation = ((seed - Math.floor(seed)) - 0.5) * 0.12;
+      const variedColor = brickColor.clone();
+      variedColor.offsetHSL(0, 0, variation);
+      instancedMesh.setColorAt(instanceIndex, variedColor);
+
+      instanceIndex += 1;
+    }
+  }
+
+  instancedMesh.count = instanceIndex;
+  instancedMesh.instanceMatrix.needsUpdate = true;
+  if (instancedMesh.instanceColor) {
+    instancedMesh.instanceColor.needsUpdate = true;
+  }
+  group.add(instancedMesh);
+
+  return group;
 }
