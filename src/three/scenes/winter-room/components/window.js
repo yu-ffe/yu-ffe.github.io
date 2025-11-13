@@ -17,7 +17,8 @@ export function addWindow(parent, opening = {}) {
   const sillHeight = Math.max(0, openingBottomY - floorLevel + frameInset);
 
   const windowGroup = new THREE.Group();
-  windowGroup.position.set(-width / 2 + WALL_THICKNESS / 2 + 0.01, 0, openingCenterZ);
+  // Slightly pull the window assembly toward the exterior so it no longer looks recessed.
+  windowGroup.position.set(-width / 2 + WALL_THICKNESS / 2 - 0.05, 0, openingCenterZ);
   windowGroup.rotation.y = Math.PI / 2;
 
   const frameMaterial = new THREE.MeshStandardMaterial({
@@ -108,9 +109,12 @@ export function addWindow(parent, opening = {}) {
 
   const topSashY = floorLevel + sillHeight + windowHeight - frameThickness - sashHeight / 2;
   const bottomSashBaseY = floorLevel + sillHeight + frameThickness + sashHeight / 2;
+  const exteriorSashZ = frameThickness / 2 + 0.02;
+  // Keep the bottom sash tucked just behind the exterior sash so it can slide without overlap.
+  const sashDepthOffset = Math.min(sashFrameThickness * 0.75, frameThickness * 0.45);
 
-  topSash.position.set(0, topSashY, frameThickness / 2 + 0.02);
-  bottomSash.position.set(0, bottomSashBaseY, frameThickness / 2 + 0.025);
+  topSash.position.set(0, topSashY, exteriorSashZ);
+  bottomSash.position.set(0, bottomSashBaseY, exteriorSashZ - sashDepthOffset);
 
   windowGroup.add(topSash);
   windowGroup.add(bottomSash);

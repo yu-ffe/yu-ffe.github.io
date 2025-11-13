@@ -93,7 +93,11 @@ function createLeftWallWithWindowOpening({ depth, height, material }) {
   });
 
   const centeredTopMargin = Math.max(0, wallHeight / 2 - windowOpening.height / 2);
-  const holeTop = wallHeight / 2 - centeredTopMargin;
+  // Nudge the opening upward so the window sits higher while leaving a small buffer from the ceiling.
+  const upwardShift = windowOpening.height * 0.22;
+  const downwardRelax = windowOpening.height * 0.06;
+  const verticalShift = upwardShift - downwardRelax;
+  const holeTop = wallHeight / 2 - centeredTopMargin + verticalShift;
   const holeBottom = holeTop - windowOpening.height;
   const centeredFrontMargin = Math.max(0, halfDepth - windowOpening.width / 2);
   const holeFront = halfDepth - centeredFrontMargin;
