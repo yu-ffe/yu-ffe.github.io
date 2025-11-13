@@ -18,8 +18,13 @@ export function initializeWinterRoomScene(scene) {
   addFoundation(roomGroup);
   addFloor(roomGroup);
   const { windowConfig } = addWalls(roomGroup);
-  addWindow(roomGroup, windowConfig);
+  const windowDetails = addWindow(roomGroup, windowConfig);
   const decorDetails = addDecor(roomGroup);
+
+  const updateCallbacks = [];
+  if (typeof windowDetails?.update === "function") {
+    updateCallbacks.push(windowDetails.update);
+  }
 
   // Stream_LiveGame :: 완성된 그룹을 씬에 추가하고 안개를 적용한다.
   scene.add(roomGroup);
@@ -28,5 +33,7 @@ export function initializeWinterRoomScene(scene) {
   return {
     roomGroup,
     bookshelfBooks: decorDetails?.bookshelfBooks ?? [],
+    windowDetails,
+    updateCallbacks,
   };
 }

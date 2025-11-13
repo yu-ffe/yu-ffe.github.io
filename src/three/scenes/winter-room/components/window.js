@@ -3,12 +3,12 @@ import * as THREE from "three";
 import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
 export function addWindow(parent, opening = {}) {
-  const { width, floorLevel, depth } = ROOM_SIZE;
+  const { width, floorLevel } = ROOM_SIZE;
 
   const openingWidth = opening.width ?? 9.5;
   const openingHeight = opening.height ?? 7;
   const openingBottomY = opening.bottomY ?? floorLevel + 3.5;
-  const openingCenterZ = opening.centerZ ?? -depth / 3;
+  const openingCenterZ = opening.centerZ ?? 0;
 
   const frameThickness = 0.35;
   const frameInset = 0.4;
@@ -24,6 +24,7 @@ export function addWindow(parent, opening = {}) {
     color: 0xa3c5e6,
     roughness: 0.45,
     metalness: 0.25,
+    side: THREE.DoubleSide,
   });
 
   // Stream_LiveGame :: 기본적인 수직/수평 프레임 지오메트리를 준비한다.
@@ -52,27 +53,95 @@ export function addWindow(parent, opening = {}) {
   bottomFrame.position.set(0, floorLevel + sillHeight - frameThickness / 2, 0);
   windowGroup.add(bottomFrame);
 
-  const muntin = new THREE.Mesh(horizontalFrameGeometry, frameMaterial);
-  muntin.scale.set(0.45, 1, 1);
-  muntin.position.set(0, floorLevel + sillHeight + windowHeight / 2, 0);
-  windowGroup.add(muntin);
+  const middleRail = new THREE.Mesh(horizontalFrameGeometry, frameMaterial);
+  middleRail.scale.set(0.48, 1, 1);
+  middleRail.position.set(0, floorLevel + sillHeight + windowHeight / 2, 0);
+  windowGroup.add(middleRail);
 
-  // Stream_LiveGame :: 유리재질 평면을 만들어 빛을 통과시키는 효과를 준다.
-  const glazing = new THREE.Mesh(
-    new THREE.PlaneGeometry(windowWidth, windowHeight),
-    new THREE.MeshPhysicalMaterial({
-      color: 0xb9dcff,
-      transmission: 0.75,
-      opacity: 0.9,
-      roughness: 0.25,
-      thickness: 0.4,
-      transparent: true,
-    })
-  );
-  glazing.position.set(0, floorLevel + sillHeight + windowHeight / 2, frameThickness / 2);
-  glazing.receiveShadow = false;
-  glazing.castShadow = false;
-  windowGroup.add(glazing);
+  // Stream_LiveGame :: 이중 창문의 유리창과 프레임을 생성한다.
+  const sashHeight = Math.max(0.4, (windowHeight - frameThickness * 1.6) / 2);
+  const sashWidth = Math.max(0.4, windowWidth - frameThickness * 1.4);
+  const sashSlideDistance = Math.max(0, sashHeight - frameThickness * 1.2);
+
+  const glassParams = {
+    color: 0xb9dcff,
+    transmission: 0.78,
+    opacity: 0.88,
+    roughness: 0.22,
+    thickness: 0.45,
+    transparent: true,
+    side: THREE.DoubleSide,
+  };
+
+  const sashFrameThickness = Math.max(0.12, frameThickness * 0.82);
+
+  const createSash = () => {
+    const sashGroup = new THREE.Group();
+
+    const frameGeometry = createSashFrameGeometry(sashWidth, sashHeight, sashFrameThickness);
+    const sashFrame = new THREE.Mesh(frameGeometry, frameMaterial.clone());
+    sashFrame.castShadow = false;
+    sashFrame.receiveShadow = false;
+    sashFrame.position.z = sashFrameThickness / 2;
+    sashGroup.add(sashFrame);
+
+    const glassGeometry = new THREE.PlaneGeometry(
+      Math.max(0.2, sashWidth - sashFrameThickness * 2),
+      Math.max(0.2, sashHeight - sashFrameThickness * 2)
+    );
+    const glassMaterial = new THREE.MeshPhysicalMaterial({ ...glassParams });
+    const glass = new THREE.Mesh(glassGeometry, glassMaterial);
+    glass.position.z = sashFrameThickness / 2 + 0.01;
+    glass.castShadow = false;
+    glass.receiveShadow = false;
+    sashGroup.add(glass);
+
+    sashGroup.userData = {
+      glassMaterial,
+    };
+
+    return sashGroup;
+  };
+
+  const topSash = createSash();
+  const bottomSash = createSash();
+
+  const topSashY = floorLevel + sillHeight + windowHeight - frameThickness - sashHeight / 2;
+  const bottomSashBaseY = floorLevel + sillHeight + frameThickness + sashHeight / 2;
+
+  topSash.position.set(0, topSashY, frameThickness / 2 + 0.02);
+  bottomSash.position.set(0, bottomSashBaseY, frameThickness / 2 + 0.025);
+
+  windowGroup.add(topSash);
+  windowGroup.add(bottomSash);
+
+  const slidingState = {
+    current: 0,
+    target: 0,
+  };
+
+  const updateSashPosition = () => {
+    bottomSash.position.y = bottomSashBaseY + sashSlideDistance * slidingState.current;
+  };
+
+  const update = (delta) => {
+    if (typeof delta !== "number" || Number.isNaN(delta)) {
+      updateSashPosition();
+      return;
+    }
+
+    const damped = THREE.MathUtils.damp(slidingState.current, slidingState.target, 6, delta);
+    if (Math.abs(damped - slidingState.current) > 0.0001) {
+      slidingState.current = damped;
+      updateSashPosition();
+    }
+  };
+
+  const toggle = () => {
+    slidingState.target = slidingState.target > 0 ? 0 : 1;
+  };
+
+  update(0);
 
   // Stream_LiveGame :: 창문에서 퍼지는 서리 빛을 표현하는 추가 평면.
   const frostGlow = new THREE.Mesh(
@@ -87,4 +156,36 @@ export function addWindow(parent, opening = {}) {
   windowGroup.add(frostGlow);
 
   parent.add(windowGroup);
+
+  return {
+    group: windowGroup,
+    interactionTarget: bottomSash,
+    toggle,
+    update,
+    highlightMaterials: [bottomSash.userData?.glassMaterial].filter(Boolean),
+  };
+}
+
+function createSashFrameGeometry(width, height, thickness) {
+  const halfWidth = width / 2;
+  const halfHeight = height / 2;
+  const halfInnerWidth = Math.max(0, halfWidth - thickness);
+  const halfInnerHeight = Math.max(0, halfHeight - thickness);
+
+  const shape = new THREE.Shape();
+  shape.moveTo(-halfWidth, -halfHeight);
+  shape.lineTo(halfWidth, -halfHeight);
+  shape.lineTo(halfWidth, halfHeight);
+  shape.lineTo(-halfWidth, halfHeight);
+  shape.lineTo(-halfWidth, -halfHeight);
+
+  const innerRect = new THREE.Path();
+  innerRect.moveTo(-halfInnerWidth, -halfInnerHeight);
+  innerRect.lineTo(halfInnerWidth, -halfInnerHeight);
+  innerRect.lineTo(halfInnerWidth, halfInnerHeight);
+  innerRect.lineTo(-halfInnerWidth, halfInnerHeight);
+  innerRect.lineTo(-halfInnerWidth, -halfInnerHeight);
+  shape.holes.push(innerRect);
+
+  return new THREE.ShapeGeometry(shape);
 }

@@ -1,3 +1,4 @@
+import * as THREE from "three";
 // Stream_LiveGame :: 렌더 루프, 씬, 카메라를 관리하는 애플리케이션 래퍼.
 import { ThreeApp } from "../core/ThreeApp.js";
 // Stream_LiveGame :: 씬의 분위기를 조성하는 조명 배치 모듈.
@@ -10,6 +11,7 @@ import { registerClickNavigation } from "../interactions/clickNavigation.js";
 import { createOrbitControls } from "../interactions/orbitControls.js";
 // Stream_LiveGame :: 책장 상호작용을 활성화하여 하이라이트와 링크 이동을 지원한다.
 import { setupBookshelfInteractions } from "../interactions/bookshelfInteractions.js";
+import { setupWindowInteractions } from "../interactions/windowInteractions.js";
 // Stream_LiveGame :: 책장에 배치할 링크 메타데이터를 불러온다.
 import { loadBookMetadata } from "../loaders/bookMetadataLoader.js";
 
@@ -18,13 +20,18 @@ export function createThreeExperience(canvas) {
   const app = new ThreeApp({ canvas });
 
   // Stream_LiveGame :: 3D 자산 및 장면 구성 요소를 초기화한다.
-  const { bookshelfBooks = [] } = initializeWinterRoomScene(app.scene) ?? {};
+  const {
+    bookshelfBooks = [],
+    windowDetails,
+    updateCallbacks = [],
+  } = initializeWinterRoomScene(app.scene) ?? {};
   setupLights(app.scene);
 
   // Stream_LiveGame :: 사용자 클릭을 추적하는 핸들러를 등록하고 제거 함수를 받는다.
   const removeClickHandler = registerClickNavigation(app.camera, app.scene);
 
   let disposeBookshelfInteractions = () => {};
+  const disposeWindowInteractions = setupWindowInteractions(app.camera, windowDetails);
   let isDisposed = false;
 
   // Stream_LiveGame :: 책장에 배치할 링크 데이터를 불러와 상호작용을 적용한다.
@@ -42,15 +49,24 @@ export function createThreeExperience(canvas) {
   // Stream_LiveGame :: 마우스 드래그 시 카메라를 부드럽게 회전시킨다.
   const orbitControls = createOrbitControls(app.camera, app.renderer);
 
+  const clock = new THREE.Clock();
+
   // Stream_LiveGame :: 렌더 루프를 시작하여 장면을 계속 업데이트한다.
   app.start(() => {
+    const delta = clock.getDelta();
     orbitControls.update();
+    updateCallbacks.forEach((update) => {
+      if (typeof update === "function") {
+        update(delta);
+      }
+    });
   });
 
   return () => {
     // Stream_LiveGame :: 등록한 이벤트와 Three.js 자원을 정리한다.
     isDisposed = true;
     disposeBookshelfInteractions?.();
+    disposeWindowInteractions?.();
     removeClickHandler?.();
     orbitControls.dispose();
     app.dispose();

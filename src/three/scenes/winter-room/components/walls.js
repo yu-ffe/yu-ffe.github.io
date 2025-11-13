@@ -81,8 +81,6 @@ function createLeftWallWithWindowOpening({ depth, height, material }) {
   const windowOpening = {
     width: openingWidth,
     height: (openingWidth * 4) / 3,
-    topMargin: 1.4,
-    frontMargin: 1.1,
   };
 
   const wallHeight = height + FLOOR_THICKNESS;
@@ -94,9 +92,11 @@ function createLeftWallWithWindowOpening({ depth, height, material }) {
     bottomRadius: 0,
   });
 
-  const holeTop = wallHeight / 2 - windowOpening.topMargin;
+  const centeredTopMargin = Math.max(0, wallHeight / 2 - windowOpening.height / 2);
+  const holeTop = wallHeight / 2 - centeredTopMargin;
   const holeBottom = holeTop - windowOpening.height;
-  const holeFront = halfDepth - windowOpening.frontMargin;
+  const centeredFrontMargin = Math.max(0, halfDepth - windowOpening.width / 2);
+  const holeFront = halfDepth - centeredFrontMargin;
   const holeBack = holeFront - windowOpening.width;
 
   const windowPath = new THREE.Path();
