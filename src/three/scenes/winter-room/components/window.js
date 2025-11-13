@@ -2,16 +2,19 @@
 import * as THREE from "three";
 import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
-export function addWindow(parent) {
-  const { width, floorLevel, depth } = ROOM_SIZE;
+export function addWindow(parent, openingConfig = null) {
+  const { width: roomWidth, floorLevel, depth } = ROOM_SIZE;
 
-  const windowWidth = 9.5;
-  const windowHeight = 7;
-  const sillHeight = 3.5;
+  const windowWidth = openingConfig?.width ?? depth / 3;
+  const windowHeight = openingConfig?.height ?? (windowWidth * 4) / 3;
+  const bottomY = openingConfig?.bottomY ?? floorLevel + 3.5;
+  const topY = openingConfig?.topY ?? bottomY + windowHeight;
+  const windowCenterY = openingConfig?.centerY ?? (bottomY + topY) / 2;
+  const mountZ = openingConfig?.centerZ ?? -depth / 3;
   const frameThickness = 0.35;
 
   const windowGroup = new THREE.Group();
-  windowGroup.position.set(-width / 2 + WALL_THICKNESS / 2 + 0.01, 0, -depth / 3);
+  windowGroup.position.set(-roomWidth / 2 + WALL_THICKNESS / 2 + 0.01, 0, mountZ);
   windowGroup.rotation.y = Math.PI / 2;
 
   const frameMaterial = new THREE.MeshStandardMaterial({
@@ -30,7 +33,7 @@ export function addWindow(parent) {
 
   // Stream_LiveGame :: 좌우 기둥 프레임을 배치한다.
   const leftFrame = new THREE.Mesh(verticalFrameGeometry, frameMaterial);
-  leftFrame.position.set(-windowWidth / 2 - frameThickness / 2, floorLevel + sillHeight + windowHeight / 2, 0);
+  leftFrame.position.set(-windowWidth / 2 - frameThickness / 2, windowCenterY, 0);
   windowGroup.add(leftFrame);
 
   const rightFrame = leftFrame.clone();
@@ -39,16 +42,16 @@ export function addWindow(parent) {
 
   // Stream_LiveGame :: 상단, 하단 프레임과 중간 문살을 추가한다.
   const topFrame = new THREE.Mesh(horizontalFrameGeometry, frameMaterial);
-  topFrame.position.set(0, floorLevel + sillHeight + windowHeight + frameThickness / 2, 0);
+  topFrame.position.set(0, topY + frameThickness / 2, 0);
   windowGroup.add(topFrame);
 
   const bottomFrame = new THREE.Mesh(horizontalFrameGeometry, frameMaterial);
-  bottomFrame.position.set(0, floorLevel + sillHeight - frameThickness / 2, 0);
+  bottomFrame.position.set(0, bottomY - frameThickness / 2, 0);
   windowGroup.add(bottomFrame);
 
   const muntin = new THREE.Mesh(horizontalFrameGeometry, frameMaterial);
   muntin.scale.set(0.45, 1, 1);
-  muntin.position.set(0, floorLevel + sillHeight + windowHeight / 2, 0);
+  muntin.position.set(0, windowCenterY, 0);
   windowGroup.add(muntin);
 
   // Stream_LiveGame :: 유리재질 평면을 만들어 빛을 통과시키는 효과를 준다.
@@ -63,7 +66,7 @@ export function addWindow(parent) {
       transparent: true,
     })
   );
-  glazing.position.set(0, floorLevel + sillHeight + windowHeight / 2, frameThickness / 2);
+  glazing.position.set(0, windowCenterY, frameThickness / 2);
   glazing.receiveShadow = false;
   glazing.castShadow = false;
   windowGroup.add(glazing);
@@ -77,7 +80,7 @@ export function addWindow(parent) {
       opacity: 0.12,
     })
   );
-  frostGlow.position.set(0, floorLevel + sillHeight + windowHeight / 2, -frameThickness / 2 - 0.01);
+  frostGlow.position.set(0, windowCenterY, -frameThickness / 2 - 0.01);
   windowGroup.add(frostGlow);
 
   parent.add(windowGroup);

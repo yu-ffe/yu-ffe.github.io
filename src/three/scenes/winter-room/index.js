@@ -7,7 +7,6 @@ import { addFoundation } from "./components/foundation.js";
 import { addFloor } from "./components/floor.js";
 import { addWalls } from "./components/walls.js";
 import { addWindow } from "./components/window.js";
-import { addEscapeStairs } from "./components/stairs.js";
 import { addDecor } from "./components/decor.js";
 
 export function initializeWinterRoomScene(scene) {
@@ -18,9 +17,8 @@ export function initializeWinterRoomScene(scene) {
   // Stream_LiveGame :: 순서대로 구조물을 배치하여 공간을 채운다.
   addFoundation(roomGroup);
   addFloor(roomGroup);
-  const { stairsConfig } = addWalls(roomGroup);
-  addWindow(roomGroup);
-  addEscapeStairs(roomGroup, stairsConfig);
+  const { windowOpening } = addWalls(roomGroup);
+  addWindow(roomGroup, windowOpening);
   const decorDetails = addDecor(roomGroup);
 
   // Stream_LiveGame :: 완성된 그룹을 씬에 추가하고 안개를 적용한다.
