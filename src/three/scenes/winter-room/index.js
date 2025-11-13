@@ -8,6 +8,7 @@ import { addFloor } from "./components/floor.js";
 import { addWalls } from "./components/walls.js";
 import { addWindow } from "./components/window.js";
 import { addDecor } from "./components/decor.js";
+import { addBalcony } from "./components/balcony.js";
 
 export function initializeWinterRoomScene(scene) {
   // Stream_LiveGame :: 방 전체를 하나의 그룹으로 묶어 관리한다.
@@ -20,6 +21,7 @@ export function initializeWinterRoomScene(scene) {
   const { windowConfig } = addWalls(roomGroup);
   const windowDetails = addWindow(roomGroup, windowConfig);
   const decorDetails = addDecor(roomGroup);
+  addBalcony(roomGroup, windowConfig);
 
   const updateCallbacks = [];
   if (typeof windowDetails?.update === "function") {
