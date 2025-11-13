@@ -14,7 +14,24 @@ export function addWindow(parent, opening = {}) {
   const frameInset = 0.4;
   const windowWidth = Math.max(0.6, openingWidth - frameInset * 2);
   let windowHeight = Math.max(0.6, openingHeight - frameInset * 2);
-  const sillHeight = Math.max(0, openingBottomY - floorLevel + frameInset);
+
+  const maxAvailableHeight = Math.max(0, windowHeight - frameThickness * 2);
+  const baseSashHeight = Math.max(0.4, (windowHeight - frameThickness * 1.6) / 2);
+  const sashHeight = Math.min(
+    maxAvailableHeight / 2,
+    Math.max(0.3, baseSashHeight * 0.75)
+  );
+
+  windowHeight = sashHeight * 2 + frameThickness * 2;
+
+  const verticalSlack = Math.max(
+    0,
+    Math.max(0, openingHeight - frameInset * 2) - windowHeight
+  );
+  const sillHeight = Math.max(
+    0,
+    openingBottomY - floorLevel + frameInset + Math.min(verticalSlack * 0.75, 0.9)
+  );
 
   const windowGroup = new THREE.Group();
   // Slightly pull the window assembly toward the exterior so it no longer looks recessed.
@@ -28,15 +45,7 @@ export function addWindow(parent, opening = {}) {
     side: THREE.DoubleSide,
   });
 
-  const maxAvailableHeight = Math.max(0, windowHeight - frameThickness * 2);
-  const baseSashHeight = Math.max(0.4, (windowHeight - frameThickness * 1.6) / 2);
-  const sashHeight = Math.min(
-    maxAvailableHeight / 2,
-    Math.max(0.3, baseSashHeight * 0.75)
-  );
-  const clearance = Math.max(0, Math.min(maxAvailableHeight - sashHeight * 2, frameThickness * 0.25));
-  windowHeight = sashHeight * 2 + clearance + frameThickness * 2;
-  const availableHeight = sashHeight * 2 + clearance;
+  const availableHeight = Math.max(0, windowHeight - frameThickness * 2);
 
   // Stream_LiveGame :: 기본적인 수직/수평 프레임 지오메트리를 준비한다.
   const verticalFrameGeometry = new THREE.BoxGeometry(frameThickness, windowHeight, frameThickness);
@@ -118,19 +127,14 @@ export function addWindow(parent, opening = {}) {
 
   const bottomEdgeY = floorLevel + sillHeight + frameThickness;
   const topEdgeY = bottomEdgeY + availableHeight;
-  const bottomSashClosedY = bottomEdgeY + sashHeight / 2 + clearance / 2;
-  const topSashClosedY = Math.min(topEdgeY - sashHeight / 2, bottomSashClosedY + sashHeight);
+  const bottomSashClosedY = bottomEdgeY + sashHeight / 2;
+  const topSashClosedY = topEdgeY - sashHeight / 2;
   const exteriorFlushZ = frameThickness / 2 - 0.01;
-  // Keep the bottom sash tucked just behind the exterior sash while staying within the wall thickness.
   const sashDepthOffset = Math.min(sashFrameThickness * 0.75, frameThickness * 0.45);
-  const interiorFlushLimit = -frameThickness / 2 + 0.01;
-  const bottomSashClosedZ = Math.max(
-    interiorFlushLimit,
-    exteriorFlushZ - sashDepthOffset
-  );
+  const interiorFlushZ = Math.max(-frameThickness / 2 + 0.01, exteriorFlushZ - sashDepthOffset);
 
-  topSash.position.set(0, topSashClosedY, exteriorFlushZ);
-  bottomSash.position.set(0, bottomSashClosedY, bottomSashClosedZ);
+  topSash.position.set(0, topSashClosedY, interiorFlushZ);
+  bottomSash.position.set(0, bottomSashClosedY, exteriorFlushZ);
 
   windowGroup.add(topSash);
   windowGroup.add(bottomSash);
