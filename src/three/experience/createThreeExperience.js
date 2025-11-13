@@ -6,6 +6,8 @@ import { setupLights } from "../lights/winterRoomLights.js";
 import { initializeWinterRoomScene } from "../scenes/winter-room/index.js";
 // Stream_LiveGame :: 객체 클릭 시 링크로 이동하는 상호작용을 등록한다.
 import { registerClickNavigation } from "../interactions/clickNavigation.js";
+// Stream_LiveGame :: 마우스 드래그를 통한 카메라 회전을 제공한다.
+import { createOrbitControls } from "../interactions/orbitControls.js";
 // Stream_LiveGame :: 책장 상호작용을 활성화하여 하이라이트와 링크 이동을 지원한다.
 import { setupBookshelfInteractions } from "../interactions/bookshelfInteractions.js";
 // Stream_LiveGame :: 책장에 배치할 링크 메타데이터를 불러온다.
@@ -37,14 +39,20 @@ export function createThreeExperience(canvas) {
     );
   });
 
+  // Stream_LiveGame :: 마우스 드래그 시 카메라를 부드럽게 회전시킨다.
+  const orbitControls = createOrbitControls(app.camera, app.renderer);
+
   // Stream_LiveGame :: 렌더 루프를 시작하여 장면을 계속 업데이트한다.
-  app.start();
+  app.start(() => {
+    orbitControls.update();
+  });
 
   return () => {
     // Stream_LiveGame :: 등록한 이벤트와 Three.js 자원을 정리한다.
     isDisposed = true;
     disposeBookshelfInteractions?.();
     removeClickHandler?.();
+    orbitControls.dispose();
     app.dispose();
   };
 }
