@@ -80,7 +80,7 @@ function createLeftWallWithWindowOpening({ depth, height, material }) {
   const openingWidth = depth / 3;
   const windowOpening = {
     width: openingWidth,
-    height: (openingWidth * 4) / 3,
+    height: (openingWidth * 4) / 3 * 0.8, 
   };
 
   const wallHeight = height + FLOOR_THICKNESS;
@@ -93,12 +93,18 @@ function createLeftWallWithWindowOpening({ depth, height, material }) {
   });
 
   const centeredTopMargin = Math.max(0, wallHeight / 2 - windowOpening.height / 2);
-  // Nudge the opening upward so the window sits higher while leaving a small buffer from the ceiling.
-  const upwardShift = windowOpening.height * 0.22;
-  const downwardRelax = windowOpening.height * 0.06;
-  const verticalShift = upwardShift - downwardRelax;
-  const holeTop = wallHeight / 2 - centeredTopMargin + verticalShift;
-  const holeBottom = holeTop - windowOpening.height;
+
+// 원래 쓰던 살짝 위로 올리는 값들
+const upwardShift = windowOpening.height * 0.22;
+const downwardRelax = windowOpening.height * 0.06;
+
+// 여기에 추가로 위로 올릴 값 더하기
+const extraLift = 1.5; // ★ 창문 전체를 위로 0.5만큼 이동
+const verticalShift = upwardShift - downwardRelax + extraLift;
+
+const holeTop = wallHeight / 2 - centeredTopMargin + verticalShift;
+const holeBottom = holeTop - windowOpening.height;
+
   const centeredFrontMargin = Math.max(0, halfDepth - windowOpening.width / 2);
   const holeFront = halfDepth - centeredFrontMargin;
   const holeBack = holeFront - windowOpening.width;

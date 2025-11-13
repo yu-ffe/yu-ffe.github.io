@@ -18,7 +18,7 @@ export function addWindow(parent, opening = {}) {
 
   const windowGroup = new THREE.Group();
   // Slightly pull the window assembly toward the exterior so it no longer looks recessed.
-  windowGroup.position.set(-width / 2 + WALL_THICKNESS / 2 - 0.05, 0, openingCenterZ);
+  windowGroup.position.set(-width / 2 + WALL_THICKNESS / 2, 0, openingCenterZ);
   windowGroup.rotation.y = Math.PI / 2;
 
   const frameMaterial = new THREE.MeshStandardMaterial({
@@ -29,7 +29,11 @@ export function addWindow(parent, opening = {}) {
   });
 
   // Stream_LiveGame :: 기본적인 수직/수평 프레임 지오메트리를 준비한다.
-  const verticalFrameGeometry = new THREE.BoxGeometry(frameThickness, windowHeight, frameThickness);
+  const verticalFrameGeometry = new THREE.BoxGeometry(
+    frameThickness,
+    windowHeight,
+    frameThickness
+  );
   const horizontalFrameGeometry = new THREE.BoxGeometry(
     windowWidth + frameThickness,
     frameThickness,
@@ -38,7 +42,11 @@ export function addWindow(parent, opening = {}) {
 
   // Stream_LiveGame :: 좌우 기둥 프레임을 배치한다.
   const leftFrame = new THREE.Mesh(verticalFrameGeometry, frameMaterial);
-  leftFrame.position.set(-windowWidth / 2 - frameThickness / 2, floorLevel + sillHeight + windowHeight / 2, 0);
+  leftFrame.position.set(
+    -windowWidth / 2 - frameThickness / 2,
+    floorLevel + sillHeight + windowHeight / 2,
+    0
+  );
   windowGroup.add(leftFrame);
 
   const rightFrame = leftFrame.clone();
@@ -47,7 +55,11 @@ export function addWindow(parent, opening = {}) {
 
   // Stream_LiveGame :: 상단, 하단 프레임과 중간 문살을 추가한다.
   const topFrame = new THREE.Mesh(horizontalFrameGeometry, frameMaterial);
-  topFrame.position.set(0, floorLevel + sillHeight + windowHeight + frameThickness / 2, 0);
+  topFrame.position.set(
+    0,
+    floorLevel + sillHeight + windowHeight + frameThickness / 2,
+    0
+  );
   windowGroup.add(topFrame);
 
   const bottomFrame = new THREE.Mesh(horizontalFrameGeometry, frameMaterial);
@@ -79,7 +91,11 @@ export function addWindow(parent, opening = {}) {
   const createSash = () => {
     const sashGroup = new THREE.Group();
 
-    const frameGeometry = createSashFrameGeometry(sashWidth, sashHeight, sashFrameThickness);
+    const frameGeometry = createSashFrameGeometry(
+      sashWidth,
+      sashHeight,
+      sashFrameThickness
+    );
     const sashFrame = new THREE.Mesh(frameGeometry, frameMaterial.clone());
     sashFrame.castShadow = false;
     sashFrame.receiveShadow = false;
@@ -107,14 +123,39 @@ export function addWindow(parent, opening = {}) {
   const topSash = createSash();
   const bottomSash = createSash();
 
-  const topSashY = floorLevel + sillHeight + windowHeight - frameThickness - sashHeight / 2;
-  const bottomSashBaseY = floorLevel + sillHeight + frameThickness + sashHeight / 2;
+  const topSashY =
+    floorLevel + sillHeight + windowHeight - frameThickness - sashHeight / 2;
+  const bottomSashBaseY =
+    floorLevel + sillHeight + frameThickness + sashHeight / 2;
   const exteriorSashZ = frameThickness / 2 + 0.02;
   // Keep the bottom sash tucked just behind the exterior sash so it can slide without overlap.
-  const sashDepthOffset = Math.min(sashFrameThickness * 0.75, frameThickness * 0.45);
+  const sashDepthOffset = Math.min(
+    sashFrameThickness * 0.75,
+    frameThickness * 0.45
+  );
+// 창문(sash)만 실외 방향으로 밀어낼 양
+const sashExteriorPush = -.1;  // 원하는 만큼 조절 (0.02~0.1 권장)
 
-  topSash.position.set(0, topSashY, exteriorSashZ);
-  bottomSash.position.set(0, bottomSashBaseY, exteriorSashZ - sashDepthOffset);
+// sash 간 간격
+const sashGap = Math.min(
+  sashFrameThickness * 0.5,
+  frameThickness * 0.5
+);
+
+// 아랫창: 앞쪽 + 실외로 조금 밀기
+bottomSash.position.set(
+  0,
+  bottomSashBaseY,
+  sashGap / 2 + sashExteriorPush
+);
+
+// 윗창: 뒤쪽 + 동일하게 실외 방향으로 밀기
+topSash.position.set(
+  0,
+  topSashY,
+  -sashGap / 2 + sashExteriorPush
+);
+
 
   windowGroup.add(topSash);
   windowGroup.add(bottomSash);
@@ -125,7 +166,8 @@ export function addWindow(parent, opening = {}) {
   };
 
   const updateSashPosition = () => {
-    bottomSash.position.y = bottomSashBaseY + sashSlideDistance * slidingState.current;
+    bottomSash.position.y =
+      bottomSashBaseY + sashSlideDistance * slidingState.current;
   };
 
   const update = (delta) => {
@@ -134,7 +176,12 @@ export function addWindow(parent, opening = {}) {
       return;
     }
 
-    const damped = THREE.MathUtils.damp(slidingState.current, slidingState.target, 6, delta);
+    const damped = THREE.MathUtils.damp(
+      slidingState.current,
+      slidingState.target,
+      6,
+      delta
+    );
     if (Math.abs(damped - slidingState.current) > 0.0001) {
       slidingState.current = damped;
       updateSashPosition();
@@ -156,7 +203,11 @@ export function addWindow(parent, opening = {}) {
       opacity: 0.12,
     })
   );
-  frostGlow.position.set(0, floorLevel + sillHeight + windowHeight / 2, -frameThickness / 2 - 0.01);
+  frostGlow.position.set(
+    0,
+    floorLevel + sillHeight + windowHeight / 2,
+    -frameThickness / 2 - 0.01
+  );
   windowGroup.add(frostGlow);
 
   parent.add(windowGroup);
