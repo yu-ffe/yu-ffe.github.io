@@ -3,6 +3,12 @@ import * as THREE from "three";
 import { FLOOR_THICKNESS, ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
 const CORNER_RADIUS = 1.2;
+const FALLBACK_BRICK_MATERIAL = new THREE.MeshStandardMaterial({
+  color: 0xc37b58,
+  roughness: 0.68,
+  metalness: 0.08,
+  emissive: new THREE.Color(0x2e1f1a).multiplyScalar(0.08),
+});
 
 export function addWalls(parent) {
   const { width, depth, height, floorLevel } = ROOM_SIZE;
@@ -47,6 +53,27 @@ export function addWalls(parent) {
   backWall.castShadow = true;
   backWall.receiveShadow = true;
   parent.add(backWall);
+
+  // Stream_LiveGame :: 뒤쪽 외벽을 따라 벽돌 무늬를 추가하여 깊이를 준다.
+  const {
+    group: brickBackdrop,
+    depth: brickDepth,
+    brickHeight,
+    height: brickSpan,
+  } = createBrickBackdrop({
+    width,
+    height: height + FLOOR_THICKNESS,
+  });
+
+  const backFaceZ = backWall.position.z - WALL_THICKNESS / 2;
+  const bottomY = floorLevel;
+  const localBottom = -brickSpan / 2 + brickHeight / 2;
+  brickBackdrop.position.set(
+    0,
+    bottomY - localBottom,
+    backFaceZ - brickDepth / 2 - 0.04
+  );
+  parent.add(brickBackdrop);
 
   // Stream_LiveGame :: 코너 기둥 추가 (왼쪽-후면 코너를 깔끔하게 덮는다)
   const cornerPillar = createCornerPillar({
@@ -209,4 +236,85 @@ function createCornerPillar({ height, size, material }) {
   mesh.castShadow = true;
   mesh.receiveShadow = true;
   return mesh;
+}
+
+// Stream_LiveGame :: 뒤벽 외곽에 배치할 벽돌 레이어를 생성한다.
+function createBrickBackdrop({ width, height }) {
+  const group = new THREE.Group();
+  group.name = "BackdropBricks";
+
+  const brickWidth = 2.6;
+  const brickHeight = 0.82;
+  const brickDepth = 0.54;
+  const horizontalGap = 0.2;
+  const verticalGap = 0.12;
+
+  const stepWidth = brickWidth + horizontalGap;
+  const stepHeight = brickHeight + verticalGap;
+
+  const horizontalCoverage = width + stepWidth * 2;
+  const verticalCoverage = height;
+
+  const brickGeometry = new THREE.BoxGeometry(brickWidth, brickHeight, brickDepth);
+  const brickMaterials = createBrickMaterials();
+
+  const rows = Math.ceil(verticalCoverage / stepHeight);
+  for (let row = 0; row <= rows; row += 1) {
+    const y = -verticalCoverage / 2 + brickHeight / 2 + row * stepHeight;
+    if (y - brickHeight / 2 > verticalCoverage / 2) {
+      break;
+    }
+
+    const offset = row % 2 === 0 ? 0 : stepWidth / 2;
+    const startX = -horizontalCoverage / 2 - stepWidth;
+    const endX = horizontalCoverage / 2 + stepWidth;
+    for (let column = 0, x = startX; x <= endX; column += 1, x += stepWidth) {
+      const noise = hashedNoise(row, column);
+      const material = pickBrickMaterial(brickMaterials, noise);
+      const brick = new THREE.Mesh(brickGeometry, material);
+      // Stream_LiveGame :: 살짝 뒤틀린 배치를 만들어 사람이 쌓은 듯한 느낌을 준다.
+      const depthOffset = (noise - 0.5) * 0.06;
+      brick.position.set(x + offset, y, depthOffset);
+      brick.castShadow = true;
+      brick.receiveShadow = true;
+      group.add(brick);
+    }
+  }
+
+  return {
+    group,
+    depth: brickDepth,
+    brickHeight,
+    height: verticalCoverage,
+  };
+}
+
+function createBrickMaterials() {
+  const palette = [0xc37b58, 0xb56c4a, 0xd08a62, 0xbf7453];
+  return palette.map((color) =>
+    new THREE.MeshStandardMaterial({
+      color,
+      roughness: 0.68,
+      metalness: 0.08,
+      emissive: new THREE.Color(0x2e1f1a).multiplyScalar(0.08),
+    })
+  );
+}
+
+function pickBrickMaterial(materials, noise) {
+  if (!Array.isArray(materials) || materials.length === 0) {
+    return FALLBACK_BRICK_MATERIAL;
+  }
+
+  const index = Math.min(
+    Math.floor(noise * materials.length),
+    materials.length - 1
+  );
+  return materials[index];
+}
+
+function hashedNoise(row, column) {
+  const seed = (row + 1) * 12.9898 + (column + 5) * 78.233;
+  const s = Math.sin(seed) * 43758.5453;
+  return s - Math.floor(s);
 }
