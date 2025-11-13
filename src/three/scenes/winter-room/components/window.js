@@ -13,7 +13,7 @@ export function addWindow(parent, opening = {}) {
   const frameThickness = 0.35;
   const frameInset = 0.4;
   const windowWidth = Math.max(0.6, openingWidth - frameInset * 2);
-  const windowHeight = Math.max(0.6, openingHeight - frameInset * 2);
+  let windowHeight = Math.max(0.6, openingHeight - frameInset * 2);
   const sillHeight = Math.max(0, openingBottomY - floorLevel + frameInset);
 
   const windowGroup = new THREE.Group();
@@ -27,6 +27,16 @@ export function addWindow(parent, opening = {}) {
     metalness: 0.25,
     side: THREE.DoubleSide,
   });
+
+  const maxAvailableHeight = Math.max(0, windowHeight - frameThickness * 2);
+  const baseSashHeight = Math.max(0.4, (windowHeight - frameThickness * 1.6) / 2);
+  const sashHeight = Math.min(
+    maxAvailableHeight / 2,
+    Math.max(0.3, baseSashHeight * 0.75)
+  );
+  const clearance = Math.max(0, Math.min(maxAvailableHeight - sashHeight * 2, frameThickness * 0.25));
+  windowHeight = sashHeight * 2 + clearance + frameThickness * 2;
+  const availableHeight = sashHeight * 2 + clearance;
 
   // Stream_LiveGame :: 기본적인 수직/수평 프레임 지오메트리를 준비한다.
   const verticalFrameGeometry = new THREE.BoxGeometry(frameThickness, windowHeight, frameThickness);
@@ -60,12 +70,6 @@ export function addWindow(parent, opening = {}) {
   windowGroup.add(middleRail);
 
   // Stream_LiveGame :: 이중 창문의 유리창과 프레임을 생성한다.
-  const availableHeight = Math.max(0, windowHeight - frameThickness * 2);
-  const baseSashHeight = Math.max(0.4, (windowHeight - frameThickness * 1.6) / 2);
-  const sashHeight = Math.min(
-    availableHeight / 2,
-    Math.max(0.3, baseSashHeight * 0.75)
-  );
   const sashWidth = Math.max(0.4, windowWidth - frameThickness * 1.4);
   const sashSlideDistance = Math.max(0, sashHeight - frameThickness * 1.2);
 
@@ -113,8 +117,7 @@ export function addWindow(parent, opening = {}) {
   const bottomSash = createSash();
 
   const bottomEdgeY = floorLevel + sillHeight + frameThickness;
-  const topEdgeY = floorLevel + sillHeight + windowHeight - frameThickness;
-  const clearance = Math.max(0, availableHeight - sashHeight * 2);
+  const topEdgeY = bottomEdgeY + availableHeight;
   const bottomSashClosedY = bottomEdgeY + sashHeight / 2 + clearance / 2;
   const topSashClosedY = Math.min(topEdgeY - sashHeight / 2, bottomSashClosedY + sashHeight);
   const exteriorFlushZ = frameThickness / 2 - 0.01;
