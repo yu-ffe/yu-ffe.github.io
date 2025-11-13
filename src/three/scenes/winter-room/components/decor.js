@@ -3,19 +3,16 @@
 import * as THREE from "three";
 import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
-export function addDecor(parent, opts = {}) {
-  // 옵션: { stairsConfig }
-  const stairsConfig = opts.stairsConfig ?? null;
-
+export function addDecor(parent) {
   // 1) 오른쪽 벽 갤러리(책장 뒤로 묻히지 않도록 뒤벽 대신 우측 벽에 설치)
   const rightWallFrames = createRightWallGallery();
   rightWallFrames.forEach((f) => parent.add(f));
 
   // 2) 뒤벽 책장
-  const { group: bookshelf, books } = createBookshelf({ stairsConfig });
+  const { group: bookshelf, books } = createBookshelf();
   parent.add(bookshelf);
 
-  // 3) 테이블 + 의자(2) 세트 (계단이 있는 좌측을 피해서 방 중앙-우측)
+  // 3) 테이블 + 의자(2) 세트 (좌측 벽 창문 공간을 비워두고 방 중앙-우측에 배치)
   const { table, chairs } = createTableAndChairs();
   parent.add(table);
   chairs.forEach((c) => parent.add(c));
@@ -81,7 +78,7 @@ function createRightWallGallery() {
 }
 
 // ------------------------- 뒤벽 책장 -------------------------
-function createBookshelf({ stairsConfig }) {
+function createBookshelf() {
   const { width, depth, height, floorLevel } = ROOM_SIZE;
 
   const shelfGroup = new THREE.Group();
@@ -92,7 +89,7 @@ function createBookshelf({ stairsConfig }) {
   const backGap = 0.02;
   const panelThickness = 0.22;
 
-  // 뒤벽 깊이 안쪽 고정, 벽/계단과 간섭 방지
+  // 뒤벽 깊이 안쪽 고정, 벽/창문과 간섭 방지
   const shelfDepth = Math.min(1.28, depth - WALL_THICKNESS - 0.16);
 
   // 전체 폭: 좌우 여유 유지
@@ -150,8 +147,8 @@ function createBookshelf({ stairsConfig }) {
     -depth / 2 + WALL_THICKNESS + shelfDepth / 2 + backGap
   );
 
-  // 좌측 벽 계단과의 시각적 간섭 방지: 그룹 자체는 중앙이지만,
-  // 계단이 방 좌측에 있으므로 테이블/의자는 우측으로 배치했고,
+  // 좌측 벽 창문과의 시각적 간섭 방지: 그룹 자체는 중앙이지만,
+  // 좌측 벽 개방부를 피하려고 테이블/의자는 우측으로 배치했고,
   // 책장은 깊이를 얕게 잡고 뒷벽 여백(backGap) 확보로 실제 겹침을 회피.
   // 필요시 여기서 shelfGroup.position.x를 약간(+0.2~0.4) 우측으로 밀어도 됨.
 
@@ -252,7 +249,7 @@ function addBooksToShelfGradient(
 function createTableAndChairs() {
   const { width, depth, floorLevel } = ROOM_SIZE;
 
-  // 배치: 방 중앙보다 우측으로, 계단(좌측 벽)과 간섭 회피
+  // 배치: 방 중앙보다 우측으로, 좌측 벽 창문과 간섭 회피
   const posX = width * 0.18;
   const posZ = -depth * 0.06;
 
