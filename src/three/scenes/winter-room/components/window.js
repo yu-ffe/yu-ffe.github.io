@@ -2,16 +2,22 @@
 import * as THREE from "three";
 import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
-export function addWindow(parent) {
+export function addWindow(parent, opening = {}) {
   const { width, floorLevel, depth } = ROOM_SIZE;
 
-  const windowWidth = 9.5;
-  const windowHeight = 7;
-  const sillHeight = 3.5;
+  const openingWidth = opening.width ?? 9.5;
+  const openingHeight = opening.height ?? 7;
+  const openingBottomY = opening.bottomY ?? floorLevel + 3.5;
+  const openingCenterZ = opening.centerZ ?? -depth / 3;
+
   const frameThickness = 0.35;
+  const frameInset = 0.4;
+  const windowWidth = Math.max(0.6, openingWidth - frameInset * 2);
+  const windowHeight = Math.max(0.6, openingHeight - frameInset * 2);
+  const sillHeight = Math.max(0, openingBottomY - floorLevel + frameInset);
 
   const windowGroup = new THREE.Group();
-  windowGroup.position.set(-width / 2 + WALL_THICKNESS / 2 + 0.01, 0, -depth / 3);
+  windowGroup.position.set(-width / 2 + WALL_THICKNESS / 2 + 0.01, 0, openingCenterZ);
   windowGroup.rotation.y = Math.PI / 2;
 
   const frameMaterial = new THREE.MeshStandardMaterial({

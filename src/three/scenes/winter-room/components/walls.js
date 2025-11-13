@@ -21,7 +21,7 @@ export function addWalls(parent) {
     metalness: 0.12,
   });
 
-  const { mesh: leftWall, holeMetrics } = createLeftWallWithEscapeExit({
+  const { mesh: leftWall, openingMetrics } = createLeftWallWithWindowOpening({
     depth,
     height,
     material: wallMaterial,
@@ -66,21 +66,21 @@ export function addWalls(parent) {
   parent.add(cornerPillar);
 
   return {
-    stairsConfig: {
-      floorLevel,
-      holeBottomY: leftWall.position.y + holeMetrics.bottom,
-      holeCenterZ: holeMetrics.centerZ,
-      holeWidth: holeMetrics.width,
-      roomWidth: width,
+    windowConfig: {
+      width: openingMetrics.width,
+      height: openingMetrics.height,
+      bottomY: leftWall.position.y + openingMetrics.bottom,
+      centerZ: openingMetrics.centerZ,
     },
   };
 }
 
-function createLeftWallWithEscapeExit({ depth, height, material }) {
+function createLeftWallWithWindowOpening({ depth, height, material }) {
   const halfDepth = depth / 2;
-  const escapeHole = {
-    width: 3.6,
-    height: 4.2,
+  const openingWidth = depth / 3;
+  const windowOpening = {
+    width: openingWidth,
+    height: (openingWidth * 4) / 3,
     topMargin: 1.4,
     frontMargin: 1.1,
   };
@@ -94,18 +94,18 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
     bottomRadius: 0,
   });
 
-  const holeTop = wallHeight / 2 - escapeHole.topMargin;
-  const holeBottom = holeTop - escapeHole.height;
-  const holeFront = halfDepth - escapeHole.frontMargin;
-  const holeBack = holeFront - escapeHole.width;
+  const holeTop = wallHeight / 2 - windowOpening.topMargin;
+  const holeBottom = holeTop - windowOpening.height;
+  const holeFront = halfDepth - windowOpening.frontMargin;
+  const holeBack = holeFront - windowOpening.width;
 
-  const escapePath = new THREE.Path();
-  escapePath.moveTo(holeBack, holeBottom);
-  escapePath.lineTo(holeFront, holeBottom);
-  escapePath.lineTo(holeFront, holeTop);
-  escapePath.lineTo(holeBack, holeTop);
-  escapePath.lineTo(holeBack, holeBottom);
-  wallShape.holes.push(escapePath);
+  const windowPath = new THREE.Path();
+  windowPath.moveTo(holeBack, holeBottom);
+  windowPath.lineTo(holeFront, holeBottom);
+  windowPath.lineTo(holeFront, holeTop);
+  windowPath.lineTo(holeBack, holeTop);
+  windowPath.lineTo(holeBack, holeBottom);
+  wallShape.holes.push(windowPath);
 
   const wallGeometry = new THREE.ExtrudeGeometry(wallShape, {
     depth: WALL_THICKNESS,
@@ -121,10 +121,11 @@ function createLeftWallWithEscapeExit({ depth, height, material }) {
 
   return {
     mesh,
-    holeMetrics: {
+    openingMetrics: {
       bottom: holeBottom,
       centerZ: (holeFront + holeBack) / 2,
-      width: escapeHole.width,
+      width: windowOpening.width,
+      height: windowOpening.height,
     },
   };
 }
