@@ -8,6 +8,7 @@ import { addFloor } from "./components/floor.js";
 import { addWalls } from "./components/walls.js";
 import { addWindow } from "./components/window.js";
 import { addDecor } from "./components/decor.js";
+import { addEntrySteps } from "./components/stairs.js";
 
 export function initializeWinterRoomScene(scene) {
   // Stream_LiveGame :: 방 전체를 하나의 그룹으로 묶어 관리한다.
@@ -17,6 +18,7 @@ export function initializeWinterRoomScene(scene) {
   // Stream_LiveGame :: 순서대로 구조물을 배치하여 공간을 채운다.
   addFoundation(roomGroup);
   addFloor(roomGroup);
+  addEntrySteps(roomGroup);
   const { windowConfig } = addWalls(roomGroup);
   const windowDetails = addWindow(roomGroup, windowConfig);
   const decorDetails = addDecor(roomGroup);

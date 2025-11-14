@@ -40,6 +40,12 @@ export function addWalls(parent) {
       depth: WALL_THICKNESS,
       radius: CORNER_RADIUS,
       bottomRadius: 0,
+      radii: {
+        topLeft: CORNER_RADIUS,
+        topRight: 0,
+        bottomLeft: 0,
+        bottomRight: 0,
+      },
     }),
     wallMaterial
   );
@@ -90,6 +96,12 @@ function createLeftWallWithWindowOpening({ depth, height, material }) {
     height: wallHeight,
     radius: CORNER_RADIUS,
     bottomRadius: 0,
+    radii: {
+      topLeft: CORNER_RADIUS * 1.8,
+      topRight: CORNER_RADIUS,
+      bottomLeft: 0,
+      bottomRight: 0,
+    },
   });
 
   const centeredTopMargin = Math.max(0, wallHeight / 2 - windowOpening.height / 2);
@@ -140,8 +152,15 @@ const holeBottom = holeTop - windowOpening.height;
   };
 }
 
-function createRoundedPanelGeometry({ width, height, depth, radius, bottomRadius = radius }) {
-  const panelShape = createRoundedRectShape({ width, height, radius, bottomRadius });
+function createRoundedPanelGeometry({
+  width,
+  height,
+  depth,
+  radius,
+  bottomRadius = radius,
+  radii,
+}) {
+  const panelShape = createRoundedRectShape({ width, height, radius, bottomRadius, radii });
   const geometry = new THREE.ExtrudeGeometry(panelShape, {
     depth,
     bevelEnabled: false,
@@ -151,41 +170,71 @@ function createRoundedPanelGeometry({ width, height, depth, radius, bottomRadius
   return geometry;
 }
 
-function createRoundedRectShape({ width, height, radius, bottomRadius = radius }) {
+function createRoundedRectShape({ width, height, radius = 0, bottomRadius = radius, radii }) {
   const halfWidth = width / 2;
   const halfHeight = height / 2;
-  const clampedTopRadius = Math.min(radius, halfWidth, halfHeight);
-  const clampedBottomRadius = Math.min(bottomRadius, halfWidth, halfHeight);
+  const resolvedRadii = radii
+    ? {
+        topLeft: radii.topLeft ?? radius,
+        topRight: radii.topRight ?? radius,
+        bottomRight: radii.bottomRight ?? bottomRadius,
+        bottomLeft: radii.bottomLeft ?? bottomRadius,
+      }
+    : {
+        topLeft: radius,
+        topRight: radius,
+        bottomRight: bottomRadius,
+        bottomLeft: bottomRadius,
+      };
+
+  const clampRadius = (value) => Math.max(0, Math.min(value, halfWidth, halfHeight));
+
+  const clamped = {
+    topLeft: clampRadius(resolvedRadii.topLeft),
+    topRight: clampRadius(resolvedRadii.topRight),
+    bottomRight: clampRadius(resolvedRadii.bottomRight),
+    bottomLeft: clampRadius(resolvedRadii.bottomLeft),
+  };
 
   const shape = new THREE.Shape();
-  shape.moveTo(-halfWidth + clampedBottomRadius, -halfHeight);
+  shape.moveTo(-halfWidth + clamped.bottomLeft, -halfHeight);
 
-  if (clampedBottomRadius > 0) {
-    shape.lineTo(halfWidth - clampedBottomRadius, -halfHeight);
-    shape.quadraticCurveTo(halfWidth, -halfHeight, halfWidth, -halfHeight + clampedBottomRadius);
+  if (clamped.bottomRight > 0) {
+    shape.lineTo(halfWidth - clamped.bottomRight, -halfHeight);
+    shape.quadraticCurveTo(
+      halfWidth,
+      -halfHeight,
+      halfWidth,
+      -halfHeight + clamped.bottomRight
+    );
   } else {
     shape.lineTo(halfWidth, -halfHeight);
   }
 
-  shape.lineTo(halfWidth, halfHeight - clampedTopRadius);
+  shape.lineTo(halfWidth, halfHeight - clamped.topRight);
 
-  if (clampedTopRadius > 0) {
-    shape.quadraticCurveTo(halfWidth, halfHeight, halfWidth - clampedTopRadius, halfHeight);
+  if (clamped.topRight > 0) {
+    shape.quadraticCurveTo(halfWidth, halfHeight, halfWidth - clamped.topRight, halfHeight);
   } else {
     shape.lineTo(halfWidth, halfHeight);
   }
 
-  shape.lineTo(-halfWidth + clampedTopRadius, halfHeight);
+  shape.lineTo(-halfWidth + clamped.topLeft, halfHeight);
 
-  if (clampedTopRadius > 0) {
-    shape.quadraticCurveTo(-halfWidth, halfHeight, -halfWidth, halfHeight - clampedTopRadius);
+  if (clamped.topLeft > 0) {
+    shape.quadraticCurveTo(-halfWidth, halfHeight, -halfWidth, halfHeight - clamped.topLeft);
   } else {
     shape.lineTo(-halfWidth, halfHeight);
   }
 
-  if (clampedBottomRadius > 0) {
-    shape.lineTo(-halfWidth, -halfHeight + clampedBottomRadius);
-    shape.quadraticCurveTo(-halfWidth, -halfHeight, -halfWidth + clampedBottomRadius, -halfHeight);
+  if (clamped.bottomLeft > 0) {
+    shape.lineTo(-halfWidth, -halfHeight + clamped.bottomLeft);
+    shape.quadraticCurveTo(
+      -halfWidth,
+      -halfHeight,
+      -halfWidth + clamped.bottomLeft,
+      -halfHeight
+    );
   } else {
     shape.lineTo(-halfWidth, -halfHeight);
   }

@@ -1,7 +1,7 @@
 // stair.js
 // Stream_LiveGame :: 오두막풍 오픈 계단 (벽 없음, 양쪽 노출) — 경사방향 수정본
 import * as THREE from "three";
-import { WALL_THICKNESS } from "../constants.js";
+import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
 
 export function addEscapeStairs(parent, config) {
   if (!config) return;
@@ -94,6 +94,87 @@ export function addEscapeStairs(parent, config) {
       o.receiveShadow = true;
     }
   });
+}
+
+export function addEntrySteps(parent) {
+  const { width, depth, floorLevel } = ROOM_SIZE;
+
+  const stepHeights = [0.48, 0.48];
+  const stepDepths = [1.4, 1.0];
+  const stepWidths = [3.6, 3.1];
+
+  const stepsCenterX = width / 2 - 1.6;
+  const frontEdge = depth / 2 - WALL_THICKNESS * 0.35;
+  const topStepZ = frontEdge - stepDepths[1] / 2 - 0.05;
+  const bottomStepZ = topStepZ + (stepDepths[0] + stepDepths[1]) / 2 - 0.16;
+
+  const totalRise = stepHeights.reduce((sum, h) => sum + h, 0);
+
+  const mat = createCabinMaterials();
+
+  const steps = new THREE.Group();
+  steps.name = "FrontRightEntrySteps";
+
+  let remainingHeight = totalRise;
+  for (let i = 0; i < stepHeights.length; i += 1) {
+    const stepHeight = stepHeights[i];
+    const stepDepth = stepDepths[i];
+    const stepWidth = stepWidths[i];
+
+    remainingHeight -= stepHeight;
+
+    const tread = new THREE.Mesh(
+      new THREE.BoxGeometry(stepWidth, stepHeight, stepDepth),
+      mat.tread
+    );
+
+    const stepZ = i === 0 ? bottomStepZ : topStepZ;
+    tread.position.set(
+      stepsCenterX,
+      floorLevel - remainingHeight - stepHeight / 2,
+      stepZ
+    );
+    steps.add(tread);
+
+    const riser = new THREE.Mesh(
+      new THREE.BoxGeometry(stepWidth * 0.98, stepHeight * 0.92, 0.08),
+      mat.riser
+    );
+    riser.position.set(
+      stepsCenterX,
+      tread.position.y - stepHeight / 2 + stepHeight * 0.46,
+      stepZ - stepDepth / 2 + 0.04
+    );
+    steps.add(riser);
+  }
+
+  const stringerDepth = stepDepths[0] + 0.22;
+  const stringerHeight = totalRise + 0.12;
+  const stringerOffsetX = stepWidths[0] / 2 - 0.18;
+  const stringerZ = bottomStepZ - stepDepths[0] / 2 + stringerDepth / 2 - 0.08;
+
+  [1, -1].forEach((dir) => {
+    const stringer = new THREE.Mesh(
+      new THREE.BoxGeometry(0.18, stringerHeight, stringerDepth),
+      mat.stringer
+    );
+    stringer.position.set(
+      stepsCenterX + dir * stringerOffsetX,
+      floorLevel - totalRise / 2 - 0.06,
+      stringerZ
+    );
+    steps.add(stringer);
+  });
+
+  steps.traverse((child) => {
+    if (child.isMesh) {
+      child.castShadow = true;
+      child.receiveShadow = true;
+    }
+  });
+
+  parent.add(steps);
+  return steps;
 }
 
 // 따뜻한 목재 재질
