@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Neo Forge: Mod</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <header class="page-header">
+        <h1>Neo Forge: Mod</h1>
+        <p>모드 관련입니다.</p>
+
+        <!-- ✔ 체크리스트 블록 -->
+        <div class="task-list-wrapper">
+            <h2 class="task-list-title">체크 리스트</h2>
+            <ul class="task-list">
+                <li class="task-item completed">
+                    <span class="task-check">✔</span>
+                    <span class="task-text">1. widgets.png 모두 포함</span>
+                </li>
+                <li class="task-item completed">
+                    <span class="task-check">✔</span>
+                    <span class="task-text">2. GUI 구현(1, 2)</span>
+                </li>
+                <li class="task-item completed">
+                    <span class="task-check">✔</span>
+                    <span class="task-text">3. 모드 HUD 구현(체력, 허기바, 크리에이티브, 레벨, 경험치바, HUD)</span>
+                </li>
+                <li class="task-item completed">
+                    <span class="task-check">✔</span>
+                    <span class="task-text">4. 네트워크 OK</span>
+                </li>
+                <li class="task-item completed">
+                    <span class="task-check">✔</span>
+                    <span class="task-text">5. money OK</span>
+                </li>
+                <li class="task-item completed">
+                    <span class="task-check">✔</span>
+                    <span class="task-text">6. 여권 열기 OK</span>
+                </li>
+            </ul>
+        </div>
+    </header>
+
+    <main class="gallery">
+        <!-- 1 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj1.png" alt="이미지 1" />
+            </div>
+            <div class="gallery-text">
+                <h2>1. 시작: 버그</h2>
+                <p>Minecraft 누르는 순간 Intellij가 먹통이 되는 현상으로 인해 할 줄 모르는 mod먼저..</p>
+            </div>
+        </section>
+
+        <!-- 2 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj2.png" alt="이미지 2" />
+            </div>
+            <div class="gallery-text">
+                <h2>2. 환경 구축 완료</h2>
+                <p>서버 접속까지 ok</p>
+            </div>
+        </section>
+
+        <!-- 3 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj3.png" alt="이미지 3" />
+            </div>
+            <div class="gallery-text">
+                <h2>3. Dev 환경 접속</h2>
+                <p>mod적용 접속 ok</p>
+            </div>
+        </section>
+
+        <!-- 4 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj4.png" alt="이미지 4" />
+            </div>
+            <div class="gallery-text">
+                <h2>4. gradle 설정</h2>
+                <p>빌드시 서버/로컬 mod 폴더에 jar이 업데이트되도록 설정</p>
+            </div>
+        </section>
+
+        <!-- 5 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj5.png" alt="이미지 5" />
+            </div>
+            <div class="gallery-text">
+                <h2>5. 이미지 분할</h2>
+                <p>ai로 대충 적당히 이것저것 잘라서 사용 시도</p>
+                <p>문제점: 안잘리는 부분이 있음</p>
+                <p>&nbsp;&nbsp;-> 직접 하나하나 자르는 방식으로 변경</p>
+            </div>
+        </section>
+
+        <!-- 6 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj6.png" alt="이미지 6" />
+            </div>
+            <div class="gallery-text">
+                <h2>6. 1차 적용 테스트</h2>
+                <p>이미지 넣어보기</p>
+            </div>
+        </section>
+
+        <!-- 7 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj7.png" alt="이미지 7" />
+            </div>
+            <div class="gallery-text">
+                <h2>7. 자른 이미지 적용</h2>
+                <p>이때 판단실수..//: texture를 바꾸는건가? 라는 생각을..</p>
+            </div>
+        </section>
+
+        <!-- 8 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj8 - 이미지 큼.PNG" alt="이미지 8" />
+            </div>
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj8 - 이미지크기 작음.PNG" alt="이미지 8" />
+            </div>
+            <div class="gallery-text">
+                <h2>8. Sprite 문제점 발견</h2>
+                <p>기본 이미지와 제공된 이미지 크기가 다름 (약 1.4배) -> 사소한 문제이므로 그냥 크게 사용</p>
+            </div>
+        </section>
+
+        <!-- 9 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj9.png" alt="이미지 9" />
+            </div>
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj10.png" alt="이미지 10" />
+            </div>
+            <div class="gallery-text">
+                <h2>9. 텍스쳐 적용</h2>
+                <p>잘못된상황: 아예 체력, 허기를 지우고 했어야했는데 텍스쳐를 바꿈</p>
+                <p>but. 체력, 허기 배경은 제시 상황에 맞아서 그냥 두기로 함.</p>
+                <p>조건에 약간 다르긴 하지만 크게 벗어나지는 않아보여서 그대로 사용</p>
+                <br>
+                <p>if. 배고픔 허기를 만약 텍스쳐 교체 방식이 아니였다면?</p>
+                <p>그냥 우측에서 이미지 자르기만 하면 되는 간단한거라 패스</p>
+            </div>
+        </section>
+
+        <!-- 10 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj11.png" alt="이미지 11" />
+            </div>
+            <div class="gallery-text">
+                <h2>10. 좌상단 플레이어 정보</h2>
+                <p>돈은 string으로 임시 적용</p>
+            </div>
+        </section>
+
+        <!-- 11 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj12.png" alt="이미지 12" />
+            </div>
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj13.png" alt="이미지 13" />
+            </div>
+            <div class="gallery-text">
+                <h2>11. 쿠키: 라마 vs 좀비</h2>
+                <p>라마 승</p>
+            </div>
+        </section>
+
+        <!-- 12 -->
+        <section class="gallery-item">
+            <div class="gallery-image">
+                <img src="/public/assets/images/minecraft_development/assign/prj14.png" alt="이미지 14" />
+            </div>
+            <div class="gallery-text">
+                <h2>12. 돈 통신 적용 및 업데이트</h2>
+                <p>우측 기준에서 좌측으로 늘어나도록 적용</p>
+            </div>
+        </section>
+
+        <!-- ⭐ Video Section -->
+        <section class="gallery-item video-item">
+            <div class="gallery-image">
+                <video controls preload="metadata" class="video-box">
+                    <source src="/public/assets/images/minecraft_development/assign/1.21.1_mod.mp4" type="video/mp4" />
+                    브라우저가 video 태그를 지원하지 않습니다.
+                </video>
+            </div>
+            <div class="gallery-text">
+                <h2>0. 마무리 영상</h2>
+                <p>전체 내용을 마무리하는 영상입니다.</p>
+                <p>소요시간: 환경구축 2h</p>
+                <p>개발시간: 6h</p>
+                <p>&nbsp;中 삽질: 명령어적용버그(1.5H), 텍스쳐위치조정(1H), ///</p>
+            </div>
+        </section>
+
+        <!-- 🔗 GitHub 링크 전용 섹션 -->
+        <section class="gallery-item repo-section">
+            <div class="gallery-text">
+                <h2>소스 코드 / GitHub</h2>
+                <p>gitignore 설정으로 인해 이미지 누락이 있을 수 있습니다.</p>
+
+                <div class="repo-card">
+                    <div class="repo-card-header">
+                        <span class="repo-label">GitHub</span>
+                        <span class="repo-status">source code</span>
+                    </div>
+                    <a class="repo-link"
+                       href="https://github.com/yu-ffe/Assign_Mod"
+                       target="_blank"
+                       rel="noopener noreferrer">
+                        <div class="repo-main">
+                            <span class="repo-icon">🐱‍💻</span>
+                            <span class="repo-name">yu-ffe / Assign_Mod</span>
+                        </div>
+                        <span class="repo-open">새 탭에서 열기 ↗</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+    </main>
+
+    <footer class="page-footer">
+        <p>© 2025 yu__ffe's sub page</p>
+    </footer>
+
+    <!-- 우측 하단 이동 버튼 (플러그인 페이지로) -->
+    <button
+        class="nav-button nav-button--right"
+        data-target="minecraft_plugin.html"
+    >
+        Plugin 페이지&nbsp;&rarr;
+    </button>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
