@@ -1,0 +1,402 @@
+:root {
+    --bg: #0d1117;
+    --card-bg: #161b22;
+    --accent: #ffb86c;
+    --text-main: #e6edf3;
+    --text-sub: #8b949e;
+    --radius: 18px;
+    --shadow-soft: 0 18px 40px rgba(0, 0, 0, 0.4);
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+        sans-serif;
+    background: radial-gradient(circle at top, #20283b 0, #050811 60%, #000 100%);
+    color: var(--text-main);
+    line-height: 1.6;
+}
+
+/* 헤더 */
+
+.page-header {
+    max-width: 960px;
+    margin: 40px auto 10px;
+    padding: 0 20px;
+    text-align: center;
+}
+
+.page-header h1 {
+    margin: 0;
+    font-size: clamp(2rem, 3vw, 2.6rem);
+    letter-spacing: 0.03em;
+}
+
+.page-header p {
+    margin-top: 10px;
+    color: var(--text-sub);
+    font-size: 0.95rem;
+}
+
+/* 메인 갤러리 */
+
+.gallery {
+    max-width: 960px;
+    margin: 20px auto 60px;
+    padding: 0 20px 40px;
+}
+.gallery-item {
+    position: relative;
+    display: flex;
+    gap: 32px;
+    margin: 36px auto;          /* 가운데 정렬 */
+    padding: 20px 24px;
+    background: radial-gradient(circle at top left, #23283b 0, #121726 55%, #050811 100%);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow-soft);
+    align-items: center;
+    overflow: hidden;
+
+    /* ✅ 화면 너비를 넘지 않도록 제한 */
+    width: 100%;
+    max-width: 900px;
+
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+}
+
+/* 스크롤 인 애니메이션용 클래스 */
+.gallery-item.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* 이미지와 텍스트 기본 레이아웃 */
+
+.gallery-image,
+.gallery-text {
+    flex: 1;
+}
+
+.gallery-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gallery-image img,
+.video-box {
+    width: 100%;               /* ✅ 카드 폭에 맞춰서 꽉 차게 */
+    height: auto;
+    max-height: 360px;         /* 필요하면 높이 제한 */
+    border-radius: calc(var(--radius) - 4px);
+    object-fit: cover;
+    display: block;
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    background: #000;
+}
+
+/* 텍스트 */
+
+.gallery-text h2 {
+    margin: 0 0 8px;
+    font-size: 1.1rem;
+    color: var(--accent);
+}
+
+.gallery-text p {
+    margin: 0;
+    color: var(--text-sub);
+    font-size: 0.95rem;
+}
+
+/* 홀수/짝수 아이템에 살짝 좌우 오프셋 및 방향 바꾸기 */
+
+.gallery-item:nth-child(odd) {
+    transform: translateX(-12px) translateY(20px);
+}
+
+.gallery-item:nth-child(odd).is-visible {
+    transform: translateX(-12px) translateY(0);
+}
+
+.gallery-item:nth-child(even) {
+    flex-direction: row-reverse;
+    transform: translateX(12px) translateY(20px);
+}
+
+.gallery-item:nth-child(even).is-visible {
+    transform: translateX(12px) translateY(0);
+}
+
+/* 왼쪽/오른쪽에 은은한 장식 라인 */
+
+.gallery-item::before {
+    content: "";
+    position: absolute;
+    top: -40px;
+    bottom: -40px;
+    width: 3px;
+    background: linear-gradient(
+        to bottom,
+        rgba(255, 184, 108, 0) 0,
+        rgba(255, 184, 108, 0.4) 40%,
+        rgba(255, 184, 108, 0.4) 60%,
+        rgba(255, 184, 108, 0) 100%
+    );
+    opacity: 0.6;
+}
+
+.gallery-item:nth-child(odd)::before {
+    left: 0;
+}
+
+.gallery-item:nth-child(even)::before {
+    right: 0;
+}
+
+/* 푸터 */
+
+.page-footer {
+    text-align: center;
+    padding: 16px 20px 32px;
+    font-size: 0.8rem;
+    color: var(--text-sub);
+}
+
+/* 반응형 */
+
+@media (max-width: 768px) {
+    .gallery-item {
+        flex-direction: column;
+        gap: 16px;
+        padding: 18px 16px;
+    }
+
+    .gallery-item:nth-child(even) {
+        flex-direction: column;
+    }
+
+    .gallery-item:nth-child(odd),
+    .gallery-item:nth-child(even),
+    .gallery-item:nth-child(odd).is-visible,
+    .gallery-item:nth-child(even).is-visible {
+        transform: translateX(0) translateY(0);
+    }
+
+    .gallery-item::before {
+        display: none;
+    }
+}
+
+/* ================================
+   페이지 이동 네비게이션 버튼
+   ================================ */
+
+.nav-button {
+    position: fixed;
+    bottom: 24px;
+    z-index: 999;
+    padding: 10px 16px;
+    border-radius: 999px;
+    border: none;
+    cursor: pointer;
+
+    font-size: 0.95rem;
+    font-weight: 500;
+    background: #238636;
+    color: #ffffff;
+
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.45);
+    opacity: 0.92;
+    transition:
+        transform 0.15s ease,
+        box-shadow 0.15s ease,
+        background 0.15s ease,
+        opacity 0.15s ease;
+}
+
+/* 우측 / 좌측 위치 구분 */
+
+.nav-button--right {
+    right: 24px;
+}
+
+.nav-button--left {
+    left: 24px;
+}
+
+.nav-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 18px 32px rgba(0, 0, 0, 0.65);
+    background: #2ea043;
+    opacity: 1;
+}
+
+.nav-button:active {
+    transform: translateY(0);
+    box-shadow: 0 10px 18px rgba(0, 0, 0, 0.6);
+}
+
+/* 모바일에서 버튼 여백 조금 줄이기 */
+
+@media (max-width: 768px) {
+    .nav-button {
+        bottom: 16px;
+        font-size: 0.9rem;
+        padding: 8px 12px;
+    }
+
+    .nav-button--right {
+        right: 16px;
+    }
+
+    .nav-button--left {
+        left: 16px;
+    }
+}
+/* ================================
+   헤더 체크리스트 (좌측 정렬)
+   ================================ */
+
+.task-list-wrapper {
+    max-width: 960px;
+    margin: 16px auto 0;
+    padding: 12px 16px;
+    border-radius: 16px;
+    background: linear-gradient(135deg, rgba(35, 40, 60, 0.9), rgba(10, 12, 25, 0.95));
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.45);
+    text-align: left;              /* ← 항상 왼쪽 정렬 */
+}
+
+.task-list-title {
+    margin: 0 0 8px;
+    font-size: 0.95rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--text-sub);
+}
+
+.task-list {
+    list-style: none;
+    margin: 4px 0 0;
+    padding: 0;
+}
+
+.task-item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;    /* ← 아이템 전체 좌측 정렬 */
+    gap: 8px;
+    font-size: 0.9rem;
+    color: var(--text-main);
+    padding: 4px 0;
+}
+
+.task-text {
+    flex: 1;
+}
+
+/* 완료 항목은 취소선 + 색 약간 죽이기 */
+.task-item.completed .task-text {
+    text-decoration: line-through;
+    color: var(--text-sub);
+    opacity: 0.85;
+}
+
+/* ================================
+   깃허브 섹션 (영상 아래 독립 카드)
+   ================================ */
+
+.repo-section {
+    /* repo 섹션은 좌/우 오프셋 없이 자연스럽게 가운데 카드 느낌 */
+    flex-direction: row;
+    justify-content: center;
+}
+
+.repo-section .gallery-text {
+    max-width: 540px;
+    margin: 0 auto;
+}
+
+/* GitHub 카드 자체 스타일 */
+
+.repo-card {
+    margin-top: 12px;
+    padding: 12px 14px;
+    border-radius: 14px;
+    background: radial-gradient(circle at top left, #1b2233 0, #090d19 70%);
+    border: 1px solid rgba(88, 166, 255, 0.4);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.5);
+    font-size: 0.9rem;
+}
+
+.repo-card-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 6px;
+}
+
+.repo-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: rgba(139, 148, 158, 0.9);
+}
+
+.repo-status {
+    font-size: 0.75rem;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: rgba(46, 160, 67, 0.12);
+    color: #7ee787;
+}
+
+.repo-link {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    text-decoration: none;
+    color: var(--text-main);
+    padding: 6px 4px 0;
+}
+
+.repo-main {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.repo-icon {
+    font-size: 1rem;
+}
+
+.repo-name {
+    font-weight: 500;
+}
+
+.repo-open {
+    font-size: 0.8rem;
+    color: var(--text-sub);
+}
+
+.repo-link:hover .repo-name {
+    color: var(--accent);
+}
+
+.repo-link:hover .repo-open {
+    color: #58a6ff;
+}
