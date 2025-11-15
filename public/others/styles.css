@@ -406,7 +406,7 @@ body {
 ============================== */
 .download-fab {
     position: fixed;
-    top: 10%;
+    top: 0%;
     transform: translateY(-50%);
     height: 52px;
     padding: 0 22px;
@@ -448,6 +448,12 @@ body {
     transition: transform .25s ease, opacity .25s ease;
     opacity: .9;
 }
+.download-fab .fab-icon2 {
+    font-size: 22px;
+    transition: transform .25s ease, opacity .25s ease;
+    opacity: .9;
+}
+
 
 /* Hover */
 .download-fab:hover {
@@ -457,9 +463,14 @@ body {
 }
 
 .download-fab:hover .fab-icon {
-    transform: translateY(2px) rotate(-6deg) scale(1.15);
+    transform: translateY(-5px) rotate(6deg) scale(1.15);
     opacity: 1;
 }
+.download-fab:hover .fab-icon2 {
+    transform: translateY(-2px) rotate(-6deg) scale(1.25);
+    opacity: 1;
+}
+
 
 /* 툴팁 */
 #fab-tooltip {
@@ -489,4 +500,69 @@ body {
 #fab-tooltip.show {
     opacity: 1;
     transform: translateY(-50%);
+}
+
+
+.download-neon {
+    color: #ffe17b; /* 본체 노란빛 */
+    font-weight: 700;
+    text-shadow:
+        0 0 4px  #ffe17b,
+        0 0 8px  #ffd857,
+        0 0 12px #ffcf3b,
+        0 0 16px #ffbb00,
+        0 0 22px #ffbb00;
+    transition: 0.2s ease;
+}
+
+.download-neon:hover {
+    text-shadow:
+        0 0 6px  #ffe17b,
+        0 0 12px #ffd857,
+        0 0 18px #ffcf3b,
+        0 0 26px #ffbb00,
+        0 0 36px #ffbb00,
+        0 0 55px #ffbb00;
+    color: #fff2a3;
+}
+
+#download-fab {
+    position: relative; /* absolute 요소 기준점 */
+}
+
+/* Mod.jar 모양은 그대로 neon-soft */
+/* Mod.jar */
+.neon-soft {
+    position: relative;   /* download-neon의 기준점이 됨 */
+    color: #ffe9a8;
+    font-weight: 600;
+    display: inline-block; /* 기준 박스를 만들기 위해 필요함 */
+    margin-right: 6px;     /* 아이콘과 간격을 조금 확보 */
+}
+
+/* download — Mod.jar 우측 아래에 배치 */
+.download-neon {
+    position: absolute;
+    left: 20%;       /* Mod.jar 오른쪽 끝에서 시작 */
+    top: 60%;         /* Mod.jar 아래쪽으로 살짝 */
+    transform: translate(2px, 2px); /* 자연스러운 살짝 이동 */
+
+    font-size: 0.7rem;
+    white-space: nowrap;
+    opacity: 0.85;
+
+    color: #ffe8b0;
+    text-shadow:
+        0 0 2px rgba(255, 232, 176, 0.4),
+        0 0 4px rgba(255, 215, 130, 0.25);
+
+    pointer-events: none;
+}
+
+.download-neon:hover {
+    /* hover 는 굳이 안 넣어도 되지만 요청 시 유지 */
+    opacity: 1;
+    text-shadow:
+        0 0 3px rgba(255, 232, 176, 0.6),
+        0 0 6px rgba(255, 215, 130, 0.35);
 }
