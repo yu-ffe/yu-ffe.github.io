@@ -2,8 +2,27 @@
 import './App.css';
 // Stream_LiveGame :: Three.js 경험을 렌더링하는 캔버스 컴포넌트.
 import ThreeCanvas from './components/ThreeCanvas.jsx';
+import WordStudy from './WordStudy.jsx';
+
+function isWordStudyPage() {
+  if (typeof window === 'undefined') {
+    return false;
+  }
+
+  const { pathname, search, hash } = window.location;
+  const params = new URLSearchParams(search);
+  return (
+    pathname.includes('word-study') ||
+    params.get('page') === 'word-study' ||
+    hash.includes('word-study')
+  );
+}
 
 function App() {
+  if (isWordStudyPage()) {
+    return <WordStudy />;
+  }
+
   // Stream_LiveGame :: 단일 캔버스로 구성된 메인 레이아웃을 반환한다.
   return (
     <main className="app">
