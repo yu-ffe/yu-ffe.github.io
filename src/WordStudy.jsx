@@ -206,12 +206,14 @@ export default function WordStudy() {
   const [error, setError] = useState('');
   const [query, setQuery] = useState('');
   const [difficulty, setDifficulty] = useState('all');
+  const [pageIndex, setPageIndex] = useState(0);
+  const [cardPage, setCardPage] = useState(1);
 
   useEffect(() => {
     async function fetchAll() {
       try {
         const results = await Promise.all(
-          CSV_FILES.map(async (file) => {
+          CSV_FILES.map(async (file, fileIndex) => {
             const res = await fetch(file, { cache: 'no-cache' });
             if (!res.ok) throw new Error(`Failed to load ${file}`);
             const text = await res.text();
@@ -219,7 +221,8 @@ export default function WordStudy() {
             return parsed.map((item) => ({
               ...item,
               source: file,
-              sourceLabel: file.split('/').pop()?.replace('.csv', '월 학습') ?? '자료',
+              sourceIndex: fileIndex,
+              sourceLabel: file.split('/').pop()?.replace('.csv', '').padStart(2, '0') ?? '자료',
             }));
           })
         );
@@ -234,6 +237,10 @@ export default function WordStudy() {
 
     fetchAll();
   }, []);
+
+  useEffect(() => {
+    setCardPage(1);
+  }, [difficulty, pageIndex, query]);
 
   const filtered = useMemo(() => {
     return entries.filter((entry) => {
@@ -252,6 +259,17 @@ export default function WordStudy() {
       return matchesQuery && matchesDifficulty;
     });
   }, [difficulty, entries, query]);
+
+  const cardsPerPage = 6;
+  const filteredByPage = useMemo(
+    () => filtered.filter((entry) => entry.sourceIndex === pageIndex),
+    [filtered, pageIndex]
+  );
+
+  const totalCardPages = Math.max(1, Math.ceil(filteredByPage.length / cardsPerPage));
+  const safeCardPage = Math.min(cardPage, totalCardPages);
+  const start = (safeCardPage - 1) * cardsPerPage;
+  const visibleEntries = filteredByPage.slice(start, start + cardsPerPage);
 
   return (
     <div className="word-study-layout">
@@ -284,6 +302,27 @@ export default function WordStudy() {
             <option value="7">7-10</option>
           </select>
         </div>
+        <div className="control-group wide">
+          <label>페이지</label>
+          <div className="page-buttons" role="group" aria-label="자료 페이지 선택">
+            {CSV_FILES.map((_, index) => {
+              const label = String(index + 1).padStart(2, '0');
+              const active = index === pageIndex;
+              return (
+                <button
+                  key={label}
+                  type="button"
+                  className={`page-button ${active ? 'active' : ''}`}
+                  onClick={() => setPageIndex(index)}
+                  aria-pressed={active}
+                >
+                  {label}
+                </button>
+              );
+            })}
+          </div>
+          <p className="control-note">01부터 {String(CSV_FILES.length).padStart(2, '0')}까지 넘겨 보세요.</p>
+        </div>
         <div className="control-hint">
           중요도가 낮은 파트는 접어서, 자주 보는 핵심만 펼쳐두세요.
         </div>
@@ -294,10 +333,33 @@ export default function WordStudy() {
 
       {!loading && !error && (
         <section className="card-stack">
-          {filtered.map((entry, index) => (
+          {visibleEntries.map((entry, index) => (
             <WordCard key={`${entry['단어']}-${index}`} entry={entry} />
           ))}
-          {filtered.length === 0 && <p className="status">조건에 맞는 단어가 없습니다.</p>}
+          {filteredByPage.length === 0 && <p className="status">조건에 맞는 단어가 없습니다.</p>}
+          {filteredByPage.length > 0 && (
+            <div className="pagination">
+              <button
+                type="button"
+                className="pager"
+                onClick={() => setCardPage((prev) => Math.max(1, prev - 1))}
+                disabled={safeCardPage === 1}
+              >
+                이전
+              </button>
+              <span className="page-status">
+                {String(safeCardPage).padStart(2, '0')} / {String(totalCardPages).padStart(2, '0')}
+              </span>
+              <button
+                type="button"
+                className="pager"
+                onClick={() => setCardPage((prev) => Math.min(totalCardPages, prev + 1))}
+                disabled={safeCardPage === totalCardPages}
+              >
+                다음
+              </button>
+            </div>
+          )}
         </section>
       )}
     </div>
