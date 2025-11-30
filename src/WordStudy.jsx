@@ -5,6 +5,8 @@ const CSV_FILES = Array.from({ length: 12 }, (_, index) =>
   `/assets/words/${String(index + 1).padStart(2, '0')}.csv`
 );
 
+const CSV_DELIMITER = '|';
+
 const CSV_HEADERS = [
   '단어',
   '품사',
@@ -93,7 +95,7 @@ function parseCsv(text) {
       } else {
         inQuotes = !inQuotes;
       }
-    } else if (char === ',' && !inQuotes) {
+    } else if (char === CSV_DELIMITER && !inQuotes) {
       currentRow.push(currentField);
       currentField = '';
     } else if ((char === '\n' || char === '\r') && !inQuotes) {
