@@ -32,6 +32,17 @@ export function setupBookshelfInteractions(camera, books, bookEntries) {
     book.userData.isInteractiveBook = true;
     book.userData.link = link;
     book.userData.title = title ?? text ?? "";
+
+    if (typeof link === "string" && link.includes("/words/")) {
+      const highlight = book.userData.highlight;
+      book.userData.isStudyBook = true;
+      book.material.color.set(0x0a0a0a);
+      book.material.emissive.set(0x000000);
+      if (highlight?.originalColor) {
+        highlight.originalColor.copy(book.material.color);
+      }
+      book.material.needsUpdate = true;
+    }
   });
 
   return registerHighlightHandlers(camera, selectedBooks);

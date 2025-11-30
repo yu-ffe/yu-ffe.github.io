@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vocabulary Studio</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <h1>Vocabulary Studio</h1>
+        <p>월별 CSV(01~12.csv)를 자동으로 읽어와 한눈에 학습할 수 있는 서브 페이지입니다.</p>
+      </header>
+
+      <section class="controls">
+        <div class="control">
+          <label for="search">검색 (단어 / 의미 / 예문)</label>
+          <input id="search" type="search" placeholder="reciprocal, implement, ..." />
+        </div>
+        <div class="control">
+          <label for="pos">품사</label>
+          <select id="pos">
+            <option value="">전체</option>
+            <option value="noun">명사</option>
+            <option value="verb">동사</option>
+            <option value="adjective">형용사</option>
+            <option value="adverb">부사</option>
+            <option value="phrasal verb">구동사</option>
+          </select>
+        </div>
+        <div class="control">
+          <label for="difficulty">난이도</label>
+          <select id="difficulty">
+            <option value="">전체</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+          </select>
+        </div>
+      </section>
+
+      <div class="summary" id="counter">불러오는 중...</div>
+      <section class="grid" id="cards" aria-live="polite"></section>
+
+      <footer>
+        학습 자료는 <strong>assets/words/01.csv ~ 12.csv</strong>에서 자동으로 수집됩니다.
+      </footer>
+    </div>
+    <script src="./index.js" type="module"></script>
+  </body>
+</html>
