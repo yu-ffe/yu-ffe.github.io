@@ -32,6 +32,8 @@ export function setupBookshelfInteractions(camera, books, bookEntries) {
     book.userData.isInteractiveBook = true;
     book.userData.link = link;
     book.userData.title = title ?? text ?? "";
+
+    applyEntryStyling(book, entries[index]);
   });
 
   return registerHighlightHandlers(camera, selectedBooks);
@@ -172,4 +174,30 @@ function selectInteractiveBooks(books, count) {
 function deterministicRandom(seed) {
   const x = Math.sin(seed * 12.9898) * 43758.5453;
   return x - Math.floor(x);
+}
+
+function applyEntryStyling(book, entry) {
+  if (!entry?.color || !book?.material?.color) {
+    return;
+  }
+
+  let color;
+  try {
+    color = new THREE.Color(entry.color);
+  } catch (error) {
+    return;
+  }
+
+  book.material.color.copy(color);
+  book.material.emissive.copy(color).multiplyScalar(0.14);
+  if (typeof book.material.emissiveIntensity === "number") {
+    book.material.emissiveIntensity = 1.08;
+  }
+
+  if (book.userData.highlight?.originalColor) {
+    book.userData.highlight.originalColor.copy(color);
+  }
+  if (book.userData.highlight?.originalEmissive) {
+    book.userData.highlight.originalEmissive.copy(book.material.emissive);
+  }
 }
