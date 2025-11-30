@@ -2,13 +2,20 @@
 import './App.css';
 // Stream_LiveGame :: Three.js 경험을 렌더링하는 캔버스 컴포넌트.
 import ThreeCanvas from './components/ThreeCanvas.jsx';
+import WordsPage from './pages/WordsPage.jsx';
 
 function App() {
+  const wordStudyPath = `${import.meta.env.BASE_URL ?? '/'}words`;
+  const isWordStudyPage = window.location.pathname.startsWith(wordStudyPath);
+
   // Stream_LiveGame :: 단일 캔버스로 구성된 메인 레이아웃을 반환한다.
   return (
-    <main className="app">
-      {/* Stream_LiveGame :: 3D 씬을 그리는 캔버스를 포함한다. */}
-      <ThreeCanvas />
+    <main className={`app ${isWordStudyPage ? 'word-app' : ''}`}>
+      {isWordStudyPage ? (
+        <WordsPage />
+      ) : (
+        <ThreeCanvas />
+      )}
     </main>
   );
 }

@@ -17,8 +17,9 @@ export function registerClickNavigation(camera, scene) {
 
     const [firstHit] = intersects;
     if (firstHit && firstHit.object?.userData?.link) {
-      // Stream_LiveGame :: 사용자 데이터에 저장된 링크를 새 탭에서 연다.
-      window.open(firstHit.object.userData.link, "_blank");
+      // Stream_LiveGame :: 사용자 데이터에 저장된 링크를 새 탭 또는 동일 탭에서 연다.
+      const target = firstHit.object.userData.target ?? "_blank";
+      window.open(firstHit.object.userData.link, target);
     }
   }
 

@@ -16,6 +16,8 @@ export async function loadBookMetadata() {
         link: entry.link,
         text: entry.text ?? "",
         title: entry.title ?? entry.text ?? "",
+        color: entry.color,
+        target: entry.target,
       }));
   } catch (error) {
     console.error("Failed to load book metadata:", error);

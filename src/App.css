@@ -1,11 +1,15 @@
 /* Stream_LiveGame :: 애플리케이션 루트 컨테이너 레이아웃 정의. */
 .app {
   width: 100%;
-  height: 100%;
+  min-height: 100%;
   display: flex;
 }
 
 /* Stream_LiveGame :: 3D 캔버스가 가용 공간을 가득 채우도록 한다. */
 .app canvas {
   flex: 1;
+}
+
+.app.word-app {
+  background: transparent;
 }

@@ -28,13 +28,40 @@ export function setupBookshelfInteractions(camera, books, bookEntries) {
   const selectedBooks = selectInteractiveBooks(books, interactiveCount);
 
   selectedBooks.forEach((book, index) => {
-    const { link, text, title } = entries[index];
+    const { link, text, title, color, target } = entries[index];
     book.userData.isInteractiveBook = true;
     book.userData.link = link;
     book.userData.title = title ?? text ?? "";
+    book.userData.target = target;
+
+    applyCustomBookStyle(book, color);
   });
 
   return registerHighlightHandlers(camera, selectedBooks);
+}
+
+function applyCustomBookStyle(book, color) {
+  if (!color || !book?.material?.color) {
+    return;
+  }
+
+  const desiredColor = new THREE.Color(color);
+  book.material.color.copy(desiredColor);
+
+  if (book.material.emissive) {
+    const emissiveTint = desiredColor.clone().lerp(new THREE.Color(0xffffff), 0.15);
+    book.material.emissive.copy(emissiveTint.multiplyScalar(0.16));
+  }
+
+  if (book.userData.highlight?.originalColor) {
+    book.userData.highlight.originalColor.copy(desiredColor);
+  }
+
+  if (book.userData.highlight?.originalEmissive && book.material.emissive) {
+    book.userData.highlight.originalEmissive.copy(book.material.emissive);
+  }
+
+  book.material.needsUpdate = true;
 }
 
 function registerHighlightHandlers(camera, interactiveBooks) {
