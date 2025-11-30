@@ -106,6 +106,9 @@
   display: flex;
   flex-wrap: wrap;
   gap: 0.45rem;
+  max-height: 240px;
+  overflow-y: auto;
+  padding-right: 0.25rem;
 }
 
 .page-button {

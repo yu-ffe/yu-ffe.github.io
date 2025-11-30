@@ -1,7 +1,9 @@
 import { useEffect, useMemo, useState } from 'react';
 import './WordStudy.css';
 
-const CSV_FILES = Array.from({ length: 12 }, (_, index) =>
+const CSV_COUNT = 92;
+
+const CSV_FILES = Array.from({ length: CSV_COUNT }, (_, index) =>
   `/assets/words/${String(index + 1).padStart(2, '0')}.csv`
 );
 
@@ -277,7 +279,7 @@ export default function WordStudy() {
         <div>
           <p className="eyebrow">모바일 최적화 / 전 필드 포함</p>
           <h1>Word Study Lab</h1>
-          <p className="subtitle">12권 단어장을 한 번에 모아 빠르게 복습하세요.</p>
+          <p className="subtitle">모든 단어장을 한 번에 모아 빠르게 복습하세요.</p>
         </div>
         <a className="back-link" href="/">3D 방으로 돌아가기</a>
       </header>
