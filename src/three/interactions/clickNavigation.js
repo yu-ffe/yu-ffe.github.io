@@ -17,8 +17,10 @@ export function registerClickNavigation(camera, scene) {
 
     const [firstHit] = intersects;
     if (firstHit && firstHit.object?.userData?.link) {
-      // Stream_LiveGame :: 사용자 데이터에 저장된 링크를 새 탭에서 연다.
-      window.open(firstHit.object.userData.link, "_blank");
+      // Stream_LiveGame :: 내부 링크는 동일 탭에서, 외부 링크는 새 탭에서 연다.
+      const targetUrl = firstHit.object.userData.link;
+      const isInternal = typeof targetUrl === "string" && /^\//.test(targetUrl);
+      window.open(targetUrl, isInternal ? "_self" : "_blank");
     }
   }
 

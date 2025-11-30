@@ -28,10 +28,26 @@ export function setupBookshelfInteractions(camera, books, bookEntries) {
   const selectedBooks = selectInteractiveBooks(books, interactiveCount);
 
   selectedBooks.forEach((book, index) => {
-    const { link, text, title } = entries[index];
+    const { link, text, title, color } = entries[index];
     book.userData.isInteractiveBook = true;
     book.userData.link = link;
     book.userData.title = title ?? text ?? "";
+
+    if (color && book.material?.color) {
+      const accent = new THREE.Color(color);
+      book.material.color.copy(accent);
+      if (book.material.emissive) {
+        book.material.emissive.copy(accent).multiplyScalar(0.2);
+        book.material.emissiveIntensity = 1.1;
+      }
+
+      if (book.userData.highlight?.originalColor) {
+        book.userData.highlight.originalColor.copy(book.material.color);
+      }
+      if (book.userData.highlight?.originalEmissive && book.material.emissive) {
+        book.userData.highlight.originalEmissive.copy(book.material.emissive);
+      }
+    }
   });
 
   return registerHighlightHandlers(camera, selectedBooks);
