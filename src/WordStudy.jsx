@@ -214,7 +214,7 @@ export default function WordStudy() {
   useEffect(() => {
     async function fetchAll() {
       try {
-        const results = await Promise.all(
+        const results = await Promise.allSettled(
           CSV_FILES.map(async (file, fileIndex) => {
             const res = await fetch(file, { cache: 'no-cache' });
             if (!res.ok) throw new Error(`Failed to load ${file}`);
@@ -229,7 +229,20 @@ export default function WordStudy() {
           })
         );
 
-        setEntries(results.flat());
+        const fulfilled = results.flatMap((result, index) => {
+          if (result.status === 'fulfilled') return result.value;
+          console.warn(
+            `단어장 ${String(index + 1).padStart(2, '0')}을 불러오지 못했습니다.`,
+            result.reason
+          );
+          return [];
+        });
+
+        if (fulfilled.length === 0) {
+          setError('단어장을 불러오지 못했습니다.');
+        } else {
+          setEntries(fulfilled);
+        }
       } catch (err) {
         setError(err.message ?? '단어장을 불러오지 못했습니다.');
       } finally {
