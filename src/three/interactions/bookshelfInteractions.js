@@ -28,10 +28,14 @@ export function setupBookshelfInteractions(camera, books, bookEntries) {
   const selectedBooks = selectInteractiveBooks(books, interactiveCount);
 
   selectedBooks.forEach((book, index) => {
-    const { link, text, title } = entries[index];
+    const { link, text, title, slug } = entries[index];
     book.userData.isInteractiveBook = true;
     book.userData.link = link;
     book.userData.title = title ?? text ?? "";
+
+    if (slug === "word-study") {
+      paintBookAsFeatured(book);
+    }
   });
 
   return registerHighlightHandlers(camera, selectedBooks);
@@ -86,6 +90,24 @@ function registerHighlightHandlers(camera, interactiveBooks) {
     window.removeEventListener("pointerout", handlePointerOut);
     window.removeEventListener("blur", handleBlur);
   };
+}
+
+function paintBookAsFeatured(book) {
+  if (!book?.material) {
+    return;
+  }
+
+  const material = book.material;
+  material.color?.set("#0b0b0f");
+  material.emissive?.set("#1a1a1f");
+  if (typeof material.emissiveIntensity === "number") {
+    material.emissiveIntensity = 0.4;
+  }
+
+  if (book.userData.highlight) {
+    book.userData.highlight.originalColor = material.color?.clone();
+    book.userData.highlight.originalEmissive = material.emissive?.clone();
+  }
 }
 
 function updatePointer(clientX, clientY) {

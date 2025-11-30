@@ -2,8 +2,15 @@
 import './App.css';
 // Stream_LiveGame :: Three.js 경험을 렌더링하는 캔버스 컴포넌트.
 import ThreeCanvas from './components/ThreeCanvas.jsx';
+import WordStudyPage from './components/WordStudyPage.jsx';
 
 function App() {
+  const isWordPage = typeof window !== 'undefined' && window.location.pathname.includes('/words');
+
+  if (isWordPage) {
+    return <WordStudyPage />;
+  }
+
   // Stream_LiveGame :: 단일 캔버스로 구성된 메인 레이아웃을 반환한다.
   return (
     <main className="app">
