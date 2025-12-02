@@ -12,7 +12,10 @@ export function createOrbitControls(camera, renderer) {
   controls.enableDamping = true;
   controls.dampingFactor = 0.08;
   controls.enablePan = false;
-  controls.enableZoom = false;
+  controls.enableZoom = true;
+  controls.zoomSpeed = 0.8;
+  controls.minZoom = 0.4;
+  controls.maxZoom = 1.6;
   controls.target.set(0, 0, 0);
   controls.update();
 
