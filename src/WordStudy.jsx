@@ -35,46 +35,49 @@ const CSV_HEADERS = [
   '미니 퀴즈(3문항 선택형)',
 ];
 
-const PRIMARY_FIELDS = [
-  '단어',
-  '품사',
-  '주요 의미(핵심 뜻)',
-  '핵심 개념 요약(한 문장)',
-  '교과/분야 태그',
-  '빈도 정도(고/중/저)',
-  '단어 난이도(1~10)',
-];
-
-const GROUPS = [
+const SECTION_GROUPS = [
   {
-    key: 'background',
-    title: '배경·형태',
+    key: 'core',
+    title: '섹션 1. 핵심 의미 · 예문',
     fields: [
-      '어원·역사적 변천',
-      '형태론적 분석(접두사·어근·접미사)',
-      '파생어·관련어',
-      '의미 확장(현재 쓰임 포함)',
+      { label: '단어', key: '단어' },
+      { label: '주요 의미', key: '주요 의미(핵심 뜻)' },
+      { label: '핵심 개념 요약', key: '핵심 개념 요약(한 문장)' },
+      { label: '형태·분석(접두/어근/접미)', key: '형태론적 분석(접두사·어근·접미사)' },
+      { label: '파생어·관련어', key: '파생어·관련어' },
+      { label: '어원·역사적 변천', key: '어원·역사적 변천' },
+      { label: '의미 확장', key: '의미 확장(현재 쓰임 포함)' },
+      { label: '전치사 패턴', key: '전치사 패턴' },
+      { label: '필수 보어', key: '필수 보어 등' },
+      { label: '혼동 주의 단어', key: '혼동 주의 단어' },
+      { label: '동의어·유사어', key: '동의어·유사어' },
+      { label: '반의어', key: '반의어' },
+      { label: '콜로케이션', key: '콜로케이션(뜻 포함)' },
+      { label: '예문(난이도별 2~3개)', key: '예문(난이도별 2~3개)' },
+      { label: '학습 팁', key: '학습 팁' },
     ],
   },
   {
-    key: 'grammar',
-    title: '문법·패턴',
-    fields: ['뉘앙스·레지스터', '문법적 특징', '자동사/타동사', '가산/불가산', '전치사 패턴', '필수 보어 등'],
+    key: 'nuance',
+    title: '섹션 2. 뉘앙스 · 문법 · 퀴즈',
+    fields: [
+      { label: '뉘앙스·레지스터', key: '뉘앙스·레지스터' },
+      { label: '문법적 특징', key: '문법적 특징' },
+      { label: '자동사/타동사', key: '자동사/타동사' },
+      { label: '가산/불가산', key: '가산/불가산' },
+      { label: '미니 퀴즈(3문항 선택형)', key: '미니 퀴즈(3문항 선택형)' },
+    ],
   },
   {
-    key: 'relations',
-    title: '의미 관계',
-    fields: ['혼동 주의 단어', '동의어·유사어', '반의어'],
-  },
-  {
-    key: 'usage',
-    title: '사용·예문',
-    fields: ['콜로케이션(뜻 포함)', '예문(난이도별 2~3개)', '학습 팁'],
-  },
-  {
-    key: 'check',
-    title: 'OX & 퀴즈',
-    fields: ['OX 체크용 문항(기본값 X)', '미니 퀴즈(3문항 선택형)'],
+    key: 'meta',
+    title: '섹션 3. 품사 · 태그 · 난이도',
+    fields: [
+      { label: '품사', key: '품사' },
+      { label: '교과/분야 태그', key: '교과/분야 태그' },
+      { label: '빈도 정도(고/중/저)', key: '빈도 정도(고/중/저)' },
+      { label: '단어 난이도(1~10)', key: '단어 난이도(1~10)' },
+      { label: 'OX 체크용 문항(기본값 X)', key: 'OX 체크용 문항(기본값 X)' },
+    ],
   },
 ];
 
@@ -153,13 +156,9 @@ function StudyField({ label, value }) {
 }
 
 function WordCard({ entry }) {
-  const [collapsedGroups, setCollapsedGroups] = useState({
-    background: true,
-    grammar: true,
-    relations: true,
-    usage: false,
-    check: true,
-  });
+  const [collapsedGroups, setCollapsedGroups] = useState(() =>
+    Object.fromEntries(SECTION_GROUPS.map((group) => [group.key, true]))
+  );
 
   const toggleGroup = (key) => {
     setCollapsedGroups((prev) => ({ ...prev, [key]: !prev[key] }));
@@ -171,6 +170,7 @@ function WordCard({ entry }) {
         <div>
           <p className="word-label">{entry['단어']}</p>
           <p className="pos-label">{entry['품사']}</p>
+          <p className="card-note">아래 토글을 열어 상세 필드를 확인하세요.</p>
         </div>
         <div className="badges">
           <span className="badge badge-ghost">{entry.sourceLabel}</span>
@@ -179,21 +179,18 @@ function WordCard({ entry }) {
         </div>
       </div>
 
-      <section className="field-grid">
-        {PRIMARY_FIELDS.map((field) => (
-          <StudyField key={field} label={field} value={entry[field]} />
-        ))}
-      </section>
-
-      {GROUPS.map((group) => (
+      {SECTION_GROUPS.map((group) => (
         <section key={group.key} className="collapsible">
           <button className="collapse-trigger" type="button" onClick={() => toggleGroup(group.key)}>
-            <span>{group.title}</span>
+            <div className="collapse-labels">
+              <span className="collapse-title">{group.title}</span>
+              <span className="collapse-sub">필드 집합을 열어 세부 정보를 확인하세요.</span>
+            </div>
             <span className="chevron">{collapsedGroups[group.key] ? '▼' : '▲'}</span>
           </button>
           <div className={`collapse-content ${collapsedGroups[group.key] ? 'collapsed' : ''}`}>
             {group.fields.map((field) => (
-              <StudyField key={field} label={field} value={entry[field]} />
+              <StudyField key={field.key} label={field.label} value={entry[field.key]} />
             ))}
           </div>
         </section>
