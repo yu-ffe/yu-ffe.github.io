@@ -298,15 +298,10 @@
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 0.55rem;
   margin-top: 0.6rem;
-  max-height: 999px;
-  transition: max-height 0.3s ease;
 }
 
 .collapse-content.collapsed {
-  max-height: 0;
-  overflow: hidden;
-  padding-bottom: 0;
-  margin-top: 0;
+  display: none;
 }
 
 .pagination {
