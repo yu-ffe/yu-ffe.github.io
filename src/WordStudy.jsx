@@ -204,7 +204,6 @@ export default function WordStudy() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [query, setQuery] = useState('');
-  const [difficulty, setDifficulty] = useState('all');
   const [pageIndex, setPageIndex] = useState(0);
   const [cardPage, setCardPage] = useState(1);
 
@@ -252,25 +251,17 @@ export default function WordStudy() {
 
   useEffect(() => {
     setCardPage(1);
-  }, [difficulty, pageIndex, query]);
+  }, [pageIndex, query]);
 
   const filtered = useMemo(() => {
     return entries.filter((entry) => {
       const q = query.trim().toLowerCase();
-      const matchesQuery =
+      return (
         !q ||
-        CSV_HEADERS.some((header) => (entry[header] ?? '').toLowerCase().includes(q));
-
-      const level = Number(entry['단어 난이도(1~10)']);
-      const matchesDifficulty =
-        difficulty === 'all' ||
-        (difficulty === '1' && level >= 1 && level <= 3) ||
-        (difficulty === '4' && level >= 4 && level <= 6) ||
-        (difficulty === '7' && level >= 7);
-
-      return matchesQuery && matchesDifficulty;
+        CSV_HEADERS.some((header) => (entry[header] ?? '').toLowerCase().includes(q))
+      );
     });
-  }, [difficulty, entries, query]);
+  }, [entries, query]);
 
   const cardsPerPage = 6;
   const filteredByPage = useMemo(
@@ -286,11 +277,6 @@ export default function WordStudy() {
   return (
     <div className="word-study-layout">
       <header className="study-topbar">
-        <div>
-          <p className="eyebrow">모바일 최적화 / 전 필드 포함</p>
-          <h1>Word Study Lab</h1>
-          <p className="subtitle">모든 단어장을 한 번에 모아 빠르게 복습하세요.</p>
-        </div>
         <a className="back-link" href="/">3D 방으로 돌아가기</a>
       </header>
 
@@ -304,15 +290,6 @@ export default function WordStudy() {
             value={query}
             onChange={(e) => setQuery(e.target.value)}
           />
-        </div>
-        <div className="control-group">
-          <label htmlFor="difficulty">난이도</label>
-          <select id="difficulty" value={difficulty} onChange={(e) => setDifficulty(e.target.value)}>
-            <option value="all">전체</option>
-            <option value="1">1-3</option>
-            <option value="4">4-6</option>
-            <option value="7">7-10</option>
-          </select>
         </div>
         <div className="control-group wide">
           <label>페이지</label>
@@ -333,10 +310,6 @@ export default function WordStudy() {
               );
             })}
           </div>
-          <p className="control-note">01부터 {String(CSV_FILES.length).padStart(2, '0')}까지 넘겨 보세요.</p>
-        </div>
-        <div className="control-hint">
-          중요도가 낮은 파트는 접어서, 자주 보는 핵심만 펼쳐두세요.
         </div>
       </section>
 
