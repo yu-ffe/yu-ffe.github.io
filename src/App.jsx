@@ -3,6 +3,7 @@ import './App.css';
 // Stream_LiveGame :: Three.js 경험을 렌더링하는 캔버스 컴포넌트.
 import ThreeCanvas from './components/ThreeCanvas.jsx';
 import WordStudy from './WordStudy.jsx';
+import LexiconLab from './LexiconLab.jsx';
 
 function isWordStudyPage() {
   if (typeof window === 'undefined') {
@@ -18,7 +19,21 @@ function isWordStudyPage() {
   );
 }
 
+function isLexiconLabPage() {
+  if (typeof window === 'undefined') {
+    return false;
+  }
+
+  const { pathname, search, hash } = window.location;
+  const params = new URLSearchParams(search);
+  return pathname.includes('lexicon') || params.get('page') === 'lexicon-lab' || hash.includes('lexicon');
+}
+
 function App() {
+  if (isLexiconLabPage()) {
+    return <LexiconLab />;
+  }
+
   if (isWordStudyPage()) {
     return <WordStudy />;
   }
@@ -28,6 +43,21 @@ function App() {
     <main className="app">
       {/* Stream_LiveGame :: 3D 씬을 그리는 캔버스를 포함한다. */}
       <ThreeCanvas />
+      <div className="study-launcher">
+        <div className="launcher-card">
+          <p className="launcher-eyebrow">Word Practice Zone</p>
+          <h2>어휘 연습서 바로가기</h2>
+          <p className="launcher-copy">기존 단어장과 새 파란 책을 원하는 스타일로 열람하세요.</p>
+          <div className="launcher-actions">
+            <a className="launch-button ghost" href="?page=word-study">
+              Word Study (기존)
+            </a>
+            <a className="launch-button primary" href="?page=lexicon-lab">
+              Blue Lexicon Lab
+            </a>
+          </div>
+        </div>
+      </div>
     </main>
   );
 }
