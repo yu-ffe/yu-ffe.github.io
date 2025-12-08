@@ -57,20 +57,6 @@ function App() {
             </a>
           </div>
         </div>
-
-        <div className="launcher-card">
-          <p className="launcher-eyebrow">Minecraft Assignment</p>
-          <h2>Minecraft Mod &amp; Plugin</h2>
-          <p className="launcher-copy">이미 준비된 모드/플러그인 제출 페이지를 바로 확인하세요.</p>
-          <div className="launcher-actions">
-            <a className="launch-button primary" href="/minecraft_ass1/minecraft_mod.html">
-              Mod 페이지
-            </a>
-            <a className="launch-button ghost" href="/minecraft_ass1/minecraft_plugin.html">
-              Plugin 페이지
-            </a>
-          </div>
-        </div>
       </div>
     </main>
   );
