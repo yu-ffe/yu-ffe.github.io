@@ -2,7 +2,6 @@ import { useEffect, useMemo, useState } from 'react';
 import './LexiconLab.css';
 
 const SETTINGS_COOKIE = 'lexiconLabSettings';
-const BOOK_COOKIE = 'lexiconLabBook';
 const POSITION_COOKIE = 'lexiconLabPosition';
 // TODO: Remove MOBILE_PREVIEW once desktop view is restored.
 const MOBILE_PREVIEW = true;
@@ -254,35 +253,10 @@ function LexiconEntry({ entry, settings }) {
   );
 }
 
-function BookShelf({ books, selectedBookId, onSelect }) {
-  return (
-    <div className="bookshelf">
-      {books.map((book) => {
-        const active = book.id === selectedBookId;
-        return (
-          <button
-            key={book.id}
-            type="button"
-            className={`book ${active ? 'active' : ''}`}
-            style={{ borderColor: book.accent, background: active ? book.accent : 'transparent' }}
-            onClick={() => onSelect(book.id)}
-          >
-            <span className="book-label">{book.title}</span>
-            <span className="book-desc">{book.description}</span>
-          </button>
-        );
-      })}
-    </div>
-  );
-}
-
 export default function LexiconLab() {
   const [settings, setSettings] = useState(defaultSettings);
-  const [books, setBooks] = useState([]);
-  const [selectedBookId, setSelectedBookId] = useState('');
   const [entries, setEntries] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [bookLoading, setBookLoading] = useState(false);
   const [error, setError] = useState('');
   const [panelOpen, setPanelOpen] = useState(false);
 
@@ -303,58 +277,24 @@ export default function LexiconLab() {
   }, [settings]);
 
   useEffect(() => {
-    async function loadBooks() {
+    async function loadEntries() {
       setLoading(true);
       setError('');
       try {
-        const res = await fetch('/assets/lexicon/books.json', { cache: 'no-cache' });
-        if (!res.ok) throw new Error('단어장 목록을 불러올 수 없습니다.');
+        const res = await fetch('/assets/lexicon/lexicon.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error('단어장 데이터를 불러올 수 없습니다.');
         const data = await res.json();
-        setBooks(data);
+        setEntries(data);
       } catch (err) {
-        setError(err.message || '목록을 불러오지 못했습니다.');
+        setError(err.message || '데이터를 불러오지 못했습니다.');
+        setEntries([]);
       } finally {
         setLoading(false);
       }
     }
 
-    loadBooks();
+    loadEntries();
   }, []);
-
-  useEffect(() => {
-    if (books.length === 0) return;
-    const savedBook = readCookie(BOOK_COOKIE);
-    if (savedBook && books.some((book) => book.id === savedBook)) {
-      setSelectedBookId(savedBook);
-    } else {
-      setSelectedBookId(books[0].id);
-    }
-  }, [books]);
-
-  useEffect(() => {
-    if (!selectedBookId) return;
-    const target = books.find((book) => book.id === selectedBookId);
-    if (!target) return;
-
-    async function loadBook() {
-      setBookLoading(true);
-      setError('');
-      try {
-        const res = await fetch(target.dataPath, { cache: 'no-cache' });
-        if (!res.ok) throw new Error('단어장 데이터를 불러올 수 없습니다.');
-        const data = await res.json();
-        setEntries(data);
-        writeCookie(BOOK_COOKIE, selectedBookId);
-      } catch (err) {
-        setError(err.message || '데이터를 불러오지 못했습니다.');
-        setEntries([]);
-      } finally {
-        setBookLoading(false);
-      }
-    }
-
-    loadBook();
-  }, [selectedBookId, books]);
 
   useEffect(() => {
     if (!entries.length) return;
@@ -372,44 +312,32 @@ export default function LexiconLab() {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  const activeBook = useMemo(() => books.find((book) => book.id === selectedBookId), [books, selectedBookId]);
-
   return (
     <div className={`lex-page ${MOBILE_PREVIEW ? 'lex-page--mobile' : ''}`}>
-      <header className="lex-topbar">
-        <div>
-          <p className="eyebrow">신규 포맷 / 다중 필드 지원</p>
-          <h1>Lexicon Lab</h1>
-          <p className="subtitle">책을 선택하고, 나만의 보기 설정을 적용하세요.</p>
-        </div>
-        <div className="top-actions">
-          <a className="ghost" href="/">3D 방으로 돌아가기</a>
-          <button className="panel-toggle" type="button" onClick={() => setPanelOpen((v) => !v)} aria-label="설정 열기">
-            =
-          </button>
-        </div>
-      </header>
-
-      <BookShelf books={books} selectedBookId={selectedBookId} onSelect={setSelectedBookId} />
-
-      {activeBook && (
-        <div className="book-banner" style={{ borderColor: activeBook.accent }}>
-          <p className="book-name">{activeBook.title}</p>
-          <p className="book-note">{activeBook.description}</p>
-        </div>
-      )}
+        <header className="lex-topbar">
+          <div>
+            <p className="eyebrow">신규 포맷 / 다중 필드 지원</p>
+            <h1>Lexicon Lab</h1>
+            <p className="subtitle">모든 카드에서 나만의 보기 설정을 적용하세요.</p>
+          </div>
+          <div className="top-actions">
+            <a className="ghost" href="/">3D 방으로 돌아가기</a>
+            <button className="panel-toggle" type="button" onClick={() => setPanelOpen((v) => !v)} aria-label="설정 열기">
+              =
+            </button>
+          </div>
+        </header>
 
       {loading && <p className="status">목록을 불러오는 중입니다...</p>}
       {error && <p className="status error">{error}</p>}
 
-      {!loading && !error && entries.length === 0 && <p className="status">선택한 책에 단어가 없습니다.</p>}
+        {!loading && !error && entries.length === 0 && <p className="status">단어 데이터가 없습니다.</p>}
 
       {entries.map((entry) => (
         <LexiconEntry key={entry.word} entry={entry} settings={settings} />
       ))}
 
       <SettingsPanel open={panelOpen} settings={settings} onChange={setSettings} onClose={() => setPanelOpen(false)} />
-      {bookLoading && <div className="inline-status">선택한 책을 불러오는 중...</div>}
     </div>
   );
 }
