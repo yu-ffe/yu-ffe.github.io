@@ -315,13 +315,8 @@ export default function LexiconLab() {
   return (
     <div className={`lex-page ${MOBILE_PREVIEW ? 'lex-page--mobile' : ''}`}>
         <header className="lex-topbar">
-          <div>
-            <p className="eyebrow">신규 포맷 / 다중 필드 지원</p>
-            <h1>Lexicon Lab</h1>
-            <p className="subtitle">모든 카드에서 나만의 보기 설정을 적용하세요.</p>
-          </div>
+          <div />
           <div className="top-actions">
-            <a className="ghost" href="/">3D 방으로 돌아가기</a>
             <button className="panel-toggle" type="button" onClick={() => setPanelOpen((v) => !v)} aria-label="설정 열기">
               =
             </button>
