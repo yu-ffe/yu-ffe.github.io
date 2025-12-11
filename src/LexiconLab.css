@@ -414,6 +414,30 @@
   margin-bottom: 12px;
 }
 
+.setting-group {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 12px;
+  margin-bottom: 12px;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.setting-group-title {
+  font-weight: 800;
+  margin-bottom: 4px;
+}
+
+.setting-group-desc {
+  color: #8aa0c8;
+  font-size: 13px;
+  margin-bottom: 8px;
+}
+
+.setting-group-body {
+  display: flex;
+  flex-direction: column;
+}
+
 .setting-label {
   font-weight: 700;
 }

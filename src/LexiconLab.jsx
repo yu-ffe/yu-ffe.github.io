@@ -10,6 +10,14 @@ const defaultSettings = {
   showConcept: true,
   meaningLimit: 3,
   showClassification: true,
+  showSemanticExtension: true,
+  showMorphology: true,
+  showPrepositionPatterns: true,
+  showGrammarNotes: true,
+  showCollocations: true,
+  showExamples: true,
+  showQuiz: true,
+  showStudyTips: true,
 };
 
 function readCookie(name) {
@@ -39,6 +47,16 @@ function SettingToggle({ label, checked, onChange, description }) {
   );
 }
 
+function SettingGroup({ title, description, children }) {
+  return (
+    <div className="setting-group">
+      <p className="setting-group-title">{title}</p>
+      {description && <p className="setting-group-desc">{description}</p>}
+      <div className="setting-group-body">{children}</div>
+    </div>
+  );
+}
+
 function SettingsPanel({ open, settings, onChange, onClose }) {
   return (
     <aside className={`settings-panel ${open ? 'open' : ''}`} aria-hidden={!open}>
@@ -52,32 +70,96 @@ function SettingsPanel({ open, settings, onChange, onClose }) {
         </button>
       </header>
 
-      <SettingToggle
-        label="개념 표시"
-        description="핵심 개념 요약 문장을 카드에 노출합니다."
-        checked={settings.showConcept}
-        onChange={(value) => onChange({ ...settings, showConcept: value })}
-      />
-
-      <div className="setting-field">
-        <label htmlFor="meaningLimit">뜻 표시 개수</label>
-        <input
-          id="meaningLimit"
-          type="number"
-          min="1"
-          max="10"
-          value={settings.meaningLimit}
-          onChange={(e) => onChange({ ...settings, meaningLimit: Number(e.target.value) || 1 })}
+      <SettingGroup title="카드 기본" description="기본 정보와 표시 개수를 다듬어 보세요.">
+        <SettingToggle
+          label="개념 표시"
+          description="핵심 개념 요약 문장을 카드에 노출합니다."
+          checked={settings.showConcept}
+          onChange={(value) => onChange({ ...settings, showConcept: value })}
         />
-        <p className="setting-desc">주요 뜻을 중요도 순서대로 최대 N개까지 보여 줍니다.</p>
-      </div>
 
-      <SettingToggle
-        label="분류/태그 표시"
-        description="태그, 빈도, 난이도 등 메타 정보를 함께 보여 줍니다."
-        checked={settings.showClassification}
-        onChange={(value) => onChange({ ...settings, showClassification: value })}
-      />
+        <div className="setting-field">
+          <label htmlFor="meaningLimit">뜻 표시 개수</label>
+          <input
+            id="meaningLimit"
+            type="number"
+            min="1"
+            max="10"
+            value={settings.meaningLimit}
+            onChange={(e) =>
+              onChange({ ...settings, meaningLimit: Math.min(10, Math.max(1, Number(e.target.value) || 1)) })
+            }
+          />
+          <p className="setting-desc">주요 뜻을 중요도 순서대로 최대 N개까지 보여 줍니다.</p>
+        </div>
+
+        <SettingToggle
+          label="분류/태그 표시"
+          description="태그, 빈도, 난이도 등 메타 정보를 함께 보여 줍니다."
+          checked={settings.showClassification}
+          onChange={(value) => onChange({ ...settings, showClassification: value })}
+        />
+      </SettingGroup>
+
+      <SettingGroup
+        title="의미 · 어휘 정보"
+        description="의미 확장과 형태/문법 정보를 세분화하여 제어합니다."
+      >
+        <SettingToggle
+          label="의미 확장 표시"
+          description="상황이나 쓰임에 따른 의미 확장 문단을 보여 줍니다."
+          checked={settings.showSemanticExtension}
+          onChange={(value) => onChange({ ...settings, showSemanticExtension: value })}
+        />
+        <SettingToggle
+          label="형태/어원 표시"
+          description="형태 분석과 어원·역사적 변천 정보를 노출합니다."
+          checked={settings.showMorphology}
+          onChange={(value) => onChange({ ...settings, showMorphology: value })}
+        />
+        <SettingToggle
+          label="전치사 패턴 · 보어 표시"
+          description="전치사 패턴, 필수 보어 등 결합 정보를 보여 줍니다."
+          checked={settings.showPrepositionPatterns}
+          onChange={(value) => onChange({ ...settings, showPrepositionPatterns: value })}
+        />
+        <SettingToggle
+          label="문법/특징 표시"
+          description="문법적 특징, 자동사/타동사, 가산/불가산 여부를 표시합니다."
+          checked={settings.showGrammarNotes}
+          onChange={(value) => onChange({ ...settings, showGrammarNotes: value })}
+        />
+      </SettingGroup>
+
+      <SettingGroup
+        title="사용 예시 · 퀴즈"
+        description="연습에 필요한 예문, 콜로케이션, 퀴즈, 학습 팁을 선택적으로 보여 주세요."
+      >
+        <SettingToggle
+          label="콜로케이션 표시"
+          description="레벨별 콜로케이션 목록을 노출합니다."
+          checked={settings.showCollocations}
+          onChange={(value) => onChange({ ...settings, showCollocations: value })}
+        />
+        <SettingToggle
+          label="예문 표시"
+          description="레벨별 예문을 카드에 함께 보여 줍니다."
+          checked={settings.showExamples}
+          onChange={(value) => onChange({ ...settings, showExamples: value })}
+        />
+        <SettingToggle
+          label="퀴즈 표시"
+          description="카드 하단에 미니 퀴즈 섹션을 포함합니다."
+          checked={settings.showQuiz}
+          onChange={(value) => onChange({ ...settings, showQuiz: value })}
+        />
+        <SettingToggle
+          label="학습 팁 표시"
+          description="추가 학습 팁/주석을 노출합니다."
+          checked={settings.showStudyTips}
+          onChange={(value) => onChange({ ...settings, showStudyTips: value })}
+        />
+      </SettingGroup>
     </aside>
   );
 }
@@ -233,6 +315,10 @@ function QuizList({ quiz }) {
 }
 
 function LexiconEntry({ entry, settings }) {
+  const showStructureSection =
+    settings.showMorphology || settings.showPrepositionPatterns || settings.showGrammarNotes;
+  const showUsageSection = settings.showCollocations || settings.showExamples;
+
   return (
     <article className="lex-card">
       <header className="lex-card-header">
@@ -256,52 +342,73 @@ function LexiconEntry({ entry, settings }) {
         <PillList label="반의어" items={entry.antonyms} />
       </Section>
 
-      <Section title="의미 확장 (상황/쓰임 등)">
-        <p>{entry.semanticExtension || '의미 확장 정보 없음'}</p>
-        {entry.nuanceRegister && <p className="muted">뉘앙스·레지스터: {entry.nuanceRegister}</p>}
-      </Section>
+      {settings.showSemanticExtension && (
+        <Section title="의미 확장 (상황/쓰임 등)">
+          <p>{entry.semanticExtension || '의미 확장 정보 없음'}</p>
+          {entry.nuanceRegister && <p className="muted">뉘앙스·레지스터: {entry.nuanceRegister}</p>}
+        </Section>
+      )}
 
-      <Section title="형태 분석 / 어원 / 전치사 패턴 · 보어">
-        <div className="grid-two">
-          <div>
-            <p className="label">형태 분석</p>
-            <p>{entry.morphology || '—'}</p>
-            <p className="label">어원·역사적 변천</p>
-            <p>{entry.etymology || '—'}</p>
-          </div>
-          <div>
-            <p className="label">전치사 패턴 · 보어</p>
-            <PrepositionPatternList patterns={entry.prepositionPatterns} />
-            <div className="required-complements">
-              <p className="label">필수 보어</p>
-              {entry.requiredComplements?.length ? (
-                <ul className="simple-list">
-                  {entry.requiredComplements.map((item, index) => (
-                    <li key={`${item}-${index}`}>{item}</li>
-                  ))}
-                </ul>
-              ) : (
-                <p className="muted">필수 보어 정보가 없습니다.</p>
+      {showStructureSection && (
+        <Section title="형태 분석 / 어원 / 전치사 패턴 · 보어">
+          <div className="grid-two">
+            <div>
+              {settings.showMorphology && (
+                <>
+                  <p className="label">형태 분석</p>
+                  <p>{entry.morphology || '—'}</p>
+                  <p className="label">어원·역사적 변천</p>
+                  <p>{entry.etymology || '—'}</p>
+                </>
               )}
             </div>
-            <p className="label">문법적 특징</p>
-            <p>{entry.grammarNotes || '—'}</p>
-            <p className="label">자동사 / 타동사</p>
-            <p>{entry.transitivity || '—'}</p>
-            <p className="label">가산 / 불가산</p>
-            <p>{entry.countability || '—'}</p>
+            <div>
+              {settings.showPrepositionPatterns && (
+                <>
+                  <p className="label">전치사 패턴 · 보어</p>
+                  <PrepositionPatternList patterns={entry.prepositionPatterns} />
+                  <div className="required-complements">
+                    <p className="label">필수 보어</p>
+                    {entry.requiredComplements?.length ? (
+                      <ul className="simple-list">
+                        {entry.requiredComplements.map((item, index) => (
+                          <li key={`${item}-${index}`}>{item}</li>
+                        ))}
+                      </ul>
+                    ) : (
+                      <p className="muted">필수 보어 정보가 없습니다.</p>
+                    )}
+                  </div>
+                </>
+              )}
+
+              {settings.showGrammarNotes && (
+                <>
+                  <p className="label">문법적 특징</p>
+                  <p>{entry.grammarNotes || '—'}</p>
+                  <p className="label">자동사 / 타동사</p>
+                  <p>{entry.transitivity || '—'}</p>
+                  <p className="label">가산 / 불가산</p>
+                  <p>{entry.countability || '—'}</p>
+                </>
+              )}
+            </div>
           </div>
-        </div>
-      </Section>
+        </Section>
+      )}
 
-      <Section title="콜로케이션 · 예문">
-        <CollocationList groups={entry.collocations} />
-        <ExampleList examples={entry.examples} />
-      </Section>
+      {showUsageSection && (
+        <Section title="콜로케이션 · 예문">
+          {settings.showCollocations && <CollocationList groups={entry.collocations} />}
+          {settings.showExamples && <ExampleList examples={entry.examples} />}
+        </Section>
+      )}
 
-      <Section title="학습 팁">
-        <p>{entry.studyTips || '학습 팁이 아직 없습니다.'}</p>
-      </Section>
+      {settings.showStudyTips && (
+        <Section title="학습 팁">
+          <p>{entry.studyTips || '학습 팁이 아직 없습니다.'}</p>
+        </Section>
+      )}
 
       {settings.showClassification && (
         <Section title="기타 (태그/분야 · 빈도 · 난이도)">
@@ -313,7 +420,7 @@ function LexiconEntry({ entry, settings }) {
         </Section>
       )}
 
-      <QuizList quiz={entry.quiz} />
+      {settings.showQuiz && <QuizList quiz={entry.quiz} />}
     </article>
   );
 }
