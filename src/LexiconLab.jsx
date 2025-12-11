@@ -246,22 +246,89 @@ function LexiconEntry({ entry, settings }) {
         </div>
       </header>
 
-      <Section title="단어 · 품사 · 핵심개념 · 뜻 · 파생어 · 관련어 · 반의어">
-        {settings.showConcept && entry.concept && <p className="concept">{entry.concept}</p>}
-        <MeaningList meanings={entry.meanings} limit={settings.meaningLimit} />
-        <PillList label="파생어" items={entry.derivatives} />
-        <PillList label="관련어" items={entry.related} />
-        <PillList label="동의어" items={entry.synonyms} />
-        <PillList label="유사어" items={entry.nearSynonyms} />
-        <PillList label="반의어" items={entry.antonyms} />
+      <div className="lex-card-hero">
+        {settings.showConcept && entry.concept && (
+          <div className="concept-block">
+            <p className="eyebrow">핵심 개념</p>
+            <p className="concept">{entry.concept}</p>
+          </div>
+        )}
+
+        {settings.showClassification && (
+          <div className="quick-meta" aria-label="단어 메타 정보">
+            {(entry.frequency || entry.difficulty) && (
+              <div className="fact-row">
+                {entry.frequency && (
+                  <div className="fact">
+                    <span className="fact-label">빈도</span>
+                    <span className="fact-value">{entry.frequency}</span>
+                  </div>
+                )}
+                {entry.difficulty && (
+                  <div className="fact">
+                    <span className="fact-label">난이도</span>
+                    <span className="fact-value">Lv.{entry.difficulty}</span>
+                  </div>
+                )}
+              </div>
+            )}
+
+            {entry.tags?.length ? (
+              <div className="fact">
+                <span className="fact-label">태그/분야</span>
+                <div className="fact-badges">
+                  {entry.tags.map((tag, index) => (
+                    <span className="chip ghost" key={`${tag}-${index}`}>
+                      {tag}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            ) : null}
+
+            {entry.nuanceRegister && (
+              <div className="fact subtle">
+                <span className="fact-label">뉘앙스 · 레지스터</span>
+                <p className="meaning-note">{entry.nuanceRegister}</p>
+              </div>
+            )}
+          </div>
+        )}
+      </div>
+
+      <Section title="핵심 뜻 & 연결 관계">
+        <div className="meaning-grid">
+          <div className="meaning-column">
+            <p className="label">주요 뜻</p>
+            <MeaningList meanings={entry.meanings} limit={settings.meaningLimit} />
+          </div>
+          <div className="relation-column">
+            <p className="label">단어 관계</p>
+            <div className="relation-stack">
+              <PillList label="파생어" items={entry.derivatives} />
+              <PillList label="관련어" items={entry.related} />
+              <PillList label="동의어" items={entry.synonyms} />
+              <PillList label="유사어" items={entry.nearSynonyms} />
+              <PillList label="반의어" items={entry.antonyms} />
+            </div>
+          </div>
+        </div>
       </Section>
 
-      <Section title="의미 확장 (상황/쓰임 등)">
-        <p>{entry.semanticExtension || '의미 확장 정보 없음'}</p>
-        {entry.nuanceRegister && <p className="muted">뉘앙스·레지스터: {entry.nuanceRegister}</p>}
+      <Section title="사용 맥락 & 뉘앙스">
+        <div className="context-grid">
+          <div>
+            <p className="label">의미 확장</p>
+            <p className="body-text">{entry.semanticExtension || '의미 확장 정보 없음'}</p>
+          </div>
+          <div>
+            <p className="label">추가 노트</p>
+            {entry.studyTips ? <p className="body-text">{entry.studyTips}</p> : <p className="muted">추가 학습 노트가 없습니다.</p>}
+          </div>
+        </div>
       </Section>
 
-      <Section title="형태 분석 / 어원 / 전치사 패턴 · 보어">
+      <Section title="형태 · 전치사 패턴 · 문법">
         <div className="grid-two">
           <div>
             <p className="label">형태 분석</p>
@@ -298,20 +365,6 @@ function LexiconEntry({ entry, settings }) {
         <CollocationList groups={entry.collocations} />
         <ExampleList examples={entry.examples} />
       </Section>
-
-      <Section title="학습 팁">
-        <p>{entry.studyTips || '학습 팁이 아직 없습니다.'}</p>
-      </Section>
-
-      {settings.showClassification && (
-        <Section title="기타 (태그/분야 · 빈도 · 난이도)">
-          <PillList label="태그" items={entry.tags} />
-          <p className="label">빈도 · 난이도</p>
-          <p>
-            {entry.frequency || '—'} / Lv.{entry.difficulty || '—'}
-          </p>
-        </Section>
-      )}
 
       <QuizList quiz={entry.quiz} />
     </article>
@@ -379,19 +432,23 @@ export default function LexiconLab() {
 
   return (
     <div className={`lex-page ${MOBILE_PREVIEW ? 'lex-page--mobile' : ''}`}>
-        <header className="lex-topbar">
-          <div />
-          <div className="top-actions">
-            <button className="panel-toggle" type="button" onClick={() => setPanelOpen((v) => !v)} aria-label="설정 열기">
-              =
-            </button>
-          </div>
-        </header>
+      <header className="lex-topbar">
+        <div className="topbar-title">
+          <p className="eyebrow">Lexicon Lab</p>
+          <h1>단어 카드</h1>
+        </div>
+        <div className="top-actions">
+          <button className="panel-toggle" type="button" onClick={() => setPanelOpen((v) => !v)} aria-label="설정 열기">
+            <span className="toggle-icon">⚙</span>
+            <span>맞춤 설정</span>
+          </button>
+        </div>
+      </header>
 
       {loading && <p className="status">목록을 불러오는 중입니다...</p>}
       {error && <p className="status error">{error}</p>}
 
-        {!loading && !error && entries.length === 0 && <p className="status">단어 데이터가 없습니다.</p>}
+      {!loading && !error && entries.length === 0 && <p className="status">단어 데이터가 없습니다.</p>}
 
       {entries.map((entry) => (
         <LexiconEntry key={entry.word} entry={entry} settings={settings} />
