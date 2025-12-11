@@ -417,10 +417,11 @@ function filterByLevel(groups, levels) {
 
 function LexiconEntry({ entry, settings }) {
   const [openSections, setOpenSections] = useState({
-    context: true,
-    grammar: true,
-    resources: true,
-    quiz: true,
+    core: false,
+    context: false,
+    grammar: false,
+    resources: false,
+    quiz: false,
   });
 
   const availableLevels = useMemo(() => {
@@ -501,7 +502,12 @@ function LexiconEntry({ entry, settings }) {
         )}
       </div>
 
-      <Section title="핵심 개념 · 주요 뜻 · 단어 관계">
+      <Section
+        title="핵심 개념 · 주요 뜻 · 단어 관계"
+        collapsible
+        open={openSections.core}
+        onToggle={() => toggleSection('core')}
+      >
         <div className="meaning-stack">
           {settings.showConcept && entry.concept && (
             <div className="concept-block concept-block--compact">
