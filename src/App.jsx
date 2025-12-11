@@ -1,66 +1,44 @@
-// Stream_LiveGame :: 애플리케이션 전역 스타일을 불러온다.
-import './App.css';
-// Stream_LiveGame :: Three.js 경험을 렌더링하는 캔버스 컴포넌트.
-import ThreeCanvas from './components/ThreeCanvas.jsx';
-import WordStudy from './WordStudy.jsx';
-import LexiconLab from './LexiconLab.jsx';
+import { Navigate, Route, Routes, useLocation } from 'react-router-dom';
+import HomePage from './pages/home/HomePage.jsx';
+import WordStudy from './pages/word-study/WordStudy.jsx';
+import LexiconLab from './pages/lexicon-lab/LexiconLab.jsx';
+import GamesIndex from './pages/games/GamesIndex.jsx';
+import GamePage from './pages/games/GamePage.jsx';
+import MinecraftIndex from './pages/minecraft/MinecraftIndex.jsx';
+import MinecraftPage from './pages/minecraft/MinecraftPage.jsx';
 
-function isWordStudyPage() {
-  if (typeof window === 'undefined') {
-    return false;
+function LegacyRedirect() {
+  const location = useLocation();
+  const params = new URLSearchParams(location.search);
+  const pageParam = params.get('page');
+  const hash = location.hash?.toLowerCase() ?? '';
+  const onHome = location.pathname === '/' || location.pathname === '/index.html';
+
+  if (onHome && (pageParam === 'word-study' || hash.includes('word-study'))) {
+    return <Navigate to="/word-study" replace />;
   }
 
-  const { pathname, search, hash } = window.location;
-  const params = new URLSearchParams(search);
+  if (onHome && (pageParam === 'lexicon-lab' || hash.includes('lexicon'))) {
+    return <Navigate to="/lexicon-lab" replace />;
+  }
+
+  return null;
+}
+
+export default function App() {
   return (
-    pathname.includes('word-study') ||
-    params.get('page') === 'word-study' ||
-    hash.includes('word-study')
+    <>
+      <LegacyRedirect />
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/word-study" element={<WordStudy />} />
+        <Route path="/lexicon-lab" element={<LexiconLab />} />
+        <Route path="/games" element={<GamesIndex />} />
+        <Route path="/games/:slug" element={<GamePage />} />
+        <Route path="/minecraft" element={<MinecraftIndex />} />
+        <Route path="/minecraft/:slug" element={<MinecraftPage />} />
+        <Route path="*" element={<Navigate to="/" replace />} />
+      </Routes>
+    </>
   );
 }
-
-function isLexiconLabPage() {
-  if (typeof window === 'undefined') {
-    return false;
-  }
-
-  const { pathname, search, hash } = window.location;
-  const params = new URLSearchParams(search);
-  return pathname.includes('lexicon') || params.get('page') === 'lexicon-lab' || hash.includes('lexicon');
-}
-
-function App() {
-  if (isLexiconLabPage()) {
-    return <LexiconLab />;
-  }
-
-  if (isWordStudyPage()) {
-    return <WordStudy />;
-  }
-
-  // Stream_LiveGame :: 단일 캔버스로 구성된 메인 레이아웃을 반환한다.
-  return (
-    <main className="app">
-      {/* Stream_LiveGame :: 3D 씬을 그리는 캔버스를 포함한다. */}
-      <ThreeCanvas />
-      <div className="study-launcher">
-        <div className="launcher-card">
-          <p className="launcher-eyebrow">Word Practice Zone</p>
-          <h2>어휘 연습서 바로가기</h2>
-          <p className="launcher-copy">기존 단어장과 새 파란 책을 원하는 스타일로 열람하세요.</p>
-          <div className="launcher-actions">
-            <a className="launch-button ghost" href="?page=word-study">
-              Word Study (기존)
-            </a>
-            <a className="launch-button primary" href="?page=lexicon-lab">
-              Blue Lexicon Lab
-            </a>
-          </div>
-        </div>
-      </div>
-    </main>
-  );
-}
-
-// Stream_LiveGame :: 외부에서 App 컴포넌트를 사용할 수 있도록 기본 내보내기.
-export default App;
