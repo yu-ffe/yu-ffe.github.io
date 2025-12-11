@@ -93,13 +93,19 @@ function Section({ title, children }) {
 
 function PillList({ label, items }) {
   if (!items || items.length === 0) return null;
+  const renderItem = (item) => {
+    if (typeof item === 'string') return item;
+    if (item?.word) return `${item.word}${item.meaning_ko ? ` (${item.meaning_ko})` : ''}`;
+    return '';
+  };
+
   return (
     <div className="pill-row">
       <span className="pill-label">{label}</span>
       <div className="pill-items">
-        {items.map((item) => (
-          <span className="pill" key={item}>
-            {item}
+        {items.map((item, index) => (
+          <span className="pill" key={`${renderItem(item)}-${index}`}>
+            {renderItem(item)}
           </span>
         ))}
       </div>
@@ -108,50 +114,92 @@ function PillList({ label, items }) {
 }
 
 function MeaningList({ meanings, limit }) {
-  const sorted = useMemo(() => {
-    return [...(meanings ?? [])].sort((a, b) => (a.importance ?? 999) - (b.importance ?? 999));
-  }, [meanings]);
+  const limited = useMemo(() => meanings?.slice(0, limit) ?? [], [limit, meanings]);
+
+  if (!limited.length) return <p className="muted">뜻 정보가 없습니다.</p>;
 
   return (
     <ol className="meaning-list">
-      {sorted.slice(0, limit).map((meaning, index) => (
-        <li key={`${meaning.definition}-${index}`}>
+      {limited.map((meaning, index) => (
+        <li key={`${meaning.definition_en}-${index}`}>
           <span className="badge">{index + 1}</span>
-          {meaning.definition}
+          <div className="meaning-texts">
+            <p className="meaning-en">{meaning.definition_en}</p>
+            <p className="meaning-ko">{meaning.definition_ko}</p>
+            {meaning.note && <p className="meaning-note">{meaning.note}</p>}
+          </div>
         </li>
       ))}
     </ol>
   );
 }
 
-function CollocationList({ items }) {
-  if (!items || items.length === 0) return <p className="muted">콜로케이션 정보가 없습니다.</p>;
+function PrepositionPatternList({ patterns }) {
+  if (!patterns?.length) return <p className="muted">전치사 패턴 정보가 없습니다.</p>;
   return (
-    <ul className="collocation-list">
-      {items.map((item, index) => (
-        <li key={`${item.phrase}-${index}`}>
-          <div className="collocation-head">
-            <span className="phrase">{item.phrase}</span>
-            <span className="collocation-meaning">{item.meaning}</span>
+    <ul className="preposition-list">
+      {patterns.map((pattern, index) => (
+        <li key={`${pattern.prep}-${index}`}>
+          <span className="pill">{pattern.prep}</span>
+          <div>
+            <p className="meaning-ko">{pattern.meaning_ko}</p>
+            {pattern.example && <p className="meaning-note">예: {pattern.example}</p>}
           </div>
-          <p className="collocation-example">{item.example}</p>
         </li>
       ))}
     </ul>
   );
 }
 
+function CollocationList({ groups }) {
+  if (!groups || groups.length === 0) return <p className="muted">콜로케이션 정보가 없습니다.</p>;
+  return (
+    <div className="collocation-groups">
+      {groups.map((group) => (
+        <div key={group.level} className="collocation-group">
+          <p className="level-label">레벨 {group.level}</p>
+          <ul className="collocation-list">
+            {group.items?.length ? (
+              group.items.map((item, index) => (
+                <li key={`${item.phrase}-${index}`}>
+                  <div className="collocation-head">
+                    <span className="phrase">{item.phrase}</span>
+                    <span className="collocation-meaning">{item.meaning_ko}</span>
+                  </div>
+                </li>
+              ))
+            ) : (
+              <li className="muted">이 레벨의 콜로케이션이 없습니다.</li>
+            )}
+          </ul>
+        </div>
+      ))}
+    </div>
+  );
+}
+
 function ExampleList({ examples }) {
   if (!examples || examples.length === 0) return <p className="muted">예문이 없습니다.</p>;
   return (
-    <ol className="example-list">
-      {examples.map((item, index) => (
-        <li key={`${item.sentence}-${index}`}>
-          <p>{item.sentence}</p>
-          {item.senseHint && <span className="example-hint">{item.senseHint}</span>}
-        </li>
+    <div className="example-groups">
+      {examples.map((group) => (
+        <div key={group.level} className="example-group">
+          <p className="level-label">레벨 {group.level}</p>
+          <ol className="example-list">
+            {group.items?.length ? (
+              group.items.map((item, index) => (
+                <li key={`${item.sentence}-${index}`}>
+                  <p className="meaning-en">{item.sentence}</p>
+                  <p className="meaning-ko">{item.meaning_ko}</p>
+                </li>
+              ))
+            ) : (
+              <li className="muted">예문이 없습니다.</li>
+            )}
+          </ol>
+        </div>
       ))}
-    </ol>
+    </div>
   );
 }
 
@@ -160,20 +208,26 @@ function QuizList({ quiz }) {
   return (
     <div className="quiz-list">
       <p className="quiz-title">미니 퀴즈</p>
-      <ol>
-        {quiz.map((item, index) => (
-          <li key={`${item.question}-${index}`}>
-            <p className="quiz-question">{item.question}</p>
-            <div className="quiz-choices">
-              {item.choices.map((choice) => (
-                <span key={choice} className={`choice ${choice === item.answer ? 'answer' : ''}`}>
-                  {choice}
-                </span>
-              ))}
-            </div>
-          </li>
-        ))}
-      </ol>
+      {quiz.map((group) => (
+        <div key={group.level} className="quiz-group">
+          <p className="level-label">레벨 {group.level}</p>
+          <ol>
+            {group.items?.length ? (
+              group.items.map((item, index) => (
+                <li key={`${item.q}-${index}`}>
+                  <p className="quiz-question">{item.q}</p>
+                  <p className="meaning-note">{item.meaning_ko}</p>
+                  <div className="quiz-choices">
+                    <span className="choice answer">{item.a}</span>
+                  </div>
+                </li>
+              ))
+            ) : (
+              <li className="muted">이 레벨의 퀴즈가 없습니다.</li>
+            )}
+          </ol>
+        </div>
+      ))}
     </div>
   );
 }
@@ -184,7 +238,7 @@ function LexiconEntry({ entry, settings }) {
       <header className="lex-card-header">
         <div>
           <p className="entry-word">{entry.word}</p>
-          <p className="entry-pos">{entry.partOfSpeech}</p>
+          <p className="entry-pos">{Array.isArray(entry.partOfSpeech) ? entry.partOfSpeech.join(' / ') : entry.partOfSpeech}</p>
         </div>
         <div className="meta-right">
           {settings.showClassification && entry.frequency && <span className="chip ghost">빈도 {entry.frequency}</span>}
@@ -217,8 +271,19 @@ function LexiconEntry({ entry, settings }) {
           </div>
           <div>
             <p className="label">전치사 패턴 · 보어</p>
-            <PillList label="패턴" items={entry.prepositionPatterns} />
-            <PillList label="필수 보어" items={entry.requiredComplements} />
+            <PrepositionPatternList patterns={entry.prepositionPatterns} />
+            <div className="required-complements">
+              <p className="label">필수 보어</p>
+              {entry.requiredComplements?.length ? (
+                <ul className="simple-list">
+                  {entry.requiredComplements.map((item, index) => (
+                    <li key={`${item}-${index}`}>{item}</li>
+                  ))}
+                </ul>
+              ) : (
+                <p className="muted">필수 보어 정보가 없습니다.</p>
+              )}
+            </div>
             <p className="label">문법적 특징</p>
             <p>{entry.grammarNotes || '—'}</p>
             <p className="label">자동사 / 타동사</p>
@@ -230,7 +295,7 @@ function LexiconEntry({ entry, settings }) {
       </Section>
 
       <Section title="콜로케이션 · 예문">
-        <CollocationList items={entry.collocations} />
+        <CollocationList groups={entry.collocations} />
         <ExampleList examples={entry.examples} />
       </Section>
 

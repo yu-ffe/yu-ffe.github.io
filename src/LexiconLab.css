@@ -208,6 +208,26 @@
   padding: 8px 10px;
 }
 
+.meaning-texts {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.meaning-en {
+  font-weight: 700;
+  color: #d7e8ff;
+}
+
+.meaning-ko {
+  color: #c4d4f5;
+}
+
+.meaning-note {
+  color: #8aa0c8;
+  font-size: 13px;
+}
+
 .badge {
   display: inline-flex;
   align-items: center;
@@ -246,11 +266,46 @@
   font-size: 13px;
 }
 
+.preposition-list {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  gap: 8px;
+}
+
+.preposition-list li {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.03);
+  padding: 8px 10px;
+  border-radius: 10px;
+}
+
+.simple-list {
+  padding-left: 16px;
+  display: grid;
+  gap: 4px;
+}
+
 .collocation-list {
   list-style: none;
   padding-left: 0;
   display: grid;
   gap: 10px;
+}
+
+.collocation-groups,
+.example-groups,
+.quiz-group {
+  display: grid;
+  gap: 8px;
+}
+
+.level-label {
+  color: #9db7ff;
+  font-weight: 700;
+  margin-bottom: 2px;
 }
 
 .collocation-head {

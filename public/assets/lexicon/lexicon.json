@@ -1,132 +1,178 @@
 [
   {
-    "word": "anchor",
-    "partOfSpeech": "n, v",
+    "word": "harbor",
+    "partOfSpeech": ["noun", "verb"],
     "meanings": [
       {
-        "definition": "a heavy device used to keep a vessel in place",
-        "importance": 1
+        "definition_en": "a sheltered area of water where ships can anchor and load or unload.",
+        "definition_ko": "배가 정박하거나 화물을 싣고 내릴 수 있는 보호된 수역.",
+        "note": "물리적 장소 의미가 기본. 항구 도시 문맥에서 자주 등장."
       },
       {
-        "definition": "a reliable source of stability or support",
-        "importance": 2
-      },
-      {
-        "definition": "to fix something firmly so it does not move",
-        "importance": 3
+        "definition_en": "to keep a thought, feeling, or intention in one’s mind, often secretly.",
+        "definition_ko": "감정·생각·의도를 마음속에 품다, 종종 숨긴 채로.",
+        "note": "비유적 의미로 ‘마음속에 품다’ 느낌."
       }
     ],
-    "concept": "Anchoring is about creating stability by fixing to a trusted base point.",
-    "etymology": "From Old English *ancor*, Latin *ancora* meaning hook or bent pole.",
-    "semanticExtension": "Metaphorically used for emotional, intellectual, or organizational stability.",
-    "nuanceRegister": "Neutral to formal; the figurative sense appears in coaching and news writing.",
-    "grammarNotes": "Takes objects when used as a verb; often followed by in, to, or at.",
-    "transitivity": "자동사/타동사 모두 가능 (anchor at the bay / anchor the idea in reality)",
-    "countability": "가산 명사, 추상적 의미에서는 가산/불가산 모두 사용.",
+    "concept": "배가 머무는 안전한 공간 또는 마음속에 감정을 품는 행위.",
+    "etymology": "중세 영어 herber/harbour에서 유래했으며 ‘피난처, 정박지’를 뜻함.",
+    "semanticExtension": "물리적 항구 → 마음속에 감정을 ‘머물게 함’이라는 비유적 의미로 확장됨.",
+    "nuanceRegister": "일상적이며 문어·구어 모두에서 자연스럽게 쓰임.",
+    "grammarNotes": "동사로 쓸 때 목적어가 반드시 필요(타동사). 감정·생각 같은 추상명사와 자주 결합.",
+    "transitivity": "타동사",
+    "countability": "가산명사",
     "prepositionPatterns": [
-      "anchor in",
-      "anchor to",
-      "anchor at"
+      {
+        "prep": "in",
+        "meaning_ko": "항구 안에, 내부 위치",
+        "example": "ships in the harbor"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "항구라는 지점을 말할 때",
+        "example": "arrive at the harbor"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "항구로 이동",
+        "example": "go to the harbor"
+      }
     ],
     "requiredComplements": [
-      "anchor something to/into",
-      "be anchored in tradition"
+      "harbor + feeling: 감정·의도를 품다",
+      "harbor + doubt/resentment: 의심·원한을 품다",
+      "arrive at + harbor: 항구에 도착하다"
     ],
-    "morphology": "어근 anchor + 명사/동사 형태 변형",
+    "morphology": "고대 북유럽어 *herberga(숙소, 보호처)에서 파생된 구조로 ‘피난처’ 의미를 중심으로 구성됨.",
     "derivatives": [
-      "anchorage",
-      "anchorman"
+      { "word": "harborage", "meaning_ko": "정박 장소, 피난처" },
+      { "word": "harborless", "meaning_ko": "항구가 없는" }
     ],
     "related": [
-      "moor",
-      "secure"
+      { "word": "port", "meaning_ko": "항구, 무역항" },
+      { "word": "dock", "meaning_ko": "부두, 선착장" }
     ],
     "synonyms": [
-      "fasten",
-      "stabilize"
+      { "word": "haven", "meaning_ko": "안식처, 피난처" }
     ],
     "nearSynonyms": [
-      "ground",
-      "tie down"
+      { "word": "shelter", "meaning_ko": "피난처, 보호 공간" },
+      { "word": "hold", "meaning_ko": "마음속에 품다" }
     ],
     "antonyms": [
-      "loosen",
-      "unmoor"
+      { "word": "expose", "meaning_ko": "드러내다, 노출하다" }
     ],
     "collocations": [
       {
-        "phrase": "drop anchor",
-        "meaning": "정박하다",
-        "example": "The crew dropped anchor before the storm grew."
+        "level": "상",
+        "items": [
+          { "phrase": "a bustling harbor", "meaning_ko": "바쁘게 돌아가는 항구" },
+          { "phrase": "a natural harbor", "meaning_ko": "천연 항구" },
+          { "phrase": "harbor resentment", "meaning_ko": "원한을 품다" }
+        ]
       },
       {
-        "phrase": "anchor a debate",
-        "meaning": "토론의 중심을 잡다",
-        "example": "Data from the field anchored the debate in real outcomes."
+        "level": "중",
+        "items": [
+          { "phrase": "enter the harbor", "meaning_ko": "항구로 들어오다" },
+          { "phrase": "leave the harbor", "meaning_ko": "항구를 떠나다" },
+          { "phrase": "harbor doubts", "meaning_ko": "의심을 품다" }
+        ]
       },
       {
-        "phrase": "anchor oneself",
-        "meaning": "마음을 다잡다",
-        "example": "She anchored herself with deep breaths before speaking."
-      },
-      {
-        "phrase": "anchor to tradition",
-        "meaning": "전통에 뿌리내리다",
-        "example": "The ritual anchors the team to tradition."
+        "level": "하",
+        "items": [
+          { "phrase": "small harbor", "meaning_ko": "작은 항구" },
+          { "phrase": "busy harbor", "meaning_ko": "혼잡한 항구" },
+          { "phrase": "fishing harbor", "meaning_ko": "어항" }
+        ]
       }
     ],
     "examples": [
       {
-        "sentence": "The ship dropped anchor near the pier.",
-        "senseHint": "literal"
+        "level": "상",
+        "items": [
+          {
+            "sentence": "She continued to harbor deep resentment despite his apology.",
+            "meaning_ko": "그의 사과에도 그녀는 깊은 원한을 품고 있었다."
+          },
+          {
+            "sentence": "The city’s natural harbor made it a key maritime hub for centuries.",
+            "meaning_ko": "그 도시의 천연 항구는 수세기 동안 해양 중심지 역할을 했다."
+          }
+        ]
       },
       {
-        "sentence": "Strong routines can anchor your morning.",
-        "senseHint": "figurative"
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The ship anchored safely in the harbor.",
+            "meaning_ko": "그 배는 항구에 안전하게 정박했다."
+          },
+          {
+            "sentence": "He harbors doubts about their plan.",
+            "meaning_ko": "그는 그들의 계획에 대해 의심을 품고 있다."
+          }
+        ]
       },
       {
-        "sentence": "Their brand is anchored in community stories.",
-        "senseHint": "metaphorical"
-      },
-      {
-        "sentence": "He anchored the tent with heavy stakes.",
-        "senseHint": "action"
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We walked along the harbor at sunset.",
+            "meaning_ko": "우리는 해질녘 항구를 따라 걸었다."
+          },
+          {
+            "sentence": "Boats were floating quietly in the harbor.",
+            "meaning_ko": "보트들이 항구에서 조용히 떠 있었다."
+          }
+        ]
       }
     ],
-    "studyTips": "연결(묶음) 이미지를 떠올리면 figurative sense까지 기억하기 쉽다.",
-    "tags": [
-      "항해",
-      "비유"
-    ],
+    "studyTips": "harbor는 명사로는 물리적 ‘항구’, 동사로는 ‘감정을 마음에 품다’라는 추상적 의미가 있다. 시험에서는 동사 의미가 자주 등장하므로 harbor resentment/doubt 같은 구조를 외워두면 좋다.",
+    "tags": ["항구", "지리", "감정", "비유적 표현", "일상 회화"],
     "frequency": "중",
-    "difficulty": 3,
+    "difficulty": "4",
     "quiz": [
       {
-        "question": "Which preposition best completes: The policy is anchored __ reality?",
-        "choices": [
-          "on",
-          "in",
-          "over"
-        ],
-        "answer": "in"
+        "level": "상",
+        "items": [
+          {
+            "q": "She continued to ___ deep resentment. (뜻: 원한을 품다)",
+            "a": "harbor",
+            "meaning_ko": "동사 harbor는 감정을 품다는 의미."
+          },
+          {
+            "q": "The city’s natural ___ helped trade flourish for centuries.",
+            "a": "harbor",
+            "meaning_ko": "명사 harbor는 항구."
+          }
+        ]
       },
       {
-        "question": "Figurative 'anchor' most nearly means?",
-        "choices": [
-          "to slow down",
-          "to stabilize",
-          "to brighten"
-        ],
-        "answer": "to stabilize"
+        "level": "중",
+        "items": [
+          {
+            "q": "The ship anchored safely in the ___.",
+            "a": "harbor",
+            "meaning_ko": "항구에 정박했다는 의미."
+          },
+          {
+            "q": "He still ___ doubts about the decision.",
+            "a": "harbors",
+            "meaning_ko": "3인칭 단수 현재형."
+          }
+        ]
       },
       {
-        "question": "Which collocation fits a news host?",
-        "choices": [
-          "anchor a show",
-          "anchor a window",
-          "anchor a ladder"
-        ],
-        "answer": "anchor a show"
+        "level": "하",
+        "items": [
+          {
+            "q": "We walked along the ___.",
+            "a": "harbor",
+            "meaning_ko": "기본 명사 의미."
+          }
+        ]
       }
     ]
   }
