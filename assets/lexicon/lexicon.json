@@ -1,0 +1,179 @@
+[
+  {
+    "word": "harbor",
+    "partOfSpeech": ["noun", "verb"],
+    "meanings": [
+      {
+        "definition_en": "a sheltered area of water where ships can anchor and load or unload.",
+        "definition_ko": "배가 정박하거나 화물을 싣고 내릴 수 있는 보호된 수역.",
+        "note": "물리적 장소 의미가 기본. 항구 도시 문맥에서 자주 등장."
+      },
+      {
+        "definition_en": "to keep a thought, feeling, or intention in one’s mind, often secretly.",
+        "definition_ko": "감정·생각·의도를 마음속에 품다, 종종 숨긴 채로.",
+        "note": "비유적 의미로 ‘마음속에 품다’ 느낌."
+      }
+    ],
+    "concept": "배가 머무는 안전한 공간 또는 마음속에 감정을 품는 행위.",
+    "etymology": "중세 영어 herber/harbour에서 유래했으며 ‘피난처, 정박지’를 뜻함.",
+    "semanticExtension": "물리적 항구 → 마음속에 감정을 ‘머물게 함’이라는 비유적 의미로 확장됨.",
+    "nuanceRegister": "일상적이며 문어·구어 모두에서 자연스럽게 쓰임.",
+    "grammarNotes": "동사로 쓸 때 목적어가 반드시 필요(타동사). 감정·생각 같은 추상명사와 자주 결합.",
+    "transitivity": "타동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "항구 안에, 내부 위치",
+        "example": "ships in the harbor"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "항구라는 지점을 말할 때",
+        "example": "arrive at the harbor"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "항구로 이동",
+        "example": "go to the harbor"
+      }
+    ],
+    "requiredComplements": [
+      "harbor + feeling: 감정·의도를 품다",
+      "harbor + doubt/resentment: 의심·원한을 품다",
+      "arrive at + harbor: 항구에 도착하다"
+    ],
+    "morphology": "고대 북유럽어 *herberga(숙소, 보호처)에서 파생된 구조로 ‘피난처’ 의미를 중심으로 구성됨.",
+    "derivatives": [
+      { "word": "harborage", "meaning_ko": "정박 장소, 피난처" },
+      { "word": "harborless", "meaning_ko": "항구가 없는" }
+    ],
+    "related": [
+      { "word": "port", "meaning_ko": "항구, 무역항" },
+      { "word": "dock", "meaning_ko": "부두, 선착장" }
+    ],
+    "synonyms": [
+      { "word": "haven", "meaning_ko": "안식처, 피난처" }
+    ],
+    "nearSynonyms": [
+      { "word": "shelter", "meaning_ko": "피난처, 보호 공간" },
+      { "word": "hold", "meaning_ko": "마음속에 품다" }
+    ],
+    "antonyms": [
+      { "word": "expose", "meaning_ko": "드러내다, 노출하다" }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          { "phrase": "a bustling harbor", "meaning_ko": "바쁘게 돌아가는 항구" },
+          { "phrase": "a natural harbor", "meaning_ko": "천연 항구" },
+          { "phrase": "harbor resentment", "meaning_ko": "원한을 품다" }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          { "phrase": "enter the harbor", "meaning_ko": "항구로 들어오다" },
+          { "phrase": "leave the harbor", "meaning_ko": "항구를 떠나다" },
+          { "phrase": "harbor doubts", "meaning_ko": "의심을 품다" }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          { "phrase": "small harbor", "meaning_ko": "작은 항구" },
+          { "phrase": "busy harbor", "meaning_ko": "혼잡한 항구" },
+          { "phrase": "fishing harbor", "meaning_ko": "어항" }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "She continued to harbor deep resentment despite his apology.",
+            "meaning_ko": "그의 사과에도 그녀는 깊은 원한을 품고 있었다."
+          },
+          {
+            "sentence": "The city’s natural harbor made it a key maritime hub for centuries.",
+            "meaning_ko": "그 도시의 천연 항구는 수세기 동안 해양 중심지 역할을 했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The ship anchored safely in the harbor.",
+            "meaning_ko": "그 배는 항구에 안전하게 정박했다."
+          },
+          {
+            "sentence": "He harbors doubts about their plan.",
+            "meaning_ko": "그는 그들의 계획에 대해 의심을 품고 있다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We walked along the harbor at sunset.",
+            "meaning_ko": "우리는 해질녘 항구를 따라 걸었다."
+          },
+          {
+            "sentence": "Boats were floating quietly in the harbor.",
+            "meaning_ko": "보트들이 항구에서 조용히 떠 있었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "harbor는 명사로는 물리적 ‘항구’, 동사로는 ‘감정을 마음에 품다’라는 추상적 의미가 있다. 시험에서는 동사 의미가 자주 등장하므로 harbor resentment/doubt 같은 구조를 외워두면 좋다.",
+    "tags": ["항구", "지리", "감정", "비유적 표현", "일상 회화"],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "She continued to ___ deep resentment. (뜻: 원한을 품다)",
+            "a": "harbor",
+            "meaning_ko": "동사 harbor는 감정을 품다는 의미."
+          },
+          {
+            "q": "The city’s natural ___ helped trade flourish for centuries.",
+            "a": "harbor",
+            "meaning_ko": "명사 harbor는 항구."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "The ship anchored safely in the ___.",
+            "a": "harbor",
+            "meaning_ko": "항구에 정박했다는 의미."
+          },
+          {
+            "q": "He still ___ doubts about the decision.",
+            "a": "harbors",
+            "meaning_ko": "3인칭 단수 현재형."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "We walked along the ___.",
+            "a": "harbor",
+            "meaning_ko": "기본 명사 의미."
+          }
+        ]
+      }
+    ]
+  }
+]
