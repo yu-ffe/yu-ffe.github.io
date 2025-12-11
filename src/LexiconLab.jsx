@@ -10,6 +10,12 @@ const defaultSettings = {
   showConcept: true,
   meaningLimit: 3,
   showClassification: true,
+  showRelations: true,
+  showUsageContext: true,
+  showFormDetails: true,
+  showCollocations: true,
+  showExamples: true,
+  showQuiz: true,
 };
 
 function readCookie(name) {
@@ -39,6 +45,18 @@ function SettingToggle({ label, checked, onChange, description }) {
   );
 }
 
+function SettingGroup({ title, description, children }) {
+  return (
+    <section className="setting-group">
+      <header>
+        <p className="group-title">{title}</p>
+        {description && <p className="group-desc">{description}</p>}
+      </header>
+      <div className="group-body">{children}</div>
+    </section>
+  );
+}
+
 function SettingsPanel({ open, settings, onChange, onClose }) {
   return (
     <aside className={`settings-panel ${open ? 'open' : ''}`} aria-hidden={!open}>
@@ -52,32 +70,88 @@ function SettingsPanel({ open, settings, onChange, onClose }) {
         </button>
       </header>
 
-      <SettingToggle
-        label="개념 표시"
-        description="핵심 개념 요약 문장을 카드에 노출합니다."
-        checked={settings.showConcept}
-        onChange={(value) => onChange({ ...settings, showConcept: value })}
-      />
+      <SettingGroup title="카드 헤더" description="단어 카드 상단에서 노출할 정보를 고릅니다.">
+        <div className="settings-grid">
+          <SettingToggle
+            label="개념 표시"
+            description="핵심 개념 요약 문장을 카드에 노출합니다."
+            checked={settings.showConcept}
+            onChange={(value) => onChange({ ...settings, showConcept: value })}
+          />
 
-      <div className="setting-field">
-        <label htmlFor="meaningLimit">뜻 표시 개수</label>
-        <input
-          id="meaningLimit"
-          type="number"
-          min="1"
-          max="10"
-          value={settings.meaningLimit}
-          onChange={(e) => onChange({ ...settings, meaningLimit: Number(e.target.value) || 1 })}
+          <SettingToggle
+            label="분류/태그 표시"
+            description="태그, 빈도, 난이도 등 메타 정보를 함께 보여 줍니다."
+            checked={settings.showClassification}
+            onChange={(value) => onChange({ ...settings, showClassification: value })}
+          />
+        </div>
+      </SettingGroup>
+
+      <SettingGroup title="뜻 · 관계" description="의미 설명과 연결 관계를 얼마나 보여 줄지 제어합니다.">
+        <div className="setting-field">
+          <label htmlFor="meaningLimit">뜻 표시 개수</label>
+          <input
+            id="meaningLimit"
+            type="number"
+            min="1"
+            max="10"
+            value={settings.meaningLimit}
+            onChange={(e) => {
+              const parsed = Number(e.target.value);
+              const nextValue = Number.isNaN(parsed) ? 1 : Math.min(10, Math.max(1, parsed));
+              onChange({ ...settings, meaningLimit: nextValue });
+            }}
+          />
+          <p className="setting-desc">주요 뜻을 중요도 순서대로 최대 N개까지 보여 줍니다.</p>
+        </div>
+
+        <SettingToggle
+          label="단어 관계 표시"
+          description="파생어, 관련어, 동의/반의어 등 연결 관계 카테고리를 보여 줍니다."
+          checked={settings.showRelations}
+          onChange={(value) => onChange({ ...settings, showRelations: value })}
         />
-        <p className="setting-desc">주요 뜻을 중요도 순서대로 최대 N개까지 보여 줍니다.</p>
-      </div>
+      </SettingGroup>
 
-      <SettingToggle
-        label="분류/태그 표시"
-        description="태그, 빈도, 난이도 등 메타 정보를 함께 보여 줍니다."
-        checked={settings.showClassification}
-        onChange={(value) => onChange({ ...settings, showClassification: value })}
-      />
+      <SettingGroup title="맥락 · 문법" description="학습 시 보고 싶은 설명 영역을 세분화합니다.">
+        <SettingToggle
+          label="사용 맥락/뉘앙스"
+          description="의미 확장과 학습 노트를 함께 표시합니다."
+          checked={settings.showUsageContext}
+          onChange={(value) => onChange({ ...settings, showUsageContext: value })}
+        />
+
+        <SettingToggle
+          label="형태·전치사·문법"
+          description="형태 분석, 전치사 패턴, 필수 보어 등 문법 정보를 표시합니다."
+          checked={settings.showFormDetails}
+          onChange={(value) => onChange({ ...settings, showFormDetails: value })}
+        />
+      </SettingGroup>
+
+      <SettingGroup title="학습 자료" description="실제 사용 예시와 연습 문제 노출 여부를 선택하세요.">
+        <div className="settings-grid">
+          <SettingToggle
+            label="콜로케이션"
+            description="레벨별 자주 쓰이는 어휘 조합을 표시합니다."
+            checked={settings.showCollocations}
+            onChange={(value) => onChange({ ...settings, showCollocations: value })}
+          />
+          <SettingToggle
+            label="예문"
+            description="레벨별 예문 리스트를 표시합니다."
+            checked={settings.showExamples}
+            onChange={(value) => onChange({ ...settings, showExamples: value })}
+          />
+          <SettingToggle
+            label="미니 퀴즈"
+            description="단어 이해를 확인하는 퀴즈 블록을 보여 줍니다."
+            checked={settings.showQuiz}
+            onChange={(value) => onChange({ ...settings, showQuiz: value })}
+          />
+        </div>
+      </SettingGroup>
     </aside>
   );
 }
@@ -297,76 +371,84 @@ function LexiconEntry({ entry, settings }) {
       </div>
 
       <Section title="핵심 뜻 & 연결 관계">
-        <div className="meaning-grid">
+        <div className={`meaning-grid ${settings.showRelations ? '' : 'meaning-grid--single'}`}>
           <div className="meaning-column">
             <p className="label">주요 뜻</p>
             <MeaningList meanings={entry.meanings} limit={settings.meaningLimit} />
           </div>
-          <div className="relation-column">
-            <p className="label">단어 관계</p>
-            <div className="relation-stack">
-              <PillList label="파생어" items={entry.derivatives} />
-              <PillList label="관련어" items={entry.related} />
-              <PillList label="동의어" items={entry.synonyms} />
-              <PillList label="유사어" items={entry.nearSynonyms} />
-              <PillList label="반의어" items={entry.antonyms} />
+          {settings.showRelations && (
+            <div className="relation-column">
+              <p className="label">단어 관계</p>
+              <div className="relation-stack">
+                <PillList label="파생어" items={entry.derivatives} />
+                <PillList label="관련어" items={entry.related} />
+                <PillList label="동의어" items={entry.synonyms} />
+                <PillList label="유사어" items={entry.nearSynonyms} />
+                <PillList label="반의어" items={entry.antonyms} />
+              </div>
+            </div>
+          )}
+        </div>
+      </Section>
+
+      {settings.showUsageContext && (
+        <Section title="사용 맥락 & 뉘앙스">
+          <div className="context-grid">
+            <div>
+              <p className="label">의미 확장</p>
+              <p className="body-text">{entry.semanticExtension || '의미 확장 정보 없음'}</p>
+            </div>
+            <div>
+              <p className="label">추가 노트</p>
+              {entry.studyTips ? <p className="body-text">{entry.studyTips}</p> : <p className="muted">추가 학습 노트가 없습니다.</p>}
             </div>
           </div>
-        </div>
-      </Section>
+        </Section>
+      )}
 
-      <Section title="사용 맥락 & 뉘앙스">
-        <div className="context-grid">
-          <div>
-            <p className="label">의미 확장</p>
-            <p className="body-text">{entry.semanticExtension || '의미 확장 정보 없음'}</p>
-          </div>
-          <div>
-            <p className="label">추가 노트</p>
-            {entry.studyTips ? <p className="body-text">{entry.studyTips}</p> : <p className="muted">추가 학습 노트가 없습니다.</p>}
-          </div>
-        </div>
-      </Section>
-
-      <Section title="형태 · 전치사 패턴 · 문법">
-        <div className="grid-two">
-          <div>
-            <p className="label">형태 분석</p>
-            <p>{entry.morphology || '—'}</p>
-            <p className="label">어원·역사적 변천</p>
-            <p>{entry.etymology || '—'}</p>
-          </div>
-          <div>
-            <p className="label">전치사 패턴 · 보어</p>
-            <PrepositionPatternList patterns={entry.prepositionPatterns} />
-            <div className="required-complements">
-              <p className="label">필수 보어</p>
-              {entry.requiredComplements?.length ? (
-                <ul className="simple-list">
-                  {entry.requiredComplements.map((item, index) => (
-                    <li key={`${item}-${index}`}>{item}</li>
-                  ))}
-                </ul>
-              ) : (
-                <p className="muted">필수 보어 정보가 없습니다.</p>
-              )}
+      {settings.showFormDetails && (
+        <Section title="형태 · 전치사 패턴 · 문법">
+          <div className="grid-two">
+            <div>
+              <p className="label">형태 분석</p>
+              <p>{entry.morphology || '—'}</p>
+              <p className="label">어원·역사적 변천</p>
+              <p>{entry.etymology || '—'}</p>
             </div>
-            <p className="label">문법적 특징</p>
-            <p>{entry.grammarNotes || '—'}</p>
-            <p className="label">자동사 / 타동사</p>
-            <p>{entry.transitivity || '—'}</p>
-            <p className="label">가산 / 불가산</p>
-            <p>{entry.countability || '—'}</p>
+            <div>
+              <p className="label">전치사 패턴 · 보어</p>
+              <PrepositionPatternList patterns={entry.prepositionPatterns} />
+              <div className="required-complements">
+                <p className="label">필수 보어</p>
+                {entry.requiredComplements?.length ? (
+                  <ul className="simple-list">
+                    {entry.requiredComplements.map((item, index) => (
+                      <li key={`${item}-${index}`}>{item}</li>
+                    ))}
+                  </ul>
+                ) : (
+                  <p className="muted">필수 보어 정보가 없습니다.</p>
+                )}
+              </div>
+              <p className="label">문법적 특징</p>
+              <p>{entry.grammarNotes || '—'}</p>
+              <p className="label">자동사 / 타동사</p>
+              <p>{entry.transitivity || '—'}</p>
+              <p className="label">가산 / 불가산</p>
+              <p>{entry.countability || '—'}</p>
+            </div>
           </div>
-        </div>
-      </Section>
+        </Section>
+      )}
 
-      <Section title="콜로케이션 · 예문">
-        <CollocationList groups={entry.collocations} />
-        <ExampleList examples={entry.examples} />
-      </Section>
+      {(settings.showCollocations || settings.showExamples) && (
+        <Section title="콜로케이션 · 예문">
+          {settings.showCollocations && <CollocationList groups={entry.collocations} />}
+          {settings.showExamples && <ExampleList examples={entry.examples} />}
+        </Section>
+      )}
 
-      <QuizList quiz={entry.quiz} />
+      {settings.showQuiz && <QuizList quiz={entry.quiz} />}
     </article>
   );
 }

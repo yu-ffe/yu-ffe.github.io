@@ -219,6 +219,10 @@
   gap: 10px;
 }
 
+.meaning-grid--single {
+  grid-template-columns: 1fr;
+}
+
 .relation-stack {
   display: grid;
   gap: 6px;
@@ -488,6 +492,9 @@
   box-shadow: -15px 0 35px rgba(0, 0, 0, 0.35);
   transition: right 0.3s ease;
   z-index: 20;
+  overflow-y: auto;
+  display: grid;
+  gap: 12px;
 }
 
 .settings-panel.open {
@@ -506,6 +513,36 @@
   gap: 10px;
   align-items: center;
   margin-bottom: 12px;
+}
+
+.setting-group {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 12px;
+  padding: 12px;
+  background: rgba(255, 255, 255, 0.02);
+  display: grid;
+  gap: 8px;
+}
+
+.group-title {
+  font-weight: 800;
+  margin: 0;
+}
+
+.group-desc {
+  color: #8aa0c8;
+  font-size: 13px;
+  margin: 4px 0 0;
+}
+
+.group-body {
+  display: grid;
+  gap: 10px;
+}
+
+.settings-grid {
+  display: grid;
+  gap: 8px;
 }
 
 .setting-label {
