@@ -43,21 +43,6 @@ function App() {
     <main className="app">
       {/* Stream_LiveGame :: 3D 씬을 그리는 캔버스를 포함한다. */}
       <ThreeCanvas />
-      <div className="study-launcher">
-        <div className="launcher-card">
-          <p className="launcher-eyebrow">Word Practice Zone</p>
-          <h2>어휘 연습서 바로가기</h2>
-          <p className="launcher-copy">기존 단어장과 새 파란 책을 원하는 스타일로 열람하세요.</p>
-          <div className="launcher-actions">
-            <a className="launch-button ghost" href="?page=word-study">
-              Word Study (기존)
-            </a>
-            <a className="launch-button primary" href="?page=lexicon-lab">
-              Blue Lexicon Lab
-            </a>
-          </div>
-        </div>
-      </div>
     </main>
   );
 }
