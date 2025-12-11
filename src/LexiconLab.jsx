@@ -16,6 +16,10 @@ const defaultSettings = {
   showCollocations: true,
   showExamples: true,
   showQuiz: true,
+  showKoreanMeanings: true,
+  levelMode: 'all',
+  selectedLevels: ['상', '중', '하'],
+  quizItemLimit: 3,
 };
 
 function readCookie(name) {
@@ -57,7 +61,24 @@ function SettingGroup({ title, description, children }) {
   );
 }
 
-function SettingsPanel({ open, settings, onChange, onClose }) {
+function SettingsPanel({ open, settings, onChange, onClose, levelOptions }) {
+  const safeLevels = levelOptions?.length ? Array.from(new Set(levelOptions)) : ['상', '중', '하'];
+
+  const handleLevelToggle = (level) => {
+    const exists = settings.selectedLevels.includes(level);
+    const next = exists
+      ? settings.selectedLevels.filter((item) => item !== level)
+      : [...settings.selectedLevels, level];
+    const ensured = next.length ? next : [level];
+    onChange({ ...settings, selectedLevels: ensured });
+  };
+
+  const handleQuizLimitChange = (value) => {
+    const parsed = Number(value);
+    const nextValue = Number.isNaN(parsed) ? settings.quizItemLimit : Math.min(10, Math.max(1, parsed));
+    onChange({ ...settings, quizItemLimit: nextValue });
+  };
+
   return (
     <aside className={`settings-panel ${open ? 'open' : ''}`} aria-hidden={!open}>
       <header className="settings-header">
@@ -114,6 +135,57 @@ function SettingsPanel({ open, settings, onChange, onClose }) {
         />
       </SettingGroup>
 
+      <SettingGroup
+        title="레벨 노출 방식"
+        description="lexicon.json에서 감지한 레벨(상/중/하)을 한 번에 볼지, 필요한 것만 골라 볼지 선택하세요."
+      >
+        <div className="radio-row">
+          <label>
+            <input
+              type="radio"
+              name="levelMode"
+              value="all"
+              checked={settings.levelMode === 'all'}
+              onChange={(e) => onChange({ ...settings, levelMode: e.target.value })}
+            />
+            전체 레벨 연속 보기
+          </label>
+          <label>
+            <input
+              type="radio"
+              name="levelMode"
+              value="custom"
+              checked={settings.levelMode === 'custom'}
+              onChange={(e) => onChange({ ...settings, levelMode: e.target.value })}
+            />
+            선택한 레벨만 보기
+          </label>
+        </div>
+
+        <div className="level-picker" aria-label="레벨 선택">
+          {safeLevels.map((level) => (
+            <button
+              key={level}
+              type="button"
+              className={`level-chip ${settings.selectedLevels.includes(level) ? 'active' : ''}`}
+              onClick={() => handleLevelToggle(level)}
+            >
+              {level}
+            </button>
+          ))}
+        </div>
+        <p className="setting-desc">선택한 레벨의 콜로케이션/예문/퀴즈만 보여 줍니다.</p>
+      </SettingGroup>
+
+        <SettingGroup title="언어 · 힌트" description="한국어 뜻이나 해설을 숨기고 영어 원문만 확인할 수 있습니다.">
+          <SettingToggle
+            label="한국어 뜻 표시"
+            description="의미, 예문 해석, 선택형 퀴즈 힌트를 함께 보여 줍니다."
+            checked={settings.showKoreanMeanings}
+            onChange={(value) => onChange({ ...settings, showKoreanMeanings: value })}
+          />
+        </SettingGroup>
+
       <SettingGroup title="맥락 · 문법" description="학습 시 보고 싶은 설명 영역을 세분화합니다.">
         <SettingToggle
           label="사용 맥락/뉘앙스"
@@ -151,6 +223,21 @@ function SettingsPanel({ open, settings, onChange, onClose }) {
             onChange={(value) => onChange({ ...settings, showQuiz: value })}
           />
         </div>
+
+        {settings.showQuiz && (
+          <div className="setting-field">
+            <label htmlFor="quizItemLimit">퀴즈 문항 수 (레벨별)</label>
+            <input
+              id="quizItemLimit"
+              type="number"
+              min="1"
+              max="10"
+              value={settings.quizItemLimit}
+              onChange={(e) => handleQuizLimitChange(e.target.value)}
+            />
+            <p className="setting-desc">레벨별로 최대 몇 개의 퀴즈를 노출할지 설정합니다.</p>
+          </div>
+        )}
       </SettingGroup>
     </aside>
   );
@@ -165,11 +252,14 @@ function Section({ title, children }) {
   );
 }
 
-function PillList({ label, items }) {
+function PillList({ label, items, showMeaning }) {
   if (!items || items.length === 0) return null;
   const renderItem = (item) => {
     if (typeof item === 'string') return item;
-    if (item?.word) return `${item.word}${item.meaning_ko ? ` (${item.meaning_ko})` : ''}`;
+    if (item?.word) {
+      const meaning = showMeaning && item.meaning_ko ? ` (${item.meaning_ko})` : '';
+      return `${item.word}${meaning}`;
+    }
     return '';
   };
 
@@ -187,7 +277,7 @@ function PillList({ label, items }) {
   );
 }
 
-function MeaningList({ meanings, limit }) {
+function MeaningList({ meanings, limit, showKorean }) {
   const limited = useMemo(() => meanings?.slice(0, limit) ?? [], [limit, meanings]);
 
   if (!limited.length) return <p className="muted">뜻 정보가 없습니다.</p>;
@@ -199,7 +289,7 @@ function MeaningList({ meanings, limit }) {
           <span className="badge">{index + 1}</span>
           <div className="meaning-texts">
             <p className="meaning-en">{meaning.definition_en}</p>
-            <p className="meaning-ko">{meaning.definition_ko}</p>
+            {showKorean && <p className="meaning-ko">{meaning.definition_ko}</p>}
             {meaning.note && <p className="meaning-note">{meaning.note}</p>}
           </div>
         </li>
@@ -225,7 +315,7 @@ function PrepositionPatternList({ patterns }) {
   );
 }
 
-function CollocationList({ groups }) {
+function CollocationList({ groups, showKorean }) {
   if (!groups || groups.length === 0) return <p className="muted">콜로케이션 정보가 없습니다.</p>;
   return (
     <div className="collocation-groups">
@@ -238,7 +328,7 @@ function CollocationList({ groups }) {
                 <li key={`${item.phrase}-${index}`}>
                   <div className="collocation-head">
                     <span className="phrase">{item.phrase}</span>
-                    <span className="collocation-meaning">{item.meaning_ko}</span>
+                    {showKorean && <span className="collocation-meaning">{item.meaning_ko}</span>}
                   </div>
                 </li>
               ))
@@ -252,7 +342,7 @@ function CollocationList({ groups }) {
   );
 }
 
-function ExampleList({ examples }) {
+function ExampleList({ examples, showKorean }) {
   if (!examples || examples.length === 0) return <p className="muted">예문이 없습니다.</p>;
   return (
     <div className="example-groups">
@@ -264,7 +354,7 @@ function ExampleList({ examples }) {
               group.items.map((item, index) => (
                 <li key={`${item.sentence}-${index}`}>
                   <p className="meaning-en">{item.sentence}</p>
-                  <p className="meaning-ko">{item.meaning_ko}</p>
+                  {showKorean && <p className="meaning-ko">{item.meaning_ko}</p>}
                 </li>
               ))
             ) : (
@@ -277,7 +367,7 @@ function ExampleList({ examples }) {
   );
 }
 
-function QuizList({ quiz }) {
+function QuizList({ quiz, showKorean, limitPerLevel }) {
   if (!quiz || quiz.length === 0) return null;
   return (
     <div className="quiz-list">
@@ -287,10 +377,10 @@ function QuizList({ quiz }) {
           <p className="level-label">레벨 {group.level}</p>
           <ol>
             {group.items?.length ? (
-              group.items.map((item, index) => (
+              group.items.slice(0, limitPerLevel).map((item, index) => (
                 <li key={`${item.q}-${index}`}>
                   <p className="quiz-question">{item.q}</p>
-                  <p className="meaning-note">{item.meaning_ko}</p>
+                  {showKorean && <p className="meaning-note">{item.meaning_ko}</p>}
                   <div className="quiz-choices">
                     <span className="choice answer">{item.a}</span>
                   </div>
@@ -306,7 +396,31 @@ function QuizList({ quiz }) {
   );
 }
 
+function filterByLevel(groups, levels) {
+  if (!groups?.length) return [];
+  if (!levels?.length) return groups;
+  return groups.filter((group) => levels.includes(group.level));
+}
+
 function LexiconEntry({ entry, settings }) {
+  const availableLevels = useMemo(() => {
+    const levelSet = new Set(['상', '중', '하']);
+    [entry.collocations, entry.examples, entry.quiz].forEach((groups) => {
+      groups?.forEach((group) => {
+        if (group.level) levelSet.add(group.level);
+      });
+    });
+    return Array.from(levelSet);
+  }, [entry]);
+
+  const levelsToShow = settings.levelMode === 'custom' && settings.selectedLevels.length
+    ? settings.selectedLevels
+    : availableLevels;
+
+  const filteredCollocations = filterByLevel(entry.collocations, levelsToShow);
+  const filteredExamples = filterByLevel(entry.examples, levelsToShow);
+  const filteredQuiz = filterByLevel(entry.quiz, levelsToShow);
+
   return (
     <article className="lex-card">
       <header className="lex-card-header">
@@ -374,17 +488,17 @@ function LexiconEntry({ entry, settings }) {
         <div className={`meaning-grid ${settings.showRelations ? '' : 'meaning-grid--single'}`}>
           <div className="meaning-column">
             <p className="label">주요 뜻</p>
-            <MeaningList meanings={entry.meanings} limit={settings.meaningLimit} />
+            <MeaningList meanings={entry.meanings} limit={settings.meaningLimit} showKorean={settings.showKoreanMeanings} />
           </div>
           {settings.showRelations && (
             <div className="relation-column">
               <p className="label">단어 관계</p>
               <div className="relation-stack">
-                <PillList label="파생어" items={entry.derivatives} />
-                <PillList label="관련어" items={entry.related} />
-                <PillList label="동의어" items={entry.synonyms} />
-                <PillList label="유사어" items={entry.nearSynonyms} />
-                <PillList label="반의어" items={entry.antonyms} />
+                <PillList label="파생어" items={entry.derivatives} showMeaning={settings.showKoreanMeanings} />
+                <PillList label="관련어" items={entry.related} showMeaning={settings.showKoreanMeanings} />
+                <PillList label="동의어" items={entry.synonyms} showMeaning={settings.showKoreanMeanings} />
+                <PillList label="유사어" items={entry.nearSynonyms} showMeaning={settings.showKoreanMeanings} />
+                <PillList label="반의어" items={entry.antonyms} showMeaning={settings.showKoreanMeanings} />
               </div>
             </div>
           )}
@@ -443,12 +557,17 @@ function LexiconEntry({ entry, settings }) {
 
       {(settings.showCollocations || settings.showExamples) && (
         <Section title="콜로케이션 · 예문">
-          {settings.showCollocations && <CollocationList groups={entry.collocations} />}
-          {settings.showExamples && <ExampleList examples={entry.examples} />}
+          {settings.showCollocations && <CollocationList groups={filteredCollocations} showKorean={settings.showKoreanMeanings} />}
+          {settings.showExamples && <ExampleList examples={filteredExamples} showKorean={settings.showKoreanMeanings} />}
+          {!filteredCollocations.length && !filteredExamples.length && (
+            <p className="muted">선택한 레벨에 해당하는 예시가 없습니다.</p>
+          )}
         </Section>
       )}
 
-      {settings.showQuiz && <QuizList quiz={entry.quiz} />}
+      {settings.showQuiz && (
+        <QuizList quiz={filteredQuiz} showKorean={settings.showKoreanMeanings} limitPerLevel={settings.quizItemLimit} />
+      )}
     </article>
   );
 }
@@ -536,7 +655,16 @@ export default function LexiconLab() {
         <LexiconEntry key={entry.word} entry={entry} settings={settings} />
       ))}
 
-      <SettingsPanel open={panelOpen} settings={settings} onChange={setSettings} onClose={() => setPanelOpen(false)} />
+      <SettingsPanel
+        open={panelOpen}
+        settings={settings}
+        levelOptions={entries
+          .flatMap((entry) => [...(entry.collocations || []), ...(entry.examples || []), ...(entry.quiz || [])])
+          .map((group) => group.level)
+          .filter(Boolean)}
+        onChange={setSettings}
+        onClose={() => setPanelOpen(false)}
+      />
     </div>
   );
 }
