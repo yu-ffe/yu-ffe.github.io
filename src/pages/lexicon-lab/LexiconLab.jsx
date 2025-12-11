@@ -4,6 +4,8 @@ import './LexiconLab.css';
 const SETTINGS_COOKIE = 'lexiconLabSettings';
 const BOOK_COOKIE = 'lexiconLabBook';
 const POSITION_COOKIE = 'lexiconLabPosition';
+// TODO: Remove MOBILE_PREVIEW once desktop view is restored.
+const MOBILE_PREVIEW = true;
 
 const defaultSettings = {
   showConcept: true,
@@ -373,7 +375,7 @@ export default function LexiconLab() {
   const activeBook = useMemo(() => books.find((book) => book.id === selectedBookId), [books, selectedBookId]);
 
   return (
-    <div className="lex-page">
+    <div className={`lex-page ${MOBILE_PREVIEW ? 'lex-page--mobile' : ''}`}>
       <header className="lex-topbar">
         <div>
           <p className="eyebrow">신규 포맷 / 다중 필드 지원</p>
