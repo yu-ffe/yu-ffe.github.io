@@ -1,23 +1,30 @@
-// Stream_LiveGame :: 애플리케이션 전역 스타일을 불러온다.
-import './App.css';
-// Stream_LiveGame :: Three.js 경험을 렌더링하는 캔버스 컴포넌트.
-import ThreeCanvas from './components/ThreeCanvas.jsx';
-import WordStudy from './WordStudy.jsx';
-import LexiconLab from './LexiconLab.jsx';
+import { Navigate, Route, Routes, useLocation } from 'react-router-dom';
+import HomePage from './pages/home/HomePage.jsx';
+import WordStudy from './pages/word-study/WordStudy.jsx';
+import LexiconLab from './pages/lexicon-lab/LexiconLab.jsx';
+import GamesIndex from './pages/games/GamesIndex.jsx';
+import GamePage from './pages/games/GamePage.jsx';
+import MinecraftIndex from './pages/minecraft/MinecraftIndex.jsx';
+import MinecraftPage from './pages/minecraft/MinecraftPage.jsx';
 
-function isWordStudyPage() {
-  if (typeof window === 'undefined') {
-    return false;
+function LegacyRedirect() {
+  const location = useLocation();
+  const params = new URLSearchParams(location.search);
+  const pageParam = params.get('page');
+  const hash = location.hash?.toLowerCase() ?? '';
+  const onHome = location.pathname === '/' || location.pathname === '/index.html';
+
+  if (onHome && (pageParam === 'word-study' || hash.includes('word-study'))) {
+    return <Navigate to="/word-study" replace />;
   }
 
-  const { pathname, search, hash } = window.location;
-  const params = new URLSearchParams(search);
-  return (
-    pathname.includes('word-study') ||
-    params.get('page') === 'word-study' ||
-    hash.includes('word-study')
-  );
+  if (onHome && (pageParam === 'lexicon-lab' || hash.includes('lexicon'))) {
+    return <Navigate to="/lexicon-lab" replace />;
+  }
+
+  return null;
 }
+
 
 function isLexiconLabPage() {
   if (typeof window === 'undefined') {
