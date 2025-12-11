@@ -243,11 +243,24 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions }) {
   );
 }
 
-function Section({ title, children }) {
+function Section({ title, children, collapsible = false, open = true, onToggle }) {
   return (
-    <section className="lex-section">
-      <p className="lex-section-title">{title}</p>
-      <div className="lex-section-body">{children}</div>
+    <section className={`lex-section ${collapsible ? 'lex-section--collapsible' : ''} ${collapsible && !open ? 'collapsed' : ''}`}>
+      <div className="lex-section-header">
+        <p className="lex-section-title">{title}</p>
+        {collapsible && (
+          <button
+            type="button"
+            className="section-toggle"
+            onClick={onToggle}
+            aria-expanded={open}
+            aria-label={`${title} ${open ? '접기' : '펼치기'}`}
+          >
+            {open ? '−' : '+'}
+          </button>
+        )}
+      </div>
+      {(!collapsible || open) && <div className="lex-section-body">{children}</div>}
     </section>
   );
 }
@@ -367,11 +380,11 @@ function ExampleList({ examples, showKorean }) {
   );
 }
 
-function QuizList({ quiz, showKorean, limitPerLevel }) {
+function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true }) {
   if (!quiz || quiz.length === 0) return null;
   return (
     <div className="quiz-list">
-      <p className="quiz-title">미니 퀴즈</p>
+      {showTitle && <p className="quiz-title">미니 퀴즈</p>}
       {quiz.map((group) => (
         <div key={group.level} className="quiz-group">
           <p className="level-label">레벨 {group.level}</p>
@@ -403,6 +416,13 @@ function filterByLevel(groups, levels) {
 }
 
 function LexiconEntry({ entry, settings }) {
+  const [openSections, setOpenSections] = useState({
+    context: true,
+    grammar: true,
+    resources: true,
+    quiz: true,
+  });
+
   const availableLevels = useMemo(() => {
     const levelSet = new Set(['상', '중', '하']);
     [entry.collocations, entry.examples, entry.quiz].forEach((groups) => {
@@ -421,6 +441,10 @@ function LexiconEntry({ entry, settings }) {
   const filteredExamples = filterByLevel(entry.examples, levelsToShow);
   const filteredQuiz = filterByLevel(entry.quiz, levelsToShow);
 
+  const toggleSection = (key) => {
+    setOpenSections((prev) => ({ ...prev, [key]: !prev[key] }));
+  };
+
   return (
     <article className="lex-card">
       <header className="lex-card-header">
@@ -435,13 +459,6 @@ function LexiconEntry({ entry, settings }) {
       </header>
 
       <div className="lex-card-hero">
-        {settings.showConcept && entry.concept && (
-          <div className="concept-block">
-            <p className="eyebrow">핵심 개념</p>
-            <p className="concept">{entry.concept}</p>
-          </div>
-        )}
-
         {settings.showClassification && (
           <div className="quick-meta" aria-label="단어 메타 정보">
             {(entry.frequency || entry.difficulty) && (
@@ -484,12 +501,20 @@ function LexiconEntry({ entry, settings }) {
         )}
       </div>
 
-      <Section title="핵심 뜻 & 연결 관계">
-        <div className={`meaning-grid ${settings.showRelations ? '' : 'meaning-grid--single'}`}>
+      <Section title="핵심 개념 · 주요 뜻 · 단어 관계">
+        <div className="meaning-stack">
+          {settings.showConcept && entry.concept && (
+            <div className="concept-block concept-block--compact">
+              <p className="eyebrow">핵심 개념</p>
+              <p className="concept concept--compact">{entry.concept}</p>
+            </div>
+          )}
+
           <div className="meaning-column">
             <p className="label">주요 뜻</p>
             <MeaningList meanings={entry.meanings} limit={settings.meaningLimit} showKorean={settings.showKoreanMeanings} />
           </div>
+
           {settings.showRelations && (
             <div className="relation-column">
               <p className="label">단어 관계</p>
@@ -506,7 +531,12 @@ function LexiconEntry({ entry, settings }) {
       </Section>
 
       {settings.showUsageContext && (
-        <Section title="사용 맥락 & 뉘앙스">
+        <Section
+          title="사용 맥락 & 뉘앙스"
+          collapsible
+          open={openSections.context}
+          onToggle={() => toggleSection('context')}
+        >
           <div className="context-grid">
             <div>
               <p className="label">의미 확장</p>
@@ -521,7 +551,12 @@ function LexiconEntry({ entry, settings }) {
       )}
 
       {settings.showFormDetails && (
-        <Section title="형태 · 전치사 패턴 · 문법">
+        <Section
+          title="형태 · 전치사 패턴 · 문법"
+          collapsible
+          open={openSections.grammar}
+          onToggle={() => toggleSection('grammar')}
+        >
           <div className="grid-two">
             <div>
               <p className="label">형태 분석</p>
@@ -556,7 +591,12 @@ function LexiconEntry({ entry, settings }) {
       )}
 
       {(settings.showCollocations || settings.showExamples) && (
-        <Section title="콜로케이션 · 예문">
+        <Section
+          title="콜로케이션 · 예문"
+          collapsible
+          open={openSections.resources}
+          onToggle={() => toggleSection('resources')}
+        >
           {settings.showCollocations && <CollocationList groups={filteredCollocations} showKorean={settings.showKoreanMeanings} />}
           {settings.showExamples && <ExampleList examples={filteredExamples} showKorean={settings.showKoreanMeanings} />}
           {!filteredCollocations.length && !filteredExamples.length && (
@@ -566,7 +606,19 @@ function LexiconEntry({ entry, settings }) {
       )}
 
       {settings.showQuiz && (
-        <QuizList quiz={filteredQuiz} showKorean={settings.showKoreanMeanings} limitPerLevel={settings.quizItemLimit} />
+        <Section
+          title="미니 퀴즈"
+          collapsible
+          open={openSections.quiz}
+          onToggle={() => toggleSection('quiz')}
+        >
+          <QuizList
+            quiz={filteredQuiz}
+            showKorean={settings.showKoreanMeanings}
+            limitPerLevel={settings.quizItemLimit}
+            showTitle={false}
+          />
+        </Section>
       )}
     </article>
   );
