@@ -283,11 +283,6 @@
   font-weight: 800;
 }
 
-.collapse-sub {
-  font-size: 0.9rem;
-  color: #9fb4e4;
-}
-
 .chevron {
   font-size: 0.9rem;
   color: #9fb4e4;
@@ -298,14 +293,10 @@
   grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
   gap: 0.55rem;
   margin-top: 0.6rem;
-  max-height: 999px;
-  transition: max-height 0.3s ease;
 }
 
 .collapse-content.collapsed {
-  max-height: 0;
-  overflow: hidden;
-  padding-bottom: 0;
+  display: none;
   margin-top: 0;
 }
 

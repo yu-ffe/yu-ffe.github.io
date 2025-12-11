@@ -170,7 +170,6 @@ function WordCard({ entry }) {
         <div>
           <p className="word-label">{entry['단어']}</p>
           <p className="pos-label">{entry['품사']}</p>
-          <p className="card-note">아래 토글을 열어 상세 필드를 확인하세요.</p>
         </div>
         <div className="badges">
           <span className="badge badge-ghost">{entry.sourceLabel}</span>
@@ -184,7 +183,6 @@ function WordCard({ entry }) {
           <button className="collapse-trigger" type="button" onClick={() => toggleGroup(group.key)}>
             <div className="collapse-labels">
               <span className="collapse-title">{group.title}</span>
-              <span className="collapse-sub">필드 집합을 열어 세부 정보를 확인하세요.</span>
             </div>
             <span className="chevron">{collapsedGroups[group.key] ? '▼' : '▲'}</span>
           </button>
@@ -203,7 +201,6 @@ export default function WordStudy() {
   const [entries, setEntries] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
-  const [query, setQuery] = useState('');
   const [pageIndex, setPageIndex] = useState(0);
   const [cardPage, setCardPage] = useState(1);
 
@@ -251,22 +248,12 @@ export default function WordStudy() {
 
   useEffect(() => {
     setCardPage(1);
-  }, [pageIndex, query]);
-
-  const filtered = useMemo(() => {
-    return entries.filter((entry) => {
-      const q = query.trim().toLowerCase();
-      return (
-        !q ||
-        CSV_HEADERS.some((header) => (entry[header] ?? '').toLowerCase().includes(q))
-      );
-    });
-  }, [entries, query]);
+  }, [pageIndex]);
 
   const cardsPerPage = 6;
   const filteredByPage = useMemo(
-    () => filtered.filter((entry) => entry.sourceIndex === pageIndex),
-    [filtered, pageIndex]
+    () => entries.filter((entry) => entry.sourceIndex === pageIndex),
+    [entries, pageIndex]
   );
 
   const totalCardPages = Math.max(1, Math.ceil(filteredByPage.length / cardsPerPage));
@@ -276,23 +263,8 @@ export default function WordStudy() {
 
   return (
     <div className="word-study-layout">
-      <header className="study-topbar">
-        <a className="back-link" href="/">3D 방으로 돌아가기</a>
-      </header>
-
       <section className="controls">
-        <div className="control-group">
-          <label htmlFor="search">검색</label>
-          <input
-            id="search"
-            type="search"
-            placeholder="단어, 의미, 예문 키워드로 찾기"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-          />
-        </div>
         <div className="control-group wide">
-          <label>페이지</label>
           <div className="page-buttons" role="group" aria-label="자료 페이지 선택">
             {CSV_FILES.map((_, index) => {
               const label = String(index + 1).padStart(2, '0');
