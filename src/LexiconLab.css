@@ -138,17 +138,17 @@
   background: rgba(255, 255, 255, 0.03);
   border: 1px solid rgba(255, 255, 255, 0.08);
   border-radius: 20px;
-  padding: 18px;
+  padding: 16px;
   margin-bottom: 18px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
 }
 
 .lex-card-hero {
   display: grid;
-  grid-template-columns: minmax(0, 2fr) minmax(0, 1.2fr);
-  gap: 12px;
+  grid-template-columns: 1fr;
+  gap: 8px;
   align-items: start;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
 }
 
 .concept-block {
@@ -201,6 +201,13 @@
   padding-top: 12px;
 }
 
+.lex-section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+}
+
 .lex-section-title {
   color: #7ea8ff;
   font-weight: 700;
@@ -211,6 +218,38 @@
   display: flex;
   flex-direction: column;
   gap: 8px;
+}
+
+.lex-section--collapsible .lex-section-title {
+  margin-bottom: 0;
+}
+
+.lex-section.collapsed {
+  padding-bottom: 0;
+}
+
+.section-toggle {
+  background: rgba(255, 255, 255, 0.06);
+  color: #d7e8ff;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 8px;
+  width: 32px;
+  height: 32px;
+  font-weight: 800;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-toggle:hover {
+  border-color: #3b82f6;
+  color: #ffffff;
+}
+
+.meaning-stack {
+  display: grid;
+  gap: 10px;
 }
 
 .meaning-grid {
@@ -247,6 +286,15 @@
   background: linear-gradient(135deg, rgba(37, 99, 235, 0.18), rgba(14, 165, 233, 0.15));
   color: #d7e8ff;
   line-height: 1.5;
+}
+
+.concept-block--compact .concept {
+  padding: 10px;
+}
+
+.concept--compact {
+  font-size: 15px;
+  line-height: 1.45;
 }
 
 .quick-meta {
