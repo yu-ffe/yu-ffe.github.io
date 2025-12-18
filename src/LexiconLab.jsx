@@ -6,6 +6,8 @@ const POSITION_COOKIE = 'lexiconLabPosition';
 // TODO: Remove MOBILE_PREVIEW once desktop view is restored.
 const MOBILE_PREVIEW = true;
 
+const wordSources = import.meta.glob('../public/assets/words/json/*.json', { eager: true });
+
 const defaultSettings = {
   showConcept: true,
   meaningLimit: 3,
@@ -35,6 +37,19 @@ function writeCookie(name, value, days = 90) {
   if (typeof document === 'undefined') return;
   const expires = new Date(Date.now() + days * 24 * 60 * 60 * 1000).toUTCString();
   document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
+}
+
+function loadWordEntries() {
+  const modules = Object.entries(wordSources).sort(([a], [b]) =>
+    a.localeCompare(b, undefined, { numeric: true })
+  );
+
+  return modules.flatMap(([, mod]) => {
+    const payload = mod?.default ?? mod;
+    if (Array.isArray(payload)) return payload;
+    if (payload && Array.isArray(payload.words)) return payload.words;
+    return [];
+  });
 }
 
 function SettingToggle({ label, checked, onChange, description }) {
@@ -658,6 +673,13 @@ export default function LexiconLab() {
       setLoading(true);
       setError('');
       try {
+        const combinedEntries = loadWordEntries();
+
+        if (combinedEntries.length) {
+          setEntries(combinedEntries);
+          return;
+        }
+
         const res = await fetch('/assets/lexicon/lexicon.json', { cache: 'no-cache' });
         if (!res.ok) throw new Error('단어장 데이터를 불러올 수 없습니다.');
         const data = await res.json();
