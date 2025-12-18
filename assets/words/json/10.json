@@ -1,0 +1,446 @@
+[
+  {
+    "word": "sane",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "mentally healthy and showing good judgment",
+        "definition_ko": "정신이 온전한, 제정신의",
+        "note": "비유적으로 '합리적인' 의미로도 자주 사용"
+      }
+    ],
+    "concept": "정신적으로 안정되고 합리적인 상태",
+    "etymology": "라틴어 sanus(건강한)에서 유래",
+    "semanticExtension": "정신 건강 → 판단·의견의 합리성으로 확장",
+    "nuanceRegister": "중립",
+    "grammarNotes": "be sane to/that 구문 가능",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~하는 것이 제정신인",
+        "example": "be sane to quit"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에 있어 정상적인",
+        "example": "sane in judgment"
+      }
+    ],
+    "requiredComplements": [
+      "be sane to + 동사원형",
+      "be sane in + 판단/행동"
+    ],
+    "morphology": "san-(건강한)",
+    "derivatives": [
+      {
+        "word": "sanity",
+        "meaning_ko": "제정신"
+      },
+      {
+        "word": "sanely",
+        "meaning_ko": "제정신으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "rational",
+        "meaning_ko": "합리적인"
+      },
+      {
+        "word": "sound",
+        "meaning_ko": "건전한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rational",
+        "meaning_ko": "합리적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "reasonable",
+        "meaning_ko": "이성적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insane",
+        "meaning_ko": "정신이상인"
+      },
+      {
+        "word": "mad",
+        "meaning_ko": "미친"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "remain sane",
+            "meaning_ko": "제정신을 유지하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sane decision",
+            "meaning_ko": "합리적인 결정"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sane approach",
+            "meaning_ko": "건전한 접근"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He is sane.",
+            "meaning_ko": "그는 제정신이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "That seems like a sane choice.",
+            "meaning_ko": "그건 합리적인 선택처럼 보인다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Staying calm helped her remain sane under pressure.",
+            "meaning_ko": "침착함을 유지한 것이 압박 속에서도 제정신을 유지하게 했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sane은 ‘정신 정상’, rational은 ‘논리적’이라는 차이를 구분하세요.",
+    "tags": [
+      "정신",
+      "판단"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of insane?",
+            "a": "sane",
+            "meaning_ko": "제정신의"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "insane",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "mentally ill or showing extremely foolish behavior",
+        "definition_ko": "정신 이상인; 터무니없는",
+        "note": "구어에서는 과장 표현으로도 사용"
+      }
+    ],
+    "concept": "정신적으로 정상 범위를 벗어난 상태",
+    "etymology": "in-(부정) + sane",
+    "semanticExtension": "의학적 의미 → 비유적 과장 표현으로 확장",
+    "nuanceRegister": "중립·구어(비유)",
+    "grammarNotes": "비격식 맥락에서는 과장 주의",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 미치다",
+        "example": "insane with anger"
+      }
+    ],
+    "requiredComplements": [
+      "insane with + 감정"
+    ],
+    "morphology": "in-(아니다) + sane",
+    "derivatives": [
+      {
+        "word": "insanity",
+        "meaning_ko": "정신 이상"
+      },
+      {
+        "word": "insanely",
+        "meaning_ko": "미칠 듯이"
+      }
+    ],
+    "related": [
+      {
+        "word": "crazy",
+        "meaning_ko": "미친"
+      },
+      {
+        "word": "mad",
+        "meaning_ko": "정신 이상인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "crazy",
+        "meaning_ko": "미친"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "irrational",
+        "meaning_ko": "비이성적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sane",
+        "meaning_ko": "제정신의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "go insane",
+            "meaning_ko": "미쳐버리다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "insane idea",
+            "meaning_ko": "터무니없는 생각"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "insane level of stress",
+            "meaning_ko": "비정상적으로 큰 스트레스"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "This heat is insane.",
+            "meaning_ko": "이 더위는 미칠 지경이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "It would be insane to quit now.",
+            "meaning_ko": "지금 그만두는 건 미친 짓이다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The workload was insane, even by industry standards.",
+            "meaning_ko": "업계 기준으로 봐도 업무량이 비정상적이었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "공식 글에서는 insane 대신 extreme, unreasonable 등을 고려하세요.",
+    "tags": [
+      "정신",
+      "구어"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: go ___",
+            "a": "insane",
+            "meaning_ko": "미쳐버리다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "insanity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the state of being insane; extreme foolishness",
+        "definition_ko": "정신 이상; 극도의 어리석음",
+        "note": "법률·비유 모두 사용"
+      }
+    ],
+    "concept": "정신적 정상성에서 벗어난 상태",
+    "etymology": "insane에서 파생",
+    "semanticExtension": "의학적 상태 → 과장된 상황 묘사로 확장",
+    "nuanceRegister": "격식·법률 / 구어(비유)",
+    "grammarNotes": "불가산으로 자주 사용",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 광기",
+        "example": "the insanity of war"
+      }
+    ],
+    "requiredComplements": [
+      "insanity of + 상황"
+    ],
+    "morphology": "insane + -ity",
+    "derivatives": [
+      {
+        "word": "insane",
+        "meaning_ko": "정신 이상인"
+      }
+    ],
+    "related": [
+      {
+        "word": "madness",
+        "meaning_ko": "광기"
+      },
+      {
+        "word": "lunacy",
+        "meaning_ko": "광기"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "madness",
+        "meaning_ko": "광기"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "folly",
+        "meaning_ko": "어리석음"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sanity",
+        "meaning_ko": "제정신"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "temporary insanity",
+            "meaning_ko": "일시적 정신 이상"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "plead insanity",
+            "meaning_ko": "심신상실을 주장하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "the insanity of war",
+            "meaning_ko": "전쟁의 광기"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The court rejected the insanity plea.",
+            "meaning_ko": "법원은 심신상실 주장을 기각했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "There is a thin line between genius and insanity.",
+            "meaning_ko": "천재성과 광기 사이에는 얇은 경계가 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The insanity of the situation became obvious.",
+            "meaning_ko": "그 상황의 광기가 분명해졌다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "법률 용례와 비유적 용례를 구분하세요.",
+    "tags": [
+      "법률",
+      "정신"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Noun form of insane?",
+            "a": "insanity",
+            "meaning_ko": "정신 이상"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,992 @@
+[
+  {
+    "word": "outset",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the beginning or start of something",
+        "definition_ko": "시작, 발단",
+        "note": "과정의 맨 처음을 강조"
+      }
+    ],
+    "concept": "어떤 일이나 과정이 시작되는 시점",
+    "etymology": "out + set(놓다)에서 형성",
+    "semanticExtension": "물리적 시작 → 계획·과정의 출발점으로 확장",
+    "nuanceRegister": "격식·문어",
+    "grammarNotes": "at/from the outset 고정 표현",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~의 시작에",
+        "example": "at the outset"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~의 시작부터",
+        "example": "from the outset"
+      }
+    ],
+    "requiredComplements": [
+      "at the outset",
+      "from the outset"
+    ],
+    "morphology": "out + set",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "beginning",
+        "meaning_ko": "시작"
+      },
+      {
+        "word": "start",
+        "meaning_ko": "출발"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "beginning",
+        "meaning_ko": "시작"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "start",
+        "meaning_ko": "출발"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "end",
+        "meaning_ko": "끝"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "at the outset",
+            "meaning_ko": "처음부터"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "from the outset",
+            "meaning_ko": "시작부터"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "clear goals at the outset",
+            "meaning_ko": "초기에 명확한 목표"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Problems appeared at the outset.",
+            "meaning_ko": "문제는 시작부터 나타났다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She explained the rules from the outset.",
+            "meaning_ko": "그녀는 처음부터 규칙을 설명했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Clear communication at the outset prevents confusion later.",
+            "meaning_ko": "초기의 명확한 소통은 이후의 혼란을 막는다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "onset과 혼동 주의: onset은 갑작스러운 시작에 더 초점.",
+    "tags": [
+      "시작",
+      "과정"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Phrase meaning '처음부터'?",
+            "a": "from the outset",
+            "meaning_ko": "시작부터"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "set out",
+    "partOfSpeech": [
+      "phrasal verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to begin a journey or task; to explain or present clearly",
+        "definition_ko": "출발하다; 분명히 설명하다",
+        "note": "여정 시작과 목적 설명 두 의미 모두 중요"
+      }
+    ],
+    "concept": "어떤 목표를 향해 출발하거나 의도를 명확히 밝히는 행위",
+    "etymology": "set + out",
+    "semanticExtension": "물리적 출발 → 계획·의도의 명확화",
+    "nuanceRegister": "중립·문어",
+    "grammarNotes": "set out to + 동사원형 / set out + 목적어",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~하기 시작하다",
+        "example": "set out to achieve a goal"
+      }
+    ],
+    "requiredComplements": [
+      "set out to + 동사원형",
+      "set out + 목적어(계획/목표)"
+    ],
+    "morphology": "set + out",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "begin",
+        "meaning_ko": "시작하다"
+      },
+      {
+        "word": "embark",
+        "meaning_ko": "착수하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "embark on",
+        "meaning_ko": "착수하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "start off",
+        "meaning_ko": "출발하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "abandon",
+        "meaning_ko": "포기하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "set out early",
+            "meaning_ko": "일찍 출발하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "set out plans",
+            "meaning_ko": "계획을 설명하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "set out clear objectives",
+            "meaning_ko": "명확한 목표를 제시하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They set out at dawn.",
+            "meaning_ko": "그들은 새벽에 출발했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He set out to prove his theory.",
+            "meaning_ko": "그는 자신의 이론을 증명하려 했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The report sets out the main findings.",
+            "meaning_ko": "그 보고서는 주요 결과를 명확히 제시한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "set off와 비교: set off는 '촉발하다' 의미가 강함.",
+    "tags": [
+      "시작",
+      "동사구"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in: set out ___ achieve a goal",
+            "a": "to",
+            "meaning_ko": "목적 표현"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "onset",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the beginning of something, especially something unpleasant",
+        "definition_ko": "시작, 발병",
+        "note": "질병·문제의 시작에 자주 사용"
+      }
+    ],
+    "concept": "특히 부정적 사건이 시작되는 지점",
+    "etymology": "on + set",
+    "semanticExtension": "물리적 시작 → 질병·위기의 발현",
+    "nuanceRegister": "격식·의학",
+    "grammarNotes": "onset of + 명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 발병/시작",
+        "example": "onset of symptoms"
+      }
+    ],
+    "requiredComplements": [
+      "onset of + 현상"
+    ],
+    "morphology": "on + set",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "emergence",
+        "meaning_ko": "출현"
+      },
+      {
+        "word": "outbreak",
+        "meaning_ko": "발발"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "beginning",
+        "meaning_ko": "시작"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "outbreak",
+        "meaning_ko": "발발"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "recovery",
+        "meaning_ko": "회복"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "onset of symptoms",
+            "meaning_ko": "증상의 발병"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sudden onset",
+            "meaning_ko": "갑작스러운 발병"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "early onset disease",
+            "meaning_ko": "조기 발병 질환"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The onset of winter was early.",
+            "meaning_ko": "겨울의 시작이 빨랐다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She noticed the onset of pain.",
+            "meaning_ko": "그녀는 통증의 시작을 느꼈다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Early detection can delay the onset of disease.",
+            "meaning_ko": "조기 발견은 질병 발병을 늦출 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "outset(중립적 시작) vs onset(대개 부정적 시작) 구분.",
+    "tags": [
+      "시작",
+      "의학"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Word for '증상의 발병'?",
+            "a": "onset",
+            "meaning_ko": "시작/발병"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "productivity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the rate at which work or goods are produced",
+        "definition_ko": "생산성",
+        "note": "경제·업무 맥락에서 매우 빈번"
+      }
+    ],
+    "concept": "투입 대비 산출의 효율성",
+    "etymology": "productive에서 파생",
+    "semanticExtension": "경제 지표 → 개인 업무 효율로 확장",
+    "nuanceRegister": "중립·전문",
+    "grammarNotes": "불가산으로 자주 사용",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 생산성",
+        "example": "productivity of workers"
+      }
+    ],
+    "requiredComplements": [
+      "increase/boost productivity"
+    ],
+    "morphology": "product + -ivity",
+    "derivatives": [
+      {
+        "word": "productive",
+        "meaning_ko": "생산적인"
+      }
+    ],
+    "related": [
+      {
+        "word": "efficiency",
+        "meaning_ko": "효율성"
+      },
+      {
+        "word": "output",
+        "meaning_ko": "산출량"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "efficiency",
+        "meaning_ko": "효율성"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "output",
+        "meaning_ko": "생산량"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inefficiency",
+        "meaning_ko": "비효율"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "boost productivity",
+            "meaning_ko": "생산성을 높이다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "productivity gains",
+            "meaning_ko": "생산성 향상"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "labor productivity growth",
+            "meaning_ko": "노동 생산성 증가"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Technology improves productivity.",
+            "meaning_ko": "기술은 생산성을 높인다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Flexible hours increased productivity.",
+            "meaning_ko": "유연 근무는 생산성을 높였다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Sustained productivity growth drives economic expansion.",
+            "meaning_ko": "지속적인 생산성 성장은 경제 성장을 이끈다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "efficiency와의 차이: productivity는 산출량 중심.",
+    "tags": [
+      "경제",
+      "업무"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Word meaning '생산성'?",
+            "a": "productivity",
+            "meaning_ko": "효율적 산출"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "synthetic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "made by chemical synthesis, not natural",
+        "definition_ko": "합성의, 인조의",
+        "note": "자연 대비 인공 강조"
+      }
+    ],
+    "concept": "자연물이 아닌 인공적으로 만들어진 성질",
+    "etymology": "그리스어 synthesis(결합)에서 유래",
+    "semanticExtension": "화학 → 인공·가짜의 의미로 확장",
+    "nuanceRegister": "중립·전문",
+    "grammarNotes": "주로 명사 앞에서 사용",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "synthes-(결합) + -tic",
+    "derivatives": [
+      {
+        "word": "synthesize",
+        "meaning_ko": "합성하다"
+      },
+      {
+        "word": "synthesis",
+        "meaning_ko": "합성"
+      }
+    ],
+    "related": [
+      {
+        "word": "artificial",
+        "meaning_ko": "인공의"
+      },
+      {
+        "word": "man-made",
+        "meaning_ko": "인조의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "artificial",
+        "meaning_ko": "인공의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "man-made",
+        "meaning_ko": "인조의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "natural",
+        "meaning_ko": "자연의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "synthetic fiber",
+            "meaning_ko": "합성 섬유"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "synthetic materials",
+            "meaning_ko": "합성 재료"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "synthetic biology",
+            "meaning_ko": "합성 생물학"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "This jacket is synthetic.",
+            "meaning_ko": "이 재킷은 합성 소재다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Synthetic drugs can be dangerous.",
+            "meaning_ko": "합성 약물은 위험할 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Synthetic biology combines engineering with genetics.",
+            "meaning_ko": "합성 생물학은 공학과 유전학을 결합한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "artificial과 유사하지만 과학적 뉘앙스가 강함.",
+    "tags": [
+      "과학",
+      "재료"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of natural?",
+            "a": "synthetic",
+            "meaning_ko": "합성의"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "synthesize",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to combine elements to form a coherent whole",
+        "definition_ko": "합성하다; 종합하다",
+        "note": "과학·학문 모두 사용"
+      }
+    ],
+    "concept": "여러 요소를 결합해 하나의 체계로 만드는 행위",
+    "etymology": "synthesis에서 파생",
+    "semanticExtension": "화학 결합 → 정보·사고의 종합",
+    "nuanceRegister": "격식·학술",
+    "grammarNotes": "타동사",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터 종합하다",
+        "example": "synthesize data from sources"
+      }
+    ],
+    "requiredComplements": [
+      "synthesize A from B"
+    ],
+    "morphology": "synthes-(결합) + -ize",
+    "derivatives": [
+      {
+        "word": "synthesis",
+        "meaning_ko": "종합"
+      },
+      {
+        "word": "synthetic",
+        "meaning_ko": "합성의"
+      }
+    ],
+    "related": [
+      {
+        "word": "combine",
+        "meaning_ko": "결합하다"
+      },
+      {
+        "word": "integrate",
+        "meaning_ko": "통합하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "integrate",
+        "meaning_ko": "통합하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "combine",
+        "meaning_ko": "결합하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "analyze",
+        "meaning_ko": "분석하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "synthesize information",
+            "meaning_ko": "정보를 종합하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "synthesize data",
+            "meaning_ko": "데이터를 종합하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "synthesize research findings",
+            "meaning_ko": "연구 결과를 종합하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Students must synthesize information.",
+            "meaning_ko": "학생들은 정보를 종합해야 한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The brain synthesizes signals.",
+            "meaning_ko": "뇌는 신호를 종합한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The review synthesizes findings from multiple studies.",
+            "meaning_ko": "그 리뷰는 여러 연구의 결과를 종합한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "analyze ↔ synthesize 대비 문제 빈출.",
+    "tags": [
+      "학문",
+      "사고"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of analyze?",
+            "a": "synthesize",
+            "meaning_ko": "종합하다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "synthesis",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the combination of ideas to form a theory or system",
+        "definition_ko": "종합, 합성",
+        "note": "학술·과학 용어"
+      }
+    ],
+    "concept": "여러 요소가 결합되어 하나의 체계가 되는 과정",
+    "etymology": "그리스어 synthesis(결합)",
+    "semanticExtension": "화학 → 논리·철학적 종합으로 확장",
+    "nuanceRegister": "격식·학술",
+    "grammarNotes": "불가산으로 자주 사용",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 종합",
+        "example": "synthesis of ideas"
+      }
+    ],
+    "requiredComplements": [
+      "synthesis of + 요소"
+    ],
+    "morphology": "synthes-(결합)",
+    "derivatives": [
+      {
+        "word": "synthesize",
+        "meaning_ko": "종합하다"
+      },
+      {
+        "word": "synthetic",
+        "meaning_ko": "합성의"
+      }
+    ],
+    "related": [
+      {
+        "word": "integration",
+        "meaning_ko": "통합"
+      },
+      {
+        "word": "analysis",
+        "meaning_ko": "분석"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "integration",
+        "meaning_ko": "통합"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "combination",
+        "meaning_ko": "결합"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "analysis",
+        "meaning_ko": "분석"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "chemical synthesis",
+            "meaning_ko": "화학 합성"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "data synthesis",
+            "meaning_ko": "데이터 종합"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "theoretical synthesis",
+            "meaning_ko": "이론적 종합"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "This drug is made by synthesis.",
+            "meaning_ko": "이 약은 합성으로 만들어졌다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The paper offers a synthesis of ideas.",
+            "meaning_ko": "그 논문은 아이디어의 종합을 제시한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Philosophy seeks synthesis between opposing views.",
+            "meaning_ko": "철학은 대립하는 관점 사이의 종합을 추구한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "analysis와 항상 짝으로 대비 학습하세요.",
+    "tags": [
+      "학술",
+      "과학"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Noun of synthesize?",
+            "a": "synthesis",
+            "meaning_ko": "종합"
+          }
+        ]
+      }
+    ]
+  }
+]

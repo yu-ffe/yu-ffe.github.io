@@ -1,0 +1,575 @@
+[
+  {
+    "word": "liable",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "legally responsible for something; likely to experience something undesirable",
+        "definition_ko": "법적 책임이 있는; ~하기 쉬운",
+        "note": "법률적 의미와 가능성 의미 모두 중요"
+      }
+    ],
+    "concept": "법적·상황적으로 책임이나 위험을 지는 상태",
+    "etymology": "프랑스어 lier(묶다)에서 유래",
+    "semanticExtension": "법적 책임 → 어떤 일이 일어날 가능성으로 확장",
+    "nuanceRegister": "격식·법률",
+    "grammarNotes": "be liable to / be liable for 패턴 중요",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대해 책임 있는",
+        "example": "liable for damages"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~할 가능성이 있는",
+        "example": "liable to fail"
+      }
+    ],
+    "requiredComplements": [
+      "be liable for + 책임",
+      "be liable to + 동사원형"
+    ],
+    "morphology": "li-(묶다)",
+    "derivatives": [
+      {
+        "word": "liability",
+        "meaning_ko": "책임, 채무"
+      }
+    ],
+    "related": [
+      {
+        "word": "responsible",
+        "meaning_ko": "책임 있는"
+      },
+      {
+        "word": "accountable",
+        "meaning_ko": "책임을 져야 하는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "responsible",
+        "meaning_ko": "책임 있는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "prone",
+        "meaning_ko": "~하기 쉬운"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "immune",
+        "meaning_ko": "면책된"
+      },
+      {
+        "word": "exempt",
+        "meaning_ko": "면제된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "be liable for damages",
+            "meaning_ko": "손해에 대해 책임지다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "hold someone liable",
+            "meaning_ko": "책임을 묻다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "legally liable party",
+            "meaning_ko": "법적 책임 당사자"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "You are liable for the cost.",
+            "meaning_ko": "당신은 비용에 대한 책임이 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Drivers are liable to fines if they speed.",
+            "meaning_ko": "과속하면 운전자는 벌금을 물 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The company was held liable for environmental damage.",
+            "meaning_ko": "그 회사는 환경 피해에 대해 책임을 졌다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "for(책임) / to(가능성) 구분이 시험 포인트입니다.",
+    "tags": [
+      "법률",
+      "책임"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in: be liable ___ damages",
+            "a": "for",
+            "meaning_ko": "책임"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "liability",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "legal responsibility; a disadvantage or burden",
+        "definition_ko": "책임, 채무; 부담",
+        "note": "회계·법률에서 매우 빈번"
+      }
+    ],
+    "concept": "법적·재정적으로 부담해야 하는 책임",
+    "etymology": "liable에서 파생",
+    "semanticExtension": "법적 책임 → 조직의 약점 의미로 확장",
+    "nuanceRegister": "격식·전문",
+    "grammarNotes": "가산·불가산 모두 가능",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대한 책임",
+        "example": "liability for debt"
+      }
+    ],
+    "requiredComplements": [
+      "assume liability for + 대상"
+    ],
+    "morphology": "liable + -ity",
+    "derivatives": [
+      {
+        "word": "liable",
+        "meaning_ko": "책임 있는"
+      }
+    ],
+    "related": [
+      {
+        "word": "obligation",
+        "meaning_ko": "의무"
+      },
+      {
+        "word": "debt",
+        "meaning_ko": "부채"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "obligation",
+        "meaning_ko": "의무"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "burden",
+        "meaning_ko": "부담"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "asset",
+        "meaning_ko": "자산"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "legal liability",
+            "meaning_ko": "법적 책임"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "limit liability",
+            "meaning_ko": "책임을 제한하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "liability insurance",
+            "meaning_ko": "책임 보험"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The firm has heavy liabilities.",
+            "meaning_ko": "그 회사는 큰 채무가 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They accepted liability for the accident.",
+            "meaning_ko": "그들은 사고 책임을 인정했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Environmental liability can threaten corporate survival.",
+            "meaning_ko": "환경 책임은 기업 존속을 위협할 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "asset ↔ liability 대비는 회계·독해 단골입니다.",
+    "tags": [
+      "법률",
+      "회계"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of asset?",
+            "a": "liability",
+            "meaning_ko": "부채/책임"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pitfall",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a hidden or unsuspected danger or difficulty",
+        "definition_ko": "함정, 잠재적 위험",
+        "note": "비유적 사용이 대부분"
+      }
+    ],
+    "concept": "겉으로 보이지 않지만 문제를 일으키는 요소",
+    "etymology": "pit(구덩이) + fall",
+    "semanticExtension": "물리적 함정 → 개념·계획의 위험 요소",
+    "nuanceRegister": "중립·문어",
+    "grammarNotes": "가산명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 함정",
+        "example": "pitfalls of the plan"
+      }
+    ],
+    "requiredComplements": [
+      "pitfalls of + 대상"
+    ],
+    "morphology": "pit + fall",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "trap",
+        "meaning_ko": "함정"
+      },
+      {
+        "word": "risk",
+        "meaning_ko": "위험"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "trap",
+        "meaning_ko": "함정"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "hazard",
+        "meaning_ko": "위험 요소"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "advantage",
+        "meaning_ko": "이점"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "common pitfall",
+            "meaning_ko": "흔한 함정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "avoid pitfalls",
+            "meaning_ko": "함정을 피하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "potential pitfalls",
+            "meaning_ko": "잠재적 위험"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "This is a common pitfall.",
+            "meaning_ko": "이것은 흔한 함정이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "We must avoid the pitfalls of quick decisions.",
+            "meaning_ko": "우리는 성급한 결정의 함정을 피해야 한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The report highlights potential pitfalls in the policy.",
+            "meaning_ko": "그 보고서는 정책의 잠재적 위험을 강조한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "hidden danger라는 정의를 바로 떠올리세요.",
+    "tags": [
+      "위험",
+      "계획"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Word meaning '숨은 함정'?",
+            "a": "pitfall",
+            "meaning_ko": "잠재적 위험"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "peril",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "serious and immediate danger",
+        "definition_ko": "위험, 위난",
+        "note": "문어적·격식 표현"
+      }
+    ],
+    "concept": "즉각적이고 심각한 위험 상태",
+    "etymology": "라틴어 periculum(위험)에서 유래",
+    "semanticExtension": "물리적 위험 → 사회·도덕적 위기",
+    "nuanceRegister": "격식·문어",
+    "grammarNotes": "불가산으로 자주 사용",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~의 위험에 처한",
+        "example": "in peril"
+      }
+    ],
+    "requiredComplements": [
+      "in peril"
+    ],
+    "morphology": "peri-(시도하다/위험)",
+    "derivatives": [
+      {
+        "word": "perilous",
+        "meaning_ko": "위험한"
+      }
+    ],
+    "related": [
+      {
+        "word": "danger",
+        "meaning_ko": "위험"
+      },
+      {
+        "word": "risk",
+        "meaning_ko": "위험성"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "danger",
+        "meaning_ko": "위험"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "hazard",
+        "meaning_ko": "위험"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "safety",
+        "meaning_ko": "안전"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "in grave peril",
+            "meaning_ko": "심각한 위험에 처한"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "face peril",
+            "meaning_ko": "위험에 직면하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "peril to humanity",
+            "meaning_ko": "인류에 대한 위협"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The ship was in peril.",
+            "meaning_ko": "그 배는 위험에 처했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They faced peril at sea.",
+            "meaning_ko": "그들은 바다에서 위험에 직면했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Climate change poses a grave peril to future generations.",
+            "meaning_ko": "기후 변화는 미래 세대에 심각한 위협이 된다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "danger보다 문어적·격식 표현입니다.",
+    "tags": [
+      "위험",
+      "문어"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Formal word for danger?",
+            "a": "peril",
+            "meaning_ko": "위험"
+          }
+        ]
+      }
+    ]
+  }
+]

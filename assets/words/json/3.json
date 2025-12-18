@@ -1,0 +1,314 @@
+[
+  {
+    "word": "fluctuation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a change or variation, especially one that is irregular and frequent",
+        "definition_ko": "변동, 등락(특히 불규칙하고 잦은 변화)",
+        "note": "가격·수치·상태 변화에 널리 쓰임"
+      }
+    ],
+    "concept": "일정하지 않고 오르내리는 변화 현상",
+    "etymology": "라틴어 fluctus(물결)에서 파생",
+    "semanticExtension": "물리적 파동 → 경제·심리·상태 변화로 의미 확장",
+    "nuanceRegister": "격식·중립, 뉴스·학술·경제 문맥",
+    "grammarNotes": "보통 가산명사로 쓰이며, of로 대상 표시",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~의 변동",
+        "example": "fluctuation in prices"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 변동량",
+        "example": "fluctuation of demand"
+      }
+    ],
+    "requiredComplements": [
+      "fluctuation in/of + 대상"
+    ],
+    "morphology": "fluct-(물결) + -ation(명사화)",
+    "derivatives": [
+      {
+        "word": "fluctuate",
+        "meaning_ko": "변동하다"
+      },
+      {
+        "word": "fluctuating",
+        "meaning_ko": "변동하는"
+      }
+    ],
+    "related": [
+      {
+        "word": "volatility",
+        "meaning_ko": "변동성"
+      },
+      {
+        "word": "variation",
+        "meaning_ko": "변화"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "variation",
+        "meaning_ko": "변화"
+      },
+      {
+        "word": "swing",
+        "meaning_ko": "등락"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "change",
+        "meaning_ko": "변화"
+      },
+      {
+        "word": "shift",
+        "meaning_ko": "이동/변화"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stability",
+        "meaning_ko": "안정"
+      },
+      {
+        "word": "consistency",
+        "meaning_ko": "일관성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "price fluctuation",
+            "meaning_ko": "가격 변동"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "seasonal fluctuation",
+            "meaning_ko": "계절적 변동"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "currency fluctuation risk",
+            "meaning_ko": "환율 변동 위험"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "There is a fluctuation in prices.",
+            "meaning_ko": "가격 변동이 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The market shows constant fluctuation.",
+            "meaning_ko": "시장은 지속적인 변동을 보인다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Investors are concerned about currency fluctuation risks.",
+            "meaning_ko": "투자자들은 환율 변동 위험을 우려한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "fluctuate(동사)와 짝지어 암기하면 품사 전환 문제가 쉬워집니다.",
+    "tags": [
+      "경제",
+      "수치",
+      "뉴스"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: price ___",
+            "a": "fluctuation",
+            "meaning_ko": "가격 변동"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "phrase",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a small group of words forming a meaningful unit",
+        "definition_ko": "구, 어구; 의미 단위의 짧은 표현",
+        "note": "문법·언어 설명에서 매우 자주 사용"
+      },
+      {
+        "definition_en": "to express something in a particular way",
+        "definition_ko": "어떤 표현으로 말하다/쓰다",
+        "note": "동사로는 ‘표현하다’ 의미"
+      }
+    ],
+    "concept": "단어나 생각을 특정한 방식으로 묶어 표현한 단위",
+    "etymology": "그리스어 phrasis(말하기, 표현)에서 유래",
+    "semanticExtension": "문법 용어 → 일반적 ‘표현 방식’ 의미로 확장",
+    "nuanceRegister": "중립, 학습·일상 모두 사용",
+    "grammarNotes": "명사/동사 모두 가능. verb일 때 how to phrase 패턴 흔함.",
+    "transitivity": "타동사(동사 용법)",
+    "countability": "가산명사(명사 용법)",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~로 표현하다",
+        "example": "phrase in simple terms"
+      }
+    ],
+    "requiredComplements": [
+      "phrase + 목적어 + in + 방식"
+    ],
+    "morphology": "어근 phrase(표현)",
+    "derivatives": [
+      {
+        "word": "phrasing",
+        "meaning_ko": "표현 방식"
+      },
+      {
+        "word": "rephrase",
+        "meaning_ko": "다시 표현하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "expression",
+        "meaning_ko": "표현"
+      },
+      {
+        "word": "clause",
+        "meaning_ko": "절"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "expression",
+        "meaning_ko": "표현"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "wording",
+        "meaning_ko": "말의 선택/표현"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "common phrase",
+            "meaning_ko": "흔한 표현"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "key phrase",
+            "meaning_ko": "핵심 구문"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "phrase carefully",
+            "meaning_ko": "신중하게 표현하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "This is a useful phrase.",
+            "meaning_ko": "이건 유용한 표현이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He phrased the request politely.",
+            "meaning_ko": "그는 요청을 정중하게 표현했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The idea was carefully phrased to avoid misunderstanding.",
+            "meaning_ko": "그 생각은 오해를 피하기 위해 신중하게 표현되었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "문법 문제에서 phrase vs clause 구분이 자주 출제됩니다.",
+    "tags": [
+      "언어",
+      "문법",
+      "일상"
+    ],
+    "frequency": "상",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the correct word: a group of words = ?",
+            "a": "phrase",
+            "meaning_ko": "구, 어구"
+          }
+        ]
+      }
+    ]
+  }
+]

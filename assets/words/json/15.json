@@ -1,0 +1,960 @@
+[
+  {
+    "word": "intrusion",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the act of entering where one is not welcome or invited",
+        "definition_ko": "침입, 간섭",
+        "note": "사생활·영역 침해 맥락"
+      }
+    ],
+    "concept": "허락 없이 영역이나 사안에 끼어드는 행위",
+    "etymology": "라틴어 intrudere(밀어 넣다)에서 파생",
+    "semanticExtension": "물리적 침입 → 사적·정신적 침해",
+    "nuanceRegister": "격식·문어",
+    "grammarNotes": "intrusion into/on 패턴",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~에 대한 침입",
+        "example": "intrusion into privacy"
+      }
+    ],
+    "requiredComplements": [
+      "intrusion into/on + 대상"
+    ],
+    "morphology": "in + trude + -sion",
+    "derivatives": [
+      {
+        "word": "intrude",
+        "meaning_ko": "침입하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "invasion",
+        "meaning_ko": "침략"
+      },
+      {
+        "word": "interference",
+        "meaning_ko": "간섭"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "interference",
+        "meaning_ko": "간섭"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "encroachment",
+        "meaning_ko": "잠식"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "privacy",
+        "meaning_ko": "사생활"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "privacy intrusion",
+            "meaning_ko": "사생활 침해"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "unwanted intrusion",
+            "meaning_ko": "원치 않는 간섭"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "intrusion detection system",
+            "meaning_ko": "침입 탐지 시스템"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Sorry for the intrusion.",
+            "meaning_ko": "방해해서 죄송합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They complained about intrusion into their lives.",
+            "meaning_ko": "그들은 삶에 대한 간섭을 불평했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The law limits intrusion into personal privacy.",
+            "meaning_ko": "법은 개인 사생활 침해를 제한한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "intrude(동사)와 세트로 학습.",
+    "tags": [
+      "사생활",
+      "침해"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Noun of intrude?",
+            "a": "intrusion",
+            "meaning_ko": "침입"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "penetrate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to pass into or through something",
+        "definition_ko": "관통하다; 침투하다",
+        "note": "물리적·비유적 모두 사용"
+      }
+    ],
+    "concept": "장벽이나 표면을 뚫고 안으로 들어감",
+    "etymology": "라틴어 penetrare(들어가다)",
+    "semanticExtension": "물리적 관통 → 시장·사고의 침투",
+    "nuanceRegister": "격식·전문",
+    "grammarNotes": "타동사",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~로 침투하다",
+        "example": "penetrate into the market"
+      }
+    ],
+    "requiredComplements": [
+      "penetrate into + 영역"
+    ],
+    "morphology": "penetra-(들어가다)",
+    "derivatives": [
+      {
+        "word": "penetration",
+        "meaning_ko": "침투"
+      },
+      {
+        "word": "penetrable",
+        "meaning_ko": "관통 가능한"
+      }
+    ],
+    "related": [
+      {
+        "word": "pierce",
+        "meaning_ko": "찌르다"
+      },
+      {
+        "word": "invade",
+        "meaning_ko": "침투하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "pierce",
+        "meaning_ko": "관통하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "enter",
+        "meaning_ko": "들어가다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "block",
+        "meaning_ko": "막다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "penetrate skin",
+            "meaning_ko": "피부를 관통하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "market penetration",
+            "meaning_ko": "시장 침투"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "penetrate deeply",
+            "meaning_ko": "깊이 침투하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The bullet penetrated the wall.",
+            "meaning_ko": "총알이 벽을 관통했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company penetrated new markets.",
+            "meaning_ko": "그 회사는 새로운 시장에 진입했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Light can penetrate thin fabric.",
+            "meaning_ko": "빛은 얇은 천을 통과할 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "market penetration은 고정 표현.",
+    "tags": [
+      "관통",
+      "침투"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '관통하다'?",
+            "a": "penetrate",
+            "meaning_ko": "뚫고 들어가다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pierce",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to make a hole through something with a sharp object",
+        "definition_ko": "꿰뚫다, 찌르다",
+        "note": "날카로운 도구 강조"
+      }
+    ],
+    "concept": "날카로운 것으로 구멍을 내다",
+    "etymology": "고대 프랑스어 percer에서 유래",
+    "semanticExtension": "물리적 찌름 → 시선·소리의 강렬함",
+    "nuanceRegister": "중립",
+    "grammarNotes": "타동사",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "pierce + 대상"
+    ],
+    "morphology": "pierce(뚫다)",
+    "derivatives": [
+      {
+        "word": "piercing",
+        "meaning_ko": "날카로운"
+      }
+    ],
+    "related": [
+      {
+        "word": "stab",
+        "meaning_ko": "찌르다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "stab",
+        "meaning_ko": "찌르다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "penetrate",
+        "meaning_ko": "관통하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "heal",
+        "meaning_ko": "치유하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pierce the skin",
+            "meaning_ko": "피부를 찌르다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "piercing sound",
+            "meaning_ko": "날카로운 소리"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "pierce the silence",
+            "meaning_ko": "침묵을 가르다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The needle pierced his skin.",
+            "meaning_ko": "바늘이 그의 피부를 찔렀다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "A scream pierced the night.",
+            "meaning_ko": "비명이 밤의 적막을 갈랐다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Her gaze pierced his confidence.",
+            "meaning_ko": "그녀의 시선은 그의 자신감을 꿰뚫었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "penetrate보다 물리적·날카로운 느낌이 강함.",
+    "tags": [
+      "도구",
+      "소리"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '찌르다'?",
+            "a": "pierce",
+            "meaning_ko": "꿰뚫다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "penetration",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the act or process of penetrating",
+        "definition_ko": "관통, 침투",
+        "note": "물리·시장·군사 맥락"
+      }
+    ],
+    "concept": "어떤 경계 안으로 들어가는 과정",
+    "etymology": "penetrate에서 파생",
+    "semanticExtension": "물리적 → 시장·영향력 확장",
+    "nuanceRegister": "격식·전문",
+    "grammarNotes": "불가산으로 자주 사용",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 침투",
+        "example": "penetration of ideas"
+      }
+    ],
+    "requiredComplements": [
+      "penetration of + 영역"
+    ],
+    "morphology": "penetrate + -ion",
+    "derivatives": [
+      {
+        "word": "penetrate",
+        "meaning_ko": "관통하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "infiltration",
+        "meaning_ko": "침투"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "infiltration",
+        "meaning_ko": "침투"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "entry",
+        "meaning_ko": "진입"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "resistance",
+        "meaning_ko": "저항"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "market penetration",
+            "meaning_ko": "시장 침투율"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "deep penetration",
+            "meaning_ko": "깊은 침투"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "penetration strategy",
+            "meaning_ko": "침투 전략"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The armor prevents penetration.",
+            "meaning_ko": "그 갑옷은 관통을 막는다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company increased market penetration.",
+            "meaning_ko": "회사는 시장 침투율을 높였다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Cultural penetration occurs through media.",
+            "meaning_ko": "문화적 침투는 미디어를 통해 일어난다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "penetrate(동사) ↔ penetration(명사) 형태 전환.",
+    "tags": [
+      "침투",
+      "시장"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Noun of penetrate?",
+            "a": "penetration",
+            "meaning_ko": "침투"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "penetrable",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "able to be penetrated or entered",
+        "definition_ko": "관통 가능한",
+        "note": "부정형 impenetrable도 중요"
+      }
+    ],
+    "concept": "뚫리거나 들어갈 수 있는 성질",
+    "etymology": "penetrate + -able",
+    "semanticExtension": "물리적 → 방어·보안 취약성",
+    "nuanceRegister": "격식",
+    "grammarNotes": "주로 명사 앞 수식",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "penetrate + able",
+    "derivatives": [
+      {
+        "word": "impenetrable",
+        "meaning_ko": "뚫을 수 없는"
+      }
+    ],
+    "related": [
+      {
+        "word": "vulnerable",
+        "meaning_ko": "취약한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "permeable",
+        "meaning_ko": "투과성 있는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "vulnerable",
+        "meaning_ko": "취약한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "impenetrable",
+        "meaning_ko": "뚫을 수 없는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "penetrable material",
+            "meaning_ko": "관통 가능한 재료"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "easily penetrable",
+            "meaning_ko": "쉽게 관통되는"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "penetrable defense",
+            "meaning_ko": "뚫을 수 있는 방어"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The wall is penetrable.",
+            "meaning_ko": "그 벽은 관통 가능하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The system proved penetrable.",
+            "meaning_ko": "그 시스템은 취약했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "No defense is entirely penetrable-free.",
+            "meaning_ko": "완전히 뚫리지 않는 방어는 없다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "im- 접두사로 반의어 만들기.",
+    "tags": [
+      "보안",
+      "물성"
+    ],
+    "frequency": "하",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of impenetrable?",
+            "a": "penetrable",
+            "meaning_ko": "관통 가능한"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "feat",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "an achievement requiring great skill or courage",
+        "definition_ko": "위업, 공적",
+        "note": "대단한 성취 강조"
+      }
+    ],
+    "concept": "노력과 능력이 요구되는 뛰어난 성과",
+    "etymology": "라틴어 factum(행위)에서 유래",
+    "semanticExtension": "행위 → 성취·업적",
+    "nuanceRegister": "문어·격식",
+    "grammarNotes": "가산명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 위업",
+        "example": "feat of strength"
+      }
+    ],
+    "requiredComplements": [
+      "feat of + 능력/행위"
+    ],
+    "morphology": "feat(행위)",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "achievement",
+        "meaning_ko": "성취"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "achievement",
+        "meaning_ko": "업적"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "accomplishment",
+        "meaning_ko": "성과"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "failure",
+        "meaning_ko": "실패"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "remarkable feat",
+            "meaning_ko": "주목할 만한 위업"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "engineering feat",
+            "meaning_ko": "공학적 위업"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "feat of endurance",
+            "meaning_ko": "인내의 위업"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Climbing the mountain was a feat.",
+            "meaning_ko": "그 산을 오른 것은 위업이었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The bridge is an engineering feat.",
+            "meaning_ko": "그 다리는 공학적 위업이다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Completing the project on time was no small feat.",
+            "meaning_ko": "기한 내 프로젝트 완수는 결코 쉬운 일이 아니었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "no small feat 고정 표현 암기.",
+    "tags": [
+      "성취",
+      "업적"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Phrase: no small ___",
+            "a": "feat",
+            "meaning_ko": "결코 쉬운 일이 아님"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "exploit",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to make full use of; a bold or daring act",
+        "definition_ko": "이용하다; 위업",
+        "note": "부정적/중립적 의미 모두 존재"
+      }
+    ],
+    "concept": "기회·자원을 활용하거나 과감한 행동",
+    "etymology": "라틴어 explicare(펼치다)에서 유래",
+    "semanticExtension": "활용 → 부당한 착취 의미로 확장",
+    "nuanceRegister": "중립·문어",
+    "grammarNotes": "타동사(동사 용법)",
+    "transitivity": "타동사",
+    "countability": "가산명사(명사 용법)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "exploit + 자원/기회"
+    ],
+    "morphology": "exploit(활용하다)",
+    "derivatives": [
+      {
+        "word": "exploitation",
+        "meaning_ko": "착취, 활용"
+      }
+    ],
+    "related": [
+      {
+        "word": "use",
+        "meaning_ko": "사용하다"
+      },
+      {
+        "word": "abuse",
+        "meaning_ko": "남용하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "utilize",
+        "meaning_ko": "활용하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "leverage",
+        "meaning_ko": "지렛대처럼 활용하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "waste",
+        "meaning_ko": "낭비하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "exploit resources",
+            "meaning_ko": "자원을 활용하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "exploit opportunities",
+            "meaning_ko": "기회를 활용하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "exploit vulnerabilities",
+            "meaning_ko": "취약점을 악용하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They exploited natural resources.",
+            "meaning_ko": "그들은 천연자원을 활용했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company exploited the situation.",
+            "meaning_ko": "회사는 상황을 이용했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Hackers exploited a security flaw.",
+            "meaning_ko": "해커들은 보안 결함을 악용했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "긍정적 활용 vs 부정적 착취 문맥 구분.",
+    "tags": [
+      "활용",
+      "착취"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '기회를 이용하다'?",
+            "a": "exploit",
+            "meaning_ko": "활용하다"
+          }
+        ]
+      }
+    ]
+  }
+]
