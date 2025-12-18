@@ -6,6 +6,8 @@ const POSITION_COOKIE = 'lexiconLabPosition';
 // TODO: Remove MOBILE_PREVIEW once desktop view is restored.
 const MOBILE_PREVIEW = true;
 
+const wordSources = import.meta.glob('../public/assets/words/json/*.json', { eager: true });
+
 const defaultSettings = {
   showConcept: true,
   meaningLimit: 3,
@@ -22,44 +24,6 @@ const defaultSettings = {
   quizItemLimit: 3,
 };
 
-const WORDS_JSON_BASE = '/assets/words/json';
-const WORD_FILE_LIMIT = 500;
-const WORD_MISS_THRESHOLD = 5;
-
-async function fetchWordJsonEntries() {
-  const aggregated = [];
-  let consecutiveMisses = 0;
-
-  for (let index = 1; index <= WORD_FILE_LIMIT && consecutiveMisses < WORD_MISS_THRESHOLD; index += 1) {
-    const url = `${WORDS_JSON_BASE}/${index}.json`;
-    try {
-      const res = await fetch(url, { cache: 'no-cache' });
-
-      if (res.ok) {
-        const data = await res.json();
-        if (Array.isArray(data)) {
-          aggregated.push(...data);
-        }
-        consecutiveMisses = 0;
-      } else if (res.status === 404) {
-        consecutiveMisses += 1;
-      } else {
-        throw new Error(`단어장 파일(${index}.json)을 불러오지 못했습니다.`);
-      }
-    } catch (err) {
-      throw new Error(err.message || '단어장 데이터를 불러오는 중 문제가 발생했습니다.');
-    }
-  }
-
-  return aggregated;
-}
-
-async function fetchLegacyLexiconEntries() {
-  const res = await fetch('/assets/lexicon/lexicon.json', { cache: 'no-cache' });
-  if (!res.ok) throw new Error('단어장 데이터를 불러올 수 없습니다.');
-  return res.json();
-}
-
 function readCookie(name) {
   if (typeof document === 'undefined') return '';
   const value = document.cookie
@@ -73,6 +37,19 @@ function writeCookie(name, value, days = 90) {
   if (typeof document === 'undefined') return;
   const expires = new Date(Date.now() + days * 24 * 60 * 60 * 1000).toUTCString();
   document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
+}
+
+function loadWordEntries() {
+  const modules = Object.entries(wordSources).sort(([a], [b]) =>
+    a.localeCompare(b, undefined, { numeric: true })
+  );
+
+  return modules.flatMap(([, mod]) => {
+    const payload = mod?.default ?? mod;
+    if (Array.isArray(payload)) return payload;
+    if (payload && Array.isArray(payload.words)) return payload.words;
+    return [];
+  });
 }
 
 function SettingToggle({ label, checked, onChange, description }) {
@@ -696,14 +673,17 @@ export default function LexiconLab() {
       setLoading(true);
       setError('');
       try {
-        const wordEntries = await fetchWordJsonEntries();
-        if (wordEntries.length) {
-          setEntries(wordEntries);
+        const combinedEntries = loadWordEntries();
+
+        if (combinedEntries.length) {
+          setEntries(combinedEntries);
           return;
         }
 
-        const legacyEntries = await fetchLegacyLexiconEntries();
-        setEntries(legacyEntries);
+        const res = await fetch('/assets/lexicon/lexicon.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error('단어장 데이터를 불러올 수 없습니다.');
+        const data = await res.json();
+        setEntries(data);
       } catch (err) {
         setError(err.message || '데이터를 불러오지 못했습니다.');
         setEntries([]);
