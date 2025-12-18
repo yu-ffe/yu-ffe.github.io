@@ -1,56 +1,38 @@
 <!doctype html>
 <html lang="ko">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Calendar Widget</title>
-  <link rel="stylesheet" href="./styles.css" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>트릭컬 리바이브 캘린더 + 이미지 갤러리</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <div class="cw" id="cw">
-    <header class="cw__header">
-      <div class="cw__left">
-        <button class="cw__btn" id="prevBtn" aria-label="Previous month">‹</button>
-        <button class="cw__btn" id="todayBtn">오늘</button>
-        <button class="cw__btn" id="nextBtn" aria-label="Next month">›</button>
-      </div>
+  <header class="header">
+    <h1>트릭컬 리바이브</h1>
+    <p>EPIDGames 모바일 RPG • 이미지 &amp; 캘린더</p>
+  </header>
 
-      <div class="cw__title">
-        <div class="cw__month" id="monthLabel">-</div>
-        <div class="cw__subtitle" id="subtitleLabel">-</div>
-      </div>
+  <section class="gallery">
+    <h2>이미지 갤러리</h2>
+    <div class="images">
+      <a href="https://play.google.com/store/apps/details?hl=ko&id=com.epidgames.trickcalrevive" target="_blank">
+        <img src="https://play-lh.googleusercontent.com/your-first-screenshot" alt="트릭컬 리바이브 스크린샷">
+      </a>
+      <a href="https://x.com/Trickcal_Re" target="_blank">
+        <img src="https://pbs.twimg.com/media/your-second-image.jpg" alt="트릭컬 공식 이미지">
+      </a>
+      <a href="https://www.youtube.com/watch?v=MO7XwJ7aJAc" target="_blank">
+        <img src="https://img.youtube.com/vi/MO7XwJ7aJAc/0.jpg" alt="공식 트레일러 썸네일">
+      </a>
+    </div>
+  </section>
 
-      <div class="cw__right">
-        <button class="cw__btn cw__btn--ghost" id="refreshBtn">새로고침</button>
-      </div>
-    </header>
+  <section class="calendar" id="calendar"></section>
 
-    <section class="cw__grid" aria-label="Calendar">
-      <div class="cw__dow">
-        <div>일</div><div>월</div><div>화</div><div>수</div><div>목</div><div>금</div><div>토</div>
-      </div>
-      <div class="cw__days" id="daysGrid"></div>
-    </section>
+  <footer class="footer">
+    <p>이미지 출처: 구글 플레이, 공식 트위터, 유튜브</p>
+  </footer>
 
-    <aside class="cw__panel" aria-label="Day details">
-      <div class="cw__panelHeader">
-        <div class="cw__panelTitle" id="panelDateLabel">날짜 선택</div>
-        <div class="cw__panelMeta" id="panelMetaLabel"></div>
-      </div>
-
-      <div class="cw__events" id="eventsList">
-        <div class="cw__empty">날짜를 클릭하면 일정이 표시됩니다.</div>
-      </div>
-    </aside>
-
-    <footer class="cw__footer">
-      <div class="cw__hint" id="hintLabel"></div>
-      <div class="cw__small">
-        설정: <code>?api=</code> <code>&token=</code> <code>&month=YYYY-MM</code> <code>&theme=dark</code>
-      </div>
-    </footer>
-  </div>
-
-  <script src="./app.js"></script>
+  <script src="script.js"></script>
 </body>
 </html>

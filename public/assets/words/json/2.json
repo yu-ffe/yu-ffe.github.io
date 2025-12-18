@@ -1,0 +1,1111 @@
+[
+  {
+    "word": "cumulate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to gather or increase by adding amounts over time",
+        "definition_ko": "시간이 지나며 조금씩 더해져 누적되다; 누적시키다",
+        "note": "수동적으로 '쌓이다'(자동사)와 능동적으로 '쌓다'(타동사) 둘 다 가능"
+      }
+    ],
+    "concept": "작은 단위들이 계속 더해져 총량이 커지는 과정",
+    "etymology": "라틴어 cumulus(더미, 무더기)에서 파생; ‘쌓이다/쌓다’의 의미로 발전",
+    "semanticExtension": "돈·점수·경험 같은 ‘수량’뿐 아니라 압박감·피로 같은 ‘효과’도 누적되는 의미로 확장",
+    "nuanceRegister": "격식·문어/학술에서 자주 사용(특히 데이터·통계·보고서 문맥)",
+    "grammarNotes": "자동사·타동사 모두 가능. 수동태도 자주 씀(예: Costs are cumulated...).",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "over",
+        "meaning_ko": "~에 걸쳐 누적되다/누적시키다",
+        "example": "cumulate over time"
+      }
+    ],
+    "requiredComplements": [
+      "cumulate + noun (누적되는 대상)",
+      "cumulate over + 기간/시간 (시간 경과 강조)"
+    ],
+    "morphology": "cumul-(무더기, 쌓다) + -ate(동사화 접미)",
+    "derivatives": [
+      {
+        "word": "cumulative",
+        "meaning_ko": "누적되는"
+      },
+      {
+        "word": "cumulation",
+        "meaning_ko": "누적"
+      },
+      {
+        "word": "cumulatively",
+        "meaning_ko": "누적적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "accumulate",
+        "meaning_ko": "축적하다/쌓이다"
+      },
+      {
+        "word": "aggregate",
+        "meaning_ko": "합산하다/총합"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "accumulate",
+        "meaning_ko": "누적되다/누적시키다"
+      },
+      {
+        "word": "amass",
+        "meaning_ko": "모으다(큰 규모로)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "build up",
+        "meaning_ko": "서서히 쌓이다"
+      },
+      {
+        "word": "mount",
+        "meaning_ko": "증가하다(문어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "diminish",
+        "meaning_ko": "감소하다"
+      },
+      {
+        "word": "decrease",
+        "meaning_ko": "줄다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "cumulate costs",
+            "meaning_ko": "비용이 누적되다/누적시키다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "cumulate over time",
+            "meaning_ko": "시간이 지나며 누적되다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "cumulate evidence",
+            "meaning_ko": "증거를 누적·축적하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Small savings can cumulate quickly.",
+            "meaning_ko": "작은 저축도 금방 누적될 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The delays cumulated over several weeks.",
+            "meaning_ko": "지연이 몇 주에 걸쳐 누적되었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Minor errors, if left unchecked, can cumulate into a major failure.",
+            "meaning_ko": "사소한 오류도 방치하면 누적되어 큰 실패로 이어질 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "cumulate는 accumulate보다 문어·보고서 톤이 강한 편입니다. cumulative(누적의)와 함께 묶어 외우면 파생 연결이 쉬워집니다.",
+    "tags": [
+      "학술",
+      "데이터/통계",
+      "일반"
+    ],
+    "frequency": "하",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Small savings can ___ quickly.",
+            "a": "cumulate",
+            "meaning_ko": "‘누적되다’ 의미의 동사 선택"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the closest meaning of 'cumulate': (A) scatter (B) gather over time (C) vanish (D) refuse",
+            "a": "B",
+            "meaning_ko": "시간에 따라 모여 증가하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'cumulate': Minor issues built up into a crisis.",
+            "a": "Minor issues cumulated into a crisis.",
+            "meaning_ko": "build up → cumulate(문어)로 전환"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cumulation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the process of gathering or increasing by successive additions",
+        "definition_ko": "누적(되는 과정); 축적",
+        "note": "과정/현상 자체를 말할 때 쓰는 문어적 명사"
+      }
+    ],
+    "concept": "작은 변화나 양이 계속 더해져 총량·영향이 커지는 현상",
+    "etymology": "라틴어 cumulus(무더기) 계열에서 파생; cumulate의 명사형으로 자리잡음",
+    "semanticExtension": "수량뿐 아니라 위험, 문제, 영향 같은 추상적 요소의 ‘누적’에도 사용",
+    "nuanceRegister": "격식·문어/학술(보고서, 논문)에서 비교적 자주 보임",
+    "grammarNotes": "대개 단수로 ‘누적 현상’을 통칭. of로 대상 표시가 흔함(cumulation of).",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두(문맥에 따라)",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 누적",
+        "example": "the cumulation of evidence"
+      }
+    ],
+    "requiredComplements": [
+      "cumulation of + noun (누적되는 대상)"
+    ],
+    "morphology": "cumul-(쌓다) + -ation(명사화 접미)",
+    "derivatives": [
+      {
+        "word": "cumulate",
+        "meaning_ko": "누적되다/누적시키다"
+      },
+      {
+        "word": "cumulative",
+        "meaning_ko": "누적되는"
+      },
+      {
+        "word": "cumulatively",
+        "meaning_ko": "누적적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "accumulation",
+        "meaning_ko": "축적, 누적"
+      },
+      {
+        "word": "aggregation",
+        "meaning_ko": "집계, 합산"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "accumulation",
+        "meaning_ko": "축적"
+      },
+      {
+        "word": "buildup",
+        "meaning_ko": "축적(구어)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "increase",
+        "meaning_ko": "증가(일반)"
+      },
+      {
+        "word": "growth",
+        "meaning_ko": "성장/증가"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reduction",
+        "meaning_ko": "감소"
+      },
+      {
+        "word": "depletion",
+        "meaning_ko": "고갈"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "cumulation of stress",
+            "meaning_ko": "스트레스의 누적"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "cumulation of errors",
+            "meaning_ko": "오류의 누적"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "cumulation of evidence",
+            "meaning_ko": "증거의 누적"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The cumulation of small costs surprised us.",
+            "meaning_ko": "작은 비용들의 누적이 우리를 놀라게 했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The project failed due to the cumulation of delays.",
+            "meaning_ko": "그 프로젝트는 지연의 누적으로 실패했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Policy decisions should account for the cumulation of long-term risks.",
+            "meaning_ko": "정책 결정은 장기 위험의 누적을 고려해야 한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "accumulation이 더 흔하고 일반적이며, cumulation은 조금 더 ‘보고서 톤’입니다. of 패턴(cumulation of ~)을 통째로 외우면 안전합니다.",
+    "tags": [
+      "학술",
+      "보고서",
+      "추상 개념"
+    ],
+    "frequency": "하",
+    "difficulty": "8",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: the ___ of small costs",
+            "a": "cumulation",
+            "meaning_ko": "‘누적’의 명사형"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which preposition commonly follows 'cumulation' to show what is being accumulated? (A) of (B) at (C) by (D) into",
+            "a": "A",
+            "meaning_ko": "cumulation of ~가 표준적"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best paraphrase: 'cumulation of evidence' means evidence that is (A) scattered (B) gradually added up (C) ignored (D) invented",
+            "a": "B",
+            "meaning_ko": "점진적으로 더해져 쌓인 증거"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "infrastructure",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the basic systems and services needed for a country or organization to function properly",
+        "definition_ko": "사회·조직이 제대로 작동하기 위해 필요한 기반 시설(도로, 전력, 통신 등)",
+        "note": "물리적 시설뿐 아니라 IT/조직 운영 기반까지 폭넓게 사용"
+      }
+    ],
+    "concept": "사람·조직이 활동할 수 있게 받쳐주는 ‘기반 시스템’의 총체",
+    "etymology": "infra-(아래) + structure(구조)에서 형성; ‘아래에서 지탱하는 구조’ 의미",
+    "semanticExtension": "전통적 토목·공공시설 → 디지털/클라우드/플랫폼 ‘IT 인프라’로 강하게 확장됨",
+    "nuanceRegister": "격식·공식·정책/비즈니스 문맥에서 매우 흔함",
+    "grammarNotes": "대개 불가산으로 쓰이지만, 분야가 다르면 infrastructures(복수)도 가능. IT에서는 infrastructure as code 같은 고정 표현 있음.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두(일반적으로는 불가산)",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~를 위한 인프라",
+        "example": "infrastructure for public transport"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 인프라/기반 체계",
+        "example": "the infrastructure of a city"
+      }
+    ],
+    "requiredComplements": [
+      "infrastructure for + 목적/분야",
+      "infrastructure of + 지역/조직"
+    ],
+    "morphology": "infra-(아래) + structure(구조)",
+    "derivatives": [
+      {
+        "word": "infrastructural",
+        "meaning_ko": "인프라의, 기반 시설의"
+      },
+      {
+        "word": "infrastructure-heavy",
+        "meaning_ko": "인프라 의존도가 큰(복합 형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "utility",
+        "meaning_ko": "공공시설(전기·수도 등)"
+      },
+      {
+        "word": "network",
+        "meaning_ko": "망/네트워크"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "facilities",
+        "meaning_ko": "시설(일반)"
+      },
+      {
+        "word": "framework",
+        "meaning_ko": "틀/기반(추상)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "foundation",
+        "meaning_ko": "기초, 기반"
+      },
+      {
+        "word": "support system",
+        "meaning_ko": "지원 체계"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "superstructure",
+        "meaning_ko": "상부 구조(대조 개념)"
+      },
+      {
+        "word": "breakdown",
+        "meaning_ko": "붕괴, 마비"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "public infrastructure",
+            "meaning_ko": "공공 인프라"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "critical infrastructure",
+            "meaning_ko": "핵심 기반시설"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "upgrade digital infrastructure",
+            "meaning_ko": "디지털 인프라를 고도화하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The city needs better infrastructure.",
+            "meaning_ko": "그 도시는 더 나은 인프라가 필요하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Power outages exposed weaknesses in the infrastructure.",
+            "meaning_ko": "정전은 인프라의 취약점을 드러냈다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Investment in digital infrastructure can raise productivity across industries.",
+            "meaning_ko": "디지털 인프라 투자는 산업 전반의 생산성을 높일 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "infra-는 ‘아래/밑’의 의미라서 ‘아래에서 지탱하는 구조’로 연결하면 기억이 쉽습니다. IT 문맥에서는 ‘서버/네트워크/배포 체계’까지 포함해 넓게 쓰입니다.",
+    "tags": [
+      "사회",
+      "정책",
+      "it",
+      "경제"
+    ],
+    "frequency": "상",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Roads and power lines are part of a country's ___.",
+            "a": "infrastructure",
+            "meaning_ko": "기반 시설"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which phrase best matches '핵심 기반시설'? (A) critical infrastructure (B) casual infrastructure (C) minor infrastructure (D) thin infrastructure",
+            "a": "A",
+            "meaning_ko": "critical = 핵심/중요"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best meaning: 'digital infrastructure' refers to systems like (A) rivers (B) servers and networks (C) mountains (D) paintings",
+            "a": "B",
+            "meaning_ko": "디지털 기반 체계"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "discrete",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "separate and distinct from one another",
+        "definition_ko": "서로 분리된, 별개의",
+        "note": "continuous(연속적인)와 대비되는 ‘불연속/구분되는’ 의미가 핵심"
+      }
+    ],
+    "concept": "연속적으로 이어지지 않고 구분 가능한 단위로 나뉘어 있는 상태",
+    "etymology": "라틴어 discretus(구별된, 분리된)에서 유래",
+    "semanticExtension": "수학·통계의 ‘이산(discrete) 변수’처럼 전문 의미로 확장되며, 일반 문맥에서도 ‘서로 다른 항목’ 강조에 사용",
+    "nuanceRegister": "중립~격식, 학술(수학/통계/컴퓨터)에서 매우 흔함",
+    "grammarNotes": "discreet(신중한, 눈에 띄지 않는)과 철자·발음이 비슷해 혼동 주의.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~와 분리된/구별되는",
+        "example": "discrete from the main system"
+      }
+    ],
+    "requiredComplements": [
+      "discrete from + 명사(구별 대상)"
+    ],
+    "morphology": "discret-(구별된) + -e(형용사형)",
+    "derivatives": [
+      {
+        "word": "discretely",
+        "meaning_ko": "분리되어; 별개로"
+      },
+      {
+        "word": "discreteness",
+        "meaning_ko": "분리성, 이산성"
+      }
+    ],
+    "related": [
+      {
+        "word": "distinct",
+        "meaning_ko": "뚜렷이 다른"
+      },
+      {
+        "word": "separate",
+        "meaning_ko": "분리된"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "distinct",
+        "meaning_ko": "구별되는"
+      },
+      {
+        "word": "separate",
+        "meaning_ko": "분리된"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "individual",
+        "meaning_ko": "개별의"
+      },
+      {
+        "word": "independent",
+        "meaning_ko": "독립적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "continuous",
+        "meaning_ko": "연속적인"
+      },
+      {
+        "word": "connected",
+        "meaning_ko": "연결된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "discrete units",
+            "meaning_ko": "분리된 단위"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "discrete categories",
+            "meaning_ko": "구분되는 범주"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "discrete probability distribution",
+            "meaning_ko": "이산 확률분포"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The data falls into discrete groups.",
+            "meaning_ko": "그 데이터는 분리된 집단으로 나뉜다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "We tested discrete components of the system.",
+            "meaning_ko": "우리는 시스템의 개별 구성요소를 테스트했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The model treats outcomes as discrete events rather than a continuous process.",
+            "meaning_ko": "그 모델은 결과를 연속 과정이 아니라 이산 사건으로 취급한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "discrete(분리된) vs discreet(신중한)을 반드시 구분하세요. 통계에서 discrete variable(이산 변수)로 자주 출제됩니다.",
+    "tags": [
+      "학술",
+      "통계/수학",
+      "일반 형용사"
+    ],
+    "frequency": "중",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The data falls into ___ groups.",
+            "a": "discrete",
+            "meaning_ko": "분리된/별개의"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which word means '연속적인' and is the opposite of discrete? (A) continuous (B) cautious (C) silent (D) narrow",
+            "a": "A",
+            "meaning_ko": "continuous가 반의"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the correct pair: (A) discrete=separate, discreet=cautious (B) discrete=cautious, discreet=separate",
+            "a": "A",
+            "meaning_ko": "철자 차이로 의미가 갈림"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "indiscretion",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a remark or action that is unwise or reveals something that should have been kept secret",
+        "definition_ko": "경솔한 말/행동; (비밀을) 함부로 드러내는 실수",
+        "note": "‘판단 부족으로 인한 실언/실수’ 뉘앙스가 강함"
+      }
+    ],
+    "concept": "신중하지 못해 발생하는 말·행동상의 실수",
+    "etymology": "in-(부정) + discretion(신중함, 분별)에서 파생",
+    "semanticExtension": "사소한 실언부터 커리어·정치적 스캔들로 번지는 ‘부주의한 폭로’까지 폭넓게 사용",
+    "nuanceRegister": "격식·문어/뉴스·전기(전기문)에서 자주 사용",
+    "grammarNotes": "an indiscretion처럼 가산으로 흔함. ‘one's indiscretion’(누구의 경솔함) 패턴도 자주 쓰임.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 경솔한 행동/실언",
+        "example": "an indiscretion of youth"
+      }
+    ],
+    "requiredComplements": [
+      "an indiscretion (구체적 실수 하나)",
+      "indiscretion of + 명사(원인/상황)"
+    ],
+    "morphology": "in-(아니다) + discretion(신중함)",
+    "derivatives": [
+      {
+        "word": "discretion",
+        "meaning_ko": "신중함, 분별"
+      },
+      {
+        "word": "indiscreet",
+        "meaning_ko": "경솔한"
+      },
+      {
+        "word": "discreet",
+        "meaning_ko": "신중한; 눈에 띄지 않는"
+      }
+    ],
+    "related": [
+      {
+        "word": "gaffe",
+        "meaning_ko": "실언(공개적)"
+      },
+      {
+        "word": "blunder",
+        "meaning_ko": "큰 실수"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "gaffe",
+        "meaning_ko": "실언"
+      },
+      {
+        "word": "blunder",
+        "meaning_ko": "실수"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "mistake",
+        "meaning_ko": "실수(일반)"
+      },
+      {
+        "word": "slip",
+        "meaning_ko": "실수(가벼운)"
+      },
+      {
+        "word": "misstep",
+        "meaning_ko": "실책"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "discretion",
+        "meaning_ko": "신중함"
+      },
+      {
+        "word": "prudence",
+        "meaning_ko": "신중, 사려"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a minor indiscretion",
+            "meaning_ko": "사소한 경솔함/실수"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a political indiscretion",
+            "meaning_ko": "정치적 실언/실책"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "pay for an indiscretion",
+            "meaning_ko": "경솔한 행동의 대가를 치르다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It was a minor indiscretion.",
+            "meaning_ko": "그건 사소한 경솔함(실수)이었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "His indiscretion cost him his job.",
+            "meaning_ko": "그의 경솔함이 직장을 잃게 했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A single indiscretion can undermine years of carefully built trust.",
+            "meaning_ko": "단 한 번의 경솔함이 수년간 쌓아온 신뢰를 무너뜨릴 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "discretion(신중함)의 반대가 indiscretion(경솔함)입니다. ‘실언/폭로’ 뉘앙스를 떠올리면 gaffe와 구분이 쉬워집니다.",
+    "tags": [
+      "사회",
+      "뉴스",
+      "성격/행동"
+    ],
+    "frequency": "중",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: His ___ cost him his job.",
+            "a": "indiscretion",
+            "meaning_ko": "경솔함이 대가를 치름"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best meaning of indiscretion: (A) carefulness (B) an unwise remark/action (C) strength (D) silence",
+            "a": "B",
+            "meaning_ko": "경솔한 말/행동"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Which is the closest antonym of indiscretion? (A) prudence (B) impulse (C) rumor (D) chaos",
+            "a": "A",
+            "meaning_ko": "prudence=신중함"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fluctuate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to change frequently from one level, amount, or condition to another",
+        "definition_ko": "수시로 오르내리다; 변동하다",
+        "note": "규칙적 추세가 아니라 ‘들쭉날쭉’ 움직임을 강조"
+      }
+    ],
+    "concept": "값·상태가 일정하지 않고 자주 변하는 현상",
+    "etymology": "라틴어 fluctus(물결)에서 유래; ‘물결치다’ → ‘오르내리다’로 의미 확장",
+    "semanticExtension": "원래는 물결의 움직임 → 가격·환율·기온·감정 등 다양한 ‘변동’에 널리 적용",
+    "nuanceRegister": "중립·격식, 경제/과학/뉴스에서 매우 흔함",
+    "grammarNotes": "자동사로 많이 쓰이며, in/between/around 등과 함께 변동 범위·기준을 나타냄.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "between",
+        "meaning_ko": "~와 ~ 사이에서 변동하다",
+        "example": "fluctuate between 5 and 10"
+      },
+      {
+        "prep": "around",
+        "meaning_ko": "~ 근처에서 오르내리다",
+        "example": "fluctuate around 2%"
+      }
+    ],
+    "requiredComplements": [
+      "fluctuate between A and B (범위)",
+      "fluctuate around + 수치 (기준값)"
+    ],
+    "morphology": "fluct-(물결) + -uate(동사화)",
+    "derivatives": [
+      {
+        "word": "fluctuation",
+        "meaning_ko": "변동"
+      },
+      {
+        "word": "fluctuant",
+        "meaning_ko": "변동하는(드묾)"
+      },
+      {
+        "word": "fluctuating",
+        "meaning_ko": "변동하는(분사형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "vary",
+        "meaning_ko": "달라지다/변하다"
+      },
+      {
+        "word": "volatile",
+        "meaning_ko": "변동성이 큰"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "vary",
+        "meaning_ko": "변하다"
+      },
+      {
+        "word": "swing",
+        "meaning_ko": "급격히 오르내리다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "change",
+        "meaning_ko": "변하다(일반)"
+      },
+      {
+        "word": "shift",
+        "meaning_ko": "이동하다/변화하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stabilize",
+        "meaning_ko": "안정되다/안정시키다"
+      },
+      {
+        "word": "remain steady",
+        "meaning_ko": "꾸준히 유지되다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "prices fluctuate",
+            "meaning_ko": "가격이 변동하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "fluctuate sharply",
+            "meaning_ko": "급격히 변동하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "fluctuate in response to demand",
+            "meaning_ko": "수요 변화에 반응해 변동하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Temperatures fluctuate in spring.",
+            "meaning_ko": "봄에는 기온이 오르내린다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Oil prices fluctuate sharply during crises.",
+            "meaning_ko": "위기 때 유가가 급격히 변동한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Exchange rates can fluctuate in response to policy signals and market sentiment.",
+            "meaning_ko": "환율은 정책 신호와 시장 심리에 반응해 변동할 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "물결(fluctus)에서 온 단어라 ‘파도처럼 출렁인다’로 이미지화하면 기억이 쉽습니다. vary는 ‘달라지다’ 전반, fluctuate는 ‘오르내리며 들쭉날쭉’이 핵심입니다.",
+    "tags": [
+      "경제",
+      "데이터/수치",
+      "일반 동사"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Prices often ___ from day to day.",
+            "a": "fluctuate",
+            "meaning_ko": "가격이 오르내리다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best phrase: '5에서 10 사이로 변동하다' = fluctuate (A) at (B) between (C) for (D) under",
+            "a": "B",
+            "meaning_ko": "between A and B"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Which sentence uses 'fluctuate' most naturally? (A) He fluctuates the door. (B) The stock price fluctuated wildly. (C) She fluctuates her homework. (D) We fluctuated a sandwich.",
+            "a": "B",
+            "meaning_ko": "수치/가격 변동에 자연스럽게 사용"
+          }
+        ]
+      }
+    ]
+  }
+]

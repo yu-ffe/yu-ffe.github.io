@@ -1,0 +1,866 @@
+[
+  {
+    "word": "ambiguous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "having more than one possible meaning and therefore unclear",
+        "definition_ko": "모호한, 여러 의미로 해석될 수 있는",
+        "note": "의미·의도·표현이 분명하지 않을 때 사용"
+      }
+    ],
+    "concept": "하나로 확정되지 않아 해석이 갈리는 상태",
+    "etymology": "라틴어 ambiguus(양쪽으로 흔들리는)에서 유래",
+    "semanticExtension": "언어적 모호성 → 태도·정책·입장의 불분명함으로 확장",
+    "nuanceRegister": "중립·격식, 학술·뉴스 문맥",
+    "grammarNotes": "주로 명사 앞에서 수식",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 모호한",
+        "example": "ambiguous about his plans"
+      }
+    ],
+    "requiredComplements": [
+      "ambiguous about + 주제"
+    ],
+    "morphology": "ambi-(양쪽) + agere(몰다)",
+    "derivatives": [
+      {
+        "word": "ambiguity",
+        "meaning_ko": "모호함"
+      },
+      {
+        "word": "ambiguously",
+        "meaning_ko": "모호하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "vague",
+        "meaning_ko": "애매한"
+      },
+      {
+        "word": "unclear",
+        "meaning_ko": "불분명한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "vague",
+        "meaning_ko": "모호한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "uncertain",
+        "meaning_ko": "불확실한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clear",
+        "meaning_ko": "명확한"
+      },
+      {
+        "word": "definite",
+        "meaning_ko": "분명한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ambiguous meaning",
+            "meaning_ko": "모호한 의미"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ambiguous statement",
+            "meaning_ko": "모호한 발언"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "deliberately ambiguous language",
+            "meaning_ko": "의도적으로 모호한 언어"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His answer was ambiguous.",
+            "meaning_ko": "그의 대답은 모호했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The law contains ambiguous terms.",
+            "meaning_ko": "그 법에는 모호한 용어가 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The statement was deliberately ambiguous to avoid controversy.",
+            "meaning_ko": "그 발언은 논란을 피하기 위해 의도적으로 모호했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ambiguous는 ‘여러 해석 가능’, vague는 ‘대충 흐릿함’으로 구분하세요.",
+    "tags": [
+      "언어",
+      "논리"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the correct word: an ___ answer",
+            "a": "ambiguous",
+            "meaning_ko": "모호한"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "unambiguous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "clear and having only one possible meaning",
+        "definition_ko": "명확한, 애매함이 없는",
+        "note": "해석 여지가 없음을 강조"
+      }
+    ],
+    "concept": "단 하나의 의미로 분명하게 전달되는 상태",
+    "etymology": "un-(부정) + ambiguous",
+    "semanticExtension": "언어 → 증거·입장·지시의 명확성으로 확장",
+    "nuanceRegister": "격식·문어",
+    "grammarNotes": "부정 접두사 un-으로 의미 반전",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "un-(아니다) + ambiguous",
+    "derivatives": [
+      {
+        "word": "unambiguously",
+        "meaning_ko": "명확하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "clear",
+        "meaning_ko": "명확한"
+      },
+      {
+        "word": "explicit",
+        "meaning_ko": "명시적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "clear",
+        "meaning_ko": "명확한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "definite",
+        "meaning_ko": "분명한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ambiguous",
+        "meaning_ko": "모호한"
+      },
+      {
+        "word": "vague",
+        "meaning_ko": "애매한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "unambiguous answer",
+            "meaning_ko": "명확한 답변"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "unambiguous evidence",
+            "meaning_ko": "명백한 증거"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "unambiguous commitment",
+            "meaning_ko": "분명한 약속"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She gave an unambiguous answer.",
+            "meaning_ko": "그녀는 명확한 답변을 했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report provides unambiguous evidence.",
+            "meaning_ko": "그 보고서는 명백한 증거를 제시한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The leader made an unambiguous commitment to reform.",
+            "meaning_ko": "지도자는 개혁에 대한 분명한 약속을 했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "시험에서는 ambiguous ↔ unambiguous 대조 문제가 자주 나옵니다.",
+    "tags": [
+      "논리",
+      "형용사"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of ambiguous?",
+            "a": "unambiguous",
+            "meaning_ko": "명확한"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ambiguity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the quality of being open to more than one interpretation",
+        "definition_ko": "모호성, 애매함",
+        "note": "상태·속성을 나타내는 추상 명사"
+      }
+    ],
+    "concept": "해석이 하나로 정해지지 않는 성질",
+    "etymology": "ambiguous에서 파생",
+    "semanticExtension": "언어적 모호성 → 정책·태도의 불분명함으로 확장",
+    "nuanceRegister": "격식·학술",
+    "grammarNotes": "불가산으로 자주 사용",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~의 모호성",
+        "example": "ambiguity in language"
+      }
+    ],
+    "requiredComplements": [
+      "ambiguity in + 대상"
+    ],
+    "morphology": "ambigu- + -ity",
+    "derivatives": [
+      {
+        "word": "ambiguous",
+        "meaning_ko": "모호한"
+      }
+    ],
+    "related": [
+      {
+        "word": "uncertainty",
+        "meaning_ko": "불확실성"
+      },
+      {
+        "word": "vagueness",
+        "meaning_ko": "애매함"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "uncertainty",
+        "meaning_ko": "불확실성"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "vagueness",
+        "meaning_ko": "애매함"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clarity",
+        "meaning_ko": "명확성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ambiguity in meaning",
+            "meaning_ko": "의미의 모호성"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "reduce ambiguity",
+            "meaning_ko": "모호성을 줄이다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "strategic ambiguity",
+            "meaning_ko": "전략적 모호성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The sentence contains ambiguity.",
+            "meaning_ko": "그 문장은 모호함을 포함한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Ambiguity in policy causes confusion.",
+            "meaning_ko": "정책의 모호성은 혼란을 낳는다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Strategic ambiguity can sometimes be a deliberate choice.",
+            "meaning_ko": "전략적 모호성은 때로 의도적인 선택일 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "형용사 ambiguous와 명사 ambiguity를 세트로 암기하세요.",
+    "tags": [
+      "언어",
+      "정책"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Noun form of ambiguous?",
+            "a": "ambiguity",
+            "meaning_ko": "모호성"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "subsidy",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "money given by a government or organization to support an activity",
+        "definition_ko": "보조금, 지원금",
+        "note": "정부·공공 재정 문맥에서 매우 흔함"
+      }
+    ],
+    "concept": "특정 활동을 장려하기 위해 제공되는 재정적 지원",
+    "etymology": "라틴어 subsidium(지원, 원조)에서 유래",
+    "semanticExtension": "군사적 지원 → 경제·산업 지원으로 의미 확장",
+    "nuanceRegister": "격식·경제·정책",
+    "grammarNotes": "가산명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 보조금",
+        "example": "subsidy for farmers"
+      }
+    ],
+    "requiredComplements": [
+      "subsidy for + 대상"
+    ],
+    "morphology": "subsid-(지원)",
+    "derivatives": [
+      {
+        "word": "subsidize",
+        "meaning_ko": "보조금을 지급하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "grant",
+        "meaning_ko": "보조금"
+      },
+      {
+        "word": "aid",
+        "meaning_ko": "원조"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "grant",
+        "meaning_ko": "보조금"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "support",
+        "meaning_ko": "지원"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tax",
+        "meaning_ko": "세금"
+      },
+      {
+        "word": "penalty",
+        "meaning_ko": "벌금"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "government subsidy",
+            "meaning_ko": "정부 보조금"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "receive a subsidy",
+            "meaning_ko": "보조금을 받다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "subsidy reform",
+            "meaning_ko": "보조금 개혁"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The farmers received a subsidy.",
+            "meaning_ko": "농부들은 보조금을 받았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The government reduced fuel subsidies.",
+            "meaning_ko": "정부는 연료 보조금을 줄였다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Subsidies can distort market competition.",
+            "meaning_ko": "보조금은 시장 경쟁을 왜곡할 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "subsidy(명사) ↔ subsidize(동사) 전환 문제를 주의하세요.",
+    "tags": [
+      "경제",
+      "정책"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the noun: government ___",
+            "a": "subsidy",
+            "meaning_ko": "보조금"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "subsidize",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to support financially with a subsidy",
+        "definition_ko": "보조금을 지급하다, 재정적으로 지원하다",
+        "note": "정부 주어로 자주 사용"
+      }
+    ],
+    "concept": "재정 지원을 통해 활동을 가능하게 하거나 유지하는 행위",
+    "etymology": "subsidy에서 파생",
+    "semanticExtension": "경제 지원 → 비용을 대신 부담해 주는 의미로 확장",
+    "nuanceRegister": "격식·정책·경제",
+    "grammarNotes": "타동사로 목적어 필요",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "subsidize + 대상"
+    ],
+    "morphology": "subsidy + -ize",
+    "derivatives": [
+      {
+        "word": "subsidy",
+        "meaning_ko": "보조금"
+      }
+    ],
+    "related": [
+      {
+        "word": "fund",
+        "meaning_ko": "자금을 대다"
+      },
+      {
+        "word": "support",
+        "meaning_ko": "지원하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "fund",
+        "meaning_ko": "자금을 대다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "back",
+        "meaning_ko": "지원하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "charge",
+        "meaning_ko": "요금을 부과하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "subsidize education",
+            "meaning_ko": "교육을 보조하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "subsidize costs",
+            "meaning_ko": "비용을 보조하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "subsidize renewable energy",
+            "meaning_ko": "재생에너지를 보조하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The state subsidizes housing.",
+            "meaning_ko": "국가는 주택을 보조한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The program subsidizes low-income families.",
+            "meaning_ko": "그 프로그램은 저소득 가정을 지원한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Governments often subsidize industries to promote growth.",
+            "meaning_ko": "정부는 성장을 촉진하기 위해 산업을 보조하는 경우가 많다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "subsidize는 항상 목적어를 필요로 합니다.",
+    "tags": [
+      "경제",
+      "정책",
+      "동사"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '보조금을 지급하다'?",
+            "a": "subsidize",
+            "meaning_ko": "재정 지원하다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tangle",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a confused mass of things twisted together",
+        "definition_ko": "엉킴, 얽힘",
+        "note": "물리적·추상적 상황 모두 사용"
+      }
+    ],
+    "concept": "정리되지 않고 뒤엉킨 상태",
+    "etymology": "고대 영어 tang(걸리다)에서 유래",
+    "semanticExtension": "실·머리카락 → 문제·관계의 복잡함으로 확장",
+    "nuanceRegister": "중립",
+    "grammarNotes": "명사·동사 모두 사용",
+    "transitivity": "타동사·자동사 모두",
+    "countability": "가산명사(명사 용법)",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 얽히다",
+        "example": "tangle in wires"
+      }
+    ],
+    "requiredComplements": [
+      "tangle in + 대상"
+    ],
+    "morphology": "tangl-(얽히다)",
+    "derivatives": [
+      {
+        "word": "tangled",
+        "meaning_ko": "얽힌"
+      },
+      {
+        "word": "tanglement",
+        "meaning_ko": "얽힘"
+      }
+    ],
+    "related": [
+      {
+        "word": "knot",
+        "meaning_ko": "매듭"
+      },
+      {
+        "word": "snarl",
+        "meaning_ko": "엉킴"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "snarl",
+        "meaning_ko": "엉키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "mix up",
+        "meaning_ko": "뒤섞다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "untangle",
+        "meaning_ko": "풀다"
+      },
+      {
+        "word": "order",
+        "meaning_ko": "정리"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "tangled wires",
+            "meaning_ko": "엉킨 전선"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "tangle of problems",
+            "meaning_ko": "복잡한 문제들"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "legal tangle",
+            "meaning_ko": "법적 분쟁의 얽힘"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "My hair is tangled.",
+            "meaning_ko": "머리카락이 엉켰다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He got tangled in paperwork.",
+            "meaning_ko": "그는 서류 문제에 얽혔다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The policy debate became a tangle of competing interests.",
+            "meaning_ko": "그 정책 논쟁은 이해관계가 얽힌 혼란이 되었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "물리적 ‘엉킴’에서 추상적 ‘문제 얽힘’으로 의미 확장을 기억하세요.",
+    "tags": [
+      "문제",
+      "상태"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of tangle?",
+            "a": "untangle",
+            "meaning_ko": "풀다"
+          }
+        ]
+      }
+    ]
+  }
+]

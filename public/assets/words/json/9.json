@@ -1,0 +1,774 @@
+[
+  {
+    "word": "prudent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "showing careful judgment and good sense, especially in practical matters",
+        "definition_ko": "신중한, 사려 깊은",
+        "note": "위험을 피하고 장기적 결과를 고려하는 판단 강조"
+      }
+    ],
+    "concept": "충동이 아닌 신중한 판단으로 행동하는 태도",
+    "etymology": "라틴어 prudens(앞을 내다보는)에서 유래",
+    "semanticExtension": "개인적 판단 → 재정·정책적 신중함으로 확장",
+    "nuanceRegister": "격식·문어",
+    "grammarNotes": "be prudent to/that 구문으로 자주 사용",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 있어 신중한",
+        "example": "prudent in spending"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 신중한",
+        "example": "prudent about risks"
+      }
+    ],
+    "requiredComplements": [
+      "be prudent to + 동사원형",
+      "be prudent that + S V"
+    ],
+    "morphology": "prud-(앞을 보다)",
+    "derivatives": [
+      {
+        "word": "prudence",
+        "meaning_ko": "신중함"
+      },
+      {
+        "word": "prudently",
+        "meaning_ko": "신중하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "caution",
+        "meaning_ko": "조심"
+      },
+      {
+        "word": "foresight",
+        "meaning_ko": "선견지명"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "wise",
+        "meaning_ko": "현명한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "careful",
+        "meaning_ko": "조심스러운"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reckless",
+        "meaning_ko": "무모한"
+      },
+      {
+        "word": "rash",
+        "meaning_ko": "경솔한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "prudent decision",
+            "meaning_ko": "신중한 결정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "prudent investment",
+            "meaning_ko": "신중한 투자"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "prudent course of action",
+            "meaning_ko": "신중한 행동 방침"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It is prudent to save money.",
+            "meaning_ko": "돈을 저축하는 것은 신중하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She was prudent in her spending.",
+            "meaning_ko": "그녀는 지출에 신중했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Given the uncertainty, a prudent approach is required.",
+            "meaning_ko": "불확실성을 고려할 때 신중한 접근이 필요하다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "reckless, rash와 반의어 대비로 자주 출제됩니다.",
+    "tags": [
+      "성격",
+      "판단"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of reckless?",
+            "a": "prudent",
+            "meaning_ko": "신중한"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prudential",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "relating to the management of risk and long-term financial stability",
+        "definition_ko": "건전성의, 신중한 관리와 관련된",
+        "note": "금융·보험·규제 문맥에서 사용"
+      }
+    ],
+    "concept": "위험을 관리해 장기적 안정성을 유지하려는 관점",
+    "etymology": "prudence에서 파생",
+    "semanticExtension": "개인적 신중함 → 제도·규제 차원의 건전성 관리",
+    "nuanceRegister": "전문·격식(금융/정책)",
+    "grammarNotes": "주로 명사 앞에서 사용",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "prudence + -ial",
+    "derivatives": [
+      {
+        "word": "prudence",
+        "meaning_ko": "신중함"
+      }
+    ],
+    "related": [
+      {
+        "word": "regulatory",
+        "meaning_ko": "규제의"
+      },
+      {
+        "word": "risk-based",
+        "meaning_ko": "위험 기반의"
+      }
+    ],
+    "synonyms": [],
+    "nearSynonyms": [
+      {
+        "word": "conservative",
+        "meaning_ko": "보수적인(재정)"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "prudential regulation",
+            "meaning_ko": "건전성 규제"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "prudential standards",
+            "meaning_ko": "건전성 기준"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "macroprudential policy",
+            "meaning_ko": "거시건전성 정책"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Banks must meet prudential standards.",
+            "meaning_ko": "은행은 건전성 기준을 충족해야 한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Prudential regulation aims to reduce systemic risk.",
+            "meaning_ko": "건전성 규제는 시스템 위험을 줄이는 것을 목표로 한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Macroprudential tools help safeguard financial stability.",
+            "meaning_ko": "거시건전성 수단은 금융 안정을 지키는 데 도움이 된다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "prudential은 일상어가 아니라 금융·정책 전문어입니다.",
+    "tags": [
+      "금융",
+      "정책"
+    ],
+    "frequency": "하",
+    "difficulty": "8",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Which field commonly uses 'prudential'?",
+            "a": "finance",
+            "meaning_ko": "금융/규제 분야"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "setback",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a problem or difficulty that delays progress",
+        "definition_ko": "차질, 좌절, 후퇴",
+        "note": "일시적 실패를 의미하는 경우가 많음"
+      }
+    ],
+    "concept": "목표를 향한 진행이 일시적으로 막히는 상황",
+    "etymology": "set + back(뒤로 물리다)에서 형성",
+    "semanticExtension": "물리적 후퇴 → 계획·경력의 차질로 확장",
+    "nuanceRegister": "중립·뉴스",
+    "grammarNotes": "가산명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대한 차질",
+        "example": "a setback for the project"
+      }
+    ],
+    "requiredComplements": [
+      "setback for + 대상"
+    ],
+    "morphology": "set + back",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "obstacle",
+        "meaning_ko": "장애물"
+      },
+      {
+        "word": "delay",
+        "meaning_ko": "지연"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "obstacle",
+        "meaning_ko": "장애물"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "hindrance",
+        "meaning_ko": "방해"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "advance",
+        "meaning_ko": "진전"
+      },
+      {
+        "word": "breakthrough",
+        "meaning_ko": "돌파구"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "major setback",
+            "meaning_ko": "큰 차질"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "temporary setback",
+            "meaning_ko": "일시적 좌절"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "suffer a setback",
+            "meaning_ko": "차질을 겪다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The project faced a setback.",
+            "meaning_ko": "그 프로젝트는 차질을 겪었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Injuries are a common setback for athletes.",
+            "meaning_ko": "부상은 운동선수에게 흔한 좌절이다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Despite the setback, the team continued forward.",
+            "meaning_ko": "차질에도 불구하고 팀은 계속 나아갔다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "setback은 일시적 실패라는 점이 핵심입니다.",
+    "tags": [
+      "계획",
+      "문제"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Noun meaning '차질'?",
+            "a": "setback",
+            "meaning_ko": "일시적 후퇴"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "limb",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "an arm or a leg of a person or animal",
+        "definition_ko": "팔다리, 사지",
+        "note": "해부학·일상 모두 사용"
+      }
+    ],
+    "concept": "몸의 주요 움직임을 담당하는 부분",
+    "etymology": "고대 영어 lim(사지)에서 유래",
+    "semanticExtension": "신체 → 나무 가지 등으로 비유 확장",
+    "nuanceRegister": "중립",
+    "grammarNotes": "가산명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "limb(사지)",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "arm",
+        "meaning_ko": "팔"
+      },
+      {
+        "word": "leg",
+        "meaning_ko": "다리"
+      }
+    ],
+    "synonyms": [],
+    "nearSynonyms": [],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "lose a limb",
+            "meaning_ko": "사지 하나를 잃다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "artificial limb",
+            "meaning_ko": "의수/의족"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "severed limb",
+            "meaning_ko": "절단된 사지"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He broke a limb.",
+            "meaning_ko": "그는 팔다리를 다쳤다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The injury damaged his limb.",
+            "meaning_ko": "부상이 그의 사지를 손상시켰다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Rehabilitation helps patients regain control of affected limbs.",
+            "meaning_ko": "재활은 환자가 손상된 사지를 다시 제어하도록 돕는다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "branch(가지)와의 비유적 의미도 함께 기억하세요.",
+    "tags": [
+      "신체"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Word meaning '팔다리'?",
+            "a": "limb",
+            "meaning_ko": "사지"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "artificial limb",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a prosthetic arm or leg",
+        "definition_ko": "의수, 의족",
+        "note": "의학·재활 용어"
+      }
+    ],
+    "concept": "잃은 사지를 대신하는 인공 장치",
+    "etymology": "artificial + limb",
+    "semanticExtension": "의료 기술 발전의 상징으로 비유 사용",
+    "nuanceRegister": "중립·전문",
+    "grammarNotes": "가산명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "artificial(인공의) + limb",
+    "derivatives": [
+      {
+        "word": "prosthetic",
+        "meaning_ko": "의지의"
+      }
+    ],
+    "related": [
+      {
+        "word": "prosthesis",
+        "meaning_ko": "의지"
+      },
+      {
+        "word": "rehabilitation",
+        "meaning_ko": "재활"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "prosthetic limb",
+        "meaning_ko": "의지"
+      }
+    ],
+    "nearSynonyms": [],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "wear an artificial limb",
+            "meaning_ko": "의지를 착용하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "advanced artificial limbs",
+            "meaning_ko": "첨단 의지"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "bionic artificial limb",
+            "meaning_ko": "바이오닉 의지"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He uses an artificial limb.",
+            "meaning_ko": "그는 의지를 사용한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Modern artificial limbs restore mobility.",
+            "meaning_ko": "현대 의지는 이동성을 회복시킨다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Advances in robotics have transformed artificial limb technology.",
+            "meaning_ko": "로봇공학의 발전은 의지 기술을 변화시켰다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "prosthetic limb와 동의 관계로 자주 나옵니다.",
+    "tags": [
+      "의학",
+      "기술"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Medical term for '의수/의족'?",
+            "a": "artificial limb",
+            "meaning_ko": "의지"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "flipper",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a flat limb used for swimming by animals such as seals or whales",
+        "definition_ko": "지느러미(노처럼 생긴)",
+        "note": "동물·수영 장비 의미 모두 가능"
+      }
+    ],
+    "concept": "물속 이동을 돕는 넓고 평평한 사지",
+    "etymology": "flip(튀기다)에서 파생",
+    "semanticExtension": "동물 → 잠수용 오리발 의미로 확장",
+    "nuanceRegister": "중립",
+    "grammarNotes": "가산명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "flip + -er",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "fin",
+        "meaning_ko": "지느러미"
+      },
+      {
+        "word": "limb",
+        "meaning_ko": "사지"
+      }
+    ],
+    "synonyms": [],
+    "nearSynonyms": [],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "seal flipper",
+            "meaning_ko": "물개의 지느러미"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "swim with flippers",
+            "meaning_ko": "오리발로 수영하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "powerful flippers",
+            "meaning_ko": "강력한 지느러미"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The seal waved its flipper.",
+            "meaning_ko": "물개가 지느러미를 흔들었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Divers use flippers to swim faster.",
+            "meaning_ko": "잠수부는 오리발로 더 빨리 헤엄친다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Whales rely on powerful flippers for maneuvering.",
+            "meaning_ko": "고래는 방향 전환을 위해 강력한 지느러미에 의존한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "fin과 flipper의 차이를 구분하세요.",
+    "tags": [
+      "동물",
+      "수영"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Word for '오리발/지느러미'?",
+            "a": "flipper",
+            "meaning_ko": "수영용 지느러미"
+          }
+        ]
+      }
+    ]
+  }
+]

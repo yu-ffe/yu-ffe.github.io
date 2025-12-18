@@ -1,0 +1,1209 @@
+[
+  {
+    "word": "infer",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to deduce or conclude from evidence rather than direct statements",
+        "definition_ko": "추론하다, 추리하다",
+        "note": "암시된 정보에서 결론 도출"
+      }
+    ],
+    "concept": "명시되지 않은 정보를 근거로 결론을 내림",
+    "etymology": "라틴어 inferre(가져오다, 이끌어내다)",
+    "semanticExtension": "논리적 추론 전반",
+    "nuanceRegister": "문어·학술",
+    "grammarNotes": "infer that + 절 / infer from + 근거",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터 추론하다",
+        "example": "infer from evidence"
+      }
+    ],
+    "requiredComplements": [
+      "infer that + S V"
+    ],
+    "morphology": "in-(안으로) + fer(나르다)",
+    "derivatives": [
+      {
+        "word": "inference",
+        "meaning_ko": "추론"
+      }
+    ],
+    "related": [
+      {
+        "word": "deduce",
+        "meaning_ko": "연역하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "deduce",
+        "meaning_ko": "추론하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "conclude",
+        "meaning_ko": "결론짓다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "observe",
+        "meaning_ko": "직접 관찰하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "infer meaning",
+            "meaning_ko": "의미를 추론하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "infer intent",
+            "meaning_ko": "의도를 추정하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "infer causal relationship",
+            "meaning_ko": "인과관계를 추론하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We can infer the answer.",
+            "meaning_ko": "우리는 답을 추론할 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She inferred his feelings from his tone.",
+            "meaning_ko": "그녀는 말투로 그의 감정을 추론했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Researchers inferred causality from the data.",
+            "meaning_ko": "연구자들은 데이터로부터 인과관계를 추론했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "imply와 혼동 주의: infer는 듣는 쪽.",
+    "tags": [
+      "논리",
+      "추론"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '추론하다'?",
+            "a": "infer",
+            "meaning_ko": "근거로 결론 도출"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "inference",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a conclusion reached on the basis of evidence and reasoning",
+        "definition_ko": "추론, 추정된 결론",
+        "note": "infer의 명사형"
+      }
+    ],
+    "concept": "근거와 논리에 의해 도출된 결론",
+    "etymology": "infer에서 파생",
+    "semanticExtension": "논리·통계 전반",
+    "nuanceRegister": "문어·학술",
+    "grammarNotes": "가산·불가산 모두 사용",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터의 추론",
+        "example": "inference from data"
+      }
+    ],
+    "requiredComplements": [
+      "inference from + 근거"
+    ],
+    "morphology": "infer + -ence",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "conclusion",
+        "meaning_ko": "결론"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "conclusion",
+        "meaning_ko": "결론"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "deduction",
+        "meaning_ko": "연역"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "observation",
+        "meaning_ko": "관찰"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "logical inference",
+            "meaning_ko": "논리적 추론"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "statistical inference",
+            "meaning_ko": "통계적 추론"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "draw an inference",
+            "meaning_ko": "추론을 도출하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "That inference is wrong.",
+            "meaning_ko": "그 추론은 틀렸다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The inference comes from data.",
+            "meaning_ko": "그 추론은 데이터에서 나온다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Sound inference requires sufficient evidence.",
+            "meaning_ko": "타당한 추론에는 충분한 근거가 필요하다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "draw/make an inference 고정.",
+    "tags": [
+      "논리",
+      "학술"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Noun of infer?",
+            "a": "inference",
+            "meaning_ko": "추론"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "refraction",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the bending of light as it passes through different media",
+        "definition_ko": "굴절",
+        "note": "물리·광학 용어"
+      }
+    ],
+    "concept": "매질 변화로 인한 빛의 방향 변화",
+    "etymology": "라틴어 refractio(꺾다)",
+    "semanticExtension": "물리 현상 중심",
+    "nuanceRegister": "전문·학술",
+    "grammarNotes": "불가산명사",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "re + fract(꺾다)",
+    "derivatives": [
+      {
+        "word": "refract",
+        "meaning_ko": "굴절시키다"
+      }
+    ],
+    "related": [
+      {
+        "word": "reflection",
+        "meaning_ko": "반사"
+      }
+    ],
+    "synonyms": [],
+    "nearSynonyms": [],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "light refraction",
+            "meaning_ko": "빛의 굴절"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "index of refraction",
+            "meaning_ko": "굴절률"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "refraction angle",
+            "meaning_ko": "굴절각"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Refraction bends light.",
+            "meaning_ko": "굴절은 빛을 꺾는다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Water causes refraction of light.",
+            "meaning_ko": "물은 빛의 굴절을 일으킨다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Refraction depends on the medium.",
+            "meaning_ko": "굴절은 매질에 따라 달라진다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "reflection과 대비.",
+    "tags": [
+      "물리",
+      "광학"
+    ],
+    "frequency": "하",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Bending of light?",
+            "a": "refraction",
+            "meaning_ko": "굴절"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "refract",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to cause light to bend when entering a different medium",
+        "definition_ko": "굴절시키다",
+        "note": "과학적 용어"
+      }
+    ],
+    "concept": "빛의 진행 방향을 꺾다",
+    "etymology": "라틴어 refrangere(꺾다)",
+    "semanticExtension": "과학적 맥락 중심",
+    "nuanceRegister": "전문·학술",
+    "grammarNotes": "타동사",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "refract + light"
+    ],
+    "morphology": "re + fract",
+    "derivatives": [
+      {
+        "word": "refraction",
+        "meaning_ko": "굴절"
+      }
+    ],
+    "related": [
+      {
+        "word": "reflect",
+        "meaning_ko": "반사하다"
+      }
+    ],
+    "synonyms": [],
+    "nearSynonyms": [],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "refract light",
+            "meaning_ko": "빛을 굴절시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Glass refracts light.",
+            "meaning_ko": "유리는 빛을 굴절시킨다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "명사형 refraction과 함께 암기.",
+    "tags": [
+      "물리",
+      "광학"
+    ],
+    "frequency": "하",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb of refraction?",
+            "a": "refract",
+            "meaning_ko": "굴절시키다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "reflection",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the throwing back of light or sound; serious thought",
+        "definition_ko": "반사; 숙고",
+        "note": "물리·추상 의미 모두"
+      }
+    ],
+    "concept": "되비침 또는 깊은 생각",
+    "etymology": "라틴어 reflectere(되돌리다)",
+    "semanticExtension": "물리적 반사 → 내적 성찰",
+    "nuanceRegister": "중립·문어",
+    "grammarNotes": "가산·불가산 모두",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대한 성찰",
+        "example": "reflection on life"
+      }
+    ],
+    "requiredComplements": [
+      "reflection on + 주제"
+    ],
+    "morphology": "re + flect(구부리다)",
+    "derivatives": [
+      {
+        "word": "reflect",
+        "meaning_ko": "반사하다; 숙고하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "refraction",
+        "meaning_ko": "굴절"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "contemplation",
+        "meaning_ko": "숙고"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "thought",
+        "meaning_ko": "생각"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "impulsiveness",
+        "meaning_ko": "충동성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mirror reflection",
+            "meaning_ko": "거울 반사"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "deep reflection",
+            "meaning_ko": "깊은 숙고"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "reflection on society",
+            "meaning_ko": "사회에 대한 성찰"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I saw my reflection.",
+            "meaning_ko": "나는 내 모습을 보았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "After reflection, he agreed.",
+            "meaning_ko": "숙고 끝에 그는 동의했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The essay is a reflection on history.",
+            "meaning_ko": "그 에세이는 역사에 대한 성찰이다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "reflect와 명사형 연결.",
+    "tags": [
+      "물리",
+      "사고"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Deep thought?",
+            "a": "reflection",
+            "meaning_ko": "숙고"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dusk",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the darker stage of twilight before night",
+        "definition_ko": "해질녘, 땅거미",
+        "note": "시간 표현"
+      }
+    ],
+    "concept": "낮과 밤 사이의 어두워지는 시간",
+    "etymology": "고대 영어 dox(어두운)",
+    "semanticExtension": "시간 → 분위기 표현",
+    "nuanceRegister": "문어·시적",
+    "grammarNotes": "불가산명사",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에",
+        "example": "at dusk"
+      }
+    ],
+    "requiredComplements": [],
+    "morphology": "dusk(어두움)",
+    "derivatives": [
+      {
+        "word": "dusky",
+        "meaning_ko": "어스름한"
+      }
+    ],
+    "related": [
+      {
+        "word": "dawn",
+        "meaning_ko": "새벽"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "twilight",
+        "meaning_ko": "황혼"
+      }
+    ],
+    "nearSynonyms": [],
+    "antonyms": [
+      {
+        "word": "dawn",
+        "meaning_ko": "새벽"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "at dusk",
+            "meaning_ko": "해질녘에"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dusk falls",
+            "meaning_ko": "어둠이 내리다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "from dusk till dawn",
+            "meaning_ko": "해질녘부터 새벽까지"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They met at dusk.",
+            "meaning_ko": "그들은 해질녘에 만났다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The town quieted at dusk.",
+            "meaning_ko": "마을은 해질녘에 조용해졌다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Shadows lengthened as dusk fell.",
+            "meaning_ko": "해질녘이 되자 그림자가 길어졌다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "at dusk 고정.",
+    "tags": [
+      "시간",
+      "자연"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Time before night?",
+            "a": "dusk",
+            "meaning_ko": "해질녘"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dusky",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "dark or shadowy in color",
+        "definition_ko": "어스름한, 거무스름한",
+        "note": "시적 표현"
+      }
+    ],
+    "concept": "완전히 밝지 않은 어두운 상태",
+    "etymology": "dusk에서 파생",
+    "semanticExtension": "빛 → 분위기 묘사",
+    "nuanceRegister": "문어·시적",
+    "grammarNotes": "형용사",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "dusk + -y",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "dim",
+        "meaning_ko": "어두운"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "dim",
+        "meaning_ko": "어스름한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "shadowy",
+        "meaning_ko": "그림자진"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bright",
+        "meaning_ko": "밝은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "dusky sky",
+            "meaning_ko": "어스름한 하늘"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The room was dusky.",
+            "meaning_ko": "방은 어스름했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dusk(명사) ↔ dusky(형용사).",
+    "tags": [
+      "묘사",
+      "자연"
+    ],
+    "frequency": "하",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Adjective from dusk?",
+            "a": "dusky",
+            "meaning_ko": "어스름한"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "entail",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to involve or require as a necessary consequence",
+        "definition_ko": "수반하다, 필연적으로 포함하다",
+        "note": "결과 동반 의미"
+      }
+    ],
+    "concept": "어떤 결과를 필연적으로 동반함",
+    "etymology": "프랑스어 entailler(잘라 넣다)",
+    "semanticExtension": "법률 → 일반적 결과 관계",
+    "nuanceRegister": "문어",
+    "grammarNotes": "entail + 명사",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "entail + 결과"
+    ],
+    "morphology": "en + tail(잘라 넣다)",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "involve",
+        "meaning_ko": "수반하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "involve",
+        "meaning_ko": "포함하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "require",
+        "meaning_ko": "요구하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "exclude",
+        "meaning_ko": "배제하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "entail costs",
+            "meaning_ko": "비용을 수반하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "entail risks",
+            "meaning_ko": "위험을 동반하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "entail legal consequences",
+            "meaning_ko": "법적 결과를 초래하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The job entails travel.",
+            "meaning_ko": "그 일은 출장을 수반한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Such changes entail risks.",
+            "meaning_ko": "그러한 변화는 위험을 동반한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision entailed serious consequences.",
+            "meaning_ko": "그 결정은 심각한 결과를 초래했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "involve와 비교.",
+    "tags": [
+      "결과"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '수반하다'?",
+            "a": "entail",
+            "meaning_ko": "필연적으로 포함하다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "demolish",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to completely destroy a building or argument",
+        "definition_ko": "완전히 파괴하다",
+        "note": "물리·비유 모두 사용"
+      }
+    ],
+    "concept": "구조나 주장 등을 철저히 무너뜨림",
+    "etymology": "라틴어 demoliri(부수다)",
+    "semanticExtension": "건물 파괴 → 주장 반박",
+    "nuanceRegister": "중립·문어",
+    "grammarNotes": "타동사",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "demolish + 대상"
+    ],
+    "morphology": "de + molish(부수다)",
+    "derivatives": [
+      {
+        "word": "demolition",
+        "meaning_ko": "철거"
+      }
+    ],
+    "related": [
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "wreck",
+        "meaning_ko": "망가뜨리다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "construct",
+        "meaning_ko": "건설하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "demolish a building",
+            "meaning_ko": "건물을 철거하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "demolish an argument",
+            "meaning_ko": "주장을 반박하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "demolish credibility",
+            "meaning_ko": "신뢰성을 무너뜨리다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They demolished the house.",
+            "meaning_ko": "그들은 집을 철거했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The evidence demolished his claim.",
+            "meaning_ko": "그 증거는 그의 주장을 무너뜨렸다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The report demolished public trust.",
+            "meaning_ko": "그 보고서는 대중의 신뢰를 무너뜨렸다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "비유적 사용 시험 빈출.",
+    "tags": [
+      "파괴"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '완전히 파괴하다'?",
+            "a": "demolish",
+            "meaning_ko": "무너뜨리다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "demolition",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the act of demolishing",
+        "definition_ko": "철거, 파괴",
+        "note": "demolish의 명사형"
+      }
+    ],
+    "concept": "구조물이나 체계의 제거 과정",
+    "etymology": "demolish에서 파생",
+    "semanticExtension": "건설·비유 모두",
+    "nuanceRegister": "중립·문어",
+    "grammarNotes": "불가산·가산 모두",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "demolish + -ion",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "destruction",
+        "meaning_ko": "파괴"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "destruction",
+        "meaning_ko": "파괴"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "teardown",
+        "meaning_ko": "해체"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "construction",
+        "meaning_ko": "건설"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "building demolition",
+            "meaning_ko": "건물 철거"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "controlled demolition",
+            "meaning_ko": "통제된 철거"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "demolition work",
+            "meaning_ko": "철거 작업"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Demolition began today.",
+            "meaning_ko": "오늘 철거가 시작됐다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The demolition took weeks.",
+            "meaning_ko": "철거에는 몇 주가 걸렸다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Demolition of the site was controversial.",
+            "meaning_ko": "그 부지의 철거는 논란이 되었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "demolish와 형태 연결.",
+    "tags": [
+      "건설",
+      "파괴"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Noun of demolish?",
+            "a": "demolition",
+            "meaning_ko": "철거"
+          }
+        ]
+      }
+    ]
+  }
+]

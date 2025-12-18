@@ -1,0 +1,773 @@
+[
+  {
+    "word": "moan",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to make a low sound expressing pain or dissatisfaction",
+        "definition_ko": "신음하다; 불평하다",
+        "note": "소리·불평 두 의미"
+      }
+    ],
+    "concept": "고통이나 불만을 낮은 소리로 드러냄",
+    "etymology": "고대 영어 manian(불평하다)",
+    "semanticExtension": "신체적 고통 → 불만 표현",
+    "nuanceRegister": "구어·문어",
+    "grammarNotes": "자동사/명사",
+    "transitivity": "자동사",
+    "countability": "가산명사(명사 용법)",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 불평하다",
+        "example": "moan about work"
+      }
+    ],
+    "requiredComplements": [
+      "moan about + 대상"
+    ],
+    "morphology": "moan(신음)",
+    "derivatives": [
+      {
+        "word": "moaner",
+        "meaning_ko": "불평꾼"
+      }
+    ],
+    "related": [
+      {
+        "word": "complain",
+        "meaning_ko": "불평하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "groan",
+        "meaning_ko": "신음하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "complain",
+        "meaning_ko": "불평하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rejoice",
+        "meaning_ko": "기뻐하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "moan loudly",
+            "meaning_ko": "큰 소리로 신음하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "moan about life",
+            "meaning_ko": "인생을 불평하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "constant moaning",
+            "meaning_ko": "끊임없는 불평"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He moaned in pain.",
+            "meaning_ko": "그는 고통에 신음했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She keeps moaning about work.",
+            "meaning_ko": "그녀는 일에 대해 계속 불평한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The press moaned about the policy.",
+            "meaning_ko": "언론은 그 정책을 불평했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "complain보다 감정적.",
+    "tags": [
+      "감정",
+      "불평"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '신음하다/불평하다'?",
+            "a": "moan",
+            "meaning_ko": "낮은 소리로 표현"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "moaner",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a person who complains a lot",
+        "definition_ko": "불평꾼",
+        "note": "비격식·비판적"
+      }
+    ],
+    "concept": "자주 불평하는 사람",
+    "etymology": "moan에서 파생",
+    "semanticExtension": "성향 묘사",
+    "nuanceRegister": "구어·비판적",
+    "grammarNotes": "가산명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "moan + -er",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "complainer",
+        "meaning_ko": "불평가"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "complainer",
+        "meaning_ko": "불평꾼"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "whiner",
+        "meaning_ko": "징징대는 사람"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "optimist",
+        "meaning_ko": "낙천가"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "constant moaner",
+            "meaning_ko": "상습 불평꾼"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Don't be a moaner.",
+            "meaning_ko": "불평꾼이 되지 마라."
+          }
+        ]
+      }
+    ],
+    "studyTips": "구어체 비판 표현.",
+    "tags": [
+      "사람"
+    ],
+    "frequency": "하",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Person who complains a lot?",
+            "a": "moaner",
+            "meaning_ko": "불평꾼"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mourn",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to feel or express sorrow for a loss",
+        "definition_ko": "애도하다",
+        "note": "사망·상실"
+      }
+    ],
+    "concept": "상실에 대한 슬픔을 표현함",
+    "etymology": "고대 영어 murnan(슬퍼하다)",
+    "semanticExtension": "개인적 슬픔 → 집단 애도",
+    "nuanceRegister": "문어·격식",
+    "grammarNotes": "mourn for + 대상",
+    "transitivity": "타동사·자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 애도하다",
+        "example": "mourn for the dead"
+      }
+    ],
+    "requiredComplements": [
+      "mourn for + 대상"
+    ],
+    "morphology": "mourn(슬퍼하다)",
+    "derivatives": [
+      {
+        "word": "mourning",
+        "meaning_ko": "애도"
+      }
+    ],
+    "related": [
+      {
+        "word": "grieve",
+        "meaning_ko": "슬퍼하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "grieve",
+        "meaning_ko": "슬퍼하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "lament",
+        "meaning_ko": "비탄하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "celebrate",
+        "meaning_ko": "축하하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mourn the loss",
+            "meaning_ko": "상실을 애도하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "national mourning",
+            "meaning_ko": "국가적 애도"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mourn deeply",
+            "meaning_ko": "깊이 애도하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They mourned the dead.",
+            "meaning_ko": "그들은 사망자를 애도했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "for 패턴.",
+    "tags": [
+      "감정",
+      "상실"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '애도하다'?",
+            "a": "mourn",
+            "meaning_ko": "슬퍼하다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "groan",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to make a deep sound from pain or annoyance",
+        "definition_ko": "신음하다",
+        "note": "육체·정신 고통"
+      }
+    ],
+    "concept": "깊은 소리로 고통이나 짜증을 표현함",
+    "etymology": "고대 영어 granian(신음하다)",
+    "semanticExtension": "소리 → 불만",
+    "nuanceRegister": "구어",
+    "grammarNotes": "자동사/명사",
+    "transitivity": "자동사",
+    "countability": "가산명사(명사 용법)",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "groan(신음)",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "moan",
+        "meaning_ko": "신음하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "moan",
+        "meaning_ko": "신음하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "grunt",
+        "meaning_ko": "끙 소리내다"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "groan loudly",
+            "meaning_ko": "큰 소리로 신음하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "groan in pain",
+            "meaning_ko": "고통에 신음하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "audible groan",
+            "meaning_ko": "들리는 신음"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He groaned.",
+            "meaning_ko": "그는 신음했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "moan보다 낮고 깊은 소리.",
+    "tags": [
+      "소리"
+    ],
+    "frequency": "중",
+    "difficulty": "3",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Deep sound of pain?",
+            "a": "groan",
+            "meaning_ko": "신음"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "extrinsic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "originating from outside",
+        "definition_ko": "외적인",
+        "note": "본질 외부"
+      }
+    ],
+    "concept": "본질이 아닌 외부 요인",
+    "etymology": "라틴어 extrinsecus(외부의)",
+    "semanticExtension": "물리 → 동기·가치",
+    "nuanceRegister": "학술·문어",
+    "grammarNotes": "intrinsic과 대비",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "extra(밖의)",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "external",
+        "meaning_ko": "외부의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "external",
+        "meaning_ko": "외적인"
+      }
+    ],
+    "nearSynonyms": [],
+    "antonyms": [
+      {
+        "word": "intrinsic",
+        "meaning_ko": "내재적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "extrinsic motivation",
+            "meaning_ko": "외적 동기"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "extrinsic factors",
+            "meaning_ko": "외부 요인"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "extrinsic value",
+            "meaning_ko": "외재적 가치"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Money is an extrinsic motivator.",
+            "meaning_ko": "돈은 외적 동기다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "intrinsic과 세트.",
+    "tags": [
+      "개념"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of intrinsic?",
+            "a": "extrinsic",
+            "meaning_ko": "외적인"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "intrinsic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "belonging naturally; essential",
+        "definition_ko": "내재적인",
+        "note": "본질적"
+      }
+    ],
+    "concept": "대상 자체에 본래 존재하는 성질",
+    "etymology": "라틴어 intrinsecus(내부의)",
+    "semanticExtension": "철학·심리 전반",
+    "nuanceRegister": "학술·문어",
+    "grammarNotes": "extrinsic과 대비",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "intra(안의)",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "inherent",
+        "meaning_ko": "타고난"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "inherent",
+        "meaning_ko": "본질적인"
+      }
+    ],
+    "nearSynonyms": [],
+    "antonyms": [
+      {
+        "word": "extrinsic",
+        "meaning_ko": "외적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "intrinsic value",
+            "meaning_ko": "내재적 가치"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "intrinsic motivation",
+            "meaning_ko": "내적 동기"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "intrinsic nature",
+            "meaning_ko": "본질적 성격"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Learning has intrinsic value.",
+            "meaning_ko": "배움에는 내재적 가치가 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "motivation/value 빈출.",
+    "tags": [
+      "개념"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of extrinsic?",
+            "a": "intrinsic",
+            "meaning_ko": "내재적인"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "endow",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to provide with a quality or asset",
+        "definition_ko": "부여하다",
+        "note": "능력·자질"
+      }
+    ],
+    "concept": "타고난 능력이나 자산을 주다",
+    "etymology": "고대 프랑스어 endouer(주다)",
+    "semanticExtension": "자질 → 재산",
+    "nuanceRegister": "문어·격식",
+    "grammarNotes": "endow A with B",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~을 부여하다",
+        "example": "endow him with talent"
+      }
+    ],
+    "requiredComplements": [
+      "endow A with B"
+    ],
+    "morphology": "en + dow(주다)",
+    "derivatives": [
+      {
+        "word": "endowment",
+        "meaning_ko": "기부금; 자질"
+      }
+    ],
+    "related": [
+      {
+        "word": "grant",
+        "meaning_ko": "주다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "grant",
+        "meaning_ko": "부여하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "bestow",
+        "meaning_ko": "수여하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deprive",
+        "meaning_ko": "박탈하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "endow with talent",
+            "meaning_ko": "재능을 부여하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "endowed institution",
+            "meaning_ko": "기금이 있는 기관"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "richly endowed",
+            "meaning_ko": "풍부한 자질을 지닌"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She was endowed with talent.",
+            "meaning_ko": "그녀는 재능을 타고났다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "with 패턴 고정.",
+    "tags": [
+      "능력",
+      "자질"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '자질을 부여하다'?",
+            "a": "endow",
+            "meaning_ko": "주다"
+          }
+        ]
+      }
+    ]
+  }
+]

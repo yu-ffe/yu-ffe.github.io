@@ -1,0 +1,934 @@
+[
+  {
+    "word": "erosion",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the gradual destruction or wearing away of something",
+        "definition_ko": "침식, 약화",
+        "note": "자연·추상 개념 모두에 사용"
+      }
+    ],
+    "concept": "시간에 따라 점진적으로 깎이거나 약해지는 현상",
+    "etymology": "라틴어 erodere(갉아먹다)에서 유래",
+    "semanticExtension": "지형 침식 → 신뢰·권위의 약화",
+    "nuanceRegister": "격식·문어",
+    "grammarNotes": "불가산으로 자주 사용",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 침식/약화",
+        "example": "erosion of trust"
+      }
+    ],
+    "requiredComplements": [
+      "erosion of + 대상"
+    ],
+    "morphology": "e-(밖으로) + rod(갉다) + -sion",
+    "derivatives": [
+      {
+        "word": "erode",
+        "meaning_ko": "침식하다"
+      },
+      {
+        "word": "erosive",
+        "meaning_ko": "침식성의"
+      }
+    ],
+    "related": [
+      {
+        "word": "weathering",
+        "meaning_ko": "풍화"
+      },
+      {
+        "word": "degradation",
+        "meaning_ko": "퇴화"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "wear",
+        "meaning_ko": "마모"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "decay",
+        "meaning_ko": "부식/쇠퇴"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "accumulation",
+        "meaning_ko": "축적"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "soil erosion",
+            "meaning_ko": "토양 침식"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "coastal erosion",
+            "meaning_ko": "해안 침식"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "erosion of confidence",
+            "meaning_ko": "신뢰의 약화"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Soil erosion is a serious problem.",
+            "meaning_ko": "토양 침식은 심각한 문제다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "There has been an erosion of trust.",
+            "meaning_ko": "신뢰가 약화되었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Unchecked erosion can undermine institutions.",
+            "meaning_ko": "통제되지 않은 침식은 제도를 약화시킬 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "erode(동사)와 세트로 학습.",
+    "tags": [
+      "자연",
+      "약화"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Noun of erode?",
+            "a": "erosion",
+            "meaning_ko": "침식"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "erode",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to gradually destroy or weaken something",
+        "definition_ko": "침식하다; 점차 약화시키다",
+        "note": "시간 경과 강조"
+      }
+    ],
+    "concept": "서서히 깎이거나 약해지게 만들다",
+    "etymology": "라틴어 erodere(갉아먹다)",
+    "semanticExtension": "물리적 침식 → 신뢰·가치 약화",
+    "nuanceRegister": "격식·문어",
+    "grammarNotes": "타동사·자동사 모두 사용",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "away",
+        "meaning_ko": "서서히 깎아내다",
+        "example": "erode away confidence"
+      }
+    ],
+    "requiredComplements": [
+      "erode + 대상",
+      "erode away + 대상"
+    ],
+    "morphology": "e-(밖으로) + rod(갉다)",
+    "derivatives": [
+      {
+        "word": "erosion",
+        "meaning_ko": "침식"
+      }
+    ],
+    "related": [
+      {
+        "word": "wear away",
+        "meaning_ko": "마모되다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "undermine",
+        "meaning_ko": "약화시키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "weaken",
+        "meaning_ko": "약화시키다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "strengthen",
+        "meaning_ko": "강화하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "erode trust",
+            "meaning_ko": "신뢰를 약화시키다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "erode confidence",
+            "meaning_ko": "자신감을 깎아먹다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "erode institutional authority",
+            "meaning_ko": "제도적 권위를 약화시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Water erodes rock.",
+            "meaning_ko": "물은 바위를 침식한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Scandals eroded public trust.",
+            "meaning_ko": "스캔들은 대중의 신뢰를 약화시켰다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Years of neglect eroded the system.",
+            "meaning_ko": "수년간의 방치는 시스템을 약화시켰다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "away와 자주 결합.",
+    "tags": [
+      "약화",
+      "변화"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '침식하다'?",
+            "a": "erode",
+            "meaning_ko": "서서히 약화시키다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "reptile",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a cold-blooded vertebrate animal with scales",
+        "definition_ko": "파충류",
+        "note": "생물 분류 용어"
+      }
+    ],
+    "concept": "비늘을 가진 변온 척추동물",
+    "etymology": "라틴어 reptilis(기어다니는)",
+    "semanticExtension": "생물학적 의미 중심",
+    "nuanceRegister": "중립·학술",
+    "grammarNotes": "가산명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "rept-(기어다니다)",
+    "derivatives": [
+      {
+        "word": "reptilian",
+        "meaning_ko": "파충류의"
+      }
+    ],
+    "related": [
+      {
+        "word": "amphibian",
+        "meaning_ko": "양서류"
+      }
+    ],
+    "synonyms": [],
+    "nearSynonyms": [],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "cold-blooded reptile",
+            "meaning_ko": "변온 파충류"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "reptile habitat",
+            "meaning_ko": "파충류 서식지"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "reptile conservation",
+            "meaning_ko": "파충류 보존"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Snakes are reptiles.",
+            "meaning_ko": "뱀은 파충류다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Reptiles need warm environments.",
+            "meaning_ko": "파충류는 따뜻한 환경이 필요하다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Reptile diversity varies by region.",
+            "meaning_ko": "파충류 다양성은 지역에 따라 다르다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "amphibian과 구분.",
+    "tags": [
+      "생물",
+      "동물"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Cold-blooded animal with scales?",
+            "a": "reptile",
+            "meaning_ko": "파충류"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "propel",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to drive or push something forward",
+        "definition_ko": "추진하다; 밀어 나아가게 하다",
+        "note": "물리·비유 모두 사용"
+      }
+    ],
+    "concept": "힘을 가해 앞으로 나아가게 함",
+    "etymology": "라틴어 propellere(앞으로 밀다)",
+    "semanticExtension": "물리적 추진 → 경력·변화 촉진",
+    "nuanceRegister": "격식·문어",
+    "grammarNotes": "타동사",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~로 밀어 넣다",
+        "example": "propel into action"
+      }
+    ],
+    "requiredComplements": [
+      "propel + 목적어",
+      "propel + 목적어 + into + 상태"
+    ],
+    "morphology": "pro-(앞으로) + pell(밀다)",
+    "derivatives": [
+      {
+        "word": "propulsion",
+        "meaning_ko": "추진"
+      }
+    ],
+    "related": [
+      {
+        "word": "drive",
+        "meaning_ko": "몰다"
+      },
+      {
+        "word": "thrust",
+        "meaning_ko": "밀치다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "drive",
+        "meaning_ko": "추진하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "push",
+        "meaning_ko": "밀다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "halt",
+        "meaning_ko": "멈추다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "propel forward",
+            "meaning_ko": "앞으로 추진하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "propel growth",
+            "meaning_ko": "성장을 촉진하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "propel innovation",
+            "meaning_ko": "혁신을 추진하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The engine propels the boat.",
+            "meaning_ko": "엔진이 배를 추진한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "New ideas propelled the project.",
+            "meaning_ko": "새 아이디어가 프로젝트를 추진했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Policy reforms can propel economic growth.",
+            "meaning_ko": "정책 개혁은 경제 성장을 촉진할 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "thrust보다 일반적·비유적 사용 많음.",
+    "tags": [
+      "추진",
+      "변화"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '추진하다'?",
+            "a": "propel",
+            "meaning_ko": "앞으로 밀다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "embed",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to fix firmly and deeply in something",
+        "definition_ko": "깊숙이 박다; 내장하다",
+        "note": "기술·비유 모두 사용"
+      }
+    ],
+    "concept": "어떤 것 안에 단단히 박아 넣다",
+    "etymology": "in + bed(침대)에서 유래",
+    "semanticExtension": "물리적 고정 → 데이터·개념 내장",
+    "nuanceRegister": "중립·전문",
+    "grammarNotes": "타동사",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 내장하다",
+        "example": "embed code in a page"
+      }
+    ],
+    "requiredComplements": [
+      "embed + 대상 + in + 매체"
+    ],
+    "morphology": "em-(안으로) + bed(고정)",
+    "derivatives": [
+      {
+        "word": "embedded",
+        "meaning_ko": "내장된"
+      }
+    ],
+    "related": [
+      {
+        "word": "insert",
+        "meaning_ko": "삽입하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "insert",
+        "meaning_ko": "삽입하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "implant",
+        "meaning_ko": "심다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "remove",
+        "meaning_ko": "제거하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "embed a video",
+            "meaning_ko": "영상을 삽입하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "deeply embedded",
+            "meaning_ko": "깊이 박힌"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "embed principles",
+            "meaning_ko": "원칙을 내재화하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The arrow embedded in the wall.",
+            "meaning_ko": "화살이 벽에 박혔다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They embedded the video on the site.",
+            "meaning_ko": "그들은 사이트에 영상을 삽입했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Values are embedded in the culture.",
+            "meaning_ko": "가치는 문화에 내재되어 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "IT 문맥에서 매우 빈번.",
+    "tags": [
+      "기술",
+      "고정"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Verb meaning '내장하다'?",
+            "a": "embed",
+            "meaning_ko": "깊이 박다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cosmopolitan",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "familiar with and influenced by many cultures",
+        "definition_ko": "국제적인; 세계시민적인",
+        "note": "도시·사람 묘사"
+      }
+    ],
+    "concept": "다양한 문화가 공존하는 국제적 성향",
+    "etymology": "그리스어 kosmos(세계) + polites(시민)",
+    "semanticExtension": "세계시민 → 국제적 도시 감각",
+    "nuanceRegister": "격식·문어",
+    "grammarNotes": "형용사/명사 모두 사용",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사 용법)",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "cosmo-(세계) + politan(시민)",
+    "derivatives": [
+      {
+        "word": "cosmopolitanism",
+        "meaning_ko": "세계시민주의"
+      }
+    ],
+    "related": [
+      {
+        "word": "international",
+        "meaning_ko": "국제적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "worldly",
+        "meaning_ko": "국제적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "global",
+        "meaning_ko": "세계적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "provincial",
+        "meaning_ko": "지방적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "cosmopolitan city",
+            "meaning_ko": "국제적인 도시"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "cosmopolitan lifestyle",
+            "meaning_ko": "국제적 생활방식"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "cosmopolitan outlook",
+            "meaning_ko": "세계시민적 관점"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "New York is cosmopolitan.",
+            "meaning_ko": "뉴욕은 국제적인 도시다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She has a cosmopolitan background.",
+            "meaning_ko": "그녀는 국제적 배경을 가졌다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A cosmopolitan outlook values diversity.",
+            "meaning_ko": "세계시민적 관점은 다양성을 중시한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "provincial과 대비.",
+    "tags": [
+      "문화",
+      "도시"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Opposite of provincial?",
+            "a": "cosmopolitan",
+            "meaning_ko": "국제적인"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cosmopolis",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "a large, culturally diverse city",
+        "definition_ko": "세계 도시, 국제 도시",
+        "note": "문어적 표현"
+      }
+    ],
+    "concept": "여러 문화가 공존하는 대도시",
+    "etymology": "cosmos(세계) + polis(도시)",
+    "semanticExtension": "철학적 개념 → 도시 지칭",
+    "nuanceRegister": "문어·학술",
+    "grammarNotes": "가산명사",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "cosmo-(세계) + polis(도시)",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "metropolis",
+        "meaning_ko": "대도시"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "world city",
+        "meaning_ko": "세계 도시"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "global city",
+        "meaning_ko": "글로벌 도시"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "modern cosmopolis",
+            "meaning_ko": "현대적 세계 도시"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "urban cosmopolis",
+            "meaning_ko": "도시적 세계도시"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "emerging cosmopolis",
+            "meaning_ko": "부상하는 세계 도시"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The city became a cosmopolis.",
+            "meaning_ko": "그 도시는 세계 도시가 되었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Trade turned the port into a cosmopolis.",
+            "meaning_ko": "무역은 항구를 세계 도시로 만들었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Migration reshaped the city into a cosmopolis.",
+            "meaning_ko": "이주는 그 도시를 세계 도시로 재편했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "cosmopolitan(형용사)과 어근 연결.",
+    "tags": [
+      "도시",
+      "문화"
+    ],
+    "frequency": "하",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Noun for a world city?",
+            "a": "cosmopolis",
+            "meaning_ko": "세계 도시"
+          }
+        ]
+      }
+    ]
+  }
+]

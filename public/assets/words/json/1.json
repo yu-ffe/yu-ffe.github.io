@@ -1,0 +1,292 @@
+[
+  {
+    "word": "counteract",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to act against something in order to reduce its force, effect, or influence",
+        "definition_ko": "어떤 것의 힘이나 영향, 효과를 상쇄하거나 약화시키기 위해 반대로 작용하다",
+        "note": "보통 부정적 효과를 줄이거나 무력화할 때 사용"
+      }
+    ],
+    "concept": "이미 발생했거나 진행 중인 효과를 반대 작용으로 상쇄하는 행위",
+    "etymology": "라틴어 contra(반대하여) + agere(행동하다)에서 유래",
+    "semanticExtension": "물리적 힘뿐 아니라 정책, 감정, 영향력 등 추상적 대상에도 확장 사용됨",
+    "nuanceRegister": "중립적·격식, 학술·공식 문맥에서도 자주 사용",
+    "grammarNotes": "타동사로 목적어 필요, 주어는 보통 사람·정책·조치",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "against",
+        "meaning_ko": "~에 맞서 상쇄하다",
+        "example": "counteract against inflation"
+      }
+    ],
+    "requiredComplements": [
+      "counteract + noun (부정적 효과)"
+    ],
+    "morphology": "counter-(반대) + act(행동하다)",
+    "derivatives": [
+      {
+        "word": "counteraction",
+        "meaning_ko": "상쇄 작용"
+      },
+      {
+        "word": "counteractive",
+        "meaning_ko": "상쇄하는 성질의"
+      }
+    ],
+    "related": [
+      {
+        "word": "balance",
+        "meaning_ko": "균형을 맞추다"
+      },
+      {
+        "word": "neutralize",
+        "meaning_ko": "무력화하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "offset",
+        "meaning_ko": "상쇄하다"
+      },
+      {
+        "word": "neutralize",
+        "meaning_ko": "중화하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "mitigate",
+        "meaning_ko": "완화하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "intensify",
+        "meaning_ko": "강화하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "counteract effects",
+            "meaning_ko": "효과를 상쇄하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "counteract inflation",
+            "meaning_ko": "인플레이션을 억제하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "counteract adverse impacts",
+            "meaning_ko": "부정적 영향을 상쇄하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Exercise can counteract stress.",
+            "meaning_ko": "운동은 스트레스를 상쇄할 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The policy aims to counteract rising prices.",
+            "meaning_ko": "그 정책은 물가 상승을 억제하는 것을 목표로 한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Immediate action was required to counteract the long-term economic damage.",
+            "meaning_ko": "장기적 경제 피해를 상쇄하기 위해 즉각적인 조치가 필요했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "counter- 접두사는 '반대' 의미를 가지므로 의미 추론에 도움 된다. offset과 비교해 기억하면 좋다.",
+    "tags": [
+      "일반 동사",
+      "정책",
+      "경제"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: Exercise can ___ stress.",
+            "a": "counteract",
+            "meaning_ko": "스트레스를 상쇄하다"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cumulative",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "increasing or growing by successive additions",
+        "definition_ko": "차례차례 더해져 누적되는",
+        "note": "시간 경과에 따른 누적 강조"
+      }
+    ],
+    "concept": "개별 요소가 쌓여 전체 효과를 만드는 상태",
+    "etymology": "라틴어 cumulatus(쌓이다)에서 유래",
+    "semanticExtension": "점수, 효과, 경험 등 추상적 대상에도 사용",
+    "nuanceRegister": "격식·학술적 표현",
+    "grammarNotes": "주로 명사 앞에서 사용",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "cumul-(쌓다) + -ative(형용사 접미사)",
+    "derivatives": [
+      {
+        "word": "cumulatively",
+        "meaning_ko": "누적적으로"
+      },
+      {
+        "word": "cumulation",
+        "meaning_ko": "누적"
+      }
+    ],
+    "related": [
+      {
+        "word": "total",
+        "meaning_ko": "총합"
+      },
+      {
+        "word": "aggregate",
+        "meaning_ko": "총합의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "accumulative",
+        "meaning_ko": "누적되는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "incremental",
+        "meaning_ko": "점진적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "isolated",
+        "meaning_ko": "개별적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "cumulative effect",
+            "meaning_ko": "누적 효과"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "cumulative score",
+            "meaning_ko": "누적 점수"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "cumulative impact assessment",
+            "meaning_ko": "누적 영향 평가"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The damage was cumulative.",
+            "meaning_ko": "그 피해는 누적된 것이었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Stress has a cumulative effect on health.",
+            "meaning_ko": "스트레스는 건강에 누적된 영향을 준다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The policy change had a cumulative impact over decades.",
+            "meaning_ko": "그 정책 변화는 수십 년에 걸쳐 누적된 영향을 미쳤다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "effect, impact와 자주 결합하므로 함께 암기하면 좋다.",
+    "tags": [
+      "형용사",
+      "학술",
+      "일반"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Stress has a ___ effect.",
+            "a": "cumulative",
+            "meaning_ko": "누적 효과"
+          }
+        ]
+      }
+    ]
+  }
+]
