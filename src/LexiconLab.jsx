@@ -637,6 +637,54 @@ export default function LexiconLab() {
   const [error, setError] = useState('');
   const [panelOpen, setPanelOpen] = useState(false);
 
+  const fetchWordList = async () => {
+    const collected = [];
+    const maxFiles = 500;
+
+    for (let i = 1; i <= maxFiles; i += 1) {
+      const candidates = [
+        `/assets/words/json/${i}.json`,
+        `/assets/words/json/${String(i).padStart(2, '0')}.json`,
+      ];
+
+      // Try unpadded first, then fall back to 2-digit padded filenames.
+      const result = await candidates.reduce(async (prevPromise, candidate) => {
+        const prev = await prevPromise;
+        if (prev) return prev;
+
+        try {
+          const res = await fetch(candidate, { cache: 'no-cache' });
+          if (!res.ok) return null;
+          const data = await res.json();
+          return { data, source: candidate };
+        } catch (err) {
+          console.warn('단어장 JSON을 불러오지 못했습니다.', candidate, err);
+          return null;
+        }
+      }, Promise.resolve(null));
+
+      if (!result) break;
+
+      const { data, source } = result;
+      if (Array.isArray(data)) {
+        collected.push(...data);
+      } else if (data && typeof data === 'object') {
+        collected.push(data);
+      } else {
+        console.warn('알 수 없는 단어장 형식이 감지되었습니다.', source);
+      }
+    }
+
+    return collected;
+  };
+
+  const fetchLegacyLexicon = async () => {
+    const res = await fetch('/assets/lexicon/lexicon.json', { cache: 'no-cache' });
+    if (!res.ok) throw new Error('단어장 데이터를 불러올 수 없습니다.');
+    const data = await res.json();
+    return Array.isArray(data) ? data : [];
+  };
+
   useEffect(() => {
     const saved = readCookie(SETTINGS_COOKIE);
     if (saved) {
@@ -658,10 +706,15 @@ export default function LexiconLab() {
       setLoading(true);
       setError('');
       try {
-        const res = await fetch('/assets/lexicon/lexicon.json', { cache: 'no-cache' });
-        if (!res.ok) throw new Error('단어장 데이터를 불러올 수 없습니다.');
-        const data = await res.json();
-        setEntries(data);
+        const wordsFromJson = await fetchWordList();
+
+        if (wordsFromJson.length > 0) {
+          setEntries(wordsFromJson);
+          return;
+        }
+
+        const legacyLexicon = await fetchLegacyLexicon();
+        setEntries(legacyLexicon);
       } catch (err) {
         setError(err.message || '데이터를 불러오지 못했습니다.');
         setEntries([]);
