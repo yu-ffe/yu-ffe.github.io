@@ -424,6 +424,59 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true }) {
   );
 }
 
+function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPageSizeChange, totalItems }) {
+  if (!totalItems) return null;
+
+  const handleSelectChange = (event) => {
+    const next = Number(event.target.value);
+    onPageSizeChange(Number.isNaN(next) ? 8 : next);
+  };
+
+  return (
+    <div className="pagination-bar" aria-label="카드 페이지 전환">
+      <div className="pagination-meta">
+        <p className="eyebrow">총 {totalItems}개 단어</p>
+        <p className="pagination-range">
+          페이지 {currentPage} / {totalPages}
+        </p>
+      </div>
+      <div className="pagination-actions">
+        <label className="page-size" htmlFor="pageSize">
+          페이지당
+          <select id="pageSize" value={pageSize} onChange={handleSelectChange}>
+            {[6, 8, 10, 12].map((size) => (
+              <option key={size} value={size}>
+                {size}
+              </option>
+            ))}
+          </select>
+          개
+        </label>
+        <div className="page-buttons">
+          <button
+            type="button"
+            className="page-button"
+            onClick={() => onChange(currentPage - 1)}
+            disabled={currentPage === 1}
+            aria-label="이전 페이지"
+          >
+            ← 이전
+          </button>
+          <button
+            type="button"
+            className="page-button"
+            onClick={() => onChange(currentPage + 1)}
+            disabled={currentPage === totalPages}
+            aria-label="다음 페이지"
+          >
+            다음 →
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 function filterByLevel(groups, levels) {
   if (!groups?.length) return [];
   if (!levels?.length) return groups;
@@ -651,6 +704,8 @@ export default function LexiconLab() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [panelOpen, setPanelOpen] = useState(false);
+  const [currentPage, setCurrentPage] = useState(1);
+  const [pageSize, setPageSize] = useState(8);
 
   useEffect(() => {
     const saved = readCookie(SETTINGS_COOKIE);
@@ -704,6 +759,22 @@ export default function LexiconLab() {
   }, [entries]);
 
   useEffect(() => {
+    setCurrentPage(1);
+  }, [entries, pageSize]);
+
+  const totalPages = Math.max(1, Math.ceil(entries.length / pageSize));
+  const visibleEntries = useMemo(() => {
+    const start = (currentPage - 1) * pageSize;
+    return entries.slice(start, start + pageSize);
+  }, [currentPage, entries, pageSize]);
+
+  const handlePageChange = (nextPage) => {
+    const page = Math.min(Math.max(nextPage, 1), totalPages);
+    setCurrentPage(page);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  useEffect(() => {
     const handleScroll = () => {
       writeCookie(POSITION_COOKIE, String(Math.round(window.scrollY)));
     };
@@ -731,9 +802,27 @@ export default function LexiconLab() {
 
       {!loading && !error && entries.length === 0 && <p className="status">단어 데이터가 없습니다.</p>}
 
-      {entries.map((entry) => (
+      <PaginationControls
+        currentPage={currentPage}
+        totalPages={totalPages}
+        onChange={handlePageChange}
+        pageSize={pageSize}
+        onPageSizeChange={setPageSize}
+        totalItems={entries.length}
+      />
+
+      {visibleEntries.map((entry) => (
         <LexiconEntry key={entry.word} entry={entry} settings={settings} />
       ))}
+
+      <PaginationControls
+        currentPage={currentPage}
+        totalPages={totalPages}
+        onChange={handlePageChange}
+        pageSize={pageSize}
+        onPageSizeChange={setPageSize}
+        totalItems={entries.length}
+      />
 
       <SettingsPanel
         open={panelOpen}
