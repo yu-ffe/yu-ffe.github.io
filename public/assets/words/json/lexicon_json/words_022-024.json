@@ -1,0 +1,865 @@
+[
+  {
+    "word": "sacred",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Regarded as holy and deserving reverence; connected with religion or spiritual practice; treated as inviolable or deeply respected.",
+        "definition_ko": "신성한, 성스러운; (종교·의례와) 관련된; (비유) 함부로 침해할 수 없는/절대적인.",
+        "note": "종교적 의미가 기본이지만, sacred duty/rights처럼 ‘절대적 가치’(비유)로도 매우 흔합니다."
+      }
+    ],
+    "concept": "종교적 ‘거룩함’ 또는 사회·개인적으로 ‘침해 불가’하다고 여기는 절대적 가치.",
+    "etymology": "라틴어 sacer(신성한, 성스러운)에서 유래해 ‘거룩함/금기’의 의미가 영어에 정착했습니다.",
+    "semanticExtension": "religious(종교의)보다 감정·가치 판단이 강해 ‘존중/경외’의 뉘앙스를 띱니다. 종교 영역에서 ‘holy’와 겹치지만, 비유적으로는 ‘inviolable(침해 불가)’처럼 ‘건드리면 안 되는 것’으로 확장됩니다.",
+    "nuanceRegister": "중립~격식. 종교/역사/윤리/정치 담론에서 자주 쓰이며, 일상에서도 ‘sacred time/space’처럼 과장·강조로 사용됩니다.",
+    "grammarNotes": "형용사로 sacred + noun(place, text, ritual, duty, right, trust). ‘sacred to + 사람/집단’(그들에게 신성한)도 가능합니다. 비교급/최상급은 흔하지 않으며 보통 절대적 가치로 취급합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게/~에게는 신성한(절대적으로 소중한)",
+        "example": "This land is sacred to the community."
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서/~안에서 신성한",
+        "example": "a sacred place in the mountains"
+      }
+    ],
+    "requiredComplements": [
+      "sacred to + 사람/집단 — ‘~에게는 신성한/절대적으로 소중한’",
+      "sacred duty/obligation — ‘신성한 의무’(비유 포함)",
+      "sacred trust — ‘(절대적으로 지켜야 할) 신뢰/책임’"
+    ],
+    "morphology": "sacred는 어근 sacer(신성한) 기반입니다. sacred/holy를 함께 묶되, sacred는 ‘침해 불가/절대 존중’ 느낌을 중심으로 기억하면 안정적입니다.",
+    "derivatives": [
+      {
+        "word": "sacredness",
+        "meaning_ko": "신성함, 성스러움"
+      },
+      {
+        "word": "consecrate",
+        "meaning_ko": "신성하게 하다; 봉헌하다"
+      },
+      {
+        "word": "sacrilege",
+        "meaning_ko": "신성모독"
+      }
+    ],
+    "related": [
+      {
+        "word": "holy",
+        "meaning_ko": "신성한, 거룩한"
+      },
+      {
+        "word": "ritual",
+        "meaning_ko": "의식, 의례"
+      },
+      {
+        "word": "sanctuary",
+        "meaning_ko": "성소; 피난처"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "holy",
+        "meaning_ko": "거룩한"
+      },
+      {
+        "word": "hallowed",
+        "meaning_ko": "신성시되는(문어)"
+      },
+      {
+        "word": "inviolable",
+        "meaning_ko": "침해할 수 없는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "revered",
+        "meaning_ko": "존경받는(사람/대상)"
+      },
+      {
+        "word": "venerated",
+        "meaning_ko": "숭배/경외받는(격식)"
+      },
+      {
+        "word": "solemn",
+        "meaning_ko": "엄숙한(분위기)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "profane",
+        "meaning_ko": "세속의; 신성하지 않은"
+      },
+      {
+        "word": "secular",
+        "meaning_ko": "세속의, 비종교적인"
+      },
+      {
+        "word": "defiled",
+        "meaning_ko": "더럽혀진; 모독당한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a sacred place",
+            "meaning_ko": "성지/성스러운 장소"
+          },
+          {
+            "phrase": "sacred text",
+            "meaning_ko": "성전(경전)"
+          },
+          {
+            "phrase": "sacred duty",
+            "meaning_ko": "신성한 의무"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "hold something sacred",
+            "meaning_ko": "~을 신성시하다/절대적으로 존중하다"
+          },
+          {
+            "phrase": "sacred to the community",
+            "meaning_ko": "공동체에 신성한"
+          },
+          {
+            "phrase": "a sacred trust",
+            "meaning_ko": "절대적으로 지켜야 할 책임/신뢰"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "treat it as sacred",
+            "meaning_ko": "그것을 침해 불가로 여기다"
+          },
+          {
+            "phrase": "a sacred obligation to",
+            "meaning_ko": "~에 대한 신성한 책무"
+          },
+          {
+            "phrase": "the sacred and the profane",
+            "meaning_ko": "성(聖)과 속(俗)(대비 표현)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "This temple is a sacred place.",
+            "meaning_ko": "이 절은 신성한 장소입니다."
+          },
+          {
+            "sentence": "They read from a sacred text.",
+            "meaning_ko": "그들은 경전에서 읽었습니다."
+          },
+          {
+            "sentence": "Family time is sacred to her.",
+            "meaning_ko": "그녀에게 가족과 함께하는 시간은 무엇보다 소중합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The ceremony honored a sacred tradition passed down for generations.",
+            "meaning_ko": "그 의식은 여러 세대에 걸쳐 전해진 신성한 전통을 기렸습니다."
+          },
+          {
+            "sentence": "In many cultures, certain mountains are considered sacred to local communities.",
+            "meaning_ko": "많은 문화에서 어떤 산들은 지역 공동체에 신성한 것으로 여겨집니다."
+          },
+          {
+            "sentence": "Public office is a sacred trust, not a personal privilege.",
+            "meaning_ko": "공직은 개인 특권이 아니라 신성한 책임입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "When profit becomes sacred, ethics tends to be treated as negotiable.",
+            "meaning_ko": "이익이 ‘절대 가치’가 되면 윤리는 협상 가능한 것으로 취급되기 쉽습니다."
+          },
+          {
+            "sentence": "The dispute was not merely legal; it touched what the people held sacred.",
+            "meaning_ko": "그 분쟁은 단지 법적 문제가 아니라, 사람들이 신성시하는 가치를 건드렸습니다."
+          },
+          {
+            "sentence": "The novel explores the boundary between the sacred and the profane in everyday life.",
+            "meaning_ko": "그 소설은 일상 속에서 성스러움과 세속성의 경계를 탐구합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sacred는 holy와 비슷하지만, ‘침해 불가/절대 존중’의 느낌이 더 강합니다. 시험에서는 sacred duty/trust처럼 비유적 결합이 자주 나오니 ‘의무/책임/가치’와 결합을 통째로 외우는 게 효율적입니다. 반의어로 profane/secular를 함께 잡아두면 독해에서 대비 구조가 빨리 보입니다.",
+    "tags": [
+      "종교",
+      "가치",
+      "윤리",
+      "전통",
+      "절대성"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The tribe considers the river ____.",
+            "a": "sacred",
+            "meaning_ko": "부족/공동체가 신성시하는 대상."
+          },
+          {
+            "q": "Sacred is closest in meaning to:",
+            "a": "holy",
+            "meaning_ko": "기본 의미는 ‘신성한’입니다."
+          },
+          {
+            "q": "Fill in the blank: Family time is sacred ____ him.",
+            "a": "to",
+            "meaning_ko": "sacred to + 사람."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which phrase best matches the idea of ‘a responsibility that must not be betrayed’?",
+            "a": "a sacred trust",
+            "meaning_ko": "sacred trust = 절대적으로 지켜야 할 책임."
+          },
+          {
+            "q": "Choose the best contrast: sacred vs. secular",
+            "a": "holy/religious vs. nonreligious",
+            "meaning_ko": "종교적/신성 vs 세속."
+          },
+          {
+            "q": "Error check: 'They hold sacred the tradition.' (More natural word order?)",
+            "a": "They hold the tradition sacred.",
+            "meaning_ko": "hold + 목적어 + 형용사(sacred) 구문이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The policy debate turned bitter because it challenged what many citizens considered ____.",
+            "a": "sacred",
+            "meaning_ko": "절대 가치/침해 불가로 여기는 지점을 건드린 맥락."
+          },
+          {
+            "q": "Which sentence uses sacred metaphorically (not religiously)?",
+            "a": "Honesty is sacred in their profession.",
+            "meaning_ko": "직업 윤리에서 ‘절대 가치’로 쓰인 비유."
+          },
+          {
+            "q": "Fill in the blank: The essay examines the tension between the sacred and the ____.",
+            "a": "profane",
+            "meaning_ko": "고정 대비 표현입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "guile",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Cunning and deceptive intelligence used to trick or manipulate others; craftiness.",
+        "definition_ko": "교활함, 간계, 속임수(상대를 속이기 위한 교묘한 술수).",
+        "note": "단순 ‘똑똑함’이 아니라 ‘속이기 위한’ 교묘함이라는 부정적 뉘앙스가 핵심입니다."
+      }
+    ],
+    "concept": "상대를 조종/기만하기 위해 ‘머리를 쓰는’ 교묘한 술수.",
+    "etymology": "옛 프랑스어 guile(속임수) 계열에서 들어온 말로, 오래전부터 ‘기만/간계’ 의미로 굳어졌습니다.",
+    "semanticExtension": "문학/정치/협상 문맥에서 ‘힘’ 대신 ‘술수’로 목표를 달성하는 방식으로 자주 서술됩니다. ‘without guile’(순수하게, 악의 없이)처럼 반어적/대조적 표현으로도 쓰입니다.",
+    "nuanceRegister": "격식~문어. 일상에서는 cunning/trickery가 더 흔하지만, guile은 ‘고전적/문학적’ 뉘앙스가 있습니다.",
+    "grammarNotes": "불가산으로 쓰이는 경우가 많습니다(guile 자체). ‘use guile’, ‘with guile’, ‘without guile’ 결합이 흔합니다. 사람을 꾸밀 때는 ‘a man of guile’(문어)처럼도 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사(대체로)",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "간계를 써서/교활하게",
+        "example": "win with guile"
+      },
+      {
+        "prep": "without",
+        "meaning_ko": "간계 없이/순수하게",
+        "example": "speak without guile"
+      }
+    ],
+    "requiredComplements": [
+      "with guile — ‘간계를 써서’",
+      "without guile — ‘악의/간계 없이’",
+      "use guile to + 동사 — ‘~하려고 간계를 쓰다’"
+    ],
+    "morphology": "형태 분석보다 ‘guile = 기만 목적의 교묘함’으로 이미지 고정이 중요합니다. cunning(교활한)과 묶어두되, guile은 명사로 ‘술수/간계’에 초점입니다.",
+    "derivatives": [
+      {
+        "word": "guileful",
+        "meaning_ko": "교활한(드묾)"
+      },
+      {
+        "word": "cunning",
+        "meaning_ko": "교활한; 교묘한"
+      },
+      {
+        "word": "deceit",
+        "meaning_ko": "기만, 속임"
+      }
+    ],
+    "related": [
+      {
+        "word": "trickery",
+        "meaning_ko": "속임수"
+      },
+      {
+        "word": "manipulation",
+        "meaning_ko": "조종, 조작"
+      },
+      {
+        "word": "scheming",
+        "meaning_ko": "책략, 음모"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cunning",
+        "meaning_ko": "교활함"
+      },
+      {
+        "word": "deceit",
+        "meaning_ko": "기만"
+      },
+      {
+        "word": "craftiness",
+        "meaning_ko": "교묘함(부정적)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "shrewdness",
+        "meaning_ko": "영리함(반드시 부정적은 아님)"
+      },
+      {
+        "word": "strategy",
+        "meaning_ko": "전략(중립)"
+      },
+      {
+        "word": "sleight of hand",
+        "meaning_ko": "눈속임(기술/마술 톤)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "candor",
+        "meaning_ko": "솔직함"
+      },
+      {
+        "word": "honesty",
+        "meaning_ko": "정직"
+      },
+      {
+        "word": "naivety",
+        "meaning_ko": "순진함"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "use guile",
+            "meaning_ko": "간계를 쓰다"
+          },
+          {
+            "phrase": "with guile",
+            "meaning_ko": "교활하게/술수를 써서"
+          },
+          {
+            "phrase": "without guile",
+            "meaning_ko": "간계 없이, 순수하게"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "win by guile",
+            "meaning_ko": "간계로 이기다"
+          },
+          {
+            "phrase": "political guile",
+            "meaning_ko": "정치적 술수/교활함"
+          },
+          {
+            "phrase": "a display of guile",
+            "meaning_ko": "교활함을 드러냄"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "guile and deception",
+            "meaning_ko": "간계와 기만(짝 표현)"
+          },
+          {
+            "phrase": "mask guile as charm",
+            "meaning_ko": "간계를 매력으로 위장하다"
+          },
+          {
+            "phrase": "achieve by guile what force cannot",
+            "meaning_ko": "힘으로 못 하는 일을 술수로 이루다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He used guile to get what he wanted.",
+            "meaning_ko": "그는 원하는 것을 얻기 위해 간계를 썼습니다."
+          },
+          {
+            "sentence": "She spoke without guile.",
+            "meaning_ko": "그녀는 꾸밈이나 간계 없이 말했습니다."
+          },
+          {
+            "sentence": "The villain relied on guile, not strength.",
+            "meaning_ko": "그 악당은 힘이 아니라 술수에 의존했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Her political guile helped her survive in a hostile environment.",
+            "meaning_ko": "그녀의 정치적 술수는 적대적인 환경에서 살아남는 데 도움이 됐습니다."
+          },
+          {
+            "sentence": "The contract was drafted with enough guile to mislead an inexperienced buyer.",
+            "meaning_ko": "그 계약서는 미숙한 구매자를 속일 만큼 교묘하게 작성되었습니다."
+          },
+          {
+            "sentence": "He admired their strategy but distrusted the guile behind it.",
+            "meaning_ko": "그는 그들의 전략을 인정했지만 그 이면의 간계는 믿지 않았습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The narrative frames guile as a form of intelligence corrupted by a willingness to deceive.",
+            "meaning_ko": "그 서사는 간계를 ‘기만하려는 의지로 타락한 지능’으로 그립니다."
+          },
+          {
+            "sentence": "What looked like charm was, on closer inspection, guile carefully calibrated to manipulate.",
+            "meaning_ko": "겉보기엔 매력처럼 보였지만, 자세히 보면 조종을 위해 정교하게 계산된 간계였습니다."
+          },
+          {
+            "sentence": "In diplomacy, guile can secure short-term gains while eroding trust that is harder to rebuild.",
+            "meaning_ko": "외교에서 간계는 단기 이익을 얻을 수 있지만, 다시 쌓기 어려운 신뢰를 잠식할 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "guile은 ‘교묘함’ 중에서도 반드시 ‘속이려는 목적’이 들어갑니다. shrewd(영리한)처럼 중립적 영리함과 구분하세요. 독해에서는 without guile(순수하게)처럼 대조 표현이 자주 나오고, guile and deception처럼 짝으로 붙는 경우도 많습니다.",
+    "tags": [
+      "성격",
+      "기만",
+      "정치",
+      "협상",
+      "문어"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The fox is known for its ____.",
+            "a": "guile",
+            "meaning_ko": "여우 = 교활함(간계) 이미지."
+          },
+          {
+            "q": "Guile is closest in meaning to:",
+            "a": "deceit",
+            "meaning_ko": "기만/속임수의 핵심 의미."
+          },
+          {
+            "q": "Fill in the blank: She spoke without ____.",
+            "a": "guile",
+            "meaning_ko": "without guile = 간계 없이."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which word is more neutral than guile?",
+            "a": "strategy",
+            "meaning_ko": "strategy는 중립적, guile은 부정적입니다."
+          },
+          {
+            "q": "Fill in the blank: He used guile to ____ the investors.",
+            "a": "deceive",
+            "meaning_ko": "guile의 목적이 ‘속이다’로 자연스럽게 연결됩니다."
+          },
+          {
+            "q": "Error check: 'Guile are dangerous.' (Correct it.)",
+            "a": "Guile is dangerous.",
+            "meaning_ko": "보통 불가산으로 취급해 단수 취급이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: Guile may win a negotiation today, but it can ____ trust tomorrow.",
+            "a": "undermine",
+            "meaning_ko": "간계가 신뢰를 ‘잠식/훼손’한다는 논리."
+          },
+          {
+            "q": "Which sentence best implies hidden manipulation?",
+            "a": "His friendliness was guile disguised as warmth.",
+            "meaning_ko": "겉의 친절=위장된 간계."
+          },
+          {
+            "q": "Fill in the blank: The author contrasts candor with guile to show two forms of ____.",
+            "a": "communication",
+            "meaning_ko": "솔직함 vs 간계 = 소통 방식 대비."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "famous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Well known by many people; widely recognized; notable for a particular quality or achievement.",
+        "definition_ko": "유명한, 널리 알려진; (무엇으로) 이름난.",
+        "note": "be famous for + 명사/동명사(무엇으로 유명한)가 핵심 패턴입니다."
+      }
+    ],
+    "concept": "많은 사람이 알고 있어 ‘인지도’가 높은 상태(또는 특정 특징/성과로 널리 알려진 상태).",
+    "etymology": "라틴어 fama(소문, 명성)에서 유래해 ‘명성/평판’의 의미가 형용사로 발전했습니다.",
+    "semanticExtension": "단순히 ‘많이 알려짐’에서 나아가 ‘특정 분야의 대표성/상징성’을 강조할 때도 쓰입니다(famous for). 문어에서는 ‘famed’로도 바뀌어 쓰입니다.",
+    "nuanceRegister": "중립. 일상/기사/학술 모두에서 흔합니다.",
+    "grammarNotes": "be famous for + 명사/동명사(이유). be famous as + 직업/정체성(무엇으로 불리는지). be famous to + 사람(그 사람들에게 알려진). famous + noun(유명한 ~).",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~로 유명한",
+        "example": "famous for its beaches"
+      },
+      {
+        "prep": "as",
+        "meaning_ko": "~로(정체성/직함) 유명한",
+        "example": "famous as a novelist"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게는 유명한/잘 알려진",
+        "example": "famous to historians"
+      }
+    ],
+    "requiredComplements": [
+      "be famous for + 명사/동명사 — ‘~로 유명하다’",
+      "be famous as + 역할/직업 — ‘~로(로서) 유명하다’",
+      "be famous to + 집단 — ‘~에게는 유명하다’"
+    ],
+    "morphology": "fame(명성) + -ous(…의 성질). fame을 알면 famous의 의미가 바로 복원됩니다.",
+    "derivatives": [
+      {
+        "word": "fame",
+        "meaning_ko": "명성"
+      },
+      {
+        "word": "famously",
+        "meaning_ko": "유명하게; (관용) 악명 높게도"
+      },
+      {
+        "word": "infamous",
+        "meaning_ko": "악명 높은"
+      }
+    ],
+    "related": [
+      {
+        "word": "celebrity",
+        "meaning_ko": "유명인"
+      },
+      {
+        "word": "renown",
+        "meaning_ko": "명성(격식)"
+      },
+      {
+        "word": "notorious",
+        "meaning_ko": "악명 높은"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "well-known",
+        "meaning_ko": "널리 알려진"
+      },
+      {
+        "word": "renowned",
+        "meaning_ko": "명성 높은(격식)"
+      },
+      {
+        "word": "celebrated",
+        "meaning_ko": "유명한; 찬사받는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "notable",
+        "meaning_ko": "주목할 만한(인지도보다 ‘중요성’)"
+      },
+      {
+        "word": "prominent",
+        "meaning_ko": "저명한(사회적 지위/영향력)"
+      },
+      {
+        "word": "popular",
+        "meaning_ko": "인기 있는(호감/선호 중심)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unknown",
+        "meaning_ko": "알려지지 않은"
+      },
+      {
+        "word": "obscure",
+        "meaning_ko": "무명인; 잘 알려지지 않은"
+      },
+      {
+        "word": "anonymous",
+        "meaning_ko": "익명의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a famous actor",
+            "meaning_ko": "유명한 배우"
+          },
+          {
+            "phrase": "become famous",
+            "meaning_ko": "유명해지다"
+          },
+          {
+            "phrase": "famous for",
+            "meaning_ko": "~로 유명한"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "world-famous",
+            "meaning_ko": "세계적으로 유명한"
+          },
+          {
+            "phrase": "famous landmark",
+            "meaning_ko": "유명한 랜드마크"
+          },
+          {
+            "phrase": "famous as a scientist",
+            "meaning_ko": "과학자로 유명한"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "rise to fame",
+            "meaning_ko": "명성을 얻다/급부상하다"
+          },
+          {
+            "phrase": "achieve lasting fame",
+            "meaning_ko": "지속적인 명성을 얻다"
+          },
+          {
+            "phrase": "famous in name only",
+            "meaning_ko": "이름만 유명한(실속 없음)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He is a famous actor.",
+            "meaning_ko": "그는 유명한 배우입니다."
+          },
+          {
+            "sentence": "The city is famous for its food.",
+            "meaning_ko": "그 도시는 음식으로 유명합니다."
+          },
+          {
+            "sentence": "She became famous overnight.",
+            "meaning_ko": "그녀는 하룻밤 사이에 유명해졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The island is world-famous for its coral reefs.",
+            "meaning_ko": "그 섬은 산호초로 세계적으로 유명합니다."
+          },
+          {
+            "sentence": "He is famous as a novelist, but he started as a journalist.",
+            "meaning_ko": "그는 소설가로 유명하지만, 시작은 기자였습니다."
+          },
+          {
+            "sentence": "The museum houses a famous painting that draws tourists year-round.",
+            "meaning_ko": "그 박물관에는 연중 관광객을 끌어들이는 유명한 그림이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Famous in name only, the brand survived on nostalgia rather than innovation.",
+            "meaning_ko": "이름만 유명한 그 브랜드는 혁신이 아니라 향수에 기대어 버텼습니다."
+          },
+          {
+            "sentence": "She rose to fame not for perfection, but for turning mistakes into a distinct style.",
+            "meaning_ko": "그녀는 완벽함이 아니라 실수를 독특한 스타일로 바꾸는 능력으로 명성을 얻었습니다."
+          },
+          {
+            "sentence": "What made him famous was less his talent than his timing and relentless self-promotion.",
+            "meaning_ko": "그를 유명하게 만든 것은 재능보다도 타이밍과 집요한 자기홍보였습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "famous는 ‘인지도(많이 알려짐)’가 핵심이고, prominent/notable은 ‘중요도·영향력’ 쪽으로 기울 수 있습니다. 패턴은 be famous for(이유) / as(정체성) / to(특정 집단) 3개를 세트로 잡으면 문장 변형에 강해집니다. 반대 개념으로 unknown/obscure를 같이 묶어두면 독해 속도가 빨라집니다.",
+    "tags": [
+      "인지도",
+      "명성",
+      "사람",
+      "도시/장소",
+      "표현패턴"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The town is famous ____ its hot springs.",
+            "a": "for",
+            "meaning_ko": "famous for = ~로 유명한."
+          },
+          {
+            "q": "Choose the best word: She became ____ after the movie.",
+            "a": "famous",
+            "meaning_ko": "유명해지다(become famous)."
+          },
+          {
+            "q": "Antonym of famous:",
+            "a": "unknown",
+            "meaning_ko": "famous ↔ unknown."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: He is famous ____ a chef, not a singer.",
+            "a": "as",
+            "meaning_ko": "as는 ‘정체성/직함’에 사용."
+          },
+          {
+            "q": "Choose the best completion: The beach is world-____ for its sunsets.",
+            "a": "famous",
+            "meaning_ko": "world-famous가 고정 결합입니다."
+          },
+          {
+            "q": "Error check: 'She is famous to painting.' (Correct it.)",
+            "a": "She is famous for painting.",
+            "meaning_ko": "이유/활동은 for + 동명사."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best phrase meaning 'only famous by reputation':",
+            "a": "famous in name only",
+            "meaning_ko": "이름만 유명한."
+          },
+          {
+            "q": "Which sentence best emphasizes a cause of fame?",
+            "a": "What made him famous was his ability to explain complex ideas simply.",
+            "meaning_ko": "‘무엇이 유명하게 만들었는가’ 구조."
+          },
+          {
+            "q": "Fill in the blank: The scientist achieved lasting ____ through her research.",
+            "a": "fame",
+            "meaning_ko": "famous(형용사) ↔ fame(명사)."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,958 @@
+[
+  {
+    "word": "dialect",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A regional or social variety of a language, with its own pronunciation, vocabulary, and grammar.",
+        "definition_ko": "방언, 사투리(지역·계층에 따라 달라지는 언어 변종).",
+        "note": "언어 전체(language) 안의 변형이라는 점이 핵심입니다."
+      },
+      {
+        "definition_en": "A manner of speaking typical of a group, especially in technical or artistic contexts.",
+        "definition_ko": "특정 집단/분야 특유의 말투·표현 방식(비유적).",
+        "note": "문학·비평에서 'a dialect of X'처럼 은유적으로 쓰이기도 합니다."
+      }
+    ],
+    "concept": "같은 언어라도 지역·집단에 따라 굳어진 '말의 버전'을 가리키는 단어입니다.",
+    "etymology": "그리스어 dialektos(대화, 말하는 방식)에서 유래해 라틴어·프랑스어를 거쳐 영어로 들어왔습니다.",
+    "semanticExtension": "원래는 '말하는 방식' 전반을 뜻했으나, 현대에는 주로 '지역/집단의 언어 변종' 의미로 굳었고, 비유적으로 '어떤 분야의 고유한 표현 체계'를 뜻하기도 합니다.",
+    "nuanceRegister": "중립~학술(언어학, 사회언어학에서 자주 등장). 일상에서도 '사투리' 의미로 무난하게 사용됩니다.",
+    "grammarNotes": "가산명사로 쓰이는 경우가 일반적이며, 흔히 'a dialect of + 지역/언어' 또는 'in the + dialect' 형태로 씁니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 방언/사투리(소속·기원)",
+        "example": "a dialect of English"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서/로(언어 변종으로 표현)",
+        "example": "spoken in a local dialect"
+      },
+      {
+        "prep": "between",
+        "meaning_ko": "~사이(방언 간 차이/경계)",
+        "example": "differences between dialects"
+      }
+    ],
+    "requiredComplements": [
+      "a dialect of + (language/region) : ~의 방언/사투리",
+      "speak in + (a dialect) : 방언으로 말하다",
+      "difference(s) between + dialects : 방언들 간 차이"
+    ],
+    "morphology": "dia-(~을 통해) + lect/leg-(말하다, 선택하다 계열 어근)로 분석되곤 하나, 실제로는 그리스어 어원에서 굳어진 형태로 이해하는 편이 안전합니다.",
+    "derivatives": [
+      {
+        "word": "dialectal",
+        "meaning_ko": "방언의, 사투리의"
+      },
+      {
+        "word": "dialectology",
+        "meaning_ko": "방언학"
+      },
+      {
+        "word": "dialectologist",
+        "meaning_ko": "방언학자"
+      },
+      {
+        "word": "dialectic",
+        "meaning_ko": "변증법의; (철학) 변증법"
+      },
+      {
+        "word": "interdialect",
+        "meaning_ko": "방언 간의(접촉/상호작용 관련)"
+      }
+    ],
+    "related": [
+      {
+        "word": "accent",
+        "meaning_ko": "억양, 말투(주로 발음 차이)"
+      },
+      {
+        "word": "vernacular",
+        "meaning_ko": "구어, 토착어(일상어)"
+      },
+      {
+        "word": "idiolect",
+        "meaning_ko": "개인어(개인 특유의 말버릇)"
+      },
+      {
+        "word": "register",
+        "meaning_ko": "레지스터(격식/상황에 따른 언어 양식)"
+      },
+      {
+        "word": "sociolect",
+        "meaning_ko": "사회방언(계층/집단 언어 변종)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "variety",
+        "meaning_ko": "변종, 변형(언어 변종)"
+      },
+      {
+        "word": "vernacular",
+        "meaning_ko": "토착어/일상어(맥락상)"
+      },
+      {
+        "word": "regional speech",
+        "meaning_ko": "지역적 말투/방언"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "accent",
+        "meaning_ko": "억양(발음 중심)"
+      },
+      {
+        "word": "slang",
+        "meaning_ko": "속어(어휘 중심, 비표준)"
+      },
+      {
+        "word": "jargon",
+        "meaning_ko": "전문용어(분야 특유)"
+      },
+      {
+        "word": "patois",
+        "meaning_ko": "비표준 방언(때로 경멸적 뉘앙스)"
+      },
+      {
+        "word": "lingo",
+        "meaning_ko": "말투/용어(구어적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "standard language",
+        "meaning_ko": "표준어"
+      },
+      {
+        "word": "standard English",
+        "meaning_ko": "표준 영어(맥락상)"
+      },
+      {
+        "word": "Received Pronunciation",
+        "meaning_ko": "영국식 표준 발음(RP, 맥락상)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "local dialect",
+            "meaning_ko": "지역 방언"
+          },
+          {
+            "phrase": "speak a dialect",
+            "meaning_ko": "방언을 쓰다"
+          },
+          {
+            "phrase": "dialect word",
+            "meaning_ko": "방언(사투리) 단어"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a dialect of English",
+            "meaning_ko": "영어의 한 방언"
+          },
+          {
+            "phrase": "dialect differences",
+            "meaning_ko": "방언 차이"
+          },
+          {
+            "phrase": "dialect speaker",
+            "meaning_ko": "방언 화자"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mutual intelligibility between dialects",
+            "meaning_ko": "방언 간 상호 이해 가능성"
+          },
+          {
+            "phrase": "dialect continuum",
+            "meaning_ko": "방언 연속체(경계가 연속적인 분포)"
+          },
+          {
+            "phrase": "dialect leveling",
+            "meaning_ko": "방언 평준화(차이가 줄어드는 현상)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He speaks in a local dialect at home.",
+            "meaning_ko": "그는 집에서는 지역 사투리로 말합니다."
+          },
+          {
+            "sentence": "I couldn't understand her dialect at first.",
+            "meaning_ko": "처음에는 그녀의 사투리를 알아듣지 못했습니다."
+          },
+          {
+            "sentence": "This word is common in that dialect.",
+            "meaning_ko": "이 단어는 그 사투리에서 흔합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The movie uses a rural dialect to make the characters feel more authentic.",
+            "meaning_ko": "그 영화는 등장인물의 현실감을 살리기 위해 시골 방언을 사용합니다."
+          },
+          {
+            "sentence": "Linguists study how dialects change across generations.",
+            "meaning_ko": "언어학자들은 방언이 세대에 따라 어떻게 변하는지 연구합니다."
+          },
+          {
+            "sentence": "There are noticeable differences between northern and southern dialects.",
+            "meaning_ko": "북부와 남부 방언 사이에는 눈에 띄는 차이가 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Because the region lies on a dialect continuum, drawing a clear boundary is methodologically difficult.",
+            "meaning_ko": "그 지역은 방언 연속체에 놓여 있어, 뚜렷한 경계를 긋는 것은 방법론적으로 어렵습니다."
+          },
+          {
+            "sentence": "Urbanization often accelerates dialect leveling, reducing fine-grained local distinctions.",
+            "meaning_ko": "도시화는 종종 방언 평준화를 가속해, 미세한 지역 차이를 줄입니다."
+          },
+          {
+            "sentence": "The paper argues that social identity can be indexed through subtle dialect features rather than overt vocabulary choices.",
+            "meaning_ko": "그 논문은 노골적인 어휘 선택보다 미묘한 방언적 특징을 통해 사회적 정체성이 드러날 수 있다고 주장합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dialect는 '사투리/방언'이지만 accent(발음)과 완전히 같지 않습니다. accent는 주로 발음 차이, dialect는 발음+어휘+문법까지 포괄합니다. 시험에서는 a dialect of ~ / speak in a dialect 같은 틀로 고정해서 외워두면 안정적입니다.",
+    "tags": [
+      "언어학",
+      "지역",
+      "사회",
+      "표현 방식",
+      "문화"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: He speaks a local ____ at home.",
+            "a": "dialect",
+            "meaning_ko": "지역 사투리를 뜻하므로 dialect가 정답입니다."
+          },
+          {
+            "q": "True or False: A dialect is a variety of a language used by a particular group.",
+            "a": "True",
+            "meaning_ko": "dialect는 특정 지역/집단이 쓰는 언어 변종입니다."
+          },
+          {
+            "q": "Which is closer to pronunciation only: dialect or accent?",
+            "a": "accent",
+            "meaning_ko": "accent는 발음/억양 중심, dialect는 더 넓게 포괄합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The novel is written ____ a regional dialect.",
+            "a": "in",
+            "meaning_ko": "in a dialect(방언으로) 구문이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'a dialect of English'",
+            "a": "a variety of English used in a particular region or community",
+            "meaning_ko": "영어의 지역/집단 변종이라는 뜻입니다."
+          },
+          {
+            "q": "Pick the pair that best contrasts: dialect vs ____ (meaning 'standard form').",
+            "a": "standard language",
+            "meaning_ko": "방언과 대비되는 개념은 표준어입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Which term describes a gradual geographic transition with no sharp boundary? (A) dialect continuum (B) dialect purge (C) dialect freeze (D) dialect lock",
+            "a": "dialect continuum",
+            "meaning_ko": "연속적으로 변하는 분포를 dialect continuum라 합니다."
+          },
+          {
+            "q": "In sociolinguistics, the reduction of local differences due to mobility/urbanization is called ____.",
+            "a": "dialect leveling",
+            "meaning_ko": "지역 방언 차이가 평준화되는 현상입니다."
+          },
+          {
+            "q": "Sentence correction: 'Mutual intelligibility among dialect' → correct it.",
+            "a": "Mutual intelligibility among dialects",
+            "meaning_ko": "dialect는 가산이므로 복수 dialects가 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "yell",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To shout loudly, often in anger, excitement, or to be heard at a distance.",
+        "definition_ko": "소리치다, 고함치다(화/흥분/거리 때문에 크게 외치다).",
+        "note": "감정(분노/흥분) 또는 상황(소음/거리)을 이유로 '크게'라는 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "A loud shout or cry.",
+        "definition_ko": "고함, 외침.",
+        "note": "a yell / a loud yell처럼 가산으로 자주 씁니다."
+      }
+    ],
+    "concept": "목소리를 크게 올려 '외치는 행위/소리'를 말합니다.",
+    "etymology": "중세 영어에서 '외치다/울부짖다' 계열 표현에서 발전한 형태로 보이며, 정확한 단일 어원은 불확실합니다.",
+    "semanticExtension": "원래는 단순히 큰 소리의 외침을 뜻했으나, 현대 영어에서는 특히 '화내며 소리치다' 뉘앙스로 자주 굳어져 있습니다.",
+    "nuanceRegister": "일상 구어에서 매우 흔함(중립). 상황에 따라 공격적으로 들릴 수 있습니다.",
+    "grammarNotes": "yell at + 사람(화를 내며) / yell for + 도움·택시 등 / yell out + 말(갑자기 외치다) 패턴이 중요합니다. 명사로는 give a yell(한 번 외치다) 관용구가 있습니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사 용법), 동사 용법은 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에게(화를 내며) 소리치다",
+        "example": "yell at a driver"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 요청하며/부르며 외치다",
+        "example": "yell for help"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해(불평/흥분하며) 소리치다",
+        "example": "yell about the delay"
+      }
+    ],
+    "requiredComplements": [
+      "yell at + person : ~에게 소리치다(꾸짖다)",
+      "yell for + help/taxi/backup : ~을 부르며 외치다",
+      "yell out + words/name : (이름/말을) 큰 소리로 외치다"
+    ],
+    "morphology": "단순 어근 단어로 파생 접사 구조가 뚜렷하지 않습니다. 활용형: yell - yelled - yelled / yelling.",
+    "derivatives": [
+      {
+        "word": "yelled",
+        "meaning_ko": "yell의 과거/과거분사"
+      },
+      {
+        "word": "yelling",
+        "meaning_ko": "고함치기; 소리치는(현재분사)"
+      },
+      {
+        "word": "yeller",
+        "meaning_ko": "고함치는 사람(비격식)"
+      },
+      {
+        "word": "yellows",
+        "meaning_ko": "yellow의 복수(주의: 철자가 비슷하지만 무관)"
+      },
+      {
+        "word": "yelp",
+        "meaning_ko": "짧게 날카롭게 소리치다(유사어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "shout",
+        "meaning_ko": "외치다(중립)"
+      },
+      {
+        "word": "scream",
+        "meaning_ko": "비명을 지르다(공포/고통)"
+      },
+      {
+        "word": "bellow",
+        "meaning_ko": "우렁차게 고함치다"
+      },
+      {
+        "word": "snap",
+        "meaning_ko": "짜증 섞여 퉁명스럽게 말하다"
+      },
+      {
+        "word": "scold",
+        "meaning_ko": "꾸짖다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "shout",
+        "meaning_ko": "외치다"
+      },
+      {
+        "word": "cry out",
+        "meaning_ko": "소리쳐 외치다"
+      },
+      {
+        "word": "bawl",
+        "meaning_ko": "고함치다(거칠게)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "scream",
+        "meaning_ko": "비명을 지르다"
+      },
+      {
+        "word": "bellow",
+        "meaning_ko": "우렁차게 외치다"
+      },
+      {
+        "word": "holler",
+        "meaning_ko": "소리치다(구어)"
+      },
+      {
+        "word": "raise one's voice",
+        "meaning_ko": "목소리를 높이다(완곡)"
+      },
+      {
+        "word": "rant",
+        "meaning_ko": "분노로 장황하게 떠들다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whisper",
+        "meaning_ko": "속삭이다"
+      },
+      {
+        "word": "murmur",
+        "meaning_ko": "중얼거리다"
+      },
+      {
+        "word": "speak softly",
+        "meaning_ko": "부드럽게 말하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "yell loudly",
+            "meaning_ko": "크게 소리치다"
+          },
+          {
+            "phrase": "yell for help",
+            "meaning_ko": "도움을 외치다"
+          },
+          {
+            "phrase": "give a yell",
+            "meaning_ko": "한 번 크게 외치다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "yell at someone",
+            "meaning_ko": "~에게 소리치다"
+          },
+          {
+            "phrase": "yell out a name",
+            "meaning_ko": "이름을 큰 소리로 외치다"
+          },
+          {
+            "phrase": "a yell of surprise",
+            "meaning_ko": "놀라서 지르는 외침"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "yell over the noise",
+            "meaning_ko": "소음을 뚫고 외치다"
+          },
+          {
+            "phrase": "yell abuse at someone",
+            "meaning_ko": "~에게 욕설을 퍼부으며 소리치다"
+          },
+          {
+            "phrase": "yell oneself hoarse",
+            "meaning_ko": "목이 쉴 때까지 소리치다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Don't yell in the library.",
+            "meaning_ko": "도서관에서 소리치지 마세요."
+          },
+          {
+            "sentence": "She yelled for help.",
+            "meaning_ko": "그녀는 도움을 외쳤습니다."
+          },
+          {
+            "sentence": "I heard a yell outside.",
+            "meaning_ko": "밖에서 고함소리가 들렸습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He yelled at me for being late, and I apologized right away.",
+            "meaning_ko": "그는 내가 늦었다고 나에게 소리쳤고, 나는 바로 사과했습니다."
+          },
+          {
+            "sentence": "We had to yell over the music to talk.",
+            "meaning_ko": "우리는 대화하려고 음악 소음을 뚫고 소리쳐야 했습니다."
+          },
+          {
+            "sentence": "The coach gave a yell of encouragement from the sidelines.",
+            "meaning_ko": "코치는 사이드라인에서 격려의 외침을 보냈습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Instead of yelling, she lowered her voice and made her criticism impossible to dismiss.",
+            "meaning_ko": "그녀는 소리치기보다 목소리를 낮춰, 비판을 무시하기 어렵게 만들었습니다."
+          },
+          {
+            "sentence": "Witnesses said the suspect yelled abuse at passersby before fleeing the scene.",
+            "meaning_ko": "목격자들은 용의자가 현장을 달아나기 전 행인들에게 욕설을 퍼부으며 소리쳤다고 말했습니다."
+          },
+          {
+            "sentence": "After hours of chanting and yelling, his throat felt raw and hoarse.",
+            "meaning_ko": "몇 시간 동안 구호를 외치고 소리친 뒤, 그의 목은 따갑고 쉬어 있었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "yell at(사람)과 yell for(요청/도움)를 꼭 구분해 두세요. 시험에서는 '화를 내며'라는 뉘앙스 때문에 shout보다 공격적으로 느껴질 수 있다는 점이 포인트가 됩니다. 관용구 give me a yell(연락 줘)도 자주 나옵니다.",
+    "tags": [
+      "감정",
+      "대화",
+      "소리",
+      "행동",
+      "일상 회화"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: She ____ for help when she fell.",
+            "a": "yelled",
+            "meaning_ko": "넘어졌을 때 '도움을 외치다'는 yelled for help가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the opposite of yell: (A) whisper (B) shout (C) call (D) cheer",
+            "a": "whisper",
+            "meaning_ko": "yell(고함치다)의 반대는 whisper(속삭이다)입니다."
+          },
+          {
+            "q": "True or False: 'a yell' can mean a loud shout.",
+            "a": "True",
+            "meaning_ko": "명사 yell은 '고함/외침'입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: Don't yell ___ your coworkers.",
+            "a": "at",
+            "meaning_ko": "yell at + 사람(화를 내며) 패턴입니다."
+          },
+          {
+            "q": "Fill in the blank: We had to yell ___ the noise to be heard.",
+            "a": "over",
+            "meaning_ko": "yell over the noise(소음을 뚫고) 표현이 자연스럽습니다."
+          },
+          {
+            "q": "Meaning check: 'Give me a yell later.' means ____.",
+            "a": "contact me later",
+            "meaning_ko": "구어로 '나중에 연락 줘'라는 뜻입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite to be less confrontational: 'He yelled at the staff.' (Use a softer expression.)",
+            "a": "He raised his voice at the staff.",
+            "meaning_ko": "raise one's voice는 완곡 표현입니다."
+          },
+          {
+            "q": "Choose the best completion: 'He yelled himself ____.'",
+            "a": "hoarse",
+            "meaning_ko": "yell oneself hoarse(목이 쉬다) 관용 결합입니다."
+          },
+          {
+            "q": "Error correction: 'She yelled me for help.' → correct it.",
+            "a": "She yelled for help.",
+            "meaning_ko": "for help에는 목적어가 아니라 for를 씁니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "laconic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Using very few words; brief and to the point.",
+        "definition_ko": "과묵한, 간결한(말이 적고 핵심만 말하는).",
+        "note": "단순히 '짧다'가 아니라, 불필요한 말을 하지 않는 스타일을 강조합니다."
+      }
+    ],
+    "concept": "말을 길게 하지 않고 '짧고 딱딱'하게 핵심만 전달하는 성향/문체입니다.",
+    "etymology": "고대 그리스 라코니아(Laconia, 스파르타 지역) 사람들의 간결한 말투에서 유래했습니다.",
+    "semanticExtension": "원래는 스파르타식 '짧고 단호한' 말투를 가리켰고, 현대에는 사람·문체·답변이 과하게 짧을 때도 laconic이라 합니다.",
+    "nuanceRegister": "문어/격식에서 자주 쓰이며, 일상 구어에서는 'brief, terse'가 더 흔합니다. 때로 냉담하거나 무뚝뚝한 뉘앙스를 띨 수 있습니다.",
+    "grammarNotes": "보통 laconic + noun(laconic reply/remark/style) 형태로 결합합니다. be laconic about + 주제(어떤 주제에 대해 말이 적다)도 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 말이 적은/간결한",
+        "example": "laconic about his past"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(표현/답변이) 간결한",
+        "example": "laconic in her replies"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~에 대해(대응/말이) 짧은",
+        "example": "laconic with explanations"
+      }
+    ],
+    "requiredComplements": [
+      "be laconic about + topic : ~에 대해 과묵/간결하다",
+      "be laconic in + replies/remarks : 답변/발언이 간결하다",
+      "a laconic + reply/remark/style : 간결한 답변/발언/문체"
+    ],
+    "morphology": "고유지명 Laconia(라코니아)에서 파생된 형용사 형태로, -ic(…의 성격을 가진) 접미사가 붙어 '라코니아식' → '과묵한' 의미가 되었습니다.",
+    "derivatives": [
+      {
+        "word": "laconically",
+        "meaning_ko": "간결하게, 과묵하게(부사)"
+      },
+      {
+        "word": "laconism",
+        "meaning_ko": "과묵함, 간결한 화법"
+      },
+      {
+        "word": "Laconia",
+        "meaning_ko": "라코니아(스파르타 지역)"
+      },
+      {
+        "word": "Spartan",
+        "meaning_ko": "스파르타의; (비유) 검소한/엄격한"
+      },
+      {
+        "word": "terse",
+        "meaning_ko": "짧고 퉁명스러운(유사 표현)"
+      }
+    ],
+    "related": [
+      {
+        "word": "brevity",
+        "meaning_ko": "간결함"
+      },
+      {
+        "word": "concision",
+        "meaning_ko": "간명함"
+      },
+      {
+        "word": "restraint",
+        "meaning_ko": "자제(표현/감정의 절제)"
+      },
+      {
+        "word": "minimalism",
+        "meaning_ko": "미니멀리즘(최소화)"
+      },
+      {
+        "word": "reticence",
+        "meaning_ko": "말을 아낌, 과묵함(조심스러운)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "concise",
+        "meaning_ko": "간결한"
+      },
+      {
+        "word": "brief",
+        "meaning_ko": "짧은"
+      },
+      {
+        "word": "succinct",
+        "meaning_ko": "간명한(요점만)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "terse",
+        "meaning_ko": "짧고 퉁명스러운"
+      },
+      {
+        "word": "curt",
+        "meaning_ko": "무뚝뚝하게 짧은"
+      },
+      {
+        "word": "reticent",
+        "meaning_ko": "말을 아끼는"
+      },
+      {
+        "word": "tight-lipped",
+        "meaning_ko": "입을 굳게 다문, 말이 없는"
+      },
+      {
+        "word": "reserved",
+        "meaning_ko": "내성적인, 조심스러운"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "verbose",
+        "meaning_ko": "장황한"
+      },
+      {
+        "word": "talkative",
+        "meaning_ko": "말이 많은"
+      },
+      {
+        "word": "loquacious",
+        "meaning_ko": "수다스러운(격식)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "laconic reply",
+            "meaning_ko": "짧고 간결한 답변"
+          },
+          {
+            "phrase": "laconic comment",
+            "meaning_ko": "짧은 코멘트"
+          },
+          {
+            "phrase": "be laconic",
+            "meaning_ko": "과묵하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "laconic style",
+            "meaning_ko": "간결한 문체"
+          },
+          {
+            "phrase": "laconic remark",
+            "meaning_ko": "간명한 발언"
+          },
+          {
+            "phrase": "laconic response to criticism",
+            "meaning_ko": "비판에 대한 짧은 대응"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a laconic understatement",
+            "meaning_ko": "간결한 절제(축소) 표현"
+          },
+          {
+            "phrase": "laconic wit",
+            "meaning_ko": "짧은 말로 드러나는 위트"
+          },
+          {
+            "phrase": "a characteristically laconic delivery",
+            "meaning_ko": "특유의 과묵한 말투(전달 방식)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His answer was laconic: \"No.\"",
+            "meaning_ko": "그의 대답은 딱 한마디로 간결했습니다: \"아니.\""
+          },
+          {
+            "sentence": "She is usually laconic in meetings.",
+            "meaning_ko": "그녀는 회의에서 대체로 말이 적습니다."
+          },
+          {
+            "sentence": "I got a laconic text back.",
+            "meaning_ko": "나는 아주 짧은 답장을 받았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The manager gave a laconic reply and moved on to the next agenda item.",
+            "meaning_ko": "관리자는 짧게 답하고 다음 안건으로 넘어갔습니다."
+          },
+          {
+            "sentence": "He stayed laconic about his past, which only fueled our curiosity.",
+            "meaning_ko": "그는 자신의 과거에 대해 과묵했고, 그게 오히려 우리의 호기심을 자극했습니다."
+          },
+          {
+            "sentence": "Her laconic style makes the writing feel sharp and disciplined.",
+            "meaning_ko": "그녀의 간결한 문체는 글을 날카롭고 절제된 느낌으로 만듭니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In a crisis, his laconic delivery projected control, even when the details were still uncertain.",
+            "meaning_ko": "위기 상황에서 그의 과묵한 말투는, 세부가 불확실할 때조차 통제감을 드러냈습니다."
+          },
+          {
+            "sentence": "The speaker's laconic understatement carried more persuasive force than a lengthy justification.",
+            "meaning_ko": "연설자의 간결한 절제 표현은 장황한 해명보다 더 강한 설득력을 가졌습니다."
+          },
+          {
+            "sentence": "Critics argued that the film's laconic dialogue functions as a deliberate refusal of sentimentality.",
+            "meaning_ko": "비평가들은 그 영화의 과묵한 대사가 감상주의를 의도적으로 거부하는 장치라고 주장했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "laconic은 '짧고 간결한'이지만 terse/curt처럼 무례하거나 퉁명스러운 느낌이 동반될 수도 있습니다. 어원(스파르타) 기반으로 '스파르타식 말투 = 짧다'로 기억하면 잘 안 잊습니다. 시험에서는 laconic reply/remark처럼 명사와 결합 패턴을 통째로 익히는 게 안전합니다.",
+    "tags": [
+      "성격",
+      "대화",
+      "문체",
+      "표현",
+      "격식 어휘"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: His ____ reply was just \"OK.\".",
+            "a": "laconic",
+            "meaning_ko": "아주 짧고 간결한 답변이므로 laconic이 정답입니다."
+          },
+          {
+            "q": "True or False: 'laconic' means using many words.",
+            "a": "False",
+            "meaning_ko": "laconic은 말이 적고 간결하다는 뜻입니다."
+          },
+          {
+            "q": "Pick the opposite: laconic ↔ (A) verbose (B) brief (C) concise (D) succinct",
+            "a": "verbose",
+            "meaning_ko": "verbose는 장황한, 말이 많은 의미로 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: She was laconic ____ her reasons for leaving.",
+            "a": "about",
+            "meaning_ko": "be laconic about + 주제(말을 아끼다) 패턴입니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'a laconic remark'",
+            "a": "a very brief comment",
+            "meaning_ko": "요점만 짧게 하는 발언이라는 뜻입니다."
+          },
+          {
+            "q": "Which pair is closest in meaning? (A) laconic–succinct (B) laconic–boisterous (C) laconic–chatty (D) laconic–rambling",
+            "a": "laconic–succinct",
+            "meaning_ko": "둘 다 간결함을 강조합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Sentence improvement: Replace the bold phrase with 'laconically' — 'He answered **in a very brief way**.'",
+            "a": "He answered laconically.",
+            "meaning_ko": "부사 laconically로 자연스럽게 바꿀 수 있습니다."
+          },
+          {
+            "q": "Meaning nuance: 'laconic' can sometimes imply ____ in tone.",
+            "a": "cool or blunt",
+            "meaning_ko": "상황에 따라 냉담/무뚝뚝하게 들릴 수 있습니다."
+          },
+          {
+            "q": "Choose the best completion: 'The author’s laconic style is a deliberate ____ of excess.'",
+            "a": "rejection",
+            "meaning_ko": "과잉(장황함)을 의도적으로 거부한다는 논리 전개가 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

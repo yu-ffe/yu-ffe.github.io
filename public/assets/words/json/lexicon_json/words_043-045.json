@@ -1,0 +1,975 @@
+[
+  {
+    "word": "fabricate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To make or build something, especially from raw materials or by assembling parts.",
+        "definition_ko": "무언가를 (재료·부품을 가공·조립해) 제작하다.",
+        "note": "제조/가공 맥락에서 흔합니다."
+      },
+      {
+        "definition_en": "To invent false information or a story in order to deceive.",
+        "definition_ko": "거짓 정보나 이야기를 지어내다(날조하다).",
+        "note": "fabricate evidence처럼 '증거 조작' 의미로 자주 출제됩니다."
+      }
+    ],
+    "concept": "있는 것을 만들어내거나(제작), 없는 것을 만들어내는(날조) ‘만들다’의 두 갈래 핵심을 가진 동사.",
+    "etymology": "라틴어 fabricare(만들다, 짓다)에서 유래했으며, 어근 fabrica(공방, 제작)와 연결됩니다.",
+    "semanticExtension": "물리적 ‘제작’에서 출발해, 사실을 ‘꾸며 만들어’ 거짓을 만들어내는 의미로 확장되었습니다.",
+    "nuanceRegister": "격식/문어에서 자주 쓰이며, ‘날조’ 의미는 뉴스·법률·학술 맥락에서 특히 빈번합니다.",
+    "grammarNotes": "타동사로 목적어를 취합니다(fabricate + O). ‘fabricate evidence/data/story’처럼 명사 목적어와 결합이 매우 고정적입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "fabricate + object (제품/부품/이야기/증거 등) : 무엇을 제작/날조하다"
+    ],
+    "morphology": "fabric(직물/구조) + -ate(동사화 접미사): ‘구조적으로 만들어내다’의 느낌을 형성.",
+    "derivatives": [
+      {
+        "word": "fabrication",
+        "meaning_ko": "제작; (거짓) 날조"
+      },
+      {
+        "word": "fabricator",
+        "meaning_ko": "제작자; (속어) 거짓말쟁이"
+      },
+      {
+        "word": "fabricated",
+        "meaning_ko": "조작된; 만들어진"
+      },
+      {
+        "word": "fabric",
+        "meaning_ko": "천; 구조, 조직(비유)"
+      },
+      {
+        "word": "prefabricate",
+        "meaning_ko": "(공장에서) 미리 제작하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "manufacture",
+        "meaning_ko": "제조하다"
+      },
+      {
+        "word": "forge",
+        "meaning_ko": "위조하다(문서·서명)"
+      },
+      {
+        "word": "assemble",
+        "meaning_ko": "조립하다"
+      },
+      {
+        "word": "counterfeit",
+        "meaning_ko": "위조품; 위조하다"
+      },
+      {
+        "word": "tamper",
+        "meaning_ko": "조작하다(손대다)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "manufacture",
+        "meaning_ko": "제조하다"
+      },
+      {
+        "word": "construct",
+        "meaning_ko": "건설/구성하다"
+      },
+      {
+        "word": "invent",
+        "meaning_ko": "지어내다(이야기)"
+      },
+      {
+        "word": "concoct",
+        "meaning_ko": "꾸며내다(계획·이야기)"
+      },
+      {
+        "word": "forge",
+        "meaning_ko": "위조하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "assemble",
+        "meaning_ko": "부품을 모아 조립하다"
+      },
+      {
+        "word": "craft",
+        "meaning_ko": "공들여 만들다"
+      },
+      {
+        "word": "devise",
+        "meaning_ko": "고안하다(계획·방법)"
+      },
+      {
+        "word": "falsify",
+        "meaning_ko": "사실/문서를 거짓으로 만들다"
+      },
+      {
+        "word": "doctor",
+        "meaning_ko": "(자료 등을) 조작하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "verify",
+        "meaning_ko": "검증하다"
+      },
+      {
+        "word": "authenticate",
+        "meaning_ko": "진위를 확인하다"
+      },
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "disprove",
+        "meaning_ko": "틀렸음을 입증하다"
+      },
+      {
+        "word": "expose",
+        "meaning_ko": "폭로하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "fabricate a table",
+            "meaning_ko": "테이블을 제작하다"
+          },
+          {
+            "phrase": "fabricate parts",
+            "meaning_ko": "부품을 제작하다"
+          },
+          {
+            "phrase": "fabricate a story",
+            "meaning_ko": "이야기를 지어내다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "fabricate evidence",
+            "meaning_ko": "증거를 조작/날조하다"
+          },
+          {
+            "phrase": "fabricate data",
+            "meaning_ko": "(연구) 데이터를 조작하다"
+          },
+          {
+            "phrase": "fabricate a claim",
+            "meaning_ko": "주장을 꾸며내다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "fabricate charges against someone",
+            "meaning_ko": "누군가에게 혐의를 뒤집어씌우기 위해 꾸며내다"
+          },
+          {
+            "phrase": "fabricate a narrative to sway public opinion",
+            "meaning_ko": "여론을 움직이려 서사를 꾸며내다"
+          },
+          {
+            "phrase": "fabricate records to conceal wrongdoing",
+            "meaning_ko": "비리를 숨기려 기록을 조작하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The workshop can fabricate small metal parts in a day.",
+            "meaning_ko": "그 작업장은 작은 금속 부품을 하루 만에 제작할 수 있다."
+          },
+          {
+            "sentence": "He fabricated a simple excuse for being late.",
+            "meaning_ko": "그는 지각한 이유로 간단한 핑계를 지어냈다."
+          },
+          {
+            "sentence": "They fabricate the frames and ship them worldwide.",
+            "meaning_ko": "그들은 프레임을 제작해 전 세계로 배송한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The committee concluded that the witness had fabricated the details.",
+            "meaning_ko": "위원회는 그 증인이 세부 내용을 날조했다고 결론 내렸다."
+          },
+          {
+            "sentence": "Any attempt to fabricate evidence will lead to prosecution.",
+            "meaning_ko": "증거 조작 시도는 기소로 이어질 것이다."
+          },
+          {
+            "sentence": "The company fabricated a prototype using recycled materials.",
+            "meaning_ko": "그 회사는 재활용 재료로 시제품을 제작했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Facing collapse, the executives fabricated financial reports to buy time, only to deepen the crisis.",
+            "meaning_ko": "파산 위기에 몰린 경영진은 시간을 벌려고 재무보고서를 조작했지만, 오히려 위기를 더 키웠다."
+          },
+          {
+            "sentence": "The article cautioned readers against fabricated narratives that thrive on outrage rather than evidence.",
+            "meaning_ko": "그 글은 근거보다 분노에 기대 번성하는 조작된 서사를 경계하라고 했다."
+          },
+          {
+            "sentence": "The court rejected the testimony after inconsistencies suggested that key statements were fabricated.",
+            "meaning_ko": "법원은 핵심 진술이 조작된 정황이 드러나자 그 증언을 배척했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "fabricate는 ‘제작하다’(make/build)와 ‘날조하다’(invent a lie) 두 의미가 모두 빈출입니다. 시험에서는 fabricate evidence/data/charges 같이 ‘법·연구’ 명사와의 결합이 포인트입니다. forge(서명·문서 위조), falsify(사실/기록을 거짓으로 만들다)와 미묘한 차이도 같이 묶어 외우시면 좋습니다.",
+    "tags": [
+      "제작",
+      "제조",
+      "거짓",
+      "법률",
+      "연구윤리"
+    ],
+    "frequency": "중",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The factory can ________ thousands of units each week.",
+            "a": "fabricate",
+            "meaning_ko": "공장에서 ‘제작하다’ 의미로 쓰입니다."
+          },
+          {
+            "q": "Choose the closest meaning: fabricate (in 'fabricate a story')",
+            "a": "invent",
+            "meaning_ko": "이야기를 ‘지어내다/꾸며내다’."
+          },
+          {
+            "q": "True or False: 'fabricate' can mean 'to build something from parts.'",
+            "a": "True",
+            "meaning_ko": "조립·가공해 만들다는 뜻이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which phrase best fits academic misconduct? (A) fabricate data (B) fabricate dinner (C) fabricate sunshine",
+            "a": "A",
+            "meaning_ko": "연구윤리 맥락의 고정 결합은 fabricate data입니다."
+          },
+          {
+            "q": "Fill in the blank: The lawyer argued that the police had ________ the evidence.",
+            "a": "fabricated",
+            "meaning_ko": "과거분사로 ‘증거를 조작했다’."
+          },
+          {
+            "q": "Choose the best pair: fabricate : evidence = forge : ____",
+            "a": "signature",
+            "meaning_ko": "forge는 서명/문서 위조에 자주 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'fabricate' without changing meaning: 'They invented charges to silence the journalist.'",
+            "a": "They fabricated charges to silence the journalist.",
+            "meaning_ko": "fabricate charges = 혐의를 꾸며내다."
+          },
+          {
+            "q": "Pick the sentence where 'fabricate' is used most precisely.",
+            "a": "The report alleged that officials fabricated records to conceal bribery.",
+            "meaning_ko": "records를 조작해 은폐한다는 문맥이 가장 정확합니다."
+          },
+          {
+            "q": "In legal writing, what does 'fabricated testimony' imply?",
+            "a": "testimony that was invented or falsified",
+            "meaning_ko": "사실에 근거하지 않고 지어낸/조작된 증언."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "attitude",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A way of thinking or feeling about someone or something, especially one that is reflected in behavior.",
+        "definition_ko": "태도, 마음가짐(행동으로 드러나는 생각·감정의 방식).",
+        "note": "have/take an attitude 같은 기본 구문이 매우 흔합니다."
+      },
+      {
+        "definition_en": "A position of the body; a posture.",
+        "definition_ko": "자세(신체의 포즈).",
+        "note": "무용·미술·사진·항공 등 특정 맥락에서 쓰입니다."
+      }
+    ],
+    "concept": "사람의 ‘마음가짐/관점’이 행동으로 드러난 것(태도)이라는 핵심.",
+    "etymology": "라틴어 aptus(맞다, 적합하다) 계열에서 영향을 받은 프랑스어 attitude를 통해 영어에 들어왔습니다.",
+    "semanticExtension": "‘자세/포즈’(몸의 상태)에서 ‘마음의 자세’(생각·관점)로 확장되어, 오늘날엔 주로 심리·행동의 태도를 뜻합니다.",
+    "nuanceRegister": "일상에서 매우 흔한 중립 단어지만, ‘attitude’는 종종 ‘불손함/건방짐’의 뉘앙스로도 쓰입니다(especially in 'an attitude').",
+    "grammarNotes": "가산명사로 자주 쓰이며(attitudes), 보통 have/show/maintain/adjust + attitude 형태가 많습니다. toward(s) + 대상, to + 동사원형, that-절과도 결합합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "toward",
+        "meaning_ko": "~에 대한 태도",
+        "example": "an attitude toward risk"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에 대한 태도/대응",
+        "example": "his attitude to criticism"
+      }
+    ],
+    "requiredComplements": [
+      "attitude toward(s) + noun : ~에 대한 태도",
+      "attitude to + noun/gerund : ~에 대한 태도",
+      "attitude that + clause : ~라는 태도/관점"
+    ],
+    "morphology": "attitude(자세/태도) 자체가 어휘로 굳어져 파생 분석보다는 결합어(altitude, aptitude 등)와 함께 연상하는 편이 유용합니다.",
+    "derivatives": [
+      {
+        "word": "attitudinal",
+        "meaning_ko": "태도(관점)의, 태도에 관한"
+      },
+      {
+        "word": "attitudinize",
+        "meaning_ko": "거드름을 피우다; 과장된 태도를 취하다"
+      },
+      {
+        "word": "altitude",
+        "meaning_ko": "고도"
+      },
+      {
+        "word": "aptitude",
+        "meaning_ko": "적성"
+      },
+      {
+        "word": "attitudinally",
+        "meaning_ko": "태도 면에서"
+      }
+    ],
+    "related": [
+      {
+        "word": "mindset",
+        "meaning_ko": "사고방식"
+      },
+      {
+        "word": "stance",
+        "meaning_ko": "입장, 태도"
+      },
+      {
+        "word": "posture",
+        "meaning_ko": "자세; (비유) 태세"
+      },
+      {
+        "word": "disposition",
+        "meaning_ko": "성향"
+      },
+      {
+        "word": "demeanor",
+        "meaning_ko": "겉으로 드러나는 태도"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "stance",
+        "meaning_ko": "입장/태도"
+      },
+      {
+        "word": "mindset",
+        "meaning_ko": "마음가짐"
+      },
+      {
+        "word": "outlook",
+        "meaning_ko": "관점"
+      },
+      {
+        "word": "approach",
+        "meaning_ko": "접근 방식"
+      },
+      {
+        "word": "posture",
+        "meaning_ko": "태세/자세"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "opinion",
+        "meaning_ko": "의견(더 구체적 주장)"
+      },
+      {
+        "word": "perspective",
+        "meaning_ko": "시각/관점(더 중립)"
+      },
+      {
+        "word": "behavior",
+        "meaning_ko": "행동(태도의 결과)"
+      },
+      {
+        "word": "tone",
+        "meaning_ko": "말투/분위기(태도에서 파생)"
+      },
+      {
+        "word": "temperament",
+        "meaning_ko": "기질(더 성격적 고정)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "indifference",
+        "meaning_ko": "무관심"
+      },
+      {
+        "word": "respect",
+        "meaning_ko": "존중(특정 상황에서 반대 성격)"
+      },
+      {
+        "word": "humility",
+        "meaning_ko": "겸손(‘건방진 태도’의 반대)"
+      },
+      {
+        "word": "open-mindedness",
+        "meaning_ko": "개방성"
+      },
+      {
+        "word": "apathy",
+        "meaning_ko": "무기력/무관심"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a good attitude",
+            "meaning_ko": "좋은 태도"
+          },
+          {
+            "phrase": "a bad attitude",
+            "meaning_ko": "나쁜 태도"
+          },
+          {
+            "phrase": "change your attitude",
+            "meaning_ko": "태도를 바꾸다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a positive attitude toward work",
+            "meaning_ko": "일에 대한 긍정적 태도"
+          },
+          {
+            "phrase": "take an attitude",
+            "meaning_ko": "버릇없게 굴다/툭 쏘아붙이다"
+          },
+          {
+            "phrase": "maintain a professional attitude",
+            "meaning_ko": "프로다운 태도를 유지하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a hardline attitude toward negotiations",
+            "meaning_ko": "협상에 대한 강경한 태도"
+          },
+          {
+            "phrase": "shift attitudes through sustained education",
+            "meaning_ko": "지속적 교육으로 인식을 변화시키다"
+          },
+          {
+            "phrase": "attitude is shaped by incentives and norms",
+            "meaning_ko": "태도는 유인과 규범에 의해 형성된다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She has a friendly attitude toward new people.",
+            "meaning_ko": "그녀는 새로운 사람들에게 친근한 태도를 보인다."
+          },
+          {
+            "sentence": "Your attitude matters as much as your skills.",
+            "meaning_ko": "태도는 실력만큼 중요하다."
+          },
+          {
+            "sentence": "Don’t give me that attitude.",
+            "meaning_ko": "그런 버릇없는 태도(말투)로 나오지 마."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The training aims to improve employees’ attitudes toward safety.",
+            "meaning_ko": "그 교육은 직원들의 안전에 대한 태도를 개선하는 것을 목표로 한다."
+          },
+          {
+            "sentence": "His dismissive attitude made constructive feedback impossible.",
+            "meaning_ko": "그의 퉁명스러운 태도 때문에 건설적인 피드백이 불가능해졌다."
+          },
+          {
+            "sentence": "The survey tracks changing public attitudes to privacy.",
+            "meaning_ko": "그 설문은 프라이버시에 대한 대중의 변화하는 인식을 추적한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "An uncompromising attitude may signal strength, but it can also narrow the space for agreement.",
+            "meaning_ko": "타협하지 않는 태도는 강함의 신호일 수 있지만, 합의의 여지를 좁히기도 한다."
+          },
+          {
+            "sentence": "Policies rarely succeed unless they address not only behavior but also the attitudes that sustain it.",
+            "meaning_ko": "정책은 행동뿐 아니라 그 행동을 지탱하는 태도까지 다루지 않으면 성공하기 어렵다."
+          },
+          {
+            "sentence": "Her calm attitude under pressure reframed the crisis as a solvable problem.",
+            "meaning_ko": "압박 속에서도 침착한 태도는 위기를 해결 가능한 문제로 다시 보게 만들었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "attitude는 ‘태도/마음가짐’이 기본이지만, Don’t give me that attitude처럼 ‘건방짐/반항적 말투’로도 자주 쓰입니다. 전치사는 toward(s)/to가 대표이며, survey/public attitudes처럼 복수형이 자연스럽습니다. posture(자세/태세)와 대비해 ‘마음의 자세’라는 이미지로 잡으시면 기억이 안정적입니다.",
+    "tags": [
+      "심리",
+      "대인관계",
+      "조직문화",
+      "인식"
+    ],
+    "frequency": "상",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: A ________ attitude can help you learn faster.",
+            "a": "positive",
+            "meaning_ko": "positive attitude = 긍정적 태도."
+          },
+          {
+            "q": "Choose the best meaning: 'Don’t give me that attitude.'",
+            "a": "Don’t be rude or disrespectful.",
+            "meaning_ko": "‘버릇없게 굴지 마’ 뉘앙스."
+          },
+          {
+            "q": "True or False: 'attitude toward' is a common pattern.",
+            "a": "True",
+            "meaning_ko": "toward(s) + 대상 = ~에 대한 태도."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The company wants to change attitudes ________ remote work.",
+            "a": "toward",
+            "meaning_ko": "attitudes toward ~가 자연스럽습니다."
+          },
+          {
+            "q": "Which is closest to 'attitude' in a debate? (A) stance (B) altitude (C) appetite",
+            "a": "A",
+            "meaning_ko": "stance = 입장/태도."
+          },
+          {
+            "q": "Pick the most natural collocation: (A) maintain a professional attitude (B) maintain a professional altitude",
+            "a": "A",
+            "meaning_ko": "professional attitude가 고정 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'attitude toward': 'He is skeptical about risk.'",
+            "a": "He has a skeptical attitude toward risk.",
+            "meaning_ko": "‘~에 대한 태도’로 재구성."
+          },
+          {
+            "q": "Which sentence uses 'attitude' as 'posture'?",
+            "a": "The dancer held her attitude for three seconds.",
+            "meaning_ko": "무용/포즈 의미의 attitude."
+          },
+          {
+            "q": "In policy writing, what does 'shifting public attitudes' most nearly mean?",
+            "a": "changing how the public thinks and feels",
+            "meaning_ko": "대중의 인식/관점이 변하는 것."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "participate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To take part in an activity or event.",
+        "definition_ko": "(활동·행사에) 참여하다.",
+        "note": "participate in + 명사 구조가 핵심입니다."
+      },
+      {
+        "definition_en": "To be involved in or share in something.",
+        "definition_ko": "(일·과정에) 관여하다; (어떤 것에) 함께하다/공유하다.",
+        "note": "공식적 문맥에서 ‘관여/공유’ 의미가 나타납니다."
+      }
+    ],
+    "concept": "‘한 구성원으로 끼어들어 함께하다’는 참여의 핵심 개념을 가진 동사.",
+    "etymology": "라틴어 participare(몫을 함께하다)에서 유래했으며, part(부분) + capere(취하다) 계열 의미가 반영됩니다.",
+    "semanticExtension": "단순 ‘참석/참여’에서 출발해, 프로젝트·의사결정·이익/책임을 ‘공유’하는 관여 의미로 확장됩니다.",
+    "nuanceRegister": "중립~격식. 공문, 안내문, 연구/정책 문서에서 매우 자주 쓰입니다.",
+    "grammarNotes": "자동사로 쓰이며 보통 participate in + 명사/동명사가 표준입니다. 사람 목적어를 직접 취하지 않으므로 ‘participate someone’은 비문에 가깝고, 대신 involve/engage를 사용합니다.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 참여하다",
+        "example": "participate in the discussion"
+      }
+    ],
+    "requiredComplements": [
+      "participate in + noun/gerund : ~에 참여하다",
+      "participate actively/fully : 적극적으로/충분히 참여하다"
+    ],
+    "morphology": "part(부분) + -cip- (capere=잡다/취하다 계열) + -ate(동사화): ‘몫을 취해 함께하다’ 이미지.",
+    "derivatives": [
+      {
+        "word": "participant",
+        "meaning_ko": "참가자"
+      },
+      {
+        "word": "participation",
+        "meaning_ko": "참여"
+      },
+      {
+        "word": "participatory",
+        "meaning_ko": "참여형의"
+      },
+      {
+        "word": "participate",
+        "meaning_ko": "참여하다(기본형)"
+      },
+      {
+        "word": "participated",
+        "meaning_ko": "참여한(과거/분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "engage",
+        "meaning_ko": "참여시키다/참여하다"
+      },
+      {
+        "word": "attend",
+        "meaning_ko": "참석하다"
+      },
+      {
+        "word": "contribute",
+        "meaning_ko": "기여하다"
+      },
+      {
+        "word": "join",
+        "meaning_ko": "합류하다"
+      },
+      {
+        "word": "involve",
+        "meaning_ko": "관여시키다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "take part",
+        "meaning_ko": "참여하다"
+      },
+      {
+        "word": "join in",
+        "meaning_ko": "함께 참여하다"
+      },
+      {
+        "word": "engage in",
+        "meaning_ko": "~에 참여하다"
+      },
+      {
+        "word": "be involved in",
+        "meaning_ko": "~에 관여하다"
+      },
+      {
+        "word": "contribute",
+        "meaning_ko": "기여하다(참여의 결과 강조)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "attend",
+        "meaning_ko": "참석하다(물리적 출석)"
+      },
+      {
+        "word": "enroll",
+        "meaning_ko": "등록하다(참여 전 단계)"
+      },
+      {
+        "word": "cooperate",
+        "meaning_ko": "협력하다(참여보다 협업 강조)"
+      },
+      {
+        "word": "collaborate",
+        "meaning_ko": "협업하다(함께 만들다)"
+      },
+      {
+        "word": "contribute",
+        "meaning_ko": "기여하다(산출물/도움 강조)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "withdraw",
+        "meaning_ko": "철수하다/빠지다"
+      },
+      {
+        "word": "abstain",
+        "meaning_ko": "기권하다/삼가다"
+      },
+      {
+        "word": "avoid",
+        "meaning_ko": "피하다"
+      },
+      {
+        "word": "exclude",
+        "meaning_ko": "배제하다"
+      },
+      {
+        "word": "opt out",
+        "meaning_ko": "참여하지 않기로 하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "participate in class",
+            "meaning_ko": "수업에 참여하다"
+          },
+          {
+            "phrase": "participate in a game",
+            "meaning_ko": "게임에 참여하다"
+          },
+          {
+            "phrase": "participate in a meeting",
+            "meaning_ko": "회의에 참여하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "actively participate in discussions",
+            "meaning_ko": "토론에 적극적으로 참여하다"
+          },
+          {
+            "phrase": "participate in a survey",
+            "meaning_ko": "설문에 참여하다"
+          },
+          {
+            "phrase": "participate in decision-making",
+            "meaning_ko": "의사결정에 참여하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "participate in a randomized controlled trial",
+            "meaning_ko": "무작위 대조시험에 참여하다"
+          },
+          {
+            "phrase": "participate in negotiations as an equal partner",
+            "meaning_ko": "대등한 파트너로 협상에 참여하다"
+          },
+          {
+            "phrase": "participate in governance to increase accountability",
+            "meaning_ko": "책임성을 높이기 위해 거버넌스에 참여하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Students are encouraged to participate in class.",
+            "meaning_ko": "학생들은 수업에 참여하도록 권장된다."
+          },
+          {
+            "sentence": "I decided to participate in the event this weekend.",
+            "meaning_ko": "이번 주말 행사에 참여하기로 했다."
+          },
+          {
+            "sentence": "You can participate online if you can’t come in person.",
+            "meaning_ko": "직접 오기 어렵다면 온라인으로 참여할 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Only registered users may participate in the discussion board.",
+            "meaning_ko": "등록된 사용자만 토론 게시판에 참여할 수 있다."
+          },
+          {
+            "sentence": "Thousands of volunteers participated in the survey.",
+            "meaning_ko": "수천 명의 자원봉사자가 설문에 참여했다."
+          },
+          {
+            "sentence": "Employees are invited to participate in decision-making processes.",
+            "meaning_ko": "직원들은 의사결정 과정에 참여하도록 초대된다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "To participate meaningfully, citizens need access to information, not just a formal invitation.",
+            "meaning_ko": "의미 있게 참여하려면 시민에게 형식적 초대뿐 아니라 정보 접근권이 필요하다."
+          },
+          {
+            "sentence": "The study excluded patients who could not safely participate in the trial protocol.",
+            "meaning_ko": "그 연구는 시험 절차에 안전하게 참여할 수 없는 환자들을 제외했다."
+          },
+          {
+            "sentence": "When marginalized groups participate in governance, policies tend to reflect lived realities more accurately.",
+            "meaning_ko": "소외 집단이 거버넌스에 참여하면 정책이 현실을 더 정확히 반영하는 경향이 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "participate는 거의 항상 participate in으로 외우시면 됩니다. 목적어를 직접 받지 않는 자동사라서 ‘participate the meeting’이 아니라 ‘participate in the meeting’이 정답입니다. attend(참석)와는 달리 ‘적극적으로 끼어들어 활동한다’ 뉘앙스를 강조할 때 participate가 더 자연스럽습니다.",
+    "tags": [
+      "참여",
+      "교육",
+      "조직",
+      "정책",
+      "연구"
+    ],
+    "frequency": "상",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Please participate ________ the workshop.",
+            "a": "in",
+            "meaning_ko": "participate는 in과 결합합니다."
+          },
+          {
+            "q": "Choose the closest meaning: participate",
+            "a": "take part",
+            "meaning_ko": "가장 기본 동의 표현입니다."
+          },
+          {
+            "q": "True or False: 'participate' usually takes a direct object.",
+            "a": "False",
+            "meaning_ko": "보통 자동사이며 participate in 구조를 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which sentence is correct?",
+            "a": "She participated in the discussion.",
+            "meaning_ko": "in 없이 목적어를 바로 두면 어색/오류입니다."
+          },
+          {
+            "q": "Fill in the blank: Employees can participate in ________ (decide) policy changes.",
+            "a": "deciding",
+            "meaning_ko": "in 뒤에는 동명사가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best contrast: attend vs participate",
+            "a": "attend = be present; participate = take an active role",
+            "meaning_ko": "참석 vs 적극 참여의 차이."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite to sound more formal: 'People joined the survey.'",
+            "a": "People participated in the survey.",
+            "meaning_ko": "공식 문서에서 더 자연스럽습니다."
+          },
+          {
+            "q": "In research ethics, what does 'voluntary participation' imply?",
+            "a": "people choose freely to take part without coercion",
+            "meaning_ko": "강요 없이 자발적으로 참여한다는 뜻."
+          },
+          {
+            "q": "Pick the most precise usage for governance.",
+            "a": "Citizens should participate in decision-making.",
+            "meaning_ko": "거버넌스/정책 문맥의 대표 결합입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

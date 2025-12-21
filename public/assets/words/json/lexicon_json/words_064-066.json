@@ -1,0 +1,995 @@
+[
+  {
+    "word": "illumination",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The act of lighting something or the state of being lit; also, intellectual or spiritual enlightenment.",
+        "definition_ko": "빛을 비추어 밝게 함 또는 밝게 비친 상태; (비유적으로) 지적·정신적 깨달음.",
+        "note": "문맥에 따라 '조명'처럼 물리적 의미와 '계몽/깨달음' 같은 추상적 의미가 모두 가능."
+      }
+    ],
+    "concept": "어둠을 밝히는 '빛'에서 출발해, 생각을 밝히는 '깨달음'으로까지 확장되는 개념입니다.",
+    "etymology": "라틴어 illuminare(비추다, 밝히다)에서 유래했으며, '빛을 주다'라는 기본 의미가 유지되었습니다.",
+    "semanticExtension": "물리적 조명 → 문제의 핵심을 '밝혀 주는' 설명/정보 → 종교·철학적 '깨달음'으로 의미가 확장됩니다.",
+    "nuanceRegister": "중간~격식. technical(조명), academic(설명/해명), spiritual(깨달음) 문맥에서 모두 쓰이며 일상에서도 가능.",
+    "grammarNotes": "가산·불가산 모두 가능(일반적 '조명'은 불가산 느낌, 특정한 '조명 장치/효과/작품'은 가산). 'illumination of + 명사' 구조가 흔함.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~에 대한 조명/해명/깨달음",
+        "example": "illumination of the manuscript"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대한 해명/설명(빛을 비추듯)",
+        "example": "shed illumination on the issue"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 조명/밝기(환경)",
+        "example": "in low illumination"
+      }
+    ],
+    "requiredComplements": [
+      "illumination of + N : ~에 대한 조명/해명",
+      "provide/offer illumination on + N : ~에 관해 해명/설명을 제공하다",
+      "under + illumination : ~한 조명 아래에서(기술/실험 문맥)"
+    ],
+    "morphology": "illumin- (빛을 비추다) + -ation (명사화: 행위/과정). '밝히는 행위/과정'이라는 구성이 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "illuminate",
+        "meaning_ko": "비추다; (비유) 설명하다/깨우치다"
+      },
+      {
+        "word": "illuminated",
+        "meaning_ko": "조명이 된; (사고가) 계몽된"
+      },
+      {
+        "word": "illuminating",
+        "meaning_ko": "아주 유익한, 통찰을 주는"
+      },
+      {
+        "word": "illuminary",
+        "meaning_ko": "빛을 비추는(드묾, 문어)"
+      },
+      {
+        "word": "illuminationist",
+        "meaning_ko": "조명 관련 종사자/이론가(드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "lighting",
+        "meaning_ko": "조명(환경/세팅)"
+      },
+      {
+        "word": "brightness",
+        "meaning_ko": "밝기"
+      },
+      {
+        "word": "clarification",
+        "meaning_ko": "명확화, 해명"
+      },
+      {
+        "word": "insight",
+        "meaning_ko": "통찰"
+      },
+      {
+        "word": "enlightenment",
+        "meaning_ko": "계몽, 깨달음"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "lighting",
+        "meaning_ko": "조명"
+      },
+      {
+        "word": "illumining",
+        "meaning_ko": "조명/비춤(문어)"
+      },
+      {
+        "word": "enlightenment",
+        "meaning_ko": "깨달음(추상)"
+      },
+      {
+        "word": "clarification",
+        "meaning_ko": "해명/설명"
+      },
+      {
+        "word": "elucidation",
+        "meaning_ko": "명료화(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "glow",
+        "meaning_ko": "은은한 빛/광채"
+      },
+      {
+        "word": "radiance",
+        "meaning_ko": "찬란함, 빛남"
+      },
+      {
+        "word": "revelation",
+        "meaning_ko": "폭로/계시(갑작스런 깨달음)"
+      },
+      {
+        "word": "insight",
+        "meaning_ko": "통찰(개인적 이해)"
+      },
+      {
+        "word": "explanation",
+        "meaning_ko": "설명(일반)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "darkness",
+        "meaning_ko": "어둠"
+      },
+      {
+        "word": "obscurity",
+        "meaning_ko": "불명확함"
+      },
+      {
+        "word": "confusion",
+        "meaning_ko": "혼란"
+      },
+      {
+        "word": "ignorance",
+        "meaning_ko": "무지"
+      },
+      {
+        "word": "blackout",
+        "meaning_ko": "정전/암흑 상태"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "bright illumination",
+            "meaning_ko": "밝은 조명"
+          },
+          {
+            "phrase": "low illumination",
+            "meaning_ko": "어두운 조도"
+          },
+          {
+            "phrase": "street illumination",
+            "meaning_ko": "가로등 조명"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ambient illumination",
+            "meaning_ko": "주변광/환경 조명"
+          },
+          {
+            "phrase": "provide illumination",
+            "meaning_ko": "조명을 제공하다"
+          },
+          {
+            "phrase": "illumination level",
+            "meaning_ko": "조도 수준"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "illumination of the text",
+            "meaning_ko": "텍스트에 대한 해명/주석적 조명"
+          },
+          {
+            "phrase": "shed illumination on the mechanism",
+            "meaning_ko": "메커니즘을 밝혀 주다"
+          },
+          {
+            "phrase": "spiritual illumination",
+            "meaning_ko": "영적 깨달음"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The hallway has poor illumination at night.",
+            "meaning_ko": "그 복도는 밤에 조명이 좋지 않습니다."
+          },
+          {
+            "sentence": "Turn on the lamp for more illumination.",
+            "meaning_ko": "조명을 더 밝히려고 스탠드를 켜세요."
+          },
+          {
+            "sentence": "The room was filled with soft illumination.",
+            "meaning_ko": "방 안이 부드러운 조명으로 가득했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Better illumination reduced eye strain during reading.",
+            "meaning_ko": "더 나은 조명은 독서 중 눈의 피로를 줄였습니다."
+          },
+          {
+            "sentence": "The report offers illumination on why the plan failed.",
+            "meaning_ko": "그 보고서는 계획이 왜 실패했는지에 대한 해명을 제공합니다."
+          },
+          {
+            "sentence": "The artist used illumination to guide the viewer’s attention.",
+            "meaning_ko": "그 예술가는 시선 유도를 위해 조명을 활용했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The newly discovered letters provide rare illumination of his private motives.",
+            "meaning_ko": "새로 발견된 편지들은 그의 사적인 동기에 대한 드문 단서를 비춥니다."
+          },
+          {
+            "sentence": "By comparing the datasets, the team shed fresh illumination on the causal pathway.",
+            "meaning_ko": "데이터셋을 비교함으로써 팀은 인과 경로를 새롭게 밝혀냈습니다."
+          },
+          {
+            "sentence": "For her, philosophy was not an exercise in abstraction but a search for illumination.",
+            "meaning_ko": "그녀에게 철학은 추상이 아니라 깨달음을 찾는 과정이었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "illumination은 '조명'처럼 물리적 의미가 기본이지만, 글·연구에서 '해명/설명'으로도 자주 나옵니다(= shed illumination on). 비슷한 clarification은 '명확하게 정리'에 가깝고, illumination은 '빛을 비추듯 밝혀 줌'이라는 이미지가 더 강합니다.",
+    "tags": [
+      "조명",
+      "설명",
+      "통찰",
+      "학술 문맥",
+      "종교·철학"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'illumination':\nA) silence\nB) lighting\nC) hunger\nD) injury",
+            "a": "B) lighting",
+            "meaning_ko": "illumination의 기본 뜻은 '조명/밝힘'입니다."
+          },
+          {
+            "q": "Fill in the blank: The desk needs more ______ for studying at night.",
+            "a": "illumination",
+            "meaning_ko": "밤 공부에 필요한 것은 '조명'이라는 물리적 의미."
+          },
+          {
+            "q": "Which phrase sounds natural?\nA) illumination up\nB) low illumination\nC) illumination down\nD) illumination under",
+            "a": "B) low illumination",
+            "meaning_ko": "조도/밝기를 말할 때 low illumination이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best option: The documentary provided ______ on the origins of the conflict.\nA) illumination\nB) decoration\nC) evaporation\nD) hesitation",
+            "a": "A) illumination",
+            "meaning_ko": "provided illumination on = 기원을 '밝혀 주다/해명하다'."
+          },
+          {
+            "q": "Pick the closest meaning: 'The data shed illumination on the pattern.'",
+            "a": "The data clarified the pattern.",
+            "meaning_ko": "shed illumination on ≈ clarify/elucidate."
+          },
+          {
+            "q": "Which preposition most commonly follows 'illumination' in the sense of 'explanation'?\nA) of\nB) for\nC) by\nD) across",
+            "a": "A) of",
+            "meaning_ko": "illumination of + 대상: 대상에 대한 해명/조명."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Sentence correction: 'The evidence gave illumination to the cause.' → Replace the underlined part with the most idiomatic phrase.",
+            "a": "shed illumination on",
+            "meaning_ko": "give illumination to보다 shed illumination on이 관용적으로 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'The annotations offer illumination of the poem.'",
+            "a": "The annotations elucidate the poem.",
+            "meaning_ko": "offer illumination of ≈ elucidate."
+          },
+          {
+            "q": "Fill in the blanks: 'Under ____ illumination, subtle defects became visible.'",
+            "a": "proper",
+            "meaning_ko": "실험/검사 문맥에서 proper illumination(적절한 조명)이 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aggravate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To make a bad situation, problem, or injury worse; also, to annoy or irritate someone.",
+        "definition_ko": "상황·문제·부상을 더 악화시키다; (사람을) 짜증나게 하다/성나게 하다.",
+        "note": "공식 문맥에서는 '악화시키다'가 중심이고, 일상에서는 '짜증나게 하다' 의미도 흔합니다."
+      }
+    ],
+    "concept": "이미 나쁜 상태를 '더 나쁘게' 만드는 동사입니다(상황/증상/감정 모두).",
+    "etymology": "라틴어 aggravare(무겁게 하다)에서 유래했으며, '부담을 더하다 → 악화시키다'로 의미가 발전했습니다.",
+    "semanticExtension": "물리적·의학적 악화(증상) → 사회적 문제 악화(갈등/위기) → 감정적 자극(짜증나게 함)으로 확장됩니다.",
+    "nuanceRegister": "중간~격식(문제/증상 악화) + 구어(사람 짜증나게 함). 의료·공문서에서는 formal하게 쓰입니다.",
+    "grammarNotes": "타동사로 목적어를 직접 취함: aggravate + problem/symptom/situation. 사람 목적어도 가능(You aggravate me). 'aggravated by + 원인' 수동태 구문도 흔함.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "~에 의해 악화되다(수동)",
+        "example": "aggravated by stress"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~로 인해/함께 더 악화되다(상태 동반)",
+        "example": "aggravate the pain with overuse"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "~로 발전/악화되다(상태 변화)",
+        "example": "aggravate a dispute into a crisis"
+      }
+    ],
+    "requiredComplements": [
+      "aggravate + N : N을 악화시키다",
+      "be aggravated by + N : N 때문에 악화되다",
+      "aggravate A into B : A를 B로까지 악화시키다(갈등/상황)"
+    ],
+    "morphology": "aggrav- (무겁게 하다/더하다) + -ate (동사화). '부담을 더해 더 무겁게 만들다' → '악화시키다'로 연결됩니다.",
+    "derivatives": [
+      {
+        "word": "aggravation",
+        "meaning_ko": "악화; (구어) 짜증"
+      },
+      {
+        "word": "aggravating",
+        "meaning_ko": "짜증나는; 악화시키는"
+      },
+      {
+        "word": "aggravated",
+        "meaning_ko": "악화된; (감정이) 격앙된"
+      },
+      {
+        "word": "aggravatingly",
+        "meaning_ko": "짜증나게도"
+      },
+      {
+        "word": "aggravate",
+        "meaning_ko": "악화시키다; 짜증나게 하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "worsen",
+        "meaning_ko": "악화시키다"
+      },
+      {
+        "word": "exacerbate",
+        "meaning_ko": "악화시키다(격식)"
+      },
+      {
+        "word": "irritate",
+        "meaning_ko": "자극하다; 짜증나게 하다"
+      },
+      {
+        "word": "inflame",
+        "meaning_ko": "염증을 악화시키다; 격화시키다"
+      },
+      {
+        "word": "complicate",
+        "meaning_ko": "더 복잡하게 만들다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "worsen",
+        "meaning_ko": "악화시키다"
+      },
+      {
+        "word": "exacerbate",
+        "meaning_ko": "악화시키다(격식)"
+      },
+      {
+        "word": "intensify",
+        "meaning_ko": "강화하다/심화하다"
+      },
+      {
+        "word": "inflame",
+        "meaning_ko": "격화시키다; 염증을 더 심하게 하다"
+      },
+      {
+        "word": "irritate",
+        "meaning_ko": "짜증나게 하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "provoke",
+        "meaning_ko": "유발하다; 도발하다"
+      },
+      {
+        "word": "annoy",
+        "meaning_ko": "짜증나게 하다"
+      },
+      {
+        "word": "agitate",
+        "meaning_ko": "동요시키다; 흥분시키다"
+      },
+      {
+        "word": "complicate",
+        "meaning_ko": "복잡하게 만들다"
+      },
+      {
+        "word": "escalate",
+        "meaning_ko": "확대/격화되다(또는 시키다)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "alleviate",
+        "meaning_ko": "완화하다"
+      },
+      {
+        "word": "ease",
+        "meaning_ko": "덜어주다"
+      },
+      {
+        "word": "mitigate",
+        "meaning_ko": "완화하다(격식)"
+      },
+      {
+        "word": "soothe",
+        "meaning_ko": "진정시키다"
+      },
+      {
+        "word": "improve",
+        "meaning_ko": "개선하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "aggravate the problem",
+            "meaning_ko": "문제를 악화시키다"
+          },
+          {
+            "phrase": "aggravate the pain",
+            "meaning_ko": "통증을 악화시키다"
+          },
+          {
+            "phrase": "aggravate me",
+            "meaning_ko": "나를 짜증나게 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "aggravate symptoms",
+            "meaning_ko": "증상을 악화시키다"
+          },
+          {
+            "phrase": "aggravated by stress",
+            "meaning_ko": "스트레스로 인해 악화된"
+          },
+          {
+            "phrase": "aggravate the situation",
+            "meaning_ko": "상황을 악화시키다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "aggravate tensions",
+            "meaning_ko": "긴장을 고조/악화시키다"
+          },
+          {
+            "phrase": "aggravate an injury",
+            "meaning_ko": "부상을 더 악화시키다"
+          },
+          {
+            "phrase": "aggravate a dispute into a crisis",
+            "meaning_ko": "분쟁을 위기로까지 악화시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Don’t run on it—you’ll aggravate your ankle.",
+            "meaning_ko": "그걸로 뛰지 마요—발목이 더 악화될 거예요."
+          },
+          {
+            "sentence": "His comments really aggravated me.",
+            "meaning_ko": "그의 말이 정말 나를 짜증나게 했어요."
+          },
+          {
+            "sentence": "Skipping meals can aggravate stomach pain.",
+            "meaning_ko": "식사를 거르면 위통이 더 심해질 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The delay aggravated tensions between the two teams.",
+            "meaning_ko": "지연은 두 팀 사이의 긴장을 악화시켰습니다."
+          },
+          {
+            "sentence": "The rash was aggravated by heat and sweat.",
+            "meaning_ko": "그 발진은 더위와 땀 때문에 악화되었습니다."
+          },
+          {
+            "sentence": "Arguing in public only aggravated the situation.",
+            "meaning_ko": "공공장소에서의 말다툼은 상황만 더 악화시켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Policy uncertainty aggravated the downturn by discouraging long-term investment.",
+            "meaning_ko": "정책 불확실성은 장기 투자를 위축시켜 경기 하락을 악화시켰습니다."
+          },
+          {
+            "sentence": "Misleading headlines can aggravate mistrust and polarize an already divided audience.",
+            "meaning_ko": "오해를 부르는 헤드라인은 불신을 키우고 이미 갈라진 대중을 더 양극화할 수 있습니다."
+          },
+          {
+            "sentence": "The court warned that further provocation would aggravate the conflict into open violence.",
+            "meaning_ko": "법원은 추가 도발이 갈등을 공개적 폭력 사태로까지 악화시킬 수 있다고 경고했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "aggravate는 '악화시키다'가 시험에서 핵심입니다(= exacerbate, worsen). 사람 목적어로 '짜증나게 하다'도 되지만, 글쓰기에서는 증상/문제/긴장 같은 추상 명사와 같이 쓰는 패턴을 우선 익히세요: be aggravated by, aggravate tensions. alleviate/mitigate와 반대쌍으로 묶어 암기하면 효율적입니다.",
+    "tags": [
+      "악화",
+      "의학",
+      "갈등",
+      "감정",
+      "학술·기사"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Running on an injured knee may ______ the injury.",
+            "a": "aggravate",
+            "meaning_ko": "부상을 '더 악화시키다'가 핵심 의미."
+          },
+          {
+            "q": "Choose the best meaning: 'His whining aggravates me.'\nA) calms\nB) annoys\nC) feeds\nD) hides",
+            "a": "B) annoys",
+            "meaning_ko": "사람을 목적어로 하면 '짜증나게 하다'."
+          },
+          {
+            "q": "Which is the opposite of 'aggravate'?\nA) worsen\nB) irritate\nC) alleviate\nD) intensify",
+            "a": "C) alleviate",
+            "meaning_ko": "alleviate = 완화하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct pattern: The symptoms were aggravated ___ stress.\nA) for\nB) by\nC) at\nD) across",
+            "a": "B) by",
+            "meaning_ko": "be aggravated by = ~로 인해 악화되다."
+          },
+          {
+            "q": "Pick the most natural sentence.\nA) The heat aggravated the rash.\nB) The heat aggravated to the rash.\nC) The heat aggravated with the rash.\nD) The heat aggravated on the rash.",
+            "a": "A) The heat aggravated the rash.",
+            "meaning_ko": "aggravate는 타동사로 목적어를 바로 받습니다."
+          },
+          {
+            "q": "Choose the closest synonym in formal writing: 'aggravate the crisis'\nA) polish\nB) exacerbate\nC) whisper\nD) diminish",
+            "a": "B) exacerbate",
+            "meaning_ko": "exacerbate는 격식 문맥에서 매우 가까운 동의어."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'The announcement aggravated the uncertainty to investors.' Identify the best fix.",
+            "a": "The announcement aggravated uncertainty among investors.",
+            "meaning_ko": "aggravate + 명사(uncertainty) + among + 사람(집단) 구조가 자연스럽습니다."
+          },
+          {
+            "q": "Fill in the blank with the most precise verb: 'The inflammatory speech ____ tensions between communities.'",
+            "a": "aggravated",
+            "meaning_ko": "tensions(긴장)을 악화시키다에 정확히 맞습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'Poor communication aggravated a minor misunderstanding into a major dispute.'",
+            "a": "Poor communication escalated a minor misunderstanding into a major dispute.",
+            "meaning_ko": "aggravate A into B는 'A를 B로까지 악화시키다'로, escalate로 자연스럽게 치환 가능."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "unctuous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Having a greasy or oily texture; also, excessively flattering or ingratiating in an insincere way.",
+        "definition_ko": "기름지고 번들거리는; (비유적으로) 지나치게 아첨하는, 느끼하게 굽신거리는(진정성 없는).",
+        "note": "형용사로 물리적 질감(기름기)과 태도/말투(아첨)의 두 축이 대표적입니다."
+      }
+    ],
+    "concept": "겉은 매끈하고 '기름진' 느낌이지만, 비유적으로는 진심 없는 아첨의 불쾌함을 담습니다.",
+    "etymology": "라틴어 unctus(기름을 바른)에서 유래했으며, 원래는 '기름기 있는' 물리적 의미가 중심이었습니다.",
+    "semanticExtension": "기름진 질감 → 말투/태도가 '미끈거리고 끈적한' 느낌 → 과도한 아첨/아부로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식/문어에 가까움. 비판적 뉘앙스가 강하며, 사람/말투를 묘사할 때 거의 부정적으로 사용.",
+    "grammarNotes": "보통 사람/미소/목소리/태도/칭찬 등에 수식어로 사용(unctuous smile, unctuous tone). 음식의 질감에도 가능하나 일상에서는 greasy/oily가 더 흔함.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(말투/행동에서) 드러나는",
+        "example": "unctuous in his praise"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~로 가득한(아첨/기름기)",
+        "example": "unctuous with flattery"
+      },
+      {
+        "prep": "toward",
+        "meaning_ko": "~에게(대상) 지나치게 굽신거리는",
+        "example": "unctuous toward his boss"
+      }
+    ],
+    "requiredComplements": [
+      "unctuous in + N/doing : ~에서 아첨이 드러나는",
+      "unctuous with + N : 아첨/느끼함이 가득한",
+      "unctuous toward + 사람/집단 : ~에게 굽신거리며 아첨하는"
+    ],
+    "morphology": "unct- (기름을 바르다) + -uous (…성질이 있는). '기름기/미끈거림의 성질'을 가진다는 구성입니다.",
+    "derivatives": [
+      {
+        "word": "unctuously",
+        "meaning_ko": "느끼하게; 아첨조로"
+      },
+      {
+        "word": "unctuousness",
+        "meaning_ko": "기름기; (비유) 간사한 아첨"
+      },
+      {
+        "word": "unction",
+        "meaning_ko": "기름 바름(종교 의식); 열정(비유)"
+      },
+      {
+        "word": "unctuous",
+        "meaning_ko": "기름진; 아첨하는"
+      },
+      {
+        "word": "unctuous-like",
+        "meaning_ko": "기름진 듯한(비표준/드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "greasy",
+        "meaning_ko": "기름진; (비유) 불쾌한"
+      },
+      {
+        "word": "oily",
+        "meaning_ko": "기름기 있는; 미끈한(비유)"
+      },
+      {
+        "word": "smarmy",
+        "meaning_ko": "비굴하게 아첨하는(구어)"
+      },
+      {
+        "word": "ingratiating",
+        "meaning_ko": "환심을 사려는"
+      },
+      {
+        "word": "obsequious",
+        "meaning_ko": "비굴하게 굽신거리는(격식)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "smarmy",
+        "meaning_ko": "느끼하게 아첨하는"
+      },
+      {
+        "word": "obsequious",
+        "meaning_ko": "비굴한, 아첨하는"
+      },
+      {
+        "word": "oily",
+        "meaning_ko": "미끈한, 아첨하는(비유)"
+      },
+      {
+        "word": "sycophantic",
+        "meaning_ko": "아부하는(격식)"
+      },
+      {
+        "word": "greasy",
+        "meaning_ko": "기름진; 불쾌하게 아첨하는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "flattering",
+        "meaning_ko": "칭찬하는(중립~긍정)"
+      },
+      {
+        "word": "courteous",
+        "meaning_ko": "정중한(긍정)"
+      },
+      {
+        "word": "deferential",
+        "meaning_ko": "공손한(상대 존중)"
+      },
+      {
+        "word": "glib",
+        "meaning_ko": "겉만 번지르르한, 말만 잘하는"
+      },
+      {
+        "word": "slick",
+        "meaning_ko": "세련됐지만 미끈한(의심스러운) 느낌"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sincere",
+        "meaning_ko": "진심의"
+      },
+      {
+        "word": "genuine",
+        "meaning_ko": "진정한"
+      },
+      {
+        "word": "frank",
+        "meaning_ko": "솔직한"
+      },
+      {
+        "word": "blunt",
+        "meaning_ko": "직설적인"
+      },
+      {
+        "word": "straightforward",
+        "meaning_ko": "담백한, 꾸밈없는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "unctuous smile",
+            "meaning_ko": "느끼한 미소(아첨성)"
+          },
+          {
+            "phrase": "unctuous tone",
+            "meaning_ko": "아첨조의 말투"
+          },
+          {
+            "phrase": "unctuous compliment",
+            "meaning_ko": "과도하게 아부하는 칭찬"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "unctuous flattery",
+            "meaning_ko": "기름진 아첨"
+          },
+          {
+            "phrase": "unctuous manner",
+            "meaning_ko": "비굴하게 굽신거리는 태도"
+          },
+          {
+            "phrase": "unctuous politeness",
+            "meaning_ko": "지나치게 비위 맞추는 공손함"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "an unctuous display of loyalty",
+            "meaning_ko": "진정성 없는 충성 과시"
+          },
+          {
+            "phrase": "unctuous assurances of support",
+            "meaning_ko": "느끼한 지원 약속(빈말)"
+          },
+          {
+            "phrase": "unctuous in his praise of the regime",
+            "meaning_ko": "정권을 찬양하는 데서 드러나는 아첨성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He greeted me with an unctuous smile.",
+            "meaning_ko": "그는 느끼한 미소로 나를 맞이했습니다."
+          },
+          {
+            "sentence": "Her unctuous tone made everyone uncomfortable.",
+            "meaning_ko": "그녀의 아첨조 말투는 모두를 불편하게 했습니다."
+          },
+          {
+            "sentence": "The sauce tasted unctuous and heavy.",
+            "meaning_ko": "그 소스는 기름지고 묵직하게 느껴졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The salesman’s unctuous compliments sounded rehearsed.",
+            "meaning_ko": "그 영업사원의 느끼한 칭찬은 연습해 온 말처럼 들렸습니다."
+          },
+          {
+            "sentence": "She became unctuous toward anyone with influence.",
+            "meaning_ko": "그녀는 영향력 있는 사람에게는 누구에게나 비굴하게 아첨하곤 했습니다."
+          },
+          {
+            "sentence": "His apology was so unctuous that it felt less like remorse than strategy.",
+            "meaning_ko": "그의 사과는 너무 느끼하고 과장돼서, 반성이라기보다 계산처럼 느껴졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Behind the unctuous politeness lay a careful attempt to control the narrative.",
+            "meaning_ko": "그 느끼한 공손함 뒤에는 서사를 통제하려는 치밀한 시도가 숨어 있었습니다."
+          },
+          {
+            "sentence": "The minister offered unctuous assurances of reform while avoiding any measurable commitments.",
+            "meaning_ko": "그 장관은 측정 가능한 약속은 피한 채, 개혁을 하겠다는 느끼한 확언만 내놓았습니다."
+          },
+          {
+            "sentence": "Critics noted that the interview turned unctuous whenever the topic shifted to the sponsor.",
+            "meaning_ko": "비평가들은 화제가 후원사로 옮겨갈 때마다 인터뷰가 아첨조로 변한다고 지적했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "unctuous는 시험에서 '기름진'보다 '진정성 없는 아첨(느끼한)' 의미가 더 자주 포인트가 됩니다. smarmy(구어), obsequious/sycophantic(격식)와 함께 묶어두고, sincere/genuine을 반의어로 같이 외우면 뉘앙스가 선명해집니다. 음식 질감이면 greasy/oily가 더 자연스럽다는 점도 기억하세요.",
+    "tags": [
+      "성격·태도",
+      "비판 표현",
+      "문어",
+      "감정 뉘앙스",
+      "묘사 형용사"
+    ],
+    "frequency": "하",
+    "difficulty": "8",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best description of 'unctuous' (people):\nA) honest\nB) overly flattering and insincere\nC) sleepy\nD) noisy",
+            "a": "B) overly flattering and insincere",
+            "meaning_ko": "사람/말투에 쓰이면 '아첨하는, 느끼한' 부정적 의미."
+          },
+          {
+            "q": "Fill in the blank: He spoke in an ______ tone that made me distrust him.",
+            "a": "unctuous",
+            "meaning_ko": "unctuous tone = 아첨조/미끈한 말투."
+          },
+          {
+            "q": "Which word is closest to unctuous?\nA) smarmy\nB) brisk\nC) rugged\nD) sparse",
+            "a": "A) smarmy",
+            "meaning_ko": "smarmy는 구어로 '느끼하게 아첨하는' 의미가 매우 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best antonym of 'unctuous' in this context: 'an unctuous apology'\nA) sincere\nB) glossy\nC) oily\nD) polished",
+            "a": "A) sincere",
+            "meaning_ko": "unctuous apology는 진정성 없는 사과 → 반대는 sincere."
+          },
+          {
+            "q": "Choose the most natural collocation.\nA) unctuous weather\nB) unctuous smile\nC) unctuous mountain\nD) unctuous equation",
+            "a": "B) unctuous smile",
+            "meaning_ko": "unctuous는 smile/tone/manner 같은 태도 표현과 자주 결합."
+          },
+          {
+            "q": "Which sentence uses 'unctuous' correctly?\nA) The unctuous lecture improved my grades.\nB) His unctuous praise felt manipulative.\nC) The unctuous engine ran faster.\nD) She unctuous the report quickly.",
+            "a": "B) His unctuous praise felt manipulative.",
+            "meaning_ko": "praise/compliment에 붙여 '아첨성'을 표현."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Nuance choice: In formal writing, which is closest to 'unctuous' when describing behavior?\nA) casual\nB) obsequious\nC) athletic\nD) transparent",
+            "a": "B) obsequious",
+            "meaning_ko": "obsequious는 격식 문맥에서 '비굴하게 아첨하는' 의미로 가장 가깝습니다."
+          },
+          {
+            "q": "Rewrite with the most precise adjective: 'The spokesperson gave overly flattering assurances.'",
+            "a": "The spokesperson gave unctuous assurances.",
+            "meaning_ko": "overly flattering + insincere 뉘앙스를 unctuous가 압축합니다."
+          },
+          {
+            "q": "Fill in the blank: 'The conversation turned ____ whenever money was mentioned.'",
+            "a": "unctuous",
+            "meaning_ko": "돈/이익이 걸리면 아첨조로 변하는 상황에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

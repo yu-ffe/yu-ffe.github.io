@@ -1,0 +1,834 @@
+[
+  {
+    "word": "hail",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To greet or call to; to praise or acclaim; (of ice) to fall as pellets from the sky.",
+        "definition_ko": "인사하다/불러 세우다; 환호하며 칭송하다; (우박이) 내리다.",
+        "note": "‘hail a taxi(택시를 불러 세우다)’와 ‘hail A as B(A를 B로 칭송하다)’가 대표 포인트입니다."
+      }
+    ],
+    "concept": "누군가를 ‘불러/맞이하거나’, 대상을 ‘칭송’하거나, (날씨로) ‘우박이 내리다’.",
+    "etymology": "‘인사하다/맞이하다’ 용법은 고대 노르드어 heill(건강, 행운) 계열 인사말에서 발전했고, ‘우박’ 의미는 고대 영어 hægl(우박) 계열에서 이어졌습니다.",
+    "semanticExtension": "물리적으로 ‘부르다/호출하다’(hail a cab)에서 사회적으로 ‘칭송하다’(hail as a hero)로 확장되며, 날씨 의미와는 별개의 축으로 넓게 쓰입니다.",
+    "nuanceRegister": "중립~격식. hail A as B는 기사/보도/평가 문맥에서 특히 흔합니다.",
+    "grammarNotes": "타동사: hail a taxi / hail someone. 타동사 패턴: hail A as B. 자동사(날씨): It’s hailing. 명사: hail(우박) 보통 불가산처럼 쓰이나 ‘a hailstorm’처럼 표현 가능.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산·불가산 모두(의미에 따라)",
+    "prepositionPatterns": [
+      {
+        "prep": "as",
+        "meaning_ko": "A를 B로 칭송/인정하다",
+        "example": "hail her as a pioneer"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~ 출신이다",
+        "example": "hail from Seoul"
+      }
+    ],
+    "requiredComplements": [
+      "hail + 명사(taxi/cab) — ‘(손짓 등으로) 불러 세우다’",
+      "hail A as B — ‘A를 B로 칭송/추켜세우다’",
+      "hail from + 장소 — ‘~ 출신이다’",
+      "It is hailing — ‘우박이 내리다’"
+    ],
+    "morphology": "동일 철자에 어원이 다른 의미들이 섞여 있어, 용법(‘부르다/칭송’ vs ‘우박’)을 예문으로 분리해 기억하는 게 안전합니다.",
+    "derivatives": [
+      {
+        "word": "hailstorm",
+        "meaning_ko": "우박 폭풍"
+      },
+      {
+        "word": "hailing",
+        "meaning_ko": "우박이 내림; (기사에서) ‘~ 출신인’(hailing from)"
+      },
+      {
+        "word": "hailed",
+        "meaning_ko": "칭송받는; 불려 세워진"
+      }
+    ],
+    "related": [
+      {
+        "word": "greet",
+        "meaning_ko": "인사하다"
+      },
+      {
+        "word": "acclaim",
+        "meaning_ko": "칭송하다"
+      },
+      {
+        "word": "summon",
+        "meaning_ko": "불러오다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "greet",
+        "meaning_ko": "인사하다"
+      },
+      {
+        "word": "acclaim",
+        "meaning_ko": "칭송하다"
+      },
+      {
+        "word": "call",
+        "meaning_ko": "부르다(호출하다)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "salute",
+        "meaning_ko": "경례/경의를 표하다(격식)"
+      },
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다(범용)"
+      },
+      {
+        "word": "flag down",
+        "meaning_ko": "(차를) 손짓으로 세우다(구어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "denounce",
+        "meaning_ko": "비난하다"
+      },
+      {
+        "word": "dismiss",
+        "meaning_ko": "일축하다/무시하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "hail a taxi",
+            "meaning_ko": "택시를 불러 세우다"
+          },
+          {
+            "phrase": "hail a friend",
+            "meaning_ko": "친구에게 인사하다/불러 세우다"
+          },
+          {
+            "phrase": "hail stones",
+            "meaning_ko": "우박 알갱이"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "hail A as a hero",
+            "meaning_ko": "A를 영웅으로 칭송하다"
+          },
+          {
+            "phrase": "hail from abroad",
+            "meaning_ko": "해외 출신이다"
+          },
+          {
+            "phrase": "a sudden hailstorm",
+            "meaning_ko": "갑작스러운 우박 폭풍"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "be hailed as a breakthrough",
+            "meaning_ko": "획기적 성과로 칭송받다"
+          },
+          {
+            "phrase": "hail the decision as progress",
+            "meaning_ko": "그 결정을 진전으로 치켜세우다"
+          },
+          {
+            "phrase": "hail pelted the windshield",
+            "meaning_ko": "우박이 앞유리를 사정없이 때렸다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I hailed a taxi on the corner.",
+            "meaning_ko": "저는 길모퉁이에서 택시를 불러 세웠습니다."
+          },
+          {
+            "sentence": "People hailed the singer as she arrived.",
+            "meaning_ko": "사람들이 가수가 도착하자 환호하며 맞이했습니다."
+          },
+          {
+            "sentence": "It’s hailing outside.",
+            "meaning_ko": "밖에 우박이 내리고 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The press hailed the discovery as a major breakthrough.",
+            "meaning_ko": "언론은 그 발견을 큰 돌파구로 칭송했습니다."
+          },
+          {
+            "sentence": "She hails from a small coastal town.",
+            "meaning_ko": "그녀는 작은 해안 마을 출신입니다."
+          },
+          {
+            "sentence": "A sudden hailstorm forced us to pull over.",
+            "meaning_ko": "갑작스러운 우박 폭풍 때문에 우리는 차를 세우고 갓길로 빠졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The policy was hailed as progress, though critics warned of unintended consequences.",
+            "meaning_ko": "그 정책은 진전으로 칭송받았지만, 비판자들은 의도치 않은 부작용을 경고했습니다."
+          },
+          {
+            "sentence": "Hail pelted the windshield so loudly that we could barely hear the radio.",
+            "meaning_ko": "우박이 앞유리를 너무 크게 때려 라디오 소리도 거의 들리지 않았습니다."
+          },
+          {
+            "sentence": "Once hailed as a visionary, he later faced scrutiny over exaggerated claims.",
+            "meaning_ko": "한때 비전가로 칭송받았던 그는 이후 과장된 주장으로 검증을 받게 되었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "hail은 ‘우박’(날씨)과 ‘칭송/불러 세우다’(동사)가 철자만 같고 결이 다릅니다. 시험에서는 hail a taxi(호출), hail A as B(칭송), hail from(출신) 3세트를 고정으로 잡아두시면 안정적으로 풀립니다. 날씨 의미는 It’s hailing처럼 진행형으로 자주 나옵니다.",
+    "tags": [
+      "호출",
+      "칭송",
+      "기사/보도",
+      "날씨",
+      "다의어"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: He ____ a taxi in front of the station.",
+            "a": "hailed",
+            "meaning_ko": "hail a taxi = 택시를 불러 세우다."
+          },
+          {
+            "q": "Choose the best meaning: It’s hailing.",
+            "a": "Ice pellets are falling from the sky.",
+            "meaning_ko": "우박이 내리다."
+          },
+          {
+            "q": "Which phrase is correct?",
+            "a": "hail from",
+            "meaning_ko": "hail from = ~ 출신이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The media hailed her ____ a pioneer.",
+            "a": "as",
+            "meaning_ko": "hail A as B 패턴."
+          },
+          {
+            "q": "Error check: 'She hailed as a genius.' (Correct it.)",
+            "a": "She was hailed as a genius.",
+            "meaning_ko": "수동태(be hailed as)가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: be hailed as a success",
+            "a": "be widely praised as a success",
+            "meaning_ko": "hailed = praised/acclaimed."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best fit: The report was hailed as progress, but some experts ____ the risks.",
+            "a": "highlighted",
+            "meaning_ko": "‘칭송’과 대비로 ‘위험을 부각하다’가 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence best shows the weather meaning?",
+            "a": "Hail pelted the roof for nearly ten minutes.",
+            "meaning_ko": "pelt(사정없이 때리다)와 결합이 자연스럽습니다."
+          },
+          {
+            "q": "Best interpretation: 'a scientist hailing from Japan'",
+            "a": "a scientist originally from Japan",
+            "meaning_ko": "hailing from = 출신인."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aminous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A misspelling or rare variant used for 'ominous': suggesting that something unpleasant is likely to happen; foreboding.",
+        "definition_ko": "‘ominous’의 흔한 오기/변형으로 쓰이는 형태: 불길한, 나쁜 일이 일어날 것 같은.",
+        "note": "표준 철자는 보통 **ominous**입니다. 시험/공식 글에서는 ominous로 쓰는 게 안전합니다."
+      }
+    ],
+    "concept": "다가올 일이 좋지 않을 것 같은 ‘불길함/흉조’의 기미.",
+    "etymology": "표준형 ominous는 라틴어 omen(징조, 전조) 계열에서 발전했습니다. aminous는 보통 비표준 철자(오기)로 취급됩니다.",
+    "semanticExtension": "날씨(ominous clouds), 침묵(ominous silence), 신호(ominous sign)처럼 ‘불길한 징후’를 나타내는 거의 모든 단서에 붙어 확장됩니다.",
+    "nuanceRegister": "문어/격식. 기사·소설·비평에서 자주 쓰이며, ‘불안/위협’ 느낌이 강합니다.",
+    "grammarNotes": "형용사로 ominous(표준) + 명사(clouds, silence, warning, sign). 부사는 ominously(불길하게).",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "ominous (aminous) + 명사(clouds/silence/sign) — ‘불길한 ~’",
+      "It is ominous that + 절 — ‘~라는 점이 불길하다’"
+    ],
+    "morphology": "표준형은 omen(징조) 계열로 연결해 기억하는 것이 가장 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "ominously",
+        "meaning_ko": "불길하게"
+      },
+      {
+        "word": "omen",
+        "meaning_ko": "전조, 징조"
+      }
+    ],
+    "related": [
+      {
+        "word": "foreboding",
+        "meaning_ko": "불길한 예감"
+      },
+      {
+        "word": "portent",
+        "meaning_ko": "전조, 징후(문어)"
+      },
+      {
+        "word": "threatening",
+        "meaning_ko": "위협적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "foreboding",
+        "meaning_ko": "불길한"
+      },
+      {
+        "word": "inauspicious",
+        "meaning_ko": "불길한(길흉적으로)"
+      },
+      {
+        "word": "menacing",
+        "meaning_ko": "위협적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sinister",
+        "meaning_ko": "불길한, 음흉한"
+      },
+      {
+        "word": "eerie",
+        "meaning_ko": "으스스한"
+      },
+      {
+        "word": "worrying",
+        "meaning_ko": "걱정스러운"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "auspicious",
+        "meaning_ko": "길조의, 유망한"
+      },
+      {
+        "word": "promising",
+        "meaning_ko": "유망한"
+      },
+      {
+        "word": "reassuring",
+        "meaning_ko": "안심시키는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ominous clouds",
+            "meaning_ko": "불길한 먹구름"
+          },
+          {
+            "phrase": "an ominous sign",
+            "meaning_ko": "불길한 징조"
+          },
+          {
+            "phrase": "ominous silence",
+            "meaning_ko": "불길한 침묵"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "an ominous warning",
+            "meaning_ko": "불길한 경고"
+          },
+          {
+            "phrase": "an ominous tone",
+            "meaning_ko": "불길한 어조/분위기"
+          },
+          {
+            "phrase": "feel ominous",
+            "meaning_ko": "불길하게 느껴지다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "an ominous indication of",
+            "meaning_ko": "~의 불길한 징후"
+          },
+          {
+            "phrase": "take an ominous turn",
+            "meaning_ko": "불길한 방향으로 전개되다"
+          },
+          {
+            "phrase": "carry ominous implications",
+            "meaning_ko": "불길한 함의를 내포하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The dark clouds looked ominous.",
+            "meaning_ko": "짙은 구름이 불길해 보였습니다."
+          },
+          {
+            "sentence": "There was an ominous silence.",
+            "meaning_ko": "불길한 침묵이 흘렀습니다."
+          },
+          {
+            "sentence": "It’s an ominous sign.",
+            "meaning_ko": "그건 불길한 징조입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report contained an ominous warning about rising costs.",
+            "meaning_ko": "그 보고서는 비용 상승에 대한 불길한 경고를 담고 있었습니다."
+          },
+          {
+            "sentence": "His sudden calm felt ominous rather than reassuring.",
+            "meaning_ko": "그의 갑작스런 침착함은 안심되기보다 불길하게 느껴졌습니다."
+          },
+          {
+            "sentence": "The conversation took an ominous turn after the phone rang.",
+            "meaning_ko": "전화가 울린 뒤 대화는 불길한 방향으로 흘렀습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The data offers an ominous indication of systemic risk spreading through the market.",
+            "meaning_ko": "그 데이터는 구조적 위험이 시장 전반으로 번지고 있다는 불길한 징후를 제공합니다."
+          },
+          {
+            "sentence": "It is ominous that key safeguards were removed without public explanation.",
+            "meaning_ko": "핵심 안전장치가 공개 설명 없이 제거됐다는 점은 불길합니다."
+          },
+          {
+            "sentence": "The sudden drop in participation carries ominous implications for long-term stability.",
+            "meaning_ko": "참여가 갑자기 감소한 것은 장기 안정성에 불길한 함의를 가집니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "이 리스트의 **aminous**는 대부분 **ominous**의 오기로 보시면 됩니다. 시험에서는 표준형 ominous(불길한)로 쓰는 게 안전하고, omen(전조)에서 파생됐다는 연결을 잡으면 오래 기억됩니다. 자주 붙는 명사는 clouds/silence/sign/warning이고, take an ominous turn(불길하게 전개되다)도 빈출 표현입니다.",
+    "tags": [
+      "전조",
+      "불길함",
+      "기사/문어",
+      "감정/분위기",
+      "경고"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The silence was ____.",
+            "a": "ominous",
+            "meaning_ko": "불길한 침묵 = ominous silence."
+          },
+          {
+            "q": "Opposite of ominous:",
+            "a": "auspicious",
+            "meaning_ko": "ominous ↔ auspicious(길조의)."
+          },
+          {
+            "q": "Which noun commonly follows ominous?",
+            "a": "sign",
+            "meaning_ko": "ominous sign = 불길한 징조."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The story took an ominous ____.",
+            "a": "turn",
+            "meaning_ko": "take an ominous turn = 불길하게 전개되다."
+          },
+          {
+            "q": "Error check: 'The clouds are ominously.' (Correct it.)",
+            "a": "The clouds look ominous.",
+            "meaning_ko": "형용사 ominous가 필요합니다."
+          },
+          {
+            "q": "Best paraphrase: ominous warning",
+            "a": "a warning suggesting something bad may happen",
+            "meaning_ko": "나쁜 일이 일어날 가능성을 암시하는 경고."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Fill in the blank: It is ominous ____ safeguards were removed quietly.",
+            "a": "that",
+            "meaning_ko": "It is ominous that + 절."
+          },
+          {
+            "q": "Choose the best fit: The sudden drop in revenue carries ominous ____ for the next quarter.",
+            "a": "implications",
+            "meaning_ko": "carry ominous implications = 불길한 함의를 내포하다."
+          },
+          {
+            "q": "Which note is most accurate about 'aminous'?",
+            "a": "It is usually treated as a misspelling of 'ominous.'",
+            "meaning_ko": "표준 철자는 ominous로 보는 것이 안전합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "churlish",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Rude, unfriendly, and unpleasant; lacking civility or graciousness.",
+        "definition_ko": "무례한, 퉁명스럽고 불친절한; 예의 없는.",
+        "note": "단순 ‘angry’가 아니라 ‘예의/품위가 없는 태도’에 초점이 있습니다."
+      }
+    ],
+    "concept": "상대 배려 없이 퉁명스럽고 예의 없게 구는 ‘무례함/불친절함’.",
+    "etymology": "중세 영어 churl(촌부, 무례한 사람)에서 파생된 형용사로, ‘촌스럽고 무례한’ 의미가 ‘불친절/무례’로 굳어졌습니다.",
+    "semanticExtension": "사람의 태도뿐 아니라 ‘churlish refusal’처럼 상황에서 ‘그렇게 하면 무례해 보이는’(It would be churlish to refuse) 의미로도 확장됩니다.",
+    "nuanceRegister": "격식/문어. 일상 대화에서도 가능하지만, ‘무례하다’보다 한 단계 문어적이고 평가적입니다.",
+    "grammarNotes": "주로 사람/태도/말투(tone, remark, behavior)를 수식합니다. 관용적으로 It would be churlish to + V(…하면 무례하다)가 자주 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "a churlish remark/tone — ‘무례한 발언/어조’",
+      "It would be churlish to + 동사 — ‘~하는 건 무례하다/매너 없다’"
+    ],
+    "morphology": "churl(무례한 사람) + -ish(…같은) 구조로 ‘무례한 성향’이라는 핵심이 비교적 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "churlishly",
+        "meaning_ko": "무례하게, 퉁명스럽게"
+      },
+      {
+        "word": "churlishness",
+        "meaning_ko": "무례함, 퉁명스러움"
+      },
+      {
+        "word": "churl",
+        "meaning_ko": "무례한 사람; 촌부(문어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "civility",
+        "meaning_ko": "예의, 공손함"
+      },
+      {
+        "word": "courtesy",
+        "meaning_ko": "예의"
+      },
+      {
+        "word": "surly",
+        "meaning_ko": "퉁명스럽고 불친절한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rude",
+        "meaning_ko": "무례한"
+      },
+      {
+        "word": "surly",
+        "meaning_ko": "퉁명스러운"
+      },
+      {
+        "word": "uncivil",
+        "meaning_ko": "예의 없는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "gruff",
+        "meaning_ko": "거친 말투의(무뚝뚝한)"
+      },
+      {
+        "word": "ill-mannered",
+        "meaning_ko": "버릇없는"
+      },
+      {
+        "word": "ungracious",
+        "meaning_ko": "고마움을 모르는; 무례한(격식)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "courteous",
+        "meaning_ko": "공손한"
+      },
+      {
+        "word": "gracious",
+        "meaning_ko": "우아하고 친절한"
+      },
+      {
+        "word": "polite",
+        "meaning_ko": "정중한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a churlish man",
+            "meaning_ko": "무례한 남자"
+          },
+          {
+            "phrase": "a churlish reply",
+            "meaning_ko": "퉁명스러운 답변"
+          },
+          {
+            "phrase": "churlish behavior",
+            "meaning_ko": "무례한 행동"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a churlish remark",
+            "meaning_ko": "무례한 발언"
+          },
+          {
+            "phrase": "a churlish tone",
+            "meaning_ko": "퉁명스러운 어조"
+          },
+          {
+            "phrase": "seem churlish",
+            "meaning_ko": "무례해 보이다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "It would be churlish to refuse",
+            "meaning_ko": "거절하면 무례해 보일 것이다"
+          },
+          {
+            "phrase": "a churlish dismissal of",
+            "meaning_ko": "~을 무례하게 일축함"
+          },
+          {
+            "phrase": "a churlish lack of gratitude",
+            "meaning_ko": "무례할 정도의 감사 부족"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Don’t be churlish.",
+            "meaning_ko": "무례하게 굴지 마세요."
+          },
+          {
+            "sentence": "He gave a churlish reply.",
+            "meaning_ko": "그는 퉁명스럽게 답했습니다."
+          },
+          {
+            "sentence": "Her tone sounded churlish.",
+            "meaning_ko": "그녀의 어조는 무례하게 들렸습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "It would be churlish to refuse such a generous offer.",
+            "meaning_ko": "그렇게 후한 제안을 거절하면 무례해 보일 겁니다."
+          },
+          {
+            "sentence": "He made a churlish remark and instantly regretted it.",
+            "meaning_ko": "그는 무례한 말을 하고 곧바로 후회했습니다."
+          },
+          {
+            "sentence": "She apologized for being churlish during the meeting.",
+            "meaning_ko": "그녀는 회의에서 퉁명스러웠던 것을 사과했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A churlish dismissal of criticism can alienate the very people you need to persuade.",
+            "meaning_ko": "비판을 무례하게 일축하면 설득해야 할 사람들까지 멀어지게 할 수 있습니다."
+          },
+          {
+            "sentence": "His churlish tone masked insecurity rather than confidence.",
+            "meaning_ko": "그의 퉁명스러운 어조는 자신감보다 불안을 숨기고 있었습니다."
+          },
+          {
+            "sentence": "They interpreted his silence as churlish ingratitude, not thoughtful restraint.",
+            "meaning_ko": "그들은 그의 침묵을 신중함이 아니라 무례한 무감사로 해석했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "churlish는 rude보다 ‘불친절+무례’ 평가가 더 강하고 문어적인 느낌입니다. 시험에서는 It would be churlish to refuse(거절하면 무례하다) 같은 관용문이 자주 나오니 통째로 외워두세요. surly/gruff(퉁명스러움)와 courteous/gracious(공손함) 대비로 정리하면 헷갈림이 줄어듭니다.",
+    "tags": [
+      "태도",
+      "예의",
+      "무례",
+      "평가",
+      "격식"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: He was ____ and refused to say hello.",
+            "a": "churlish",
+            "meaning_ko": "무례하고 불친절한 태도에 해당합니다."
+          },
+          {
+            "q": "Opposite of churlish:",
+            "a": "courteous",
+            "meaning_ko": "courteous = 공손한."
+          },
+          {
+            "q": "Which collocation is common?",
+            "a": "a churlish reply",
+            "meaning_ko": "reply/tone/remark와 자주 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: It would be churlish to ____ such a generous offer.",
+            "a": "refuse",
+            "meaning_ko": "관용적으로 ‘거절하면 무례하다’."
+          },
+          {
+            "q": "Error check: 'He was churlishly.' (Correct it.)",
+            "a": "He was churlish.",
+            "meaning_ko": "be동사 뒤에는 형용사 churlish가 와야 합니다."
+          },
+          {
+            "q": "Best paraphrase: churlish remark",
+            "a": "a rude, unpleasant comment",
+            "meaning_ko": "무례하고 불쾌한 발언이라는 뜻입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best fit: A churlish dismissal of feedback can ____ trust.",
+            "a": "erode",
+            "meaning_ko": "무례한 일축은 신뢰를 ‘침식/약화’시키는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence uses churlish in the idiomatic way?",
+            "a": "It would be churlish to refuse their invitation.",
+            "meaning_ko": "전형적 관용문입니다."
+          },
+          {
+            "q": "Best contrast: churlish vs. gruff",
+            "a": "Churlish implies rudeness or lack of civility, while gruff mainly describes a rough manner or voice.",
+            "meaning_ko": "churlish는 ‘예의 없음’이 핵심이고, gruff는 ‘거친 말투/태도’가 중심입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1000 @@
+[
+  {
+    "word": "transcribe",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To write down speech, music, or data in a different form, especially from audio or shorthand into full text.",
+        "definition_ko": "말·음악·자료 등을 다른 형식으로 옮겨 적다(특히 녹음/속기 → 완전한 글).",
+        "note": "시험/업무에서는 '녹취를 전사하다'로 자주 씁니다."
+      },
+      {
+        "definition_en": "To represent spoken sounds or symbols in a written system.",
+        "definition_ko": "발음·기호 등을 특정 표기 체계로 표기하다.",
+        "note": "언어학/음성학에서 IPA로 '전사하다' 같은 용법."
+      }
+    ],
+    "concept": "‘소리/기록’을 ‘글(또는 다른 표기)’로 정확히 옮기는 행위.",
+    "etymology": "라틴어 trans-('가로질러') + scribere('쓰다')에서 유래. ‘다른 형태로 옮겨 쓰다’의 의미가 발전했습니다.",
+    "semanticExtension": "단순 필기뿐 아니라 ‘형식 변환(오디오→텍스트, 악보→다른 표기, 데이터→문서)’까지 확장됩니다.",
+    "nuanceRegister": "격식·학술·업무에서 흔함(회의록/법정/연구). 일상에서는 ‘write down’으로 더 많이 대체됩니다.",
+    "grammarNotes": "타동사. 목적어로 audio/interview/notes/speech 등을 취함. 수동태(‘be transcribed’)와 명사형 transcription이 매우 흔합니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~에서(원천 자료에서) 옮겨 적다",
+        "example": "transcribe from a recording"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "~로(결과 형식으로) 바꾸어 적다",
+        "example": "transcribe the interview into text"
+      },
+      {
+        "prep": "as",
+        "meaning_ko": "~로 표기하다/전사하다(표기 방식)",
+        "example": "transcribe the sound as /æ/"
+      }
+    ],
+    "requiredComplements": [
+      "transcribe + object (audio/interview/notes/speech) : 무엇을 전사하는지 목적어 필요",
+      "transcribe + object + into + form : (무엇을) (어떤 형태로) 옮겨 적다",
+      "transcribe + from + source : (어떤 자료에서) 옮겨 적다"
+    ],
+    "morphology": "trans-(가로질러/옮겨) + -scribe(쓰다) + -e(동사 어미). ‘옮겨 쓰다’의 구조.",
+    "derivatives": [
+      {
+        "word": "transcription",
+        "meaning_ko": "전사, 녹취록"
+      },
+      {
+        "word": "transcriber",
+        "meaning_ko": "전사자, 녹취 담당자"
+      },
+      {
+        "word": "transcript",
+        "meaning_ko": "전사본, 성적증명서(문맥 주의)"
+      },
+      {
+        "word": "scribe",
+        "meaning_ko": "서기관; 필기하다(고어/문어)"
+      },
+      {
+        "word": "inscribe",
+        "meaning_ko": "새기다, (글을) 새겨 넣다"
+      }
+    ],
+    "related": [
+      {
+        "word": "record",
+        "meaning_ko": "기록하다; 녹음하다"
+      },
+      {
+        "word": "dictation",
+        "meaning_ko": "받아쓰기, 구술"
+      },
+      {
+        "word": "caption",
+        "meaning_ko": "자막/캡션을 달다"
+      },
+      {
+        "word": "annotate",
+        "meaning_ko": "주석을 달다"
+      },
+      {
+        "word": "archive",
+        "meaning_ko": "보관/아카이브하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "write down",
+        "meaning_ko": "적어 두다"
+      },
+      {
+        "word": "copy",
+        "meaning_ko": "베끼다/옮겨 적다"
+      },
+      {
+        "word": "set down",
+        "meaning_ko": "(글로) 적다"
+      },
+      {
+        "word": "render",
+        "meaning_ko": "(다른 형태로) 표현하다"
+      },
+      {
+        "word": "notate",
+        "meaning_ko": "(음악/기호로) 표기하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "translate",
+        "meaning_ko": "번역하다(언어 변환 중심)"
+      },
+      {
+        "word": "paraphrase",
+        "meaning_ko": "바꿔 말하다(의미 유지, 형태 변경)"
+      },
+      {
+        "word": "summarize",
+        "meaning_ko": "요약하다(정보 압축)"
+      },
+      {
+        "word": "subtitle",
+        "meaning_ko": "자막을 만들다"
+      },
+      {
+        "word": "log",
+        "meaning_ko": "기록(로그)하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "improvise",
+        "meaning_ko": "즉흥적으로 하다(정확한 기록과 반대)"
+      },
+      {
+        "word": "delete",
+        "meaning_ko": "삭제하다"
+      },
+      {
+        "word": "omit",
+        "meaning_ko": "빼다, 누락하다"
+      },
+      {
+        "word": "garble",
+        "meaning_ko": "왜곡/횡설수설하게 만들다"
+      },
+      {
+        "word": "erase",
+        "meaning_ko": "지우다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "transcribe an interview",
+            "meaning_ko": "인터뷰를 전사하다"
+          },
+          {
+            "phrase": "transcribe audio",
+            "meaning_ko": "오디오를 전사하다"
+          },
+          {
+            "phrase": "transcribe notes",
+            "meaning_ko": "메모를 옮겨 적다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "transcribe a recording",
+            "meaning_ko": "녹음을 전사하다"
+          },
+          {
+            "phrase": "transcribe verbatim",
+            "meaning_ko": "한 글자도 빼지 않고 전사하다"
+          },
+          {
+            "phrase": "transcribe into text",
+            "meaning_ko": "텍스트로 옮겨 적다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "transcribe courtroom proceedings",
+            "meaning_ko": "법정 절차(발언)를 전사하다"
+          },
+          {
+            "phrase": "transcribe phonetically",
+            "meaning_ko": "음성기호로 음성 전사하다"
+          },
+          {
+            "phrase": "transcribe archival tapes",
+            "meaning_ko": "아카이브 테이프를 전사하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Can you transcribe this audio for me?",
+            "meaning_ko": "이 오디오 좀 전사해 줄 수 있어요?"
+          },
+          {
+            "sentence": "She transcribed the interview and emailed the text to the team.",
+            "meaning_ko": "그녀는 인터뷰를 전사해서 팀에 텍스트를 이메일로 보냈다."
+          },
+          {
+            "sentence": "I transcribed my handwritten notes into a document.",
+            "meaning_ko": "손글씨 메모를 문서로 옮겨 적었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The assistant transcribed the meeting verbatim, including pauses and laughter.",
+            "meaning_ko": "비서가 멈춤과 웃음까지 포함해 회의를 그대로 전사했다."
+          },
+          {
+            "sentence": "Please transcribe the caller’s name exactly as you hear it.",
+            "meaning_ko": "들리는 대로 발신자 이름을 정확히 전사해 주세요."
+          },
+          {
+            "sentence": "Researchers transcribed the recordings into coded segments for analysis.",
+            "meaning_ko": "연구자들은 분석을 위해 녹음을 코딩된 구간으로 전사했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The linguist transcribed the dialect in IPA to capture subtle vowel shifts.",
+            "meaning_ko": "언어학자는 미묘한 모음 변화를 담기 위해 방언을 IPA로 전사했다."
+          },
+          {
+            "sentence": "Without a reliable transcript, the committee could not verify what was said under oath.",
+            "meaning_ko": "신뢰할 만한 전사본이 없어서 위원회는 선서하에 한 발언을 확인할 수 없었다."
+          },
+          {
+            "sentence": "The archivist worked to transcribe deteriorating tapes before the audio became irrecoverable.",
+            "meaning_ko": "기록보관자는 음원이 복구 불가능해지기 전에 훼손된 테이프를 전사하려고 작업했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "transcribe는 ‘그대로 옮겨 적다’가 핵심이라 summarize(요약)나 paraphrase(바꿔 말하기)와 대비해서 외우면 좋습니다. 패턴은 transcribe A into B / transcribe from A가 자주 나오며, 명사형 transcription/transcript도 함께 묶어 학습하면 효율적입니다.",
+    "tags": [
+      "업무",
+      "연구",
+      "회의록",
+      "법정",
+      "문서화"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: Please ____ this short voice memo into text.",
+            "a": "transcribe",
+            "meaning_ko": "음성 메모를 텍스트로 옮겨 적다 → transcribe"
+          },
+          {
+            "q": "Which action matches 'transcribe'?",
+            "a": "write down spoken words",
+            "meaning_ko": "말을 글로 옮겨 적는 행위가 핵심"
+          },
+          {
+            "q": "Fill in the blank: She transcribed the interview ____ a document.",
+            "a": "into",
+            "meaning_ko": "A를 B로 옮겨 적다: into"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest meaning: The clerk transcribed the testimony verbatim.",
+            "a": "copied it word for word",
+            "meaning_ko": "verbatim = 한 글자도 빼지 않고"
+          },
+          {
+            "q": "Error correction: 'He transcribed from text to audio.' (Fix the prepositions.)",
+            "a": "He transcribed the audio into text.",
+            "meaning_ko": "보통 audio → text로 전사"
+          },
+          {
+            "q": "Choose the best collocation: ____ proceedings",
+            "a": "transcribe courtroom",
+            "meaning_ko": "법정 절차/발언 전사: transcribe courtroom proceedings"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading: A linguist writes /tʃ/ and /ʃ/ to represent sounds. What is the linguist doing?",
+            "a": "transcribing phonetically",
+            "meaning_ko": "소리를 기호로 표기 → 음성 전사"
+          },
+          {
+            "q": "Choose the best paraphrase: 'The tape was transcribed for the record.'",
+            "a": "The audio was converted into an official written account.",
+            "meaning_ko": "기록용 문서로 변환"
+          },
+          {
+            "q": "Fill in the blanks: The team transcribed the lectures ____ the raw recordings ____ searchable text.",
+            "a": "from; into",
+            "meaning_ko": "원천: from / 결과 형식: into"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lawsuit",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A legal case brought to court in which one party sues another for a remedy such as damages or an injunction.",
+        "definition_ko": "소송(법원에 제기하는 민사/행정 등 법적 분쟁).",
+        "note": "일상에서는 ‘sue(소송을 걸다)’와 함께 자주 등장합니다."
+      }
+    ],
+    "concept": "누군가의 권리 침해나 분쟁을 법원에서 해결하기 위해 ‘정식으로 제기한 사건’.",
+    "etymology": "law(법) + suit(소송, 청구) 결합. ‘법적 청구/절차’라는 의미가 고정되었습니다.",
+    "semanticExtension": "개별 사건 의미에서 더 나아가 ‘기업/개인의 법적 리스크’나 ‘분쟁의 상징’으로도 쓰입니다.",
+    "nuanceRegister": "공식·법률·보도 문어에서 매우 흔함. 일상 대화에서도 ‘a lawsuit’로 비교적 자주 언급됩니다.",
+    "grammarNotes": "가산명사. a lawsuit / lawsuits. file/bring/initiate a lawsuit, face/settle/dismiss a lawsuit 같은 동사와 결합이 강합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "against",
+        "meaning_ko": "~을 상대로 한 소송",
+        "example": "a lawsuit against the company"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~을 둘러싼 소송(쟁점)",
+        "example": "a lawsuit over patent rights"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대한 소송(원인/청구)",
+        "example": "a lawsuit for defamation"
+      }
+    ],
+    "requiredComplements": [
+      "a lawsuit against + person/company : 피고/상대",
+      "a lawsuit over + issue : 쟁점",
+      "a lawsuit for + cause/remedy : (명예훼손 등) 사유/청구"
+    ],
+    "morphology": "law(법) + suit(청구/소송). suit는 ‘법적 청구’의 의미로 굳어진 단어 요소입니다.",
+    "derivatives": [
+      {
+        "word": "sue",
+        "meaning_ko": "소송을 제기하다"
+      },
+      {
+        "word": "plaintiff",
+        "meaning_ko": "원고"
+      },
+      {
+        "word": "defendant",
+        "meaning_ko": "피고"
+      },
+      {
+        "word": "litigation",
+        "meaning_ko": "소송(절차), 소송 업무"
+      },
+      {
+        "word": "settlement",
+        "meaning_ko": "합의(금)"
+      }
+    ],
+    "related": [
+      {
+        "word": "claim",
+        "meaning_ko": "청구, 주장"
+      },
+      {
+        "word": "damages",
+        "meaning_ko": "손해배상금"
+      },
+      {
+        "word": "injunction",
+        "meaning_ko": "금지명령"
+      },
+      {
+        "word": "appeal",
+        "meaning_ko": "항소"
+      },
+      {
+        "word": "court",
+        "meaning_ko": "법원"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "legal action",
+        "meaning_ko": "법적 조치"
+      },
+      {
+        "word": "court case",
+        "meaning_ko": "법정 사건"
+      },
+      {
+        "word": "suit",
+        "meaning_ko": "소송(문어)"
+      },
+      {
+        "word": "legal proceeding",
+        "meaning_ko": "법적 절차"
+      },
+      {
+        "word": "litigation",
+        "meaning_ko": "소송(업무/절차)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "complaint",
+        "meaning_ko": "고소장/진정(문맥에 따라)"
+      },
+      {
+        "word": "charge",
+        "meaning_ko": "기소/혐의(형사 쪽)"
+      },
+      {
+        "word": "dispute",
+        "meaning_ko": "분쟁(법원 전 단계 포함)"
+      },
+      {
+        "word": "arbitration",
+        "meaning_ko": "중재"
+      },
+      {
+        "word": "hearing",
+        "meaning_ko": "심리/청문"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "settlement",
+        "meaning_ko": "합의(법원 판단 없이 종결)"
+      },
+      {
+        "word": "conciliation",
+        "meaning_ko": "조정/화해"
+      },
+      {
+        "word": "agreement",
+        "meaning_ko": "합의"
+      },
+      {
+        "word": "withdrawal",
+        "meaning_ko": "철회"
+      },
+      {
+        "word": "dismissal",
+        "meaning_ko": "각하/기각(소송이 유지되지 않음)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "file a lawsuit",
+            "meaning_ko": "소송을 제기하다"
+          },
+          {
+            "phrase": "a lawsuit against someone",
+            "meaning_ko": "누구를 상대로 한 소송"
+          },
+          {
+            "phrase": "win/lose a lawsuit",
+            "meaning_ko": "소송에서 이기다/지다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "face a lawsuit",
+            "meaning_ko": "소송에 직면하다"
+          },
+          {
+            "phrase": "settle a lawsuit",
+            "meaning_ko": "소송을 합의로 끝내다"
+          },
+          {
+            "phrase": "dismiss a lawsuit",
+            "meaning_ko": "소송을 기각하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "class-action lawsuit",
+            "meaning_ko": "집단소송"
+          },
+          {
+            "phrase": "lawsuit alleging fraud",
+            "meaning_ko": "사기 혐의를 주장하는 소송"
+          },
+          {
+            "phrase": "lawsuit seeking injunctive relief",
+            "meaning_ko": "금지명령(가처분 성격)을 구하는 소송"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He filed a lawsuit against his former employer.",
+            "meaning_ko": "그는 전 직장을 상대로 소송을 제기했다."
+          },
+          {
+            "sentence": "The company wants to avoid a lawsuit.",
+            "meaning_ko": "그 회사는 소송을 피하고 싶어 한다."
+          },
+          {
+            "sentence": "They won the lawsuit and received damages.",
+            "meaning_ko": "그들은 소송에서 이겨 손해배상을 받았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The lawsuit was settled out of court after months of negotiation.",
+            "meaning_ko": "그 소송은 수개월 협상 끝에 법정 밖 합의로 마무리됐다."
+          },
+          {
+            "sentence": "She is facing a lawsuit over alleged copyright infringement.",
+            "meaning_ko": "그녀는 저작권 침해 혐의로 소송에 직면해 있다."
+          },
+          {
+            "sentence": "The judge dismissed the lawsuit for lack of evidence.",
+            "meaning_ko": "판사는 증거 부족을 이유로 소송을 기각했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A class-action lawsuit accused the manufacturer of concealing safety defects.",
+            "meaning_ko": "집단소송은 제조사가 안전 결함을 은폐했다고 주장했다."
+          },
+          {
+            "sentence": "The lawsuit seeks an injunction to stop the release of confidential data.",
+            "meaning_ko": "그 소송은 기밀 데이터 공개를 막기 위한 금지명령을 구한다."
+          },
+          {
+            "sentence": "Even an unproven lawsuit can trigger regulatory scrutiny and reputational damage.",
+            "meaning_ko": "입증되지 않은 소송이라도 규제 조사와 평판 손상을 촉발할 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "lawsuit은 ‘법원에 제기된 소송 사건’ 자체를 가리키며, sue(소송을 걸다)와 세트로 외우면 빠릅니다. 전치사는 against(상대), over(쟁점), for(사유/청구)이 핵심이고, out of court(법정 밖에서) 같은 표현도 자주 보입니다.",
+    "tags": [
+      "법",
+      "사회",
+      "비즈니스",
+      "분쟁",
+      "뉴스"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The actor threatened a ____ for defamation.",
+            "a": "lawsuit",
+            "meaning_ko": "명예훼손으로 제기하는 건 소송(lawsuit)"
+          },
+          {
+            "q": "Fill in the blank: They filed a lawsuit ____ the company.",
+            "a": "against",
+            "meaning_ko": "상대방을 나타낼 때 against"
+          },
+          {
+            "q": "Which phrase means '소송을 제기하다'?",
+            "a": "file a lawsuit",
+            "meaning_ko": "file = 접수/제기"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best collocation: The parties agreed to ____ the lawsuit out of court.",
+            "a": "settle",
+            "meaning_ko": "합의로 끝내다: settle a lawsuit"
+          },
+          {
+            "q": "Choose the correct meaning: 'a lawsuit over patent rights'",
+            "a": "a legal case about patent rights",
+            "meaning_ko": "over = ~을 둘러싼 쟁점"
+          },
+          {
+            "q": "Fix the sentence: 'He made a lawsuit to her.'",
+            "a": "He filed a lawsuit against her.",
+            "meaning_ko": "make가 아니라 file/bring, 전치사는 against"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading: A group of consumers sues together as one group. What kind of lawsuit is this?",
+            "a": "class-action lawsuit",
+            "meaning_ko": "집단이 함께 제기 → class-action"
+          },
+          {
+            "q": "Choose the best definition: A lawsuit seeking injunctive relief aims to ____.",
+            "a": "get a court order to stop or require an action",
+            "meaning_ko": "injunction = 금지/명령"
+          },
+          {
+            "q": "Complete: The lawsuit alleges that the firm ____ safety defects.",
+            "a": "concealed",
+            "meaning_ko": "은폐했다(conceal)라는 주장과 자주 결합"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "endear",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To make someone liked or loved; to cause someone to be affectionate toward a person or thing.",
+        "definition_ko": "사람의 호감을 사다, 사랑받게 만들다.",
+        "note": "endear A to B = A가 B에게 사랑받게/호감 받게 만들다."
+      }
+    ],
+    "concept": "누군가의 ‘호감/애정’을 끌어내서 더 사랑받게 만드는 것.",
+    "etymology": "dear(사랑스러운, 소중한)에서 파생. ‘소중하게 여기게 만들다’의 의미로 발전했습니다.",
+    "semanticExtension": "행동/태도가 사람을 ‘호감형’으로 만드는 의미로 자주 쓰이며, 대상이 사람뿐 아니라 idea/place 등도 가능해집니다.",
+    "nuanceRegister": "문어·격식에서 더 자연스러움. 일상 구어에서는 win over, make someone like 등이 대체로 더 흔합니다.",
+    "grammarNotes": "타동사. 대표 패턴: endear A to B / endear oneself to + 사람. 수동태(‘be endeared to’)는 비교적 문어적입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 호감을 얻게/사랑받게",
+        "example": "His honesty endeared him to the voters."
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~로 인해(드물지만) 호감을 얻게",
+        "example": "endear someone with kindness"
+      },
+      {
+        "prep": "by",
+        "meaning_ko": "~함으로써(수단) 호감을 사다",
+        "example": "endear yourself to others by listening"
+      }
+    ],
+    "requiredComplements": [
+      "endear + person + to + person/group : (누구를) (누구에게) 호감 받게 만들다",
+      "endear oneself to + person/group : 스스로 ~에게 호감을 사다",
+      "endear + person + by + V-ing : ~함으로써 호감을 사다(문어)"
+    ],
+    "morphology": "en-(~하게 만들다) + dear(사랑스러운/소중한). ‘사랑스럽게 만들다’ 구조.",
+    "derivatives": [
+      {
+        "word": "dear",
+        "meaning_ko": "사랑하는; 소중한"
+      },
+      {
+        "word": "endearing",
+        "meaning_ko": "사랑스러운, 호감 가는"
+      },
+      {
+        "word": "dearly",
+        "meaning_ko": "몹시; 애정을 담아"
+      },
+      {
+        "word": "dearness",
+        "meaning_ko": "소중함, 애정"
+      },
+      {
+        "word": "endeared",
+        "meaning_ko": "호감을 산, 사랑받는(과거분사 형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "affection",
+        "meaning_ko": "애정"
+      },
+      {
+        "word": "fond",
+        "meaning_ko": "좋아하는, 애정 어린"
+      },
+      {
+        "word": "charm",
+        "meaning_ko": "매력, 매혹하다"
+      },
+      {
+        "word": "appeal",
+        "meaning_ko": "호소력, 매력"
+      },
+      {
+        "word": "admire",
+        "meaning_ko": "존경/감탄하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "win over",
+        "meaning_ko": "마음을 사로잡다"
+      },
+      {
+        "word": "charm",
+        "meaning_ko": "매혹하다"
+      },
+      {
+        "word": "ingratiate",
+        "meaning_ko": "환심을 사다(대체로 부정 뉘앙스)"
+      },
+      {
+        "word": "attract",
+        "meaning_ko": "끌어당기다"
+      },
+      {
+        "word": "appeal to",
+        "meaning_ko": "~의 마음을 끌다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "impress",
+        "meaning_ko": "인상을 주다(호감에 한정 X)"
+      },
+      {
+        "word": "please",
+        "meaning_ko": "기쁘게 하다"
+      },
+      {
+        "word": "flatter",
+        "meaning_ko": "아첨하다(의도성/부정 가능)"
+      },
+      {
+        "word": "befriend",
+        "meaning_ko": "친구가 되다"
+      },
+      {
+        "word": "enchant",
+        "meaning_ko": "황홀하게 하다(문학적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "alienate",
+        "meaning_ko": "소외시키다, 반감을 사다"
+      },
+      {
+        "word": "repel",
+        "meaning_ko": "거부감을 주다"
+      },
+      {
+        "word": "antagonize",
+        "meaning_ko": "적대감을 불러일으키다"
+      },
+      {
+        "word": "disgust",
+        "meaning_ko": "혐오감을 주다"
+      },
+      {
+        "word": "offend",
+        "meaning_ko": "불쾌하게 하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "endear someone to others",
+            "meaning_ko": "누군가를 다른 사람들에게 호감 받게 하다"
+          },
+          {
+            "phrase": "endear yourself to someone",
+            "meaning_ko": "누군가에게 호감을 사다"
+          },
+          {
+            "phrase": "endearing smile",
+            "meaning_ko": "사랑스러운 미소"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "endear him to the public",
+            "meaning_ko": "그를 대중에게 호감 받게 하다"
+          },
+          {
+            "phrase": "endear her to her colleagues",
+            "meaning_ko": "그녀가 동료들에게 호감 받게 하다"
+          },
+          {
+            "phrase": "quickly endear oneself",
+            "meaning_ko": "금방 호감을 사다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "endear a candidate to voters",
+            "meaning_ko": "후보가 유권자에게 호감 받게 하다"
+          },
+          {
+            "phrase": "endear a brand to consumers",
+            "meaning_ko": "브랜드가 소비자에게 호감 얻도록 하다"
+          },
+          {
+            "phrase": "endear a policy to stakeholders",
+            "meaning_ko": "정책이 이해관계자에게 호감/지지 받게 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His kindness endeared him to everyone in the office.",
+            "meaning_ko": "그의 친절함은 사무실 사람들 모두에게 그를 호감 가게 만들었다."
+          },
+          {
+            "sentence": "She quickly endeared herself to her new classmates.",
+            "meaning_ko": "그녀는 새 반 친구들에게 금방 호감을 샀다."
+          },
+          {
+            "sentence": "That little dog has an endearing face.",
+            "meaning_ko": "그 작은 강아지는 사랑스러운 얼굴을 하고 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "His willingness to admit mistakes endeared him to the public.",
+            "meaning_ko": "실수를 인정하려는 태도는 대중의 호감을 샀다."
+          },
+          {
+            "sentence": "The chef’s personal stories endeared the restaurant to regulars.",
+            "meaning_ko": "요리사의 개인적인 이야기는 단골들이 그 식당에 더 애정을 갖게 했다."
+          },
+          {
+            "sentence": "Small gestures can endear a manager to the team.",
+            "meaning_ko": "작은 배려가 상사가 팀에게 호감 받게 만들 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The leader’s restraint in victory did more to endear her to critics than any speech.",
+            "meaning_ko": "승리 후 절제된 태도는 어떤 연설보다도 비판자들에게 그녀를 더 호감 가게 했다."
+          },
+          {
+            "sentence": "A consistent track record of fairness can endear an institution to a skeptical public.",
+            "meaning_ko": "공정함의 일관된 실적은 회의적인 대중에게 기관이 호감/신뢰를 얻는 데 도움이 된다."
+          },
+          {
+            "sentence": "Attempts to endear the policy to stakeholders failed once the costs became transparent.",
+            "meaning_ko": "비용이 투명해지자 그 정책을 이해관계자들에게 호감 가게 하려던 시도는 실패했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "endear는 ‘호감을 사다’지만 구조가 중요합니다: endear A to B(=A가 B에게 사랑받게). ingratiate는 ‘환심을 사다’로 의도적·부정 뉘앙스가 있을 수 있어 대비 포인트로 좋습니다. 형용사 endearing(사랑스러운)까지 함께 외우면 기억이 빨라집니다.",
+    "tags": [
+      "감정",
+      "관계",
+      "평판",
+      "문어",
+      "표현"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: His warm manner ____ him to the audience.",
+            "a": "endeared",
+            "meaning_ko": "호감을 사게 만들다 → endeared"
+          },
+          {
+            "q": "Fill in the blank: Her honesty endeared her ____ her teammates.",
+            "a": "to",
+            "meaning_ko": "endear A to B"
+          },
+          {
+            "q": "Which is closest to 'endearing'?",
+            "a": "lovable",
+            "meaning_ko": "사랑스러운/호감 가는"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best paraphrase: 'He endeared himself to the staff.'",
+            "a": "He made the staff like him.",
+            "meaning_ko": "endear oneself to = 스스로 호감을 사다"
+          },
+          {
+            "q": "Choose the best antonym: The manager’s arrogance ____ him from the team.",
+            "a": "alienated",
+            "meaning_ko": "반감을 사다/멀어지게 하다 → alienate"
+          },
+          {
+            "q": "Error correction: 'Her jokes endeared to the crowd.'",
+            "a": "Her jokes endeared her to the crowd.",
+            "meaning_ko": "타동사라 목적어(her)가 필요"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Complete the pattern: ____ oneself to voters by ____ empathy.",
+            "a": "endear; showing",
+            "meaning_ko": "endear oneself to + 사람 / by V-ing"
+          },
+          {
+            "q": "Nuance check: Which word can imply calculated behavior and may sound negative compared to 'endear'?",
+            "a": "ingratiate",
+            "meaning_ko": "환심을 사다(아첨/계산) 뉘앙스 가능"
+          },
+          {
+            "q": "Choose the best completion: His restraint in victory did more to ____ him to critics than any speech.",
+            "a": "endear",
+            "meaning_ko": "문어적 비교 구문에서 endear 자연스러움"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,986 @@
+[
+  {
+    "word": "probation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A period during which someone is tested or observed to see if they meet required standards; in law, a court-ordered period of supervision instead of imprisonment.",
+        "definition_ko": "보호관찰·집행유예와 유사한 ‘감독 기간’; 또는 어떤 자격·고용·학업에서 ‘시험/관찰 기간’.",
+        "note": "미국 법률 문맥에서는 ‘구금 대신 감독 하에 지내는 기간’ 의미가 특히 자주 나옵니다."
+      },
+      {
+        "definition_en": "A trial period in a job, school, or membership during which performance is evaluated.",
+        "definition_ko": "수습(기간), 시험(기간).",
+        "note": "employment probation / probationary period처럼 같이 쓰는 경우가 많습니다."
+      }
+    ],
+    "concept": "‘봐주되, 일정 기간 감독·평가하면서 조건을 지키는지 시험하는 상태/기간’",
+    "etymology": "라틴어 probatio(시험, 검증)에서 유래해 ‘시험하다/증명하다’의 의미가 ‘시험 기간’으로 굳어졌습니다.",
+    "semanticExtension": "법률의 ‘보호관찰’에서 일반 조직의 ‘수습/시험 기간’으로 넓게 확장되어 쓰입니다.",
+    "nuanceRegister": "격식·공문/법률 문서, 인사(HR) 문맥에서 흔함. 일상 회화에서도 ‘on probation’은 자주 쓰는 편.",
+    "grammarNotes": "주로 전치사 on과 함께 ‘on probation’으로 쓰이며, 원인/사유를 for로 붙이거나 기간을 기간표현으로 덧붙입니다(예: on probation for six months).",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두(문맥에 따라 a probation period처럼 가산적으로도 씀)",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "보호관찰/수습(시험) 상태로",
+        "example": "be on probation"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "보호관찰·수습의 사유/대상",
+        "example": "on probation for a violation"
+      },
+      {
+        "prep": "during",
+        "meaning_ko": "수습/보호관찰 기간 동안",
+        "example": "during the probation period"
+      }
+    ],
+    "requiredComplements": [
+      "be on probation (+ for + 사유/죄목): 보호관찰(수습) 중이다",
+      "place/put someone on probation: (회사/학교/법원이) ~를 수습/보호관찰에 두다",
+      "probation period / probationary period: 수습/시험 기간"
+    ],
+    "morphology": "라틴어 어근 prob-(시험하다, 증명하다) + -ation(행위/과정 명사화) 형태로 ‘검증/시험의 과정’ 의미를 형성합니다.",
+    "derivatives": [
+      {
+        "word": "probationary",
+        "meaning_ko": "수습의, 시험 기간의"
+      },
+      {
+        "word": "probationer",
+        "meaning_ko": "보호관찰 대상자; 수습/시험 기간 중인 사람"
+      },
+      {
+        "word": "probate",
+        "meaning_ko": "(유언·재산을) 검인하다(※ 어근이 같아 함께 기억하기 좋음)"
+      },
+      {
+        "word": "prove",
+        "meaning_ko": "증명하다"
+      },
+      {
+        "word": "probable",
+        "meaning_ko": "있을 법한, 개연성 있는"
+      }
+    ],
+    "related": [
+      {
+        "word": "parole",
+        "meaning_ko": "(가석방) 조건부 석방"
+      },
+      {
+        "word": "supervision",
+        "meaning_ko": "감독, 관리"
+      },
+      {
+        "word": "trial period",
+        "meaning_ko": "시험/시범 기간"
+      },
+      {
+        "word": "discipline",
+        "meaning_ko": "징계; 규율"
+      },
+      {
+        "word": "compliance",
+        "meaning_ko": "준수"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "trial period",
+        "meaning_ko": "시험 기간"
+      },
+      {
+        "word": "supervised release",
+        "meaning_ko": "감독 하 석방(법률)"
+      },
+      {
+        "word": "conditional release",
+        "meaning_ko": "조건부 석방"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "parole",
+        "meaning_ko": "가석방(형기 중 일부를 조건부로 밖에서 보냄)"
+      },
+      {
+        "word": "suspension",
+        "meaning_ko": "정직/정학(처분 자체가 핵심)"
+      },
+      {
+        "word": "internship",
+        "meaning_ko": "인턴십(평가가 있을 수 있으나 제도 성격이 다름)"
+      },
+      {
+        "word": "evaluation period",
+        "meaning_ko": "평가 기간(중립적 표현)"
+      },
+      {
+        "word": "monitoring",
+        "meaning_ko": "모니터링(감시/관찰 행위 강조)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tenure",
+        "meaning_ko": "종신 재직/안정적 지위"
+      },
+      {
+        "word": "confirmation",
+        "meaning_ko": "확정(임용 확정 등)"
+      },
+      {
+        "word": "unconditional release",
+        "meaning_ko": "무조건 석방"
+      },
+      {
+        "word": "approval",
+        "meaning_ko": "승인"
+      },
+      {
+        "word": "exoneration",
+        "meaning_ko": "무죄/면책"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "violate the terms of probation",
+            "meaning_ko": "보호관찰 조건을 위반하다"
+          },
+          {
+            "phrase": "a court-ordered probation term",
+            "meaning_ko": "법원이 명령한 보호관찰 기간"
+          },
+          {
+            "phrase": "be remanded for a probation violation",
+            "meaning_ko": "보호관찰 위반으로 (구금되도록) 환치되다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "be placed on probation",
+            "meaning_ko": "보호관찰/수습 처분을 받다"
+          },
+          {
+            "phrase": "a probation period of six months",
+            "meaning_ko": "6개월의 수습/보호관찰 기간"
+          },
+          {
+            "phrase": "complete probation successfully",
+            "meaning_ko": "보호관찰/수습을 무사히 마치다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "on probation",
+            "meaning_ko": "보호관찰/수습 중"
+          },
+          {
+            "phrase": "probation officer",
+            "meaning_ko": "보호관찰관"
+          },
+          {
+            "phrase": "probation period",
+            "meaning_ko": "수습(시험) 기간"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "After repeated breaches of curfew, the judge revoked his probation and imposed a custodial sentence.",
+            "meaning_ko": "통금 반복 위반으로 판사는 그의 보호관찰을 취소하고 실형을 선고했다."
+          },
+          {
+            "sentence": "The company terminated her contract, citing documented misconduct during the probationary period.",
+            "meaning_ko": "회사는 수습 기간 중 문서로 남은 위법행위를 근거로 그녀의 계약을 해지했다."
+          },
+          {
+            "sentence": "Any failure to report as directed may constitute a violation of probation and trigger additional penalties.",
+            "meaning_ko": "지시된 대로 보고하지 않으면 보호관찰 위반이 되어 추가 처벌로 이어질 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was placed on probation for six months after the incident.",
+            "meaning_ko": "그 사건 이후 그는 6개월간 보호관찰 처분을 받았다."
+          },
+          {
+            "sentence": "During the probation period, your performance will be reviewed every two weeks.",
+            "meaning_ko": "수습 기간 동안 성과가 2주마다 검토됩니다."
+          },
+          {
+            "sentence": "She completed her probation without any further violations.",
+            "meaning_ko": "그녀는 추가 위반 없이 보호관찰을 마쳤다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I’m on probation at my new job.",
+            "meaning_ko": "나 새 직장에서 수습 중이야."
+          },
+          {
+            "sentence": "Don’t break the rules while you’re on probation.",
+            "meaning_ko": "수습/보호관찰 중엔 규칙 어기지 마."
+          },
+          {
+            "sentence": "The probation period ends next month.",
+            "meaning_ko": "수습 기간은 다음 달에 끝나요."
+          }
+        ]
+      }
+    ],
+    "studyTips": "probation은 ‘봐준다(감옥/해고 대신) + 감독한다(조건 위반 시 불이익)’가 핵심입니다. 법률 문맥의 on probation과 회사/학교의 probation period(수습기간)를 함께 묶어 기억하세요. parole(가석방)과 자주 헷갈리는데, parole은 ‘이미 수감 중이던 사람이 조건부로 밖에 나오는 것’에 더 가깝고 probation은 ‘형(또는 처분) 자체가 감독형’에 가깝습니다.",
+    "tags": [
+      "법률",
+      "형사절차",
+      "인사",
+      "수습",
+      "감독"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: \"He is on probation.\"",
+            "a": "He is being supervised for a trial period instead of facing harsher punishment.",
+            "meaning_ko": "on probation은 ‘감독/시험 기간(보호관찰/수습) 상태’를 뜻합니다."
+          },
+          {
+            "q": "Fill in the blank: She was placed ___ probation after the warning.",
+            "a": "on",
+            "meaning_ko": "고정 결합: placed on probation."
+          },
+          {
+            "q": "Which collocation is natural? (A) probation at (B) probation on (C) probation period",
+            "a": "probation period",
+            "meaning_ko": "기간을 말할 때 probation period가 가장 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: Any new offense may be treated as a violation of ______.",
+            "a": "probation",
+            "meaning_ko": "보호관찰 조건 위반은 probation violation로 연결됩니다."
+          },
+          {
+            "q": "Choose the best paraphrase: \"The employee failed the probationary period.\"",
+            "a": "The employee did not meet the standards during the trial period.",
+            "meaning_ko": "probationary period = 수습/시험 기간."
+          },
+          {
+            "q": "Pick the most natural phrase: \"___ the terms of probation\"",
+            "a": "violate",
+            "meaning_ko": "조건을 ‘위반하다’ = violate the terms."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In legal context, which is closer to \"probation\" than \"parole\"? (A) court-ordered supervision instead of jail (B) early release from prison",
+            "a": "A",
+            "meaning_ko": "probation은 ‘수감 대신 법원 명령 감독’, parole은 ‘수감 후 조건부 조기 석방’입니다."
+          },
+          {
+            "q": "Error correction: \"He was put in probation for drunk driving.\"",
+            "a": "He was put on probation for drunk driving.",
+            "meaning_ko": "probation은 전치사 on을 씁니다."
+          },
+          {
+            "q": "Choose the best fit: \"The judge ____ his probation after repeated violations.\" (A) revoked (B) renovated (C) refined",
+            "a": "revoked",
+            "meaning_ko": "revoked = (권리/처분을) 취소하다. 보호관찰 취소에 흔히 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bewitch",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To enchant or fascinate someone so strongly that they seem unable to think clearly; in older usage, to put someone under a magical spell.",
+        "definition_ko": "홀리다, 매혹하다; (옛/문학) 마법을 걸다.",
+        "note": "현대 영어에선 ‘마법’보다 ‘강하게 매혹시키다’의 비유적 의미가 더 자주 쓰입니다."
+      }
+    ],
+    "concept": "‘상대의 판단을 흐릴 정도로 강하게 매혹/홀림 상태에 빠뜨리다’",
+    "etymology": "be- (강조/작용을 가하다) + witch(마녀)에서 출발해 ‘마녀가 마법으로 홀리다’ 의미가 먼저 형성되었습니다.",
+    "semanticExtension": "‘마법을 걸다’에서 ‘마법 같은 매력으로 사람을 사로잡다’로 자연스럽게 비유 확장되었습니다.",
+    "nuanceRegister": "문어·문학적 뉘앙스가 강함. 일상에서도 쓰이지만 ‘매혹하다’보다 더 드라마틱한 느낌.",
+    "grammarNotes": "타동사로 목적어를 바로 받습니다(bewitch + 사람). 수동태(be bewitched by~)도 자주 씁니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "무엇(누구)에게 홀려/매혹되어",
+        "example": "be bewitched by her voice"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "무엇으로 사람을 홀리다(수단/매력)",
+        "example": "bewitch the crowd with a story"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "홀려서 ~하게 만들다(결과 행동)",
+        "example": "be bewitched into believing a lie"
+      }
+    ],
+    "requiredComplements": [
+      "bewitch + 사람/대상: ~를 홀리다, 매혹하다",
+      "be bewitched by + 대상: ~에 홀리다",
+      "bewitch someone with + 매력/기술: ~로 ~를 홀리다"
+    ],
+    "morphology": "be-(강조 접두사) + witch(마녀) 결합으로 ‘마녀처럼 홀리다’의 의미를 만듭니다.",
+    "derivatives": [
+      {
+        "word": "bewitched",
+        "meaning_ko": "홀린; 매혹된(형용사/과거분사)"
+      },
+      {
+        "word": "bewitching",
+        "meaning_ko": "매혹적인(형용사)"
+      },
+      {
+        "word": "bewitchment",
+        "meaning_ko": "매혹, 홀림; (문학) 마법"
+      }
+    ],
+    "related": [
+      {
+        "word": "enchant",
+        "meaning_ko": "매혹하다; 마법을 걸다"
+      },
+      {
+        "word": "captivate",
+        "meaning_ko": "사로잡다, 매료시키다"
+      },
+      {
+        "word": "spellbound",
+        "meaning_ko": "넋을 잃고 빠져든"
+      },
+      {
+        "word": "mesmerize",
+        "meaning_ko": "최면에 걸린 듯 매혹하다"
+      },
+      {
+        "word": "charm",
+        "meaning_ko": "매혹하다; 매력"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "enchant",
+        "meaning_ko": "매혹하다"
+      },
+      {
+        "word": "captivate",
+        "meaning_ko": "사로잡다"
+      },
+      {
+        "word": "fascinate",
+        "meaning_ko": "매료시키다"
+      },
+      {
+        "word": "mesmerize",
+        "meaning_ko": "넋을 빼놓다"
+      },
+      {
+        "word": "entrance",
+        "meaning_ko": "황홀하게 하다(동사)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "charm",
+        "meaning_ko": "매력으로 기분 좋게 끌다(보다 부드러움)"
+      },
+      {
+        "word": "allure",
+        "meaning_ko": "유혹하다(때로 위험/음지 뉘앙스)"
+      },
+      {
+        "word": "enthrall",
+        "meaning_ko": "완전히 사로잡다(문어)"
+      },
+      {
+        "word": "seduce",
+        "meaning_ko": "유혹하다(성적/도덕적 함의 가능)"
+      },
+      {
+        "word": "hypnotize",
+        "meaning_ko": "최면을 걸다(직설적/과학적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "repel",
+        "meaning_ko": "물리다, 역겹게 하다"
+      },
+      {
+        "word": "disgust",
+        "meaning_ko": "혐오감을 주다"
+      },
+      {
+        "word": "bore",
+        "meaning_ko": "지루하게 하다"
+      },
+      {
+        "word": "disenchant",
+        "meaning_ko": "환상을 깨다; 매력을 잃게 하다"
+      },
+      {
+        "word": "deter",
+        "meaning_ko": "단념시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "be bewitched by an illusion",
+            "meaning_ko": "환영에 홀리다"
+          },
+          {
+            "phrase": "a bewitching cadence of speech",
+            "meaning_ko": "말투의 매혹적인 리듬"
+          },
+          {
+            "phrase": "bewitch the audience into silence",
+            "meaning_ko": "관객을 홀려 침묵하게 만들다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "bewitch someone with a smile",
+            "meaning_ko": "미소로 사람을 홀리다"
+          },
+          {
+            "phrase": "be bewitched by her charm",
+            "meaning_ko": "그녀의 매력에 홀리다"
+          },
+          {
+            "phrase": "a bewitching performance",
+            "meaning_ko": "매혹적인 공연"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "bewitch the crowd",
+            "meaning_ko": "군중을 매혹하다"
+          },
+          {
+            "phrase": "bewitched by",
+            "meaning_ko": "~에 홀린"
+          },
+          {
+            "phrase": "bewitching eyes",
+            "meaning_ko": "매혹적인 눈"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The novelist’s prose bewitched readers into trusting an unreliable narrator.",
+            "meaning_ko": "그 소설가의 문체는 독자들을 홀려 신뢰할 수 없는 화자를 믿게 만들었다."
+          },
+          {
+            "sentence": "He seemed bewitched by the promise of quick profit, ignoring every warning sign.",
+            "meaning_ko": "그는 빠른 이익의 약속에 홀린 듯 모든 경고 신호를 무시했다."
+          },
+          {
+            "sentence": "In folklore, a single glance was said to be enough to bewitch the unsuspecting traveler.",
+            "meaning_ko": "민담에서는 한 번의 시선만으로도 방심한 여행자를 홀릴 수 있다고 전해진다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She bewitched the room with her calm voice and confident posture.",
+            "meaning_ko": "그녀는 차분한 목소리와 자신감 있는 태도로 방 안을 사로잡았다."
+          },
+          {
+            "sentence": "I was completely bewitched by the music.",
+            "meaning_ko": "나는 그 음악에 완전히 매혹됐다."
+          },
+          {
+            "sentence": "The magician’s story bewitched the children for an hour.",
+            "meaning_ko": "마술사의 이야기는 아이들을 한 시간 동안 넋을 빼놓았다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "That song bewitched me.",
+            "meaning_ko": "그 노래가 나를 홀렸어."
+          },
+          {
+            "sentence": "Everyone was bewitched by her smile.",
+            "meaning_ko": "모두가 그녀의 미소에 매혹됐어."
+          },
+          {
+            "sentence": "His bewitching eyes stood out.",
+            "meaning_ko": "그의 매혹적인 눈이 눈에 띄었어."
+          }
+        ]
+      }
+    ],
+    "studyTips": "bewitch는 ‘witch(마녀)’가 들어가서 ‘마법에 홀리다’ 이미지로 기억하면 잘 안 잊힙니다. 시험에서는 보통 ‘fascinate/captivate’ 계열 고급 동의어로 나오며, be bewitched by~(수동) 구조가 특히 자연스럽습니다. charm(부드러운 매력)보다 더 강하고 드라마틱한 ‘홀림’ 느낌이라는 점을 구분해 두세요.",
+    "tags": [
+      "문학",
+      "감정",
+      "매혹",
+      "수사",
+      "비유"
+    ],
+    "frequency": "하",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: I was ___ by the music.",
+            "a": "bewitched",
+            "meaning_ko": "be bewitched by~ = ~에 홀리다/매혹되다."
+          },
+          {
+            "q": "Choose the closest meaning: bewitch",
+            "a": "fascinate",
+            "meaning_ko": "현대 영어에서 bewitch는 ‘강하게 매혹하다’ 의미가 핵심입니다."
+          },
+          {
+            "q": "Which is natural? (A) bewitch to her voice (B) be bewitched by her voice",
+            "a": "B",
+            "meaning_ko": "수동태 + by가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best sentence: (A) The speech bewitched the audience into silence. (B) The speech bewitched the audience at silence.",
+            "a": "A",
+            "meaning_ko": "into는 ‘결과 행동/상태’로 끌고 가는 느낌을 줍니다."
+          },
+          {
+            "q": "Fill in the blank: She ___ the crowd with a smile.",
+            "a": "bewitched",
+            "meaning_ko": "bewitch + 목적어 + with(수단)."
+          },
+          {
+            "q": "Pick the odd one out (not a near-synonym in tone): enchant / captivate / repel / mesmerize",
+            "a": "repel",
+            "meaning_ko": "repel은 반대 의미(매력 반감)입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: \"He was bewitched from her beauty.\" ->",
+            "a": "He was bewitched by her beauty.",
+            "meaning_ko": "수동태에서는 by가 기본입니다."
+          },
+          {
+            "q": "Nuance question: Compared to \"charm,\" \"bewitch\" is more likely to imply _____.",
+            "a": "an intense, almost spell-like fascination",
+            "meaning_ko": "bewitch는 ‘마법 같은 강한 매혹’ 뉘앙스가 있습니다."
+          },
+          {
+            "q": "Choose the best fit: \"The narrative ____ readers into overlooking the contradictions.\" (A) bewitched (B) balanced (C) diluted",
+            "a": "bewitched",
+            "meaning_ko": "홀려서(판단을 흐리게 만들어) 모순을 못 보게 하다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "competition",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A situation in which people or organizations try to win or be more successful than others; rivalry for the same goal or resources.",
+        "definition_ko": "경쟁, 겨룸; 같은 목표/자원을 두고 우위(승리)를 다투는 상태.",
+        "note": "시장/입시/스포츠 등 광범위하게 씁니다."
+      },
+      {
+        "definition_en": "An event in which people compete, such as a contest, tournament, or match series.",
+        "definition_ko": "대회, 경연, مسابق(콘테스트).",
+        "note": "enter a competition처럼 ‘대회 참가’ 문맥에서도 매우 흔합니다."
+      }
+    ],
+    "concept": "‘같은 목표를 두고 서로 이기려는 겨룸(상태) + 그 겨룸을 벌이는 대회’",
+    "etymology": "라틴어 competere(함께 추구하다, 겨루다)에서 유래했으며, 영어에서 ‘경쟁’ 의미로 정착했습니다.",
+    "semanticExtension": "원래 ‘함께 어떤 것을 향해 나아가다’ 뉘앙스가 ‘같은 것을 두고 겨루다’로 의미가 강화되었습니다.",
+    "nuanceRegister": "중립적·범용. 경제/비즈니스(시장 경쟁), 스포츠(대회), 학업(입시 경쟁) 등 모든 레지스터에서 사용.",
+    "grammarNotes": "전치사 for/in/with/between 등이 자주 결합합니다(competition for jobs, in competition with rivals, competition between teams). 단수/복수 모두 가능하며, 불가산처럼도 쓰입니다(Competition is fierce.).",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두(대회=가산, 경쟁 상태=불가산적으로도 흔함)",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 두고 경쟁(일자리/자원/자리)",
+        "example": "competition for jobs"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와 경쟁(상대/경쟁자)",
+        "example": "in competition with rivals"
+      },
+      {
+        "prep": "between",
+        "meaning_ko": "~ 사이의 경쟁(둘 이상)",
+        "example": "competition between two firms"
+      }
+    ],
+    "requiredComplements": [
+      "competition for + 대상(자원/자리): ~을 두고 벌어지는 경쟁",
+      "competition between + A and B: A와 B 사이의 경쟁",
+      "in competition with + 경쟁상대: ~와 경쟁하여",
+      "enter/win a competition: 대회에 참가하다/우승하다"
+    ],
+    "morphology": "라틴어 com-(함께) + petere(추구하다, 향하다) 계열에서 파생된 형태로, ‘같은 것을 향해 겨루다’ 의미가 핵심입니다.",
+    "derivatives": [
+      {
+        "word": "compete",
+        "meaning_ko": "경쟁하다"
+      },
+      {
+        "word": "competitive",
+        "meaning_ko": "경쟁적인; 경쟁력이 있는"
+      },
+      {
+        "word": "competitor",
+        "meaning_ko": "경쟁자"
+      },
+      {
+        "word": "competitiveness",
+        "meaning_ko": "경쟁력, 경쟁성"
+      },
+      {
+        "word": "competition-based",
+        "meaning_ko": "경쟁 기반의"
+      }
+    ],
+    "related": [
+      {
+        "word": "rivalry",
+        "meaning_ko": "라이벌 관계, 경쟁 관계"
+      },
+      {
+        "word": "contest",
+        "meaning_ko": "경연, 시합"
+      },
+      {
+        "word": "market",
+        "meaning_ko": "시장(경쟁이 일어나는 장)"
+      },
+      {
+        "word": "monopoly",
+        "meaning_ko": "독점(경쟁이 약한 상태)"
+      },
+      {
+        "word": "selection",
+        "meaning_ko": "선발(경쟁 결과)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rivalry",
+        "meaning_ko": "경쟁 관계"
+      },
+      {
+        "word": "contest",
+        "meaning_ko": "경연/시합"
+      },
+      {
+        "word": "race",
+        "meaning_ko": "경쟁(비유: 경쟁 레이스)"
+      },
+      {
+        "word": "tournament",
+        "meaning_ko": "토너먼트(대회)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "contest",
+        "meaning_ko": "대회/시합(이벤트 의미가 더 강함)"
+      },
+      {
+        "word": "challenge",
+        "meaning_ko": "도전(상대/과제 강조)"
+      },
+      {
+        "word": "rivalry",
+        "meaning_ko": "장기간의 경쟁 관계(감정 포함 가능)"
+      },
+      {
+        "word": "competition pressure",
+        "meaning_ko": "경쟁 압박(상황 강조)"
+      },
+      {
+        "word": "comparison",
+        "meaning_ko": "비교(경쟁과 다름)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cooperation",
+        "meaning_ko": "협력"
+      },
+      {
+        "word": "collaboration",
+        "meaning_ko": "협업"
+      },
+      {
+        "word": "monopoly",
+        "meaning_ko": "독점"
+      },
+      {
+        "word": "harmony",
+        "meaning_ko": "조화"
+      },
+      {
+        "word": "solidarity",
+        "meaning_ko": "연대"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "stifle competition in the market",
+            "meaning_ko": "시장에서 경쟁을 억누르다"
+          },
+          {
+            "phrase": "intensify competition for scarce resources",
+            "meaning_ko": "희소 자원을 둘러싼 경쟁을 격화시키다"
+          },
+          {
+            "phrase": "distort competition through price-fixing",
+            "meaning_ko": "가격 담합으로 경쟁을 왜곡하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "fierce competition",
+            "meaning_ko": "치열한 경쟁"
+          },
+          {
+            "phrase": "competition between two brands",
+            "meaning_ko": "두 브랜드 간 경쟁"
+          },
+          {
+            "phrase": "enter a competition",
+            "meaning_ko": "대회에 참가하다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a cooking competition",
+            "meaning_ko": "요리 대회"
+          },
+          {
+            "phrase": "win the competition",
+            "meaning_ko": "대회에서 우승하다"
+          },
+          {
+            "phrase": "no competition",
+            "meaning_ko": "경쟁 상대가 없음"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Regulators argued that the merger would reduce consumer choice by stifling competition.",
+            "meaning_ko": "규제 당국은 그 합병이 경쟁을 억눌러 소비자 선택권을 줄일 것이라고 주장했다."
+          },
+          {
+            "sentence": "As barriers to entry fell, competition intensified and profit margins shrank across the industry.",
+            "meaning_ko": "진입장벽이 낮아지자 경쟁이 격화되고 업계 전반의 이익률이 줄었다."
+          },
+          {
+            "sentence": "Their rivalry escalated into a zero-sum competition for influence inside the organization.",
+            "meaning_ko": "그들의 경쟁은 조직 내부에서 영향력을 둘러싼 제로섬 경쟁으로 번졌다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "There is fierce competition for internships this year.",
+            "meaning_ko": "올해는 인턴 자리를 두고 경쟁이 매우 치열하다."
+          },
+          {
+            "sentence": "The competition between the two teams has lasted for decades.",
+            "meaning_ko": "두 팀의 경쟁은 수십 년간 이어져 왔다."
+          },
+          {
+            "sentence": "She entered a writing competition and made it to the final round.",
+            "meaning_ko": "그녀는 글쓰기 대회에 참가해 결승 라운드까지 올라갔다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We’re in competition with a bigger company.",
+            "meaning_ko": "우린 더 큰 회사와 경쟁 중이야."
+          },
+          {
+            "sentence": "He won the competition.",
+            "meaning_ko": "그는 대회에서 우승했어."
+          },
+          {
+            "sentence": "There’s a lot of competition here.",
+            "meaning_ko": "여긴 경쟁이 심해."
+          }
+        ]
+      }
+    ],
+    "studyTips": "competition은 ‘상태(경쟁)’와 ‘이벤트(대회)’ 두 의미를 모두 갖습니다. 전치사는 for(대상), between(둘 사이), with(상대) 3개만 확실히 잡아도 대부분 커버됩니다. contest는 ‘대회’ 쪽에 더 기울고, rivalry는 ‘지속적 경쟁 관계(감정/역사 포함)’ 느낌이 강하다는 점도 함께 정리해 두세요.",
+    "tags": [
+      "경제",
+      "비즈니스",
+      "스포츠",
+      "입시",
+      "사회"
+    ],
+    "frequency": "상",
+    "difficulty": "3",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: There is fierce competition ___ internships.",
+            "a": "for",
+            "meaning_ko": "대상(자리/자원)을 두고 경쟁: competition for~."
+          },
+          {
+            "q": "Choose the best meaning: \"She entered a competition.\"",
+            "a": "She joined a contest/event where people compete.",
+            "meaning_ko": "enter a competition = 대회에 참가하다."
+          },
+          {
+            "q": "Which is the opposite of competition? (A) cooperation (B) rivalry (C) contest",
+            "a": "A",
+            "meaning_ko": "cooperation은 협력으로 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: \"competition ___ two firms\"",
+            "a": "between",
+            "meaning_ko": "둘(이상) 사이: between."
+          },
+          {
+            "q": "Paraphrase: \"Competition is fierce in this market.\"",
+            "a": "Many companies are strongly competing in this market.",
+            "meaning_ko": "불가산처럼 ‘경쟁이 치열하다’로 자주 씁니다."
+          },
+          {
+            "q": "Pick the most natural: (A) in competition with (B) on competition with",
+            "a": "in competition with",
+            "meaning_ko": "고정 결합: in competition with."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: \"The merger will reduce competitions and raise prices.\" ->",
+            "a": "The merger will reduce competition and raise prices.",
+            "meaning_ko": "시장 ‘경쟁’은 보통 불가산적으로 competition을 씁니다."
+          },
+          {
+            "q": "Choose the best fit: \"Price-fixing can ____ competition.\" (A) distort (B) decorate (C) dilute",
+            "a": "distort",
+            "meaning_ko": "distort competition = 경쟁을 왜곡하다(담합 문맥)."
+          },
+          {
+            "q": "Nuance: rivalry vs competition — rivalry more strongly implies _____.",
+            "a": "a long-term relationship between specific opponents",
+            "meaning_ko": "rivalry는 특정 상대와의 지속적 경쟁 관계를 더 강하게 시사합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

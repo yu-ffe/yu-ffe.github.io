@@ -1,0 +1,906 @@
+[
+  {
+    "word": "spank",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To hit someone, especially a child, on the buttocks with an open hand as punishment.",
+        "definition_ko": "엉덩이를 손바닥으로 때리다(특히 체벌로).",
+        "note": "구어적 뉘앙스가 강하며, 교육·보육 맥락에서는 민감한 표현일 수 있습니다."
+      },
+      {
+        "definition_en": "To slap or strike something sharply.",
+        "definition_ko": "찰싹 치다, 세게 후려치다.",
+        "note": "비유적으로 물체를 세게 치는 느낌을 나타낼 때도 씁니다."
+      },
+      {
+        "definition_en": "A slap, especially on the buttocks.",
+        "definition_ko": "찰싹 때림(특히 엉덩이를 때리는 행위).",
+        "note": "명사로는 비교적 덜 흔하지만 쓰입니다."
+      }
+    ],
+    "concept": "‘찰싹’ 때리는 동작을 뜻하며, 특히 체벌 맥락에서 ‘엉덩이를 때리다’를 가리킵니다.",
+    "etymology": "어원은 명확히 단정하기 어렵고, ‘찰싹’ 같은 소리를 떠올리게 하는 구어적(의성어적) 기원으로 설명되는 경우가 많습니다.",
+    "semanticExtension": "사람을 때리는 의미에서 출발해, 물체를 세게 치거나(예: 공을 ‘찰싹’ 치다) ‘날카롭게 맞부딪히는’ 동작 묘사로 확장됩니다.",
+    "nuanceRegister": "일상 구어(구어체). 체벌·폭력과 연결될 수 있어 공식 문맥에서는 ‘slap/hit’ 등으로 완곡하게 바꾸는 경우가 많습니다.",
+    "grammarNotes": "타동사로 목적어가 필요합니다(spank + 사람/부위). 수동태도 가능(be spanked). 원인/이유는 for로 덧붙이는 일이 있습니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사(명사 용법)",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "… 때문에(체벌 이유)",
+        "example": "spank a child for lying"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "…로(도구를 나타냄)",
+        "example": "spank someone with a paddle"
+      }
+    ],
+    "requiredComplements": [
+      "spank + 사람(목적어) : 누구를 때리다",
+      "spank + 사람 + for + 이유 : ~때문에 체벌하다",
+      "be spanked : (수동) 체벌을 당하다"
+    ],
+    "morphology": "단일 어근 단어로 보는 것이 일반적이며, 명확한 접두사/접미사 분해보다는 구어적 소리·동작 연상으로 이해하는 편이 안전합니다.",
+    "derivatives": [
+      {
+        "word": "spanking",
+        "meaning_ko": "체벌(엉덩이를 때림); 때리는 행위"
+      },
+      {
+        "word": "spanked",
+        "meaning_ko": "spank의 과거/과거분사"
+      },
+      {
+        "word": "spanker",
+        "meaning_ko": "때리는 사람(구어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "slap",
+        "meaning_ko": "찰싹 때리다"
+      },
+      {
+        "word": "smack",
+        "meaning_ko": "찰싹 치다; 쳐서 소리 나게 하다"
+      },
+      {
+        "word": "punish",
+        "meaning_ko": "벌하다"
+      },
+      {
+        "word": "discipline",
+        "meaning_ko": "훈육하다; 규율을 세우다"
+      },
+      {
+        "word": "hit",
+        "meaning_ko": "치다; 때리다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "slap",
+        "meaning_ko": "찰싹 때리다"
+      },
+      {
+        "word": "smack",
+        "meaning_ko": "찰싹 치다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "whack",
+        "meaning_ko": "세게 치다(구어)"
+      },
+      {
+        "word": "swat",
+        "meaning_ko": "휙 쳐내다; 후려치다"
+      },
+      {
+        "word": "strike",
+        "meaning_ko": "치다(격식)"
+      },
+      {
+        "word": "beat",
+        "meaning_ko": "때리다; 두들기다(강함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      },
+      {
+        "word": "reward",
+        "meaning_ko": "보상하다"
+      },
+      {
+        "word": "soothe",
+        "meaning_ko": "달래다; 진정시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "spank a child",
+            "meaning_ko": "아이를 엉덩이 때리다"
+          },
+          {
+            "phrase": "get spanked",
+            "meaning_ko": "엉덩이 맞다; 혼나다(구어)"
+          },
+          {
+            "phrase": "spank him/her",
+            "meaning_ko": "그/그녀를 엉덩이 때리다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "spank someone for misbehaving",
+            "meaning_ko": "버릇없게 굴어서 체벌하다"
+          },
+          {
+            "phrase": "a spanking as punishment",
+            "meaning_ko": "벌로 하는 체벌"
+          },
+          {
+            "phrase": "threaten to spank",
+            "meaning_ko": "때리겠다고 위협하다(훈육 맥락)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "debate the ethics of spanking",
+            "meaning_ko": "체벌의 윤리성을 논하다"
+          },
+          {
+            "phrase": "a ban on corporal punishment, including spanking",
+            "meaning_ko": "스팽킹을 포함한 체벌 금지"
+          },
+          {
+            "phrase": "spanking as a disciplinary measure",
+            "meaning_ko": "훈육 수단으로서의 체벌"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He got spanked for breaking the vase.",
+            "meaning_ko": "그는 꽃병을 깨서 엉덩이를 맞았다."
+          },
+          {
+            "sentence": "Please don’t spank the dog.",
+            "meaning_ko": "강아지를 때리지 마세요."
+          },
+          {
+            "sentence": "She spanked the dust off the cushion.",
+            "meaning_ko": "그녀는 쿠션의 먼지를 찰싹 쳐서 털었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Some parents believe spanking teaches discipline, while others strongly disagree.",
+            "meaning_ko": "어떤 부모는 체벌이 훈육에 도움이 된다고 보지만, 다른 이들은 강하게 반대한다."
+          },
+          {
+            "sentence": "He was warned that spanking could be interpreted as abuse in certain contexts.",
+            "meaning_ko": "그는 상황에 따라 체벌이 학대로 해석될 수 있다는 경고를 받았다."
+          },
+          {
+            "sentence": "The coach spanked the ball to the opposite corner with a quick wrist flick.",
+            "meaning_ko": "코치는 손목을 재빨리 튕겨 공을 반대 코너로 찰싹 쳐 보냈다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The policy explicitly prohibits corporal punishment, including spanking, in all affiliated programs.",
+            "meaning_ko": "해당 정책은 모든 산하 프로그램에서 스팽킹을 포함한 체벌을 명시적으로 금지한다."
+          },
+          {
+            "sentence": "Researchers caution that spanking may correlate with increased aggression, though causal claims are contested.",
+            "meaning_ko": "연구자들은 체벌이 공격성 증가와 연관될 수 있다고 경고하지만, 인과관계 단정에는 논쟁이 있다."
+          },
+          {
+            "sentence": "The term ‘spanking’ carries cultural baggage that complicates cross-country comparisons of parenting norms.",
+            "meaning_ko": "‘스팽킹’이라는 용어는 문화적 함의를 지녀, 국가 간 양육 규범 비교를 복잡하게 만든다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "spank는 ‘엉덩이를 찰싹 때리다’가 핵심인데, slap(손바닥으로 때리다), beat(세게 두들기다)와 강도/뉘앙스가 다릅니다. 시험에서는 spank A for B(이유) 같은 패턴이 자주 나옵니다. 공식 글에서는 ‘corporal punishment(체벌)’로 바꿔 서술되는 경우도 많습니다.",
+    "tags": [
+      "행동",
+      "훈육",
+      "체벌",
+      "구어",
+      "동작"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The child was ____ for lying.",
+            "a": "spanked",
+            "meaning_ko": "‘거짓말해서 (엉덩이를) 맞았다’ 문맥에 spanked가 자연스럽습니다."
+          },
+          {
+            "q": "Fill in the blank: Don't ____ the table; it will shake.",
+            "a": "spank",
+            "meaning_ko": "‘세게 치다’의 동사 의미로 spank가 가능합니다."
+          },
+          {
+            "q": "What does 'get spanked' usually imply in casual speech?",
+            "a": "receive a spanking as punishment",
+            "meaning_ko": "구어에서 ‘혼나서 엉덩이를 맞다/체벌을 받다’ 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the most natural pattern: (A) spank about a mistake (B) spank someone for a mistake (C) spank into a mistake",
+            "a": "spank someone for a mistake",
+            "meaning_ko": "이유는 for로, 목적어는 사람입니다."
+          },
+          {
+            "q": "Which is closest in meaning to 'spank' (verb)? (A) praise (B) slap (C) forgive (D) admire",
+            "a": "slap",
+            "meaning_ko": "spank는 ‘때리다’ 계열이므로 slap이 가장 가깝습니다."
+          },
+          {
+            "q": "Rewrite using passive voice: 'They spanked him for misbehaving.'",
+            "a": "He was spanked for misbehaving.",
+            "meaning_ko": "be spanked 구조로 수동태 전환."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best academic paraphrase for 'spanking': (A) corporal punishment (B) casual greeting (C) financial aid (D) public transport",
+            "a": "corporal punishment",
+            "meaning_ko": "학술/공식 문맥에서 스팽킹은 ‘체벌’ 범주로 paraphrase 됩니다."
+          },
+          {
+            "q": "Error correction: 'The school allows spanking to students in class.' -> Fix the unnatural part.",
+            "a": "The school allows spanking of students in class.",
+            "meaning_ko": "명사 사용 시 ‘spanking of + 대상’이 자연스럽습니다(물론 의미상 정책 문장)."
+          },
+          {
+            "q": "Fill in the blank: The committee voted to ____ corporal punishment, including spanking, from all facilities.",
+            "a": "ban",
+            "meaning_ko": "‘금지하다’가 정책 문맥에서 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "facade",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The front of a building, especially an imposing or decorative one.",
+        "definition_ko": "건물의 정면(특히 장식적·인상적인 외관).",
+        "note": "건축 용어로는 ‘파사드’라고도 합니다."
+      },
+      {
+        "definition_en": "An outward appearance that is presented to hide a less pleasant reality.",
+        "definition_ko": "겉모습, 위장(불편한 진실을 가리기 위한 외관).",
+        "note": "‘가식, 허울’의 뉘앙스로 자주 쓰입니다."
+      }
+    ],
+    "concept": "‘앞면’이라는 원의에서 출발해, ‘겉으로 꾸민 모습(가식)’을 뜻하는 비유적 의미가 매우 흔합니다.",
+    "etymology": "프랑스어 façade(건물의 앞면)에서 왔고, 더 거슬러 올라가면 이탈리아어 facciata(정면)와 ‘face(얼굴)’ 계열 어근과 연결됩니다.",
+    "semanticExtension": "건물의 정면(물리적 외관) → 사람/조직이 보여주는 겉치레(심리·사회적 외관)로 자연스럽게 확장됩니다.",
+    "nuanceRegister": "중립~격식. 건축 문맥에서는 전문용어, 비유 용법에서는 분석적/비판적 뉘앙스가 섞일 수 있습니다.",
+    "grammarNotes": "보통 a/the facade, behind a facade, put up a facade 같은 고정 결합이 많습니다. 철자에서 cedilla(ç) 없이 facade로도 표기합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "…의 외관/겉모습",
+        "example": "a facade of confidence"
+      },
+      {
+        "prep": "behind",
+        "meaning_ko": "…뒤에(겉모습 뒤에 숨겨진 진실)",
+        "example": "behind a cheerful facade"
+      }
+    ],
+    "requiredComplements": [
+      "a facade of + 추상명사 : ~한 척하는 겉모습",
+      "behind a facade : 겉모습 뒤에(숨겨진 현실)"
+    ],
+    "morphology": "프랑스어 계열 단어로, ‘face(얼굴/표면)’와 어근상 연관이 있어 ‘겉면/표정’ 이미지로 기억하면 좋습니다.",
+    "derivatives": [
+      {
+        "word": "facade-like",
+        "meaning_ko": "겉치레 같은; 외관만 그럴듯한"
+      },
+      {
+        "word": "facadism",
+        "meaning_ko": "파사디즘(외관만 보존하는 도시·건축 관행)"
+      }
+    ],
+    "related": [
+      {
+        "word": "front",
+        "meaning_ko": "겉모습; 위장"
+      },
+      {
+        "word": "appearance",
+        "meaning_ko": "겉모양; 외관"
+      },
+      {
+        "word": "veneer",
+        "meaning_ko": "얇은 겉치레; 피상적 꾸밈"
+      },
+      {
+        "word": "exterior",
+        "meaning_ko": "외부; 외관"
+      },
+      {
+        "word": "pretense",
+        "meaning_ko": "가식; 꾸밈"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "front",
+        "meaning_ko": "겉치레; 위장"
+      },
+      {
+        "word": "veneer",
+        "meaning_ko": "겉치레"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "guise",
+        "meaning_ko": "가장; 변장"
+      },
+      {
+        "word": "mask",
+        "meaning_ko": "가면; 은폐"
+      },
+      {
+        "word": "show",
+        "meaning_ko": "겉치레; 보여주기"
+      },
+      {
+        "word": "exterior",
+        "meaning_ko": "외관"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reality",
+        "meaning_ko": "현실"
+      },
+      {
+        "word": "truth",
+        "meaning_ko": "진실"
+      },
+      {
+        "word": "candor",
+        "meaning_ko": "솔직함"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "the building's facade",
+            "meaning_ko": "건물의 정면"
+          },
+          {
+            "phrase": "behind a facade",
+            "meaning_ko": "겉모습 뒤에"
+          },
+          {
+            "phrase": "a false facade",
+            "meaning_ko": "가짜 겉모습; 허울"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "put up a facade",
+            "meaning_ko": "겉치레를 하다; 가식적으로 굴다"
+          },
+          {
+            "phrase": "maintain a facade of calm",
+            "meaning_ko": "침착한 척을 유지하다"
+          },
+          {
+            "phrase": "crack the facade",
+            "meaning_ko": "겉모습에 금이 가다(숨김이 드러나다)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "the facade conceals structural damage",
+            "meaning_ko": "외관이 구조적 손상을 숨기다"
+          },
+          {
+            "phrase": "a carefully constructed public facade",
+            "meaning_ko": "치밀하게 설계된 대외 이미지"
+          },
+          {
+            "phrase": "strip away the facade",
+            "meaning_ko": "겉치레를 벗겨내다; 본질을 드러내다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The hotel’s facade looks beautiful at night.",
+            "meaning_ko": "그 호텔의 정면은 밤에 아름답게 보인다."
+          },
+          {
+            "sentence": "He smiled, but it was just a facade.",
+            "meaning_ko": "그는 웃었지만, 그건 그저 겉치레였다."
+          },
+          {
+            "sentence": "Don’t judge a book by its facade.",
+            "meaning_ko": "겉모습만 보고 판단하지 마라."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She kept a facade of confidence during the interview.",
+            "meaning_ko": "그녀는 면접 내내 자신감 있는 척을 유지했다."
+          },
+          {
+            "sentence": "Behind the friendly facade, the company was in serious trouble.",
+            "meaning_ko": "친절한 겉모습 뒤에서 그 회사는 심각한 위기에 처해 있었다."
+          },
+          {
+            "sentence": "The renovation preserved the historic facade while updating the interior.",
+            "meaning_ko": "그 리모델링은 역사적 외관은 보존하면서 내부를 현대화했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Analysts argued that the transparency campaign was a facade designed to deflect criticism.",
+            "meaning_ko": "분석가들은 투명성 캠페인이 비판을 피하기 위한 겉치레라고 주장했다."
+          },
+          {
+            "sentence": "Once the facade cracked, the narrative of effortless success quickly unraveled.",
+            "meaning_ko": "겉모습에 금이 가자, 손쉬운 성공이라는 서사는 빠르게 무너졌다."
+          },
+          {
+            "sentence": "Urban planners debated whether keeping only the facade amounts to preserving history or merely simulating it.",
+            "meaning_ko": "도시계획가들은 외관만 남기는 것이 역사를 보존하는지, 아니면 그저 ‘역사처럼 보이게’ 흉내 내는지 논쟁했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "facade는 ‘건물 정면’과 ‘겉치레/가식’ 두 축으로 외우면 됩니다. veneer(얇은 겉치레), front(위장)와 자주 교체되지만 facade는 ‘겉면’ 이미지가 특히 강합니다. a facade of + 추상명사(예: confidence) 패턴이 시험에 잘 나옵니다.",
+    "tags": [
+      "건축",
+      "외관",
+      "이미지",
+      "가식",
+      "비유"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The ____ of the building was covered with ivy.",
+            "a": "facade",
+            "meaning_ko": "건물의 ‘정면/외관’ 의미."
+          },
+          {
+            "q": "Choose the meaning: 'a facade of friendliness' most closely means ____.",
+            "a": "an outward show of friendliness",
+            "meaning_ko": "진짜가 아니라 ‘친절한 척하는 겉모습’입니다."
+          },
+          {
+            "q": "True or False: 'facade' can only mean a building's front.",
+            "a": "False",
+            "meaning_ko": "비유적으로 ‘겉치레/가식’도 매우 흔합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best collocation: (A) keep a facade (B) keep on facade (C) keep with facade",
+            "a": "keep a facade",
+            "meaning_ko": "‘겉치레를 유지하다’는 keep/maintain a facade가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest synonym in context: 'Behind his calm facade, he was panicking.' (A) truth (B) veneer (C) honesty (D) reality",
+            "a": "veneer",
+            "meaning_ko": "겉치레 의미에서 veneer가 가깝습니다."
+          },
+          {
+            "q": "Rewrite using 'behind': 'He looked confident, but he wasn't.'",
+            "a": "Behind a facade of confidence, he wasn't.",
+            "meaning_ko": "a facade of + 추상명사 구조 활용."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best academic phrasing: 'The reform was just for show.' -> (A) The reform was a facade. (B) The reform was a sandwich. (C) The reform was a shortcut. (D) The reform was a hobby.",
+            "a": "The reform was a facade.",
+            "meaning_ko": "정책·개혁의 ‘겉치레’라는 비유 용법."
+          },
+          {
+            "q": "Error correction: 'They preserved only the facades of the old houses.' -> Improve precision (one word).",
+            "a": "facade",
+            "meaning_ko": "복수형은 facades가 맞지만, 문맥상 일반적으로 ‘the facade’ 혹은 ‘the facades’는 둘 다 가능. 단수로 일반화하려면 facade(단수)로 정리할 수 있습니다."
+          },
+          {
+            "q": "Fill in the blank: The PR team tried to ____ away the facade and address the underlying issue.",
+            "a": "strip",
+            "meaning_ko": "strip away(벗겨내다)와 facade가 자주 결합합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "inquire",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To ask for information from someone; to seek information.",
+        "definition_ko": "문의하다, 물어보다.",
+        "note": "request보다 ‘정보를 얻기 위해 묻는’ 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "To investigate or try to learn about something by asking questions.",
+        "definition_ko": "조사하다, 탐문하다.",
+        "note": "격식/문어에서 ‘조사하다’ 의미로도 자주 쓰입니다."
+      }
+    ],
+    "concept": "정보를 얻기 위해 ‘묻거나(문의)’, 더 나아가 ‘조사하다(탐문)’로 확장되는 동사입니다.",
+    "etymology": "라틴어 inquirere(찾아보다, 조사하다)에서 왔으며, ‘안으로(in) + 찾다/구하다(querere)’의 결합으로 설명됩니다.",
+    "semanticExtension": "단순 문의(ask) → 체계적으로 파고드는 조사(investigate)로 의미 범위가 확장됩니다.",
+    "nuanceRegister": "격식/문어 성향. 고객센터·공문·학술 글에서 자주 보이며, 일상 대화에서는 ask가 더 흔합니다.",
+    "grammarNotes": "대표 패턴: inquire about + 명사(…에 대해 문의하다), inquire into + 명사(…을 조사하다), inquire of + 사람(…에게 문의하다). that절은 비교적 문어적입니다.",
+    "transitivity": "자동사·타동사 모두(현대 영어에서는 전치사 목적어로 쓰는 경우가 많음)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "…에 대해(문의/질문)",
+        "example": "inquire about the refund policy"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "…을 조사하여(사건·문제)",
+        "example": "inquire into the cause of the accident"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "…에게(사람에게 질문/문의)",
+        "example": "inquire of the receptionist"
+      }
+    ],
+    "requiredComplements": [
+      "inquire about + 주제 : ~에 대해 문의하다",
+      "inquire into + 사안 : ~을 조사하다",
+      "inquire of + 사람 : ~에게 물어보다",
+      "inquire whether/if + S V : ~인지 여부를 문의하다(문어)"
+    ],
+    "morphology": "in-(안으로) + quire/quer-(찾다, 묻다) 계열 어근으로 이해하면 ‘안쪽까지 파고들어 알아보다’ 이미지가 됩니다.",
+    "derivatives": [
+      {
+        "word": "inquiry",
+        "meaning_ko": "문의; 조사"
+      },
+      {
+        "word": "inquirer",
+        "meaning_ko": "문의하는 사람; 탐구자"
+      },
+      {
+        "word": "inquisitive",
+        "meaning_ko": "호기심 많은; 캐묻는"
+      },
+      {
+        "word": "inquisition",
+        "meaning_ko": "심문; 조사(역사적 용례 포함)"
+      }
+    ],
+    "related": [
+      {
+        "word": "ask",
+        "meaning_ko": "묻다"
+      },
+      {
+        "word": "question",
+        "meaning_ko": "질문하다"
+      },
+      {
+        "word": "investigate",
+        "meaning_ko": "조사하다"
+      },
+      {
+        "word": "probe",
+        "meaning_ko": "탐문하다; 파고들다"
+      },
+      {
+        "word": "request",
+        "meaning_ko": "요청하다(정보가 아니라 요구일 때)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ask",
+        "meaning_ko": "묻다"
+      },
+      {
+        "word": "inquire about",
+        "meaning_ko": "문의하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "enquire",
+        "meaning_ko": "문의하다(영국식 철자/용법)"
+      },
+      {
+        "word": "question",
+        "meaning_ko": "질문하다; 의문을 제기하다"
+      },
+      {
+        "word": "probe",
+        "meaning_ko": "캐묻다; 탐문하다"
+      },
+      {
+        "word": "investigate",
+        "meaning_ko": "조사하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "answer",
+        "meaning_ko": "답하다"
+      },
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "inquire about prices",
+            "meaning_ko": "가격을 문의하다"
+          },
+          {
+            "phrase": "inquire about availability",
+            "meaning_ko": "가능 여부를 문의하다"
+          },
+          {
+            "phrase": "inquire at the front desk",
+            "meaning_ko": "프런트에서 문의하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "inquire into the matter",
+            "meaning_ko": "그 사안을 조사하다"
+          },
+          {
+            "phrase": "inquire of a witness",
+            "meaning_ko": "증인에게 물어보다"
+          },
+          {
+            "phrase": "further inquiries",
+            "meaning_ko": "추가 문의/추가 조사"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a formal inquiry into misconduct",
+            "meaning_ko": "비위 행위에 대한 공식 조사"
+          },
+          {
+            "phrase": "inquire whether the claim is substantiated",
+            "meaning_ko": "주장이 입증되는지 여부를 문의/확인하다"
+          },
+          {
+            "phrase": "inquire as to the feasibility",
+            "meaning_ko": "실현 가능성에 관해 문의하다(격식)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I called to inquire about the schedule.",
+            "meaning_ko": "일정을 문의하려고 전화했다."
+          },
+          {
+            "sentence": "Please inquire at the counter.",
+            "meaning_ko": "카운터에서 문의해 주세요."
+          },
+          {
+            "sentence": "She inquired about the price of the tickets.",
+            "meaning_ko": "그녀는 티켓 가격을 물어봤다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The manager inquired into the cause of the repeated delays.",
+            "meaning_ko": "관리자는 반복되는 지연의 원인을 조사했다."
+          },
+          {
+            "sentence": "If you have further questions, feel free to inquire of our staff.",
+            "meaning_ko": "추가 질문이 있으면 직원에게 편하게 문의하세요."
+          },
+          {
+            "sentence": "He inquired whether the documents had been received.",
+            "meaning_ko": "그는 서류가 접수되었는지 여부를 문의했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "An independent panel was appointed to inquire into allegations of misconduct.",
+            "meaning_ko": "비위 의혹을 조사하기 위해 독립 위원회가 임명되었다."
+          },
+          {
+            "sentence": "The report carefully inquired into both the methodology and the assumptions behind the results.",
+            "meaning_ko": "그 보고서는 결과 뒤에 있는 방법론과 가정을 모두 면밀히 조사했다."
+          },
+          {
+            "sentence": "Before concluding, the court inquired as to whether due process had been observed.",
+            "meaning_ko": "결론을 내리기 전에 법원은 적법절차가 준수되었는지 여부를 확인했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "inquire는 ‘정보를 얻기 위해 묻다’라서 request(요구하다)와 구분하는 게 핵심입니다. about(문의), into(조사), of(사람에게) 3개 전치사 패턴을 세트로 외우면 실전에서 안정적입니다. 영국식 철자 enquire도 함께 알아두면 독해에서 도움이 됩니다.",
+    "tags": [
+      "의사소통",
+      "문의",
+      "조사",
+      "격식",
+      "비즈니스"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: I want to ____ about the return policy.",
+            "a": "inquire",
+            "meaning_ko": "정책에 대해 ‘문의하다’는 inquire about이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the correct preposition: inquire ____ availability (about / into / of).",
+            "a": "about",
+            "meaning_ko": "주제에 대해 묻는 경우 about."
+          },
+          {
+            "q": "True or False: 'inquire' can mean 'ask for information'.",
+            "a": "True",
+            "meaning_ko": "핵심 의미가 ‘문의하다/묻다’입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best phrase: The committee will inquire ____ the incident. (about / into / of)",
+            "a": "into",
+            "meaning_ko": "사건·문제 ‘조사’에는 inquire into."
+          },
+          {
+            "q": "Which is closer to 'inquire' in a formal email? (A) ask (B) chill (C) wander (D) vanish",
+            "a": "ask",
+            "meaning_ko": "기본 의미는 ask와 같지만 더 격식적입니다."
+          },
+          {
+            "q": "Rewrite: 'She asked the receptionist about the check-out time.' (use inquire)",
+            "a": "She inquired of the receptionist about the check-out time.",
+            "meaning_ko": "사람(of) + 주제(about) 조합."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the most precise paraphrase: 'The agency investigated the complaint.' (use inquire)",
+            "a": "The agency inquired into the complaint.",
+            "meaning_ko": "investigate ≈ inquire into."
+          },
+          {
+            "q": "Error correction: 'They inquired to the staff about the issue.' -> Fix the preposition.",
+            "a": "They inquired of the staff about the issue.",
+            "meaning_ko": "사람에게 묻는 경우 inquire of + 사람."
+          },
+          {
+            "q": "Fill in the blank: The report seeks to inquire ____ whether the evidence supports the claim.",
+            "a": "as to",
+            "meaning_ko": "as to whether는 격식적 표현으로 ‘~인지 여부에 관해’입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

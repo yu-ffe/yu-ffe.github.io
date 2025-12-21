@@ -1,0 +1,888 @@
+[
+  {
+    "word": "theology",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The study of God, religion, and religious beliefs.",
+        "definition_ko": "신(神)과 종교, 종교적 믿음에 대한 학문(신학).",
+        "note": "학문 분야로서의 의미가 기본이며, 특정 종교 전통의 교리 연구를 포함합니다."
+      },
+      {
+        "definition_en": "A particular system of religious beliefs and doctrines.",
+        "definition_ko": "특정 종교의 교리 체계(신학 체계).",
+        "note": "학문(연구)이라기보다 ‘교리/관점’ 자체를 가리킬 때."
+      }
+    ],
+    "concept": "종교에서 ‘신과 믿음’이 무엇인지 체계적으로 연구하고 정리하는 학문/교리 체계.",
+    "etymology": "그리스어 theologia(‘신에 대한 담론’)에서 유래했으며, theo-(신) + -logia(학문/논의) 구성입니다.",
+    "semanticExtension": "본래 신·교리 연구를 뜻하지만, 비유적으로 어떤 분야의 ‘이론적 교리/원리 체계’를 가리키는 말로도 확장됩니다(예: a theology of work).",
+    "nuanceRegister": "학술적·문어적(격식). 종교/철학/인문학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "불가산으로 쓰이는 경우가 흔하지만, ‘여러 신학 체계/분야’ 의미로 복수형 theologies도 가능합니다. 전치사 of로 ‘~의 신학’ 구조가 매우 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 신학(주제/대상)",
+        "example": "theology of liberation"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서/분야에서(전공/연구 영역)",
+        "example": "a degree in theology"
+      }
+    ],
+    "requiredComplements": [
+      "theology of + 명사 (무엇에 대한 신학/교리 체계인지 지정)",
+      "degree/major in + theology (전공/학위 표현)"
+    ],
+    "morphology": "theo-(신) + -logy(학문). ‘신에 대한 학문’이라는 구성 의미가 비교적 투명합니다.",
+    "derivatives": [
+      {
+        "word": "theological",
+        "meaning_ko": "신학의; 종교 교리상의"
+      },
+      {
+        "word": "theologian",
+        "meaning_ko": "신학자"
+      },
+      {
+        "word": "theologize",
+        "meaning_ko": "신학적으로 논하다; 교리적으로 해석하다"
+      },
+      {
+        "word": "theologically",
+        "meaning_ko": "신학적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "doctrine",
+        "meaning_ko": "교리"
+      },
+      {
+        "word": "dogma",
+        "meaning_ko": "독단적 교리; 정설"
+      },
+      {
+        "word": "divinity",
+        "meaning_ko": "신성; 신학(전공)"
+      },
+      {
+        "word": "exegesis",
+        "meaning_ko": "성서 주해"
+      },
+      {
+        "word": "seminary",
+        "meaning_ko": "신학교"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "divinity",
+        "meaning_ko": "신학(특히 전통적 용례)"
+      },
+      {
+        "word": "religious studies",
+        "meaning_ko": "종교학(더 넓은 범위)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "philosophy of religion",
+        "meaning_ko": "종교철학(철학적 접근)"
+      },
+      {
+        "word": "doctrinal system",
+        "meaning_ko": "교리 체계"
+      },
+      {
+        "word": "spiritual worldview",
+        "meaning_ko": "영적 세계관"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "atheism",
+        "meaning_ko": "무신론"
+      },
+      {
+        "word": "secularism",
+        "meaning_ko": "세속주의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "study theology",
+            "meaning_ko": "신학을 공부하다"
+          },
+          {
+            "phrase": "a theology class",
+            "meaning_ko": "신학 수업"
+          },
+          {
+            "phrase": "Christian theology",
+            "meaning_ko": "기독교 신학"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "systematic theology",
+            "meaning_ko": "조직신학"
+          },
+          {
+            "phrase": "moral theology",
+            "meaning_ko": "도덕신학"
+          },
+          {
+            "phrase": "theology of liberation",
+            "meaning_ko": "해방신학"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "theology and metaphysics",
+            "meaning_ko": "신학과 형이상학"
+          },
+          {
+            "phrase": "a coherent theological framework",
+            "meaning_ko": "일관된 신학적 틀"
+          },
+          {
+            "phrase": "reconcile theology with modern science",
+            "meaning_ko": "신학을 현대 과학과 조화시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She decided to study theology in college.",
+            "meaning_ko": "그녀는 대학에서 신학을 공부하기로 했다."
+          },
+          {
+            "sentence": "He took a theology class to understand different religions.",
+            "meaning_ko": "그는 다양한 종교를 이해하려고 신학 수업을 들었다."
+          },
+          {
+            "sentence": "Christian theology has many branches.",
+            "meaning_ko": "기독교 신학에는 여러 분파가 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The book compares systematic theology with historical theology.",
+            "meaning_ko": "그 책은 조직신학과 역사신학을 비교한다."
+          },
+          {
+            "sentence": "Her research focuses on the theology of suffering.",
+            "meaning_ko": "그녀의 연구는 고통의 신학에 초점을 둔다."
+          },
+          {
+            "sentence": "The seminar explored how theology shaped medieval politics.",
+            "meaning_ko": "그 세미나는 신학이 중세 정치에 어떤 영향을 미쳤는지 탐구했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The debate hinges on whether theological claims can be evaluated by empirical standards.",
+            "meaning_ko": "그 논쟁은 신학적 주장들이 경험적 기준으로 평가될 수 있는지에 달려 있다."
+          },
+          {
+            "sentence": "He argues for a theological framework that accounts for both tradition and social change.",
+            "meaning_ko": "그는 전통과 사회 변화를 모두 설명할 수 있는 신학적 틀을 주장한다."
+          },
+          {
+            "sentence": "In her memoir, she describes how theology and grief intertwined after the loss.",
+            "meaning_ko": "그녀는 회고록에서 상실 이후 신학과 슬픔이 어떻게 얽혔는지 묘사한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "theology는 ‘종교 일반’이 아니라 ‘신/교리 체계’에 초점이 있는 말입니다. 종교학(religious studies)은 더 넓은 범위(역사·사회·문화 포함)라서 시험에서 대비됩니다. ‘theology of + 명사’는 ‘~에 대한 신학적 해석/교리 체계’로 자주 나오므로 통째로 패턴으로 외워두세요.",
+    "tags": [
+      "학문",
+      "종교",
+      "철학",
+      "인문학",
+      "교리"
+    ],
+    "frequency": "중",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of \"theology\":\nA) the study of living organisms\nB) the study of God and religious beliefs\nC) the study of numbers",
+            "a": "B",
+            "meaning_ko": "theology는 ‘신/종교적 믿음’에 대한 학문입니다."
+          },
+          {
+            "q": "Fill in the blank: She plans to major ___ theology.",
+            "a": "in",
+            "meaning_ko": "전공/학위는 major/degree in + 분야."
+          },
+          {
+            "q": "Which is a common phrase?\nA) theology on\nB) theology of\nC) theology under",
+            "a": "B",
+            "meaning_ko": "theology of + 명사(무엇에 대한 신학)가 매우 흔합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which term is closest to \"theology\" in academic context?",
+            "a": "divinity",
+            "meaning_ko": "divinity는 전통적으로 ‘신학’(특히 학과/전공) 의미로 쓰입니다."
+          },
+          {
+            "q": "Choose the best fit: \"Her thesis examines the ___ of liberation.\"",
+            "a": "theology",
+            "meaning_ko": "theology of liberation(해방신학)처럼 of-구가 결합됩니다."
+          },
+          {
+            "q": "Identify the odd one out (not a subfield of theology):\nA) systematic theology\nB) moral theology\nC) quantum mechanics",
+            "a": "C",
+            "meaning_ko": "A/B는 신학 분야, C는 물리학 분야입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using \"theological\" without changing meaning: \"They raised questions about doctrine.\"",
+            "a": "They raised theological questions about doctrine.",
+            "meaning_ko": "theological은 ‘신학적/교리상의’로 수식합니다."
+          },
+          {
+            "q": "Choose the best connector: \"He tried to reconcile theology ___ modern science.\"",
+            "a": "with",
+            "meaning_ko": "reconcile A with B( A를 B와 조화시키다 )."
+          },
+          {
+            "q": "Reading inference: If a paper claims \"a coherent theological framework,\" it most likely discusses:",
+            "a": "a structured system of religious ideas and doctrines",
+            "meaning_ko": "framework는 ‘체계/틀’이고 theological은 ‘종교 교리 체계’ 관련입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vacillate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To be uncertain about what to do; to waver between different opinions or actions.",
+        "definition_ko": "결정을 못 내리고 흔들리다; 이쪽저쪽 오락가락하다.",
+        "note": "결단 부족/우유부단의 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "To alternate or fluctuate between states, values, or positions.",
+        "definition_ko": "상태·수치 등이 들쭉날쭉 변하다; 변동하다.",
+        "note": "사람의 ‘마음/입장’뿐 아니라 수치·상태의 변동에도 사용."
+      }
+    ],
+    "concept": "한쪽으로 확정되지 못하고 계속 왔다 갔다 하는 ‘흔들림’.",
+    "etymology": "라틴어 vacillare(‘비틀거리다, 흔들리다’)에서 유래했습니다.",
+    "semanticExtension": "원래는 물리적 흔들림(비틀거림) 느낌이 강했지만, 현대에는 주로 판단·정책·입장 등 정신적/결정의 흔들림으로 확장되어 쓰입니다.",
+    "nuanceRegister": "격식·문어적(신문/에세이/학술 글). 일상 회화에서는 hesitate, waver가 더 흔합니다.",
+    "grammarNotes": "주로 자동사로 쓰이며, between A and B와 자주 결합합니다(vacillate between two options). 주어가 ‘정책/태도’일 수도 있습니다.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "between",
+        "meaning_ko": "A와 B 사이에서 오락가락하다",
+        "example": "vacillate between two offers"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대해 우유부단하다(덜 흔함)",
+        "example": "vacillate on the decision"
+      }
+    ],
+    "requiredComplements": [
+      "vacillate between A and B (선택지/입장 사이에서 흔들림을 명시)",
+      "vacillate on/about + 명사 (결정/쟁점에 대해 우유부단함; 문어)"
+    ],
+    "morphology": "어근 vacill-(흔들리다) + -ate(동사화). 형태는 라틴계 동사 패턴입니다.",
+    "derivatives": [
+      {
+        "word": "vacillation",
+        "meaning_ko": "망설임; 우유부단; 변동"
+      },
+      {
+        "word": "vacillating",
+        "meaning_ko": "오락가락하는; 우유부단한"
+      }
+    ],
+    "related": [
+      {
+        "word": "hesitate",
+        "meaning_ko": "주저하다"
+      },
+      {
+        "word": "waver",
+        "meaning_ko": "흔들리다; 우유부단하다"
+      },
+      {
+        "word": "fluctuate",
+        "meaning_ko": "변동하다"
+      },
+      {
+        "word": "dither",
+        "meaning_ko": "우왕좌왕하다"
+      },
+      {
+        "word": "indecision",
+        "meaning_ko": "결단 못함"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "waver",
+        "meaning_ko": "흔들리다"
+      },
+      {
+        "word": "hesitate",
+        "meaning_ko": "망설이다"
+      },
+      {
+        "word": "oscillate",
+        "meaning_ko": "오르내리다; 오락가락하다(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "dither",
+        "meaning_ko": "우왕좌왕하다(다소 구어)"
+      },
+      {
+        "word": "equivocate",
+        "meaning_ko": "모호하게 말하다(핵심 회피)"
+      },
+      {
+        "word": "fluctuate",
+        "meaning_ko": "수치가 변동하다(비인격 주어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decide",
+        "meaning_ko": "결정하다"
+      },
+      {
+        "word": "resolve",
+        "meaning_ko": "결의하다; 결심하다"
+      },
+      {
+        "word": "commit",
+        "meaning_ko": "전념/확약하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "vacillate between two choices",
+            "meaning_ko": "두 선택지 사이에서 망설이다"
+          },
+          {
+            "phrase": "vacillate for too long",
+            "meaning_ko": "너무 오래 우유부단하다"
+          },
+          {
+            "phrase": "stop vacillating",
+            "meaning_ko": "그만 흔들려라/결정해라"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "vacillate on a decision",
+            "meaning_ko": "결정에 대해 망설이다"
+          },
+          {
+            "phrase": "vacillate in one’s stance",
+            "meaning_ko": "입장이 흔들리다"
+          },
+          {
+            "phrase": "vacillating policy",
+            "meaning_ko": "오락가락하는 정책"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "vacillate between principle and expediency",
+            "meaning_ko": "원칙과 편의 사이에서 흔들리다"
+          },
+          {
+            "phrase": "vacillate under political pressure",
+            "meaning_ko": "정치적 압박 아래에서 흔들리다"
+          },
+          {
+            "phrase": "markets vacillate amid uncertainty",
+            "meaning_ko": "불확실성 속에 시장이 등락을 반복하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I vacillated between tea and coffee.",
+            "meaning_ko": "저는 차와 커피 사이에서 망설였다."
+          },
+          {
+            "sentence": "Don’t vacillate—choose one and move on.",
+            "meaning_ko": "망설이지 말고 하나를 골라서 넘어가."
+          },
+          {
+            "sentence": "She vacillates a lot when she orders food.",
+            "meaning_ko": "그녀는 음식 주문할 때 자주 망설인다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The committee vacillated on whether to approve the budget.",
+            "meaning_ko": "위원회는 예산을 승인할지 말지 망설였다."
+          },
+          {
+            "sentence": "He seemed to vacillate in his stance after reading the report.",
+            "meaning_ko": "그는 보고서를 읽은 뒤 입장이 흔들리는 듯했다."
+          },
+          {
+            "sentence": "If you vacillate too long, the opportunity may pass.",
+            "meaning_ko": "너무 오래 망설이면 기회가 지나갈 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Leaders who vacillate under pressure often lose credibility with both allies and opponents.",
+            "meaning_ko": "압박 속에서 우유부단한 지도자는 동맹과 상대 모두에게 신뢰를 잃곤 한다."
+          },
+          {
+            "sentence": "The study shows that consumer confidence vacillates with interest-rate expectations.",
+            "meaning_ko": "그 연구는 소비자 신뢰가 금리 전망에 따라 등락을 반복한다는 점을 보여준다."
+          },
+          {
+            "sentence": "She refused to vacillate between apology and justification, choosing instead to state the facts plainly.",
+            "meaning_ko": "그녀는 사과와 변명 사이를 오락가락하지 않고 사실만 담담히 말했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "vacillate는 ‘망설이다’보다 ‘오락가락하며 흔들리다’에 더 가깝고, 문어적입니다. between A and B 패턴으로 출제되기 쉽고, hesitate(주저)·waver(흔들림)와 대비하면 기억이 잘 됩니다. 명사형 vacillation도 함께 묶어 외워두면 독해에서 빨리 잡힙니다.",
+    "tags": [
+      "의사결정",
+      "심리",
+      "논리",
+      "정책",
+      "변동"
+    ],
+    "frequency": "하",
+    "difficulty": "8",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: She vacillated ___ accepting the offer and staying at her current job.",
+            "a": "between",
+            "meaning_ko": "vacillate between A and B가 대표 패턴입니다."
+          },
+          {
+            "q": "Choose the closest meaning of \"vacillate\":\nA) decide quickly\nB) waver and be indecisive\nC) celebrate",
+            "a": "B",
+            "meaning_ko": "vacillate = 우유부단하게 흔들리다."
+          },
+          {
+            "q": "Which sentence is natural?\nA) I vacillate the answer.\nB) I vacillate between two answers.\nC) I vacillate the room.",
+            "a": "B",
+            "meaning_ko": "자동사이며 between 구문이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best word: \"The policy seemed to ___ after the backlash.\"",
+            "a": "vacillate",
+            "meaning_ko": "정책이 오락가락하다 = vacillate."
+          },
+          {
+            "q": "What is the noun form of vacillate?",
+            "a": "vacillation",
+            "meaning_ko": "vacillate ↔ vacillation."
+          },
+          {
+            "q": "Pick the antonym that best fits: \"He didn’t vacillate; he ___ to the plan.\"",
+            "a": "committed",
+            "meaning_ko": "commit to = 확고히 전념/확약하다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: \"They vacillated between to leave and staying.\" (Rewrite naturally.)",
+            "a": "They vacillated between leaving and staying.",
+            "meaning_ko": "between 뒤에는 보통 명사/동명사 병렬이 자연스럽습니다."
+          },
+          {
+            "q": "Reading inference: If a report says \"markets vacillated amid uncertainty,\" it means markets:",
+            "a": "moved up and down repeatedly",
+            "meaning_ko": "vacillate가 ‘등락/변동’ 의미로 쓰였습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: \"She refused to vacillate\" ≈",
+            "a": "She refused to waver or be indecisive.",
+            "meaning_ko": "핵심은 ‘흔들리지 않다/우유부단하지 않다’입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "piety",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Religious devotion and reverence; the practice of showing respect to God or sacred things.",
+        "definition_ko": "경건함; 신(또는 성스러운 것)에 대한 신앙적 공경과 헌신.",
+        "note": "종교적 맥락이 기본이며, 경건한 태도/생활을 포함합니다."
+      },
+      {
+        "definition_en": "Sincere respect and dutifulness toward someone or something considered important.",
+        "definition_ko": "진심 어린 존중과 성실함(비유적).",
+        "note": "문어적으로 ‘전통/가치’에 대한 공경을 말할 때 확장 가능."
+      }
+    ],
+    "concept": "신앙적 ‘경건함’—마음가짐과 행동에서 드러나는 공경과 절제.",
+    "etymology": "라틴어 pietas(‘의무감, 효, 경건’)에서 유래했습니다.",
+    "semanticExtension": "종교적 경건이 중심이지만, 문학·비평에서는 ‘전통/가치에 대한 공손한 존중’ 같은 비유적 의미로도 쓰입니다.",
+    "nuanceRegister": "격식·문어적. 일상에서는 devotion, religious faith, reverence 등을 더 자주 씁니다.",
+    "grammarNotes": "대체로 불가산명사로 쓰입니다. hypocritical/false 등 형용사와 결합해 ‘위선적 경건’도 자주 나타납니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "toward",
+        "meaning_ko": "~에 대한 경건/공경(드묾)",
+        "example": "piety toward the dead"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 경건(문어)",
+        "example": "piety in daily life"
+      }
+    ],
+    "requiredComplements": [
+      "piety toward + 대상 (대상에 대한 공경/경건함을 강조)",
+      "piety in + 영역 (삶의 영역에서 드러나는 경건함)"
+    ],
+    "morphology": "어근 pi-(경건/의무) + -ety(명사화). 라틴계 추상명사 형태입니다.",
+    "derivatives": [
+      {
+        "word": "pious",
+        "meaning_ko": "경건한; 독실한"
+      },
+      {
+        "word": "piously",
+        "meaning_ko": "경건하게"
+      },
+      {
+        "word": "impiety",
+        "meaning_ko": "불경; 불경건"
+      }
+    ],
+    "related": [
+      {
+        "word": "devotion",
+        "meaning_ko": "헌신; 신앙적 열정"
+      },
+      {
+        "word": "reverence",
+        "meaning_ko": "경외; 깊은 존경"
+      },
+      {
+        "word": "sanctity",
+        "meaning_ko": "신성함"
+      },
+      {
+        "word": "ritual",
+        "meaning_ko": "의식; 의례"
+      },
+      {
+        "word": "humility",
+        "meaning_ko": "겸손"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "devotion",
+        "meaning_ko": "헌신(특히 종교적)"
+      },
+      {
+        "word": "religious reverence",
+        "meaning_ko": "종교적 공경"
+      },
+      {
+        "word": "godliness",
+        "meaning_ko": "경건(특히 기독교 문맥)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "faithfulness",
+        "meaning_ko": "신실함"
+      },
+      {
+        "word": "solemnity",
+        "meaning_ko": "엄숙함(태도)"
+      },
+      {
+        "word": "spirituality",
+        "meaning_ko": "영성(더 넓은 개념)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "impiety",
+        "meaning_ko": "불경"
+      },
+      {
+        "word": "irreverence",
+        "meaning_ko": "불경/경시"
+      },
+      {
+        "word": "blasphemy",
+        "meaning_ko": "신성모독"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "religious piety",
+            "meaning_ko": "종교적 경건"
+          },
+          {
+            "phrase": "show piety",
+            "meaning_ko": "경건함을 보이다"
+          },
+          {
+            "phrase": "deep piety",
+            "meaning_ko": "깊은 경건함"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "acts of piety",
+            "meaning_ko": "경건 행위(기도, 자선 등)"
+          },
+          {
+            "phrase": "piety and devotion",
+            "meaning_ko": "경건과 헌신"
+          },
+          {
+            "phrase": "false piety",
+            "meaning_ko": "위선적 경건"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "piety as social performance",
+            "meaning_ko": "사회적 과시로서의 경건"
+          },
+          {
+            "phrase": "a culture of outward piety",
+            "meaning_ko": "겉치레 경건을 중시하는 문화"
+          },
+          {
+            "phrase": "question the sincerity of his piety",
+            "meaning_ko": "그의 경건함의 진정성을 의심하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Her piety was obvious in the way she lived.",
+            "meaning_ko": "그녀의 경건함은 삶의 방식에서 분명히 드러났다."
+          },
+          {
+            "sentence": "He spoke about his faith with quiet piety.",
+            "meaning_ko": "그는 조용한 경건함으로 자신의 신앙을 이야기했다."
+          },
+          {
+            "sentence": "They practiced piety through prayer and charity.",
+            "meaning_ko": "그들은 기도와 자선을 통해 경건을 실천했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The novel contrasts genuine piety with public hypocrisy.",
+            "meaning_ko": "그 소설은 진정한 경건과 대중 앞의 위선을 대비한다."
+          },
+          {
+            "sentence": "Acts of piety are meaningful only when they come from sincere intent.",
+            "meaning_ko": "경건 행위는 진심에서 나올 때에만 의미가 있다."
+          },
+          {
+            "sentence": "Some critics argue that her piety became a form of social power.",
+            "meaning_ko": "일부 비평가들은 그녀의 경건함이 사회적 권력의 형태가 되었다고 주장한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The court cautioned against equating outward piety with moral integrity.",
+            "meaning_ko": "법원은 겉으로 드러나는 경건함을 도덕적 정직성과 동일시하지 말라고 경고했다."
+          },
+          {
+            "sentence": "In a secular society, piety can be misread as intolerance rather than humility.",
+            "meaning_ko": "세속 사회에서는 경건함이 겸손이 아니라 편협함으로 오해될 수 있다."
+          },
+          {
+            "sentence": "He invoked piety to justify harsh rules, but the community rejected his reasoning.",
+            "meaning_ko": "그는 경건을 내세워 가혹한 규칙을 정당화했지만 공동체는 그 논리를 거부했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "piety는 ‘경건함’이라는 추상명사로, pious(경건한)와 세트로 외우면 좋습니다. 시험에서는 false/ostentatious piety(위선/과시적 경건)처럼 비판적 문맥으로도 자주 나옵니다. reverence(경외)·devotion(헌신)과는 비슷하지만, piety는 특히 ‘종교적 규범/태도’의 뉘앙스가 강합니다.",
+    "tags": [
+      "종교",
+      "윤리",
+      "태도",
+      "문학",
+      "가치관"
+    ],
+    "frequency": "하",
+    "difficulty": "8",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of \"piety\":\nA) anger\nB) religious devotion and reverence\nC) speed",
+            "a": "B",
+            "meaning_ko": "piety는 ‘경건/신앙적 공경’입니다."
+          },
+          {
+            "q": "Which adjective comes from piety?",
+            "a": "pious",
+            "meaning_ko": "piety(명사) ↔ pious(형용사)."
+          },
+          {
+            "q": "Fill in the blank: He showed his piety ___ daily acts of kindness.",
+            "a": "in",
+            "meaning_ko": "piety in ~ (삶에서 드러나는 경건)처럼 쓸 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest word to piety in religious context.",
+            "a": "devotion",
+            "meaning_ko": "devotion은 종교적 헌신/열정을 가리키는 유사어입니다."
+          },
+          {
+            "q": "Choose the best phrase: \"___ piety\" meaning 'hypocritical piety'.",
+            "a": "false",
+            "meaning_ko": "false piety = 위선적 경건."
+          },
+          {
+            "q": "Which is the antonym of piety?\nA) impiety\nB) piousness\nC) devotion",
+            "a": "A",
+            "meaning_ko": "impiety는 불경/불경건."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading: \"Outward piety does not guarantee integrity.\" What does this imply?",
+            "a": "Appearing devout is not the same as being morally honest.",
+            "meaning_ko": "겉경건(외적 태도)과 도덕적 정직성은 별개라는 뜻입니다."
+          },
+          {
+            "q": "Rewrite using \"piety\" naturally: \"He was devout, but not showy about it.\"",
+            "a": "He had deep piety but avoided display.",
+            "meaning_ko": "deep piety + avoid display(과시를 피하다)로 자연스럽게 표현."
+          },
+          {
+            "q": "Choose the best collocation: \"question the sincerity of his ___\"",
+            "a": "piety",
+            "meaning_ko": "sincerity of his piety(경건함의 진정성) 결합이 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1027 @@
+[
+  {
+    "word": "narrow",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Having a small width from side to side; not wide.",
+        "definition_ko": "폭이 좁은, 너비가 작은.",
+        "note": "물리적 폭(거리·길·통로 등)에 가장 기본적으로 쓰입니다."
+      },
+      {
+        "definition_en": "Limited in range, amount, or scope; not broad or general.",
+        "definition_ko": "범위가 제한된, 폭이 좁은(관점·선택지·주제 등).",
+        "note": "narrow focus / narrow view처럼 추상적 범위에도 자주 씁니다."
+      },
+      {
+        "definition_en": "To reduce in range or become less wide; to restrict or limit.",
+        "definition_ko": "좁히다, 줄이다; (범위를) 제한하다.",
+        "note": "narrow down(구체화하다)으로 매우 자주 등장합니다."
+      }
+    ],
+    "concept": "‘넓음’의 반대로, 물리적·추상적 폭/범위를 줄이거나 제한하는 느낌입니다.",
+    "etymology": "고대 영어 계열 어근에서 ‘좁은’ 의미로 발전해 온 단어로, 현대 영어에서는 물리적 폭과 범위 제한 의미가 함께 굳어졌습니다.",
+    "semanticExtension": "물리적 ‘좁음’ → 선택지/관점/주제의 ‘제한됨’ → 정보·후보를 ‘추려 구체화함(narrow down)’으로 확장됩니다.",
+    "nuanceRegister": "중립적(일상·문어 모두). 학술/비즈니스 문맥에서는 ‘범위를 한정하다’ 의미로 매우 흔합니다.",
+    "grammarNotes": "형용사로 명사 앞/보어로 모두 가능(narrow road / the margin is narrow). 동사로는 타동사(범위를 좁히다)와 자동사(좁아지다) 모두 가능. 관용적으로 narrow down + 목적어, narrow A down to B가 빈출.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "A를 B로(또는 B까지) 좁히다/한정하다",
+        "example": "narrow the options to three"
+      },
+      {
+        "prep": "down",
+        "meaning_ko": "(범위를) 추려서 구체화하다(관용: narrow down)",
+        "example": "narrow down the suspect list"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~한 점에서 범위가 좁다/제한되다",
+        "example": "narrow in scope"
+      }
+    ],
+    "requiredComplements": [
+      "narrow A to B : A(범위/선택지/후보)를 B로 한정하다",
+      "narrow (something) down : (무언가를) 추려서 구체화하다",
+      "narrow in + 명사 : ~한 점에서(범위가) 좁다"
+    ],
+    "morphology": "어근 narrow(좁은) 자체가 핵심 의미를 가지며, 파생에서 -ly(부사), -ness(명사) 등이 붙어 품사가 확장됩니다.",
+    "derivatives": [
+      {
+        "word": "narrowly",
+        "meaning_ko": "간신히; 좁게(범위/관점)"
+      },
+      {
+        "word": "narrowness",
+        "meaning_ko": "좁음; 편협함"
+      },
+      {
+        "word": "narrowing",
+        "meaning_ko": "좁아짐; 축소"
+      },
+      {
+        "word": "narrow-minded",
+        "meaning_ko": "편협한"
+      },
+      {
+        "word": "narrowly defined",
+        "meaning_ko": "엄격히/좁게 정의된"
+      }
+    ],
+    "related": [
+      {
+        "word": "restrict",
+        "meaning_ko": "제한하다"
+      },
+      {
+        "word": "limit",
+        "meaning_ko": "한계를 두다"
+      },
+      {
+        "word": "tighten",
+        "meaning_ko": "(규제/조건을) 강화하다"
+      },
+      {
+        "word": "constrict",
+        "meaning_ko": "수축시키다; 꽉 조이다"
+      },
+      {
+        "word": "refine",
+        "meaning_ko": "정제하다; 다듬다(범위를 좁혀 개선)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "slim",
+        "meaning_ko": "가늘고(날씬하고) 좁은"
+      },
+      {
+        "word": "tight",
+        "meaning_ko": "폭이 좁은; 빠듯한"
+      },
+      {
+        "word": "restricted",
+        "meaning_ko": "제한된"
+      },
+      {
+        "word": "limited",
+        "meaning_ko": "한정된"
+      },
+      {
+        "word": "constricted",
+        "meaning_ko": "수축된; 좁아진"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "thin",
+        "meaning_ko": "얇은(두께) / (사람·물체가) 마른"
+      },
+      {
+        "word": "petty",
+        "meaning_ko": "사소한; (사람이) 옹졸한"
+      },
+      {
+        "word": "specific",
+        "meaning_ko": "구체적인(범위를 좁혀 특정)"
+      },
+      {
+        "word": "selective",
+        "meaning_ko": "선별적인"
+      },
+      {
+        "word": "precise",
+        "meaning_ko": "정확한(범위를 좁혀 정확히 맞춤)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "wide",
+        "meaning_ko": "넓은"
+      },
+      {
+        "word": "broad",
+        "meaning_ko": "광범위한"
+      },
+      {
+        "word": "spacious",
+        "meaning_ko": "넓고 쾌적한"
+      },
+      {
+        "word": "inclusive",
+        "meaning_ko": "포괄적인"
+      },
+      {
+        "word": "expansive",
+        "meaning_ko": "광활한; 폭넓은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a narrow street",
+            "meaning_ko": "좁은 거리"
+          },
+          {
+            "phrase": "a narrow gap",
+            "meaning_ko": "좁은 틈"
+          },
+          {
+            "phrase": "a narrow path",
+            "meaning_ko": "좁은 길"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "narrow focus",
+            "meaning_ko": "좁은(한정된) 초점"
+          },
+          {
+            "phrase": "narrow margin",
+            "meaning_ko": "박빙의 차이(근소한 격차)"
+          },
+          {
+            "phrase": "narrow the range",
+            "meaning_ko": "범위를 좁히다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "narrow down the list",
+            "meaning_ko": "목록을 추려서 좁히다"
+          },
+          {
+            "phrase": "narrow A down to B",
+            "meaning_ko": "A를 B로 압축/한정하다"
+          },
+          {
+            "phrase": "a narrowly defined criterion",
+            "meaning_ko": "좁게 정의된 기준"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The road is too narrow for two cars.",
+            "meaning_ko": "그 길은 차 두 대가 지나가기엔 너무 좁아요."
+          },
+          {
+            "sentence": "Be careful on the narrow stairs.",
+            "meaning_ko": "좁은 계단에서는 조심하세요."
+          },
+          {
+            "sentence": "There is a narrow bridge ahead.",
+            "meaning_ko": "앞에 좁은 다리가 있어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "We need to narrow our focus to what matters most.",
+            "meaning_ko": "가장 중요한 것에 초점을 좁힐 필요가 있어요."
+          },
+          {
+            "sentence": "She won by a narrow margin.",
+            "meaning_ko": "그녀는 근소한 차이로 이겼어요."
+          },
+          {
+            "sentence": "The report takes a narrow view of the problem.",
+            "meaning_ko": "그 보고서는 문제를 다소 제한된 관점에서 봅니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "After reviewing the evidence, investigators narrowed the suspect list down to three names.",
+            "meaning_ko": "증거를 검토한 뒤, 수사관들은 용의자 목록을 세 명으로 좁혔습니다."
+          },
+          {
+            "sentence": "To avoid bias, define your criteria first and then narrow the dataset accordingly.",
+            "meaning_ko": "편향을 피하려면 먼저 기준을 정의하고 그에 맞춰 데이터셋 범위를 좁히세요."
+          },
+          {
+            "sentence": "The debate narrowed to whether the policy should be delayed or revised.",
+            "meaning_ko": "논쟁은 그 정책을 연기할지 수정할지로 쟁점이 좁혀졌습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "narrow는 ‘폭/범위가 좁다’가 핵심입니다. 시험에서는 narrow margin(근소한 차이)과 narrow down(추려서 구체화하다)이 매우 자주 나옵니다. broad/wide(광범위한)와 반의 관계로 묶어 외우면 의미 축(범위 제한)이 깔끔하게 정리됩니다.",
+    "tags": [
+      "범위 제한",
+      "의사결정",
+      "관점",
+      "비즈니스/리서치",
+      "공간/폭"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The hallway is very ____.",
+            "a": "narrow",
+            "meaning_ko": "복도가 ‘좁다’는 의미이므로 narrow가 정답입니다."
+          },
+          {
+            "q": "Which is the opposite of 'narrow'?",
+            "a": "wide",
+            "meaning_ko": "narrow(좁은)의 기본 반의어는 wide(넓은)입니다."
+          },
+          {
+            "q": "Fill in the blank: This is a ____ bridge, so drive slowly.",
+            "a": "narrow",
+            "meaning_ko": "폭이 좁은 다리 문맥입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: We should ____ our focus to the main issue.",
+            "a": "narrow",
+            "meaning_ko": "focus(초점)를 ‘좁히다’는 동사 narrow가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best phrase: He won by a ____ margin. (A) narrow (B) vast (C) loose (D) random",
+            "a": "A",
+            "meaning_ko": "narrow margin = 근소한 차이(박빙)라는 고정 결합입니다."
+          },
+          {
+            "q": "Correct the sentence: \"We narrowed down to two options.\" (Make it natural.)",
+            "a": "We narrowed it down to two options.",
+            "meaning_ko": "목적어(it/options 등)를 두고 narrow A down to B 구조로 쓰는 것이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best rewrite: \"The discussion became limited to a single question.\" (Use 'narrow')",
+            "a": "The discussion narrowed to a single question.",
+            "meaning_ko": "자동사 narrow로 ‘논의가 ~로 좁혀지다’를 표현할 수 있습니다."
+          },
+          {
+            "q": "Fill in the blanks: The team narrowed the candidates ____ five and then narrowed them ____ to two finalists.",
+            "a": "to / down",
+            "meaning_ko": "narrow A to B(5명으로 한정) + narrow down(추려 구체화) 결합입니다."
+          },
+          {
+            "q": "Which option best fits academic writing? \"The study adopts a ____ definition of resilience.\" (A) narrow (B) loud (C) lazy (D) empty",
+            "a": "A",
+            "meaning_ko": "narrow definition = 엄격히/좁게 정의한 정의라는 학술 문맥의 상투 표현입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gracious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Polite, kind, and pleasant, especially toward other people.",
+        "definition_ko": "친절하고 예의 바른, 상냥한.",
+        "note": "사람의 태도·말투에 대해 ‘품위 있게 친절한’ 느낌이 있습니다."
+      },
+      {
+        "definition_en": "Showing goodwill or generosity, especially when accepting something or responding to criticism.",
+        "definition_ko": "아량 있는, 너그럽게 받아들이는.",
+        "note": "graciously accept / be gracious about처럼 ‘여유 있게’라는 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "Elegant and attractive in appearance or manner.",
+        "definition_ko": "우아한, 품격 있는.",
+        "note": "gracious home 같은 표현으로 ‘고급스럽고 쾌적한’ 느낌도 납니다."
+      }
+    ],
+    "concept": "타인에게 예의·호의를 보이며, 상황을 품위 있게 받아들이는 ‘아량’의 단어입니다.",
+    "etymology": "라틴어 계열의 ‘은총/호의(grace)’에서 발전해 ‘호의로운, 은혜로운’ 의미로 굳어진 형용사입니다.",
+    "semanticExtension": "‘호의/은총’(grace) → ‘예의 바르고 친절한 태도’ → ‘비판·패배를 품위 있게 받아들이는 아량’ → ‘우아한 분위기’로 확장됩니다.",
+    "nuanceRegister": "다소 격식 있는 중립~문어 느낌. 칭찬/평가(태도, 대응)를 표현할 때 자연스럽습니다.",
+    "grammarNotes": "형용사. 사람/행동/발언/집 등에 사용 가능(gracious host, gracious reply, gracious gesture). be gracious about + 명사(상황을 너그럽게 받아들이다), be gracious to/with + 사람(친절하게 대하다) 패턴이 유용.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 친절/호의로 대하다",
+        "example": "be gracious to the staff"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~에게(또는 ~을 다룸에 있어) 예의 바르게/너그럽게",
+        "example": "be gracious with your critics"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 너그럽게 받아들이다",
+        "example": "be gracious about the loss"
+      }
+    ],
+    "requiredComplements": [
+      "be gracious to/with + 사람 : ~에게 예의 바르고 친절하다",
+      "be gracious about + 사건/상황 : ~을 너그럽게 받아들이다",
+      "graciously accept/decline + 명사 : 정중히 받아들이다/사양하다"
+    ],
+    "morphology": "어근 grace(호의/품위) + -ous(…한)로 구성된 형용사입니다.",
+    "derivatives": [
+      {
+        "word": "grace",
+        "meaning_ko": "우아함; 은총; 품위"
+      },
+      {
+        "word": "graciously",
+        "meaning_ko": "친절하게; 정중하게; 아량 있게"
+      },
+      {
+        "word": "graciousness",
+        "meaning_ko": "친절함; 정중함; 아량"
+      },
+      {
+        "word": "ingratiate",
+        "meaning_ko": "환심을 사다(어원상 'grace'와 연관)"
+      },
+      {
+        "word": "graceful",
+        "meaning_ko": "우아한(동작/형태)"
+      }
+    ],
+    "related": [
+      {
+        "word": "courtesy",
+        "meaning_ko": "예의"
+      },
+      {
+        "word": "hospitality",
+        "meaning_ko": "환대"
+      },
+      {
+        "word": "magnanimous",
+        "meaning_ko": "도량이 큰"
+      },
+      {
+        "word": "tact",
+        "meaning_ko": "재치 있는 예의; 요령"
+      },
+      {
+        "word": "dignity",
+        "meaning_ko": "품위; 존엄"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "courteous",
+        "meaning_ko": "정중한"
+      },
+      {
+        "word": "kind",
+        "meaning_ko": "친절한"
+      },
+      {
+        "word": "polite",
+        "meaning_ko": "예의 바른"
+      },
+      {
+        "word": "benevolent",
+        "meaning_ko": "자비로운; 선의의"
+      },
+      {
+        "word": "magnanimous",
+        "meaning_ko": "아량 있는; 도량이 큰"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "graceful",
+        "meaning_ko": "우아한(동작/모양 중심)"
+      },
+      {
+        "word": "gentle",
+        "meaning_ko": "부드러운; 온화한"
+      },
+      {
+        "word": "civil",
+        "meaning_ko": "공손한(최소한의 예의) / 시민의"
+      },
+      {
+        "word": "cordial",
+        "meaning_ko": "진심으로 따뜻한(환대의 뉘앙스)"
+      },
+      {
+        "word": "tolerant",
+        "meaning_ko": "관용적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rude",
+        "meaning_ko": "무례한"
+      },
+      {
+        "word": "graceless",
+        "meaning_ko": "품위 없는; 무례한"
+      },
+      {
+        "word": "hostile",
+        "meaning_ko": "적대적인"
+      },
+      {
+        "word": "harsh",
+        "meaning_ko": "가혹한; 거친"
+      },
+      {
+        "word": "petty",
+        "meaning_ko": "옹졸한; 쩨쩨한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a gracious smile",
+            "meaning_ko": "상냥한 미소"
+          },
+          {
+            "phrase": "a gracious person",
+            "meaning_ko": "예의 바른 사람"
+          },
+          {
+            "phrase": "a gracious host",
+            "meaning_ko": "친절한(환대하는) 주최자"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a gracious reply",
+            "meaning_ko": "정중하고 품위 있는 답장"
+          },
+          {
+            "phrase": "gracious acceptance",
+            "meaning_ko": "흔쾌한/정중한 수락"
+          },
+          {
+            "phrase": "be gracious about criticism",
+            "meaning_ko": "비판을 아량 있게 받아들이다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a gracious concession",
+            "meaning_ko": "품위 있는 양보(패배 인정 등)"
+          },
+          {
+            "phrase": "gracious under pressure",
+            "meaning_ko": "압박 속에서도 품위/여유를 잃지 않는"
+          },
+          {
+            "phrase": "graciously decline the offer",
+            "meaning_ko": "제안을 정중히 사양하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She was gracious to everyone at the party.",
+            "meaning_ko": "그녀는 파티에서 모두에게 친절하고 예의 바르게 대했어요."
+          },
+          {
+            "sentence": "Thank you for your gracious help.",
+            "meaning_ko": "친절하게 도와주셔서 감사합니다."
+          },
+          {
+            "sentence": "He gave a gracious smile and nodded.",
+            "meaning_ko": "그는 상냥하게 미소 짓고 고개를 끄덕였어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She was gracious about the mistake and moved on.",
+            "meaning_ko": "그녀는 그 실수를 너그럽게 받아들이고 넘어갔어요."
+          },
+          {
+            "sentence": "He wrote a gracious reply, even though he disagreed.",
+            "meaning_ko": "그는 동의하지 않았지만 정중하게 답장을 썼어요."
+          },
+          {
+            "sentence": "A gracious host makes guests feel at home.",
+            "meaning_ko": "친절한 호스트는 손님이 편안함을 느끼게 합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In her speech, she offered a gracious acknowledgment of the opposing team’s effort.",
+            "meaning_ko": "그녀는 연설에서 상대 팀의 노력을 품위 있게 인정했습니다."
+          },
+          {
+            "sentence": "The CEO remained gracious under pressure, refusing to blame anyone publicly.",
+            "meaning_ko": "CEO는 압박 속에서도 품위를 지키며 공개적으로 누구도 탓하지 않았습니다."
+          },
+          {
+            "sentence": "A gracious concession can calm tensions when negotiations are at a breaking point.",
+            "meaning_ko": "협상이 파국 직전일 때, 품위 있는 양보는 긴장을 누그러뜨릴 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "gracious는 단순히 ‘친절한(kind)’보다 ‘품위 있고 예의 바른 친절’에 가깝습니다. 시험에서는 be gracious about(패배/실수/비판을 너그럽게 받아들이다) 패턴이 포인트입니다. graceful(우아한 동작/형태)과 혼동하기 쉬우니, gracious = 사람의 태도/대응의 품격이라고 고정해 두면 안정적입니다.",
+    "tags": [
+      "예의",
+      "태도",
+      "대인관계",
+      "환대",
+      "격식 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: She is always polite and kind. She is ____.",
+            "a": "gracious",
+            "meaning_ko": "정중하고 친절한 태도를 칭찬하는 문맥입니다."
+          },
+          {
+            "q": "Which word is closest in meaning to 'gracious'?",
+            "a": "courteous",
+            "meaning_ko": "courteous(정중한)이 가장 가깝습니다."
+          },
+          {
+            "q": "Fill in the blank: He offered a ____ smile.",
+            "a": "gracious",
+            "meaning_ko": "상냥하고 예의 바른 미소라는 뉘앙스입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: She was gracious ____ the criticism and thanked them for the feedback.",
+            "a": "about",
+            "meaning_ko": "be gracious about ~ = ~을 너그럽게 받아들이다."
+          },
+          {
+            "q": "Choose the best phrase: He ____ declined the invitation. (A) graciously (B) greedily (C) loudly (D) randomly",
+            "a": "A",
+            "meaning_ko": "정중히 사양하다 = graciously decline."
+          },
+          {
+            "q": "Correct the sentence: \"He was gracious for his staff.\" (Make it natural.)",
+            "a": "He was gracious to his staff.",
+            "meaning_ko": "사람 대상은 be gracious to/with가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best rewrite: \"She accepted defeat with dignity and goodwill.\" (Use 'gracious')",
+            "a": "She was gracious in defeat.",
+            "meaning_ko": "gracious in defeat = 패배를 품위 있게 받아들이다."
+          },
+          {
+            "q": "Fill in the blank: A ____ concession helped both sides return to the table.",
+            "a": "gracious",
+            "meaning_ko": "협상에서 ‘품위 있는 양보’는 긴장을 완화하는 뉘앙스입니다."
+          },
+          {
+            "q": "Which option best fits formal writing? \"The spokesperson gave a ____ acknowledgment of the concerns raised.\" (A) gracious (B) tiny (C) noisy (D) careless",
+            "a": "A",
+            "meaning_ko": "공식 발언에서 ‘정중하고 품위 있게 인정했다’는 표현에 적합합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pale",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Light in color; lacking strong color.",
+        "definition_ko": "색이 연한, 옅은.",
+        "note": "pale blue, pale yellow처럼 ‘연한 색조’에 흔합니다."
+      },
+      {
+        "definition_en": "Having little color in the face, often because of illness, shock, or fear.",
+        "definition_ko": "창백한(아파서/놀라서/겁나서 얼굴빛이 없는).",
+        "note": "pale with fear/shock처럼 원인을 함께 붙이는 경우가 많습니다."
+      },
+      {
+        "definition_en": "To become or make something become paler; to lose color or intensity.",
+        "definition_ko": "창백해지다/창백하게 만들다; (색·감정·기억 등이) 희미해지다.",
+        "note": "비유적으로 ‘(중요성이) 퇴색하다’에도 자주 쓰입니다."
+      }
+    ],
+    "concept": "색·기운·강도가 ‘옅어지거나 빠진’ 상태를 나타내며, 비유로는 ‘퇴색하다/덜 중요해 보이다’까지 이어집니다.",
+    "etymology": "라틴어 계열 ‘창백한’ 의미의 어근에서 발전해, 영어에서 ‘색이 옅은/창백한’ 의미로 정착했습니다.",
+    "semanticExtension": "색이 옅다 → 얼굴빛이 없다(질병/공포) → 감정·기억·중요성이 희미해지다(퇴색) → 비교 표현(pale in comparison)으로 확장됩니다.",
+    "nuanceRegister": "중립적(일상·문어 모두). 'pale in comparison'은 비교·논증에서 문어적으로 많이 씁니다.",
+    "grammarNotes": "형용사로 색(연한), 안색(창백한) 모두 표현. 동사로 자동사(창백해지다/희미해지다), 타동사(창백하게 만들다) 가능. 대표 고정구문: pale in comparison (to/with), pale beside.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 인해 창백해지다(원인)",
+        "example": "pale with fear"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "비교하면(중요성/강도가) 퇴색하다(관용)",
+        "example": "pale in comparison to his achievements"
+      },
+      {
+        "prep": "beside",
+        "meaning_ko": "~에 비하면 초라/미미해 보이다(관용)",
+        "example": "pale beside the original"
+      }
+    ],
+    "requiredComplements": [
+      "pale with + 감정/원인 : ~로 창백해지다",
+      "pale in comparison (to/with) + 비교대상 : ~에 비하면 퇴색하다/미미하다",
+      "pale beside + 비교대상 : ~에 비하면 초라해 보이다"
+    ],
+    "morphology": "기본형 pale(창백한/옅은)에서 -ness(명사), -ly(부사) 등으로 파생됩니다.",
+    "derivatives": [
+      {
+        "word": "paleness",
+        "meaning_ko": "창백함; 옅은 색"
+      },
+      {
+        "word": "palely",
+        "meaning_ko": "창백하게; 희미하게"
+      },
+      {
+        "word": "pale-faced",
+        "meaning_ko": "창백한 얼굴의"
+      },
+      {
+        "word": "pallor",
+        "meaning_ko": "창백(특히 병색)"
+      },
+      {
+        "word": "pallid",
+        "meaning_ko": "창백한; 생기 없는(문어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "faint",
+        "meaning_ko": "희미한; (사람이) 기절하다"
+      },
+      {
+        "word": "dim",
+        "meaning_ko": "어두운; 흐릿한"
+      },
+      {
+        "word": "ashen",
+        "meaning_ko": "잿빛의; 창백한"
+      },
+      {
+        "word": "fade",
+        "meaning_ko": "바래다; 희미해지다"
+      },
+      {
+        "word": "wash out",
+        "meaning_ko": "(색이) 빠지다; 창백해 보이게 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "light",
+        "meaning_ko": "연한(색)"
+      },
+      {
+        "word": "faint",
+        "meaning_ko": "옅은; 희미한"
+      },
+      {
+        "word": "wan",
+        "meaning_ko": "창백한(문어/문학적)"
+      },
+      {
+        "word": "pallid",
+        "meaning_ko": "창백한(문어)"
+      },
+      {
+        "word": "ashen",
+        "meaning_ko": "잿빛의; 창백한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "bland",
+        "meaning_ko": "맛/느낌이 밋밋한"
+      },
+      {
+        "word": "weak",
+        "meaning_ko": "약한(강도/영향)"
+      },
+      {
+        "word": "colorless",
+        "meaning_ko": "무색의; 개성이 없는(비유)"
+      },
+      {
+        "word": "dull",
+        "meaning_ko": "탁한; 재미없는"
+      },
+      {
+        "word": "subdued",
+        "meaning_ko": "차분한; 톤이 낮은(색/분위기)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "vivid",
+        "meaning_ko": "선명한"
+      },
+      {
+        "word": "bright",
+        "meaning_ko": "밝은; 환한"
+      },
+      {
+        "word": "colorful",
+        "meaning_ko": "다채로운"
+      },
+      {
+        "word": "flushed",
+        "meaning_ko": "상기된; 얼굴이 붉어진"
+      },
+      {
+        "word": "intense",
+        "meaning_ko": "강렬한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pale skin",
+            "meaning_ko": "흰/창백한 피부"
+          },
+          {
+            "phrase": "pale blue",
+            "meaning_ko": "연한 파란색"
+          },
+          {
+            "phrase": "pale face",
+            "meaning_ko": "창백한 얼굴"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "pale with fear",
+            "meaning_ko": "두려움에 창백해진"
+          },
+          {
+            "phrase": "go pale",
+            "meaning_ko": "창백해지다"
+          },
+          {
+            "phrase": "pale memory",
+            "meaning_ko": "희미한 기억(비유)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "pale in comparison",
+            "meaning_ko": "비교하면 퇴색하다/미미하다"
+          },
+          {
+            "phrase": "pale beside the original",
+            "meaning_ko": "원본에 비하면 초라하다"
+          },
+          {
+            "phrase": "pale into insignificance",
+            "meaning_ko": "하찮아질 정도로 퇴색하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She chose a pale pink dress.",
+            "meaning_ko": "그녀는 연한 분홍색 드레스를 골랐어요."
+          },
+          {
+            "sentence": "His face looked pale.",
+            "meaning_ko": "그의 얼굴이 창백해 보였어요."
+          },
+          {
+            "sentence": "The paint turned pale over time.",
+            "meaning_ko": "그 페인트는 시간이 지나며 색이 옅어졌어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He went pale when he heard the news.",
+            "meaning_ko": "그는 그 소식을 듣자 창백해졌어요."
+          },
+          {
+            "sentence": "The lights made everyone look pale.",
+            "meaning_ko": "그 조명 때문에 모두가 창백해 보였어요."
+          },
+          {
+            "sentence": "My anger began to pale as I understood what happened.",
+            "meaning_ko": "무슨 일이 있었는지 이해하자 내 분노가 점차 누그러지며 옅어졌어요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Concerns about cost paled in comparison to the potential damage to public trust.",
+            "meaning_ko": "비용에 대한 우려는 공적 신뢰에 대한 잠재적 손상에 비하면 미미해졌습니다."
+          },
+          {
+            "sentence": "Her achievement did not pale beside her colleague’s; they were impressive in different ways.",
+            "meaning_ko": "그녀의 성취는 동료의 성취에 비해 퇴색하지 않았고, 둘은 서로 다른 방식으로 인상적이었습니다."
+          },
+          {
+            "sentence": "As the years passed, the details of that night paled, leaving only a vague outline.",
+            "meaning_ko": "세월이 흐르면서 그날 밤의 세부는 희미해지고, 흐릿한 윤곽만 남았습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "pale은 (1) 색이 연한 (2) 얼굴이 창백한 (3) 비유로 ‘퇴색하다/미미해지다’ 3축으로 정리하면 됩니다. 특히 시험·논증에서 pale in comparison(to/with)(~에 비하면 미미하다)가 매우 자주 나옵니다. go pale(창백해지다)도 함께 묶어두면 작문에서 바로 써먹기 좋습니다.",
+    "tags": [
+      "색/톤",
+      "감정/반응",
+      "비교 표현",
+      "묘사",
+      "문어 표현"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: She painted the wall a ____ blue.",
+            "a": "pale",
+            "meaning_ko": "연한 파란색이라는 색조 묘사입니다."
+          },
+          {
+            "q": "Fill in the blank: His face was ____ after the long trip.",
+            "a": "pale",
+            "meaning_ko": "피로/컨디션으로 안색이 없는 상황에 맞습니다."
+          },
+          {
+            "q": "Which is closest in meaning to 'pale' (color)?",
+            "a": "light",
+            "meaning_ko": "색이 연한 의미에서는 light가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: She went ____ when she saw the accident.",
+            "a": "pale",
+            "meaning_ko": "go pale = 창백해지다(충격/공포 반응)."
+          },
+          {
+            "q": "Choose the best option: He turned pale ____ fear. (A) with (B) on (C) at (D) by",
+            "a": "A",
+            "meaning_ko": "pale with fear가 가장 자연스러운 결합입니다."
+          },
+          {
+            "q": "Correct the phrase: \"pale in compare\" (Fix it.)",
+            "a": "pale in comparison",
+            "meaning_ko": "고정구문은 pale in comparison입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Fill in the blank: The risks to safety ____ in comparison to the short-term savings.",
+            "a": "paled",
+            "meaning_ko": "과거 서술이므로 paled(동사 과거형)로 ‘퇴색했다/미미해졌다’가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best rewrite: \"Their complaints seemed unimportant compared with the evidence.\" (Use 'pale')",
+            "a": "Their complaints paled in comparison with the evidence.",
+            "meaning_ko": "pale in comparison with/to = 비교하면 미미해지다."
+          },
+          {
+            "q": "Which sentence uses 'pale' correctly in a figurative sense?",
+            "a": "His earlier worries paled as he focused on the work ahead.",
+            "meaning_ko": "걱정의 ‘강도/중요성’이 희미해지는 비유적 사용입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

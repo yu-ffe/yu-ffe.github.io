@@ -1,0 +1,860 @@
+[
+  {
+    "word": "react",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To respond to a stimulus, event, or situation by feeling, thinking, or acting in a particular way.",
+        "definition_ko": "(자극·상황에) 반응하다, 대응하다.",
+        "note": "react to(…에 반응하다)가 기본이며, react against(…에 반발하다), react with(…으로 반응하다)도 자주 나옵니다."
+      }
+    ],
+    "concept": "무언가가 ‘원인/자극’이 되어 감정·행동·변화가 ‘되돌아 나오게’ 하는 반응.",
+    "etymology": "라틴어 re-(다시/되돌아) + agere(행동하다) 계열에서 발전해 ‘되돌아 행동하다/응답하다’ 의미가 굳어졌습니다.",
+    "semanticExtension": "심리(감정 반응), 사회(사건 대응), 과학(화학 반응)까지 폭넓게 쓰이며, ‘reactive(반응성의)’ 같은 파생으로 성격/정책/시스템 설계에도 확장됩니다.",
+    "nuanceRegister": "중립. 일상·학술·기술 문맥 모두에서 매우 흔합니다.",
+    "grammarNotes": "주로 자동사: react to + 명사/동명사. react with + 감정/행동(anger, surprise). react against + 대상(권위, 규범) = 반발하다. (화학) react with + 물질 / react to + 물질. 명사형 reaction, 형용사 reactive가 빈출입니다.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 반응하다/대응하다",
+        "example": "react to criticism"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~으로 반응하다(감정/행동)",
+        "example": "react with anger"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 반발하다",
+        "example": "react against authority"
+      }
+    ],
+    "requiredComplements": [
+      "react to + 명사/동명사 — ‘~에 반응하다’",
+      "react with + 감정/행동 — ‘~으로 반응하다’",
+      "react against + 대상 — ‘~에 반발하다’"
+    ],
+    "morphology": "re-(되돌아) + act(행동) 이미지로 ‘되돌아오는 행동/반응’으로 잡으면 기억이 쉽습니다.",
+    "derivatives": [
+      {
+        "word": "reaction",
+        "meaning_ko": "반응; 반작용"
+      },
+      {
+        "word": "reactive",
+        "meaning_ko": "반응성의; (정책 등이) 사후대응형의"
+      },
+      {
+        "word": "reactivity",
+        "meaning_ko": "반응성(화학/공학)"
+      }
+    ],
+    "related": [
+      {
+        "word": "respond",
+        "meaning_ko": "응답하다/대응하다"
+      },
+      {
+        "word": "adapt",
+        "meaning_ko": "적응하다"
+      },
+      {
+        "word": "stimulus",
+        "meaning_ko": "자극"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "respond",
+        "meaning_ko": "반응하다"
+      },
+      {
+        "word": "reply",
+        "meaning_ko": "대답하다(대화 중심)"
+      },
+      {
+        "word": "answer",
+        "meaning_ko": "응답하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "respond to",
+        "meaning_ko": "~에 대응하다(동의에 가까움)"
+      },
+      {
+        "word": "overreact",
+        "meaning_ko": "과민반응하다"
+      },
+      {
+        "word": "retaliate",
+        "meaning_ko": "보복하다(강한 반응)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "remain indifferent",
+        "meaning_ko": "무관심하게 남다"
+      },
+      {
+        "word": "withhold response",
+        "meaning_ko": "반응을 보류하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "react to news",
+            "meaning_ko": "뉴스에 반응하다"
+          },
+          {
+            "phrase": "react quickly",
+            "meaning_ko": "빠르게 반응하다"
+          },
+          {
+            "phrase": "react with surprise",
+            "meaning_ko": "놀라며 반응하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "react to criticism",
+            "meaning_ko": "비판에 반응하다"
+          },
+          {
+            "phrase": "react against pressure",
+            "meaning_ko": "압박에 반발하다"
+          },
+          {
+            "phrase": "react calmly",
+            "meaning_ko": "침착하게 반응하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "react proactively rather than reactively",
+            "meaning_ko": "사후대응이 아니라 선제적으로 대응하다"
+          },
+          {
+            "phrase": "react to shifting conditions",
+            "meaning_ko": "변화하는 여건에 대응하다"
+          },
+          {
+            "phrase": "react with measured restraint",
+            "meaning_ko": "절제된 자제로 반응하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "How did you react to the news?",
+            "meaning_ko": "그 소식에 어떻게 반응했나요?"
+          },
+          {
+            "sentence": "She reacted with surprise.",
+            "meaning_ko": "그녀는 놀라며 반응했습니다."
+          },
+          {
+            "sentence": "Don’t react too quickly.",
+            "meaning_ko": "너무 성급하게 반응하지 마세요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He reacted poorly to criticism and made the situation worse.",
+            "meaning_ko": "그는 비판에 좋지 않게 반응해 상황을 악화시켰습니다."
+          },
+          {
+            "sentence": "Teenagers often react against strict rules.",
+            "meaning_ko": "청소년들은 엄격한 규칙에 종종 반발합니다."
+          },
+          {
+            "sentence": "The team reacted calmly and adjusted the plan.",
+            "meaning_ko": "팀은 침착하게 반응하며 계획을 조정했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Instead of reacting defensively, she asked clarifying questions and addressed the core concern.",
+            "meaning_ko": "방어적으로 반응하는 대신, 그녀는 확인 질문을 던지고 핵심 우려를 해결했습니다."
+          },
+          {
+            "sentence": "Systems designed to react to shifting conditions can fail if their feedback loops are delayed.",
+            "meaning_ko": "변화하는 조건에 반응하도록 설계된 시스템은 피드백이 지연되면 실패할 수 있습니다."
+          },
+          {
+            "sentence": "The spokesperson reacted with measured restraint, acknowledging uncertainty without fueling panic.",
+            "meaning_ko": "대변인은 과도한 불안을 키우지 않으면서도 불확실성을 인정하는 절제된 태도로 반응했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "react는 기본 패턴이 react to이고, ‘감정/행동’은 react with, ‘반발’은 react against로 나뉩니다. 시험에서는 respond와의 차이를 묻기도 하는데, respond는 ‘대응/응답’의 중립적 느낌, react는 ‘자극에 의해 즉각적으로 나오는 반응’ 느낌이 더 강합니다. reactive(사후대응형) vs proactive(선제형) 대비도 같이 잡아두면 좋습니다.",
+    "tags": [
+      "반응",
+      "대응",
+      "심리",
+      "커뮤니케이션",
+      "시스템"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: She reacted ____ surprise.",
+            "a": "with",
+            "meaning_ko": "감정/행동은 react with로 자연스럽습니다."
+          },
+          {
+            "q": "Choose the correct pattern: ____ to the news",
+            "a": "react",
+            "meaning_ko": "react to = ~에 반응하다."
+          },
+          {
+            "q": "Opposite idea of 'reactive' in planning:",
+            "a": "proactive",
+            "meaning_ko": "reactive(사후대응) ↔ proactive(선제)."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: He tends to react ____ authority and rules.",
+            "a": "against",
+            "meaning_ko": "react against = ~에 반발하다."
+          },
+          {
+            "q": "Error check: 'He reacted to with anger.' (Correct it.)",
+            "a": "He reacted with anger.",
+            "meaning_ko": "react with + 감정이 맞습니다."
+          },
+          {
+            "q": "Best paraphrase: react quickly",
+            "a": "respond rapidly",
+            "meaning_ko": "의미상 respond rapidly로 바꿔도 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: If you react defensively to feedback, you may ____ the real issue.",
+            "a": "miss",
+            "meaning_ko": "방어적 반응은 핵심을 놓치게 한다는 논리가 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence best contrasts proactive vs reactive?",
+            "a": "We should prevent failures proactively rather than react to them after they occur.",
+            "meaning_ko": "선제 예방 vs 사후 반응 대비가 정확합니다."
+          },
+          {
+            "q": "Fill in the blank: The chemical can react ____ water and release heat.",
+            "a": "with",
+            "meaning_ko": "화학 반응은 react with + 물질 패턴이 흔합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "similarity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The state or quality of being alike; a resemblance or shared characteristic.",
+        "definition_ko": "유사성, 닮음; 공통점.",
+        "note": "similarity between A and B(유사성), similarity to A(A와의 유사함)가 기본 구조입니다."
+      }
+    ],
+    "concept": "서로 다른 대상이 ‘같은 특징’을 공유해 ‘닮아 보이는 정도/관계’.",
+    "etymology": "라틴어 similis(비슷한)에서 발전한 similar + -ity(성질) 형태로 ‘비슷함의 성질’을 뜻합니다.",
+    "semanticExtension": "일상 비교뿐 아니라 통계/AI(유사도), 법률(유사 상표), 문학(유사한 모티프) 등 ‘비슷함의 정도’를 정량·정성으로 평가하는 영역까지 확장됩니다.",
+    "nuanceRegister": "중립~격식. 학술/보고서에서 매우 흔합니다.",
+    "grammarNotes": "가산/불가산 모두 가능하지만 보통 불가산처럼 ‘similarity’로 많이 씁니다. 구조: similarity between A and B / similarity to A / bear a similarity to(문어).",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "between",
+        "meaning_ko": "A와 B 사이의 유사성",
+        "example": "similarity between the two designs"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "A와의 유사성",
+        "example": "similarity to his father"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~면에서의 유사성",
+        "example": "similarity in structure"
+      }
+    ],
+    "requiredComplements": [
+      "similarity between A and B — ‘A와 B의 유사성’",
+      "similarity to A — ‘A와의 유사함’",
+      "similarity in + 측면 — ‘~면에서의 유사성’",
+      "bear a similarity to — ‘~와 닮아 있다(문어)’"
+    ],
+    "morphology": "similar(비슷한) + -ity(…성)로 ‘비슷함의 성질’이라고 직관적으로 해석하면 됩니다.",
+    "derivatives": [
+      {
+        "word": "similar",
+        "meaning_ko": "비슷한"
+      },
+      {
+        "word": "similarly",
+        "meaning_ko": "비슷하게; 마찬가지로"
+      },
+      {
+        "word": "dissimilarity",
+        "meaning_ko": "비유사성, 차이"
+      }
+    ],
+    "related": [
+      {
+        "word": "resemblance",
+        "meaning_ko": "닮음, 유사"
+      },
+      {
+        "word": "analogy",
+        "meaning_ko": "유추, 비유"
+      },
+      {
+        "word": "pattern",
+        "meaning_ko": "패턴, 양식"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "resemblance",
+        "meaning_ko": "닮음"
+      },
+      {
+        "word": "likeness",
+        "meaning_ko": "유사함"
+      },
+      {
+        "word": "affinity",
+        "meaning_ko": "유사성/친화성(맥락에 따라)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "parallel",
+        "meaning_ko": "유사한 점/평행선(비교)"
+      },
+      {
+        "word": "commonality",
+        "meaning_ko": "공통점"
+      },
+      {
+        "word": "convergence",
+        "meaning_ko": "수렴(유사해짐)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "difference",
+        "meaning_ko": "차이"
+      },
+      {
+        "word": "contrast",
+        "meaning_ko": "대조"
+      },
+      {
+        "word": "dissimilarity",
+        "meaning_ko": "비유사성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a strong similarity",
+            "meaning_ko": "강한 유사성"
+          },
+          {
+            "phrase": "find similarities",
+            "meaning_ko": "유사점을 찾다"
+          },
+          {
+            "phrase": "show similarity",
+            "meaning_ko": "유사성을 보이다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "similarity between A and B",
+            "meaning_ko": "A와 B 사이의 유사성"
+          },
+          {
+            "phrase": "similarity in structure",
+            "meaning_ko": "구조적 유사성"
+          },
+          {
+            "phrase": "bear a similarity to",
+            "meaning_ko": "~와 닮아 있다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a superficial similarity",
+            "meaning_ko": "피상적 유사성"
+          },
+          {
+            "phrase": "quantify similarity",
+            "meaning_ko": "유사도를 정량화하다"
+          },
+          {
+            "phrase": "obscure the similarities and differences",
+            "meaning_ko": "유사점과 차이점을 흐리다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I noticed a similarity between the two paintings.",
+            "meaning_ko": "저는 그 두 그림 사이의 유사성을 알아챘습니다."
+          },
+          {
+            "sentence": "They have many similarities.",
+            "meaning_ko": "그들은 공통점이 많습니다."
+          },
+          {
+            "sentence": "There is a clear similarity.",
+            "meaning_ko": "분명한 유사성이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The similarity to his father is striking.",
+            "meaning_ko": "그의 아버지를 닮은 점이 눈에 띕니다."
+          },
+          {
+            "sentence": "The two systems share a similarity in structure but differ in purpose.",
+            "meaning_ko": "두 시스템은 구조적 유사성을 공유하지만 목적은 다릅니다."
+          },
+          {
+            "sentence": "At first glance, the designs look alike, but the similarity is superficial.",
+            "meaning_ko": "겉보기엔 비슷하지만 그 유사성은 피상적입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The report cautions against overemphasizing similarity at the expense of crucial differences.",
+            "meaning_ko": "그 보고서는 중요한 차이를 희생하면서까지 유사성을 과도하게 강조하지 말라고 경고합니다."
+          },
+          {
+            "sentence": "Researchers quantified similarity to cluster documents and detect near-duplicates.",
+            "meaning_ko": "연구자들은 문서를 군집화하고 거의 중복된 항목을 탐지하기 위해 유사도를 정량화했습니다."
+          },
+          {
+            "sentence": "A compelling analogy can illuminate similarity, but it can also mislead if taken too far.",
+            "meaning_ko": "설득력 있는 비유는 유사성을 밝혀주지만, 지나치게 밀어붙이면 오해를 낳을 수도 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "similarity는 between/to/in 전치사 패턴을 세트로 잡는 게 핵심입니다: similarity between A and B, similarity to A, similarity in + 측면. 시험에서는 superficial similarity(피상적 유사성)처럼 ‘겉만 비슷’ vs meaningful similarity(의미 있는 유사) 대비가 자주 나옵니다. difference/contrast와 함께 묶어 문맥에서 방향을 빠르게 잡으세요.",
+    "tags": [
+      "비교",
+      "공통점",
+      "학술/보고서",
+      "유사도",
+      "분석"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: There is a similarity ____ the two pictures.",
+            "a": "between",
+            "meaning_ko": "similarity between A and B가 기본입니다."
+          },
+          {
+            "q": "Opposite of similarity:",
+            "a": "difference",
+            "meaning_ko": "의미 반대는 difference/contrast입니다."
+          },
+          {
+            "q": "Choose the best paraphrase: similarity",
+            "a": "resemblance",
+            "meaning_ko": "resemblance = 닮음."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The design bears a similarity ____ last year’s model.",
+            "a": "to",
+            "meaning_ko": "bear a similarity to = ~와 닮아 있다."
+          },
+          {
+            "q": "Error check: 'The similarity of the two is high.' (Make it more natural.)",
+            "a": "The similarity between the two is high.",
+            "meaning_ko": "between 패턴이 더 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best fit: The similarity is ____; the details are completely different.",
+            "a": "superficial",
+            "meaning_ko": "겉만 비슷 = superficial."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: Focusing only on similarity can ____ important distinctions.",
+            "a": "obscure",
+            "meaning_ko": "유사성만 강조하면 구분점이 흐려진다는 논리."
+          },
+          {
+            "q": "Fill in the blank: The team quantified similarity to detect near-____ documents.",
+            "a": "duplicate",
+            "meaning_ko": "near-duplicate = 거의 중복된 문서."
+          },
+          {
+            "q": "Best contrast: superficial similarity vs. substantive similarity",
+            "a": "Superficial similarity is only on the surface, while substantive similarity reflects underlying structure or meaning.",
+            "meaning_ko": "겉모양 vs 본질/구조 차이를 설명하는 유형."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "imminent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "About to happen very soon; impending and likely in the immediate future.",
+        "definition_ko": "임박한, 곧 일어날 것 같은.",
+        "note": "imminent danger/threat/arrival처럼 ‘곧 닥칠’ 뉘앙스로 쓰이며, immediate(즉각적)와 구분됩니다."
+      }
+    ],
+    "concept": "시간적으로 ‘바로 앞’에 다가와, 거의 피할 수 없게 곧 발생할 것 같은 상태.",
+    "etymology": "라틴어 imminere(위로 드리우다, 가까이 닥치다)에서 발전해 ‘곧 닥칠’ 의미가 굳어졌습니다.",
+    "semanticExtension": "원래 ‘위에서 덮칠 듯 가까운’ 이미지가 ‘위협/위기’와 강하게 결합(imminent threat)했고, 이어서 arrival/departure 같은 사건 일반에도 확장되었습니다.",
+    "nuanceRegister": "격식/문어. 뉴스·보고서·공식 경고에서 흔합니다.",
+    "grammarNotes": "형용사로 imminent + 명사(danger, threat, collapse, launch, arrival). ‘be imminent’도 가능. 전치사와 직접 결합하기보다 명사를 수식하는 형태가 일반적입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "imminent danger/threat — ‘임박한 위험/위협’",
+      "imminent collapse/failure — ‘임박한 붕괴/실패’",
+      "imminent arrival/departure — ‘곧 도착/출발’"
+    ],
+    "morphology": "어원적으로 ‘다가오다/드리우다’ 이미지에 가깝고, 실제 학습에서는 impending(임박한)과 묶어 기억하는 게 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "imminently",
+        "meaning_ko": "곧, 임박하여(부사)"
+      },
+      {
+        "word": "imminence",
+        "meaning_ko": "임박(드문 명사형)"
+      },
+      {
+        "word": "impending",
+        "meaning_ko": "임박한(유사어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "urgent",
+        "meaning_ko": "긴급한"
+      },
+      {
+        "word": "inevitable",
+        "meaning_ko": "피할 수 없는"
+      },
+      {
+        "word": "crisis",
+        "meaning_ko": "위기"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "impending",
+        "meaning_ko": "임박한"
+      },
+      {
+        "word": "forthcoming",
+        "meaning_ko": "곧 있을(행사/발표)"
+      },
+      {
+        "word": "looming",
+        "meaning_ko": "코앞에 닥친(위협/문어)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "immediate",
+        "meaning_ko": "즉각적인(시간 간격이 거의 없음)"
+      },
+      {
+        "word": "near",
+        "meaning_ko": "가까운(중립적)"
+      },
+      {
+        "word": "upcoming",
+        "meaning_ko": "다가오는(중립, 일정)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "distant",
+        "meaning_ko": "먼, 요원한"
+      },
+      {
+        "word": "remote",
+        "meaning_ko": "먼, 가능성이 낮은"
+      },
+      {
+        "word": "unlikely",
+        "meaning_ko": "일어나기 어려운"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "imminent danger",
+            "meaning_ko": "임박한 위험"
+          },
+          {
+            "phrase": "imminent threat",
+            "meaning_ko": "임박한 위협"
+          },
+          {
+            "phrase": "imminent arrival",
+            "meaning_ko": "곧 도착"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "an imminent collapse",
+            "meaning_ko": "붕괴가 임박함"
+          },
+          {
+            "phrase": "imminent launch",
+            "meaning_ko": "출시/발사 임박"
+          },
+          {
+            "phrase": "imminent deadline",
+            "meaning_ko": "임박한 마감"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "pose an imminent risk",
+            "meaning_ko": "임박한 위험을 초래하다"
+          },
+          {
+            "phrase": "warn of imminent failure",
+            "meaning_ko": "임박한 실패를 경고하다"
+          },
+          {
+            "phrase": "imminent and material",
+            "meaning_ko": "임박하고 중대한(보고서/법률 톤)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The storm is imminent.",
+            "meaning_ko": "폭풍이 임박했습니다."
+          },
+          {
+            "sentence": "They faced imminent danger.",
+            "meaning_ko": "그들은 임박한 위험에 처했습니다."
+          },
+          {
+            "sentence": "Her arrival is imminent.",
+            "meaning_ko": "그녀의 도착이 임박했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company denied that bankruptcy was imminent.",
+            "meaning_ko": "그 회사는 파산이 임박했다는 주장을 부인했습니다."
+          },
+          {
+            "sentence": "With an imminent deadline, the team prioritized essentials over perfection.",
+            "meaning_ko": "마감이 임박하자 팀은 완벽함보다 필수 작업을 우선했습니다."
+          },
+          {
+            "sentence": "Authorities issued a warning of imminent flooding.",
+            "meaning_ko": "당국은 홍수가 임박했다는 경고를 발령했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Despite the headlines, the audit found no evidence of imminent systemic collapse.",
+            "meaning_ko": "헤드라인과 달리, 감사 결과는 임박한 시스템 붕괴의 증거를 찾지 못했습니다."
+          },
+          {
+            "sentence": "The report argues that failing to act now poses an imminent risk to public safety.",
+            "meaning_ko": "그 보고서는 지금 행동하지 않으면 공공 안전에 임박한 위험을 초래한다고 주장합니다."
+          },
+          {
+            "sentence": "They treated the threat as imminent, adopting safeguards before the situation escalated.",
+            "meaning_ko": "그들은 위협을 임박한 것으로 보고 상황이 악화되기 전에 안전장치를 도입했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "imminent는 ‘곧 일어날 것 같은’ 강한 임박감을 줍니다. upcoming(다가오는 일정)보다 더 긴박하고, immediate(즉각적)보다는 ‘바로 직전/곧’ 느낌입니다. danger/threat/collapse/deadline처럼 ‘위기·위협’ 명사와 강결합이 많으니 이 묶음을 통째로 외우면 독해에서 속도가 빨라집니다.",
+    "tags": [
+      "긴박",
+      "위험/경고",
+      "뉴스/보고서",
+      "시간",
+      "위기"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The danger is ____.",
+            "a": "imminent",
+            "meaning_ko": "곧 닥칠 위험 = imminent danger."
+          },
+          {
+            "q": "Closest synonym to imminent:",
+            "a": "impending",
+            "meaning_ko": "impending = 임박한."
+          },
+          {
+            "q": "Opposite of imminent:",
+            "a": "distant",
+            "meaning_ko": "시간적으로 먼 = distant."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: Authorities warned of imminent ____.",
+            "a": "flooding",
+            "meaning_ko": "imminent flooding(홍수 임박) 같은 경고 문맥이 흔합니다."
+          },
+          {
+            "q": "Error check: 'The launch will be imminent in March.' (Make it more natural.)",
+            "a": "The launch is expected in March.",
+            "meaning_ko": "imminent는 ‘아주 곧’ 뉘앙스라 ‘3월’처럼 넓은 시점에는 덜 자연스럽습니다."
+          },
+          {
+            "q": "Choose the better word: ____ deadline (more formal/strong urgency)",
+            "a": "imminent",
+            "meaning_ko": "imminent deadline = 마감 임박(긴박)."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: If no action is taken, the policy may pose an imminent ____ to public safety.",
+            "a": "risk",
+            "meaning_ko": "pose a risk to = 위험을 초래하다."
+          },
+          {
+            "q": "Best contrast: imminent vs. upcoming",
+            "a": "Imminent suggests something is about to happen very soon and feels urgent, while upcoming is neutral and schedule-like.",
+            "meaning_ko": "긴박감 유무가 핵심 차이입니다."
+          },
+          {
+            "q": "Fill in the blank: The report found no evidence of imminent systemic ____.",
+            "a": "collapse",
+            "meaning_ko": "systemic collapse(시스템 붕괴)와 결합이 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
