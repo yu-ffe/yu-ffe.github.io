@@ -6,7 +6,15 @@ const POSITION_COOKIE = 'lexiconLabPosition';
 // TODO: Remove MOBILE_PREVIEW once desktop view is restored.
 const MOBILE_PREVIEW = true;
 
-const wordSources = import.meta.glob('../public/assets/words/json/*.json', { eager: true });
+const wordSources = import.meta.glob('../public/assets/words/json/**/*.json', { eager: true });
+
+const wordSourceOptions = Array.from(
+  new Set(
+    Object.keys(wordSources)
+      .map((path) => path.match(/\/words\/json\/([^/]+)\//)?.[1])
+      .filter(Boolean)
+  )
+).sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
 
 const defaultSettings = {
   showConcept: true,
@@ -26,6 +34,7 @@ const defaultSettings = {
   levelMode: 'all',
   selectedLevels: ['상', '중', '하'],
   quizItemLimit: 3,
+  wordSource: 'all',
 };
 
 function readCookie(name) {
@@ -43,10 +52,14 @@ function writeCookie(name, value, days = 90) {
   document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
 }
 
-function loadWordEntries() {
-  const modules = Object.entries(wordSources).sort(([a], [b]) =>
-    a.localeCompare(b, undefined, { numeric: true })
-  );
+function getWordSourceKey(path) {
+  return path.match(/\/words\/json\/([^/]+)\//)?.[1] ?? '';
+}
+
+function loadWordEntries(sourceFilter) {
+  const modules = Object.entries(wordSources)
+    .filter(([path]) => sourceFilter === 'all' || getWordSourceKey(path) === sourceFilter)
+    .sort(([a], [b]) => a.localeCompare(b, undefined, { numeric: true }));
 
   return modules.flatMap(([, mod]) => {
     const payload = mod?.default ?? mod;
@@ -80,8 +93,9 @@ function SettingGroup({ title, description, children }) {
   );
 }
 
-function SettingsPanel({ open, settings, onChange, onClose, levelOptions }) {
+function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSourceOptions: sources }) {
   const safeLevels = levelOptions?.length ? Array.from(new Set(levelOptions)) : ['상', '중', '하'];
+  const safeSources = sources?.length ? sources : [];
 
   const handleLevelToggle = (level) => {
     const exists = settings.selectedLevels.includes(level);
@@ -142,6 +156,36 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions }) {
           />
         </div>
       </SettingGroup>
+
+      {safeSources.length > 0 && (
+        <SettingGroup title="자료 선택" description="표시할 단어장 폴더를 선택하세요.">
+          <div className="radio-row">
+            <label>
+              <input
+                type="radio"
+                name="wordSource"
+                value="all"
+                checked={settings.wordSource === 'all'}
+                onChange={(e) => onChange({ ...settings, wordSource: e.target.value })}
+              />
+              전체
+            </label>
+            {safeSources.map((source) => (
+              <label key={source}>
+                <input
+                  type="radio"
+                  name="wordSource"
+                  value={source}
+                  checked={settings.wordSource === source}
+                  onChange={(e) => onChange({ ...settings, wordSource: e.target.value })}
+                />
+                {source}
+              </label>
+            ))}
+          </div>
+          <p className="setting-desc">선택한 폴더 내부 JSON을 모두 불러옵니다.</p>
+        </SettingGroup>
+      )}
 
       <SettingGroup title="뜻 · 관계" description="의미 설명과 연결 관계를 얼마나 보여 줄지 제어합니다.">
         <div className="setting-field">
@@ -807,7 +851,7 @@ export default function LexiconLab() {
       setLoading(true);
       setError('');
       try {
-        const combinedEntries = loadWordEntries();
+        const combinedEntries = loadWordEntries(settings.wordSource);
 
         if (combinedEntries.length) {
           setEntries(combinedEntries);
@@ -827,7 +871,7 @@ export default function LexiconLab() {
     }
 
     loadEntries();
-  }, []);
+  }, [settings.wordSource]);
 
   useEffect(() => {
     if (!entries.length) return;
@@ -910,6 +954,7 @@ export default function LexiconLab() {
           .flatMap((entry) => [...(entry.collocations || []), ...(entry.examples || []), ...(entry.quiz || [])])
           .map((group) => group.level)
           .filter(Boolean)}
+        wordSourceOptions={wordSourceOptions}
         onChange={setSettings}
         onClose={() => setPanelOpen(false)}
       />
