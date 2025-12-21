@@ -43,15 +43,22 @@ function writeCookie(name, value, days = 90) {
   document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
 }
 
+function extractWordSource(path) {
+  const match = path.match(/\/words\/json\/([^/]+)\//);
+  return match ? match[1] : '';
+}
+
 function loadWordEntries() {
   const modules = Object.entries(wordSources).sort(([a], [b]) =>
     a.localeCompare(b, undefined, { numeric: true })
   );
 
-  return modules.flatMap(([, mod]) => {
+  return modules.flatMap(([path, mod]) => {
     const payload = mod?.default ?? mod;
-    if (Array.isArray(payload)) return payload;
-    if (payload && Array.isArray(payload.words)) return payload.words;
+    const wordSource = extractWordSource(path);
+    const attachSource = (entry) => ({ ...entry, wordSource });
+    if (Array.isArray(payload)) return payload.map(attachSource);
+    if (payload && Array.isArray(payload.words)) return payload.words.map(attachSource);
     return [];
   });
 }
@@ -785,6 +792,7 @@ export default function LexiconLab() {
   const [panelOpen, setPanelOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageSize, setPageSize] = useState(8);
+  const [sourceFilter, setSourceFilter] = useState('all');
 
   useEffect(() => {
     const saved = readCookie(SETTINGS_COOKIE);
@@ -839,13 +847,23 @@ export default function LexiconLab() {
 
   useEffect(() => {
     setCurrentPage(1);
-  }, [entries, pageSize]);
+  }, [entries, pageSize, sourceFilter]);
 
-  const totalPages = Math.max(1, Math.ceil(entries.length / pageSize));
+  const sourceOptions = useMemo(() => {
+    const sources = new Set(entries.map((entry) => entry.wordSource).filter(Boolean));
+    return Array.from(sources);
+  }, [entries]);
+
+  const filteredEntries = useMemo(() => {
+    if (sourceFilter === 'all') return entries;
+    return entries.filter((entry) => entry.wordSource === sourceFilter);
+  }, [entries, sourceFilter]);
+
+  const totalPages = Math.max(1, Math.ceil(filteredEntries.length / pageSize));
   const visibleEntries = useMemo(() => {
     const start = (currentPage - 1) * pageSize;
-    return entries.slice(start, start + pageSize);
-  }, [currentPage, entries, pageSize]);
+    return filteredEntries.slice(start, start + pageSize);
+  }, [currentPage, filteredEntries, pageSize]);
 
   const handlePageChange = (nextPage) => {
     const page = Math.min(Math.max(nextPage, 1), totalPages);
@@ -869,6 +887,23 @@ export default function LexiconLab() {
           <h1>단어 카드</h1>
         </div>
         <div className="top-actions">
+          {sourceOptions.length > 0 && (
+            <div className="source-filter">
+              <label htmlFor="wordSource">자료 선택</label>
+              <select
+                id="wordSource"
+                value={sourceFilter}
+                onChange={(event) => setSourceFilter(event.target.value)}
+              >
+                <option value="all">전체</option>
+                {sourceOptions.map((source) => (
+                  <option key={source} value={source}>
+                    {source}
+                  </option>
+                ))}
+              </select>
+            </div>
+          )}
           <button className="panel-toggle" type="button" onClick={() => setPanelOpen((v) => !v)} aria-label="설정 열기">
             <span className="toggle-icon">⚙</span>
             <span>맞춤 설정</span>
@@ -887,7 +922,7 @@ export default function LexiconLab() {
         onChange={handlePageChange}
         pageSize={pageSize}
         onPageSizeChange={setPageSize}
-        totalItems={entries.length}
+        totalItems={filteredEntries.length}
       />
 
       {visibleEntries.map((entry) => (
@@ -900,7 +935,7 @@ export default function LexiconLab() {
         onChange={handlePageChange}
         pageSize={pageSize}
         onPageSizeChange={setPageSize}
-        totalItems={entries.length}
+        totalItems={filteredEntries.length}
       />
 
       <SettingsPanel

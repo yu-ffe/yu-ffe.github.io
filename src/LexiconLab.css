@@ -43,6 +43,37 @@
   gap: 12px;
 }
 
+.source-filter {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  background: rgba(255, 255, 255, 0.05);
+  color: #c3d4ff;
+  font-weight: 600;
+}
+
+.source-filter label {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #7ea8ff;
+}
+
+.source-filter select {
+  background: transparent;
+  color: #e7ecf6;
+  border: none;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.source-filter select:focus {
+  outline: none;
+}
+
 .ghost {
   background: transparent;
   color: #a9b8d4;
@@ -806,6 +837,10 @@
   .lex-topbar {
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .top-actions {
+    flex-wrap: wrap;
   }
 
   .lex-card-hero,
