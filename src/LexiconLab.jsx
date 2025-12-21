@@ -19,6 +19,10 @@ const defaultSettings = {
   showExamples: true,
   showQuiz: true,
   showKoreanMeanings: true,
+  showStickyWord: true,
+  showStickyPos: true,
+  blurQuizAnswers: true,
+  quizBlurAmount: 8,
   levelMode: 'all',
   selectedLevels: ['상', '중', '하'],
   quizItemLimit: 3,
@@ -120,6 +124,21 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions }) {
             description="태그, 빈도, 난이도 등 메타 정보를 함께 보여 줍니다."
             checked={settings.showClassification}
             onChange={(value) => onChange({ ...settings, showClassification: value })}
+          />
+        </div>
+
+        <div className="settings-grid">
+          <SettingToggle
+            label="섹션 단어 고정 표시"
+            description="스크롤 중에도 좌측 상단에 현재 단어를 고정 노출합니다."
+            checked={settings.showStickyWord}
+            onChange={(value) => onChange({ ...settings, showStickyWord: value })}
+          />
+          <SettingToggle
+            label="품사 함께 표시"
+            description="고정 단어 표시 옆에 품사를 함께 보여 줍니다."
+            checked={settings.showStickyPos}
+            onChange={(value) => onChange({ ...settings, showStickyPos: value })}
           />
         </div>
       </SettingGroup>
@@ -251,6 +270,29 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions }) {
               onChange={(e) => handleQuizLimitChange(e.target.value)}
             />
             <p className="setting-desc">레벨별로 최대 몇 개의 퀴즈를 노출할지 설정합니다.</p>
+          </div>
+        )}
+      </SettingGroup>
+
+      <SettingGroup title="퀴즈 정답 블러" description="정답을 바로 보지 않도록 흐림 처리 옵션을 제공합니다.">
+        <SettingToggle
+          label="정답 흐림 처리"
+          description="정답 버튼을 클릭해야 선명하게 볼 수 있습니다."
+          checked={settings.blurQuizAnswers}
+          onChange={(value) => onChange({ ...settings, blurQuizAnswers: value })}
+        />
+        {settings.blurQuizAnswers && (
+          <div className="setting-field">
+            <label htmlFor="quizBlurAmount">블러 강도</label>
+            <input
+              id="quizBlurAmount"
+              type="range"
+              min="2"
+              max="14"
+              value={settings.quizBlurAmount}
+              onChange={(e) => onChange({ ...settings, quizBlurAmount: Number(e.target.value) })}
+            />
+            <p className="setting-desc">숫자가 높을수록 정답이 더 흐려집니다.</p>
           </div>
         )}
       </SettingGroup>
@@ -395,7 +437,31 @@ function ExampleList({ examples, showKorean }) {
   );
 }
 
-function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true }) {
+function QuizAnswer({ text, blurred, blurAmount }) {
+  const [revealed, setRevealed] = useState(false);
+
+  if (!blurred) {
+    return <span className="choice answer">{text}</span>;
+  }
+
+  const handleClick = () => setRevealed(true);
+
+  return (
+    <button
+      type="button"
+      className={`choice answer quiz-answer ${revealed ? 'revealed' : 'blurred'}`}
+      style={{ '--blur-amount': `${blurAmount}px` }}
+      onClick={handleClick}
+      aria-pressed={revealed}
+      aria-label={revealed ? '정답이 표시되었습니다' : '정답 보기'}
+      title={revealed ? '정답 표시됨' : '클릭해서 정답 보기'}
+    >
+      {text}
+    </button>
+  );
+}
+
+function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswers, blurAmount }) {
   if (!quiz || quiz.length === 0) return null;
   return (
     <div className="quiz-list">
@@ -410,7 +476,7 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true }) {
                   <p className="quiz-question">{item.q}</p>
                   {showKorean && <p className="meaning-note">{item.meaning_ko}</p>}
                   <div className="quiz-choices">
-                    <span className="choice answer">{item.a}</span>
+                    <QuizAnswer text={item.a} blurred={blurAnswers} blurAmount={blurAmount} />
                   </div>
                 </li>
               ))
@@ -526,6 +592,17 @@ function LexiconEntry({ entry, settings }) {
           {settings.showClassification && entry.difficulty && <span className="chip">Lv.{entry.difficulty}</span>}
         </div>
       </header>
+
+      {settings.showStickyWord && (
+        <div className="lex-card-sticky">
+          <span className="sticky-word">{entry.word}</span>
+          {settings.showStickyPos && (
+            <span className="sticky-pos">
+              {Array.isArray(entry.partOfSpeech) ? entry.partOfSpeech.join(' / ') : entry.partOfSpeech}
+            </span>
+          )}
+        </div>
+      )}
 
       <div className="lex-card-hero">
         {settings.showClassification && (
@@ -691,6 +768,8 @@ function LexiconEntry({ entry, settings }) {
             showKorean={settings.showKoreanMeanings}
             limitPerLevel={settings.quizItemLimit}
             showTitle={false}
+            blurAnswers={settings.blurQuizAnswers}
+            blurAmount={settings.quizBlurAmount}
           />
         </Section>
       )}

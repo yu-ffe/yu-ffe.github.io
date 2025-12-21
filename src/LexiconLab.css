@@ -211,6 +211,35 @@
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
 }
 
+.lex-card-sticky {
+  position: sticky;
+  top: 12px;
+  z-index: 5;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.92);
+  border: 1px solid rgba(59, 130, 246, 0.4);
+  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.45);
+  width: fit-content;
+  margin-bottom: 10px;
+  backdrop-filter: blur(6px);
+}
+
+.sticky-word {
+  font-weight: 800;
+  color: #e7ecf6;
+  font-size: 14px;
+}
+
+.sticky-pos {
+  font-size: 12px;
+  color: #9db7ff;
+  font-weight: 600;
+}
+
 .lex-card-hero {
   display: grid;
   grid-template-columns: 1fr;
@@ -578,6 +607,27 @@
   padding: 4px 8px;
   border-radius: 8px;
   background: rgba(255, 255, 255, 0.06);
+}
+
+.quiz-answer {
+  border: none;
+  cursor: pointer;
+  font: inherit;
+  transition: filter 0.2s ease, background 0.2s ease, transform 0.2s ease;
+}
+
+.quiz-answer.blurred {
+  filter: blur(var(--blur-amount, 8px));
+}
+
+.quiz-answer.revealed {
+  filter: none;
+  background: rgba(37, 99, 235, 0.45);
+}
+
+.quiz-answer.blurred:hover {
+  transform: translateY(-1px);
+  background: rgba(37, 99, 235, 0.25);
 }
 
 .choice.answer {
