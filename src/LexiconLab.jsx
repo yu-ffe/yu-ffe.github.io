@@ -159,31 +159,23 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSo
 
       {safeSources.length > 0 && (
         <SettingGroup title="자료 선택" description="표시할 단어장 폴더를 선택하세요.">
-          <div className="radio-row">
-            <label>
-              <input
-                type="radio"
-                name="wordSource"
-                value="all"
-                checked={settings.wordSource === 'all'}
-                onChange={(e) => onChange({ ...settings, wordSource: e.target.value })}
-              />
-              전체
-            </label>
-            {safeSources.map((source) => (
-              <label key={source}>
-                <input
-                  type="radio"
-                  name="wordSource"
-                  value={source}
-                  checked={settings.wordSource === source}
-                  onChange={(e) => onChange({ ...settings, wordSource: e.target.value })}
-                />
-                {source}
-              </label>
-            ))}
+          <div className="setting-field">
+            <label htmlFor="wordSource">자료 구분</label>
+            <select
+              id="wordSource"
+              className="setting-select"
+              value={settings.wordSource}
+              onChange={(e) => onChange({ ...settings, wordSource: e.target.value })}
+            >
+              <option value="all">전체</option>
+              {safeSources.map((source) => (
+                <option key={source} value={source}>
+                  {source}
+                </option>
+              ))}
+            </select>
+            <p className="setting-desc">Transfer/CSAT 자료를 선택해 해당 단어만 보여 줍니다.</p>
           </div>
-          <p className="setting-desc">선택한 폴더 내부 JSON을 모두 불러옵니다.</p>
         </SettingGroup>
       )}
 
