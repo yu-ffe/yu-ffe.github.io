@@ -646,6 +646,89 @@
   background: rgba(255, 255, 255, 0.06);
 }
 
+.choice.selected {
+  background: rgba(37, 99, 235, 0.35);
+  color: #e7f0ff;
+}
+
+.practice-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.practice-card {
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 14px;
+  padding: 12px;
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.practice-title {
+  font-weight: 700;
+  color: #9db7ff;
+  margin-bottom: 8px;
+}
+
+.practice-body {
+  display: grid;
+  gap: 10px;
+}
+
+.practice-item {
+  display: grid;
+  gap: 4px;
+}
+
+.practice-prompt {
+  font-weight: 600;
+  color: #e7ecf6;
+}
+
+.practice-hint {
+  color: #a9b8d4;
+}
+
+.practice-actions,
+.practice-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.practice-choices {
+  display: grid;
+  gap: 8px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.practice-input,
+.practice-textarea {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  border-radius: 10px;
+  padding: 8px 10px;
+  color: #e7ecf6;
+  font: inherit;
+}
+
+.practice-textarea {
+  resize: vertical;
+}
+
+.practice-answer {
+  background: rgba(37, 99, 235, 0.18);
+  border-radius: 10px;
+  padding: 8px 10px;
+  color: #e7f0ff;
+}
+
+.ghost.compact {
+  padding: 6px 12px;
+  font-size: 12px;
+}
+
 .quiz-answer {
   border: none;
   cursor: pointer;

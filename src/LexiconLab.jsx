@@ -40,6 +40,14 @@ const defaultSettings = {
   selectedLevels: ['상', '중', '하'],
   quizItemLimit: 3,
   wordSource: 'all',
+  showPracticeLab: true,
+  practicePrepositionFill: true,
+  practiceNaturalness: true,
+  practiceMeaningSelection: true,
+  practiceTranslationBlur: true,
+  practiceMeaningRecall: true,
+  practiceOddCollocation: true,
+  practiceRewriteSentence: true,
 };
 
 function readCookie(name) {
@@ -264,7 +272,7 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSo
         <p className="setting-desc">선택한 레벨의 콜로케이션/예문/퀴즈만 보여 줍니다.</p>
       </SettingGroup>
 
-        <SettingGroup title="언어 · 힌트" description="한국어 뜻이나 해설을 숨기고 영어 원문만 확인할 수 있습니다.">
+      <SettingGroup title="언어 · 힌트" description="한국어 뜻이나 해설을 숨기고 영어 원문만 확인할 수 있습니다.">
           <SettingToggle
             label="한국어 뜻 표시"
             description="의미, 예문 해석, 선택형 퀴즈 힌트를 함께 보여 줍니다."
@@ -272,6 +280,63 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSo
             onChange={(value) => onChange({ ...settings, showKoreanMeanings: value })}
           />
         </SettingGroup>
+
+      <SettingGroup
+        title="맞춤 학습 기능"
+        description="Lexicon Lab 학습 모듈 중 원하는 기능만 골라 카드 아래에 노출합니다."
+      >
+        <SettingToggle
+          label="맞춤 학습 모듈 표시"
+          description="선택한 학습 기능 블록 전체를 카드에 추가합니다."
+          checked={settings.showPracticeLab}
+          onChange={(value) => onChange({ ...settings, showPracticeLab: value })}
+        />
+        <div className="settings-grid">
+          <SettingToggle
+            label="전치사 · 보어 채우기"
+            description="전치사 또는 필수 보어를 빈칸으로 두고 연습합니다."
+            checked={settings.practicePrepositionFill}
+            onChange={(value) => onChange({ ...settings, practicePrepositionFill: value })}
+          />
+          <SettingToggle
+            label="문장 자연성 판단 (O/X)"
+            description="예문이 자연스러운지 판단합니다."
+            checked={settings.practiceNaturalness}
+            onChange={(value) => onChange({ ...settings, practiceNaturalness: value })}
+          />
+          <SettingToggle
+            label="문맥 기반 의미 판단"
+            description="문맥에 맞는 뜻을 고릅니다."
+            checked={settings.practiceMeaningSelection}
+            onChange={(value) => onChange({ ...settings, practiceMeaningSelection: value })}
+          />
+          <SettingToggle
+            label="문장 해석 (뜻 블러)"
+            description="영어 문장만 보고 뜻을 떠올립니다."
+            checked={settings.practiceTranslationBlur}
+            onChange={(value) => onChange({ ...settings, practiceTranslationBlur: value })}
+          />
+          <SettingToggle
+            label="뜻 → 단어 회상"
+            description="한국어 뜻만 보고 영단어를 떠올립니다."
+            checked={settings.practiceMeaningRecall}
+            onChange={(value) => onChange({ ...settings, practiceMeaningRecall: value })}
+          />
+          <SettingToggle
+            label="잘못된 결합 찾기"
+            description="어색한 전치사/구문 조합을 찾습니다."
+            checked={settings.practiceOddCollocation}
+            onChange={(value) => onChange({ ...settings, practiceOddCollocation: value })}
+          />
+          <SettingToggle
+            label="문장 재작성"
+            description="지정 단어를 사용해 문장을 다시 씁니다."
+            checked={settings.practiceRewriteSentence}
+            onChange={(value) => onChange({ ...settings, practiceRewriteSentence: value })}
+          />
+        </div>
+        <p className="setting-desc">단어 카드 하단의 학습 모듈에서 선택한 기능만 표시됩니다.</p>
+      </SettingGroup>
 
       <SettingGroup title="맥락 · 문법" description="학습 시 보고 싶은 설명 영역을 세분화합니다.">
         <SettingToggle
@@ -543,6 +608,257 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswe
   );
 }
 
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function getFirstExample(examples) {
+  if (!examples?.length) return null;
+  for (const group of examples) {
+    if (group.items?.length) return group.items[0];
+  }
+  return null;
+}
+
+function getFirstCollocation(collocations) {
+  if (!collocations?.length) return null;
+  for (const group of collocations) {
+    if (group.items?.length) return group.items[0];
+  }
+  return null;
+}
+
+function buildComplementBlank(text) {
+  if (!text) return '';
+  const match = text.match(/(.+?\+\s*)([^:]+)(:.*)?/);
+  if (match) {
+    return `${match[1]}___${match[3] ?? ''}`;
+  }
+  if (text.includes('+')) return text.replace('+', '+ ___');
+  return `${text} ___`;
+}
+
+function PracticePrepositionFill({ patterns, complements }) {
+  const [revealed, setRevealed] = useState(false);
+  const pattern = patterns?.find((item) => item.example) ?? patterns?.[0];
+  const complement = complements?.[0] ?? '';
+
+  if (!pattern && !complement) return <p className="muted">전치사/보어 데이터가 부족합니다.</p>;
+
+  const prep = pattern?.prep ?? '';
+  const example = pattern?.example ?? '';
+  const blankedExample = prep && example
+    ? example.replace(new RegExp(`\\b${escapeRegExp(prep)}\\b`, 'i'), '___')
+    : '';
+
+  return (
+    <div className="practice-card">
+      <p className="practice-title">전치사 · 보어 채우기</p>
+      <div className="practice-body">
+        {blankedExample && (
+          <div className="practice-item">
+            <p className="practice-prompt">{blankedExample}</p>
+            <p className="practice-hint">{pattern?.meaning_ko}</p>
+          </div>
+        )}
+        {complement && (
+          <div className="practice-item">
+            <p className="practice-prompt">{buildComplementBlank(complement)}</p>
+          </div>
+        )}
+        <button type="button" className="ghost compact" onClick={() => setRevealed((prev) => !prev)}>
+          {revealed ? '정답 숨기기' : '정답 보기'}
+        </button>
+        {revealed && (
+          <div className="practice-answer">
+            {prep && <p>전치사 정답: {prep}</p>}
+            {complement && <p>보어 정답: {complement}</p>}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function PracticeNaturalness({ example, grammarNotes, complements }) {
+  const [choice, setChoice] = useState('');
+  if (!example?.sentence) return <p className="muted">자연성 판단에 사용할 예문이 없습니다.</p>;
+
+  return (
+    <div className="practice-card">
+      <p className="practice-title">문장 자연성 판단 (O / X)</p>
+      <div className="practice-body">
+        <p className="practice-prompt">{example.sentence}</p>
+        <div className="practice-actions">
+          <button type="button" className="ghost compact" onClick={() => setChoice('자연스럽다')}>
+            자연스럽다
+          </button>
+          <button type="button" className="ghost compact" onClick={() => setChoice('어색하다')}>
+            어색하다
+          </button>
+        </div>
+        {choice && (
+          <div className="practice-answer">
+            <p>선택: {choice}</p>
+            <p>정답: 자연스럽다</p>
+            {grammarNotes && <p className="meaning-note">문법 힌트: {grammarNotes}</p>}
+            {complements?.length ? <p className="meaning-note">필수 보어: {complements.join(' / ')}</p> : null}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function PracticeMeaningSelection({ meanings, example }) {
+  const [choiceIndex, setChoiceIndex] = useState(null);
+  if (!meanings?.length) return <p className="muted">의미 선택 퀴즈를 만들 수 없습니다.</p>;
+
+  const correctIndex = 0;
+  return (
+    <div className="practice-card">
+      <p className="practice-title">문맥 기반 의미 판단</p>
+      <div className="practice-body">
+        {example?.sentence && <p className="practice-prompt">{example.sentence}</p>}
+        <ol className="practice-choices">
+          {meanings.map((meaning, index) => (
+            <li key={`${meaning.definition_en}-${index}`}>
+              <button
+                type="button"
+                className={`choice ${choiceIndex === index ? 'selected' : ''}`}
+                onClick={() => setChoiceIndex(index)}
+              >
+                {meaning.definition_en}
+              </button>
+              {meaning.definition_ko && <p className="meaning-note">{meaning.definition_ko}</p>}
+            </li>
+          ))}
+        </ol>
+        {choiceIndex !== null && (
+          <div className="practice-answer">
+            <p>정답: {meanings[correctIndex].definition_en}</p>
+            {meanings[correctIndex].note && <p className="meaning-note">{meanings[correctIndex].note}</p>}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function PracticeTranslationBlur({ example }) {
+  const [revealed, setRevealed] = useState(false);
+  if (!example?.sentence) return <p className="muted">해석 연습을 위한 예문이 없습니다.</p>;
+
+  return (
+    <div className="practice-card">
+      <p className="practice-title">문장 해석 (뜻 블러 처리)</p>
+      <div className="practice-body">
+        <p className="practice-prompt">{example.sentence}</p>
+        <button type="button" className="ghost compact" onClick={() => setRevealed((prev) => !prev)}>
+          {revealed ? '해석 숨기기' : '해석 보기'}
+        </button>
+        {revealed && example.meaning_ko && <p className="practice-answer">{example.meaning_ko}</p>}
+      </div>
+    </div>
+  );
+}
+
+function PracticeMeaningRecall({ word, meanings }) {
+  const [revealed, setRevealed] = useState(false);
+  const [input, setInput] = useState('');
+  const meaning = meanings?.[0]?.definition_ko;
+
+  if (!meaning) return <p className="muted">뜻 회상에 필요한 한국어 정의가 없습니다.</p>;
+
+  const normalized = input.trim().toLowerCase();
+  const correct = normalized && normalized === word.toLowerCase();
+
+  return (
+    <div className="practice-card">
+      <p className="practice-title">뜻 → 단어 회상</p>
+      <div className="practice-body">
+        <p className="practice-prompt">{meaning}</p>
+        <input
+          className="practice-input"
+          type="text"
+          value={input}
+          onChange={(event) => setInput(event.target.value)}
+          placeholder="영단어를 입력하세요"
+        />
+        {correct && <p className="practice-answer">정답입니다!</p>}
+        <button type="button" className="ghost compact" onClick={() => setRevealed((prev) => !prev)}>
+          {revealed ? '정답 숨기기' : '정답 보기'}
+        </button>
+        {revealed && <p className="practice-answer">정답: {word}</p>}
+      </div>
+    </div>
+  );
+}
+
+function PracticeOddCollocation({ word, prepositionPatterns, collocations }) {
+  const [choice, setChoice] = useState('');
+  const collocationPhrases = collocations
+    ?.flatMap((group) => group.items || [])
+    .map((item) => item.phrase)
+    .filter(Boolean) ?? [];
+
+  if (!collocationPhrases.length) return <p className="muted">결합 연습에 필요한 콜로케이션이 없습니다.</p>;
+
+  const correctOptions = collocationPhrases.slice(0, 3);
+  const knownPreps = new Set(prepositionPatterns?.map((item) => item.prep) ?? []);
+  const prepPool = ['to', 'for', 'with', 'on', 'in', 'at', 'about', 'from', 'into', 'over'];
+  const invalidPrep = prepPool.find((prep) => !knownPreps.has(prep)) ?? 'about';
+  const incorrectOption = `${word} ${invalidPrep}`;
+  const options = [...correctOptions, incorrectOption];
+
+  return (
+    <div className="practice-card">
+      <p className="practice-title">잘못된 결합 찾기</p>
+      <div className="practice-body">
+        <p className="practice-prompt">다음 조합 중 어색한 것을 골라보세요.</p>
+        <div className="practice-options">
+          {options.map((option) => (
+            <button
+              key={option}
+              type="button"
+              className={`choice ${choice === option ? 'selected' : ''}`}
+              onClick={() => setChoice(option)}
+            >
+              {option}
+            </button>
+          ))}
+        </div>
+        {choice && (
+          <div className="practice-answer">
+            <p>정답: {incorrectOption}</p>
+            <p className="meaning-note">전치사 패턴을 참고해서 정확한 결합을 확인하세요.</p>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+function PracticeRewriteSentence({ word, example, collocation }) {
+  const [revealed, setRevealed] = useState(false);
+  if (!example?.sentence) return <p className="muted">재작성 연습용 예문이 없습니다.</p>;
+
+  return (
+    <div className="practice-card">
+      <p className="practice-title">문장 재작성 (지정 단어 사용)</p>
+      <div className="practice-body">
+        <p className="practice-prompt">아래 문장을 {word}를 사용해 다시 써 보세요.</p>
+        <p className="practice-hint">{example.meaning_ko || collocation?.meaning_ko || '한국어 힌트가 없습니다.'}</p>
+        <textarea className="practice-textarea" rows={3} placeholder="작성한 문장을 입력하세요" />
+        <button type="button" className="ghost compact" onClick={() => setRevealed((prev) => !prev)}>
+          {revealed ? '모범 답안 숨기기' : '모범 답안 보기'}
+        </button>
+        {revealed && <p className="practice-answer">{example.sentence}</p>}
+      </div>
+    </div>
+  );
+}
+
 function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPageSizeChange, totalItems }) {
   if (!totalItems) return null;
 
@@ -608,6 +924,7 @@ function LexiconEntry({ entry, settings }) {
     context: false,
     grammar: false,
     resources: false,
+    practice: false,
     quiz: false,
   });
 
@@ -628,6 +945,16 @@ function LexiconEntry({ entry, settings }) {
   const filteredCollocations = filterByLevel(entry.collocations, levelsToShow);
   const filteredExamples = filterByLevel(entry.examples, levelsToShow);
   const filteredQuiz = filterByLevel(entry.quiz, levelsToShow);
+  const practiceExample = getFirstExample(filteredExamples);
+  const practiceCollocation = getFirstCollocation(filteredCollocations);
+  const showPracticeModule = settings.showPracticeLab
+    && (settings.practicePrepositionFill
+      || settings.practiceNaturalness
+      || settings.practiceMeaningSelection
+      || settings.practiceTranslationBlur
+      || settings.practiceMeaningRecall
+      || settings.practiceOddCollocation
+      || settings.practiceRewriteSentence);
 
   const toggleSection = (key) => {
     setOpenSections((prev) => ({ ...prev, [key]: !prev[key] }));
@@ -806,6 +1133,50 @@ function LexiconEntry({ entry, settings }) {
           {!filteredCollocations.length && !filteredExamples.length && (
             <p className="muted">선택한 레벨에 해당하는 예시가 없습니다.</p>
           )}
+        </Section>
+      )}
+
+      {showPracticeModule && (
+        <Section
+          title="맞춤 학습 모듈"
+          collapsible
+          open={openSections.practice}
+          onToggle={() => toggleSection('practice')}
+        >
+          <div className="practice-grid">
+            {settings.practicePrepositionFill && (
+              <PracticePrepositionFill
+                patterns={entry.prepositionPatterns}
+                complements={entry.requiredComplements}
+              />
+            )}
+            {settings.practiceNaturalness && (
+              <PracticeNaturalness
+                example={practiceExample}
+                grammarNotes={entry.grammarNotes}
+                complements={entry.requiredComplements}
+              />
+            )}
+            {settings.practiceMeaningSelection && (
+              <PracticeMeaningSelection meanings={entry.meanings} example={practiceExample} />
+            )}
+            {settings.practiceTranslationBlur && <PracticeTranslationBlur example={practiceExample} />}
+            {settings.practiceMeaningRecall && <PracticeMeaningRecall word={entry.word} meanings={entry.meanings} />}
+            {settings.practiceOddCollocation && (
+              <PracticeOddCollocation
+                word={entry.word}
+                prepositionPatterns={entry.prepositionPatterns}
+                collocations={filteredCollocations}
+              />
+            )}
+            {settings.practiceRewriteSentence && (
+              <PracticeRewriteSentence
+                word={entry.word}
+                example={practiceExample}
+                collocation={practiceCollocation}
+              />
+            )}
+          </div>
         </Section>
       )}
 
