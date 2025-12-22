@@ -40,7 +40,57 @@ const defaultSettings = {
   selectedLevels: ['상', '중', '하'],
   quizItemLimit: 3,
   wordSource: 'all',
+  showWordSection: true,
+  showPracticeSection: true,
+  practiceItemLimit: 8,
+  selectedPracticeModules: [
+    'preposition',
+    'naturalness',
+    'contextMeaning',
+    'sentenceTranslation',
+    'meaningRecall',
+    'wrongCombination',
+    'rewrite',
+  ],
 };
+
+const practiceModules = [
+  {
+    key: 'preposition',
+    label: '전치사 / 보어 채우기',
+    description: '전치사·보어 빈칸을 채우는 문제를 만듭니다.',
+  },
+  {
+    key: 'naturalness',
+    label: '문장 자연성 판단 (O / X)',
+    description: '예문이 자연스러운지 판단하는 문제를 만듭니다.',
+  },
+  {
+    key: 'contextMeaning',
+    label: '문맥 기반 의미 판단',
+    description: '문맥에 맞는 의미를 고르는 문제를 만듭니다.',
+  },
+  {
+    key: 'sentenceTranslation',
+    label: '문장 해석 (뜻 블러 처리)',
+    description: '영문만 보고 해석을 떠올리는 문제를 만듭니다.',
+  },
+  {
+    key: 'meaningRecall',
+    label: '뜻 → 단어 회상',
+    description: '한국어 뜻을 보고 단어를 회상하는 문제를 만듭니다.',
+  },
+  {
+    key: 'wrongCombination',
+    label: '잘못된 결합 찾기',
+    description: '전치사/구문 결합 중 틀린 것을 찾는 문제를 만듭니다.',
+  },
+  {
+    key: 'rewrite',
+    label: '문장 재작성 (지정 단어 사용)',
+    description: '지정 단어를 사용해 문장을 다시 쓰는 문제를 만듭니다.',
+  },
+];
 
 function readCookie(name) {
   if (typeof document === 'undefined') return '';
@@ -166,6 +216,23 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSo
         </div>
       </SettingGroup>
 
+      <SettingGroup title="학습 섹션" description="단어 보기와 문제 모드 노출 여부를 제어합니다.">
+        <div className="settings-grid">
+          <SettingToggle
+            label="단어 보기 섹션"
+            description="단어 카드 목록을 보여 줍니다."
+            checked={settings.showWordSection}
+            onChange={(value) => onChange({ ...settings, showWordSection: value })}
+          />
+          <SettingToggle
+            label="문제 모드 섹션"
+            description="선택한 모듈로 문제를 섞어 보여 줍니다."
+            checked={settings.showPracticeSection}
+            onChange={(value) => onChange({ ...settings, showPracticeSection: value })}
+          />
+        </div>
+      </SettingGroup>
+
       {safeSources.length > 0 && (
         <SettingGroup title="자료 선택" description="표시할 단어장 폴더를 선택하세요.">
           <div className="radio-row">
@@ -264,14 +331,49 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSo
         <p className="setting-desc">선택한 레벨의 콜로케이션/예문/퀴즈만 보여 줍니다.</p>
       </SettingGroup>
 
-        <SettingGroup title="언어 · 힌트" description="한국어 뜻이나 해설을 숨기고 영어 원문만 확인할 수 있습니다.">
-          <SettingToggle
-            label="한국어 뜻 표시"
-            description="의미, 예문 해석, 선택형 퀴즈 힌트를 함께 보여 줍니다."
-            checked={settings.showKoreanMeanings}
-            onChange={(value) => onChange({ ...settings, showKoreanMeanings: value })}
+      <SettingGroup title="문제 모듈 선택" description="선택한 모듈을 섞어서 랜덤 문제를 제공합니다.">
+        <div className="settings-grid">
+          {practiceModules.map((module) => (
+            <SettingToggle
+              key={module.key}
+              label={module.label}
+              description={module.description}
+              checked={settings.selectedPracticeModules.includes(module.key)}
+              onChange={(value) => {
+                const next = value
+                  ? Array.from(new Set([...settings.selectedPracticeModules, module.key]))
+                  : settings.selectedPracticeModules.filter((item) => item !== module.key);
+                onChange({ ...settings, selectedPracticeModules: next });
+              }}
+            />
+          ))}
+        </div>
+        <div className="setting-field">
+          <label htmlFor="practiceItemLimit">문제 노출 개수</label>
+          <input
+            id="practiceItemLimit"
+            type="number"
+            min="3"
+            max="20"
+            value={settings.practiceItemLimit}
+            onChange={(e) => {
+              const parsed = Number(e.target.value);
+              const nextValue = Number.isNaN(parsed) ? 6 : Math.min(20, Math.max(3, parsed));
+              onChange({ ...settings, practiceItemLimit: nextValue });
+            }}
           />
-        </SettingGroup>
+          <p className="setting-desc">선택한 모듈을 섞어서 최대 N개 문제를 보여 줍니다.</p>
+        </div>
+      </SettingGroup>
+
+      <SettingGroup title="언어 · 힌트" description="한국어 뜻이나 해설을 숨기고 영어 원문만 확인할 수 있습니다.">
+        <SettingToggle
+          label="한국어 뜻 표시"
+          description="의미, 예문 해석, 선택형 퀴즈 힌트를 함께 보여 줍니다."
+          checked={settings.showKoreanMeanings}
+          onChange={(value) => onChange({ ...settings, showKoreanMeanings: value })}
+        />
+      </SettingGroup>
 
       <SettingGroup title="맥락 · 문법" description="학습 시 보고 싶은 설명 영역을 세분화합니다.">
         <SettingToggle
@@ -543,6 +645,78 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswe
   );
 }
 
+function PracticeAnswer({ text, blurred, blurAmount }) {
+  const [revealed, setRevealed] = useState(false);
+
+  if (!blurred) {
+    return <span className="choice answer">{text}</span>;
+  }
+
+  return (
+    <button
+      type="button"
+      className={`choice answer quiz-answer ${revealed ? 'revealed' : 'blurred'}`}
+      style={{ '--blur-amount': `${blurAmount}px` }}
+      onClick={() => setRevealed(true)}
+      aria-pressed={revealed}
+      aria-label={revealed ? '정답이 표시되었습니다' : '정답 보기'}
+      title={revealed ? '정답 표시됨' : '클릭해서 정답 보기'}
+    >
+      {text}
+    </button>
+  );
+}
+
+function PracticeSection({ questions, settings, onShuffle }) {
+  const hasModules = settings.selectedPracticeModules.length > 0;
+
+  return (
+    <section className="practice-section">
+      <header className="practice-header">
+        <div>
+          <p className="eyebrow">문제 모드</p>
+          <h2>문제 형식으로 공부하기</h2>
+          <p className="practice-desc">선택한 모듈을 섞어서 랜덤 문제를 제공합니다.</p>
+        </div>
+        <button type="button" className="ghost" onClick={onShuffle}>
+          문제 다시 섞기
+        </button>
+      </header>
+
+      {!hasModules && <p className="status">맞춤 설정에서 문제 모듈을 선택해주세요.</p>}
+      {hasModules && questions.length === 0 && <p className="status">선택한 모듈에 맞는 문제가 없습니다.</p>}
+
+      {questions.length > 0 && (
+        <div className="practice-grid">
+          {questions.map((question, index) => (
+            <article key={`${question.type}-${question.word}-${index}`} className="practice-card">
+              <header className="practice-card-header">
+                <p className="practice-type">{question.type}</p>
+                <span className="practice-word">{question.word}</span>
+              </header>
+              {question.note && <p className="practice-note">{question.note}</p>}
+              <p className="practice-prompt">{question.prompt}</p>
+              {question.choices && (
+                <ul className="practice-choices">
+                  {question.choices.map((choice) => (
+                    <li key={choice} className="choice">
+                      {choice}
+                    </li>
+                  ))}
+                </ul>
+              )}
+              {question.hint && <p className="practice-hint">힌트: {question.hint}</p>}
+              <div className="practice-answer">
+                <PracticeAnswer text={question.answer} blurred={settings.blurQuizAnswers} blurAmount={settings.quizBlurAmount} />
+              </div>
+            </article>
+          ))}
+        </div>
+      )}
+    </section>
+  );
+}
+
 function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPageSizeChange, totalItems }) {
   if (!totalItems) return null;
 
@@ -600,6 +774,167 @@ function filterByLevel(groups, levels) {
   if (!groups?.length) return [];
   if (!levels?.length) return groups;
   return groups.filter((group) => levels.includes(group.level));
+}
+
+function mulberry32(seed) {
+  let t = seed;
+  return () => {
+    t += 0x6d2b79f5;
+    let result = Math.imul(t ^ (t >>> 15), t | 1);
+    result ^= result + Math.imul(result ^ (result >>> 7), result | 61);
+    return ((result ^ (result >>> 14)) >>> 0) / 4294967296;
+  };
+}
+
+function shuffleList(items, rng) {
+  const list = [...items];
+  for (let i = list.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(rng() * (i + 1));
+    [list[i], list[j]] = [list[j], list[i]];
+  }
+  return list;
+}
+
+function pickOne(items, rng) {
+  if (!items.length) return null;
+  return items[Math.floor(rng() * items.length)];
+}
+
+function flattenExamples(entry) {
+  return entry.examples?.flatMap((group) => group.items?.map((item) => ({ ...item, level: group.level })) || []) || [];
+}
+
+function buildPracticeQuestions(entries, settings, seed) {
+  const rng = mulberry32(seed);
+  const enabledModules = new Set(settings.selectedPracticeModules);
+  const questions = [];
+
+  entries.forEach((entry) => {
+    const examples = flattenExamples(entry);
+
+    if (enabledModules.has('preposition')) {
+      const patternQuestions = (entry.prepositionPatterns || []).map((pattern) => {
+        const base = pattern.example || `${entry.word} ${pattern.prep}`;
+        const blanked = base.replace(new RegExp(`\\b${pattern.prep}\\b`, 'i'), '___');
+        const prompt = blanked === base ? `${entry.word} ___` : blanked;
+        return {
+          type: '전치사 / 보어 채우기',
+          prompt,
+          answer: pattern.prep,
+          hint: pattern.meaning_ko,
+          word: entry.word,
+        };
+      });
+
+      const complementQuestions = (entry.requiredComplements || [])
+        .map((item) => {
+          const [raw, meaning] = item.split(':').map((part) => part.trim());
+          if (!raw?.includes('+')) return null;
+          const parts = raw.split('+').map((part) => part.trim()).filter(Boolean);
+          if (parts.length < 2) return null;
+          return {
+            type: '전치사 / 보어 채우기',
+            prompt: `${parts.slice(0, -1).join(' + ')} ___`,
+            answer: parts[parts.length - 1],
+            hint: meaning,
+            word: entry.word,
+          };
+        })
+        .filter(Boolean);
+
+      const question = pickOne([...patternQuestions, ...complementQuestions], rng);
+      if (question) questions.push(question);
+    }
+
+    if (enabledModules.has('naturalness') && examples.length) {
+      const example = pickOne(examples, rng);
+      questions.push({
+        type: '문장 자연성 판단 (O / X)',
+        prompt: example.sentence,
+        answer: '자연스럽다 (O)',
+        word: entry.word,
+      });
+    }
+
+    if (enabledModules.has('contextMeaning') && entry.meanings?.length > 1 && examples.length) {
+      const example = pickOne(examples, rng);
+      const correct = pickOne(entry.meanings, rng);
+      const options = shuffleList(
+        entry.meanings.map((meaning) => meaning.definition_ko),
+        rng
+      ).slice(0, Math.min(4, entry.meanings.length));
+      if (!options.includes(correct.definition_ko)) {
+        options.pop();
+        options.push(correct.definition_ko);
+      }
+      const shuffled = shuffleList(options, rng);
+      questions.push({
+        type: '문맥 기반 의미 판단',
+        prompt: example.sentence,
+        choices: shuffled,
+        answer: correct.definition_ko,
+        word: entry.word,
+      });
+    }
+
+    if (enabledModules.has('sentenceTranslation') && examples.length) {
+      const example = pickOne(examples, rng);
+      if (example?.meaning_ko) {
+        questions.push({
+          type: '문장 해석 (뜻 블러 처리)',
+          prompt: example.sentence,
+          answer: example.meaning_ko,
+          word: entry.word,
+        });
+      }
+    }
+
+    if (enabledModules.has('meaningRecall') && entry.meanings?.length) {
+      const meaning = pickOne(entry.meanings, rng);
+      if (meaning?.definition_ko) {
+        questions.push({
+          type: '뜻 → 단어 회상',
+          prompt: meaning.definition_ko,
+          answer: entry.word,
+          word: entry.word,
+        });
+      }
+    }
+
+    if (enabledModules.has('wrongCombination') && entry.prepositionPatterns?.length) {
+      const preps = Array.from(new Set(entry.prepositionPatterns.map((pattern) => pattern.prep)));
+      const pool = ['to', 'for', 'with', 'on', 'in', 'at', 'from', 'by', 'about', 'over', 'into'];
+      const wrongPrep = pickOne(pool.filter((prep) => !preps.includes(prep)), rng);
+      if (wrongPrep) {
+        const choices = shuffleList([...preps, wrongPrep].map((prep) => `${entry.word} ${prep}`), rng);
+        questions.push({
+          type: '잘못된 결합 찾기',
+          prompt: '다음 중 잘못된 결합을 고르세요.',
+          choices,
+          answer: `${entry.word} ${wrongPrep}`,
+          word: entry.word,
+        });
+      }
+    }
+
+    if (enabledModules.has('rewrite') && examples.length) {
+      const example = pickOne(examples, rng);
+      const regex = new RegExp(`\\b${entry.word}\\b`, 'i');
+      const maskedSentence = regex.test(example.sentence)
+        ? example.sentence.replace(regex, '_____')
+        : example.sentence;
+      questions.push({
+        type: '문장 재작성 (지정 단어 사용)',
+        prompt: maskedSentence,
+        answer: example.sentence,
+        word: entry.word,
+        note: `지정 단어: ${entry.word}`,
+      });
+    }
+  });
+
+  const shuffled = shuffleList(questions, rng);
+  return shuffled.slice(0, settings.practiceItemLimit);
 }
 
 function LexiconEntry({ entry, settings }) {
@@ -838,6 +1173,7 @@ export default function LexiconLab() {
   const [panelOpen, setPanelOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageSize, setPageSize] = useState(8);
+  const [practiceSeed, setPracticeSeed] = useState(() => Date.now());
 
   const handleWordSourceChange = (nextSource) => {
     setSettings((prev) => ({ ...prev, wordSource: nextSource }));
@@ -904,6 +1240,11 @@ export default function LexiconLab() {
     return entries.slice(start, start + pageSize);
   }, [currentPage, entries, pageSize]);
 
+  const practiceQuestions = useMemo(
+    () => buildPracticeQuestions(entries, settings, practiceSeed),
+    [entries, settings, practiceSeed]
+  );
+
   const handlePageChange = (nextPage) => {
     const page = Math.min(Math.max(nextPage, 1), totalPages);
     setCurrentPage(page);
@@ -962,27 +1303,46 @@ export default function LexiconLab() {
 
       {!loading && !error && entries.length === 0 && <p className="status">단어 데이터가 없습니다.</p>}
 
-      <PaginationControls
-        currentPage={currentPage}
-        totalPages={totalPages}
-        onChange={handlePageChange}
-        pageSize={pageSize}
-        onPageSizeChange={setPageSize}
-        totalItems={entries.length}
-      />
+      {settings.showWordSection && (
+        <section className="word-section">
+          <header className="section-title-row">
+            <div>
+              <p className="eyebrow">단어 보기</p>
+              <h2>단어 카드로 살펴보기</h2>
+            </div>
+          </header>
 
-      {visibleEntries.map((entry) => (
-        <LexiconEntry key={entry.word} entry={entry} settings={settings} />
-      ))}
+          <PaginationControls
+            currentPage={currentPage}
+            totalPages={totalPages}
+            onChange={handlePageChange}
+            pageSize={pageSize}
+            onPageSizeChange={setPageSize}
+            totalItems={entries.length}
+          />
 
-      <PaginationControls
-        currentPage={currentPage}
-        totalPages={totalPages}
-        onChange={handlePageChange}
-        pageSize={pageSize}
-        onPageSizeChange={setPageSize}
-        totalItems={entries.length}
-      />
+          {visibleEntries.map((entry) => (
+            <LexiconEntry key={entry.word} entry={entry} settings={settings} />
+          ))}
+
+          <PaginationControls
+            currentPage={currentPage}
+            totalPages={totalPages}
+            onChange={handlePageChange}
+            pageSize={pageSize}
+            onPageSizeChange={setPageSize}
+            totalItems={entries.length}
+          />
+        </section>
+      )}
+
+      {settings.showPracticeSection && (
+        <PracticeSection
+          questions={practiceQuestions}
+          settings={settings}
+          onShuffle={() => setPracticeSeed(Date.now())}
+        />
+      )}
 
       <SettingsPanel
         open={panelOpen}

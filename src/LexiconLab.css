@@ -185,6 +185,24 @@
   box-shadow: none;
 }
 
+.word-section {
+  display: grid;
+  gap: 12px;
+}
+
+.section-title-row {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 4px;
+}
+
+.section-title-row h2 {
+  margin: 0;
+  font-size: 22px;
+}
+
 .bookshelf {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
@@ -670,6 +688,97 @@
 .choice.answer {
   background: rgba(37, 99, 235, 0.35);
   color: #d7e8ff;
+}
+
+.practice-section {
+  margin-top: 24px;
+  padding: 18px;
+  border-radius: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(15, 23, 42, 0.6);
+  display: grid;
+  gap: 16px;
+}
+
+.practice-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.practice-header h2 {
+  margin: 4px 0;
+  font-size: 22px;
+}
+
+.practice-desc {
+  margin: 4px 0 0;
+  color: #a9b8d4;
+}
+
+.practice-grid {
+  display: grid;
+  gap: 12px;
+}
+
+.practice-card {
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+  padding: 16px;
+  background: rgba(8, 14, 26, 0.6);
+  display: grid;
+  gap: 10px;
+}
+
+.practice-card-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.practice-type {
+  font-weight: 700;
+  margin: 0;
+  color: #dbe7ff;
+}
+
+.practice-word {
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #7ea8ff;
+}
+
+.practice-note {
+  margin: 0;
+  font-size: 13px;
+  color: #9fb0ce;
+}
+
+.practice-prompt {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+.practice-choices {
+  margin: 0;
+  padding-left: 18px;
+  display: grid;
+  gap: 6px;
+}
+
+.practice-hint {
+  margin: 0;
+  color: #b3c4e2;
+  font-size: 13px;
+}
+
+.practice-answer {
+  display: flex;
+  justify-content: flex-start;
 }
 
 .grid-two {
