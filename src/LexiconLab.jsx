@@ -5,74 +5,6 @@ const SETTINGS_COOKIE = 'lexiconLabSettings';
 const POSITION_COOKIE = 'lexiconLabPosition';
 // TODO: Remove MOBILE_PREVIEW once desktop view is restored.
 const MOBILE_PREVIEW = true;
-const DOCUMENT_STUDY_PROMPT = `You are an English test item writer specializing in Korean university transfer exams (편입).
-You are given ONE vocabulary JSON entry at a time.
-Do NOT invent grammar, meanings, or patterns that are not explicitly supported by the JSON.
-
-Your task is to generate exam-style practice questions focusing on ACTUAL USAGE, not memorization.
-
-Generate ALL of the following question types for the given JSON entry.
-
---------------------------------------------------
-[Question Types to Generate]
---------------------------------------------------
-
-1) Preposition / Complement Fill-in-the-Blank
-- Remove ONLY the preposition or complement (to / for / as / that / etc.)
-- Base strictly on "prepositionPatterns" and "requiredComplements"
-- Provide 4 choices (1 correct, 3 plausible incorrect)
-
-2) Sentence Naturalness Judgment (O / X)
-- Create one correct and one subtly incorrect sentence
-- Errors should be limited to preposition, complement, or structure
-- Ask whether the sentence is natural
-
-3) Contextual Meaning Selection (Polysemy)
-- Use different meanings from the "meanings" array
-- Provide a sentence where only ONE meaning fits
-- Multiple-choice format
-
-4) Translation Practice (Meaning Blurred)
-- Show an English example sentence
-- Ask the learner to translate it into Korean
-- Provide the model Korean translation after
-
-5) Meaning → Word Recall
-- Show only the Korean definition
-- Ask which English word fits
-- Suitable for vocabulary recall in transfer exams
-
-6) Incorrect Collocation / Usage Detection
-- Provide 4 options
-- Exactly ONE option must be incorrect
-- Base options on "collocations" and "prepositionPatterns"
-
-7) Sentence Rewriting (Forced Usage)
-- Provide a base sentence WITHOUT the target word
-- Ask the learner to rewrite it USING the target word
-- The rewritten sentence must follow correct complement/preposition rules
-
---------------------------------------------------
-[Rules]
---------------------------------------------------
-- Difficulty must match Korean university transfer exams
-- Prefer subtle, high-quality distractors
-- Use example sentences and patterns from the JSON whenever possible
-- Do NOT simplify language unnaturally
-- Do NOT add explanations longer than 1–2 sentences
-- Output must be clean, structured, and ready for direct use
-
---------------------------------------------------
-[Output Format]
---------------------------------------------------
-Clearly separate each question type with headings.
-Include:
-- Question
-- Choices (if applicable)
-- Correct Answer
-- Brief Explanation (when needed)
-
-Now generate the full set of questions.`;
 
 const wordSources = import.meta.glob('../public/assets/words/json/**/*.json', { eager: true });
 
@@ -173,24 +105,6 @@ function SettingGroup({ title, description, children }) {
 function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSourceOptions: sources }) {
   const safeLevels = levelOptions?.length ? Array.from(new Set(levelOptions)) : ['상', '중', '하'];
   const safeSources = sources?.length ? sources : [];
-  const [copyStatus, setCopyStatus] = useState('');
-
-  const handleCopyPrompt = async () => {
-    if (!navigator?.clipboard) {
-      setCopyStatus('복사 불가');
-      window.setTimeout(() => setCopyStatus(''), 2000);
-      return;
-    }
-    try {
-      await navigator.clipboard.writeText(DOCUMENT_STUDY_PROMPT);
-      setCopyStatus('복사됨');
-    } catch (error) {
-      console.warn('프롬프트 복사에 실패했습니다.', error);
-      setCopyStatus('복사 실패');
-    } finally {
-      window.setTimeout(() => setCopyStatus(''), 2000);
-    }
-  };
 
   const handleLevelToggle = (level) => {
     const exists = settings.selectedLevels.includes(level);
@@ -434,18 +348,6 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSo
             <p className="setting-desc">숫자가 높을수록 정답이 더 흐려집니다.</p>
           </div>
         )}
-      </SettingGroup>
-
-      <SettingGroup title="문서 추가 학습" description="단어 JSON을 넣어 추가 학습용 문제를 생성할 때 사용하는 프롬프트입니다.">
-        <div className="prompt-card">
-          <div className="prompt-actions">
-            <button className="ghost prompt-copy" type="button" onClick={handleCopyPrompt}>
-              프롬프트 복사
-            </button>
-            {copyStatus && <span className="prompt-status">{copyStatus}</span>}
-          </div>
-          <textarea className="prompt-textarea" value={DOCUMENT_STUDY_PROMPT} rows={18} readOnly />
-        </div>
       </SettingGroup>
     </aside>
   );
