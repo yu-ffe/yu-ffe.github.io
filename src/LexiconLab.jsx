@@ -40,7 +40,57 @@ const defaultSettings = {
   selectedLevels: ['상', '중', '하'],
   quizItemLimit: 3,
   wordSource: 'all',
+  studyModules: [
+    'preposition',
+    'naturalness',
+    'contextMeaning',
+    'sentenceTranslation',
+    'meaningRecall',
+    'wrongCollocation',
+    'sentenceRewrite',
+  ],
+  studyQuestionCount: 6,
 };
+
+const STUDY_MODULES = [
+  {
+    key: 'preposition',
+    title: '전치사 · 보어 채우기',
+    description: '전치사/보어가 빠진 표현에서 맞는 형태를 고릅니다.',
+  },
+  {
+    key: 'naturalness',
+    title: '문장 사용 자연성 판단 (O/X)',
+    description: '문장을 보고 자연스러운지(O) 어색한지(X)를 판단합니다.',
+  },
+  {
+    key: 'contextMeaning',
+    title: '문맥 기반 의미 판단',
+    description: '문맥 속 의미를 고르는 다의어 구분 훈련입니다.',
+  },
+  {
+    key: 'sentenceTranslation',
+    title: '문장 해석 (뜻 블러)',
+    description: '영문만 보고 먼저 해석한 뒤 뜻을 확인합니다.',
+  },
+  {
+    key: 'meaningRecall',
+    title: '뜻 → 단어 회상',
+    description: '뜻을 보고 해당 영어 단어를 떠올립니다.',
+  },
+  {
+    key: 'wrongCollocation',
+    title: '잘못된 결합 찾기',
+    description: '그럴듯하지만 틀린 결합을 골라냅니다.',
+  },
+  {
+    key: 'sentenceRewrite',
+    title: '문장 재작성 (지정 단어 사용)',
+    description: '지정 단어를 활용해 문장을 다시 씁니다.',
+  },
+];
+
+const PREPOSITION_POOL = ['to', 'for', 'with', 'on', 'in', 'at', 'from', 'into', 'by', 'about', 'against'];
 
 function readCookie(name) {
   if (typeof document === 'undefined') return '';
@@ -100,6 +150,193 @@ function SettingGroup({ title, description, children }) {
       <div className="group-body">{children}</div>
     </section>
   );
+}
+
+function shuffleArray(items) {
+  const array = [...items];
+  for (let i = array.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
+function escapeRegExp(value) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function buildStudyQuestions(entries, selectedModules, questionLimit) {
+  const meaningPool = entries
+    .flatMap((entry) => entry.meanings || [])
+    .map((meaning) => meaning.definition_ko)
+    .filter(Boolean);
+
+  const questionMap = Object.fromEntries(selectedModules.map((key) => [key, []]));
+
+  const addQuestion = (moduleKey, question) => {
+    if (!questionMap[moduleKey]) return;
+    questionMap[moduleKey].push(question);
+  };
+
+  entries.forEach((entry) => {
+    const examples = (entry.examples || []).flatMap((group) => group.items || []);
+    const meanings = entry.meanings || [];
+    const requiredComplements = entry.requiredComplements || [];
+    const grammarNotes = entry.grammarNotes || '';
+    const prepositionPatterns = entry.prepositionPatterns || [];
+    const collocationItems = (entry.collocations || []).flatMap((group) => group.items || []);
+
+    if (selectedModules.includes('preposition')) {
+      prepositionPatterns.forEach((pattern, index) => {
+        const prep = pattern.prep?.trim();
+        if (!prep) return;
+        const example = pattern.example || '';
+        const prompt = example
+          ? example.replace(new RegExp(`\\b${escapeRegExp(prep)}\\b`, 'i'), '___')
+          : `${entry.word} ___`;
+        addQuestion('preposition', {
+          id: `${entry.word}-preposition-${index}`,
+          type: 'fill',
+          prompt,
+          answer: prep,
+          hint: pattern.meaning_ko || requiredComplements[0] || '',
+        });
+      });
+    }
+
+    if (selectedModules.includes('naturalness')) {
+      examples.forEach((example, index) => {
+        if (!example?.sentence) return;
+        addQuestion('naturalness', {
+          id: `${entry.word}-natural-${index}`,
+          type: 'ox',
+          prompt: '다음 문장이 자연스러우면 O, 어색하면 X를 고르세요.',
+          sentence: example.sentence,
+          answer: 'O',
+          hint: grammarNotes || requiredComplements[0] || '',
+        });
+
+        const prepCandidates = prepositionPatterns.map((pattern) => pattern.prep).filter(Boolean);
+        const prepList = prepCandidates.length ? prepCandidates : PREPOSITION_POOL;
+        const targetPrep = prepList.find((prep) =>
+          new RegExp(`\\b${escapeRegExp(prep)}\\b`, 'i').test(example.sentence)
+        );
+        if (targetPrep) {
+          const wrongPrepOptions = PREPOSITION_POOL.filter((prep) => prep !== targetPrep);
+          const wrongPrep = wrongPrepOptions[Math.floor(Math.random() * wrongPrepOptions.length)];
+          const corrupted = example.sentence.replace(
+            new RegExp(`\\b${escapeRegExp(targetPrep)}\\b`, 'i'),
+            wrongPrep
+          );
+          addQuestion('naturalness', {
+            id: `${entry.word}-natural-x-${index}`,
+            type: 'ox',
+            prompt: '다음 문장이 자연스러우면 O, 어색하면 X를 고르세요.',
+            sentence: corrupted,
+            answer: 'X',
+            hint: requiredComplements[0] || '',
+          });
+        }
+      });
+    }
+
+    if (selectedModules.includes('contextMeaning')) {
+      examples.forEach((example, index) => {
+        if (!example?.sentence || meanings.length === 0) return;
+        const correct = meanings[0]?.definition_ko;
+        if (!correct) return;
+        const wrongOptions = shuffleArray(
+          meaningPool.filter((meaning) => meaning && meaning !== correct)
+        ).slice(0, 2);
+        const options = shuffleArray([correct, ...wrongOptions]);
+        addQuestion('contextMeaning', {
+          id: `${entry.word}-context-${index}`,
+          type: 'multi',
+          prompt: '다음 문장에서 해당 단어의 의미로 알맞은 것은?',
+          sentence: example.sentence,
+          options,
+          answer: correct,
+        });
+      });
+    }
+
+    if (selectedModules.includes('sentenceTranslation')) {
+      examples.forEach((example, index) => {
+        if (!example?.sentence || !example.meaning_ko) return;
+        addQuestion('sentenceTranslation', {
+          id: `${entry.word}-translation-${index}`,
+          type: 'reveal',
+          prompt: '문장을 먼저 해석해 보세요.',
+          sentence: example.sentence,
+          answer: example.meaning_ko,
+          blurAnswer: true,
+        });
+      });
+    }
+
+    if (selectedModules.includes('meaningRecall')) {
+      meanings.forEach((meaning, index) => {
+        if (!meaning.definition_ko) return;
+        addQuestion('meaningRecall', {
+          id: `${entry.word}-recall-${index}`,
+          type: 'reveal',
+          prompt: `뜻: ${meaning.definition_ko}`,
+          answer: entry.word,
+          hint: meaning.note || '',
+        });
+      });
+    }
+
+    if (selectedModules.includes('wrongCollocation')) {
+      const patternOptions = prepositionPatterns
+        .map((pattern) => pattern.prep)
+        .filter(Boolean)
+        .map((prep) => `${entry.word} ${prep}`);
+      const collocationOptions = collocationItems
+        .map((item) => item.phrase)
+        .filter(Boolean);
+      const correctOptions = Array.from(new Set([...patternOptions, ...collocationOptions]));
+      if (correctOptions.length >= 2) {
+        const wrongPrepOptions = PREPOSITION_POOL.filter(
+          (prep) => !prepositionPatterns.some((pattern) => pattern.prep === prep)
+        );
+        const wrongPrep = wrongPrepOptions[Math.floor(Math.random() * wrongPrepOptions.length)] || 'to';
+        const wrongOption = `${entry.word} ${wrongPrep}`;
+        const picks = shuffleArray(correctOptions).slice(0, 2);
+        const options = shuffleArray([...picks, wrongOption]);
+        addQuestion('wrongCollocation', {
+          id: `${entry.word}-wrong-${entry.word}`,
+          type: 'multi',
+          prompt: '다음 중 틀린 결합을 고르세요.',
+          options,
+          answer: wrongOption,
+        });
+      }
+    }
+
+    if (selectedModules.includes('sentenceRewrite')) {
+      examples.forEach((example, index) => {
+        if (!example?.sentence) return;
+        const regex = new RegExp(`\\b${escapeRegExp(entry.word)}\\b`, 'i');
+        if (!regex.test(example.sentence)) return;
+        const blanked = example.sentence.replace(regex, '_____');
+        addQuestion('sentenceRewrite', {
+          id: `${entry.word}-rewrite-${index}`,
+          type: 'reveal',
+          prompt: `${entry.word}를 사용해 문장을 다시 써 보세요.`,
+          sentence: blanked,
+          answer: example.sentence,
+          hint: requiredComplements[0] || '',
+        });
+      });
+    }
+  });
+
+  const limitedQuestions = Object.fromEntries(
+    Object.entries(questionMap).map(([key, list]) => [key, shuffleArray(list).slice(0, questionLimit)])
+  );
+
+  return limitedQuestions;
 }
 
 function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSourceOptions: sources }) {
@@ -327,6 +564,44 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSo
         )}
       </SettingGroup>
 
+      <SettingGroup
+        title="맞춤 학습 모듈"
+        description="Lexicon Lab 데이터를 기반으로 문제 유형을 선택하고 학습할 수 있습니다."
+      >
+        <div className="settings-grid">
+          {STUDY_MODULES.map((module) => (
+            <SettingToggle
+              key={module.key}
+              label={module.title}
+              description={module.description}
+              checked={settings.studyModules.includes(module.key)}
+              onChange={(value) => {
+                const next = value
+                  ? [...settings.studyModules, module.key]
+                  : settings.studyModules.filter((key) => key !== module.key);
+                onChange({ ...settings, studyModules: next });
+              }}
+            />
+          ))}
+        </div>
+        <div className="setting-field">
+          <label htmlFor="studyQuestionCount">모듈별 문항 수</label>
+          <input
+            id="studyQuestionCount"
+            type="number"
+            min="3"
+            max="12"
+            value={settings.studyQuestionCount}
+            onChange={(event) => {
+              const nextValue = Number(event.target.value);
+              const safeValue = Number.isNaN(nextValue) ? 6 : Math.min(12, Math.max(3, nextValue));
+              onChange({ ...settings, studyQuestionCount: safeValue });
+            }}
+          />
+          <p className="setting-desc">선택한 모듈마다 최대 N개의 문제를 랜덤으로 제공합니다.</p>
+        </div>
+      </SettingGroup>
+
       <SettingGroup title="퀴즈 정답 블러" description="정답을 바로 보지 않도록 흐림 처리 옵션을 제공합니다.">
         <SettingToggle
           label="정답 흐림 처리"
@@ -540,6 +815,119 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswe
         </div>
       ))}
     </div>
+  );
+}
+
+function StudyQuestion({ item }) {
+  const [revealed, setRevealed] = useState(false);
+  const [selected, setSelected] = useState(null);
+
+  const handleOptionClick = (option) => {
+    setSelected(option);
+    setRevealed(true);
+  };
+
+  const showAnswer = revealed || (item.options && selected);
+  const answerText = item.answer || '';
+
+  return (
+    <li className="study-question">
+      <p className="question-prompt">{item.prompt}</p>
+      {item.sentence && <p className="question-sentence">{item.sentence}</p>}
+      {item.options && (
+        <div className="question-options">
+          {item.options.map((option) => {
+            const isSelected = selected === option;
+            const isCorrect = showAnswer && option === item.answer;
+            return (
+              <button
+                key={option}
+                type="button"
+                className={`question-option ${isSelected ? 'selected' : ''} ${isCorrect ? 'correct' : ''}`}
+                onClick={() => handleOptionClick(option)}
+              >
+                {option}
+              </button>
+            );
+          })}
+        </div>
+      )}
+      {item.type === 'ox' && (
+        <div className="question-options">
+          {['O', 'X'].map((option) => {
+            const isSelected = selected === option;
+            const isCorrect = showAnswer && option === item.answer;
+            return (
+              <button
+                key={option}
+                type="button"
+                className={`question-option ${isSelected ? 'selected' : ''} ${isCorrect ? 'correct' : ''}`}
+                onClick={() => handleOptionClick(option)}
+              >
+                {option}
+              </button>
+            );
+          })}
+        </div>
+      )}
+      {item.hint && <p className="question-hint">힌트: {item.hint}</p>}
+      {answerText && (
+        <div
+          className={`question-answer ${
+            showAnswer ? 'revealed' : item.blurAnswer ? 'blurred' : 'hidden'
+          }`}
+        >
+          <span className="answer-label">정답</span>
+          <span className="answer-text">{answerText}</span>
+        </div>
+      )}
+      {!showAnswer && (
+        <button type="button" className="answer-toggle" onClick={() => setRevealed(true)}>
+          정답 보기
+        </button>
+      )}
+    </li>
+  );
+}
+
+function StudyModuleBoard({ questions, onShuffle }) {
+  const selectedModules = STUDY_MODULES.filter((module) => questions[module.key]?.length);
+
+  return (
+    <section className="study-board">
+      <header className="study-board-header">
+        <div>
+          <p className="eyebrow">맞춤 학습</p>
+          <h2>Lexicon Lab 연계 모듈</h2>
+          <p className="study-desc">선택한 모듈 기준으로 단어 문제를 랜덤 제공해 학습할 수 있습니다.</p>
+        </div>
+        <button type="button" className="ghost" onClick={onShuffle}>
+          문제 다시 섞기
+        </button>
+      </header>
+
+      {selectedModules.length === 0 ? (
+        <div className="study-empty">
+          <p>맞춤 설정에서 학습 모듈을 선택하면 문제가 표시됩니다.</p>
+        </div>
+      ) : (
+        <div className="study-grid">
+          {selectedModules.map((module) => (
+            <article key={module.key} className="study-module-card">
+              <div className="study-module-header">
+                <h3>{module.title}</h3>
+                <p>{module.description}</p>
+              </div>
+              <ol className="study-questions">
+                {questions[module.key].map((item) => (
+                  <StudyQuestion key={item.id} item={item} />
+                ))}
+              </ol>
+            </article>
+          ))}
+        </div>
+      )}
+    </section>
   );
 }
 
@@ -838,6 +1226,7 @@ export default function LexiconLab() {
   const [panelOpen, setPanelOpen] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [pageSize, setPageSize] = useState(8);
+  const [shuffleSeed, setShuffleSeed] = useState(0);
 
   const handleWordSourceChange = (nextSource) => {
     setSettings((prev) => ({ ...prev, wordSource: nextSource }));
@@ -898,6 +1287,11 @@ export default function LexiconLab() {
     setCurrentPage(1);
   }, [entries, pageSize]);
 
+  const studyQuestions = useMemo(
+    () => buildStudyQuestions(entries, settings.studyModules, settings.studyQuestionCount),
+    [entries, settings.studyModules, settings.studyQuestionCount, shuffleSeed]
+  );
+
   const totalPages = Math.max(1, Math.ceil(entries.length / pageSize));
   const visibleEntries = useMemo(() => {
     const start = (currentPage - 1) * pageSize;
@@ -908,6 +1302,10 @@ export default function LexiconLab() {
     const page = Math.min(Math.max(nextPage, 1), totalPages);
     setCurrentPage(page);
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const handleShuffle = () => {
+    setShuffleSeed((prev) => prev + 1);
   };
 
   useEffect(() => {
@@ -961,6 +1359,13 @@ export default function LexiconLab() {
       {error && <p className="status error">{error}</p>}
 
       {!loading && !error && entries.length === 0 && <p className="status">단어 데이터가 없습니다.</p>}
+
+      {!loading && !error && (
+        <StudyModuleBoard
+          questions={studyQuestions}
+          onShuffle={handleShuffle}
+        />
+      )}
 
       <PaginationControls
         currentPage={currentPage}

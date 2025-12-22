@@ -185,6 +185,153 @@
   box-shadow: none;
 }
 
+.study-board {
+  margin: 24px 0 32px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 18px;
+}
+
+.study-board-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.study-desc {
+  margin: 6px 0 0;
+  color: #b8c7e6;
+}
+
+.study-empty {
+  padding: 16px;
+  border-radius: 14px;
+  background: rgba(15, 23, 42, 0.6);
+  color: #cbd5f2;
+  text-align: center;
+}
+
+.study-grid {
+  display: grid;
+  gap: 16px;
+}
+
+.study-module-card {
+  padding: 16px;
+  border-radius: 16px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  display: grid;
+  gap: 12px;
+}
+
+.study-module-header h3 {
+  margin: 0;
+  font-size: 18px;
+}
+
+.study-module-header p {
+  margin: 4px 0 0;
+  color: #a6b6d4;
+}
+
+.study-questions {
+  display: grid;
+  gap: 12px;
+  padding-left: 18px;
+  margin: 0;
+}
+
+.study-question {
+  padding: 12px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  display: grid;
+  gap: 8px;
+}
+
+.question-prompt {
+  margin: 0;
+  font-weight: 600;
+}
+
+.question-sentence {
+  margin: 0;
+  color: #e0e8ff;
+}
+
+.question-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.question-option {
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: rgba(255, 255, 255, 0.06);
+  color: #e7ecf6;
+  padding: 6px 10px;
+  border-radius: 10px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.question-option.selected {
+  border-color: #38bdf8;
+  color: #f0f7ff;
+}
+
+.question-option.correct {
+  border-color: #22c55e;
+  color: #dcfce7;
+  background: rgba(34, 197, 94, 0.15);
+}
+
+.question-hint {
+  margin: 0;
+  color: #94a3c9;
+  font-size: 13px;
+}
+
+.question-answer {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  background: rgba(15, 23, 42, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.question-answer.hidden {
+  display: none;
+}
+
+.question-answer.blurred {
+  filter: blur(6px);
+}
+
+.answer-label {
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: #7ea8ff;
+}
+
+.answer-toggle {
+  align-self: flex-start;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: transparent;
+  color: #dbe6ff;
+  padding: 6px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
 .bookshelf {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
