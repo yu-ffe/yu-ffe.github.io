@@ -16,6 +16,11 @@ const wordSourceOptions = Array.from(
   )
 ).sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
 
+const wordSourceLabels = {
+  Transfer: 'Transfer · 편입',
+  CSAT: 'CSAT · 수능',
+};
+
 const defaultSettings = {
   showConcept: true,
   meaningLimit: 3,
@@ -54,6 +59,10 @@ function writeCookie(name, value, days = 90) {
 
 function getWordSourceKey(path) {
   return path.match(/\/words\/json\/([^/]+)\//)?.[1] ?? '';
+}
+
+function getWordSourceLabel(source) {
+  return wordSourceLabels[source] ?? source;
 }
 
 function loadWordEntries(sourceFilter) {
@@ -179,7 +188,7 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSo
                   checked={settings.wordSource === source}
                   onChange={(e) => onChange({ ...settings, wordSource: e.target.value })}
                 />
-                {source}
+                {getWordSourceLabel(source)}
               </label>
             ))}
           </div>
@@ -830,6 +839,10 @@ export default function LexiconLab() {
   const [currentPage, setCurrentPage] = useState(1);
   const [pageSize, setPageSize] = useState(8);
 
+  const handleWordSourceChange = (nextSource) => {
+    setSettings((prev) => ({ ...prev, wordSource: nextSource }));
+  };
+
   useEffect(() => {
     const saved = readCookie(SETTINGS_COOKIE);
     if (saved) {
@@ -913,6 +926,30 @@ export default function LexiconLab() {
           <h1>단어 카드</h1>
         </div>
         <div className="top-actions">
+          {wordSourceOptions.length > 0 && (
+            <div className="source-selector" role="group" aria-label="단어장 선택">
+              <span className="source-label">단어장</span>
+              <div className="source-buttons">
+                <button
+                  type="button"
+                  className={`source-chip ${settings.wordSource === 'all' ? 'active' : ''}`}
+                  onClick={() => handleWordSourceChange('all')}
+                >
+                  전체
+                </button>
+                {wordSourceOptions.map((source) => (
+                  <button
+                    key={source}
+                    type="button"
+                    className={`source-chip ${settings.wordSource === source ? 'active' : ''}`}
+                    onClick={() => handleWordSourceChange(source)}
+                  >
+                    {getWordSourceLabel(source)}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
           <button className="panel-toggle" type="button" onClick={() => setPanelOpen((v) => !v)} aria-label="설정 열기">
             <span className="toggle-icon">⚙</span>
             <span>맞춤 설정</span>

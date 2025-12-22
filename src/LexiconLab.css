@@ -43,6 +43,43 @@
   gap: 12px;
 }
 
+.source-selector {
+  display: grid;
+  gap: 6px;
+}
+
+.source-label {
+  font-size: 12px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #7ea8ff;
+}
+
+.source-buttons {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.source-chip {
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  background: rgba(255, 255, 255, 0.04);
+  color: #d7e3fb;
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  cursor: pointer;
+  transition: border-color 0.2s ease, background 0.2s ease, color 0.2s ease;
+}
+
+.source-chip.active {
+  border-color: #3b82f6;
+  background: rgba(37, 99, 235, 0.2);
+  color: #f5f8ff;
+  box-shadow: 0 8px 20px rgba(37, 99, 235, 0.3);
+}
+
 .ghost {
   background: transparent;
   color: #a9b8d4;
