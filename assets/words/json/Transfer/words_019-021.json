@@ -1,0 +1,857 @@
+[
+  {
+    "word": "memoir",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A written account of personal experiences, especially focusing on particular events, themes, or periods rather than a complete life story.",
+        "definition_ko": "회고록, 자서전적 에세이(특정 경험·시기 중심의 개인 기록).",
+        "note": "autobiography(일생 전반의 자서전)보다 ‘특정 경험/테마 중심’이라는 점이 핵심입니다."
+      }
+    ],
+    "concept": "한 사람의 삶 전체가 아니라, 기억에 남는 경험·시기·주제를 중심으로 정리한 ‘개인적 기록’.",
+    "etymology": "프랑스어 mémoire(기억, 기록) 계열에서 들어온 말로, ‘기억/회상’이라는 뿌리가 그대로 남아 있습니다.",
+    "semanticExtension": "출판 장르(유명인 회고록)뿐 아니라 ‘war memoir(전쟁 회고록)’처럼 특정 사건/직업 경험을 기록하는 형태로 확장됩니다. 복수형 memoirs는 ‘회고록들/회고’ 의미로 자주 쓰입니다.",
+    "nuanceRegister": "중립~문어. 문학/출판/비평 문맥에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사: a memoir / memoirs. ‘write a memoir’, ‘publish a memoir’ 같은 동사와 결합이 흔합니다. 회고록 속 ‘장면’을 가리킬 때는 ‘in his memoir’로 표현합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~에 대한 회고록",
+        "example": "a memoir of childhood"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 관한 회고록",
+        "example": "a memoir about grief"
+      }
+    ],
+    "requiredComplements": [
+      "a memoir of + 주제/시기 — ‘~에 대한 회고록’",
+      "a memoir about + 주제 — ‘~에 관한 회고록’",
+      "in (one's) memoir — ‘(누구의) 회고록에서’"
+    ],
+    "morphology": "어근 자체가 ‘memory(기억)’과 친척이라, ‘기억 기반 기록물’로 묶어두면 안정적으로 기억됩니다.",
+    "derivatives": [
+      {
+        "word": "memoirist",
+        "meaning_ko": "회고록 작가"
+      },
+      {
+        "word": "memorial",
+        "meaning_ko": "기념의; 추모의(어근 연상용)"
+      },
+      {
+        "word": "memory",
+        "meaning_ko": "기억(연상 단어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "autobiography",
+        "meaning_ko": "자서전(일생 중심)"
+      },
+      {
+        "word": "biography",
+        "meaning_ko": "전기(타인이 쓴)"
+      },
+      {
+        "word": "diary",
+        "meaning_ko": "일기"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "reminiscence",
+        "meaning_ko": "회상; 회고담"
+      },
+      {
+        "word": "personal account",
+        "meaning_ko": "개인적 기록/증언"
+      },
+      {
+        "word": "recollection",
+        "meaning_ko": "회상(내용)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "autobiography",
+        "meaning_ko": "자서전(범위가 더 넓음)"
+      },
+      {
+        "word": "journal",
+        "meaning_ko": "일지/저널(기록 방식 차이)"
+      },
+      {
+        "word": "chronicle",
+        "meaning_ko": "연대기(서술 방식 차이)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fiction",
+        "meaning_ko": "허구, 소설"
+      },
+      {
+        "word": "fabrication",
+        "meaning_ko": "꾸며낸 이야기(허위)"
+      },
+      {
+        "word": "anonymity",
+        "meaning_ko": "익명성(개인 경험 노출의 반대 맥락)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "write a memoir",
+            "meaning_ko": "회고록을 쓰다"
+          },
+          {
+            "phrase": "read a memoir",
+            "meaning_ko": "회고록을 읽다"
+          },
+          {
+            "phrase": "a memoir writer",
+            "meaning_ko": "회고록 작가"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "publish a memoir",
+            "meaning_ko": "회고록을 출간하다"
+          },
+          {
+            "phrase": "a candid memoir",
+            "meaning_ko": "솔직한 회고록"
+          },
+          {
+            "phrase": "a memoir of childhood",
+            "meaning_ko": "어린 시절 회고록"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a searing memoir",
+            "meaning_ko": "가슴을 후벼 파는(매우 강렬한) 회고록"
+          },
+          {
+            "phrase": "a memoir that chronicles",
+            "meaning_ko": "~을 기록해 풀어내는 회고록"
+          },
+          {
+            "phrase": "a memoir of survival",
+            "meaning_ko": "생존/극복의 회고록"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She wrote a memoir about her school years.",
+            "meaning_ko": "그녀는 학창 시절에 관한 회고록을 썼습니다."
+          },
+          {
+            "sentence": "I’m reading a memoir right now.",
+            "meaning_ko": "저는 지금 회고록을 읽고 있습니다."
+          },
+          {
+            "sentence": "His memoir is honest and moving.",
+            "meaning_ko": "그의 회고록은 솔직하고 감동적입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Unlike an autobiography, the memoir focuses on a few formative years.",
+            "meaning_ko": "자서전과 달리, 그 회고록은 몇몇 형성기(중요한 시기)에 집중합니다."
+          },
+          {
+            "sentence": "The book is a candid memoir of life in the military.",
+            "meaning_ko": "그 책은 군대 생활에 대한 솔직한 회고록입니다."
+          },
+          {
+            "sentence": "In her memoir, she describes how the loss reshaped her priorities.",
+            "meaning_ko": "그녀는 회고록에서 상실이 자신의 우선순위를 어떻게 바꿨는지 묘사합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The memoir avoids self-pity and instead examines the events with clear-eyed compassion.",
+            "meaning_ko": "그 회고록은 자기연민을 피하고, 냉정하면서도 연민 어린 시선으로 사건을 성찰합니다."
+          },
+          {
+            "sentence": "A searing memoir can illuminate private pain while offering a broader social lens.",
+            "meaning_ko": "강렬한 회고록은 개인의 고통을 비추면서도 더 넓은 사회적 관점을 제시할 수 있습니다."
+          },
+          {
+            "sentence": "Critics praised the memoir for its restraint, noting what it left unsaid was as powerful as what it revealed.",
+            "meaning_ko": "평론가들은 그 회고록의 절제력을 칭찬하며, 말하지 않은 부분이 드러낸 내용만큼 강렬하다고 평했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "memoir는 ‘기억(memory) 기반의 기록’이고, autobiography는 ‘인생 전체를 시간순으로’ 다루는 경우가 많습니다. 시험에서는 두 단어 대비가 자주 나오니 ‘회고록=특정 경험/주제 중심’으로 고정해 두세요. publish/write a memoir 같은 동사 결합도 같이 외우면 문장 완성이 빨라집니다.",
+    "tags": [
+      "글쓰기",
+      "출판",
+      "회상",
+      "자기서사",
+      "문학"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: She decided to write a ____ about her years abroad.",
+            "a": "memoir",
+            "meaning_ko": "특정 시기 경험을 기록하는 회고록."
+          },
+          {
+            "q": "Memoir is closest in meaning to:",
+            "a": "personal account",
+            "meaning_ko": "개인적 경험 기록이라는 핵심이 같습니다."
+          },
+          {
+            "q": "Countability of memoir:",
+            "a": "countable",
+            "meaning_ko": "a memoir / two memoirs처럼 가산으로 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Best contrast: memoir vs. autobiography",
+            "a": "A memoir focuses on selected experiences or themes, while an autobiography usually covers a whole life.",
+            "meaning_ko": "범위 차이가 핵심입니다."
+          },
+          {
+            "q": "Fill in the blank: The book is a memoir ____ childhood.",
+            "a": "of",
+            "meaning_ko": "a memoir of + 시기/주제."
+          },
+          {
+            "q": "Error check: 'He published memoir.' (Correct it.)",
+            "a": "He published a memoir.",
+            "meaning_ko": "단수 가산명사이므로 관사가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best fit: The memoir’s restraint made its emotional impact even more ____.",
+            "a": "powerful",
+            "meaning_ko": "절제 → 오히려 더 강렬하다는 논리가 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase best matches a strong literary review tone?",
+            "a": "a searing memoir",
+            "meaning_ko": "문학 비평에서 강렬함을 표현할 때 자주 씁니다."
+          },
+          {
+            "q": "Fill in the blank: In his memoir, he ____ how the event changed him.",
+            "a": "recounts",
+            "meaning_ko": "recount(자세히 이야기하다)와 memoir 결합이 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wander",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To walk or move around without a fixed direction or purpose; to travel casually; (of mind) to drift away from the topic.",
+        "definition_ko": "정처 없이 걷다/돌아다니다; (여행지에서) 배회하다; (생각이) 딴 데로 새다.",
+        "note": "wander off(딴 데로 가버리다), wander around(이리저리 돌아다니다), mind wanders(딴생각하다)가 핵심입니다."
+      }
+    ],
+    "concept": "목표·방향이 뚜렷하지 않은 상태로 ‘이리저리 움직이거나’ ‘생각이 흘러가는’ 것.",
+    "etymology": "고대 게르만 계열에서 ‘방향 없이 돌아다니다’ 의미로 이어져 왔습니다(현대 영어에서 의미가 비교적 그대로 유지).",
+    "semanticExtension": "물리적 이동(길을 헤매다)에서 추상적 이동(대화/생각이 주제에서 벗어나다)으로 확장되어, 글쓰기·발표 평가에서도 흔히 쓰입니다.",
+    "nuanceRegister": "중립. 일상·문학·학술 모두에서 자연스럽습니다.",
+    "grammarNotes": "자동사: wander around/through/along. wander off = (무의식적으로) 다른 곳으로 가다/벗어나다. wander from + 주제 = 주제에서 벗어나다. 명사: a wander(산책/배회)도 가능하지만 동사가 훨씬 흔합니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사(명사로 쓸 때) / 해당 없음(동사)",
+    "prepositionPatterns": [
+      {
+        "prep": "around",
+        "meaning_ko": "이리저리 돌아다니다",
+        "example": "wander around the city"
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "~을 지나/가로질러 돌아다니다",
+        "example": "wander through the woods"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~에서 벗어나다(주제/길)",
+        "example": "wander from the main point"
+      }
+    ],
+    "requiredComplements": [
+      "wander around/through/along — ‘정처 없이 돌아다니다’",
+      "wander off — ‘딴 데로 가버리다/길을 벗어나다’",
+      "wander from + 주제 — ‘주제에서 벗어나다’",
+      "my mind wanders — ‘딴생각이 들다’"
+    ],
+    "morphology": "형태 분석은 크게 중요하지 않고, 핵심 이미지는 ‘목표 없는 이동’입니다(물리/정신 모두).",
+    "derivatives": [
+      {
+        "word": "wanderer",
+        "meaning_ko": "방랑자"
+      },
+      {
+        "word": "wandering",
+        "meaning_ko": "방랑하는; 헤매는"
+      },
+      {
+        "word": "wanderlust",
+        "meaning_ko": "여행/방랑 욕구"
+      }
+    ],
+    "related": [
+      {
+        "word": "roam",
+        "meaning_ko": "배회하다(넓은 범위)"
+      },
+      {
+        "word": "stroll",
+        "meaning_ko": "산책하다(여유)"
+      },
+      {
+        "word": "drift",
+        "meaning_ko": "흘러가다; (생각이) 흐트러지다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "roam",
+        "meaning_ko": "돌아다니다"
+      },
+      {
+        "word": "meander",
+        "meaning_ko": "구불구불/이리저리 흐르다(문어)"
+      },
+      {
+        "word": "stray",
+        "meaning_ko": "벗어나다(길/주제)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "stroll",
+        "meaning_ko": "느긋하게 걷다"
+      },
+      {
+        "word": "ramble",
+        "meaning_ko": "두서없이 돌아다니다/말이 길어지다"
+      },
+      {
+        "word": "drift",
+        "meaning_ko": "서서히 흘러가다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "head",
+        "meaning_ko": "향하다(목표 지향)"
+      },
+      {
+        "word": "proceed",
+        "meaning_ko": "진행하다"
+      },
+      {
+        "word": "focus",
+        "meaning_ko": "집중하다(마음 의미의 반대)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "wander around",
+            "meaning_ko": "이리저리 돌아다니다"
+          },
+          {
+            "phrase": "wander off",
+            "meaning_ko": "딴 데로 가버리다"
+          },
+          {
+            "phrase": "mind wanders",
+            "meaning_ko": "딴생각하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "wander through the streets",
+            "meaning_ko": "거리들을 헤매듯 돌아다니다"
+          },
+          {
+            "phrase": "wander from the topic",
+            "meaning_ko": "주제에서 벗어나다"
+          },
+          {
+            "phrase": "let your thoughts wander",
+            "meaning_ko": "생각을 이리저리 흘려보내다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "wander aimlessly",
+            "meaning_ko": "목적 없이 배회하다"
+          },
+          {
+            "phrase": "wander into danger",
+            "meaning_ko": "위험한 곳으로 무심코 들어가다"
+          },
+          {
+            "phrase": "a wandering narrative",
+            "meaning_ko": "산만하게 전개되는 서술"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We wandered around the park.",
+            "meaning_ko": "우리는 공원을 이리저리 돌아다녔습니다."
+          },
+          {
+            "sentence": "Don’t wander off.",
+            "meaning_ko": "딴 데로 가지 마."
+          },
+          {
+            "sentence": "My mind wandered during the lecture.",
+            "meaning_ko": "강의 중에 딴생각이 났습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They wandered through the old town without a plan.",
+            "meaning_ko": "그들은 계획 없이 구시가지를 돌아다녔습니다."
+          },
+          {
+            "sentence": "He started well, but his answer wandered from the main point.",
+            "meaning_ko": "그는 시작은 좋았지만 답이 핵심에서 벗어났습니다."
+          },
+          {
+            "sentence": "I let my thoughts wander and suddenly remembered an old friend.",
+            "meaning_ko": "생각을 흘려보내다 보니 문득 옛 친구가 떠올랐습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The child wandered into the road while the adults were distracted.",
+            "meaning_ko": "어른들이 한눈판 사이 아이가 도로로 들어가 버렸습니다."
+          },
+          {
+            "sentence": "A wandering narrative can dilute the argument, even if the individual scenes are vivid.",
+            "meaning_ko": "장면이 선명하더라도, 서술이 산만하면 논지가 흐려질 수 있습니다."
+          },
+          {
+            "sentence": "He wandered aimlessly for hours, as if movement could postpone the decision he feared.",
+            "meaning_ko": "그는 두려워하던 결정을 미루기라도 하듯 몇 시간 동안 목적 없이 배회했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "wander는 ‘목적/방향 없음’이 핵심이라 roam(넓게 배회)·stroll(여유 산책)과 대비해서 잡으면 정확해집니다. 시험에서는 wander off(딴 데로 가버리다)와 mind wanders(딴생각하다)가 단골입니다. 글/발표 평가에서 ‘answer wandered’처럼 ‘주제에서 벗어났다’ 용법도 자주 나오니 같이 체크하세요.",
+    "tags": [
+      "이동",
+      "배회",
+      "산만",
+      "여행",
+      "글/말"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Don’t wander ____.",
+            "a": "off",
+            "meaning_ko": "wander off = 딴 데로 가버리다."
+          },
+          {
+            "q": "Choose the best meaning: My mind wandered.",
+            "a": "I started thinking about something else.",
+            "meaning_ko": "딴생각하다."
+          },
+          {
+            "q": "Common collocation:",
+            "a": "wander around",
+            "meaning_ko": "around와 결합이 매우 흔합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: His answer wandered ____ the main point.",
+            "a": "from",
+            "meaning_ko": "wander from = 주제에서 벗어나다."
+          },
+          {
+            "q": "Error check: 'We wandered to the park aimlessly.' (More natural?)",
+            "a": "We wandered around the park aimlessly.",
+            "meaning_ko": "wander는 ‘목적 없는 이동’이라 around/through가 더 자연스럽습니다."
+          },
+          {
+            "q": "Closest synonym in meaning: wander (in a large area)",
+            "a": "roam",
+            "meaning_ko": "넓은 범위를 배회하다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: A wandering narrative can ____ the argument’s force.",
+            "a": "weaken",
+            "meaning_ko": "산만함이 논지의 힘을 약화시키는 맥락."
+          },
+          {
+            "q": "Which sentence best implies accidental movement into danger?",
+            "a": "The toddler wandered into the street.",
+            "meaning_ko": "wander into = 무심코 들어가다."
+          },
+          {
+            "q": "Best contrast: wander vs. proceed",
+            "a": "Wander suggests no clear direction or purpose, while proceed implies moving forward in an orderly way.",
+            "meaning_ko": "목표/질서 유무 대비."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pecuniary",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Relating to money; financial, especially involving payment or monetary value.",
+        "definition_ko": "금전의, 돈과 관련된; 재정상의(특히 금전적 보상/가치).",
+        "note": "pecuniary loss/damage/interest 같은 법률·공식 문맥에서 자주 보입니다."
+      }
+    ],
+    "concept": "행동/판단의 기준이 ‘돈(금전적 이익·손해)’과 직접 연결된 상태.",
+    "etymology": "라틴어 pecunia(돈)에서 왔고, 이는 pecus(가축)와 연관된 어원으로 알려져 있습니다(가축이 재산의 기준이던 시대의 흔적).",
+    "semanticExtension": "단순 ‘financial’보다 ‘금전적 손해/보상/이해관계’에 초점이 강해, 법률(손해배상), 윤리(이해충돌), 행정(보상) 문맥으로 확장되어 굳어졌습니다.",
+    "nuanceRegister": "격식/전문(법률·공식). 일상 대화에서는 money-related/financial이 더 흔합니다.",
+    "grammarNotes": "형용사로 pecuniary + 명사(loss, damage, interest, compensation, penalty). ‘pecuniary interest’는 이해충돌 문맥에서 단골. 부사는 pecuniarily(드묾).",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "pecuniary loss/damage — ‘금전적 손실/손해’",
+      "pecuniary compensation — ‘금전적 보상’",
+      "pecuniary interest — ‘금전적 이해관계’",
+      "pecuniary penalty — ‘금전 벌금/과태료’"
+    ],
+    "morphology": "pecunia(돈) 계열 어근을 기억해두면, ‘돈 관련’이라는 의미를 바로 복원할 수 있습니다.",
+    "derivatives": [
+      {
+        "word": "pecunia",
+        "meaning_ko": "돈(라틴 어근; 연상용)"
+      },
+      {
+        "word": "pecuniarily",
+        "meaning_ko": "금전적으로(드묾)"
+      },
+      {
+        "word": "pecuniary interest",
+        "meaning_ko": "금전적 이해관계(표현 자체가 고정)"
+      }
+    ],
+    "related": [
+      {
+        "word": "financial",
+        "meaning_ko": "재정의"
+      },
+      {
+        "word": "monetary",
+        "meaning_ko": "통화/금전의"
+      },
+      {
+        "word": "compensation",
+        "meaning_ko": "보상"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "financial",
+        "meaning_ko": "재정의"
+      },
+      {
+        "word": "monetary",
+        "meaning_ko": "금전의"
+      },
+      {
+        "word": "fiscal",
+        "meaning_ko": "재정의(정부 예산 톤)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "economic",
+        "meaning_ko": "경제의(범위가 더 넓음)"
+      },
+      {
+        "word": "profitable",
+        "meaning_ko": "이익이 되는(결과 중심)"
+      },
+      {
+        "word": "material",
+        "meaning_ko": "물질적/실질적(법률·회계 톤)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "nonpecuniary",
+        "meaning_ko": "비금전적(정서적/명예 등)"
+      },
+      {
+        "word": "spiritual",
+        "meaning_ko": "정신적"
+      },
+      {
+        "word": "moral",
+        "meaning_ko": "도덕적(금전과 대비 맥락)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pecuniary loss",
+            "meaning_ko": "금전적 손실"
+          },
+          {
+            "phrase": "pecuniary damage",
+            "meaning_ko": "금전적 손해"
+          },
+          {
+            "phrase": "pecuniary interest",
+            "meaning_ko": "금전적 이해관계"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "pecuniary compensation",
+            "meaning_ko": "금전적 보상"
+          },
+          {
+            "phrase": "pecuniary penalty",
+            "meaning_ko": "금전적 벌금/제재"
+          },
+          {
+            "phrase": "pecuniary benefit",
+            "meaning_ko": "금전적 이익"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "lack of pecuniary motive",
+            "meaning_ko": "금전적 동기의 부재"
+          },
+          {
+            "phrase": "disclose a pecuniary interest",
+            "meaning_ko": "금전적 이해관계를 공개하다"
+          },
+          {
+            "phrase": "nonpecuniary harms",
+            "meaning_ko": "비금전적 피해(정신적 고통 등)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The accident caused pecuniary loss.",
+            "meaning_ko": "그 사고는 금전적 손실을 초래했습니다."
+          },
+          {
+            "sentence": "He has no pecuniary interest in the deal.",
+            "meaning_ko": "그는 그 거래에 금전적 이해관계가 없습니다."
+          },
+          {
+            "sentence": "They demanded pecuniary compensation.",
+            "meaning_ko": "그들은 금전적 보상을 요구했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The court awarded pecuniary damages for lost income.",
+            "meaning_ko": "법원은 소득 상실에 대해 금전적 손해배상을 인정했습니다."
+          },
+          {
+            "sentence": "Officials must disclose any pecuniary interest to avoid conflicts of interest.",
+            "meaning_ko": "공직자는 이해충돌을 피하기 위해 어떤 금전적 이해관계도 공개해야 합니다."
+          },
+          {
+            "sentence": "The policy focuses on pecuniary incentives rather than long-term trust.",
+            "meaning_ko": "그 정책은 장기적 신뢰보다 금전적 유인에 초점을 맞춥니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Even without a pecuniary motive, the conduct undermined public confidence and warranted sanctions.",
+            "meaning_ko": "금전적 동기가 없더라도 그 행위는 공적 신뢰를 훼손했고 제재가 정당화되었습니다."
+          },
+          {
+            "sentence": "The settlement addressed pecuniary losses but left nonpecuniary harms largely unresolved.",
+            "meaning_ko": "그 합의는 금전적 손실은 다뤘지만 비금전적 피해는 대체로 해결되지 않았습니다."
+          },
+          {
+            "sentence": "Because the advisor had a pecuniary interest, the recommendation was scrutinized for bias.",
+            "meaning_ko": "그 조언자가 금전적 이해관계를 갖고 있었기 때문에 그 권고는 편향 여부로 검증받았습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "pecuniary는 ‘돈 관련’ 중에서도 특히 법률/공식 문맥에서 ‘금전적 손해·보상·이해관계’를 말할 때 쓰입니다. financial/monetary보다 더 딱딱한 느낌이고, pecuniary interest(금전적 이해관계), pecuniary loss/damages(금전 손해/손해배상)는 거의 고정 결합이라 통째로 외우는 게 효율적입니다. 반대 개념으로 nonpecuniary(비금전적)를 같이 잡으면 독해에서 구조가 빨리 잡힙니다.",
+    "tags": [
+      "돈",
+      "법률",
+      "손해배상",
+      "이해충돌",
+      "공식문어"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The plaintiff proved ____ loss.",
+            "a": "pecuniary",
+            "meaning_ko": "법률 문맥에서 pecuniary loss(금전 손실)가 전형적입니다."
+          },
+          {
+            "q": "Closest synonym to pecuniary:",
+            "a": "monetary",
+            "meaning_ko": "금전의 = monetary."
+          },
+          {
+            "q": "Common collocation:",
+            "a": "pecuniary interest",
+            "meaning_ko": "이해충돌 문맥에서 단골 표현입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The court awarded pecuniary ____ for lost wages.",
+            "a": "damages",
+            "meaning_ko": "pecuniary damages = 금전적 손해배상."
+          },
+          {
+            "q": "Error check: 'He has a pecuniary in the company.' (Correct it.)",
+            "a": "He has a pecuniary interest in the company.",
+            "meaning_ko": "pecuniary interest in + 대상."
+          },
+          {
+            "q": "Choose the best contrast: pecuniary vs. nonpecuniary",
+            "a": "money-related vs. not money-related",
+            "meaning_ko": "금전적 vs 비금전적(정서/명예 등)."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The agreement covered pecuniary losses but not the ____ suffering.",
+            "a": "emotional",
+            "meaning_ko": "비금전적 피해의 대표가 정서적 고통입니다."
+          },
+          {
+            "q": "Fill in the blank: Officials must ____ any pecuniary interest to avoid bias.",
+            "a": "disclose",
+            "meaning_ko": "disclose(공개하다)와 결합이 매우 자연스럽습니다."
+          },
+          {
+            "q": "Which noun pair best matches formal usage?",
+            "a": "pecuniary damages / nonpecuniary harms",
+            "meaning_ko": "법률/보고서 톤에서 자주 함께 등장합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

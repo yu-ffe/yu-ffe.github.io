@@ -1,0 +1,912 @@
+[
+  {
+    "word": "vanity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Excessive pride in one’s appearance, abilities, or achievements.",
+        "definition_ko": "자기 외모·능력·성과 등에 대한 과도한 자만(허영).",
+        "note": "겉치레/과시 성향까지 포함해 부정적으로 쓰이는 경우가 많습니다."
+      },
+      {
+        "definition_en": "Something that is futile, empty, or without lasting value.",
+        "definition_ko": "덧없음, 허무함; 실속 없이 공허한 것.",
+        "note": "문어적·종교/문학적 문맥에서 ‘인생의 허무함’처럼 쓰이기도 합니다."
+      }
+    ],
+    "concept": "겉으로 드러나는 것에 대한 과도한 자만(허영) 또는 공허하고 덧없는 성질을 말합니다.",
+    "etymology": "라틴어 vanitas(‘헛됨, 공허함’)에서 왔으며, ‘허무함’ 의미에서 ‘허영/자만’ 쪽으로도 자주 쓰이게 되었습니다.",
+    "semanticExtension": "‘허영(자만)’뿐 아니라 ‘덧없음/공허함’처럼 가치가 없거나 헛된 상태를 가리키는 의미로 확장됩니다.",
+    "nuanceRegister": "대체로 격식~중립(일상에서도 사용). 2번 뜻은 다소 문어적/문학적입니다.",
+    "grammarNotes": "보통 불가산으로 쓰이지만, ‘a vanity’(허영심의 한 모습/허영의 대상)처럼 가산적으로도 드물게 쓰입니다. ‘vanity’는 사람의 성향을 비판하는 뉘앙스가 강합니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사(주로); 상황에 따라 가산으로도 가능",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 허영심/자만심이 있다",
+        "example": "vanity about his looks"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(그 점에 대해) 자만하다/우쭐해하다",
+        "example": "vanity in her achievements"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 허무함/덧없음(문어적)",
+        "example": "the vanity of worldly success"
+      }
+    ],
+    "requiredComplements": [
+      "vanity about + 명사(무엇에 대해 허영심/자만심이 있는지)",
+      "vanity in + 명사/동명사(어떤 점에서 자만하는지)",
+      "the vanity of + 명사(~의 덧없음/허무함, 문어적)"
+    ],
+    "morphology": "van- (라틴어 어근: ‘비어 있음/헛됨’의 계열) + -ity(명사형 접미사: 성질/상태)",
+    "derivatives": [
+      {
+        "word": "vain",
+        "meaning_ko": "허영심 있는; 헛된"
+      },
+      {
+        "word": "vainly",
+        "meaning_ko": "헛되이; 허영심으로"
+      },
+      {
+        "word": "vanity table",
+        "meaning_ko": "화장대(미용용 테이블)"
+      },
+      {
+        "word": "vanity press",
+        "meaning_ko": "자가출판(저자 부담 출판)"
+      }
+    ],
+    "related": [
+      {
+        "word": "pride",
+        "meaning_ko": "자부심/자존심(맥락에 따라 긍·부정)"
+      },
+      {
+        "word": "ego",
+        "meaning_ko": "자아, 자기중심성"
+      },
+      {
+        "word": "superficiality",
+        "meaning_ko": "피상성, 겉치레"
+      },
+      {
+        "word": "futility",
+        "meaning_ko": "무익함, 헛됨"
+      },
+      {
+        "word": "self-image",
+        "meaning_ko": "자기 이미지(자기 인식)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "conceit",
+        "meaning_ko": "자만(심), 잘난 체"
+      },
+      {
+        "word": "self-importance",
+        "meaning_ko": "자기 과대(의식)"
+      },
+      {
+        "word": "vainglory",
+        "meaning_ko": "허영(특히 과시적 허영)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "pride",
+        "meaning_ko": "자부심/자존심(중립~긍정도 가능)"
+      },
+      {
+        "word": "arrogance",
+        "meaning_ko": "오만(행동/태도까지 포함)"
+      },
+      {
+        "word": "narcissism",
+        "meaning_ko": "자기애(성향/심리 용어 느낌)"
+      },
+      {
+        "word": "pretension",
+        "meaning_ko": "허세, 잘난 척(근거 부족 뉘앙스)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "humility",
+        "meaning_ko": "겸손"
+      },
+      {
+        "word": "modesty",
+        "meaning_ko": "겸양, 수수함"
+      },
+      {
+        "word": "simplicity",
+        "meaning_ko": "소박함, 단순함"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "the vanity of human wishes",
+            "meaning_ko": "인간 욕망의 덧없음(문어적 표현)"
+          },
+          {
+            "phrase": "a monument to vanity",
+            "meaning_ko": "허영의 상징/기념비 같은 것"
+          },
+          {
+            "phrase": "feed someone’s vanity",
+            "meaning_ko": "누군가의 허영심을 부추기다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sheer vanity",
+            "meaning_ko": "순전한/전적인 허영심"
+          },
+          {
+            "phrase": "personal vanity",
+            "meaning_ko": "개인적 허영심"
+          },
+          {
+            "phrase": "a touch of vanity",
+            "meaning_ko": "약간의 허영심"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "vanity project",
+            "meaning_ko": "체면/과시용 프로젝트"
+          },
+          {
+            "phrase": "vanity mirror",
+            "meaning_ko": "화장용 거울"
+          },
+          {
+            "phrase": "vanity sizing",
+            "meaning_ko": "소비자 만족을 위해 치수를 작게 표기하는 것(의류)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "He mistook public applause for merit, forgetting the vanity of fame when it is not earned.",
+            "meaning_ko": "그는 대중의 박수를 공로로 착각하며, 노력 없이 얻은 명성의 덧없음을 잊고 있었다."
+          },
+          {
+            "sentence": "The palace was less a seat of power than a monument to vanity, built to impress rather than to endure.",
+            "meaning_ko": "그 궁전은 권력의 중심이라기보다, 오래 버티기보다 과시하기 위해 지어진 허영의 기념비에 가까웠다."
+          },
+          {
+            "sentence": "Flattery works because it quietly feeds vanity while pretending to offer objective praise.",
+            "meaning_ko": "아첨이 통하는 이유는, 객관적 칭찬인 척하면서 은근히 허영심을 먹여 주기 때문이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Her vanity about her appearance made her anxious in any unflattering photo.",
+            "meaning_ko": "외모에 대한 허영심 때문에, 마음에 안 드는 사진만 봐도 불안해했다."
+          },
+          {
+            "sentence": "He bought the expensive watch partly out of vanity and partly to reward himself.",
+            "meaning_ko": "그는 일부는 허영심 때문에, 일부는 스스로에게 보상하기 위해 비싼 시계를 샀다."
+          },
+          {
+            "sentence": "The report warns that chasing fame can become an exercise in vanity.",
+            "meaning_ko": "그 보고서는 명성을 좇는 일이 결국 허영에 그칠 수 있다고 경고한다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He did it for vanity, not for need.",
+            "meaning_ko": "그는 필요해서가 아니라 허영심 때문에 그걸 했다."
+          },
+          {
+            "sentence": "Too much vanity can hurt your relationships.",
+            "meaning_ko": "허영심이 지나치면 인간관계에 해가 될 수 있다."
+          },
+          {
+            "sentence": "She checked her hair in the vanity mirror.",
+            "meaning_ko": "그녀는 화장 거울로 머리를 확인했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "vanity는 ‘허영/자만’(부정적 성향)으로 가장 자주 나오고, 문어적으로는 ‘허무함/덧없음’도 중요합니다. conceit(자만)와 비슷하지만, vanity는 특히 ‘겉으로 보이는 것(외모·체면)’에 집착하는 느낌이 강합니다. 시험에서는 vanity about/in/of 같은 결합과, vanity project처럼 ‘과시용’ 의미로도 자주 출제됩니다.",
+    "tags": [
+      "성격",
+      "감정",
+      "사회",
+      "문어 표현",
+      "비판적 뉘앙스"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'vanity' in the sentence: \"The novel exposes the vanity of ambition when it is detached from virtue.\"",
+            "a": "futility or emptiness",
+            "meaning_ko": "여기서는 ‘미덕과 분리된 야망의 덧없음/공허함’ 의미가 자연스럽습니다."
+          },
+          {
+            "q": "Which option best completes the sentence? \"He built the villa as a monument ___ vanity.\"",
+            "a": "to",
+            "meaning_ko": "‘a monument to ~’는 ‘~의 상징/기념비’라는 고정 결합입니다."
+          },
+          {
+            "q": "Pick the closest synonym for 'feed someone’s vanity'.",
+            "a": "inflate someone’s ego",
+            "meaning_ko": "허영심/자만심을 ‘부풀리다’라는 의미로 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: \"She has a little vanity ___ her voice.\"",
+            "a": "about",
+            "meaning_ko": "어떤 대상에 ‘허영심/자만심이 있다’는 맥락에서 vanity about이 자연스럽습니다."
+          },
+          {
+            "q": "Which word is most similar to 'vanity' (excessive pride)?",
+            "a": "conceit",
+            "meaning_ko": "conceit는 ‘자만’으로, 허영(과도한 자만)과 의미가 가깝습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: \"It was a vanity project.\"",
+            "a": "It was done mainly to impress others.",
+            "meaning_ko": "vanity project는 실익보다 과시/체면을 위해 하는 프로젝트를 뜻합니다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "vanity is closest in meaning to:",
+            "a": "too much pride",
+            "meaning_ko": "핵심은 ‘지나친 자만/허영’입니다."
+          },
+          {
+            "q": "Opposite of vanity:",
+            "a": "humility",
+            "meaning_ko": "허영/자만의 반대 개념은 겸손입니다."
+          },
+          {
+            "q": "Which sentence uses 'vanity' correctly?",
+            "a": "His vanity made him brag about his success.",
+            "meaning_ko": "허영심 때문에 자랑한다는 의미로 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "minimize",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To reduce something to the smallest possible amount or degree.",
+        "definition_ko": "무언가를 최소화하다, 가능한 한 줄이다.",
+        "note": "risk/impact/cost/damage 등을 ‘최소화’할 때 매우 자주 씁니다."
+      },
+      {
+        "definition_en": "To downplay the importance, seriousness, or effect of something.",
+        "definition_ko": "대수롭지 않게 여기다, 축소해서 말하다.",
+        "note": "‘문제의 심각성을 최소화하다’처럼 태도/발화와 연결될 수 있습니다."
+      }
+    ],
+    "concept": "양이나 영향은 ‘줄여서 최소로’ 만들고, 말/태도에서는 ‘대수롭지 않게’ 축소합니다.",
+    "etymology": "라틴어 minimus(‘가장 작은’)에서 나온 minimum 계열에서 파생되어, ‘가장 작게 만들다’라는 의미로 굳었습니다.",
+    "semanticExtension": "물리적·수량적 감소(최소화)에서, 중요도/심각성을 ‘축소해 말하다(경시하다)’로도 확장됩니다.",
+    "nuanceRegister": "격식~중립(보고서/비즈니스/학술 문맥에서 특히 흔함).",
+    "grammarNotes": "타동사로 목적어가 필요합니다(minimize risk/impact). ‘minimize X by ~ing’(…함으로써 X를 최소화하다), ‘minimize the chance/likelihood of ~’ 같은 구조가 자주 출제됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "minimize + 명사(줄이려는 대상: risk/impact/cost/damage 등)",
+      "minimize + 명사 + by + 동명사(…함으로써 최소화)",
+      "minimize the chance/likelihood of + 명사/동명사(~할 가능성을 최소화)"
+    ],
+    "morphology": "mini-(‘작은’의 계열) + -mize(동사화: ~하게 만들다)",
+    "derivatives": [
+      {
+        "word": "minimum",
+        "meaning_ko": "최소(치)"
+      },
+      {
+        "word": "minimal",
+        "meaning_ko": "최소의, 극히 적은"
+      },
+      {
+        "word": "minimization",
+        "meaning_ko": "최소화"
+      },
+      {
+        "word": "minimally",
+        "meaning_ko": "최소한으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "reduce",
+        "meaning_ko": "줄이다"
+      },
+      {
+        "word": "mitigate",
+        "meaning_ko": "완화하다(해악/피해를)"
+      },
+      {
+        "word": "curb",
+        "meaning_ko": "억제하다"
+      },
+      {
+        "word": "optimize",
+        "meaning_ko": "최적화하다"
+      },
+      {
+        "word": "downplay",
+        "meaning_ko": "대수롭지 않게 여기다(축소하다)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "reduce",
+        "meaning_ko": "줄이다"
+      },
+      {
+        "word": "minimise",
+        "meaning_ko": "최소화하다(영국식 철자)"
+      },
+      {
+        "word": "downplay",
+        "meaning_ko": "축소해서 말하다(2번 뜻)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "mitigate",
+        "meaning_ko": "완화하다(완전히 줄이기보다 누그러뜨림)"
+      },
+      {
+        "word": "lessen",
+        "meaning_ko": "줄이다(점진적/일반적)"
+      },
+      {
+        "word": "diminish",
+        "meaning_ko": "감소시키다(규모/중요도)"
+      },
+      {
+        "word": "contain",
+        "meaning_ko": "확산을 막다/통제하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "maximize",
+        "meaning_ko": "극대화하다"
+      },
+      {
+        "word": "exacerbate",
+        "meaning_ko": "악화시키다"
+      },
+      {
+        "word": "emphasize",
+        "meaning_ko": "강조하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "minimize systemic risk",
+            "meaning_ko": "시스템 리스크를 최소화하다"
+          },
+          {
+            "phrase": "minimize the likelihood of failure",
+            "meaning_ko": "실패 가능성을 최소화하다"
+          },
+          {
+            "phrase": "minimize unintended consequences",
+            "meaning_ko": "의도치 않은 부작용을 최소화하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "minimize the impact",
+            "meaning_ko": "영향을 최소화하다"
+          },
+          {
+            "phrase": "minimize costs",
+            "meaning_ko": "비용을 최소화하다"
+          },
+          {
+            "phrase": "minimize damage",
+            "meaning_ko": "피해를 최소화하다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "minimize the time",
+            "meaning_ko": "시간을 최소화하다"
+          },
+          {
+            "phrase": "minimize errors",
+            "meaning_ko": "오류를 최소화하다"
+          },
+          {
+            "phrase": "minimize waste",
+            "meaning_ko": "낭비를 최소화하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The protocol was designed to minimize the likelihood of contamination without slowing production.",
+            "meaning_ko": "그 절차는 생산 속도를 늦추지 않으면서 오염 가능성을 최소화하도록 설계되었다."
+          },
+          {
+            "sentence": "By diversifying funding sources, the organization can minimize exposure to political pressure.",
+            "meaning_ko": "자금원을 다변화함으로써 그 단체는 정치적 압력에 대한 노출을 최소화할 수 있다."
+          },
+          {
+            "sentence": "He tried to minimize the seriousness of the breach, but the audit revealed extensive losses.",
+            "meaning_ko": "그는 침해의 심각성을 축소하려 했지만, 감사 결과 광범위한 손실이 드러났다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "We should minimize the impact on users by rolling out the change gradually.",
+            "meaning_ko": "변경 사항을 점진적으로 배포해서 사용자에게 미치는 영향을 최소화해야 합니다."
+          },
+          {
+            "sentence": "She minimized her role in the failure, even though she made the final decision.",
+            "meaning_ko": "그녀는 최종 결정을 내렸음에도, 실패에서 자신의 역할을 축소해 말했다."
+          },
+          {
+            "sentence": "Turn off background apps to minimize battery drain.",
+            "meaning_ko": "배터리 소모를 최소화하려면 백그라운드 앱을 꺼 두세요."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Try to minimize mistakes.",
+            "meaning_ko": "실수를 최소화하세요."
+          },
+          {
+            "sentence": "He minimized the problem.",
+            "meaning_ko": "그는 그 문제를 대수롭지 않게 여겼다/축소했다."
+          },
+          {
+            "sentence": "We minimized costs.",
+            "meaning_ko": "우리는 비용을 최소화했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "minimize는 시험에서 거의 항상 ‘risk/impact/cost/damage’를 목적어로 붙여 나옵니다. reduce와 비슷하지만, minimize는 ‘가능한 한 가장 작게’라는 목표가 더 뚜렷합니다. 또 2번 뜻(축소해서 말하다)은 downplay와 연결해 기억하면 안정적이고, ‘minimize the likelihood/chance of ~’ 같은 구조를 통째로 암기해 두면 빈칸/배열 문제에 강해집니다.",
+    "tags": [
+      "비즈니스",
+      "보고서",
+      "리스크 관리",
+      "학술/기술",
+      "동사"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Fill in the blank: \"The new model aims to minimize the likelihood ___ overfitting.\"",
+            "a": "of",
+            "meaning_ko": "likelihood는 보통 ‘of + 명사/동명사’로 이어집니다."
+          },
+          {
+            "q": "Choose the best option: \"By encrypting data at rest, we can minimize exposure ___ unauthorized access.\"",
+            "a": "to",
+            "meaning_ko": "exposure는 ‘to ~’와 결합해 ‘~에 대한 노출’로 자주 쓰입니다."
+          },
+          {
+            "q": "Which word best matches the meaning of minimize in: \"He minimized the seriousness of the allegation\"?",
+            "a": "downplayed",
+            "meaning_ko": "여기서는 ‘심각성을 축소하다’이므로 downplay가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: \"minimize ___\"",
+            "a": "the impact",
+            "meaning_ko": "minimize the impact는 매우 흔한 결합입니다."
+          },
+          {
+            "q": "Fill in the blank: \"We minimized delays by ___ an automated workflow.\"",
+            "a": "using",
+            "meaning_ko": "‘by + 동명사’ 구조입니다."
+          },
+          {
+            "q": "Pick the antonym of minimize.",
+            "a": "maximize",
+            "meaning_ko": "minimize의 반대는 maximize(극대화)입니다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "minimize means:",
+            "a": "make as small as possible",
+            "meaning_ko": "핵심은 ‘가능한 한 작게 만들다/줄이다’입니다."
+          },
+          {
+            "q": "Which is correct?",
+            "a": "minimize costs",
+            "meaning_ko": "costs를 목적어로 두는 표현이 자연스럽습니다."
+          },
+          {
+            "q": "Complete: \"minimize errors\" means to:",
+            "a": "reduce mistakes",
+            "meaning_ko": "errors(실수/오류)를 줄이는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "crestfallen",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Feeling sad, disappointed, and embarrassed, especially after a failure or rejection.",
+        "definition_ko": "풀이 죽은, 기가 꺾인; 실망·낙담한.",
+        "note": "표정/기세가 ‘축 처진’ 느낌이 강한 형용사입니다."
+      }
+    ],
+    "concept": "기대가 꺾여서 실망하고 풀이 죽은 상태(표정과 분위기까지 포함)입니다.",
+    "etymology": "crest(볏/정수리, ‘의기/기세’의 이미지) + fallen(떨어진)에서, ‘기세가 꺾인’ 느낌을 비유적으로 나타냅니다.",
+    "semanticExtension": "물리적으로 ‘떨어진’ 이미지에서, 심리적으로 ‘기운/자신감이 꺾인’ 상태를 묘사하는 의미로 굳었습니다.",
+    "nuanceRegister": "중립~약간 문어적(일상에서도 가능하지만 글/묘사에서 특히 자연스럽습니다).",
+    "grammarNotes": "서술·한정 용법 모두 가능(He looked crestfallen / a crestfallen expression). 전치사로 at/by/over/about가 자주 결합합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에 (그 상황/소식에) 실망하여 풀이 죽은",
+        "example": "crestfallen at the news"
+      },
+      {
+        "prep": "by",
+        "meaning_ko": "~에 의해(그 일 때문에) 낙담한",
+        "example": "crestfallen by the rejection"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~ 때문에 낙담한",
+        "example": "crestfallen over his mistake"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 실망한",
+        "example": "crestfallen about the result"
+      }
+    ],
+    "requiredComplements": [
+      "look/feel/seem + crestfallen(풀이 죽어 보이다/느끼다)",
+      "crestfallen at/by/over/about + 명사(무엇 때문에 낙담했는지)"
+    ],
+    "morphology": "crest(기세/정수리 이미지) + fallen(떨어진) → ‘기세가 꺾인’",
+    "derivatives": [
+      {
+        "word": "crest",
+        "meaning_ko": "볏, 정점; (비유) 기세"
+      },
+      {
+        "word": "fall",
+        "meaning_ko": "떨어지다, (상태가) 내려가다"
+      }
+    ],
+    "related": [
+      {
+        "word": "disappointed",
+        "meaning_ko": "실망한"
+      },
+      {
+        "word": "downcast",
+        "meaning_ko": "풀이 죽은, 고개 숙인"
+      },
+      {
+        "word": "dejected",
+        "meaning_ko": "낙담한"
+      },
+      {
+        "word": "disheartened",
+        "meaning_ko": "기운이 빠진"
+      },
+      {
+        "word": "deflated",
+        "meaning_ko": "기세가 꺾인(풍선 빠진 비유)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "dejected",
+        "meaning_ko": "낙담한"
+      },
+      {
+        "word": "downcast",
+        "meaning_ko": "풀이 죽은"
+      },
+      {
+        "word": "disheartened",
+        "meaning_ko": "기운이 빠진"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "disappointed",
+        "meaning_ko": "실망한(감정 중심)"
+      },
+      {
+        "word": "deflated",
+        "meaning_ko": "김 빠진/기세 꺾인(비유적)"
+      },
+      {
+        "word": "gloomy",
+        "meaning_ko": "우울한(분위기 중심)"
+      },
+      {
+        "word": "embarrassed",
+        "meaning_ko": "당황/창피한(부수 감정)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "elated",
+        "meaning_ko": "기뻐 날뛰는, 고양된"
+      },
+      {
+        "word": "confident",
+        "meaning_ko": "자신감 있는"
+      },
+      {
+        "word": "buoyant",
+        "meaning_ko": "활기찬, 의기양양한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a crestfallen admission of defeat",
+            "meaning_ko": "풀이 죽은 패배 인정"
+          },
+          {
+            "phrase": "wear a crestfallen look",
+            "meaning_ko": "풀이 죽은 표정을 짓다"
+          },
+          {
+            "phrase": "crestfallen at the abrupt reversal",
+            "meaning_ko": "갑작스러운 반전에 낙담한"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "look crestfallen",
+            "meaning_ko": "풀이 죽어 보이다"
+          },
+          {
+            "phrase": "a crestfallen expression",
+            "meaning_ko": "풀이 죽은 표정"
+          },
+          {
+            "phrase": "feel crestfallen",
+            "meaning_ko": "낙담하다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "crestfallen after the test",
+            "meaning_ko": "시험 후 풀이 죽은"
+          },
+          {
+            "phrase": "crestfallen about the result",
+            "meaning_ko": "결과에 실망한"
+          },
+          {
+            "phrase": "crestfallen by the rejection",
+            "meaning_ko": "거절당해 풀이 죽은"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "He left the meeting crestfallen, realizing his proposal had been dismissed without discussion.",
+            "meaning_ko": "그는 자신의 제안이 논의도 없이 일축된 것을 깨닫고 풀이 죽은 채 회의를 떠났다."
+          },
+          {
+            "sentence": "Her crestfallen silence said more than any complaint could have.",
+            "meaning_ko": "그녀의 풀이 죽은 침묵은 어떤 불평보다 더 많은 것을 말해 주었다."
+          },
+          {
+            "sentence": "Though he tried to smile, the crestfallen look in his eyes betrayed him.",
+            "meaning_ko": "그는 웃으려 했지만, 눈에 비친 풀이 죽은 기색이 그를 배신했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She looked crestfallen when she saw her name missing from the list.",
+            "meaning_ko": "명단에서 자기 이름이 빠진 걸 보고 그녀는 풀이 죽어 보였다."
+          },
+          {
+            "sentence": "I felt crestfallen about the result, but I decided to try again.",
+            "meaning_ko": "결과에 실망했지만, 다시 도전하기로 했다."
+          },
+          {
+            "sentence": "They were crestfallen by the sudden cancellation of the event.",
+            "meaning_ko": "행사가 갑자기 취소되어 그들은 낙담했다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He looked crestfallen.",
+            "meaning_ko": "그는 풀이 죽어 보였다."
+          },
+          {
+            "sentence": "She was crestfallen after failing.",
+            "meaning_ko": "실패한 뒤 그녀는 낙담했다."
+          },
+          {
+            "sentence": "I became crestfallen at the news.",
+            "meaning_ko": "그 소식을 듣고 풀이 죽었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "crestfallen은 단순히 disappointed보다 ‘기세가 꺾여서 표정이 축 처진’ 묘사형 단어입니다. 시험에서는 look/feel/seem crestfallen 같은 연결동사 패턴과, crestfallen at/by/over/about 전치사 결합이 자주 나옵니다. dejected/downcast와는 거의 동의로 취급되지만, crestfallen은 특히 ‘표정/기세’ 묘사에 강점이 있습니다.",
+    "tags": [
+      "감정",
+      "심리",
+      "묘사",
+      "형용사"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best replacement for 'crestfallen' in: \"He sat in crestfallen silence after the verdict.\"",
+            "a": "dejected",
+            "meaning_ko": "판결 후 풀이 죽은 상태이므로 dejected(낙담한)가 가장 가깝습니다."
+          },
+          {
+            "q": "Which preposition fits best? \"She was crestfallen ___ the abrupt rejection.\"",
+            "a": "by",
+            "meaning_ko": "원인(거절) 때문에 낙담한 뉘앙스에는 crestfallen by가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the antonym of crestfallen.",
+            "a": "elated",
+            "meaning_ko": "crestfallen(낙담한)의 반대는 elated(매우 기뻐하는)입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: \"He looked crestfallen ___ the news.\"",
+            "a": "at",
+            "meaning_ko": "소식/상황에 대한 반응으로 ‘at’를 많이 씁니다."
+          },
+          {
+            "q": "Which phrase is the most natural collocation?",
+            "a": "a crestfallen expression",
+            "meaning_ko": "표정 묘사로 매우 흔한 결합입니다."
+          },
+          {
+            "q": "Choose the best meaning: crestfallen",
+            "a": "sad and disappointed",
+            "meaning_ko": "핵심 의미는 ‘낙담하여 풀이 죽은’입니다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "He felt crestfallen. This means he felt:",
+            "a": "very disappointed",
+            "meaning_ko": "낙담했다는 뜻입니다."
+          },
+          {
+            "q": "Which sentence is correct?",
+            "a": "She looked crestfallen after the interview.",
+            "meaning_ko": "면접 후 풀이 죽어 보인다는 의미로 자연스럽습니다."
+          },
+          {
+            "q": "crestfallen is closest to:",
+            "a": "downcast",
+            "meaning_ko": "downcast(풀이 죽은)와 매우 가깝습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

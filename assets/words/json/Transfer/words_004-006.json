@@ -1,0 +1,853 @@
+[
+  {
+    "word": "differ",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To be unlike or not the same in one or more ways; to disagree in opinion.",
+        "definition_ko": "다르다; (의견 등이) 다르다/불일치하다.",
+        "note": "‘서로 다르다’(be different)와 ‘의견이 다르다’(disagree) 두 축으로 자주 쓰입니다."
+      }
+    ],
+    "concept": "같지 않다는 점을 드러내거나, 관점·의견이 엇갈리다.",
+    "etymology": "라틴어 differre(떨어뜨려 놓다, 미루다)에서 유래했으며, ‘떨어져 있다 → 다르다’ 의미가 중심으로 굳어졌습니다.",
+    "semanticExtension": "사물의 차이(특징·수치)뿐 아니라 ‘입장/가치관’의 차이, 학술적으로는 ‘값이 다르다’(results differ)처럼 결과 비교에도 확장됩니다.",
+    "nuanceRegister": "중립~격식. 글/발표/리포트에서 ‘차이가 있다’는 표현으로 매우 흔합니다.",
+    "grammarNotes": "자동사로 쓰이며, differ from(무엇과 다르다), differ in(무엇의 측면에서 다르다), differ on/over(쟁점에 대해 의견이 다르다)가 핵심 패턴입니다. 사람 주어 + differ with + 사람(의견이 다르다)도 가능하나 from/in/on이 더 일반적입니다.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~와 다르다(대상 비교)",
+        "example": "differ from the original plan"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~의 측면에서 다르다(차이의 영역)",
+        "example": "differ in approach"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대해 의견이 다르다(쟁점)",
+        "example": "differ on the best strategy"
+      }
+    ],
+    "requiredComplements": [
+      "differ from + 명사 — ‘~와 다르다’",
+      "differ in + 명사 — ‘~에서/측면에서 다르다’",
+      "differ on/over + 쟁점 — ‘~에 대해 의견이 다르다’"
+    ],
+    "morphology": "라틴계 어근 fer(나르다/옮기다) 계열로 설명되며, dis-/dif-(떨어져) + fer(옮기다)라는 분석을 통해 ‘떨어져 있다’ → ‘다르다’로 기억할 수 있습니다.",
+    "derivatives": [
+      {
+        "word": "different",
+        "meaning_ko": "다른"
+      },
+      {
+        "word": "difference",
+        "meaning_ko": "차이"
+      },
+      {
+        "word": "differently",
+        "meaning_ko": "다르게"
+      }
+    ],
+    "related": [
+      {
+        "word": "distinguish",
+        "meaning_ko": "구별하다"
+      },
+      {
+        "word": "contrast",
+        "meaning_ko": "대조하다/대조"
+      },
+      {
+        "word": "variation",
+        "meaning_ko": "변형, 차이(변주)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "vary",
+        "meaning_ko": "달라지다, 차이가 있다"
+      },
+      {
+        "word": "diverge",
+        "meaning_ko": "갈라지다, (의견이) 달라지다"
+      },
+      {
+        "word": "contrast",
+        "meaning_ko": "대조되다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "change",
+        "meaning_ko": "변하다(‘다르다’보다 변화 강조)"
+      },
+      {
+        "word": "disagree",
+        "meaning_ko": "동의하지 않다(의견 한정)"
+      },
+      {
+        "word": "deviate",
+        "meaning_ko": "벗어나다(규범에서)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "match",
+        "meaning_ko": "일치하다"
+      },
+      {
+        "word": "agree",
+        "meaning_ko": "동의하다"
+      },
+      {
+        "word": "conform",
+        "meaning_ko": "따르다, 부합하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "differ from others",
+            "meaning_ko": "다른 사람들과 다르다"
+          },
+          {
+            "phrase": "opinions differ",
+            "meaning_ko": "의견이 갈리다"
+          },
+          {
+            "phrase": "differ a lot",
+            "meaning_ko": "많이 다르다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "differ in price",
+            "meaning_ko": "가격에서 차이가 나다"
+          },
+          {
+            "phrase": "differ in approach",
+            "meaning_ko": "접근 방식이 다르다"
+          },
+          {
+            "phrase": "differ on the details",
+            "meaning_ko": "세부사항에 대해 의견이 다르다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "differ fundamentally",
+            "meaning_ko": "근본적으로 다르다"
+          },
+          {
+            "phrase": "differ markedly across regions",
+            "meaning_ko": "지역별로 현저히 차이가 나다"
+          },
+          {
+            "phrase": "differ on a matter of principle",
+            "meaning_ko": "원칙의 문제에서 의견이 다르다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "My answer differs from yours.",
+            "meaning_ko": "제 답은 당신의 답과 다릅니다."
+          },
+          {
+            "sentence": "People differ in taste.",
+            "meaning_ko": "사람마다 취향이 다릅니다."
+          },
+          {
+            "sentence": "We differ on this issue.",
+            "meaning_ko": "우리는 이 문제에 대해 의견이 다릅니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The two plans differ mainly in cost and timeline.",
+            "meaning_ko": "두 계획은 주로 비용과 일정에서 다릅니다."
+          },
+          {
+            "sentence": "Experts differ on how quickly the economy will recover.",
+            "meaning_ko": "전문가들은 경제 회복 속도에 대해 의견이 엇갈립니다."
+          },
+          {
+            "sentence": "These results differ from what we observed last year.",
+            "meaning_ko": "이 결과는 우리가 작년에 관찰한 것과 다릅니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The methodologies differ in assumptions, which reshapes the conclusions.",
+            "meaning_ko": "방법론은 전제에서 다르며, 그 차이가 결론을 다시 형성합니다."
+          },
+          {
+            "sentence": "The accounts differ markedly across witnesses, complicating verification.",
+            "meaning_ko": "증인들 사이 진술이 현저히 달라 검증이 복잡해졌습니다."
+          },
+          {
+            "sentence": "They differ on a matter of principle rather than mere preference.",
+            "meaning_ko": "그들은 단순한 취향이 아니라 원칙의 문제에서 의견이 다릅니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "differ는 자동사라서 목적어를 직접 받지 않고, 전치사로 관계를 잡습니다(differ from/in/on). ‘A differs from B’(대상 비교)와 ‘A differs in X’(차이의 영역)를 구분해 두면 문장 만들기가 쉬워집니다. 의견 충돌은 differ on/over가 자연스럽고, 단순 disagree보다 다소 문어적입니다.",
+    "tags": [
+      "비교",
+      "차이",
+      "의견",
+      "학술/리포트",
+      "전치사 패턴"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: My view differs ____ yours.",
+            "a": "from",
+            "meaning_ko": "대상 비교는 differ from이 기본입니다."
+          },
+          {
+            "q": "Choose the correct meaning: Opinions differ.",
+            "a": "People have different opinions.",
+            "meaning_ko": "opinions differ = 의견이 갈리다."
+          },
+          {
+            "q": "Which is grammatically correct?",
+            "a": "These two cars differ in price.",
+            "meaning_ko": "차이의 영역은 differ in + 명사입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: The methods differ ____ their assumptions.",
+            "a": "in",
+            "meaning_ko": "가정(assumptions)이라는 ‘측면’에서 다르다 → differ in."
+          },
+          {
+            "q": "Error check: 'I differ you about the plan.' (Correct it.)",
+            "a": "I differ with you about the plan.",
+            "meaning_ko": "사람과 ‘의견이 다르다’는 differ with + 사람(+ about/over) 형태가 자연스럽습니다."
+          },
+          {
+            "q": "Best paraphrase: Prices differ across regions.",
+            "a": "Prices vary by region.",
+            "meaning_ko": "differ(차이가 나다) ≈ vary(변동/차이)."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the most precise sentence for formal writing.",
+            "a": "The findings differ markedly from prior estimates.",
+            "meaning_ko": "리포트/논문 톤에서 differ markedly from이 매우 자연스럽습니다."
+          },
+          {
+            "q": "Fill in the blank: They differ ____ a matter of principle, not convenience.",
+            "a": "on",
+            "meaning_ko": "쟁점/원칙에 대한 의견 차이 → differ on."
+          },
+          {
+            "q": "Which revision is best? 'The results are different because the assumptions are different.'",
+            "a": "The results differ because the underlying assumptions differ.",
+            "meaning_ko": "differ를 반복해도 문어에서는 자연스럽고 간결합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "request",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "An act of asking for something politely or formally; to ask for something to be given or done.",
+        "definition_ko": "요청(명사); 요청하다(동사).",
+        "note": "ask보다 공손/공식적인 느낌이 강하며, 서비스·문서·절차 문맥에서 자주 쓰입니다."
+      }
+    ],
+    "concept": "필요한 것을 ‘정식/공손하게’ 요구하는 행위(또는 그 행위 자체).",
+    "etymology": "라틴어 requaerere(찾다, 요구하다) 계열에서 발전한 것으로 알려져 있으며, ‘다시 찾다/구하다’ 감각이 ‘요청’ 의미로 굳어졌습니다.",
+    "semanticExtension": "개인 간 부탁부터 행정·법률·기술(서버 request) 영역까지 ‘요구/요청’의 범위를 넓게 포괄합니다.",
+    "nuanceRegister": "중립~격식. 이메일/공문/고객지원/업무 커뮤니케이션에서 매우 흔합니다.",
+    "grammarNotes": "동사 request는 목적어를 직접 받습니다(request a refund). request that + S (should) V 형태도 흔합니다. 명사 request는 make a request / at someone’s request 같은 패턴이 대표적입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사 의미)",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 요청하다(대상/내용)",
+        "example": "request for information"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "~의 요청으로",
+        "example": "at your request"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~에게 요청하다(요청 대상)",
+        "example": "request assistance from IT"
+      }
+    ],
+    "requiredComplements": [
+      "request + 명사 — request help/a refund/permission 등",
+      "request that + S (should) V — ‘~해 달라고 요청하다’",
+      "make a request for + 명사 — ‘~을 요청하다’(명사 구문)",
+      "at + 사람/기관 + request — ‘~의 요청으로’"
+    ],
+    "morphology": "re-(다시) + quest(찾다/요구) 계열로 설명되는 경우가 많아, ‘다시 요구/구하다’라는 감각으로 기억할 수 있습니다.",
+    "derivatives": [
+      {
+        "word": "requester",
+        "meaning_ko": "요청자"
+      },
+      {
+        "word": "requested",
+        "meaning_ko": "요청된; 부탁한(과거분사/형용사)"
+      },
+      {
+        "word": "requesting",
+        "meaning_ko": "요청하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "inquiry",
+        "meaning_ko": "문의"
+      },
+      {
+        "word": "appeal",
+        "meaning_ko": "호소/요청(강한 톤)"
+      },
+      {
+        "word": "application",
+        "meaning_ko": "신청(절차적)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ask",
+        "meaning_ko": "요청하다/묻다(범용)"
+      },
+      {
+        "word": "petition",
+        "meaning_ko": "청원하다(격식/공적)"
+      },
+      {
+        "word": "solicit",
+        "meaning_ko": "요청하다/권유하다(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "demand",
+        "meaning_ko": "요구하다(강압적)"
+      },
+      {
+        "word": "require",
+        "meaning_ko": "요구하다(필요/조건)"
+      },
+      {
+        "word": "invite",
+        "meaning_ko": "요청/초대하다(완곡)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "refuse",
+        "meaning_ko": "거절하다"
+      },
+      {
+        "word": "decline",
+        "meaning_ko": "정중히 거절하다"
+      },
+      {
+        "word": "grant",
+        "meaning_ko": "허가/승인하다(요청의 반대측 행동)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "make a request",
+            "meaning_ko": "요청하다(요청을 하다)"
+          },
+          {
+            "phrase": "a special request",
+            "meaning_ko": "특별 요청"
+          },
+          {
+            "phrase": "request help",
+            "meaning_ko": "도움을 요청하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "request a refund",
+            "meaning_ko": "환불을 요청하다"
+          },
+          {
+            "phrase": "request permission",
+            "meaning_ko": "허가를 요청하다"
+          },
+          {
+            "phrase": "at your request",
+            "meaning_ko": "당신의 요청으로"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "request that the records be disclosed",
+            "meaning_ko": "기록 공개를 요청하다(가정법/수동 구조)"
+          },
+          {
+            "phrase": "honor a request",
+            "meaning_ko": "요청을 들어주다/수락하다"
+          },
+          {
+            "phrase": "submit a formal request",
+            "meaning_ko": "공식 요청을 제출하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I’d like to request a copy of the document.",
+            "meaning_ko": "그 문서 사본을 요청하고 싶습니다."
+          },
+          {
+            "sentence": "She made a request for help.",
+            "meaning_ko": "그녀는 도움을 요청했습니다."
+          },
+          {
+            "sentence": "Can I request a song?",
+            "meaning_ko": "노래 한 곡 요청해도 될까요?"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Customers can request a refund within 14 days.",
+            "meaning_ko": "고객은 14일 이내에 환불을 요청할 수 있습니다."
+          },
+          {
+            "sentence": "At your request, we will reschedule the meeting.",
+            "meaning_ko": "요청하신 대로 회의를 일정 변경하겠습니다."
+          },
+          {
+            "sentence": "He requested that the report be revised.",
+            "meaning_ko": "그는 보고서를 수정해 달라고 요청했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The union submitted a formal request that negotiations resume immediately.",
+            "meaning_ko": "노조는 협상이 즉시 재개되도록 공식 요청을 제출했습니다."
+          },
+          {
+            "sentence": "To honor the client’s request, the team documented every assumption.",
+            "meaning_ko": "고객의 요청을 반영하기 위해 팀은 모든 가정을 문서화했습니다."
+          },
+          {
+            "sentence": "The court denied the request for an injunction, citing insufficient evidence.",
+            "meaning_ko": "법원은 증거 부족을 이유로 가처분 신청(요청)을 기각했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "request는 ask보다 ‘공손/공식’ 톤이 강합니다. 동사로는 request + 명사, request that + 절(특히 be + p.p. 같은 수동형)이 시험에서 자주 나옵니다. 명사로는 at your request, upon request 같은 관용구를 묶어서 외우면 실전에서 빠르게 처리됩니다.",
+    "tags": [
+      "업무",
+      "공식",
+      "이메일",
+      "서비스",
+      "절차"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: I’d like to ____ a refund.",
+            "a": "request",
+            "meaning_ko": "환불을 ‘요청하다’는 request가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the correct phrase: (A) make a request (B) do a request",
+            "a": "make a request",
+            "meaning_ko": "고정 결합은 make a request입니다."
+          },
+          {
+            "q": "request (noun) is countable. Choose the correct sentence.",
+            "a": "We received three requests today.",
+            "meaning_ko": "request(요청)는 가산으로 셀 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best structure: He requested that the form ____ (be / is) signed.",
+            "a": "be",
+            "meaning_ko": "request that + 주어 + (should) + 동사원형(가정법) → be."
+          },
+          {
+            "q": "Fill in the blank: ____ your request, we updated the schedule.",
+            "a": "At",
+            "meaning_ko": "at your request = ‘당신의 요청으로’."
+          },
+          {
+            "q": "Error check: 'She requested me to send it.' (More natural rewrite.)",
+            "a": "She requested that I send it.",
+            "meaning_ko": "request는 request that절이 더 표준적/격식 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: The court denied the request for an injunction.",
+            "a": "The court refused to grant the application for an injunction.",
+            "meaning_ko": "request(요청/신청)과 deny/refuse, grant의 대응 관계를 파악하는 문제입니다."
+          },
+          {
+            "q": "Choose the most formal option: 'Please ask them to disclose the records.'",
+            "a": "Please request that the records be disclosed.",
+            "meaning_ko": "공식 문서 톤에서는 request that + 수동이 매우 전형적입니다."
+          },
+          {
+            "q": "Which collocation fits best in business writing?",
+            "a": "submit a formal request",
+            "meaning_ko": "submit + formal request는 공문/업무에서 흔한 결합입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shallow",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Not deep; having little depth. Also, lacking seriousness or depth of thought or feeling.",
+        "definition_ko": "얕은; (생각·감정 등이) 피상적인.",
+        "note": "물리적 ‘깊이’와 정신적 ‘깊이(진지함/통찰)’ 두 의미가 모두 중요합니다."
+      }
+    ],
+    "concept": "겉은 있어 보이지만, 깊이가 없어서 ‘얕다/피상적이다’로 평가되는 상태.",
+    "etymology": "고대 영어 계열에서 유래한 단어로, 원래 ‘깊이가 얕은’ 물리적 의미가 중심이었고 이후 ‘생각의 깊이 부족’으로 비유 확장되었습니다.",
+    "semanticExtension": "shallow water(얕은 물)처럼 물리적 깊이에서 출발해, shallow understanding/argument(피상적 이해/논증)처럼 추상적 평가로 넓게 쓰입니다.",
+    "nuanceRegister": "중립. 비판적 뉘앙스로도 자주 쓰이며, ‘shallow person’은 인신공격에 가까워 주의가 필요합니다.",
+    "grammarNotes": "형용사로 명사를 수식(shallow lake)하거나 서술(shallow water is dangerous)합니다. 추상 의미에서는 shallow + 명사(understanding/analysis/argument)가 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "단일 어근 형용사로, 비교급 shallower, 최상급 shallowest 형태 변화가 기본입니다.",
+    "derivatives": [
+      {
+        "word": "shallowness",
+        "meaning_ko": "얕음, 피상성"
+      },
+      {
+        "word": "shallowly",
+        "meaning_ko": "얕게, 피상적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "surface",
+        "meaning_ko": "표면"
+      },
+      {
+        "word": "superficial",
+        "meaning_ko": "피상적인"
+      },
+      {
+        "word": "depth",
+        "meaning_ko": "깊이(물리/비유)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "superficial",
+        "meaning_ko": "피상적인"
+      },
+      {
+        "word": "surface-level",
+        "meaning_ko": "겉핥기식의"
+      },
+      {
+        "word": "thin",
+        "meaning_ko": "빈약한(논증/내용)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "trivial",
+        "meaning_ko": "하찮은, 사소한(중요도 강조)"
+      },
+      {
+        "word": "naive",
+        "meaning_ko": "순진한(판단 미숙)"
+      },
+      {
+        "word": "light",
+        "meaning_ko": "가벼운(분위기/내용)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deep",
+        "meaning_ko": "깊은"
+      },
+      {
+        "word": "profound",
+        "meaning_ko": "심오한"
+      },
+      {
+        "word": "thoughtful",
+        "meaning_ko": "사려 깊은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "shallow water",
+            "meaning_ko": "얕은 물"
+          },
+          {
+            "phrase": "a shallow bowl",
+            "meaning_ko": "얕은 그릇"
+          },
+          {
+            "phrase": "shallow breathing",
+            "meaning_ko": "얕은 호흡"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "shallow understanding",
+            "meaning_ko": "피상적인 이해"
+          },
+          {
+            "phrase": "a shallow argument",
+            "meaning_ko": "피상적/빈약한 논증"
+          },
+          {
+            "phrase": "shallow roots",
+            "meaning_ko": "얕은 뿌리(비유: 기반이 약함)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "shallow analysis of complex issues",
+            "meaning_ko": "복잡한 문제에 대한 피상적 분석"
+          },
+          {
+            "phrase": "criticize a shallow portrayal",
+            "meaning_ko": "피상적 묘사를 비판하다"
+          },
+          {
+            "phrase": "warn against shallow solutions",
+            "meaning_ko": "겉핥기식 해결책을 경계하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The river is shallow here.",
+            "meaning_ko": "이곳의 강은 얕습니다."
+          },
+          {
+            "sentence": "Be careful in shallow water.",
+            "meaning_ko": "얕은 물에서도 조심하세요."
+          },
+          {
+            "sentence": "He took shallow breaths.",
+            "meaning_ko": "그는 얕게 숨을 쉬었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Her understanding of the topic is still shallow.",
+            "meaning_ko": "그녀의 그 주제에 대한 이해는 아직 피상적입니다."
+          },
+          {
+            "sentence": "The article offers a shallow summary rather than real analysis.",
+            "meaning_ko": "그 글은 제대로 된 분석이 아니라 얕은 요약을 제공합니다."
+          },
+          {
+            "sentence": "A plant with shallow roots falls easily in strong wind.",
+            "meaning_ko": "뿌리가 얕은 식물은 강풍에 쉽게 쓰러집니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A shallow reading of the data can lead to confident but wrong conclusions.",
+            "meaning_ko": "데이터를 피상적으로 읽으면 자신감은 넘치지만 틀린 결론에 이를 수 있습니다."
+          },
+          {
+            "sentence": "The documentary was criticized for its shallow portrayal of poverty.",
+            "meaning_ko": "그 다큐는 빈곤을 피상적으로 묘사했다는 비판을 받았습니다."
+          },
+          {
+            "sentence": "They warned that shallow solutions would postpone, not solve, the crisis.",
+            "meaning_ko": "그들은 겉핥기식 해결책은 위기를 해결하는 게 아니라 미룰 뿐이라고 경고했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "shallow는 물리적으로 ‘깊이가 얕다’가 기본이지만, 시험에서는 ‘피상적인’ 의미가 자주 나옵니다(shallow understanding/analysis). superficial과 거의 동의로 나오는 경우가 많고, 반대말은 deep/profound를 함께 묶어두면 좋습니다. 사람을 직접 지칭(shallow person)하면 공격적으로 들릴 수 있어 문맥에 주의하세요.",
+    "tags": [
+      "형용사",
+      "물리적 깊이",
+      "비유",
+      "비판",
+      "분석/이해"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The lake is too ____ to swim in safely.",
+            "a": "shallow",
+            "meaning_ko": "깊이가 얕다 → shallow."
+          },
+          {
+            "q": "Fill in the blank: He was nervous and took ____ breaths.",
+            "a": "shallow",
+            "meaning_ko": "shallow breathing = 얕은 호흡."
+          },
+          {
+            "q": "Opposite of shallow (physical sense):",
+            "a": "deep",
+            "meaning_ko": "깊다 ↔ 얕다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best meaning: a shallow argument",
+            "a": "an argument that lacks depth or serious reasoning",
+            "meaning_ko": "피상적/빈약한 논증을 뜻합니다."
+          },
+          {
+            "q": "Fill in the blank: His knowledge is shallow ____ history.",
+            "a": "in",
+            "meaning_ko": "특정 영역에서의 부족함은 shallow in + 분야로 자주 표현합니다."
+          },
+          {
+            "q": "Error check: 'The report is shallowly.' (Correct it.)",
+            "a": "The report is shallow.",
+            "meaning_ko": "서술 보어에는 형용사 shallow가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: A shallow reading of the data can mislead.",
+            "a": "A surface-level interpretation of the data can lead you astray.",
+            "meaning_ko": "shallow reading = surface-level interpretation."
+          },
+          {
+            "q": "Choose the best fit: The film was criticized for a ____ portrayal of the characters.",
+            "a": "shallow",
+            "meaning_ko": "피상적 묘사라는 비판 문맥에 shallow portrayal가 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence is most appropriate for formal critique?",
+            "a": "The proposal relies on shallow solutions that ignore structural causes.",
+            "meaning_ko": "비판적/공식 평가에서 shallow solutions 구문이 적절합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

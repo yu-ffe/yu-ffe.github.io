@@ -1,0 +1,965 @@
+[
+  {
+    "word": "scold",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To speak angrily to someone because of something they did wrong.",
+        "definition_ko": "잘못한 일 때문에 누군가를 화내며 꾸짖다.",
+        "note": "보통 ‘누구를 무엇 때문에’ 꾸짖는 구조로 자주 씁니다."
+      },
+      {
+        "definition_en": "A person (often a woman, in old-fashioned usage) who nags or speaks angrily.",
+        "definition_ko": "잔소리하거나 자주 꾸짖는 사람(구식·문어적 용법).",
+        "note": "명사 용법은 다소 옛스럽거나 비하 뉘앙스가 될 수 있습니다."
+      }
+    ],
+    "concept": "잘못을 지적하며 화를 내거나 강하게 꾸짖는 행위(또는 그런 사람).",
+    "etymology": "자세한 어원 정보 없음.",
+    "semanticExtension": "사람을 직접 꾸짖는 의미에서 ‘정책/행위’를 강하게 질책하다(비유)로 확장됩니다.",
+    "nuanceRegister": "중립~약간 강한 톤. 일상에서도 쓰지만, ‘scold someone’은 감정이 실린 꾸짖음을 강조합니다.",
+    "grammarNotes": "주로 타동사. 전형적으로 scold + 사람 + for + 명사/V-ing 패턴. 과거/과거분사 scolded.",
+    "transitivity": "타동사·명사(해당 없음 아님)",
+    "countability": "명사일 때 가산명사(단수/복수 가능).",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~ 때문에(그 행동/실수)",
+        "example": "scold him for being late"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해(대상/사안)",
+        "example": "scolded her about the mess"
+      }
+    ],
+    "requiredComplements": [
+      "scold + someone + for + (n/V-ing) : ~ 때문에 ~를 꾸짖다",
+      "scold + someone + about/over + (n) : ~ 문제로 ~를 꾸짖다(강조)"
+    ],
+    "morphology": "단일 어근 동사로 쓰이며, 파생형: scold + -ing(현재분사), scold + -ed(과거/과거분사).",
+    "derivatives": [
+      {
+        "word": "scolding",
+        "meaning_ko": "꾸짖는 말/꾸짖기(명사), 꾸짖는(형용사)"
+      },
+      {
+        "word": "scolded",
+        "meaning_ko": "꾸짖음을 받은(과거/과거분사)"
+      },
+      {
+        "word": "scoldingly",
+        "meaning_ko": "꾸짖는 듯이(부사, 드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "reprimand",
+        "meaning_ko": "공식적으로 꾸짖다/견책하다"
+      },
+      {
+        "word": "nag",
+        "meaning_ko": "잔소리하다, 성가시게 잔소리하다"
+      },
+      {
+        "word": "chide",
+        "meaning_ko": "온화하게 나무라다"
+      },
+      {
+        "word": "rebuke",
+        "meaning_ko": "강하게 꾸짖다, 질책하다"
+      },
+      {
+        "word": "berate",
+        "meaning_ko": "호되게 꾸짖다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rebuke",
+        "meaning_ko": "강하게 꾸짖다"
+      },
+      {
+        "word": "reprimand",
+        "meaning_ko": "견책하다"
+      },
+      {
+        "word": "berate",
+        "meaning_ko": "호되게 꾸짖다"
+      },
+      {
+        "word": "chastise",
+        "meaning_ko": "징계하듯 꾸짖다"
+      },
+      {
+        "word": "lecture",
+        "meaning_ko": "훈계조로 꾸짖다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "scold",
+        "meaning_ko": "감정이 실린 꾸짖음"
+      },
+      {
+        "word": "chide",
+        "meaning_ko": "비교적 부드러운 나무람"
+      },
+      {
+        "word": "nag",
+        "meaning_ko": "반복적인 잔소리"
+      },
+      {
+        "word": "admonish",
+        "meaning_ko": "경고·타이름(격식)"
+      },
+      {
+        "word": "tell off",
+        "meaning_ko": "호되게 혼내다(구어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      },
+      {
+        "word": "commend",
+        "meaning_ko": "칭찬하다, 표창하다"
+      },
+      {
+        "word": "encourage",
+        "meaning_ko": "격려하다"
+      },
+      {
+        "word": "comfort",
+        "meaning_ko": "위로하다"
+      },
+      {
+        "word": "forgive",
+        "meaning_ko": "용서하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "scold a child",
+            "meaning_ko": "아이를 꾸짖다"
+          },
+          {
+            "phrase": "get scolded",
+            "meaning_ko": "혼나다"
+          },
+          {
+            "phrase": "scold someone for being late",
+            "meaning_ko": "늦었다고 꾸짖다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "scold someone harshly",
+            "meaning_ko": "호되게 꾸짖다"
+          },
+          {
+            "phrase": "scold someone in public",
+            "meaning_ko": "공개적으로 꾸짖다"
+          },
+          {
+            "phrase": "scold someone over a mistake",
+            "meaning_ko": "실수 때문에 꾸짖다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "scold the government for mishandling the crisis",
+            "meaning_ko": "위기 대응 미흡을 이유로 정부를 질타하다"
+          },
+          {
+            "phrase": "be scolded for breaching protocol",
+            "meaning_ko": "규정 위반으로 견책을 받다"
+          },
+          {
+            "phrase": "scold a team for complacency",
+            "meaning_ko": "자만을 이유로 팀을 강하게 질책하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Mom scolded me for leaving the door open.",
+            "meaning_ko": "엄마가 문을 열어 둔 걸로 나를 꾸짖었다."
+          },
+          {
+            "sentence": "I got scolded at work today.",
+            "meaning_ko": "오늘 회사에서 혼났다."
+          },
+          {
+            "sentence": "Don’t scold him—he already knows he messed up.",
+            "meaning_ko": "그를 꾸짖지 마. 본인도 이미 실수한 걸 알아."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She scolded the kids about the noise and sent them to bed.",
+            "meaning_ko": "그녀는 아이들에게 소란을 피운다고 꾸짖고 잠자리에 들게 했다."
+          },
+          {
+            "sentence": "The coach scolded the players for ignoring the plan.",
+            "meaning_ko": "감독은 계획을 무시한 선수들을 꾸짖었다."
+          },
+          {
+            "sentence": "He hated being scolded in front of everyone.",
+            "meaning_ko": "그는 사람들 앞에서 꾸지람을 받는 걸 싫어했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Critics scolded the company for prioritizing profit over safety.",
+            "meaning_ko": "비평가들은 안전보다 이익을 우선했다고 회사를 질타했다."
+          },
+          {
+            "sentence": "She was scolded for failing to disclose a potential conflict of interest.",
+            "meaning_ko": "그녀는 잠재적 이해상충을 공개하지 않았다고 견책을 받았다."
+          },
+          {
+            "sentence": "Rather than scolding the staff, management revised the workflow to prevent repeats.",
+            "meaning_ko": "경영진은 직원들을 꾸짖기보다 재발 방지를 위해 업무 흐름을 수정했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "scold는 ‘화가 섞인 꾸짖음’이 핵심이라, chide(부드럽게 나무라다)와 대비해서 기억하면 좋습니다. 시험에서는 scold + 사람 + for + V-ing/명사 패턴이 자주 나오므로 고정구문처럼 외우세요. 명사 scold는 구식/비하가 될 수 있으니 문맥을 꼭 확인하세요.",
+    "tags": [
+      "감정 표현",
+      "훈육",
+      "비판",
+      "대인 관계"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: She scolded him ___ breaking the vase.",
+            "a": "for",
+            "meaning_ko": "scold의 대표 패턴은 scold + 사람 + for + V-ing 입니다."
+          },
+          {
+            "q": "Choose the closest meaning: The teacher scolded the students.",
+            "a": "The teacher angrily criticized the students.",
+            "meaning_ko": "scold는 화를 내며 꾸짖다/나무라다의 의미입니다."
+          },
+          {
+            "q": "Which sentence sounds natural? A) scold to him B) scold him for lying",
+            "a": "B) scold him for lying",
+            "meaning_ko": "전치사 to가 아니라 목적어+for 패턴을 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'scold': The manager criticized her for missing the deadline.",
+            "a": "The manager scolded her for missing the deadline.",
+            "meaning_ko": "‘~ 때문에 꾸짖다’의 핵심 구조를 유지하면 됩니다."
+          },
+          {
+            "q": "Find the error: He scolded me about to be careless.",
+            "a": "He scolded me for being careless.",
+            "meaning_ko": "for + V-ing 형태가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best option: She was scolded ___ speaking out of turn. (for / to / at)",
+            "a": "for",
+            "meaning_ko": "수동에서도 be scolded for가 가장 일반적입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Select the most appropriate word: The committee ___ the agency for failing to enforce safety rules. (scolded / amused / polished)",
+            "a": "scolded",
+            "meaning_ko": "질책/비난의 의미가 문맥에 맞습니다."
+          },
+          {
+            "q": "Sentence insertion: 'for bypassing internal controls' should follow which part? 'Auditors scolded the firm ___, citing serious compliance risks.'",
+            "a": "after 'the firm'",
+            "meaning_ko": "scolded + 목적어 + for + V-ing 구조로 넣습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'The senator scolded the minister over the scandal.'",
+            "a": "The senator strongly criticized the minister because of the scandal.",
+            "meaning_ko": "over는 ‘~ 문제로/때문에’의 강조 뉘앙스를 줍니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "boredom",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The state of being bored; a feeling of weariness caused by lack of interest.",
+        "definition_ko": "지루함, 따분함(흥미가 없어 생기는 권태).",
+        "note": "단순 ‘심심함’부터 장기적 ‘권태’까지 폭이 있습니다."
+      }
+    ],
+    "concept": "흥미 자극이 부족해 마음이 처지고 시간이 길게 느껴지는 상태.",
+    "etymology": "동사 bore(지루하게 하다) + 접미사 -dom(상태/영역)에서 형성된 단어입니다.",
+    "semanticExtension": "개인의 감정(지루함)에서 출발해 ‘지루함이 만들어내는 문제(무기력, 부정행동)’를 지칭하는 쪽으로도 확장됩니다.",
+    "nuanceRegister": "중립. 일상적 표현이지만, 문어에서는 ‘권태’의 심리적 뉘앙스도 담습니다.",
+    "grammarNotes": "불가산으로 쓰이는 경우가 많고(‘boredom’ 자체가 상태), 특정 상황을 가리킬 때 the boredom of ~ 구조도 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~에 질려/지루해져",
+        "example": "boredom with the routine"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 지루함(원인/상황)",
+        "example": "the boredom of long meetings"
+      }
+    ],
+    "requiredComplements": [
+      "the boredom of + (n) : ~의 지루함/권태",
+      "boredom with + (n) : ~에 질림/권태"
+    ],
+    "morphology": "bore(지루하게 하다) + -dom(상태/영역) 결합으로 ‘지루한 상태’의 의미를 만듭니다.",
+    "derivatives": [
+      {
+        "word": "bore",
+        "meaning_ko": "지루하게 하다/지루한 사람(명사)"
+      },
+      {
+        "word": "boring",
+        "meaning_ko": "지루한"
+      },
+      {
+        "word": "bored",
+        "meaning_ko": "지루해하는"
+      }
+    ],
+    "related": [
+      {
+        "word": "monotony",
+        "meaning_ko": "단조로움"
+      },
+      {
+        "word": "tedium",
+        "meaning_ko": "지겨움, 권태(문어)"
+      },
+      {
+        "word": "restlessness",
+        "meaning_ko": "안절부절못함(지루함에서 오기도 함)"
+      },
+      {
+        "word": "apathy",
+        "meaning_ko": "무관심, 무기력"
+      },
+      {
+        "word": "ennui",
+        "meaning_ko": "권태(문학적/프랑스어 차용)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "tedium",
+        "meaning_ko": "지겨움, 권태"
+      },
+      {
+        "word": "monotony",
+        "meaning_ko": "단조로움(에서 오는 지루함)"
+      },
+      {
+        "word": "ennui",
+        "meaning_ko": "권태(문학적)"
+      },
+      {
+        "word": "dullness",
+        "meaning_ko": "따분함"
+      },
+      {
+        "word": "weariness",
+        "meaning_ko": "싫증, 피로감(권태)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "boredom",
+        "meaning_ko": "흥미 부족으로 인한 지루함(중립)"
+      },
+      {
+        "word": "tedium",
+        "meaning_ko": "길고 지겨운 느낌(문어)"
+      },
+      {
+        "word": "ennui",
+        "meaning_ko": "삶 전반의 권태(문학적)"
+      },
+      {
+        "word": "monotony",
+        "meaning_ko": "반복·단조로움 자체"
+      },
+      {
+        "word": "apathy",
+        "meaning_ko": "감정·관심 결여(지루함보다 더 무감각)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "excitement",
+        "meaning_ko": "흥분, 기대감"
+      },
+      {
+        "word": "interest",
+        "meaning_ko": "흥미"
+      },
+      {
+        "word": "engagement",
+        "meaning_ko": "몰입"
+      },
+      {
+        "word": "stimulation",
+        "meaning_ko": "자극"
+      },
+      {
+        "word": "enthusiasm",
+        "meaning_ko": "열정"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "die of boredom",
+            "meaning_ko": "지루해 죽겠다(과장)"
+          },
+          {
+            "phrase": "feel boredom",
+            "meaning_ko": "지루함을 느끼다"
+          },
+          {
+            "phrase": "fight boredom",
+            "meaning_ko": "지루함을 달래다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "chronic boredom",
+            "meaning_ko": "만성적인 권태"
+          },
+          {
+            "phrase": "boredom with the routine",
+            "meaning_ko": "반복되는 일상에 대한 권태"
+          },
+          {
+            "phrase": "a sense of boredom",
+            "meaning_ko": "지루함의 기분"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "boredom-induced risk-taking",
+            "meaning_ko": "지루함이 유발한 위험행동"
+          },
+          {
+            "phrase": "the boredom of administrative tasks",
+            "meaning_ko": "행정 업무의 따분함"
+          },
+          {
+            "phrase": "to alleviate boredom in confined settings",
+            "meaning_ko": "제한된 환경에서 권태를 완화하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I’m dying of boredom on this rainy day.",
+            "meaning_ko": "비 오는 오늘 너무 지루해 죽겠다."
+          },
+          {
+            "sentence": "Boredom makes the afternoon feel longer.",
+            "meaning_ko": "지루하면 오후 시간이 더 길게 느껴진다."
+          },
+          {
+            "sentence": "We played cards to fight boredom.",
+            "meaning_ko": "지루함을 달래려고 카드 게임을 했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "After months of the same routine, she felt a creeping boredom.",
+            "meaning_ko": "몇 달째 같은 일상이 이어지자 서서히 권태가 밀려왔다."
+          },
+          {
+            "sentence": "He tried to hide his boredom during the presentation.",
+            "meaning_ko": "그는 발표 중 지루함을 감추려고 했다."
+          },
+          {
+            "sentence": "The boredom of long commutes can drain your energy.",
+            "meaning_ko": "긴 통근의 지루함은 에너지를 소모시킬 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Researchers link chronic boredom to impulsive decision-making in adolescents.",
+            "meaning_ko": "연구자들은 청소년의 만성적 권태를 충동적 의사결정과 연결 짓는다."
+          },
+          {
+            "sentence": "To prevent boredom-driven attrition, the program rotates trainees across departments.",
+            "meaning_ko": "지루함으로 인한 이탈을 막기 위해 그 프로그램은 연수생을 부서 간 순환 배치한다."
+          },
+          {
+            "sentence": "The novel turns boredom into a narrative device, revealing the character’s quiet despair.",
+            "meaning_ko": "그 소설은 권태를 서사 장치로 활용해 인물의 조용한 절망을 드러낸다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "boredom은 ‘상태’ 자체라 보통 불가산으로 쓰이고, 이유를 붙일 때 the boredom of~ / boredom with~를 자주 씁니다. 시험에서는 boredom, monotony, tedium의 뉘앙스 차이를 묻는 문제가 자주 나옵니다(단조로움=monotony, 지겨운 장시간=tedium). ‘die of boredom’ 같은 과장 표현도 관용적으로 익혀두세요.",
+    "tags": [
+      "감정",
+      "일상",
+      "심리",
+      "권태"
+    ],
+    "frequency": "중",
+    "difficulty": "3",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'boredom':",
+            "a": "a feeling of being bored because nothing is interesting",
+            "meaning_ko": "boredom은 흥미 부족으로 인한 지루함/권태입니다."
+          },
+          {
+            "q": "Fill in the blank: We watched a movie to fight ___ .",
+            "a": "boredom",
+            "meaning_ko": "지루함을 달래다 = fight boredom."
+          },
+          {
+            "q": "Which is more natural? A) boredoms B) boredom",
+            "a": "B) boredom",
+            "meaning_ko": "대체로 불가산으로 써서 복수형을 잘 쓰지 않습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The boredom ___ long meetings is exhausting. (of / on / at)",
+            "a": "of",
+            "meaning_ko": "the boredom of + 명사 구조가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest synonym: She complained about the tedium of paperwork.",
+            "a": "boredom",
+            "meaning_ko": "tedium은 ‘지겨움/권태’로 boredom과 의미권이 겹칩니다."
+          },
+          {
+            "q": "Correct the sentence: His boredom with the class were obvious.",
+            "a": "His boredom with the class was obvious.",
+            "meaning_ko": "boredom은 단수 불가산 취급이므로 was가 맞습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best completion: 'To reduce boredom, the instructor ___ interactive tasks into the lecture.'",
+            "a": "integrated",
+            "meaning_ko": "지루함을 줄이기 위해 ‘강의에 활동을 통합하다’가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'Boredom can precipitate reckless behavior.'",
+            "a": "Boredom can trigger careless and risky actions.",
+            "meaning_ko": "precipitate는 ‘촉발하다/유발하다’ 의미입니다."
+          },
+          {
+            "q": "Reading inference: 'His constant phone-checking was less rudeness than boredom.' What is implied?",
+            "a": "He checked his phone mainly because he was bored.",
+            "meaning_ko": "무례함보다 지루함이 원인이라는 대비 표현입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "earnest",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Serious and sincere, especially about what you believe or want to do.",
+        "definition_ko": "진지하고 성실한, 진심 어린.",
+        "note": "가벼운 분위기보다 ‘진심·진지함’을 강조합니다."
+      },
+      {
+        "definition_en": "A payment or promise that shows you intend to do something (often in the phrase 'in earnest').",
+        "definition_ko": "진정성의 표시(약속·계약의 성의 표시로 주는 것, 드묾).",
+        "note": "현대 영어에서는 주로 관용구 in earnest(본격적으로, 진지하게)로 자주 접합니다."
+      }
+    ],
+    "concept": "가볍게가 아니라 진심으로, 목적을 두고 성실하게 임하는 태도.",
+    "etymology": "고대 영어 계열에서 유래한 단어로 알려져 있습니다(자세한 변천은 생략).",
+    "semanticExtension": "개인의 태도(진지함)에서 ‘논의/노력/관계’를 진정성 있게 대한다는 의미로 확장됩니다. 또한 in earnest로 ‘본격적으로’의 의미가 굳어졌습니다.",
+    "nuanceRegister": "격식~중립. 칭찬 뉘앙스로 ‘진지하고 성실하다’를 말할 때 자주 쓰입니다.",
+    "grammarNotes": "형용사로는 be earnest about/in/for가 흔함. 관용구 in earnest = 진지하게/본격적으로. 명사(성의 표시) 용법은 제한적.",
+    "transitivity": "형용사·명사(해당 없음 아님)",
+    "countability": "명사 용법은 보통 불가산처럼 쓰이거나 제한적(현대 영어에서 드묾).",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 진지한/진심인",
+        "example": "earnest about reform"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에(일/학문/활동에) 성실한",
+        "example": "earnest in his studies"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 간절히 바라는/진지하게 원하는",
+        "example": "earnest for peace"
+      }
+    ],
+    "requiredComplements": [
+      "be earnest about + (n/V-ing) : ~에 대해 진지하다",
+      "be earnest in + (n) : ~에 성실하다/열중하다",
+      "be earnest for + (n) : ~을 간절히 원하다(문어적)",
+      "in earnest : 진지하게, 본격적으로"
+    ],
+    "morphology": "형태 변화는 일반 형용사 규칙(earnest, more earnest, most earnest). 관용구 in earnest에서 부사적으로 쓰이는 효과가 있습니다.",
+    "derivatives": [
+      {
+        "word": "earnestly",
+        "meaning_ko": "진지하게, 진심으로(부사)"
+      },
+      {
+        "word": "earnestness",
+        "meaning_ko": "진지함, 성실함, 진정성(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "sincere",
+        "meaning_ko": "진심 어린"
+      },
+      {
+        "word": "serious",
+        "meaning_ko": "진지한"
+      },
+      {
+        "word": "genuine",
+        "meaning_ko": "진정한"
+      },
+      {
+        "word": "solemn",
+        "meaning_ko": "엄숙한"
+      },
+      {
+        "word": "diligent",
+        "meaning_ko": "부지런한, 성실한(노력의 측면)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "sincere",
+        "meaning_ko": "진심 어린"
+      },
+      {
+        "word": "serious",
+        "meaning_ko": "진지한"
+      },
+      {
+        "word": "genuine",
+        "meaning_ko": "진정한"
+      },
+      {
+        "word": "wholehearted",
+        "meaning_ko": "진심으로 하는"
+      },
+      {
+        "word": "zealous",
+        "meaning_ko": "열성적인(강한 열의)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "earnest",
+        "meaning_ko": "진지하고 성실한(진정성 강조)"
+      },
+      {
+        "word": "serious",
+        "meaning_ko": "가볍지 않은(무게감)"
+      },
+      {
+        "word": "sincere",
+        "meaning_ko": "거짓 없는(감정/말의 진심)"
+      },
+      {
+        "word": "diligent",
+        "meaning_ko": "노력·근면의 성실함"
+      },
+      {
+        "word": "solemn",
+        "meaning_ko": "엄숙하고 경건한 분위기"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "frivolous",
+        "meaning_ko": "경박한, 가벼운"
+      },
+      {
+        "word": "insincere",
+        "meaning_ko": "진심이 아닌"
+      },
+      {
+        "word": "flippant",
+        "meaning_ko": "경솔한, 건성인"
+      },
+      {
+        "word": "careless",
+        "meaning_ko": "부주의한"
+      },
+      {
+        "word": "cynical",
+        "meaning_ko": "냉소적인(진정성을 의심)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "an earnest student",
+            "meaning_ko": "성실한 학생"
+          },
+          {
+            "phrase": "earnest apology",
+            "meaning_ko": "진심 어린 사과"
+          },
+          {
+            "phrase": "in earnest",
+            "meaning_ko": "진지하게/본격적으로"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "earnest efforts",
+            "meaning_ko": "진지한 노력"
+          },
+          {
+            "phrase": "earnest discussion",
+            "meaning_ko": "진지한 논의"
+          },
+          {
+            "phrase": "be earnest about change",
+            "meaning_ko": "변화에 대해 진지하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "earnest commitment to transparency",
+            "meaning_ko": "투명성에 대한 진정성 있는 약속"
+          },
+          {
+            "phrase": "enter negotiations in earnest",
+            "meaning_ko": "협상에 본격적으로 들어가다"
+          },
+          {
+            "phrase": "earnest plea for humanitarian aid",
+            "meaning_ko": "인도적 지원을 요청하는 절절한 호소"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He gave me an earnest smile.",
+            "meaning_ko": "그는 내게 진심 어린 미소를 지었다."
+          },
+          {
+            "sentence": "She is earnest about learning English.",
+            "meaning_ko": "그녀는 영어를 배우는 데 진지하다."
+          },
+          {
+            "sentence": "Once the exam season began, we started studying in earnest.",
+            "meaning_ko": "시험 기간이 시작되자 우리는 본격적으로 공부하기 시작했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "His earnest apology softened the tension in the room.",
+            "meaning_ko": "그의 진심 어린 사과는 방 안의 긴장을 누그러뜨렸다."
+          },
+          {
+            "sentence": "The team made earnest efforts to meet the deadline without cutting corners.",
+            "meaning_ko": "그 팀은 편법 없이 마감에 맞추려 진지하게 노력했다."
+          },
+          {
+            "sentence": "She spoke in an earnest tone, as if the issue mattered deeply to her.",
+            "meaning_ko": "그녀는 그 문제가 정말 중요하다는 듯 진지한 어조로 말했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The policy shift will only succeed if leadership is earnest in addressing structural inequality.",
+            "meaning_ko": "그 정책 전환은 지도부가 구조적 불평등을 해결하는 데 진정성 있게 임할 때만 성공할 것이다."
+          },
+          {
+            "sentence": "Negotiations resumed in earnest after both sides clarified their non-negotiable terms.",
+            "meaning_ko": "양측이 절대 양보할 수 없는 조건을 정리한 뒤 협상이 본격적으로 재개됐다."
+          },
+          {
+            "sentence": "Her earnestness was persuasive precisely because it was paired with careful evidence.",
+            "meaning_ko": "그녀의 진지함은 치밀한 근거와 결합돼 있었기에 더욱 설득력이 있었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "earnest는 sincere/serious와 비슷하지만 ‘진정성+성실한 태도’가 함께 느껴지는 경우가 많습니다. 시험에서는 in earnest(진지하게/본격적으로) 관용구가 자주 나오니 통째로 외우는 게 효율적입니다. be earnest about/in 패턴을 문장에 바로 꽂아 넣을 수 있게 예문 형태로 반복해 보세요.",
+    "tags": [
+      "태도",
+      "진정성",
+      "학습",
+      "격식 표현"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: He was earnest ___ his promise to help. (about / by / at)",
+            "a": "about",
+            "meaning_ko": "earnest about + 명사/동명사 = ~에 대해 진지하다."
+          },
+          {
+            "q": "Choose the closest meaning: an earnest apology",
+            "a": "a sincere apology",
+            "meaning_ko": "earnest는 ‘진심 어린’ 뉘앙스가 강합니다."
+          },
+          {
+            "q": "What does 'in earnest' most commonly mean?",
+            "a": "seriously; in a determined way",
+            "meaning_ko": "관용구로 ‘진지하게/본격적으로’의 뜻입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Correct the sentence: She is earnest to her studies.",
+            "a": "She is earnest in her studies.",
+            "meaning_ko": "활동/분야에는 be earnest in이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best option: After the trial run, production began ___. (in earnest / on earnest / at earnest)",
+            "a": "in earnest",
+            "meaning_ko": "고정 관용구입니다."
+          },
+          {
+            "q": "Paraphrase: He spoke earnestly about climate change.",
+            "a": "He spoke seriously and sincerely about climate change.",
+            "meaning_ko": "earnestly는 ‘진지하고 진심으로’입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best completion: 'Her proposal sounded idealistic, but her ___ made it hard to dismiss.' (earnestness / emptiness / looseness)",
+            "a": "earnestness",
+            "meaning_ko": "진정성(earnestness)이 반박하기 어렵게 만든다는 문맥입니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'The minister made an earnest pledge to reform procurement.'",
+            "a": "The minister made a sincere, serious promise to reform procurement.",
+            "meaning_ko": "earnest pledge = 진정성 있고 진지한 약속."
+          },
+          {
+            "q": "Grammar choice: 'He was earnest ___ securing funding, but unrealistic about the timeline.' (about / with / under)",
+            "a": "about",
+            "meaning_ko": "목표/계획에 대한 태도는 be earnest about이 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,913 @@
+[
+  {
+    "word": "simultaneous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Happening, existing, or done at the same time.",
+        "definition_ko": "동시에 일어나는/존재하는, 동시적인.",
+        "note": "주로 formal/문어에서 자주 쓰이며, 'simultaneous with' 형태가 흔합니다."
+      }
+    ],
+    "concept": "여러 사건이 ‘같은 시각’에 겹쳐 발생하는 상태를 말합니다.",
+    "etymology": "라틴어 simul(함께) + -aneus(…의) 계열에서 유래해 ‘함께/동시에’의 의미로 굳어졌습니다.",
+    "semanticExtension": "시간의 동시성뿐 아니라, 작업·요구사항·프로세스가 ‘병행’되는 상황(동시 처리)에도 확장되어 쓰입니다.",
+    "nuanceRegister": "격식/문어/학술·기술 문맥에서 자연스럽고, 일상 대화에서는 'at the same time'이 더 흔합니다.",
+    "grammarNotes": "보통 보어/수식어로 쓰이며, 'be simultaneous with + 명사/동명사'가 대표적입니다. 부사형은 simultaneously.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~와 동시에(동시에 일어나는)",
+        "example": "The outage was simultaneous with the update."
+      }
+    ],
+    "requiredComplements": [
+      "be simultaneous with + N : ~와 동시에 발생하다/일어나다(격식 표현)",
+      "simultaneous + N : 동시(진행) ~ (예: simultaneous translation)"
+    ],
+    "morphology": "simul-(함께/동시에) + -taneous(…에 관한/…의 성질)로, 핵심은 '같은 시간에'라는 개념입니다.",
+    "derivatives": [
+      {
+        "word": "simultaneously",
+        "meaning_ko": "동시에, 동시에 일어나게"
+      },
+      {
+        "word": "simultaneity",
+        "meaning_ko": "동시성"
+      },
+      {
+        "word": "simulcast",
+        "meaning_ko": "동시 방송하다/동시 방송"
+      },
+      {
+        "word": "simulate",
+        "meaning_ko": "모의실험하다, 시뮬레이션하다"
+      },
+      {
+        "word": "simulator",
+        "meaning_ko": "시뮬레이터, 모의장치"
+      }
+    ],
+    "related": [
+      {
+        "word": "concurrent",
+        "meaning_ko": "동시에 일어나는(특히 함께 진행되는)"
+      },
+      {
+        "word": "parallel",
+        "meaning_ko": "병행하는, 평행한"
+      },
+      {
+        "word": "synchronous",
+        "meaning_ko": "동기화된, 동시에 맞춰진"
+      },
+      {
+        "word": "overlap",
+        "meaning_ko": "겹치다, 중첩되다"
+      },
+      {
+        "word": "coordination",
+        "meaning_ko": "조율, 협조"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "concurrent",
+        "meaning_ko": "동시에 일어나는"
+      },
+      {
+        "word": "coincident",
+        "meaning_ko": "우연히 같은 때에 일어나는"
+      },
+      {
+        "word": "synchronous",
+        "meaning_ko": "동시에 맞춰진"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "parallel",
+        "meaning_ko": "병행하는(동시라는 뉘앙스는 맥락 의존)"
+      },
+      {
+        "word": "overlapping",
+        "meaning_ko": "겹치는(완전 동시는 아닐 수 있음)"
+      },
+      {
+        "word": "contemporaneous",
+        "meaning_ko": "동시대의/동시에 일어난(격식)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sequential",
+        "meaning_ko": "순차적인"
+      },
+      {
+        "word": "successive",
+        "meaning_ko": "연속적인(시간상 이어지는)"
+      },
+      {
+        "word": "asynchronous",
+        "meaning_ko": "비동기적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "at simultaneous times",
+            "meaning_ko": "동시에(같은 시각에)"
+          },
+          {
+            "phrase": "simultaneous events",
+            "meaning_ko": "동시 사건들"
+          },
+          {
+            "phrase": "simultaneous actions",
+            "meaning_ko": "동시 행동/동작"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "simultaneous with the launch",
+            "meaning_ko": "출시와 동시에"
+          },
+          {
+            "phrase": "simultaneous occurrence",
+            "meaning_ko": "동시 발생"
+          },
+          {
+            "phrase": "simultaneous translation",
+            "meaning_ko": "동시통역"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "simultaneous constraints",
+            "meaning_ko": "동시에 만족해야 하는 제약"
+          },
+          {
+            "phrase": "simultaneous optimization",
+            "meaning_ko": "동시 최적화"
+          },
+          {
+            "phrase": "simultaneous system failures",
+            "meaning_ko": "동시 다발적 시스템 장애"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Two alarms went off at the same time; they were simultaneous.",
+            "meaning_ko": "알람 두 개가 동시에 울렸다. 동시였다."
+          },
+          {
+            "sentence": "We saw simultaneous flashes in the sky.",
+            "meaning_ko": "하늘에서 동시에 번쩍이는 빛을 봤다."
+          },
+          {
+            "sentence": "The two players made simultaneous moves.",
+            "meaning_ko": "두 선수가 동시에 움직였다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The announcement was simultaneous with the product launch.",
+            "meaning_ko": "그 발표는 제품 출시와 동시에 이루어졌다."
+          },
+          {
+            "sentence": "Simultaneous interpretation requires intense concentration.",
+            "meaning_ko": "동시통역은 극도의 집중이 필요하다."
+          },
+          {
+            "sentence": "The app supports simultaneous logins on multiple devices.",
+            "meaning_ko": "그 앱은 여러 기기에서의 동시 로그인도 지원한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The report links the crash to simultaneous I/O saturation and a misconfigured rate limiter.",
+            "meaning_ko": "보고서는 장애를 동시적인 I/O 포화와 잘못 설정된 레이트 리미터와 연관 지었다."
+          },
+          {
+            "sentence": "To avoid deadlocks, the protocol forbids simultaneous acquisition of conflicting locks.",
+            "meaning_ko": "데드락을 피하기 위해 그 프로토콜은 충돌하는 락의 동시 획득을 금지한다."
+          },
+          {
+            "sentence": "The model estimates the probability of simultaneous defaults under correlated shocks.",
+            "meaning_ko": "그 모델은 상관된 충격 하에서 동시 부도 확률을 추정한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "핵심은 '동시에'입니다. 일상에서는 at the same time이 더 자연스럽고, simultaneous는 문어/기술 문맥에서 깔끔합니다. 시험에서는 'simultaneous with ~'를 '동시에'로 바로 치환하면 해석이 빨라집니다.",
+    "tags": [
+      "시간",
+      "동시성",
+      "학술",
+      "기술 문서",
+      "프로세스/병행"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The two messages were sent ____.",
+            "a": "simultaneously",
+            "meaning_ko": "‘동시에’라는 뜻의 부사 형태를 고르는 문제입니다."
+          },
+          {
+            "q": "Fill in the blank: The flashes were ______.",
+            "a": "simultaneous",
+            "meaning_ko": "형용사로 ‘동시적인’이 맞습니다."
+          },
+          {
+            "q": "Which is closest in meaning to 'simultaneous'?",
+            "a": "concurrent",
+            "meaning_ko": "둘 다 ‘동시에 일어나는’ 의미로 자주 교체 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Complete the pattern: The outage was simultaneous ___ the deployment.",
+            "a": "with",
+            "meaning_ko": "대표 전치사 결합은 simultaneous with 입니다."
+          },
+          {
+            "q": "Pick the better paraphrase: 'simultaneous translation'",
+            "a": "translation done at the same time as the speaker talks",
+            "meaning_ko": "화자가 말하는 동시에 번역하는 의미입니다."
+          },
+          {
+            "q": "Choose the antonym: simultaneous vs ____",
+            "a": "sequential",
+            "meaning_ko": "동시(simultaneous) ↔ 순차(sequential) 대비가 자주 나옵니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error-spotting: The protocol prevents a simultaneous of lock acquisition.",
+            "a": "The protocol prevents simultaneous lock acquisition.",
+            "meaning_ko": "simultaneous는 보통 'a simultaneous of'처럼 쓰지 않고 명사를 바로 수식합니다."
+          },
+          {
+            "q": "Choose the most natural collocation: ______ failures",
+            "a": "simultaneous system",
+            "meaning_ko": "동시 다발적 장애는 simultaneous system failures가 자연스럽습니다."
+          },
+          {
+            "q": "Inference: If two constraints must be satisfied at once, they are ______ constraints.",
+            "a": "simultaneous",
+            "meaning_ko": "‘동시에 만족’ → simultaneous constraints로 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adjustment",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A small change made to improve something or make it work better; the act of adapting to a new situation.",
+        "definition_ko": "조정, 수정(개선·적합을 위한 작은 변화); 적응.",
+        "note": "문맥에 따라 ‘미세 조정’(tweak) 또는 ‘적응 과정’ 의미로 자주 쓰입니다."
+      }
+    ],
+    "concept": "기준/상황에 맞추기 위해 ‘조금 바꾸는 것’ 또는 ‘새 환경에 적응하는 과정’입니다.",
+    "etymology": "라틴어 ad-(~로) + iustare(바르게 하다) 계열에서 파생되어 ‘바르게 맞추다/조정하다’ 의미로 발전했습니다.",
+    "semanticExtension": "기계·설정값의 물리적 조정에서 출발해, 정책·가격·생활 방식의 ‘적응/조정’까지 폭넓게 확장되었습니다.",
+    "nuanceRegister": "중립적이며 일상/비즈니스/기술 문맥 모두에서 흔합니다. 'minor adjustment'처럼 ‘작은 변화’로 자주 강조합니다.",
+    "grammarNotes": "가산/불가산 모두 가능하지만, 보통 구체적 변경 사항은 가산( an adjustment ), 전체 과정/상태는 불가산처럼 쓰입니다. 'adjustment to + N' 패턴이 대표적입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 대한 조정/적응",
+        "example": "an adjustment to the new schedule"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~의 측면에서(조정 내용 영역)",
+        "example": "a slight adjustment in price"
+      }
+    ],
+    "requiredComplements": [
+      "an adjustment to + N : ~에 대한 조정/적응(변경의 대상)",
+      "an adjustment in + N : ~에서의 조정(변경이 일어나는 항목/수치)",
+      "make an adjustment : 조정을 하다(조치하다)"
+    ],
+    "morphology": "adjust(맞추다/조정하다) + -ment(명사화)로, ‘조정된 결과/조정 행위’를 뜻합니다.",
+    "derivatives": [
+      {
+        "word": "adjust",
+        "meaning_ko": "조정하다, 맞추다"
+      },
+      {
+        "word": "adjustable",
+        "meaning_ko": "조절 가능한"
+      },
+      {
+        "word": "adjuster",
+        "meaning_ko": "조정자; (보험) 손해사정인"
+      },
+      {
+        "word": "readjust",
+        "meaning_ko": "재조정하다"
+      },
+      {
+        "word": "maladjustment",
+        "meaning_ko": "부적응, 부조화"
+      }
+    ],
+    "related": [
+      {
+        "word": "tweak",
+        "meaning_ko": "미세 조정(가벼운 수정)"
+      },
+      {
+        "word": "modification",
+        "meaning_ko": "수정, 변경"
+      },
+      {
+        "word": "adaptation",
+        "meaning_ko": "적응, 적응물"
+      },
+      {
+        "word": "calibration",
+        "meaning_ko": "보정, 교정(정밀 조정)"
+      },
+      {
+        "word": "alignment",
+        "meaning_ko": "정렬, 정합(맞춤)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "modification",
+        "meaning_ko": "수정"
+      },
+      {
+        "word": "tweak",
+        "meaning_ko": "미세 조정"
+      },
+      {
+        "word": "adaptation",
+        "meaning_ko": "적응"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "correction",
+        "meaning_ko": "교정(오류를 바로잡는 뉘앙스)"
+      },
+      {
+        "word": "calibration",
+        "meaning_ko": "보정(측정/정밀 설정의 뉘앙스)"
+      },
+      {
+        "word": "reform",
+        "meaning_ko": "개혁(규모가 더 큰 변화)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stagnation",
+        "meaning_ko": "정체"
+      },
+      {
+        "word": "rigidity",
+        "meaning_ko": "경직, 융통성 없음"
+      },
+      {
+        "word": "inflexibility",
+        "meaning_ko": "비유연성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "make an adjustment",
+            "meaning_ko": "조정하다"
+          },
+          {
+            "phrase": "small adjustment",
+            "meaning_ko": "작은 조정"
+          },
+          {
+            "phrase": "need an adjustment",
+            "meaning_ko": "조정이 필요하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "minor adjustment to the plan",
+            "meaning_ko": "계획에 대한 소폭 조정"
+          },
+          {
+            "phrase": "price adjustment",
+            "meaning_ko": "가격 조정"
+          },
+          {
+            "phrase": "adjustment period",
+            "meaning_ko": "적응 기간"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "risk-adjustment mechanism",
+            "meaning_ko": "위험 조정 메커니즘"
+          },
+          {
+            "phrase": "post-implementation adjustment",
+            "meaning_ko": "도입 이후 조정"
+          },
+          {
+            "phrase": "adjustment of parameters",
+            "meaning_ko": "파라미터 조정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I made a small adjustment to the chair.",
+            "meaning_ko": "의자에 작은 조정을 했다."
+          },
+          {
+            "sentence": "The screen needs an adjustment.",
+            "meaning_ko": "화면은 조정이 필요하다."
+          },
+          {
+            "sentence": "It took time, but the adjustment was worth it.",
+            "meaning_ko": "시간이 걸렸지만 그 조정은 가치가 있었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "After a brief adjustment period, the team worked smoothly.",
+            "meaning_ko": "짧은 적응 기간 뒤에 팀은 매끄럽게 일했다."
+          },
+          {
+            "sentence": "The company announced a price adjustment starting next month.",
+            "meaning_ko": "회사는 다음 달부터 가격 조정을 시행한다고 발표했다."
+          },
+          {
+            "sentence": "A slight adjustment in angle improved the photo.",
+            "meaning_ko": "각도를 약간 조정하니 사진이 좋아졌다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The model applies an adjustment to account for selection bias in the training data.",
+            "meaning_ko": "그 모델은 학습 데이터의 선택 편향을 보정하기 위한 조정을 적용한다."
+          },
+          {
+            "sentence": "Regulatory changes triggered an immediate adjustment of capital buffers across banks.",
+            "meaning_ko": "규제 변화로 은행 전반의 자본 완충치가 즉각 조정되었다."
+          },
+          {
+            "sentence": "Without careful adjustment of parameters, the optimizer may diverge under noisy gradients.",
+            "meaning_ko": "파라미터를 신중히 조정하지 않으면, 잡음이 큰 그래디언트에서 최적화가 발산할 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "adjustment는 '조정(작은 수정)'과 '적응' 두 축이 핵심입니다. to는 ‘대상(새 일정/환경)’, in은 ‘변경되는 항목(가격/각도/수치)’에 잘 붙습니다. 시험에서는 minor/slight와 함께 나오면 ‘소폭 조정’으로 빠르게 처리하면 됩니다.",
+    "tags": [
+      "변경",
+      "적응",
+      "정책/경제",
+      "설정/튜닝",
+      "비즈니스"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: I made a small ______ to the volume.",
+            "a": "adjustment",
+            "meaning_ko": "‘작은 조정’의 대표 명사입니다."
+          },
+          {
+            "q": "Which phrase means '조정하다'?",
+            "a": "make an adjustment",
+            "meaning_ko": "동사 없이도 make + N 패턴으로 자주 씁니다."
+          },
+          {
+            "q": "Choose the closest meaning: adjustment",
+            "a": "a change to improve or fit",
+            "meaning_ko": "개선/적합을 위한 변화가 핵심입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: an adjustment ___ the new schedule",
+            "a": "to",
+            "meaning_ko": "대상(새 일정)에 대한 조정이므로 to가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the correct preposition: a slight adjustment ___ price",
+            "a": "in",
+            "meaning_ko": "변경되는 항목이 ‘가격’이면 in이 자주 쓰입니다."
+          },
+          {
+            "q": "Paraphrase: 'adjustment period'",
+            "a": "time needed to adapt",
+            "meaning_ko": "적응에 필요한 기간을 뜻합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: We discussed an adjustment on the policy.",
+            "a": "We discussed an adjustment to the policy.",
+            "meaning_ko": "조정의 대상은 보통 to로 받습니다."
+          },
+          {
+            "q": "Best collocation for machine learning context: adjustment of ____",
+            "a": "parameters",
+            "meaning_ko": "parameter adjustment/adjustment of parameters가 가장 자연스럽습니다."
+          },
+          {
+            "q": "Inference: A change made after rollout to improve stability is a ____.",
+            "a": "post-implementation adjustment",
+            "meaning_ko": "도입 이후 성능/안정 개선을 위한 조정이라는 문맥입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "measure",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A standard unit or method for finding the size, amount, or degree of something; an action taken to achieve a purpose.",
+        "definition_ko": "측정(기준/방법/단위); (목적 달성을 위한) 조치, 대책.",
+        "note": "명사로는 '측정/기준'과 '대책' 두 의미가 중요하고, 동사로는 '재다/측정하다'가 핵심입니다."
+      },
+      {
+        "definition_en": "To find the size, amount, or degree of something using a tool or system.",
+        "definition_ko": "(길이·양·정도 등을) 재다, 측정하다.",
+        "note": "measure + 목적어(길이/거리/온도 등) 형태의 타동사로 매우 흔합니다."
+      }
+    ],
+    "concept": "어떤 것을 ‘재어 수치화’하거나, 목표를 위해 ‘취하는 조치’를 뜻합니다.",
+    "etymology": "라틴어 mensura(측정)에서 유래해 ‘재다/기준’ 의미가 형성되었고, 이후 ‘대책’ 의미로도 확장되었습니다.",
+    "semanticExtension": "물리적 측정에서 출발해, 성과·위험·가치처럼 추상적 대상을 ‘평가/지표화’하는 의미로 넓어졌고, 정책·안전 ‘조치’ 의미도 함께 굳어졌습니다.",
+    "nuanceRegister": "아주 보편적 단어이며, 기술·학술·정책 문맥에서 특히 다의적으로 쓰입니다(측정 vs 조치).",
+    "grammarNotes": "명사: measure of + N(…의 정도/양), preventive measures(예방 조치). 동사: measure + 목적어, measure A against B(기준에 비추어 평가하다), measure up(기준에 부합하다) 같은 구동사도 중요합니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 정도/양(수치화된 척도)",
+        "example": "a measure of success"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 비추어 평가하다/재다",
+        "example": "measure performance against targets"
+      },
+      {
+        "prep": "by",
+        "meaning_ko": "~로 측정하다(방법/기준)",
+        "example": "measure it by weight"
+      }
+    ],
+    "requiredComplements": [
+      "a measure of + N : ~의 정도/양(추상/구체 모두 가능)",
+      "take measures to + V : ~하기 위한 조치를 취하다",
+      "measure A against B : A를 B 기준에 비추어 평가하다"
+    ],
+    "morphology": "어근은 '재다/측정' 의미(라틴 mens- 계열)이며, 현대 영어에서 명사/동사로 다용도 확장된 형태입니다.",
+    "derivatives": [
+      {
+        "word": "measurement",
+        "meaning_ko": "측정, 측정값"
+      },
+      {
+        "word": "measurable",
+        "meaning_ko": "측정 가능한"
+      },
+      {
+        "word": "immeasurable",
+        "meaning_ko": "헤아릴 수 없는"
+      },
+      {
+        "word": "measuring",
+        "meaning_ko": "측정(하는), 계량의"
+      },
+      {
+        "word": "measurer",
+        "meaning_ko": "측정자(드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "metric",
+        "meaning_ko": "지표, 척도"
+      },
+      {
+        "word": "gauge",
+        "meaning_ko": "측정하다/계량기"
+      },
+      {
+        "word": "assess",
+        "meaning_ko": "평가하다"
+      },
+      {
+        "word": "quantify",
+        "meaning_ko": "수치화하다"
+      },
+      {
+        "word": "precaution",
+        "meaning_ko": "예방책"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "metric",
+        "meaning_ko": "척도, 지표"
+      },
+      {
+        "word": "assess",
+        "meaning_ko": "평가하다(동사 의미 쪽)"
+      },
+      {
+        "word": "gauge",
+        "meaning_ko": "재다/가늠하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "estimate",
+        "meaning_ko": "추정하다(정확 측정이 아닐 수 있음)"
+      },
+      {
+        "word": "evaluate",
+        "meaning_ko": "평가하다(판단 요소 포함)"
+      },
+      {
+        "word": "countermeasure",
+        "meaning_ko": "대응책(‘조치’ 의미가 더 강함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다(측정/평가하지 않다)"
+      },
+      {
+        "word": "neglect",
+        "meaning_ko": "소홀히 하다"
+      },
+      {
+        "word": "inaction",
+        "meaning_ko": "무대응(조치를 안 함)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "measure the length",
+            "meaning_ko": "길이를 재다"
+          },
+          {
+            "phrase": "take measures",
+            "meaning_ko": "조치를 취하다"
+          },
+          {
+            "phrase": "a simple measure",
+            "meaning_ko": "간단한 조치/방법"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a measure of success",
+            "meaning_ko": "성공의 척도"
+          },
+          {
+            "phrase": "preventive measures",
+            "meaning_ko": "예방 조치"
+          },
+          {
+            "phrase": "measure performance",
+            "meaning_ko": "성과를 측정하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "measure against benchmarks",
+            "meaning_ko": "벤치마크에 비추어 평가하다"
+          },
+          {
+            "phrase": "risk mitigation measures",
+            "meaning_ko": "위험 완화 조치"
+          },
+          {
+            "phrase": "a proxy measure for welfare",
+            "meaning_ko": "복지의 대리(대체) 지표"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Please measure the table before you buy a cover.",
+            "meaning_ko": "커버를 사기 전에 테이블을 재 주세요."
+          },
+          {
+            "sentence": "We took measures to keep the room clean.",
+            "meaning_ko": "방을 깨끗하게 유지하기 위해 조치를 취했다."
+          },
+          {
+            "sentence": "Height is easy to measure.",
+            "meaning_ko": "키는 재기 쉽다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Customer retention is a useful measure of product quality.",
+            "meaning_ko": "고객 유지율은 제품 품질의 유용한 척도다."
+          },
+          {
+            "sentence": "The team measures performance every week and reviews the results.",
+            "meaning_ko": "팀은 매주 성과를 측정하고 결과를 검토한다."
+          },
+          {
+            "sentence": "Basic preventive measures can reduce accidents significantly.",
+            "meaning_ko": "기본적인 예방 조치만으로도 사고를 크게 줄일 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "We measured the model against an external benchmark to detect overfitting.",
+            "meaning_ko": "과적합을 감지하기 위해 모델을 외부 벤치마크 기준에 비추어 평가했다."
+          },
+          {
+            "sentence": "Policymakers rely on proxy measures when the target variable is costly to observe directly.",
+            "meaning_ko": "정책 입안자들은 목표 변수를 직접 관측하기 비용이 클 때 대리 지표에 의존한다."
+          },
+          {
+            "sentence": "The paper argues that the chosen measure conflates correlation with causation, weakening the conclusion.",
+            "meaning_ko": "그 논문은 선택된 척도가 상관과 인과를 혼동해 결론을 약화시킨다고 주장한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "measure는 다의어라서 문맥 판별이 핵심입니다: (1) 측정/척도인지, (2) 조치/대책인지. 'a measure of'는 거의 항상 ‘~의 척도/정도’로 해석되고, 'take measures to'는 ‘~하기 위한 조치를 취하다’로 고정처럼 외우면 빠릅니다.",
+    "tags": [
+      "측정",
+      "지표",
+      "평가",
+      "정책/대책",
+      "데이터"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Please ______ the distance.",
+            "a": "measure",
+            "meaning_ko": "동사로 ‘거리 재다’가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the correct phrase meaning '조치를 취하다'.",
+            "a": "take measures",
+            "meaning_ko": "measure의 ‘대책’ 의미가 드러나는 관용 결합입니다."
+          },
+          {
+            "q": "Which is a noun use of 'measure'?",
+            "a": "a measure of success",
+            "meaning_ko": "‘성공의 척도’로 명사 용법입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Complete: Customer retention is a measure ___ quality.",
+            "a": "of",
+            "meaning_ko": "measure of는 ‘~의 척도’ 패턴입니다."
+          },
+          {
+            "q": "Choose the best meaning in this sentence: 'The government announced new measures.'",
+            "a": "actions/policies",
+            "meaning_ko": "여기서 measures는 ‘조치/정책’ 의미입니다."
+          },
+          {
+            "q": "Pick the best paraphrase: 'measure performance against targets'",
+            "a": "evaluate performance compared to targets",
+            "meaning_ko": "against는 기준에 비추어 비교 평가하는 뉘앙스입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: They took a measure to reduce risks.",
+            "a": "They took measures to reduce risks.",
+            "meaning_ko": "보통 ‘조치들’로 복수 measures가 자연스럽고, to+V가 뒤따릅니다."
+          },
+          {
+            "q": "Inference: If you cannot observe welfare directly, you may use a ______ measure.",
+            "a": "proxy",
+            "meaning_ko": "대상 변수를 대신하는 지표는 proxy measure입니다."
+          },
+          {
+            "q": "Choose the most academic phrasing: 'We checked the model with a benchmark.'",
+            "a": "We measured the model against a benchmark.",
+            "meaning_ko": "학술 문맥에서는 measured against가 더 정교합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

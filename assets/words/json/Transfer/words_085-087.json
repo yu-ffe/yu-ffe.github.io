@@ -1,0 +1,960 @@
+[
+  {
+    "word": "efface",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To erase or remove something so that it is no longer visible or remembered.",
+        "definition_ko": "지우다, 없애다(흔적·기억·글씨 등을).",
+        "note": "격식·문어 느낌이 강하고, '흔적/기억을 지워 버리다'처럼 다소 문학적으로도 씁니다."
+      },
+      {
+        "definition_en": "To make oneself less noticeable; to keep oneself in the background.",
+        "definition_ko": "자기를 드러내지 않다, (일부러) 존재감을 낮추다.",
+        "note": "보통 'efface oneself' 형태로 자주 나옵니다."
+      }
+    ],
+    "concept": "흔적을 ‘지워서’ 안 보이게 만들거나, 자신을 ‘뒤로’ 물려 드러나지 않게 하는 단어입니다.",
+    "etymology": "라틴어 ex-('밖으로') + facies('얼굴, 모습') 계열에서 ‘모습을 없애다’의 의미로 굳어진 것으로 알려져 있습니다(세부 변천은 문헌마다 다름).",
+    "semanticExtension": "물리적 흔적을 지우는 뜻에서 출발해, 기억·죄책감·기록처럼 ‘추상적 흔적’을 지우는 의미로 확장되었고, 더 나아가 자기 존재감을 지우는 의미(=efface oneself)로도 쓰입니다.",
+    "nuanceRegister": "격식/문어/학술·비평문에서도 보이는 어휘. 일상 회화에서는 erase, remove, wipe out이 더 흔합니다.",
+    "grammarNotes": "주로 타동사로 쓰이며 목적어로 trace, mark, memory, record 등이 옵니다. 관용적으로 'efface oneself'가 자주 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~에서(기록·표면·기억에서) 지우다/삭제하다",
+        "example": "efface the entry from the record"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(마음속·기억 속에서) 지워 버리다",
+        "example": "efface the scene in his mind"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "~으로(배경 속으로) 자신을 숨기다/드러내지 않다",
+        "example": "efface himself into the crowd"
+      }
+    ],
+    "requiredComplements": [
+      "efface + object (trace/mark/memory/record 등 ‘흔적’ 목적어) — 무엇을 지우는지 목적어가 필요",
+      "efface oneself (often + adverbial phrase) — 스스로를 드러내지 않다(예: efface oneself completely)"
+    ],
+    "morphology": "접두사 ex-/ef-('밖으로, 제거') + face(라틴 facies 계열, '모습/얼굴' 연상) → '모습을 없애다'의 핵심 이미지로 기억하면 도움됩니다.",
+    "derivatives": [
+      {
+        "word": "effacement",
+        "meaning_ko": "삭제, 말소; (자기)비하/자기 존재감 억제"
+      },
+      {
+        "word": "effaced",
+        "meaning_ko": "지워진; (성격이) 겸손한/눈에 띄지 않는"
+      },
+      {
+        "word": "effacing",
+        "meaning_ko": "겸손한, 자신을 내세우지 않는"
+      }
+    ],
+    "related": [
+      {
+        "word": "erase",
+        "meaning_ko": "지우다"
+      },
+      {
+        "word": "obliterate",
+        "meaning_ko": "완전히 없애다, 말살하다"
+      },
+      {
+        "word": "expunge",
+        "meaning_ko": "(기록에서) 삭제하다"
+      },
+      {
+        "word": "conceal",
+        "meaning_ko": "감추다"
+      },
+      {
+        "word": "suppress",
+        "meaning_ko": "(감정·정보를) 억누르다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "erase",
+        "meaning_ko": "지우다"
+      },
+      {
+        "word": "expunge",
+        "meaning_ko": "말소하다"
+      },
+      {
+        "word": "obliterate",
+        "meaning_ko": "흔적을 없애다"
+      },
+      {
+        "word": "wipe out",
+        "meaning_ko": "없애다/전멸시키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "remove",
+        "meaning_ko": "제거하다"
+      },
+      {
+        "word": "delete",
+        "meaning_ko": "삭제하다"
+      },
+      {
+        "word": "eliminate",
+        "meaning_ko": "제거하다"
+      },
+      {
+        "word": "cover up",
+        "meaning_ko": "은폐하다"
+      },
+      {
+        "word": "downplay",
+        "meaning_ko": "(중요성을) 축소하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "preserve",
+        "meaning_ko": "보존하다"
+      },
+      {
+        "word": "retain",
+        "meaning_ko": "유지하다"
+      },
+      {
+        "word": "record",
+        "meaning_ko": "기록하다"
+      },
+      {
+        "word": "highlight",
+        "meaning_ko": "강조하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "efface a mark",
+            "meaning_ko": "자국을 지우다"
+          },
+          {
+            "phrase": "efface a stain",
+            "meaning_ko": "얼룩을 지우다"
+          },
+          {
+            "phrase": "efface a name",
+            "meaning_ko": "이름(표기)을 지우다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "efface the evidence",
+            "meaning_ko": "증거를 없애다"
+          },
+          {
+            "phrase": "efface painful memories",
+            "meaning_ko": "고통스러운 기억을 지워 버리다"
+          },
+          {
+            "phrase": "efface oneself",
+            "meaning_ko": "자기를 드러내지 않다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "efface dissent from the narrative",
+            "meaning_ko": "서사/담론에서 이견을 지워 버리다"
+          },
+          {
+            "phrase": "efface the boundary between A and B",
+            "meaning_ko": "A와 B의 경계를 흐리게/지워 버리다"
+          },
+          {
+            "phrase": "efface institutional culpability",
+            "meaning_ko": "조직의 책임을 지워 버리다(희석·은폐)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Use alcohol to efface the ink stain.",
+            "meaning_ko": "알코올로 잉크 얼룩을 지우세요."
+          },
+          {
+            "sentence": "The sun gradually effaced the chalk lines.",
+            "meaning_ko": "햇빛이 분필선을 서서히 지워 버렸다."
+          },
+          {
+            "sentence": "She tried to efface the pencil marks with an eraser.",
+            "meaning_ko": "그녀는 지우개로 연필 자국을 지우려고 했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He could not efface the image from his mind.",
+            "meaning_ko": "그는 그 장면을 머릿속에서 지워 버릴 수 없었다."
+          },
+          {
+            "sentence": "The official report seemed designed to efface inconvenient details.",
+            "meaning_ko": "그 공식 보고서는 불편한 세부사항을 지우기 위해 작성된 듯했다."
+          },
+          {
+            "sentence": "In meetings, she tends to efface herself and let others speak.",
+            "meaning_ko": "회의에서 그녀는 자신을 드러내지 않고 다른 사람들에게 발언을 맡기는 편이다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The regime attempted to efface the episode from collective memory through censorship and revision.",
+            "meaning_ko": "그 정권은 검열과 수정으로 그 사건을 집단 기억에서 지우려 했다."
+          },
+          {
+            "sentence": "A single footnote can efface a confident claim by exposing its weak evidentiary basis.",
+            "meaning_ko": "단 하나의 각주가 증거 기반의 취약함을 드러내며 확신에 찬 주장 자체를 무너뜨릴 수 있다."
+          },
+          {
+            "sentence": "The novel effaces the line between witness and accomplice, forcing the reader into moral ambiguity.",
+            "meaning_ko": "그 소설은 목격자와 공범의 경계를 지워 독자를 도덕적 모호성으로 몰아넣는다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "핵심 이미지는 ‘흔적을 지워서 안 보이게 만들다’입니다. 시험에서는 erase보다 격식 있는 동의어로 나오거나, 'efface oneself' (겸손하게 뒤로 물러나다)처럼 관용구로 출제됩니다. expunge(기록에서 삭제), obliterate(완전 말살)와의 강도 차이도 같이 정리해 두면 좋습니다.",
+    "tags": [
+      "삭제",
+      "기억",
+      "문어",
+      "비평",
+      "은폐"
+    ],
+    "frequency": "하",
+    "difficulty": "8",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best synonym: The cleaner managed to efface the stain. (A) preserve (B) erase (C) admire (D) announce",
+            "a": "B",
+            "meaning_ko": "efface는 ‘지우다’이므로 erase가 정답입니다."
+          },
+          {
+            "q": "Fill in the blank: She used an eraser to ______ the pencil marks.",
+            "a": "efface",
+            "meaning_ko": "연필 자국을 ‘지우다’라는 의미로 efface가 자연스럽습니다."
+          },
+          {
+            "q": "True or False: 'efface' often appears in formal writing.",
+            "a": "True",
+            "meaning_ko": "일상어보다 격식/문어에서 더 자주 쓰입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: He tried to efface the event ______ his memory.",
+            "a": "from",
+            "meaning_ko": "memory from ~ 구조(=~에서 지우다)가 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'to make yourself less noticeable'? (A) efface oneself (B) face up to (C) take off (D) stand out",
+            "a": "A",
+            "meaning_ko": "efface oneself = 자신을 드러내지 않다."
+          },
+          {
+            "q": "Pick the closest meaning: The report effaced dissenting voices.",
+            "a": "suppressed/erased",
+            "meaning_ko": "이견을 ‘지워 버렸다/억눌렀다’의 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In critical writing, 'efface the boundary between A and B' most nearly means:",
+            "a": "make the distinction unclear",
+            "meaning_ko": "경계를 ‘지워 구분이 흐려지게 하다’입니다."
+          },
+          {
+            "q": "Choose the best revision: 'The memo removed all traces of blame.' (Use one word.)",
+            "a": "effaced",
+            "meaning_ko": "remove all traces(흔적을 없애다) → efface로 치환 가능."
+          },
+          {
+            "q": "Sentence insertion: 'The new edition omitted the controversial passage.' Replace 'omitted' with a stronger verb implying deliberate erasure.",
+            "a": "effaced",
+            "meaning_ko": "단순 누락이 아니라 의도적 ‘삭제/말소’ 느낌을 주려면 efface가 더 강합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "float",
+    "partOfSpeech": [
+      "verb",
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To stay on the surface of a liquid without sinking; to move lightly through air or water.",
+        "definition_ko": "뜨다, 뜨게 하다; (공중/물에서) 둥실 떠다니다.",
+        "note": "가장 기본 의미. 물에 뜨다/공중에 떠다니다 모두 가능."
+      },
+      {
+        "definition_en": "To move or drift without a fixed direction; to circulate.",
+        "definition_ko": "표류하다; (소문·생각 등이) 떠돌다/돌다.",
+        "note": "idea, rumor, suggestion 등이 주어로 자주 옴."
+      },
+      {
+        "definition_en": "To propose or make something available for consideration; to put a plan or idea forward.",
+        "definition_ko": "(안·아이디어를) 제안하다, 내놓다.",
+        "note": "formal proposal이라기보다 ‘슬쩍 던져 보다’ 뉘앙스가 자주 있습니다."
+      },
+      {
+        "definition_en": "A device or object that keeps something buoyant; a display platform carried in a parade.",
+        "definition_ko": "부표/뜨게 하는 장치; (퍼레이드) 플로트(장식 차량/무대).",
+        "note": "명사로는 문맥이 두 갈래(부력 장치 vs 퍼레이드 차량)입니다."
+      },
+      {
+        "definition_en": "Not fixed or variable; not tied to a specific schedule or exchange rate.",
+        "definition_ko": "유동적인, 고정되지 않은.",
+        "note": "floating rate(변동금리), floating holiday(유동 휴일)처럼 형용사로 씁니다."
+      }
+    ],
+    "concept": "‘가라앉지 않고 뜨다’가 중심이며, 거기서 ‘이리저리 떠돌다/아이디어를 던지다/유동적이다’로 확장됩니다.",
+    "etymology": "고대 영어 계열 ‘떠다니다’ 의미에서 발전한 어휘로, 기본 의미(부력/부유)가 여러 추상적 의미로 확장되었습니다.",
+    "semanticExtension": "물리적 부유(물·공기) → 방향 없이 떠도는 이동(표류) → 소문·생각의 유통(떠돌다) → 아이디어를 ‘띄우다’(제안) → 가격·금리의 ‘고정되지 않음’(유동).",
+    "nuanceRegister": "기본 의미는 일상어(상). ‘아이디어를 float하다’, ‘floating rate’ 등은 비즈니스/경제 문맥에서 흔합니다.",
+    "grammarNotes": "자동사로 ‘뜨다/떠다니다’(float on/in/over)와 타동사로 ‘띄우다/부양하다’(float a boat, float an idea)가 모두 가능합니다. 비유적으로 rumor/idea/suggestion이 ‘float around’로 자주 쓰입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사 (명사 의미일 때)",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "(물) 위에 뜨다",
+        "example": "float on the surface"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "(공기/물) 속에 떠 있다",
+        "example": "float in the air"
+      },
+      {
+        "prep": "around",
+        "meaning_ko": "이리저리 떠돌다(소문/생각)",
+        "example": "rumors float around the office"
+      }
+    ],
+    "requiredComplements": [
+      "float + on/in/over + 장소 — 어디에 ‘떠 있는지’ 위치 정보가 자주 따라옴",
+      "float + idea/proposal/suggestion — ‘아이디어를 내놓다’ 용법에서 목적어가 필요"
+    ],
+    "morphology": "단일 어근(기본 동사)이며, 의미 확장이 풍부한 단어라 ‘부력(떠 있음)’ 이미지를 중심으로 여러 용법을 가지처럼 연결해 암기하면 좋습니다.",
+    "derivatives": [
+      {
+        "word": "floating",
+        "meaning_ko": "떠 있는; 유동(변동)의"
+      },
+      {
+        "word": "floater",
+        "meaning_ko": "떠 있는 물체; (비격식) 부유인구/임시직 등"
+      },
+      {
+        "word": "floatation",
+        "meaning_ko": "부유, 부력; (기업) 주식 공개/상장"
+      }
+    ],
+    "related": [
+      {
+        "word": "drift",
+        "meaning_ko": "표류하다, 떠돌다"
+      },
+      {
+        "word": "buoyant",
+        "meaning_ko": "부력이 있는; (분위기가) 낙관적인"
+      },
+      {
+        "word": "hover",
+        "meaning_ko": "공중에 떠서 맴돌다"
+      },
+      {
+        "word": "circulate",
+        "meaning_ko": "유통되다, 돌다"
+      },
+      {
+        "word": "propose",
+        "meaning_ko": "제안하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "drift",
+        "meaning_ko": "표류하다"
+      },
+      {
+        "word": "hover",
+        "meaning_ko": "떠서 맴돌다"
+      },
+      {
+        "word": "bob",
+        "meaning_ko": "(물 위에서) 위아래로 흔들리다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "glide",
+        "meaning_ko": "미끄러지듯 움직이다"
+      },
+      {
+        "word": "sail",
+        "meaning_ko": "미끄러지듯 지나가다(비유 포함)"
+      },
+      {
+        "word": "waft",
+        "meaning_ko": "(냄새/연기 등이) 흘러가다"
+      },
+      {
+        "word": "suggest",
+        "meaning_ko": "암시/제안하다"
+      },
+      {
+        "word": "introduce",
+        "meaning_ko": "(주제/안을) 꺼내다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sink",
+        "meaning_ko": "가라앉다"
+      },
+      {
+        "word": "submerge",
+        "meaning_ko": "잠기다"
+      },
+      {
+        "word": "fix",
+        "meaning_ko": "고정하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "float on water",
+            "meaning_ko": "물 위에 뜨다"
+          },
+          {
+            "phrase": "float in the air",
+            "meaning_ko": "공중에 떠 있다"
+          },
+          {
+            "phrase": "float a balloon",
+            "meaning_ko": "풍선을 띄우다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "float a plan",
+            "meaning_ko": "계획안을 내놓다"
+          },
+          {
+            "phrase": "float a company",
+            "meaning_ko": "회사를 상장시키다(주식 공개)"
+          },
+          {
+            "phrase": "float around",
+            "meaning_ko": "이리저리 떠돌다(소문 등)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "float an exchange rate",
+            "meaning_ko": "환율을 변동환율제로 두다"
+          },
+          {
+            "phrase": "float a trial balloon",
+            "meaning_ko": "여론을 떠보기 위해 ‘시험’ 제안을 던지다"
+          },
+          {
+            "phrase": "free-floating assumption",
+            "meaning_ko": "근거 없이 떠도는(고정되지 않은) 가정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Oil floats on water.",
+            "meaning_ko": "기름은 물 위에 뜬다."
+          },
+          {
+            "sentence": "A leaf floated down the river.",
+            "meaning_ko": "나뭇잎이 강을 따라 떠내려갔다."
+          },
+          {
+            "sentence": "The balloon floated into the sky.",
+            "meaning_ko": "풍선이 하늘로 떠올랐다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Someone floated the idea of starting earlier.",
+            "meaning_ko": "누군가 더 일찍 시작하자는 아이디어를 꺼냈다."
+          },
+          {
+            "sentence": "Rumors are floating around that the manager will resign.",
+            "meaning_ko": "매니저가 사임한다는 소문이 돌고 있다."
+          },
+          {
+            "sentence": "The startup plans to float its shares next year.",
+            "meaning_ko": "그 스타트업은 내년에 주식을 공개(상장)할 계획이다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The central bank decided to let the currency float to absorb external shocks.",
+            "meaning_ko": "중앙은행은 외부 충격을 흡수하기 위해 통화를 변동환율로 두기로 했다."
+          },
+          {
+            "sentence": "His argument floats free of evidence, persuasive only to those who already agree.",
+            "meaning_ko": "그의 주장은 근거에서 유리되어, 이미 동의하는 사람에게만 설득력 있어 보인다."
+          },
+          {
+            "sentence": "By refusing to anchor the narrative, the film lets meaning float between irony and sincerity.",
+            "meaning_ko": "서사를 단단히 고정하지 않음으로써, 영화는 의미를 아이러니와 진정성 사이에 떠 있게 한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "float는 ‘뜨다’가 기본이지만 시험에서는 ‘아이디어를 꺼내다(float an idea)’와 ‘변동(환율/금리)(floating rate)’가 자주 나옵니다. sink(가라앉다)와의 반의 관계는 기본, drift(표류)·hover(맴돌다)와의 미묘한 차이(물 위/공중/방향성)를 같이 정리해 두면 안정적입니다.",
+    "tags": [
+      "부력",
+      "이동",
+      "소문",
+      "경제",
+      "제안"
+    ],
+    "frequency": "상",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Oil ______ on water.",
+            "a": "floats",
+            "meaning_ko": "기름은 물 위에 ‘뜬다’ → floats."
+          },
+          {
+            "q": "Choose the antonym: float (A) sink (B) smile (C) push (D) open",
+            "a": "A",
+            "meaning_ko": "float의 반대는 sink(가라앉다)입니다."
+          },
+          {
+            "q": "True or False: A balloon can float in the air.",
+            "a": "True",
+            "meaning_ko": "공중에 떠 있는 것도 float로 표현합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which sentence uses 'float' meaning 'suggest'? (A) The stone floated. (B) She floated an idea. (C) He floated on water. (D) The boat sank.",
+            "a": "B",
+            "meaning_ko": "float an idea = 아이디어를 제안하다."
+          },
+          {
+            "q": "Fill in the blank: Rumors are floating ______ that the team will be reorganized.",
+            "a": "around",
+            "meaning_ko": "float around = (소문이) 떠돌다."
+          },
+          {
+            "q": "Choose the best meaning: The company plans to float next year.",
+            "a": "go public / offer shares",
+            "meaning_ko": "기업 문맥에서 float = 상장/주식 공개."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In economics, a 'floating exchange rate' is one that is:",
+            "a": "not fixed and allowed to move with the market",
+            "meaning_ko": "고정환율이 아니라 시장에 따라 변동하는 환율."
+          },
+          {
+            "q": "Rewrite using 'float': 'He suggested a compromise to test the reaction.'",
+            "a": "He floated a compromise to test the reaction.",
+            "meaning_ko": "float = (반응을 보기 위해) 제안을 던지다."
+          },
+          {
+            "q": "Reading inference: 'His claims float free of evidence.' This implies his claims are:",
+            "a": "unsupported",
+            "meaning_ko": "근거에 ‘고정/연결’되지 않았다 → 근거 부족."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ponderous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Heavy and awkward to move; slow because of weight.",
+        "definition_ko": "무겁고 둔한, 움직이기 버거운.",
+        "note": "물리적 ‘무거움’ + ‘둔중함’이 같이 따라옵니다."
+      },
+      {
+        "definition_en": "Too serious, dull, or laborious in style; lacking lightness.",
+        "definition_ko": "지나치게 장황하고 진지한, 읽기/듣기 버거운(문체·태도).",
+        "note": "글/연설/설명이 ‘무겁고 답답하다’는 평가로 자주 씁니다."
+      }
+    ],
+    "concept": "‘무겁고 둔중해서’ 물리적으로도, 표현/문체로도 ‘답답하게 느껴지는’ 상태를 말합니다.",
+    "etymology": "라틴어 pondus(무게) 계열에서 ‘무게가 있다’는 뜻으로 파생된 형용사입니다.",
+    "semanticExtension": "물리적 무게(heavy, cumbersome)에서 출발해, 사고방식·문체·유머감각 등이 ‘가볍지 않고 답답한’ 추상적 평가로 확장되었습니다.",
+    "nuanceRegister": "격식/문어에서 흔하며, 비평(문체·연설) 평가에 자주 쓰입니다. 일상에서는 heavy, clunky, long-winded가 더 흔합니다.",
+    "grammarNotes": "주로 명사 앞에서 수식(ponderous machinery, ponderous prose)하거나 보어로도 가능(The lecture was ponderous). 비교급/최상급( more/most ponderous ) 형태가 자연스럽습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 인해(무게·세부사항으로) 둔중해진",
+        "example": "a report ponderous with details"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(문체·표현에서) 장황한/무거운",
+        "example": "ponderous in tone"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에 비해(의도/효과에 비해) 과하게 무거운",
+        "example": "ponderous for a simple announcement"
+      }
+    ],
+    "requiredComplements": [
+      "ponderous + noun (prose/lecture/style/machinery 등) — 무엇이 ‘둔중/장황’한지 명사가 동반되는 경우가 많음",
+      "ponderous in + aspect (tone/style/execution) — 어떤 측면에서 무거운지"
+    ],
+    "morphology": "pond-/ponder- (무게, 저울질) 어근 + -ous(형용사화) → ‘무게가 있는’이 핵심. 'ponder(숙고하다)'와 철자가 닮아 헷갈리지만, ponderous는 ‘무겁고 둔중한’ 평가에 초점입니다.",
+    "derivatives": [
+      {
+        "word": "ponderously",
+        "meaning_ko": "둔중하게, 장황하게"
+      },
+      {
+        "word": "ponderousness",
+        "meaning_ko": "둔중함, 장황함"
+      }
+    ],
+    "related": [
+      {
+        "word": "cumbersome",
+        "meaning_ko": "다루기 불편한, 거추장스러운"
+      },
+      {
+        "word": "weighty",
+        "meaning_ko": "무게감 있는; (문제 등이) 중대한"
+      },
+      {
+        "word": "laborious",
+        "meaning_ko": "힘든; (문체가) 공들여 읽어야 하는"
+      },
+      {
+        "word": "plodding",
+        "meaning_ko": "터벅터벅 느린; 활력 없는"
+      },
+      {
+        "word": "verbose",
+        "meaning_ko": "말이 많은, 장황한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cumbersome",
+        "meaning_ko": "거추장스러운"
+      },
+      {
+        "word": "clumsy",
+        "meaning_ko": "서투르고 둔한"
+      },
+      {
+        "word": "heavy",
+        "meaning_ko": "무거운; (비유) 무거운 분위기의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "long-winded",
+        "meaning_ko": "장황한"
+      },
+      {
+        "word": "dull",
+        "meaning_ko": "지루한"
+      },
+      {
+        "word": "solemn",
+        "meaning_ko": "엄숙한"
+      },
+      {
+        "word": "serious-minded",
+        "meaning_ko": "진지한"
+      },
+      {
+        "word": "bulky",
+        "meaning_ko": "부피가 큰"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "light",
+        "meaning_ko": "가벼운"
+      },
+      {
+        "word": "nimble",
+        "meaning_ko": "재빠른"
+      },
+      {
+        "word": "concise",
+        "meaning_ko": "간결한"
+      },
+      {
+        "word": "lively",
+        "meaning_ko": "활기찬"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ponderous equipment",
+            "meaning_ko": "무겁고 둔한 장비"
+          },
+          {
+            "phrase": "ponderous steps",
+            "meaning_ko": "무거운 걸음"
+          },
+          {
+            "phrase": "a ponderous box",
+            "meaning_ko": "매우 무거운 상자"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ponderous prose",
+            "meaning_ko": "장황하고 무거운 문체"
+          },
+          {
+            "phrase": "ponderous lecture",
+            "meaning_ko": "지루하고 무거운 강의"
+          },
+          {
+            "phrase": "ponderous bureaucracy",
+            "meaning_ko": "느리고 둔중한 관료제"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a ponderous attempt at humor",
+            "meaning_ko": "억지로 무겁게 굴어 실패한 유머 시도"
+          },
+          {
+            "phrase": "ponderous rhetorical flourishes",
+            "meaning_ko": "과장되고 무거운 수사 장식"
+          },
+          {
+            "phrase": "the ponderous machinery of the state",
+            "meaning_ko": "국가의 둔중한 관료/제도 ‘기계장치’(비유)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The door was ponderous and hard to push.",
+            "meaning_ko": "그 문은 무겁고 밀기 힘들었다."
+          },
+          {
+            "sentence": "He climbed the stairs with ponderous steps.",
+            "meaning_ko": "그는 무거운 걸음으로 계단을 올랐다."
+          },
+          {
+            "sentence": "The old machine made a ponderous noise.",
+            "meaning_ko": "낡은 기계가 둔중한 소리를 냈다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The manual is accurate but ponderous, and few people finish it.",
+            "meaning_ko": "그 매뉴얼은 정확하지만 지나치게 장황해서 끝까지 읽는 사람이 거의 없다."
+          },
+          {
+            "sentence": "Her tone turned ponderous when she started lecturing us.",
+            "meaning_ko": "그녀가 훈계하기 시작하자 말투가 무겁고 답답해졌다."
+          },
+          {
+            "sentence": "The committee moved at a ponderous pace.",
+            "meaning_ko": "위원회는 둔중한 속도로 움직였다(=매우 느리게 진행됐다)."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The essay mistakes complexity for depth, burying its thesis under ponderous terminology.",
+            "meaning_ko": "그 에세이는 복잡함을 깊이로 착각해, 둔중한 전문 용어 아래에 논지를 묻어 버린다."
+          },
+          {
+            "sentence": "In the name of rigor, the presentation became ponderous, losing the audience it hoped to persuade.",
+            "meaning_ko": "엄밀함을 내세우는 동안 발표는 지나치게 무거워져, 설득하려던 청중을 잃었다."
+          },
+          {
+            "sentence": "The novel’s ponderous moralizing is relieved only by brief flashes of irony.",
+            "meaning_ko": "그 소설의 둔중한 도덕 설교는 잠깐의 아이러니가 비칠 때만 겨우 누그러진다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ponderous는 ‘무겁다’(physical) + ‘답답하고 장황하다’(style) 두 축으로 기억하세요. 비평 문맥에서 prose/lecture/tone/bureaucracy와 함께 자주 출제됩니다. ponder(숙고하다)와 형태가 비슷하지만 의미는 ‘둔중한’ 평가라는 점을 꼭 구분해 두는 게 포인트입니다.",
+    "tags": [
+      "문체평가",
+      "무거움",
+      "장황함",
+      "비평",
+      "관료제"
+    ],
+    "frequency": "하",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: a ponderous box",
+            "a": "very heavy",
+            "meaning_ko": "물리적으로 ‘아주 무거운’이라는 뜻."
+          },
+          {
+            "q": "Fill in the blank: He walked with ______ steps after the long hike.",
+            "a": "ponderous",
+            "meaning_ko": "피곤해서 ‘무겁고 둔한 걸음’."
+          },
+          {
+            "q": "True or False: 'ponderous' can describe something that moves awkwardly because it is heavy.",
+            "a": "True",
+            "meaning_ko": "무거워서 둔중하게 움직이는 것을 묘사할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which collocation is most natural? (A) ponderous sunshine (B) ponderous prose (C) ponderous fragrance (D) ponderous whisper",
+            "a": "B",
+            "meaning_ko": "문체 평가로 ponderous prose가 대표적입니다."
+          },
+          {
+            "q": "Choose the closest synonym in context: The lecture was ponderous.",
+            "a": "dull / heavy-going",
+            "meaning_ko": "지루하고 무거운(듣기 버거운) 강의."
+          },
+          {
+            "q": "Fill in the blank: The report was ponderous ______ details.",
+            "a": "with",
+            "meaning_ko": "ponderous with details = 세부사항이 너무 많아 둔중/장황한."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading inference: 'The argument is ponderous, not profound.' This implies the argument is:",
+            "a": "overly heavy and slow, lacking real insight",
+            "meaning_ko": "무겁고 장황하지만 실제 통찰은 부족하다는 비판."
+          },
+          {
+            "q": "Rewrite using 'ponderous': 'The bureaucracy was slow and difficult to change.'",
+            "a": "The bureaucracy was ponderous and difficult to change.",
+            "meaning_ko": "ponderous = 둔중하고 느린(제도/조직)."
+          },
+          {
+            "q": "Best word choice: 'The article is ______ with jargon, obscuring its point.'",
+            "a": "ponderous",
+            "meaning_ko": "전문 용어로 ‘둔중해져’ 요점이 흐려진다는 문맥에 적합."
+          }
+        ]
+      }
+    ]
+  }
+]

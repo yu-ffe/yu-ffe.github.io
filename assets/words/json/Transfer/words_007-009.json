@@ -1,0 +1,861 @@
+[
+  {
+    "word": "pact",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A formal agreement between people, groups, or countries, especially one meant to be binding.",
+        "definition_ko": "협정, 조약; (서로 지키기로 한) 공식 합의.",
+        "note": "특히 국가/조직 간 ‘엄숙한 약속’ 뉘앙스가 강합니다."
+      }
+    ],
+    "concept": "서로를 구속할 수 있는 형태로 맺는 ‘지키기로 한 공식 약속/협정’.",
+    "etymology": "라틴어 pactum(동의, 계약)에서 유래했으며, ‘합의된 것’이라는 의미가 영어로 정착했습니다.",
+    "semanticExtension": "국가 간 조약뿐 아니라 ‘non-aggression pact(불가침 조약)’처럼 군사·외교, 또는 기업·단체 간의 협약 등으로 확장되어 쓰입니다.",
+    "nuanceRegister": "격식/문어. 정치·외교·법률·조직 운영 문맥에서 자주 사용됩니다.",
+    "grammarNotes": "가산명사로 a pact / the pact처럼 쓰며, make/strike/sign a pact, enter into a pact, be bound by a pact 같은 동사 결합이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "between",
+        "meaning_ko": "~사이의 협정",
+        "example": "a pact between the two countries"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와 협정을 맺다",
+        "example": "enter into a pact with a rival"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~에 관한 협정(주제/의제)",
+        "example": "a pact on climate action"
+      }
+    ],
+    "requiredComplements": [
+      "a pact between A and B — ‘A와 B 사이 협정’",
+      "enter into/make/strike a pact with + 대상 — ‘~와 협정을 맺다’",
+      "a pact on + 주제 — ‘~에 관한 협정’"
+    ],
+    "morphology": "라틴어 pact-(합의/계약) 어근에서 파생된 명사로, ‘계약/협정’ 핵심 의미가 비교적 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "pacta",
+        "meaning_ko": "협정들(라틴어 복수형; 법률 문맥에서 간접적으로 등장)"
+      }
+    ],
+    "related": [
+      {
+        "word": "treaty",
+        "meaning_ko": "조약"
+      },
+      {
+        "word": "accord",
+        "meaning_ko": "합의(협정)"
+      },
+      {
+        "word": "alliance",
+        "meaning_ko": "동맹"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "agreement",
+        "meaning_ko": "합의"
+      },
+      {
+        "word": "treaty",
+        "meaning_ko": "조약"
+      },
+      {
+        "word": "accord",
+        "meaning_ko": "협정"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "deal",
+        "meaning_ko": "거래/합의(구어·비격식)"
+      },
+      {
+        "word": "contract",
+        "meaning_ko": "계약(법적 문서성 강조)"
+      },
+      {
+        "word": "compact",
+        "meaning_ko": "협약(격식·문어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conflict",
+        "meaning_ko": "갈등, 충돌"
+      },
+      {
+        "word": "breach",
+        "meaning_ko": "위반(협정의 깨짐)"
+      },
+      {
+        "word": "disagreement",
+        "meaning_ko": "불일치"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "make a pact",
+            "meaning_ko": "협정을 맺다"
+          },
+          {
+            "phrase": "a peace pact",
+            "meaning_ko": "평화 협정"
+          },
+          {
+            "phrase": "a secret pact",
+            "meaning_ko": "비밀 협정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sign a pact",
+            "meaning_ko": "협정에 서명하다"
+          },
+          {
+            "phrase": "enter into a pact",
+            "meaning_ko": "협정을 체결하다"
+          },
+          {
+            "phrase": "a non-aggression pact",
+            "meaning_ko": "불가침 조약"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "be bound by a pact",
+            "meaning_ko": "협정에 구속되다"
+          },
+          {
+            "phrase": "a multilateral pact",
+            "meaning_ko": "다자 협정"
+          },
+          {
+            "phrase": "renegotiate the pact terms",
+            "meaning_ko": "협정 조건을 재협상하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They made a pact to help each other.",
+            "meaning_ko": "그들은 서로 돕기로 약속(협약)했습니다."
+          },
+          {
+            "sentence": "The two sides signed a pact.",
+            "meaning_ko": "양측은 협정에 서명했습니다."
+          },
+          {
+            "sentence": "It was a secret pact.",
+            "meaning_ko": "그것은 비밀 협정이었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The countries entered into a non-aggression pact.",
+            "meaning_ko": "그 나라들은 불가침 조약을 체결했습니다."
+          },
+          {
+            "sentence": "A peace pact reduced tensions in the region.",
+            "meaning_ko": "평화 협정이 그 지역의 긴장을 완화했습니다."
+          },
+          {
+            "sentence": "The pact includes strict verification measures.",
+            "meaning_ko": "그 협정에는 엄격한 검증 조치가 포함되어 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The multilateral pact commits members to transparent reporting and enforcement.",
+            "meaning_ko": "그 다자 협정은 회원국들이 투명한 보고와 이행을 약속하도록 합니다."
+          },
+          {
+            "sentence": "Being bound by the pact, the company had to share key data with its partners.",
+            "meaning_ko": "협정에 구속되어 그 회사는 핵심 데이터를 파트너들과 공유해야 했습니다."
+          },
+          {
+            "sentence": "They sought to renegotiate the pact terms after the economic shock.",
+            "meaning_ko": "경제적 충격 이후 그들은 협정 조건 재협상을 추진했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "pact는 ‘대충 합의(deal)’가 아니라, ‘공식적이고 구속력 있는 협정’ 뉘앙스가 핵심입니다. treaty/accord와 함께 나오면 ‘국가·조직 간 공식 합의’로 묶어 처리하면 좋습니다. 동사 결합은 sign/enter into/be bound by가 자주 출제됩니다.",
+    "tags": [
+      "외교",
+      "정치",
+      "법",
+      "협정",
+      "공식 문어"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The two nations signed a peace ____.",
+            "a": "pact",
+            "meaning_ko": "peace pact(평화 협정)이 자연스럽습니다."
+          },
+          {
+            "q": "Which collocation is correct?",
+            "a": "make a pact",
+            "meaning_ko": "협정을 ‘맺다’는 make/strike a pact가 기본입니다."
+          },
+          {
+            "q": "pact is closest in meaning to ____.",
+            "a": "agreement",
+            "meaning_ko": "핵심은 ‘공식 합의/협정’입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The pact was signed ____ the two governments.",
+            "a": "between",
+            "meaning_ko": "A pact between A and B가 표준입니다."
+          },
+          {
+            "q": "Error check: 'They pact to cooperate.' (Correct it.)",
+            "a": "They made a pact to cooperate.",
+            "meaning_ko": "pact는 명사로 쓰는 것이 기본이며 동사는 make/enter into 등을 사용합니다."
+          },
+          {
+            "q": "Choose the best phrase: (A) enter into a pact (B) enter a pact",
+            "a": "enter into a pact",
+            "meaning_ko": "enter into가 관용적으로 굳어 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: The states are bound by the pact.",
+            "a": "The states are obligated to follow the agreement’s terms.",
+            "meaning_ko": "be bound by = ‘의무/구속을 받다’입니다."
+          },
+          {
+            "q": "Choose the best fit: After new evidence emerged, they moved to ____ the pact terms.",
+            "a": "renegotiate",
+            "meaning_ko": "협정 ‘조건’은 renegotiate terms로 자주 표현합니다."
+          },
+          {
+            "q": "Which sentence is most formal?",
+            "a": "The parties entered into a multilateral pact on cybersecurity.",
+            "meaning_ko": "외교/정책 문맥에서 가장 전형적인 문장입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adequate",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Sufficient for a specific need or requirement; enough, though not necessarily excellent.",
+        "definition_ko": "충분한, 적절한(기준을 충족하는).",
+        "note": "‘아주 좋다’가 아니라 ‘필요 조건은 만족한다’에 가깝습니다."
+      }
+    ],
+    "concept": "최소 요구 조건을 만족하는 ‘충분함/적절함’.",
+    "etymology": "라틴어 adaequare(동등하게 만들다, 맞추다)에서 유래한 것으로 알려져 있으며, ‘기준에 맞추다’ 감각이 현재 의미로 이어집니다.",
+    "semanticExtension": "분량·자원·능력·대책 등 ‘요구 조건 충족 여부’ 판단 전반에 쓰이며, 특히 adequate evidence/adequate funding처럼 ‘충분한 근거/재원’ 평가로 많이 확장됩니다.",
+    "nuanceRegister": "중립~격식. 보고서/정책/업무 문서에서 ‘충분한지’ 판단할 때 매우 흔합니다.",
+    "grammarNotes": "adequate + 명사(adequate time) 구조가 기본이며, be adequate for/to + 목적(덜 흔하지만 가능). to부정사보다는 for + 명사가 더 자연스럽습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 충분한/적절한",
+        "example": "adequate for daily use"
+      }
+    ],
+    "requiredComplements": [
+      "adequate + 명사 — adequate time/resources/evidence 등",
+      "be adequate for + 명사/목적 — ‘~에 충분하다’",
+      "provide/ensure adequate + 명사 — ‘충분한 ~을 제공/보장하다’"
+    ],
+    "morphology": "ad-(~쪽으로, 맞추어) + aequ-(같다/평등) 계열로 설명되며, ‘기준에 맞게 동일 수준으로’라는 감각이 핵심입니다.",
+    "derivatives": [
+      {
+        "word": "adequacy",
+        "meaning_ko": "충분함, 적절성"
+      },
+      {
+        "word": "adequately",
+        "meaning_ko": "충분히, 적절하게"
+      },
+      {
+        "word": "inadequate",
+        "meaning_ko": "불충분한, 부적절한"
+      }
+    ],
+    "related": [
+      {
+        "word": "sufficiency",
+        "meaning_ko": "충분함"
+      },
+      {
+        "word": "requirement",
+        "meaning_ko": "요구 조건"
+      },
+      {
+        "word": "standard",
+        "meaning_ko": "기준"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "sufficient",
+        "meaning_ko": "충분한"
+      },
+      {
+        "word": "enough",
+        "meaning_ko": "충분한(구어)"
+      },
+      {
+        "word": "acceptable",
+        "meaning_ko": "받아들일 만한(최소 기준)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "satisfactory",
+        "meaning_ko": "만족스러운(평가 느낌)"
+      },
+      {
+        "word": "proper",
+        "meaning_ko": "적절한(규범/맞음 강조)"
+      },
+      {
+        "word": "competent",
+        "meaning_ko": "유능한(사람/능력 평가)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inadequate",
+        "meaning_ko": "불충분한"
+      },
+      {
+        "word": "insufficient",
+        "meaning_ko": "부족한"
+      },
+      {
+        "word": "deficient",
+        "meaning_ko": "결핍된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "adequate time",
+            "meaning_ko": "충분한 시간"
+          },
+          {
+            "phrase": "adequate food",
+            "meaning_ko": "충분한 음식"
+          },
+          {
+            "phrase": "adequate space",
+            "meaning_ko": "충분한 공간"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "adequate funding",
+            "meaning_ko": "충분한 재원"
+          },
+          {
+            "phrase": "adequate preparation",
+            "meaning_ko": "충분한 준비"
+          },
+          {
+            "phrase": "adequate evidence",
+            "meaning_ko": "충분한 증거"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ensure adequate safeguards",
+            "meaning_ko": "충분한 안전장치를 보장하다"
+          },
+          {
+            "phrase": "adequate compensation for harm",
+            "meaning_ko": "피해에 대한 적절한 보상"
+          },
+          {
+            "phrase": "lack adequate oversight",
+            "meaning_ko": "충분한 감독이 부족하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We need adequate time to finish.",
+            "meaning_ko": "끝내려면 충분한 시간이 필요합니다."
+          },
+          {
+            "sentence": "The room has adequate space.",
+            "meaning_ko": "그 방은 공간이 충분합니다."
+          },
+          {
+            "sentence": "Is this adequate for you?",
+            "meaning_ko": "이 정도면 충분하신가요?"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The project failed due to inadequate funding.",
+            "meaning_ko": "그 프로젝트는 재원 부족으로 실패했습니다."
+          },
+          {
+            "sentence": "They gathered adequate evidence to proceed.",
+            "meaning_ko": "그들은 진행하기에 충분한 증거를 모았습니다."
+          },
+          {
+            "sentence": "Adequate preparation reduces mistakes.",
+            "meaning_ko": "충분한 준비는 실수를 줄입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Without adequate oversight, minor errors can become systemic failures.",
+            "meaning_ko": "충분한 감독이 없으면 작은 오류가 구조적 실패로 커질 수 있습니다."
+          },
+          {
+            "sentence": "The policy requires adequate safeguards to protect vulnerable groups.",
+            "meaning_ko": "그 정책은 취약 집단을 보호하기 위한 충분한 안전장치를 요구합니다."
+          },
+          {
+            "sentence": "The court found the disclosure adequate under the applicable standard.",
+            "meaning_ko": "법원은 해당 기준에 비추어 그 공개가 적절하다고 판단했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "adequate는 ‘충분’이지만 ‘최고/훌륭함’은 아닙니다(= acceptable에 가까운 톤). 시험에서는 inadequate/insufficient와 반대쌍으로 자주 나오고, adequate evidence/funding/time 같은 결합이 특히 빈번합니다. 문장에서는 for와 함께 ‘목적에 충분한’ 형태로 많이 씁니다(adequate for + 목적).",
+    "tags": [
+      "충분",
+      "기준",
+      "평가",
+      "업무/정책",
+      "형용사"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: We don’t have ____ time.",
+            "a": "adequate",
+            "meaning_ko": "충분한 시간 → adequate time."
+          },
+          {
+            "q": "Opposite of adequate:",
+            "a": "inadequate",
+            "meaning_ko": "adequate ↔ inadequate가 대표 쌍입니다."
+          },
+          {
+            "q": "Which meaning matches adequate?",
+            "a": "sufficient for a need",
+            "meaning_ko": "필요를 충족하는 ‘충분함’입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The equipment is adequate ____ basic training.",
+            "a": "for",
+            "meaning_ko": "목적/용도에는 adequate for가 자연스럽습니다."
+          },
+          {
+            "q": "Error check: 'The evidence is adequacy.' (Correct it.)",
+            "a": "The evidence is adequate.",
+            "meaning_ko": "adequacy는 명사, adequate는 형용사입니다."
+          },
+          {
+            "q": "Best paraphrase: adequate funding",
+            "a": "sufficient financial support",
+            "meaning_ko": "adequate = sufficient로 바꿔 말할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the most precise sentence for a report.",
+            "a": "The current controls are inadequate to prevent data leakage.",
+            "meaning_ko": "adequate/inadequate는 보고서 평가 문장에 매우 전형적입니다."
+          },
+          {
+            "q": "Fill in the blank: The policy mandates adequate ____ to protect minors.",
+            "a": "safeguards",
+            "meaning_ko": "adequate safeguards는 정책/규정 문맥의 대표 결합입니다."
+          },
+          {
+            "q": "Which nuance best matches adequate?",
+            "a": "meets the minimum necessary standard, not necessarily excellent",
+            "meaning_ko": "‘최소 기준 충족’이 핵심 뉘앙스입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "zeal",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Great energy or enthusiasm in pursuit of a cause or objective; fervor.",
+        "definition_ko": "열정, 열의; (목표/신념에 대한) 강한 의욕.",
+        "note": "단순 ‘흥미’보다 ‘헌신/열성’에 가까운 강한 에너지를 뜻합니다."
+      }
+    ],
+    "concept": "어떤 목표·신념을 향해 강하게 몰입하고 움직이는 ‘열성/열정’.",
+    "etymology": "그리스어 zēlos(열정, 경쟁심, 열성)에서 라틴어·프랑스어를 거쳐 영어로 들어왔습니다.",
+    "semanticExtension": "종교·이념의 ‘열성(zealotry)’처럼 과도한 헌신으로도 확장되며, 긍정(enthusiasm)과 부정(과열) 양면이 공존합니다.",
+    "nuanceRegister": "격식/문어. 연설·기사·평가 글에서 ‘열성’의 톤으로 자주 사용됩니다.",
+    "grammarNotes": "불가산으로 쓰이는 경우가 많지만, 특정한 형태의 열성을 말할 때 ‘a zeal for ~’처럼 관용적으로 관사와 함께 쓰기도 합니다. with zeal(열정을 가지고), zeal for + 명사/동명사가 대표적입니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사(대체로)",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대한 열정/열의",
+        "example": "zeal for reform"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 열성(활동 영역)",
+        "example": "zeal in carrying out duties"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "열정을 가지고(부사구)",
+        "example": "work with zeal"
+      }
+    ],
+    "requiredComplements": [
+      "zeal for + 명사/동명사 — ‘~에 대한 열의’",
+      "with zeal — ‘열정을 가지고’",
+      "show/demonstrate zeal — ‘열의를 보이다’"
+    ],
+    "morphology": "그리스어 어근 계열 단어로, 관련 파생어 zealot(광신도), zealous(열성적인)와 함께 묶어 기억하기 좋습니다.",
+    "derivatives": [
+      {
+        "word": "zealous",
+        "meaning_ko": "열성적인, 열렬한"
+      },
+      {
+        "word": "zealously",
+        "meaning_ko": "열성적으로"
+      },
+      {
+        "word": "zealot",
+        "meaning_ko": "열성가, (특히) 광신도"
+      },
+      {
+        "word": "zealotry",
+        "meaning_ko": "광신, 과도한 열성"
+      }
+    ],
+    "related": [
+      {
+        "word": "enthusiasm",
+        "meaning_ko": "열정(일반)"
+      },
+      {
+        "word": "fervor",
+        "meaning_ko": "열의, 열정(강함/문어)"
+      },
+      {
+        "word": "devotion",
+        "meaning_ko": "헌신"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "fervor",
+        "meaning_ko": "열의, 열정"
+      },
+      {
+        "word": "ardor",
+        "meaning_ko": "열정(문어)"
+      },
+      {
+        "word": "enthusiasm",
+        "meaning_ko": "열정, 의욕"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "eagerness",
+        "meaning_ko": "열망(하고 싶어함)"
+      },
+      {
+        "word": "passion",
+        "meaning_ko": "열정(강한 감정)"
+      },
+      {
+        "word": "commitment",
+        "meaning_ko": "헌신, 몰입"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "apathy",
+        "meaning_ko": "무관심"
+      },
+      {
+        "word": "indifference",
+        "meaning_ko": "무심함"
+      },
+      {
+        "word": "lethargy",
+        "meaning_ko": "무기력"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "with zeal",
+            "meaning_ko": "열정적으로"
+          },
+          {
+            "phrase": "show zeal",
+            "meaning_ko": "열의를 보이다"
+          },
+          {
+            "phrase": "full of zeal",
+            "meaning_ko": "열정으로 가득한"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "zeal for learning",
+            "meaning_ko": "배움에 대한 열의"
+          },
+          {
+            "phrase": "zeal for reform",
+            "meaning_ko": "개혁에 대한 열성"
+          },
+          {
+            "phrase": "work with renewed zeal",
+            "meaning_ko": "새로운 열의로 일하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "temper zeal with caution",
+            "meaning_ko": "열정을 신중함으로 조절하다"
+          },
+          {
+            "phrase": "misplaced zeal",
+            "meaning_ko": "잘못된/방향을 잃은 열성"
+          },
+          {
+            "phrase": "zeal bordering on fanaticism",
+            "meaning_ko": "광신에 가까운 열성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She works with zeal.",
+            "meaning_ko": "그녀는 열정적으로 일합니다."
+          },
+          {
+            "sentence": "His zeal is inspiring.",
+            "meaning_ko": "그의 열정은 사람을 고무합니다."
+          },
+          {
+            "sentence": "They showed zeal in training.",
+            "meaning_ko": "그들은 훈련에서 열의를 보였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He has a zeal for learning new languages.",
+            "meaning_ko": "그는 새로운 언어를 배우는 데 열의가 있습니다."
+          },
+          {
+            "sentence": "The new manager approached the role with renewed zeal.",
+            "meaning_ko": "새 매니저는 그 역할에 새로운 열의로 임했습니다."
+          },
+          {
+            "sentence": "Her zeal for reform won supporters.",
+            "meaning_ko": "그녀의 개혁 열의는 지지자들을 얻었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Their zeal to improve outcomes must be tempered with rigorous evidence.",
+            "meaning_ko": "성과를 개선하려는 그들의 열정은 엄격한 근거로 조절되어야 합니다."
+          },
+          {
+            "sentence": "Misplaced zeal can turn well-intentioned policies into harmful interventions.",
+            "meaning_ko": "잘못된 열성은 선의의 정책을 해로운 개입으로 바꿀 수 있습니다."
+          },
+          {
+            "sentence": "The historian described a zeal bordering on fanaticism in the movement’s early phase.",
+            "meaning_ko": "역사가들은 그 운동 초기 단계의 열성이 광신에 가까웠다고 묘사했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "zeal은 enthusiasm보다 ‘헌신/열성’ 톤이 강하고 문어적입니다. zeal for + 명사/동명사, with zeal을 기본 틀로 잡아두면 문장 만들기가 쉽습니다. 또한 zealous/zealot/zealotry와 함께 외우면 ‘열정 ↔ 과열/광신’의 스펙트럼까지 정리할 수 있습니다.",
+    "tags": [
+      "감정",
+      "동기",
+      "헌신",
+      "문어",
+      "종교/이념"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: He worked ____ zeal.",
+            "a": "with",
+            "meaning_ko": "with zeal = ‘열정적으로’."
+          },
+          {
+            "q": "Which word is closest to zeal?",
+            "a": "enthusiasm",
+            "meaning_ko": "핵심은 ‘열정/열의’입니다."
+          },
+          {
+            "q": "Opposite of zeal:",
+            "a": "apathy",
+            "meaning_ko": "무관심(apathy)이 대표 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: She has a zeal ____ public service.",
+            "a": "for",
+            "meaning_ko": "zeal for + 명사/동명사가 기본입니다."
+          },
+          {
+            "q": "Error check: 'He is zeal in his work.' (Correct it.)",
+            "a": "He is zealous in his work.",
+            "meaning_ko": "형용사는 zealous를 써야 합니다."
+          },
+          {
+            "q": "Best paraphrase: renewed zeal",
+            "a": "fresh enthusiasm and energy",
+            "meaning_ko": "renewed zeal = 새롭게 되살아난 열의."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best fit: Leaders should temper their zeal ____ caution.",
+            "a": "with",
+            "meaning_ko": "temper A with B = A를 B로 누그러뜨리다."
+          },
+          {
+            "q": "Best paraphrase: zeal bordering on fanaticism",
+            "a": "enthusiasm so extreme it is close to fanaticism",
+            "meaning_ko": "광신에 가까울 정도로 과도한 열성입니다."
+          },
+          {
+            "q": "Which sentence uses zeal most precisely in a critical tone?",
+            "a": "Misplaced zeal can produce unintended harm despite good intentions.",
+            "meaning_ko": "zeal의 ‘과열/방향 상실’ 측면을 정확히 살린 문장입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

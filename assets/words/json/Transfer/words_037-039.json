@@ -1,0 +1,1002 @@
+[
+  {
+    "word": "deadlock",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A situation in which no progress is possible because opposing sides cannot agree or move.",
+        "definition_ko": "대립하는 쪽들이 양보하지 않아 더 이상 진전이 불가능한 교착 상태.",
+        "note": "협상·정치·법안 처리 등에서 자주 쓰입니다."
+      },
+      {
+        "definition_en": "To cause or become stuck in such a no-progress situation.",
+        "definition_ko": "교착 상태에 빠지게 하다 / 교착 상태에 빠지다.",
+        "note": "동사로는 'be deadlocked', 'deadlock talks'처럼 자주 씁니다."
+      }
+    ],
+    "concept": "서로 막아버려 앞으로 나아가지 못하는 ‘진행 불가’ 상태.",
+    "etymology": "dead(움직임 없는) + lock(잠그다) 결합으로, '완전히 잠겨 움직일 수 없음'의 이미지에서 교착 의미로 굳어졌습니다.",
+    "semanticExtension": "물리적 ‘막힘’에서 출발해, 협상·정치·절차·시스템 등 추상적 과정의 ‘정지/정체’로 확장됩니다.",
+    "nuanceRegister": "격식/중립(뉴스·보고서·학술·비즈니스). 일상에서도 쓰지만 공적 맥락에서 더 자연스럽습니다.",
+    "grammarNotes": "명사: a deadlock / in deadlock. 동사: be deadlocked, deadlock + talks/negotiations/process. 흔한 구조: break the deadlock, reach an impasse(유사 표현).",
+    "transitivity": "자동사·타동사 모두(동사로는 'deadlock negotiations' 타동사, 'talks deadlocked' 자동사/상태동사적).",
+    "countability": "가산명사(상황 하나를 셀 수 있음).",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "교착 상태에(처한)",
+        "example": "in a deadlock over the budget"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~을 두고(교착)",
+        "example": "a deadlock over pay disputes"
+      },
+      {
+        "prep": "between",
+        "meaning_ko": "~ 사이의(교착)",
+        "example": "a deadlock between labor and management"
+      }
+    ],
+    "requiredComplements": [
+      "deadlock over + 쟁점(무엇을 두고 교착인지)",
+      "deadlock between + A and B(대립 당사자)",
+      "deadlock talks/negotiations/process(교착되는 대상 명시)"
+    ],
+    "morphology": "dead(움직임 없는/완전한) + lock(잠그다) → '완전히 잠겨 더 이상 움직이지 못함'의 비유.",
+    "derivatives": [
+      {
+        "word": "deadlocked",
+        "meaning_ko": "교착된, 교착 상태에 빠진"
+      },
+      {
+        "word": "deadlocking",
+        "meaning_ko": "교착시키는/교착되는(진행형/동명사)"
+      },
+      {
+        "word": "deadlock-free",
+        "meaning_ko": "교착이 발생하지 않는(주로 컴퓨터/시스템)"
+      },
+      {
+        "word": "gridlock",
+        "meaning_ko": "마비, 교착(특히 교통·정치)"
+      },
+      {
+        "word": "impasse",
+        "meaning_ko": "막다른 상태, 교착(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "stalemate",
+        "meaning_ko": "교착 상태(특히 승부/협상에서)"
+      },
+      {
+        "word": "bottleneck",
+        "meaning_ko": "병목, 진행을 막는 구간"
+      },
+      {
+        "word": "standstill",
+        "meaning_ko": "정지, 멈춤"
+      },
+      {
+        "word": "negotiation",
+        "meaning_ko": "협상"
+      },
+      {
+        "word": "compromise",
+        "meaning_ko": "타협"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "impasse",
+        "meaning_ko": "교착 상태"
+      },
+      {
+        "word": "stalemate",
+        "meaning_ko": "교착 상태"
+      },
+      {
+        "word": "standstill",
+        "meaning_ko": "정체, 멈춤"
+      },
+      {
+        "word": "gridlock",
+        "meaning_ko": "마비, 교착"
+      },
+      {
+        "word": "logjam",
+        "meaning_ko": "혼잡/정체, 교착(비격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "delay",
+        "meaning_ko": "지연(완전한 교착은 아닐 수 있음)"
+      },
+      {
+        "word": "dispute",
+        "meaning_ko": "분쟁(원인)"
+      },
+      {
+        "word": "dead end",
+        "meaning_ko": "막다른 길(비유)"
+      },
+      {
+        "word": "paralysis",
+        "meaning_ko": "마비(강한 뉘앙스)"
+      },
+      {
+        "word": "stagnation",
+        "meaning_ko": "침체, 정체(장기적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "breakthrough",
+        "meaning_ko": "돌파구, 진전"
+      },
+      {
+        "word": "agreement",
+        "meaning_ko": "합의"
+      },
+      {
+        "word": "progress",
+        "meaning_ko": "진전"
+      },
+      {
+        "word": "resolution",
+        "meaning_ko": "해결"
+      },
+      {
+        "word": "compromise",
+        "meaning_ko": "타협"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a political deadlock",
+            "meaning_ko": "정치적 교착"
+          },
+          {
+            "phrase": "reach a deadlock",
+            "meaning_ko": "교착에 이르다"
+          },
+          {
+            "phrase": "break the deadlock",
+            "meaning_ko": "교착을 깨다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "deadlock in negotiations",
+            "meaning_ko": "협상 교착"
+          },
+          {
+            "phrase": "a deadlock over the budget",
+            "meaning_ko": "예산을 둘러싼 교착"
+          },
+          {
+            "phrase": "deadlocked talks",
+            "meaning_ko": "교착된 회담"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "constitutional deadlock",
+            "meaning_ko": "헌정(제도)적 교착"
+          },
+          {
+            "phrase": "procedural deadlock",
+            "meaning_ko": "절차상 교착"
+          },
+          {
+            "phrase": "deadlock resolution mechanism",
+            "meaning_ko": "교착 해소 메커니즘"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The talks ended in deadlock.",
+            "meaning_ko": "회담은 교착 상태로 끝났다."
+          },
+          {
+            "sentence": "They finally broke the deadlock.",
+            "meaning_ko": "그들은 마침내 교착을 깼다."
+          },
+          {
+            "sentence": "The vote is stuck in a deadlock.",
+            "meaning_ko": "그 표결은 교착에 갇혀 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "A deadlock over wages delayed the contract for weeks.",
+            "meaning_ko": "임금을 둘러싼 교착 때문에 계약이 몇 주나 지연됐다."
+          },
+          {
+            "sentence": "Without a compromise, the committee will remain deadlocked.",
+            "meaning_ko": "타협이 없으면 위원회는 계속 교착 상태일 것이다."
+          },
+          {
+            "sentence": "The two parties are deadlocked on the key clause.",
+            "meaning_ko": "두 당사자는 핵심 조항에서 의견이 맞지 않아 교착되어 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The legislature’s procedural deadlock exposed deeper institutional flaws.",
+            "meaning_ko": "의회의 절차적 교착은 더 깊은 제도적 결함을 드러냈다."
+          },
+          {
+            "sentence": "To avoid deadlock, the treaty includes an arbitration fallback.",
+            "meaning_ko": "교착을 피하기 위해 그 조약은 중재로 넘어가는 대안을 포함한다."
+          },
+          {
+            "sentence": "A single veto can deadlock the entire decision-making architecture.",
+            "meaning_ko": "단 한 번의 거부권이 의사결정 구조 전체를 교착시킬 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "deadlock은 '서로 잠가버려 움직일 수 없음' 이미지로 기억하시면 좋습니다. 시험에서는 break/resolve the deadlock처럼 ‘해소’ 동사와 함께 자주 나오고, impasse/stalemate와 의미가 거의 비슷하니 뉘앙스(공식/중립)를 구분해 두세요.",
+    "tags": [
+      "협상",
+      "정치",
+      "분쟁",
+      "상태",
+      "비즈니스"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The debate ended in ____ and no decision was made.",
+            "a": "deadlock",
+            "meaning_ko": "결정이 나지 않는 교착 상태를 뜻하므로 deadlock."
+          },
+          {
+            "q": "Fill in the blank: They managed to ____ the deadlock by compromising.",
+            "a": "break",
+            "meaning_ko": "교착을 '깨다'는 break the deadlock이 자연스럽습니다."
+          },
+          {
+            "q": "Which is closest in meaning to 'deadlock'?",
+            "a": "impasse",
+            "meaning_ko": "impasse는 교착 상태의 대표 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'deadlocked': The negotiations made no progress.",
+            "a": "The negotiations were deadlocked.",
+            "meaning_ko": "진전이 없음을 '교착되었다'로 바꿔 표현."
+          },
+          {
+            "q": "Pick the best preposition: a deadlock ____ the budget",
+            "a": "over",
+            "meaning_ko": "~을 두고 벌어진 교착은 over가 가장 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best option: A deadlock can be resolved by (A) compromise (B) escalation (C) silence.",
+            "a": "A",
+            "meaning_ko": "교착은 보통 타협/중재로 해소됩니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Which sentence uses 'deadlock' most precisely?",
+            "a": "The two sides remained deadlocked on the arbitration clause.",
+            "meaning_ko": "쟁점(clause)에서 양측이 막혀 진전이 없다는 핵심 의미를 정확히 담음."
+          },
+          {
+            "q": "Fill in the blank: The reform failed due to a legislative ____ that blocked the vote.",
+            "a": "deadlock",
+            "meaning_ko": "의회 내 교착으로 표결이 막혔다는 문맥."
+          },
+          {
+            "q": "Choose the best paraphrase: 'deadlock resolution mechanism'",
+            "a": "a method to break a no-progress stalemate",
+            "meaning_ko": "교착을 해소하는 장치/방법이라는 뜻."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "secede",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To formally withdraw from an organization, alliance, or political union.",
+        "definition_ko": " (국가·단체 등이) 공식적으로 탈퇴하다, 분리 독립하다.",
+        "note": "정치·역사 맥락에서 매우 자주 쓰이며, 특히 '연방/국가'에서 떨어져 나가는 의미가 강합니다."
+      }
+    ],
+    "concept": "하나의 ‘연합/국가/조직’에서 떨어져 나가 독자적으로 나가는 행위.",
+    "etymology": "라틴어 secedere(떨어져 나가다, 물러나다)에서 유래. se-(떼어) + cedere(가다/물러나다) 구조입니다.",
+    "semanticExtension": "원래는 ‘물러나 따로 가다’의 동작에서, 정치적·제도적 ‘탈퇴/분리’(분리독립) 의미로 굳어졌습니다.",
+    "nuanceRegister": "격식/정치·역사 용어(뉴스, 학술, 법·정치 문서). 일상 대화에서는 withdraw/leave가 더 흔합니다.",
+    "grammarNotes": "보통 자동사로 쓰이며 from + 조직/국가를 동반: secede from the union. 명사형 secession, 형용사 secessionist(분리주의자)도 함께 묶어 학습하면 효율적입니다.",
+    "transitivity": "자동사(보통 secede from + 대상).",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~에서 탈퇴/분리하다",
+        "example": "secede from the federation"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~하기 위해(목적) 분리하다",
+        "example": "secede to form an independent state"
+      }
+    ],
+    "requiredComplements": [
+      "secede from + 연합/국가/조직(탈퇴·분리 대상)",
+      "secede to + V(목적: 독립국가를 세우기 위해 등)",
+      "attempt/plan to secede(분리 시도/계획)"
+    ],
+    "morphology": "se-(떼어) + -cede(가다/물러나다; precede, recede와 같은 어근) → '따로 떨어져 나가다'.",
+    "derivatives": [
+      {
+        "word": "secession",
+        "meaning_ko": "분리, 탈퇴, 분리독립"
+      },
+      {
+        "word": "secessionist",
+        "meaning_ko": "분리주의자"
+      },
+      {
+        "word": "secessionism",
+        "meaning_ko": "분리주의"
+      },
+      {
+        "word": "recede",
+        "meaning_ko": "물러나다, 후퇴하다(같은 어근)"
+      },
+      {
+        "word": "precede",
+        "meaning_ko": "~에 앞서다(같은 어근)"
+      }
+    ],
+    "related": [
+      {
+        "word": "independence",
+        "meaning_ko": "독립"
+      },
+      {
+        "word": "autonomy",
+        "meaning_ko": "자치"
+      },
+      {
+        "word": "federation",
+        "meaning_ko": "연방"
+      },
+      {
+        "word": "referendum",
+        "meaning_ko": "국민투표"
+      },
+      {
+        "word": "sovereignty",
+        "meaning_ko": "주권"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "withdraw",
+        "meaning_ko": "탈퇴하다(일반)"
+      },
+      {
+        "word": "break away",
+        "meaning_ko": "떨어져 나가다"
+      },
+      {
+        "word": "separate",
+        "meaning_ko": "분리하다/되다"
+      },
+      {
+        "word": "split off",
+        "meaning_ko": "분리되다"
+      },
+      {
+        "word": "disaffiliate",
+        "meaning_ko": "제휴/소속을 끊다(조직)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "resign",
+        "meaning_ko": "사임하다(조직 탈퇴와는 다름)"
+      },
+      {
+        "word": "leave",
+        "meaning_ko": "떠나다(구어/일반)"
+      },
+      {
+        "word": "exit",
+        "meaning_ko": "탈퇴/퇴장(명사·동사)"
+      },
+      {
+        "word": "opt out",
+        "meaning_ko": "선택적으로 빠지다"
+      },
+      {
+        "word": "dissolve",
+        "meaning_ko": "해산하다(조직 자체가 해체)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "join",
+        "meaning_ko": "가입하다"
+      },
+      {
+        "word": "unite",
+        "meaning_ko": "통합하다"
+      },
+      {
+        "word": "integrate",
+        "meaning_ko": "통합하다"
+      },
+      {
+        "word": "affiliate",
+        "meaning_ko": "제휴/소속되다"
+      },
+      {
+        "word": "merge",
+        "meaning_ko": "합병하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "secede from a country",
+            "meaning_ko": "한 나라에서 분리되다"
+          },
+          {
+            "phrase": "secede from the union",
+            "meaning_ko": "연합/연방에서 탈퇴하다"
+          },
+          {
+            "phrase": "attempt to secede",
+            "meaning_ko": "분리를 시도하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a secession movement",
+            "meaning_ko": "분리 독립 운동"
+          },
+          {
+            "phrase": "vote to secede",
+            "meaning_ko": "분리를 위한 투표를 하다"
+          },
+          {
+            "phrase": "secede peacefully",
+            "meaning_ko": "평화적으로 분리되다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "secede unilaterally",
+            "meaning_ko": "일방적으로 분리/탈퇴하다"
+          },
+          {
+            "phrase": "constitutional right to secede",
+            "meaning_ko": "분리할 헌법적 권리"
+          },
+          {
+            "phrase": "international recognition after secession",
+            "meaning_ko": "분리 이후의 국제적 승인"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The region wants to secede from the country.",
+            "meaning_ko": "그 지역은 그 나라에서 분리 독립하길 원한다."
+          },
+          {
+            "sentence": "Some members tried to secede from the group.",
+            "meaning_ko": "일부 구성원은 그 단체에서 탈퇴하려 했다."
+          },
+          {
+            "sentence": "They voted to secede.",
+            "meaning_ko": "그들은 분리하기로 투표했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "A referendum was held to decide whether the province should secede.",
+            "meaning_ko": "그 주(州)가 분리해야 하는지 결정하기 위한 국민투표가 실시됐다."
+          },
+          {
+            "sentence": "Leaders urged supporters to secede peacefully and avoid violence.",
+            "meaning_ko": "지도자들은 지지자들에게 평화적으로 분리하고 폭력을 피하라고 촉구했다."
+          },
+          {
+            "sentence": "The party threatened to secede from the coalition if talks collapsed.",
+            "meaning_ko": "그 당은 협상이 결렬되면 연립에서 탈퇴하겠다고 위협했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The constitution does not clearly provide a mechanism for a state to secede.",
+            "meaning_ko": "그 헌법은 주(州)가 분리할 수 있는 절차를 명확히 규정하지 않는다."
+          },
+          {
+            "sentence": "Unilateral secession without broad legitimacy can destabilize the entire region.",
+            "meaning_ko": "폭넓은 정당성 없는 일방적 분리는 지역 전체를 불안정하게 만들 수 있다."
+          },
+          {
+            "sentence": "After seceding, the new government sought international recognition and trade access.",
+            "meaning_ko": "분리 후 신정부는 국제적 승인과 무역 접근을 확보하려 했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "secede는 '조직을 그냥 떠나다'보다 더 강하게, 특히 정치적 ‘분리·탈퇴(분리독립)’를 뜻합니다. 꼭 secede from 형태로 묶어 외우고, secession(명사), secessionist(분리주의자)까지 세트로 익히면 지문 독해에서 바로 연결됩니다.",
+    "tags": [
+      "정치",
+      "역사",
+      "국가",
+      "분리독립",
+      "국제관계"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The state tried to ____ from the federation.",
+            "a": "secede",
+            "meaning_ko": "연방에서 '분리하다'는 secede from이 정답."
+          },
+          {
+            "q": "Which preposition is most common with 'secede'?",
+            "a": "from",
+            "meaning_ko": "secede는 보통 secede from + 대상."
+          },
+          {
+            "q": "Choose the closest meaning: secede",
+            "a": "break away",
+            "meaning_ko": "break away는 ‘떨어져 나가다/분리되다’로 의미가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best word: A(n) ____ movement demanded independence from the central government.",
+            "a": "secession",
+            "meaning_ko": "분리 독립 운동은 secession movement."
+          },
+          {
+            "q": "Rewrite using 'secede from': They left the coalition.",
+            "a": "They seceded from the coalition.",
+            "meaning_ko": "격식 표현으로 ‘탈퇴하다’를 secede from으로 재구성."
+          },
+          {
+            "q": "Pick the best option: 'secede' is used most often in (A) cooking (B) politics (C) sports.",
+            "a": "B",
+            "meaning_ko": "secede는 정치/국가 분리 맥락에서 주로 사용."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Fill in the blank: Unilateral ____ may lack legitimacy under international law.",
+            "a": "secession",
+            "meaning_ko": "일방적 분리(독립) = unilateral secession."
+          },
+          {
+            "q": "Which sentence is most accurate?",
+            "a": "The province voted in a referendum to secede from the union.",
+            "meaning_ko": "국민투표로 연합에서 분리하는 전형적 문맥."
+          },
+          {
+            "q": "Choose the best paraphrase: 'constitutional right to secede'",
+            "a": "a legal right to withdraw from a political union",
+            "meaning_ko": "헌법이 보장하는 ‘정치적 연합에서 탈퇴할 권리’."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "elaborate",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To explain or develop something in more detail.",
+        "definition_ko": "자세히 설명하다; (아이디어·계획을) 구체화하다.",
+        "note": "elaborate on/upon + 명사(~을 더 자세히 설명하다) 패턴이 핵심입니다."
+      },
+      {
+        "definition_en": "Having many carefully arranged parts; detailed and complicated.",
+        "definition_ko": "정교한, 공들여 만든; (구성요소가 많아) 복잡한.",
+        "note": "elaborate plan/design/decoration처럼 ‘정교함+복잡함’의 느낌."
+      }
+    ],
+    "concept": "‘더 디테일을 붙여’ 설명하거나, 디테일이 많아 ‘정교한’ 상태.",
+    "etymology": "라틴어 elaborare(노력하여 만들어내다)에서 유래. e-(밖으로) + labor(노동/수고) 뿌리로, '공들여 만들어내다' 의미가 바탕입니다.",
+    "semanticExtension": "‘공들여 만들어내다’ → (말/글에서) ‘상세히 풀어내다’(동사)로, 결과물의 성질로는 ‘정교하고 복잡한’(형용사)로 확장.",
+    "nuanceRegister": "중립~격식(학술/업무 문서에서 매우 흔함). 형용사로는 약간 문어적이지만 일상에서도 사용 가능.",
+    "grammarNotes": "동사: elaborate on/upon + 주제. 목적어 없이도 'Please elaborate.' 가능. 형용사: an elaborate plan/costume. 주의: 발음(명사/형용사와 동사 강세 차이)이 있지만 철자는 동일.",
+    "transitivity": "타동사(보통 on/upon과 함께 쓰는 구조)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~을 더 자세히 설명하다",
+        "example": "elaborate on the proposal"
+      },
+      {
+        "prep": "upon",
+        "meaning_ko": "~을 더 자세히 설명하다(격식)",
+        "example": "elaborate upon the reasons"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~로 장식/구체화를 더하다",
+        "example": "an essay elaborated with examples"
+      }
+    ],
+    "requiredComplements": [
+      "elaborate on/upon + 주제(더 자세히 설명)",
+      "elaborate a plan/idea(계획/아이디어를 구체화하다)",
+      "an elaborate + 명사(정교한/복잡한)"
+    ],
+    "morphology": "e-(밖으로) + labor(노동/수고) → '수고를 들여 만들어 내다'가 핵심 이미지.",
+    "derivatives": [
+      {
+        "word": "elaboration",
+        "meaning_ko": "상세 설명, 정교화"
+      },
+      {
+        "word": "elaborately",
+        "meaning_ko": "정교하게, 공들여"
+      },
+      {
+        "word": "labor",
+        "meaning_ko": "노동, 수고(어근)"
+      },
+      {
+        "word": "collaborate",
+        "meaning_ko": "협력하다(같은 labor 계열)"
+      },
+      {
+        "word": "laborious",
+        "meaning_ko": "힘든, 공이 많이 드는"
+      }
+    ],
+    "related": [
+      {
+        "word": "detail",
+        "meaning_ko": "세부 사항"
+      },
+      {
+        "word": "clarify",
+        "meaning_ko": "명확히 하다"
+      },
+      {
+        "word": "specify",
+        "meaning_ko": "구체적으로 명시하다"
+      },
+      {
+        "word": "refine",
+        "meaning_ko": "다듬다, 정교화하다"
+      },
+      {
+        "word": "outline",
+        "meaning_ko": "개요를 잡다/개요"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "explain",
+        "meaning_ko": "설명하다"
+      },
+      {
+        "word": "expand on",
+        "meaning_ko": "~을 더 풀어 말하다"
+      },
+      {
+        "word": "detail",
+        "meaning_ko": "자세히 말하다/세부를 적다"
+      },
+      {
+        "word": "develop",
+        "meaning_ko": "발전시키다, 구체화하다"
+      },
+      {
+        "word": "amplify",
+        "meaning_ko": "부연하다(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "clarify",
+        "meaning_ko": "명확히 하다(디테일 추가와는 다름)"
+      },
+      {
+        "word": "illustrate",
+        "meaning_ko": "예로 설명하다"
+      },
+      {
+        "word": "describe",
+        "meaning_ko": "묘사하다"
+      },
+      {
+        "word": "complicate",
+        "meaning_ko": "복잡하게 만들다(부정적)"
+      },
+      {
+        "word": "ornate",
+        "meaning_ko": "화려하게 장식된(형용사)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "simplify",
+        "meaning_ko": "단순화하다"
+      },
+      {
+        "word": "summarize",
+        "meaning_ko": "요약하다"
+      },
+      {
+        "word": "condense",
+        "meaning_ko": "압축하다"
+      },
+      {
+        "word": "sketch",
+        "meaning_ko": "대강 그리다/개략적으로 말하다"
+      },
+      {
+        "word": "plain",
+        "meaning_ko": "수수한, 단순한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "Please elaborate.",
+            "meaning_ko": "좀 더 설명해 주세요."
+          },
+          {
+            "phrase": "elaborate on a point",
+            "meaning_ko": "어떤 점을 더 자세히 설명하다"
+          },
+          {
+            "phrase": "an elaborate plan",
+            "meaning_ko": "정교한/복잡한 계획"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "elaborate on the details",
+            "meaning_ko": "세부사항을 부연하다"
+          },
+          {
+            "phrase": "an elaborate design",
+            "meaning_ko": "정교한 디자인"
+          },
+          {
+            "phrase": "elaborate with examples",
+            "meaning_ko": "예시로 더 풀어 설명하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "elaborate a theoretical framework",
+            "meaning_ko": "이론적 틀을 정교화하다"
+          },
+          {
+            "phrase": "an elaborately reasoned argument",
+            "meaning_ko": "정교하게 전개된 논증"
+          },
+          {
+            "phrase": "elaboration of the methodology",
+            "meaning_ko": "방법론의 상세화/정교화"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Can you elaborate on that?",
+            "meaning_ko": "그 부분 좀 더 자세히 설명해 주실래요?"
+          },
+          {
+            "sentence": "She gave an elaborate plan for the trip.",
+            "meaning_ko": "그녀는 여행에 대해 정교한 계획을 제시했다."
+          },
+          {
+            "sentence": "He refused to elaborate.",
+            "meaning_ko": "그는 더 자세히 말하길 거부했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report elaborates on the risks and proposes safeguards.",
+            "meaning_ko": "그 보고서는 위험 요소를 자세히 설명하고 안전장치를 제안한다."
+          },
+          {
+            "sentence": "They elaborated their idea into a workable prototype.",
+            "meaning_ko": "그들은 아이디어를 구체화해 실행 가능한 시제품으로 만들었다."
+          },
+          {
+            "sentence": "Her costume was elaborate but surprisingly practical.",
+            "meaning_ko": "그녀의 의상은 정교했지만 의외로 실용적이었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The authors elaborate a framework that links incentives to long-term compliance.",
+            "meaning_ko": "저자들은 인센티브를 장기적 준수와 연결하는 틀을 정교화한다."
+          },
+          {
+            "sentence": "Without elaboration of assumptions, the model’s conclusions are hard to evaluate.",
+            "meaning_ko": "가정이 상세히 제시되지 않으면 그 모델의 결론은 평가하기 어렵다."
+          },
+          {
+            "sentence": "An elaborately reasoned dissent challenged the majority’s narrow reading of the statute.",
+            "meaning_ko": "정교하게 전개된 반대의견은 다수의 협소한 법 해석에 이의를 제기했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "elaborate는 동사/형용사 둘 다 자주 나옵니다. 동사는 거의 고정으로 elaborate on/upon을 쓰며, 'Please elaborate'처럼 목적어 없이도 가능하다는 점이 포인트입니다. 형용사에서는 '정교하지만 복잡한' 뉘앙스가 있어 ornate(장식적)나 complicated(부정적)과 비교해 구분해 두세요.",
+    "tags": [
+      "설명",
+      "글쓰기",
+      "학술",
+      "디테일",
+      "업무"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Please ____ on your answer.",
+            "a": "elaborate",
+            "meaning_ko": "on과 함께 ‘더 자세히 설명하다’는 elaborate."
+          },
+          {
+            "q": "Choose the correct meaning: an elaborate design",
+            "a": "a very detailed and carefully made design",
+            "meaning_ko": "형용사로 ‘정교한/디테일 많은’."
+          },
+          {
+            "q": "True or False: 'Please elaborate.' is a complete sentence.",
+            "a": "True",
+            "meaning_ko": "목적어 없이도 ‘부연해 주세요’로 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best preposition: elaborate ____ the reasons",
+            "a": "on",
+            "meaning_ko": "elaborate on/upon + 주제가 정석."
+          },
+          {
+            "q": "Rewrite: He explained the plan in more detail. (use 'elaborate')",
+            "a": "He elaborated on the plan.",
+            "meaning_ko": "‘더 자세히 설명하다’ = elaborate on."
+          },
+          {
+            "q": "Choose the best word: The proposal is too vague; we need more ____.",
+            "a": "elaboration",
+            "meaning_ko": "상세 설명/정교화 = elaboration."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Fill in the blank: The paper provides an ____ of the methodology, including assumptions and limitations.",
+            "a": "elaboration",
+            "meaning_ko": "방법론의 상세화/정교화라는 문맥."
+          },
+          {
+            "q": "Which sentence uses 'elaborate' as an adjective?",
+            "a": "They wore an elaborate costume for the ceremony.",
+            "meaning_ko": "costume를 수식하므로 형용사 용법."
+          },
+          {
+            "q": "Choose the best paraphrase: 'elaborate a framework'",
+            "a": "develop a framework with detailed structure",
+            "meaning_ko": "틀을 ‘정교하게 발전/구체화’한다는 뜻."
+          }
+        ]
+      }
+    ]
+  }
+]

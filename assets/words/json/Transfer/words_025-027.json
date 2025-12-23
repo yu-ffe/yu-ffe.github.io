@@ -1,0 +1,975 @@
+[
+  {
+    "word": "calamity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A great and often sudden disaster or misfortune that causes serious damage or distress.",
+        "definition_ko": "큰 재난·불행(대개 갑작스럽고 피해가 큰 사건).",
+        "note": "격식·문어 느낌이 있으며, 개인적 불행부터 사회적 재난까지 폭넓게 씁니다."
+      },
+      {
+        "definition_en": "A state of severe trouble or distress caused by a disastrous event.",
+        "definition_ko": "(재난으로 인한) 심각한 곤경·참담한 상황.",
+        "note": "사건 자체뿐 아니라 그 결과로 생긴 '참담한 처지'에도 씁니다."
+      }
+    ],
+    "concept": "돌이키기 어렵게 상황을 망가뜨리는 ‘큰 재난/대형 불운’.",
+    "etymology": "라틴어 calamitas(재난, 손해)에서 유래한 것으로 알려져 있습니다(자세한 어원 정보는 단순화).",
+    "semanticExtension": "자연재해 같은 물리적 재난에서 → 정책 실패·관계 파탄 같은 추상적 ‘대형 사고/대참사’로 확장됩니다.",
+    "nuanceRegister": "격식/문어(기사·보고서·에세이)에서 자주 쓰이며, 일상 대화에선 disaster가 더 흔합니다.",
+    "grammarNotes": "주로 가산명사로 쓰이며 a calamity / calamities 형태가 일반적입니다. ‘calamity that + 절’, ‘calamity for + 명사’ 같은 구조가 자주 나옵니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에게/~에 있어 큰 재난",
+        "example": "a calamity for the local economy"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 큰 타격/불행",
+        "example": "a calamity to her family"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "(사태·정책 등) ~에서 재난이 발생",
+        "example": "a calamity in public health"
+      }
+    ],
+    "requiredComplements": [
+      "a calamity for + 명사 (—에게/—에 있어 재난)",
+      "a calamity to + 명사 (—에게 큰 불행/타격)",
+      "a calamity that + S V (—라는 재난/참사)"
+    ],
+    "morphology": "calamity(어근 calamit- + -y(명사화)). 파생형 calamitous(형용사)와 함께 기억하면 좋습니다.",
+    "derivatives": [
+      {
+        "word": "calamitous",
+        "meaning_ko": "재난을 초래하는, 참담한"
+      },
+      {
+        "word": "calamity-stricken",
+        "meaning_ko": "재난을 당한"
+      }
+    ],
+    "related": [
+      {
+        "word": "disaster",
+        "meaning_ko": "재난, 참사"
+      },
+      {
+        "word": "catastrophe",
+        "meaning_ko": "대재앙, 파국"
+      },
+      {
+        "word": "misfortune",
+        "meaning_ko": "불운, 불행"
+      },
+      {
+        "word": "tragedy",
+        "meaning_ko": "비극"
+      },
+      {
+        "word": "crisis",
+        "meaning_ko": "위기"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "catastrophe",
+        "meaning_ko": "대재앙"
+      },
+      {
+        "word": "disaster",
+        "meaning_ko": "재난/참사"
+      },
+      {
+        "word": "debacle",
+        "meaning_ko": "대실패, 붕괴"
+      },
+      {
+        "word": "tragedy",
+        "meaning_ko": "비극"
+      },
+      {
+        "word": "misadventure",
+        "meaning_ko": "불운한 사건"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "setback",
+        "meaning_ko": "좌절, 차질(규모는 더 작을 때가 많음)"
+      },
+      {
+        "word": "mishap",
+        "meaning_ko": "작은 사고/불운"
+      },
+      {
+        "word": "hardship",
+        "meaning_ko": "고난, 어려움(지속적)"
+      },
+      {
+        "word": "misery",
+        "meaning_ko": "비참함(감정/상태 중심)"
+      },
+      {
+        "word": "ruin",
+        "meaning_ko": "파멸(결과 강조)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "blessing",
+        "meaning_ko": "축복"
+      },
+      {
+        "word": "boon",
+        "meaning_ko": "혜택"
+      },
+      {
+        "word": "success",
+        "meaning_ko": "성공"
+      },
+      {
+        "word": "relief",
+        "meaning_ko": "안도, 구제"
+      },
+      {
+        "word": "good fortune",
+        "meaning_ko": "행운"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a major calamity",
+            "meaning_ko": "큰 재난"
+          },
+          {
+            "phrase": "natural calamity",
+            "meaning_ko": "자연재해"
+          },
+          {
+            "phrase": "avoid calamity",
+            "meaning_ko": "재난을 피하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "avert a calamity",
+            "meaning_ko": "재난을 미연에 방지하다"
+          },
+          {
+            "phrase": "a financial calamity",
+            "meaning_ko": "재정(금융) 대참사"
+          },
+          {
+            "phrase": "a public-health calamity",
+            "meaning_ko": "공중보건 재난"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "calamity of unprecedented scale",
+            "meaning_ko": "전례 없는 규모의 재난"
+          },
+          {
+            "phrase": "a calamity born of negligence",
+            "meaning_ko": "부주의에서 비롯된 참사"
+          },
+          {
+            "phrase": "turn a setback into a calamity",
+            "meaning_ko": "차질을 대재앙으로 키우다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The storm was a calamity for the coastal towns.",
+            "meaning_ko": "그 폭풍은 해안 마을들에 큰 재난이었다."
+          },
+          {
+            "sentence": "They donated food after the calamity.",
+            "meaning_ko": "그들은 재난 이후 식량을 기부했다."
+          },
+          {
+            "sentence": "No one expected such a calamity.",
+            "meaning_ko": "아무도 그런 재난을 예상하지 못했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "A single mistake can become a calamity when no one speaks up.",
+            "meaning_ko": "아무도 말하지 않으면 작은 실수 하나가 대참사가 될 수 있다."
+          },
+          {
+            "sentence": "The report warned that delays could lead to a public-health calamity.",
+            "meaning_ko": "그 보고서는 지연이 공중보건 재난으로 이어질 수 있다고 경고했다."
+          },
+          {
+            "sentence": "For small businesses, the sudden shutdown was a financial calamity.",
+            "meaning_ko": "소상공인에게 갑작스런 영업 중단은 재정적 대참사였다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "What began as an administrative oversight escalated into a calamity of unprecedented scale.",
+            "meaning_ko": "행정적 소홀로 시작된 일이 전례 없는 규모의 대참사로 번졌다."
+          },
+          {
+            "sentence": "Leaders tried to frame the collapse as bad luck, but the evidence pointed to a man-made calamity.",
+            "meaning_ko": "지도자들은 붕괴를 단순한 불운으로 포장하려 했지만, 증거는 인재(人災)를 가리켰다."
+          },
+          {
+            "sentence": "Without structural reforms, the country risks repeating the same calamity under a different name.",
+            "meaning_ko": "구조 개혁이 없으면 그 나라는 이름만 바뀐 같은 참사를 되풀이할 위험이 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "calamity는 ‘규모가 큰 재난/불행’에 초점이 있습니다. disaster(더 흔한 일반어)보다 문어·격식 느낌이 강하고, catastrophe는 ‘완전한 파국/대재앙’ 뉘앙스가 더 큽니다. 시험에서는 a calamity for/to, avert a calamity 같은 결합을 함께 기억해 두시면 좋습니다.",
+    "tags": [
+      "재난",
+      "사회",
+      "기사·문어",
+      "부정적 사건"
+    ],
+    "frequency": "중",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The earthquake was a ______ for the region.",
+            "a": "calamity",
+            "meaning_ko": "지진처럼 큰 재난을 말할 때 calamity가 자연스럽습니다."
+          },
+          {
+            "q": "True/False: A calamity is usually something positive.",
+            "a": "False",
+            "meaning_ko": "calamity는 ‘재난/큰 불행’으로 부정적입니다."
+          },
+          {
+            "q": "Fill in the blank: They acted quickly to avoid a ______.",
+            "a": "calamity",
+            "meaning_ko": "avoid a calamity(재난을 피하다) 결합을 묻는 문제입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which collocation is most natural? (A) avert a calamity (B) cook a calamity (C) paint a calamity (D) drink a calamity",
+            "a": "avert a calamity",
+            "meaning_ko": "avert는 ‘(위험을) 미연에 막다’로 calamity와 잘 붙습니다."
+          },
+          {
+            "q": "Fill in the blank: The outage was a calamity ___ the hospital system.",
+            "a": "for",
+            "meaning_ko": "a calamity for + 대상(‘~에겐 큰 재난’) 구조가 흔합니다."
+          },
+          {
+            "q": "Choose the closest meaning: ‘a calamity’",
+            "a": "a great disaster",
+            "meaning_ko": "핵심 뜻은 ‘큰 재난/대참사’입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'calamity' (keep meaning): 'Negligence turned a manageable problem into a huge disaster.'",
+            "a": "Negligence turned a manageable problem into a calamity.",
+            "meaning_ko": "disaster를 calamity로 격식 있게 바꿔 쓸 수 있습니다."
+          },
+          {
+            "q": "Which sentence best fits formal writing?",
+            "a": "The policy failure precipitated a calamity in public health.",
+            "meaning_ko": "precipitate + calamity/in 구조는 보고서·기사체에 어울립니다."
+          },
+          {
+            "q": "Fill in the blank: What began as a minor error ______ into a calamity.",
+            "a": "escalated",
+            "meaning_ko": "escalate into(…로 번지다) + calamity 결합이 고급 어휘/구문입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "insist",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To demand something firmly and refuse to accept alternatives.",
+        "definition_ko": "(무엇을) 강하게 요구하다, 고집하다.",
+        "note": "상대의 반대나 거절에도 물러서지 않는 ‘강한 요구’ 뉘앙스입니다."
+      },
+      {
+        "definition_en": "To state firmly that something is true, especially when it is doubted or disputed.",
+        "definition_ko": "(사실이라고) 강하게 주장하다, 우기다.",
+        "note": "증거/논쟁 상황에서 ‘그렇다’고 단언할 때 자주 씁니다."
+      }
+    ],
+    "concept": "물러서지 않고 ‘요구하거나 단언’하는 태도.",
+    "etymology": "라틴어 insistere(위에 서다, 굳게 서다)에서 유래한 것으로 알려져 있습니다.",
+    "semanticExtension": "물리적으로 ‘발을 딛고 서다’ → 비유적으로 ‘입장을 고수하다/요구를 굽히지 않다’로 확장됩니다.",
+    "nuanceRegister": "중립~격식. 일상에서도 쓰지만, insist on/that 같은 문법 패턴이 시험에 자주 나옵니다.",
+    "grammarNotes": "주요 패턴: insist on + 명사/동명사, insist that + S (should) V, insist + (목적어) + on. 사람을 직접 목적어로 두기보단 ‘insist that…’나 ‘insist on…’가 자연스럽습니다.",
+    "transitivity": "자동사·타동사 모두(실제로는 전치사 on/절 that과 결합하는 자동사적 용법이 매우 흔함)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~을(를) 끝까지 고집/요구",
+        "example": "insist on an apology"
+      },
+      {
+        "prep": "upon",
+        "meaning_ko": "(격식) ~을 강하게 요구/주장",
+        "example": "insist upon strict compliance"
+      }
+    ],
+    "requiredComplements": [
+      "insist on + 명사/동명사 (…을 요구/고집하다)",
+      "insist that + S V / S should V (…라고 주장/요구하다)",
+      "insist + (대상) + on + 명사/동명사 (—에게 …을 요구하다)"
+    ],
+    "morphology": "in-(강조/방향) + sist(서다, stand) 계열 어근. persist(끝까지 계속하다), resist(저항하다)와 어근이 연결됩니다.",
+    "derivatives": [
+      {
+        "word": "insistence",
+        "meaning_ko": "고집, 강한 주장"
+      },
+      {
+        "word": "insistent",
+        "meaning_ko": "고집스러운, 끈질긴"
+      },
+      {
+        "word": "insistently",
+        "meaning_ko": "끈질기게"
+      }
+    ],
+    "related": [
+      {
+        "word": "demand",
+        "meaning_ko": "요구하다"
+      },
+      {
+        "word": "assert",
+        "meaning_ko": "단언하다"
+      },
+      {
+        "word": "maintain",
+        "meaning_ko": "(주장을) 고수하다"
+      },
+      {
+        "word": "persist",
+        "meaning_ko": "지속하다, 고집하다"
+      },
+      {
+        "word": "refuse",
+        "meaning_ko": "거부하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "demand",
+        "meaning_ko": "강하게 요구하다"
+      },
+      {
+        "word": "assert",
+        "meaning_ko": "강하게 주장하다"
+      },
+      {
+        "word": "maintain",
+        "meaning_ko": "(주장을) 굽히지 않다"
+      },
+      {
+        "word": "contend",
+        "meaning_ko": "(논쟁에서) 주장하다"
+      },
+      {
+        "word": "press",
+        "meaning_ko": "압박하다, 요구하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "request",
+        "meaning_ko": "요청하다(강도 약함)"
+      },
+      {
+        "word": "urge",
+        "meaning_ko": "권하다/촉구하다"
+      },
+      {
+        "word": "claim",
+        "meaning_ko": "주장하다(강도/근거 다양)"
+      },
+      {
+        "word": "plead",
+        "meaning_ko": "애원하다(감정적)"
+      },
+      {
+        "word": "propose",
+        "meaning_ko": "제안하다(강제성 낮음)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "yield",
+        "meaning_ko": "양보하다"
+      },
+      {
+        "word": "concede",
+        "meaning_ko": "인정하다, 양보하다"
+      },
+      {
+        "word": "withdraw",
+        "meaning_ko": "철회하다"
+      },
+      {
+        "word": "comply",
+        "meaning_ko": "따르다(요구하는 쪽이 아니라 따르는 쪽)"
+      },
+      {
+        "word": "accept",
+        "meaning_ko": "받아들이다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "insist on it",
+            "meaning_ko": "그걸 꼭 하겠다고 우기다"
+          },
+          {
+            "phrase": "insist that he is right",
+            "meaning_ko": "자기가 맞다고 우기다"
+          },
+          {
+            "phrase": "insist on going",
+            "meaning_ko": "가겠다고 고집하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "insist on an apology",
+            "meaning_ko": "사과를 요구하다"
+          },
+          {
+            "phrase": "insist that changes be made",
+            "meaning_ko": "변경이 이루어져야 한다고 요구하다"
+          },
+          {
+            "phrase": "insist on strict standards",
+            "meaning_ko": "엄격한 기준을 고수하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "insist that due process be followed",
+            "meaning_ko": "적법 절차가 준수돼야 한다고 강하게 요구하다"
+          },
+          {
+            "phrase": "insist on transparency and accountability",
+            "meaning_ko": "투명성과 책임성을 끝까지 요구하다"
+          },
+          {
+            "phrase": "insist that the burden of proof lies with the claimant",
+            "meaning_ko": "입증책임이 청구인에게 있다고 단언하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She insisted on paying for dinner.",
+            "meaning_ko": "그녀는 저녁값을 자기가 내겠다고 고집했다."
+          },
+          {
+            "sentence": "He insists that he saw it happen.",
+            "meaning_ko": "그는 그 일이 실제로 일어나는 걸 봤다고 우긴다."
+          },
+          {
+            "sentence": "I didn’t want to go, but they insisted.",
+            "meaning_ko": "나는 가기 싫었지만, 그들이 끝까지 우겨서(강권해서) 갔다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The manager insisted on a written report by Monday.",
+            "meaning_ko": "매니저는 월요일까지 서면 보고서를 반드시 제출하라고 요구했다."
+          },
+          {
+            "sentence": "She insisted that the contract be reviewed by a lawyer.",
+            "meaning_ko": "그녀는 계약서를 변호사가 검토해야 한다고 강하게 요구했다."
+          },
+          {
+            "sentence": "Despite the evidence, he insisted that the numbers were accurate.",
+            "meaning_ko": "증거가 있는데도 그는 수치가 정확하다고 주장했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "They insisted that due process be followed, even under intense public pressure.",
+            "meaning_ko": "거센 여론 압박 속에서도 그들은 적법 절차 준수를 끝까지 요구했다."
+          },
+          {
+            "sentence": "The witness insisted on the chronology, forcing the court to revisit earlier assumptions.",
+            "meaning_ko": "증인은 사건의 시간순서를 고수했고, 법원은 기존 가정을 다시 검토해야 했다."
+          },
+          {
+            "sentence": "If you insist on framing the issue as a binary choice, you will miss the real trade-offs.",
+            "meaning_ko": "문제를 이분법으로만 규정하겠다고 고집하면, 진짜 상충관계를 놓치게 된다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "insist는 ‘강하게 요구/단언’이라서 request(정중한 요청)보다 압력이 큽니다. 문법 포인트는 insist on + 동명사/명사, insist that + S (should) V(특히 be + p.p. 형태의 가정법/명령적 용법)입니다. 시험에서 ‘insist to V’는 흔한 오답이니 피하세요.",
+    "tags": [
+      "요구·주장",
+      "문법 패턴(insist on/that)",
+      "논쟁/협상"
+    ],
+    "frequency": "상",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: She insisted ___ paying the bill.",
+            "a": "on",
+            "meaning_ko": "insist on + 동명사 패턴입니다."
+          },
+          {
+            "q": "Choose the best meaning: 'He insisted that he was innocent.'",
+            "a": "He stated firmly that he was innocent.",
+            "meaning_ko": "사실이라고 강하게 주장하다 의미입니다."
+          },
+          {
+            "q": "True/False: 'insist' usually means to ask politely.",
+            "a": "False",
+            "meaning_ko": "insist는 강한 요구/고집입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which sentence is grammatically natural? (A) I insist to leave now. (B) I insist on leaving now. (C) I insist leaving now. (D) I insist for leaving now.",
+            "a": "I insist on leaving now.",
+            "meaning_ko": "insist on + V-ing가 정답입니다."
+          },
+          {
+            "q": "Fill in the blank: The professor insisted that the data ___ verified.",
+            "a": "be",
+            "meaning_ko": "insist that + S + be p.p.(당위/가정법적 용법)로 자주 출제됩니다."
+          },
+          {
+            "q": "Choose the closest synonym: 'insist' (demand something firmly)",
+            "a": "demand",
+            "meaning_ko": "요구 강도가 비슷한 demand가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'insist' (keep meaning): 'They demanded that the rules should be applied equally.'",
+            "a": "They insisted that the rules be applied equally.",
+            "meaning_ko": "insist that + be p.p. 구조로 자연스럽게 전환합니다."
+          },
+          {
+            "q": "Choose the best completion: 'He insisted ___ transparency and accountability.'",
+            "a": "on",
+            "meaning_ko": "insist on + 명사 구(투명성과 책임성) 결합입니다."
+          },
+          {
+            "q": "Error correction: 'She insisted me to apologize.' (Correct it.)",
+            "a": "She insisted that I apologize.",
+            "meaning_ko": "사람+to V는 어색하고, insist that 절로 고칩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dogmaticpolemic",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A rigid, doctrinaire attack or argument aimed at defeating an opposing view, rather than exploring it fairly.",
+        "definition_ko": "교조적(독단적) 논박·공격(상대 견해를 공정히 검토하기보다 ‘이겨야 한다’는 태도의 논쟁).",
+        "note": "표준 단일 단어라기보다 ‘dogmatic polemic(독단적 논쟁/논박)’이 붙어 쓰인 표현이 합쳐진 형태로 보는 게 자연스럽습니다."
+      }
+    ],
+    "concept": "‘독단(도그마)’에 기대어 상대를 몰아붙이는 공격적 논쟁 방식.",
+    "etymology": "dogmatic(독단적인) + polemic(논박/공격적 논쟁) 결합 표현으로 이해하면 됩니다. 단어 자체의 표준 어원 항목은 제한적입니다. citeturn0search14turn0search6",
+    "semanticExtension": "신학·정치 등 논쟁적 분야에서 ‘교리/이념을 전제’로 상대를 공격하는 글/발언 → 일반적으로 ‘닫힌 태도의 공격적 논쟁’까지 확장해 씁니다.",
+    "nuanceRegister": "매우 격식/학술·비평 문맥(에세이, 논문, 서평)에서 어울립니다. 일상 회화에서는 거의 쓰지 않습니다.",
+    "grammarNotes": "보통 명사구로 쓰이며, the dogmatic polemic (against/about/over ...) 형태가 자연스럽습니다. 여기서는 입력 단어를 그대로 lemma로 유지했습니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(문맥상 a dogmatic polemic / dogmatic polemics 가능)",
+    "prepositionPatterns": [
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대한 공격적 논박",
+        "example": "a dogmatic polemic against reform"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 관한 교조적 논쟁",
+        "example": "a dogmatic polemic about doctrine"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~을 두고 벌이는 독단적 논쟁",
+        "example": "a dogmatic polemic over policy"
+      }
+    ],
+    "requiredComplements": [
+      "a dogmaticpolemic against + 명사 (—을 공격하는 독단적 논박)",
+      "a dogmaticpolemic about/over + 주제 (—에 관한/—을 둘러싼 독단적 논쟁)"
+    ],
+    "morphology": "dogmatic(독단적) + polemic(논박) 결합. 핵심은 polemic(논쟁/논박)이라는 명사 의미를 잡는 것입니다. citeturn0search14turn0search6",
+    "derivatives": [
+      {
+        "word": "dogmatic",
+        "meaning_ko": "독단적인"
+      },
+      {
+        "word": "dogmatism",
+        "meaning_ko": "독단주의"
+      },
+      {
+        "word": "polemical",
+        "meaning_ko": "논박적인, 논쟁적인"
+      },
+      {
+        "word": "polemics",
+        "meaning_ko": "논박(학), 논쟁술"
+      },
+      {
+        "word": "polemicist",
+        "meaning_ko": "논객, 논박가"
+      }
+    ],
+    "related": [
+      {
+        "word": "ideology",
+        "meaning_ko": "이념"
+      },
+      {
+        "word": "doctrine",
+        "meaning_ko": "교리, 신조"
+      },
+      {
+        "word": "controversy",
+        "meaning_ko": "논쟁"
+      },
+      {
+        "word": "rhetoric",
+        "meaning_ko": "수사, 웅변"
+      },
+      {
+        "word": "diatribe",
+        "meaning_ko": "신랄한 비난"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "diatribe",
+        "meaning_ko": "독설, 통렬한 비난"
+      },
+      {
+        "word": "tirade",
+        "meaning_ko": "장황한 비난"
+      },
+      {
+        "word": "invective",
+        "meaning_ko": "독설(격식)"
+      },
+      {
+        "word": "polemics",
+        "meaning_ko": "논박/공격적 논쟁(집합적)"
+      },
+      {
+        "word": "doctrinaire attack",
+        "meaning_ko": "교조적 공격"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "debate",
+        "meaning_ko": "토론(중립적일 수 있음)"
+      },
+      {
+        "word": "argument",
+        "meaning_ko": "논쟁/논리(범위 넓음)"
+      },
+      {
+        "word": "critique",
+        "meaning_ko": "비평(공격성 낮을 수 있음)"
+      },
+      {
+        "word": "controversial claim",
+        "meaning_ko": "논란 있는 주장"
+      },
+      {
+        "word": "partisan rhetoric",
+        "meaning_ko": "편파적 수사"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "open-minded inquiry",
+        "meaning_ko": "개방적 탐구"
+      },
+      {
+        "word": "balanced discussion",
+        "meaning_ko": "균형 잡힌 논의"
+      },
+      {
+        "word": "fair-minded critique",
+        "meaning_ko": "공정한 비평"
+      },
+      {
+        "word": "dialogue",
+        "meaning_ko": "대화, 대화적 논의"
+      },
+      {
+        "word": "nuanced analysis",
+        "meaning_ko": "뉘앙스를 살린 분석"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "engage in polemic",
+            "meaning_ko": "논박에 뛰어들다"
+          },
+          {
+            "phrase": "dogmatic tone",
+            "meaning_ko": "독단적인 어조"
+          },
+          {
+            "phrase": "heated polemic",
+            "meaning_ko": "격렬한 논박"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a dogmatic polemic against dissenters",
+            "meaning_ko": "반대자들을 향한 교조적 논박"
+          },
+          {
+            "phrase": "reduce discourse to polemic",
+            "meaning_ko": "담론을 논박으로 전락시키다"
+          },
+          {
+            "phrase": "a polemic over educational policy",
+            "meaning_ko": "교육 정책을 둘러싼 논박"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "substitute dogmatic polemic for evidence-based reasoning",
+            "meaning_ko": "증거 기반 추론 대신 교조적 논박으로 대체하다"
+          },
+          {
+            "phrase": "a dogmatic polemic that forecloses compromise",
+            "meaning_ko": "타협 가능성을 닫아버리는 독단적 논쟁"
+          },
+          {
+            "phrase": "weaponize doctrine in polemic battles",
+            "meaning_ko": "논쟁에서 교리를 무기화하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The article reads like a dogmaticpolemic, not a discussion.",
+            "meaning_ko": "그 글은 논의라기보다 독단적 논박처럼 읽힌다."
+          },
+          {
+            "sentence": "He used a dogmatic tone in every argument.",
+            "meaning_ko": "그는 모든 논쟁에서 독단적인 어조를 썼다."
+          },
+          {
+            "sentence": "Online debates often turn into polemic quickly.",
+            "meaning_ko": "온라인 토론은 종종 빠르게 논박전으로 변한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The speaker launched a dogmaticpolemic against anyone who questioned the plan.",
+            "meaning_ko": "연사는 계획에 의문을 제기하는 사람들을 향해 교조적 논박을 퍼부었다."
+          },
+          {
+            "sentence": "When discourse becomes dogmaticpolemic, nuance disappears first.",
+            "meaning_ko": "담론이 교조적 논쟁이 되면, 가장 먼저 뉘앙스가 사라진다."
+          },
+          {
+            "sentence": "The book mixes historical detail with polemic over doctrine.",
+            "meaning_ko": "그 책은 역사적 디테일과 교리 논박을 뒤섞는다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "By substituting dogmaticpolemic for evidence-based reasoning, the committee ensured that no one would change their mind.",
+            "meaning_ko": "위원회는 증거 기반 추론 대신 교조적 논박을 택함으로써, 누구도 입장을 바꾸지 않게 만들었다."
+          },
+          {
+            "sentence": "The debate hardened into dogmaticpolemic, foreclosing the possibility of a workable compromise.",
+            "meaning_ko": "토론은 독단적 논박으로 굳어져, 실행 가능한 타협의 가능성을 닫아버렸다."
+          },
+          {
+            "sentence": "A critical review should expose assumptions, not merely rehearse dogmaticpolemic on repeat.",
+            "meaning_ko": "비평은 전제를 드러내야지, 교조적 논박을 반복 재생해서는 안 된다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "이 항목은 입력 리스트의 ‘dogmaticpolemic’을 그대로 lemma로 유지했습니다. 실전에서는 보통 dogmatic polemic(두 단어) 혹은 polemic(단독)으로 쓰는 편이 자연스럽습니다. dogmatic(독단적) = ‘사실인 듯 단정’, polemic = ‘상대를 꺾으려는 공격적 논쟁’으로 분해해서 외우면 기억이 쉽습니다. citeturn0search14turn0search6",
+    "tags": [
+      "비평",
+      "논쟁",
+      "학술·문어",
+      "수사"
+    ],
+    "frequency": "하",
+    "difficulty": "9",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best description of 'dogmaticpolemic'.",
+            "a": "a rigid, attacking argument that dismisses opposing views",
+            "meaning_ko": "핵심은 ‘독단 + 공격적 논박’입니다."
+          },
+          {
+            "q": "True/False: 'dogmaticpolemic' is common in casual daily conversation.",
+            "a": "False",
+            "meaning_ko": "매우 문어/학술·비평 문맥에 가깝습니다."
+          },
+          {
+            "q": "Fill in the blank: The debate turned into ______ instead of dialogue.",
+            "a": "dogmaticpolemic",
+            "meaning_ko": "대화(dialogue) 대비로 ‘논박전’이 되는 흐름을 묻습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which preposition fits best? 'a dogmaticpolemic ___ reform' (attacking reform)",
+            "a": "against",
+            "meaning_ko": "against는 ‘~에 반대/공격’ 의미로 polemic과 잘 결합합니다."
+          },
+          {
+            "q": "Pick the closest single-word alternative in many contexts: dogmaticpolemic",
+            "a": "polemic",
+            "meaning_ko": "실전에서는 polemic 단독이 더 흔합니다. citeturn0search6"
+          },
+          {
+            "q": "Choose the antonym idea: 'dogmaticpolemic' vs. ______",
+            "a": "balanced discussion",
+            "meaning_ko": "공정·균형 잡힌 논의가 반대 개념입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite to be more academic using the term: 'He attacked critics without considering evidence.'",
+            "a": "He engaged in dogmaticpolemic against critics, disregarding evidence.",
+            "meaning_ko": "dogmaticpolemic + disregard evidence로 ‘독단적 논박’ 뉘앙스를 살립니다."
+          },
+          {
+            "q": "Complete the sentence: 'They substituted dogmaticpolemic for ______ reasoning.'",
+            "a": "evidence-based",
+            "meaning_ko": "evidence-based reasoning(증거 기반 추론) 대비가 가장 자연스럽습니다."
+          },
+          {
+            "q": "Error spotting: Which phrase best corrects the tone? 'open-minded dogmaticpolemic'",
+            "a": "open-minded inquiry",
+            "meaning_ko": "open-minded와 dogmatic은 의미상 충돌하므로 inquiry로 바꾸는 게 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

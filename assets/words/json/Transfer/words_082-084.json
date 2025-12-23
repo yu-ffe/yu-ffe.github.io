@@ -1,0 +1,1017 @@
+[
+  {
+    "word": "peruse",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To read or examine something carefully and thoroughly.",
+        "definition_ko": "정독하다, 꼼꼼히 살펴보다.",
+        "note": "시험·문서 문맥에서는 보통 '자세히 읽다/면밀히 검토하다' 의미로 쓰는 것이 안전합니다."
+      },
+      {
+        "definition_en": "To look through something briefly; to skim (less formal or disputed usage).",
+        "definition_ko": "대충 훑어보다, 대강 보다.",
+        "note": "현대 구어에서 보이지만 혼동을 부르므로 공식 문서에서는 피하는 편이 좋습니다."
+      }
+    ],
+    "concept": "문서나 글을 목적을 갖고 끝까지 읽어 '검토'하는 행위.",
+    "etymology": "라틴어 per-('완전히') + uti/usus('사용하다') 계열에서 중세 프랑스어를 거쳐 '완전히 살피다/정독하다' 의미로 정착.",
+    "semanticExtension": "단순히 '읽다'에서 '검토·확인·분석'의 뉘앙스로 확장(계약서·보고서·규정 등).",
+    "nuanceRegister": "격식/문어. 안내문·계약·보고서에서 흔함.",
+    "grammarNotes": "거의 항상 목적어가 필요(peruse the report). 명사형 perusal(perusal of ...)도 자주 등장.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 찾으려고 살펴",
+        "example": "peruse the catalog for rare editions"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(목록/문서 안에서) 확인",
+        "example": "peruse the entries in the database"
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "끝까지 훑어/살펴",
+        "example": "peruse through the appendix"
+      }
+    ],
+    "requiredComplements": [
+      "peruse + 명사(문서/책/보고서) (정독·검토하다)",
+      "peruse + (wh-)clause (예: peruse what they wrote) (무엇인지 읽어 보다)"
+    ],
+    "morphology": "per-(완전히) + use(다루다) 계열 어근 → '완전히 다뤄 보다' → '정독/정밀 검토'.",
+    "derivatives": [
+      {
+        "word": "perusal",
+        "meaning_ko": "정독, 면밀한 검토"
+      },
+      {
+        "word": "peruser",
+        "meaning_ko": "열람자(드묾)"
+      },
+      {
+        "word": "usage",
+        "meaning_ko": "사용(법), 용법"
+      },
+      {
+        "word": "utilize",
+        "meaning_ko": "활용하다"
+      },
+      {
+        "word": "reuse",
+        "meaning_ko": "재사용하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "scrutiny",
+        "meaning_ko": "면밀한 조사/검토"
+      },
+      {
+        "word": "review",
+        "meaning_ko": "검토"
+      },
+      {
+        "word": "examine",
+        "meaning_ko": "조사하다/살펴보다"
+      },
+      {
+        "word": "skim",
+        "meaning_ko": "훑어보다"
+      },
+      {
+        "word": "browse",
+        "meaning_ko": "가볍게 둘러보다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "examine",
+        "meaning_ko": "검토하다"
+      },
+      {
+        "word": "pore over",
+        "meaning_ko": "열심히 정독하다"
+      },
+      {
+        "word": "study",
+        "meaning_ko": "공부하다/연구하다"
+      },
+      {
+        "word": "scan",
+        "meaning_ko": "훑어보다/스캔하다"
+      },
+      {
+        "word": "read",
+        "meaning_ko": "읽다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "review",
+        "meaning_ko": "재검토하다"
+      },
+      {
+        "word": "inspect",
+        "meaning_ko": "점검하다"
+      },
+      {
+        "word": "look over",
+        "meaning_ko": "대충~보다는 '한번 훑어보다'"
+      },
+      {
+        "word": "browse",
+        "meaning_ko": "둘러보다(가볍게)"
+      },
+      {
+        "word": "skim",
+        "meaning_ko": "훑어보다(대충)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "overlook",
+        "meaning_ko": "간과하다"
+      },
+      {
+        "word": "neglect",
+        "meaning_ko": "소홀히 하다"
+      },
+      {
+        "word": "skip",
+        "meaning_ko": "건너뛰다"
+      },
+      {
+        "word": "glance at",
+        "meaning_ko": "힐끗 보다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "peruse a book",
+            "meaning_ko": "책을 정독하다"
+          },
+          {
+            "phrase": "peruse an email",
+            "meaning_ko": "이메일을 꼼꼼히 읽다"
+          },
+          {
+            "phrase": "peruse the menu",
+            "meaning_ko": "메뉴를 살펴보다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "peruse the report",
+            "meaning_ko": "보고서를 면밀히 검토하다"
+          },
+          {
+            "phrase": "peruse the terms and conditions",
+            "meaning_ko": "약관을 꼼꼼히 읽다"
+          },
+          {
+            "phrase": "peruse the documents",
+            "meaning_ko": "서류를 정밀하게 살펴보다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "peruse the deposition transcript",
+            "meaning_ko": "증언 녹취록을 정독하다"
+          },
+          {
+            "phrase": "peruse the annexes and appendices",
+            "meaning_ko": "부속서/부록까지 면밀히 검토하다"
+          },
+          {
+            "phrase": "peruse regulatory guidance",
+            "meaning_ko": "규제 지침을 정밀 검토하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I perused the menu before ordering.",
+            "meaning_ko": "주문하기 전에 메뉴를 살펴봤습니다."
+          },
+          {
+            "sentence": "She perused the brochure on the train.",
+            "meaning_ko": "그녀는 기차에서 안내 책자를 정독했습니다."
+          },
+          {
+            "sentence": "Please peruse this short email and reply.",
+            "meaning_ko": "이 짧은 이메일을 읽고 답장해 주세요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He perused the contract to make sure there were no hidden fees.",
+            "meaning_ko": "그는 숨은 수수료가 없는지 계약서를 꼼꼼히 읽었습니다."
+          },
+          {
+            "sentence": "The committee perused the proposals and shortlisted three.",
+            "meaning_ko": "위원회는 제안서를 검토해 세 개를 최종 후보로 추렸습니다."
+          },
+          {
+            "sentence": "I perused the chapter, taking notes on the key arguments.",
+            "meaning_ko": "저는 핵심 논지를 메모하며 그 장을 정독했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Counsel asked the witness to peruse the transcript and confirm the accuracy of the statement.",
+            "meaning_ko": "변호인은 증인에게 녹취록을 검토한 뒤 진술의 정확성을 확인해 달라고 요청했습니다."
+          },
+          {
+            "sentence": "Before publication, the editors perused the manuscript line by line for inconsistencies.",
+            "meaning_ko": "출간 전에 편집자들은 원고를 한 줄씩 검토하며 불일치를 찾았습니다."
+          },
+          {
+            "sentence": "Investors perused the risk disclosures to assess downside scenarios.",
+            "meaning_ko": "투자자들은 하방 시나리오를 평가하기 위해 위험 공시를 면밀히 읽었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "peruse는 '대충 훑다'로도 쓰이지만, 시험/공문에서는 '면밀히 읽다'로 잡는 게 안전합니다. skim/browse와 대비해 기억하고, peruse + 문서류 목적어 패턴을 통째로 익히세요.",
+    "tags": [
+      "독해",
+      "문서검토",
+      "격식표현",
+      "학술/공문"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: Please ____ the instructions before you start.",
+            "a": "peruse",
+            "meaning_ko": "시작 전 지침을 '꼼꼼히 읽다'가 자연스럽습니다."
+          },
+          {
+            "q": "Which meaning fits formal writing best? (A) read carefully (B) sleep (C) shout (D) build",
+            "a": "A",
+            "meaning_ko": "격식 문서에서 peruse는 보통 '정독/면밀 검토'입니다."
+          },
+          {
+            "q": "Fill in: I will peruse the report ____ any errors.",
+            "a": "for",
+            "meaning_ko": "peruse A for B = B를 찾으려고 A를 살피다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'peruse': I read the contract carefully.",
+            "a": "I perused the contract.",
+            "meaning_ko": "peruse 자체에 '꼼꼼히' 뉘앙스가 들어 있습니다."
+          },
+          {
+            "q": "Pick the closest synonym: peruse = (A) ignore (B) examine (C) drop (D) ruin",
+            "a": "B",
+            "meaning_ko": "examine이 가장 가깝습니다."
+          },
+          {
+            "q": "Error check: 'He perused over the article.' (correct/incorrect)",
+            "a": "incorrect",
+            "meaning_ko": "보통 'peruse the article'처럼 전치사 없이 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Cloze: The auditors ______ the statements line by line to detect irregularities.",
+            "a": "perused",
+            "meaning_ko": "감사 문맥에서 '정밀 검토'가 핵심입니다."
+          },
+          {
+            "q": "Choose: She perused the appendix ____ supporting evidence. (A) at (B) for (C) on (D) by",
+            "a": "B",
+            "meaning_ko": "for = 찾기 위해 살피다."
+          },
+          {
+            "q": "Why is 'skim' risky as a replacement for 'peruse' in a contract clause?",
+            "a": "Because 'skim' implies quick, superficial reading, unlike the careful review implied by 'peruse'.",
+            "meaning_ko": "skim은 '대충'이라 법적 문맥의 '면밀 검토' 의미를 약화시킵니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cache",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A hidden or stored collection of items kept for future use.",
+        "definition_ko": "비밀 저장고, 은닉해 둔 물건 더미.",
+        "note": "식량·무기·보급품처럼 '나중에 쓰려고 숨겨 둔 것'에 자주 씁니다."
+      },
+      {
+        "definition_en": "A place where items are stored secretly or safely.",
+        "definition_ko": "은닉처, 저장 장소.",
+        "note": "지오캐싱처럼 '찾아가는 숨은 장소' 문맥에서도 사용됩니다."
+      },
+      {
+        "definition_en": "A computer memory/storage area that keeps data for faster access later.",
+        "definition_ko": "캐시(임시 저장 영역).",
+        "note": "IT 문맥에서 매우 흔하며 속도 향상을 위해 사용합니다."
+      },
+      {
+        "definition_en": "To store data temporarily in a cache.",
+        "definition_ko": "캐시에 저장하다(임시 저장하다).",
+        "note": "cache files, cache images처럼 동사로도 자연스럽습니다."
+      }
+    ],
+    "concept": "필요할 때 빨리 쓰려고 숨기거나 임시 저장해 둔 것(또는 그 행위).",
+    "etymology": "프랑스어 cacher(숨기다)에서 유래해 '숨겨 둔 저장' 의미가 형성.",
+    "semanticExtension": "물리적 은닉처/비축 → 컴퓨팅에서 '빠른 접근을 위한 임시 저장'으로 의미 확장.",
+    "nuanceRegister": "일반어+기술어. IT에서는 매우 일상적.",
+    "grammarNotes": "명사: a cache of + 복수명사 패턴이 흔함. 동사 cache는 목적어를 취함(cache files).",
+    "transitivity": "동사: 타동사(IT 용례). 명사/형용사적 용례도 빈번.",
+    "countability": "명사: 가산(물리적 저장고/더미). IT: a cache/caches도 가능하나 불가산처럼도 쓰임.",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 저장고/더미",
+        "example": "a cache of weapons"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에(캐시에) 저장된",
+        "example": "files in the browser cache"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~에(기기/서버에) 캐시된",
+        "example": "images cached on the device"
+      }
+    ],
+    "requiredComplements": [
+      "a cache of + 복수명사 (무엇의 은닉/비축)",
+      "cache + 파일/데이터 (캐시에 저장하다)",
+      "clear/flush the cache (캐시를 비우다)"
+    ],
+    "morphology": "cacher(숨기다) 어근 → '숨겨 둔 저장' → IT에서 '임시 저장'.",
+    "derivatives": [
+      {
+        "word": "cached",
+        "meaning_ko": "캐시된, 임시 저장된"
+      },
+      {
+        "word": "caching",
+        "meaning_ko": "캐싱(캐시 처리)"
+      },
+      {
+        "word": "cacheable",
+        "meaning_ko": "캐시 가능한"
+      },
+      {
+        "word": "cachet",
+        "meaning_ko": "명성, 위신(어원 연관)"
+      },
+      {
+        "word": "geocache",
+        "meaning_ko": "지오캐시(숨겨 둔 물건/장소)"
+      }
+    ],
+    "related": [
+      {
+        "word": "stash",
+        "meaning_ko": "숨겨둔 물건/숨기다"
+      },
+      {
+        "word": "stockpile",
+        "meaning_ko": "비축(량)"
+      },
+      {
+        "word": "buffer",
+        "meaning_ko": "버퍼(임시 저장)"
+      },
+      {
+        "word": "repository",
+        "meaning_ko": "저장소"
+      },
+      {
+        "word": "reserve",
+        "meaning_ko": "예비/비축"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "store",
+        "meaning_ko": "저장하다"
+      },
+      {
+        "word": "save",
+        "meaning_ko": "저장하다"
+      },
+      {
+        "word": "archive",
+        "meaning_ko": "보관/아카이브하다"
+      },
+      {
+        "word": "buffer",
+        "meaning_ko": "버퍼링/임시 저장하다"
+      },
+      {
+        "word": "stash",
+        "meaning_ko": "숨겨두다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "hoard",
+        "meaning_ko": "사재기하다/모아두다"
+      },
+      {
+        "word": "keep",
+        "meaning_ko": "보관하다"
+      },
+      {
+        "word": "reserve",
+        "meaning_ko": "예비로 두다"
+      },
+      {
+        "word": "stockpile",
+        "meaning_ko": "비축하다"
+      },
+      {
+        "word": "preload",
+        "meaning_ko": "미리 로드/저장하다(IT)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "delete",
+        "meaning_ko": "삭제하다"
+      },
+      {
+        "word": "erase",
+        "meaning_ko": "지우다"
+      },
+      {
+        "word": "discard",
+        "meaning_ko": "버리다"
+      },
+      {
+        "word": "purge",
+        "meaning_ko": "정리 제거하다"
+      },
+      {
+        "word": "expose",
+        "meaning_ko": "드러내다(숨김의 반대)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "clear the cache",
+            "meaning_ko": "캐시를 비우다"
+          },
+          {
+            "phrase": "browser cache",
+            "meaning_ko": "브라우저 캐시"
+          },
+          {
+            "phrase": "a cache of food",
+            "meaning_ko": "식량 비축 더미"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a hidden cache",
+            "meaning_ko": "숨겨진 저장고"
+          },
+          {
+            "phrase": "cache files",
+            "meaning_ko": "파일을 캐시에 저장하다"
+          },
+          {
+            "phrase": "stale cache",
+            "meaning_ko": "오래된(갱신 안 된) 캐시"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a cache of classified documents",
+            "meaning_ko": "기밀 문서 은닉 더미"
+          },
+          {
+            "phrase": "cache invalidation",
+            "meaning_ko": "캐시 무효화"
+          },
+          {
+            "phrase": "clear the DNS cache",
+            "meaning_ko": "DNS 캐시를 비우다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The app caches images to speed up loading.",
+            "meaning_ko": "그 앱은 로딩 속도를 높이기 위해 이미지를 캐시에 저장합니다."
+          },
+          {
+            "sentence": "Try clearing your browser cache.",
+            "meaning_ko": "브라우저 캐시를 비워 보세요."
+          },
+          {
+            "sentence": "They found a small cache of supplies.",
+            "meaning_ko": "그들은 작은 보급품 저장고를 찾았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Police discovered a cache of stolen jewelry in the basement.",
+            "meaning_ko": "경찰은 지하실에서 훔친 보석 은닉품을 발견했습니다."
+          },
+          {
+            "sentence": "A stale cache can make users see outdated information.",
+            "meaning_ko": "오래된 캐시는 사용자가 낡은 정보를 보게 만들 수 있습니다."
+          },
+          {
+            "sentence": "The server caches responses for frequently requested endpoints.",
+            "meaning_ko": "서버는 자주 요청되는 엔드포인트의 응답을 캐시에 저장합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Investigators seized a cache of encrypted drives allegedly linked to the leak.",
+            "meaning_ko": "수사관들은 유출과 연관된 것으로 의심되는 암호화 드라이브 더미를 압수했습니다."
+          },
+          {
+            "sentence": "Effective caching requires clear invalidation rules and consistent keying strategies.",
+            "meaning_ko": "효율적인 캐싱에는 명확한 무효화 규칙과 일관된 키 전략이 필요합니다."
+          },
+          {
+            "sentence": "To diagnose the issue, we flushed the CDN cache and compared origin logs.",
+            "meaning_ko": "문제를 진단하기 위해 CDN 캐시를 비운 뒤 오리진 로그를 비교했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "cache는 '은닉/비축'과 'IT 캐시(임시 저장)' 두 의미가 모두 중요합니다. 시험에서는 a cache of ~, clear the cache, stale cache 같은 결합을 통째로 익히면 안정적입니다.",
+    "tags": [
+      "IT",
+      "저장/비축",
+      "보안/수사",
+      "독해"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in: Clear your ____ to fix loading problems.",
+            "a": "cache",
+            "meaning_ko": "웹/앱 문제 해결에서 흔한 표현입니다."
+          },
+          {
+            "q": "A cache of food means (A) recipe (B) stored supply (C) rumor (D) restaurant.",
+            "a": "B",
+            "meaning_ko": "cache=비축/저장 더미."
+          },
+          {
+            "q": "True/False: Caching can improve performance.",
+            "a": "True",
+            "meaning_ko": "재접근을 빠르게 하기 위해 임시 저장합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest meaning: stale cache",
+            "a": "outdated cached data",
+            "meaning_ko": "stale=오래되어 갱신이 안 된."
+          },
+          {
+            "q": "Cloze: The server caches responses ____ reduce latency.",
+            "a": "to",
+            "meaning_ko": "목적: to reduce latency."
+          },
+          {
+            "q": "Which is NOT natural? (A) cache files (B) cache invalidation (C) cache a response (D) cache a thunder",
+            "a": "D",
+            "meaning_ko": "cache는 저장/임시 저장과 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite: The CDN stores images temporarily for faster delivery.",
+            "a": "The CDN caches images for faster delivery.",
+            "meaning_ko": "cache(동사)=임시 저장."
+          },
+          {
+            "q": "Fix: 'He found caches of weapon.'",
+            "a": "He found caches of weapons.",
+            "meaning_ko": "a cache of + 복수명사."
+          },
+          {
+            "q": "Why is cache invalidation hard in distributed systems?",
+            "a": "Because many cached copies may exist across nodes, and keeping them consistent with updates requires coordination and expiry rules.",
+            "meaning_ko": "분산 환경에서 일관성 유지가 어렵습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abase",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To humiliate or degrade someone; to lower in dignity.",
+        "definition_ko": "굴욕을 주다, 격을 떨어뜨리다(비하하다).",
+        "note": "상대의 자존감/품위를 '아래로' 떨어뜨리는 강한 의미입니다."
+      },
+      {
+        "definition_en": "To lower oneself in status or dignity; to humble oneself excessively.",
+        "definition_ko": "스스로를 비굴하게 낮추다.",
+        "note": "abase oneself가 대표 패턴이며 비판적 뉘앙스가 강합니다."
+      }
+    ],
+    "concept": "사람의 품위·자존을 떨어뜨려 모욕하거나, 스스로 비굴하게 낮추는 것.",
+    "etymology": "base(밑, 낮은) 계열 어근과 결합해 '아래로 내리다' 의미가 형성되어, 사회적/심리적 '품위 저하'로 쓰이게 됨.",
+    "semanticExtension": "물리적 '낮추다'가 아니라 '자존/품위'라는 추상 가치의 하락으로 의미가 확장.",
+    "nuanceRegister": "격식/문어. 강한 부정 뉘앙스(비난/비판).",
+    "grammarNotes": "타동사로 사람/품위를 목적어로 취함. 고정 표현 abase oneself가 매우 중요.",
+    "transitivity": "타동사(또는 abase oneself 형태의 재귀적 용례)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "before",
+        "meaning_ko": "~앞에서 비굴하게 굴다",
+        "example": "abase oneself before a tyrant"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(공개적으로) 스스로를 낮추다",
+        "example": "abase yourself in public"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게(권력자에게) 굴복하며 비굴해지다",
+        "example": "abase yourself to an abuser"
+      }
+    ],
+    "requiredComplements": [
+      "abase + 사람/그의 dignity (누군가를 비하하다)",
+      "abase oneself (스스로 비굴해지다)",
+      "be abased (문어: 굴욕당하다)"
+    ],
+    "morphology": "base(밑) 관련 어근 → '아래로 내리다' → '품위/자존을 떨어뜨리다'.",
+    "derivatives": [
+      {
+        "word": "abasement",
+        "meaning_ko": "굴욕, 비하"
+      },
+      {
+        "word": "abased",
+        "meaning_ko": "굴욕당한, 비하된"
+      },
+      {
+        "word": "debase",
+        "meaning_ko": "가치/품격을 떨어뜨리다"
+      },
+      {
+        "word": "demean",
+        "meaning_ko": "품위를 떨어뜨리다/비하하다"
+      },
+      {
+        "word": "humility",
+        "meaning_ko": "겸손(개념어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "humiliation",
+        "meaning_ko": "굴욕"
+      },
+      {
+        "word": "dignity",
+        "meaning_ko": "품위"
+      },
+      {
+        "word": "contempt",
+        "meaning_ko": "경멸"
+      },
+      {
+        "word": "insult",
+        "meaning_ko": "모욕"
+      },
+      {
+        "word": "degradation",
+        "meaning_ko": "격하"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "humiliate",
+        "meaning_ko": "모욕하다"
+      },
+      {
+        "word": "degrade",
+        "meaning_ko": "격을 떨어뜨리다"
+      },
+      {
+        "word": "demean",
+        "meaning_ko": "비하하다"
+      },
+      {
+        "word": "belittle",
+        "meaning_ko": "얕보다"
+      },
+      {
+        "word": "mortify",
+        "meaning_ko": "굴욕감을 주다(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "disgrace",
+        "meaning_ko": "불명예를 주다/당하다"
+      },
+      {
+        "word": "shame",
+        "meaning_ko": "망신 주다"
+      },
+      {
+        "word": "humble",
+        "meaning_ko": "겸허하게 만들다(의미 다름 주의)"
+      },
+      {
+        "word": "debase",
+        "meaning_ko": "가치를 떨어뜨리다"
+      },
+      {
+        "word": "demean oneself",
+        "meaning_ko": "스스로 품위를 떨어뜨리다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "respect",
+        "meaning_ko": "존중하다"
+      },
+      {
+        "word": "honor",
+        "meaning_ko": "명예를 주다"
+      },
+      {
+        "word": "elevate",
+        "meaning_ko": "격을 높이다"
+      },
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      },
+      {
+        "word": "dignify",
+        "meaning_ko": "품위를 부여하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "abase yourself",
+            "meaning_ko": "스스로를 비굴하게 낮추다"
+          },
+          {
+            "phrase": "abase someone",
+            "meaning_ko": "누군가를 비하하다"
+          },
+          {
+            "phrase": "feel abased",
+            "meaning_ko": "굴욕감을 느끼다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "abase oneself before someone",
+            "meaning_ko": "누군가 앞에서 비굴하게 굴다"
+          },
+          {
+            "phrase": "abase his dignity",
+            "meaning_ko": "그의 품위를 떨어뜨리다"
+          },
+          {
+            "phrase": "public abasement",
+            "meaning_ko": "공개적 굴욕"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "abase a political opponent",
+            "meaning_ko": "정치적 상대를 깎아내리다"
+          },
+          {
+            "phrase": "ritual of abasement",
+            "meaning_ko": "굴욕을 강요하는 의례"
+          },
+          {
+            "phrase": "abase oneself to curry favor",
+            "meaning_ko": "환심을 사려 비굴해지다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I won’t abase myself just to get approval.",
+            "meaning_ko": "인정을 받으려고 스스로를 비굴하게 낮추지 않겠습니다."
+          },
+          {
+            "sentence": "His comments were meant to abase her.",
+            "meaning_ko": "그의 말은 그녀를 비하하려는 의도였습니다."
+          },
+          {
+            "sentence": "She felt abased by the harsh criticism.",
+            "meaning_ko": "그녀는 가혹한 비판에 굴욕감을 느꼈습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The supervisor repeatedly abased him in front of the team.",
+            "meaning_ko": "그 상사는 팀 앞에서 그를 반복적으로 모욕했습니다."
+          },
+          {
+            "sentence": "Don’t abase yourself before people who don’t respect you.",
+            "meaning_ko": "당신을 존중하지 않는 사람들 앞에서 비굴해지지 마세요."
+          },
+          {
+            "sentence": "The apology sounded sincere, not a performance of abasement.",
+            "meaning_ko": "그 사과는 굴욕을 연기하는 게 아니라 진심으로 들렸습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The regime used forced confessions to abase dissenters and deter further resistance.",
+            "meaning_ko": "정권은 강요된 자백으로 반대자들을 굴욕주고 추가 저항을 억제했습니다."
+          },
+          {
+            "sentence": "He refused to abase himself to curry favor with powerful donors.",
+            "meaning_ko": "그는 유력 후원자들의 환심을 사기 위해 비굴해지는 것을 거부했습니다."
+          },
+          {
+            "sentence": "Policies that abase entire communities corrode trust in public institutions.",
+            "meaning_ko": "공동체 전체를 비하하는 정책은 공공기관에 대한 신뢰를 잠식합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "abase는 '겸손(humble)'이 아니라 '굴욕/비하'의 강한 부정어입니다. abase oneself(비굴해지다)를 고정으로 외우고, demean/humiliate와 함께 묶어 의미권을 정리하세요.",
+    "tags": [
+      "감정/태도",
+      "권력관계",
+      "격식어휘",
+      "비판문맥"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in: I will not ____ myself for a promotion.",
+            "a": "abase",
+            "meaning_ko": "abase oneself = 비굴하게 굴다."
+          },
+          {
+            "q": "Choose the best meaning: abase = (A) respect (B) degrade and humiliate (C) repair (D) enlarge",
+            "a": "B",
+            "meaning_ko": "품위/자존을 떨어뜨리는 의미입니다."
+          },
+          {
+            "q": "True/False: 'abase' is generally positive in tone.",
+            "a": "False",
+            "meaning_ko": "강한 부정 뉘앙스입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest synonym: abase",
+            "a": "humiliate",
+            "meaning_ko": "humiliate/demean/degrade와 가깝습니다."
+          },
+          {
+            "q": "Fix the sentence: 'He abased to his boss.'",
+            "a": "He abased himself before his boss.",
+            "meaning_ko": "abase는 목적어가 필요하고 abase oneself가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the antonym: abase ↔ (A) dignify (B) mock (C) insult (D) deride",
+            "a": "A",
+            "meaning_ko": "dignify=품위를 부여하다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Cloze: The speech was designed to ____ the opposition rather than address policy.",
+            "a": "abase",
+            "meaning_ko": "상대를 깎아내리는 문맥."
+          },
+          {
+            "q": "Explain the difference between 'humble' and 'abase' in one sentence.",
+            "a": "'Humble' suggests becoming modest, while 'abase' implies degrading dignity in a humiliating way.",
+            "meaning_ko": "humble=겸손(중립/긍정 가능), abase=굴욕적 비하(부정)."
+          },
+          {
+            "q": "Which object fits best? (A) abase your homework (B) abase your dignity (C) abase the weather (D) abase a table",
+            "a": "B",
+            "meaning_ko": "dignity/pride/person처럼 '품위/자존' 계열과 잘 결합합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

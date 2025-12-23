@@ -1,0 +1,901 @@
+[
+  {
+    "word": "intuition",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The ability to understand or know something immediately without conscious reasoning.",
+        "definition_ko": "논리적 추론 없이 즉각적으로 어떤 것을 알아차리는 직관.",
+        "note": "설명하기 어렵지만 '느낌으로 아는 것'에 가깝습니다."
+      },
+      {
+        "definition_en": "An immediate insight or a thing known by such insight.",
+        "definition_ko": "직감으로 얻는 통찰이나, 직감으로 알게 된 사실.",
+        "note": "idea/insight의 의미로도 자주 씁니다."
+      }
+    ],
+    "concept": "머리로 계산하기 전에 ‘감으로’ 빠르게 방향을 잡는 능력.",
+    "etymology": "라틴어에서 유래한 표현으로 ‘안으로(in) 바라보다/보다(tueri)’의 의미 흐름을 통해 ‘즉각적 통찰’ 의미로 굳어졌습니다.",
+    "semanticExtension": "개인의 ‘촉’(직감)에서 출발해, 경험이 축적된 전문가의 ‘빠른 판단’(professional intuition)까지 확장되어 쓰입니다.",
+    "nuanceRegister": "중립~격식. 일상에서도 쓰지만, 심리/경영/의사결정 맥락의 문어체에서도 흔합니다.",
+    "grammarNotes": "주로 불가산으로 쓰이지만, ‘an intuition (that …)’처럼 특정 직감을 가산처럼 셀 때도 있습니다. 흔한 패턴: have/Trust/follow intuition, intuition about/for, an intuition that + S V.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대한 직감/직관",
+        "example": "an intuition about his motives"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대한 타고난 감/센스",
+        "example": "an intuition for design"
+      },
+      {
+        "prep": "that",
+        "meaning_ko": "…라는 직감(절 접속)",
+        "example": "an intuition that something was off"
+      }
+    ],
+    "requiredComplements": [
+      "have an intuition (that + S V) : '…라는 직감이 들다'",
+      "intuition about + 명사 : '~에 대한 직감/직관'",
+      "intuition for + 분야/명사 : '~에 대한 감각/센스'"
+    ],
+    "morphology": "in-(안으로) + tuition(보다/지켜보다의 의미 흐름). 현대 영어에서는 형태 분석보다 ‘즉각적 통찰’ 의미로 통째로 익히는 편이 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "intuitive",
+        "meaning_ko": "직관적인; 직감이 빠른"
+      },
+      {
+        "word": "intuitively",
+        "meaning_ko": "직관적으로"
+      },
+      {
+        "word": "intuitionistic",
+        "meaning_ko": "직관주의의(철학/수학)"
+      },
+      {
+        "word": "intuitionism",
+        "meaning_ko": "직관주의"
+      }
+    ],
+    "related": [
+      {
+        "word": "insight",
+        "meaning_ko": "통찰"
+      },
+      {
+        "word": "instinct",
+        "meaning_ko": "본능(타고난 충동)"
+      },
+      {
+        "word": "hunch",
+        "meaning_ko": "막연한 예감"
+      },
+      {
+        "word": "gut feeling",
+        "meaning_ko": "속으로 드는 강한 느낌(구어)"
+      },
+      {
+        "word": "judgment",
+        "meaning_ko": "판단"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "insight",
+        "meaning_ko": "통찰"
+      },
+      {
+        "word": "hunch",
+        "meaning_ko": "예감"
+      },
+      {
+        "word": "instinct",
+        "meaning_ko": "직감/본능(문맥상)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sense",
+        "meaning_ko": "감(전반적 감각)"
+      },
+      {
+        "word": "perception",
+        "meaning_ko": "인식/지각"
+      },
+      {
+        "word": "foresight",
+        "meaning_ko": "선견지명"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "analysis",
+        "meaning_ko": "분석"
+      },
+      {
+        "word": "deliberation",
+        "meaning_ko": "숙고"
+      },
+      {
+        "word": "calculation",
+        "meaning_ko": "계산적 판단"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "trust your intuition",
+            "meaning_ko": "직감을 믿다"
+          },
+          {
+            "phrase": "have a strong intuition",
+            "meaning_ko": "강한 직감이 있다"
+          },
+          {
+            "phrase": "follow your intuition",
+            "meaning_ko": "직감대로 따르다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "an intuition that something is wrong",
+            "meaning_ko": "뭔가 이상하다는 직감"
+          },
+          {
+            "phrase": "intuitive grasp",
+            "meaning_ko": "직관적 이해"
+          },
+          {
+            "phrase": "override intuition with data",
+            "meaning_ko": "직감을 데이터로 덮어(배제) 판단하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "expert intuition in high-stakes decisions",
+            "meaning_ko": "고위험 의사결정에서의 전문가 직관"
+          },
+          {
+            "phrase": "calibrate intuition through feedback loops",
+            "meaning_ko": "피드백 반복으로 직관을 보정하다"
+          },
+          {
+            "phrase": "a conflict between intuition and inference",
+            "meaning_ko": "직관과 추론의 충돌"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I trusted my intuition and left early.",
+            "meaning_ko": "직감을 믿고 일찍 떠났어요."
+          },
+          {
+            "sentence": "She has great intuition for people.",
+            "meaning_ko": "그녀는 사람을 보는 감이 좋아요."
+          },
+          {
+            "sentence": "My intuition says this deal isn’t right.",
+            "meaning_ko": "내 직감은 이 거래가 뭔가 수상하다고 말해요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He had an intuition that the results were being manipulated.",
+            "meaning_ko": "그는 결과가 조작되고 있다는 직감이 들었어요."
+          },
+          {
+            "sentence": "Data helps, but intuition often guides the first hypothesis.",
+            "meaning_ko": "데이터도 도움이 되지만, 첫 가설은 종종 직관이 이끌어요."
+          },
+          {
+            "sentence": "Her intuition about the market proved accurate.",
+            "meaning_ko": "시장에 대한 그녀의 직감은 정확한 것으로 드러났어요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In ambiguous environments, leaders must balance intuition with rigorous verification.",
+            "meaning_ko": "불확실한 환경에서는 리더가 직관과 엄격한 검증을 균형 있게 가져가야 합니다."
+          },
+          {
+            "sentence": "What looked like intuition was actually pattern recognition built over years of practice.",
+            "meaning_ko": "직관처럼 보였던 것은 사실 수년간의 훈련으로 쌓인 패턴 인식이었습니다."
+          },
+          {
+            "sentence": "When intuition and the model disagree, treat the mismatch as a signal to investigate.",
+            "meaning_ko": "직관과 모델이 충돌할 때는 그 불일치를 조사해야 할 신호로 보세요."
+          }
+        ]
+      }
+    ],
+    "studyTips": "intuition은 ‘근거 없이 맞히는 운’이 아니라, 경험·패턴 인식이 압축된 ‘빠른 감’으로도 자주 쓰입니다. 시험에서는 an intuition that~ / trust your intuition 같은 고정 패턴을 함께 암기하면 문장 삽입·빈칸에 강해집니다. instinct(본능)와 구분: instinct는 타고난 충동/반응, intuition은 ‘이해·판단의 직감’ 쪽입니다.",
+    "tags": [
+      "심리",
+      "의사결정",
+      "학술·문어",
+      "일상 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: I can't explain it, but my ______ tells me not to sign.",
+            "a": "intuition",
+            "meaning_ko": "설명은 못 하지만 ‘직감’이 말린다는 문맥"
+          },
+          {
+            "q": "Which phrase means '직감을 믿다'?",
+            "a": "trust your intuition",
+            "meaning_ko": "대표 콜로케이션"
+          },
+          {
+            "q": "Fill in the blank: She has good intuition ___ people.",
+            "a": "for",
+            "meaning_ko": "intuition for ~ : ~에 대한 감/센스"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'an intuition that': He felt that something was off.",
+            "a": "He had an intuition that something was off.",
+            "meaning_ko": "that절 보어 패턴"
+          },
+          {
+            "q": "Pick the closest meaning: 'gut feeling'",
+            "a": "a strong intuition",
+            "meaning_ko": "구어 표현을 표준 표현으로 대응"
+          },
+          {
+            "q": "Choose the best preposition: an intuition ___ his motives (about/at/in)",
+            "a": "about",
+            "meaning_ko": "intuition about ~ : ~에 대한 직감"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Which sentence is most precise in a formal report?",
+            "a": "In ambiguous contexts, intuition should be tested against evidence.",
+            "meaning_ko": "격식 문어체 + 균형(직관 vs 근거)"
+          },
+          {
+            "q": "Spot the error and correct it: 'My intuition is telling me to that we should wait.'",
+            "a": "My intuition is telling me that we should wait.",
+            "meaning_ko": "that 앞에 to 불필요"
+          },
+          {
+            "q": "Complete the idea: 'What appears to be intuition is often ______ recognition.'",
+            "a": "pattern",
+            "meaning_ko": "전문가 직관 = 패턴 인식이라는 전형적 논지"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sagacious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Having or showing keen mental discernment and good judgment; wise.",
+        "definition_ko": "판단이 예리하고 지혜로운; 통찰력 있는.",
+        "note": "단순히 '똑똑한'이 아니라 ‘현명한 판단’ 뉘앙스가 강합니다."
+      }
+    ],
+    "concept": "정보를 꿰뚫어 보고 ‘맞는 판단’을 내리는 현명함.",
+    "etymology": "라틴어 계열 어근에서 ‘예리하다/지혜롭다’의 의미 흐름을 타고 들어온 형용사입니다.",
+    "semanticExtension": "개인의 성품(현명함) → 발언/조언/결정이 ‘사려 깊고 예리한’ 성격을 띨 때에도 확장됩니다(sagacious advice/remark).",
+    "nuanceRegister": "격식/문어 느낌이 강한 편. 일상 회화보다는 글, 평론, 보고서, 문학에서 더 자연스럽습니다.",
+    "grammarNotes": "주로 사람/발언/판단에 붙습니다: a sagacious leader, sagacious advice, a sagacious assessment. 비교급/최상급 가능(sagaciouser 등)는 드물고, 보통 more/most sagacious를 씁니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "sag- (지혜/예리함 의미 흐름) + -acious(‘~한 성질을 가진’ 계열 형용사화). 시험에서는 ‘현명한 판단’ 뉘앙스로 통째 암기하는 편이 좋습니다.",
+    "derivatives": [
+      {
+        "word": "sagacity",
+        "meaning_ko": "현명함, 통찰력"
+      },
+      {
+        "word": "sagely",
+        "meaning_ko": "현명하게(말/행동)"
+      },
+      {
+        "word": "sage",
+        "meaning_ko": "현자; 현명한"
+      }
+    ],
+    "related": [
+      {
+        "word": "prudence",
+        "meaning_ko": "신중함"
+      },
+      {
+        "word": "discernment",
+        "meaning_ko": "분별력"
+      },
+      {
+        "word": "acumen",
+        "meaning_ko": "통찰력(특히 비즈니스/전문)"
+      },
+      {
+        "word": "wisdom",
+        "meaning_ko": "지혜"
+      },
+      {
+        "word": "judicious",
+        "meaning_ko": "현명한, 분별 있는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "wise",
+        "meaning_ko": "현명한"
+      },
+      {
+        "word": "judicious",
+        "meaning_ko": "분별 있는"
+      },
+      {
+        "word": "shrewd",
+        "meaning_ko": "영리하고 판단이 빠른(약간 계산적일 수 있음)"
+      },
+      {
+        "word": "astute",
+        "meaning_ko": "기민하고 통찰력 있는"
+      },
+      {
+        "word": "perspicacious",
+        "meaning_ko": "통찰력 있는(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "prudent",
+        "meaning_ko": "신중한(위험을 피하는 쪽)"
+      },
+      {
+        "word": "canny",
+        "meaning_ko": "영리한(구어/지역색)"
+      },
+      {
+        "word": "insightful",
+        "meaning_ko": "통찰력 있는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "foolish",
+        "meaning_ko": "어리석은"
+      },
+      {
+        "word": "naive",
+        "meaning_ko": "순진한, 세상 물정 모르는"
+      },
+      {
+        "word": "shortsighted",
+        "meaning_ko": "근시안적인"
+      },
+      {
+        "word": "imprudent",
+        "meaning_ko": "경솔한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a sagacious person",
+            "meaning_ko": "현명한 사람"
+          },
+          {
+            "phrase": "sagacious advice",
+            "meaning_ko": "현명한 조언"
+          },
+          {
+            "phrase": "a sagacious decision",
+            "meaning_ko": "현명한 결정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a sagacious assessment",
+            "meaning_ko": "예리한 평가/진단"
+          },
+          {
+            "phrase": "sagacious leadership",
+            "meaning_ko": "현명한 리더십"
+          },
+          {
+            "phrase": "a sagacious remark",
+            "meaning_ko": "통찰력 있는 발언"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a sagacious reading of the political landscape",
+            "meaning_ko": "정치 지형에 대한 통찰력 있는 해석"
+          },
+          {
+            "phrase": "sagacious allocation of scarce resources",
+            "meaning_ko": "희소 자원의 현명한 배분"
+          },
+          {
+            "phrase": "sagaciously anticipate unintended consequences",
+            "meaning_ko": "의도치 않은 결과를 현명하게 예측하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She is sagacious beyond her years.",
+            "meaning_ko": "그녀는 나이에 비해 매우 현명합니다."
+          },
+          {
+            "sentence": "That was a sagacious choice.",
+            "meaning_ko": "그건 현명한 선택이었습니다."
+          },
+          {
+            "sentence": "He gave me sagacious advice.",
+            "meaning_ko": "그는 저에게 현명한 조언을 해줬어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The committee’s sagacious assessment prevented a costly mistake.",
+            "meaning_ko": "위원회의 예리한 평가는 값비싼 실수를 막았습니다."
+          },
+          {
+            "sentence": "A sagacious leader listens, then decides quickly when the signal is clear.",
+            "meaning_ko": "현명한 리더는 경청한 뒤, 신호가 분명하면 빠르게 결단합니다."
+          },
+          {
+            "sentence": "Her sagacious remark reframed the entire debate.",
+            "meaning_ko": "그녀의 통찰력 있는 한마디가 논쟁 전체를 다시 짰습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "His sagacious reading of incentives explained why the policy failed in practice.",
+            "meaning_ko": "그의 인센티브에 대한 통찰력 있는 해석은 그. 그 정책이 실제에서 왜 실패했는지를 설명했습니다."
+          },
+          {
+            "sentence": "Sagacious resource allocation requires not only data, but an understanding of second-order effects.",
+            "meaning_ko": "현명한 자원 배분에는 데이터뿐 아니라 2차 효과에 대한 이해가 필요합니다."
+          },
+          {
+            "sentence": "The most sagacious analysts separate noise from signal before forming conclusions.",
+            "meaning_ko": "가장 통찰력 있는 분석가들은 결론을 내리기 전에 잡음과 신호를 구분합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sagacious는 ‘현명한(wise)’보다 더 격식 있고, ‘분별력 있는 판단’ 뉘앙스가 강합니다. 문장 빈칸에서는 wise/shrewd/astute와 함께 보기로 나오기 쉬운데, shrewd는 ‘영리하지만 약간 계산적’일 수 있고, sagacious는 ‘현명하고 예리한 판단’에 초점입니다. 명사형 sagacity(현명함)도 같이 묶어 외우면 파생 문제에 강해집니다.",
+    "tags": [
+      "평가·비평",
+      "리더십",
+      "문어·격식",
+      "성격/자질"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The professor is ______ and always spots flaws in our arguments.",
+            "a": "sagacious",
+            "meaning_ko": "예리한 분별력/현명함"
+          },
+          {
+            "q": "Which noun is derived from 'sagacious'?",
+            "a": "sagacity",
+            "meaning_ko": "파생어 연결"
+          },
+          {
+            "q": "True/False: 'sagacious' is mainly used in casual conversation.",
+            "a": "False",
+            "meaning_ko": "문어/격식 느낌이 강함"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest synonym in formal writing: sagacious (A) silly (B) judicious (C) noisy (D) random",
+            "a": "judicious",
+            "meaning_ko": "현명하고 분별 있는"
+          },
+          {
+            "q": "Fill in the blank: a sagacious ______ (remark / sandwich / rainfall)",
+            "a": "remark",
+            "meaning_ko": "사람/발언/판단에 자연스럽게 붙음"
+          },
+          {
+            "q": "Which choice contrasts best with 'sagacious decision'?",
+            "a": "foolish decision",
+            "meaning_ko": "대표 반의어"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the most natural sentence in an academic tone:",
+            "a": "The paper offers a sagacious critique of the prevailing assumptions.",
+            "meaning_ko": "격식 문맥에서 ‘통찰력 있는 비평’"
+          },
+          {
+            "q": "Error correction: 'He is sagacious at economics.'",
+            "a": "He is sagacious about economics.",
+            "meaning_ko": "전치사 at보다 about이 자연스러움"
+          },
+          {
+            "q": "Complete: 'A sagacious analysis distinguishes ______ from signal.'",
+            "a": "noise",
+            "meaning_ko": "고급 콜로케이션/표현"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "denounce",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To publicly declare something or someone to be wrong or evil; condemn openly.",
+        "definition_ko": "공개적으로 비난하다; 규탄하다.",
+        "note": "공개적/공식적 비난(성명, 연설, 보도자료 등) 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "To inform against; accuse formally (often to authorities).",
+        "definition_ko": "고발하다; (당국에) 신고/고발하다.",
+        "note": "문맥에 따라 ‘고발’ 의미도 가능하지만, 일반적으로는 ‘규탄’이 더 흔합니다."
+      }
+    ],
+    "concept": "잘못을 ‘공개적으로’ 드러내며 강하게 비난·규탄하는 행위.",
+    "etymology": "라틴어 계열에서 ‘알리다/공표하다’ 의미를 거쳐, 현대 영어에서는 ‘공개적으로 비난하다/고발하다’로 굳어졌습니다.",
+    "semanticExtension": "개인 행동 비난 → 정책/전쟁/차별 같은 사회 이슈에 대한 공식 규탄으로 확장됩니다(denounce the policy/war/racism).",
+    "nuanceRegister": "격식/공식적. 뉴스, 성명, 정치·사회 담론에서 매우 흔합니다.",
+    "grammarNotes": "타동사로 목적어를 받습니다: denounce + 명사(행위/정책/사람). 흔한 패턴: denounce A as B(=A를 B라고 규정하며 비난), denounce A for ~ (A를 ~ 때문에 규탄). 수동도 가능: He was denounced for …",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "as",
+        "meaning_ko": "A를 B로 규정해 규탄",
+        "example": "denounce the act as barbaric"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~ 때문에 (A를) 규탄",
+        "example": "denounce the company for fraud"
+      }
+    ],
+    "requiredComplements": [
+      "denounce + 명사 : '~을/를 공개적으로 비난하다/규탄하다'",
+      "denounce + 명사 + as + 형용사/명사 : '~을/를 ~라고 규정하며 규탄하다'",
+      "denounce + 명사 + for + 명사/동명사 : '~ 때문에 ~을/를 규탄하다'"
+    ],
+    "morphology": "de-(강조/완결 느낌) + nounce(알리다/발표하다 계열). 현대 용법에서는 ‘공개적으로 비난/규탄’ 의미로 통째 암기 권장.",
+    "derivatives": [
+      {
+        "word": "denunciation",
+        "meaning_ko": "규탄, 비난(공개적)"
+      },
+      {
+        "word": "denouncer",
+        "meaning_ko": "규탄하는 사람"
+      },
+      {
+        "word": "denunciatory",
+        "meaning_ko": "규탄하는 어조의(격식)"
+      }
+    ],
+    "related": [
+      {
+        "word": "condemn",
+        "meaning_ko": "비난하다, 규탄하다"
+      },
+      {
+        "word": "criticize",
+        "meaning_ko": "비판하다(강도 낮을 수 있음)"
+      },
+      {
+        "word": "censure",
+        "meaning_ko": "공식적으로 비난하다(의회/위원회)"
+      },
+      {
+        "word": "accuse",
+        "meaning_ko": "비난하다/고발하다(혐의 제기)"
+      },
+      {
+        "word": "rebuke",
+        "meaning_ko": "꾸짖다(대면/훈계 뉘앙스)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "condemn",
+        "meaning_ko": "규탄하다"
+      },
+      {
+        "word": "censure",
+        "meaning_ko": "공식적으로 비난하다"
+      },
+      {
+        "word": "decry",
+        "meaning_ko": "강하게 비난하다(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "criticize",
+        "meaning_ko": "비판하다"
+      },
+      {
+        "word": "attack",
+        "meaning_ko": "공격하다(수사적)"
+      },
+      {
+        "word": "reproach",
+        "meaning_ko": "나무라다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      },
+      {
+        "word": "commend",
+        "meaning_ko": "칭찬하다(격식)"
+      },
+      {
+        "word": "endorse",
+        "meaning_ko": "지지하다"
+      },
+      {
+        "word": "applaud",
+        "meaning_ko": "박수치다; 찬성하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "denounce the violence",
+            "meaning_ko": "폭력을 규탄하다"
+          },
+          {
+            "phrase": "denounce corruption",
+            "meaning_ko": "부패를 규탄하다"
+          },
+          {
+            "phrase": "denounce a lie",
+            "meaning_ko": "거짓을 폭로하며 비난하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "denounce a policy",
+            "meaning_ko": "정책을 공개적으로 비난하다"
+          },
+          {
+            "phrase": "denounce someone as a fraud",
+            "meaning_ko": "누군가를 사기꾼이라고 규정하며 규탄하다"
+          },
+          {
+            "phrase": "denounce the company for misconduct",
+            "meaning_ko": "비행 때문에 회사를 규탄하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "denounce the agreement as unconstitutional",
+            "meaning_ko": "합의를 위헌이라고 규정하며 규탄하다"
+          },
+          {
+            "phrase": "denounce the regime in a public statement",
+            "meaning_ko": "공개 성명에서 정권을 규탄하다"
+          },
+          {
+            "phrase": "swiftly denounce and distance oneself from wrongdoing",
+            "meaning_ko": "재빨리 규탄하고 잘못과 선을 긋다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The mayor denounced the attack.",
+            "meaning_ko": "시장은 그 공격을 규탄했습니다."
+          },
+          {
+            "sentence": "She denounced the rumors as false.",
+            "meaning_ko": "그녀는 소문을 거짓이라고 규정하며 비난했습니다."
+          },
+          {
+            "sentence": "Many citizens denounced the decision.",
+            "meaning_ko": "많은 시민들이 그 결정을 공개적으로 비난했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report denounced the company for systematic misconduct.",
+            "meaning_ko": "그 보고서는 조직적 비행 때문에 그 회사를 규탄했습니다."
+          },
+          {
+            "sentence": "He denounced his opponent as unfit for office.",
+            "meaning_ko": "그는 상대가 공직에 부적합하다고 규정하며 비난했습니다."
+          },
+          {
+            "sentence": "Several groups denounced the policy, arguing it would harm vulnerable communities.",
+            "meaning_ko": "여러 단체가 그 정책이 취약 계층에 해를 끼칠 것이라며 규탄했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "After initially staying silent, the organization issued a statement denouncing the conduct and pledging reforms.",
+            "meaning_ko": "처음엔 침묵하던 그 단체는 결국 해당 행위를 규탄하고 개혁을 약속하는 성명을 냈습니다."
+          },
+          {
+            "sentence": "Critics denounced the agreement as unconstitutional, forcing the government to seek judicial review.",
+            "meaning_ko": "비평가들은 그 합의를 위헌이라고 규정하며 규탄했고, 정부는 사법 심사를 구하게 되었습니다."
+          },
+          {
+            "sentence": "To denounce wrongdoing credibly, leaders must also disclose what they knew and when they knew it.",
+            "meaning_ko": "잘못을 설득력 있게 규탄하려면, 지도자들은 무엇을 언제 알았는지도 공개해야 합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "denounce는 ‘강하게 비난하다’ 중에서도 특히 ‘공개적으로/공식적으로 규탄’에 초점이 있습니다. criticize는 비교적 약하고, condemn/denounce는 훨씬 강하며 뉴스·성명체에서 자주 등장합니다. 시험에서는 denounce A as B / denounce A for ~ 패턴이 고정 출제 포인트라, 전치사까지 같이 외우는 게 효율적입니다.",
+    "tags": [
+      "사회·정치",
+      "뉴스·성명",
+      "비판/규탄",
+      "공식 문어"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The minister ______ the violence.",
+            "a": "denounced",
+            "meaning_ko": "공식적으로 폭력을 규탄하다"
+          },
+          {
+            "q": "Which is closest to 'denounce'?",
+            "a": "condemn",
+            "meaning_ko": "강한 규탄 의미"
+          },
+          {
+            "q": "Choose the correct pattern: denounce the claim ___ false (as/for/to)",
+            "a": "as",
+            "meaning_ko": "as: ~라고 규정하며 규탄"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: The watchdog denounced the firm ___ fraud.",
+            "a": "for",
+            "meaning_ko": "for: ~ 때문에 규탄"
+          },
+          {
+            "q": "Rewrite using 'denounce': They publicly criticized the policy.",
+            "a": "They denounced the policy.",
+            "meaning_ko": "공개적/공식적 비난으로 강화"
+          },
+          {
+            "q": "Pick the best word for a news headline: The UN ______ the attack. (denounced / doodled / wandered)",
+            "a": "denounced",
+            "meaning_ko": "뉴스 헤드라인 어휘"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Which sentence best matches the meaning of 'denounce A as B'?",
+            "a": "They condemned A by labeling it B in public.",
+            "meaning_ko": "as 구조의 의미를 정확히 풀어쓴 문장"
+          },
+          {
+            "q": "Spot the error: 'She denounced for the plan.'",
+            "a": "She denounced the plan.",
+            "meaning_ko": "목적어가 필요(타동사)"
+          },
+          {
+            "q": "Choose the most appropriate verb: The committee issued a formal statement to ______ the misconduct.",
+            "a": "denounce",
+            "meaning_ko": "formal statement + 규탄(격식)"
+          }
+        ]
+      }
+    ]
+  }
+]

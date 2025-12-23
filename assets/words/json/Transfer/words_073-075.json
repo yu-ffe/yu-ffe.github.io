@@ -1,0 +1,1008 @@
+[
+  {
+    "word": "rhyme",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A correspondence of sound between the endings of words, especially in poetry.",
+        "definition_ko": "단어 끝소리가 비슷하게 맞아떨어지는 운(라임), 특히 시에서의 각운.",
+        "note": "발음(소리) 기준이며 철자가 같아도 소리가 다르면 rhyme이 아닐 수 있습니다."
+      },
+      {
+        "definition_en": "To make or be in rhyme; to use words that rhyme.",
+        "definition_ko": "운을 맞추다, (단어가) 운이 맞다.",
+        "note": "rhyme with(…와 운이 맞다) 형태가 매우 흔합니다."
+      }
+    ],
+    "concept": "끝소리를 맞춰 리듬과 기억성을 만드는 ‘소리의 짝맞춤’이다.",
+    "etymology": "중세 영어에서 ‘리듬/운’을 뜻하던 형태에서 발전했으며, 그리스어 rhuthmos(리듬) 계열과 연관되어 전해진 것으로 설명된다.",
+    "semanticExtension": "직접적인 시적 각운에서 확장되어, 광고 문구·슬로건처럼 ‘기억에 남게 만드는 말의 장치’라는 의미로도 쓰인다(예: a catchy rhyme).",
+    "nuanceRegister": "문학·작문 맥락에서 격식 있게도 쓰이지만, 힙합/광고/구어에서도 매우 자연스럽다.",
+    "grammarNotes": "명사로는 a rhyme / rhymes, 동사로는 rhyme with + 명사(…와 운이 맞다), rhyme a word with another(…를 …와 맞추다). 미국식 철자/발음 변형은 일반적으로 rhyme로 표기한다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사 (동사 용법은 해당 없음)",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "…와 운이 맞다",
+        "example": "orange doesn't rhyme with anything (in standard English)"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "…의 운(형식)으로, …운으로",
+        "example": "a poem written in rhyme"
+      }
+    ],
+    "requiredComplements": [
+      "rhyme with + noun : (두 단어가) ~와 운이 맞다",
+      "rhyme A with B : A를 B와 운 맞추다(작문/작사에서 흔함)"
+    ],
+    "morphology": "어근 설명: rhyme(운) + 파생 접미사 -er(사람), -ing(동명사/현재분사) 등이 붙어 확장된다.",
+    "derivatives": [
+      {
+        "word": "rhyming",
+        "meaning_ko": "운을 맞추는; 운맞추기"
+      },
+      {
+        "word": "rhymed",
+        "meaning_ko": "운을 맞춘; 과거형/과거분사"
+      },
+      {
+        "word": "rhymer",
+        "meaning_ko": "운을 맞추는 사람, (특히) 시인/작사가"
+      },
+      {
+        "word": "rhyming couplet",
+        "meaning_ko": "각운을 이루는 2행(대구)"
+      },
+      {
+        "word": "nursery rhyme",
+        "meaning_ko": "동요/동시(전통적인 운문 동요)"
+      }
+    ],
+    "related": [
+      {
+        "word": "rhythm",
+        "meaning_ko": "리듬, 율동"
+      },
+      {
+        "word": "verse",
+        "meaning_ko": "운문, 시의 한 연/절"
+      },
+      {
+        "word": "meter",
+        "meaning_ko": "운율(격), 정형시의 박자"
+      },
+      {
+        "word": "alliteration",
+        "meaning_ko": "두운(단어 첫소리 반복)"
+      },
+      {
+        "word": "assonance",
+        "meaning_ko": "유사모음 반복(모음운)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "end rhyme",
+        "meaning_ko": "각운(행 끝 라임)"
+      },
+      {
+        "word": "rime",
+        "meaning_ko": "(고어/변형) rhyme(운)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "jingle",
+        "meaning_ko": "(짧고) 귀에 남는 운문/징글"
+      },
+      {
+        "word": "chant",
+        "meaning_ko": "구호처럼 반복되는 낭송"
+      },
+      {
+        "word": "couplet",
+        "meaning_ko": "2행 연(종종 각운)"
+      },
+      {
+        "word": "poetry",
+        "meaning_ko": "시(장르)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "free verse",
+        "meaning_ko": "자유시(정형 각운·운율이 약함)"
+      },
+      {
+        "word": "prose",
+        "meaning_ko": "산문"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "internal rhyme",
+            "meaning_ko": "내각(행 내부) 라임"
+          },
+          {
+            "phrase": "a scheme of rhymes",
+            "meaning_ko": "각운 배열(운각)"
+          },
+          {
+            "phrase": "rhyme and meter",
+            "meaning_ko": "각운과 운율"
+          },
+          {
+            "phrase": "to force a rhyme",
+            "meaning_ko": "억지로 라임을 맞추다"
+          },
+          {
+            "phrase": "a slant rhyme",
+            "meaning_ko": "반각운/근사 라임(완전 일치 아님)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "rhyme with",
+            "meaning_ko": "…와 운이 맞다"
+          },
+          {
+            "phrase": "a perfect rhyme",
+            "meaning_ko": "완전각운(소리 완전 일치)"
+          },
+          {
+            "phrase": "a catchy rhyme",
+            "meaning_ko": "귀에 착 붙는 라임"
+          },
+          {
+            "phrase": "a rhyme pattern",
+            "meaning_ko": "각운 패턴"
+          },
+          {
+            "phrase": "to write in rhyme",
+            "meaning_ko": "운을 맞춰 쓰다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "make a rhyme",
+            "meaning_ko": "라임을 만들다/맞추다"
+          },
+          {
+            "phrase": "find a rhyme",
+            "meaning_ko": "라임이 되는 단어를 찾다"
+          },
+          {
+            "phrase": "a simple rhyme",
+            "meaning_ko": "단순한 라임"
+          },
+          {
+            "phrase": "a silly rhyme",
+            "meaning_ko": "우스꽝스러운 라임"
+          },
+          {
+            "phrase": "nursery rhyme",
+            "meaning_ko": "동요/동시"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The poem relies on internal rhyme to create tension without sacrificing natural speech.",
+            "meaning_ko": "그 시는 자연스러운 말투를 해치지 않으면서 긴장감을 만들기 위해 내각을 활용한다."
+          },
+          {
+            "sentence": "Critics argue that the forced rhyme undercuts the poem’s emotional sincerity.",
+            "meaning_ko": "평론가들은 억지 라임이 그 시의 정서적 진정성을 깎아 먹는다고 주장한다."
+          },
+          {
+            "sentence": "She experimented with slant rhymes to avoid predictable cadences.",
+            "meaning_ko": "그녀는 뻔한 리듬을 피하려고 반각운을 실험했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Nothing in this verse rhymes with “silver,” so I had to rewrite the line.",
+            "meaning_ko": "이 구절에는 “silver”와 운이 맞는 게 없어서 그 행을 다시 썼다."
+          },
+          {
+            "sentence": "The songwriter built the chorus around a perfect rhyme to make it memorable.",
+            "meaning_ko": "그 작곡가는 기억에 남게 하려고 후렴을 완전각운 중심으로 만들었다."
+          },
+          {
+            "sentence": "In the second stanza, the rhyme pattern shifts to emphasize the turn in meaning.",
+            "meaning_ko": "두 번째 연에서는 의미 전환을 강조하려고 각운 패턴이 바뀐다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Can you find a rhyme for “game”?",
+            "meaning_ko": "“game”이랑 라임 되는 단어 찾을 수 있어요?"
+          },
+          {
+            "sentence": "The kids laughed at the silly rhyme.",
+            "meaning_ko": "아이들은 우스꽝스러운 라임에 웃었다."
+          },
+          {
+            "sentence": "He tried to make a rhyme, but it sounded awkward.",
+            "meaning_ko": "그는 라임을 맞추려 했지만 어색하게 들렸다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "rhyme은 ‘철자’가 아니라 ‘소리’가 핵심입니다. 시험에서 rhyme with를 보면 ‘~와 운이 맞다’로 바로 처리하고, forced/ slant/ internal 같은 수식어가 붙으면 라임의 종류(억지·근사·내각)를 구분해 읽으시면 좋습니다.",
+    "tags": [
+      "문학",
+      "시",
+      "작문",
+      "발음",
+      "음운",
+      "힙합/가사"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the word that rhymes with “late.”\nA) light  B) fate  C) lot  D) let",
+            "a": "B) fate",
+            "meaning_ko": "late / fate는 끝소리 /eɪt/가 일치합니다."
+          },
+          {
+            "q": "Fill in the blank: “Does ‘blue’ rhyme ___ ‘true’?”",
+            "a": "with",
+            "meaning_ko": "rhyme with가 기본 결합입니다."
+          },
+          {
+            "q": "Which is closest in meaning to ‘a rhyme’?\nA) a rule  B) a sound match at word endings  C) a question  D) a mistake",
+            "a": "B) a sound match at word endings",
+            "meaning_ko": "rhyme은 단어 끝소리의 대응(각운)입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite the phrase using ‘rhyme with’: “These two words have the same ending sound.”",
+            "a": "These two words rhyme with each other.",
+            "meaning_ko": "동사 rhyme with로 ‘서로 운이 맞다’를 표현합니다."
+          },
+          {
+            "q": "Pick the best option: “The poet avoided a ____ rhyme and used near matches instead.”\nA) perfect  B) silent  C) random  D) empty",
+            "a": "A) perfect",
+            "meaning_ko": "near matches는 slant/near rhyme 쪽이므로 대비되는 perfect rhyme이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the sentence that sounds most natural.\nA) This rhymes to that.  B) This rhymes with that.  C) This rhymes at that.",
+            "a": "B) This rhymes with that.",
+            "meaning_ko": "표준 패턴은 rhyme with입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In poetry analysis, what does ‘internal rhyme’ refer to?",
+            "a": "Rhyme occurring within a single line rather than at the line endings.",
+            "meaning_ko": "행 끝이 아니라 ‘행 내부’에서 라임이 발생하는 경우입니다."
+          },
+          {
+            "q": "Fill in the blank with the best collocation: “The critic complained that the poet had to ____ a rhyme in the final couplet.”",
+            "a": "force",
+            "meaning_ko": "force a rhyme = 억지로 라임을 맞추다."
+          },
+          {
+            "q": "Choose the best paraphrase: “The verse uses slant rhyme to avoid predictability.”\nA) It uses exact matches.  B) It uses imperfect sound matches.  C) It uses no rhythm.  D) It uses longer sentences.",
+            "a": "B) It uses imperfect sound matches.",
+            "meaning_ko": "slant rhyme은 완전 일치가 아닌 ‘근사한 소리’ 매칭입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shorten",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To make or become shorter in length, duration, or extent.",
+        "definition_ko": "짧게 하다/짧아지다(길이·시간·분량·범위 등을).",
+        "note": "타동사(줄이다)·자동사(줄어들다) 둘 다 가능합니다."
+      },
+      {
+        "definition_en": "To reduce (text or speech) by removing parts; to abridge.",
+        "definition_ko": "(글·발언 등을) 줄여 쓰다, 축약하다.",
+        "note": "shorten the report/paragraph 같은 형태로 자주 나옵니다."
+      }
+    ],
+    "concept": "길이·시간·분량을 ‘줄여’ 더 짧게 만드는 행위/변화이다.",
+    "etymology": "short(짧은) + 동사화 접미 성격의 -en(…하게 만들다) 결합으로 ‘짧게 만들다’라는 의미가 형성되었다.",
+    "semanticExtension": "물리적 길이뿐 아니라 일정·회의·수명·거리·서류 절차 등 추상적 ‘기간/범위’를 줄이는 의미로 넓게 확장된다.",
+    "nuanceRegister": "중립적·실용적 표현으로, 일상/비즈니스/학술 글쓰기 모두에서 자연스럽다.",
+    "grammarNotes": "shorten + 목적어(타동사), (something) shortens(자동사). shorten to/by는 결과 길이(to) 또는 감소 폭(by)을 나타낼 때 자주 쓰인다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "…로(결과 길이/기간) 줄이다",
+        "example": "shorten the meeting to 30 minutes"
+      },
+      {
+        "prep": "by",
+        "meaning_ko": "…만큼(감소량) 줄이다",
+        "example": "shorten the delay by two hours"
+      }
+    ],
+    "requiredComplements": [
+      "shorten + noun : ~을 줄이다/짧게 하다",
+      "shorten to + number/time/length : ~로 줄이다(결과)",
+      "shorten by + amount : ~만큼 줄이다(차이)"
+    ],
+    "morphology": "short(짧은) + -en(…하게 만들다) → shorten(짧게 하다). 같은 -en 계열: widen, sharpen, lengthen 등.",
+    "derivatives": [
+      {
+        "word": "shortened",
+        "meaning_ko": "줄인, 단축된"
+      },
+      {
+        "word": "shortening",
+        "meaning_ko": "단축; 쇼트닝(식품: 지방)"
+      },
+      {
+        "word": "shortener",
+        "meaning_ko": "(비교적 드묾) 단축하는 것/사람"
+      },
+      {
+        "word": "shortenings",
+        "meaning_ko": "(식품) 쇼트닝류(복수)"
+      }
+    ],
+    "related": [
+      {
+        "word": "reduce",
+        "meaning_ko": "줄이다, 감소시키다"
+      },
+      {
+        "word": "abridge",
+        "meaning_ko": "요약/축약하다(특히 글)"
+      },
+      {
+        "word": "truncate",
+        "meaning_ko": "잘라내어 짧게 하다(기술/형식적)"
+      },
+      {
+        "word": "compress",
+        "meaning_ko": "압축하다"
+      },
+      {
+        "word": "condense",
+        "meaning_ko": "응축/간추리다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cut",
+        "meaning_ko": "줄이다(구어, 편집/예산 등)"
+      },
+      {
+        "word": "reduce",
+        "meaning_ko": "감소시키다"
+      },
+      {
+        "word": "abridge",
+        "meaning_ko": "축약하다(텍스트)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "trim",
+        "meaning_ko": "다듬어 줄이다(군더더기 제거)"
+      },
+      {
+        "word": "curtail",
+        "meaning_ko": "(강제로) 단축/축소하다"
+      },
+      {
+        "word": "truncate",
+        "meaning_ko": "형식적으로 잘라내다"
+      },
+      {
+        "word": "condense",
+        "meaning_ko": "내용을 압축하다"
+      },
+      {
+        "word": "streamline",
+        "meaning_ko": "절차를 간소화하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lengthen",
+        "meaning_ko": "늘이다, 길게 하다"
+      },
+      {
+        "word": "extend",
+        "meaning_ko": "연장하다"
+      },
+      {
+        "word": "expand",
+        "meaning_ko": "확장하다"
+      },
+      {
+        "word": "prolong",
+        "meaning_ko": "질질 끌다, 장기화하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "shorten the learning curve",
+            "meaning_ko": "학습 곡선을 줄이다(빨리 익히게 하다)"
+          },
+          {
+            "phrase": "shorten the turnaround time",
+            "meaning_ko": "처리/회전 시간을 단축하다"
+          },
+          {
+            "phrase": "shorten one’s lifespan",
+            "meaning_ko": "수명을 단축시키다"
+          },
+          {
+            "phrase": "shorten the gestation period",
+            "meaning_ko": "임신/임신 기간을 단축하다(학술)"
+          },
+          {
+            "phrase": "shorten the odds",
+            "meaning_ko": "(도박) 배당이 낮아지다/가능성이 높아지다(관용적)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "shorten a sentence",
+            "meaning_ko": "문장을 줄이다"
+          },
+          {
+            "phrase": "shorten the meeting",
+            "meaning_ko": "회의 시간을 줄이다"
+          },
+          {
+            "phrase": "shorten a report",
+            "meaning_ko": "보고서를 줄이다"
+          },
+          {
+            "phrase": "shorten the wait",
+            "meaning_ko": "대기 시간을 줄이다"
+          },
+          {
+            "phrase": "shorten the distance",
+            "meaning_ko": "거리를 줄이다(지름길 등)"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "shorten it",
+            "meaning_ko": "그거 좀 줄여"
+          },
+          {
+            "phrase": "shorten your hair",
+            "meaning_ko": "머리를 짧게 자르다"
+          },
+          {
+            "phrase": "shorten the time",
+            "meaning_ko": "시간을 줄이다"
+          },
+          {
+            "phrase": "shorten the line",
+            "meaning_ko": "줄(대기줄)을 짧게 하다"
+          },
+          {
+            "phrase": "shorten the trip",
+            "meaning_ko": "여행을 단축하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The committee voted to shorten the regulatory review period without compromising safety standards.",
+            "meaning_ko": "위원회는 안전 기준을 훼손하지 않으면서도 규제 심사 기간을 단축하기로 표결했다."
+          },
+          {
+            "sentence": "Overuse of certain medications can shorten one’s lifespan by increasing systemic risk.",
+            "meaning_ko": "특정 약물의 과다 사용은 전신적 위험을 높여 수명을 단축시킬 수 있다."
+          },
+          {
+            "sentence": "To shorten the learning curve, the onboarding guide prioritizes tasks by dependency.",
+            "meaning_ko": "학습 곡선을 줄이기 위해 온보딩 가이드는 의존관계에 따라 작업 우선순위를 정한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Could you shorten the report to two pages and keep the key numbers?",
+            "meaning_ko": "보고서를 두 쪽으로 줄이고 핵심 수치는 남겨 주실 수 있나요?"
+          },
+          {
+            "sentence": "They shortened the meeting by skipping the optional agenda items.",
+            "meaning_ko": "그들은 선택 안건을 건너뛰어 회의를 단축했다."
+          },
+          {
+            "sentence": "If we take the highway, we can shorten the trip by an hour.",
+            "meaning_ko": "고속도로를 타면 여행 시간을 한 시간 줄일 수 있어요."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Let’s shorten it.",
+            "meaning_ko": "줄이자/짧게 하자."
+          },
+          {
+            "sentence": "I want to shorten my hair.",
+            "meaning_ko": "머리를 좀 짧게 자르고 싶어요."
+          },
+          {
+            "sentence": "The delay shortened after the update.",
+            "meaning_ko": "업데이트 후 지연 시간이 줄었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "shorten은 ‘결과’를 말하면 to(…로), ‘줄인 양’을 말하면 by(…만큼)을 붙이는 게 핵심입니다. 글쓰기에서는 shorten=분량을 줄이다, abridge=요약·축약(문어)처럼 미묘한 차이가 있으니 같이 묶어서 암기하시면 좋습니다.",
+    "tags": [
+      "일상",
+      "비즈니스",
+      "편집/작문",
+      "시간 관리",
+      "절차 개선"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: “We need to shorten the meeting ___ 20 minutes.”",
+            "a": "to",
+            "meaning_ko": "결과 시간이 ‘20분’이 되므로 to가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best meaning of ‘shorten’: A) to make longer  B) to make shorter  C) to decorate  D) to forget",
+            "a": "B) to make shorter",
+            "meaning_ko": "shorten=짧게 하다/줄이다."
+          },
+          {
+            "q": "Which sentence is natural?\nA) Shorten by 10 pages.  B) Shorten the report by 10 pages.",
+            "a": "B) Shorten the report by 10 pages.",
+            "meaning_ko": "목적어가 필요합니다(타동사 용법)."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: “They shortened the delay ___ two hours.” (meaning: reduced it by two hours)",
+            "a": "by",
+            "meaning_ko": "감소량(두 시간) = by."
+          },
+          {
+            "q": "Choose the best rewrite: “Please make this paragraph shorter.”",
+            "a": "Please shorten this paragraph.",
+            "meaning_ko": "make ~ shorter → shorten으로 간단히 바꿀 수 있습니다."
+          },
+          {
+            "q": "Pick the closest word to ‘shorten (text)’:\nA) discover  B) abridge  C) admire  D) expand",
+            "a": "B) abridge",
+            "meaning_ko": "abridge=글을 축약하다(의미가 가깝습니다)."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best collocation for process improvement: “The team redesigned the workflow to shorten the ____ time.”\nA) turnaround  B) color  C) flavor  D) noise",
+            "a": "A) turnaround",
+            "meaning_ko": "turnaround time=처리/회전 시간."
+          },
+          {
+            "q": "Explain the difference in one sentence: ‘shorten to’ vs ‘shorten by’.",
+            "a": "‘Shorten to’ states the final length/duration, while ‘shorten by’ states the amount reduced.",
+            "meaning_ko": "to=결과, by=감소량."
+          },
+          {
+            "q": "Fill in the blank: “The policy aims to shorten the learning curve by providing step-by-step templates.” In this sentence, ‘shorten’ is used in a ____ sense (physical/metaphorical).",
+            "a": "metaphorical",
+            "meaning_ko": "학습 곡선은 물리 길이가 아니라 추상 개념이므로 비유적(확장) 용법입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "iconoclastic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Opposed to traditional beliefs, customs, or established institutions; deliberately challenging them.",
+        "definition_ko": "전통·관습·권위에 도전하는, 기존 질서를 깨려는.",
+        "note": "단순히 ‘특이하다’가 아니라, 기존의 권위/규범을 깨는 태도에 초점이 있습니다."
+      },
+      {
+        "definition_en": "Relating to the destruction or rejection of religious images (icons).",
+        "definition_ko": "(원뜻) 성상(아이콘) 파괴/배척과 관련된.",
+        "note": "현대 영어에서는 1번의 비유적 의미(기성에 대한 도전)가 훨씬 자주 쓰입니다."
+      }
+    ],
+    "concept": "‘우상(기성 권위)’을 깨뜨리듯, 관습과 권위를 과감히 부수는 태도이다.",
+    "etymology": "그리스어 eikon(형상, 성상) + klaein(깨다)에서 유래한 iconoclast(성상 파괴자)에서 파생되었다.",
+    "semanticExtension": "종교적 ‘성상 파괴’에서 출발해, 예술·학문·정치·비즈니스 전반에서 ‘기성 관념/관행을 깨는 혁신적 성향’으로 넓게 확장되었다.",
+    "nuanceRegister": "문어적·비평적(에세이/기사/학술) 톤이 강하며, 칭찬(혁신적) 또는 비판(파괴적) 양쪽으로 쓰일 수 있다.",
+    "grammarNotes": "보통 iconoclastic + noun(예: iconoclastic thinker/art). 사람을 말할 때도 가능하지만, 명사형 iconoclast(우상파괴자)가 더 직접적이다. about/toward + 기성 관념처럼 전치사를 붙여 태도를 설명하기도 한다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해(기성 관념을) 깨는 태도의 대상",
+        "example": "iconoclastic about academic conventions"
+      },
+      {
+        "prep": "toward",
+        "meaning_ko": "~에 대해(권위/제도에) 도전적인 태도",
+        "example": "iconoclastic toward established institutions"
+      }
+    ],
+    "requiredComplements": [
+      "iconoclastic + noun : 기성에 도전하는 ~ (e.g., iconoclastic artist)",
+      "iconoclastic about/toward + noun : ~에 대해/를 향해 도전적인"
+    ],
+    "morphology": "icon(형상/상징) + -o- (연결 모음) + clast(깨는 사람/것) + -ic(형용사화) → iconoclastic.",
+    "derivatives": [
+      {
+        "word": "iconoclast",
+        "meaning_ko": "우상파괴자, 기성에 도전하는 사람"
+      },
+      {
+        "word": "iconoclasm",
+        "meaning_ko": "우상파괴(사상), 기성 타파 성향"
+      },
+      {
+        "word": "iconoclasticly",
+        "meaning_ko": "우상파괴적으로(부사)"
+      },
+      {
+        "word": "iconic",
+        "meaning_ko": "상징적인(어원이 icon과 연결)"
+      }
+    ],
+    "related": [
+      {
+        "word": "orthodoxy",
+        "meaning_ko": "정통, 정설"
+      },
+      {
+        "word": "tradition",
+        "meaning_ko": "전통"
+      },
+      {
+        "word": "dogma",
+        "meaning_ko": "교리, 독단"
+      },
+      {
+        "word": "innovation",
+        "meaning_ko": "혁신"
+      },
+      {
+        "word": "reform",
+        "meaning_ko": "개혁"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "radical",
+        "meaning_ko": "급진적인"
+      },
+      {
+        "word": "unconventional",
+        "meaning_ko": "비전통적인"
+      },
+      {
+        "word": "iconoclastic",
+        "meaning_ko": "(자기동의) 기성 타파적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "maverick",
+        "meaning_ko": "독불장군 같은, 비주류의"
+      },
+      {
+        "word": "subversive",
+        "meaning_ko": "체제를 전복하려는/전복적인"
+      },
+      {
+        "word": "anti-establishment",
+        "meaning_ko": "반(反)기성의"
+      },
+      {
+        "word": "avant-garde",
+        "meaning_ko": "전위적인(예술)"
+      },
+      {
+        "word": "heretical",
+        "meaning_ko": "이단적인(비유적으로)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conventional",
+        "meaning_ko": "관습적인"
+      },
+      {
+        "word": "orthodox",
+        "meaning_ko": "정통의, 정설을 따르는"
+      },
+      {
+        "word": "traditional",
+        "meaning_ko": "전통적인"
+      },
+      {
+        "word": "conformist",
+        "meaning_ko": "순응적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "an iconoclastic critique of orthodoxy",
+            "meaning_ko": "정설에 대한 기성 타파적 비판"
+          },
+          {
+            "phrase": "iconoclastic impulses",
+            "meaning_ko": "기성 타파적 충동"
+          },
+          {
+            "phrase": "iconoclastic methodology",
+            "meaning_ko": "기존 틀을 깨는 방법론"
+          },
+          {
+            "phrase": "iconoclastic intervention",
+            "meaning_ko": "체계에 균열을 내는 개입(비평)"
+          },
+          {
+            "phrase": "iconoclastic stance toward authority",
+            "meaning_ko": "권위에 대한 도전적 입장"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "iconoclastic thinker",
+            "meaning_ko": "기성에 도전하는 사상가"
+          },
+          {
+            "phrase": "iconoclastic artist",
+            "meaning_ko": "기존 양식을 깨는 예술가"
+          },
+          {
+            "phrase": "iconoclastic approach",
+            "meaning_ko": "파격적 접근"
+          },
+          {
+            "phrase": "iconoclastic ideas",
+            "meaning_ko": "기성 관념을 깨는 아이디어"
+          },
+          {
+            "phrase": "iconoclastic about tradition",
+            "meaning_ko": "전통에 대해 도전적인"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "break with tradition",
+            "meaning_ko": "전통을 깨다(의미상 함께 학습)"
+          },
+          {
+            "phrase": "challenge the status quo",
+            "meaning_ko": "현상을 뒤흔들다"
+          },
+          {
+            "phrase": "a nontraditional path",
+            "meaning_ko": "비전통적 길"
+          },
+          {
+            "phrase": "question authority",
+            "meaning_ko": "권위에 의문을 제기하다"
+          },
+          {
+            "phrase": "do things differently",
+            "meaning_ko": "다르게 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Her iconoclastic critique of disciplinary boundaries reshaped the field’s research agenda.",
+            "meaning_ko": "그녀의 학문 분과 경계에 대한 기성 타파적 비판은 그 분야의 연구 의제를 재편했다."
+          },
+          {
+            "sentence": "The movement’s iconoclastic stance toward authority attracted admirers and provoked institutional backlash.",
+            "meaning_ko": "그 운동의 권위에 대한 도전적 입장은 지지자를 끌어모았지만 제도권의 반발도 불러왔다."
+          },
+          {
+            "sentence": "An iconoclastic methodology can generate breakthroughs, but it also risks discarding hard-won constraints.",
+            "meaning_ko": "기성 틀을 깨는 방법론은 돌파구를 만들 수 있지만, 어렵게 쌓아온 제약을 버릴 위험도 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He is known as an iconoclastic thinker who questions long-held assumptions.",
+            "meaning_ko": "그는 오래된 가정들을 의심하는 기성에 도전하는 사상가로 알려져 있다."
+          },
+          {
+            "sentence": "The director took an iconoclastic approach to the classic novel and divided audiences.",
+            "meaning_ko": "그 감독은 고전 소설을 파격적으로 해석해 관객 반응이 갈렸다."
+          },
+          {
+            "sentence": "In a conservative industry, even small iconoclastic ideas can feel disruptive.",
+            "meaning_ko": "보수적인 업계에서는 작은 기성 타파적 아이디어도 큰 파괴처럼 느껴질 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She has an iconoclastic style.",
+            "meaning_ko": "그녀는 파격적인 스타일을 갖고 있다."
+          },
+          {
+            "sentence": "He likes to challenge the status quo.",
+            "meaning_ko": "그는 현상에 도전하는 걸 좋아한다."
+          },
+          {
+            "sentence": "That’s a very nontraditional choice.",
+            "meaning_ko": "그건 꽤 비전통적인 선택이에요."
+          }
+        ]
+      }
+    ],
+    "studyTips": "iconoclastic은 ‘전통을 깨는’이라는 뜻으로 외워도 되지만, 핵심은 ‘권위/정설을 우상처럼 보고 깨뜨린다’는 이미지입니다. 단순히 unusual과 다르게 ‘기성에 대한 도전’의 뉘앙스가 강하니, 함께 나오는 authority, orthodoxy, status quo 같은 단어와 묶어 학습하시면 출제 포인트를 잡기 쉽습니다.",
+    "tags": [
+      "비평",
+      "학술/에세이",
+      "예술",
+      "혁신",
+      "기성 타파",
+      "사회/정치"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning of ‘iconoclastic’:\nA) traditional  B) challenging established beliefs  C) sleepy  D) expensive",
+            "a": "B) challenging established beliefs",
+            "meaning_ko": "iconoclastic=기성 관념/권위에 도전하는."
+          },
+          {
+            "q": "Fill in the blank: “He took an iconoclastic approach ___ the classic design rules.”",
+            "a": "to",
+            "meaning_ko": "approach to ~ 가 자연스럽습니다(전치사 패턴)."
+          },
+          {
+            "q": "True or False: ‘iconoclastic’ usually means ‘polite and obedient.’",
+            "a": "False",
+            "meaning_ko": "오히려 권위/관습에 도전하는 성향입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best collocation: “an iconoclastic ____ who questions orthodoxy”\nA) thinker  B) pillow  C) river  D) ticket",
+            "a": "A) thinker",
+            "meaning_ko": "iconoclastic thinker가 대표 결합입니다."
+          },
+          {
+            "q": "Choose the best antonym of ‘iconoclastic’:\nA) orthodox  B) innovative  C) rebellious  D) radical",
+            "a": "A) orthodox",
+            "meaning_ko": "orthodox=정통/정설을 따르는."
+          },
+          {
+            "q": "Fill in the blank: “Her speech was iconoclastic ___ academic conventions.” (meaning: toward/about)",
+            "a": "about",
+            "meaning_ko": "about academic conventions=학계 관행에 대해 도전적인."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Explain the original (literal) sense of ‘iconoclastic’ in one sentence.",
+            "a": "It originally referred to rejecting or destroying religious icons/images.",
+            "meaning_ko": "성상(아이콘)을 파괴/배척하는 의미에서 출발했습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: “An iconoclastic intervention destabilized the institutional orthodoxy.”\nA) It reinforced tradition.  B) It challenged established norms.  C) It ignored all rules quietly.  D) It made the building taller.",
+            "a": "B) It challenged established norms.",
+            "meaning_ko": "institutional orthodoxy(제도권 정설)를 흔드는 ‘도전’이 핵심입니다."
+          },
+          {
+            "q": "Fill in the blank with the best word: “The paper offers an iconoclastic critique of ____.”\nA) orthodoxy  B) soup  C) weather  D) furniture",
+            "a": "A) orthodoxy",
+            "meaning_ko": "iconoclastic critique는 orthodoxy(정설/정통) 같은 대상과 자주 결합합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,953 @@
+[
+  {
+    "word": "exceed",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To be greater than a number, amount, or limit.",
+        "definition_ko": "(수치·한도·기준 등을) 초과하다.",
+        "note": "객관적 기준(한도/기준치/예산/속도 등)을 ‘넘는다’는 뜻으로 가장 흔합니다."
+      },
+      {
+        "definition_en": "To go beyond expectations or standards; to surpass.",
+        "definition_ko": "(기대·수준을) 뛰어넘다, 능가하다.",
+        "note": "exceed expectations/standards처럼 ‘기대를 뛰어넘다’의 의미로도 많이 씁니다."
+      }
+    ],
+    "concept": "정해진 기준(한도/기대/수준)을 ‘넘어서는 것’.",
+    "etymology": "라틴어 excedere(밖으로 나가다, 넘어가다) 계열에서 온 단어로 알려져 있습니다.",
+    "semanticExtension": "원래 ‘경계를 넘다’ → 수치/규정 ‘초과’ → 성과가 기대를 ‘상회’하는 의미로 확장됩니다.",
+    "nuanceRegister": "중립~격식. 보고서/규정/시험 지문에서 매우 흔합니다.",
+    "grammarNotes": "타동사로 목적어를 직접 취합니다(exceed the limit). ‘exceed by + 수치’(…만큼 초과하다), ‘exceed expectations’(기대를 뛰어넘다) 패턴이 자주 출제됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "(수치상) ~만큼 초과하다",
+        "example": "exceed the limit by 10 percent"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "(특정 항목에서) ~을 능가하다/앞서다",
+        "example": "exceed competitors in efficiency"
+      }
+    ],
+    "requiredComplements": [
+      "exceed + 한도/수치/기준 (…을 초과하다)",
+      "exceed + expectations/standards (기대/기준을 뛰어넘다)",
+      "exceed + A by + 수치 (A를 ~만큼 초과하다)"
+    ],
+    "morphology": "ex-(밖으로) + ceed(가다) 계열 어근. proceed, succeed, recede와 같은 계열로 묶어 기억하면 좋습니다.",
+    "derivatives": [
+      {
+        "word": "excess",
+        "meaning_ko": "초과, 과잉"
+      },
+      {
+        "word": "excessive",
+        "meaning_ko": "과도한"
+      },
+      {
+        "word": "exceedingly",
+        "meaning_ko": "대단히(격식)"
+      },
+      {
+        "word": "exceedance",
+        "meaning_ko": "초과(특히 기준 초과, 기술/규정 문맥)"
+      }
+    ],
+    "related": [
+      {
+        "word": "limit",
+        "meaning_ko": "한도"
+      },
+      {
+        "word": "threshold",
+        "meaning_ko": "기준선, 임계값"
+      },
+      {
+        "word": "surpass",
+        "meaning_ko": "능가하다"
+      },
+      {
+        "word": "overrun",
+        "meaning_ko": "(예산/기간 등을) 초과하다"
+      },
+      {
+        "word": "outperform",
+        "meaning_ko": "성과로 앞서다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "surpass",
+        "meaning_ko": "능가하다"
+      },
+      {
+        "word": "outstrip",
+        "meaning_ko": "앞지르다, 능가하다"
+      },
+      {
+        "word": "go beyond",
+        "meaning_ko": "~을 넘어서다"
+      },
+      {
+        "word": "overstep",
+        "meaning_ko": "(권한/한도를) 넘어서다"
+      },
+      {
+        "word": "outdo",
+        "meaning_ko": "더 잘하다, 능가하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "overtake",
+        "meaning_ko": "추월하다(경쟁/이동)"
+      },
+      {
+        "word": "overwhelm",
+        "meaning_ko": "압도하다(규모/감정)"
+      },
+      {
+        "word": "extend",
+        "meaning_ko": "연장하다(초과와 다름)"
+      },
+      {
+        "word": "increase",
+        "meaning_ko": "증가하다(초과의 결과일 수 있음)"
+      },
+      {
+        "word": "top",
+        "meaning_ko": "능가하다(구어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fall short of",
+        "meaning_ko": "~에 못 미치다"
+      },
+      {
+        "word": "stay within",
+        "meaning_ko": "~범위 내에 머물다"
+      },
+      {
+        "word": "meet",
+        "meaning_ko": "충족하다(넘지 않음)"
+      },
+      {
+        "word": "comply with",
+        "meaning_ko": "준수하다"
+      },
+      {
+        "word": "underperform",
+        "meaning_ko": "성과가 기대에 못 미치다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "exceed the limit",
+            "meaning_ko": "한도를 초과하다"
+          },
+          {
+            "phrase": "exceed expectations",
+            "meaning_ko": "기대를 뛰어넘다"
+          },
+          {
+            "phrase": "exceed the budget",
+            "meaning_ko": "예산을 초과하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "exceed the speed limit",
+            "meaning_ko": "제한속도를 넘다"
+          },
+          {
+            "phrase": "exceed capacity",
+            "meaning_ko": "수용 능력을 초과하다"
+          },
+          {
+            "phrase": "exceed the permissible level",
+            "meaning_ko": "허용 기준치를 초과하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "exceed the statutory maximum",
+            "meaning_ko": "법정 최고치를 초과하다"
+          },
+          {
+            "phrase": "exceed projections by a wide margin",
+            "meaning_ko": "전망치를 큰 폭으로 상회하다"
+          },
+          {
+            "phrase": "exceed authorized limits of discretion",
+            "meaning_ko": "재량권의 승인 한도를 넘어서다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Do not exceed the limit.",
+            "meaning_ko": "한도를 초과하지 마세요."
+          },
+          {
+            "sentence": "Sales exceeded our expectations.",
+            "meaning_ko": "매출이 우리의 기대를 뛰어넘었다."
+          },
+          {
+            "sentence": "The box exceeds the weight limit.",
+            "meaning_ko": "그 상자는 무게 제한을 초과한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The temperature exceeded 40°C for three days in a row.",
+            "meaning_ko": "기온이 사흘 연속 40도를 넘었다."
+          },
+          {
+            "sentence": "Costs exceeded the budget by 12 percent.",
+            "meaning_ko": "비용이 예산을 12% 초과했다."
+          },
+          {
+            "sentence": "The number of applicants exceeded capacity, so a lottery was held.",
+            "meaning_ko": "지원자 수가 수용 인원을 초과해 추첨을 진행했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "If emissions exceed the permissible threshold, the facility must halt operations until corrective measures are verified.",
+            "meaning_ko": "배출량이 허용 임계값을 넘으면, 시정 조치가 확인될 때까지 시설은 운영을 중단해야 한다."
+          },
+          {
+            "sentence": "The new model exceeded projections by a wide margin, prompting the company to revise its guidance.",
+            "meaning_ko": "신모델 성과가 전망치를 큰 폭으로 상회해, 회사가 가이던스를 수정하게 됐다."
+          },
+          {
+            "sentence": "A policy that allows agencies to exceed their discretion invites legal challenge and public backlash.",
+            "meaning_ko": "기관이 재량권을 넘어설 수 있게 하는 정책은 법적 다툼과 여론 반발을 부른다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "exceed는 ‘초과/능가’로, 목적어를 바로 받는 타동사입니다(exceed the limit). 시험에서는 exceed by + 수치(…만큼 초과)와 exceed expectations(기대를 상회) 조합이 자주 나옵니다. over(전치사)와 달리 동사 자체에 ‘넘다’ 의미가 들어 있으니 문장 구조를 깔끔히 잡는 게 핵심입니다.",
+    "tags": [
+      "수치·기준",
+      "규정/보고서",
+      "성과"
+    ],
+    "frequency": "상",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Do not ______ the limit.",
+            "a": "exceed",
+            "meaning_ko": "exceed the limit(한도를 초과하다) 기본 결합입니다."
+          },
+          {
+            "q": "Choose the best meaning: 'Sales exceeded expectations.'",
+            "a": "They were higher than expected.",
+            "meaning_ko": "기대를 상회했다는 뜻입니다."
+          },
+          {
+            "q": "True/False: 'exceed' can mean 'be greater than a limit'.",
+            "a": "True",
+            "meaning_ko": "기본 의미가 ‘초과하다’입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: Costs exceeded the budget ___ 10 percent.",
+            "a": "by",
+            "meaning_ko": "exceed A by + 수치 구조입니다."
+          },
+          {
+            "q": "Which is more natural? (A) exceed of the limit (B) exceed the limit",
+            "a": "exceed the limit",
+            "meaning_ko": "exceed는 타동사라 전치사 없이 목적어를 바로 받습니다."
+          },
+          {
+            "q": "Choose the closest synonym: exceed (in performance)",
+            "a": "surpass",
+            "meaning_ko": "surpass는 ‘능가하다’로 의미가 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'exceed' (keep meaning): 'The figure was more than the permitted level.'",
+            "a": "The figure exceeded the permitted level.",
+            "meaning_ko": "more than을 exceed로 바꾸면 문장이 간결해집니다."
+          },
+          {
+            "q": "Choose the best completion: 'The proposal would allow agencies to exceed their ____.'",
+            "a": "discretion",
+            "meaning_ko": "exceed discretion(재량을 넘다)처럼 법/정책 문맥에서 출제됩니다."
+          },
+          {
+            "q": "Fill in the blank: 'exceed projections ___ a wide margin' (choose the missing phrase)",
+            "a": "by",
+            "meaning_ko": "projections를 ‘얼마나 상회했는지’ 수치/폭을 by로 붙이는 게 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "amenable",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Willing to accept suggestions or to be influenced; cooperative.",
+        "definition_ko": "순순히 따를(받아들일) 마음이 있는, 협조적인.",
+        "note": "협상/조정에서 ‘말이 통하고 유연한’ 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "Suitable for or responsive to a particular treatment, condition, or approach.",
+        "definition_ko": "~에 적합한, ~에 잘 반응하는(치료/조치/설명 등).",
+        "note": "be amenable to treatment/analysis처럼 학술·의학·행정 문맥에서도 자주 씁니다."
+      }
+    ],
+    "concept": "어떤 제안/조치에 ‘잘 응하고 수용 가능한’ 상태.",
+    "etymology": "라틴어로 ‘이끌다/관리하다’ 계열에서 ‘(권위/규율에) 복종 가능한’ 의미로 발전한 것으로 알려져 있습니다(단순화).",
+    "semanticExtension": "원래 ‘통제/권위에 따를 수 있는’ → 일반적으로 ‘제안에 협조적’ → ‘치료/분석 등 특정 접근에 잘 반응’ 의미로 확장됩니다.",
+    "nuanceRegister": "격식(비즈니스/협상/보고서)에서 특히 자연스럽습니다. 구어에선 cooperative, open to가 더 흔합니다.",
+    "grammarNotes": "가장 중요 패턴: be amenable to + 명사/동명사(…에 응할/수용할). ‘amenable person’보단 ‘be amenable’ 형태가 훨씬 자연스럽습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 순응/협조/반응하다",
+        "example": "be amenable to compromise"
+      }
+    ],
+    "requiredComplements": [
+      "be amenable to + 명사/동명사 (…에 협조적/응할 마음이 있다)",
+      "be amenable to + treatment/analysis/regulation (…에 잘 반응/적합하다)"
+    ],
+    "morphology": "amenable(형용사). 어근 분석을 억지로 하기보단 ‘to와 함께 쓰는 형용사’로 덩어리 암기하는 편이 실전적입니다.",
+    "derivatives": [
+      {
+        "word": "amenability",
+        "meaning_ko": "순응성, 수용 가능성"
+      },
+      {
+        "word": "amenably",
+        "meaning_ko": "순응적으로(드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "cooperative",
+        "meaning_ko": "협조적인"
+      },
+      {
+        "word": "compliant",
+        "meaning_ko": "규정을 잘 따르는"
+      },
+      {
+        "word": "receptive",
+        "meaning_ko": "수용적인"
+      },
+      {
+        "word": "flexible",
+        "meaning_ko": "유연한"
+      },
+      {
+        "word": "tractable",
+        "meaning_ko": "다루기 쉬운, 통제 가능한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "receptive",
+        "meaning_ko": "수용적인"
+      },
+      {
+        "word": "open to",
+        "meaning_ko": "~에 열려 있는"
+      },
+      {
+        "word": "cooperative",
+        "meaning_ko": "협조적인"
+      },
+      {
+        "word": "agreeable",
+        "meaning_ko": "동의하기 쉬운"
+      },
+      {
+        "word": "compliant",
+        "meaning_ko": "순응하는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "willing",
+        "meaning_ko": "기꺼이 하는(일반)"
+      },
+      {
+        "word": "manageable",
+        "meaning_ko": "다루기 쉬운(대상/문제)"
+      },
+      {
+        "word": "accommodating",
+        "meaning_ko": "배려하는, 맞춰주는"
+      },
+      {
+        "word": "malleable",
+        "meaning_ko": "잘 변형되는(비유)"
+      },
+      {
+        "word": "docile",
+        "meaning_ko": "유순한(사람/동물, 뉘앙스 다름)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unyielding",
+        "meaning_ko": "완고한"
+      },
+      {
+        "word": "uncooperative",
+        "meaning_ko": "비협조적인"
+      },
+      {
+        "word": "resistant",
+        "meaning_ko": "저항하는(치료/변화에)"
+      },
+      {
+        "word": "intransigent",
+        "meaning_ko": "타협 불가능한(격식)"
+      },
+      {
+        "word": "hostile",
+        "meaning_ko": "적대적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "be amenable to the idea",
+            "meaning_ko": "그 생각을 받아들일 마음이 있다"
+          },
+          {
+            "phrase": "be amenable to change",
+            "meaning_ko": "변화를 수용할 마음이 있다"
+          },
+          {
+            "phrase": "be amenable to compromise",
+            "meaning_ko": "타협에 응할 마음이 있다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "amenable to negotiation",
+            "meaning_ko": "협상에 응할 수 있는"
+          },
+          {
+            "phrase": "amenable to treatment",
+            "meaning_ko": "치료에 잘 반응하는"
+          },
+          {
+            "phrase": "amenable to regulation",
+            "meaning_ko": "규제 적용이 가능한/규제를 따를 수 있는"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "remain amenable to a mutually beneficial settlement",
+            "meaning_ko": "상호 이익의 합의에 계속 열려 있다"
+          },
+          {
+            "phrase": "not readily amenable to quantitative analysis",
+            "meaning_ko": "정량 분석에 쉽게 맞지 않는"
+          },
+          {
+            "phrase": "amenable to judicial review",
+            "meaning_ko": "사법 심사의 대상이 되는/될 수 있는"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She is amenable to the idea.",
+            "meaning_ko": "그녀는 그 생각을 받아들일 마음이 있다."
+          },
+          {
+            "sentence": "He wasn't amenable to change.",
+            "meaning_ko": "그는 변화를 받아들이려 하지 않았다."
+          },
+          {
+            "sentence": "They seem amenable to compromise.",
+            "meaning_ko": "그들은 타협에 응할 듯하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The client is amenable to meeting next week if we adjust the agenda.",
+            "meaning_ko": "의제를 조정하면 고객은 다음 주 미팅에 응할 의사가 있다."
+          },
+          {
+            "sentence": "The condition is amenable to treatment when detected early.",
+            "meaning_ko": "이 질환은 조기에 발견되면 치료에 잘 반응한다."
+          },
+          {
+            "sentence": "Management became amenable to negotiation after the second round of talks.",
+            "meaning_ko": "경영진은 2차 협상 이후 협상에 응할 태도로 바뀌었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Because the dispute was amenable to a structured mediation process, both sides agreed to pause litigation.",
+            "meaning_ko": "분쟁이 구조화된 조정 절차에 적합했기 때문에, 양측은 소송을 잠시 중단하기로 했다."
+          },
+          {
+            "sentence": "Some aspects of creativity are not readily amenable to quantitative analysis, so the rubric must be explicit.",
+            "meaning_ko": "창의성의 일부는 정량 분석에 쉽게 맞지 않으므로, 평가 기준을 명확히 해야 한다."
+          },
+          {
+            "sentence": "The agency argued that its decision was not amenable to judicial review, but the court disagreed.",
+            "meaning_ko": "기관은 자사의 결정이 사법 심사의 대상이 아니라고 주장했지만, 법원은 동의하지 않았다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "amenable은 거의 항상 to와 함께 움직이는 형용사입니다(be amenable to ~). ‘협조적’(사람의 태도)과 ‘~에 잘 반응/적합’(치료/분석/규제) 두 축으로 나뉘니 예문을 두 갈래로 외우면 기억이 안정됩니다. 시험에서는 ‘amenable for’ 같은 전치사 오답을 조심하세요.",
+    "tags": [
+      "협상",
+      "태도(수용적)",
+      "격식 표현",
+      "치료/분석 반응"
+    ],
+    "frequency": "중",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: She is amenable ___ the idea.",
+            "a": "to",
+            "meaning_ko": "be amenable to가 정형 패턴입니다."
+          },
+          {
+            "q": "Choose the best meaning: 'They are amenable to compromise.'",
+            "a": "They are willing to compromise.",
+            "meaning_ko": "타협을 받아들일 의사가 있다는 뜻입니다."
+          },
+          {
+            "q": "True/False: 'amenable' often appears in formal or business contexts.",
+            "a": "True",
+            "meaning_ko": "협상/보고서 문맥에서 흔합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which is most natural? (A) amenable for change (B) amenable to change",
+            "a": "amenable to change",
+            "meaning_ko": "전치사는 to가 정답입니다."
+          },
+          {
+            "q": "Fill in the blank: The condition is amenable to ______ when detected early.",
+            "a": "treatment",
+            "meaning_ko": "amenable to treatment(치료에 잘 반응) 결합이 매우 흔합니다."
+          },
+          {
+            "q": "Choose the antonym: amenable",
+            "a": "unyielding",
+            "meaning_ko": "완고한/타협 불가가 반대 개념입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'amenable' (keep meaning): 'The issue can be handled through mediation.'",
+            "a": "The issue is amenable to mediation.",
+            "meaning_ko": "amenable to + 명사로 ‘…에 적합/가능’ 의미를 표현합니다."
+          },
+          {
+            "q": "Choose the best completion: 'Some phenomena are not readily amenable to ____ analysis.'",
+            "a": "quantitative",
+            "meaning_ko": "정량 분석(quantitative analysis)과 자주 묶입니다."
+          },
+          {
+            "q": "Fill in the blank: 'amenable to judicial review' most nearly means 'able to be ____.'",
+            "a": "reviewed by a court",
+            "meaning_ko": "사법 심사의 대상(법원이 검토 가능)이라는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nihilism",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The belief that life lacks objective meaning, purpose, or intrinsic value.",
+        "definition_ko": "(인생·세계에) 객관적 의미나 목적, 본질적 가치가 없다는 사상(허무주의).",
+        "note": "철학/문학/사회비평에서 ‘의미·가치의 부정’으로 핵심을 잡습니다."
+      },
+      {
+        "definition_en": "A radical skepticism that rejects established moral, religious, or political principles.",
+        "definition_ko": "기존 도덕·종교·정치 원리를 부정하는 급진적 회의/부정.",
+        "note": "특정 사조(역사적 ‘니힐리스트’)나 태도(모든 규범 부정)로도 쓰입니다."
+      }
+    ],
+    "concept": "가치·의미·규범을 ‘근본적으로 부정’하는 허무주의적 관점.",
+    "etymology": "라틴어 nihil(‘아무것도 없음’)에서 파생된 것으로 알려져 있습니다.",
+    "semanticExtension": "철학적 ‘의미/가치 부정’ → 사회/정치적 ‘기존 원리 부정’ → 일상에서는 ‘아무것도 믿지 않는 냉소적 태도’로 느슨하게 확장되기도 합니다.",
+    "nuanceRegister": "학술·문어 성격이 강하며, 일상에서는 과장/비유로도 쓰일 수 있습니다.",
+    "grammarNotes": "보통 불가산명사로 취급됩니다(nihilism in modern culture). ‘a nihilism’은 드물고, ‘a strain of nihilism’처럼 덩어리로 세는 표현이 자연스럽습니다. 형용사 nihilistic도 중요합니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 허무주의/가치 부정",
+        "example": "nihilism in modern literature"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대한 냉소/무의미감(느슨한 용법)",
+        "example": "nihilism about politics"
+      }
+    ],
+    "requiredComplements": [
+      "nihilism in + 분야/맥락 (…에서 나타나는 허무주의)",
+      "nihilism about + 주제 (…에 대한 허무·냉소(비유적))",
+      "a strain/form of nihilism (허무주의의 한 형태)"
+    ],
+    "morphology": "nihil(아무것도 없음) + -ism(사상/주의). nihilistic(형용사)까지 함께 묶어 암기하면 좋습니다.",
+    "derivatives": [
+      {
+        "word": "nihilist",
+        "meaning_ko": "허무주의자"
+      },
+      {
+        "word": "nihilistic",
+        "meaning_ko": "허무주의적인"
+      },
+      {
+        "word": "nihilistically",
+        "meaning_ko": "허무주의적으로(드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "skepticism",
+        "meaning_ko": "회의주의"
+      },
+      {
+        "word": "cynicism",
+        "meaning_ko": "냉소주의"
+      },
+      {
+        "word": "existentialism",
+        "meaning_ko": "실존주의"
+      },
+      {
+        "word": "absurdism",
+        "meaning_ko": "부조리주의"
+      },
+      {
+        "word": "relativism",
+        "meaning_ko": "상대주의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "value-negation",
+        "meaning_ko": "가치 부정(설명적)"
+      },
+      {
+        "word": "radical skepticism",
+        "meaning_ko": "급진적 회의(맥락 따라)"
+      },
+      {
+        "word": "pessimistic worldview",
+        "meaning_ko": "비관적 세계관(가까움)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "cynicism",
+        "meaning_ko": "냉소주의(동기/선의 불신)"
+      },
+      {
+        "word": "fatalism",
+        "meaning_ko": "숙명론(운명 강조, 의미부정과 다름)"
+      },
+      {
+        "word": "anomie",
+        "meaning_ko": "아노미(규범 붕괴 상태)"
+      },
+      {
+        "word": "disillusionment",
+        "meaning_ko": "환멸(경험적 감정)"
+      },
+      {
+        "word": "apathy",
+        "meaning_ko": "무관심(감정/태도)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "faith",
+        "meaning_ko": "신념, 믿음"
+      },
+      {
+        "word": "meaningfulness",
+        "meaning_ko": "의미 있음"
+      },
+      {
+        "word": "idealism",
+        "meaning_ko": "이상주의"
+      },
+      {
+        "word": "moral conviction",
+        "meaning_ko": "도덕적 확신"
+      },
+      {
+        "word": "hope",
+        "meaning_ko": "희망"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "moral nihilism",
+            "meaning_ko": "도덕적 허무주의(도덕의 객관성 부정)"
+          },
+          {
+            "phrase": "political nihilism",
+            "meaning_ko": "정치적 허무주의/부정"
+          },
+          {
+            "phrase": "a sense of nihilism",
+            "meaning_ko": "허무감/허무주의적 기류"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "descend into nihilism",
+            "meaning_ko": "허무주의로 빠져들다"
+          },
+          {
+            "phrase": "combat nihilism",
+            "meaning_ko": "허무주의에 맞서다"
+          },
+          {
+            "phrase": "nihilism in modern culture",
+            "meaning_ko": "현대 문화에서의 허무주의"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a coherent response to nihilism",
+            "meaning_ko": "허무주의에 대한 정합적 대응"
+          },
+          {
+            "phrase": "the specter of nihilism",
+            "meaning_ko": "허무주의의 유령(위협) (문어)"
+          },
+          {
+            "phrase": "slide from skepticism into nihilism",
+            "meaning_ko": "회의에서 허무주의로 미끄러지다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He fell into nihilism after the loss.",
+            "meaning_ko": "그는 상실 이후 허무주의에 빠졌다."
+          },
+          {
+            "sentence": "The novel explores nihilism and hope.",
+            "meaning_ko": "그 소설은 허무주의와 희망을 탐구한다."
+          },
+          {
+            "sentence": "Some people confuse cynicism with nihilism.",
+            "meaning_ko": "어떤 사람들은 냉소주의와 허무주의를 혼동한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Moral nihilism rejects the idea that right and wrong are objectively true.",
+            "meaning_ko": "도덕적 허무주의는 옳고 그름이 객관적으로 참이라는 생각을 부정한다."
+          },
+          {
+            "sentence": "After repeated failures, she began to speak with a quiet nihilism about politics.",
+            "meaning_ko": "거듭된 실패 뒤, 그녀는 정치에 대해 조용한 허무감을 담아 말하기 시작했다."
+          },
+          {
+            "sentence": "The essay argues that consumerism can mask a deeper cultural nihilism.",
+            "meaning_ko": "그 에세이는 소비주의가 더 깊은 문화적 허무주의를 가릴 수 있다고 주장한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A society that cannot articulate shared values risks sliding from skepticism into nihilism.",
+            "meaning_ko": "공유 가치를 말로 설명하지 못하는 사회는 회의에서 허무주의로 미끄러질 위험이 있다."
+          },
+          {
+            "sentence": "Rather than surrender to nihilism, the philosopher seeks a coherent account of meaning grounded in human practice.",
+            "meaning_ko": "철학자는 허무주의에 굴복하기보다, 인간의 실천에 근거한 의미의 정합적 설명을 찾는다."
+          },
+          {
+            "sentence": "The specter of nihilism haunts the narrative, but the characters keep choosing responsibility over despair.",
+            "meaning_ko": "허무주의의 그림자가 서사를 맴돌지만, 인물들은 절망 대신 책임을 선택한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "nihilism은 ‘nihil=아무것도 없음’에서 출발해 ‘의미/가치/규범 부정’으로 갑니다. cynicism(냉소: 타인의 동기 불신)과 헷갈리기 쉬우니, nihilism은 더 근본적(가치 자체를 부정)이라는 축으로 구분해 두세요. 함께 외울 파생형은 nihilistic(허무주의적인)입니다.",
+    "tags": [
+      "철학",
+      "문학·비평",
+      "가치/의미",
+      "사회"
+    ],
+    "frequency": "중",
+    "difficulty": "8",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best definition of 'nihilism'.",
+            "a": "the belief that life lacks objective meaning or value",
+            "meaning_ko": "핵심은 의미/가치의 부정입니다."
+          },
+          {
+            "q": "True/False: Nihilism comes from a root meaning 'nothing'.",
+            "a": "True",
+            "meaning_ko": "nihil=‘아무것도 없음’에서 왔습니다."
+          },
+          {
+            "q": "Fill in the blank: Moral ______ rejects objective right and wrong.",
+            "a": "nihilism",
+            "meaning_ko": "moral nihilism(도덕적 허무주의) 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which is closer to nihilism? (A) hope (B) radical skepticism that rejects values",
+            "a": "radical skepticism that rejects values",
+            "meaning_ko": "가치/의미 부정의 방향이 핵심입니다."
+          },
+          {
+            "q": "Choose the best pair to remember: nihilism ↔ ______",
+            "a": "nihilistic",
+            "meaning_ko": "파생 형용사 nihilistic을 함께 외우는 게 효율적입니다."
+          },
+          {
+            "q": "Choose the correct usage: (A) nihilism to politics (B) nihilism about politics",
+            "a": "nihilism about politics",
+            "meaning_ko": "about은 주제에 대한 ‘허무/냉소’의 느슨한 용법으로 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'nihilism' (keep meaning): 'He felt that nothing mattered anymore.'",
+            "a": "He sank into nihilism, feeling that nothing mattered anymore.",
+            "meaning_ko": "‘아무것도 중요하지 않다’ 감각을 nihilism으로 압축합니다."
+          },
+          {
+            "q": "Choose the best completion: 'a coherent response to ______'",
+            "a": "nihilism",
+            "meaning_ko": "학술/비평 문맥에서 매우 자연스러운 결합입니다."
+          },
+          {
+            "q": "Distinguish the terms: Nihilism is more about denying ______ than doubting people's motives.",
+            "a": "meaning and value",
+            "meaning_ko": "cynicism은 동기 불신, nihilism은 의미/가치 부정이 핵심입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

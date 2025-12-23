@@ -1,0 +1,832 @@
+[
+  {
+    "word": "tacit",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Understood or implied without being stated directly; unspoken but recognized.",
+        "definition_ko": "암묵적인, 말로 하지 않아도 이해되는.",
+        "note": "‘말하지 않았지만 모두가 아는/동의한’ 뉘앙스가 핵심입니다."
+      }
+    ],
+    "concept": "말로 명시하지 않았지만, 상황상 ‘그렇게 하기로’ 공유된 이해/동의.",
+    "etymology": "라틴어 tacitus(침묵한, 말이 없는)에서 유래했으며, ‘말하지 않은’ 의미가 ‘암묵적’으로 굳어졌습니다.",
+    "semanticExtension": "tacit agreement처럼 ‘합의/동의’에 많이 붙고, tacit assumption(암묵적 전제)처럼 논리·정책·연구의 ‘숨은 가정’으로도 확장됩니다.",
+    "nuanceRegister": "격식/문어. 계약·정책·학술·기사에서 매우 흔합니다.",
+    "grammarNotes": "대개 명사 앞에서 수식(tacit approval). ‘tacitly’는 드물고, 보통 tacit 자체로 표현합니다. 비교급/최상급은 거의 쓰지 않습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "tacit agreement/approval/consent — ‘암묵적 합의/승인/동의’",
+      "tacit assumption/understanding — ‘암묵적 전제/이해’"
+    ],
+    "morphology": "라틴계 어근 tac-(침묵)에서 파생된 형용사로, ‘말하지 않음’ → ‘암묵적’ 연결로 기억하면 좋습니다.",
+    "derivatives": [
+      {
+        "word": "tacitly",
+        "meaning_ko": "암묵적으로(드물게 사용)"
+      },
+      {
+        "word": "taciturn",
+        "meaning_ko": "말수가 적은, 과묵한"
+      }
+    ],
+    "related": [
+      {
+        "word": "implicit",
+        "meaning_ko": "암시된, 내포된"
+      },
+      {
+        "word": "unspoken",
+        "meaning_ko": "말로 하지 않은"
+      },
+      {
+        "word": "assumption",
+        "meaning_ko": "전제, 가정"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "implicit",
+        "meaning_ko": "암묵적인, 내포된"
+      },
+      {
+        "word": "unstated",
+        "meaning_ko": "명시되지 않은"
+      },
+      {
+        "word": "unspoken",
+        "meaning_ko": "말로 하지 않은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "inferred",
+        "meaning_ko": "추론된(근거로부터)"
+      },
+      {
+        "word": "assumed",
+        "meaning_ko": "가정된(전제)"
+      },
+      {
+        "word": "understood",
+        "meaning_ko": "이해된(공유된 인식)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "explicit",
+        "meaning_ko": "명시적인"
+      },
+      {
+        "word": "stated",
+        "meaning_ko": "언급된"
+      },
+      {
+        "word": "express",
+        "meaning_ko": "명백한, 분명히 표현된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "tacit agreement",
+            "meaning_ko": "암묵적 합의"
+          },
+          {
+            "phrase": "tacit approval",
+            "meaning_ko": "암묵적 승인"
+          },
+          {
+            "phrase": "tacit consent",
+            "meaning_ko": "암묵적 동의"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "tacit understanding",
+            "meaning_ko": "암묵적 이해(서로 말 안 해도 아는 관계)"
+          },
+          {
+            "phrase": "tacit assumption",
+            "meaning_ko": "암묵적 전제"
+          },
+          {
+            "phrase": "with tacit support",
+            "meaning_ko": "암묵적 지지를 받으며"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "tacitly acknowledge",
+            "meaning_ko": "암묵적으로 인정하다"
+          },
+          {
+            "phrase": "rest on tacit premises",
+            "meaning_ko": "암묵적 전제에 기반하다"
+          },
+          {
+            "phrase": "secure tacit cooperation",
+            "meaning_ko": "암묵적 협조를 확보하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "There was a tacit agreement to keep it secret.",
+            "meaning_ko": "그것을 비밀로 하자는 암묵적 합의가 있었습니다."
+          },
+          {
+            "sentence": "He gave tacit approval.",
+            "meaning_ko": "그는 말없이(암묵적으로) 승인했습니다."
+          },
+          {
+            "sentence": "They acted with tacit consent.",
+            "meaning_ko": "그들은 암묵적 동의 하에 행동했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The team operated under a tacit understanding of priorities.",
+            "meaning_ko": "팀은 우선순위에 대한 암묵적 이해 아래 움직였습니다."
+          },
+          {
+            "sentence": "The argument relies on a tacit assumption that costs will stay flat.",
+            "meaning_ko": "그 논증은 비용이 변하지 않을 것이라는 암묵적 전제에 의존합니다."
+          },
+          {
+            "sentence": "The policy changed with the tacit support of senior officials.",
+            "meaning_ko": "그 정책은 고위 관계자들의 암묵적 지지 속에 바뀌었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The framework rests on tacit premises that should be tested, not taken for granted.",
+            "meaning_ko": "그 틀은 당연시할 게 아니라 검증되어야 할 암묵적 전제들 위에 서 있습니다."
+          },
+          {
+            "sentence": "By staying silent, she tacitly acknowledged the flaw in her earlier claim.",
+            "meaning_ko": "침묵함으로써 그녀는 앞선 주장에 결함이 있음을 암묵적으로 인정했습니다."
+          },
+          {
+            "sentence": "They secured tacit cooperation from rivals by avoiding public confrontation.",
+            "meaning_ko": "그들은 공개적 충돌을 피함으로써 경쟁자들의 암묵적 협조를 확보했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "tacit은 explicit(명시적)과 자주 세트로 나옵니다. tacit agreement/approval/consent처럼 ‘동의/승인’과 결합이 매우 강한 편이라, 이 묶음을 통째로 외우면 점수가 빨리 납니다. ‘말하지 않았다’(silent)와 ‘그러나 인정/동의가 있었다’(recognized)를 함께 떠올리시면 헷갈리지 않습니다.",
+    "tags": [
+      "합의",
+      "전제",
+      "암묵",
+      "격식",
+      "정책/학술"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: They reached a ____ agreement without discussing it.",
+            "a": "tacit",
+            "meaning_ko": "말로 하지 않았지만 합의가 성립 → tacit."
+          },
+          {
+            "q": "Opposite of tacit:",
+            "a": "explicit",
+            "meaning_ko": "tacit ↔ explicit이 대표 대립입니다."
+          },
+          {
+            "q": "Which collocation is common?",
+            "a": "tacit approval",
+            "meaning_ko": "tacit approval/consent/agreement가 매우 흔합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The plan rests on a tacit ____ that demand will grow.",
+            "a": "assumption",
+            "meaning_ko": "tacit assumption = 암묵적 전제."
+          },
+          {
+            "q": "Error check: 'He tacitly agreemented.' (Correct it.)",
+            "a": "He tacitly agreed.",
+            "meaning_ko": "동사는 agree, 명사는 agreement입니다."
+          },
+          {
+            "q": "Best paraphrase: tacit consent",
+            "a": "unspoken permission",
+            "meaning_ko": "말로는 안 했지만 허락/동의가 있는 상태입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best sentence for formal writing.",
+            "a": "The proposal depends on tacit premises that remain unexamined.",
+            "meaning_ko": "정책/학술 톤에서 매우 자연스럽습니다."
+          },
+          {
+            "q": "Fill in the blank: By remaining silent, she ____ acknowledged the error.",
+            "a": "tacitly",
+            "meaning_ko": "tacitly acknowledge = 암묵적으로 인정하다(다소 문어)."
+          },
+          {
+            "q": "Which interpretation fits tacit approval best?",
+            "a": "approval implied by silence or lack of objection",
+            "meaning_ko": "반대/거부가 없다는 점에서 ‘암묵적 승인’으로 해석됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "settle",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To resolve or reach an agreement; to make a place one's permanent home; to become calm or come to rest.",
+        "definition_ko": "(문제·분쟁을) 해결하다/합의하다; (어딘가에) 정착하다; (가라앉아) 안정되다.",
+        "note": "의미 폭이 넓어 ‘합의/해결’과 ‘정착’, ‘진정/가라앉다’가 모두 시험 포인트입니다."
+      }
+    ],
+    "concept": "흔들리는 상태를 끝내고 ‘결론/안정’ 상태로 만들다(해결·정착·진정).",
+    "etymology": "고대 프랑스어/라틴계 어원(앉히다, 고정하다)에서 발전했으며, ‘자리 잡게 하다’가 ‘해결/정착/가라앉다’로 의미가 넓어졌습니다.",
+    "semanticExtension": "법률(분쟁 합의), 일상(값을 정산하다 settle the bill), 감정(마음을 진정시키다 settle down) 등 ‘정리·안정화’ 전반에 광범위하게 쓰입니다.",
+    "nuanceRegister": "중립. 일상·업무·법률 모두에서 흔합니다.",
+    "grammarNotes": "타동사/자동사 모두 가능합니다. settle a dispute/issue(타), settle in/settle down(자동/구동사), settle for(마지못해 ~로 만족하다), settle on/upon(결정하다), settle the bill/account(정산하다) 등 패턴이 풍부합니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 적응하며 자리 잡다",
+        "example": "settle in quickly"
+      },
+      {
+        "prep": "down",
+        "meaning_ko": "진정하다/정착하다(구동사)",
+        "example": "settle down after the meeting"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "마지못해 ~에 만족하다",
+        "example": "settle for second best"
+      }
+    ],
+    "requiredComplements": [
+      "settle + 명사(dispute/issue/case) — ‘분쟁/문제를 해결하다’",
+      "settle in — ‘(새 환경에) 자리 잡다/적응하다’",
+      "settle down — ‘진정하다; (결혼·생활로) 정착하다’",
+      "settle for + 명사 — ‘마지못해 ~로 만족하다’",
+      "settle on/upon + 선택지 — ‘~로 결정하다’"
+    ],
+    "morphology": "set(놓다) 계열 어근과 연관된 것으로 설명되며, ‘자리를 잡게 하다’라는 핵심 이미지로 의미들을 묶을 수 있습니다.",
+    "derivatives": [
+      {
+        "word": "settlement",
+        "meaning_ko": "정착; (분쟁) 합의; 정산"
+      },
+      {
+        "word": "settler",
+        "meaning_ko": "정착민"
+      },
+      {
+        "word": "settled",
+        "meaning_ko": "정착한; 해결된; 안정된"
+      }
+    ],
+    "related": [
+      {
+        "word": "resolve",
+        "meaning_ko": "해결하다"
+      },
+      {
+        "word": "negotiate",
+        "meaning_ko": "협상하다"
+      },
+      {
+        "word": "stabilize",
+        "meaning_ko": "안정시키다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "resolve",
+        "meaning_ko": "해결하다"
+      },
+      {
+        "word": "fix",
+        "meaning_ko": "해결하다(구어)"
+      },
+      {
+        "word": "establish",
+        "meaning_ko": "정착시키다/세우다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "calm",
+        "meaning_ko": "진정시키다"
+      },
+      {
+        "word": "adjust",
+        "meaning_ko": "적응하다/조정하다"
+      },
+      {
+        "word": "decide",
+        "meaning_ko": "결정하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unsettle",
+        "meaning_ko": "불안하게 하다; 혼란스럽게 하다"
+      },
+      {
+        "word": "escalate",
+        "meaning_ko": "악화시키다(분쟁)"
+      },
+      {
+        "word": "wander",
+        "meaning_ko": "정착하지 않고 떠돌다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "settle a problem",
+            "meaning_ko": "문제를 해결하다"
+          },
+          {
+            "phrase": "settle down",
+            "meaning_ko": "진정하다/정착하다"
+          },
+          {
+            "phrase": "settle the bill",
+            "meaning_ko": "계산하다(정산하다)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "settle a dispute",
+            "meaning_ko": "분쟁을 합의로 해결하다"
+          },
+          {
+            "phrase": "settle in quickly",
+            "meaning_ko": "빨리 적응하다"
+          },
+          {
+            "phrase": "settle for less",
+            "meaning_ko": "덜한 것에 마지못해 만족하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "reach a settlement",
+            "meaning_ko": "합의에 이르다"
+          },
+          {
+            "phrase": "settle on a strategy",
+            "meaning_ko": "전략을 확정하다"
+          },
+          {
+            "phrase": "settle the matter out of court",
+            "meaning_ko": "소송 없이(법정 밖에서) 문제를 해결하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Let’s settle this now.",
+            "meaning_ko": "이거 지금 해결하죠."
+          },
+          {
+            "sentence": "Please settle the bill.",
+            "meaning_ko": "계산 부탁드립니다."
+          },
+          {
+            "sentence": "He needs to settle down.",
+            "meaning_ko": "그는 좀 진정할 필요가 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They settled the dispute through negotiation.",
+            "meaning_ko": "그들은 협상을 통해 분쟁을 해결했습니다."
+          },
+          {
+            "sentence": "It took her a few weeks to settle in at the new job.",
+            "meaning_ko": "그녀가 새 직장에 적응하는 데 몇 주가 걸렸습니다."
+          },
+          {
+            "sentence": "I don’t want to settle for something I’ll regret later.",
+            "meaning_ko": "나중에 후회할 걸로 마지못해 만족하고 싶진 않습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The parties reached a settlement to avoid a prolonged trial.",
+            "meaning_ko": "당사자들은 장기 재판을 피하기 위해 합의에 도달했습니다."
+          },
+          {
+            "sentence": "After reviewing the data, they settled on a strategy with measurable milestones.",
+            "meaning_ko": "데이터를 검토한 뒤 그들은 측정 가능한 이정표가 있는 전략으로 확정했습니다."
+          },
+          {
+            "sentence": "The matter was settled out of court, but the terms remained confidential.",
+            "meaning_ko": "그 사안은 소송 없이 해결됐지만 조건은 비공개로 남았습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "settle은 ‘안정/정리’ 이미지 하나로 의미들을 묶으면 기억이 쉬워집니다: (1) 분쟁을 settle(해결) (2) 어딘가에 settle(정착) (3) 마음/상황이 settle(가라앉다). 시험에서는 settle for(마지못해 만족)와 settle on(결정)까지 함께 묶어 출제되는 경우가 많습니다.",
+    "tags": [
+      "해결",
+      "정착",
+      "합의",
+      "구동사",
+      "법/일상"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Please ____ the bill.",
+            "a": "settle",
+            "meaning_ko": "settle the bill = 계산하다/정산하다."
+          },
+          {
+            "q": "Choose the best meaning: He finally settled in the city.",
+            "a": "became established and lived there permanently",
+            "meaning_ko": "settle = (어딘가에) 정착하다."
+          },
+          {
+            "q": "Which phrase means 'calm down'?",
+            "a": "settle down",
+            "meaning_ko": "settle down은 ‘진정하다’ 의미가 매우 흔합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: Don’t settle ____ less.",
+            "a": "for",
+            "meaning_ko": "settle for = 마지못해 ~로 만족하다."
+          },
+          {
+            "q": "Fill in the blank: They settled ____ a new plan after two meetings.",
+            "a": "on",
+            "meaning_ko": "settle on = ~로 결정하다."
+          },
+          {
+            "q": "Error check: 'They settled about the strategy.' (Correct it.)",
+            "a": "They settled on the strategy.",
+            "meaning_ko": "‘결정’ 의미는 settle on/upon이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: The case was settled out of court.",
+            "a": "The dispute was resolved privately without going to trial.",
+            "meaning_ko": "out of court = 법정 밖에서(소송 없이)입니다."
+          },
+          {
+            "q": "Choose the most precise collocation for legal context.",
+            "a": "reach a settlement",
+            "meaning_ko": "법률 문맥에서 합의에 이르다 = reach a settlement."
+          },
+          {
+            "q": "Which sentence best captures 'settle for'?",
+            "a": "He settled for a cheaper option even though he wanted the premium one.",
+            "meaning_ko": "원하는 것보다 낮은 선택을 ‘마지못해’ 택하는 뉘앙스입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "macabre",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Disturbing because it deals with death, horror, or the gruesome in an unusual or unsettling way.",
+        "definition_ko": "으스스하고 섬뜩한(죽음·공포·잔혹함을 다뤄 불쾌하게 소름 끼치는).",
+        "note": "단순 ‘무섭다’가 아니라 ‘죽음/시체/잔혹’ 같은 소재가 주는 섬뜩함이 핵심입니다."
+      }
+    ],
+    "concept": "죽음·잔혹함을 비정상적으로 선명하게 다뤄 ‘섬뜩하게’ 느껴지는 분위기/표현.",
+    "etymology": "중세 프랑스어 표현(죽음의 춤 ‘Danse Macabre’)과 연관된 어원으로 알려져 있으며, 죽음·해골 이미지의 전통에서 ‘섬뜩한’ 의미가 굳어졌습니다.",
+    "semanticExtension": "문학·영화·예술에서 ‘macabre humor’(블랙코미디 같은 섬뜩한 유머), ‘macabre fascination’처럼 ‘죽음에 대한 병적인 흥미’로 확장됩니다.",
+    "nuanceRegister": "문어/문학적. 리뷰·비평·서사 묘사에서 자주 등장합니다.",
+    "grammarNotes": "형용사로 macabre scene/story/twist/humor 같은 명사를 수식합니다. 비교급/최상급은 드물며, 보통 ‘quite/strangely macabre’처럼 정도부사와 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "외래어계 형용사로 형태 분석보다는 ‘죽음/섬뜩’ 이미지로 통째로 기억하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "macabrely",
+        "meaning_ko": "섬뜩하게(드물게 사용)"
+      },
+      {
+        "word": "macabreness",
+        "meaning_ko": "섬뜩함(드문 명사형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "morbid",
+        "meaning_ko": "병적으로 죽음에 집착하는; 음산한"
+      },
+      {
+        "word": "ghastly",
+        "meaning_ko": "끔찍한, 섬뜩한"
+      },
+      {
+        "word": "gruesome",
+        "meaning_ko": "소름 끼치게 끔찍한(피/시체)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "morbid",
+        "meaning_ko": "음산한; 죽음에 병적으로 관련된"
+      },
+      {
+        "word": "gruesome",
+        "meaning_ko": "끔찍한, 소름 끼치는"
+      },
+      {
+        "word": "ghoulish",
+        "meaning_ko": "시체를 좋아하는 듯한; 섬뜩한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "creepy",
+        "meaning_ko": "오싹한(구어, 범용)"
+      },
+      {
+        "word": "eerie",
+        "meaning_ko": "으스스한"
+      },
+      {
+        "word": "sinister",
+        "meaning_ko": "불길한, 음흉한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cheerful",
+        "meaning_ko": "명랑한"
+      },
+      {
+        "word": "wholesome",
+        "meaning_ko": "건전한, 건강한"
+      },
+      {
+        "word": "uplifting",
+        "meaning_ko": "고무적인, 희망적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a macabre story",
+            "meaning_ko": "섬뜩한 이야기"
+          },
+          {
+            "phrase": "a macabre scene",
+            "meaning_ko": "섬뜩한 장면"
+          },
+          {
+            "phrase": "macabre details",
+            "meaning_ko": "섬뜩한(잔혹한) 세부"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a macabre twist",
+            "meaning_ko": "섬뜩한 반전"
+          },
+          {
+            "phrase": "macabre humor",
+            "meaning_ko": "섬뜩한 유머(블랙 유머)"
+          },
+          {
+            "phrase": "a macabre fascination",
+            "meaning_ko": "죽음에 대한 섬뜩한/병적인 매혹"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "linger on macabre imagery",
+            "meaning_ko": "섬뜩한 이미지에 집요하게 머물다"
+          },
+          {
+            "phrase": "a macabre meditation on mortality",
+            "meaning_ko": "죽음(필멸)에 대한 섬뜩한 성찰"
+          },
+          {
+            "phrase": "sanitize macabre elements",
+            "meaning_ko": "섬뜩한 요소를 순화하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The movie has a macabre tone.",
+            "meaning_ko": "그 영화는 섬뜩한 분위기가 있습니다."
+          },
+          {
+            "sentence": "They found macabre details in the diary.",
+            "meaning_ko": "그들은 일기에서 섬뜩한 세부를 발견했습니다."
+          },
+          {
+            "sentence": "It’s a macabre story about death.",
+            "meaning_ko": "그건 죽음에 관한 섬뜩한 이야기입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The novel mixes romance with macabre humor.",
+            "meaning_ko": "그 소설은 로맨스에 섬뜩한 유머를 섞습니다."
+          },
+          {
+            "sentence": "The documentary was criticized for dwelling on macabre imagery.",
+            "meaning_ko": "그 다큐는 섬뜩한 이미지에 집착했다는 비판을 받았습니다."
+          },
+          {
+            "sentence": "The exhibit explores a macabre fascination with mortality.",
+            "meaning_ko": "그 전시는 죽음에 대한 섬뜩한 매혹을 탐구합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The director’s macabre meditation on mortality is unsettling yet strangely compelling.",
+            "meaning_ko": "그 감독의 죽음에 대한 섬뜩한 성찰은 불편하지만 묘하게 끌립니다."
+          },
+          {
+            "sentence": "To reach a wider audience, the publisher sanitized some macabre elements without weakening the plot.",
+            "meaning_ko": "더 넓은 독자를 위해 출판사는 줄거리를 약화시키지 않으면서 일부 섬뜩한 요소를 순화했습니다."
+          },
+          {
+            "sentence": "The essay argues that macabre aesthetics can expose what polite society prefers to hide.",
+            "meaning_ko": "그 에세이는 섬뜩한 미학이 점잖은 사회가 숨기려는 것을 드러낼 수 있다고 주장합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "macabre는 ‘eerie/creepy’보다 ‘죽음·시체·잔혹’ 소재가 중심이라는 점이 차별점입니다. morbid/gruesome과 자주 함께 나오므로, macabre tone/scene, macabre humor 같은 대표 결합을 통째로 외워두면 문맥 추론이 쉬워집니다. 발음과 철자가 낯설어도 ‘죽음 = macabre’로 이미지 연결해 두시면 오래 갑니다.",
+    "tags": [
+      "문학",
+      "영화",
+      "예술",
+      "죽음",
+      "공포/비평"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The film’s ____ scenes involve death and gore.",
+            "a": "macabre",
+            "meaning_ko": "죽음/유혈과 연결된 섬뜩함 → macabre."
+          },
+          {
+            "q": "Which word is closest to macabre?",
+            "a": "morbid",
+            "meaning_ko": "죽음/음산함 쪽으로 가까운 단어입니다."
+          },
+          {
+            "q": "Opposite of macabre:",
+            "a": "cheerful",
+            "meaning_ko": "분위기 반대축은 cheerful/uplifting입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The novel is known for its macabre ____.",
+            "a": "humor",
+            "meaning_ko": "macabre humor가 대표 결합입니다."
+          },
+          {
+            "q": "Error check: 'The tone is macabres.' (Correct it.)",
+            "a": "The tone is macabre.",
+            "meaning_ko": "macabre는 형용사로 형태 변화 없이 그대로 씁니다."
+          },
+          {
+            "q": "Choose the best paraphrase: macabre details",
+            "a": "disturbing details related to death or violence",
+            "meaning_ko": "죽음/폭력과 관련된 섬뜩한 세부라는 뜻입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Which sentence uses macabre most precisely in criticism?",
+            "a": "The series lingers on macabre imagery to shock rather than to illuminate.",
+            "meaning_ko": "비평 문맥에서 ‘섬뜩한 이미지에 집착’이라는 결을 정확히 표현합니다."
+          },
+          {
+            "q": "Fill in the blank: The play is a macabre meditation ____ mortality.",
+            "a": "on",
+            "meaning_ko": "meditation on + 주제(죽음/필멸)에 대한 성찰이 관용적입니다."
+          },
+          {
+            "q": "Best contrast: macabre vs. eerie",
+            "a": "Macabre is tied to death and the gruesome, while eerie is simply strange and unsettling.",
+            "meaning_ko": "macabre는 ‘죽음/잔혹’ 중심이라는 차이를 정리하는 문제입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

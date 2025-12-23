@@ -1,0 +1,820 @@
+[
+  {
+    "word": "abhor",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To hate or detest something intensely; to regard it with disgust or moral revulsion.",
+        "definition_ko": "어떤 것을 극도로 혐오하다, 몹시 싫어하다.",
+        "note": "강한 도덕적 거부감(‘역겹다/용납 못하겠다’) 뉘앙스를 자주 가집니다."
+      }
+    ],
+    "concept": "‘그냥 싫다’가 아니라 ‘역겹고 용납할 수 없다’ 수준으로 강하게 미워하다.",
+    "etymology": "라틴어 abhorrere(멀리 떨다/움츠러들다)에서 유래한 것으로 알려져 있으며, ‘멀리하다 → 혐오하다’로 의미가 굳어졌습니다.",
+    "semanticExtension": "사람·행동뿐 아니라 ‘전쟁을 abh or(혐오하다)’처럼 추상적 개념/행위를 도덕적으로 규탄할 때도 확장되어 쓰입니다.",
+    "nuanceRegister": "격식/문어 쪽에서 더 자연스럽고, 공식 발언·기사·에세이에서 ‘강한 비난/거부’ 톤으로 자주 사용됩니다.",
+    "grammarNotes": "주로 타동사로 목적어를 바로 취합니다(abhor + 명사/동명사). 수동태에서도 사용 가능합니다(be abhorred).",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "abhor + 명사/대명사 — ‘~을 혐오하다’",
+      "abhor + V-ing — ‘~하는 것을 혐오하다’(행위/습관을 싫어함)"
+    ],
+    "morphology": "접두사 ab-(떨어져, 멀리) + 라틴계 어근 horr-(떨다/오싹하다 계열)로 설명되는 경우가 많으며, ‘멀리하며 오싹해하다’의 감각이 핵심입니다.",
+    "derivatives": [
+      {
+        "word": "abhorrence",
+        "meaning_ko": "혐오, 증오(감정)"
+      },
+      {
+        "word": "abhorrent",
+        "meaning_ko": "혐오스러운, 용납하기 힘든"
+      },
+      {
+        "word": "abhorred",
+        "meaning_ko": "혐오받는(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "revulsion",
+        "meaning_ko": "혐오감, 역겨움"
+      },
+      {
+        "word": "repugnance",
+        "meaning_ko": "강한 거부감"
+      },
+      {
+        "word": "indignation",
+        "meaning_ko": "분개(도덕적 분노)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "detest",
+        "meaning_ko": "몹시 싫어하다"
+      },
+      {
+        "word": "loathe",
+        "meaning_ko": "혐오하다"
+      },
+      {
+        "word": "despise",
+        "meaning_ko": "경멸하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "dislike",
+        "meaning_ko": "싫어하다(약함)"
+      },
+      {
+        "word": "hate",
+        "meaning_ko": "미워하다(범용)"
+      },
+      {
+        "word": "abominate",
+        "meaning_ko": "혐오하다(문어/강함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "admire",
+        "meaning_ko": "존경하다, 감탄하다"
+      },
+      {
+        "word": "cherish",
+        "meaning_ko": "소중히 여기다"
+      },
+      {
+        "word": "approve",
+        "meaning_ko": "찬성하다, 승인하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "abhor violence",
+            "meaning_ko": "폭력을 혐오하다"
+          },
+          {
+            "phrase": "abhor cruelty",
+            "meaning_ko": "잔혹함을 혐오하다"
+          },
+          {
+            "phrase": "abhor corruption",
+            "meaning_ko": "부패를 혐오하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "abhor the idea of ~",
+            "meaning_ko": "~라는 생각 자체를 혐오하다/도저히 받아들이지 못하다"
+          },
+          {
+            "phrase": "abhor hypocrisy",
+            "meaning_ko": "위선을 혐오하다"
+          },
+          {
+            "phrase": "abhor discrimination",
+            "meaning_ko": "차별을 혐오하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "abhor moral compromise",
+            "meaning_ko": "도덕적 타협을 혐오하다"
+          },
+          {
+            "phrase": "abhor systemic injustice",
+            "meaning_ko": "구조적 불의를 혐오하다"
+          },
+          {
+            "phrase": "abhor the normalization of ~",
+            "meaning_ko": "~의 정상화(당연시됨)를 혐오하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I abhor bullying at school.",
+            "meaning_ko": "저는 학교에서의 괴롭힘을 혐오합니다."
+          },
+          {
+            "sentence": "She abhors loud, rude behavior.",
+            "meaning_ko": "그녀는 시끄럽고 무례한 행동을 몹시 싫어합니다."
+          },
+          {
+            "sentence": "Many people abhor animal cruelty.",
+            "meaning_ko": "많은 사람들은 동물 학대를 혐오합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He abhors the idea of winning by cheating.",
+            "meaning_ko": "그는 속임수로 이긴다는 생각 자체를 혐오합니다."
+          },
+          {
+            "sentence": "The committee said it abhorred any form of discrimination.",
+            "meaning_ko": "위원회는 어떤 형태의 차별도 혐오한다고 밝혔습니다."
+          },
+          {
+            "sentence": "I’ve always abhorred hypocrisy, especially in public leaders.",
+            "meaning_ko": "저는 특히 공적 지도자들의 위선을 늘 혐오해 왔습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "She abhorred the subtle ways the policy normalized injustice.",
+            "meaning_ko": "그녀는 그 정책이 불의를 당연시하게 만드는 미묘한 방식들을 혐오했습니다."
+          },
+          {
+            "sentence": "The author abhors moral compromise disguised as pragmatism.",
+            "meaning_ko": "그 작가는 실용주의로 위장된 도덕적 타협을 혐오합니다."
+          },
+          {
+            "sentence": "They abhorred the rhetoric that dehumanized entire communities.",
+            "meaning_ko": "그들은 공동체 전체를 비인간화하는 수사를 혐오했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "abhor는 ‘싫어하다’보다 훨씬 강하며, ‘도덕적/정서적 역겨움’이 핵심입니다. 시험에서는 detest/loathe와 가까운 동의어로 나오되, ‘moral’한 톤이 더 강하다는 점을 기억하시면 좋습니다. 목적어를 바로 받는 타동사라는 점(abhor + 명사/동명사)도 함께 체크하세요.",
+    "tags": [
+      "감정",
+      "도덕",
+      "비난",
+      "문어",
+      "강한 부정"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: I ____ cruelty to animals.",
+            "a": "abhor",
+            "meaning_ko": "‘동물 학대를 몹시 혐오하다’가 자연스럽습니다."
+          },
+          {
+            "q": "Fill in the blank: She abhors ______ (lie).",
+            "a": "lying",
+            "meaning_ko": "abhor + 동명사(행위)를 자주 씁니다: lying."
+          },
+          {
+            "q": "Which meaning matches abhor?",
+            "a": "to hate something intensely",
+            "meaning_ko": "abhor = 강하게 혐오/증오하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Select the most natural collocation: abhor ( ) of cheating.",
+            "a": "the idea",
+            "meaning_ko": "abhor the idea of ~ 가 매우 흔한 패턴입니다."
+          },
+          {
+            "q": "Choose the closest synonym in tone: He abhorred the corrupt official.",
+            "a": "detested",
+            "meaning_ko": "detest가 강한 ‘혐오/증오’ 뉘앙스로 가깝습니다."
+          },
+          {
+            "q": "Error check: 'I abhor to be late.' (Correct it.)",
+            "a": "I abhor being late.",
+            "meaning_ko": "abhor는 보통 to부정사보다 동명사/명사를 목적어로 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: The public abhorred the normalization of violence.",
+            "a": "The public strongly condemned and felt revulsion toward treating violence as normal.",
+            "meaning_ko": "도덕적 거부감+강한 비난의 뉘앙스를 살린 바꿔쓰기입니다."
+          },
+          {
+            "q": "Choose the best fit: The essay ____ moral compromise as pragmatism.",
+            "a": "abhors",
+            "meaning_ko": "‘실용주의로 포장된 도덕적 타협을 혐오한다’는 문어적 맥락에 적절합니다."
+          },
+          {
+            "q": "Which sentence uses abhor most appropriately?",
+            "a": "She abhorred the rhetoric that dehumanized marginalized groups.",
+            "meaning_ko": "abhor는 ‘비인간화’ 같은 도덕적 문제에 특히 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "illicit",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Not allowed by law, rules, or accepted standards; unlawful or forbidden.",
+        "definition_ko": "불법의, 금지된; 규정에 어긋나는.",
+        "note": "법/규정 위반의 느낌이 강하며, ‘몰래 하는’ 뉘앙스가 동반될 때가 많습니다."
+      }
+    ],
+    "concept": "법이나 규칙에 의해 금지되어 ‘정식으로 해선 안 되는’ 상태.",
+    "etymology": "라틴어 illicitus(불법의, 허락되지 않은)에서 왔으며, licit(합법의)와 대비되는 형태로 정착했습니다.",
+    "semanticExtension": "법적 불법뿐 아니라 ‘규정/윤리/조직 규칙 위반’처럼 제도적 금지 전반으로 확장되어 쓰입니다.",
+    "nuanceRegister": "격식/문어·뉴스/수사/법률 문맥에서 매우 흔합니다.",
+    "grammarNotes": "형용사로 명사를 수식합니다(illicit drugs). 보통 서술용법도 가능하지만 수식용법이 더 빈번합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "il-(부정 접두사) + licit(허용된/합법의) 계열로 분석되는 경우가 많아, ‘허용되지 않은’ 의미를 직관적으로 잡을 수 있습니다.",
+    "derivatives": [
+      {
+        "word": "illicitly",
+        "meaning_ko": "불법적으로, 금지되어"
+      },
+      {
+        "word": "licit",
+        "meaning_ko": "합법의, 허용된"
+      }
+    ],
+    "related": [
+      {
+        "word": "contraband",
+        "meaning_ko": "밀수품"
+      },
+      {
+        "word": "smuggling",
+        "meaning_ko": "밀수"
+      },
+      {
+        "word": "black market",
+        "meaning_ko": "암시장"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "illegal",
+        "meaning_ko": "불법의"
+      },
+      {
+        "word": "unlawful",
+        "meaning_ko": "불법의(격식)"
+      },
+      {
+        "word": "forbidden",
+        "meaning_ko": "금지된"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "unauthorized",
+        "meaning_ko": "무단의, 허가받지 않은"
+      },
+      {
+        "word": "illegitimate",
+        "meaning_ko": "정당하지 않은, 불법적인(격식)"
+      },
+      {
+        "word": "shady",
+        "meaning_ko": "수상한(구어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "legal",
+        "meaning_ko": "합법의"
+      },
+      {
+        "word": "lawful",
+        "meaning_ko": "법에 따른"
+      },
+      {
+        "word": "legitimate",
+        "meaning_ko": "정당한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "illicit drugs",
+            "meaning_ko": "불법 마약"
+          },
+          {
+            "phrase": "illicit trade",
+            "meaning_ko": "불법 거래"
+          },
+          {
+            "phrase": "illicit relationship",
+            "meaning_ko": "부적절/금지된 관계(불륜 등)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "illicit financial flows",
+            "meaning_ko": "불법 자금 흐름"
+          },
+          {
+            "phrase": "illicit trafficking",
+            "meaning_ko": "불법 밀매"
+          },
+          {
+            "phrase": "illicit payments",
+            "meaning_ko": "불법/뇌물성 지급"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "illicit enrichment",
+            "meaning_ko": "불법적 재산 증식"
+          },
+          {
+            "phrase": "combat illicit networks",
+            "meaning_ko": "불법 네트워크를 단속/척결하다"
+          },
+          {
+            "phrase": "illicit diversion of funds",
+            "meaning_ko": "자금의 불법 유용/전용"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The police seized illicit drugs.",
+            "meaning_ko": "경찰이 불법 마약을 압수했습니다."
+          },
+          {
+            "sentence": "He was arrested for illicit trade.",
+            "meaning_ko": "그는 불법 거래로 체포되었습니다."
+          },
+          {
+            "sentence": "They made money through illicit gambling.",
+            "meaning_ko": "그들은 불법 도박으로 돈을 벌었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report focuses on illicit financial flows across borders.",
+            "meaning_ko": "그 보고서는 국경을 넘는 불법 자금 흐름에 초점을 맞춥니다."
+          },
+          {
+            "sentence": "Officials denied taking any illicit payments.",
+            "meaning_ko": "관계자들은 어떤 불법(뇌물성) 지급도 받지 않았다고 부인했습니다."
+          },
+          {
+            "sentence": "They uncovered an illicit trafficking route.",
+            "meaning_ko": "그들은 불법 밀매 경로를 밝혀냈습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The audit revealed the illicit diversion of public funds into private accounts.",
+            "meaning_ko": "감사는 공적 자금이 사적 계좌로 불법 유용된 사실을 드러냈습니다."
+          },
+          {
+            "sentence": "The policy aims to dismantle illicit networks without harming legitimate commerce.",
+            "meaning_ko": "그 정책은 합법적 상거래를 해치지 않으면서 불법 네트워크를 해체하는 것을 목표로 합니다."
+          },
+          {
+            "sentence": "Illicit enrichment cases often hinge on proving intent and concealment.",
+            "meaning_ko": "불법적 재산 증식 사건은 의도와 은폐를 입증하는 데서 갈리는 경우가 많습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "illicit은 ‘illegal’과 거의 겹치지만, 뉴스/수사 문맥에서 ‘암암리에 이루어지는 금지 행위’ 느낌이 더 자주 납니다. 반대말 licit(합법의)은 함께 외워두면 기억이 빨라집니다. 시험에서는 illicit drugs/illicit trade 같은 고정 결합을 자주 물어봅니다.",
+    "tags": [
+      "법",
+      "범죄",
+      "금지",
+      "뉴스",
+      "격식"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The factory was shut down for ____ dumping of waste.",
+            "a": "illicit",
+            "meaning_ko": "허가되지 않은/불법 투기는 illicit가 자연스럽습니다."
+          },
+          {
+            "q": "Which collocation is most common?",
+            "a": "illicit drugs",
+            "meaning_ko": "대표적인 고정 결합입니다."
+          },
+          {
+            "q": "illicit is closest in meaning to ____.",
+            "a": "illegal",
+            "meaning_ko": "핵심 의미는 ‘불법의/금지된’입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The report tracked illicit financial ____ across borders.",
+            "a": "flows",
+            "meaning_ko": "illicit financial flows가 관용적으로 자주 쓰입니다."
+          },
+          {
+            "q": "Choose the antonym: illicit",
+            "a": "legal",
+            "meaning_ko": "정반대 의미는 legal/lawful입니다."
+          },
+          {
+            "q": "Error check: 'He earned illicitly money.' (Correct it.)",
+            "a": "He earned money illicitly.",
+            "meaning_ko": "부사는 동사/문장 전체를 수식하도록 위치를 조정하는 게 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: The audit revealed illicit diversion of funds.",
+            "a": "The audit showed that funds were illegally redirected for unauthorized use.",
+            "meaning_ko": "illicit diversion = 불법 전용/유용의 뜻입니다."
+          },
+          {
+            "q": "Choose the best fit: Authorities moved to dismantle ____ networks.",
+            "a": "illicit",
+            "meaning_ko": "단속/해체(dismantle)와 함께 자주 결합합니다."
+          },
+          {
+            "q": "Which sentence uses illicit most precisely?",
+            "a": "They investigated illicit payments made to secure the contract.",
+            "meaning_ko": "계약 확보를 위한 불법 지급(뇌물성)을 정확히 표현합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "plausible",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Seeming reasonable or likely to be true; believable, though not proven.",
+        "definition_ko": "그럴듯한, 타당해 보이는; 사실일 법한.",
+        "note": "‘확실히 맞다’가 아니라 ‘들으면 납득은 된다’ 정도의 뉘앙스입니다."
+      }
+    ],
+    "concept": "증거가 충분하진 않아도, 논리나 정황상 ‘그럴 법하게’ 들리는 것.",
+    "etymology": "라틴어 plausibilis(박수 받을 만한, 호응을 얻는)에서 유래한 것으로 알려져 있으며, ‘사람들이 받아들이는 → 그럴듯한’ 의미로 발전했습니다.",
+    "semanticExtension": "사실 여부 판단뿐 아니라 계획·설명·변명 등 ‘설득력/타당성’ 평가로도 넓게 쓰입니다.",
+    "nuanceRegister": "격식/중립. 학술·기사·비즈니스에서 ‘타당해 보인다’는 평가로 자주 사용됩니다.",
+    "grammarNotes": "주로 plausible + 명사(plausible explanation). also: it is plausible that S V / plausible to + V(덜 흔하지만 가능).",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~하기에 그럴듯하다(가능해 보이다)",
+        "example": "plausible to assume that prices will rise"
+      }
+    ],
+    "requiredComplements": [
+      "plausible + 명사 — plausible explanation/claim/theory 등",
+      "it is plausible that + S V — ‘~일 법하다’",
+      "plausible to + V — ‘~하기에 그럴듯하다’(덜 빈번)"
+    ],
+    "morphology": "라틴계 어근 plaus-(박수/호응) 계열에서 파생된 것으로 설명되며, ‘사람들이 납득/호응하는’ 감각이 중심입니다.",
+    "derivatives": [
+      {
+        "word": "plausibly",
+        "meaning_ko": "그럴듯하게, 타당하게"
+      },
+      {
+        "word": "plausibility",
+        "meaning_ko": "그럴듯함, 타당성"
+      }
+    ],
+    "related": [
+      {
+        "word": "credibility",
+        "meaning_ko": "신빙성"
+      },
+      {
+        "word": "likelihood",
+        "meaning_ko": "가능성"
+      },
+      {
+        "word": "coherence",
+        "meaning_ko": "일관성(논리적)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "believable",
+        "meaning_ko": "믿을 만한"
+      },
+      {
+        "word": "reasonable",
+        "meaning_ko": "합리적인"
+      },
+      {
+        "word": "credible",
+        "meaning_ko": "신빙성 있는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "possible",
+        "meaning_ko": "가능한(더 넓음)"
+      },
+      {
+        "word": "likely",
+        "meaning_ko": "그럴 가능성이 큰"
+      },
+      {
+        "word": "convincing",
+        "meaning_ko": "설득력 있는(주관적 효과 강조)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "implausible",
+        "meaning_ko": "그럴듯하지 않은"
+      },
+      {
+        "word": "unlikely",
+        "meaning_ko": "가능성이 낮은"
+      },
+      {
+        "word": "incredible",
+        "meaning_ko": "믿기 힘든(비현실적)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a plausible story",
+            "meaning_ko": "그럴듯한 이야기"
+          },
+          {
+            "phrase": "a plausible reason",
+            "meaning_ko": "그럴듯한 이유"
+          },
+          {
+            "phrase": "a plausible excuse",
+            "meaning_ko": "그럴듯한 변명"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a plausible explanation",
+            "meaning_ko": "타당해 보이는 설명"
+          },
+          {
+            "phrase": "a plausible claim",
+            "meaning_ko": "그럴듯한 주장"
+          },
+          {
+            "phrase": "plausible evidence",
+            "meaning_ko": "그럴듯해 보이는 정황/증거"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a plausible mechanism",
+            "meaning_ko": "그럴듯한 작동 메커니즘(설명 모델)"
+          },
+          {
+            "phrase": "a plausible deniability",
+            "meaning_ko": "그럴듯한 부인 가능성(책임 회피 구조)"
+          },
+          {
+            "phrase": "construct a plausible narrative",
+            "meaning_ko": "그럴듯한 서사를 구성하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His excuse sounded plausible.",
+            "meaning_ko": "그의 변명은 그럴듯하게 들렸습니다."
+          },
+          {
+            "sentence": "That’s a plausible reason to be upset.",
+            "meaning_ko": "화가 날 만한 그럴듯한 이유입니다."
+          },
+          {
+            "sentence": "She told a plausible story.",
+            "meaning_ko": "그녀는 그럴듯한 이야기를 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "There is a plausible explanation for the sudden drop in sales.",
+            "meaning_ko": "매출 급락에는 타당해 보이는 설명이 있습니다."
+          },
+          {
+            "sentence": "It is plausible that the data were misreported.",
+            "meaning_ko": "데이터가 잘못 보고되었을 가능성이 그럴듯합니다."
+          },
+          {
+            "sentence": "The lawyer presented a plausible alternative scenario.",
+            "meaning_ko": "변호사는 그럴듯한 대안 시나리오를 제시했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The study proposes a plausible mechanism linking stress to immune dysfunction.",
+            "meaning_ko": "그 연구는 스트레스가 면역 기능 장애로 이어지는 그럴듯한 메커니즘을 제안합니다."
+          },
+          {
+            "sentence": "He maintained plausible deniability by keeping instructions deliberately vague.",
+            "meaning_ko": "그는 지시를 일부러 모호하게 해 그럴듯한 부인 가능성을 유지했습니다."
+          },
+          {
+            "sentence": "A plausible narrative can still collapse under careful cross-examination.",
+            "meaning_ko": "그럴듯한 서사도 면밀한 반대신문 앞에서는 무너질 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "plausible은 ‘가능하다(possible)’보다 ‘논리적으로 납득된다’ 쪽에 가깝습니다. 시험에서는 implausible(그럴듯하지 않은)과 함께 대조로 자주 나옵니다. 패턴은 plausible explanation, it is plausible that ~ 를 우선으로 외우시면 실전에서 바로 써먹기 좋습니다.",
+    "tags": [
+      "논리",
+      "평가",
+      "설명",
+      "학술/기사",
+      "추론"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: That explanation seems ____.",
+            "a": "plausible",
+            "meaning_ko": "‘그럴듯해 보인다’에 plausible이 적절합니다."
+          },
+          {
+            "q": "Which is the opposite of plausible?",
+            "a": "implausible",
+            "meaning_ko": "plausible ↔ implausible이 대표 반대쌍입니다."
+          },
+          {
+            "q": "Fill in the blank: She gave a plausible ____ for being late.",
+            "a": "reason",
+            "meaning_ko": "plausible reason(그럴듯한 이유)이 기본 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct structure: (A) It is plausible that he forgot. (B) It is plausible he forgot.",
+            "a": "A",
+            "meaning_ko": "표준 문장형은 it is plausible that + 절 입니다."
+          },
+          {
+            "q": "Best fit: The witness offered a plausible ____ of events.",
+            "a": "account",
+            "meaning_ko": "plausible account(그럴듯한 진술/설명)이 흔한 조합입니다."
+          },
+          {
+            "q": "Error check: 'The theory is plausiblely explained.' (Correct it.)",
+            "a": "The theory is plausibly explained.",
+            "meaning_ko": "부사는 plausibly, 형용사는 plausible입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: The model offers a plausible mechanism.",
+            "a": "The model provides a believable and logically coherent explanation of how it works.",
+            "meaning_ko": "plausible mechanism = ‘그럴듯한 작동 설명’입니다."
+          },
+          {
+            "q": "Choose the best word: Under cross-examination, the narrative became ____.",
+            "a": "implausible",
+            "meaning_ko": "면밀한 검증으로 ‘그럴듯함이 무너졌다’ → implausible."
+          },
+          {
+            "q": "Which sentence uses plausible most precisely?",
+            "a": "It is plausible that the error occurred during data entry.",
+            "meaning_ko": "추론/가능성 판단 문맥에 가장 정교하게 맞습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
