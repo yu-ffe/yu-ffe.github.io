@@ -3,8 +3,11 @@ import './LexiconLab.css';
 
 const SETTINGS_COOKIE = 'lexiconLabSettings';
 const POSITION_COOKIE = 'lexiconLabPosition';
+const VIEW_COOKIE = 'lexiconLabView';
 // TODO: Remove MOBILE_PREVIEW once desktop view is restored.
 const MOBILE_PREVIEW = true;
+const CHUNK_SIZE = 100;
+const PAGE_SIZE_OPTIONS = [8, 10, 12];
 
 const wordSources = import.meta.glob('../public/assets/words/json/**/*.json', { eager: true });
 
@@ -113,6 +116,16 @@ function getWordSourceKey(path) {
 
 function getWordSourceLabel(source) {
   return wordSourceLabels[source] ?? source;
+}
+
+function clamp(value, min, max) {
+  return Math.min(Math.max(value, min), max);
+}
+
+function normalizePageSize(value) {
+  const parsed = Number(value);
+  if (PAGE_SIZE_OPTIONS.includes(parsed)) return parsed;
+  return PAGE_SIZE_OPTIONS[0];
 }
 
 function loadWordEntries(sourceFilter) {
@@ -645,20 +658,24 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswe
   );
 }
 
-function PracticeAnswer({ text, blurred, blurAmount }) {
-  const [revealed, setRevealed] = useState(false);
-
-  if (!blurred) {
+function PracticeAnswer({ text, blurred, blurAmount, onReveal, revealed = false }) {
+  if (revealed) {
     return <span className="choice answer">{text}</span>;
   }
+
+  const blurClass = blurred ? 'blurred' : 'masked';
+
+  const handleReveal = () => {
+    if (onReveal) onReveal();
+  };
 
   return (
     <button
       type="button"
-      className={`choice answer quiz-answer ${revealed ? 'revealed' : 'blurred'}`}
-      style={{ '--blur-amount': `${blurAmount}px` }}
-      onClick={() => setRevealed(true)}
-      aria-pressed={revealed}
+      className={`choice answer quiz-answer ${blurClass}`}
+      style={blurred ? { '--blur-amount': `${blurAmount}px` } : undefined}
+      onClick={handleReveal}
+      aria-pressed={Boolean(revealed)}
       aria-label={revealed ? '정답이 표시되었습니다' : '정답 보기'}
       title={revealed ? '정답 표시됨' : '클릭해서 정답 보기'}
     >
@@ -667,7 +684,53 @@ function PracticeAnswer({ text, blurred, blurAmount }) {
   );
 }
 
-function PracticeSection({ questions, settings, onShuffle }) {
+function PracticeCard({ question, settings }) {
+  const [revealed, setRevealed] = useState(false);
+  const maskedPrompt = revealed ? question.prompt : maskWord(question.prompt, question.word);
+  const maskedChoices = useMemo(
+    () => (revealed ? question.choices : question.choices?.map((choice) => maskWord(choice, question.word))),
+    [question.choices, question.word, revealed]
+  );
+
+  const handleReveal = () => setRevealed(true);
+
+  return (
+    <article className={`practice-card ${revealed ? 'revealed' : ''}`}>
+      <header className="practice-card-header">
+        <p className="practice-type">{question.type}</p>
+        <span className={`practice-word ${revealed ? 'visible' : 'hidden'}`}>{revealed ? question.word : '단어 숨김'}</span>
+      </header>
+      {question.note && <p className="practice-note">{question.note}</p>}
+      <p className="practice-prompt">{maskedPrompt}</p>
+      {maskedChoices && (
+        <ul className="practice-choices">
+          {maskedChoices.map((choice) => (
+            <li key={choice} className="choice">
+              {choice}
+            </li>
+          ))}
+        </ul>
+      )}
+      {question.hint && <p className="practice-hint">힌트: {question.hint}</p>}
+      <div className={`practice-answer ${revealed ? 'revealed' : ''}`}>
+        <PracticeAnswer
+          text={question.answer}
+          blurred={settings.blurQuizAnswers && !revealed}
+          blurAmount={settings.quizBlurAmount}
+          onReveal={handleReveal}
+          revealed={revealed}
+        />
+      </div>
+      {!revealed && (
+        <button type="button" className="reveal-button" onClick={handleReveal}>
+          정답 · 단어 보기
+        </button>
+      )}
+    </article>
+  );
+}
+
+function PracticeSection({ questions, settings, onShuffle, rangeLabel }) {
   const hasModules = settings.selectedPracticeModules.length > 0;
 
   return (
@@ -677,6 +740,7 @@ function PracticeSection({ questions, settings, onShuffle }) {
           <p className="eyebrow">문제 모드</p>
           <h2>문제 형식으로 공부하기</h2>
           <p className="practice-desc">선택한 모듈을 섞어서 랜덤 문제를 제공합니다.</p>
+          {rangeLabel && <p className="practice-range">{rangeLabel}</p>}
         </div>
         <button type="button" className="ghost" onClick={onShuffle}>
           문제 다시 섞기
@@ -689,27 +753,7 @@ function PracticeSection({ questions, settings, onShuffle }) {
       {questions.length > 0 && (
         <div className="practice-grid">
           {questions.map((question, index) => (
-            <article key={`${question.type}-${question.word}-${index}`} className="practice-card">
-              <header className="practice-card-header">
-                <p className="practice-type">{question.type}</p>
-                <span className="practice-word">{question.word}</span>
-              </header>
-              {question.note && <p className="practice-note">{question.note}</p>}
-              <p className="practice-prompt">{question.prompt}</p>
-              {question.choices && (
-                <ul className="practice-choices">
-                  {question.choices.map((choice) => (
-                    <li key={choice} className="choice">
-                      {choice}
-                    </li>
-                  ))}
-                </ul>
-              )}
-              {question.hint && <p className="practice-hint">힌트: {question.hint}</p>}
-              <div className="practice-answer">
-                <PracticeAnswer text={question.answer} blurred={settings.blurQuizAnswers} blurAmount={settings.quizBlurAmount} />
-              </div>
-            </article>
+            <PracticeCard key={`${question.type}-${question.word}-${index}`} question={question} settings={settings} />
           ))}
         </div>
       )}
@@ -770,6 +814,77 @@ function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPag
   );
 }
 
+function ChunkControls({ currentChunk, totalChunks, onChange, rangeStart, rangeEnd, totalItems }) {
+  if (!totalItems) return null;
+
+  const options = Array.from({ length: totalChunks }, (_, idx) => idx + 1);
+  const handleSelectChange = (event) => {
+    const next = Number(event.target.value);
+    if (Number.isNaN(next)) return;
+    onChange(next);
+  };
+
+  return (
+    <div className="chunk-bar" aria-label="단어 100개 묶음 전환">
+      <div className="chunk-meta">
+        <p className="eyebrow">단어 구간</p>
+        <p className="chunk-range">
+          {rangeStart}–{rangeEnd} / {totalItems} 단어
+        </p>
+      </div>
+      <div className="chunk-actions">
+        <button type="button" className="ghost" onClick={() => onChange(currentChunk - 1)} disabled={currentChunk === 1}>
+          ← 이전 100개
+        </button>
+        <label className="chunk-select" htmlFor="chunkSelect">
+          <span>묶음</span>
+          <select id="chunkSelect" value={currentChunk} onChange={handleSelectChange}>
+            {options.map((value) => (
+              <option key={value} value={value}>
+                {value}
+              </option>
+            ))}
+          </select>
+          <span className="chunk-total">/ {totalChunks}</span>
+        </label>
+        <button
+          type="button"
+          className="ghost"
+          onClick={() => onChange(currentChunk + 1)}
+          disabled={currentChunk === totalChunks}
+        >
+          다음 100개 →
+        </button>
+      </div>
+    </div>
+  );
+}
+
+function ViewSwitcher({ active, onChange }) {
+  return (
+    <div className="view-switcher" role="tablist" aria-label="학습 모드 전환">
+      <button
+        type="button"
+        className={`view-tab ${active === 'words' ? 'active' : ''}`}
+        role="tab"
+        aria-selected={active === 'words'}
+        onClick={() => onChange('words')}
+      >
+        단어 보기
+      </button>
+      <button
+        type="button"
+        className={`view-tab ${active === 'practice' ? 'active' : ''}`}
+        role="tab"
+        aria-selected={active === 'practice'}
+        onClick={() => onChange('practice')}
+      >
+        문제 모드
+      </button>
+    </div>
+  );
+}
+
 function filterByLevel(groups, levels) {
   if (!groups?.length) return [];
   if (!levels?.length) return groups;
@@ -798,6 +913,13 @@ function shuffleList(items, rng) {
 function pickOne(items, rng) {
   if (!items.length) return null;
   return items[Math.floor(rng() * items.length)];
+}
+
+function maskWord(text, word) {
+  if (!text || !word || typeof text !== 'string') return text;
+  const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const pattern = new RegExp(`\\b${escaped}\\b`, 'gi');
+  return text.replace(pattern, '_____');
 }
 
 function flattenExamples(entry) {
@@ -970,7 +1092,7 @@ function LexiconEntry({ entry, settings }) {
 
   return (
     <article className="lex-card">
-      <header className="lex-card-header">
+      <header className="lex-card-header sticky-entry">
         <div>
           <p className="entry-word">{entry.word}</p>
           <p className="entry-pos">{Array.isArray(entry.partOfSpeech) ? entry.partOfSpeech.join(' / ') : entry.partOfSpeech}</p>
@@ -1171,12 +1293,17 @@ export default function LexiconLab() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [panelOpen, setPanelOpen] = useState(false);
+  const [viewMode, setViewMode] = useState('words');
+  const [chunkIndex, setChunkIndex] = useState(0);
   const [currentPage, setCurrentPage] = useState(1);
-  const [pageSize, setPageSize] = useState(8);
+  const [pageSize, setPageSize] = useState(PAGE_SIZE_OPTIONS[0]);
+  const [savedLocation, setSavedLocation] = useState(null);
   const [practiceSeed, setPracticeSeed] = useState(() => Date.now());
 
   const handleWordSourceChange = (nextSource) => {
     setSettings((prev) => ({ ...prev, wordSource: nextSource }));
+    setChunkIndex(0);
+    setCurrentPage(1);
   };
 
   useEffect(() => {
@@ -1192,8 +1319,64 @@ export default function LexiconLab() {
   }, []);
 
   useEffect(() => {
+    const savedView = readCookie(VIEW_COOKIE);
+    if (savedView) {
+      try {
+        const parsed = JSON.parse(savedView);
+        if (parsed.viewMode) setViewMode(parsed.viewMode);
+        if (Number.isInteger(parsed.chunkIndex)) setChunkIndex(Math.max(0, parsed.chunkIndex));
+        if (parsed.pageSize) setPageSize(normalizePageSize(parsed.pageSize));
+        if (Number.isInteger(parsed.page)) setCurrentPage(Math.max(1, parsed.page));
+      } catch (err) {
+        console.warn('뷰 쿠키를 불러오지 못했습니다.', err);
+      }
+    }
+
+    const savedPosition = readCookie(POSITION_COOKIE);
+    if (savedPosition) {
+      try {
+        const parsed = JSON.parse(savedPosition);
+        setSavedLocation(parsed);
+        if (parsed.viewMode) setViewMode(parsed.viewMode);
+        if (Number.isInteger(parsed.chunkIndex)) setChunkIndex(Math.max(0, parsed.chunkIndex));
+        if (Number.isInteger(parsed.page)) setCurrentPage(Math.max(1, parsed.page));
+        if (parsed.pageSize) setPageSize(normalizePageSize(parsed.pageSize));
+      } catch (err) {
+        const numeric = Number(savedPosition);
+        if (!Number.isNaN(numeric) && numeric > 0) {
+          setSavedLocation({ scroll: numeric });
+        } else {
+          console.warn('위치 쿠키를 불러오지 못했습니다.', err);
+        }
+      }
+    }
+  }, []);
+
+  useEffect(() => {
     writeCookie(SETTINGS_COOKIE, JSON.stringify(settings));
   }, [settings]);
+
+  useEffect(() => {
+    writeCookie(
+      VIEW_COOKIE,
+      JSON.stringify({
+        viewMode,
+        chunkIndex,
+        page: currentPage,
+        pageSize,
+      })
+    );
+  }, [viewMode, chunkIndex, currentPage, pageSize]);
+
+  useEffect(() => {
+    const payload = {
+      viewMode,
+      chunkIndex,
+      page: currentPage,
+      pageSize,
+    };
+    writeCookie(POSITION_COOKIE, JSON.stringify(payload));
+  }, [chunkIndex, currentPage, pageSize, viewMode]);
 
   useEffect(() => {
     async function loadEntries() {
@@ -1223,26 +1406,67 @@ export default function LexiconLab() {
   }, [settings.wordSource]);
 
   useEffect(() => {
-    if (!entries.length) return;
-    const saved = Number(readCookie(POSITION_COOKIE));
-    if (!Number.isNaN(saved) && saved > 0) {
-      window.scrollTo({ top: saved, behavior: 'smooth' });
+    const chunkCount = Math.max(1, Math.ceil(entries.length / CHUNK_SIZE));
+    if (chunkIndex > chunkCount - 1) {
+      setChunkIndex(chunkCount - 1);
     }
-  }, [entries]);
+  }, [chunkIndex, entries.length]);
+
+  const chunkCount = Math.max(1, Math.ceil(entries.length / CHUNK_SIZE));
+  const chunkStart = clamp(chunkIndex * CHUNK_SIZE, 0, Math.max(0, entries.length - 1));
+  const chunkEnd = Math.min(entries.length, chunkStart + CHUNK_SIZE);
+  const chunkEntries = useMemo(() => entries.slice(chunkStart, chunkEnd), [entries, chunkStart, chunkEnd]);
+  const chunkRangeStart = entries.length ? chunkStart + 1 : 0;
+  const chunkRangeEnd = chunkEnd;
+  const isWordView = viewMode === 'words';
+  const isPracticeView = viewMode === 'practice';
+  const viewTitle = isPracticeView ? '문제 모드' : '단어 카드';
+  const viewSubtitle = isPracticeView ? '랜덤 문제로 연습하기' : '단어 카드로 살펴보기';
 
   useEffect(() => {
-    setCurrentPage(1);
-  }, [entries, pageSize]);
+    if (!entries.length || !savedLocation) return;
+    const nextChunk = clamp(savedLocation.chunkIndex ?? chunkIndex, 0, chunkCount - 1);
+    setChunkIndex(nextChunk);
+    const itemsInChunk = entries.slice(nextChunk * CHUNK_SIZE, nextChunk * CHUNK_SIZE + CHUNK_SIZE).length;
+    const pagesForChunk = Math.max(1, Math.ceil(itemsInChunk / pageSize));
+    const targetPage = clamp(savedLocation.page ?? savedLocation.currentPage ?? currentPage, 1, pagesForChunk);
+    setCurrentPage(targetPage);
+    if (savedLocation.viewMode) setViewMode(savedLocation.viewMode);
+    const savedScroll = savedLocation.scroll ?? savedLocation.position ?? savedLocation.scrollY;
+    if (typeof savedScroll === 'number') {
+      window.scrollTo({ top: savedScroll, behavior: 'smooth' });
+    }
+    setSavedLocation(null);
+  }, [chunkCount, chunkIndex, currentPage, entries, pageSize, savedLocation]);
 
-  const totalPages = Math.max(1, Math.ceil(entries.length / pageSize));
+  const totalPages = Math.max(1, Math.ceil(Math.max(chunkEntries.length, 1) / pageSize));
   const visibleEntries = useMemo(() => {
     const start = (currentPage - 1) * pageSize;
-    return entries.slice(start, start + pageSize);
-  }, [currentPage, entries, pageSize]);
+    return chunkEntries.slice(start, start + pageSize);
+  }, [chunkEntries, currentPage, pageSize]);
+
+  useEffect(() => {
+    setCurrentPage((prev) => clamp(prev, 1, totalPages));
+  }, [totalPages]);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      const payload = {
+        viewMode,
+        chunkIndex,
+        page: currentPage,
+        pageSize,
+        scroll: Math.round(window.scrollY),
+      };
+      writeCookie(POSITION_COOKIE, JSON.stringify(payload));
+    };
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, [chunkIndex, currentPage, pageSize, viewMode]);
 
   const practiceQuestions = useMemo(
-    () => buildPracticeQuestions(entries, settings, practiceSeed),
-    [entries, settings, practiceSeed]
+    () => buildPracticeQuestions(chunkEntries, settings, practiceSeed),
+    [chunkEntries, settings, practiceSeed]
   );
 
   const handlePageChange = (nextPage) => {
@@ -1251,20 +1475,26 @@ export default function LexiconLab() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  useEffect(() => {
-    const handleScroll = () => {
-      writeCookie(POSITION_COOKIE, String(Math.round(window.scrollY)));
-    };
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
+  const handleChunkChange = (nextChunk) => {
+    const safeChunk = clamp(nextChunk, 1, chunkCount) - 1;
+    setChunkIndex(safeChunk);
+    setCurrentPage(1);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const handleViewChange = (nextView) => {
+    setViewMode(nextView);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
   return (
     <div className={`lex-page ${MOBILE_PREVIEW ? 'lex-page--mobile' : ''}`}>
       <header className="lex-topbar">
         <div className="topbar-title">
           <p className="eyebrow">Lexicon Lab</p>
-          <h1>단어 카드</h1>
+          <h1>{viewTitle}</h1>
+          <p className="subtitle">{viewSubtitle}</p>
+          <ViewSwitcher active={viewMode} onChange={handleViewChange} />
         </div>
         <div className="top-actions">
           {wordSourceOptions.length > 0 && (
@@ -1303,45 +1533,73 @@ export default function LexiconLab() {
 
       {!loading && !error && entries.length === 0 && <p className="status">단어 데이터가 없습니다.</p>}
 
-      {settings.showWordSection && (
-        <section className="word-section">
-          <header className="section-title-row">
-            <div>
-              <p className="eyebrow">단어 보기</p>
-              <h2>단어 카드로 살펴보기</h2>
-            </div>
-          </header>
-
-          <PaginationControls
-            currentPage={currentPage}
-            totalPages={totalPages}
-            onChange={handlePageChange}
-            pageSize={pageSize}
-            onPageSizeChange={setPageSize}
+      {isWordView && settings.showWordSection && !loading && !error && entries.length > 0 && (
+        <>
+          <ChunkControls
+            currentChunk={chunkIndex + 1}
+            totalChunks={chunkCount}
+            onChange={handleChunkChange}
+            rangeStart={chunkRangeStart}
+            rangeEnd={chunkRangeEnd}
             totalItems={entries.length}
           />
+          <section className="word-section">
+            <header className="section-title-row">
+              <div>
+                <p className="eyebrow">단어 보기</p>
+                <h2>현재 구간 카드 목록</h2>
+                <p className="section-subtitle">페이지당 {pageSize}개, 100개 단위로 이동합니다.</p>
+              </div>
+            </header>
 
-          {visibleEntries.map((entry) => (
-            <LexiconEntry key={entry.word} entry={entry} settings={settings} />
-          ))}
+            <PaginationControls
+              currentPage={currentPage}
+              totalPages={totalPages}
+              onChange={handlePageChange}
+              pageSize={pageSize}
+              onPageSizeChange={setPageSize}
+              totalItems={chunkEntries.length}
+            />
 
-          <PaginationControls
-            currentPage={currentPage}
-            totalPages={totalPages}
-            onChange={handlePageChange}
-            pageSize={pageSize}
-            onPageSizeChange={setPageSize}
-            totalItems={entries.length}
-          />
-        </section>
+            {visibleEntries.map((entry) => (
+              <LexiconEntry key={entry.word} entry={entry} settings={settings} />
+            ))}
+
+            <PaginationControls
+              currentPage={currentPage}
+              totalPages={totalPages}
+              onChange={handlePageChange}
+              pageSize={pageSize}
+              onPageSizeChange={setPageSize}
+              totalItems={chunkEntries.length}
+            />
+          </section>
+        </>
       )}
 
-      {settings.showPracticeSection && (
-        <PracticeSection
-          questions={practiceQuestions}
-          settings={settings}
-          onShuffle={() => setPracticeSeed(Date.now())}
-        />
+      {isWordView && !settings.showWordSection && <p className="status">맞춤 설정에서 단어 보기 섹션을 켜주세요.</p>}
+
+      {isPracticeView && settings.showPracticeSection && !loading && !error && entries.length > 0 && (
+        <>
+          <ChunkControls
+            currentChunk={chunkIndex + 1}
+            totalChunks={chunkCount}
+            onChange={handleChunkChange}
+            rangeStart={chunkRangeStart}
+            rangeEnd={chunkRangeEnd}
+            totalItems={entries.length}
+          />
+          <PracticeSection
+            questions={practiceQuestions}
+            settings={settings}
+            onShuffle={() => setPracticeSeed(Date.now())}
+            rangeLabel={`${chunkRangeStart}–${chunkRangeEnd}번 단어 묶음에서 출제됩니다.`}
+          />
+        </>
+      )}
+
+      {isPracticeView && !settings.showPracticeSection && (
+        <p className="status">맞춤 설정에서 문제 모드를 켜면 연습 화면으로 전환됩니다.</p>
       )}
 
       <SettingsPanel
