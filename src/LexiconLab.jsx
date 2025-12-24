@@ -4,6 +4,9 @@ import './LexiconLab.css';
 const SETTINGS_COOKIE = 'lexiconLabSettings';
 const POSITION_COOKIE = 'lexiconLabPosition';
 const VIEW_COOKIE = 'lexiconLabView';
+const PRESET_COOKIE = 'lexiconLabPreset';
+const CUSTOM_PRESET_STORAGE = 'lexiconLabCustomPresets';
+const MAX_CUSTOM_PRESETS = 3;
 // TODO: Remove MOBILE_PREVIEW once desktop view is restored.
 const MOBILE_PREVIEW = true;
 const CHUNK_SIZE = 100;
@@ -95,6 +98,109 @@ const practiceModules = [
   },
 ];
 
+const presetProfiles = {
+  simple: {
+    showConcept: false,
+    meaningLimit: 1,
+    showClassification: false,
+    showRelations: false,
+    showUsageContext: false,
+    showFormDetails: false,
+    showCollocations: false,
+    showExamples: false,
+    showQuiz: false,
+    showKoreanMeanings: true,
+    showStickyWord: false,
+    showStickyPos: false,
+    showWordSection: true,
+    showPracticeSection: false,
+    selectedPracticeModules: ['meaningRecall'],
+    practiceItemLimit: 4,
+    blurQuizAnswers: false,
+  },
+  studyEssential: {
+    showConcept: true,
+    meaningLimit: 2,
+    showClassification: true,
+    showRelations: true,
+    showUsageContext: false,
+    showFormDetails: false,
+    showCollocations: true,
+    showExamples: true,
+    showQuiz: false,
+    showKoreanMeanings: true,
+    showStickyWord: true,
+    showStickyPos: false,
+    showWordSection: true,
+    showPracticeSection: true,
+    selectedPracticeModules: ['meaningRecall', 'sentenceTranslation'],
+    practiceItemLimit: 6,
+    blurQuizAnswers: false,
+  },
+  studyExtended: {
+    showConcept: true,
+    meaningLimit: 3,
+    showClassification: true,
+    showRelations: true,
+    showUsageContext: true,
+    showFormDetails: true,
+    showCollocations: true,
+    showExamples: true,
+    showQuiz: true,
+    showKoreanMeanings: true,
+    showStickyWord: true,
+    showStickyPos: true,
+    showWordSection: true,
+    showPracticeSection: true,
+    selectedPracticeModules: ['preposition', 'meaningRecall', 'contextMeaning', 'sentenceTranslation'],
+    practiceItemLimit: 8,
+    blurQuizAnswers: true,
+  },
+  full: {
+    showConcept: true,
+    meaningLimit: 8,
+    showClassification: true,
+    showRelations: true,
+    showUsageContext: true,
+    showFormDetails: true,
+    showCollocations: true,
+    showExamples: true,
+    showQuiz: true,
+    showKoreanMeanings: true,
+    showStickyWord: true,
+    showStickyPos: true,
+    showWordSection: true,
+    showPracticeSection: true,
+    selectedPracticeModules: practiceModules.map((module) => module.key),
+    practiceItemLimit: 10,
+    quizItemLimit: 8,
+    blurQuizAnswers: true,
+  },
+};
+
+function loadCustomPresets() {
+  if (typeof localStorage === 'undefined') return [];
+  try {
+    const stored = localStorage.getItem(CUSTOM_PRESET_STORAGE);
+    const parsed = stored ? JSON.parse(stored) : [];
+    if (!Array.isArray(parsed)) return [];
+    return parsed.slice(0, MAX_CUSTOM_PRESETS).map((preset) => preset || {});
+  } catch (err) {
+    console.warn('커스텀 프리셋을 불러오지 못했습니다.', err);
+    return [];
+  }
+}
+
+function saveCustomPresets(presets) {
+  if (typeof localStorage === 'undefined') return;
+  try {
+    const limited = presets.slice(0, MAX_CUSTOM_PRESETS);
+    localStorage.setItem(CUSTOM_PRESET_STORAGE, JSON.stringify(limited));
+  } catch (err) {
+    console.warn('커스텀 프리셋을 저장하지 못했습니다.', err);
+  }
+}
+
 function readCookie(name) {
   if (typeof document === 'undefined') return '';
   const value = document.cookie
@@ -165,7 +271,31 @@ function SettingGroup({ title, description, children }) {
   );
 }
 
-function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSourceOptions: sources }) {
+function PresetButton({ label, description, active, onClick }) {
+  return (
+    <button type="button" className={`preset-button ${active ? 'active' : ''}`} onClick={onClick}>
+      <div>
+        <p className="preset-label">{label}</p>
+        {description && <p className="preset-desc">{description}</p>}
+      </div>
+      {active && <span className="preset-active">사용 중</span>}
+    </button>
+  );
+}
+
+function SettingsPanel({
+  open,
+  settings,
+  onChange,
+  onClose,
+  levelOptions,
+  wordSourceOptions: sources,
+  onPresetSelect,
+  activePreset,
+  customPresets,
+  onCustomSave,
+  onCustomApply,
+}) {
   const safeLevels = levelOptions?.length ? Array.from(new Set(levelOptions)) : ['상', '중', '하'];
   const safeSources = sources?.length ? sources : [];
 
@@ -195,6 +325,61 @@ function SettingsPanel({ open, settings, onChange, onClose, levelOptions, wordSo
           ✕
         </button>
       </header>
+
+      <SettingGroup title="프리셋" description="원하는 노출 수준을 한 번에 전환하세요.">
+        <div className="preset-grid">
+          <PresetButton
+            label="1) 단어-뜻 단순"
+            description="단어와 핵심 뜻만 빠르게 확인합니다."
+            active={activePreset === 'simple'}
+            onClick={() => onPresetSelect('simple')}
+          />
+          <PresetButton
+            label="2) 공부 핵심"
+            description="꼭 필요한 뜻/예문/콜로케이션만 남깁니다."
+            active={activePreset === 'studyEssential'}
+            onClick={() => onPresetSelect('studyEssential')}
+          />
+          <PresetButton
+            label="3) 공부 핵심+"
+            description="문법·맥락·퀴즈까지 포함한 확장 학습용."
+            active={activePreset === 'studyExtended'}
+            onClick={() => onPresetSelect('studyExtended')}
+          />
+          <PresetButton
+            label="4) 전체 표시"
+            description="모든 필드와 문제 모드를 함께 표시합니다."
+            active={activePreset === 'full'}
+            onClick={() => onPresetSelect('full')}
+          />
+        </div>
+
+        <div className="custom-preset-grid">
+          {Array.from({ length: MAX_CUSTOM_PRESETS }, (_, idx) => {
+            const saved = customPresets[idx];
+            const presetKey = `custom-${idx + 1}`;
+            return (
+              <div key={presetKey} className="custom-preset-card">
+                <div className="custom-preset-head">
+                  <p className="preset-label">5) 커스텀 {idx + 1}</p>
+                  {activePreset === presetKey && <span className="preset-active">사용 중</span>}
+                </div>
+                <p className="preset-desc">
+                  {saved ? '저장된 개인 설정을 불러올 수 있습니다.' : '아직 저장된 설정이 없습니다.'}
+                </p>
+                <div className="custom-preset-actions">
+                  <button type="button" className="ghost" onClick={() => onCustomApply(idx)} disabled={!saved}>
+                    불러오기
+                  </button>
+                  <button type="button" onClick={() => onCustomSave(idx)}>
+                    현재 설정 저장
+                  </button>
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      </SettingGroup>
 
       <SettingGroup title="카드 헤더" description="단어 카드 상단에서 노출할 정보를 고릅니다.">
         <div className="settings-grid">
@@ -613,18 +798,20 @@ function QuizAnswer({ text, blurred, blurAmount }) {
   }
 
   const handleClick = () => setRevealed(true);
+  const displayText = revealed ? text : '???';
+  const stateClass = revealed ? 'revealed' : 'masked';
 
   return (
     <button
       type="button"
-      className={`choice answer quiz-answer ${revealed ? 'revealed' : 'blurred'}`}
-      style={{ '--blur-amount': `${blurAmount}px` }}
+      className={`choice answer quiz-answer ${stateClass}`}
+      style={revealed ? undefined : { '--blur-amount': `${blurAmount}px` }}
       onClick={handleClick}
       aria-pressed={revealed}
       aria-label={revealed ? '정답이 표시되었습니다' : '정답 보기'}
       title={revealed ? '정답 표시됨' : '클릭해서 정답 보기'}
     >
-      {text}
+      {displayText}
     </button>
   );
 }
@@ -663,7 +850,12 @@ function PracticeAnswer({ text, blurred, blurAmount, onReveal, revealed = false 
     return <span className="choice answer">{text}</span>;
   }
 
-  const blurClass = blurred ? 'blurred' : 'masked';
+  if (!blurred) {
+    return <span className="choice answer">{text}</span>;
+  }
+
+  const blurClass = 'masked';
+  const displayText = '???';
 
   const handleReveal = () => {
     if (onReveal) onReveal();
@@ -672,14 +864,14 @@ function PracticeAnswer({ text, blurred, blurAmount, onReveal, revealed = false 
   return (
     <button
       type="button"
-      className={`choice answer quiz-answer ${blurClass}`}
+      className={`choice answer quiz-answer ${blurClass}`.trim()}
       style={blurred ? { '--blur-amount': `${blurAmount}px` } : undefined}
       onClick={handleReveal}
       aria-pressed={Boolean(revealed)}
       aria-label={revealed ? '정답이 표시되었습니다' : '정답 보기'}
       title={revealed ? '정답 표시됨' : '클릭해서 정답 보기'}
     >
-      {text}
+      {displayText}
     </button>
   );
 }
@@ -698,7 +890,7 @@ function PracticeCard({ question, settings }) {
     <article className={`practice-card ${revealed ? 'revealed' : ''}`}>
       <header className="practice-card-header">
         <p className="practice-type">{question.type}</p>
-        <span className={`practice-word ${revealed ? 'visible' : 'hidden'}`}>{revealed ? question.word : '단어 숨김'}</span>
+        <span className={`practice-word ${revealed ? 'visible' : 'hidden'}`}>{revealed ? question.word : '???'}</span>
       </header>
       {question.note && <p className="practice-note">{question.note}</p>}
       <p className="practice-prompt">{maskedPrompt}</p>
@@ -919,7 +1111,7 @@ function maskWord(text, word) {
   if (!text || !word || typeof text !== 'string') return text;
   const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
   const pattern = new RegExp(`\\b${escaped}\\b`, 'gi');
-  return text.replace(pattern, '_____');
+  return text.replace(pattern, '???');
 }
 
 function flattenExamples(entry) {
@@ -1299,12 +1491,20 @@ export default function LexiconLab() {
   const [pageSize, setPageSize] = useState(PAGE_SIZE_OPTIONS[0]);
   const [savedLocation, setSavedLocation] = useState(null);
   const [practiceSeed, setPracticeSeed] = useState(() => Date.now());
+  const [activePreset, setActivePreset] = useState('custom-live');
+  const [customPresets, setCustomPresets] = useState([]);
 
   const handleWordSourceChange = (nextSource) => {
     setSettings((prev) => ({ ...prev, wordSource: nextSource }));
     setChunkIndex(0);
     setCurrentPage(1);
   };
+
+  useEffect(() => {
+    setCustomPresets(loadCustomPresets());
+    const savedPreset = readCookie(PRESET_COOKIE);
+    if (savedPreset) setActivePreset(savedPreset);
+  }, []);
 
   useEffect(() => {
     const saved = readCookie(SETTINGS_COOKIE);
@@ -1317,6 +1517,10 @@ export default function LexiconLab() {
       }
     }
   }, []);
+
+  useEffect(() => {
+    saveCustomPresets(customPresets);
+  }, [customPresets]);
 
   useEffect(() => {
     const savedView = readCookie(VIEW_COOKIE);
@@ -1351,6 +1555,12 @@ export default function LexiconLab() {
       }
     }
   }, []);
+
+  useEffect(() => {
+    if (activePreset) {
+      writeCookie(PRESET_COOKIE, activePreset);
+    }
+  }, [activePreset]);
 
   useEffect(() => {
     writeCookie(SETTINGS_COOKIE, JSON.stringify(settings));
@@ -1468,6 +1678,48 @@ export default function LexiconLab() {
     () => buildPracticeQuestions(chunkEntries, settings, practiceSeed),
     [chunkEntries, settings, practiceSeed]
   );
+
+  const applySettingsProfile = (profile) => {
+    setSettings((prev) => {
+      const merged = { ...defaultSettings, ...prev, ...profile, wordSource: prev.wordSource };
+      if (!merged.selectedLevels?.length) merged.selectedLevels = ['상', '중', '하'];
+      if (!merged.selectedPracticeModules?.length) {
+        merged.selectedPracticeModules = practiceModules.map((module) => module.key);
+      }
+      return merged;
+    });
+  };
+
+  const handlePresetSelect = (presetKey) => {
+    const profile = presetProfiles[presetKey];
+    if (!profile) return;
+    applySettingsProfile({ ...defaultSettings, ...profile });
+    setActivePreset(presetKey);
+  };
+
+  const handleCustomSave = (index) => {
+    setCustomPresets((prev) => {
+      const next = [...prev];
+      const { wordSource, ...rest } = settings;
+      next[index] = rest;
+      return next;
+    });
+    setActivePreset(`custom-${index + 1}`);
+  };
+
+  const handleCustomApply = (index) => {
+    const preset = customPresets[index];
+    if (!preset) return;
+    applySettingsProfile(preset);
+    setActivePreset(`custom-${index + 1}`);
+  };
+
+  const handleSettingsChange = (nextSettings) => {
+    setSettings(nextSettings);
+    if (!activePreset.startsWith('custom-')) {
+      setActivePreset('custom-live');
+    }
+  };
 
   const handlePageChange = (nextPage) => {
     const page = Math.min(Math.max(nextPage, 1), totalPages);
@@ -1610,7 +1862,12 @@ export default function LexiconLab() {
           .map((group) => group.level)
           .filter(Boolean)}
         wordSourceOptions={wordSourceOptions}
-        onChange={setSettings}
+        onChange={handleSettingsChange}
+        onPresetSelect={handlePresetSelect}
+        activePreset={activePreset}
+        customPresets={customPresets}
+        onCustomSave={handleCustomSave}
+        onCustomApply={handleCustomApply}
         onClose={() => setPanelOpen(false)}
       />
     </div>
