@@ -2,7 +2,8 @@ import { useEffect, useMemo, useState } from 'react';
 import './LexiconLab.css';
 
 const SETTINGS_COOKIE = 'lexiconLabSettings';
-const POSITION_COOKIE = 'lexiconLabPosition';
+const NAV_COOKIE = 'lexiconLabNav';
+const CHUNK_SIZE = 100;
 // TODO: Remove MOBILE_PREVIEW once desktop view is restored.
 const MOBILE_PREVIEW = true;
 
@@ -645,25 +646,71 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswe
   );
 }
 
-function PracticeAnswer({ text, blurred, blurAmount }) {
+function PracticeAnswer({ text, blurred, blurAmount, onReveal }) {
   const [revealed, setRevealed] = useState(false);
+  const isRevealed = revealed || !blurred;
+  const isBlurred = blurred && !revealed;
 
-  if (!blurred) {
-    return <span className="choice answer">{text}</span>;
-  }
+  const handleClick = () => {
+    if (!revealed) {
+      setRevealed(true);
+      onReveal?.();
+    }
+  };
 
   return (
     <button
       type="button"
-      className={`choice answer quiz-answer ${revealed ? 'revealed' : 'blurred'}`}
+      className={`choice answer quiz-answer ${isBlurred ? 'blurred' : 'revealed'}`}
       style={{ '--blur-amount': `${blurAmount}px` }}
-      onClick={() => setRevealed(true)}
-      aria-pressed={revealed}
-      aria-label={revealed ? '정답이 표시되었습니다' : '정답 보기'}
-      title={revealed ? '정답 표시됨' : '클릭해서 정답 보기'}
+      onClick={handleClick}
+      aria-pressed={isRevealed}
+      aria-label={isRevealed ? '정답이 표시되었습니다' : '정답 보기'}
+      title={isRevealed ? '정답 표시됨' : '클릭해서 정답 보기'}
     >
       {text}
     </button>
+  );
+}
+
+function PracticeCard({ question, settings, onRevealWord }) {
+  const [wordRevealed, setWordRevealed] = useState(false);
+
+  const handleReveal = () => {
+    setWordRevealed(true);
+    onRevealWord?.();
+  };
+
+  return (
+    <article className="practice-card">
+      <header className="practice-card-header">
+        <p className="practice-type">{question.type}</p>
+        <span className={`practice-word ${wordRevealed ? '' : 'hidden-word'}`}>
+          {wordRevealed ? question.word : '정답을 눌러 단어 보기'}
+        </span>
+      </header>
+      {question.note && <p className="practice-note">{question.note}</p>}
+      <p className="practice-prompt">{question.prompt}</p>
+      {question.choices && (
+        <ul className="practice-choices">
+          {question.choices.map((choice) => (
+            <li key={choice} className="choice">
+              {choice}
+            </li>
+          ))}
+        </ul>
+      )}
+      {question.hint && <p className="practice-hint">힌트: {question.hint}</p>}
+      <div className="practice-answer">
+        <PracticeAnswer
+          text={question.answer}
+          blurred={settings.blurQuizAnswers}
+          blurAmount={settings.quizBlurAmount}
+          onReveal={handleReveal}
+        />
+      </div>
+      {!wordRevealed && <p className="practice-word-hint">정답 버튼을 누르면 단어가 함께 표시됩니다.</p>}
+    </article>
   );
 }
 
@@ -689,27 +736,7 @@ function PracticeSection({ questions, settings, onShuffle }) {
       {questions.length > 0 && (
         <div className="practice-grid">
           {questions.map((question, index) => (
-            <article key={`${question.type}-${question.word}-${index}`} className="practice-card">
-              <header className="practice-card-header">
-                <p className="practice-type">{question.type}</p>
-                <span className="practice-word">{question.word}</span>
-              </header>
-              {question.note && <p className="practice-note">{question.note}</p>}
-              <p className="practice-prompt">{question.prompt}</p>
-              {question.choices && (
-                <ul className="practice-choices">
-                  {question.choices.map((choice) => (
-                    <li key={choice} className="choice">
-                      {choice}
-                    </li>
-                  ))}
-                </ul>
-              )}
-              {question.hint && <p className="practice-hint">힌트: {question.hint}</p>}
-              <div className="practice-answer">
-                <PracticeAnswer text={question.answer} blurred={settings.blurQuizAnswers} blurAmount={settings.quizBlurAmount} />
-              </div>
-            </article>
+            <PracticeCard key={`${question.type}-${question.word}-${index}`} question={question} settings={settings} />
           ))}
         </div>
       )}
@@ -737,7 +764,7 @@ function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPag
         <label className="page-size" htmlFor="pageSize">
           페이지당
           <select id="pageSize" value={pageSize} onChange={handleSelectChange}>
-            {[6, 8, 10, 12].map((size) => (
+            {[8, 10, 12].map((size) => (
               <option key={size} value={size}>
                 {size}
               </option>
@@ -766,6 +793,66 @@ function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPag
           </button>
         </div>
       </div>
+    </div>
+  );
+}
+
+function ChunkControls({ currentChunk, totalChunks, onChange, startIndex, endIndex, totalItems }) {
+  if (!totalItems || totalItems <= CHUNK_SIZE) return null;
+
+  return (
+    <div className="chunk-bar" aria-label="단어 묶음 전환">
+      <div className="chunk-meta">
+        <p className="eyebrow">100개 단위 이동</p>
+        <p className="chunk-range">
+          묶음 {currentChunk + 1} / {totalChunks} · {startIndex + 1}–{endIndex} / {totalItems}
+        </p>
+      </div>
+      <div className="page-buttons">
+        <button
+          type="button"
+          className="page-button"
+          onClick={() => onChange(currentChunk - 1)}
+          disabled={currentChunk === 0}
+          aria-label="이전 100개 묶음"
+        >
+          ← 이전 100개
+        </button>
+        <button
+          type="button"
+          className="page-button"
+          onClick={() => onChange(currentChunk + 1)}
+          disabled={currentChunk >= totalChunks - 1}
+          aria-label="다음 100개 묶음"
+        >
+          다음 100개 →
+        </button>
+      </div>
+    </div>
+  );
+}
+
+function ViewSwitcher({ active, onChange }) {
+  return (
+    <div className="view-switcher" role="tablist" aria-label="학습 모드 전환">
+      <button
+        type="button"
+        role="tab"
+        aria-selected={active === 'words'}
+        className={`view-pill ${active === 'words' ? 'active' : ''}`}
+        onClick={() => onChange('words')}
+      >
+        단어 보기
+      </button>
+      <button
+        type="button"
+        role="tab"
+        aria-selected={active === 'practice'}
+        className={`view-pill ${active === 'practice' ? 'active' : ''}`}
+        onClick={() => onChange('practice')}
+      >
+        문제 풀기
+      </button>
     </div>
   );
 }
@@ -1171,9 +1258,17 @@ export default function LexiconLab() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [panelOpen, setPanelOpen] = useState(false);
-  const [currentPage, setCurrentPage] = useState(1);
-  const [pageSize, setPageSize] = useState(8);
   const [practiceSeed, setPracticeSeed] = useState(() => Date.now());
+  const [navState, setNavState] = useState({
+    view: 'words',
+    chunkIndex: 0,
+    page: 1,
+    pageSize: 8,
+  });
+
+  const updateNavState = (patch) => {
+    setNavState((prev) => ({ ...prev, ...patch }));
+  };
 
   const handleWordSourceChange = (nextSource) => {
     setSettings((prev) => ({ ...prev, wordSource: nextSource }));
@@ -1194,6 +1289,22 @@ export default function LexiconLab() {
   useEffect(() => {
     writeCookie(SETTINGS_COOKIE, JSON.stringify(settings));
   }, [settings]);
+
+  useEffect(() => {
+    const saved = readCookie(NAV_COOKIE);
+    if (saved) {
+      try {
+        const parsed = JSON.parse(saved);
+        setNavState((prev) => ({ ...prev, ...parsed }));
+      } catch (err) {
+        console.warn('탐색 쿠키를 불러오지 못했습니다.', err);
+      }
+    }
+  }, []);
+
+  useEffect(() => {
+    writeCookie(NAV_COOKIE, JSON.stringify(navState));
+  }, [navState]);
 
   useEffect(() => {
     async function loadEntries() {
@@ -1224,21 +1335,30 @@ export default function LexiconLab() {
 
   useEffect(() => {
     if (!entries.length) return;
-    const saved = Number(readCookie(POSITION_COOKIE));
-    if (!Number.isNaN(saved) && saved > 0) {
-      window.scrollTo({ top: saved, behavior: 'smooth' });
-    }
-  }, [entries]);
+    setNavState((prev) => {
+      const totalChunks = Math.max(1, Math.ceil(entries.length / CHUNK_SIZE));
+      const safeChunk = Math.min(Math.max(prev.chunkIndex, 0), totalChunks - 1);
+      const chunkStart = safeChunk * CHUNK_SIZE;
+      const chunkEntries = entries.slice(chunkStart, chunkStart + CHUNK_SIZE);
+      const totalPages = Math.max(1, Math.ceil(chunkEntries.length / prev.pageSize));
+      const safePage = Math.min(Math.max(prev.page, 1), totalPages);
+      if (safeChunk === prev.chunkIndex && safePage === prev.page) return prev;
+      return { ...prev, chunkIndex: safeChunk, page: safePage };
+    });
+  }, [entries, navState.pageSize]);
 
-  useEffect(() => {
-    setCurrentPage(1);
-  }, [entries, pageSize]);
-
-  const totalPages = Math.max(1, Math.ceil(entries.length / pageSize));
+  const totalChunks = Math.max(1, Math.ceil(entries.length / CHUNK_SIZE));
+  const chunkStartIndex = navState.chunkIndex * CHUNK_SIZE;
+  const chunkEndIndex = Math.min(chunkStartIndex + CHUNK_SIZE, entries.length);
+  const chunkEntries = useMemo(
+    () => entries.slice(chunkStartIndex, chunkEndIndex),
+    [chunkEndIndex, chunkStartIndex, entries]
+  );
+  const totalPages = Math.max(1, Math.ceil(chunkEntries.length / navState.pageSize));
   const visibleEntries = useMemo(() => {
-    const start = (currentPage - 1) * pageSize;
-    return entries.slice(start, start + pageSize);
-  }, [currentPage, entries, pageSize]);
+    const start = (navState.page - 1) * navState.pageSize;
+    return chunkEntries.slice(start, start + navState.pageSize);
+  }, [chunkEntries, navState.page, navState.pageSize]);
 
   const practiceQuestions = useMemo(
     () => buildPracticeQuestions(entries, settings, practiceSeed),
@@ -1247,17 +1367,25 @@ export default function LexiconLab() {
 
   const handlePageChange = (nextPage) => {
     const page = Math.min(Math.max(nextPage, 1), totalPages);
-    setCurrentPage(page);
+    updateNavState({ page });
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
-  useEffect(() => {
-    const handleScroll = () => {
-      writeCookie(POSITION_COOKIE, String(Math.round(window.scrollY)));
-    };
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
-  }, []);
+  const handleChunkChange = (nextChunk) => {
+    const safeChunk = Math.min(Math.max(nextChunk, 0), totalChunks - 1);
+    updateNavState({ chunkIndex: safeChunk, page: 1 });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const handlePageSizeChange = (size) => {
+    updateNavState({ pageSize: size, page: 1 });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const handleViewChange = (view) => {
+    updateNavState({ view });
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
 
   return (
     <div className={`lex-page ${MOBILE_PREVIEW ? 'lex-page--mobile' : ''}`}>
@@ -1298,12 +1426,14 @@ export default function LexiconLab() {
         </div>
       </header>
 
+      <ViewSwitcher active={navState.view} onChange={handleViewChange} />
+
       {loading && <p className="status">목록을 불러오는 중입니다...</p>}
       {error && <p className="status error">{error}</p>}
 
       {!loading && !error && entries.length === 0 && <p className="status">단어 데이터가 없습니다.</p>}
 
-      {settings.showWordSection && (
+      {navState.view === 'words' && settings.showWordSection && (
         <section className="word-section">
           <header className="section-title-row">
             <div>
@@ -1312,13 +1442,22 @@ export default function LexiconLab() {
             </div>
           </header>
 
+          <ChunkControls
+            currentChunk={navState.chunkIndex}
+            totalChunks={totalChunks}
+            onChange={handleChunkChange}
+            startIndex={chunkStartIndex}
+            endIndex={chunkEndIndex}
+            totalItems={entries.length}
+          />
+
           <PaginationControls
-            currentPage={currentPage}
+            currentPage={navState.page}
             totalPages={totalPages}
             onChange={handlePageChange}
-            pageSize={pageSize}
-            onPageSizeChange={setPageSize}
-            totalItems={entries.length}
+            pageSize={navState.pageSize}
+            onPageSizeChange={handlePageSizeChange}
+            totalItems={chunkEntries.length}
           />
 
           {visibleEntries.map((entry) => (
@@ -1326,17 +1465,26 @@ export default function LexiconLab() {
           ))}
 
           <PaginationControls
-            currentPage={currentPage}
+            currentPage={navState.page}
             totalPages={totalPages}
             onChange={handlePageChange}
-            pageSize={pageSize}
-            onPageSizeChange={setPageSize}
+            pageSize={navState.pageSize}
+            onPageSizeChange={handlePageSizeChange}
+            totalItems={chunkEntries.length}
+          />
+
+          <ChunkControls
+            currentChunk={navState.chunkIndex}
+            totalChunks={totalChunks}
+            onChange={handleChunkChange}
+            startIndex={chunkStartIndex}
+            endIndex={chunkEndIndex}
             totalItems={entries.length}
           />
         </section>
       )}
 
-      {settings.showPracticeSection && (
+      {navState.view === 'practice' && settings.showPracticeSection && (
         <PracticeSection
           questions={practiceQuestions}
           settings={settings}

@@ -43,6 +43,33 @@
   gap: 12px;
 }
 
+.view-switcher {
+  display: inline-flex;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  padding: 6px;
+  border-radius: 14px;
+  margin: 6px 0 14px;
+}
+
+.view-pill {
+  border: none;
+  background: transparent;
+  color: #b9c6e8;
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s ease, color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.view-pill.active {
+  background: linear-gradient(135deg, #1d4ed8, #2563eb);
+  color: #e7ecf6;
+  box-shadow: 0 12px 24px rgba(37, 99, 235, 0.35);
+}
+
 .source-selector {
   display: grid;
   gap: 6px;
@@ -185,6 +212,29 @@
   box-shadow: none;
 }
 
+.chunk-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 16px;
+  margin: 6px 0;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 14px;
+}
+
+.chunk-meta {
+  display: grid;
+  gap: 2px;
+}
+
+.chunk-range {
+  margin: 0;
+  color: #c3d4ff;
+  font-weight: 700;
+}
+
 .word-section {
   display: grid;
   gap: 12px;
@@ -264,6 +314,7 @@
   padding: 16px;
   margin-bottom: 18px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
+  position: relative;
 }
 
 .lex-card-sticky {
@@ -314,6 +365,16 @@
   justify-content: space-between;
   margin-bottom: 12px;
   gap: 12px;
+  position: sticky;
+  top: 6px;
+  z-index: 6;
+  padding: 10px 12px;
+  margin: -6px -12px 12px;
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.92), rgba(24, 36, 64, 0.92));
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(6px);
 }
 
 .entry-word {
@@ -736,6 +797,14 @@
   align-items: center;
   justify-content: space-between;
   gap: 12px;
+  position: sticky;
+  top: 6px;
+  background: rgba(15, 23, 42, 0.9);
+  padding: 8px 10px;
+  margin: -8px -10px 10px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
 }
 
 .practice-type {
@@ -749,6 +818,12 @@
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: #7ea8ff;
+  transition: filter 0.2s ease, color 0.2s ease;
+}
+
+.practice-word.hidden-word {
+  filter: blur(8px);
+  color: #6277a8;
 }
 
 .practice-note {
@@ -779,6 +854,12 @@
 .practice-answer {
   display: flex;
   justify-content: flex-start;
+}
+
+.practice-word-hint {
+  margin: 0;
+  color: #9fb0ce;
+  font-size: 13px;
 }
 
 .grid-two {
