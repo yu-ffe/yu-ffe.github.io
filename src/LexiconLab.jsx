@@ -10,7 +10,7 @@ const MAX_CUSTOM_PRESETS = 3;
 // TODO: Remove MOBILE_PREVIEW once desktop view is restored.
 const MOBILE_PREVIEW = true;
 const CHUNK_SIZE = 100;
-const PAGE_SIZE_OPTIONS = [8, 10, 12];
+const PAGE_SIZE_OPTIONS = [6, 8, 10, 12];
 
 const wordSources = import.meta.glob('../public/assets/words/json/**/*.json', { eager: true });
 
@@ -87,19 +87,19 @@ const presetOptions = [
     description: '필수 정보와 핵심 예시만 남긴 버전',
     settings: {
       showConcept: true,
-      meaningLimit: 2,
+      meaningLimit: 3,
       showClassification: true,
-      showRelations: false,
+      showRelations: true,
       showUsageContext: false,
-      showFormDetails: false,
+      showFormDetails: true,
       showCollocations: true,
       showExamples: true,
-      showQuiz: false,
+      showQuiz: true,
       showWordSection: true,
       showPracticeSection: true,
       blurQuizAnswers: false,
     },
-    selectedPracticeModules: ['meaningRecall', 'sentenceTranslation'],
+    selectedPracticeModules: ['meaningRecall', 'sentenceTranslation', 'preposition', 'contextMeaning'],
   },
   {
     key: 'study-plus',
@@ -107,7 +107,7 @@ const presetOptions = [
     description: '조금 더 많은 학습 정보를 포함',
     settings: {
       showConcept: true,
-      meaningLimit: 3,
+      meaningLimit: 4,
       showClassification: true,
       showRelations: true,
       showUsageContext: true,
@@ -119,7 +119,7 @@ const presetOptions = [
       showPracticeSection: true,
       blurQuizAnswers: true,
     },
-    selectedPracticeModules: ['meaningRecall', 'sentenceTranslation', 'preposition', 'contextMeaning'],
+    selectedPracticeModules: ['meaningRecall', 'sentenceTranslation', 'preposition', 'contextMeaning', 'naturalness', 'wrongCombination'],
   },
   {
     key: 'full',
@@ -190,6 +190,19 @@ function readCookie(name) {
   return value ? decodeURIComponent(value.split('=')[1]) : '';
 }
 
+function readJsonCookie(name, fallback = null) {
+  const raw = readCookie(name);
+  if (!raw) return fallback;
+  try {
+    return JSON.parse(raw);
+  } catch (err) {
+    const numeric = Number(raw);
+    if (!Number.isNaN(numeric)) return numeric;
+    console.warn(`${name} 쿠키를 JSON으로 해석하지 못했습니다.`, err);
+    return fallback;
+  }
+}
+
 function writeCookie(name, value, days = 90) {
   if (typeof document === 'undefined') return;
   const expires = new Date(Date.now() + days * 24 * 60 * 60 * 1000).toUTCString();
@@ -222,6 +235,44 @@ function normalizePageSize(value) {
   const parsed = Number(value);
   if (PAGE_SIZE_OPTIONS.includes(parsed)) return parsed;
   return PAGE_SIZE_OPTIONS[0];
+}
+
+function loadInitialSettings() {
+  const saved = readJsonCookie(SETTINGS_COOKIE, {});
+  const merged = {
+    ...defaultSettings,
+    ...(saved && typeof saved === 'object' ? saved : {}),
+  };
+
+  merged.meaningLimit = clamp(Number(merged.meaningLimit) || defaultSettings.meaningLimit, 1, 10);
+  merged.quizItemLimit = clamp(Number(merged.quizItemLimit) || defaultSettings.quizItemLimit, 1, 10);
+  merged.practiceItemLimit = clamp(
+    Number(merged.practiceItemLimit) || defaultSettings.practiceItemLimit,
+    3,
+    20
+  );
+  merged.wordSource = merged.wordSource || defaultSettings.wordSource;
+  merged.selectedLevels = merged.selectedLevels?.length ? merged.selectedLevels : [...defaultSettings.selectedLevels];
+  merged.selectedPracticeModules = Array.isArray(merged.selectedPracticeModules) && merged.selectedPracticeModules.length
+    ? merged.selectedPracticeModules
+    : [...defaultSettings.selectedPracticeModules];
+
+  return merged;
+}
+
+function loadInitialViewState() {
+  const viewState = readJsonCookie(VIEW_COOKIE, {}) || {};
+  const positionState = readJsonCookie(POSITION_COOKIE, {}) || {};
+  const combined = { ...viewState, ...positionState };
+
+  const viewMode = combined.viewMode === 'practice' ? 'practice' : 'words';
+  const chunkIndex = Number.isInteger(combined.chunkIndex) ? Math.max(0, combined.chunkIndex) : 0;
+  const page = Number.isInteger(combined.page) ? Math.max(1, combined.page) : 1;
+  const pageSize = normalizePageSize(combined.pageSize);
+  const savedLocation =
+    combined && typeof combined === 'object' && Object.keys(combined).length > 0 ? combined : null;
+
+  return { viewMode, chunkIndex, page, pageSize, savedLocation };
 }
 
 function loadWordEntries(sourceFilter) {
@@ -912,7 +963,8 @@ function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPag
 
   const handleSelectChange = (event) => {
     const next = Number(event.target.value);
-    onPageSizeChange(Number.isNaN(next) ? 8 : next);
+    const normalized = normalizePageSize(Number.isNaN(next) ? pageSize : next);
+    onPageSizeChange(normalized);
   };
 
   return (
@@ -927,7 +979,7 @@ function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPag
         <label className="page-size" htmlFor="pageSize">
           페이지당
           <select id="pageSize" value={pageSize} onChange={handleSelectChange}>
-            {[6, 8, 10, 12].map((size) => (
+            {PAGE_SIZE_OPTIONS.map((size) => (
               <option key={size} value={size}>
                 {size}
               </option>
@@ -1462,19 +1514,24 @@ function LexiconEntry({ entry, settings }) {
 }
 
 export default function LexiconLab() {
-  const [settings, setSettings] = useState(defaultSettings);
+  const initialViewState = useMemo(() => loadInitialViewState(), []);
+
+  const [settings, setSettings] = useState(() => loadInitialSettings());
   const [entries, setEntries] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState('');
   const [panelOpen, setPanelOpen] = useState(false);
-  const [viewMode, setViewMode] = useState('words');
-  const [chunkIndex, setChunkIndex] = useState(0);
-  const [currentPage, setCurrentPage] = useState(1);
-  const [pageSize, setPageSize] = useState(PAGE_SIZE_OPTIONS[0]);
-  const [savedLocation, setSavedLocation] = useState(null);
+  const [viewMode, setViewMode] = useState(initialViewState.viewMode);
+  const [chunkIndex, setChunkIndex] = useState(initialViewState.chunkIndex);
+  const [currentPage, setCurrentPage] = useState(initialViewState.page);
+  const [pageSize, setPageSize] = useState(initialViewState.pageSize);
+  const [savedLocation, setSavedLocation] = useState(initialViewState.savedLocation);
   const [practiceSeed, setPracticeSeed] = useState(() => Date.now());
-  const [activePreset, setActivePreset] = useState('');
-  const [customPresets, setCustomPresets] = useState([]);
+  const [activePreset, setActivePreset] = useState(() => readCookie(PRESET_COOKIE) || '');
+  const [customPresets, setCustomPresets] = useState(() => {
+    const savedCustom = readJsonCookie(CUSTOM_PRESET_COOKIE, []);
+    return normalizeCustomPresets(Array.isArray(savedCustom) ? savedCustom : []);
+  });
 
   const handleWordSourceChange = (nextSource) => {
     setSettings((prev) => ({ ...prev, wordSource: nextSource }));
@@ -1514,68 +1571,6 @@ export default function LexiconLab() {
   const handleApplyCustomPreset = (slotIndex) => {
     handlePresetApply(`custom-${slotIndex}`);
   };
-
-  useEffect(() => {
-    const saved = readCookie(SETTINGS_COOKIE);
-    if (saved) {
-      try {
-        const parsed = JSON.parse(saved);
-        setSettings({ ...defaultSettings, ...parsed });
-      } catch (err) {
-        console.warn('설정 쿠키를 불러오지 못했습니다.', err);
-      }
-    }
-  }, []);
-
-  useEffect(() => {
-    const savedPresetKey = readCookie(PRESET_COOKIE);
-    if (savedPresetKey) {
-      setActivePreset(savedPresetKey);
-    }
-
-    const savedCustom = readCookie(CUSTOM_PRESET_COOKIE);
-    if (savedCustom) {
-      try {
-        setCustomPresets(normalizeCustomPresets(JSON.parse(savedCustom)));
-      } catch (err) {
-        console.warn('커스텀 프리셋을 불러오지 못했습니다.', err);
-      }
-    }
-  }, []);
-
-  useEffect(() => {
-    const savedView = readCookie(VIEW_COOKIE);
-    if (savedView) {
-      try {
-        const parsed = JSON.parse(savedView);
-        if (parsed.viewMode) setViewMode(parsed.viewMode);
-        if (Number.isInteger(parsed.chunkIndex)) setChunkIndex(Math.max(0, parsed.chunkIndex));
-        if (parsed.pageSize) setPageSize(normalizePageSize(parsed.pageSize));
-        if (Number.isInteger(parsed.page)) setCurrentPage(Math.max(1, parsed.page));
-      } catch (err) {
-        console.warn('뷰 쿠키를 불러오지 못했습니다.', err);
-      }
-    }
-
-    const savedPosition = readCookie(POSITION_COOKIE);
-    if (savedPosition) {
-      try {
-        const parsed = JSON.parse(savedPosition);
-        setSavedLocation(parsed);
-        if (parsed.viewMode) setViewMode(parsed.viewMode);
-        if (Number.isInteger(parsed.chunkIndex)) setChunkIndex(Math.max(0, parsed.chunkIndex));
-        if (Number.isInteger(parsed.page)) setCurrentPage(Math.max(1, parsed.page));
-        if (parsed.pageSize) setPageSize(normalizePageSize(parsed.pageSize));
-      } catch (err) {
-        const numeric = Number(savedPosition);
-        if (!Number.isNaN(numeric) && numeric > 0) {
-          setSavedLocation({ scroll: numeric });
-        } else {
-          console.warn('위치 쿠키를 불러오지 못했습니다.', err);
-        }
-      }
-    }
-  }, []);
 
   useEffect(() => {
     writeCookie(SETTINGS_COOKIE, JSON.stringify(settings));
@@ -1660,19 +1655,21 @@ export default function LexiconLab() {
 
   useEffect(() => {
     if (!entries.length || !savedLocation) return;
-    const nextChunk = clamp(savedLocation.chunkIndex ?? chunkIndex, 0, chunkCount - 1);
-    setChunkIndex(nextChunk);
+    const locationData =
+      typeof savedLocation === 'object' ? savedLocation : { scroll: Number(savedLocation) };
+    const nextChunk = clamp(locationData.chunkIndex ?? chunkIndex, 0, chunkCount - 1);
+    if (nextChunk !== chunkIndex) setChunkIndex(nextChunk);
     const itemsInChunk = entries.slice(nextChunk * CHUNK_SIZE, nextChunk * CHUNK_SIZE + CHUNK_SIZE).length;
     const pagesForChunk = Math.max(1, Math.ceil(itemsInChunk / pageSize));
-    const targetPage = clamp(savedLocation.page ?? savedLocation.currentPage ?? currentPage, 1, pagesForChunk);
-    setCurrentPage(targetPage);
-    if (savedLocation.viewMode) setViewMode(savedLocation.viewMode);
-    const savedScroll = savedLocation.scroll ?? savedLocation.position ?? savedLocation.scrollY;
+    const targetPage = clamp(locationData.page ?? locationData.currentPage ?? currentPage, 1, pagesForChunk);
+    if (targetPage !== currentPage) setCurrentPage(targetPage);
+    if (locationData.viewMode && locationData.viewMode !== viewMode) setViewMode(locationData.viewMode);
+    const savedScroll = locationData.scroll ?? locationData.position ?? locationData.scrollY;
     if (typeof savedScroll === 'number') {
       window.scrollTo({ top: savedScroll, behavior: 'smooth' });
     }
     setSavedLocation(null);
-  }, [chunkCount, chunkIndex, currentPage, entries, pageSize, savedLocation]);
+  }, [chunkCount, chunkIndex, currentPage, entries, pageSize, savedLocation, viewMode]);
 
   const totalPages = Math.max(1, Math.ceil(Math.max(chunkEntries.length, 1) / pageSize));
   const visibleEntries = useMemo(() => {
