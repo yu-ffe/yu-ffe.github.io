@@ -34,6 +34,7 @@ const defaultSettings = {
   showRelations: true,
   showUsageContext: true,
   showFormDetails: true,
+  showNuance: true,
   showCollocations: true,
   showExamples: true,
   showQuiz: true,
@@ -42,6 +43,8 @@ const defaultSettings = {
   showStickyPos: true,
   blurQuizAnswers: true,
   quizBlurAmount: 8,
+  collocationLimitPerLevel: null,
+  exampleLimitPerLevel: null,
   levelMode: 'all',
   selectedLevels: ['상', '중', '하'],
   quizItemLimit: 3,
@@ -72,12 +75,15 @@ const presetOptions = [
       showRelations: false,
       showUsageContext: false,
       showFormDetails: false,
+      showNuance: false,
       showCollocations: false,
       showExamples: false,
       showQuiz: false,
       showWordSection: true,
       showPracticeSection: false,
       blurQuizAnswers: false,
+      collocationLimitPerLevel: null,
+      exampleLimitPerLevel: null,
     },
     selectedPracticeModules: [],
   },
@@ -91,13 +97,16 @@ const presetOptions = [
       showClassification: true,
       showRelations: true,
       showUsageContext: false,
-      showFormDetails: true,
+      showFormDetails: false,
+      showNuance: false,
       showCollocations: true,
       showExamples: true,
-      showQuiz: true,
+      showQuiz: false,
       showWordSection: true,
       showPracticeSection: true,
       blurQuizAnswers: false,
+      collocationLimitPerLevel: 1,
+      exampleLimitPerLevel: 1,
     },
     selectedPracticeModules: ['meaningRecall', 'sentenceTranslation', 'preposition', 'contextMeaning'],
   },
@@ -110,14 +119,17 @@ const presetOptions = [
       meaningLimit: 4,
       showClassification: true,
       showRelations: true,
-      showUsageContext: true,
-      showFormDetails: true,
+      showUsageContext: false,
+      showFormDetails: false,
+      showNuance: false,
       showCollocations: true,
       showExamples: true,
       showQuiz: true,
       showWordSection: true,
       showPracticeSection: true,
       blurQuizAnswers: true,
+      collocationLimitPerLevel: null,
+      exampleLimitPerLevel: null,
     },
     selectedPracticeModules: ['meaningRecall', 'sentenceTranslation', 'preposition', 'contextMeaning', 'naturalness', 'wrongCombination'],
   },
@@ -138,10 +150,23 @@ const presetOptions = [
       showWordSection: true,
       showPracticeSection: true,
       blurQuizAnswers: true,
+      showNuance: true,
+      collocationLimitPerLevel: null,
+      exampleLimitPerLevel: null,
     },
     selectedPracticeModules: defaultSettings.selectedPracticeModules,
   },
 ];
+
+function cloneDefaultSettings(base = defaultSettings) {
+  return {
+    ...base,
+    selectedLevels: Array.isArray(base.selectedLevels) ? [...base.selectedLevels] : ['상', '중', '하'],
+    selectedPracticeModules: Array.isArray(base.selectedPracticeModules)
+      ? [...base.selectedPracticeModules]
+      : [...defaultSettings.selectedPracticeModules],
+  };
+}
 
 const practiceModules = [
   {
@@ -214,8 +239,11 @@ function normalizeCustomPresets(value) {
   return value.slice(0, MAX_CUSTOM_PRESETS).map((preset, index) => ({
     key: preset?.key || `custom-${index}`,
     label: preset?.label || `커스텀 ${index + 1}`,
-    settings: preset?.settings || defaultSettings,
-    selectedPracticeModules: preset?.selectedPracticeModules || preset?.settings?.selectedPracticeModules,
+    settings: preset?.settings ? { ...preset.settings } : cloneDefaultSettings(),
+    selectedPracticeModules:
+      preset?.selectedPracticeModules ||
+      preset?.settings?.selectedPracticeModules ||
+      cloneDefaultSettings().selectedPracticeModules,
   }));
 }
 
@@ -237,10 +265,16 @@ function normalizePageSize(value) {
   return PAGE_SIZE_OPTIONS[0];
 }
 
+function normalizeOptionalLimit(value) {
+  const parsed = Number(value);
+  if (Number.isInteger(parsed) && parsed > 0) return parsed;
+  return null;
+}
+
 function loadInitialSettings() {
   const saved = readJsonCookie(SETTINGS_COOKIE, {});
   const merged = {
-    ...defaultSettings,
+    ...cloneDefaultSettings(defaultSettings),
     ...(saved && typeof saved === 'object' ? saved : {}),
   };
 
@@ -256,6 +290,9 @@ function loadInitialSettings() {
   merged.selectedPracticeModules = Array.isArray(merged.selectedPracticeModules) && merged.selectedPracticeModules.length
     ? merged.selectedPracticeModules
     : [...defaultSettings.selectedPracticeModules];
+  merged.collocationLimitPerLevel = normalizeOptionalLimit(merged.collocationLimitPerLevel);
+  merged.exampleLimitPerLevel = normalizeOptionalLimit(merged.exampleLimitPerLevel);
+  merged.showNuance = merged.showNuance !== false;
 
   return merged;
 }
@@ -324,6 +361,7 @@ function SettingsPanel({
   customPresets,
   onSaveCustomPreset,
   onApplyCustomPreset,
+  onReset,
 }) {
   const safeLevels = levelOptions?.length ? Array.from(new Set(levelOptions)) : ['상', '중', '하'];
   const safeSources = sources?.length ? sources : [];
@@ -350,9 +388,14 @@ function SettingsPanel({
           <p className="eyebrow">맞춤 설정</p>
           <h2>Lexicon Control</h2>
         </div>
-        <button className="ghost" type="button" onClick={onClose} aria-label="설정 닫기">
-          ✕
-        </button>
+        <div className="settings-header-actions">
+          <button className="ghost subtle" type="button" onClick={onReset}>
+            초기화
+          </button>
+          <button className="ghost" type="button" onClick={onClose} aria-label="설정 닫기">
+            ✕
+          </button>
+        </div>
       </header>
 
       <SettingGroup title="프리셋" description="원클릭으로 보기/문제 구성을 전환합니다.">
@@ -768,7 +811,7 @@ function PrepositionPatternList({ patterns }) {
   );
 }
 
-function CollocationList({ groups, showKorean }) {
+function CollocationList({ groups, showKorean, limitPerLevel }) {
   if (!groups || groups.length === 0) return <p className="muted">콜로케이션 정보가 없습니다.</p>;
   return (
     <div className="collocation-groups">
@@ -777,7 +820,7 @@ function CollocationList({ groups, showKorean }) {
           <LevelIndicator level={group.level} />
           <ul className="collocation-list">
             {group.items?.length ? (
-              group.items.map((item, index) => (
+              (limitPerLevel ? group.items.slice(0, limitPerLevel) : group.items).map((item, index) => (
                 <li key={`${item.phrase}-${index}`}>
                   <div className="collocation-head">
                     <span className="phrase">{item.phrase}</span>
@@ -795,7 +838,7 @@ function CollocationList({ groups, showKorean }) {
   );
 }
 
-function ExampleList({ examples, showKorean }) {
+function ExampleList({ examples, showKorean, limitPerLevel }) {
   if (!examples || examples.length === 0) return <p className="muted">예문이 없습니다.</p>;
   return (
     <div className="example-groups">
@@ -804,7 +847,7 @@ function ExampleList({ examples, showKorean }) {
           <LevelIndicator level={group.level} />
           <ol className="example-list">
             {group.items?.length ? (
-              group.items.map((item, index) => (
+              (limitPerLevel ? group.items.slice(0, limitPerLevel) : group.items).map((item, index) => (
                 <li key={`${item.sentence}-${index}`}>
                   <p className="meaning-en">{item.sentence}</p>
                   {showKorean && <p className="meaning-ko">{item.meaning_ko}</p>}
@@ -1305,11 +1348,11 @@ function buildPracticeQuestions(entries, settings, seed) {
 
 function LexiconEntry({ entry, settings }) {
   const [openSections, setOpenSections] = useState({
-    core: false,
-    context: false,
-    grammar: false,
-    resources: false,
-    quiz: false,
+    core: true,
+    context: true,
+    grammar: true,
+    resources: true,
+    quiz: true,
   });
 
   const availableLevels = useMemo(() => {
@@ -1333,6 +1376,16 @@ function LexiconEntry({ entry, settings }) {
   const toggleSection = (key) => {
     setOpenSections((prev) => ({ ...prev, [key]: !prev[key] }));
   };
+
+  useEffect(() => {
+    setOpenSections((prev) => ({
+      ...prev,
+      context: settings.showUsageContext ? true : prev.context,
+      grammar: settings.showFormDetails ? true : prev.grammar,
+      resources: settings.showCollocations || settings.showExamples ? true : prev.resources,
+      quiz: settings.showQuiz ? true : prev.quiz,
+    }));
+  }, [settings.showCollocations, settings.showExamples, settings.showFormDetails, settings.showQuiz, settings.showUsageContext]);
 
   return (
     <article className="lex-card">
@@ -1391,7 +1444,7 @@ function LexiconEntry({ entry, settings }) {
               </div>
             ) : null}
 
-            {entry.nuanceRegister && (
+            {settings.showNuance && entry.nuanceRegister && (
               <div className="fact subtle">
                 <span className="fact-label">뉘앙스 · 레지스터</span>
                 <p className="meaning-note">{entry.nuanceRegister}</p>
@@ -1502,8 +1555,20 @@ function LexiconEntry({ entry, settings }) {
           open={openSections.resources}
           onToggle={() => toggleSection('resources')}
         >
-          {settings.showCollocations && <CollocationList groups={filteredCollocations} showKorean={settings.showKoreanMeanings} />}
-          {settings.showExamples && <ExampleList examples={filteredExamples} showKorean={settings.showKoreanMeanings} />}
+          {settings.showCollocations && (
+            <CollocationList
+              groups={filteredCollocations}
+              showKorean={settings.showKoreanMeanings}
+              limitPerLevel={settings.collocationLimitPerLevel}
+            />
+          )}
+          {settings.showExamples && (
+            <ExampleList
+              examples={filteredExamples}
+              showKorean={settings.showKoreanMeanings}
+              limitPerLevel={settings.exampleLimitPerLevel}
+            />
+          )}
           {!filteredCollocations.length && !filteredExamples.length && (
             <p className="muted">선택한 레벨에 해당하는 예시가 없습니다.</p>
           )}
@@ -1590,14 +1655,22 @@ export default function LexiconLab() {
     handlePresetApply(`custom-${slotIndex}`);
   };
 
+  const handleResetSettings = () => {
+    const reset = cloneDefaultSettings();
+    setSettings(reset);
+    setActivePreset('');
+    setPracticeSeed(Date.now());
+    setChunkIndex(0);
+    setCurrentPage(1);
+    setViewMode('words');
+  };
+
   useEffect(() => {
     writeCookie(SETTINGS_COOKIE, JSON.stringify(settings));
   }, [settings]);
 
   useEffect(() => {
-    if (activePreset) {
-      writeCookie(PRESET_COOKIE, activePreset);
-    }
+    writeCookie(PRESET_COOKIE, activePreset || '');
   }, [activePreset]);
 
   useEffect(() => {
@@ -1867,6 +1940,7 @@ export default function LexiconLab() {
         customPresets={customPresets}
         onSaveCustomPreset={handleSaveCustomPreset}
         onApplyCustomPreset={handleApplyCustomPreset}
+        onReset={handleResetSettings}
       />
     </div>
   );
