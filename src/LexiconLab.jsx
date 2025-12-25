@@ -39,13 +39,13 @@ const defaultSettings = {
   showExamples: true,
   showQuiz: true,
   showKoreanMeanings: true,
+  blurKoreanMeanings: false,
   showStickyWord: true,
   showStickyPos: true,
   blurQuizAnswers: true,
   quizBlurAmount: 8,
   collocationLimitPerLevel: null,
   exampleLimitPerLevel: null,
-  levelMode: 'all',
   selectedLevels: ['상', '중', '하'],
   quizItemLimit: 3,
   wordSource: 'all',
@@ -293,6 +293,9 @@ function loadInitialSettings() {
   merged.collocationLimitPerLevel = normalizeOptionalLimit(merged.collocationLimitPerLevel);
   merged.exampleLimitPerLevel = normalizeOptionalLimit(merged.exampleLimitPerLevel);
   merged.showNuance = merged.showNuance !== false;
+  merged.blurKoreanMeanings = merged.blurKoreanMeanings === true;
+  merged.showWordSection = true;
+  merged.showPracticeSection = true;
 
   return merged;
 }
@@ -355,7 +358,6 @@ function SettingsPanel({
   onChange,
   onClose,
   levelOptions,
-  wordSourceOptions: sources,
   activePreset,
   onPresetApply,
   customPresets,
@@ -364,7 +366,6 @@ function SettingsPanel({
   onReset,
 }) {
   const safeLevels = levelOptions?.length ? Array.from(new Set(levelOptions)) : ['상', '중', '하'];
-  const safeSources = sources?.length ? sources : [];
 
   const handleLevelToggle = (level) => {
     const exists = settings.selectedLevels.includes(level);
@@ -469,71 +470,7 @@ function SettingsPanel({
         </div>
       </SettingGroup>
 
-      <SettingGroup title="학습 섹션" description="단어 보기와 문제 모드 노출 여부를 제어합니다.">
-        <div className="settings-grid">
-          <SettingToggle
-            label="단어 보기 섹션"
-            description="단어 카드 목록을 보여 줍니다."
-            checked={settings.showWordSection}
-            onChange={(value) => onChange({ ...settings, showWordSection: value })}
-          />
-          <SettingToggle
-            label="문제 모드 섹션"
-            description="선택한 모듈로 문제를 섞어 보여 줍니다."
-            checked={settings.showPracticeSection}
-            onChange={(value) => onChange({ ...settings, showPracticeSection: value })}
-          />
-        </div>
-      </SettingGroup>
-
-      {safeSources.length > 0 && (
-        <SettingGroup title="자료 선택" description="표시할 단어장 폴더를 선택하세요.">
-          <div className="radio-row">
-            <label>
-              <input
-                type="radio"
-                name="wordSource"
-                value="all"
-                checked={settings.wordSource === 'all'}
-                onChange={(e) => onChange({ ...settings, wordSource: e.target.value })}
-              />
-              전체
-            </label>
-            {safeSources.map((source) => (
-              <label key={source}>
-                <input
-                  type="radio"
-                  name="wordSource"
-                  value={source}
-                  checked={settings.wordSource === source}
-                  onChange={(e) => onChange({ ...settings, wordSource: e.target.value })}
-                />
-                {getWordSourceLabel(source)}
-              </label>
-            ))}
-          </div>
-          <p className="setting-desc">선택한 폴더 내부 JSON을 모두 불러옵니다.</p>
-        </SettingGroup>
-      )}
-
       <SettingGroup title="뜻 · 관계" description="의미 설명과 연결 관계를 얼마나 보여 줄지 제어합니다.">
-        <div className="setting-field">
-          <label htmlFor="meaningLimit">뜻 표시 개수</label>
-          <input
-            id="meaningLimit"
-            type="number"
-            min="1"
-            max="10"
-            value={settings.meaningLimit}
-            onChange={(e) => {
-              const parsed = Number(e.target.value);
-              const nextValue = Number.isNaN(parsed) ? 1 : Math.min(10, Math.max(1, parsed));
-              onChange({ ...settings, meaningLimit: nextValue });
-            }}
-          />
-          <p className="setting-desc">주요 뜻을 중요도 순서대로 최대 N개까지 보여 줍니다.</p>
-        </div>
-
         <SettingToggle
           label="단어 관계 표시"
           description="파생어, 관련어, 동의/반의어 등 연결 관계 카테고리를 보여 줍니다."
@@ -542,33 +479,7 @@ function SettingsPanel({
         />
       </SettingGroup>
 
-      <SettingGroup
-        title="레벨 노출 방식"
-        description="lexicon.json에서 감지한 레벨(상/중/하)을 한 번에 볼지, 필요한 것만 골라 볼지 선택하세요."
-      >
-        <div className="radio-row">
-          <label>
-            <input
-              type="radio"
-              name="levelMode"
-              value="all"
-              checked={settings.levelMode === 'all'}
-              onChange={(e) => onChange({ ...settings, levelMode: e.target.value })}
-            />
-            전체 레벨 연속 보기
-          </label>
-          <label>
-            <input
-              type="radio"
-              name="levelMode"
-              value="custom"
-              checked={settings.levelMode === 'custom'}
-              onChange={(e) => onChange({ ...settings, levelMode: e.target.value })}
-            />
-            선택한 레벨만 보기
-          </label>
-        </div>
-
+      <SettingGroup title="레벨 노출 방식" description="필요한 레벨만 켜서 살펴보세요. (상/중/하 개별 on/off)">
         <div className="level-picker" aria-label="레벨 선택">
           {safeLevels.map((level) => (
             <button
@@ -625,6 +536,12 @@ function SettingsPanel({
           description="의미, 예문 해석, 선택형 퀴즈 힌트를 함께 보여 줍니다."
           checked={settings.showKoreanMeanings}
           onChange={(value) => onChange({ ...settings, showKoreanMeanings: value })}
+        />
+        <SettingToggle
+          label="한국어 뜻 블러 처리"
+          description="표시된 한국어 뜻을 흐리게 두고, 클릭하면 선명하게 드러나도록 합니다."
+          checked={settings.blurKoreanMeanings}
+          onChange={(value) => onChange({ ...settings, blurKoreanMeanings: value })}
         />
       </SettingGroup>
 
@@ -748,6 +665,38 @@ function LevelIndicator({ level }) {
   );
 }
 
+function BlurReveal({ text, as = 'span', blurred, className = '' }) {
+  const [revealed, setRevealed] = useState(false);
+  const Tag = as;
+
+  if (!blurred) {
+    return <Tag className={className}>{text}</Tag>;
+  }
+
+  const handleReveal = () => setRevealed(true);
+  const handleKeyDown = (event) => {
+    if (event.key === 'Enter' || event.key === ' ') {
+      event.preventDefault();
+      setRevealed(true);
+    }
+  };
+
+  return (
+    <Tag
+      className={`${className} blur-reveal ${revealed ? 'revealed' : 'blurred'}`}
+      role="button"
+      tabIndex={0}
+      onClick={handleReveal}
+      onKeyDown={handleKeyDown}
+      aria-pressed={revealed}
+      aria-label={revealed ? '뜻이 표시되었습니다' : '클릭하여 뜻 보기'}
+    >
+      <span className="blur-reveal__text">{text}</span>
+      {!revealed && <span className="blur-reveal__hint">탭/클릭하여 보기</span>}
+    </Tag>
+  );
+}
+
 function PillList({ label, items, showMeaning }) {
   if (!items || items.length === 0) return null;
   const renderItem = (item) => {
@@ -773,28 +722,29 @@ function PillList({ label, items, showMeaning }) {
   );
 }
 
-function MeaningList({ meanings, limit, showKorean }) {
+function MeaningList({ meanings, limit, showKorean, blurKoreanMeanings }) {
   const limited = useMemo(() => meanings?.slice(0, limit) ?? [], [limit, meanings]);
 
   if (!limited.length) return <p className="muted">뜻 정보가 없습니다.</p>;
 
   return (
-    <ol className="meaning-list">
+    <ul className="meaning-list">
       {limited.map((meaning, index) => (
         <li key={`${meaning.definition_en}-${index}`}>
-          <span className="badge">{index + 1}</span>
           <div className="meaning-texts">
             <p className="meaning-en">{meaning.definition_en}</p>
-            {showKorean && <p className="meaning-ko">{meaning.definition_ko}</p>}
+            {showKorean && meaning.definition_ko && (
+              <BlurReveal as="p" className="meaning-ko" text={meaning.definition_ko} blurred={blurKoreanMeanings} />
+            )}
             {meaning.note && <p className="meaning-note">{meaning.note}</p>}
           </div>
         </li>
       ))}
-    </ol>
+    </ul>
   );
 }
 
-function PrepositionPatternList({ patterns }) {
+function PrepositionPatternList({ patterns, blurKoreanMeanings }) {
   if (!patterns?.length) return <p className="muted">전치사 패턴 정보가 없습니다.</p>;
   return (
     <ul className="preposition-list">
@@ -802,7 +752,9 @@ function PrepositionPatternList({ patterns }) {
         <li key={`${pattern.prep}-${index}`}>
           <span className="pill">{pattern.prep}</span>
           <div>
-            <p className="meaning-ko">{pattern.meaning_ko}</p>
+            {pattern.meaning_ko && (
+              <BlurReveal as="p" className="meaning-ko" text={pattern.meaning_ko} blurred={blurKoreanMeanings} />
+            )}
             {pattern.example && <p className="meaning-note">예: {pattern.example}</p>}
           </div>
         </li>
@@ -811,7 +763,7 @@ function PrepositionPatternList({ patterns }) {
   );
 }
 
-function CollocationList({ groups, showKorean, limitPerLevel }) {
+function CollocationList({ groups, showKorean, limitPerLevel, blurKoreanMeanings }) {
   if (!groups || groups.length === 0) return <p className="muted">콜로케이션 정보가 없습니다.</p>;
   return (
     <div className="collocation-groups">
@@ -824,7 +776,14 @@ function CollocationList({ groups, showKorean, limitPerLevel }) {
                 <li key={`${item.phrase}-${index}`}>
                   <div className="collocation-head">
                     <span className="phrase">{item.phrase}</span>
-                    {showKorean && <span className="collocation-meaning">{item.meaning_ko}</span>}
+                    {showKorean && item.meaning_ko && (
+                      <BlurReveal
+                        as="span"
+                        className="collocation-meaning"
+                        text={item.meaning_ko}
+                        blurred={blurKoreanMeanings}
+                      />
+                    )}
                   </div>
                 </li>
               ))
@@ -838,25 +797,32 @@ function CollocationList({ groups, showKorean, limitPerLevel }) {
   );
 }
 
-function ExampleList({ examples, showKorean, limitPerLevel }) {
+function ExampleList({ examples, showKorean, limitPerLevel, blurKoreanMeanings }) {
   if (!examples || examples.length === 0) return <p className="muted">예문이 없습니다.</p>;
   return (
     <div className="example-groups">
       {examples.map((group) => (
         <div key={group.level} className="example-group">
           <LevelIndicator level={group.level} />
-          <ol className="example-list">
+          <ul className="example-list">
             {group.items?.length ? (
               (limitPerLevel ? group.items.slice(0, limitPerLevel) : group.items).map((item, index) => (
                 <li key={`${item.sentence}-${index}`}>
                   <p className="meaning-en">{item.sentence}</p>
-                  {showKorean && <p className="meaning-ko">{item.meaning_ko}</p>}
+                  {showKorean && item.meaning_ko && (
+                    <BlurReveal
+                      as="p"
+                      className="meaning-ko"
+                      text={item.meaning_ko}
+                      blurred={blurKoreanMeanings}
+                    />
+                  )}
                 </li>
               ))
             ) : (
               <li className="muted">예문이 없습니다.</li>
             )}
-          </ol>
+          </ul>
         </div>
       ))}
     </div>
@@ -887,7 +853,15 @@ function QuizAnswer({ text, blurred, blurAmount }) {
   );
 }
 
-function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswers, blurAmount }) {
+function QuizList({
+  quiz,
+  showKorean,
+  limitPerLevel,
+  showTitle = true,
+  blurAnswers,
+  blurAmount,
+  blurKoreanMeanings,
+}) {
   if (!quiz || quiz.length === 0) return null;
   return (
     <div className="quiz-list">
@@ -895,12 +869,19 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswe
       {quiz.map((group) => (
         <div key={group.level} className="quiz-group">
           <LevelIndicator level={group.level} />
-          <ol>
+          <ul className="quiz-items">
             {group.items?.length ? (
               group.items.slice(0, limitPerLevel).map((item, index) => (
                 <li key={`${item.q}-${index}`}>
                   <p className="quiz-question">{item.q}</p>
-                  {showKorean && <p className="meaning-note">{item.meaning_ko}</p>}
+                  {showKorean && item.meaning_ko && (
+                    <BlurReveal
+                      as="p"
+                      className="meaning-note quiz-hint"
+                      text={item.meaning_ko}
+                      blurred={blurKoreanMeanings}
+                    />
+                  )}
                   <div className="quiz-choices">
                     <QuizAnswer text={item.a} blurred={blurAnswers} blurAmount={blurAmount} />
                   </div>
@@ -909,7 +890,7 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswe
             ) : (
               <li className="muted">이 레벨의 퀴즈가 없습니다.</li>
             )}
-          </ol>
+          </ul>
         </div>
       ))}
     </div>
@@ -1365,9 +1346,7 @@ function LexiconEntry({ entry, settings }) {
     return Array.from(levelSet);
   }, [entry]);
 
-  const levelsToShow = settings.levelMode === 'custom' && settings.selectedLevels.length
-    ? settings.selectedLevels
-    : availableLevels;
+  const levelsToShow = settings.selectedLevels?.length ? settings.selectedLevels : availableLevels;
 
   const filteredCollocations = filterByLevel(entry.collocations, levelsToShow);
   const filteredExamples = filterByLevel(entry.examples, levelsToShow);
@@ -1470,7 +1449,12 @@ function LexiconEntry({ entry, settings }) {
 
           <div className="meaning-column">
             <p className="label">주요 뜻</p>
-            <MeaningList meanings={entry.meanings} limit={settings.meaningLimit} showKorean={settings.showKoreanMeanings} />
+            <MeaningList
+              meanings={entry.meanings}
+              limit={settings.meaningLimit}
+              showKorean={settings.showKoreanMeanings}
+              blurKoreanMeanings={settings.blurKoreanMeanings}
+            />
           </div>
 
           {settings.showRelations && (
@@ -1524,7 +1508,10 @@ function LexiconEntry({ entry, settings }) {
             </div>
             <div>
               <p className="label">전치사 패턴 · 보어</p>
-              <PrepositionPatternList patterns={entry.prepositionPatterns} />
+              <PrepositionPatternList
+                patterns={entry.prepositionPatterns}
+                blurKoreanMeanings={settings.blurKoreanMeanings}
+              />
               <div className="required-complements">
                 <p className="label">필수 보어</p>
                 {entry.requiredComplements?.length ? (
@@ -1560,6 +1547,7 @@ function LexiconEntry({ entry, settings }) {
               groups={filteredCollocations}
               showKorean={settings.showKoreanMeanings}
               limitPerLevel={settings.collocationLimitPerLevel}
+              blurKoreanMeanings={settings.blurKoreanMeanings}
             />
           )}
           {settings.showExamples && (
@@ -1567,6 +1555,7 @@ function LexiconEntry({ entry, settings }) {
               examples={filteredExamples}
               showKorean={settings.showKoreanMeanings}
               limitPerLevel={settings.exampleLimitPerLevel}
+              blurKoreanMeanings={settings.blurKoreanMeanings}
             />
           )}
           {!filteredCollocations.length && !filteredExamples.length && (
@@ -1589,6 +1578,7 @@ function LexiconEntry({ entry, settings }) {
             showTitle={false}
             blurAnswers={settings.blurQuizAnswers}
             blurAmount={settings.quizBlurAmount}
+            blurKoreanMeanings={settings.blurKoreanMeanings}
           />
         </Section>
       )}
@@ -1932,7 +1922,6 @@ export default function LexiconLab() {
           .flatMap((entry) => [...(entry.collocations || []), ...(entry.examples || []), ...(entry.quiz || [])])
           .map((group) => group.level)
           .filter(Boolean)}
-        wordSourceOptions={wordSourceOptions}
         onChange={setSettings}
         onClose={() => setPanelOpen(false)}
         activePreset={activePreset}
