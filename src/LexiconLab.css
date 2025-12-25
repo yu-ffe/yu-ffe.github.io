@@ -7,6 +7,18 @@
   overflow-x: hidden;
 }
 
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .lex-page--mobile {
   max-width: 480px;
   margin: 0 auto;
@@ -349,13 +361,14 @@
   margin-bottom: 18px;
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
   position: relative;
+  --card-sticky-top: 12px;
 }
 
 .sticky-entry {
   position: sticky;
-  top: 10px;
+  top: var(--card-sticky-top);
   background: linear-gradient(180deg, rgba(15, 23, 42, 0.9), rgba(15, 23, 42, 0.75));
-  margin: -12px -12px 12px;
+  margin: -12px -12px 14px;
   padding: 12px;
   border-radius: 18px;
   backdrop-filter: blur(8px);
@@ -366,7 +379,7 @@
 
 .lex-card-sticky {
   position: sticky;
-  top: 72px;
+  top: calc(var(--card-sticky-top) + 52px);
   z-index: 5;
   display: inline-flex;
   align-items: center;
@@ -377,7 +390,8 @@
   border: 1px solid rgba(59, 130, 246, 0.4);
   box-shadow: 0 12px 24px rgba(15, 23, 42, 0.45);
   width: fit-content;
-  margin-bottom: 10px;
+  margin-bottom: 12px;
+  max-width: calc(100% - 20px);
   backdrop-filter: blur(6px);
 }
 
@@ -698,10 +712,25 @@
   gap: 8px;
 }
 
-.level-label {
-  color: #9db7ff;
-  font-weight: 700;
-  margin-bottom: 2px;
+.levelled-group {
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+  border-radius: 12px;
+  padding: 10px 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.level-indicator {
+  display: grid;
+  gap: 3px;
+  margin-bottom: 10px;
+}
+
+.level-bar {
+  height: 3px;
+  border-radius: 999px;
+  background: var(--level-color, #9db7ff);
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.06), 0 0 12px rgba(0, 0, 0, 0.3);
 }
 
 .collocation-head {

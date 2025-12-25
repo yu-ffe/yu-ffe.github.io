@@ -11,6 +11,12 @@ const MAX_CUSTOM_PRESETS = 3;
 const MOBILE_PREVIEW = true;
 const CHUNK_SIZE = 100;
 const PAGE_SIZE_OPTIONS = [6, 8, 10, 12];
+const LEVEL_COLORS = {
+  상: '#ef4444',
+  중: '#f97316',
+  하: '#facc15',
+};
+const DEFAULT_LEVEL_COLOR = '#9db7ff';
 
 const wordSources = import.meta.glob('../public/assets/words/json/**/*.json', { eager: true });
 
@@ -750,13 +756,26 @@ function PrepositionPatternList({ patterns }) {
   );
 }
 
+function LevelIndicator({ level, labelPrefix }) {
+  const color = LEVEL_COLORS[level] || DEFAULT_LEVEL_COLOR;
+  const announce = `${labelPrefix || '레벨'} ${level}`;
+
+  return (
+    <div className="level-indicator" aria-label={announce}>
+      <span className="sr-only">{announce}</span>
+      <span className="level-bar" style={{ '--level-color': color }} aria-hidden="true" />
+      <span className="level-bar" style={{ '--level-color': color }} aria-hidden="true" />
+    </div>
+  );
+}
+
 function CollocationList({ groups, showKorean }) {
   if (!groups || groups.length === 0) return <p className="muted">콜로케이션 정보가 없습니다.</p>;
   return (
     <div className="collocation-groups">
       {groups.map((group) => (
-        <div key={group.level} className="collocation-group">
-          <p className="level-label">레벨 {group.level}</p>
+        <div key={group.level} className="collocation-group levelled-group">
+          <LevelIndicator level={group.level} labelPrefix="콜로케이션 레벨" />
           <ul className="collocation-list">
             {group.items?.length ? (
               group.items.map((item, index) => (
@@ -782,8 +801,8 @@ function ExampleList({ examples, showKorean }) {
   return (
     <div className="example-groups">
       {examples.map((group) => (
-        <div key={group.level} className="example-group">
-          <p className="level-label">레벨 {group.level}</p>
+        <div key={group.level} className="example-group levelled-group">
+          <LevelIndicator level={group.level} labelPrefix="예문 레벨" />
           <ol className="example-list">
             {group.items?.length ? (
               group.items.map((item, index) => (
@@ -832,8 +851,8 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswe
     <div className="quiz-list">
       {showTitle && <p className="quiz-title">미니 퀴즈</p>}
       {quiz.map((group) => (
-        <div key={group.level} className="quiz-group">
-          <p className="level-label">레벨 {group.level}</p>
+        <div key={group.level} className="quiz-group levelled-group">
+          <LevelIndicator level={group.level} labelPrefix="미니 퀴즈 레벨" />
           <ol>
             {group.items?.length ? (
               group.items.slice(0, limitPerLevel).map((item, index) => (
