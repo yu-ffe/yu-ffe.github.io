@@ -687,6 +687,24 @@ function Section({ title, children, collapsible = false, open = true, onToggle }
   );
 }
 
+function getLevelTone(level) {
+  if (level === '상') return 'high';
+  if (level === '중') return 'mid';
+  if (level === '하') return 'low';
+  return 'neutral';
+}
+
+function LevelIndicator({ level }) {
+  const tone = getLevelTone(level);
+  const label = level ? `${level} 레벨 구분선` : '레벨 구분 없음';
+
+  return (
+    <div className={`level-indicator level-${tone}`}>
+      <span className="visually-hidden">{label}</span>
+    </div>
+  );
+}
+
 function PillList({ label, items, showMeaning }) {
   if (!items || items.length === 0) return null;
   const renderItem = (item) => {
@@ -756,7 +774,7 @@ function CollocationList({ groups, showKorean }) {
     <div className="collocation-groups">
       {groups.map((group) => (
         <div key={group.level} className="collocation-group">
-          <p className="level-label">레벨 {group.level}</p>
+          <LevelIndicator level={group.level} />
           <ul className="collocation-list">
             {group.items?.length ? (
               group.items.map((item, index) => (
@@ -783,7 +801,7 @@ function ExampleList({ examples, showKorean }) {
     <div className="example-groups">
       {examples.map((group) => (
         <div key={group.level} className="example-group">
-          <p className="level-label">레벨 {group.level}</p>
+          <LevelIndicator level={group.level} />
           <ol className="example-list">
             {group.items?.length ? (
               group.items.map((item, index) => (
@@ -833,7 +851,7 @@ function QuizList({ quiz, showKorean, limitPerLevel, showTitle = true, blurAnswe
       {showTitle && <p className="quiz-title">미니 퀴즈</p>}
       {quiz.map((group) => (
         <div key={group.level} className="quiz-group">
-          <p className="level-label">레벨 {group.level}</p>
+          <LevelIndicator level={group.level} />
           <ol>
             {group.items?.length ? (
               group.items.slice(0, limitPerLevel).map((item, index) => (
