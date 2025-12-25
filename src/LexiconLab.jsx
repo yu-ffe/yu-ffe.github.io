@@ -37,6 +37,7 @@ const defaultSettings = {
   showCollocations: true,
   showExamples: true,
   showQuiz: true,
+  showNuanceRegister: true,
   showKoreanMeanings: true,
   showStickyWord: true,
   showStickyPos: true,
@@ -45,6 +46,8 @@ const defaultSettings = {
   levelMode: 'all',
   selectedLevels: ['상', '중', '하'],
   quizItemLimit: 3,
+  collocationLimitPerLevel: 0,
+  exampleLimitPerLevel: 0,
   wordSource: 'all',
   showWordSection: true,
   showPracticeSection: true,
@@ -75,9 +78,12 @@ const presetOptions = [
       showCollocations: false,
       showExamples: false,
       showQuiz: false,
+      showNuanceRegister: false,
       showWordSection: true,
       showPracticeSection: false,
       blurQuizAnswers: false,
+      collocationLimitPerLevel: 0,
+      exampleLimitPerLevel: 0,
     },
     selectedPracticeModules: [],
   },
@@ -91,13 +97,16 @@ const presetOptions = [
       showClassification: true,
       showRelations: true,
       showUsageContext: false,
-      showFormDetails: true,
+      showFormDetails: false,
       showCollocations: true,
       showExamples: true,
-      showQuiz: true,
+      showQuiz: false,
       showWordSection: true,
       showPracticeSection: true,
       blurQuizAnswers: false,
+      showNuanceRegister: false,
+      collocationLimitPerLevel: 1,
+      exampleLimitPerLevel: 1,
     },
     selectedPracticeModules: ['meaningRecall', 'sentenceTranslation', 'preposition', 'contextMeaning'],
   },
@@ -110,14 +119,17 @@ const presetOptions = [
       meaningLimit: 4,
       showClassification: true,
       showRelations: true,
-      showUsageContext: true,
-      showFormDetails: true,
+      showUsageContext: false,
+      showFormDetails: false,
       showCollocations: true,
       showExamples: true,
       showQuiz: true,
       showWordSection: true,
       showPracticeSection: true,
       blurQuizAnswers: true,
+      showNuanceRegister: false,
+      collocationLimitPerLevel: 0,
+      exampleLimitPerLevel: 0,
     },
     selectedPracticeModules: ['meaningRecall', 'sentenceTranslation', 'preposition', 'contextMeaning', 'naturalness', 'wrongCombination'],
   },
@@ -251,6 +263,14 @@ function loadInitialSettings() {
     3,
     20
   );
+  merged.collocationLimitPerLevel = Math.max(
+    0,
+    Number(merged.collocationLimitPerLevel) || defaultSettings.collocationLimitPerLevel
+  );
+  merged.exampleLimitPerLevel = Math.max(
+    0,
+    Number(merged.exampleLimitPerLevel) || defaultSettings.exampleLimitPerLevel
+  );
   merged.wordSource = merged.wordSource || defaultSettings.wordSource;
   merged.selectedLevels = merged.selectedLevels?.length ? merged.selectedLevels : [...defaultSettings.selectedLevels];
   merged.selectedPracticeModules = Array.isArray(merged.selectedPracticeModules) && merged.selectedPracticeModules.length
@@ -324,6 +344,7 @@ function SettingsPanel({
   customPresets,
   onSaveCustomPreset,
   onApplyCustomPreset,
+  onReset,
 }) {
   const safeLevels = levelOptions?.length ? Array.from(new Set(levelOptions)) : ['상', '중', '하'];
   const safeSources = sources?.length ? sources : [];
@@ -350,9 +371,14 @@ function SettingsPanel({
           <p className="eyebrow">맞춤 설정</p>
           <h2>Lexicon Control</h2>
         </div>
-        <button className="ghost" type="button" onClick={onClose} aria-label="설정 닫기">
-          ✕
-        </button>
+        <div className="settings-actions">
+          <button type="button" className="ghost" onClick={onReset}>
+            리셋
+          </button>
+          <button className="ghost" type="button" onClick={onClose} aria-label="설정 닫기">
+            ✕
+          </button>
+        </div>
       </header>
 
       <SettingGroup title="프리셋" description="원클릭으로 보기/문제 구성을 전환합니다.">
@@ -587,6 +613,12 @@ function SettingsPanel({
 
       <SettingGroup title="맥락 · 문법" description="학습 시 보고 싶은 설명 영역을 세분화합니다.">
         <SettingToggle
+          label="뉘앙스 · 레지스터"
+          description="격식/구어체 등 어조 정보를 표시합니다."
+          checked={settings.showNuanceRegister}
+          onChange={(value) => onChange({ ...settings, showNuanceRegister: value })}
+        />
+        <SettingToggle
           label="사용 맥락/뉘앙스"
           description="의미 확장과 학습 노트를 함께 표시합니다."
           checked={settings.showUsageContext}
@@ -609,12 +641,48 @@ function SettingsPanel({
             checked={settings.showCollocations}
             onChange={(value) => onChange({ ...settings, showCollocations: value })}
           />
+          {settings.showCollocations && (
+            <div className="setting-field">
+              <label htmlFor="collocationLimit">레벨별 표시 개수</label>
+              <input
+                id="collocationLimit"
+                type="number"
+                min="0"
+                max="5"
+                value={settings.collocationLimitPerLevel}
+                onChange={(e) => {
+                  const parsed = Number(e.target.value);
+                  const nextValue = Number.isNaN(parsed) ? settings.collocationLimitPerLevel : Math.max(0, Math.min(5, parsed));
+                  onChange({ ...settings, collocationLimitPerLevel: nextValue });
+                }}
+              />
+              <p className="setting-desc">0은 무제한, 숫자를 입력하면 레벨별로 해당 개수만 보여 줍니다.</p>
+            </div>
+          )}
           <SettingToggle
             label="예문"
             description="레벨별 예문 리스트를 표시합니다."
             checked={settings.showExamples}
             onChange={(value) => onChange({ ...settings, showExamples: value })}
           />
+          {settings.showExamples && (
+            <div className="setting-field">
+              <label htmlFor="exampleLimit">레벨별 예문 수</label>
+              <input
+                id="exampleLimit"
+                type="number"
+                min="0"
+                max="5"
+                value={settings.exampleLimitPerLevel}
+                onChange={(e) => {
+                  const parsed = Number(e.target.value);
+                  const nextValue = Number.isNaN(parsed) ? settings.exampleLimitPerLevel : Math.max(0, Math.min(5, parsed));
+                  onChange({ ...settings, exampleLimitPerLevel: nextValue });
+                }}
+              />
+              <p className="setting-desc">0은 무제한, 숫자를 입력하면 레벨별로 해당 개수만 보여 줍니다.</p>
+            </div>
+          )}
           <SettingToggle
             label="미니 퀴즈"
             description="단어 이해를 확인하는 퀴즈 블록을 보여 줍니다."
@@ -768,8 +836,13 @@ function PrepositionPatternList({ patterns }) {
   );
 }
 
-function CollocationList({ groups, showKorean }) {
+function CollocationList({ groups, showKorean, limitPerLevel = 0 }) {
   if (!groups || groups.length === 0) return <p className="muted">콜로케이션 정보가 없습니다.</p>;
+  const clampItems = (items) => {
+    if (!Array.isArray(items)) return [];
+    if (!limitPerLevel || limitPerLevel < 1) return items;
+    return items.slice(0, limitPerLevel);
+  };
   return (
     <div className="collocation-groups">
       {groups.map((group) => (
@@ -777,7 +850,7 @@ function CollocationList({ groups, showKorean }) {
           <LevelIndicator level={group.level} />
           <ul className="collocation-list">
             {group.items?.length ? (
-              group.items.map((item, index) => (
+              clampItems(group.items).map((item, index) => (
                 <li key={`${item.phrase}-${index}`}>
                   <div className="collocation-head">
                     <span className="phrase">{item.phrase}</span>
@@ -795,8 +868,13 @@ function CollocationList({ groups, showKorean }) {
   );
 }
 
-function ExampleList({ examples, showKorean }) {
+function ExampleList({ examples, showKorean, limitPerLevel = 0 }) {
   if (!examples || examples.length === 0) return <p className="muted">예문이 없습니다.</p>;
+  const clampItems = (items) => {
+    if (!Array.isArray(items)) return [];
+    if (!limitPerLevel || limitPerLevel < 1) return items;
+    return items.slice(0, limitPerLevel);
+  };
   return (
     <div className="example-groups">
       {examples.map((group) => (
@@ -804,7 +882,7 @@ function ExampleList({ examples, showKorean }) {
           <LevelIndicator level={group.level} />
           <ol className="example-list">
             {group.items?.length ? (
-              group.items.map((item, index) => (
+              clampItems(group.items).map((item, index) => (
                 <li key={`${item.sentence}-${index}`}>
                   <p className="meaning-en">{item.sentence}</p>
                   {showKorean && <p className="meaning-ko">{item.meaning_ko}</p>}
@@ -1305,11 +1383,11 @@ function buildPracticeQuestions(entries, settings, seed) {
 
 function LexiconEntry({ entry, settings }) {
   const [openSections, setOpenSections] = useState({
-    core: false,
-    context: false,
-    grammar: false,
-    resources: false,
-    quiz: false,
+    core: true,
+    context: true,
+    grammar: true,
+    resources: true,
+    quiz: true,
   });
 
   const availableLevels = useMemo(() => {
@@ -1391,7 +1469,7 @@ function LexiconEntry({ entry, settings }) {
               </div>
             ) : null}
 
-            {entry.nuanceRegister && (
+            {settings.showNuanceRegister && entry.nuanceRegister && (
               <div className="fact subtle">
                 <span className="fact-label">뉘앙스 · 레지스터</span>
                 <p className="meaning-note">{entry.nuanceRegister}</p>
@@ -1502,8 +1580,20 @@ function LexiconEntry({ entry, settings }) {
           open={openSections.resources}
           onToggle={() => toggleSection('resources')}
         >
-          {settings.showCollocations && <CollocationList groups={filteredCollocations} showKorean={settings.showKoreanMeanings} />}
-          {settings.showExamples && <ExampleList examples={filteredExamples} showKorean={settings.showKoreanMeanings} />}
+          {settings.showCollocations && (
+            <CollocationList
+              groups={filteredCollocations}
+              showKorean={settings.showKoreanMeanings}
+              limitPerLevel={settings.collocationLimitPerLevel}
+            />
+          )}
+          {settings.showExamples && (
+            <ExampleList
+              examples={filteredExamples}
+              showKorean={settings.showKoreanMeanings}
+              limitPerLevel={settings.exampleLimitPerLevel}
+            />
+          )}
           {!filteredCollocations.length && !filteredExamples.length && (
             <p className="muted">선택한 레벨에 해당하는 예시가 없습니다.</p>
           )}
@@ -1551,6 +1641,15 @@ export default function LexiconLab() {
     return normalizeCustomPresets(Array.isArray(savedCustom) ? savedCustom : []);
   });
 
+  const handleResetSettings = () => {
+    setSettings({
+      ...defaultSettings,
+      selectedLevels: [...defaultSettings.selectedLevels],
+      selectedPracticeModules: [...defaultSettings.selectedPracticeModules],
+    });
+    setActivePreset('');
+  };
+
   const handleWordSourceChange = (nextSource) => {
     setSettings((prev) => ({ ...prev, wordSource: nextSource }));
     setChunkIndex(0);
@@ -1595,9 +1694,7 @@ export default function LexiconLab() {
   }, [settings]);
 
   useEffect(() => {
-    if (activePreset) {
-      writeCookie(PRESET_COOKIE, activePreset);
-    }
+    writeCookie(PRESET_COOKIE, activePreset || '');
   }, [activePreset]);
 
   useEffect(() => {
@@ -1867,6 +1964,7 @@ export default function LexiconLab() {
         customPresets={customPresets}
         onSaveCustomPreset={handleSaveCustomPreset}
         onApplyCustomPreset={handleApplyCustomPreset}
+        onReset={handleResetSettings}
       />
     </div>
   );
