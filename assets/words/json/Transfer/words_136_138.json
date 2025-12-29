@@ -1,0 +1,991 @@
+[
+  {
+    "word": "architect",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A person who designs buildings and oversees their planning and construction.",
+        "definition_ko": "건물을 설계하고 설계·계획 과정을 총괄하는 건축가.",
+        "note": "직업명으로 매우 흔하며, 설계 전반을 책임지는 뉘앙스가 있습니다."
+      },
+      {
+        "definition_en": "The planner or creator of an idea, system, or major change.",
+        "definition_ko": "어떤 제도·계획·변화의 설계자, 주도적으로 만든 사람.",
+        "note": "비유적으로 ‘~의 설계자(주역)’처럼 자주 씁니다."
+      },
+      {
+        "definition_en": "To plan, design, and structure something carefully, especially a system or strategy.",
+        "definition_ko": "(체계·전략 등을) 정교하게 설계하다, 구조를 짜다.",
+        "note": "문어/비즈니스·기술 문맥에서 ‘시스템을 설계하다’로 자주 등장합니다."
+      }
+    ],
+    "concept": "건물이나 시스템을 ‘전체 구조 관점에서’ 설계하고 만들어내는 사람/행위.",
+    "etymology": "그리스어 arkhi-('우두머리, 최고') + tekton('장인, 건축가')에서 유래해 ‘최고의 건축 장인’이라는 뜻으로 굳었습니다.",
+    "semanticExtension": "물리적 건물을 설계하는 의미에서 출발해, 제도·전략·사건의 ‘설계자’(주도적 기획자) 의미로 확장되었습니다.",
+    "nuanceRegister": "직업명으로는 중립적·일상적이며, 비유적 용법은 다소 격식/문어 느낌이 있습니다(정치·역사·기술 문맥).",
+    "grammarNotes": "비유적 명사 용법에서 architect of + 명사(변화/정책/계획)가 매우 흔합니다. 동사로는 목적어로 plan/system/change 등을 취하고, 때로 around/for 같은 전치사구가 붙습니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(직업/사람), 동사 용법은 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 설계자/기획자",
+        "example": "the architect of the reform"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위해 설계하다/구성하다",
+        "example": "architect a solution for scalability"
+      },
+      {
+        "prep": "around",
+        "meaning_ko": "~을 고려해(제약에 맞춰) 설계하다",
+        "example": "architect the system around strict constraints"
+      }
+    ],
+    "requiredComplements": [
+      "architect + 명사(계획/시스템/전략 등) : ‘~을 설계하다’의 핵심 목적어",
+      "architect of + 명사(변화/정책/계획) : ‘~의 설계자’(비유적 명사 패턴)",
+      "architect + (something) around + 제약/원칙 : ‘~을 ~을 중심으로 구조화하다’"
+    ],
+    "morphology": "archi-(최고의, 우두머리) + -tect(건축/장인, Greek tekton) → ‘최고의 건축 설계자’라는 구성.",
+    "derivatives": [
+      {
+        "word": "architecture",
+        "meaning_ko": "건축(학), 건축 양식; (비유) 구조/설계"
+      },
+      {
+        "word": "architectural",
+        "meaning_ko": "건축의; (비유) 구조적인"
+      },
+      {
+        "word": "architectonic",
+        "meaning_ko": "구조(건축)상의; (문어) 체계적인"
+      },
+      {
+        "word": "rearchitect",
+        "meaning_ko": "(시스템 등을) 재설계하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "engineer",
+        "meaning_ko": "공학자; 기술 설계자"
+      },
+      {
+        "word": "designer",
+        "meaning_ko": "디자이너; 설계자"
+      },
+      {
+        "word": "planner",
+        "meaning_ko": "기획자; 계획 수립자"
+      },
+      {
+        "word": "blueprint",
+        "meaning_ko": "청사진; 설계도(비유 포함)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "designer",
+        "meaning_ko": "설계자"
+      },
+      {
+        "word": "planner",
+        "meaning_ko": "기획자"
+      },
+      {
+        "word": "creator",
+        "meaning_ko": "창조자"
+      },
+      {
+        "word": "originator",
+        "meaning_ko": "발안자"
+      },
+      {
+        "word": "builder",
+        "meaning_ko": "건설자(비유적)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "mastermind",
+        "meaning_ko": "배후 설계자, 주모자"
+      },
+      {
+        "word": "strategist",
+        "meaning_ko": "전략가"
+      },
+      {
+        "word": "instigator",
+        "meaning_ko": "선동자; 촉발자(부정적 뉘앙스 가능)"
+      },
+      {
+        "word": "framer",
+        "meaning_ko": "(제도·안 등을) 짜는 사람"
+      },
+      {
+        "word": "planner",
+        "meaning_ko": "(세부 실행보다) 큰 틀을 짜는 사람"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "follower",
+        "meaning_ko": "추종자, 따라가는 사람"
+      },
+      {
+        "word": "implementer",
+        "meaning_ko": "실행자(설계보다 구현에 초점)"
+      },
+      {
+        "word": "saboteur",
+        "meaning_ko": "파괴자, 방해자"
+      },
+      {
+        "word": "destroyer",
+        "meaning_ko": "파괴자"
+      },
+      {
+        "word": "improviser",
+        "meaning_ko": "즉흥가(정교한 설계의 반대 뉘앙스)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "architect a comprehensive framework",
+            "meaning_ko": "포괄적 프레임워크를 설계하다"
+          },
+          {
+            "phrase": "the principal architect of the policy",
+            "meaning_ko": "그 정책의 핵심 설계자"
+          },
+          {
+            "phrase": "architected with fault tolerance in mind",
+            "meaning_ko": "장애 허용성을 염두에 두고 설계된"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "architect a solution",
+            "meaning_ko": "해결책을 설계하다"
+          },
+          {
+            "phrase": "an architect of change",
+            "meaning_ko": "변화의 설계자(주도자)"
+          },
+          {
+            "phrase": "systems architect",
+            "meaning_ko": "시스템 아키텍트(직무)"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "architect of the plan",
+            "meaning_ko": "그 계획의 설계자"
+          },
+          {
+            "phrase": "architect a new system",
+            "meaning_ko": "새 시스템을 설계하다"
+          },
+          {
+            "phrase": "work with an architect",
+            "meaning_ko": "건축가와 함께 일하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The committee architected the reform so that incentives aligned with long-term outcomes rather than short-term gains.",
+            "meaning_ko": "위원회는 단기 이익이 아니라 장기 성과에 유인이 맞춰지도록 개혁안을 설계했다."
+          },
+          {
+            "sentence": "Historians still debate who was the true architect of the coalition that reshaped regional politics.",
+            "meaning_ko": "역사가들은 지역 정치를 재편한 연합의 진정한 설계자가 누구인지 여전히 논쟁한다."
+          },
+          {
+            "sentence": "We architected the platform around strict privacy guarantees, even if it slowed early feature development.",
+            "meaning_ko": "초기 기능 개발이 느려지더라도, 우리는 엄격한 개인정보 보장을 중심으로 플랫폼을 설계했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She was the architect of the new training program that cut onboarding time in half.",
+            "meaning_ko": "그녀는 온보딩 시간을 절반으로 줄인 새 교육 프로그램의 설계자였다."
+          },
+          {
+            "sentence": "The team is trying to architect a solution that scales without sacrificing reliability.",
+            "meaning_ko": "팀은 신뢰성을 해치지 않으면서 확장되는 해결책을 설계하려고 한다."
+          },
+          {
+            "sentence": "As a systems architect, he focuses on the big picture before choosing tools.",
+            "meaning_ko": "시스템 아키텍트로서 그는 도구를 고르기 전에 큰 그림부터 본다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The architect presented three options for the house design.",
+            "meaning_ko": "건축가는 집 설계안 세 가지를 제시했다."
+          },
+          {
+            "sentence": "They hired an architect to remodel the old apartment.",
+            "meaning_ko": "그들은 오래된 아파트를 리모델링하려고 건축가를 고용했다."
+          },
+          {
+            "sentence": "He helped architect the project schedule for the next quarter.",
+            "meaning_ko": "그는 다음 분기 프로젝트 일정의 구조를 짜는 데 도움을 줬다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "architect는 ‘큰 구조를 설계하다’에 초점이 있어 designer보다 ‘전체 시스템/전략’ 느낌이 강합니다. 비유 용법에서 architect of + 변화/정책/계획 패턴을 통째로 외우면 독해가 빨라집니다. 동사로 쓸 때는 목적어(architect a system/solution)를 바로 받는 경우가 많아, plan과 달리 ‘구조화/설계’ 뉘앙스를 살려 번역하세요.",
+    "tags": [
+      "건축",
+      "설계",
+      "전략",
+      "시스템",
+      "기획"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best paraphrase: \"She architected the merger to minimize regulatory risk.\"",
+            "a": "She planned and structured the merger carefully to reduce regulatory risk.",
+            "meaning_ko": "architected는 ‘세심하게 구조를 짜다/설계하다’ 의미로, 단순 계획보다 설계·구조화가 핵심입니다."
+          },
+          {
+            "q": "Fill in the blank: \"He is widely regarded as the chief architect ___ the peace agreement.\"",
+            "a": "of",
+            "meaning_ko": "‘~의 설계자’는 architect of가 정형 패턴입니다."
+          },
+          {
+            "q": "Which sentence sounds most natural in a formal/technical context?",
+            "a": "We architected the system around strict latency constraints.",
+            "meaning_ko": "동사 architect는 기술 문맥에서 system/architecture/constraints와 함께 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest meaning of \"architect\" (noun) in this sentence: \"He was the architect of their strategy.\"",
+            "a": "planner",
+            "meaning_ko": "비유적으로 ‘전략을 만든 설계자/기획자’라는 뜻입니다."
+          },
+          {
+            "q": "Fill in the blank: \"They brought in an architect to design the _____.\"",
+            "a": "building",
+            "meaning_ko": "기본 의미는 ‘건물을 설계하는 사람’입니다."
+          },
+          {
+            "q": "Which word is the best antonym (most opposite in role) to \"architect\" in a project team?",
+            "a": "implementer",
+            "meaning_ko": "architect가 큰 설계를 맡는다면 implementer는 구현/실행에 초점이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "What does \"architect\" most commonly design in its literal sense?",
+            "a": "buildings",
+            "meaning_ko": "직업명으로는 건물을 설계하는 사람을 가리킵니다."
+          },
+          {
+            "q": "Choose the correct phrase: \"the architect ___ the plan\"",
+            "a": "of",
+            "meaning_ko": "‘~의 설계자’는 of를 씁니다."
+          },
+          {
+            "q": "True or False: \"architect\" can be used as a verb meaning \"to design.\"",
+            "a": "True",
+            "meaning_ko": "architect는 ‘(체계/전략을) 설계하다’라는 동사 용법이 있습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "detail",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A small piece of information or a particular feature; a specific point.",
+        "definition_ko": "세부 사항, 구체적인 정보(하나하나의 포인트).",
+        "note": "details로 복수형이 매우 흔하며 ‘구체적인 내용들’의 느낌이 강합니다."
+      },
+      {
+        "definition_en": "The careful attention given to small features; fineness or intricacy.",
+        "definition_ko": "디테일(섬세함), 세밀한 정도.",
+        "note": "디자인/작업 품질 문맥에서 ‘디테일이 좋다’처럼 쓰입니다."
+      },
+      {
+        "definition_en": "To describe or list something thoroughly and specifically.",
+        "definition_ko": "(내용을) 자세히 설명하다, 세부 항목을 열거하다.",
+        "note": "report/plan을 ‘상세히’ 적는 의미로 문어에서 자주 씁니다."
+      },
+      {
+        "definition_en": "To assign someone to a particular task or duty, often temporarily.",
+        "definition_ko": "(사람을) 특정 임무에 배치하다(특히 임시로).",
+        "note": "공공기관/군·경 문맥에서 ‘특별 파견/배치’ 뉘앙스로 쓰입니다."
+      }
+    ],
+    "concept": "큰 그림을 이루는 ‘구체적인 조각’(세부) 또는 그것을 ‘상세히 풀어내는’ 행위.",
+    "etymology": "프랑스어 détail(‘조각내다, 잘게 나누다’)에서 왔으며, 라틴어 de- + tailler(‘자르다’) 계열 의미가 ‘세분’으로 이어졌습니다.",
+    "semanticExtension": "무언가를 ‘잘게 나눈 조각’에서 출발해, 문서·설명에서의 ‘세부 정보’로 확장되었고, 더 나아가 ‘상세히 설명하다’(동사)로 발전했습니다.",
+    "nuanceRegister": "중립적이며 일상·학술·비즈니스 모두에서 빈번합니다. 동사 detail은 문어/업무 문서에서 격식 있게 들립니다.",
+    "grammarNotes": "in detail(자세히), detail(s) of(…의 세부), detail(s) about(…에 관한 세부) 패턴이 핵심입니다. 동사로는 detail + 명사(계획/절차/요구사항)를 바로 목적어로 취합니다.",
+    "transitivity": "타동사(주로) / 명사 용법은 해당 없음",
+    "countability": "가산명사(세부 항목), 동사 용법은 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "자세히(부사구)",
+        "example": "explain it in detail"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "…의 세부 사항",
+        "example": "the details of the contract"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "…에 관한 구체 정보",
+        "example": "details about the incident"
+      }
+    ],
+    "requiredComplements": [
+      "detail + 명사(절차/계획/요구사항 등) : ‘~을 상세히 기술하다’의 핵심 목적어",
+      "in detail : ‘자세히’(고정 부사구)",
+      "details of/about + 명사 : ‘~의/~에 관한 세부’(정보 표현)"
+    ],
+    "morphology": "de-(분리/떼어내다) + tail(자르다/조각내다 계열 의미)로 ‘잘게 나눠진 부분’이라는 어감이 남아 있습니다.",
+    "derivatives": [
+      {
+        "word": "detailed",
+        "meaning_ko": "상세한; 디테일이 살아있는"
+      },
+      {
+        "word": "detailing",
+        "meaning_ko": "상세 기술; (자동차 등) 디테일 작업"
+      },
+      {
+        "word": "detail-oriented",
+        "meaning_ko": "세부에 강한, 꼼꼼한"
+      }
+    ],
+    "related": [
+      {
+        "word": "specifics",
+        "meaning_ko": "구체적인 사항들"
+      },
+      {
+        "word": "particular",
+        "meaning_ko": "특정한; (명) 세부 사항"
+      },
+      {
+        "word": "outline",
+        "meaning_ko": "개요, 윤곽"
+      },
+      {
+        "word": "specification",
+        "meaning_ko": "명세(서), 규격"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "particular",
+        "meaning_ko": "세부 사항"
+      },
+      {
+        "word": "specific",
+        "meaning_ko": "구체 항목(복수로 specifics)"
+      },
+      {
+        "word": "item",
+        "meaning_ko": "항목"
+      },
+      {
+        "word": "point",
+        "meaning_ko": "요점(세부 포인트)"
+      },
+      {
+        "word": "feature",
+        "meaning_ko": "특징(세부 요소)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "information",
+        "meaning_ko": "정보(세부까지 포함하는 넓은 말)"
+      },
+      {
+        "word": "nuance",
+        "meaning_ko": "미묘한 뉘앙스(세밀한 차이)"
+      },
+      {
+        "word": "minutia",
+        "meaning_ko": "자잘한 세부(대체로 복수, 약간 부정적)"
+      },
+      {
+        "word": "specification",
+        "meaning_ko": "명세(요구조건을 문서화한 세부)"
+      },
+      {
+        "word": "elaboration",
+        "meaning_ko": "정교화; 덧붙여 자세히 설명함"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "overview",
+        "meaning_ko": "개요, 전체 그림"
+      },
+      {
+        "word": "summary",
+        "meaning_ko": "요약"
+      },
+      {
+        "word": "gist",
+        "meaning_ko": "요지"
+      },
+      {
+        "word": "generalization",
+        "meaning_ko": "일반화"
+      },
+      {
+        "word": "outline",
+        "meaning_ko": "개략(상세의 반대 뉘앙스)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "down to the last detail",
+            "meaning_ko": "마지막 세부까지"
+          },
+          {
+            "phrase": "a painstaking attention to detail",
+            "meaning_ko": "집요할 정도의 세부 주의"
+          },
+          {
+            "phrase": "detail the procedural safeguards",
+            "meaning_ko": "절차적 안전장치를 상세히 기술하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "in great detail",
+            "meaning_ko": "아주 자세히"
+          },
+          {
+            "phrase": "key details",
+            "meaning_ko": "핵심 세부 사항"
+          },
+          {
+            "phrase": "detail a plan",
+            "meaning_ko": "계획을 구체적으로 적다/설명하다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "small details",
+            "meaning_ko": "작은 세부"
+          },
+          {
+            "phrase": "the details of the story",
+            "meaning_ko": "이야기의 자세한 내용"
+          },
+          {
+            "phrase": "pay attention to detail",
+            "meaning_ko": "디테일에 신경 쓰다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The affidavit detailed the sequence of events with timestamps, leaving little room for ambiguity.",
+            "meaning_ko": "진술서는 시간표시까지 포함해 사건의 순서를 상세히 기술하여 모호함의 여지를 거의 남기지 않았다."
+          },
+          {
+            "sentence": "Her attention to detail turned a functional prototype into a product people actually enjoyed using.",
+            "meaning_ko": "그녀의 디테일 집착이 단순히 ‘작동하는’ 시제품을 사람들이 즐겨 쓰는 제품으로 바꿔놓았다."
+          },
+          {
+            "sentence": "Before signing, review the details of the clause that governs data retention and deletion.",
+            "meaning_ko": "서명하기 전에 데이터 보관·삭제를 규정하는 조항의 세부를 검토하세요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Could you explain the process in more detail?",
+            "meaning_ko": "그 과정을 좀 더 자세히 설명해 주시겠어요?"
+          },
+          {
+            "sentence": "The report details how the budget will be allocated across departments.",
+            "meaning_ko": "그 보고서는 예산이 부서별로 어떻게 배분되는지 상세히 설명한다."
+          },
+          {
+            "sentence": "I don’t remember the details, but I know it happened last summer.",
+            "meaning_ko": "자세한 내용은 기억이 안 나지만, 작년 여름에 있었던 건 알아."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Tell me the details of your plan.",
+            "meaning_ko": "네 계획의 자세한 내용을 말해줘."
+          },
+          {
+            "sentence": "This drawing has a lot of detail.",
+            "meaning_ko": "이 그림은 디테일이 많다."
+          },
+          {
+            "sentence": "They left out an important detail.",
+            "meaning_ko": "그들은 중요한 세부 사항 하나를 빼먹었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "detail은 ‘세부 항목’(가산)이라서 details로 ‘구체적인 내용들’을 말하는 경우가 많습니다. in detail은 거의 고정 표현으로 ‘자세히’라는 뜻이니 한 덩어리로 외우세요. minutia/minutiae는 ‘자잘한 디테일’로 약간 귀찮거나 중요하지 않다는 뉘앙스가 섞일 수 있어 문맥에 주의하세요.",
+    "tags": [
+      "정보",
+      "설명",
+      "문서",
+      "세부",
+      "업무"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Fill in the blank: \"The contract spells out the details ___ termination and liability.\"",
+            "a": "of",
+            "meaning_ko": "‘~의 세부’는 details of + 명사가 기본입니다."
+          },
+          {
+            "q": "Choose the best rewrite: \"The report detailed the safeguards.\"",
+            "a": "The report described the safeguards thoroughly and specifically.",
+            "meaning_ko": "동사 detail = ‘상세히 기술하다/열거하다’입니다."
+          },
+          {
+            "q": "Which option carries a slightly negative tone, meaning \"trivial details\"?",
+            "a": "minutia",
+            "meaning_ko": "minutia/minutiae는 ‘자잘한 세부’로 가볍게 비하하는 뉘앙스가 가능해요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: \"She went into great ____ about the incident.\"",
+            "a": "detail",
+            "meaning_ko": "go into detail(자세히 말하다) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest meaning of \"attention to detail\":",
+            "a": "carefulness about small things",
+            "meaning_ko": "작은 요소까지 꼼꼼히 챙기는 태도입니다."
+          },
+          {
+            "q": "Which is the best antonym for \"detail\" as a noun?",
+            "a": "overview",
+            "meaning_ko": "detail이 세부라면 overview는 전체 조망입니다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the correct phrase: \"explain it ___ detail\"",
+            "a": "in",
+            "meaning_ko": "in detail = 자세히."
+          },
+          {
+            "q": "True or False: \"details\" is often used more naturally than \"detail\" when talking about information.",
+            "a": "True",
+            "meaning_ko": "‘구체적인 내용들’은 보통 details(복수)를 많이 씁니다."
+          },
+          {
+            "q": "What does \"detail\" most commonly mean?",
+            "a": "a small piece of information",
+            "meaning_ko": "가장 기본 의미는 ‘세부 사항’입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "poignant",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Deeply moving or touching, often in a way that brings a gentle sadness.",
+        "definition_ko": "가슴을 찌르는 듯 감동적인, 애틋하고 뭉클한.",
+        "note": "슬픔이 섞인 감동(여운/애틋함)을 자주 포함합니다."
+      },
+      {
+        "definition_en": "Sharp or pungent to the senses, especially taste or smell (less common).",
+        "definition_ko": "(맛·냄새가) 톡 쏘는, 자극적인(비교적 덜 흔함).",
+        "note": "원래 ‘찌르다’ 어감이 감정뿐 아니라 감각 자극에도 쓰였던 흔적입니다."
+      }
+    ],
+    "concept": "감정이나 감각을 ‘콕 찌르듯’ 강하게 건드려 여운을 남기는 상태.",
+    "etymology": "라틴어 pungere(‘찌르다, 쏘다’)에서 프랑스어 poignant(‘찌르는’)을 거쳐 영어로 들어왔습니다.",
+    "semanticExtension": "물리적으로 ‘찌르는/날카로운’ 감각에서 출발해, 마음을 찌르는 듯한 감정적 울림(감동·애틋함)으로 의미가 확장되었습니다.",
+    "nuanceRegister": "문어적·평가적 표현으로, 글/연설/리뷰에서 분위기를 잡는 형용사입니다. 일상 회화에서도 가능하지만 다소 격식 있게 들릴 수 있습니다.",
+    "grammarNotes": "poignant + 명사(remark/moment/memory/scene/irony)가 흔합니다. 사람에게 직접 쓰기보다는 말·장면·기억·사건 등에 붙는 경향이 큽니다. 전치사로는 with(…으로 가득한), for(…에게/…에 대해 특히) 등이 드물게 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "…으로 가득한(애틋함/향수 등)",
+        "example": "poignant with nostalgia"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "…에게/…에 대해 특히 가슴 아픈",
+        "example": "poignant for those who remember the past"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "…에게(감정적으로) 와닿는",
+        "example": "poignant to the audience"
+      }
+    ],
+    "requiredComplements": [
+      "poignant + 명사( moment / memory / scene / irony / remark ) : 가장 흔한 수식 구조",
+      "poignant with + 감정/상태(nostalgia, sorrow) : ‘…으로 가득해 애틋한’",
+      "poignant for/to + 사람/집단 : ‘…에게 특히 와닿는’(문맥 한정)"
+    ],
+    "morphology": "pung- 계열(찌르다) 어근 의미가 남아 있어, ‘마음을 찌르는’ 이미지로 연결하면 기억이 쉽습니다.",
+    "derivatives": [
+      {
+        "word": "poignancy",
+        "meaning_ko": "애틋함, 뭉클함, 가슴 저림"
+      },
+      {
+        "word": "poignantly",
+        "meaning_ko": "애틋하게, 뭉클하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "nostalgic",
+        "meaning_ko": "향수 어린"
+      },
+      {
+        "word": "melancholy",
+        "meaning_ko": "우울감, 애수"
+      },
+      {
+        "word": "ironic",
+        "meaning_ko": "아이러니한"
+      },
+      {
+        "word": "bittersweet",
+        "meaning_ko": "달콤쌉싸름한(기쁨+슬픔)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "moving",
+        "meaning_ko": "감동적인"
+      },
+      {
+        "word": "touching",
+        "meaning_ko": "마음을 울리는"
+      },
+      {
+        "word": "heartrending",
+        "meaning_ko": "가슴 찢어지는"
+      },
+      {
+        "word": "evocative",
+        "meaning_ko": "연상을 불러일으키는"
+      },
+      {
+        "word": "affecting",
+        "meaning_ko": "감정을 건드리는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sad",
+        "meaning_ko": "슬픈(더 직접적·단순)"
+      },
+      {
+        "word": "emotional",
+        "meaning_ko": "감정적인(범위가 넓음)"
+      },
+      {
+        "word": "tender",
+        "meaning_ko": "다정하고 여린(톤이 부드러움)"
+      },
+      {
+        "word": "tragic",
+        "meaning_ko": "비극적인(사건 성격 강조)"
+      },
+      {
+        "word": "pungent",
+        "meaning_ko": "톡 쏘는(감각적 의미, 일부 겹침)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unmoving",
+        "meaning_ko": "감동 없는"
+      },
+      {
+        "word": "insipid",
+        "meaning_ko": "무미건조한; 재미없는"
+      },
+      {
+        "word": "cheerful",
+        "meaning_ko": "명랑한(정서 톤 반대)"
+      },
+      {
+        "word": "matter-of-fact",
+        "meaning_ko": "담담한; 사실 위주의"
+      },
+      {
+        "word": "callous",
+        "meaning_ko": "무감각한; 냉담한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a poignant sense of loss",
+            "meaning_ko": "가슴 저리는 상실감"
+          },
+          {
+            "phrase": "poignant political irony",
+            "meaning_ko": "뼈아픈 정치적 아이러니"
+          },
+          {
+            "phrase": "a poignantly understated line",
+            "meaning_ko": "절제되어 더 뭉클한 한 줄(대사)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a poignant reminder",
+            "meaning_ko": "가슴 아픈(뭉클한) 상기"
+          },
+          {
+            "phrase": "a poignant moment",
+            "meaning_ko": "뭉클한 순간"
+          },
+          {
+            "phrase": "poignant memories",
+            "meaning_ko": "애틋한 기억들"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a poignant story",
+            "meaning_ko": "애틋한 이야기"
+          },
+          {
+            "phrase": "a poignant scene",
+            "meaning_ko": "감동적인 장면"
+          },
+          {
+            "phrase": "a poignant farewell",
+            "meaning_ko": "뭉클한 작별"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In the final chapter, a single unanswered question becomes a poignant symbol of everything the family lost.",
+            "meaning_ko": "마지막 장에서, 답 없는 질문 하나가 그 가족이 잃어버린 모든 것의 가슴 저린 상징이 된다."
+          },
+          {
+            "sentence": "Her speech was poignant not because it was dramatic, but because it named ordinary grief without exaggeration.",
+            "meaning_ko": "그녀의 연설이 뭉클했던 이유는 과장된 드라마가 아니라, 평범한 슬픔을 과장 없이 정확히 짚어냈기 때문이다."
+          },
+          {
+            "sentence": "The museum’s empty rooms were poignant with silence, making visitors confront the scale of absence.",
+            "meaning_ko": "박물관의 텅 빈 방들은 침묵으로 가득해 애틋했고, 방문객들은 부재의 규모를 직면하게 되었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "It was a poignant reminder that time keeps moving, even when we don’t.",
+            "meaning_ko": "우리가 멈춰 있어도 시간은 계속 간다는 사실을 뭉클하게 상기시켜 주는 일이었다."
+          },
+          {
+            "sentence": "The film ends with a poignant farewell at the station.",
+            "meaning_ko": "그 영화는 역에서의 뭉클한 작별로 끝난다."
+          },
+          {
+            "sentence": "His joke had a poignant edge, hinting at what he couldn’t say directly.",
+            "meaning_ko": "그의 농담에는 뼈아픈 뉘앙스가 있어, 직접 말할 수 없는 것을 에둘러 드러냈다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The photo is poignant.",
+            "meaning_ko": "그 사진은 뭉클하다."
+          },
+          {
+            "sentence": "She wrote a poignant letter to her friend.",
+            "meaning_ko": "그녀는 친구에게 애틋한 편지를 썼다."
+          },
+          {
+            "sentence": "It was a poignant moment for everyone there.",
+            "meaning_ko": "그 자리에 있던 모두에게 뭉클한 순간이었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "poignant는 ‘감동적’보다 ‘가슴을 찌르는 여운’이 강해, bittersweet한 장면에 특히 잘 맞습니다. 기억법은 pungere(찌르다) → ‘마음을 찌르는’ 이미지로 연결하면 좋습니다. moving/touching은 더 넓고 평이한 표현이니, 글에서 분위기를 더 깊게 만들고 싶을 때 poignant를 선택하세요.",
+    "tags": [
+      "감정",
+      "문학",
+      "리뷰",
+      "여운",
+      "애틋함"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best context for \"poignant\":",
+            "a": "A quiet scene that feels bittersweet and deeply moving.",
+            "meaning_ko": "poignant는 조용하지만 깊이 찌르는 애틋한 감동에 잘 어울립니다."
+          },
+          {
+            "q": "Fill in the blank: \"The ending was poignant ___ nostalgia.\"",
+            "a": "with",
+            "meaning_ko": "poignant with + 감정/상태(향수 등) 패턴."
+          },
+          {
+            "q": "Which option is closest in nuance to \"poignant irony\"?",
+            "a": "a painfully moving irony",
+            "meaning_ko": "‘poignant’는 ‘뼈아프게 와닿는/찌르는 듯한’ 뉘앙스입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest synonym: \"a poignant moment\"",
+            "a": "a touching moment",
+            "meaning_ko": "touching이 가장 가까우나, poignant는 여운과 애수의 톤이 더 강합니다."
+          },
+          {
+            "q": "Which is a common collocation with \"poignant\"?",
+            "a": "poignant reminder",
+            "meaning_ko": "poignant reminder/memory/moment/scene/irony 등이 자주 결합합니다."
+          },
+          {
+            "q": "Choose the best antonym for \"poignant\" in writing tone:",
+            "a": "insipid",
+            "meaning_ko": "insipid는 무미건조하고 감정적 울림이 없다는 의미로 반대 톤입니다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "True or False: \"poignant\" often describes something that makes you feel emotional, sometimes with sadness.",
+            "a": "True",
+            "meaning_ko": "맞습니다. 슬픔이 섞인 감동을 자주 동반합니다."
+          },
+          {
+            "q": "Fill in the blank: \"It was a poignant _____.\" (Choose one: moment / quickly / decide)",
+            "a": "moment",
+            "meaning_ko": "poignant는 보통 명사를 수식합니다(예: moment)."
+          },
+          {
+            "q": "Which word is closest in everyday meaning to \"poignant\"?",
+            "a": "moving",
+            "meaning_ko": "일상적으로는 moving(감동적인)이 가장 무난한 대응입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

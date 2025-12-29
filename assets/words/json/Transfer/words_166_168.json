@@ -1,0 +1,1014 @@
+[
+  {
+    "word": "obdurate",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Stubbornly refusing to change one’s opinion or course of action.",
+        "definition_ko": "고집이 세서 의견이나 행동을 바꾸려 하지 않는.",
+        "note": "설득·호소에도 꿈쩍하지 않는 ‘완고함’을 격식 있게 표현합니다."
+      },
+      {
+        "definition_en": "Hardened in feelings; showing little sympathy or remorse.",
+        "definition_ko": "감정이 무뎌져 동정심이나 후회를 거의 보이지 않는.",
+        "note": "문어체에서 ‘냉혹하다’에 가깝게 쓰이기도 합니다."
+      }
+    ],
+    "concept": "외부의 설득이나 변화 요구에도 태도를 굳게 고수하는 ‘완고함’입니다.",
+    "etymology": "라틴어 obdurare(‘굳게 만들다, 단단해지다’)에서 왔으며, ‘단단함’이 비유적으로 ‘완고함’으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래의 ‘굳다/단단하다’에서, 마음·태도가 ‘굳어 바뀌지 않는다’는 비유로 널리 쓰입니다.",
+    "nuanceRegister": "격식·문어 느낌이 강한 단어로, 비판적 뉘앙스(완고함, 무정함)를 동반하는 경우가 많습니다.",
+    "grammarNotes": "주로 서술·수식 형용사로 쓰이며, ‘obdurate in/against/to’ 같은 결합이 드물게 나타납니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 대해 완고한(특정 입장/거부를 고수)",
+        "example": "obdurate in his refusal"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 맞서 완강한",
+        "example": "obdurate against compromise"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에 (호소·조언 등에) 요지부동인",
+        "example": "obdurate to reason"
+      }
+    ],
+    "requiredComplements": [
+      "obdurate (in + 명사/동명사): ~을 고수하며 완고한",
+      "obdurate (against + 명사): ~에 맞서 완강한",
+      "obdurate (to + 명사): ~에 설득되지 않는"
+    ],
+    "morphology": "ob-(강조/대항의 뉘앙스) + dur(‘단단하다’ 어근; durable과 연관) + -ate(형용사형).",
+    "derivatives": [
+      {
+        "word": "obduracy",
+        "meaning_ko": "완고함, 고집"
+      },
+      {
+        "word": "obdurately",
+        "meaning_ko": "완고하게"
+      },
+      {
+        "word": "durable",
+        "meaning_ko": "내구성이 있는"
+      },
+      {
+        "word": "endure",
+        "meaning_ko": "견디다"
+      },
+      {
+        "word": "duration",
+        "meaning_ko": "지속 기간"
+      }
+    ],
+    "related": [
+      {
+        "word": "intransigent",
+        "meaning_ko": "타협하지 않는, 완강한"
+      },
+      {
+        "word": "unyielding",
+        "meaning_ko": "굽히지 않는"
+      },
+      {
+        "word": "dogmatic",
+        "meaning_ko": "독단적인"
+      },
+      {
+        "word": "callous",
+        "meaning_ko": "냉담한, 무정한"
+      },
+      {
+        "word": "steadfast",
+        "meaning_ko": "확고한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "stubborn",
+        "meaning_ko": "고집 센"
+      },
+      {
+        "word": "unyielding",
+        "meaning_ko": "완강한"
+      },
+      {
+        "word": "intransigent",
+        "meaning_ko": "비타협적인"
+      },
+      {
+        "word": "adamant",
+        "meaning_ko": "단호한"
+      },
+      {
+        "word": "hardhearted",
+        "meaning_ko": "냉정한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "resolute",
+        "meaning_ko": "결연한(긍정적 뉘앙스 가능)"
+      },
+      {
+        "word": "steadfast",
+        "meaning_ko": "확고한(신념을 지키는)"
+      },
+      {
+        "word": "obstinate",
+        "meaning_ko": "완고한(흔히 더 구어)"
+      },
+      {
+        "word": "rigid",
+        "meaning_ko": "융통성 없는"
+      },
+      {
+        "word": "dogged",
+        "meaning_ko": "끈질긴"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "flexible",
+        "meaning_ko": "유연한"
+      },
+      {
+        "word": "amenable",
+        "meaning_ko": "기꺼이 따르는, 응할 만한"
+      },
+      {
+        "word": "open-minded",
+        "meaning_ko": "편견 없는"
+      },
+      {
+        "word": "pliant",
+        "meaning_ko": "순응하는"
+      },
+      {
+        "word": "compassionate",
+        "meaning_ko": "동정심 있는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "an obdurate man",
+            "meaning_ko": "완고한 남자"
+          },
+          {
+            "phrase": "obdurate refusal",
+            "meaning_ko": "완강한 거부"
+          },
+          {
+            "phrase": "remain obdurate",
+            "meaning_ko": "완고한 채로 남다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "obdurate attitude",
+            "meaning_ko": "완고한 태도"
+          },
+          {
+            "phrase": "obdurate opposition",
+            "meaning_ko": "완강한 반대"
+          },
+          {
+            "phrase": "obdurate against compromise",
+            "meaning_ko": "타협에 맞서 완강한"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "obdurate in his refusal to testify",
+            "meaning_ko": "증언을 거부하는 데 끝까지 완강한"
+          },
+          {
+            "phrase": "obdurate to appeals for mercy",
+            "meaning_ko": "선처 호소에도 요지부동인"
+          },
+          {
+            "phrase": "obdurate indifference to suffering",
+            "meaning_ko": "고통에 대한 냉혹한 무관심"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He stayed obdurate and would not apologize.",
+            "meaning_ko": "그는 완고하게 버티며 사과하지 않았다."
+          },
+          {
+            "sentence": "She was obdurate about changing her plan.",
+            "meaning_ko": "그녀는 계획을 바꾸는 데 완고했다."
+          },
+          {
+            "sentence": "The committee remained obdurate.",
+            "meaning_ko": "위원회는 끝내 태도를 굽히지 않았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Despite new evidence, the manager was obdurate in his refusal to reopen the case.",
+            "meaning_ko": "새 증거가 나왔는데도 그 관리자는 사건 재조사를 완강히 거부했다."
+          },
+          {
+            "sentence": "The landlord grew obdurate after months of complaints.",
+            "meaning_ko": "몇 달간의 항의 끝에 집주인은 더 완고해졌다."
+          },
+          {
+            "sentence": "Her obdurate stance turned a simple negotiation into a standoff.",
+            "meaning_ko": "그녀의 완고한 태도는 간단한 협상을 대치 상황으로 만들었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "He portrayed the regime as obdurate to diplomacy, yet eager to exploit every humanitarian gesture.",
+            "meaning_ko": "그는 그 정권이 외교에는 요지부동이면서도 모든 인도적 제스처는 이용하려 든다고 묘사했다."
+          },
+          {
+            "sentence": "The editorial condemned the court’s obdurate indifference to procedural fairness.",
+            "meaning_ko": "그 사설은 절차적 공정성에 대한 법원의 냉혹한 무관심을 비판했다."
+          },
+          {
+            "sentence": "When dialogue failed, their obdurate antagonism hardened into an institutional deadlock.",
+            "meaning_ko": "대화가 실패하자 그들의 완강한 적대감은 제도적 교착으로 굳어졌다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "obdurate는 ‘설득해도 안 움직이는’ 완고함에 초점이 있습니다. stubborn보다 격식 있고 문어적이라 논설·비평 문맥에서 자주 보입니다. durable(내구성 있는)처럼 dur(단단함) 계열 어근을 함께 묶어 외우면 기억이 잘 됩니다.",
+    "tags": [
+      "성격",
+      "완고함",
+      "비평",
+      "격식어휘"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'obdurate': (A) easily persuaded (B) stubbornly refusing to change (C) extremely joyful (D) carefully organized",
+            "a": "B",
+            "meaning_ko": "obdurate는 ‘완고한, 바꾸려 하지 않는’ 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He remained _____ and would not compromise.",
+            "a": "obdurate",
+            "meaning_ko": "타협하지 않는 ‘완고한’ 상태를 나타냅니다."
+          },
+          {
+            "q": "Which collocation is natural? (A) obdurate rain (B) obdurate refusal (C) obdurate sandwich (D) obdurate sunshine",
+            "a": "B",
+            "meaning_ko": "refusal(거부)와 자주 결합해 ‘완강한 거부’로 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'obdurate' without changing meaning: 'She stubbornly refused to reconsider her decision.'",
+            "a": "She was obdurate in her refusal to reconsider her decision.",
+            "meaning_ko": "obdurate in one's refusal 패턴으로 자연스럽게 바꾼 문장입니다."
+          },
+          {
+            "q": "Pick the best preposition: He was obdurate ___ reason and ignored every argument. (in / to / at / over)",
+            "a": "to",
+            "meaning_ko": "obdurate to reason: 이성적 설득에 ‘요지부동’이라는 의미입니다."
+          },
+          {
+            "q": "Which word is closest in meaning to 'obdurate' in a formal essay? (A) intransigent (B) edible (C) diligent (D) vacant",
+            "a": "A",
+            "meaning_ko": "intransigent는 ‘비타협적인, 완강한’으로 문어적 유사어입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best option: The talks collapsed because both sides were obdurate ____ compromise and treated concessions as weakness. (against / for / by / with)",
+            "a": "against",
+            "meaning_ko": "obdurate against compromise: 타협에 맞서 완강한."
+          },
+          {
+            "q": "Sentence insertion: The committee rejected the proposal again. (Insert 'obdurate' naturally to show the tone.)",
+            "a": "The committee, obdurate in its stance, rejected the proposal again.",
+            "meaning_ko": "콤마로 삽입해 ‘완고한 태도’를 문어적으로 드러낸 구성입니다."
+          },
+          {
+            "q": "Error correction: 'He was obdurate for listening to advice.' Correct the underlined part.",
+            "a": "to",
+            "meaning_ko": "obdurate는 보통 to와 결합해 ‘~에 설득되지 않는’ 의미로 씁니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "elevate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To raise something to a higher position or level.",
+        "definition_ko": "무언가를 더 높은 위치나 수준으로 올리다.",
+        "note": "물리적으로 ‘들어 올리다’뿐 아니라 수치·수준을 올리다에도 씁니다."
+      },
+      {
+        "definition_en": "To improve the importance, status, or quality of something.",
+        "definition_ko": "지위·위상·품질 등을 격상시키다, 향상시키다.",
+        "note": "격식체에서 ‘고양하다’ 느낌으로 자주 사용합니다."
+      },
+      {
+        "definition_en": "To make someone feel happier or more inspired.",
+        "definition_ko": "기분을 고양시키다, 고무하다.",
+        "note": "elevate one’s mood/spirits 형태가 흔합니다."
+      }
+    ],
+    "concept": "‘올리다’에서 출발해 위치·수준·지위를 ‘격상’시키는 동사입니다.",
+    "etymology": "라틴어 elevare(‘들어 올리다, 들어 높이다’; e- ‘밖으로’ + levare ‘가볍게 하다/올리다’)에서 유래했습니다.",
+    "semanticExtension": "물리적 상승(높이 올리다)에서 추상적 상승(기준·수준·지위·기분을 올리다)으로 의미가 자연스럽게 확장되었습니다.",
+    "nuanceRegister": "기본 의미는 중립이지만, ‘격상·고양’ 의미는 비교적 격식 있고 긍정적인 톤을 띱니다(마케팅/정책/에세이 문체).",
+    "grammarNotes": "대부분 타동사로 쓰이며 목적어를 취합니다(elevate prices, elevate her to CEO). 수동태(‘be elevated to’)도 흔합니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~로/까지 격상·승격하다",
+        "example": "elevate her to director"
+      },
+      {
+        "prep": "above",
+        "meaning_ko": "~보다 위로 올리다/우위에 두다",
+        "example": "elevate safety above speed"
+      },
+      {
+        "prep": "by",
+        "meaning_ko": "~만큼 높이다(수치 상승)",
+        "example": "elevate rates by 1%"
+      }
+    ],
+    "requiredComplements": [
+      "elevate + 목적어: (물리/수준/수치/기분 등을) 올리다",
+      "elevate + 목적어 + to + 직위/수준: ~을 ~로 승격시키다",
+      "elevate A above B: A를 B보다 우선/우위에 두다"
+    ],
+    "morphology": "e-(밖으로/위로의 뉘앙스) + lev(‘가볍다/들다’ 어근; lever, levity와 연관) + -ate(동사형).",
+    "derivatives": [
+      {
+        "word": "elevation",
+        "meaning_ko": "고도; 상승; (지위) 격상"
+      },
+      {
+        "word": "elevated",
+        "meaning_ko": "높아진; 격상된; (혈압이) 상승한"
+      },
+      {
+        "word": "elevator",
+        "meaning_ko": "엘리베이터; 들어 올리는 장치"
+      },
+      {
+        "word": "elevating",
+        "meaning_ko": "고양시키는, 격상시키는"
+      },
+      {
+        "word": "levity",
+        "meaning_ko": "경박함; 가벼움"
+      }
+    ],
+    "related": [
+      {
+        "word": "raise",
+        "meaning_ko": "올리다"
+      },
+      {
+        "word": "lift",
+        "meaning_ko": "들어 올리다"
+      },
+      {
+        "word": "promote",
+        "meaning_ko": "승진시키다"
+      },
+      {
+        "word": "enhance",
+        "meaning_ko": "향상시키다"
+      },
+      {
+        "word": "uplift",
+        "meaning_ko": "고양하다, 북돋우다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "raise",
+        "meaning_ko": "올리다"
+      },
+      {
+        "word": "lift",
+        "meaning_ko": "들어 올리다"
+      },
+      {
+        "word": "enhance",
+        "meaning_ko": "향상시키다"
+      },
+      {
+        "word": "uplift",
+        "meaning_ko": "고양시키다"
+      },
+      {
+        "word": "promote",
+        "meaning_ko": "승격/승진시키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "increase",
+        "meaning_ko": "증가시키다(수치 중심)"
+      },
+      {
+        "word": "boost",
+        "meaning_ko": "끌어올리다(구어/마케팅 톤)"
+      },
+      {
+        "word": "upgrade",
+        "meaning_ko": "업그레이드하다"
+      },
+      {
+        "word": "exalt",
+        "meaning_ko": "격상하다(매우 격식/문어)"
+      },
+      {
+        "word": "refine",
+        "meaning_ko": "세련되게 다듬다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lower",
+        "meaning_ko": "낮추다"
+      },
+      {
+        "word": "reduce",
+        "meaning_ko": "줄이다"
+      },
+      {
+        "word": "demote",
+        "meaning_ko": "강등시키다"
+      },
+      {
+        "word": "diminish",
+        "meaning_ko": "감소시키다, 약화시키다"
+      },
+      {
+        "word": "degrade",
+        "meaning_ko": "격하시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "elevate your feet",
+            "meaning_ko": "다리를 올리다"
+          },
+          {
+            "phrase": "elevate the price",
+            "meaning_ko": "가격을 올리다"
+          },
+          {
+            "phrase": "elevate the mood",
+            "meaning_ko": "분위기를 띄우다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "elevate blood pressure",
+            "meaning_ko": "혈압을 상승시키다"
+          },
+          {
+            "phrase": "elevate standards",
+            "meaning_ko": "기준을 높이다"
+          },
+          {
+            "phrase": "elevate a brand",
+            "meaning_ko": "브랜드 위상을 올리다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "elevate the debate beyond slogans",
+            "meaning_ko": "구호를 넘어 논의를 격상시키다"
+          },
+          {
+            "phrase": "be elevated to the peerage",
+            "meaning_ko": "귀족 작위로 승격되다"
+          },
+          {
+            "phrase": "elevate transparency above expediency",
+            "meaning_ko": "편의보다 투명성을 우선시하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Elevate your legs to reduce swelling.",
+            "meaning_ko": "부기를 줄이려면 다리를 올리세요."
+          },
+          {
+            "sentence": "The company elevated prices this year.",
+            "meaning_ko": "그 회사는 올해 가격을 올렸다."
+          },
+          {
+            "sentence": "Music can elevate my mood.",
+            "meaning_ko": "음악은 제 기분을 고양시킬 수 있어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The new policy aims to elevate educational standards across the region.",
+            "meaning_ko": "새 정책은 지역 전반의 교육 기준을 끌어올리는 것을 목표로 한다."
+          },
+          {
+            "sentence": "They elevated her to team leader after a series of strong performances.",
+            "meaning_ko": "그들은 연이은 뛰어난 성과 후 그녀를 팀장으로 승격시켰다."
+          },
+          {
+            "sentence": "Stress can elevate blood pressure even in young adults.",
+            "meaning_ko": "스트레스는 젊은 성인에게도 혈압을 올릴 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The director sought to elevate the film from spectacle to social critique without losing its momentum.",
+            "meaning_ko": "감독은 속도감을 잃지 않으면서도 그 영화를 볼거리에서 사회 비평으로 끌어올리려 했다."
+          },
+          {
+            "sentence": "By elevating transparency above expediency, the agency rebuilt public trust after the scandal.",
+            "meaning_ko": "기관은 편의보다 투명성을 우선시함으로써 스캔들 이후 대중의 신뢰를 회복했다."
+          },
+          {
+            "sentence": "Critics argue that the rhetoric elevates outrage into virtue, rewarding volume over evidence.",
+            "meaning_ko": "비평가들은 그 수사가 분노를 미덕으로 격상시켜, 근거보다 목소리 크기를 보상한다고 주장한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "elevate는 단순히 raise의 격식 버전이라고 생각하면 편하지만, ‘지위·논의·기준을 격상시키다’처럼 추상적 목적어와 잘 붙습니다. ‘elevate A to B(승격)’와 ‘elevate A above B(우선시)’ 두 패턴을 함께 익혀두면 작문에 바로 써먹기 좋습니다. 의료 문맥의 elevated blood pressure도 자주 보이니 함께 기억하세요.",
+    "tags": [
+      "상승",
+      "격상",
+      "정책",
+      "비즈니스",
+      "건강"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Please _____ your feet on the chair.",
+            "a": "elevate",
+            "meaning_ko": "물리적으로 ‘올리다’의 의미로 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest meaning of 'elevate': (A) hide (B) raise (C) deny (D) scatter",
+            "a": "B",
+            "meaning_ko": "elevate의 기본 의미는 raise(올리다)입니다."
+          },
+          {
+            "q": "Which phrase is natural? (A) elevate the price (B) elevate the pillow talk (C) elevate the yesterday (D) elevate the silence loudly",
+            "a": "A",
+            "meaning_ko": "가격을 올리다(elevate the price)는 자연스러운 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best pattern: They elevated him ___ manager. (to / at / on / by)",
+            "a": "to",
+            "meaning_ko": "elevate A to B: A를 B로 승격시키다."
+          },
+          {
+            "q": "Rewrite using 'elevate': 'The reforms raised the standards of service.'",
+            "a": "The reforms elevated the standards of service.",
+            "meaning_ko": "standards와 같이 추상 명사를 목적어로 자주 취합니다."
+          },
+          {
+            "q": "Choose the best sentence: (A) Stress elevates to blood pressure. (B) Stress can elevate blood pressure. (C) Stress is elevated blood pressure. (D) Stress elevates by blood pressure.",
+            "a": "B",
+            "meaning_ko": "elevate는 타동사이므로 목적어(blood pressure)를 직접 받습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Fill in the blanks: The speaker tried to elevate the discussion ___ personal attacks ___ policy details.",
+            "a": "beyond / to",
+            "meaning_ko": "elevate A beyond B(넘어 끌어올리다), elevate A to C(수준을 올리다) 구성을 함께 활용한 문장입니다."
+          },
+          {
+            "q": "Sentence correction: 'The minister was elevated above deputy last year.' Fix the underlined part to make it idiomatic.",
+            "a": "to deputy minister",
+            "meaning_ko": "직위 승격은 elevated to + 직위가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best option: The policy elevates transparency ___ expediency, even when delays are costly. (above / under / beside / among)",
+            "a": "above",
+            "meaning_ko": "elevate A above B: A를 B보다 우선/상위에 두다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accountable",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Responsible for actions or decisions and expected to explain or justify them.",
+        "definition_ko": "행동·결정에 대해 책임을 지고 설명할 의무가 있는.",
+        "note": "책임 소재와 ‘설명 가능성(답변 의무)’이 함께 들어갑니다."
+      },
+      {
+        "definition_en": "Able to be explained or accounted for.",
+        "definition_ko": "설명 가능한, 원인·근거로 납득할 수 있는.",
+        "note": "현상·차이 등이 ‘설명 가능하다’는 뜻으로도 쓰입니다(덜 흔하지만 중요)."
+      }
+    ],
+    "concept": "‘책임지고 답변해야 하는 상태’—책임 + 설명 의무를 한 번에 담는 단어입니다.",
+    "etymology": "account(계산, 설명) + -able(‘~할 수 있는’)의 결합으로, ‘설명/정산할 수 있는’에서 ‘책임을 물을 수 있는’ 의미로 굳어졌습니다.",
+    "semanticExtension": "회계·정산의 ‘account’에서 출발해, 조직·정치·행정의 ‘책무성’(accountability) 의미로 크게 확장되었습니다.",
+    "nuanceRegister": "공적·격식 문맥(정책, 기업, 보고서)에서 매우 흔합니다. ‘책임을 묻다/투명성’의 뉘앙스를 동반합니다.",
+    "grammarNotes": "주로 be accountable for/to 형태로 쓰이며, hold sb accountable for 패턴이 관용적으로 매우 빈번합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대해 책임이 있는",
+        "example": "accountable for the mistake"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게(기관/대중 등) 책임을 지는",
+        "example": "accountable to voters"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에 있어 책임/설명 가능성이 있는(문어적)",
+        "example": "accountable in law"
+      }
+    ],
+    "requiredComplements": [
+      "be accountable for + 명사/동명사: ~에 대해 책임지다",
+      "be accountable to + 사람/기관: ~에게 책임을 지다(보고·감사 대상)",
+      "hold sb accountable for + 명사/동명사: ~에 대해 ~에게 책임을 묻다"
+    ],
+    "morphology": "account(설명/계산/정산) + -able(가능/적합) → ‘설명(정산)할 수 있는’ → ‘책임을 질 수 있는/묻는’으로 의미 정착.",
+    "derivatives": [
+      {
+        "word": "accountability",
+        "meaning_ko": "책무성, 책임성"
+      },
+      {
+        "word": "accountable",
+        "meaning_ko": "책임 있는; 설명 가능한"
+      },
+      {
+        "word": "accountable (for)",
+        "meaning_ko": "~에 대해 책임이 있는"
+      },
+      {
+        "word": "accountant",
+        "meaning_ko": "회계사"
+      },
+      {
+        "word": "accounting",
+        "meaning_ko": "회계; 설명"
+      }
+    ],
+    "related": [
+      {
+        "word": "responsible",
+        "meaning_ko": "책임 있는"
+      },
+      {
+        "word": "answerable",
+        "meaning_ko": "답변할 의무가 있는"
+      },
+      {
+        "word": "liable",
+        "meaning_ko": "법적 책임이 있는"
+      },
+      {
+        "word": "transparency",
+        "meaning_ko": "투명성"
+      },
+      {
+        "word": "oversight",
+        "meaning_ko": "감독, 감시"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "responsible",
+        "meaning_ko": "책임 있는"
+      },
+      {
+        "word": "answerable",
+        "meaning_ko": "답변 의무가 있는"
+      },
+      {
+        "word": "liable",
+        "meaning_ko": "책임을 져야 하는"
+      },
+      {
+        "word": "culpable",
+        "meaning_ko": "과실이 있는(비난 포함)"
+      },
+      {
+        "word": "amenable",
+        "meaning_ko": "규율/법에 응해야 하는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "reliable",
+        "meaning_ko": "믿을 수 있는(책임감과 연관)"
+      },
+      {
+        "word": "dependable",
+        "meaning_ko": "의지할 수 있는"
+      },
+      {
+        "word": "obligated",
+        "meaning_ko": "의무가 있는"
+      },
+      {
+        "word": "at fault",
+        "meaning_ko": "잘못이 있는"
+      },
+      {
+        "word": "explainable",
+        "meaning_ko": "설명 가능한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "irresponsible",
+        "meaning_ko": "무책임한"
+      },
+      {
+        "word": "unaccountable",
+        "meaning_ko": "설명할 수 없는; 책임을 지지 않는"
+      },
+      {
+        "word": "exempt",
+        "meaning_ko": "면제된"
+      },
+      {
+        "word": "blameless",
+        "meaning_ko": "책임이 없는, 무고한"
+      },
+      {
+        "word": "immune",
+        "meaning_ko": "책임/영향에서 면역인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "be accountable",
+            "meaning_ko": "책임이 있다"
+          },
+          {
+            "phrase": "accountable for errors",
+            "meaning_ko": "오류에 대해 책임이 있는"
+          },
+          {
+            "phrase": "accountable to the boss",
+            "meaning_ko": "상사에게 책임을 지는"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "hold someone accountable",
+            "meaning_ko": "누구에게 책임을 묻다"
+          },
+          {
+            "phrase": "accountable decision-making",
+            "meaning_ko": "책임 있는 의사결정"
+          },
+          {
+            "phrase": "a system of accountability",
+            "meaning_ko": "책무성 체계"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "be accountable to the public",
+            "meaning_ko": "대중에게 책임을 지다"
+          },
+          {
+            "phrase": "accountable governance",
+            "meaning_ko": "책임 행정/거버넌스"
+          },
+          {
+            "phrase": "ensure officials are accountable for misconduct",
+            "meaning_ko": "공직자의 비위를 책임지게 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "You are accountable for your actions.",
+            "meaning_ko": "당신은 자신의 행동에 책임이 있습니다."
+          },
+          {
+            "sentence": "Managers should be accountable.",
+            "meaning_ko": "관리자는 책임을 져야 합니다."
+          },
+          {
+            "sentence": "We are accountable to our customers.",
+            "meaning_ko": "우리는 고객에게 책임을 집니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report demanded that officials be accountable for the misuse of funds.",
+            "meaning_ko": "보고서는 공금 유용에 대해 공직자들이 책임지도록 요구했다."
+          },
+          {
+            "sentence": "A clear process makes decisions more accountable and easier to review.",
+            "meaning_ko": "명확한 절차는 결정을 더 책임 있게 만들고 검토도 쉽게 한다."
+          },
+          {
+            "sentence": "The difference in outcomes is largely accountable to unequal access to resources.",
+            "meaning_ko": "성과 차이는 대체로 자원 접근의 불평등으로 설명된다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Without independent oversight, claims of accountability become little more than public relations.",
+            "meaning_ko": "독립적 감독이 없다면 책무성 주장은 홍보 문구에 그치기 쉽다."
+          },
+          {
+            "sentence": "The new framework makes contractors accountable not only for costs, but also for long-term safety outcomes.",
+            "meaning_ko": "새 체계는 계약자에게 비용뿐 아니라 장기적 안전 성과까지 책임지게 한다."
+          },
+          {
+            "sentence": "To be accountable to voters is to accept scrutiny, publish evidence, and correct course when facts change.",
+            "meaning_ko": "유권자에게 책임진다는 것은 검증을 받아들이고 근거를 공개하며 사실이 바뀌면 방향을 수정하는 것이다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "accountable은 for/to 두 전치사가 핵심입니다: for는 ‘무엇에 대해 책임’, to는 ‘누구에게 책임(보고 대상)’입니다. 시험에서는 hold sb accountable for 패턴이 자주 나오니 통째로 암기하세요. 또 ‘설명 가능한’ 의미(phenomenon is accountable to ...)가 있으니 ‘원인으로 설명된다’로도 읽을 수 있게 연습해두면 독해가 쉬워집니다.",
+    "tags": [
+      "책임",
+      "윤리",
+      "조직",
+      "정치",
+      "보고"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best preposition: She is accountable ___ the results. (for / to / on / at)",
+            "a": "for",
+            "meaning_ko": "accountable for: 결과에 대해 책임이 있다."
+          },
+          {
+            "q": "Fill in the blank: Leaders must be ________ to the public.",
+            "a": "accountable",
+            "meaning_ko": "대중에게 책임을 지는 맥락에서 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase is most natural? (A) accountable in happiness (B) hold him accountable (C) accountable with rain (D) accountable under sandwich",
+            "a": "B",
+            "meaning_ko": "hold sb accountable: 책임을 묻다(핵심 관용)."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best option: The CEO is accountable ___ shareholders, while managers are accountable ___ day-to-day operations. (to / for)",
+            "a": "to / for",
+            "meaning_ko": "to는 ‘누구에게’, for는 ‘무엇에 대해’ 책임을 집니다."
+          },
+          {
+            "q": "Rewrite using 'hold': 'The board demanded responsibility for the failure.'",
+            "a": "The board demanded that someone be held accountable for the failure.",
+            "meaning_ko": "hold sb accountable for 패턴으로 ‘책임 추궁’을 자연스럽게 표현합니다."
+          },
+          {
+            "q": "In this sentence, what does 'accountable' mean? 'The rise in prices is accountable to supply shortages.'",
+            "a": "explainable",
+            "meaning_ko": "accountable to는 ‘~로 설명된다’는 의미로 쓰였습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best sentence for a formal report: (A) We wanna blame him. (B) We will hold the contractor accountable for repeated violations. (C) He is kinda bad. (D) Let’s ignore it.",
+            "a": "B",
+            "meaning_ko": "공식 문서에서는 hold ... accountable for가 가장 적절한 표현입니다."
+          },
+          {
+            "q": "Error correction: 'They are accountable of the budget.' Correct the underlined part.",
+            "a": "accountable for",
+            "meaning_ko": "전치사는 of가 아니라 for를 씁니다."
+          },
+          {
+            "q": "Fill in the blanks: A system is truly accountable only if decisions are transparent and officials are answerable ___ both outcomes and oversight bodies.",
+            "a": "to",
+            "meaning_ko": "answerable to: ‘~에게 답변/책임 의무가 있다’는 의미로 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

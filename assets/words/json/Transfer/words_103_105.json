@@ -1,0 +1,869 @@
+[
+  {
+    "word": "jealous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Feeling or showing envy of someone’s advantages, possessions, or achievements.",
+        "definition_ko": "남의 장점·소유·성과를 부러워하며 질투하는.",
+        "note": "주로 jealous of + 사람/것 패턴으로 ‘~를 질투하는’ 의미가 가장 흔합니다."
+      },
+      {
+        "definition_en": "Fearful or suspicious that one’s partner will be unfaithful; possessively protective of a relationship.",
+        "definition_ko": "연인/배우자 관계에서 의심과 소유욕이 섞인 질투를 하는.",
+        "note": "romantic jealousy 문맥에서 jealous는 ‘시기’보다 ‘의심/소유욕’ 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "Vigilant in guarding or protecting something; very careful to preserve it (often formal).",
+        "definition_ko": "무엇을 지키려는 마음이 강한; 철저히 보호하는(격식).",
+        "note": "be jealous of one’s rights / be jealous of one’s reputation처럼 ‘권리/명예를 지키려는’ 문어적 용법이 있습니다."
+      }
+    ],
+    "concept": "핵심은 ‘내 것이 위협받거나 남이 더 가지는 것에 대한 민감한 감정(질투/경계)’입니다.",
+    "etymology": "라틴어 zelus(열심, 열정, 질투) 계열에서 프랑스어를 거쳐 영어로 들어온 말로 알려져 있습니다.",
+    "semanticExtension": "원래는 ‘열심/열정’ 같은 강한 감정에서, 타인의 우위에 대한 ‘시기’와 관계를 지키려는 ‘질투/경계’로 의미가 분화·고정되었습니다.",
+    "nuanceRegister": "일상 구어에서 매우 흔하며, 3번째 ‘권리/명예를 지키다’ 용법은 비교적 문어·격식입니다.",
+    "grammarNotes": "형용사로 be jealous of + N(시기/질투) 패턴이 핵심입니다. romantic 문맥에서는 jealous of + person 또는 jealous about + situation도 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "‘~를 시기/질투하다; ~을 지키려 들다’",
+        "example": "jealous of her success"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "‘~에 대해 질투하다/민감해하다’(상황 중심)",
+        "example": "jealous about his friends"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "‘~ 때문에/둘러싸고 질투하다’",
+        "example": "jealous over a rumor"
+      }
+    ],
+    "requiredComplements": [
+      "be jealous of + N : ~를 질투/시기하다",
+      "be jealous about/over + N : ~을 두고 질투하다(상황/원인 중심)",
+      "be jealous of one’s rights/reputation : 권리/명예를 철저히 지키려 하다(격식)"
+    ],
+    "morphology": "jealous는 어근 zel-/jeal- 계열(열정·질투)과 연결해 ‘감정이 강하게 올라오는 상태’로 묶어 기억하면 좋습니다.",
+    "derivatives": [
+      {
+        "word": "jealousy",
+        "meaning_ko": "질투; 시기"
+      },
+      {
+        "word": "jealously",
+        "meaning_ko": "질투하며; 철저히 지키며"
+      }
+    ],
+    "related": [
+      {
+        "word": "envy",
+        "meaning_ko": "부러움/시기(질투보다 비교적 '남의 것을 원함' 중심)"
+      },
+      {
+        "word": "resentment",
+        "meaning_ko": "분개; 원망(감정 확장)"
+      },
+      {
+        "word": "possessive",
+        "meaning_ko": "소유욕이 강한"
+      },
+      {
+        "word": "protective",
+        "meaning_ko": "보호하려는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "envious",
+        "meaning_ko": "부러워하는; 시기하는"
+      },
+      {
+        "word": "covetous",
+        "meaning_ko": "탐내는(강한 부정적 뉘앙스)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "suspicious",
+        "meaning_ko": "의심하는(연인 질투 문맥에서 일부 겹침)"
+      },
+      {
+        "word": "insecure",
+        "meaning_ko": "불안한(질투의 심리 상태)"
+      },
+      {
+        "word": "guarded",
+        "meaning_ko": "경계하는(보호 의미와 근접)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "secure",
+        "meaning_ko": "안심하는; 안정된"
+      },
+      {
+        "word": "trusting",
+        "meaning_ko": "신뢰하는"
+      },
+      {
+        "word": "generous",
+        "meaning_ko": "관대한; 베푸는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "jealous of someone",
+            "meaning_ko": "누구를 질투하는"
+          },
+          {
+            "phrase": "jealous feelings",
+            "meaning_ko": "질투심"
+          },
+          {
+            "phrase": "jealous boyfriend/girlfriend",
+            "meaning_ko": "질투 많은 연인"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "get jealous",
+            "meaning_ko": "질투심이 나다"
+          },
+          {
+            "phrase": "jealous rival",
+            "meaning_ko": "시기하는 경쟁자"
+          },
+          {
+            "phrase": "jealous of her success",
+            "meaning_ko": "그녀의 성공을 시기하는"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "be jealous of one’s reputation",
+            "meaning_ko": "명예를 철저히 지키려 하다"
+          },
+          {
+            "phrase": "jealous guarding of trade secrets",
+            "meaning_ko": "영업비밀을 철저히 보호함"
+          },
+          {
+            "phrase": "jealous suspicion",
+            "meaning_ko": "질투에서 비롯된 의심(문어)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I’m not jealous of you—I’m just curious.",
+            "meaning_ko": "너를 질투하는 게 아니라 그냥 궁금한 거야."
+          },
+          {
+            "sentence": "She felt jealous when her friend won the prize.",
+            "meaning_ko": "친구가 상을 타자 그녀는 질투를 느꼈다."
+          },
+          {
+            "sentence": "He gets jealous easily.",
+            "meaning_ko": "그는 쉽게 질투심이 생긴다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was jealous of her promotion, but he tried not to show it.",
+            "meaning_ko": "그는 그녀의 승진을 질투했지만 티 내지 않으려 했다."
+          },
+          {
+            "sentence": "She became jealous about the time he spent with his coworkers.",
+            "meaning_ko": "그가 동료들과 보내는 시간에 대해 그녀는 질투심을 느꼈다."
+          },
+          {
+            "sentence": "A jealous rival spread rumors to damage his reputation.",
+            "meaning_ko": "질투심 많은 경쟁자가 그의 명예를 훼손하려 소문을 퍼뜨렸다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The company is jealous of its intellectual property and discloses little to outsiders.",
+            "meaning_ko": "그 회사는 지적 재산을 철저히 보호해 외부에 거의 공개하지 않는다."
+          },
+          {
+            "sentence": "Jealous suspicion, once planted, can distort even harmless interactions.",
+            "meaning_ko": "질투에서 비롯된 의심은 한 번 생기면 무해한 상호작용마저 왜곡할 수 있다."
+          },
+          {
+            "sentence": "Rather than feeding jealous thoughts, she focused on skills she could improve.",
+            "meaning_ko": "질투심을 키우기보다 그녀는 개선할 수 있는 능력에 집중했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "jealous는 ‘질투’지만, envy(남의 것을 갖고 싶어 함)와 미묘하게 다릅니다. jealous는 ‘내 관계/내 자리가 위협받는다’는 소유욕·불안이 섞이기 쉬워 romantic 문맥에서 특히 강합니다. 패턴은 be jealous of + 대상이 핵심이며, 권리/명예를 ‘철저히 지킨다’는 문어 용법(be jealous of one’s reputation)도 독해에서 종종 나오니 함께 챙기세요.",
+    "tags": [
+      "감정",
+      "대인관계",
+      "심리",
+      "구어",
+      "문어표현"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'jealous': (A) hungry (B) envious or possessive (C) sleepy (D) silent",
+            "a": "B",
+            "meaning_ko": "jealous는 ‘질투/시기’ 또는 관계에서의 소유욕적 질투를 뜻합니다."
+          },
+          {
+            "q": "Fill in the blank: She was jealous _____ his talent.",
+            "a": "of",
+            "meaning_ko": "표준 패턴은 jealous of + 대상입니다."
+          },
+          {
+            "q": "Which is most natural? (A) jealous of (B) jealous under (C) jealous onto (D) jealous between",
+            "a": "A",
+            "meaning_ko": "jealous는 주로 of와 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest word: jealous (of someone’s success) ≈ (A) envious (B) edible (C) vacant (D) porous",
+            "a": "A",
+            "meaning_ko": "성과를 시기하는 의미에서는 envious가 가장 가깝습니다."
+          },
+          {
+            "q": "Choose the best completion: He felt jealous _____ the attention she gave others. (A) about (B) by (C) into (D) from",
+            "a": "about",
+            "meaning_ko": "상황/사안에 대한 질투는 jealous about도 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best sentence: (A) The table is jealous. (B) She is jealous of his promotion. (C) Jealous runs quickly. (D) He jealoused loudly.",
+            "a": "B",
+            "meaning_ko": "jealous는 형용사이며 사람/감정을 설명할 때 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In formal writing, what does 'jealous of its rights' most nearly mean?",
+            "a": "very careful to protect its rights",
+            "meaning_ko": "문어 용법에서 jealous of는 ‘권리를 철저히 지키는’ 의미가 됩니다."
+          },
+          {
+            "q": "Error correction: 'She was jealous for her friend's success.' → Fix with the standard preposition.",
+            "a": "She was jealous of her friend's success.",
+            "meaning_ko": "대상을 질투/시기할 때는 jealous of가 표준입니다."
+          },
+          {
+            "q": "Choose the best contrast: A trusting partner is the opposite of a _____ partner. (A) jealous (B) salient (C) bilateral (D) shabby",
+            "a": "jealous",
+            "meaning_ko": "trusting(신뢰하는)과 대비되는 대표 감정은 jealous입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abandon",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To leave someone or something completely; to desert or forsake.",
+        "definition_ko": "(사람·장소·물건을) 버리다, 내팽개치다; (사람을) 버리다/유기하다.",
+        "note": "abandon someone/something to + 결과(운명) 패턴이 자주 나오며 ‘~에 내맡기다’ 뉘앙스가 생깁니다."
+      },
+      {
+        "definition_en": "To give up an activity, plan, or idea, especially after starting it.",
+        "definition_ko": "(계획·시도·습관 등을) 중단하다, 포기하다.",
+        "note": "abandon a plan/attempt/project처럼 추상 목적어와 결합이 매우 흔합니다."
+      },
+      {
+        "definition_en": "Complete freedom from restraint; unrestrained emotion or behavior (as a noun).",
+        "definition_ko": "자제 없음, 방종(명사).",
+        "note": "with abandon(아무 거리낌 없이), act/sing/dance with abandon 같은 표현이 대표적입니다."
+      }
+    ],
+    "concept": "‘완전히 떠나버리다/포기하다’와 ‘자제 없이(방종하게) 행동하다(with abandon)’를 함께 잡아두면 됩니다.",
+    "etymology": "옛 프랑스어 a bandon(‘지배/통제 아래에서’) 같은 표현에서 발전해 ‘통제에서 벗어나 내버리다’라는 방향으로 의미가 굳은 것으로 알려져 있습니다.",
+    "semanticExtension": "‘통제/지배에서 벗어남’이라는 뿌리에서, (대상을) ‘내버리다/버리다’(동사)로 이어지고, 다시 ‘자제에서 풀려난 상태’(명사: abandon)로 확장되어 관용구 with abandon을 만들었습니다.",
+    "nuanceRegister": "동사 의미는 매우 일반적(신문·일상 모두). 명사 의미는 비교적 문어/표현적 문장(예술·서술)에서 자주 보입니다.",
+    "grammarNotes": "동사는 타동사로 abandon + 목적어가 기본. abandon A to B(=A를 B에 맡기다) 구조가 흔합니다. 명사는 불가산처럼 쓰이며 with abandon 관용구로 자주 등장합니다.",
+    "transitivity": "타동사",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "‘~에 내맡기다/버려두다’",
+        "example": "abandon a child to fate"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "‘거리낌 없이/자제 없이’(명사 용법)",
+        "example": "dance with abandon"
+      }
+    ],
+    "requiredComplements": [
+      "abandon + N : (사람/계획 등을) 버리다, 포기하다",
+      "abandon + N + to + N : ~을 ~에 내맡기다",
+      "with abandon : 자제 없이, 마음껏"
+    ],
+    "morphology": "abandon은 형태적으로 a- + bandon 계열로 분석되지만, 실전에서는 ‘완전히 버리다’ + 관용구 with abandon을 세트로 묶어 암기하는 편이 안전합니다.",
+    "derivatives": [
+      {
+        "word": "abandoned",
+        "meaning_ko": "버려진; 방탕한(문어)"
+      },
+      {
+        "word": "abandonment",
+        "meaning_ko": "유기; 포기; 버림"
+      }
+    ],
+    "related": [
+      {
+        "word": "desert",
+        "meaning_ko": "버리다; 저버리다"
+      },
+      {
+        "word": "forsake",
+        "meaning_ko": "버리다(문어)"
+      },
+      {
+        "word": "quit",
+        "meaning_ko": "그만두다(구어)"
+      },
+      {
+        "word": "surrender",
+        "meaning_ko": "포기하다; 항복하다(상황에 따라)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "desert",
+        "meaning_ko": "버리다; 유기하다"
+      },
+      {
+        "word": "forsake",
+        "meaning_ko": "저버리다"
+      },
+      {
+        "word": "give up",
+        "meaning_ko": "포기하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "discard",
+        "meaning_ko": "버리다(물건 중심)"
+      },
+      {
+        "word": "terminate",
+        "meaning_ko": "중단하다(격식)"
+      },
+      {
+        "word": "leave behind",
+        "meaning_ko": "뒤에 남겨두다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "retain",
+        "meaning_ko": "유지하다"
+      },
+      {
+        "word": "continue",
+        "meaning_ko": "계속하다"
+      },
+      {
+        "word": "rescue",
+        "meaning_ko": "구하다(유기의 반대)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "abandon a plan",
+            "meaning_ko": "계획을 포기하다"
+          },
+          {
+            "phrase": "abandon a child",
+            "meaning_ko": "아이를 유기하다"
+          },
+          {
+            "phrase": "with abandon",
+            "meaning_ko": "거리낌 없이, 마음껏"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "abandon hope",
+            "meaning_ko": "희망을 버리다"
+          },
+          {
+            "phrase": "abandon the project",
+            "meaning_ko": "프로젝트를 중단하다"
+          },
+          {
+            "phrase": "abandon someone to fate",
+            "meaning_ko": "누군가를 운명에 내맡기다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "abandon all pretense",
+            "meaning_ko": "가식/허울을 완전히 버리다"
+          },
+          {
+            "phrase": "abandon the pursuit of",
+            "meaning_ko": "~을 추구하는 일을 포기하다"
+          },
+          {
+            "phrase": "sing with reckless abandon",
+            "meaning_ko": "무모할 만큼 거리낌 없이 노래하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They had to abandon the car in the snow.",
+            "meaning_ko": "그들은 눈 속에 차를 버려두고 갈 수밖에 없었다."
+          },
+          {
+            "sentence": "Don’t abandon your friends when things get hard.",
+            "meaning_ko": "힘들다고 친구를 버리지 마라."
+          },
+          {
+            "sentence": "She danced with abandon at the concert.",
+            "meaning_ko": "그녀는 콘서트에서 마음껏(거리낌 없이) 춤을 췄다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "After several failures, they abandoned the plan and tried a new approach.",
+            "meaning_ko": "여러 번 실패한 뒤 그들은 계획을 포기하고 새 접근을 시도했다."
+          },
+          {
+            "sentence": "The storm forced the crew to abandon the mission halfway through.",
+            "meaning_ko": "폭풍 때문에 승무원들은 임무를 중간에 중단해야 했다."
+          },
+          {
+            "sentence": "He abandoned the child to strangers and disappeared.",
+            "meaning_ko": "그는 아이를 낯선 사람들에게 내맡긴 채 사라졌다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Facing public backlash, the board abandoned all pretense of neutrality and took a clear stance.",
+            "meaning_ko": "대중의 반발에 직면한 이사회는 중립인 척하던 허울을 버리고 분명한 입장을 취했다."
+          },
+          {
+            "sentence": "The policy effectively abandoned rural communities to market forces they could not withstand.",
+            "meaning_ko": "그 정책은 농촌 공동체를 감당할 수 없는 시장 힘에 사실상 내맡겼다."
+          },
+          {
+            "sentence": "With reckless abandon, he spent his savings on a gamble that had little chance of success.",
+            "meaning_ko": "그는 성공 가능성이 거의 없는 도박에 저축을 무모할 만큼 거리낌 없이 써버렸다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "abandon은 ‘버리다/유기하다’와 ‘포기하다’가 시험에서 핵심이고, 문어 표현 with abandon(자제 없이)도 빈출입니다. abandon A to B(=A를 B에 내맡기다) 구조를 알고 있으면 독해에서 ‘방치/유기’의 뉘앙스를 정확히 잡을 수 있습니다. abandoned(버려진)와 abandonment(유기/포기) 파생어까지 함께 묶어두면 어휘 문제가 안정적으로 풀립니다.",
+    "tags": [
+      "포기",
+      "유기",
+      "행동표현",
+      "관용구",
+      "독해빈출"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'abandon' (verb): (A) begin (B) leave behind completely (C) measure (D) repair",
+            "a": "B",
+            "meaning_ko": "abandon은 ‘완전히 버리다/유기하다’가 핵심입니다."
+          },
+          {
+            "q": "Fill in the blank: They decided to _____ the plan after it failed twice.",
+            "a": "abandon",
+            "meaning_ko": "계획을 ‘포기/중단’한다는 의미로 abandon a plan이 자연스럽습니다."
+          },
+          {
+            "q": "What does 'with abandon' mean? (A) with restraint (B) without restraint (C) with fear (D) without time",
+            "a": "B",
+            "meaning_ko": "with abandon = 자제 없이, 거리낌 없이."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The villagers felt abandoned _____ the government. (A) by (B) into (C) at (D) under",
+            "a": "by",
+            "meaning_ko": "수동 의미(버림받다)는 be abandoned by + 행위자(누가 버렸는지)로 자주 표현합니다."
+          },
+          {
+            "q": "Pick the closest synonym: abandon (a project) ≈ (A) give up (B) stitch (C) accuse (D) admire",
+            "a": "A",
+            "meaning_ko": "프로젝트를 abandon = 포기하다 = give up."
+          },
+          {
+            "q": "Fill in the blank: The policy seemed to abandon small firms _____ harsh competition.",
+            "a": "to",
+            "meaning_ko": "abandon A to B는 ‘A를 B에 내맡기다’ 구조입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best phrase: 'abandon all _____ of innocence' (A) pretense (B) parsley (C) pigment (D) pantry",
+            "a": "pretense",
+            "meaning_ko": "abandon all pretense는 ‘허울/가식을 완전히 버리다’의 정형 표현입니다."
+          },
+          {
+            "q": "Error correction: 'They abandoned to fate the victims.' → Rewrite with standard word order.",
+            "a": "They abandoned the victims to fate.",
+            "meaning_ko": "abandon + 목적어 + to + 명사 순서가 표준입니다."
+          },
+          {
+            "q": "In literary style, 'He laughed with abandon' most nearly means he laughed _____.",
+            "a": "freely and without restraint",
+            "meaning_ko": "with abandon은 ‘거리낌 없이/자제 없이’입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "factotum",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A person who does all kinds of work; a general assistant or handy person.",
+        "definition_ko": "잡일을 두루 하는 사람; 만능 심부름꾼/만능 조수.",
+        "note": "회사/가정/조직에서 '이것저것 다 맡아 하는 사람'을 다소 문어적·풍자적으로 부를 때가 많습니다."
+      }
+    ],
+    "concept": "‘전담 직무 하나가 아니라, 필요하면 뭐든 다 처리하는 만능 조수’라는 이미지입니다.",
+    "etymology": "라틴어 표현 fac totum(‘모든 것을 하다’)에서 온 말로 알려져 있습니다.",
+    "semanticExtension": "어원 자체가 ‘무엇이든 한다’는 뜻이어서, 조직 내에서 다양한 업무를 맡는 ‘잡무 담당/만능 조수’라는 사회적 역할로 의미가 굳었습니다.",
+    "nuanceRegister": "격식/문어에서 더 자주 보이며, 때로는 ‘잡무를 떠맡는 사람’이라는 약간 낮춰 부르는(풍자적) 뉘앙스가 섞일 수 있습니다.",
+    "grammarNotes": "가산명사이며 a factotum / the factotum으로 쓰입니다. 문맥에 따라 office factotum, general factotum처럼 명사 앞 수식도 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "‘~의 잡무를 도맡는 사람’",
+        "example": "a factotum for the director"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "‘~에서 만능 조수로’",
+        "example": "a factotum in the office"
+      }
+    ],
+    "requiredComplements": [
+      "a factotum for + person/organization : ~의 만능 조수/잡무 담당",
+      "the office factotum : 사무실의 만능 일꾼(관용적 결합)"
+    ],
+    "morphology": "fac(하다) + totum(전체/모든 것) → ‘모든 걸 하는 사람’으로 직역하면 의미가 바로 잡힙니다.",
+    "derivatives": [
+      {
+        "word": "factotums",
+        "meaning_ko": "factotum의 복수형"
+      }
+    ],
+    "related": [
+      {
+        "word": "handyman",
+        "meaning_ko": "수리/잡일꾼"
+      },
+      {
+        "word": "assistant",
+        "meaning_ko": "조수, 보조"
+      },
+      {
+        "word": "gofer",
+        "meaning_ko": "심부름꾼(구어/속어)"
+      },
+      {
+        "word": "jack-of-all-trades",
+        "meaning_ko": "만능형(재주꾼; 문맥 따라)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "handyman",
+        "meaning_ko": "잡일꾼; 만능 수리공(문맥 유사)"
+      },
+      {
+        "word": "general assistant",
+        "meaning_ko": "만능 조수"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "gofer",
+        "meaning_ko": "심부름꾼(더 구어/비격식)"
+      },
+      {
+        "word": "aide",
+        "meaning_ko": "보좌관(좀 더 공식 직함)"
+      },
+      {
+        "word": "utility player",
+        "meaning_ko": "멀티 포지션(비유적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "specialist",
+        "meaning_ko": "전문가(특정 분야)"
+      },
+      {
+        "word": "expert",
+        "meaning_ko": "숙련가; 전문가"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "office factotum",
+            "meaning_ko": "사무실 만능 조수"
+          },
+          {
+            "phrase": "a trusted factotum",
+            "meaning_ko": "신뢰받는 만능 조수"
+          },
+          {
+            "phrase": "general factotum",
+            "meaning_ko": "전반 업무 담당자"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "serve as a factotum",
+            "meaning_ko": "만능 조수로 일하다"
+          },
+          {
+            "phrase": "the director's factotum",
+            "meaning_ko": "감독/책임자의 만능 조수"
+          },
+          {
+            "phrase": "a factotum in a small firm",
+            "meaning_ko": "소규모 회사의 만능 인력"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "an indispensable factotum",
+            "meaning_ko": "없어선 안 될 만능 조수"
+          },
+          {
+            "phrase": "a factotum who handles logistics and paperwork",
+            "meaning_ko": "물류와 서류를 도맡는 만능 조수"
+          },
+          {
+            "phrase": "reduced to a mere factotum",
+            "meaning_ko": "그저 잡무 담당으로 전락한(문어)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "In a small shop, he worked as a factotum.",
+            "meaning_ko": "작은 가게에서 그는 이것저것 다 하는 만능 조수로 일했다."
+          },
+          {
+            "sentence": "She hired a factotum to handle errands and repairs.",
+            "meaning_ko": "그녀는 심부름과 수리를 맡길 만능 조수를 고용했다."
+          },
+          {
+            "sentence": "The office factotum fixed the printer and arranged the meeting room.",
+            "meaning_ko": "사무실 만능 조수가 프린터를 고치고 회의실도 정리했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "As the CEO’s factotum, he managed travel bookings, paperwork, and last-minute tasks.",
+            "meaning_ko": "CEO의 만능 조수로서 그는 출장 예약, 서류, 급한 업무를 처리했다."
+          },
+          {
+            "sentence": "They relied on one factotum to keep the entire operation running.",
+            "meaning_ko": "그들은 운영 전체를 굴리기 위해 한 명의 만능 인력에게 의존했다."
+          },
+          {
+            "sentence": "The job description sounded like a factotum role rather than a specialist position.",
+            "meaning_ko": "그 직무 설명은 전문직이라기보다 만능 잡무 역할처럼 들렸다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Over time, he grew resentful at being reduced to a mere factotum despite his qualifications.",
+            "meaning_ko": "시간이 지나며 그는 자격이 있음에도 그저 잡무 담당으로 전락한 것에 분개했다."
+          },
+          {
+            "sentence": "The director’s indispensable factotum quietly coordinated logistics that made the production possible.",
+            "meaning_ko": "감독의 없어선 안 될 만능 조수는 제작을 가능하게 한 물류를 조용히 조율했다."
+          },
+          {
+            "sentence": "In the memoir, the author describes himself as a factotum, learning every corner of the business from the ground up.",
+            "meaning_ko": "회고록에서 저자는 만능 조수로서 바닥부터 사업의 모든 구석을 배웠다고 묘사한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "factotum은 어원 fac(하다)+totum(모든 것)만 잡으면 뜻이 바로 나옵니다. 독해에서는 ‘작은 조직에서 이것저것 다 맡는 사람’ 또는 ‘잡무를 도맡는 조수’라는 뉘앙스로 등장합니다. handyman(잡일꾼), gofer(심부름꾼·구어)와 비교해, factotum은 더 문어적이고 ‘만능 조수’ 느낌이 강하다는 점을 구분해 두세요.",
+    "tags": [
+      "직장",
+      "조직",
+      "역할",
+      "문어",
+      "어원학습"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'factotum': (A) a scientist (B) a person who does all kinds of work (C) a judge (D) a tourist",
+            "a": "B",
+            "meaning_ko": "factotum은 ‘이것저것 다 하는 만능 조수/잡무 담당’입니다."
+          },
+          {
+            "q": "Fill in the blank: In a small company, she served as a _____.",
+            "a": "factotum",
+            "meaning_ko": "소규모 조직에서 여러 업무를 도맡는 역할로 factotum이 자연스럽습니다."
+          },
+          {
+            "q": "Which is the closest paraphrase? 'office factotum' = (A) office specialist (B) office all-round helper (C) office rival (D) office poet",
+            "a": "B",
+            "meaning_ko": "office factotum은 사무실에서 잡무를 두루 처리하는 만능 조수입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest synonym: factotum ≈ (A) handyman (B) nemesis (C) itinerary (D) embargo",
+            "a": "A",
+            "meaning_ko": "handyman(잡일꾼/만능 수리공)이 의미상 가장 가깝습니다."
+          },
+          {
+            "q": "Choose the best completion: He worked as a factotum _____ the director. (A) for (B) at (C) into (D) under",
+            "a": "for",
+            "meaning_ko": "a factotum for + 사람/조직 = 그 사람/조직의 만능 조수."
+          },
+          {
+            "q": "Choose the best sentence: (A) The factotum specialized in one narrow field. (B) The factotum handled errands, repairs, and paperwork. (C) The factotum slept the report. (D) The factotum is a weather map.",
+            "a": "B",
+            "meaning_ko": "factotum은 ‘여러 일을 두루 처리’한다는 점이 핵심입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In a critical tone, 'reduced to a mere factotum' most nearly means _____.",
+            "a": "treated as just a do-everything helper rather than valued for higher skills",
+            "meaning_ko": "‘그저 잡무 담당으로 전락했다’는 비판적 뉘앙스입니다."
+          },
+          {
+            "q": "Error correction: 'He was a factotum on the CEO.' → Fix the preposition.",
+            "a": "He was a factotum for the CEO.",
+            "meaning_ko": "소속/대상은 보통 for로 연결합니다."
+          },
+          {
+            "q": "Choose the best contrast word: factotum vs. _____. (A) specialist (B) drizzle (C) embryo (D) tactile",
+            "a": "specialist",
+            "meaning_ko": "factotum(만능 조수)과 반대 축은 specialist(전문가)입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

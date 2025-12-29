@@ -1,0 +1,902 @@
+[
+  {
+    "word": "itinerary",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A planned route or schedule of a journey, including places to visit and times.",
+        "definition_ko": "여정의 이동 경로와 일정표(방문지와 시간 등을 포함한 계획).",
+        "note": "travel plan보다 더 ‘구체적’이고 순서·시간이 잡힌 일정표 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "A written record of a route taken or to be taken.",
+        "definition_ko": "이동 경로에 대한 기록(예정 또는 실제 경로의 문서).",
+        "note": "보고서/기록 문맥에서도 쓰입니다."
+      }
+    ],
+    "concept": "여행이나 출장에서 ‘어디를 언제 어떤 순서로 갈지’가 정리된 구체적 일정표.",
+    "etymology": "라틴어 itinerarium(여정, 여행 기록)에서 왔으며, iter(여행/길) 계열 어근이 기반입니다.",
+    "semanticExtension": "본래 ‘길/여정의 기록’에서 출발해, 오늘날에는 일정과 방문지 목록까지 포함하는 ‘여행 계획표’ 의미로 확장되었습니다.",
+    "nuanceRegister": "격식·실무(출장/항공/여행업)에서 자주 쓰이며, 회화에서도 ‘여행 일정’ 의미로 자연스럽게 사용됩니다.",
+    "grammarNotes": "보통 관사와 함께 a/an itinerary로 쓰거나, 복수 itineraries로 일정표 여러 개를 말합니다. 형용사처럼 쓰지 않으며, 동사 plan/confirm/send 등과 자주 결합합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 일정표",
+        "example": "an itinerary for the conference"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 여정/경로 일정",
+        "example": "the itinerary of the expedition"
+      }
+    ],
+    "requiredComplements": [
+      "itinerary for + 명사(행사/여행) : ~을 위한 일정표",
+      "itinerary of + 여정/원정 : ~의 이동 경로(일정)"
+    ],
+    "morphology": "itiner- (여행/길) + -ary(명사·형용사 파생 접미 성격).",
+    "derivatives": [
+      {
+        "word": "itinerant",
+        "meaning_ko": "순회하는, 이동하며 일하는"
+      },
+      {
+        "word": "itinerancy",
+        "meaning_ko": "순회 생활, 유랑"
+      },
+      {
+        "word": "itinerate",
+        "meaning_ko": "순회하다(드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "schedule",
+        "meaning_ko": "일정표"
+      },
+      {
+        "word": "route",
+        "meaning_ko": "경로"
+      },
+      {
+        "word": "agenda",
+        "meaning_ko": "의제/회의 일정"
+      },
+      {
+        "word": "timetable",
+        "meaning_ko": "시간표"
+      },
+      {
+        "word": "trip plan",
+        "meaning_ko": "여행 계획"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "schedule",
+        "meaning_ko": "일정(표)"
+      },
+      {
+        "word": "route plan",
+        "meaning_ko": "경로 계획"
+      },
+      {
+        "word": "travel plan",
+        "meaning_ko": "여행 계획"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "agenda",
+        "meaning_ko": "회의/행사 진행표"
+      },
+      {
+        "word": "program",
+        "meaning_ko": "행사 프로그램"
+      },
+      {
+        "word": "plan",
+        "meaning_ko": "계획(일반)"
+      },
+      {
+        "word": "outline",
+        "meaning_ko": "개요"
+      },
+      {
+        "word": "roadmap",
+        "meaning_ko": "장기 계획/로드맵"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "improvisation",
+        "meaning_ko": "즉흥 진행"
+      },
+      {
+        "word": "aimlessness",
+        "meaning_ko": "무계획/방향 없음"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "travel itinerary",
+            "meaning_ko": "여행 일정표"
+          },
+          {
+            "phrase": "a detailed itinerary",
+            "meaning_ko": "상세한 일정표"
+          },
+          {
+            "phrase": "a packed itinerary",
+            "meaning_ko": "빡빡한 일정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "finalize the itinerary",
+            "meaning_ko": "일정을 확정하다"
+          },
+          {
+            "phrase": "revise the itinerary",
+            "meaning_ko": "일정을 수정하다"
+          },
+          {
+            "phrase": "stick to the itinerary",
+            "meaning_ko": "일정대로 따르다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "submit an itinerary for approval",
+            "meaning_ko": "승인을 위해 일정표를 제출하다"
+          },
+          {
+            "phrase": "optimize the itinerary for cost and time",
+            "meaning_ko": "비용·시간을 고려해 일정을 최적화하다"
+          },
+          {
+            "phrase": "a contingency-built itinerary",
+            "meaning_ko": "변수를 감안해 짠 일정(플랜B 포함)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Our itinerary includes three museums and a night market.",
+            "meaning_ko": "우리 일정에는 박물관 세 곳과 야시장이 포함되어 있어요."
+          },
+          {
+            "sentence": "Can you email me the itinerary?",
+            "meaning_ko": "일정표를 이메일로 보내 주실 수 있나요?"
+          },
+          {
+            "sentence": "The itinerary is too tight for a weekend trip.",
+            "meaning_ko": "주말 여행치고는 일정이 너무 빡빡해요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "We revised the itinerary after the ferry schedule changed.",
+            "meaning_ko": "페리 시간표가 바뀌어서 일정을 수정했어요."
+          },
+          {
+            "sentence": "Try to stick to the itinerary unless something urgent comes up.",
+            "meaning_ko": "급한 일이 생기지 않는 한 일정대로 진행해 주세요."
+          },
+          {
+            "sentence": "Her itinerary lists every stop, down to the minute.",
+            "meaning_ko": "그녀의 일정표에는 모든 방문지가 분 단위까지 적혀 있어요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "For compliance reasons, the team submitted the itinerary for prior approval.",
+            "meaning_ko": "규정 준수 때문에 팀은 사전 승인을 받기 위해 일정표를 제출했습니다."
+          },
+          {
+            "sentence": "A well-designed itinerary balances logistics, rest, and unexpected delays.",
+            "meaning_ko": "잘 짜인 일정표는 이동 동선, 휴식, 돌발 지연을 균형 있게 고려합니다."
+          },
+          {
+            "sentence": "The diplomat’s itinerary was kept confidential until the last minute.",
+            "meaning_ko": "그 외교관의 방문 일정은 막판까지 비공개로 유지되었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "itinerary는 ‘여행 계획’ 중에서도 방문지·순서·시간이 구체적으로 정리된 ‘일정표’에 가깝습니다. agenda는 회의/행사 진행표에 더 어울리므로 구분하세요. 자주 같이 쓰는 동사 finalize/revise/stick to를 덩어리로 외우면 문장 생성이 빨라집니다.",
+    "tags": [
+      "여행",
+      "출장",
+      "일정",
+      "계획",
+      "문서"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: Please send me the ____ for our trip to Osaka.",
+            "a": "itinerary",
+            "meaning_ko": "여행의 구체적 일정표를 말하므로 itinerary가 정답입니다."
+          },
+          {
+            "q": "Which phrase sounds natural? (A) itinerary do (B) finalize the itinerary",
+            "a": "finalize the itinerary",
+            "meaning_ko": "itinerary는 ‘확정하다’(finalize)와 자연스럽게 결합합니다."
+          },
+          {
+            "q": "True or False: An itinerary can include times and places.",
+            "a": "True",
+            "meaning_ko": "itinerary는 방문지와 시간까지 포함하는 일정표입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: We had to ____ the itinerary because the flight was delayed.",
+            "a": "revise",
+            "meaning_ko": "지연으로 계획을 ‘수정’하므로 revise가 적절합니다."
+          },
+          {
+            "q": "Choose the closest meaning: a packed itinerary",
+            "a": "a very busy schedule",
+            "meaning_ko": "packed는 ‘빽빽한/바쁜’ 일정이라는 뜻입니다."
+          },
+          {
+            "q": "Select the best preposition: an itinerary ___ the conference (for/of)",
+            "a": "for",
+            "meaning_ko": "‘~을 위한 일정표’는 itinerary for가 기본입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'stick to': We should follow the schedule exactly.",
+            "a": "We should stick to the itinerary exactly.",
+            "meaning_ko": "follow exactly → stick to로 자연스럽게 치환됩니다."
+          },
+          {
+            "q": "Choose the best option for formal writing: The minister’s itinerary was kept ____ until departure. (A) secret (B) confidential",
+            "a": "confidential",
+            "meaning_ko": "공식 문맥에서는 confidential이 더 격식 있고 정확합니다."
+          },
+          {
+            "q": "Pick the best completion: 'submit an itinerary for approval' most likely appears in a context of ____.",
+            "a": "official travel or organizational policy",
+            "meaning_ko": "승인 제출은 조직/규정 관련 공식 절차 문맥이 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "predicate",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "In grammar and logic, the part of a sentence or proposition that says something about the subject.",
+        "definition_ko": "문법·논리에서 주어에 대해 무엇인가를 서술하는 부분(술부/서술어).",
+        "note": "문법 용어로는 ‘주어+서술’ 중 서술 부분을 가리킵니다."
+      },
+      {
+        "definition_en": "To base a statement, action, or claim on something assumed or established.",
+        "definition_ko": "어떤 주장·행동을 특정 근거/가정 위에 두다, ~을 전제로 하다.",
+        "note": "be predicated on = ‘~에 근거하다/전제로 하다’가 매우 흔합니다."
+      }
+    ],
+    "concept": "주어를 ‘설명하는 서술 부분’(명사) 또는 ‘~을 근거로 삼다/전제로 하다’(동사).",
+    "etymology": "라틴어 praedicare(공표하다, 선언하다)에서 발전했으며, pre- 계열(앞에서 말하다) 의미가 영향을 주었습니다.",
+    "semanticExtension": "‘선언하다/말하다’에서 ‘무언가에 대해 서술하다’로, 다시 논리·문법 용어(술어/술부)와 ‘근거를 두다’ 의미로 분화했습니다.",
+    "nuanceRegister": "문법·논리·철학·법률·보고서 등 학술/격식 문맥에서 자주 쓰이며, 일상 대화에서는 보통 base/assume로 대체됩니다.",
+    "grammarNotes": "동사로는 predicate A on/upon B(=A를 B에 근거하다)가 가능하지만, 실제로는 be predicated on이 가장 흔합니다. 명사로는 the predicate of the sentence처럼 씁니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(문법 의미), 동사일 때 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 근거하여, ~을 전제로",
+        "example": "be predicated on reliable data"
+      },
+      {
+        "prep": "upon",
+        "meaning_ko": "~에 근거하여(격식)",
+        "example": "predicate the plan upon certain assumptions"
+      }
+    ],
+    "requiredComplements": [
+      "be predicated on + 명사/절 : ~에 근거하다/전제로 하다",
+      "predicate A on/upon B : A를 B에 근거하다(격식·문어)"
+    ],
+    "morphology": "pre- (앞서) + dic/dict (말하다) 계열과 연결되는 어원적 기반(직접 분해 사용은 제한적).",
+    "derivatives": [
+      {
+        "word": "predication",
+        "meaning_ko": "서술, 단정(논리/문법)"
+      },
+      {
+        "word": "predicative",
+        "meaning_ko": "서술의, 술어의"
+      },
+      {
+        "word": "predicator",
+        "meaning_ko": "서술어(문법 용어, 드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "subject",
+        "meaning_ko": "주어/주제"
+      },
+      {
+        "word": "proposition",
+        "meaning_ko": "명제"
+      },
+      {
+        "word": "assumption",
+        "meaning_ko": "가정"
+      },
+      {
+        "word": "premise",
+        "meaning_ko": "전제"
+      },
+      {
+        "word": "assertion",
+        "meaning_ko": "주장/단정"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "base",
+        "meaning_ko": "~에 근거하다(동사 의미)"
+      },
+      {
+        "word": "ground",
+        "meaning_ko": "~에 근거를 두다(격식)"
+      },
+      {
+        "word": "found",
+        "meaning_ko": "~에 토대를 두다(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "assume",
+        "meaning_ko": "~이라고 가정하다"
+      },
+      {
+        "word": "presume",
+        "meaning_ko": "~라고 추정하다"
+      },
+      {
+        "word": "rely on",
+        "meaning_ko": "~에 의존하다"
+      },
+      {
+        "word": "hinge on",
+        "meaning_ko": "~에 달려 있다"
+      },
+      {
+        "word": "postulate",
+        "meaning_ko": "가정하다(학술)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "contradict",
+        "meaning_ko": "반박하다/모순되다"
+      },
+      {
+        "word": "deny",
+        "meaning_ko": "부정하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "subject and predicate",
+            "meaning_ko": "주어와 술어/술부"
+          },
+          {
+            "phrase": "a logical predicate",
+            "meaning_ko": "논리 술어"
+          },
+          {
+            "phrase": "a predicate adjective",
+            "meaning_ko": "보어(서술) 형용사"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "be predicated on evidence",
+            "meaning_ko": "증거에 근거하다"
+          },
+          {
+            "phrase": "predicate a claim on assumptions",
+            "meaning_ko": "가정에 근거해 주장을 세우다"
+          },
+          {
+            "phrase": "identify the predicate",
+            "meaning_ko": "술부(서술 부분)를 찾아내다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a policy predicated on deterrence",
+            "meaning_ko": "억지(deterrence)를 전제로 한 정책"
+          },
+          {
+            "phrase": "predicate validity on reproducibility",
+            "meaning_ko": "재현 가능성을 타당성의 전제로 두다"
+          },
+          {
+            "phrase": "a predicate that maps entities to truth values",
+            "meaning_ko": "개체를 진릿값에 대응시키는 술어(논리)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "In the sentence 'Birds fly,' 'fly' is the predicate.",
+            "meaning_ko": "‘Birds fly’에서 ‘fly’가 서술어(술부)입니다."
+          },
+          {
+            "sentence": "The teacher asked us to find the subject and predicate.",
+            "meaning_ko": "선생님이 주어와 술어를 찾으라고 하셨어요."
+          },
+          {
+            "sentence": "Her argument is predicated on a simple assumption.",
+            "meaning_ko": "그녀의 논지는 간단한 가정에 근거해 있어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The contract is predicated on timely delivery of the goods.",
+            "meaning_ko": "그 계약은 물품의 적시 납품을 전제로 합니다."
+          },
+          {
+            "sentence": "You can’t predicate a sweeping conclusion on one small study.",
+            "meaning_ko": "작은 연구 하나로 광범위한 결론을 전제로 삼을 수는 없습니다."
+          },
+          {
+            "sentence": "In formal grammar, the predicate may include objects and complements.",
+            "meaning_ko": "형식 문법에서는 술부에 목적어와 보어가 포함될 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The court rejected the claim because it was predicated on speculative data.",
+            "meaning_ko": "법원은 그 주장이 추측성 데이터에 근거했다며 기각했습니다."
+          },
+          {
+            "sentence": "A robust model predicates inference on transparent assumptions and falsifiable predictions.",
+            "meaning_ko": "견고한 모델은 투명한 가정과 반증 가능한 예측을 전제로 추론을 세웁니다."
+          },
+          {
+            "sentence": "In predicate logic, quantifiers interact with predicates to express generality and existence.",
+            "meaning_ko": "술어 논리에서 한정사는 술어와 상호작용하며 보편성과 존재를 표현합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "predicate는 (1) 문법 용어(주어를 서술하는 부분)와 (2) ‘~을 전제로/근거로 하다’ 두 축으로 나뉩니다. 시험에서는 be predicated on(=based on) 패턴이 자주 출제됩니다. 문법 용어로 외울 때는 ‘subject–predicate’ 짝으로 통째로 기억하세요.",
+    "tags": [
+      "문법",
+      "논리",
+      "학술",
+      "법률",
+      "전제"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "In 'The sky is blue,' what is the predicate? (Answer with the predicate part.)",
+            "a": "is blue",
+            "meaning_ko": "주어(the sky)에 대해 서술하는 부분이 술부입니다."
+          },
+          {
+            "q": "Choose the best meaning: be predicated on",
+            "a": "be based on",
+            "meaning_ko": "가장 흔한 동의 표현은 be based on입니다."
+          },
+          {
+            "q": "True or False: 'predicate' can be a grammar term.",
+            "a": "True",
+            "meaning_ko": "predicate는 문법에서 술부/서술어를 뜻합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The policy is predicated ___ the belief that education reduces crime. (on/upon)",
+            "a": "on",
+            "meaning_ko": "be predicated on이 가장 일반적 패턴입니다."
+          },
+          {
+            "q": "Choose the best rewrite: You can't base this claim on rumors. → You can't ____ this claim on rumors.",
+            "a": "predicate",
+            "meaning_ko": "base on = predicate on으로 문어체 치환 가능합니다."
+          },
+          {
+            "q": "Pick the correct statement: (A) predicate is always informal (B) predicate is common in academic writing",
+            "a": "predicate is common in academic writing",
+            "meaning_ko": "학술/격식 문맥에서 더 자주 쓰입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'The conclusion is predicated with insufficient evidence.' (Fix the preposition.)",
+            "a": "The conclusion is predicated on insufficient evidence.",
+            "meaning_ko": "be predicated on이 정형 패턴입니다."
+          },
+          {
+            "q": "Choose the best option: A claim predicated on speculation is likely to be _____. (A) robust (B) vulnerable",
+            "a": "vulnerable",
+            "meaning_ko": "추측에 근거한 주장은 공격(반박)에 취약합니다."
+          },
+          {
+            "q": "In logic, a predicate typically maps objects to _____.",
+            "a": "truth values",
+            "meaning_ko": "술어는 대상이 조건을 만족하는지(참/거짓)를 판정하는 함수로 설명됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shabby",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Worn and in poor condition, often looking old or untidy.",
+        "definition_ko": "낡고 해진, 초라해 보이는(외형이 오래되고 단정치 못한).",
+        "note": "옷·가구·건물 등 ‘겉모습이 낡아 보이는’ 상황에 흔합니다."
+      },
+      {
+        "definition_en": "Unfair or dishonorable; showing a lack of respect or generosity.",
+        "definition_ko": "부당한, 비열한, 치사한(대우나 행동이 떳떳하지 않은).",
+        "note": "a shabby trick / shabby treatment처럼 ‘치사한 행동·대우’ 의미가 자주 나옵니다."
+      }
+    ],
+    "concept": "겉으로 ‘낡고 초라한’ 또는 태도·대우가 ‘치사하고 부당한’.",
+    "etymology": "어원은 명확히 단일 기원으로 정리하기 어려우나, 17~18세기 영어에서 ‘낡고 해진’ 의미로 굳어졌습니다(자세한 어원 정보는 자료마다 상이).",
+    "semanticExtension": "물건의 ‘낡음/허름함’에서 출발해, 사람의 행동이나 대우가 ‘비열하고 떳떳하지 않음’이라는 도덕적 평가로 확장되었습니다.",
+    "nuanceRegister": "일상에서도 흔하며(옷/방/집 묘사), 두 번째 의미(치사한)는 비판적·평가적 톤을 띱니다.",
+    "grammarNotes": "형용사로만 주로 쓰이며, look/feel/seem shabby 같은 연결동사와 결합하거나 shabby + 명사(예: shabby clothes) 형태가 일반적입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "look/feel/seem + shabby : 초라해 보이다/느껴지다",
+      "shabby + 명사(옷/방/대우/변명) : 낡은/치사한 ~"
+    ],
+    "morphology": "단어 내부의 생산적인 접두/접미 분해는 제한적이며, 현대 영어에서는 단일 형용사 어휘로 취급합니다.",
+    "derivatives": [
+      {
+        "word": "shabbily",
+        "meaning_ko": "초라하게, 치사하게"
+      },
+      {
+        "word": "shabbiness",
+        "meaning_ko": "초라함, 허름함; 치사함"
+      }
+    ],
+    "related": [
+      {
+        "word": "tattered",
+        "meaning_ko": "너덜너덜한"
+      },
+      {
+        "word": "dingy",
+        "meaning_ko": "칙칙하고 더러운"
+      },
+      {
+        "word": "frayed",
+        "meaning_ko": "해진(가장자리 풀린)"
+      },
+      {
+        "word": "mean",
+        "meaning_ko": "치사한/비열한; 인색한"
+      },
+      {
+        "word": "neglect",
+        "meaning_ko": "방치, 소홀"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "worn",
+        "meaning_ko": "낡은"
+      },
+      {
+        "word": "ragged",
+        "meaning_ko": "너덜너덜한"
+      },
+      {
+        "word": "shoddy",
+        "meaning_ko": "조악한; 질 낮은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "scruffy",
+        "meaning_ko": "지저분해 보이는(캐주얼)"
+      },
+      {
+        "word": "threadbare",
+        "meaning_ko": "해져서 얇아진"
+      },
+      {
+        "word": "seedy",
+        "meaning_ko": "허름하고 수상한 느낌의"
+      },
+      {
+        "word": "stingy",
+        "meaning_ko": "인색한(치사한 뉘앙스 겹침)"
+      },
+      {
+        "word": "petty",
+        "meaning_ko": "속 좁은, 쩨쩨한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "neat",
+        "meaning_ko": "단정한"
+      },
+      {
+        "word": "elegant",
+        "meaning_ko": "우아한"
+      },
+      {
+        "word": "fair",
+        "meaning_ko": "공정한"
+      },
+      {
+        "word": "honorable",
+        "meaning_ko": "명예로운"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "shabby clothes",
+            "meaning_ko": "낡은 옷"
+          },
+          {
+            "phrase": "a shabby room",
+            "meaning_ko": "허름한 방"
+          },
+          {
+            "phrase": "shabby furniture",
+            "meaning_ko": "낡은 가구"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "look shabby",
+            "meaning_ko": "초라해 보이다"
+          },
+          {
+            "phrase": "shabby treatment",
+            "meaning_ko": "부당하고 치사한 대우"
+          },
+          {
+            "phrase": "a shabby excuse",
+            "meaning_ko": "궁색한 변명"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a shabby attempt at damage control",
+            "meaning_ko": "궁색한 수습 시도"
+          },
+          {
+            "phrase": "be shabbily handled by management",
+            "meaning_ko": "경영진에게 부당하게 처리/대우받다"
+          },
+          {
+            "phrase": "shabby practices that erode public trust",
+            "meaning_ko": "대중의 신뢰를 갉아먹는 비열한 관행"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His jacket was shabby, but it was clean.",
+            "meaning_ko": "그의 재킷은 낡았지만 깨끗했어요."
+          },
+          {
+            "sentence": "We stayed in a shabby hotel near the station.",
+            "meaning_ko": "우리는 역 근처의 허름한 호텔에 묵었어요."
+          },
+          {
+            "sentence": "These shoes are getting shabby; I need a new pair.",
+            "meaning_ko": "이 신발은 점점 해져서 새로 사야겠어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She felt embarrassed by the shabby condition of the office lobby.",
+            "meaning_ko": "그녀는 사무실 로비가 초라하게 관리된 상태라 부끄러웠습니다."
+          },
+          {
+            "sentence": "It was shabby of him to blame the intern for his own mistake.",
+            "meaning_ko": "자기 실수를 인턴 탓으로 돌리다니 그는 치사했습니다."
+          },
+          {
+            "sentence": "The staff complained about being given shabby treatment despite long hours.",
+            "meaning_ko": "직원들은 장시간 일했는데도 치사한 대우를 받는다고 불평했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The report exposed shabby practices that prioritized profits over safety.",
+            "meaning_ko": "그 보고서는 안전보다 이익을 우선시한 비열한 관행을 폭로했습니다."
+          },
+          {
+            "sentence": "Calling it a ‘misunderstanding’ was a shabby attempt to downplay misconduct.",
+            "meaning_ko": "그걸 ‘오해’라고 부르는 건 부정행위를 축소하려는 궁색한 수법이었습니다."
+          },
+          {
+            "sentence": "In negotiations, shabby tactics may win a point but often cost long-term trust.",
+            "meaning_ko": "협상에서 치사한 전술은 한 점을 따낼 수는 있어도 장기적 신뢰를 잃기 쉽습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "shabby는 1) 물건/장소가 ‘낡고 초라한’ 뜻이 기본이고, 2) 사람의 행동·대우가 ‘치사하고 부당한’ 뜻으로 확장됩니다. 두 번째 의미는 비판적 뉘앙스가 강하니 예문처럼 it was shabby of him to~ 패턴으로 익히면 좋습니다. shoddy(조악한)와 섞이지 않게 ‘외형의 낡음 + 도덕적 비열함’이라는 두 축으로 기억하세요.",
+    "tags": [
+      "외형",
+      "낡음",
+      "비판",
+      "태도",
+      "대우"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The sofa looks ____ after years of use.",
+            "a": "shabby",
+            "meaning_ko": "‘오래 써서 낡아 보이는’ 상황에 shabby가 적절합니다."
+          },
+          {
+            "q": "Choose the closest meaning: shabby clothes",
+            "a": "worn clothes",
+            "meaning_ko": "shabby는 낡고 해진(worn) 의미가 핵심입니다."
+          },
+          {
+            "q": "True or False: 'shabby' can describe a place.",
+            "a": "True",
+            "meaning_ko": "shabby room/hotel처럼 장소에도 쓰입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best sentence: (A) It was shabby of you to ignore her apology. (B) It was shabby of you to help her.",
+            "a": "A",
+            "meaning_ko": "shabby는 ‘치사한/비열한’ 평가이므로 부정적 행동에 어울립니다."
+          },
+          {
+            "q": "Fill in the blank: They criticized the company for its ____ treatment of workers.",
+            "a": "shabby",
+            "meaning_ko": "부당하고 치사한 대우를 말할 때 shabby treatment가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the best synonym for the moral sense of 'shabby': (A) honorable (B) petty",
+            "a": "petty",
+            "meaning_ko": "도덕적 의미에서는 ‘쩨쩨한/치사한’ 쪽과 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'The manager handled the complaint shabby.' (Fix the form.)",
+            "a": "The manager handled the complaint shabbily.",
+            "meaning_ko": "부사 형태 shabbily가 필요합니다."
+          },
+          {
+            "q": "Choose the best paraphrase: a shabby attempt to cover up",
+            "a": "a cheap and dishonorable attempt to hide the truth",
+            "meaning_ko": "shabby는 궁색하고 떳떳하지 않다는 비판이 포함됩니다."
+          },
+          {
+            "q": "Context choice: 'shabby practices' most likely refers to ____.",
+            "a": "unethical or unfair practices",
+            "meaning_ko": "관행을 비판하는 문맥에서는 비윤리·부당함을 뜻합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

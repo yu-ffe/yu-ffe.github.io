@@ -1,0 +1,892 @@
+[
+  {
+    "word": "peep",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To look quickly or secretly, often through a small opening or from a hidden place.",
+        "definition_ko": "(재빨리/몰래) 힐끗 보다; (틈/구멍 너머로) 엿보다.",
+        "note": "‘짧고 살짝 보는’ 느낌이 강합니다. peek(힐끗 보다)와 매우 가깝고, peep은 ‘엿보기/몰래 보기’ 뉘앙스가 더 자주 붙습니다."
+      },
+      {
+        "definition_en": "A quick look; a brief glance.",
+        "definition_ko": "힐끗 봄; 잠깐의 엿봄.",
+        "note": "have/take a peep at ~ 같은 덩어리로 자주 씁니다."
+      },
+      {
+        "definition_en": "A short, high sound (especially the call of a small bird or a squeak).",
+        "definition_ko": "(짧고 높은) 삐- 소리; (특히 병아리 등의) 삐약거림.",
+        "note": "형용사적 상황 묘사에서 ‘a peep’은 ‘작은 소리 한 번’으로도 쓰입니다(“not a peep”)."
+      }
+    ],
+    "concept": "핵심은 ‘작게/짧게’입니다: (1) 짧게 엿보다, (2) 잠깐의 힐끗, (3) 짧고 높은 작은 소리.",
+    "etymology": "중세 영어에서 ‘새가 지저귀는 소리’를 나타내던 의성어적 표현이 출발로 알려져 있으며, ‘작은 소리’ 이미지가 ‘살짝 엿보기’ 의미로도 이어졌다고 봅니다.",
+    "semanticExtension": "원래는 새·쥐 같은 ‘작은 소리’(peep)였고, ‘살짝 드러나다/조금 보이다’ 감각을 거쳐 ‘살짝 엿보다(peep at/through)’로 의미가 확장되었습니다. 또한 ‘not a peep’처럼 ‘아무 소리도’의 관용적 용법으로 굳었습니다.",
+    "nuanceRegister": "구어에서도 흔하고, 묘사문/이야기체에서도 자주 쓰입니다. ‘몰래 엿보다’ 의미는 사생활 침해 뉘앙스가 있을 수 있어 문맥 주의가 필요합니다.",
+    "grammarNotes": "동사 peep은 peeped/peeped가 일반적입니다. 패턴은 peep at(대상을 힐끗/엿보다), peep through(틈으로 엿보다), peep out(of)(밖으로 살짝 내밀다/비치다)가 대표입니다. 명사로는 a peep(힐끗), not a peep(아무 말/소리도)처럼 관용구가 강합니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사 용법)",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "‘~을 힐끗/엿보다’",
+        "example": "peep at the screen"
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "‘~을 통해 엿보다’",
+        "example": "peep through the curtains"
+      },
+      {
+        "prep": "out (of)",
+        "meaning_ko": "‘(…에서) 밖으로 살짝 비치다/내밀다’",
+        "example": "peep out of the doorway"
+      }
+    ],
+    "requiredComplements": [
+      "peep at + 대상 : ~을 힐끗/몰래 보다",
+      "peep through + 틈/구멍 : ~을 통해 엿보다",
+      "peep out (of) + 장소 : (…에서) 살짝 비치다/내밀다",
+      "have/take a peep at + 대상 : ~을 잠깐 들여다보다",
+      "not a peep : 아무 말/소리도 없음"
+    ],
+    "morphology": "의성어 기반 단어라 접두/접미 분석보다 ‘짧고 작은 소리/행동’이라는 이미지로 기억하는 편이 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "peeper",
+        "meaning_ko": "엿보는 사람(구어, 다소 부정적)"
+      },
+      {
+        "word": "peeping",
+        "meaning_ko": "엿보기(현재분사/형용사적)"
+      }
+    ],
+    "related": [
+      {
+        "word": "peek",
+        "meaning_ko": "힐끗 보다; 살짝 엿보다"
+      },
+      {
+        "word": "glance",
+        "meaning_ko": "힐끗 봄"
+      },
+      {
+        "word": "spy",
+        "meaning_ko": "정탐하다; 엿보다(더 강함)"
+      },
+      {
+        "word": "squeak",
+        "meaning_ko": "삐걱/삑 하는 작은 소리"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "peek",
+        "meaning_ko": "힐끗 보다; 엿보다"
+      },
+      {
+        "word": "glance",
+        "meaning_ko": "힐끗 보다(‘몰래’ 뉘앙스는 약함)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "peer",
+        "meaning_ko": "유심히 들여다보다(더 오래/집중)"
+      },
+      {
+        "word": "gape",
+        "meaning_ko": "입 벌리고 바라보다(반대 결)"
+      },
+      {
+        "word": "sneak a look",
+        "meaning_ko": "몰래 보다(구)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stare",
+        "meaning_ko": "뚫어지게 보다"
+      },
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "conceal",
+        "meaning_ko": "감추다(비치다의 반대)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "peep at",
+            "meaning_ko": "~을 힐끗/엿보다"
+          },
+          {
+            "phrase": "take a peep",
+            "meaning_ko": "잠깐 들여다보다"
+          },
+          {
+            "phrase": "not a peep",
+            "meaning_ko": "아무 말/소리도 없음"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "peep through the window",
+            "meaning_ko": "창문 너머로 엿보다"
+          },
+          {
+            "phrase": "peep out from behind the door",
+            "meaning_ko": "문 뒤에서 살짝 비치다"
+          },
+          {
+            "phrase": "have a peep at the results",
+            "meaning_ko": "결과를 잠깐 확인하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "peep at someone’s phone without permission",
+            "meaning_ko": "허락 없이 남의 휴대폰을 엿보다"
+          },
+          {
+            "phrase": "the first buds peep out in early spring",
+            "meaning_ko": "초봄에 새순이 살짝 돋아나다"
+          },
+          {
+            "phrase": "not a peep about the investigation",
+            "meaning_ko": "수사에 대해 일절 언급이 없다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He peeped through the keyhole.",
+            "meaning_ko": "그는 열쇠구멍으로 엿보았다."
+          },
+          {
+            "sentence": "Take a peep at this photo.",
+            "meaning_ko": "이 사진 좀 잠깐 봐요."
+          },
+          {
+            "sentence": "I didn’t hear a peep all night.",
+            "meaning_ko": "밤새 아무 소리도 못 들었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She peeped at the screen to check the time without being noticed.",
+            "meaning_ko": "그녀는 들키지 않으려고 화면을 힐끗 보며 시간을 확인했다."
+          },
+          {
+            "sentence": "A child’s face peeped out from behind the curtain.",
+            "meaning_ko": "커튼 뒤에서 아이 얼굴이 살짝 비쳤다."
+          },
+          {
+            "sentence": "The manager wouldn’t let a single peep about the plan leak to the press.",
+            "meaning_ko": "매니저는 그 계획에 대해 언론에 한마디도 새어 나가게 하지 않았다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In privacy law, even a harmless peep at someone’s messages can constitute an unauthorized intrusion.",
+            "meaning_ko": "사생활 보호법에서는 누군가의 메시지를 잠깐 엿본 것만으로도 무단 침해가 될 수 있다."
+          },
+          {
+            "sentence": "As dawn approached, faint light peeped through the blinds and softened the room’s shadows.",
+            "meaning_ko": "새벽이 다가오자 희미한 빛이 블라인드 틈으로 스며들며 방의 그림자를 부드럽게 했다."
+          },
+          {
+            "sentence": "The report noted that officials offered not a peep of clarification, leaving the public to speculate.",
+            "meaning_ko": "보고서는 당국이 아무런 해명도 내놓지 않아 대중이 추측하게 되었다고 적었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "peep은 ‘짧게/작게’가 핵심입니다. peek과 거의 같은데, peep은 ‘엿보다(몰래)’ 뉘앙스가 조금 더 붙기 쉬운 편이라 문맥에서 ‘사생활/몰래’가 있는지 확인하세요. 관용구 not a peep(한마디도/아무 소리도)만 확실히 잡아두면 독해에서 빠르게 처리할 수 있습니다.",
+    "tags": [
+      "시선",
+      "몰래보기",
+      "작은소리",
+      "관용구",
+      "묘사"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'peep' (verb): (A) to sleep deeply (B) to look quickly or secretly (C) to write carefully (D) to break apart",
+            "a": "B",
+            "meaning_ko": "peep(동사)는 ‘힐끗/몰래 보다’입니다."
+          },
+          {
+            "q": "Fill in the blank: He peeped _____ the curtains to see who was outside.",
+            "a": "through",
+            "meaning_ko": "peep through(틈/막을 통해 엿보다)가 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'no sound or comment at all'? (A) take a peep (B) not a peep (C) peep at (D) peep out",
+            "a": "B",
+            "meaning_ko": "not a peep = ‘아무 말/소리도’입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the closest synonym: peep ≈ (A) peek (B) ponder (C) punish (D) postpone",
+            "a": "A",
+            "meaning_ko": "peek이 가장 가깝습니다."
+          },
+          {
+            "q": "In 'A face peeped out from behind the door,' 'peeped out' most nearly means _____.",
+            "a": "appeared briefly",
+            "meaning_ko": "살짝 ‘비치다/나타나다’ 의미입니다."
+          },
+          {
+            "q": "Choose the best preposition: Take a peep _____ the report before the meeting. (A) at (B) in (C) over (D) by",
+            "a": "at",
+            "meaning_ko": "take/have a peep at ~가 정형 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'He peeped the window to see outside.' → Rewrite naturally.",
+            "a": "He peeped through the window to see outside.",
+            "meaning_ko": "peep은 보통 through/at 등 전치사와 함께 자연스럽습니다."
+          },
+          {
+            "q": "Nuance check: Compared with 'glance,' 'peep' more often suggests _____.",
+            "a": "a secret or furtive look",
+            "meaning_ko": "peep은 ‘몰래/엿보는’ 느낌이 더 자주 붙습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'The company offered not a peep about the merger.'",
+            "a": "The company said nothing at all about the merger.",
+            "meaning_ko": "not a peep = ‘일절 말하지 않다’입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "negotiation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A discussion aimed at reaching an agreement, especially in business or politics.",
+        "definition_ko": "(특히 비즈니스/정치에서) 합의에 이르기 위한 협상(과정).",
+        "note": "deal/contract/terms 같은 ‘조건’과 함께 자주 나옵니다."
+      },
+      {
+        "definition_en": "A particular set of talks or dealings between parties to settle a dispute or arrange a deal.",
+        "definition_ko": "특정한 협상(회담) 자체; (여러 차례의) 협상 진행.",
+        "note": "the negotiation(s) between A and B처럼 ‘특정 협상’을 가리킬 때는 복수형 negotiations도 흔합니다."
+      }
+    ],
+    "concept": "핵심은 ‘서로의 이해관계를 조정해 합의점을 만드는 대화/과정’입니다.",
+    "etymology": "라틴어 negotiari(‘거래하다, 사업을 하다’)에서 온 것으로 알려져 있으며, ‘일을 처리하다’라는 의미가 현대의 ‘협상하다’로 발전했습니다.",
+    "semanticExtension": "원래는 ‘상업적 거래/업무 처리’의 의미가 강했고, 이해관계 조정이 핵심인 상황에서 ‘합의를 위한 대화’로 의미가 정착했습니다. 오늘날엔 노사·외교·분쟁 해결 등 폭넓은 영역으로 확장됩니다.",
+    "nuanceRegister": "격식 있는 중립 어휘로, 뉴스/정책/비즈니스 문서에서 매우 흔합니다. 일상 대화에서도 ‘가격 협상’처럼 쓰이지만 문체는 다소 공식적입니다.",
+    "grammarNotes": "countable/uncountable 모두 가능합니다: negotiation as a process(불가산적), a negotiation / ongoing negotiations(가산적). 전치사 패턴은 negotiations with(상대), negotiations over(쟁점/조건), negotiations between(당사자들), negotiations on(특정 주제/의제)이 대표입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "‘~와의 협상’(상대방)",
+        "example": "negotiations with the union"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "‘~을 두고 협상’(쟁점/조건)",
+        "example": "negotiations over wages"
+      },
+      {
+        "prep": "between",
+        "meaning_ko": "‘A와 B 간의 협상’",
+        "example": "negotiations between the two countries"
+      }
+    ],
+    "requiredComplements": [
+      "negotiations with + 상대 : ~와의 협상",
+      "negotiations over + 쟁점/조건 : ~을 두고 협상",
+      "negotiations between + 당사자들 : ~ 간 협상",
+      "enter into negotiations : 협상에 착수하다",
+      "break down / stall / resume negotiations : 협상이 결렬되다/교착되다/재개되다"
+    ],
+    "morphology": "negoti-는 ‘업무/거래’를 뜻하는 라틴계 뿌리에서 온 것으로 보고, negotiation은 ‘거래/일 처리 → 합의 도출을 위한 협상’으로 연결해 기억하면 안정적입니다.",
+    "derivatives": [
+      {
+        "word": "negotiate",
+        "meaning_ko": "협상하다"
+      },
+      {
+        "word": "negotiator",
+        "meaning_ko": "협상가"
+      },
+      {
+        "word": "negotiable",
+        "meaning_ko": "협상 가능한; 양도/교환 가능한"
+      }
+    ],
+    "related": [
+      {
+        "word": "agreement",
+        "meaning_ko": "합의"
+      },
+      {
+        "word": "compromise",
+        "meaning_ko": "타협"
+      },
+      {
+        "word": "mediation",
+        "meaning_ko": "중재"
+      },
+      {
+        "word": "bargaining",
+        "meaning_ko": "흥정; 교섭"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "talks",
+        "meaning_ko": "회담; 협의(문맥상)"
+      },
+      {
+        "word": "bargaining",
+        "meaning_ko": "교섭; 흥정"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "consultation",
+        "meaning_ko": "협의; 자문(합의보다 논의 중심)"
+      },
+      {
+        "word": "discussion",
+        "meaning_ko": "논의(더 넓고 중립)"
+      },
+      {
+        "word": "mediation",
+        "meaning_ko": "중재(제3자 개입)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "confrontation",
+        "meaning_ko": "대립; 대치"
+      },
+      {
+        "word": "impasse",
+        "meaning_ko": "교착 상태(합의 실패)"
+      },
+      {
+        "word": "dictation",
+        "meaning_ko": "일방적 지시(협상 없음)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "price negotiation",
+            "meaning_ko": "가격 협상"
+          },
+          {
+            "phrase": "contract negotiation",
+            "meaning_ko": "계약 협상"
+          },
+          {
+            "phrase": "in negotiation",
+            "meaning_ko": "협상 중인"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "enter into negotiations",
+            "meaning_ko": "협상에 들어가다"
+          },
+          {
+            "phrase": "negotiations over terms",
+            "meaning_ko": "조건을 두고 하는 협상"
+          },
+          {
+            "phrase": "resume negotiations",
+            "meaning_ko": "협상을 재개하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "negotiations broke down at the last minute",
+            "meaning_ko": "협상이 막판에 결렬되다"
+          },
+          {
+            "phrase": "a protracted negotiation process",
+            "meaning_ko": "장기화된 협상 과정"
+          },
+          {
+            "phrase": "back-channel negotiations",
+            "meaning_ko": "비공식(비밀) 협상"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The salary negotiation begins next week.",
+            "meaning_ko": "연봉 협상이 다음 주에 시작된다."
+          },
+          {
+            "sentence": "Both sides agreed to continue the negotiation.",
+            "meaning_ko": "양측은 협상을 계속하기로 합의했다."
+          },
+          {
+            "sentence": "The deal is still in negotiation.",
+            "meaning_ko": "그 거래는 아직 협상 중이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Negotiations with the supplier focused on delivery dates and penalties.",
+            "meaning_ko": "공급사와의 협상은 납기와 위약금에 초점을 맞췄다."
+          },
+          {
+            "sentence": "After a brief pause, the parties resumed negotiations over the final terms.",
+            "meaning_ko": "잠시 중단된 뒤 당사자들은 최종 조건을 두고 협상을 재개했다."
+          },
+          {
+            "sentence": "Successful negotiation requires clear priorities and credible alternatives.",
+            "meaning_ko": "성공적인 협상에는 명확한 우선순위와 믿을 만한 대안이 필요하다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The negotiation collapsed because each side treated compromise as defeat rather than as mutual gain.",
+            "meaning_ko": "그 협상은 양측이 타협을 상호 이익이 아니라 패배로 여겼기 때문에 무너졌다."
+          },
+          {
+            "sentence": "In complex mergers, negotiation often continues after signing, as integration reveals hidden constraints.",
+            "meaning_ko": "복잡한 인수합병에서는 통합 과정에서 숨은 제약이 드러나 서명 후에도 협상이 계속되곤 한다."
+          },
+          {
+            "sentence": "The report criticized back-channel negotiation for undermining transparency and public accountability.",
+            "meaning_ko": "보고서는 비공식(비밀) 협상이 투명성과 공적 책임을 훼손한다고 비판했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "negotiation은 ‘합의에 이르는 과정’이라는 큰 틀을 먼저 잡고, with(상대), over(쟁점), between(당사자) 3개 전치사 패턴을 세트로 외우면 독해/작문에서 거의 실수하지 않습니다. 또한 ‘협상이 결렬/교착/재개’되는 동사(break down, stall, resume)와 같이 묶어 두면 시험 문장 배열·빈칸에서 강해집니다.",
+    "tags": [
+      "협상",
+      "비즈니스",
+      "외교",
+      "분쟁해결",
+      "계약"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'negotiation': (A) celebration (B) discussion to reach agreement (C) physical training (D) weather forecast",
+            "a": "B",
+            "meaning_ko": "negotiation은 ‘합의를 위한 협상’입니다."
+          },
+          {
+            "q": "Fill in the blank: The company entered into negotiations _____ the union.",
+            "a": "with",
+            "meaning_ko": "상대는 negotiations with로 연결합니다."
+          },
+          {
+            "q": "Which phrase means 'still being discussed'? (A) in negotiation (B) outdistance (C) underdone (D) out of stock",
+            "a": "A",
+            "meaning_ko": "in negotiation = 협상 중인."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: Negotiations _____ wages continued for days. (A) over (B) at (C) by (D) onto",
+            "a": "over",
+            "meaning_ko": "쟁점/조건은 negotiations over ~가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest synonym in a formal context: negotiations ≈ (A) talks (B) naps (C) chores (D) rumors",
+            "a": "A",
+            "meaning_ko": "talks(회담/협의)가 문맥상 가장 가깝습니다."
+          },
+          {
+            "q": "Complete the sentence: When negotiations _____, the parties stop making progress and remain stuck.",
+            "a": "stall",
+            "meaning_ko": "stall = 교착되다/진전이 없다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'They negotiated an negotiation for months.' → Rewrite naturally.",
+            "a": "They were in negotiations for months.",
+            "meaning_ko": "명사 사용 시 negotiations(복수)나 be in negotiations가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best contrast: negotiation is to agreement as confrontation is to _____.",
+            "a": "conflict",
+            "meaning_ko": "협상은 합의로, 대립은 갈등으로 이어지기 쉽습니다."
+          },
+          {
+            "q": "Which sentence best fits a formal report? (A) We chatted a lot. (B) The negotiation resumed after a temporary adjournment. (C) He screamed. (D) Nice weather today.",
+            "a": "B",
+            "meaning_ko": "resume/adjourn 같은 공식 어휘가 협상 문맥에 적합합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "scandalous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Causing public outrage or shock because it is morally or socially unacceptable.",
+        "definition_ko": "추문을 일으키는; 사회적으로 용납되기 어렵다고 여겨져 공분/충격을 부르는.",
+        "note": "핵심은 ‘공공의 비난/충격을 불러오는 성격’입니다."
+      },
+      {
+        "definition_en": "Disgraceful or shamefully bad; outrageous.",
+        "definition_ko": "수치스러운; 터무니없이 나쁜; 가증스러운(강한 비난).",
+        "note": "scandalous waste/behavior처럼 도덕적 비난 강도가 센 형용사로도 씁니다."
+      }
+    ],
+    "concept": "‘사람들이 추문으로 여기며 강하게 비난할 만큼 충격적/수치스럽다’가 핵심입니다.",
+    "etymology": "그리스어 skandalon(‘걸림돌, 함정’의 의미 영역)에서 라틴/프랑스어를 거쳐 영어로 들어온 계열로 알려져 있으며, ‘도덕적 걸림돌/비난거리’라는 의미가 ‘scandal(추문)’로 굳고, scandalous가 ‘추문을 일으키는’으로 발전했습니다.",
+    "semanticExtension": "처음에는 ‘도덕적으로 걸림돌이 되는 것’의 종교·윤리적 색채가 있었고, 현대에는 언론/대중 담론 속에서 ‘공적 비난과 충격을 불러오는 사건·행위’로 넓게 확장되었습니다.",
+    "nuanceRegister": "격식 있는 비난 표현으로 뉴스·사설·비평에서 흔합니다. 일상 대화에서도 과장/강조로 쓰일 수 있지만, 비난 강도가 세므로 대상 선택에 주의가 필요합니다.",
+    "grammarNotes": "보통 명사 앞에서 수식합니다(scandalous allegations, scandalous conduct). 보어로도 가능합니다(It’s scandalous that ... / It was scandalous to ...). 전치사 패턴은 상황에 따라 for/to가 가능하지만, 가장 안정적인 보어는 that절입니다(It is scandalous that S V).",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "‘(사람/사회에) 터무니없이/충격적으로 여겨지는’(평가의 방향)",
+        "example": "scandalous to the public"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "‘~치고는 수치스럽게/터무니없이’(행위/사건에 대한 평가)",
+        "example": "scandalous for a public official"
+      }
+    ],
+    "requiredComplements": [
+      "It is scandalous that + S V : ~라는 것은 충격적/수치스럽다",
+      "scandalous allegations/behavior/conduct : 추문을 부르는 의혹/행동/비행",
+      "scandalous to + 사람/대중 : ~에게/대중에게 충격적이다",
+      "scandalous for + 주체 : ~치고는 수치스럽다"
+    ],
+    "morphology": "scandal(추문) + -ous(…한 성질의)로 ‘추문을 일으키는/추문스러운’ 구조가 명확합니다.",
+    "derivatives": [
+      {
+        "word": "scandal",
+        "meaning_ko": "추문; 스캔들"
+      },
+      {
+        "word": "scandalize",
+        "meaning_ko": "충격을 주다; 분개하게 하다"
+      },
+      {
+        "word": "scandalously",
+        "meaning_ko": "추문스럽게; 터무니없이(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "outrageous",
+        "meaning_ko": "터무니없는; 분노를 부르는"
+      },
+      {
+        "word": "disgraceful",
+        "meaning_ko": "수치스러운"
+      },
+      {
+        "word": "shocking",
+        "meaning_ko": "충격적인"
+      },
+      {
+        "word": "flagrant",
+        "meaning_ko": "악명 높은; 명백히 나쁜"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "disgraceful",
+        "meaning_ko": "수치스러운"
+      },
+      {
+        "word": "outrageous",
+        "meaning_ko": "터무니없는; 공분을 사는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "shocking",
+        "meaning_ko": "충격적인(비난 강도는 상황마다)"
+      },
+      {
+        "word": "infamous",
+        "meaning_ko": "악명 높은(평판 초점)"
+      },
+      {
+        "word": "salacious",
+        "meaning_ko": "선정적인(성적/가십 뉘앙스)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "respectable",
+        "meaning_ko": "점잖은; 존경할 만한"
+      },
+      {
+        "word": "proper",
+        "meaning_ko": "적절한; 예의 바른"
+      },
+      {
+        "word": "commendable",
+        "meaning_ko": "칭찬할 만한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a scandalous rumor",
+            "meaning_ko": "추문성 소문"
+          },
+          {
+            "phrase": "scandalous behavior",
+            "meaning_ko": "추문을 부르는 행동"
+          },
+          {
+            "phrase": "scandalous news",
+            "meaning_ko": "추문성 뉴스"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "scandalous allegations",
+            "meaning_ko": "충격적인/추문성 의혹"
+          },
+          {
+            "phrase": "a scandalous affair",
+            "meaning_ko": "추문이 된 불륜/사건"
+          },
+          {
+            "phrase": "scandalous waste of money",
+            "meaning_ko": "터무니없는 돈 낭비(강한 비난)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "It is scandalous that public funds were misused",
+            "meaning_ko": "공금을 유용했다니 충격적/수치스럽다"
+          },
+          {
+            "phrase": "a scandalous breach of trust",
+            "meaning_ko": "추문 수준의 신뢰 위반"
+          },
+          {
+            "phrase": "scandalous double standards",
+            "meaning_ko": "수치스러운 이중잣대"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The article described the incident as scandalous.",
+            "meaning_ko": "그 기사는 그 사건을 추문스럽다고 묘사했다."
+          },
+          {
+            "sentence": "He was fired for scandalous behavior.",
+            "meaning_ko": "그는 추문을 일으킨 행동 때문에 해고됐다."
+          },
+          {
+            "sentence": "The tabloids love scandalous stories.",
+            "meaning_ko": "타블로이드는 추문성 이야기를 좋아한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The senator denied the scandalous allegations and demanded an apology.",
+            "meaning_ko": "그 상원의원은 충격적인 의혹을 부인하며 사과를 요구했다."
+          },
+          {
+            "sentence": "Many voters said it was scandalous to use public money for private trips.",
+            "meaning_ko": "많은 유권자들은 공금을 사적 여행에 쓰는 것이 수치스럽다고 말했다."
+          },
+          {
+            "sentence": "The judge called the company’s treatment of workers scandalous and unlawful.",
+            "meaning_ko": "판사는 그 회사의 노동자 처우를 추문 수준으로 나쁘고 불법적이라고 했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "It is scandalous that repeated warnings were ignored until tragedy forced action.",
+            "meaning_ko": "비극이 행동을 강제하기 전까지 반복된 경고가 무시됐다는 것은 수치스럽다."
+          },
+          {
+            "sentence": "The documentary argues that scandalous corruption becomes normalized when oversight is weak and rewards are high.",
+            "meaning_ko": "그 다큐는 감시가 약하고 보상이 크면 추문 수준의 부패가 정상화된다고 주장한다."
+          },
+          {
+            "sentence": "Calling the remarks scandalous, critics framed the controversy as a test of institutional accountability.",
+            "meaning_ko": "비평가들은 그 발언을 추문스럽다고 규정하며 논란을 제도적 책임성의 시험대로 보았다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "scandalous는 ‘충격적’보다 한 단계 더 나아가 ‘공공의 비난을 부르는 추문’ 뉘앙스를 담습니다. 독해에서는 감정적 수식(비난/분개)을 강화하는 신호로 자주 등장하니, 문장의 태도(비난/풍자/사설)를 먼저 잡으세요. 특히 It is scandalous that ~ 구조는 ‘~라는 것은 수치스럽다’로 빠르게 처리하면 좋습니다.",
+    "tags": [
+      "비난",
+      "추문",
+      "뉴스",
+      "윤리",
+      "사설"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'scandalous': (A) extremely polite (B) causing public shock and disapproval (C) highly scientific (D) very small",
+            "a": "B",
+            "meaning_ko": "scandalous는 ‘추문을 일으킬 만큼 충격적/수치스러운’입니다."
+          },
+          {
+            "q": "Fill in the blank: The newspaper ran a headline about _____ allegations.",
+            "a": "scandalous",
+            "meaning_ko": "scandalous allegations(추문성 의혹)이 자연스럽습니다."
+          },
+          {
+            "q": "Which antonym best fits? scandalous ↔ (A) respectable (B) damp (C) edible (D) bilateral",
+            "a": "A",
+            "meaning_ko": "respectable(점잖은/존경할 만한)이 반대 방향입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: It is scandalous _____ the officials ignored the evidence. (A) that (B) what (C) where (D) until",
+            "a": "that",
+            "meaning_ko": "It is scandalous that S V가 대표 구조입니다."
+          },
+          {
+            "q": "Choose the closest synonym: scandalous ≈ (A) disgraceful (B) palatable (C) nascent (D) coherent",
+            "a": "A",
+            "meaning_ko": "disgraceful(수치스러운)이 가장 가깝습니다."
+          },
+          {
+            "q": "Pick the best preposition: Many called it scandalous _____ the public. (A) to (B) in (C) by (D) over",
+            "a": "to",
+            "meaning_ko": "scandalous to the public(대중에게 충격적)처럼 연결합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'It was scandalous of the rumor.' → Rewrite naturally.",
+            "a": "The rumor was scandalous.",
+            "meaning_ko": "형용사는 명사를 직접 수식/서술하는 형태가 자연스럽습니다."
+          },
+          {
+            "q": "Nuance question: 'scandalous waste' most nearly emphasizes _____.",
+            "a": "strong moral condemnation, not just inefficiency",
+            "meaning_ko": "단순 비효율이 아니라 ‘수치스러울 정도’의 비난을 강조합니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'The judge found the conduct scandalous.'",
+            "a": "The judge considered the conduct shamefully unacceptable.",
+            "meaning_ko": "도덕·사회적으로 용납 불가하다는 강한 평가입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

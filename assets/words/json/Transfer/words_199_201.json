@@ -1,0 +1,894 @@
+[
+  {
+    "word": "timid",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Showing a lack of courage or confidence; easily frightened or hesitant.",
+        "definition_ko": "용기가 부족하거나 자신감이 없어서 쉽게 주저하는, 소심한.",
+        "note": "shy(수줍은)보다 ‘겁이 나서/불안해서’ 움츠러드는 뉘앙스가 강합니다."
+      }
+    ],
+    "concept": "두려움이나 자신감 부족 때문에 쉽게 주저하고 움츠러드는 상태.",
+    "etymology": "라틴어 timidus(겁많은)에서 왔으며, 같은 어근 tim-은 ‘두려워하다’의 의미를 담고 있습니다.",
+    "semanticExtension": "사람뿐 아니라 ‘timid attempt(소극적인 시도)’, ‘timid response(조심스러운 반응)’처럼 행동·표현의 소극성을 비유적으로 말할 때도 씁니다.",
+    "nuanceRegister": "중립~약간 격식. 일상/문어 모두 가능하며, 성격 묘사나 평가 문맥에서 자주 씁니다.",
+    "grammarNotes": "보통 be timid로 서술하거나, timid about + 명사/동명사, too timid to + 동사원형 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 겁내거나 주저하는",
+        "example": "timid about asking for a raise"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(상황/행동에서) 소극적인",
+        "example": "timid in meetings"
+      }
+    ],
+    "requiredComplements": [
+      "timid about + (n/gerund): ~을 두려워/주저하는",
+      "too timid to + V: 너무 소심해서 ~하지 못하는"
+    ],
+    "morphology": "tim- (두려워하다) + -id(형용사형) 계열로, ‘두려움의 성질’을 나타내는 어근 기반 형성.",
+    "derivatives": [
+      {
+        "word": "timidity",
+        "meaning_ko": "소심함, 겁많음"
+      },
+      {
+        "word": "timidly",
+        "meaning_ko": "소심하게, 조심스럽게"
+      },
+      {
+        "word": "intimidate",
+        "meaning_ko": "겁주다, 위협하다(어근 공유)"
+      },
+      {
+        "word": "intimidation",
+        "meaning_ko": "협박, 위협"
+      }
+    ],
+    "related": [
+      {
+        "word": "confidence",
+        "meaning_ko": "자신감"
+      },
+      {
+        "word": "courage",
+        "meaning_ko": "용기"
+      },
+      {
+        "word": "hesitation",
+        "meaning_ko": "망설임"
+      },
+      {
+        "word": "anxiety",
+        "meaning_ko": "불안"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cowardly",
+        "meaning_ko": "겁쟁이 같은"
+      },
+      {
+        "word": "fearful",
+        "meaning_ko": "두려워하는"
+      },
+      {
+        "word": "diffident",
+        "meaning_ko": "자신감 없는, 소심한(격식)"
+      },
+      {
+        "word": "bashful",
+        "meaning_ko": "부끄러워하는, 수줍은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "shy",
+        "meaning_ko": "수줍은"
+      },
+      {
+        "word": "reserved",
+        "meaning_ko": "내성적인, 말수가 적은"
+      },
+      {
+        "word": "cautious",
+        "meaning_ko": "조심스러운"
+      },
+      {
+        "word": "reluctant",
+        "meaning_ko": "마지못해 하는, 내키지 않는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bold",
+        "meaning_ko": "대담한"
+      },
+      {
+        "word": "confident",
+        "meaning_ko": "자신감 있는"
+      },
+      {
+        "word": "audacious",
+        "meaning_ko": "대담무쌍한"
+      },
+      {
+        "word": "fearless",
+        "meaning_ko": "겁이 없는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a timid smile",
+            "meaning_ko": "조심스러운 미소"
+          },
+          {
+            "phrase": "timid voice",
+            "meaning_ko": "작고 소극적인 목소리"
+          },
+          {
+            "phrase": "timid child",
+            "meaning_ko": "소심한 아이"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "timid about change",
+            "meaning_ko": "변화를 두려워하는"
+          },
+          {
+            "phrase": "a timid attempt",
+            "meaning_ko": "소극적인 시도"
+          },
+          {
+            "phrase": "too timid to speak up",
+            "meaning_ko": "말을 꺼내기엔 너무 소심한"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "timid in the face of criticism",
+            "meaning_ko": "비판 앞에서 위축된"
+          },
+          {
+            "phrase": "timid leadership",
+            "meaning_ko": "우유부단하고 소극적인 리더십"
+          },
+          {
+            "phrase": "a timid response to allegations",
+            "meaning_ko": "의혹에 대한 소극적 대응"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He gave a timid knock and waited by the door.",
+            "meaning_ko": "그는 조심스럽게 노크하고 문 옆에서 기다렸다."
+          },
+          {
+            "sentence": "The dog was timid around strangers.",
+            "meaning_ko": "그 개는 낯선 사람들 앞에서 겁을 냈다."
+          },
+          {
+            "sentence": "She offered a timid smile before speaking.",
+            "meaning_ko": "그녀는 말하기 전에 소심한 미소를 지었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "I used to be timid about giving presentations, but practice helped.",
+            "meaning_ko": "저는 예전에 발표를 두려워했지만 연습이 도움이 됐습니다."
+          },
+          {
+            "sentence": "His timid questions suggested he was unsure of the rules.",
+            "meaning_ko": "그의 조심스러운 질문들은 규칙을 확신하지 못한다는 걸 보여줬다."
+          },
+          {
+            "sentence": "Don’t be timid in negotiations—state your terms clearly.",
+            "meaning_ko": "협상에서 소극적이지 마세요—조건을 분명히 말하세요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A timid approach to risk can quietly erode long‑term competitiveness.",
+            "meaning_ko": "위험을 과하게 회피하는 소극적 접근은 장기 경쟁력을 조용히 약화시킬 수 있다."
+          },
+          {
+            "sentence": "The committee’s timid response to the scandal fueled public distrust.",
+            "meaning_ko": "위원회의 소극적 대응은 스캔들에 대한 대중의 불신을 키웠다."
+          },
+          {
+            "sentence": "Too timid to challenge the premise, he focused on trivial details instead.",
+            "meaning_ko": "전제를 반박할 만큼 용기가 없어서 그는 대신 사소한 세부사항에 집착했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "timid는 ‘수줍음’(shy)보다 ‘겁이 나서 위축됨’에 가깝습니다. 시험에서는 too timid to V, timid about ~ 패턴이 자주 나오니 통째로 익혀 두시면 좋습니다. 비슷한 단어 diffident(격식)·reluctant(내키지 않음)와 뉘앙스 차이를 비교해 보세요.",
+    "tags": [
+      "성격",
+      "감정",
+      "불안",
+      "의사소통"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning of 'timid':\nA) bold\nB) nervous and lacking confidence\nC) noisy\nD) wealthy",
+            "a": "B",
+            "meaning_ko": "timid는 용기/자신감이 부족해 주저하는 뜻입니다."
+          },
+          {
+            "q": "Fill in the blank: She was too timid to ____ in class.",
+            "a": "speak",
+            "meaning_ko": "too timid to + 동사원형 패턴입니다."
+          },
+          {
+            "q": "Which sentence is natural?\nA) He is timid for spiders.\nB) He is timid about spiders.\nC) He is timid by spiders.\nD) He is timid onto spiders.",
+            "a": "B",
+            "meaning_ko": "timid about + 명사/동명사가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'too timid to': He didn’t ask for help because he lacked confidence.",
+            "a": "He was too timid to ask for help.",
+            "meaning_ko": "원인(자신감 부족) → 결과(도움을 못 구함)를 too timid to로 압축합니다."
+          },
+          {
+            "q": "Pick the best word: A ____ response to unfair criticism can make the problem worse.\nA) timid\nB) edible\nC) vacant\nD) genial",
+            "a": "A",
+            "meaning_ko": "비판에 ‘소극적으로’ 대응한다는 문맥이므로 timid가 맞습니다."
+          },
+          {
+            "q": "Choose the closest pair in nuance: timid ≈ ____ (NOT exactly the same).\nA) shy\nB) fearless\nC) immense\nD) perennial",
+            "a": "A",
+            "meaning_ko": "shy는 수줍음, timid는 겁/자신감 부족으로 위축됨이라 유사어로 적절합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In an editorial, which usage best fits?\nA) a timid thunderstorm\nB) a timid allocation of capital\nC) a timid triangle\nD) a timid thermometer",
+            "a": "B",
+            "meaning_ko": "행동/정책의 ‘소극성’을 비유적으로 말할 때 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The board was timid to invest on R&D.' → Correct the prepositions/structure.",
+            "a": "The board was timid about investing in R&D.",
+            "meaning_ko": "timid about + V-ing, invest in이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best contrast: 'timid' is to 'bold' as 'reluctant' is to ____.",
+            "a": "eager",
+            "meaning_ko": "reluctant(내키지 않는)의 반대는 eager(열망하는)입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "malefactor",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A person who commits a crime or other wrongdoing.",
+        "definition_ko": "범죄나 부정행위를 저지르는 사람; 범법자.",
+        "note": "문어적·격식 표현이며 일상에선 criminal/offender를 더 자주 씁니다."
+      }
+    ],
+    "concept": "‘나쁜 일을 하는 사람’이라는 뜻의 격식 있는 범죄자 표현.",
+    "etymology": "라틴어 male(나쁘게) + facere(하다)에서 유래한 표현으로, ‘나쁜 일을 하는 자’라는 구성입니다.",
+    "semanticExtension": "법률·역사·문학 문맥에서 도덕적 비난을 강조하며 쓰이기도 하고, ‘사회적 해악을 끼치는 자’처럼 범죄를 넘어 ‘악행자’의 뉘앙스로 확장됩니다.",
+    "nuanceRegister": "격식/문어. 공식 문서, 기사, 문학적 서술에서 자주 보이며, 일상 대화에서는 다소 과장되게 들릴 수 있습니다.",
+    "grammarNotes": "가산명사로 a/the malefactor 형태가 기본이며, 복수는 malefactors입니다. in/within/against 같은 전치사구로 ‘어떤 영역에서 악행을 한 자’를 덧붙이기도 합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~(분야/영역)에서 범법을 저지른",
+        "example": "a malefactor in the financial sector"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 해를 끼치는(적대적인) 범법자",
+        "example": "malefactors against the public interest"
+      }
+    ],
+    "requiredComplements": [
+      "a/the malefactor + in + [domain]: 특정 영역에서 범행을 저지른 자",
+      "a/the malefactor + against + [group/value]: ~에 해를 끼치는 자"
+    ],
+    "morphology": "mal(e)-(나쁜) + -fact-(하다/만들다) + -or(행위자)로, ‘나쁜 행위를 하는 사람’이라는 의미 구성.",
+    "derivatives": [
+      {
+        "word": "malefaction",
+        "meaning_ko": "악행, 부정행위(격식)"
+      },
+      {
+        "word": "maleficent",
+        "meaning_ko": "해로운, 악의적인"
+      },
+      {
+        "word": "maleficence",
+        "meaning_ko": "악의, 해를 끼침(격식)"
+      }
+    ],
+    "related": [
+      {
+        "word": "crime",
+        "meaning_ko": "범죄"
+      },
+      {
+        "word": "wrongdoing",
+        "meaning_ko": "부정행위, 잘못"
+      },
+      {
+        "word": "prosecution",
+        "meaning_ko": "기소"
+      },
+      {
+        "word": "punishment",
+        "meaning_ko": "처벌"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "criminal",
+        "meaning_ko": "범죄자"
+      },
+      {
+        "word": "offender",
+        "meaning_ko": "가해자, 범법자"
+      },
+      {
+        "word": "wrongdoer",
+        "meaning_ko": "악행을 저지른 자"
+      },
+      {
+        "word": "lawbreaker",
+        "meaning_ko": "법을 어기는 자"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "culprit",
+        "meaning_ko": "범인(원인 제공자)"
+      },
+      {
+        "word": "perpetrator",
+        "meaning_ko": "가해자(범행자)"
+      },
+      {
+        "word": "delinquent",
+        "meaning_ko": "비행자, 범법자(문어/청소년 문맥)"
+      },
+      {
+        "word": "rogue",
+        "meaning_ko": "불량배, 악당(구어/문학)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "benefactor",
+        "meaning_ko": "후원자, 은인"
+      },
+      {
+        "word": "law-abiding citizen",
+        "meaning_ko": "준법 시민"
+      },
+      {
+        "word": "innocent",
+        "meaning_ko": "무고한 사람"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "catch a malefactor",
+            "meaning_ko": "범법자를 잡다"
+          },
+          {
+            "phrase": "punish the malefactor",
+            "meaning_ko": "범법자를 처벌하다"
+          },
+          {
+            "phrase": "a notorious malefactor",
+            "meaning_ko": "악명 높은 범법자"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "bring a malefactor to justice",
+            "meaning_ko": "범법자를 법의 심판대에 세우다"
+          },
+          {
+            "phrase": "malefactors in high places",
+            "meaning_ko": "권력층의 범법자들"
+          },
+          {
+            "phrase": "protect the public from malefactors",
+            "meaning_ko": "대중을 범법자들로부터 보호하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "malefactors who exploit regulatory gaps",
+            "meaning_ko": "규제의 빈틈을 악용하는 범법자들"
+          },
+          {
+            "phrase": "track malefactors across jurisdictions",
+            "meaning_ko": "관할을 넘나드는 범법자를 추적하다"
+          },
+          {
+            "phrase": "hold corporate malefactors accountable",
+            "meaning_ko": "기업 범법자에게 책임을 묻다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The sheriff vowed to capture the malefactor by dawn.",
+            "meaning_ko": "보안관은 새벽까지 그 범법자를 붙잡겠다고 맹세했다."
+          },
+          {
+            "sentence": "A single malefactor can ruin a team’s reputation.",
+            "meaning_ko": "한 명의 범법자만으로도 팀의 평판이 망가질 수 있다."
+          },
+          {
+            "sentence": "The report described him as a repeat malefactor.",
+            "meaning_ko": "보고서는 그를 상습 범법자로 묘사했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The court ordered restitution and sentenced the malefactor to probation.",
+            "meaning_ko": "법원은 배상을 명령하고 그 범법자에게 보호관찰형을 선고했다."
+          },
+          {
+            "sentence": "In the novel, the malefactor hides behind a respectable title.",
+            "meaning_ko": "그 소설에서 범법자는 그럴듯한 직함 뒤에 숨어 있다."
+          },
+          {
+            "sentence": "The agency built a database to identify malefactors in financial fraud cases.",
+            "meaning_ko": "기관은 금융 사기 사건의 범법자를 식별하기 위한 데이터베이스를 구축했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The legislation aims to deter malefactors by increasing transparency and auditability.",
+            "meaning_ko": "그 법안은 투명성과 감사 가능성을 높여 범법자를 억제하는 것을 목표로 한다."
+          },
+          {
+            "sentence": "When enforcement is inconsistent, malefactors treat penalties as a predictable cost.",
+            "meaning_ko": "집행이 일관되지 않으면 범법자들은 처벌을 예측 가능한 비용으로 여긴다."
+          },
+          {
+            "sentence": "The historian argues that public spectacle often elevated malefactors into cautionary symbols.",
+            "meaning_ko": "그 역사가에 따르면 공개적 ‘구경거리’는 종종 범법자를 경고의 상징으로 격상시켰다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "malefactor는 말 그대로 ‘악행자’라서 격식/문어 느낌이 강합니다. 시험에서는 criminal/offender와 교체 가능한 동의어로 출제되거나, benefactor(은인)와의 대비로 자주 나옵니다. 형태 분석(male+factor)을 해두면 생소해도 의미를 유추하기 쉽습니다.",
+    "tags": [
+      "법",
+      "범죄",
+      "사회",
+      "문어"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best definition of 'malefactor':\nA) a helpful donor\nB) a person who does wrong or commits a crime\nC) a medical specialist\nD) a type of tool",
+            "a": "B",
+            "meaning_ko": "malefactor는 범죄/악행을 저지르는 사람입니다."
+          },
+          {
+            "q": "Fill in the blank: The police finally arrested the _______.",
+            "a": "malefactor",
+            "meaning_ko": "문맥상 ‘범법자’가 들어가면 자연스럽습니다."
+          },
+          {
+            "q": "Which is an antonym of 'malefactor'?\nA) benefactor\nB) perpetrator\nC) offender\nD) culprit",
+            "a": "A",
+            "meaning_ko": "benefactor는 ‘은인/후원자’로 의미가 반대 방향입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best word for a formal report: 'The company was fined, and the ____ were barred from serving as executives.'\nA) malefactors\nB) toddlers\nC) palates\nD) gadgets",
+            "a": "A",
+            "meaning_ko": "공식 보고서 문맥에 malefactors(범법자들)가 적합합니다."
+          },
+          {
+            "q": "Choose the closest synonym to 'malefactor' in legal contexts.\nA) offender\nB) admirer\nC) pilgrim\nD) witness",
+            "a": "A",
+            "meaning_ko": "offender가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Select the most natural phrase.\nA) malefactor of the law\nB) malefactor in financial fraud\nC) malefactor with happiness\nD) malefactor under rain",
+            "a": "B",
+            "meaning_ko": "특정 범죄 영역을 말할 때 in + 분야/사건이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In a policy memo, what does 'hold corporate malefactors accountable' imply?",
+            "a": "punish or impose responsibility on companies or individuals who committed wrongdoing",
+            "meaning_ko": "기업 범죄/부정행위자에게 책임을 묻고 처벌한다는 뜻입니다."
+          },
+          {
+            "q": "Error correction: 'The reforms target malefactors for the public interest.' → Fix the preposition.",
+            "a": "The reforms target malefactors against the public interest.",
+            "meaning_ko": "‘공익에 반하는’은 against the public interest가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'Malefactors treat penalties as a cost of doing business.'",
+            "a": "Wrongdoers see fines as a manageable expense rather than a deterrent.",
+            "meaning_ko": "처벌을 억제력으로 보지 않고 사업 비용처럼 감수한다는 의미입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sapid",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Having a strong, pleasant flavor; tasty or flavorful.",
+        "definition_ko": "맛이 진하고 향미가 좋은, 풍미 있는.",
+        "note": "문어적·격식 표현이며, 일상에서는 tasty/flavorful/savory가 더 흔합니다."
+      }
+    ],
+    "concept": "‘맛의 밀도’가 높아 입맛에 분명히 느껴지는 풍미를 강조하는 형용사.",
+    "etymology": "라틴어 sapidus(맛있는)에서 왔고, sapere(맛보다/맛을 알다) 계열 어근과 연결됩니다.",
+    "semanticExtension": "본뜻은 음식의 맛이지만, 비유적으로 ‘sapid commentary(맛깔나는 논평)’처럼 ‘재미·풍미가 있는 말/글’로 확장되기도 합니다(다만 흔하진 않음).",
+    "nuanceRegister": "격식/문어. 음식 평론, 문학적 묘사, 고급 표현에서 주로 등장합니다.",
+    "grammarNotes": "보통 sapid + 명사(예: sapid stew)로 수식합니다. sapid with + 성분, sapid to the palate 같은 구조가 가능하나 사용 빈도는 높지 않습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~의 풍미가 배어 있는",
+        "example": "sapid with herbs and garlic"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~(입맛/감각)에 맛있게 느껴지는",
+        "example": "sapid to the palate"
+      }
+    ],
+    "requiredComplements": [
+      "sapid with + [ingredient/flavor]: ~의 풍미가 강하게 느껴지는",
+      "sapid to + the palate: 입맛에 맛있게 느껴지는(문어)"
+    ],
+    "morphology": "sap- (taste/맛) 기반 어근 + -id(형용사형) 계열로 ‘맛의 성질’을 나타내는 구성.",
+    "derivatives": [
+      {
+        "word": "sapidity",
+        "meaning_ko": "풍미, 맛의 진함(격식)"
+      },
+      {
+        "word": "insipid",
+        "meaning_ko": "싱거운, 재미없는(반대 성향; 접두사 in-)"
+      }
+    ],
+    "related": [
+      {
+        "word": "flavor",
+        "meaning_ko": "풍미, 맛"
+      },
+      {
+        "word": "palate",
+        "meaning_ko": "입맛, 미각"
+      },
+      {
+        "word": "aroma",
+        "meaning_ko": "향"
+      },
+      {
+        "word": "seasoning",
+        "meaning_ko": "양념"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "flavorful",
+        "meaning_ko": "풍미 있는"
+      },
+      {
+        "word": "tasty",
+        "meaning_ko": "맛있는"
+      },
+      {
+        "word": "savory",
+        "meaning_ko": "감칠맛 나는(주로 짭짤/고기/허브 풍미)"
+      },
+      {
+        "word": "piquant",
+        "meaning_ko": "톡 쏘는/자극적인 맛의(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "appetizing",
+        "meaning_ko": "식욕을 돋우는"
+      },
+      {
+        "word": "rich",
+        "meaning_ko": "진한(맛/풍미가)"
+      },
+      {
+        "word": "zesty",
+        "meaning_ko": "상큼하고 톡 쏘는"
+      },
+      {
+        "word": "aromatic",
+        "meaning_ko": "향이 좋은"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insipid",
+        "meaning_ko": "싱거운, 맛없는; 재미없는"
+      },
+      {
+        "word": "bland",
+        "meaning_ko": "담백한(때로는 심심한)"
+      },
+      {
+        "word": "tasteless",
+        "meaning_ko": "맛이 없는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a sapid soup",
+            "meaning_ko": "풍미 있는 수프"
+          },
+          {
+            "phrase": "sapid sauce",
+            "meaning_ko": "맛이 진한 소스"
+          },
+          {
+            "phrase": "sapid stew",
+            "meaning_ko": "진한 맛의 스튜"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sapid with spices",
+            "meaning_ko": "향신료 풍미가 진한"
+          },
+          {
+            "phrase": "a sapid blend of herbs",
+            "meaning_ko": "허브가 어우러진 풍미"
+          },
+          {
+            "phrase": "sapid and well-balanced",
+            "meaning_ko": "풍미 있으면서 균형 잡힌"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a sapid reduction with umami notes",
+            "meaning_ko": "감칠맛 노트가 있는 진한 리덕션"
+          },
+          {
+            "phrase": "sapid yet not overpowering",
+            "meaning_ko": "풍미는 진하지만 과하지 않은"
+          },
+          {
+            "phrase": "sapid commentary on cultural taste",
+            "meaning_ko": "문화적 취향에 대한 맛깔난 논평(비유)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The broth was sapid and warmed everyone up.",
+            "meaning_ko": "그 육수는 풍미가 진해서 모두를 따뜻하게 해줬다."
+          },
+          {
+            "sentence": "I prefer sapid dishes over bland food.",
+            "meaning_ko": "저는 심심한 음식보다 풍미 있는 요리를 선호합니다."
+          },
+          {
+            "sentence": "This sauce is sapid even without extra salt.",
+            "meaning_ko": "이 소스는 소금을 더하지 않아도 맛이 진하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The chef made a sapid stew with herbs, garlic, and slow-cooked meat.",
+            "meaning_ko": "셰프는 허브와 마늘, 푹 익힌 고기로 풍미 있는 스튜를 만들었다."
+          },
+          {
+            "sentence": "A sapid curry can be intense, so balance it with rice or yogurt.",
+            "meaning_ko": "풍미가 강한 카레는 강렬할 수 있으니 밥이나 요거트로 균형을 맞추세요."
+          },
+          {
+            "sentence": "The review praised the restaurant for sapid flavors and clean finishes.",
+            "meaning_ko": "리뷰는 그 식당의 진한 풍미와 깔끔한 마무리를 칭찬했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sauce was sapid yet not overpowering, letting the seafood remain the focus.",
+            "meaning_ko": "소스는 풍미가 진하지만 과하지 않아 해산물이 중심이 되게 했다."
+          },
+          {
+            "sentence": "Critics called the essay sapid because its arguments were vivid and well-seasoned.",
+            "meaning_ko": "비평가들은 그 에세이가 논지가 생생하고 ‘양념’이 잘 되어 있어 맛깔나다고 평했다."
+          },
+          {
+            "sentence": "Her writing is sapid to the palate of attentive readers, but flat to casual ones.",
+            "meaning_ko": "그녀의 글은 집중하는 독자에게는 풍미가 느껴지지만 가볍게 읽는 독자에겐 밋밋하다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sapid는 ‘맛이 있는’이라는 뜻이지만 매우 문어적이라, 실제 회화에서는 tasty/flavorful/savory로 바꿔 쓰는 경우가 많습니다. 반의어 insipid(싱거운/재미없는)과 세트로 외우면 기억이 잘 남습니다. 글에서 보이면 ‘풍미가 진한’ 쪽으로 해석하면 대부분 자연스럽습니다.",
+    "tags": [
+      "음식",
+      "맛",
+      "표현",
+      "문어"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning of 'sapid':\nA) tasteless\nB) flavorful\nC) tiny\nD) timid",
+            "a": "B",
+            "meaning_ko": "sapid는 ‘풍미 있는, 맛이 진한’입니다."
+          },
+          {
+            "q": "Fill in the blank: The soup was so ____ that we asked for more bread.",
+            "a": "sapid",
+            "meaning_ko": "맛이 진한 수프라는 문맥입니다."
+          },
+          {
+            "q": "Which word is an antonym of 'sapid'?\nA) bland\nB) savory\nC) appetizing\nD) aromatic",
+            "a": "A",
+            "meaning_ko": "bland/insipid가 반대 방향(심심한 맛)입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best replacement for sapid in everyday speech: 'a sapid stew'",
+            "a": "a flavorful stew",
+            "meaning_ko": "회화에서는 flavorful/tasty가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the most natural phrase.\nA) sapid for the palate\nB) sapid to the palate\nC) sapid at the palate\nD) sapid on the palate",
+            "a": "B",
+            "meaning_ko": "문어에서 sapid to the palate가 가능한 패턴입니다."
+          },
+          {
+            "q": "Fill in the blank: The sauce is sapid ____ herbs and garlic.",
+            "a": "with",
+            "meaning_ko": "sapid with + 재료/향미 패턴입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In a literary review, 'sapid prose' most nearly means:",
+            "a": "vivid, richly expressive writing",
+            "meaning_ko": "맛의 비유로 ‘풍미가 있는 문체/표현이 풍부한’ 뜻입니다."
+          },
+          {
+            "q": "Error correction: 'The dish was sapid, but it overpower the fish.' → Fix grammar.",
+            "a": "The dish was sapid, but it did not overpower the fish.",
+            "meaning_ko": "과거 서술에서 동사 형태와 부정을 정리합니다."
+          },
+          {
+            "q": "Choose the best contrast: sapid : insipid = engaging : ____.",
+            "a": "dull",
+            "meaning_ko": "engaging(흥미로운)의 반대는 dull(지루한)입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

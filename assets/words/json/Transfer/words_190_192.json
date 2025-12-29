@@ -1,0 +1,1010 @@
+[
+  {
+    "word": "celebrate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To mark a special day, event, or achievement with enjoyable activities or ceremonies.",
+        "definition_ko": "특별한 날·사건·성과를 기념하다(축하 행사로 기리다).",
+        "note": "주로 ‘celebrate + 목적어(생일/승리/기념일)’로 많이 씁니다."
+      },
+      {
+        "definition_en": "To publicly praise or honor someone or something.",
+        "definition_ko": "공식적으로 칭송하다, 기리다.",
+        "note": "문어/격식에서 ‘celebrate a writer/idea’처럼 ‘찬양하다’ 의미가 자주 나옵니다."
+      }
+    ],
+    "concept": "무언가를 ‘축하하거나 기념하며’ 즐기거나, 공개적으로 ‘칭송’하는 동사.",
+    "etymology": "라틴어 celebrare(자주 모이다, 성대히 행하다)에서 왔고, ‘많은 사람이 모여 성대히 하다’의 뉘앙스가 현대의 ‘기념/축하’ 의미로 굳었습니다.",
+    "semanticExtension": "단순 파티를 넘어 ‘어떤 가치나 인물, 성취를 기리다/찬양하다’로 의미가 확장됩니다(celebrate diversity, celebrate a legacy).",
+    "nuanceRegister": "일상·격식 모두 사용. 파티/기념은 구어에서도 흔하고, ‘칭송하다’ 의미는 비교적 문어·격식 톤입니다.",
+    "grammarNotes": "기본적으로 타동사로 ‘celebrate + 명사’가 핵심. ‘celebrate with + 사람’, ‘celebrate by + -ing’, ‘celebrate in + 장소/방식’도 흔합니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "…와 함께 축하하다",
+        "example": "celebrate with friends"
+      },
+      {
+        "prep": "by",
+        "meaning_ko": "…함으로써 기념하다(방식)",
+        "example": "celebrate by having dinner"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "…에서/…한 방식으로 축하하다",
+        "example": "celebrate in private"
+      }
+    ],
+    "requiredComplements": [
+      "celebrate + 명사(anniversary/victory/achievement 등): ~을 기념/축하하다",
+      "celebrate with + 사람: ~와 함께 축하하다",
+      "celebrate by + -ing: ~함으로써 기념하다",
+      "celebrate that + S V: ~라는 사실을 기념/축하하다(격식/문어)"
+    ],
+    "morphology": "celebr- (라틴 계열 어근: ‘성대히 하다/널리 알리다’) + -ate(동사화 접미) 형태로 분석할 수 있습니다.",
+    "derivatives": [
+      {
+        "word": "celebration",
+        "meaning_ko": "축하, 기념 행사"
+      },
+      {
+        "word": "celebratory",
+        "meaning_ko": "축하하는, 기념의"
+      },
+      {
+        "word": "celebrity",
+        "meaning_ko": "유명인(원래 ‘널리 알려진 사람’)"
+      },
+      {
+        "word": "celebrate",
+        "meaning_ko": "축하하다, 기념하다"
+      },
+      {
+        "word": "celebrated",
+        "meaning_ko": "유명한, 칭송받는"
+      }
+    ],
+    "related": [
+      {
+        "word": "commemorate",
+        "meaning_ko": "기념하다(특히 공식적으로)"
+      },
+      {
+        "word": "honor",
+        "meaning_ko": "기리다, 예우하다"
+      },
+      {
+        "word": "toast",
+        "meaning_ko": "건배하며 축하하다"
+      },
+      {
+        "word": "festivity",
+        "meaning_ko": "축제 분위기, 축하 행사"
+      },
+      {
+        "word": "tribute",
+        "meaning_ko": "헌사, 찬사"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "commemorate",
+        "meaning_ko": "기념하다"
+      },
+      {
+        "word": "mark",
+        "meaning_ko": "기념하다(특별한 방식으로 표시하다)"
+      },
+      {
+        "word": "honor",
+        "meaning_ko": "기리다"
+      },
+      {
+        "word": "observe",
+        "meaning_ko": "기념일 등을 지키다"
+      },
+      {
+        "word": "hail",
+        "meaning_ko": "칭송하다(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "rejoice",
+        "meaning_ko": "기뻐하다(감정 중심)"
+      },
+      {
+        "word": "congratulate",
+        "meaning_ko": "축하하다(상대에게)"
+      },
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      },
+      {
+        "word": "salute",
+        "meaning_ko": "경의를 표하다"
+      },
+      {
+        "word": "glorify",
+        "meaning_ko": "미화하다, 찬양하다(과도할 수 있음)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mourn",
+        "meaning_ko": "애도하다"
+      },
+      {
+        "word": "lament",
+        "meaning_ko": "한탄하다, 비탄해하다"
+      },
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "downplay",
+        "meaning_ko": "축소하다, 대수롭지 않게 하다"
+      },
+      {
+        "word": "condemn",
+        "meaning_ko": "비난하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "celebrate a birthday",
+            "meaning_ko": "생일을 축하하다"
+          },
+          {
+            "phrase": "celebrate with family",
+            "meaning_ko": "가족과 함께 축하하다"
+          },
+          {
+            "phrase": "celebrate the win",
+            "meaning_ko": "승리를 축하하다"
+          },
+          {
+            "phrase": "celebrate tonight",
+            "meaning_ko": "오늘 밤 축하하다(파티하다)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "celebrate an anniversary",
+            "meaning_ko": "기념일을 기념하다"
+          },
+          {
+            "phrase": "celebrate a milestone",
+            "meaning_ko": "중요한 이정표를 기념하다"
+          },
+          {
+            "phrase": "celebrate the completion of a project",
+            "meaning_ko": "프로젝트 완료를 기념하다"
+          },
+          {
+            "phrase": "celebrate one's success",
+            "meaning_ko": "성공을 자축하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "celebrate cultural diversity",
+            "meaning_ko": "문화적 다양성을 기리다"
+          },
+          {
+            "phrase": "celebrate a legacy",
+            "meaning_ko": "유산/업적을 기리다"
+          },
+          {
+            "phrase": "celebrate the centennial",
+            "meaning_ko": "100주년을 기념하다"
+          },
+          {
+            "phrase": "celebrate human resilience",
+            "meaning_ko": "인간의 회복탄력성을 칭송하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We celebrated her birthday with a small cake.",
+            "meaning_ko": "우리는 작은 케이크로 그녀의 생일을 축하했다."
+          },
+          {
+            "sentence": "They went out to celebrate after the game.",
+            "meaning_ko": "그들은 경기 후에 축하하러 밖에 나갔다."
+          },
+          {
+            "sentence": "Let’s celebrate your new job!",
+            "meaning_ko": "새 직장 얻은 것 축하하자!"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The team celebrated the completion of the project with dinner.",
+            "meaning_ko": "팀은 저녁 식사로 프로젝트 완료를 기념했다."
+          },
+          {
+            "sentence": "Many countries celebrate Independence Day with parades.",
+            "meaning_ko": "많은 나라가 퍼레이드로 독립기념일을 기념한다."
+          },
+          {
+            "sentence": "She celebrated her promotion by taking a short trip.",
+            "meaning_ko": "그녀는 승진을 기념해 짧은 여행을 떠났다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The exhibition celebrates the artist’s enduring influence on modern design.",
+            "meaning_ko": "그 전시는 현대 디자인에 대한 그 예술가의 지속적인 영향력을 기린다."
+          },
+          {
+            "sentence": "Rather than blame, the speech celebrated collective effort and discipline.",
+            "meaning_ko": "비난하기보다 그 연설은 공동의 노력과 규율을 칭송했다."
+          },
+          {
+            "sentence": "The novel quietly celebrates ordinary courage in times of crisis.",
+            "meaning_ko": "그 소설은 위기 속 평범한 용기를 조용히 기린다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "‘celebrate + 명사’가 기본이고, ‘congratulate(사람을 축하하다)’와 구분하세요: celebrate a victory vs congratulate someone on a victory. 또한 ‘celebrate diversity/legacy’처럼 ‘기리다·칭송하다’ 의미가 나오면 문어 톤이라는 신호로 잡으면 좋습니다.",
+    "tags": [
+      "축하",
+      "기념",
+      "행사",
+      "칭송",
+      "사회·문화"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: We ___ our anniversary with a quiet dinner.",
+            "a": "celebrated",
+            "meaning_ko": "기념일을 ‘기념하다/축하하다’는 celebrate가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best option: They celebrated ___ their friends. (A) with (B) of (C) by",
+            "a": "A",
+            "meaning_ko": "celebrate with + 사람(누구와 함께 축하하다) 패턴."
+          },
+          {
+            "q": "Which sentence is most natural? (A) I celebrated him on his exam. (B) I congratulated him on his exam.",
+            "a": "B",
+            "meaning_ko": "사람에게 직접 ‘축하하다’는 congratulate가 일반적입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: She celebrated her promotion by ___ a short trip.",
+            "a": "taking",
+            "meaning_ko": "celebrate by + -ing(어떤 방식으로 기념하다) 구조."
+          },
+          {
+            "q": "Choose the best paraphrase: The city celebrated the festival. (A) criticized (B) marked with events (C) forgot",
+            "a": "B",
+            "meaning_ko": "celebrate는 ‘행사/활동으로 기념하다’가 핵심."
+          },
+          {
+            "q": "Error correction: 'We celebrated for finishing the report.' → Rewrite naturally.",
+            "a": "We celebrated finishing the report.",
+            "meaning_ko": "celebrate는 보통 ‘celebrate + 명사/-ing’로 바로 목적어를 받습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best word: The documentary ___ the courage of ordinary people under pressure. (A) celebrates (B) abandons (C) negates",
+            "a": "A",
+            "meaning_ko": "celebrate는 ‘기리다/칭송하다’ 의미로도 쓰입니다."
+          },
+          {
+            "q": "Fill in the blank: The ceremony was designed to celebrate the company’s ___ for innovation.",
+            "a": "legacy",
+            "meaning_ko": "celebrate a legacy(업적/유산을 기리다) 고급 연어."
+          },
+          {
+            "q": "Which usage best matches the meaning 'publicly honor'? (A) celebrate a writer (B) celebrate at noon (C) celebrate by crying",
+            "a": "A",
+            "meaning_ko": "인물/작품을 ‘칭송하다’는 의미는 목적어로 대상(사람/업적)을 둡니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ramshackle",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "In poor condition; loosely made or maintained, and likely to fall apart.",
+        "definition_ko": "허술하고 낡아 빠진, 금방이라도 무너질 듯한.",
+        "note": "건물·차·시설 등 ‘관리 안 된 상태’를 강하게 묘사할 때 자주 씁니다."
+      }
+    ],
+    "concept": "겉보기부터 ‘허술·노후’가 드러나 안전/품질이 의심되는 상태.",
+    "etymology": "영어에서 비교적 늦게 굳어진 표현으로, ‘ram(난폭하게 들이받다/거칠게)’와 ‘shackle(걸쇠/속박)’ 요소가 결합해 ‘대충 엮어 놓은’ 느낌을 준다는 설명이 있으나, 정확한 형성 과정은 학자마다 다릅니다.",
+    "semanticExtension": "물리적 노후에서 출발해 ‘조직/계획이 허술한’ 비유로도 확장되지만, 핵심 이미지는 여전히 ‘금방 무너질 듯한 허술함’입니다.",
+    "nuanceRegister": "일상·기사문·문학 모두 가능. 약간 생생한 묘사(이미지) 중심이라 서술문에서 효과적입니다.",
+    "grammarNotes": "형용사로 명사 앞/뒤 모두 가능: a ramshackle house, the house is ramshackle. 종종 ‘ramshackle + 명사(건물/차량/시설)’ 형태로 고정적으로 결합합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "…한 상태로(상태 강조)",
+        "example": "in a ramshackle state"
+      }
+    ],
+    "requiredComplements": [
+      "a ramshackle + 건물/차량/시설: 허술하고 낡은 ~",
+      "be ramshackle: 허술하고 낡아 있다",
+      "in a ramshackle state/condition: 허술한 상태로"
+    ],
+    "morphology": "현대 영어 합성어로 보이며, 구성 요소가 의미적으로 ‘허술하게 엮여 있음/노후’의 이미지를 강화합니다(정확한 어원 분석은 단정하기 어렵습니다).",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "dilapidated",
+        "meaning_ko": "퇴락한, 황폐한"
+      },
+      {
+        "word": "rickety",
+        "meaning_ko": "삐걱거리는, 금방 부서질 듯한"
+      },
+      {
+        "word": "shabby",
+        "meaning_ko": "초라한, 낡은"
+      },
+      {
+        "word": "makeshift",
+        "meaning_ko": "임시방편의"
+      },
+      {
+        "word": "decrepit",
+        "meaning_ko": "노후한, 낡아 빠진"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "dilapidated",
+        "meaning_ko": "퇴락한"
+      },
+      {
+        "word": "rickety",
+        "meaning_ko": "허술한(삐걱거리는)"
+      },
+      {
+        "word": "decrepit",
+        "meaning_ko": "노후한"
+      },
+      {
+        "word": "run-down",
+        "meaning_ko": "낡고 관리 안 된"
+      },
+      {
+        "word": "shabby",
+        "meaning_ko": "초라하고 낡은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "makeshift",
+        "meaning_ko": "임시로 만든(허술할 수 있음)"
+      },
+      {
+        "word": "crude",
+        "meaning_ko": "조잡한"
+      },
+      {
+        "word": "unstable",
+        "meaning_ko": "불안정한"
+      },
+      {
+        "word": "flimsy",
+        "meaning_ko": "허약한, 빈약한"
+      },
+      {
+        "word": "tumbledown",
+        "meaning_ko": "무너져 가는(주로 집)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sturdy",
+        "meaning_ko": "튼튼한"
+      },
+      {
+        "word": "sound",
+        "meaning_ko": "견고한"
+      },
+      {
+        "word": "solid",
+        "meaning_ko": "단단한"
+      },
+      {
+        "word": "well-built",
+        "meaning_ko": "잘 지어진"
+      },
+      {
+        "word": "reinforced",
+        "meaning_ko": "보강된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a ramshackle house",
+            "meaning_ko": "허술하고 낡은 집"
+          },
+          {
+            "phrase": "a ramshackle car",
+            "meaning_ko": "덜컹거리는 낡은 차"
+          },
+          {
+            "phrase": "ramshackle furniture",
+            "meaning_ko": "허술한 가구"
+          },
+          {
+            "phrase": "ramshackle shed",
+            "meaning_ko": "허술한 헛간/창고"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a ramshackle building",
+            "meaning_ko": "허술하고 노후한 건물"
+          },
+          {
+            "phrase": "a ramshackle neighborhood",
+            "meaning_ko": "낡고 정비가 안 된 동네"
+          },
+          {
+            "phrase": "a ramshackle bridge",
+            "meaning_ko": "금방이라도 무너질 듯한 다리"
+          },
+          {
+            "phrase": "a ramshackle workshop",
+            "meaning_ko": "허름한 작업장"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a ramshackle regime",
+            "meaning_ko": "허술하게 운영되는 정권/체제(비유)"
+          },
+          {
+            "phrase": "a ramshackle operation",
+            "meaning_ko": "체계가 엉성한 운영(비유)"
+          },
+          {
+            "phrase": "ramshackle infrastructure",
+            "meaning_ko": "낙후되어 허술한 기반 시설"
+          },
+          {
+            "phrase": "a ramshackle patchwork of rules",
+            "meaning_ko": "임기응변식으로 땜질된 규정들(비유)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They lived in a ramshackle house near the river.",
+            "meaning_ko": "그들은 강가의 허술하고 낡은 집에서 살았다."
+          },
+          {
+            "sentence": "The ramshackle fence fell over in the wind.",
+            "meaning_ko": "허술한 울타리가 바람에 넘어졌다."
+          },
+          {
+            "sentence": "He drove a ramshackle car that rattled at every turn.",
+            "meaning_ko": "그는 코너마다 덜컹거리는 낡은 차를 몰았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The factory was shut down because the building had become ramshackle.",
+            "meaning_ko": "건물이 너무 노후해져 공장은 폐쇄되었다."
+          },
+          {
+            "sentence": "They repaired the ramshackle bridge just enough to reopen the road.",
+            "meaning_ko": "그들은 도로를 재개통할 만큼만 그 허술한 다리를 수리했다."
+          },
+          {
+            "sentence": "Tourists avoided the ramshackle pier for safety reasons.",
+            "meaning_ko": "관광객들은 안전 문제로 그 낡은 부두를 피했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The report described the relief effort as a ramshackle operation lacking coordination.",
+            "meaning_ko": "보고서는 구호 활동이 조율이 부족한 허술한 운영이었다고 묘사했다."
+          },
+          {
+            "sentence": "Decades of neglect left the city with ramshackle infrastructure and frequent outages.",
+            "meaning_ko": "수십 년의 방치로 도시는 낙후된 기반 시설과 잦은 정전에 시달렸다."
+          },
+          {
+            "sentence": "His argument relied on a ramshackle chain of assumptions that collapsed under scrutiny.",
+            "meaning_ko": "그의 주장은 검증 앞에서 무너지는 허술한 가정들의 사슬에 의존했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ramshackle은 ‘낡다(old)’보다 ‘허술해서 금방 무너질 듯하다’는 이미지가 핵심입니다. 비슷한 뜻의 dilapidated(퇴락한), rickety(삐걱거리는)와 함께 묶어 외우되, ramshackle은 ‘대충 엮인 듯한’ 느낌이 강하다는 점을 잡아두면 구분이 쉬워집니다.",
+    "tags": [
+      "건물·시설",
+      "노후",
+      "상태 묘사",
+      "비유 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of ramshackle: (A) brand-new and shiny (B) poorly built and likely to fall apart (C) extremely expensive",
+            "a": "B",
+            "meaning_ko": "ramshackle은 ‘허술하고 낡아 무너질 듯한’ 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They found shelter in a ___ cabin.",
+            "a": "ramshackle",
+            "meaning_ko": "낡고 허술한 오두막 묘사에 자연스럽습니다."
+          },
+          {
+            "q": "Which noun fits best? (A) ramshackle sunrise (B) ramshackle bridge (C) ramshackle kindness",
+            "a": "B",
+            "meaning_ko": "물리적 구조물(bridge/building/house)과 자주 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Error correction: 'The bridge is ramshackle in.' → Rewrite naturally.",
+            "a": "The bridge is ramshackle.",
+            "meaning_ko": "형용사 단독 서술: be ramshackle."
+          },
+          {
+            "q": "Choose the closest synonym: The ramshackle stairs creaked loudly. (A) sturdy (B) rickety (C) elegant",
+            "a": "B",
+            "meaning_ko": "rickety는 ‘삐걱거리는/금방 무너질 듯한’으로 매우 가깝습니다."
+          },
+          {
+            "q": "Fill in the blank: The town’s infrastructure was ___ after years of neglect.",
+            "a": "ramshackle",
+            "meaning_ko": "기반 시설이 ‘낙후되어 허술하다’는 문맥에 적합합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best interpretation: 'a ramshackle operation' most nearly means (A) a well-planned system (B) a disorganized, poorly run effort (C) a secret organization",
+            "a": "B",
+            "meaning_ko": "물리적 ‘허술함’이 ‘운영/체계가 엉성함’으로 비유 확장된 용례입니다."
+          },
+          {
+            "q": "Fill in the blank: His proposal was a ___ patchwork of ideas, stitched together at the last minute.",
+            "a": "ramshackle",
+            "meaning_ko": "patchwork(땜질/누더기)와 함께 ‘엉성하게 급조된’ 느낌을 강하게 만듭니다."
+          },
+          {
+            "q": "Which sentence uses ramshackle most effectively? (A) The theorem is ramshackle. (B) The ramshackle shack leaned to one side. (C) She felt ramshackle after coffee.",
+            "a": "B",
+            "meaning_ko": "구체적 구조물의 ‘허술·노후’ 묘사에 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dominion",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Control or the right to control; authority over a territory, people, or activity.",
+        "definition_ko": "지배권, 통치권; (어떤 영역에 대한) 권력/권한.",
+        "note": "문어·역사/정치 맥락에서 ‘지배/통치’ 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "A territory or state under the control of a ruler or government.",
+        "definition_ko": "지배 영역, 통치하에 있는 영토.",
+        "note": "역사적 표현에서 ‘under the dominion of ~’ 같은 형태가 흔합니다."
+      }
+    ],
+    "concept": "어떤 대상/영역을 ‘지배하고 통제할 권한’ 또는 그 ‘지배 영역’ 자체.",
+    "etymology": "라틴어 dominium(소유권, 지배)에서 왔고, 이는 dominus(주인)와 연결됩니다. ‘주인의 권리/권한’ 의미가 ‘지배권·통치권’으로 발전했습니다.",
+    "semanticExtension": "국가·제국의 영토 지배에서 출발해, 현대에는 ‘~에 대한 지배력/통제력’처럼 추상 영역(지식, 자연, 기술)에 대한 권한/통제 의미로도 확장됩니다.",
+    "nuanceRegister": "격식·문어 성격이 강함(정치/역사/법/논설). 일상 대화보다는 글에서 더 자연스럽습니다.",
+    "grammarNotes": "주요 결합: dominion over + 명사(무엇에 대한 지배), under the dominion of + 명사(누구의 지배 아래). ‘have/exercise dominion over’도 자주 나옵니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "over",
+        "meaning_ko": "…에 대한 지배/통제",
+        "example": "dominion over the seas"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "…의 지배(관계/소속)",
+        "example": "the dominion of the crown"
+      },
+      {
+        "prep": "under",
+        "meaning_ko": "…의 지배 아래(관용구)",
+        "example": "under the dominion of an empire"
+      }
+    ],
+    "requiredComplements": [
+      "have/exercise dominion over + 명사: ~을 지배/통제하다",
+      "under the dominion of + 명사: ~의 지배 아래",
+      "the dominion of + 권력 주체: ~의 통치/지배"
+    ],
+    "morphology": "domin- (라틴 dominus ‘주인’) + -ion(명사화 접미)로 ‘주인의 권리/권한’에서 ‘지배권’ 의미를 형성합니다.",
+    "derivatives": [
+      {
+        "word": "dominate",
+        "meaning_ko": "지배하다, 장악하다"
+      },
+      {
+        "word": "dominant",
+        "meaning_ko": "지배적인, 우세한"
+      },
+      {
+        "word": "domination",
+        "meaning_ko": "지배, 장악"
+      },
+      {
+        "word": "domain",
+        "meaning_ko": "영역, 분야(본래 ‘지배 영역’)"
+      },
+      {
+        "word": "domineering",
+        "meaning_ko": "지배하려 드는, 고압적인"
+      }
+    ],
+    "related": [
+      {
+        "word": "sovereignty",
+        "meaning_ko": "주권"
+      },
+      {
+        "word": "hegemony",
+        "meaning_ko": "패권, 헤게모니"
+      },
+      {
+        "word": "jurisdiction",
+        "meaning_ko": "관할권"
+      },
+      {
+        "word": "empire",
+        "meaning_ko": "제국"
+      },
+      {
+        "word": "realm",
+        "meaning_ko": "왕국, 영역"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "control",
+        "meaning_ko": "통제, 지배"
+      },
+      {
+        "word": "rule",
+        "meaning_ko": "통치"
+      },
+      {
+        "word": "authority",
+        "meaning_ko": "권위, 권한"
+      },
+      {
+        "word": "sovereignty",
+        "meaning_ko": "주권"
+      },
+      {
+        "word": "jurisdiction",
+        "meaning_ko": "관할권"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "power",
+        "meaning_ko": "권력(일반)"
+      },
+      {
+        "word": "influence",
+        "meaning_ko": "영향력"
+      },
+      {
+        "word": "mastery",
+        "meaning_ko": "숙련/지배(기술·분야)"
+      },
+      {
+        "word": "possession",
+        "meaning_ko": "소유(법적/물리적)"
+      },
+      {
+        "word": "governance",
+        "meaning_ko": "통치, 관리 체계"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "submission",
+        "meaning_ko": "복종"
+      },
+      {
+        "word": "dependence",
+        "meaning_ko": "의존"
+      },
+      {
+        "word": "subordination",
+        "meaning_ko": "종속"
+      },
+      {
+        "word": "anarchy",
+        "meaning_ko": "무정부 상태"
+      },
+      {
+        "word": "powerlessness",
+        "meaning_ko": "무력함, 무권한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "have dominion",
+            "meaning_ko": "지배권을 가지다"
+          },
+          {
+            "phrase": "under dominion",
+            "meaning_ko": "지배 아래"
+          },
+          {
+            "phrase": "seek dominion",
+            "meaning_ko": "지배권을 추구하다"
+          },
+          {
+            "phrase": "lose dominion",
+            "meaning_ko": "지배권을 잃다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dominion over a territory",
+            "meaning_ko": "영토에 대한 지배권"
+          },
+          {
+            "phrase": "exercise dominion over",
+            "meaning_ko": "…을 지배/통제하다"
+          },
+          {
+            "phrase": "under the dominion of an empire",
+            "meaning_ko": "제국의 지배 아래"
+          },
+          {
+            "phrase": "assert dominion",
+            "meaning_ko": "지배권을 주장하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "contest dominion",
+            "meaning_ko": "지배권을 다투다"
+          },
+          {
+            "phrase": "challenge the dominion of the state",
+            "meaning_ko": "국가의 지배 권위를 도전하다"
+          },
+          {
+            "phrase": "theological dominion",
+            "meaning_ko": "신학적 지배/권한(담론)"
+          },
+          {
+            "phrase": "dominion over nature",
+            "meaning_ko": "자연에 대한 지배(사상/윤리 논쟁)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The king claimed dominion over the nearby islands.",
+            "meaning_ko": "왕은 인근 섬들에 대한 지배권을 주장했다."
+          },
+          {
+            "sentence": "The region remained under foreign dominion for decades.",
+            "meaning_ko": "그 지역은 수십 년 동안 외세의 지배 아래 있었다."
+          },
+          {
+            "sentence": "They fought to regain dominion over their land.",
+            "meaning_ko": "그들은 자기 땅에 대한 지배권을 되찾기 위해 싸웠다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The treaty recognized the nation’s dominion over its coastal waters.",
+            "meaning_ko": "그 조약은 그 나라의 연안 해역에 대한 지배권을 인정했다."
+          },
+          {
+            "sentence": "Local leaders resisted the dominion of the crown and demanded autonomy.",
+            "meaning_ko": "지역 지도자들은 왕권의 지배에 저항하며 자치를 요구했다."
+          },
+          {
+            "sentence": "The company tried to exercise dominion over the entire supply chain.",
+            "meaning_ko": "그 회사는 공급망 전체를 지배하려 했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Debates over human dominion over nature often hinge on ethics rather than technology.",
+            "meaning_ko": "자연에 대한 인간의 지배를 둘러싼 논쟁은 종종 기술보다 윤리에 달려 있다."
+          },
+          {
+            "sentence": "The constitution limits the state’s dominion by distributing power across institutions.",
+            "meaning_ko": "그 헌법은 권력을 기관들에 분산시켜 국가의 지배 권한을 제한한다."
+          },
+          {
+            "sentence": "Empires expand not only by force but by securing lasting dominion through administration.",
+            "meaning_ko": "제국은 무력뿐 아니라 행정으로 지속적 지배를 확보함으로써 팽창한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dominion은 ‘control’보다 격식 있고 ‘통치/지배권’ 이미지가 강합니다. dominion over(~에 대한 지배)와 under the dominion of(~의 지배 아래) 두 패턴을 통째로 외우면 문장 생산력이 확 올라갑니다. domain(영역)과 어근이 같아 함께 묶어두면 기억이 오래갑니다.",
+    "tags": [
+      "정치·역사",
+      "권력",
+      "통치",
+      "법·제도",
+      "격식 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The empire claimed ___ over the region.",
+            "a": "dominion",
+            "meaning_ko": "지배권/통치권을 나타내는 명사 dominion."
+          },
+          {
+            "q": "Choose the best preposition: dominion ___ the seas (A) over (B) at (C) by",
+            "a": "A",
+            "meaning_ko": "dominion over + 대상(지배/통제의 대상)."
+          },
+          {
+            "q": "Which phrase means 'under someone’s control'? (A) under the dominion of (B) in the dominion to (C) on dominion by",
+            "a": "A",
+            "meaning_ko": "under the dominion of는 관용적으로 ‘~의 지배 아래’입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the closest synonym: The treaty affirmed the nation’s dominion over its territory. (A) sovereignty (B) fatigue (C) envy",
+            "a": "A",
+            "meaning_ko": "sovereignty(주권)과 의미 영역이 가장 가깝습니다."
+          },
+          {
+            "q": "Error correction: 'They exercised dominion in the market.' → Rewrite naturally.",
+            "a": "They exercised dominion over the market.",
+            "meaning_ko": "exercise dominion over + 대상이 자연스러운 결합입니다."
+          },
+          {
+            "q": "Fill in the blank: The province was ___ the dominion of the crown for centuries.",
+            "a": "under",
+            "meaning_ko": "under the dominion of + 명사(지배 주체) 패턴."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best word: The constitution was drafted to limit governmental ___ and protect civil liberties. (A) dominion (B) itinerary (C) euphony",
+            "a": "A",
+            "meaning_ko": "정부의 ‘지배 권한/통제력’을 제한한다는 문맥에 dominion이 적합합니다."
+          },
+          {
+            "q": "Fill in the blank: Philosophers questioned the assumption of human dominion ___ nature.",
+            "a": "over",
+            "meaning_ko": "dominion over nature는 고급 담론에서 자주 등장하는 결합입니다."
+          },
+          {
+            "q": "Which usage is most formal and precise? (A) control of the land (B) dominion over the land (C) hold the land",
+            "a": "B",
+            "meaning_ko": "dominion은 ‘통치/지배권’의 격식 있고 정확한 뉘앙스를 줍니다."
+          }
+        ]
+      }
+    ]
+  }
+]

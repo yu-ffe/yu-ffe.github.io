@@ -1,0 +1,1008 @@
+[
+  {
+    "word": "solidify",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To make or become solid, firm, or hard by cooling, drying, or chemical change.",
+        "definition_ko": "식거나 마르거나 화학 변화로 인해 단단해지게 하다/단단해지다.",
+        "note": "물질이 '굳다'는 물리적 의미와, 계획·관계·지위 등이 '확고해지다'는 비유적 의미 둘 다 매우 흔합니다."
+      },
+      {
+        "definition_en": "To make or become more definite, stable, or united; to consolidate.",
+        "definition_ko": "더 확실·안정·단결되게 하다; 공고히 하다.",
+        "note": "solidify a plan/position/support처럼 추상명사와 자주 결합합니다."
+      }
+    ],
+    "concept": "흐물흐물하던 것이 ‘굳어’ 단단해지거나, 추상적으로 ‘확고해지는’ 것.",
+    "etymology": "라틴계 어근에서 온 solid(단단한) + -ify(…하게 만들다) 형태로 ‘단단하게 만들다/되다’ 의미를 형성했습니다.",
+    "semanticExtension": "물질이 굳는 물리적 변화에서 출발해, 의견·연합·지지·계획 등이 시간이 지나며 확정·강화되는 의미로 확장됩니다.",
+    "nuanceRegister": "중립~격식. 과학/공학/비즈니스 문서에서 자주 쓰이며, 일상에서도 ‘계획을 굳히다’처럼 자연스럽습니다.",
+    "grammarNotes": "자동사·타동사 모두 가능. 목적어로 plan, support, position, alliance, gains 등이 자주 오며, into/around 같은 전치사와 결합해 변화 결과나 중심을 나타낼 수 있습니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~로 굳다/굳히다(상태 변화 결과)",
+        "example": "The mixture solidified into a gel."
+      },
+      {
+        "prep": "around",
+        "meaning_ko": "~을 중심으로 굳어지다(결집하다)",
+        "example": "Support solidified around the proposal."
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 굳다(상태/환경)",
+        "example": "The wax solidified in the mold."
+      }
+    ],
+    "requiredComplements": [
+      "solidify + into + 명사: (…로) 굳다/굳히다",
+      "solidify + around + 명사: (…을 중심으로) 결집하다",
+      "solidify + 계획/입장/지지: 계획·입장·지지를 공고히 하다"
+    ],
+    "morphology": "solid(단단한) + -ify(…하게 만들다) → ‘단단하게 만들다/되다’.",
+    "derivatives": [
+      {
+        "word": "solidification",
+        "meaning_ko": "굳어짐, 고체화; 공고화"
+      },
+      {
+        "word": "solidified",
+        "meaning_ko": "굳어진; 공고해진"
+      },
+      {
+        "word": "solidifying",
+        "meaning_ko": "굳어지는, 공고히 하는"
+      },
+      {
+        "word": "solid",
+        "meaning_ko": "단단한; 고체"
+      },
+      {
+        "word": "solidify",
+        "meaning_ko": "굳히다/굳다; 공고히 하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "harden",
+        "meaning_ko": "단단해지다; 굳히다"
+      },
+      {
+        "word": "consolidate",
+        "meaning_ko": "통합·강화하다; 공고히 하다"
+      },
+      {
+        "word": "stabilize",
+        "meaning_ko": "안정시키다"
+      },
+      {
+        "word": "crystallize",
+        "meaning_ko": "결정화되다; 명확해지다"
+      },
+      {
+        "word": "cement",
+        "meaning_ko": "굳히다; (관계·지위) 확고히 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "harden",
+        "meaning_ko": "굳히다/굳다"
+      },
+      {
+        "word": "congeal",
+        "meaning_ko": "응고하다"
+      },
+      {
+        "word": "consolidate",
+        "meaning_ko": "공고히 하다"
+      },
+      {
+        "word": "firm up",
+        "meaning_ko": "확정·강화하다(구어)"
+      },
+      {
+        "word": "strengthen",
+        "meaning_ko": "강화하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "stiffen",
+        "meaning_ko": "뻣뻣해지다; 굳다"
+      },
+      {
+        "word": "set",
+        "meaning_ko": "(젤·시멘트 등이) 굳다"
+      },
+      {
+        "word": "stabilize",
+        "meaning_ko": "안정화하다"
+      },
+      {
+        "word": "crystallize",
+        "meaning_ko": "형태가 잡히다; 명확해지다"
+      },
+      {
+        "word": "entrench",
+        "meaning_ko": "(제도·관행을) 고착시키다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "melt",
+        "meaning_ko": "녹다/녹이다"
+      },
+      {
+        "word": "liquefy",
+        "meaning_ko": "액화하다"
+      },
+      {
+        "word": "soften",
+        "meaning_ko": "부드러워지다; 누그러뜨리다"
+      },
+      {
+        "word": "weaken",
+        "meaning_ko": "약화시키다"
+      },
+      {
+        "word": "destabilize",
+        "meaning_ko": "불안정하게 만들다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "solidify quickly",
+            "meaning_ko": "빠르게 굳다"
+          },
+          {
+            "phrase": "solidify in the fridge",
+            "meaning_ko": "냉장고에서 굳다"
+          },
+          {
+            "phrase": "solidify into ice",
+            "meaning_ko": "얼음으로 굳다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "solidify a plan",
+            "meaning_ko": "계획을 확정/공고히 하다"
+          },
+          {
+            "phrase": "solidify support",
+            "meaning_ko": "지지를 결집·굳히다"
+          },
+          {
+            "phrase": "solidify an alliance",
+            "meaning_ko": "동맹을 공고히 하다"
+          },
+          {
+            "phrase": "solidify your position",
+            "meaning_ko": "입지/지위를 굳히다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "solidify consensus around a framework",
+            "meaning_ko": "틀을 중심으로 합의를 공고히 하다"
+          },
+          {
+            "phrase": "solidify gains made during the negotiations",
+            "meaning_ko": "협상에서 얻은 성과를 굳히다"
+          },
+          {
+            "phrase": "solidify a narrative through repeated messaging",
+            "meaning_ko": "반복 메시지로 서사를 굳히다"
+          },
+          {
+            "phrase": "solidify institutional control over the process",
+            "meaning_ko": "절차에 대한 제도적 통제를 공고히 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Leave the sauce to cool so it can solidify.",
+            "meaning_ko": "소스가 굳도록 식혀 두세요."
+          },
+          {
+            "sentence": "The wax solidified within minutes.",
+            "meaning_ko": "왁스가 몇 분 안에 굳었습니다."
+          },
+          {
+            "sentence": "The mixture solidified into a rubbery mass.",
+            "meaning_ko": "혼합물이 고무 같은 덩어리로 굳었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "We need one more meeting to solidify the timeline.",
+            "meaning_ko": "일정표를 확정하려면 회의가 한 번 더 필요합니다."
+          },
+          {
+            "sentence": "The candidate toured rural areas to solidify support.",
+            "meaning_ko": "그 후보는 지지를 굳히려고 농촌 지역을 순회했습니다."
+          },
+          {
+            "sentence": "After the merger, the company solidified its market position.",
+            "meaning_ko": "합병 후 그 회사는 시장 내 입지를 공고히 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The committee postponed the vote to solidify consensus around the revised framework.",
+            "meaning_ko": "위원회는 수정된 틀을 중심으로 합의를 공고히하려고 표결을 연기했습니다."
+          },
+          {
+            "sentence": "Repeated, carefully framed statements helped solidify the narrative that the policy was inevitable.",
+            "meaning_ko": "반복적이고 정교하게 구성된 발언이 그 정책이 불가피하다는 서사를 굳히는 데 도움이 됐습니다."
+          },
+          {
+            "sentence": "Unless the interim measures solidify into enforceable rules, the reforms will remain symbolic.",
+            "meaning_ko": "임시 조치가 집행 가능한 규칙으로 굳어지지 않으면 개혁은 상징에 그칠 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "solid(단단한)과 연결해서 ‘굳다/굳히다’로 먼저 잡고, 시험에서는 추상명사(plan, support, position)와 결합할 때 ‘공고히/확정하다’로 번역하는 감각이 중요합니다. 물리적 의미에서는 set/harden와 자주 비교되는데, set은 ‘굳는 과정이 완료되어 고정됨’ 느낌이 더 강합니다.",
+    "tags": [
+      "물질 변화",
+      "계획 확정",
+      "정치·여론",
+      "비즈니스",
+      "추상 의미 확장"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The chocolate will ________ as it cools.",
+            "a": "solidify",
+            "meaning_ko": "식으면서 ‘굳다’가 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence uses 'solidify' correctly?",
+            "a": "The glue solidified after a few minutes.",
+            "meaning_ko": "접착제가 굳는 상황에 맞습니다."
+          },
+          {
+            "q": "Choose the closest meaning: solidify (in cooking) =",
+            "a": "become hard",
+            "meaning_ko": "조리 맥락에서는 ‘굳다/단단해지다’가 핵심입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'solidify': We need to make our plan more definite.",
+            "a": "We need to solidify our plan.",
+            "meaning_ko": "plan과 함께 ‘확정/공고히 하다’로 자주 씁니다."
+          },
+          {
+            "q": "Fill in the blank: Public opinion began to solidify ________ the proposal.",
+            "a": "around",
+            "meaning_ko": "around는 ‘~을 중심으로 결집하다’ 뉘앙스입니다."
+          },
+          {
+            "q": "Choose the best translation: solidify support",
+            "a": "지지를 굳히다",
+            "meaning_ko": "정치/캠페인에서 매우 흔한 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Pick the best word: The interim guidelines must ________ into enforceable rules to have an effect. (solidify / dissolve / scatter)",
+            "a": "solidify",
+            "meaning_ko": "into와 함께 ‘~로 굳어지다’가 논리적으로 맞습니다."
+          },
+          {
+            "q": "Which option most naturally completes the sentence? 'The leadership used repeated messaging to solidify the ________.'",
+            "a": "narrative",
+            "meaning_ko": "narrative(서사)와 함께 ‘서사를 굳히다’는 고급 문맥에서 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The committee solidified on the new framework after debate.'",
+            "a": "The committee solidified around the new framework after debate.",
+            "meaning_ko": "solidify는 보통 on보다 around/into 등의 결합이 자연스럽습니다(결집/결과)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ambivalent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Having mixed feelings or contradictory ideas about something or someone; uncertain.",
+        "definition_ko": "어떤 것에 대해 상반된 감정이나 생각이 공존하는; 양가적인.",
+        "note": "단순히 '관심 없음'이 아니라, 찬성과 반대가 동시에 있어 마음이 갈리는 상태입니다."
+      }
+    ],
+    "concept": "좋다/싫다, 찬성/반대가 동시에 있어 결정을 망설이는 ‘양가감정’ 상태.",
+    "etymology": "라틴계 ambi-(양쪽) + valent(힘이 있는, 가치가 있는)에서 유래해 ‘두 방향으로 힘이 당기는’ 감정을 가리키게 되었습니다.",
+    "semanticExtension": "심리적 양가감정에서 출발해, 태도·정책·결정에 대한 ‘분명히 한쪽을 택하지 못하는’ 상태(불확실/유보)를 표현하는 데 널리 쓰입니다.",
+    "nuanceRegister": "격식·학술·저널리즘에서 특히 흔함. 일상에서도 쓰지만, neutral/indifferent보다 의미가 더 정교합니다.",
+    "grammarNotes": "보통 be ambivalent about/toward(s) + 명사/동명사 형태가 가장 자연스럽습니다. 사람·제안·변화·결혼·이직 등 ‘선택/평가’ 대상과 자주 결합합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 양가적인",
+        "example": "She's ambivalent about moving abroad."
+      },
+      {
+        "prep": "toward",
+        "meaning_ko": "~에 대해(특히 사람/집단) 양가적인",
+        "example": "He feels ambivalent toward his former boss."
+      },
+      {
+        "prep": "towards",
+        "meaning_ko": "~에 대해(영국식 철자) 양가적인",
+        "example": "Voters are ambivalent towards the reform."
+      }
+    ],
+    "requiredComplements": [
+      "be ambivalent about + 명사/동명사: ~에 대해 양가적이다",
+      "be ambivalent toward(s) + 사람/대상: ~에 대해 양가감정을 느끼다",
+      "ambivalent feelings about + 명사: ~에 대한 양가감정"
+    ],
+    "morphology": "ambi-(양쪽) + valent(힘/가치) → ‘두 방향으로 당기는(양가적인)’.",
+    "derivatives": [
+      {
+        "word": "ambivalence",
+        "meaning_ko": "양가감정, 양가성"
+      },
+      {
+        "word": "ambivalently",
+        "meaning_ko": "양가적으로"
+      },
+      {
+        "word": "ambivalent",
+        "meaning_ko": "양가적인"
+      }
+    ],
+    "related": [
+      {
+        "word": "conflicted",
+        "meaning_ko": "갈등하는; 마음이 복잡한"
+      },
+      {
+        "word": "uncertain",
+        "meaning_ko": "확신이 없는"
+      },
+      {
+        "word": "hesitant",
+        "meaning_ko": "망설이는"
+      },
+      {
+        "word": "torn",
+        "meaning_ko": "양쪽 사이에서 갈등하는"
+      },
+      {
+        "word": "mixed",
+        "meaning_ko": "복합적인(감정이 섞인)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "conflicted",
+        "meaning_ko": "양가적/갈등하는"
+      },
+      {
+        "word": "torn",
+        "meaning_ko": "갈팡질팡하는"
+      },
+      {
+        "word": "unsure",
+        "meaning_ko": "확신이 없는"
+      },
+      {
+        "word": "mixed",
+        "meaning_ko": "복합적인"
+      },
+      {
+        "word": "equivocal",
+        "meaning_ko": "모호한; 분명치 않은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "indecisive",
+        "meaning_ko": "우유부단한"
+      },
+      {
+        "word": "hesitant",
+        "meaning_ko": "주저하는"
+      },
+      {
+        "word": "ambiguous",
+        "meaning_ko": "애매한(의미/표현)"
+      },
+      {
+        "word": "neutral",
+        "meaning_ko": "중립적인"
+      },
+      {
+        "word": "skeptical",
+        "meaning_ko": "회의적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decisive",
+        "meaning_ko": "결단력 있는"
+      },
+      {
+        "word": "certain",
+        "meaning_ko": "확신하는"
+      },
+      {
+        "word": "unequivocal",
+        "meaning_ko": "명확한; 단호한"
+      },
+      {
+        "word": "unambiguous",
+        "meaning_ko": "분명한"
+      },
+      {
+        "word": "committed",
+        "meaning_ko": "헌신/확고한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "feel ambivalent",
+            "meaning_ko": "양가감정을 느끼다"
+          },
+          {
+            "phrase": "ambivalent about it",
+            "meaning_ko": "그것에 대해 양가적인"
+          },
+          {
+            "phrase": "ambivalent feelings",
+            "meaning_ko": "양가감정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ambivalent about a decision",
+            "meaning_ko": "결정에 대해 마음이 갈리는"
+          },
+          {
+            "phrase": "ambivalent toward a colleague",
+            "meaning_ko": "동료에 대해 양가적인"
+          },
+          {
+            "phrase": "remain ambivalent",
+            "meaning_ko": "계속 유보적/양가적이다"
+          },
+          {
+            "phrase": "deeply ambivalent",
+            "meaning_ko": "몹시 양가적인"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ambivalent about the trade-offs involved",
+            "meaning_ko": "수반되는 득실에 대해 양가적인"
+          },
+          {
+            "phrase": "an ambivalent response to rapid modernization",
+            "meaning_ko": "급격한 현대화에 대한 양가적 반응"
+          },
+          {
+            "phrase": "public ambivalence toward surveillance measures",
+            "meaning_ko": "감시 조치에 대한 대중의 양가성"
+          },
+          {
+            "phrase": "ambivalent attitude shaped by competing incentives",
+            "meaning_ko": "상충하는 유인으로 형성된 양가적 태도"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I'm ambivalent about the movie.",
+            "meaning_ko": "그 영화에 대해 마음이 반반이에요."
+          },
+          {
+            "sentence": "She felt ambivalent and couldn’t decide.",
+            "meaning_ko": "그녀는 양가감정 때문에 결정을 못 했습니다."
+          },
+          {
+            "sentence": "He’s ambivalent about quitting his job.",
+            "meaning_ko": "그는 직장을 그만두는 것에 대해 마음이 갈립니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Voters are ambivalent about raising taxes to fund the program.",
+            "meaning_ko": "유권자들은 그 사업 재원을 위해 증세하는 것에 양가적입니다."
+          },
+          {
+            "sentence": "I’m ambivalent toward her advice because it helped, but it also hurt my pride.",
+            "meaning_ko": "도움이 되긴 했지만 자존심도 상해서, 나는 그녀의 조언에 양가적입니다."
+          },
+          {
+            "sentence": "The team remains ambivalent, so the decision has been postponed.",
+            "meaning_ko": "팀이 아직 유보적이라 결정이 미뤄졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The report portrays a society ambivalent about rapid technological change, balancing convenience against privacy.",
+            "meaning_ko": "그 보고서는 편의성과 프라이버시 사이에서 줄타기하며 급격한 기술 변화에 양가적인 사회를 그립니다."
+          },
+          {
+            "sentence": "Her ambivalent stance was not indecision but a deliberate attempt to acknowledge legitimate concerns on both sides.",
+            "meaning_ko": "그녀의 양가적 입장은 우유부단이 아니라 양쪽의 정당한 우려를 인정하려는 의도적 시도였습니다."
+          },
+          {
+            "sentence": "Negotiators interpreted his ambivalent wording as a signal that the deal was still reversible.",
+            "meaning_ko": "협상가들은 그의 양가적 표현을 거래가 아직 되돌릴 수 있다는 신호로 해석했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ambivalent는 indifferent(무관심)과 다릅니다. ‘마음이 안 움직이는’ 게 아니라 ‘양쪽으로 동시에 움직여서’ 갈등하는 상태입니다. 시험에서는 about/toward(s) 결합이 매우 정형화되어 있으니, 전치사까지 한 덩어리로 외우시면 안정적입니다.",
+    "tags": [
+      "감정·심리",
+      "의사결정",
+      "태도 표현",
+      "격식 표현",
+      "논설·기사"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'ambivalent'.",
+            "a": "having mixed feelings",
+            "meaning_ko": "양가감정이 핵심입니다."
+          },
+          {
+            "q": "Fill in the blank: I'm ambivalent ________ moving to a new city.",
+            "a": "about",
+            "meaning_ko": "가장 표준 결합은 about입니다."
+          },
+          {
+            "q": "Which sentence sounds natural?",
+            "a": "She is ambivalent about the offer.",
+            "meaning_ko": "offer(제안) 같은 선택 대상과 잘 맞습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest alternative: 'He felt ambivalent toward his mentor.'",
+            "a": "He had mixed feelings toward his mentor.",
+            "meaning_ko": "mixed feelings가 가장 가까운 풀이입니다."
+          },
+          {
+            "q": "Fill in the blank: Public ________ toward the policy remains high, making quick action difficult.",
+            "a": "ambivalence",
+            "meaning_ko": "명사형 ambivalence가 문장 구조에 맞습니다."
+          },
+          {
+            "q": "Choose the best contrast: ambivalent vs indifferent",
+            "a": "ambivalent = conflicting feelings; indifferent = no strong feelings",
+            "meaning_ko": "시험 포인트로 자주 나옵니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'They are ambivalent for the proposal because it saves money.'",
+            "a": "They are ambivalent about the proposal because it saves money.",
+            "meaning_ko": "전치사는 about/toward(s)가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the best completion: 'Her ambivalent stance was an effort to acknowledge concerns on ________ sides.'",
+            "a": "both",
+            "meaning_ko": "양가성은 ‘양쪽 모두’와 논리적으로 연결됩니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'Ambivalence can persist even after the decision is made.'",
+            "a": "Mixed feelings can remain even after you decide.",
+            "meaning_ko": "결정 이후에도 남는 갈등 감정을 말합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "flagrant",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Conspicuously and offensively obvious; especially of wrongdoing or a violation.",
+        "definition_ko": "명백하고도 뻔뻔하게 드러난(특히 잘못·위반이); 악명 높은.",
+        "note": "단순히 obvious가 아니라 ‘노골적이고 용납하기 어려울 정도로 뚜렷한’ 비난 뉘앙스가 강합니다."
+      }
+    ],
+    "concept": "잘못이 너무 노골적·명백해서 ‘눈 감아주기 어려운’ 수준으로 드러난 상태.",
+    "etymology": "라틴어 flagrare(불타다, 타오르다)에서 유래해 ‘불처럼 번쩍 드러나는’ 의미가 발전했고, 현대 영어에서는 ‘노골적으로 드러난(특히 위법·부정)’으로 굳었습니다.",
+    "semanticExtension": "‘타오르듯 눈에 띄다’는 이미지에서 ‘증거가 너무 뚜렷한 위반/무례/부정행위’로 의미가 특화·강화되었습니다.",
+    "nuanceRegister": "격식·법률·저널리즘에서 매우 흔함. 비난/판단이 담긴 단어라 중립적 보고보다 ‘규탄’ 문맥에서 자주 씁니다.",
+    "grammarNotes": "주로 명사 앞 형용사로 씁니다: a flagrant violation/error/abuse/disregard. 사람을 수식하기보다는 행위·위반·오류·권력남용을 수식하는 편이 자연스럽습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 노골적/명백한 (위반·남용)",
+        "example": "a flagrant violation of the rules"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대한 노골적 무시/경멸",
+        "example": "flagrant disregard for safety"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 노골적인(드문 편, 특정 영역 강조)",
+        "example": "flagrant inaccuracy in the report"
+      }
+    ],
+    "requiredComplements": [
+      "a flagrant violation of + 규칙/법: 노골적/명백한 위반",
+      "flagrant disregard for + 명사: ~를 노골적으로 무시함",
+      "flagrant abuse of + 권한/권력: 노골적 권한 남용"
+    ],
+    "morphology": "flagr-(타오르다/번쩍 드러나다) 계열 어근 + -ant(형용사/현재분사적 성격) → ‘(눈에) 확 타오르듯 드러나는’.",
+    "derivatives": [
+      {
+        "word": "flagrantly",
+        "meaning_ko": "노골적으로; 명백히(비난 뉘앙스)"
+      },
+      {
+        "word": "flagrancy",
+        "meaning_ko": "노골성, 명백함(주로 위반의)"
+      },
+      {
+        "word": "flagrant",
+        "meaning_ko": "노골적인; 명백한(특히 위반)"
+      }
+    ],
+    "related": [
+      {
+        "word": "blatant",
+        "meaning_ko": "뻔뻔할 정도로 노골적인"
+      },
+      {
+        "word": "egregious",
+        "meaning_ko": "끔찍하게 나쁜; 현저한(잘못)"
+      },
+      {
+        "word": "glaring",
+        "meaning_ko": "눈에 띄는; 명백한"
+      },
+      {
+        "word": "outrageous",
+        "meaning_ko": "터무니없고 분노를 사는"
+      },
+      {
+        "word": "brazen",
+        "meaning_ko": "뻔뻔한; 대담무쌍한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "blatant",
+        "meaning_ko": "노골적인"
+      },
+      {
+        "word": "glaring",
+        "meaning_ko": "명백한(눈에 띄는)"
+      },
+      {
+        "word": "egregious",
+        "meaning_ko": "아주 심각한(잘못)"
+      },
+      {
+        "word": "brazen",
+        "meaning_ko": "뻔뻔한"
+      },
+      {
+        "word": "outright",
+        "meaning_ko": "명백한; 노골적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "obvious",
+        "meaning_ko": "명백한(중립)"
+      },
+      {
+        "word": "conspicuous",
+        "meaning_ko": "눈에 띄는(중립)"
+      },
+      {
+        "word": "gross",
+        "meaning_ko": "심각한; 엄청난(잘못)"
+      },
+      {
+        "word": "shameless",
+        "meaning_ko": "부끄러움 없는"
+      },
+      {
+        "word": "manifest",
+        "meaning_ko": "명백한(격식)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "subtle",
+        "meaning_ko": "미묘한; 눈에 잘 안 띄는"
+      },
+      {
+        "word": "covert",
+        "meaning_ko": "은밀한"
+      },
+      {
+        "word": "inconspicuous",
+        "meaning_ko": "눈에 띄지 않는"
+      },
+      {
+        "word": "minor",
+        "meaning_ko": "경미한"
+      },
+      {
+        "word": "excusable",
+        "meaning_ko": "변명/용서될 수 있는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "flagrant lie",
+            "meaning_ko": "노골적인 거짓말"
+          },
+          {
+            "phrase": "flagrant mistake",
+            "meaning_ko": "명백한 실수"
+          },
+          {
+            "phrase": "flagrant violation",
+            "meaning_ko": "명백한 위반"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "flagrant disregard for the rules",
+            "meaning_ko": "규칙을 노골적으로 무시함"
+          },
+          {
+            "phrase": "flagrant abuse of power",
+            "meaning_ko": "노골적 권력 남용"
+          },
+          {
+            "phrase": "a flagrant conflict of interest",
+            "meaning_ko": "명백한 이해충돌"
+          },
+          {
+            "phrase": "flagrant plagiarism",
+            "meaning_ko": "노골적 표절"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a flagrant breach of fiduciary duty",
+            "meaning_ko": "신인의무의 노골적 위반"
+          },
+          {
+            "phrase": "flagrant manipulation of the evidence",
+            "meaning_ko": "증거의 노골적 조작"
+          },
+          {
+            "phrase": "a flagrant violation of international humanitarian law",
+            "meaning_ko": "국제인도법의 명백한 위반"
+          },
+          {
+            "phrase": "flagrant disregard for due process",
+            "meaning_ko": "적법절차를 노골적으로 무시함"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It was a flagrant lie.",
+            "meaning_ko": "그건 노골적인 거짓말이었습니다."
+          },
+          {
+            "sentence": "The player was punished for a flagrant foul.",
+            "meaning_ko": "그 선수는 플래그런트 파울로 징계를 받았습니다."
+          },
+          {
+            "sentence": "This is a flagrant violation of the rules.",
+            "meaning_ko": "이건 규칙의 명백한 위반입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report criticized the agency for flagrant disregard for safety standards.",
+            "meaning_ko": "그 보고서는 안전 기준을 노골적으로 무시했다고 그 기관을 비판했습니다."
+          },
+          {
+            "sentence": "The judge called it a flagrant abuse of authority.",
+            "meaning_ko": "판사는 그것을 노골적인 권한 남용이라고 했습니다."
+          },
+          {
+            "sentence": "Even supporters admitted the error was flagrant and hard to defend.",
+            "meaning_ko": "지지자들조차 그 오류가 명백해 변호하기 어렵다고 인정했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The court found that the company’s conduct amounted to a flagrant breach of fiduciary duty.",
+            "meaning_ko": "법원은 그 회사의 행위가 신인의무의 노골적 위반에 해당한다고 판단했습니다."
+          },
+          {
+            "sentence": "Investigators documented a pattern of flagrant manipulation of evidence to mislead regulators.",
+            "meaning_ko": "조사관들은 규제 당국을 속이기 위한 증거 노골적 조작의 패턴을 기록했습니다."
+          },
+          {
+            "sentence": "A single flagrant incident can erode public trust more than years of incremental progress can rebuild.",
+            "meaning_ko": "한 번의 노골적인 사건이 수년의 점진적 성과보다 더 크게 대중의 신뢰를 무너뜨릴 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "flagrant는 ‘명백한’이라는 뜻이지만, 비난이 강하게 묻어나는 단어입니다(특히 violation/abuse/disregard와 함께). blatant/egregious와 함께 묶어서 외우되, flagrant는 ‘위반·부정행위가 노골적’이라는 결합이 가장 안정적입니다.",
+    "tags": [
+      "법·규정",
+      "비난 표현",
+      "저널리즘",
+      "윤리·부정",
+      "평가 어휘"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning of 'flagrant'.",
+            "a": "shockingly obvious and offensive",
+            "meaning_ko": "단순 obvious보다 ‘노골적/비난’이 핵심입니다."
+          },
+          {
+            "q": "Fill in the blank: a flagrant violation ________ the law",
+            "a": "of",
+            "meaning_ko": "violation과는 보통 of가 결합합니다."
+          },
+          {
+            "q": "Which noun most naturally follows 'flagrant'?",
+            "a": "violation",
+            "meaning_ko": "대표 연어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best phrase: 'flagrant ________ for safety'",
+            "a": "disregard",
+            "meaning_ko": "disregard for가 고정 결합에 가깝습니다."
+          },
+          {
+            "q": "Choose the best translation: 'flagrant abuse of power'",
+            "a": "노골적 권력 남용",
+            "meaning_ko": "법/기사 문맥에서 매우 흔합니다."
+          },
+          {
+            "q": "Pick the best synonym in context: 'a flagrant lie'",
+            "a": "a blatant lie",
+            "meaning_ko": "노골적 거짓말로 맥락이 일치합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'The company was accused of a flagrant violation for the policy.'",
+            "a": "The company was accused of a flagrant violation of the policy.",
+            "meaning_ko": "violation은 of와 결합하는 것이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best completion: 'The judge described the conduct as ________ and indefensible.' (flagrant / subtle / tentative)",
+            "a": "flagrant",
+            "meaning_ko": "indefensible(변호 불가)와 의미 결이 맞습니다."
+          },
+          {
+            "q": "Best paraphrase: 'a flagrant breach of duty'",
+            "a": "an obvious and serious violation of duty",
+            "meaning_ko": "breach/violation의 심각성과 명백함을 함께 담습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

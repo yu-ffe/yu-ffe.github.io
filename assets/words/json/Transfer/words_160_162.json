@@ -1,0 +1,988 @@
+[
+  {
+    "word": "ignoble",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Not honorable or noble; characterized by baseness, shame, or a lack of moral integrity.",
+        "definition_ko": "고결하지 않은, 비열한, 수치스러운(명예·도덕성 결여).",
+        "note": "행동·동기·태도를 강하게 비난할 때 쓰는 격식 있는 표현입니다."
+      },
+      {
+        "definition_en": "Of low social rank or humble origin (archaic or literary).",
+        "definition_ko": "(문어) 신분이 낮은, 비천한.",
+        "note": "현대에는 ‘도덕적으로 비열한’ 뜻이 훨씬 더 자주 쓰입니다."
+      },
+      {
+        "definition_en": "Mean-spirited or cowardly, especially in a way that deserves contempt.",
+        "definition_ko": "경멸을 살 만큼 비겁하거나 비정한.",
+        "note": "‘비굴하다’에 가까운 뉘앙스로 쓰이기도 합니다."
+      }
+    ],
+    "concept": "‘고결함(noble)’의 반대편에서, 비열함·수치스러움을 드러내는 형용사",
+    "etymology": "라틴어 ignobilis(‘고귀하지 않은’)에서 왔으며, in-/ig-(부정) + nobilis(고귀한)로 분석됩니다.",
+    "semanticExtension": "원래는 ‘비천한 신분’처럼 사회적 지위를 가리키는 의미가 있었으나, 현대 영어에서는 ‘도덕적으로 비열한/수치스러운’ 평가 의미로 중심이 이동했습니다.",
+    "nuanceRegister": "격식/문어 성향이 있고, 비판·비난의 어조가 강합니다(논평, 기사, 에세이 등).",
+    "grammarNotes": "형용사. 보통 명사 앞(an ignoble act) 또는 보어로(It was ignoble.) 쓰며, ‘It is ignoble of + 사람 + to V’ 구문이 자연스럽습니다. 비교급 more ignoble도 가능하나, 대개 문맥상 강한 평가로 단독 사용이 많습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "(사람의 행위가) 비열하다고 평가할 때",
+        "example": "It was ignoble of him to lie."
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "(상황/행동 양식)에서 비열함이 드러나다",
+        "example": "ignoble in defeat"
+      }
+    ],
+    "requiredComplements": [
+      "It is/was ignoble of + person + to V (…하는 것은 (그 사람에게) 비열하다)",
+      "ignoble + noun (ignoble act/motive/behavior 등: 비열한 행위/동기/행동)"
+    ],
+    "morphology": "ig-/in-(부정) + noble(고귀한)로 이해하면 기억이 쉽습니다(= ‘noble이 아니다’).",
+    "derivatives": [
+      {
+        "word": "ignobly",
+        "meaning_ko": "비열하게, 수치스럽게"
+      },
+      {
+        "word": "ignobility",
+        "meaning_ko": "비열함; 비천함(문어)"
+      },
+      {
+        "word": "ignominious",
+        "meaning_ko": "치욕적인, 수치스러운(가까운 파생·관련형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "nobility",
+        "meaning_ko": "고결함; 귀족(계급)"
+      },
+      {
+        "word": "honor",
+        "meaning_ko": "명예, 도덕적 품위"
+      },
+      {
+        "word": "disgrace",
+        "meaning_ko": "불명예, 치욕"
+      },
+      {
+        "word": "contempt",
+        "meaning_ko": "경멸"
+      },
+      {
+        "word": "cowardice",
+        "meaning_ko": "비겁함"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "dishonorable",
+        "meaning_ko": "불명예스러운, 비열한"
+      },
+      {
+        "word": "base",
+        "meaning_ko": "비열한, 천한"
+      },
+      {
+        "word": "shameful",
+        "meaning_ko": "수치스러운"
+      },
+      {
+        "word": "contemptible",
+        "meaning_ko": "경멸스러운"
+      },
+      {
+        "word": "sordid",
+        "meaning_ko": "추잡한, 저열한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "petty",
+        "meaning_ko": "속 좁은, 치사한"
+      },
+      {
+        "word": "mean",
+        "meaning_ko": "못된, 비정한"
+      },
+      {
+        "word": "ignominious",
+        "meaning_ko": "치욕적인(결과·패배 등)"
+      },
+      {
+        "word": "despicable",
+        "meaning_ko": "비열한, 혐오스러운"
+      },
+      {
+        "word": "low",
+        "meaning_ko": "저급한(도덕적으로)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "noble",
+        "meaning_ko": "고결한, 숭고한"
+      },
+      {
+        "word": "honorable",
+        "meaning_ko": "명예로운"
+      },
+      {
+        "word": "dignified",
+        "meaning_ko": "위엄 있는"
+      },
+      {
+        "word": "upright",
+        "meaning_ko": "정직한, 올곧은"
+      },
+      {
+        "word": "virtuous",
+        "meaning_ko": "덕 있는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "an ignoble act",
+            "meaning_ko": "비열한 행위"
+          },
+          {
+            "phrase": "ignoble behavior",
+            "meaning_ko": "비열한 행동"
+          },
+          {
+            "phrase": "ignoble motives",
+            "meaning_ko": "저열한/비열한 동기"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "an ignoble retreat",
+            "meaning_ko": "수치스러운 퇴각"
+          },
+          {
+            "phrase": "an ignoble defeat",
+            "meaning_ko": "치욕적인 패배"
+          },
+          {
+            "phrase": "an ignoble compromise",
+            "meaning_ko": "원칙을 버린 비열한 타협"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ignoble expedience",
+            "meaning_ko": "비열한 편의주의(당장의 이익을 위한 수단)"
+          },
+          {
+            "phrase": "an ignoble betrayal",
+            "meaning_ko": "비열한 배신"
+          },
+          {
+            "phrase": "an ignoble calculus",
+            "meaning_ko": "비열한 셈법/계산(이익만 따지는 판단)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He apologized, but the ignoble lie had already done the damage.",
+            "meaning_ko": "그는 사과했지만, 비열한 거짓말이 이미 상처를 남겼습니다."
+          },
+          {
+            "sentence": "It was ignoble to mock someone who couldn’t defend himself.",
+            "meaning_ko": "스스로를 지킬 수 없는 사람을 조롱하는 건 비열한 일입니다."
+          },
+          {
+            "sentence": "She refused to take an ignoble shortcut to success.",
+            "meaning_ko": "그녀는 성공을 위해 비열한 지름길을 택하지 않았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The team learned more from an ignoble defeat than from easy wins.",
+            "meaning_ko": "그 팀은 쉬운 승리보다 치욕적인 패배에서 더 많은 것을 배웠습니다."
+          },
+          {
+            "sentence": "An ignoble motive can poison even a well-designed policy.",
+            "meaning_ko": "비열한 동기는 잘 설계된 정책조차 망칠 수 있습니다."
+          },
+          {
+            "sentence": "They called the deal ignoble because it traded justice for comfort.",
+            "meaning_ko": "그들은 정의를 안락함과 맞바꿨다는 이유로 그 거래를 비열하다고 불렀습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "History is harsh on ignoble compromises that silence victims for political peace.",
+            "meaning_ko": "정치적 평화를 위해 피해자를 침묵시키는 비열한 타협에 역사는 가혹합니다."
+          },
+          {
+            "sentence": "In public life, ignoble ambition often masquerades as principle.",
+            "meaning_ko": "공적 영역에서는 비열한 야망이 종종 원칙인 척 가장합니다."
+          },
+          {
+            "sentence": "The report exposed an ignoble calculus behind the reform: profit first, people later.",
+            "meaning_ko": "그 보고서는 개혁 뒤에 숨은 비열한 계산—이익 우선, 사람은 나중—을 드러냈습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ignoble은 ‘도덕적 비열함/수치스러움’을 강하게 평가하는 형용사라서, 단순히 ‘나쁘다’보다 훨씬 공격적인 톤입니다. noble(고결한) 앞에 부정 접두사 in-/ig-가 붙었다고 외우면 형태가 깔끔합니다. 결과의 ‘치욕’에 초점을 두면 ignominious(치욕적인)와도 구분이 쉬워집니다.",
+    "tags": [
+      "도덕",
+      "비난",
+      "격식어",
+      "인격평가",
+      "수치"
+    ],
+    "frequency": "하",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: It was _____ of him to take credit for someone else’s work.",
+            "a": "ignoble",
+            "meaning_ko": "남의 공을 가로채는 행위는 ‘비열한’이라는 평가가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest meaning: ignoble",
+            "a": "dishonorable",
+            "meaning_ko": "ignoble ≈ dishonorable(불명예스러운/비열한)."
+          },
+          {
+            "q": "Which sentence sounds natural? A) an ignoble kindness B) an ignoble act C) an ignoble sunshine D) an ignoble flavor",
+            "a": "B) an ignoble act",
+            "meaning_ko": "ignoble은 ‘행위/동기/행동’처럼 도덕 평가 대상과 잘 어울립니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using the pattern 'It was ignoble of + person + to V': 'He lied to save his image.'",
+            "a": "It was ignoble of him to lie to save his image.",
+            "meaning_ko": "평가를 강조하는 전형 구문으로 자연스럽게 바꿉니다."
+          },
+          {
+            "q": "Fill in the blank: The senator’s _____ motives undermined the speech’s lofty tone.",
+            "a": "ignoble",
+            "meaning_ko": "lofty(고상한)와 대비되는 ‘비열한 동기’가 어울립니다."
+          },
+          {
+            "q": "Pick the best paraphrase: 'an ignoble compromise'",
+            "a": "a shameful deal that abandons principle",
+            "meaning_ko": "원칙을 버린 타협이라는 핵심을 잡아야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best option: 'ignoble expedience' most nearly means A) long-term wisdom B) morally questionable convenience C) scientific accuracy D) ceremonial honor",
+            "a": "B) morally questionable convenience",
+            "meaning_ko": "expedience는 ‘당장의 편의/이익’이며, ignoble이 도덕적 비난을 더합니다."
+          },
+          {
+            "q": "Fill in the blank: The article argues that fear can make otherwise decent people act _____, especially under pressure.",
+            "a": "ignobly",
+            "meaning_ko": "부사형 ignobly(비열하게)가 문장 구조에 맞습니다."
+          },
+          {
+            "q": "Edit for naturalness (keep meaning): 'Their policy was ignoble in the morals.'",
+            "a": "Their policy was ignoble in its morals.",
+            "meaning_ko": "‘in its morals’처럼 소유·관계 표현을 자연스럽게 다듬습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "undo",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To reverse the effect of an action; to cancel or make something as if it had not happened.",
+        "definition_ko": "(한 일을) 되돌리다, 취소하다, 원상 복구하다.",
+        "note": "실수 수정(undo a mistake), 결정 번복(undo a decision), 소프트웨어 ‘되돌리기’ 기능에 매우 흔합니다."
+      },
+      {
+        "definition_en": "To unfasten, untie, or open something that was fastened or tied.",
+        "definition_ko": "(단추·매듭 등을) 풀다, 풀어 헤치다.",
+        "note": "undo your belt/seatbelt, undo the knot처럼 물리적 결속을 푸는 뜻."
+      },
+      {
+        "definition_en": "To ruin or bring about the downfall of someone; to leave someone in a state of failure or distress.",
+        "definition_ko": "(사람을) 망치다, 파멸시키다; 무너지게 하다.",
+        "note": "be undone by ~ (…때문에 파멸하다) 패턴이 특히 자주 보입니다."
+      }
+    ],
+    "concept": "‘한 일을 반대로’ 되돌리거나(취소), ‘묶인 것을 풀어’ 해제하는 동사",
+    "etymology": "고대 영어에서 부정·역전 접두사 un- + do(하다)가 결합해 ‘한 것을 되돌리다’ 의미가 형성되었습니다.",
+    "semanticExtension": "물리적 ‘풀다/해제하다’에서 시작해, 행위·결정의 효과를 ‘취소/원상복구’하는 의미로 확장되었습니다. 현대에는 컴퓨팅에서 ‘Undo(되돌리기)’라는 기능 명칭으로 굳어져, 일상어와 UI 용어가 자연스럽게 겹칩니다. 문어에서는 ‘사람을 파멸시키다’(undo someone) 같은 비유적 확장도 유지됩니다.",
+    "nuanceRegister": "일상어(되돌리다/풀다) + 컴퓨팅 UI 용어(Undo)로 매우 흔합니다. ‘파멸시키다’ 의미는 비교적 문어/문학적입니다.",
+    "grammarNotes": "주로 타동사: undo + 목적어(undo the damage). 과거/과거분사 undone. 관용적으로 'come undone'(풀리다/무너지다)처럼 자동사적으로도 쓰입니다. 명사로는 ‘an undo’보다는 ‘hit/click undo’처럼 기능 자체를 가리키는 용례가 더 흔합니다.",
+    "transitivity": "타동사(주로); 'come undone'는 자동사적 표현",
+    "countability": "가산·불가산 모두(명사로는 컴퓨팅에서 보통 불가산적)",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "(과거분사 undone) ~ 때문에 파멸/실패하다",
+        "example": "He was undone by greed."
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "(~로) 되돌리기/해제하다(도구·수단)",
+        "example": "undo it with a single click"
+      }
+    ],
+    "requiredComplements": [
+      "undo + noun/pronoun (undo a mistake / undo it)",
+      "undo + what/that-clause (undo what you did)",
+      "be undone by + noun (… 때문에 파멸하다/무너지다)"
+    ],
+    "morphology": "un-(되돌림/부정) + do(하다). ‘un-’이 ‘반대로’의 의미를 만든다는 점이 핵심입니다.",
+    "derivatives": [
+      {
+        "word": "undone",
+        "meaning_ko": "풀린; 망가진; (비유) 제정신이 아닌/무너진"
+      },
+      {
+        "word": "undoing",
+        "meaning_ko": "파멸의 원인; (문어) 파멸"
+      },
+      {
+        "word": "undoable",
+        "meaning_ko": "되돌릴 수 있는, 취소 가능한"
+      }
+    ],
+    "related": [
+      {
+        "word": "reverse",
+        "meaning_ko": "되돌리다, 역전시키다"
+      },
+      {
+        "word": "redo",
+        "meaning_ko": "다시 하다"
+      },
+      {
+        "word": "unravel",
+        "meaning_ko": "풀다; (문제·상황이) 풀리다"
+      },
+      {
+        "word": "cancel",
+        "meaning_ko": "취소하다"
+      },
+      {
+        "word": "restore",
+        "meaning_ko": "복원하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "reverse",
+        "meaning_ko": "되돌리다"
+      },
+      {
+        "word": "cancel",
+        "meaning_ko": "취소하다"
+      },
+      {
+        "word": "negate",
+        "meaning_ko": "무효화하다"
+      },
+      {
+        "word": "unfasten",
+        "meaning_ko": "풀다, 잠금을 해제하다"
+      },
+      {
+        "word": "unravel",
+        "meaning_ko": "(실·매듭을) 풀다; (문제) 풀다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "roll back",
+        "meaning_ko": "(변경을) 되돌리다"
+      },
+      {
+        "word": "retract",
+        "meaning_ko": "(발언·주장을) 철회하다"
+      },
+      {
+        "word": "revoke",
+        "meaning_ko": "(허가·권한을) 철회하다"
+      },
+      {
+        "word": "annul",
+        "meaning_ko": "(법적으로) 무효로 하다"
+      },
+      {
+        "word": "reset",
+        "meaning_ko": "초기화하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "do",
+        "meaning_ko": "하다"
+      },
+      {
+        "word": "fasten",
+        "meaning_ko": "잠그다, 고정하다"
+      },
+      {
+        "word": "tie",
+        "meaning_ko": "묶다"
+      },
+      {
+        "word": "cement",
+        "meaning_ko": "굳히다, 확고히 하다"
+      },
+      {
+        "word": "confirm",
+        "meaning_ko": "확정하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "undo a mistake",
+            "meaning_ko": "실수를 되돌리다/수정하다"
+          },
+          {
+            "phrase": "hit/click undo",
+            "meaning_ko": "되돌리기를 누르다"
+          },
+          {
+            "phrase": "undo your seatbelt",
+            "meaning_ko": "안전벨트를 풀다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "undo the damage",
+            "meaning_ko": "피해를 되돌리다/복구하다"
+          },
+          {
+            "phrase": "undo years of work",
+            "meaning_ko": "수년의 노력을 한순간에 허사로 만들다"
+          },
+          {
+            "phrase": "undo the knot",
+            "meaning_ko": "매듭을 풀다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "undo a treaty",
+            "meaning_ko": "조약의 효력을 되돌리다/파기하다"
+          },
+          {
+            "phrase": "be undone by hubris",
+            "meaning_ko": "오만 때문에 파멸하다"
+          },
+          {
+            "phrase": "undo a settlement",
+            "meaning_ko": "합의를 (법적으로) 무효화하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I deleted the wrong file, but I could undo it immediately.",
+            "meaning_ko": "파일을 잘못 지웠지만 바로 되돌릴 수 있었습니다."
+          },
+          {
+            "sentence": "Undo your shoelaces before you start running.",
+            "meaning_ko": "달리기 전에 신발끈을 먼저 푸세요."
+          },
+          {
+            "sentence": "One careless comment can’t undo months of trust.",
+            "meaning_ko": "한 번의 부주의한 말이 몇 달의 신뢰를 전부 되돌릴 순 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The storm undid the repairs we finished last week.",
+            "meaning_ko": "폭풍이 지난주에 끝낸 수리를 도로 망가뜨렸습니다."
+          },
+          {
+            "sentence": "She tried to undo the misunderstanding with a short, clear email.",
+            "meaning_ko": "그녀는 짧고 명확한 이메일로 오해를 풀어 보려 했습니다."
+          },
+          {
+            "sentence": "In the story, the hero is undone by jealousy rather than by enemies.",
+            "meaning_ko": "그 이야기에서 영웅은 적보다 질투 때문에 무너집니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A single leak can undo a carefully constructed negotiation.",
+            "meaning_ko": "단 한 번의 유출이 공들여 쌓은 협상을 무너뜨릴 수 있습니다."
+          },
+          {
+            "sentence": "Courts rarely undo a settlement without strong evidence of coercion.",
+            "meaning_ko": "법원은 강한 강압 증거 없이는 합의를 좀처럼 무효로 하지 않습니다."
+          },
+          {
+            "sentence": "When logs are tampered with, forensic certainty can be undone by doubt.",
+            "meaning_ko": "로그가 조작되면, 포렌식의 확실성이 의심에 의해 무너질 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "undo는 기본적으로 ‘한 일을 되돌리다’이지만, 물리적으로 ‘풀다’(undo your belt)도 매우 자주 쓰입니다. 컴퓨터에서는 ‘Undo(되돌리기)’가 굳어 있어 ‘hit/click undo’가 자연스럽습니다. 반대로 redo는 ‘되돌린 뒤 다시 하기’이므로 둘을 세트로 외우면 헷갈림이 줄어듭니다. 문어에서 ‘be undone by ~’는 ‘~ 때문에 파멸하다/무너지다’로 자주 출제됩니다.",
+    "tags": [
+      "되돌리기",
+      "소프트웨어",
+      "매듭",
+      "실수수정",
+      "취소"
+    ],
+    "frequency": "상",
+    "difficulty": "3",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: I made a typo, but I can _____ it.",
+            "a": "undo",
+            "meaning_ko": "타이포를 ‘되돌리다/수정하다’에 undo가 가장 자연스럽습니다."
+          },
+          {
+            "q": "Choose the correct meaning: 'undo your seatbelt'",
+            "a": "unfasten it",
+            "meaning_ko": "seatbelt는 ‘풀다/해제하다’가 핵심입니다."
+          },
+          {
+            "q": "Which UI action matches 'undo'? A) save B) reverse the last change C) print D) share",
+            "a": "B) reverse the last change",
+            "meaning_ko": "undo는 직전 변경을 되돌립니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite: 'The rumor ruined his career.' (Use 'undone by')",
+            "a": "He was undone by the rumor.",
+            "meaning_ko": "be undone by ~ = ~ 때문에 파멸/실패하다."
+          },
+          {
+            "q": "Fill in the blank: One false move could _____ years of careful planning.",
+            "a": "undo",
+            "meaning_ko": "노력을 ‘허사로 만들다/되돌리다’의 맥락."
+          },
+          {
+            "q": "Pick the best paraphrase: 'undo the damage'",
+            "a": "repair or reverse the harm",
+            "meaning_ko": "damage의 효과를 복구/원상복구한다는 뜻입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best option: In formal writing, 'undo a settlement' most nearly means A) celebrate it B) make it legally ineffective C) summarize it D) delay it politely",
+            "a": "B) make it legally ineffective",
+            "meaning_ko": "settlement을 ‘무효화’한다는 법적 뉘앙스가 강합니다."
+          },
+          {
+            "q": "Fill in the blank: The audit trail was incomplete, so the conclusion was effectively _____ by uncertainty.",
+            "a": "undone",
+            "meaning_ko": "과거분사 undone이 ‘무너지다/효력을 잃다’ 의미로 쓰였습니다."
+          },
+          {
+            "q": "Correct the error: 'He undid from stress after the trial.'",
+            "a": "He came undone from stress after the trial.",
+            "meaning_ko": "'come undone'가 자연스러운 관용 표현이며, 'undo from'은 어색합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mellow",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Pleasantly soft, smooth, or mild in taste, sound, light, or character; not harsh or sharp.",
+        "definition_ko": "(맛·소리·빛·성격이) 부드럽고 은은한, 자극적이지 않은.",
+        "note": "harsh/sharp와 대비되는 ‘각이 없는’ 느낌이 핵심입니다."
+      },
+      {
+        "definition_en": "Relaxed and easygoing; calm and gentle in mood or temperament.",
+        "definition_ko": "차분하고 느긋한, 원만한(성격·기분).",
+        "note": "사람/분위기에 많이 붙고, 구어에서는 ‘mellow vibe’처럼도 씁니다."
+      },
+      {
+        "definition_en": "To become or make something mellow; to soften, ripen, or mature over time.",
+        "definition_ko": "(자동) 부드러워지다/숙성되다; (타동) ~을 부드럽게 만들다, 완화하다.",
+        "note": "wine mellows(자동) / mellow the tone(타동)처럼 둘 다 가능."
+      }
+    ],
+    "concept": "‘각진 것’을 시간·완화로 둥글게 만드는 느낌: 부드럽고 원만해지다/숙성되다",
+    "etymology": "중세 영어 melewe에서 유래한 것으로 보이며, 더 오래된 기원은 확정적으로 합의되지 않았습니다. 초창기에는 ‘익어서 부드러운/무르익은’ 의미가 중심이었습니다.",
+    "semanticExtension": "과일·치즈·와인처럼 ‘익어 부드러워진’ 감각에서 출발해, 소리·조명·문체·분위기처럼 추상 대상의 ‘부드러움/은은함’으로 확장되었습니다. 사람의 성격이나 태도가 ‘원만해지다’라는 의미(나이 들며 mellow with age)도 이 흐름에서 자연스럽게 나옵니다.",
+    "nuanceRegister": "일상어이면서, 음악·분위기 묘사에서는 감성적/구어적 표현으로도 많이 쓰입니다. 타동사 용법(mellow the rhetoric)은 비교적 글쓰기/격식 맥락에서도 흔합니다.",
+    "grammarNotes": "형용사/동사 모두 가능. 형용사 비교급 mellower, 최상급 mellowest. 동사로는 자동사(wine mellows)·타동사(mellow the tone) 모두 가능하며, 구어에서 phrasal verb 'mellow out'(진정하다/느긋해지다)가 매우 흔합니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "세월·경험과 함께 부드러워지다/원만해지다",
+        "example": "mellow with age"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "서서히 ~한 상태로 변하다",
+        "example": "mellow into a warm glow"
+      }
+    ],
+    "requiredComplements": [
+      "mellow + noun (mellow music/flavor/light 등: 부드럽고 은은한 ~)",
+      "mellow with age (세월이 지나 부드러워지다/원만해지다)",
+      "mellow into + state (서서히 ~로 변하다)",
+      "mellow out (긴장이 풀리다/차분해지다)"
+    ],
+    "morphology": "단순 어근형으로, 확실한 접두·접미 분해 정보가 부족합니다(억지 추측 대신 ‘의미 중심’으로 익히는 편이 안전합니다).",
+    "derivatives": [
+      {
+        "word": "mellowness",
+        "meaning_ko": "부드러움, 원만함"
+      },
+      {
+        "word": "mellowed",
+        "meaning_ko": "부드러워진, 숙성된"
+      },
+      {
+        "word": "mellowing",
+        "meaning_ko": "부드러워짐; 숙성(과정)"
+      }
+    ],
+    "related": [
+      {
+        "word": "mild",
+        "meaning_ko": "온화한; 자극이 약한"
+      },
+      {
+        "word": "gentle",
+        "meaning_ko": "부드러운, 상냥한"
+      },
+      {
+        "word": "ripe",
+        "meaning_ko": "익은; 무르익은"
+      },
+      {
+        "word": "soothing",
+        "meaning_ko": "달래주는, 편안하게 하는"
+      },
+      {
+        "word": "mature",
+        "meaning_ko": "성숙한; 숙성된"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "mild",
+        "meaning_ko": "순한, 자극적이지 않은"
+      },
+      {
+        "word": "soft",
+        "meaning_ko": "부드러운"
+      },
+      {
+        "word": "gentle",
+        "meaning_ko": "온화한"
+      },
+      {
+        "word": "smooth",
+        "meaning_ko": "매끄러운; (맛·소리) 부드러운"
+      },
+      {
+        "word": "relaxed",
+        "meaning_ko": "긴장이 풀린, 느긋한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "easygoing",
+        "meaning_ko": "느긋한, 태평한"
+      },
+      {
+        "word": "laid-back",
+        "meaning_ko": "여유로운(구어)"
+      },
+      {
+        "word": "velvety",
+        "meaning_ko": "(질감·소리) 벨벳 같은 부드러운"
+      },
+      {
+        "word": "calm",
+        "meaning_ko": "차분한"
+      },
+      {
+        "word": "low-key",
+        "meaning_ko": "차분한, 과하지 않은"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "harsh",
+        "meaning_ko": "거친, 가혹한"
+      },
+      {
+        "word": "sharp",
+        "meaning_ko": "날카로운; (맛) 톡 쏘는"
+      },
+      {
+        "word": "bitter",
+        "meaning_ko": "쓴; 신랄한"
+      },
+      {
+        "word": "intense",
+        "meaning_ko": "강렬한"
+      },
+      {
+        "word": "tense",
+        "meaning_ko": "긴장한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mellow music",
+            "meaning_ko": "잔잔하고 부드러운 음악"
+          },
+          {
+            "phrase": "a mellow flavor",
+            "meaning_ko": "순하고 은은한 맛"
+          },
+          {
+            "phrase": "mellow out",
+            "meaning_ko": "진정하다, 느긋해지다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "mellow with age",
+            "meaning_ko": "나이/세월과 함께 원만해지다"
+          },
+          {
+            "phrase": "mellow lighting",
+            "meaning_ko": "은은한 조명"
+          },
+          {
+            "phrase": "mellow tones",
+            "meaning_ko": "부드러운 음색/톤"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mellow the rhetoric",
+            "meaning_ko": "수사를 완화하다(공격성을 낮추다)"
+          },
+          {
+            "phrase": "mellow into resignation",
+            "meaning_ko": "체념 쪽으로 서서히 누그러지다"
+          },
+          {
+            "phrase": "the mellowness of style",
+            "meaning_ko": "문체의 원만함/부드러움"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The jazz playlist kept the room mellow.",
+            "meaning_ko": "재즈 플레이리스트가 방 분위기를 부드럽게 유지해 줬습니다."
+          },
+          {
+            "sentence": "This sauce has a mellow flavor, not too salty or sharp.",
+            "meaning_ko": "이 소스는 짜거나 톡 쏘지 않고 은은한 맛입니다."
+          },
+          {
+            "sentence": "You should mellow out before the meeting.",
+            "meaning_ko": "회의 전에 좀 진정하시는 게 좋겠습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The wine mellows with age, losing its harsh edge.",
+            "meaning_ko": "와인은 숙성되며 거친 각이 사라집니다."
+          },
+          {
+            "sentence": "His anger mellowed into a quiet determination.",
+            "meaning_ko": "그의 분노는 조용한 결의로 누그러졌습니다."
+          },
+          {
+            "sentence": "She chose mellow lighting to make the small studio feel warm.",
+            "meaning_ko": "그녀는 작은 스튜디오를 따뜻하게 보이게 하려고 은은한 조명을 골랐습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Time can mellow ideological rigidity into pragmatic cooperation.",
+            "meaning_ko": "시간은 이념적 경직을 실용적 협력으로 누그러뜨릴 수 있습니다."
+          },
+          {
+            "sentence": "The editor asked him to mellow the rhetoric without diluting the argument.",
+            "meaning_ko": "편집자는 논지를 약화시키지 않으면서 수사를 완화해 달라고 요청했습니다."
+          },
+          {
+            "sentence": "The film’s final act is defined by a deliberate mellowness that contrasts with earlier chaos.",
+            "meaning_ko": "그 영화의 마지막 장면은 앞선 혼란과 대비되는 의도적인 ‘원만함/부드러움’이 특징입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "mellow의 핵심은 harsh/sharp의 반대—‘각이 지지 않고 부드럽다’입니다. 맛·소리·조명 같은 감각어로도, 사람의 성격·분위기 같은 추상어로도 자연스럽게 확장됩니다. 구어에서는 mellow out(진정하다/느긋해지다)가 특히 자주 나오니 세트로 익히세요. mild는 ‘자극이 약함’에 더 가깝고, mellow는 ‘부드럽고 은은한 분위기’까지 포함해 더 감성적인 뉘앙스를 가질 때가 많습니다.",
+    "tags": [
+      "분위기",
+      "맛",
+      "성격",
+      "숙성",
+      "음악"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning: mellow (adj.)",
+            "a": "soft and mild",
+            "meaning_ko": "mellow의 기본은 ‘부드럽고 은은한’입니다."
+          },
+          {
+            "q": "Fill in the blank: The café plays _____ music in the afternoon.",
+            "a": "mellow",
+            "meaning_ko": "mellow music은 매우 흔한 연어입니다."
+          },
+          {
+            "q": "Which phrase means 'calm down'? A) mellow out B) mellow up C) mellow over D) mellow in",
+            "a": "A) mellow out",
+            "meaning_ko": "mellow out = 진정하다/느긋해지다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The wine will _____ with age, so don’t judge it too early.",
+            "a": "mellow",
+            "meaning_ko": "자동사로 ‘숙성되어 부드러워지다’가 자연스럽습니다."
+          },
+          {
+            "q": "Rewrite using 'mellow into': 'Her frustration slowly became acceptance.'",
+            "a": "Her frustration mellowed into acceptance.",
+            "meaning_ko": "mellow into는 ‘서서히 ~로 누그러지다’입니다."
+          },
+          {
+            "q": "Choose the best opposite: mellow",
+            "a": "harsh",
+            "meaning_ko": "mellow ↔ harsh(거친/신랄한) 대비가 자주 나옵니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Pick the best option: 'mellow the rhetoric' means A) make it more aggressive B) soften the tone of language C) translate it word-for-word D) remove all evidence",
+            "a": "B) soften the tone of language",
+            "meaning_ko": "rhetoric의 공격성을 ‘완화’하는 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The essay’s _____ contrasts with its uncompromising conclusion.",
+            "a": "mellowness",
+            "meaning_ko": "명사 mellowness(부드러움/원만함)가 문장 구조에 맞습니다."
+          },
+          {
+            "q": "Edit for naturalness: 'He mellowed with the age.'",
+            "a": "He mellowed with age.",
+            "meaning_ko": "with age에서 관사 the는 불필요합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

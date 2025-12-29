@@ -1,0 +1,917 @@
+[
+  {
+    "word": "homonym",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A word that is spelled and/or pronounced the same as another word but has a different meaning.",
+        "definition_ko": "철자나 발음이 같지만 의미가 다른 단어(동형이의어).",
+        "note": "엄밀히는 발음·철자 조건이 학파/사전에 따라 다르며, homophone/homograph와 구분하기도 합니다."
+      },
+      {
+        "definition_en": "A person or thing that shares the same name as another.",
+        "definition_ko": "다른 사람/사물과 같은 이름을 가진 사람/것.",
+        "note": "일상에서는 1번(언어학 용례)이 압도적으로 많이 쓰입니다."
+      }
+    ],
+    "concept": "같은 형태(철자·발음)를 공유하지만 뜻이 다른 ‘이름/단어’ 관계를 가리키는 말입니다.",
+    "etymology": "그리스어 homo-(같은) + onyma/onyma(이름)에서 온 용어로, ‘같은 이름’이라는 뜻에서 언어학적 의미로 정착했습니다.",
+    "semanticExtension": "기본은 언어학 용어이지만, 확장되어 ‘이름이 같은 사람’(namesake에 가까운 의미)을 가리키는 데도 쓰입니다.",
+    "nuanceRegister": "주로 문어·학술(언어학) 레지스터에서 쓰이며, 일상 대화에서는 ‘homophone(동음이의어)’로 더 자주 대체됩니다.",
+    "grammarNotes": "가산명사입니다. 보통 a homonym / homonyms 형태로 쓰고, ‘a homonym of + 단어’처럼 짝을 특정할 수 있습니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 동형이의어(짝/상대 단어를 지칭)",
+        "example": "“bank” is a homonym of “bank” (river bank vs. financial bank)."
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(언어/텍스트) 동형이의어로 나타나는",
+        "example": "homonyms in English"
+      }
+    ],
+    "requiredComplements": [
+      "a homonym (of + another word) : ‘~의 동형이의어’처럼 짝을 of로 특정 가능",
+      "homonyms in + language/text : 특정 언어/텍스트 안의 동형이의어"
+    ],
+    "morphology": "homo-(같은) + -nym(이름/단어). ‘-nym’ 계열은 동의어(synonym), 익명(anonymous) 등 ‘이름/단어’ 의미와 관련됩니다.",
+    "derivatives": [
+      {
+        "word": "homonymous",
+        "meaning_ko": "동형이의(의), 이름이 같은"
+      },
+      {
+        "word": "homonymy",
+        "meaning_ko": "동형이의 관계/현상"
+      }
+    ],
+    "related": [
+      {
+        "word": "homophone",
+        "meaning_ko": "발음은 같고 철자는 다른 동음이의어"
+      },
+      {
+        "word": "homograph",
+        "meaning_ko": "철자는 같고 발음/의미가 다른 단어"
+      },
+      {
+        "word": "polysemy",
+        "meaning_ko": "다의성(한 단어가 관련된 여러 의미를 가짐)"
+      },
+      {
+        "word": "lexicon",
+        "meaning_ko": "어휘(집), 사전적 어휘 체계"
+      },
+      {
+        "word": "ambiguity",
+        "meaning_ko": "모호성, 애매함"
+      }
+    ],
+    "synonyms": [],
+    "nearSynonyms": [
+      {
+        "word": "namesake",
+        "meaning_ko": "동명이인/같은 이름을 딴 사람(완전 동의는 아님)"
+      },
+      {
+        "word": "homophone",
+        "meaning_ko": "동음이의어(발음 동일) (부분 범주)"
+      },
+      {
+        "word": "homograph",
+        "meaning_ko": "동철이의어(철자 동일) (부분 범주)"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "common homonyms",
+            "meaning_ko": "흔한 동형이의어들"
+          },
+          {
+            "phrase": "a homonym pair",
+            "meaning_ko": "동형이의어 한 쌍"
+          },
+          {
+            "phrase": "list of homonyms",
+            "meaning_ko": "동형이의어 목록"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "distinguish homonyms",
+            "meaning_ko": "동형이의어를 구분하다"
+          },
+          {
+            "phrase": "confuse homonyms",
+            "meaning_ko": "동형이의어를 헷갈리다"
+          },
+          {
+            "phrase": "identify a homonym",
+            "meaning_ko": "동형이의어를 식별하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "semantic disambiguation of homonyms",
+            "meaning_ko": "동형이의어 의미 판별(중의성 해소)"
+          },
+          {
+            "phrase": "context resolves a homonym",
+            "meaning_ko": "문맥이 동형이의어의 뜻을 결정하다"
+          },
+          {
+            "phrase": "homonymy versus polysemy",
+            "meaning_ko": "동형이의와 다의성의 구분"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "“Bat” is a homonym: it can mean an animal or a sports tool.",
+            "meaning_ko": "‘bat’은 동형이의어로, 동물 ‘박쥐’ 또는 스포츠 ‘배트’를 뜻할 수 있습니다."
+          },
+          {
+            "sentence": "I keep mixing up homonyms when I read too fast.",
+            "meaning_ko": "너무 빨리 읽으면 동형이의어를 자꾸 헷갈리게 됩니다."
+          },
+          {
+            "sentence": "Our teacher gave us a list of common homonyms to memorize.",
+            "meaning_ko": "선생님이 외우라고 흔한 동형이의어 목록을 주셨습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "In English, “bank” is a classic homonym with unrelated meanings.",
+            "meaning_ko": "영어에서 ‘bank’는 서로 관련 없는 의미를 가진 대표적 동형이의어입니다."
+          },
+          {
+            "sentence": "Context usually tells you which meaning of a homonym is intended.",
+            "meaning_ko": "보통 문맥이 동형이의어의 어떤 뜻이 의도됐는지 알려줍니다."
+          },
+          {
+            "sentence": "When translating, watch out for homonyms that trigger the wrong sense.",
+            "meaning_ko": "번역할 때 잘못된 의미를 불러오는 동형이의어를 특히 조심해야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Natural language systems must disambiguate homonyms using syntactic and semantic cues.",
+            "meaning_ko": "자연어 시스템은 통사·의미 단서를 이용해 동형이의어를 판별해야 합니다."
+          },
+          {
+            "sentence": "The paper argues that homonymy should be separated from polysemy in lexicographic practice.",
+            "meaning_ko": "그 논문은 사전 편찬에서 동형이의와 다의성을 구분해야 한다고 주장합니다."
+          },
+          {
+            "sentence": "A homonym can distort an argument when readers unconsciously switch senses mid‑paragraph.",
+            "meaning_ko": "독자가 문단 중간에 무의식적으로 의미를 바꾸면 동형이의어가 논지를 왜곡할 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "homo-는 ‘같은’이라는 뜻이라서 homonym/homophone/homograph가 한 덩어리로 묶입니다. 시험에서는 ‘homonym(큰 범주) vs homophone(발음 동일) vs homograph(철자 동일)’처럼 범주 구분을 물을 때가 많습니다. 예문을 만들 때는 ‘의미가 전혀 다른 두 뜻’을 한 문장 안에 대비시키면 기억이 잘 남습니다.",
+    "tags": [
+      "언어학",
+      "어휘",
+      "중의성",
+      "동형이의어",
+      "시험어휘"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best definition of “homonym”.\nA) A word with similar meaning to another\nB) A word that shares form (spelling/pronunciation) with another but has a different meaning\nC) A word that has the opposite meaning of another\nD) A word borrowed from another language",
+            "a": "B",
+            "meaning_ko": "homonym은 ‘형태는 같지만 의미가 다른 단어’ 관계를 뜻합니다."
+          },
+          {
+            "q": "Fill in the blank: “Bat” (animal) and “bat” (sports tool) are ______.",
+            "a": "homonyms",
+            "meaning_ko": "같은 철자/발음을 공유하지만 뜻이 다르므로 homonyms가 정답입니다."
+          },
+          {
+            "q": "True or False: A homonym always has the same meaning as the other word.",
+            "a": "False",
+            "meaning_ko": "동형이의어는 의미가 ‘다른’ 것이 핵심입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the pair that is a homonym pair in English.\nA) happy / glad\nB) buy / purchase\nC) bank (river) / bank (financial)\nD) tall / short",
+            "a": "C",
+            "meaning_ko": "C는 형태가 같지만 의미가 다른 전형적인 동형이의어 예시입니다."
+          },
+          {
+            "q": "Choose the best option: Context helps readers ______ a homonym.\nA) dissolve\nB) disambiguate\nC) decorate\nD) duplicate",
+            "a": "B",
+            "meaning_ko": "disambiguate는 ‘중의성을 해소해 의미를 판별하다’라는 뜻으로 문맥과 잘 결합합니다."
+          },
+          {
+            "q": "Which term is MOST specifically about same pronunciation (not necessarily same spelling)?\nA) homonym\nB) homophone\nC) homograph\nD) synonym",
+            "a": "B",
+            "meaning_ko": "homophone은 ‘발음이 같은’ 동음이의어를 가리키는 더 좁은 범주입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In lexicography, why can confusing homonymy with polysemy be problematic? (Answer in one sentence.)",
+            "a": "Because unrelated meanings may be incorrectly grouped as one entry, obscuring sense boundaries and misleading interpretation.",
+            "meaning_ko": "동형이의(무관한 의미)와 다의성(관련된 의미)을 섞으면 사전 의미 구분이 흐려져 해석을 오도할 수 있습니다."
+          },
+          {
+            "q": "Choose the best completion: “Homonymy versus polysemy” concerns whether multiple senses are ______.\nA) historically unrelated or related\nB) spelled differently\nC) always informal\nD) only used in poetry",
+            "a": "A",
+            "meaning_ko": "핵심은 여러 의미가 ‘역사적으로/의미적으로 관련이 있느냐(다의성)’ 아니냐(동형이의)입니다."
+          },
+          {
+            "q": "Rewrite with clearer wording to avoid a homonym-based ambiguity: “He went to the bank to watch the bank.”",
+            "a": "He went to the riverbank to watch the financial bank’s building.",
+            "meaning_ko": "bank의 두 의미가 섞여 애매하므로 riverbank/financial bank처럼 의미를 고정해 줍니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "procure",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To obtain or get something, especially with effort or by official means.",
+        "definition_ko": "특히 노력하거나 공식 절차를 통해 (필요한 것을) 구하다/조달하다.",
+        "note": "get보다 격식 있고, ‘조달·확보’ 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "To bring about or cause something to happen (formal).",
+        "definition_ko": "(격식) 어떤 결과를 야기하다, 초래하다.",
+        "note": "법률·문어체에서 ‘procure a result/advantage’처럼 쓰입니다."
+      }
+    ],
+    "concept": "필요한 물건·자원·정보를 ‘확보/조달’해서 손에 넣는 행위를 가리키는 격식 동사입니다.",
+    "etymology": "라틴어 procurare(돌보다, 관리하다, 확보하다)에서 왔으며, pro-(~을 위해) + curare(돌보다) 계열로 설명됩니다.",
+    "semanticExtension": "‘관리/돌봄을 통해 마련하다’에서 ‘어렵게 구해 오다’로 굳어졌고, 더 나아가 ‘어떤 결과를 만들어내다(초래하다)’라는 문어적 의미로 확장되었습니다.",
+    "nuanceRegister": "문어·공식(행정/비즈니스/법률)에서 자주 쓰입니다. 일상에서는 get/buy/obtain으로 바꿔도 자연스럽지만, procure는 ‘절차·노력·조달’ 뉘앙스를 살립니다.",
+    "grammarNotes": "타동사입니다(procure + 목적어). ‘procure A for B(누구를 위해 A를 조달하다)’, ‘procure A from B(출처로부터 A를 확보하다)’가 흔합니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "A를 B를 위해 조달하다",
+        "example": "procure a permit for a client"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "A를 B로부터 확보/조달하다",
+        "example": "procure rare parts from overseas suppliers"
+      }
+    ],
+    "requiredComplements": [
+      "procure + 명사 : (물건/자원/정보 등을) 조달하다",
+      "procure + 명사 + for + 사람/조직 : ~를 위해 조달하다",
+      "procure + 명사 + from + 출처 : ~로부터 확보하다"
+    ],
+    "morphology": "pro-(~을 위해, 앞으로) + cur(e)/curare 계열(돌보다). 현대 영어에서는 형태 분석보다 ‘procurement(조달)’과 함께 덩어리로 익히는 편이 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "procurement",
+        "meaning_ko": "조달, 구매/조달 업무"
+      },
+      {
+        "word": "procurer",
+        "meaning_ko": "조달하는 사람; (문맥에 따라) 중개인"
+      },
+      {
+        "word": "procurable",
+        "meaning_ko": "구할 수 있는, 조달 가능한"
+      },
+      {
+        "word": "procuration",
+        "meaning_ko": "(격식) 조달/대리행위(문맥 제한적)"
+      }
+    ],
+    "related": [
+      {
+        "word": "supply",
+        "meaning_ko": "공급하다; 공급"
+      },
+      {
+        "word": "source",
+        "meaning_ko": "조달처를 찾다; 출처"
+      },
+      {
+        "word": "authorize",
+        "meaning_ko": "승인하다, 권한을 부여하다"
+      },
+      {
+        "word": "permit",
+        "meaning_ko": "허가(증)"
+      },
+      {
+        "word": "logistics",
+        "meaning_ko": "물류"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "obtain",
+        "meaning_ko": "얻다, 구하다"
+      },
+      {
+        "word": "acquire",
+        "meaning_ko": "획득하다"
+      },
+      {
+        "word": "secure",
+        "meaning_ko": "확보하다"
+      },
+      {
+        "word": "get",
+        "meaning_ko": "얻다(구어)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "buy",
+        "meaning_ko": "사다(단순 구매 중심)"
+      },
+      {
+        "word": "fetch",
+        "meaning_ko": "가서 가져오다"
+      },
+      {
+        "word": "arrange",
+        "meaning_ko": "준비/주선하다(절차 강조)"
+      },
+      {
+        "word": "come by",
+        "meaning_ko": "우연히/어렵게 손에 넣다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "forgo",
+        "meaning_ko": "포기하다, 얻지 않기로 하다"
+      },
+      {
+        "word": "lose",
+        "meaning_ko": "잃다"
+      },
+      {
+        "word": "relinquish",
+        "meaning_ko": "내려놓다, 양도하다"
+      },
+      {
+        "word": "fail to obtain",
+        "meaning_ko": "얻지 못하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "procure supplies",
+            "meaning_ko": "물자를 조달하다"
+          },
+          {
+            "phrase": "procure materials",
+            "meaning_ko": "자재를 조달하다"
+          },
+          {
+            "phrase": "procure equipment",
+            "meaning_ko": "장비를 확보하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "procure funding",
+            "meaning_ko": "자금을 확보하다"
+          },
+          {
+            "phrase": "procure a permit",
+            "meaning_ko": "허가를 받아/확보하다"
+          },
+          {
+            "phrase": "procure evidence",
+            "meaning_ko": "증거를 확보하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "procure goods through formal channels",
+            "meaning_ko": "공식 경로로 물품을 조달하다"
+          },
+          {
+            "phrase": "procure services via competitive bidding",
+            "meaning_ko": "경쟁 입찰로 서비스를 조달하다"
+          },
+          {
+            "phrase": "procure compliance from stakeholders",
+            "meaning_ko": "이해관계자의 협조/준수를 이끌어내다(격식)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Can you procure some batteries for the team?",
+            "meaning_ko": "팀을 위해 배터리를 좀 구해 주실 수 있나요?"
+          },
+          {
+            "sentence": "We procured the materials before the workshop started.",
+            "meaning_ko": "워크숍이 시작되기 전에 자재를 미리 조달했습니다."
+          },
+          {
+            "sentence": "It was hard to procure fresh food during the storm.",
+            "meaning_ko": "폭풍이 치는 동안 신선한 식재료를 구하기가 어려웠습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The clinic procured extra masks to prepare for a surge in patients.",
+            "meaning_ko": "그 진료소는 환자 급증에 대비해 마스크를 추가로 확보했습니다."
+          },
+          {
+            "sentence": "She procured a permit for filming in a protected area.",
+            "meaning_ko": "그녀는 보호 구역에서 촬영할 수 있도록 허가를 받아냈습니다."
+          },
+          {
+            "sentence": "They procured key documents from a reliable source.",
+            "meaning_ko": "그들은 신뢰할 만한 출처로부터 핵심 문서를 확보했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The contract requires the vendor to procure components through audited suppliers only.",
+            "meaning_ko": "계약서는 공급업체가 감사된(검증된) 공급처를 통해서만 부품을 조달하도록 요구합니다."
+          },
+          {
+            "sentence": "By cutting corners, the company procured short‑term savings but damaged its credibility.",
+            "meaning_ko": "편법을 쓰는 바람에 회사는 단기 절감을 얻었지만 신뢰를 훼손했습니다."
+          },
+          {
+            "sentence": "Investigators argued that the intermediary procured the outcome by manipulating the approval process.",
+            "meaning_ko": "조사관들은 그 중개인이 승인 절차를 조작해 결과를 ‘만들어냈다’고 주장했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "procure는 ‘공식적으로/노력해서 확보’ 느낌이라서 obtain/secure보다 더 ‘조달’에 가깝습니다. 자주 나오는 패턴은 procure A for B, procure A from B이므로 전치사까지 같이 외우시는 게 좋습니다. 시험에서는 ‘단순히 get’이 아닌 ‘절차·조달’을 강조하는 문맥(permit, funding, supplies)에서 정답으로 잘 뜹니다.",
+    "tags": [
+      "비즈니스",
+      "행정",
+      "조달",
+      "공식절차",
+      "문어체"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: We need to ______ additional chairs for tomorrow’s meeting.",
+            "a": "procure",
+            "meaning_ko": "‘추가 의자를 확보/조달하다’ 문맥이므로 procure가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest meaning of “procure” in this sentence: “He procured the tickets after calling ten offices.”\nA) lost\nB) obtained\nC) tore\nD) painted",
+            "a": "B",
+            "meaning_ko": "여러 곳에 전화해 ‘어렵게 구했다’는 뜻이므로 obtained가 가장 가깝습니다."
+          },
+          {
+            "q": "True or False: “Procure” is usually more formal than “get.”",
+            "a": "True",
+            "meaning_ko": "procure는 공식·문어체에서 자주 쓰여 get보다 격식 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: The manager procured a license ____ the company.",
+            "a": "for",
+            "meaning_ko": "procure A for B(누구/무엇을 위해 A를 조달하다) 패턴입니다."
+          },
+          {
+            "q": "Pick the best replacement without changing the tone: “The agency procured funding for the project.”\nA) grabbed money\nB) secured funding\nC) stumbled on cash\nD) yelled for money",
+            "a": "B",
+            "meaning_ko": "문어적 톤을 유지하려면 secured funding가 가장 적절합니다."
+          },
+          {
+            "q": "Error correction: “They procured for the client a permit.” (Rewrite naturally.)",
+            "a": "They procured a permit for the client.",
+            "meaning_ko": "영어에서는 목적어를 먼저 두고 for-구를 붙이는 형태가 일반적입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In formal writing, which nuance does “procure” add compared with “buy”? (Answer in one sentence.)",
+            "a": "It emphasizes obtaining through effort, coordination, or official channels rather than a simple purchase.",
+            "meaning_ko": "단순 구매가 아니라 노력·조정·공식 경로로 ‘확보/조달’했다는 뉘앙스를 줍니다."
+          },
+          {
+            "q": "Choose the best completion: The policy prohibits employees from procuring goods ____ undocumented suppliers.\nA) from\nB) with\nC) about\nD) across",
+            "a": "A",
+            "meaning_ko": "출처를 나타내는 전치사는 from이 자연스럽습니다(procure A from B)."
+          },
+          {
+            "q": "Rewrite to be more formal: “We got the documents from a partner company.”",
+            "a": "We procured the documents from a partner company.",
+            "meaning_ko": "get을 procure로 바꿔 문어·공식 톤을 강화한 문장입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "discernible",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Able to be seen, noticed, or recognized; perceptible.",
+        "definition_ko": "알아차릴 수 있는, 인지 가능한; 눈에/귀에 띄는.",
+        "note": "아주 크지 않아도 ‘구분될 정도로’ 드러난다는 뉘앙스입니다."
+      },
+      {
+        "definition_en": "Clearly distinguishable from something else.",
+        "definition_ko": "분명히 구별되는.",
+        "note": "difference/pattern/change 같은 명사와 자주 결합합니다."
+      }
+    ],
+    "concept": "감각이나 판단으로 ‘구분해낼 수 있을 만큼’ 분명하게 드러난 상태를 말합니다.",
+    "etymology": "라틴어 discernere(구별하다, 분리하다)에서 왔고, dis-(떼어) + cernere(가르다/선별하다) 계열 의미가 남아 있습니다.",
+    "semanticExtension": "원래 ‘구별하다(discern)’에서 파생되어, ‘구별될 정도로 드러난(perceptible/recognizable)’ 상태를 나타내는 형용사로 굳었습니다.",
+    "nuanceRegister": "주로 문어·보고서·학술·평가 문맥에서 많이 쓰이며, 일상에서는 noticeable/clear로 바꾸어 말하는 경우가 많습니다.",
+    "grammarNotes": "형용사로서 보통 ‘a discernible difference/change/pattern’처럼 명사를 수식합니다. ‘discernible to + 사람’, ‘discernible in/from + 대상’ 패턴도 자주 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게(그 사람이 인지 가능)",
+        "example": "discernible to the naked eye"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(특징/패턴이 드러남)",
+        "example": "a discernible pattern in the data"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~와 구별되어(차이가 드러남)",
+        "example": "discernible from the background"
+      }
+    ],
+    "requiredComplements": [
+      "discernible to + 사람/감각 : ~에게(눈/귀/관찰자에게) 인지 가능한",
+      "discernible in + 대상/자료 : ~에서 드러나는",
+      "discernible from + 비교대상 : ~와 구별되는"
+    ],
+    "morphology": "discern(구별하다) + -ible(…할 수 있는). 즉 ‘구별할 수 있는 → 알아차릴 수 있는’으로 연결됩니다.",
+    "derivatives": [
+      {
+        "word": "discern",
+        "meaning_ko": "식별하다, 알아차리다"
+      },
+      {
+        "word": "discernment",
+        "meaning_ko": "분별력, 통찰"
+      },
+      {
+        "word": "discerning",
+        "meaning_ko": "분별 있는, 안목 있는"
+      },
+      {
+        "word": "discernibility",
+        "meaning_ko": "인지 가능성, 구별 가능성"
+      },
+      {
+        "word": "indiscernible",
+        "meaning_ko": "구별할 수 없는(반대 개념)"
+      }
+    ],
+    "related": [
+      {
+        "word": "perceive",
+        "meaning_ko": "인지하다, 지각하다"
+      },
+      {
+        "word": "detect",
+        "meaning_ko": "감지하다"
+      },
+      {
+        "word": "evidence",
+        "meaning_ko": "증거, 근거"
+      },
+      {
+        "word": "trend",
+        "meaning_ko": "추세"
+      },
+      {
+        "word": "signal",
+        "meaning_ko": "신호; 신호를 보내다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "perceptible",
+        "meaning_ko": "인지할 수 있는"
+      },
+      {
+        "word": "noticeable",
+        "meaning_ko": "눈에 띄는"
+      },
+      {
+        "word": "detectable",
+        "meaning_ko": "감지 가능한"
+      },
+      {
+        "word": "evident",
+        "meaning_ko": "분명한"
+      },
+      {
+        "word": "distinguishable",
+        "meaning_ko": "구별되는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "apparent",
+        "meaning_ko": "겉으로 드러난, 명백해 보이는"
+      },
+      {
+        "word": "observable",
+        "meaning_ko": "관찰 가능한"
+      },
+      {
+        "word": "clear",
+        "meaning_ko": "분명한(보다 일반어)"
+      },
+      {
+        "word": "tangible",
+        "meaning_ko": "만질 수 있는; 구체적인(비유적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "imperceptible",
+        "meaning_ko": "인지할 수 없는"
+      },
+      {
+        "word": "indistinct",
+        "meaning_ko": "희미한, 불분명한"
+      },
+      {
+        "word": "invisible",
+        "meaning_ko": "보이지 않는"
+      },
+      {
+        "word": "indiscernible",
+        "meaning_ko": "구별할 수 없는"
+      },
+      {
+        "word": "obscure",
+        "meaning_ko": "흐릿한; 난해한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a discernible difference",
+            "meaning_ko": "인지 가능한 차이"
+          },
+          {
+            "phrase": "a discernible change",
+            "meaning_ko": "눈에 띄는 변화"
+          },
+          {
+            "phrase": "a discernible pattern",
+            "meaning_ko": "드러나는 패턴"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a discernible improvement",
+            "meaning_ko": "확연한 개선"
+          },
+          {
+            "phrase": "discernible to the naked eye",
+            "meaning_ko": "육안으로도 구별 가능한"
+          },
+          {
+            "phrase": "a discernible trend in the data",
+            "meaning_ko": "데이터에서 확인되는 추세"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "no discernible impact on performance",
+            "meaning_ko": "성능에 유의미하게 관찰되는 영향이 없음"
+          },
+          {
+            "phrase": "a discernible shift in public sentiment",
+            "meaning_ko": "여론의 뚜렷한 변화"
+          },
+          {
+            "phrase": "discernible from baseline measurements",
+            "meaning_ko": "기준선(베이스라인) 측정치와 구별되는"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "There was a discernible difference in taste after we changed the recipe.",
+            "meaning_ko": "레시피를 바꾼 뒤 맛에서 확실히 느껴질 만한 차이가 있었습니다."
+          },
+          {
+            "sentence": "I saw a discernible change in his attitude this week.",
+            "meaning_ko": "이번 주에 그의 태도에서 눈에 띄는 변화가 보였습니다."
+          },
+          {
+            "sentence": "The outline is faint but still discernible.",
+            "meaning_ko": "윤곽이 희미하지만 그래도 구별할 수는 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The scratch is barely discernible to the naked eye.",
+            "meaning_ko": "그 흠집은 육안으로는 거의 알아차리기 힘듭니다."
+          },
+          {
+            "sentence": "A discernible pattern emerged in the data after we removed the outliers.",
+            "meaning_ko": "이상치를 제거하자 데이터에서 뚜렷한 패턴이 나타났습니다."
+          },
+          {
+            "sentence": "Her accent is discernible in certain vowels, especially when she is tired.",
+            "meaning_ko": "그녀의 억양은 특정 모음에서 드러나는데, 특히 피곤할 때 더 그렇습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Despite extensive optimization, the new approach produced no discernible impact on latency under load.",
+            "meaning_ko": "대대적으로 최적화했지만, 부하 상황에서 새 방식은 지연 시간에 눈에 띄는 영향을 만들지 못했습니다."
+          },
+          {
+            "sentence": "The report notes a discernible shift in consumer behavior following the policy change.",
+            "meaning_ko": "보고서는 정책 변경 이후 소비자 행동에 뚜렷한 변화가 있었다고 지적합니다."
+          },
+          {
+            "sentence": "Only effects discernible from baseline measurements should be treated as meaningful improvements.",
+            "meaning_ko": "기준선 측정치와 구별될 정도로 드러나는 효과만을 의미 있는 개선으로 보아야 합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "discernible은 ‘discern(구별하다)’에서 온 형용사라서 ‘구별될 만큼 보이는/느껴지는’ 뉘앙스가 핵심입니다. 시험에서는 perceptible/noticeable과의 동의 관계로 자주 출제되며, 반의어 indiscernible/imperceptible도 함께 묶여 나옵니다. 패턴은 ‘discernible difference/change/pattern’ 3개를 먼저 고정해 두시면 활용이 매우 쉽습니다.",
+    "tags": [
+      "보고서",
+      "학술",
+      "평가",
+      "인지",
+      "데이터분석"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: There is a ______ difference between the two photos if you look closely.",
+            "a": "discernible",
+            "meaning_ko": "가까이 보면 ‘구별될 정도로’ 차이가 있다는 문맥이므로 discernible이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest synonym of “discernible”.\nA) edible\nB) noticeable\nC) invisible\nD) careless",
+            "a": "B",
+            "meaning_ko": "discernible은 ‘눈에 띄는/인지 가능한’이므로 noticeable이 가장 가깝습니다."
+          },
+          {
+            "q": "True or False: If something is discernible, it cannot be noticed.",
+            "a": "False",
+            "meaning_ko": "discernible은 ‘알아차릴 수 있는’이라는 뜻이므로 정반대입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: The effect was discernible ____ the data but not in the summary chart.",
+            "a": "in",
+            "meaning_ko": "‘데이터 안에서 드러나다’는 in이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the best completion: The logo is discernible ____ the background because of the contrast.\nA) from\nB) by\nC) with\nD) at",
+            "a": "A",
+            "meaning_ko": "비교 대상(배경)과 ‘구별되다’는 from이 가장 적절합니다."
+          },
+          {
+            "q": "Error correction: “The change was discernible to in the results.” (Rewrite correctly.)",
+            "a": "The change was discernible in the results.",
+            "meaning_ko": "discernible in + 결과/자료가 정석 패턴입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: After controlling for noise, only a small but discernible ______ remained.\nA) collapse\nB) shift\nC) sandwich\nD) silence",
+            "a": "B",
+            "meaning_ko": "small but discernible shift(작지만 관찰 가능한 변화)가 자연스러운 결합입니다."
+          },
+          {
+            "q": "Which sentence uses “discernible” MOST appropriately?\nA) The soup is discernible.\nB) She discernible the answer.\nC) There was no discernible improvement after the update.\nD) He bought a discernible yesterday.",
+            "a": "C",
+            "meaning_ko": "discernible은 보통 improvement/difference/change/pattern 같은 명사와 결합해 ‘눈에 띄는’ 의미로 씁니다."
+          },
+          {
+            "q": "Rewrite in a more formal style: “We couldn’t really see any effect on performance.”",
+            "a": "We observed no discernible effect on performance.",
+            "meaning_ko": "보고서 톤에서는 ‘no discernible effect’가 매우 관용적으로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

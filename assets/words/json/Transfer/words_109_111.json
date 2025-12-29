@@ -1,0 +1,866 @@
+[
+  {
+    "word": "diffuse",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To spread or cause something to spread over a wide area; to disperse.",
+        "definition_ko": "(넓게) 퍼지게 하다, 흩뜨리다; (스스로) 퍼지다.",
+        "note": "연기·소문·열·빛·긴장감 등 ‘한곳에 모인 것이 퍼지는’ 상황에 자주 씁니다."
+      },
+      {
+        "definition_en": "Not concentrated or clearly defined; spread out, scattered, or lacking a sharp focus.",
+        "definition_ko": "집중되지 않은; 분산된; (빛/형태가) 또렷하지 않은.",
+        "note": "diffuse light(확산광), diffuse anxiety(막연하게 퍼진 불안)처럼 ‘선명함/집중’의 반대 감각입니다."
+      }
+    ],
+    "concept": "핵심은 ‘한 지점에 모인 것이 넓게 퍼져 희미해지거나 분산되는 상태/행위’입니다.",
+    "etymology": "라틴어 diffundere(‘사방으로 붓다/퍼뜨리다’)에서 유래한 것으로 알려져 있으며, ‘밖으로 흘려 보내다’의 이미지가 현재 의미로 이어집니다.",
+    "semanticExtension": "물리적으로 ‘퍼뜨리다(확산)’가 출발점이고, 비유적으로는 감정·긴장·책임·정보가 ‘분산되어 강도가 약해지는’ 의미로 확장됩니다(예: diffuse tension).",
+    "nuanceRegister": "일상에서도 쓰이지만, 과학/기술(빛·열·가스 확산) 및 문어(정서·서술이 산만함)에서 특히 자주 등장합니다.",
+    "grammarNotes": "동사로는 타동사/자동사 모두 가능합니다: diffuse light(타), heat diffuses through metal(자). 형용사로는 ‘확산된/분산된/산만한’ 의미로 명사 앞에 자주 옵니다(diffuse glow, diffuse narrative). confuse와 형태가 비슷하니 철자·의미 혼동 주의하세요.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "through",
+        "meaning_ko": "‘~을 통해 퍼지다/확산되다’",
+        "example": "Heat diffuses through metal."
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "‘~로 퍼져 들어가다’",
+        "example": "The dye diffused into the fabric."
+      },
+      {
+        "prep": "across",
+        "meaning_ko": "‘~ 전역으로 퍼지다’",
+        "example": "News diffused across the campus."
+      }
+    ],
+    "requiredComplements": [
+      "diffuse + N (light/heat/tension) : 빛·열·긴장 등을 확산시키다/누그러뜨리다",
+      "N diffuses through/into/across + 장소 : ~을 통해/로/전역으로 퍼지다",
+      "diffuse + abstract N (fear/rumor) : 두려움/소문이 넓게 퍼지다(문맥에 따라 자동/타동 모두 가능)"
+    ],
+    "morphology": "di-(사방으로) + fuse/ fund(‘붓다/흘리다’ 계열 어근)로 ‘사방으로 퍼지다’의 감각을 잡아두면 의미가 안정적입니다.",
+    "derivatives": [
+      {
+        "word": "diffusion",
+        "meaning_ko": "확산; (학술) 확산 과정"
+      },
+      {
+        "word": "diffusely",
+        "meaning_ko": "분산되어; 희미하게(부사)"
+      },
+      {
+        "word": "diffuseness",
+        "meaning_ko": "산만함; 분산됨(문어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "disperse",
+        "meaning_ko": "흩뜨리다; 분산시키다"
+      },
+      {
+        "word": "scatter",
+        "meaning_ko": "흩뿌리다; 산재시키다"
+      },
+      {
+        "word": "dilute",
+        "meaning_ko": "희석하다; 약화시키다"
+      },
+      {
+        "word": "radiate",
+        "meaning_ko": "방사하다; 퍼지다(방사형)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "disperse",
+        "meaning_ko": "흩뜨리다; 퍼뜨리다"
+      },
+      {
+        "word": "spread",
+        "meaning_ko": "퍼뜨리다; 퍼지다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "dilute",
+        "meaning_ko": "희석하다; (비유) 약화시키다"
+      },
+      {
+        "word": "dissipate",
+        "meaning_ko": "흩어져 사라지다; (긴장) 가라앉다"
+      },
+      {
+        "word": "defuse",
+        "meaning_ko": "(폭탄/갈등) 해체하다; 누그러뜨리다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "concentrate",
+        "meaning_ko": "집중시키다; 농축하다"
+      },
+      {
+        "word": "condense",
+        "meaning_ko": "응축하다; (글을) 압축하다"
+      },
+      {
+        "word": "intensify",
+        "meaning_ko": "강화하다; 심화하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "diffuse light",
+            "meaning_ko": "확산된 빛; 부드러운 빛"
+          },
+          {
+            "phrase": "a diffuse glow",
+            "meaning_ko": "은은하게 퍼지는 빛"
+          },
+          {
+            "phrase": "diffuse heat",
+            "meaning_ko": "고르게 퍼진 열"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "diffuse tension",
+            "meaning_ko": "긴장을 누그러뜨리다/분산시키다"
+          },
+          {
+            "phrase": "diffuse anxiety",
+            "meaning_ko": "막연하게 퍼진 불안"
+          },
+          {
+            "phrase": "diffuse into the air",
+            "meaning_ko": "공기 중으로 확산되다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "diffuse responsibility across the team",
+            "meaning_ko": "책임을 팀 전체로 분산시키다"
+          },
+          {
+            "phrase": "diffuse narrative structure",
+            "meaning_ko": "산만하게 퍼진 서술 구조"
+          },
+          {
+            "phrase": "diffuse the conflict before it escalates",
+            "meaning_ko": "갈등이 격화되기 전에 누그러뜨리다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The perfume quickly diffused through the room.",
+            "meaning_ko": "향수 냄새가 방 전체로 금세 퍼졌다."
+          },
+          {
+            "sentence": "A sheer curtain can diffuse harsh sunlight.",
+            "meaning_ko": "얇은 커튼은 강한 햇빛을 부드럽게 확산시킬 수 있다."
+          },
+          {
+            "sentence": "There was a diffuse glow in the fog.",
+            "meaning_ko": "안개 속에 은은하게 퍼지는 빛이 있었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He made a joke to diffuse the tension in the meeting.",
+            "meaning_ko": "그는 회의의 긴장을 누그러뜨리려고 농담을 했다."
+          },
+          {
+            "sentence": "Heat diffuses more slowly in some materials than in others.",
+            "meaning_ko": "열은 어떤 재료에서는 다른 재료보다 더 천천히 확산된다."
+          },
+          {
+            "sentence": "The policy aims to diffuse risk across multiple suppliers.",
+            "meaning_ko": "그 정책은 위험을 여러 공급사로 분산시키는 것을 목표로 한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In the essay, a diffuse argument weakens the author’s claim by scattering attention across too many points.",
+            "meaning_ko": "그 에세이에서는 산만한 논지가 관심을 너무 많은 지점으로 흩뜨려 저자의 주장을 약화시킨다."
+          },
+          {
+            "sentence": "Rather than assign clear ownership, the organization diffused responsibility, making failures hard to trace.",
+            "meaning_ko": "조직은 명확한 책임을 부여하기보다 책임을 분산시켜 실패의 원인을 추적하기 어렵게 만들었다."
+          },
+          {
+            "sentence": "The report warned that misinformation can diffuse rapidly through loosely moderated networks.",
+            "meaning_ko": "그 보고서는 느슨하게 관리되는 네트워크를 통해 허위정보가 빠르게 확산될 수 있다고 경고했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "diffuse는 ‘퍼져서 희미해진다’가 핵심입니다(빛·열·냄새·소문). confuse(혼란시키다)와 자주 헷갈리니, diffuse = 퍼뜨리다/분산, confuse = 헷갈리게 하다로 대비하세요. 독해에서 diffuse가 형용사로 나오면 ‘집중이 안 된/산만한’ 의미(논지·불안 등)로 읽히는지 먼저 점검하면 오해를 줄일 수 있습니다.",
+    "tags": [
+      "확산",
+      "빛·열",
+      "감정",
+      "문어",
+      "과학"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'diffuse' (verb): (A) to tighten (B) to spread widely (C) to praise loudly (D) to calculate",
+            "a": "B",
+            "meaning_ko": "diffuse(동사)는 ‘퍼뜨리다/확산시키다’입니다."
+          },
+          {
+            "q": "Fill in the blank: The smell diffused _____ the hallway.",
+            "a": "through",
+            "meaning_ko": "diffuse through(…을 통해 퍼지다)가 대표 패턴입니다."
+          },
+          {
+            "q": "Which collocation is most natural? (A) diffuse light (B) diffuse refrigerator (C) diffuse arithmetic (D) diffuse triangle",
+            "a": "A",
+            "meaning_ko": "diffuse light(확산광)가 대표 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the closest synonym: diffuse ≈ (A) disperse (B) condense (C) intensify (D) confine",
+            "a": "A",
+            "meaning_ko": "disperse(분산시키다)가 가장 가깝습니다."
+          },
+          {
+            "q": "In 'a diffuse argument,' 'diffuse' most nearly means _____.",
+            "a": "not focused and spread over too many points",
+            "meaning_ko": "형용사 diffuse는 ‘집중되지 않고 산만한’ 의미가 됩니다."
+          },
+          {
+            "q": "Choose the best completion: The manager tried to diffuse the tension _____ a calm explanation. (A) with (B) at (C) over (D) into",
+            "a": "with",
+            "meaning_ko": "수단을 나타내는 with가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'The rumor diffused to the office quickly.' → Rewrite with a more natural preposition.",
+            "a": "The rumor diffused through the office quickly.",
+            "meaning_ko": "확산은 through/across/in 등으로 더 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best contrast: To diffuse responsibility is the opposite of _____ responsibility. (A) assigning (B) scattering (C) diluting (D) diffusing",
+            "a": "assigning",
+            "meaning_ko": "diffuse responsibility(분산) ↔ assign responsibility(명확히 부여) 대비입니다."
+          },
+          {
+            "q": "Which sentence best uses 'diffuse' as an adjective? (A) The lamp diffused. (B) We bought a diffuse. (C) A diffuse haze softened the skyline. (D) She diffuse the plan.",
+            "a": "C",
+            "meaning_ko": "diffuse haze(희미하게 퍼진 안개)처럼 형용사 용법이 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "effeminate",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Having or showing traits that are traditionally associated with women, especially in a man; often used critically.",
+        "definition_ko": "(특히 남성에 대해) 여성적이라고 여겨지는 특징을 보이는; (대개) 비하적으로 쓰이는.",
+        "note": "사람을 평가하는 말이라 뉘앙스가 민감할 수 있습니다. 문맥상 모욕/편견을 드러내는 표현으로 등장하기도 합니다."
+      },
+      {
+        "definition_en": "To make someone or something weaker or less vigorous by encouraging softness or luxury (rare in modern use).",
+        "definition_ko": "(사람/풍조 등을) 나약하게 만들다, 연약하게 하다(현대에는 동사로는 드묾).",
+        "note": "고전/문어에서 ‘사치·안일함이 사람/국가를 effeminate한다’처럼 ‘기개를 약화시키다’ 의미가 나옵니다."
+      }
+    ],
+    "concept": "현대 핵심은 ‘(사회적 고정관념 기준) 여성적으로 보인다고 평가하는 말’이며, 종종 비하·편견의 뉘앙스를 띱니다.",
+    "etymology": "라틴어 effeminatus(‘여성처럼 된’) 계열에서 유래한 것으로 알려져 있으며, 역사적으로 ‘남성다움의 결여/나약함’ 같은 가치 판단이 함께 묻어 왔습니다.",
+    "semanticExtension": "‘여성처럼’이라는 표면 의미가 사회적 규범과 결합해 ‘남성성이 부족하다/나약하다’라는 평가로 확장·고정되었고, 현대에는 편견적/모욕적 사용 가능성 때문에 사용에 주의가 필요합니다.",
+    "nuanceRegister": "문어·비평에서 보이지만, 일상에서 사람을 직접 지칭하면 공격적으로 들릴 수 있습니다. 독해에서는 화자의 편견, 사회 규범, 젠더 규정의 문제를 드러내는 신호로 자주 쓰입니다.",
+    "grammarNotes": "형용사로 사람/행동/말투 등을 수식합니다(effeminate manner, effeminate voice). 동사 effeminate는 현대 일상에서는 거의 쓰지 않고, 보통 make someone effeminate 같은 형태로 문어적으로 등장합니다. 대체 표현(‘delicate’, ‘soft-spoken’ 등)이 맥락에 따라 더 중립적일 수 있습니다.",
+    "transitivity": "타동사(동사 의미 사용 시)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "‘~에서 여성적으로 보이는’(특징/태도)",
+        "example": "effeminate in his gestures"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "‘~로 인해/점 때문에 여성적이라 여겨지는’",
+        "example": "effeminate for his soft voice"
+      }
+    ],
+    "requiredComplements": [
+      "effeminate + N (manner/voice/gestures) : 여성적으로 보이는 태도/말투/몸짓",
+      "be labeled/called effeminate : ‘여성적이다’라고 낙인찍히다/불리다",
+      "effeminate + 사람/집단(동사, 문어) : ~을 나약하게 만들다"
+    ],
+    "morphology": "e(ex-, 밖으로) + feminine(여성의) 계열 어근 감각으로 ‘여성 쪽으로 기울어짐’이라는 형태적 힌트는 있으나, 실제 사용에서는 ‘평가/낙인’ 뉘앙스 관리가 더 중요합니다.",
+    "derivatives": [
+      {
+        "word": "effeminacy",
+        "meaning_ko": "여성스러움(특히 남성에 대한 평가적 표현)"
+      },
+      {
+        "word": "effeminately",
+        "meaning_ko": "여성스럽게(대개 평가적)"
+      }
+    ],
+    "related": [
+      {
+        "word": "feminine",
+        "meaning_ko": "여성의; 여성적인(비교적 중립)"
+      },
+      {
+        "word": "delicate",
+        "meaning_ko": "섬세한; 여린(문맥 의존)"
+      },
+      {
+        "word": "soft-spoken",
+        "meaning_ko": "말을 부드럽게 하는"
+      },
+      {
+        "word": "stereotype",
+        "meaning_ko": "고정관념"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "womanish",
+        "meaning_ko": "여자 같은(비하적일 수 있음)"
+      },
+      {
+        "word": "unmanly",
+        "meaning_ko": "남자답지 못한(가치 판단 포함)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "feminine",
+        "meaning_ko": "여성적인(상대적으로 중립)"
+      },
+      {
+        "word": "delicate",
+        "meaning_ko": "여린; 섬세한(가치 판단 약함)"
+      },
+      {
+        "word": "gentle",
+        "meaning_ko": "부드러운; 온화한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "masculine",
+        "meaning_ko": "남성적인"
+      },
+      {
+        "word": "manly",
+        "meaning_ko": "남자다운(가치 판단 포함)"
+      },
+      {
+        "word": "rugged",
+        "meaning_ko": "거칠고 강인한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "an effeminate manner",
+            "meaning_ko": "여성적으로 보이는 태도"
+          },
+          {
+            "phrase": "effeminate gestures",
+            "meaning_ko": "여성적으로 보이는 몸짓"
+          },
+          {
+            "phrase": "an effeminate voice",
+            "meaning_ko": "여성적으로 들리는 목소리"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "be labeled effeminate",
+            "meaning_ko": "‘여성적’이라고 낙인찍히다"
+          },
+          {
+            "phrase": "effeminate stereotypes",
+            "meaning_ko": "여성적이라는 고정관념(편견)"
+          },
+          {
+            "phrase": "an effeminate portrayal",
+            "meaning_ko": "여성적으로 과장된 묘사/연출"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "effeminate as a term of ridicule",
+            "meaning_ko": "조롱의 말로서의 effeminate"
+          },
+          {
+            "phrase": "policing effeminate behavior",
+            "meaning_ko": "‘여성적’ 행동을 통제/단속하다(비판 문맥)"
+          },
+          {
+            "phrase": "effeminate in the eyes of the public",
+            "meaning_ko": "대중의 시선에서 여성적으로 보이는"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Some classmates mocked him as effeminate because he spoke softly.",
+            "meaning_ko": "일부 반 친구들은 그가 말투가 부드럽다는 이유로 그를 ‘여성적’이라며 놀렸다."
+          },
+          {
+            "sentence": "The actor avoided an effeminate caricature and played the role with nuance.",
+            "meaning_ko": "그 배우는 여성적으로 과장된 희화화를 피하고 미묘한 연기로 역할을 소화했다."
+          },
+          {
+            "sentence": "He worried that his gestures looked effeminate on camera.",
+            "meaning_ko": "그는 카메라에서 자신의 몸짓이 여성적으로 보일까 걱정했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The article argues that calling boys effeminate reinforces harmful gender stereotypes.",
+            "meaning_ko": "그 글은 남자아이를 ‘여성적’이라 부르는 것이 해로운 성별 고정관념을 강화한다고 주장한다."
+          },
+          {
+            "sentence": "In some cultures, anything seen as effeminate is unfairly treated as weakness.",
+            "meaning_ko": "일부 문화에서는 여성적으로 보이는 모든 것이 부당하게 ‘약함’으로 취급된다."
+          },
+          {
+            "sentence": "Luxury, the historian wrote, could effeminate a ruling class over generations.",
+            "meaning_ko": "역사가가 쓰길, 사치는 세대에 걸쳐 지배계층을 나약하게 만들 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The novelist used the insult 'effeminate' to expose the speaker’s insecurity rather than to describe the target accurately.",
+            "meaning_ko": "그 소설가는 ‘effeminate’라는 모욕을 통해 대상의 성격이 아니라 말하는 이의 불안을 드러냈다."
+          },
+          {
+            "sentence": "A policy of punishing 'effeminate' behavior, critics warned, would legitimize bullying under the guise of discipline.",
+            "meaning_ko": "비평가들은 ‘여성적’ 행동을 처벌하는 정책이 훈육을 빌미로 괴롭힘을 정당화할 것이라 경고했다."
+          },
+          {
+            "sentence": "The debate turned on whether 'effeminate' is a descriptive label or a moral judgment disguised as description.",
+            "meaning_ko": "그 논쟁은 ‘effeminate’가 단순한 묘사인지, 묘사인 척하는 도덕적 판단인지에 달려 있었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "effeminate는 의미 자체보다 ‘어떤 태도로 쓰였는가’가 중요합니다. 독해에서 이 단어가 나오면 화자의 편견/모욕/고정관념을 드러내는 장치일 수 있으니, 단순히 ‘여성적’이라고 번역하고 끝내지 말고 평가적 뉘앙스를 같이 읽으세요. 보다 중립적인 표현이 필요한 문맥에서는 feminine, gentle, soft-spoken 등으로 대체되는 경우가 많습니다.",
+    "tags": [
+      "성격묘사",
+      "젠더",
+      "편견",
+      "비판적 독해",
+      "문어"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'effeminate': (A) extremely loud (B) showing traits traditionally seen as feminine (often criticized) (C) made of metal (D) very hungry",
+            "a": "B",
+            "meaning_ko": "effeminate는 ‘(특히 남성에 대해) 여성적으로 보인다고 평가/비하하는’ 뜻입니다."
+          },
+          {
+            "q": "Which collocation is most natural? (A) effeminate gestures (B) effeminate geology (C) effeminate oxygen (D) effeminate arithmetic",
+            "a": "A",
+            "meaning_ko": "gestures/voice/manner와 자주 결합합니다."
+          },
+          {
+            "q": "True or False: 'effeminate' is always a neutral, compliment-like description.",
+            "a": "False",
+            "meaning_ko": "대개 비하/편견 뉘앙스를 띨 수 있어 사용에 주의가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "In context, 'He was labeled effeminate at school' most nearly implies _____.",
+            "a": "others judged him by gender stereotypes and mocked or criticized him",
+            "meaning_ko": "단순 묘사라기보다 낙인/조롱의 뉘앙스가 동반될 수 있습니다."
+          },
+          {
+            "q": "Choose the closest (but still potentially negative) synonym: effeminate ≈ (A) unmanly (B) salubrious (C) veracious (D) bilateral",
+            "a": "A",
+            "meaning_ko": "unmanly는 비슷한 가치 판단을 포함하는 표현입니다."
+          },
+          {
+            "q": "Choose the best completion: The essay criticizes how society polices boys _____ being 'too effeminate.' (A) for (B) into (C) at (D) over",
+            "a": "for",
+            "meaning_ko": "for는 ‘~ 때문에’의 이유를 자연스럽게 연결합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'He effeminate in his manner.' → Fix the grammar.",
+            "a": "He is effeminate in his manner.",
+            "meaning_ko": "형용사이므로 be동사와 함께 써야 자연스럽습니다."
+          },
+          {
+            "q": "Nuance question: In critical writing, using 'effeminate' as an insult often reveals the speaker’s _____.",
+            "a": "bias or insecurity",
+            "meaning_ko": "이 단어는 ‘묘사’보다 ‘낙인’으로 쓰여 화자의 편견을 드러낼 수 있습니다."
+          },
+          {
+            "q": "Which alternative is usually more neutral than 'effeminate' when describing a voice? (A) soft-spoken (B) unmanly (C) contemptible (D) boorish",
+            "a": "soft-spoken",
+            "meaning_ko": "soft-spoken은 ‘말투가 부드러운’ 중립적 표현입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vane",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A flat device that turns with the wind and shows its direction, often mounted on a roof (weather vane).",
+        "definition_ko": "풍향계의 날개/판(바람 방향에 따라 돌아가 방향을 알려주는 장치).",
+        "note": "weather vane(풍향계)로 가장 흔하게 접합니다."
+      },
+      {
+        "definition_en": "The flat surface of a feather or fin; the broad part that catches air or water.",
+        "definition_ko": "(깃털의) 깃면/깃판; (지느러미 등의) 넓적한 판 부분.",
+        "note": "생물/해부·조류 관련 문맥에서 ‘feather vane’처럼 나옵니다."
+      }
+    ],
+    "concept": "‘바람을 받아 방향을 보여 주는 판(풍향계)’ → 확장해 ‘깃털/지느러미의 넓적한 판 부분’으로 이해하면 됩니다.",
+    "etymology": "게르만계/중세 영어권에서 ‘날개, 깃발, 판’ 같은 의미 영역과 연결되어 발전한 단어로 알려져 있으며, ‘바람을 받는 판’이라는 기능적 이미지가 핵심입니다.",
+    "semanticExtension": "기본은 ‘바람에 반응해 돌아가는 판’이고, 유사한 형태/기능(공기·물의 흐름을 받는 넓은 면) 때문에 깃털·지느러미의 ‘판(깃면)’으로 의미가 확장되었습니다.",
+    "nuanceRegister": "weather vane은 일상/설명문에서 흔하고, 깃털 의미는 생물/전문 문맥에서 상대적으로 드뭅니다.",
+    "grammarNotes": "가산명사이며 보통 a vane, the vane처럼 씁니다. 가장 익숙한 결합은 weather vane입니다. vein(정맥), vane(풍향계), vain(허영심)처럼 발음/철자가 비슷한 단어들이 있어 혼동 주의하세요.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "‘~ 위에 설치된 풍향계/날개’",
+        "example": "a weather vane on the roof"
+      },
+      {
+        "prep": "atop",
+        "meaning_ko": "‘~ 꼭대기에’(문어적)",
+        "example": "a vane atop the barn"
+      }
+    ],
+    "requiredComplements": [
+      "weather vane : 풍향계",
+      "a vane on/atop + 장소 : ~ 위/꼭대기에 있는 풍향계(날개)",
+      "the vane of a feather : 깃털의 깃면/깃판"
+    ],
+    "morphology": "짧은 단어라 형태 분석보다 ‘weather vane = 풍향계’ 덩어리와, vain/vein과의 철자 대비를 함께 고정하는 것이 실전적입니다.",
+    "derivatives": [
+      {
+        "word": "vaned",
+        "meaning_ko": "날개/판이 있는(형용사, 문어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "wind sock",
+        "meaning_ko": "풍향풍속계의 바람자루"
+      },
+      {
+        "word": "compass",
+        "meaning_ko": "나침반"
+      },
+      {
+        "word": "feather",
+        "meaning_ko": "깃털"
+      },
+      {
+        "word": "fin",
+        "meaning_ko": "지느러미"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "weather vane",
+        "meaning_ko": "풍향계(동일 대상)"
+      },
+      {
+        "word": "wind vane",
+        "meaning_ko": "풍향계(동일 대상)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "indicator",
+        "meaning_ko": "지시기; 표시 장치"
+      },
+      {
+        "word": "marker",
+        "meaning_ko": "표식; 표시물"
+      },
+      {
+        "word": "flap",
+        "meaning_ko": "펄럭이는 부분/덮개(완전 동의는 아님)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "anchor",
+        "meaning_ko": "고정 장치(움직이지 않게 함)"
+      },
+      {
+        "word": "stabilizer",
+        "meaning_ko": "안정 장치(흔들림 억제)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "weather vane",
+            "meaning_ko": "풍향계"
+          },
+          {
+            "phrase": "wind vane",
+            "meaning_ko": "풍향계"
+          },
+          {
+            "phrase": "a vane on the roof",
+            "meaning_ko": "지붕 위 풍향계"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a rooster-shaped vane",
+            "meaning_ko": "수탉 모양 풍향계(장식)"
+          },
+          {
+            "phrase": "the vane points north",
+            "meaning_ko": "풍향계 날개가 북쪽을 가리키다"
+          },
+          {
+            "phrase": "a broken vane",
+            "meaning_ko": "부러진/고장 난 풍향계 날개"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "read the vane against the wind",
+            "meaning_ko": "바람을 보며 풍향계를 읽다(설명문)"
+          },
+          {
+            "phrase": "the vane of a flight feather",
+            "meaning_ko": "비행깃의 깃면(전문)"
+          },
+          {
+            "phrase": "a vane as a symbol of shifting winds",
+            "meaning_ko": "변덕/변화의 상징으로서 풍향계"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "A weather vane sat on top of the old church.",
+            "meaning_ko": "낡은 교회 꼭대기에 풍향계가 있었다."
+          },
+          {
+            "sentence": "The vane turned slowly as the wind changed.",
+            "meaning_ko": "바람이 바뀌자 풍향계 날개가 천천히 돌아갔다."
+          },
+          {
+            "sentence": "He pointed to the rooster-shaped vane on the roof.",
+            "meaning_ko": "그는 지붕 위 수탉 모양 풍향계를 가리켰다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "From the yard, you could see the vane pointing east.",
+            "meaning_ko": "마당에서 풍향계가 동쪽을 가리키는 것이 보였다."
+          },
+          {
+            "sentence": "The storm bent the metal vane and ruined the mechanism.",
+            "meaning_ko": "폭풍이 금속 날개를 휘게 만들어 장치를 망가뜨렸다."
+          },
+          {
+            "sentence": "In the guide, the vane is used to explain how wind direction is measured.",
+            "meaning_ko": "그 안내서는 풍향계를 이용해 풍향 측정 방식을 설명한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The critic called the politician a weather vane, turning with whatever wind promised applause.",
+            "meaning_ko": "평론가는 그 정치인을 박수 받을 바람이 부는 쪽으로 도는 ‘풍향계’라고 했다."
+          },
+          {
+            "sentence": "Biologists described damage to the vane of the feather as a sign of poor nutrition.",
+            "meaning_ko": "생물학자들은 깃털의 깃면 손상을 영양 부족의 신호로 설명했다."
+          },
+          {
+            "sentence": "As a metaphor, the rooftop vane captured the town’s habit of adjusting its beliefs to new trends.",
+            "meaning_ko": "은유적으로 지붕 위 풍향계는 새로운 유행에 맞춰 신념을 바꾸는 마을의 습관을 담아냈다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "vane은 일단 weather vane(풍향계)로 통째로 고정하면 됩니다. 시험에서는 vain(허영심/헛된)·vein(정맥)과 철자 혼동이 자주 나오니, a vane(풍향계), a vein(정맥), vain hopes(헛된 희망)처럼 대표 결합을 세트로 외우면 안전합니다. 고급 독해에서는 ‘weather vane’이 사람의 변덕을 비꼬는 은유로도 쓰인다는 점을 알아두면 점수 포인트가 됩니다.",
+    "tags": [
+      "날씨",
+      "장치",
+      "지붕",
+      "은유",
+      "생물"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "What does a weather vane show? (A) temperature (B) wind direction (C) rainfall amount (D) time",
+            "a": "B",
+            "meaning_ko": "weather vane은 바람의 ‘방향’을 보여 줍니다."
+          },
+          {
+            "q": "Choose the best word: The _____ on the roof turned when the wind shifted.",
+            "a": "vane",
+            "meaning_ko": "지붕 위에서 바람에 따라 도는 장치는 vane(풍향계 날개)입니다."
+          },
+          {
+            "q": "Which spelling refers to a blood vessel? (A) vane (B) vain (C) vein (D) vейн",
+            "a": "vein",
+            "meaning_ko": "vein이 ‘정맥’이고, vane은 풍향계, vain은 ‘헛된/허영심’입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the closest meaning of 'vane' in a biology text: 'damage to the vane of the feather' refers to the feather’s _____.",
+            "a": "broad flat surface",
+            "meaning_ko": "깃털의 넓은 ‘깃면/깃판’을 뜻합니다."
+          },
+          {
+            "q": "Pick the best collocation: (A) wind vane (B) wind vein (C) wind vain (D) wind vengeful",
+            "a": "A",
+            "meaning_ko": "wind vane = 풍향계가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best completion: A weather vane is usually mounted _____ a roof. (A) on (B) into (C) over (D) by",
+            "a": "on",
+            "meaning_ko": "on the roof가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'The vane showed the wind’s speed.' → Rewrite so it is accurate.",
+            "a": "The vane showed the wind’s direction.",
+            "meaning_ko": "풍향계는 풍속이 아니라 풍향(방향)을 보여 줍니다."
+          },
+          {
+            "q": "Metaphor question: Calling someone 'a weather vane' most nearly suggests they are _____.",
+            "a": "easily swayed and change positions often",
+            "meaning_ko": "바람 따라 도는 풍향계처럼 ‘변덕스럽고 쉽게 휘둘리는’ 뜻입니다."
+          },
+          {
+            "q": "Choose the best contrast set: vane / vein / vain correspond to _____.",
+            "a": "wind indicator / blood vessel / futile or overly proud",
+            "meaning_ko": "vane(풍향계), vein(정맥), vain(헛된·허영심) 구분이 핵심입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

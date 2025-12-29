@@ -1,0 +1,972 @@
+[
+  {
+    "word": "hackneyed",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Lacking originality because it has been overused; trite.",
+        "definition_ko": "너무 많이 써서 진부하고 새로움이 없는.",
+        "note": "표현·아이디어·농담 등이 ‘식상하다’는 뉘앙스의 비판적 표현입니다."
+      }
+    ],
+    "concept": "너무 반복되어 신선함이 사라진 ‘진부함’ 상태를 말합니다.",
+    "etymology": "원래 hackney는 ‘(런던) Hackney 지역의 말’→‘빌려 쓰는 말/말’처럼 흔한 것을 뜻하게 되었고, 거기서 ‘닳고 닳은, 진부한’ 의미로 굳었습니다.",
+    "semanticExtension": "문학·연설·마케팅에서 ‘클리셰(상투어)’나 ‘뻔한 플롯’까지 폭넓게 깎아내릴 때 씁니다.",
+    "nuanceRegister": "비판적·평가적 뉘앙스가 강한 문어/격식 중간 레지스터(리뷰, 논평, 에세이)에서 자주 보입니다.",
+    "grammarNotes": "대개 명사를 수식하는 형용사로 쓰이며, 흔히 hackneyed phrase/idea/plot 같은 결합이 많습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(표현/주제) 진부한",
+        "example": "hackneyed in its imagery"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~로 인해(이유) 진부하다고 평가되는",
+        "example": "hackneyed for its clichés"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게는(관점) 진부하게 느껴지는",
+        "example": "hackneyed to modern readers"
+      }
+    ],
+    "requiredComplements": [
+      "hackneyed in + 명사/동명사 (어떤 측면에서 진부한지)",
+      "hackneyed for + 명사 (왜 진부한지 이유)",
+      "hackneyed to + 사람/집단 (누구에게 진부한지)"
+    ],
+    "morphology": "hackney(평범한/대여의) + -ed(형용사화): ‘흔히 쓰여 닳은’의 의미를 형성.",
+    "derivatives": [
+      {
+        "word": "hackney",
+        "meaning_ko": "빌려 쓰는 말/택시(구어·역사적), 흔한 것"
+      },
+      {
+        "word": "hackneyism",
+        "meaning_ko": "진부한 표현, 상투어"
+      }
+    ],
+    "related": [
+      {
+        "word": "cliché",
+        "meaning_ko": "상투어, 진부한 표현"
+      },
+      {
+        "word": "trite",
+        "meaning_ko": "진부한, 뻔한"
+      },
+      {
+        "word": "formulaic",
+        "meaning_ko": "공식 그대로의, 틀에 박힌"
+      },
+      {
+        "word": "stale",
+        "meaning_ko": "신선하지 않은, 진부해진"
+      },
+      {
+        "word": "derivative",
+        "meaning_ko": "독창성이 없는, 모방한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "trite",
+        "meaning_ko": "진부한"
+      },
+      {
+        "word": "stereotyped",
+        "meaning_ko": "상투적인"
+      },
+      {
+        "word": "threadbare",
+        "meaning_ko": "닳고 닳은(비유: 진부한)"
+      },
+      {
+        "word": "worn-out",
+        "meaning_ko": "낡은, 식상한"
+      },
+      {
+        "word": "banal",
+        "meaning_ko": "진부한, 흔해 빠진"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "commonplace",
+        "meaning_ko": "흔한, 평범한(비판 뉘앙스는 약함)"
+      },
+      {
+        "word": "predictable",
+        "meaning_ko": "예상 가능한, 뻔한(결과/전개)"
+      },
+      {
+        "word": "unoriginal",
+        "meaning_ko": "독창적이지 않은"
+      },
+      {
+        "word": "stock",
+        "meaning_ko": "전형적인(표현/대사)"
+      },
+      {
+        "word": "overfamiliar",
+        "meaning_ko": "너무 익숙해진(식상해진)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "original",
+        "meaning_ko": "독창적인"
+      },
+      {
+        "word": "fresh",
+        "meaning_ko": "신선한"
+      },
+      {
+        "word": "innovative",
+        "meaning_ko": "혁신적인"
+      },
+      {
+        "word": "novel",
+        "meaning_ko": "새로운, 참신한"
+      },
+      {
+        "word": "inventive",
+        "meaning_ko": "기발한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a hackneyed phrase",
+            "meaning_ko": "진부한 표현"
+          },
+          {
+            "phrase": "a hackneyed idea",
+            "meaning_ko": "식상한 아이디어"
+          },
+          {
+            "phrase": "hackneyed advice",
+            "meaning_ko": "뻔한 조언"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "hackneyed plot device",
+            "meaning_ko": "진부한 플롯 장치"
+          },
+          {
+            "phrase": "hackneyed romantic tropes",
+            "meaning_ko": "식상한 로맨스 클리셰"
+          },
+          {
+            "phrase": "hackneyed imagery",
+            "meaning_ko": "클리셰적인 이미지/비유"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "descend into hackneyed moralizing",
+            "meaning_ko": "진부한 훈계로 전락하다"
+          },
+          {
+            "phrase": "a critique of hackneyed narratives",
+            "meaning_ko": "진부한 서사에 대한 비평"
+          },
+          {
+            "phrase": "hackneyed rhetoric of progress",
+            "meaning_ko": "‘진보’라는 상투적 수사"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The ending felt hackneyed and easy to predict.",
+            "meaning_ko": "결말이 진부해서 쉽게 예상할 수 있었다."
+          },
+          {
+            "sentence": "Please avoid hackneyed phrases in your essay.",
+            "meaning_ko": "에세이에서 상투적인 표현은 피하세요."
+          },
+          {
+            "sentence": "His joke was hackneyed, but everyone laughed anyway.",
+            "meaning_ko": "그의 농담은 식상했지만 그래도 다들 웃었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The advertisement relied on hackneyed slogans about success.",
+            "meaning_ko": "그 광고는 성공을 내세우는 진부한 구호에 의존했다."
+          },
+          {
+            "sentence": "Her review pointed out the film’s hackneyed characters and thin dialogue.",
+            "meaning_ko": "그녀의 평은 영화의 뻔한 캐릭터와 빈약한 대사를 지적했다."
+          },
+          {
+            "sentence": "The speech sounded sincere, yet some lines were undeniably hackneyed.",
+            "meaning_ko": "연설은 진심처럼 들렸지만 몇몇 문장은 부인할 수 없이 상투적이었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "What began as sharp satire drifted into hackneyed moral lessons by the final act.",
+            "meaning_ko": "날카로운 풍자로 시작했지만 마지막 막에서는 진부한 교훈으로 흐트러졌다."
+          },
+          {
+            "sentence": "Critics argued that the novel repackaged hackneyed myths under the guise of originality.",
+            "meaning_ko": "비평가들은 그 소설이 독창성인 척하며 진부한 신화를 재포장했다고 주장했다."
+          },
+          {
+            "sentence": "To avoid hackneyed analysis, the paper grounds its claims in archival evidence.",
+            "meaning_ko": "진부한 분석을 피하기 위해 그 논문은 주장을 기록자료에 근거시킨다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "hackneyed는 ‘많이 써서 닳은’이라는 이미지로 기억하시면 좋습니다. cliché/trite/banal과 거의 같은 자리에서 쓰지만, hackneyed는 ‘평가자가 식상하다고 판정’하는 뉘앙스가 특히 강합니다. 작문에서는 hackneyed phrase/idea/plot처럼 ‘진부한 대상’을 함께 묶어 쓰는 연습을 하세요.",
+    "tags": [
+      "비평",
+      "글쓰기",
+      "표현",
+      "문학",
+      "부정적 평가"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best synonym for “hackneyed”: (A) original (B) trite (C) fragile (D) urgent",
+            "a": "B",
+            "meaning_ko": "hackneyed는 ‘진부한’이므로 trite가 정답입니다."
+          },
+          {
+            "q": "Fill in the blank: The movie’s twists were so _____ that I guessed them early.",
+            "a": "hackneyed",
+            "meaning_ko": "‘너무 뻔해서’라는 맥락에서 hackneyed가 자연스럽습니다."
+          },
+          {
+            "q": "True or False: “hackneyed” usually has a positive tone.",
+            "a": "False",
+            "meaning_ko": "대체로 비판적(부정적) 뉘앙스로 쓰입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which phrase sounds most natural? (A) hackneyed water (B) hackneyed plot (C) hackneyed height (D) hackneyed temperature",
+            "a": "B",
+            "meaning_ko": "hackneyed는 이야기/표현/아이디어와 잘 결합합니다."
+          },
+          {
+            "q": "Rewrite using “hackneyed”: The speech used clichés and felt unoriginal.",
+            "a": "The speech relied on hackneyed lines and felt unoriginal.",
+            "meaning_ko": "clichés→hackneyed lines로 바꾸면 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best preposition: The novel is hackneyed ___ its themes. (A) in (B) for (C) at (D) by",
+            "a": "B",
+            "meaning_ko": "‘~로 인해 진부하다’는 이유를 나타내므로 hackneyed for가 적절합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Pick the sentence with the closest meaning to “hackneyed”: (A) The argument is carefully reasoned. (B) The image is overused and stale. (C) The plan is risky but novel. (D) The method is scientifically rigorous.",
+            "a": "B",
+            "meaning_ko": "overused/stale가 핵심 의미입니다."
+          },
+          {
+            "q": "Error correction: “The article avoided hackneyed by providing new data.”",
+            "a": "The article avoided hackneyed claims by providing new data.",
+            "meaning_ko": "hackneyed는 형용사라 수식 대상(예: claims)이 필요합니다."
+          },
+          {
+            "q": "Fill in the blank: The critique argues that the campaign’s messaging _____ into hackneyed moralizing when challenged.",
+            "a": "slides",
+            "meaning_ko": "slide into = ‘~로 미끄러지듯 빠지다’가 논평 문맥에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "through",
+    "partOfSpeech": [
+      "preposition",
+      "adverb",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "From one side or end to the other; by means of; from beginning to completion.",
+        "definition_ko": "한쪽에서 다른 쪽으로(통과하여); ~을 통해; 처음부터 끝까지/완료된.",
+        "note": "전치사·부사·형용사로 폭넓게 쓰이며, ‘통과/경유/수단/완료’가 핵심 축입니다."
+      }
+    ],
+    "concept": "‘통과·경유·매개·완료’라는 네 가지 축으로 의미가 확장되는 단어입니다.",
+    "etymology": "고대 영어 þurh(‘통하여, 가로질러’)에서 왔으며, 공간적 ‘관통’ 의미가 시간·수단·과정의 의미로 확장되었습니다.",
+    "semanticExtension": "공간(through the tunnel) → 과정(through the night) → 수단(through a friend) → 완료/상태(We are through)로 자연스럽게 확장됩니다.",
+    "nuanceRegister": "일상·문어 모두 매우 빈번. 문맥에 따라 ‘완료’(through with)처럼 단호한 뉘앙스도 생깁니다.",
+    "grammarNotes": "전치사로는 뒤에 명사/동명사, 부사로는 ‘끝까지/관통해서’, 형용사로는 ‘통과한/직통의/끝난(through with)’ 의미. go through, get through, look through 등 구동사가 매우 중요합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "through",
+        "meaning_ko": "~을 통과하여/지나서",
+        "example": "walk through the door"
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "~을 통해(수단/매개로)",
+        "example": "hear it through a friend"
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "~동안 내내(기간)",
+        "example": "work through the night"
+      }
+    ],
+    "requiredComplements": [
+      "through + 명사 (공간/과정/기간을 ‘관통’)",
+      "go/get/make it through + 명사 (어려움을 ‘넘기다/버티다’)",
+      "be through (with) + 명사/사람 (끝내다, 관계/일을 종료하다)",
+      "through and through (철저히, 완전히)"
+    ],
+    "morphology": "단일 어휘로 고정된 형태이며, ‘관통’ 의미를 중심으로 여러 용법이 파생.",
+    "derivatives": [
+      {
+        "word": "throughout",
+        "meaning_ko": "처음부터 끝까지, 도처에"
+      },
+      {
+        "word": "throughput",
+        "meaning_ko": "처리량(공학/컴퓨팅)"
+      },
+      {
+        "word": "throughway",
+        "meaning_ko": "간선도로, 고속도로(주로 미)"
+      }
+    ],
+    "related": [
+      {
+        "word": "across",
+        "meaning_ko": "가로질러, 건너서"
+      },
+      {
+        "word": "via",
+        "meaning_ko": "~을 경유하여"
+      },
+      {
+        "word": "by",
+        "meaning_ko": "~에 의해/수단으로"
+      },
+      {
+        "word": "past",
+        "meaning_ko": "~을 지나"
+      },
+      {
+        "word": "over",
+        "meaning_ko": "~을 넘어/동안"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "via",
+        "meaning_ko": "~을 통해(경유)"
+      },
+      {
+        "word": "across",
+        "meaning_ko": "가로질러"
+      },
+      {
+        "word": "by means of",
+        "meaning_ko": "~을 수단으로"
+      },
+      {
+        "word": "from start to finish",
+        "meaning_ko": "처음부터 끝까지"
+      },
+      {
+        "word": "complete",
+        "meaning_ko": "완료된(형용사 용법 근접)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "past",
+        "meaning_ko": "~을 지나(통과 후)"
+      },
+      {
+        "word": "over",
+        "meaning_ko": "~동안/넘어서(기간·초과)"
+      },
+      {
+        "word": "during",
+        "meaning_ko": "~동안(기간; ‘관통’ 뉘앙스는 약함)"
+      },
+      {
+        "word": "using",
+        "meaning_ko": "~을 사용하여(수단)"
+      },
+      {
+        "word": "throughout",
+        "meaning_ko": "내내, 전역에(범위 강조)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "into",
+        "meaning_ko": "~안으로(진입)"
+      },
+      {
+        "word": "before",
+        "meaning_ko": "~전에(시간)"
+      },
+      {
+        "word": "outside",
+        "meaning_ko": "밖에(위치)"
+      },
+      {
+        "word": "incomplete",
+        "meaning_ko": "미완성의(완료의 반대)"
+      },
+      {
+        "word": "blocked",
+        "meaning_ko": "막힌(통과 불가)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "go through",
+            "meaning_ko": "겪다; 통과하다; 검토하다"
+          },
+          {
+            "phrase": "get through",
+            "meaning_ko": "겨우 해내다; 연락이 되다"
+          },
+          {
+            "phrase": "through the day",
+            "meaning_ko": "하루 종일/하루 동안 내내"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "through a friend",
+            "meaning_ko": "지인을 통해"
+          },
+          {
+            "phrase": "through trial and error",
+            "meaning_ko": "시행착오를 통해"
+          },
+          {
+            "phrase": "be through with",
+            "meaning_ko": "~을 끝내다/관계를 끊다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "see something through",
+            "meaning_ko": "끝까지 해내다(완수하다)"
+          },
+          {
+            "phrase": "through and through",
+            "meaning_ko": "철저히, 완전히"
+          },
+          {
+            "phrase": "carry something through to completion",
+            "meaning_ko": "끝까지 밀어붙여 완수하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We walked through the park after dinner.",
+            "meaning_ko": "저녁 후에 공원을 가로질러 걸었다."
+          },
+          {
+            "sentence": "I heard the news through my brother.",
+            "meaning_ko": "그 소식을 형을 통해 들었다."
+          },
+          {
+            "sentence": "Are you through with your homework?",
+            "meaning_ko": "숙제 다 끝냈니?"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She stayed calm through the entire interview.",
+            "meaning_ko": "그녀는 면접 내내 침착함을 유지했다."
+          },
+          {
+            "sentence": "We got through the crisis by working together.",
+            "meaning_ko": "우리는 함께 협력해서 위기를 넘겼다."
+          },
+          {
+            "sentence": "Please look through the document before signing.",
+            "meaning_ko": "서명하기 전에 문서를 훑어보세요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Despite repeated setbacks, he saw the project through to completion.",
+            "meaning_ko": "거듭된 난관에도 그는 프로젝트를 끝까지 완수했다."
+          },
+          {
+            "sentence": "The committee pushed the reform through amid fierce opposition.",
+            "meaning_ko": "위원회는 거센 반대 속에서도 개혁을 밀어붙여 통과시켰다."
+          },
+          {
+            "sentence": "Her argument was consistent through and through, leaving little room for doubt.",
+            "meaning_ko": "그녀의 논지는 철저히 일관되어 의심의 여지가 거의 없었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "through는 ‘관통(터널을 지나가듯)’ 이미지를 기준으로 의미를 묶으면 헷갈림이 줄어듭니다: (1) 공간 통과, (2) 기간 내내, (3) 수단/경유, (4) 완료(We’re through). 특히 구동사 go/get/look/see through는 시험에서 매우 자주 나오므로, ‘동사+through’ 세트를 통째로 외우는 편이 효율적입니다.",
+    "tags": [
+      "전치사",
+      "부사",
+      "구동사",
+      "과정",
+      "완료"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: We drove _____ the tunnel in five minutes.",
+            "a": "through",
+            "meaning_ko": "‘터널을 통과하여’이므로 through가 정답입니다."
+          },
+          {
+            "q": "Which meaning fits “through the night”? (A) by means of (B) during the whole time (C) because of (D) against",
+            "a": "B",
+            "meaning_ko": "기간을 ‘내내’ 관통하는 의미입니다."
+          },
+          {
+            "q": "True or False: “Are you through?” can mean “Are you finished?”",
+            "a": "True",
+            "meaning_ko": "through는 ‘끝난/완료된’ 의미로도 쓰입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best paraphrase: “I heard it through a friend.” (A) I heard it before my friend. (B) My friend denied it. (C) A friend was the source. (D) I heard it without help.",
+            "a": "C",
+            "meaning_ko": "through = ‘~을 통해(매개로)’입니다."
+          },
+          {
+            "q": "Fill in the blank: Please _____ through these emails and flag anything urgent.",
+            "a": "look",
+            "meaning_ko": "look through = ‘훑어보다/검토하다’가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the correct phrase: “끝까지 해내다”에 가장 가까운 것은? (A) see it through (B) see through it (C) go through it (D) pass through it",
+            "a": "A",
+            "meaning_ko": "see it through = ‘끝까지 완수하다’입니다(see through는 ‘간파하다’)."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: “He is through the work by Friday.”",
+            "a": "He will be through with the work by Friday.",
+            "meaning_ko": "완료 의미는 be through with + 명사 형태가 자연스럽습니다."
+          },
+          {
+            "q": "Fill in the blank: The bill was pushed _____ despite widespread protests.",
+            "a": "through",
+            "meaning_ko": "push something through = ‘(반대에도) 밀어붙여 통과시키다’입니다."
+          },
+          {
+            "q": "Choose the closest meaning of “through and through”: (A) temporarily (B) completely (C) cautiously (D) separately",
+            "a": "B",
+            "meaning_ko": "through and through는 ‘철저히/완전히’입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pant",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To breathe quickly in short breaths, typically from exertion, heat, or excitement.",
+        "definition_ko": "헐떡이다; (운동·더위·긴장 등으로) 숨을 가쁘게 쉬다.",
+        "note": "사람뿐 아니라 개가 더울 때 혀를 내밀고 헐떡이는 상황에도 자주 씁니다."
+      },
+      {
+        "definition_en": "A short, quick breath; an act of panting.",
+        "definition_ko": "헐떡거림, 짧고 거친 숨.",
+        "note": "명사로는 보통 a pant / pants(복수) 형태가 자연스럽습니다."
+      }
+    ],
+    "concept": "숨이 차서 ‘짧고 빠른 호흡’을 반복하는 상태(또는 그 호흡)입니다.",
+    "etymology": "중세 영어 panten(‘헐떡이다’)에서 왔으며, ‘숨을 거칠게 내쉬다’의 소리·동작을 모사한 어감이 있습니다.",
+    "semanticExtension": "단순한 운동 후 호흡뿐 아니라 ‘흥분/공포/긴장’으로 인한 심리적 헐떡임(비유 포함)에도 확장됩니다.",
+    "nuanceRegister": "일상/서술 문맥에서 매우 자연스럽고 생동감 있는 동사. 문학적 묘사에서도 빈번합니다.",
+    "grammarNotes": "주로 자동사로 쓰이며 pant for(갈망하다), pant with(흥분/노력으로) 같은 전치사 결합이 많습니다. 명사는 a pant, heavy pants처럼 쓰입니다.",
+    "transitivity": "자동사(주로), 타동사 용법은 드묾(문학적: pant out words 등)",
+    "countability": "가산명사(명사 용법: a pant / pants)",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 갈망하다/열망하다(비유)",
+        "example": "pant for air"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~로 인해/하며(상태 동반)",
+        "example": "pant with excitement"
+      },
+      {
+        "prep": "after",
+        "meaning_ko": "~을 좇다/추구하다(비유)",
+        "example": "pant after fame"
+      }
+    ],
+    "requiredComplements": [
+      "pant for + 명사 (공기/물/기회 등을 간절히 필요로 하다)",
+      "pant with + 감정/상태 (흥분/두려움/피로 등으로 헐떡이다)",
+      "pant after + 명사 (명성/부/권력 등을 탐하다; 다소 문어적)"
+    ],
+    "morphology": "단일 어휘(pant). 파생 형태: panting(현재분사/명사), pantingly(부사, 드묾).",
+    "derivatives": [
+      {
+        "word": "panting",
+        "meaning_ko": "헐떡이는; 헐떡거림"
+      },
+      {
+        "word": "pantingly",
+        "meaning_ko": "헐떡이며(드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "gasp",
+        "meaning_ko": "숨을 헉 들이쉬다; 헉 하고 숨쉬다"
+      },
+      {
+        "word": "wheeze",
+        "meaning_ko": "쌕쌕거리며 숨쉬다"
+      },
+      {
+        "word": "喘息(asthma)",
+        "meaning_ko": "천식(호흡 곤란과 연관)"
+      },
+      {
+        "word": "breathless",
+        "meaning_ko": "숨이 찬, 숨막히는"
+      },
+      {
+        "word": "exertion",
+        "meaning_ko": "격한 노력/운동"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "breathe heavily",
+        "meaning_ko": "거칠게 숨쉬다"
+      },
+      {
+        "word": "gasp",
+        "meaning_ko": "헉헉 숨쉬다(더 급박)"
+      },
+      {
+        "word": "huff",
+        "meaning_ko": "헐떡이다(구어적)"
+      },
+      {
+        "word": "puff",
+        "meaning_ko": "후후 숨을 내쉬다"
+      },
+      {
+        "word": "wheeze",
+        "meaning_ko": "쌕쌕거리다(천명음)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sigh",
+        "meaning_ko": "한숨 쉬다(느린 호흡)"
+      },
+      {
+        "word": "snort",
+        "meaning_ko": "코로 푸훗거리다(코 중심)"
+      },
+      {
+        "word": "hyperventilate",
+        "meaning_ko": "과호흡하다(의학적)"
+      },
+      {
+        "word": "喘ぐ",
+        "meaning_ko": "헐떡이다(일본어 참고; 혼동 방지용)"
+      },
+      {
+        "word": "喘ぐ(가쁜 숨)",
+        "meaning_ko": "가쁜 숨(개념 유사, 표현은 다름)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "breathe steadily",
+        "meaning_ko": "고르게 숨쉬다"
+      },
+      {
+        "word": "rest",
+        "meaning_ko": "쉬다"
+      },
+      {
+        "word": "calm down",
+        "meaning_ko": "진정하다"
+      },
+      {
+        "word": "inhale slowly",
+        "meaning_ko": "천천히 들이쉬다"
+      },
+      {
+        "word": "relax",
+        "meaning_ko": "긴장을 풀다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pant for breath",
+            "meaning_ko": "숨이 차서 헐떡이다"
+          },
+          {
+            "phrase": "pant heavily",
+            "meaning_ko": "심하게 헐떡이다"
+          },
+          {
+            "phrase": "start to pant",
+            "meaning_ko": "헐떡이기 시작하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "pant with excitement",
+            "meaning_ko": "흥분해서 헐떡이다"
+          },
+          {
+            "phrase": "pant after running",
+            "meaning_ko": "달린 뒤 헐떡이다"
+          },
+          {
+            "phrase": "a dog panting in the heat",
+            "meaning_ko": "더위에 헐떡이는 개"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "pant for air in a smoke-filled room",
+            "meaning_ko": "연기로 가득한 방에서 공기를 찾아 헐떡이다"
+          },
+          {
+            "phrase": "pant out an apology",
+            "meaning_ko": "헐떡이며 사과를 내뱉다(서술적)"
+          },
+          {
+            "phrase": "pant after power and recognition",
+            "meaning_ko": "권력과 인정에 목을 매다(비유)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I ran upstairs and started to pant.",
+            "meaning_ko": "계단을 뛰어 올라가고 나서 헐떡이기 시작했다."
+          },
+          {
+            "sentence": "The dog panted in the hot sun.",
+            "meaning_ko": "그 개는 뜨거운 햇볕 아래서 헐떡였다."
+          },
+          {
+            "sentence": "After five minutes, my breathing was no longer panting.",
+            "meaning_ko": "5분 뒤에는 더 이상 헐떡이지 않았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She panted for breath after the sprint, but kept smiling.",
+            "meaning_ko": "그녀는 전력질주 후 숨이 차 헐떡였지만 계속 웃었다."
+          },
+          {
+            "sentence": "He was panting with nerves before stepping onto the stage.",
+            "meaning_ko": "그는 무대에 오르기 전 긴장으로 헐떡였다."
+          },
+          {
+            "sentence": "In the silence, we could hear his quick pants in the hallway.",
+            "meaning_ko": "고요 속에서 복도에 울리는 그의 짧은 헐떡거림이 들렸다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Trapped in the elevator, they panted for air as the temperature climbed.",
+            "meaning_ko": "엘리베이터에 갇힌 그들은 온도가 오르자 공기를 찾아 헐떡였다."
+          },
+          {
+            "sentence": "He panted out a few words, then forced himself to speak steadily.",
+            "meaning_ko": "그는 몇 마디를 헐떡이며 내뱉고는, 억지로 고르게 말하려 했다."
+          },
+          {
+            "sentence": "The novel portrays a society panting after novelty, unable to tolerate stillness.",
+            "meaning_ko": "그 소설은 고요를 견디지 못하고 새로움에 목매는 사회를 그린다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "pant는 ‘숨이 차서 짧게 빠르게’라는 리듬이 핵심입니다. gasp(헉—급박한 한 번의 들숨/숨막힘)와 대비하면 좋습니다: pant는 지속적, gasp는 순간적·긴급. 또한 pant for(공기/기회/무언가를 갈망)처럼 비유로 확장되는 패턴을 함께 익히면 독해에서 의미를 놓치지 않습니다.",
+    "tags": [
+      "호흡",
+      "운동",
+      "감정",
+      "묘사",
+      "구문"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: After the run, I began to _____.",
+            "a": "pant",
+            "meaning_ko": "운동 후 ‘헐떡이다’는 pant가 정답입니다."
+          },
+          {
+            "q": "Which situation best matches “pant”? (A) sleeping quietly (B) breathing in short quick breaths (C) reading silently (D) writing slowly",
+            "a": "B",
+            "meaning_ko": "pant는 짧고 빠른 호흡입니다."
+          },
+          {
+            "q": "True or False: A dog can pant when it is hot.",
+            "a": "True",
+            "meaning_ko": "개가 더울 때 헐떡이는 상황에서 매우 흔합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: She was panting ___ excitement. (A) with (B) by (C) at (D) on",
+            "a": "A",
+            "meaning_ko": "pant with + 감정/상태가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest contrast to “pant” in meaning: (A) relax (B) chase (C) shout (D) build",
+            "a": "A",
+            "meaning_ko": "pant는 호흡이 가쁜 상태이므로 반대는 relax가 가장 가깝습니다."
+          },
+          {
+            "q": "Fill in the blank: The hikers reached the ridge, _____ for breath in the thin air.",
+            "a": "panting",
+            "meaning_ko": "분사구문으로 panting for breath가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: “He panted to air after climbing.”",
+            "a": "He panted for air after climbing.",
+            "meaning_ko": "필요/갈망 의미는 pant for + 명사(air)입니다."
+          },
+          {
+            "q": "Choose the best paraphrase: “The crowd was panting after fame.” (A) The crowd feared fame. (B) The crowd was desperate for fame. (C) The crowd ignored fame. (D) The crowd criticized fame.",
+            "a": "B",
+            "meaning_ko": "pant after는 ‘~에 목매다/탐하다’의 비유입니다."
+          },
+          {
+            "q": "Fill in the blank: She _____ out an apology, her voice breaking between breaths.",
+            "a": "panted",
+            "meaning_ko": "pant out = 헐떡이며 말을 내뱉다(문학적 서술)입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

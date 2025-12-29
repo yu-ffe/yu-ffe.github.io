@@ -1,0 +1,918 @@
+[
+  {
+    "word": "racism",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Prejudice, discrimination, or antagonism directed against people based on race or ethnicity, often backed by social power.",
+        "definition_ko": "인종·민족을 근거로 한 편견, 차별, 적대(개인적 태도뿐 아니라 제도적 권력과 결합되기도 함).",
+        "note": "단순한 '싫어함'보다 구조적·사회적 맥락까지 포함해 쓰는 경우가 많습니다."
+      },
+      {
+        "definition_en": "A system or policy that produces unequal outcomes for different racial groups.",
+        "definition_ko": "특정 인종 집단에 불리한 결과를 지속적으로 만드는 제도·관행(구조적 인종차별).",
+        "note": "학술·사회 담론에서 특히 자주 쓰입니다."
+      }
+    ],
+    "concept": "인종을 기준으로 사람을 서열화하거나 불평등하게 대하는 태도·행동·구조를 말합니다.",
+    "etymology": "‘race(인종)’ + ‘-ism(주의·사상)’의 결합으로, 20세기 초반 이후 사회·정치 맥락에서 널리 정착했습니다.",
+    "semanticExtension": "개인적 편견을 넘어 제도·문화·관행이 만들어내는 불평등(‘systemic/structural racism’)까지 가리키며 의미가 확장되었습니다.",
+    "nuanceRegister": "공식적·사회적·학술적 문맥에서 매우 흔하며, 뉴스/정치/교육 담론에서도 자주 쓰입니다.",
+    "grammarNotes": "대개 불가산으로 쓰이며, ‘racism against/toward/in’ 같은 전치사 결합이 잦습니다. ‘anti-racism(반인종차별)’처럼 접두 형태도 생산적입니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대한 인종차별",
+        "example": "racism against immigrants"
+      },
+      {
+        "prep": "toward",
+        "meaning_ko": "~을 향한 인종차별적 태도",
+        "example": "racism toward minorities"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서/내에서의 인종차별",
+        "example": "racism in hiring practices"
+      }
+    ],
+    "requiredComplements": [
+      "racism against + 집단: 특정 집단을 대상으로 한 인종차별",
+      "racism in + 제도/분야: 특정 제도·영역에서 발생하는 인종차별",
+      "combat/address + racism: 인종차별에 맞서다/해결하다"
+    ],
+    "morphology": "race(인종) + -ism(주의·사상·현상). ‘-ism’은 특정 사고방식/체계/현상을 가리키는 접미사입니다.",
+    "derivatives": [
+      {
+        "word": "racist",
+        "meaning_ko": "인종차별적인; 인종차별주의자"
+      },
+      {
+        "word": "racial",
+        "meaning_ko": "인종의, 인종과 관련된"
+      },
+      {
+        "word": "racially",
+        "meaning_ko": "인종적으로, 인종의 관점에서"
+      },
+      {
+        "word": "anti-racism",
+        "meaning_ko": "반인종차별(운동·관점)"
+      },
+      {
+        "word": "racialize",
+        "meaning_ko": "인종의 관점으로 규정하다(인종화하다)"
+      }
+    ],
+    "related": [
+      {
+        "word": "prejudice",
+        "meaning_ko": "편견"
+      },
+      {
+        "word": "discrimination",
+        "meaning_ko": "차별"
+      },
+      {
+        "word": "xenophobia",
+        "meaning_ko": "외국인 혐오"
+      },
+      {
+        "word": "stereotype",
+        "meaning_ko": "고정관념"
+      },
+      {
+        "word": "inequality",
+        "meaning_ko": "불평등"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "racial prejudice",
+        "meaning_ko": "인종적 편견"
+      },
+      {
+        "word": "racial discrimination",
+        "meaning_ko": "인종 차별"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "bias",
+        "meaning_ko": "편향, 편견"
+      },
+      {
+        "word": "bigotry",
+        "meaning_ko": "편협함, 맹신적 편견"
+      },
+      {
+        "word": "segregation",
+        "meaning_ko": "분리(정책), 격리"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "egalitarianism",
+        "meaning_ko": "평등주의"
+      },
+      {
+        "word": "inclusiveness",
+        "meaning_ko": "포용성"
+      },
+      {
+        "word": "tolerance",
+        "meaning_ko": "관용"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "fight racism",
+            "meaning_ko": "인종차별과 싸우다"
+          },
+          {
+            "phrase": "racism is wrong",
+            "meaning_ko": "인종차별은 잘못이다"
+          },
+          {
+            "phrase": "experience racism",
+            "meaning_ko": "인종차별을 겪다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "racial slurs and racism",
+            "meaning_ko": "인종 비하 표현과 인종차별"
+          },
+          {
+            "phrase": "workplace racism",
+            "meaning_ko": "직장 내 인종차별"
+          },
+          {
+            "phrase": "implicit racism",
+            "meaning_ko": "암묵적(무의식적) 인종차별"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "systemic/structural racism",
+            "meaning_ko": "구조적 인종차별"
+          },
+          {
+            "phrase": "institutional racism",
+            "meaning_ko": "제도적 인종차별"
+          },
+          {
+            "phrase": "combat racism through policy reform",
+            "meaning_ko": "정책 개혁으로 인종차별을 완화/해결하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Racism hurts everyone in a community.",
+            "meaning_ko": "인종차별은 공동체의 모두에게 상처를 줍니다."
+          },
+          {
+            "sentence": "She spoke up when she saw racism online.",
+            "meaning_ko": "그녀는 온라인에서 인종차별을 보고 목소리를 냈습니다."
+          },
+          {
+            "sentence": "We should learn to recognize racism and stop it.",
+            "meaning_ko": "우리는 인종차별을 알아차리고 멈추는 법을 배워야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report documents racism in hiring and promotion decisions.",
+            "meaning_ko": "그 보고서는 채용과 승진 결정에서의 인종차별을 기록합니다."
+          },
+          {
+            "sentence": "He denied racism, but his remarks reinforced harmful stereotypes.",
+            "meaning_ko": "그는 인종차별을 부인했지만 그의 발언은 해로운 고정관념을 강화했습니다."
+          },
+          {
+            "sentence": "Training can reduce implicit racism, but it cannot replace accountability.",
+            "meaning_ko": "교육은 무의식적 인종차별을 줄일 수 있지만 책임을 대신할 수는 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Addressing racism requires both individual reflection and institutional change.",
+            "meaning_ko": "인종차별을 해결하려면 개인의 성찰과 제도적 변화가 모두 필요합니다."
+          },
+          {
+            "sentence": "When racism is embedded in policy, unequal outcomes persist even without overt hostility.",
+            "meaning_ko": "인종차별이 정책에 내장되면 노골적 적대가 없어도 불평등한 결과가 지속됩니다."
+          },
+          {
+            "sentence": "The committee proposed metrics to measure whether reforms reduce systemic racism over time.",
+            "meaning_ko": "위원회는 개혁이 시간이 지나며 구조적 인종차별을 줄이는지 측정할 지표를 제안했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "racism은 보통 ‘인종을 이유로 한 불평등한 대우’ 전체를 가리키며, prejudice(편견)·discrimination(차별)보다 사회적·제도적 맥락이 강합니다. 문장에서는 racism against + 집단, racism in + 분야 패턴이 가장 안정적입니다. 시험에서는 ‘systemic/structural/institutional’ 같은 수식어와 함께 나오는지 자주 확인하세요.",
+    "tags": [
+      "사회",
+      "인권",
+      "차별",
+      "정치·시사",
+      "학술"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: Treating someone unfairly because of their race is ____.",
+            "a": "racism",
+            "meaning_ko": "인종을 이유로 부당하게 대하는 것은 racism입니다."
+          },
+          {
+            "q": "Fill in the blank: We should not tolerate ____.",
+            "a": "racism",
+            "meaning_ko": "tolerate(용인하다)와 함께 자주 쓰입니다."
+          },
+          {
+            "q": "Which phrase is natural? (A) racism to immigrants (B) racism against immigrants",
+            "a": "racism against immigrants",
+            "meaning_ko": "racism은 보통 against와 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest meaning of 'systemic racism'.",
+            "a": "racism embedded in institutions and policies",
+            "meaning_ko": "제도·정책에 내재된 인종차별을 뜻합니다."
+          },
+          {
+            "q": "Choose the best preposition: racism ___ hiring practices (in / at / on)",
+            "a": "in",
+            "meaning_ko": "특정 영역/관행 안에서의 문제를 말할 때 in이 자연스럽습니다."
+          },
+          {
+            "q": "Rewrite using 'address': 'We must deal with racism in schools.'",
+            "a": "We must address racism in schools.",
+            "meaning_ko": "address는 문제를 ‘해결하려 하다/대응하다’ 의미로 자주 쓰입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Which sentence best contrasts 'prejudice' and 'racism'?",
+            "a": "Prejudice is a biased attitude, while racism often involves power and systemic inequality.",
+            "meaning_ko": "racism은 구조·권력과 결합하는 뉘앙스가 강합니다."
+          },
+          {
+            "q": "Choose the best option: 'The policy produced unequal outcomes, even without explicit hatred.' This is an example of ____.",
+            "a": "institutional racism",
+            "meaning_ko": "명시적 혐오가 없어도 결과가 불평등하면 제도적 인종차별을 시사합니다."
+          },
+          {
+            "q": "Fill in: The new guidelines aim to ____ racism through transparency and oversight.",
+            "a": "combat",
+            "meaning_ko": "combat은 ‘맞서 싸우다’로 격식 있고 강한 동사입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "parch",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To make extremely dry by exposure to heat; to dry out.",
+        "definition_ko": "열에 노출되어(또는 열로) 바싹 말리다, 건조하게 하다.",
+        "note": "땅·입·목·피부 등 ‘수분이 사라지는’ 상황에 폭넓게 씁니다."
+      },
+      {
+        "definition_en": "To become very thirsty or dry.",
+        "definition_ko": "(목·입 등이) 바싹 마르다, 몹시 갈증이 나다.",
+        "note": "수동/상태 표현으로 ‘be parched’가 특히 흔합니다."
+      }
+    ],
+    "concept": "열과 수분 부족 때문에 ‘바싹 마르다/말리다’라는 핵심 이미지입니다.",
+    "etymology": "중세 프랑스어·라틴계 어휘에서 ‘말리다/건조하게 하다’ 뜻으로 들어와 현대 영어에서 ‘heat + dryness’ 감각으로 굳었습니다.",
+    "semanticExtension": "물리적 건조에서 출발해 ‘갈증으로 입이 바싹 마르다’처럼 신체 감각(갈증)으로 자연스럽게 확장되었습니다.",
+    "nuanceRegister": "일상에서도 쓰이지만, ‘parched land/fields’처럼 묘사적(문어적) 용법도 흔합니다.",
+    "grammarNotes": "타동사로 ‘parch + 목적어’(땅/목/입을 말리다), 자동사/형용사화로 ‘be parched’(몹시 목마르다)가 매우 흔합니다. ‘parched with thirst’ ‘parched by the sun’ 같은 분사구문도 자주 보입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "~에 의해 바싹 마르다/말라붙다",
+        "example": "parched by the sun"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~ 때문에(갈증 등) 입이 바싹 마르다",
+        "example": "parched with thirst"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~ 속에서(열기 속에) 바싹 마르다(분사/형용사 용법)",
+        "example": "parched in the heat"
+      }
+    ],
+    "requiredComplements": [
+      "parch + 목적어(land/lips/skin): ~을 바싹 말리다",
+      "be parched (with thirst): 몹시 목마르다",
+      "parched by + 원인(sun/wind): ~ 때문에 바싹 마르다"
+    ],
+    "morphology": "단순 어근(parch). 현대 영어에서는 파생 접미사로 자유롭게 확장되기보다는 분사형(parched/parching)으로 활용되는 경우가 많습니다.",
+    "derivatives": [
+      {
+        "word": "parched",
+        "meaning_ko": "바싹 마른; 몹시 목마른(형용사)"
+      },
+      {
+        "word": "parching",
+        "meaning_ko": "몹시 더운/건조한; 바싹 말리는(형용사)"
+      },
+      {
+        "word": "parchedness",
+        "meaning_ko": "바싹 마름, 건조함(드물지만 의미는 투명)"
+      },
+      {
+        "word": "parchment",
+        "meaning_ko": "양피지(어원 연관이 불명확해 학습상 ‘형태 유사’ 주의)"
+      },
+      {
+        "word": "parch (n.)",
+        "meaning_ko": "건조한 땅(드문 명사 용법)"
+      }
+    ],
+    "related": [
+      {
+        "word": "dry out",
+        "meaning_ko": "말라버리다"
+      },
+      {
+        "word": "dehydrate",
+        "meaning_ko": "탈수시키다"
+      },
+      {
+        "word": "arid",
+        "meaning_ko": "건조한(기후/지역)"
+      },
+      {
+        "word": "scorch",
+        "meaning_ko": "그을리다; 타들어가게 하다"
+      },
+      {
+        "word": "thirsty",
+        "meaning_ko": "목마른"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "dry",
+        "meaning_ko": "말리다, 건조하게 하다"
+      },
+      {
+        "word": "dehydrate",
+        "meaning_ko": "탈수시키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "scorch",
+        "meaning_ko": "열로 그을리다(손상 뉘앙스)"
+      },
+      {
+        "word": "desiccate",
+        "meaning_ko": "완전히 건조시키다(격식/과학)"
+      },
+      {
+        "word": "wither",
+        "meaning_ko": "시들다(식물 중심)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "moisten",
+        "meaning_ko": "촉촉하게 하다"
+      },
+      {
+        "word": "hydrate",
+        "meaning_ko": "수분을 공급하다"
+      },
+      {
+        "word": "soak",
+        "meaning_ko": "흠뻑 적시다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "parched lips",
+            "meaning_ko": "바싹 마른 입술"
+          },
+          {
+            "phrase": "parched throat",
+            "meaning_ko": "바싹 마른 목"
+          },
+          {
+            "phrase": "be parched",
+            "meaning_ko": "몹시 목마르다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "parched earth/soil",
+            "meaning_ko": "바싹 마른 흙/토양"
+          },
+          {
+            "phrase": "parched by the sun",
+            "meaning_ko": "햇볕에 바싹 마른"
+          },
+          {
+            "phrase": "parched with thirst",
+            "meaning_ko": "갈증으로 입이 바싹 마른"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "parch the landscape",
+            "meaning_ko": "풍경(전역)을 바싹 말려버리다"
+          },
+          {
+            "phrase": "a parching heatwave",
+            "meaning_ko": "수분을 빼앗는 폭염"
+          },
+          {
+            "phrase": "parched fields after months of drought",
+            "meaning_ko": "수개월 가뭄 뒤 바싹 마른 들판"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The hot wind parched my lips.",
+            "meaning_ko": "뜨거운 바람이 내 입술을 바싹 말렸습니다."
+          },
+          {
+            "sentence": "I am parched. Do you have water?",
+            "meaning_ko": "목이 너무 말라요. 물 좀 있나요?"
+          },
+          {
+            "sentence": "The ground is parched after a week without rain.",
+            "meaning_ko": "비가 일주일 동안 오지 않아 땅이 바싹 말랐습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "By noon, the sun had parched the fields and cracked the soil.",
+            "meaning_ko": "정오가 되자 햇볕이 들판을 말리고 흙이 갈라졌습니다."
+          },
+          {
+            "sentence": "He spoke for hours until his throat was parched.",
+            "meaning_ko": "그는 몇 시간이나 말해서 목이 바싹 말랐습니다."
+          },
+          {
+            "sentence": "The hikers were parched with thirst but kept moving.",
+            "meaning_ko": "등산객들은 갈증에 시달렸지만 계속 걸었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A prolonged drought can parch entire watersheds, straining both farms and cities.",
+            "meaning_ko": "장기 가뭄은 유역 전체를 말려 농업과 도시 모두에 부담을 줍니다."
+          },
+          {
+            "sentence": "The policy brief warns that rising temperatures will parch vulnerable regions faster than infrastructure can adapt.",
+            "meaning_ko": "정책 보고서는 기온 상승이 기반시설 적응 속도보다 빨리 취약 지역을 건조화할 것이라고 경고합니다."
+          },
+          {
+            "sentence": "Parched by relentless heat, the vegetation withered, increasing the risk of wildfires.",
+            "meaning_ko": "가차 없는 더위에 바싹 마른 식생이 시들며 산불 위험이 커졌습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "parch는 ‘열 때문에 수분이 빠져 바싹 마르다’ 이미지가 핵심입니다. dry out보다 더 ‘강한 건조/갈증’ 느낌이 있으며, 문장에서는 be parched(몹시 목마르다)와 parched with thirst(갈증으로)가 매우 자주 출제됩니다. desiccate는 과학/격식, scorch는 ‘그을림·손상’ 뉘앙스라서 문맥으로 구분하세요.",
+    "tags": [
+      "자연",
+      "날씨",
+      "갈증",
+      "묘사",
+      "환경"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: My throat is ____ after singing.",
+            "a": "parched",
+            "meaning_ko": "목이 바싹 마른 상태를 parched로 표현합니다."
+          },
+          {
+            "q": "Choose the best meaning of 'parch': (A) to freeze (B) to dry out (C) to paint",
+            "a": "to dry out",
+            "meaning_ko": "parch = 바싹 말리다/마르다."
+          },
+          {
+            "q": "Natural phrase: (A) parched with thirst (B) parched by thirst",
+            "a": "parched with thirst",
+            "meaning_ko": "갈증은 보통 with와 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best option: 'The sun ___ the crops.'",
+            "a": "parched",
+            "meaning_ko": "타동사로 ‘작물을 말리다’가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest synonym in context: 'The desert wind parched the skin.'",
+            "a": "dried out",
+            "meaning_ko": "문맥상 dried out이 가장 가깝습니다."
+          },
+          {
+            "q": "Which is more natural? (A) parched by the sun (B) parched from the sun",
+            "a": "parched by the sun",
+            "meaning_ko": "원인 표시에는 by가 안정적입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best word: 'completely dry (formal/scientific)'",
+            "a": "desiccate",
+            "meaning_ko": "parch보다 더 격식·과학적 표현입니다."
+          },
+          {
+            "q": "Error correction: 'I am parch. I need water.'",
+            "a": "I am parched. I need water.",
+            "meaning_ko": "상태 형용사는 parched를 씁니다."
+          },
+          {
+            "q": "Fill in: Rising heat can ____ a region and intensify drought impacts.",
+            "a": "parch",
+            "meaning_ko": "환경/정책 맥락에서 ‘지역을 건조화하다’로 자주 씁니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "nemesis",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A long-standing rival or person/thing that causes one's downfall.",
+        "definition_ko": "오랜 숙적; (결국) 패배·몰락을 가져오는 상대/요인.",
+        "note": "단순한 ‘경쟁자’보다 ‘치명적 상대’ 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "An agent of retribution or inevitable punishment.",
+        "definition_ko": "응보·천벌의 구현체(피할 수 없는 대가를 가져오는 존재/힘).",
+        "note": "문학적·수사적 문맥에서 자주 쓰입니다."
+      }
+    ],
+    "concept": "피하기 어렵고 결국 대가를 치르게 만드는 ‘숙적/응보’라는 이미지입니다.",
+    "etymology": "고대 그리스어 Nemesis(응보·정의의 여신)에서 유래해, ‘응징’의 의미가 ‘숙적/몰락의 원인’으로 확장되었습니다.",
+    "semanticExtension": "신화적 ‘응보’에서 현대에는 ‘아킬레스건을 찌르는 숙적’ 또는 ‘궁극의 약점/파멸 요인’으로 비유적으로 넓어졌습니다.",
+    "nuanceRegister": "일상에서도 가능하지만 다소 문어적·드라마틱한 어감이 있습니다(서사/기사/평론에서 특히 자연스러움).",
+    "grammarNotes": "가산명사로 a nemesis / one’s nemesis 형태가 일반적입니다. ‘the nemesis of ~’(~의 천적/약점)처럼 of 구문이 빈번합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 숙적/천적",
+        "example": "the nemesis of every champion"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게는 숙적",
+        "example": "a nemesis to the regime"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에게(결국) 응보/파멸 요인",
+        "example": "a nemesis for careless leaders"
+      }
+    ],
+    "requiredComplements": [
+      "one's nemesis: (한 사람의) 숙적",
+      "the nemesis of + 대상: ~의 천적/약점/파멸 요인",
+      "become/prove + one's nemesis: 숙적/파멸 요인이 되다"
+    ],
+    "morphology": "그리스 신화 고유명사 Nemesis에서 일반명사화. 현대 영어에서는 어근 분해보다는 ‘개념(응보/숙적)’으로 기억하는 편이 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "nemeses",
+        "meaning_ko": "nemesis의 복수형"
+      },
+      {
+        "word": "nemesian",
+        "meaning_ko": "네메시스의/응보의(드문 형용사)"
+      },
+      {
+        "word": "nemetic",
+        "meaning_ko": "응보를 내리는(매우 드문 형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "rival",
+        "meaning_ko": "경쟁자"
+      },
+      {
+        "word": "archenemy",
+        "meaning_ko": "원수, 숙적"
+      },
+      {
+        "word": "downfall",
+        "meaning_ko": "몰락"
+      },
+      {
+        "word": "retribution",
+        "meaning_ko": "응보"
+      },
+      {
+        "word": "Achilles' heel",
+        "meaning_ko": "치명적 약점"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "archenemy",
+        "meaning_ko": "숙적"
+      },
+      {
+        "word": "mortal enemy",
+        "meaning_ko": "불구대천의 원수"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "rival",
+        "meaning_ko": "경쟁자(치명성은 약함)"
+      },
+      {
+        "word": "adversary",
+        "meaning_ko": "적수/상대(격식)"
+      },
+      {
+        "word": "bane",
+        "meaning_ko": "골칫거리; 파멸의 원인(문어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ally",
+        "meaning_ko": "동맹, 아군"
+      },
+      {
+        "word": "benefactor",
+        "meaning_ko": "후원자, 은인"
+      },
+      {
+        "word": "supporter",
+        "meaning_ko": "지지자"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "my nemesis",
+            "meaning_ko": "내 숙적"
+          },
+          {
+            "phrase": "a lifelong nemesis",
+            "meaning_ko": "평생의 숙적"
+          },
+          {
+            "phrase": "become his nemesis",
+            "meaning_ko": "그의 숙적이 되다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "the nemesis of a champion",
+            "meaning_ko": "챔피언의 천적"
+          },
+          {
+            "phrase": "prove to be a nemesis",
+            "meaning_ko": "결국 파멸 요인이 되다"
+          },
+          {
+            "phrase": "face one's nemesis",
+            "meaning_ko": "숙적과 맞서다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "hubris as a nemesis",
+            "meaning_ko": "오만이 파멸 요인이 되다"
+          },
+          {
+            "phrase": "the nemesis of complacency",
+            "meaning_ko": "자만의 천적/응징"
+          },
+          {
+            "phrase": "a nemesis that exposes systemic flaws",
+            "meaning_ko": "구조적 결함을 드러내는 치명적 요인"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Math has always been my nemesis.",
+            "meaning_ko": "수학은 늘 제 숙적이었어요."
+          },
+          {
+            "sentence": "He finally defeated his nemesis.",
+            "meaning_ko": "그는 마침내 숙적을 이겼습니다."
+          },
+          {
+            "sentence": "That team is our nemesis every season.",
+            "meaning_ko": "그 팀은 매 시즌 우리에게 천적입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Poor planning became the project’s nemesis.",
+            "meaning_ko": "부실한 계획이 그 프로젝트의 파멸 요인이 되었습니다."
+          },
+          {
+            "sentence": "For the striker, injuries were a recurring nemesis.",
+            "meaning_ko": "그 공격수에게 부상은 반복되는 ‘숙적’이었습니다."
+          },
+          {
+            "sentence": "The scandal proved to be the administration’s nemesis.",
+            "meaning_ko": "그 스캔들은 정부의 치명적 약점이자 몰락 요인이 되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In tragedies, unchecked pride often returns as nemesis, turning victory into ruin.",
+            "meaning_ko": "비극 서사에서는 통제되지 않은 오만이 응보로 돌아와 승리를 파멸로 바꾸곤 합니다."
+          },
+          {
+            "sentence": "What looked like a minor bug became the nemesis of the entire release pipeline.",
+            "meaning_ko": "사소해 보이던 버그가 배포 파이프라인 전체의 치명적 약점이 되었습니다."
+          },
+          {
+            "sentence": "The investigation exposed that complacency was the nemesis of long-term resilience.",
+            "meaning_ko": "조사는 자만이 장기적 회복탄력성의 천적임을 드러냈습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "nemesis는 ‘오랜 숙적’과 ‘응보(피할 수 없는 대가)’ 두 축으로 기억하면 안정적입니다. rival은 단순 경쟁자이고, nemesis는 ‘결정적으로 발목을 잡는 존재/요인’이라는 드라마틱한 뉘앙스가 강합니다. 표현은 one’s nemesis, the nemesis of + 대상, prove to be a nemesis가 시험에서 특히 유용합니다.",
+    "tags": [
+      "서사",
+      "비유",
+      "경쟁",
+      "문학적 표현",
+      "일상 비유"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: That rival is my ____.",
+            "a": "nemesis",
+            "meaning_ko": "숙적을 nemesis로 표현합니다."
+          },
+          {
+            "q": "Choose the best meaning of 'nemesis': (A) helper (B) enemy who causes downfall (C) teacher",
+            "a": "enemy who causes downfall",
+            "meaning_ko": "치명적 숙적/파멸 요인 의미입니다."
+          },
+          {
+            "q": "Which is natural? (A) my nemesis (B) my nemesises",
+            "a": "my nemesis",
+            "meaning_ko": "단수형은 nemesis입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best phrase: 'the ____ of every careless driver' (nemesis / ally / souvenir)",
+            "a": "nemesis",
+            "meaning_ko": "careless(부주의한)와 함께 ‘응보/천적’이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the best preposition: 'the nemesis ___ the champion' (of / at / on)",
+            "a": "of",
+            "meaning_ko": "the nemesis of ~ 가 가장 흔한 패턴입니다."
+          },
+          {
+            "q": "Rewrite: 'Bad habits caused his downfall.' (use 'nemesis')",
+            "a": "Bad habits became his nemesis.",
+            "meaning_ko": "원인=파멸 요인으로 nemesis를 쓸 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Which sentence uses 'nemesis' most appropriately?",
+            "a": "Complacency proved to be the company’s nemesis during the crisis.",
+            "meaning_ko": "추상적 요인도 ‘치명적 약점/응보’로 표현 가능합니다."
+          },
+          {
+            "q": "Choose the closest near-synonym in tone: 'nemesis' (rival / adversary / ally)",
+            "a": "adversary",
+            "meaning_ko": "rival보다 강하고 격식 있는 적수를 adversary로 볼 수 있습니다."
+          },
+          {
+            "q": "Fill in: In the narrative, hubris returns as ____ and overturns the hero’s success.",
+            "a": "nemesis",
+            "meaning_ko": "문학적 ‘응보’ 의미로 정확합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

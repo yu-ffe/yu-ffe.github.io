@@ -1,0 +1,891 @@
+[
+  {
+    "word": "ennui",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A persistent feeling of boredom, weariness, or dissatisfaction, especially with life or routine.",
+        "definition_ko": "일상이나 삶 전반에 대한 지속적인 권태감·무기력·불만족.",
+        "note": "단순히 '지루함'보다 더 길고 공허한 권태(권태감·염증)에 가깝습니다."
+      }
+    ],
+    "concept": "자극이 사라진 일상 속에서 오래도록 눌러앉는 공허한 권태감.",
+    "etymology": "프랑스어 ennui(지루함, 성가심)에서 들어왔으며, 문학·비평 맥락에서 ‘권태/염증’의 뉘앙스로 자주 사용됩니다.",
+    "semanticExtension": "개인의 심리 상태를 넘어, 사회·문화적 ‘허무/권태’(예: 현대인의 도시적 권태) 같은 추상적 진단으로도 확장됩니다.",
+    "nuanceRegister": "문어·격식·비평/문학적 느낌이 강한 단어로, 일상회화에서는 boredom를 더 흔히 씁니다.",
+    "grammarNotes": "주로 불가산처럼 쓰이며 보통 ‘a’ 없이 사용합니다. 'feel ennui', 'a sense of ennui'처럼 감정·상태를 나타내는 표현과 잘 결합합니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사(대개), 문맥상 가산처럼도 가능(드물게: an ennui)",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~에 대한/에서 오는 권태",
+        "example": "a sense of ennui"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~에 질려서 생긴 권태",
+        "example": "ennui with routine tasks"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "~에 대한 권태/염증(드묾)",
+        "example": "ennui at the endless meetings"
+      }
+    ],
+    "requiredComplements": [
+      "a sense/feeling of ennui (권태감)",
+      "ennui with + 명사/동명사 (…에 질린 권태)",
+      "ennui that + S V (…라는 무기력·권태가)"
+    ],
+    "morphology": "프랑스어 어원 차용어로, 영어 내부에서 의미 구성(접두/접미)로 분석하기보다는 ‘권태’라는 단일 개념으로 암기하는 편이 안전합니다.",
+    "derivatives": [
+      {
+        "word": "ennui-ridden",
+        "meaning_ko": "권태에 시달리는(형용사)"
+      },
+      {
+        "word": "ennui-filled",
+        "meaning_ko": "권태로 가득한(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "boredom",
+        "meaning_ko": "지루함(일반적)"
+      },
+      {
+        "word": "listlessness",
+        "meaning_ko": "무기력, 맥 빠짐"
+      },
+      {
+        "word": "apathy",
+        "meaning_ko": "무관심, 냉담"
+      },
+      {
+        "word": "malaise",
+        "meaning_ko": "막연한 불쾌감/권태(사회적·심리적)"
+      },
+      {
+        "word": "monotony",
+        "meaning_ko": "단조로움"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "boredom",
+        "meaning_ko": "지루함"
+      },
+      {
+        "word": "weariness",
+        "meaning_ko": "권태, 피로감"
+      },
+      {
+        "word": "listlessness",
+        "meaning_ko": "무기력"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "apathy",
+        "meaning_ko": "무관심(감정이 식음)"
+      },
+      {
+        "word": "malaise",
+        "meaning_ko": "막연한 불편/침체"
+      },
+      {
+        "word": "tedium",
+        "meaning_ko": "지겨움(지루한 일을 견딤)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "excitement",
+        "meaning_ko": "흥분, 들뜸"
+      },
+      {
+        "word": "engagement",
+        "meaning_ko": "몰입, 참여"
+      },
+      {
+        "word": "zest",
+        "meaning_ko": "열정, 활기"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a sense of ennui",
+            "meaning_ko": "권태감"
+          },
+          {
+            "phrase": "feel ennui",
+            "meaning_ko": "권태를 느끼다"
+          },
+          {
+            "phrase": "deep ennui",
+            "meaning_ko": "깊은 권태"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "existential ennui",
+            "meaning_ko": "실존적 권태"
+          },
+          {
+            "phrase": "urban ennui",
+            "meaning_ko": "도시적 권태"
+          },
+          {
+            "phrase": "midlife ennui",
+            "meaning_ko": "중년의 권태"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a pervasive ennui",
+            "meaning_ko": "만연한 권태"
+          },
+          {
+            "phrase": "ennui that seeps into daily life",
+            "meaning_ko": "일상에 스며드는 권태"
+          },
+          {
+            "phrase": "an ennui-laden narrative",
+            "meaning_ko": "권태가 짙게 배어 있는 서사"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "After a week of rain, a quiet ennui settled over the town.",
+            "meaning_ko": "일주일 내내 비가 오자 마을엔 잔잔한 권태가 내려앉았다."
+          },
+          {
+            "sentence": "He felt ennui during the long commute.",
+            "meaning_ko": "그는 긴 출퇴근길 동안 권태를 느꼈다."
+          },
+          {
+            "sentence": "The movie captured the ennui of a small seaside village.",
+            "meaning_ko": "그 영화는 작은 해변 마을의 권태를 담아냈다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Her success did not cure the ennui that came from repeating the same routine.",
+            "meaning_ko": "성공은 같은 일상을 반복하며 생긴 권태를 없애 주지 못했다."
+          },
+          {
+            "sentence": "A sense of ennui made the conference hall feel even colder.",
+            "meaning_ko": "권태감이 회의장을 더 차갑게 느끼게 했다."
+          },
+          {
+            "sentence": "He tried new hobbies to shake off his midlife ennui.",
+            "meaning_ko": "그는 중년의 권태를 떨치려 새 취미를 시도했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Beneath the cheerful slogans, a pervasive ennui revealed a culture exhausted by constant consumption.",
+            "meaning_ko": "명랑한 구호 아래에는 끊임없는 소비에 지친 문화가 낳은 만연한 권태가 드러났다."
+          },
+          {
+            "sentence": "The novel frames ennui not as laziness but as the psychological cost of living without meaning.",
+            "meaning_ko": "그 소설은 권태를 게으름이 아니라 의미 없이 사는 데 따르는 심리적 대가로 그린다."
+          },
+          {
+            "sentence": "His polished sarcasm was a mask for an ennui that he could neither name nor escape.",
+            "meaning_ko": "그의 세련된 냉소는 이름 붙일 수도 벗어날 수도 없는 권태를 가리는 가면이었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ennui는 boredom보다 ‘지속적·공허한 권태’ 쪽에 가깝습니다. 시험에서는 ‘existential/urban/midlife ennui’ 같은 수식어와 함께 나오면 ‘염증·권태·허무’로 잡아두면 안전합니다. 철자(ennui)와 발음(/ɑːnˈwiː/에 가까움)을 같이 익혀두면 기억이 오래 갑니다.",
+    "tags": [
+      "심리",
+      "감정",
+      "문학",
+      "권태",
+      "일상"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'ennui'.\n(A) sudden anger (B) deep boredom (C) loud excitement (D) physical pain",
+            "a": "(B) deep boredom",
+            "meaning_ko": "ennui는 ‘지속적이고 공허한 권태’입니다."
+          },
+          {
+            "q": "Fill in the blank: After doing the same task for months, she felt _____.",
+            "a": "ennui",
+            "meaning_ko": "반복되는 일상으로 인한 권태에 ennui가 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase is most natural?\n(A) an ennui of (B) a sense of ennui (C) ennui to (D) ennui from at",
+            "a": "(B) a sense of ennui",
+            "meaning_ko": "a sense/feeling of ennui가 대표 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: He was tired _____ the routine and sank into ennui. (of / with / at)",
+            "a": "of",
+            "meaning_ko": "tired of + 명사(루틴)에 질렸다 → 권태로 이어짐."
+          },
+          {
+            "q": "Pick the closest word to 'ennui' in this context: 'an urban ennui among office workers'.\n(A) zeal (B) apathy (C) excitement (D) bravery",
+            "a": "(B) apathy",
+            "meaning_ko": "완전 동의는 아니지만 도시적 권태와 가까운 정서로 apathy가 적절합니다."
+          },
+          {
+            "q": "Rewrite using 'ennui': 'He felt a dull boredom that lasted for weeks.'",
+            "a": "He felt an ennui that lasted for weeks.",
+            "meaning_ko": "dull boredom(무딘 지루함)을 ennui로 압축해 표현합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The essay treats ennui as _____.\n(A) a minor inconvenience (B) the absence of meaning (C) a medical diagnosis only (D) a form of physical strength",
+            "a": "(B) the absence of meaning",
+            "meaning_ko": "고급 지문에서 ennui는 종종 ‘의미 상실/허무’와 연결됩니다."
+          },
+          {
+            "q": "Error correction: 'Her ennui was cured at a single vacation.' (Find and fix the most unnatural part.)",
+            "a": "Her ennui wasn't cured by a single vacation.",
+            "meaning_ko": "ennui는 지속적 정서라 ‘한 번의 휴가로 완치’가 어색하므로 by/with와 부정을 활용합니다."
+          },
+          {
+            "q": "Insert 'ennui' naturally: 'Behind the glitter, the characters reveal ______ that corrodes their relationships.'",
+            "a": "an ennui",
+            "meaning_ko": "문어체 문장에서는 관용적으로 an ennui처럼 가산적으로도 쓰이지만, 보통은 ‘a sense of ennui’도 가능하다는 점을 기억하세요."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "boorish",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Rude, insensitive, or ill-mannered; behaving like a boor.",
+        "definition_ko": "무례하고 둔감하며 예의 없는; 촌스럽게 거친.",
+        "note": "단순히 '무례'뿐 아니라 ‘눈치 없고 교양 없는’ 뉘앙스가 같이 따라옵니다."
+      }
+    ],
+    "concept": "타인을 배려하지 못하고 예의·교양이 부족한 거친 태도.",
+    "etymology": "boor(무례한 사람, 촌뜨기)에서 파생된 형용사로, 원래는 ‘시골 농부/촌사람’ 의미에서 ‘교양 없는 사람’의 의미로 확장되었습니다.",
+    "semanticExtension": "개인의 언행뿐 아니라 ‘boorish humor/behavior’처럼 분위기·행동 양식 전반의 촌스럽고 무딘 무례함을 묘사하는 데도 씁니다.",
+    "nuanceRegister": "비판적·격식 있는 어휘로, 공식적 글쓰기나 평가·비평에서 자주 보입니다(일상에서는 rude/impolite가 더 흔함).",
+    "grammarNotes": "보통 명사 앞/서술 보어로 모두 가능하며, 'boorish to + 사람' 또는 'boorish about + 주제'처럼 전치사 결합이 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 무례한",
+        "example": "boorish to the waiter"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 무례/경박한 태도를 보이는",
+        "example": "boorish about sensitive topics"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(행동에서) 무례한",
+        "example": "boorish in public"
+      }
+    ],
+    "requiredComplements": [
+      "boorish to + 사람 (…에게 무례한)",
+      "boorish about + 주제 (…을 다루는 태도가 거친)",
+      "boorish behavior/remarks (무례한 행동/발언)"
+    ],
+    "morphology": "boor(무례한 사람) + -ish(…같은 성질의)로, ‘boor 같은’ → ‘무례하고 교양 없는’ 의미를 형성합니다.",
+    "derivatives": [
+      {
+        "word": "boor",
+        "meaning_ko": "무례한 사람, 교양 없는 사람"
+      },
+      {
+        "word": "boorishly",
+        "meaning_ko": "무례하게(부사)"
+      },
+      {
+        "word": "boorishness",
+        "meaning_ko": "무례함, 교양 없음(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "rude",
+        "meaning_ko": "무례한"
+      },
+      {
+        "word": "crass",
+        "meaning_ko": "천박한, 상스럽게 무례한"
+      },
+      {
+        "word": "uncouth",
+        "meaning_ko": "교양 없는, 투박한"
+      },
+      {
+        "word": "tactless",
+        "meaning_ko": "눈치 없는, 무신경한"
+      },
+      {
+        "word": "brusque",
+        "meaning_ko": "퉁명스러운, 딱딱하게 무례한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rude",
+        "meaning_ko": "무례한"
+      },
+      {
+        "word": "ill-mannered",
+        "meaning_ko": "버릇없는"
+      },
+      {
+        "word": "uncouth",
+        "meaning_ko": "교양 없는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "crass",
+        "meaning_ko": "천박하게 거친"
+      },
+      {
+        "word": "tactless",
+        "meaning_ko": "눈치 없는"
+      },
+      {
+        "word": "brusque",
+        "meaning_ko": "무뚝뚝한(대인 태도)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "polite",
+        "meaning_ko": "예의 바른"
+      },
+      {
+        "word": "courteous",
+        "meaning_ko": "공손한"
+      },
+      {
+        "word": "refined",
+        "meaning_ko": "세련된, 교양 있는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "boorish behavior",
+            "meaning_ko": "무례한 행동"
+          },
+          {
+            "phrase": "boorish remarks",
+            "meaning_ko": "무례한 발언"
+          },
+          {
+            "phrase": "boorish attitude",
+            "meaning_ko": "거친 태도"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "boorish sense of humor",
+            "meaning_ko": "촌스럽고 거친 유머"
+          },
+          {
+            "phrase": "boorish to staff",
+            "meaning_ko": "직원에게 무례한"
+          },
+          {
+            "phrase": "boorish in public",
+            "meaning_ko": "공공장소에서 무례한"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a boorish display of power",
+            "meaning_ko": "권력을 무례하게 과시하는 모습"
+          },
+          {
+            "phrase": "boorish disregard for boundaries",
+            "meaning_ko": "경계를 무시하는 거친 태도"
+          },
+          {
+            "phrase": "boorish bravado",
+            "meaning_ko": "교양 없는 허세"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His boorish jokes made everyone uncomfortable.",
+            "meaning_ko": "그의 거친 농담이 모두를 불편하게 만들었다."
+          },
+          {
+            "sentence": "It was boorish to cut in line without apologizing.",
+            "meaning_ko": "사과도 없이 새치기하는 건 무례한 행동이었다."
+          },
+          {
+            "sentence": "She refused to tolerate boorish behavior at the table.",
+            "meaning_ko": "그녀는 식탁에서의 무례한 행동을 용납하지 않았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He sounded boorish when he dismissed her concerns as 'overreacting.'",
+            "meaning_ko": "그가 그녀의 걱정을 ‘과민반응’이라며 일축했을 때 무례하게 들렸다."
+          },
+          {
+            "sentence": "The critic called the film's humor boorish rather than bold.",
+            "meaning_ko": "평론가는 그 영화의 유머를 대담하기보다는 거칠고 촌스럽다고 평했다."
+          },
+          {
+            "sentence": "Being boorish to service workers is a quick way to lose respect.",
+            "meaning_ko": "서비스직 종사자에게 무례하게 구는 건 존중을 잃는 지름길이다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "His boorish display of power, masked as 'honesty,' undermined the trust he claimed to value.",
+            "meaning_ko": "‘솔직함’으로 포장된 그의 무례한 권력 과시는 그가 중요하다고 말하던 신뢰를 무너뜨렸다."
+          },
+          {
+            "sentence": "The debate collapsed when boorish bravado replaced careful argumentation.",
+            "meaning_ko": "신중한 논증 대신 교양 없는 허세가 자리 잡자 토론은 붕괴했다."
+          },
+          {
+            "sentence": "A boorish disregard for boundaries can be more damaging than open hostility.",
+            "meaning_ko": "경계를 무시하는 거친 태도는 노골적인 적대보다 더 해로울 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "boorish는 rude보다 ‘교양 없음/눈치 없음/촌스러움’이 더 강하게 느껴집니다. 인물 묘사에서 boorish가 나오면 ‘무례하다’만 쓰지 말고 ‘거칠고 둔감한 태도’까지 덧붙여 해석해 보세요. boor(명사)와 같이 묶어서 외우면 파생(boorishness, boorishly)까지 한 번에 정리됩니다.",
+    "tags": [
+      "성격",
+      "대인관계",
+      "비판",
+      "예절",
+      "태도"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning of 'boorish'.\n(A) polite (B) rude and insensitive (C) timid (D) highly skilled",
+            "a": "(B) rude and insensitive",
+            "meaning_ko": "boorish는 무례하고 둔감한 태도입니다."
+          },
+          {
+            "q": "Fill in the blank: It was _____ of him to shout at the waiter.",
+            "a": "boorish",
+            "meaning_ko": "대상에게 소리치는 행동은 boorish로 자연스럽게 묘사됩니다."
+          },
+          {
+            "q": "Which collocation sounds most natural?\n(A) boorish sunshine (B) boorish remarks (C) boorish geometry (D) boorish oxygen",
+            "a": "(B) boorish remarks",
+            "meaning_ko": "발언/태도/행동과 함께 자주 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: He was boorish _____ the staff all night. (to / of / at)",
+            "a": "to",
+            "meaning_ko": "boorish to + 사람(대상) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the best rewrite: 'His humor was rude and tasteless.' (Use 'boorish')",
+            "a": "His humor was boorish.",
+            "meaning_ko": "boorish는 ‘거칠고 교양 없는’ 유머를 간단히 압축합니다."
+          },
+          {
+            "q": "Which word is NOT a near-synonym of boorish?\n(A) uncouth (B) crass (C) courteous (D) tactless",
+            "a": "(C) courteous",
+            "meaning_ko": "courteous는 ‘공손한’으로 반의어 쪽입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The manager's boorish display of power _____ morale across the team.\n(A) elevated (B) undermined (C) restored (D) preserved",
+            "a": "(B) undermined",
+            "meaning_ko": "boorish한 행동은 대체로 신뢰/사기를 ‘깎아먹는’ 방향으로 전개됩니다."
+          },
+          {
+            "q": "Error correction: 'He acted boorish for everyone in the room.' (Fix the preposition/structure.)",
+            "a": "He acted boorishly in front of everyone in the room.",
+            "meaning_ko": "act + 부사(boorishly)가 자연스럽고, ‘in front of’로 대상/상황을 표현합니다."
+          },
+          {
+            "q": "Insert 'boorish' naturally: 'The article criticizes a ______ confidence that ignores basic facts.'",
+            "a": "boorish",
+            "meaning_ko": "근거 없이 사실을 무시하는 ‘교양 없는 자신감/허세’에 boorish가 잘 붙습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adversary",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "An opponent or enemy, especially one who actively fights or competes against you.",
+        "definition_ko": "적수, 반대자, 적(특히 적극적으로 맞서 싸우거나 경쟁하는 상대).",
+        "note": "경쟁 상대(opponent)보다 ‘적대적’ 뉘앙스가 더 강할 수 있습니다."
+      }
+    ],
+    "concept": "이익·목표가 충돌해 적극적으로 맞서는 ‘상대 편’(적/대항자).",
+    "etymology": "라틴어 adversarius(맞서는 사람)에서 유래했으며, ad- ‘~쪽으로’ + vertere ‘돌리다’ 계열 어근이 ‘반대 방향으로 맞서다’의 의미를 형성합니다.",
+    "semanticExtension": "개인/팀 간 경쟁뿐 아니라 ‘정책의 adversary’, ‘cyber adversary’처럼 제도·국가·위협 주체를 지칭하는 전문 문맥으로도 넓게 쓰입니다.",
+    "nuanceRegister": "격식·문어적 느낌이 있으며, 뉴스/법률/안보/학술 문맥에서 ‘상대 진영/적대자’로 자주 사용됩니다.",
+    "grammarNotes": "대개 가산명사이며 단수/복수 모두 흔합니다(adversary/adversaries). 상황에 따라 rival(경쟁자)보다 더 공격적·적대적일 때 선택됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 적/대항자",
+        "example": "an adversary of the regime"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 상대/적",
+        "example": "an adversary in court"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 맞서는(상대편)이라는 뉘앙스(구어적)",
+        "example": "an adversary against powerful interests"
+      }
+    ],
+    "requiredComplements": [
+      "an adversary of + 명사 (…의 적/대항자)",
+      "a formidable/adroit adversary (만만치 않은 적수)",
+      "face an adversary (적/상대를 맞닥뜨리다)"
+    ],
+    "morphology": "adversary는 어근상 ‘맞서다/반대’의 의미를 담고 있으나, 현대 영어에서는 단어 자체를 하나로 묶어 ‘적수/적’으로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "adversarial",
+        "meaning_ko": "적대적인, 대립하는(형용사)"
+      },
+      {
+        "word": "adversarially",
+        "meaning_ko": "적대적으로(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "opponent",
+        "meaning_ko": "상대(경쟁/대결)"
+      },
+      {
+        "word": "enemy",
+        "meaning_ko": "적(적대 관계)"
+      },
+      {
+        "word": "rival",
+        "meaning_ko": "라이벌(경쟁자)"
+      },
+      {
+        "word": "contender",
+        "meaning_ko": "도전자, 경쟁자"
+      },
+      {
+        "word": "antagonist",
+        "meaning_ko": "적대자(갈등의 주체)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "opponent",
+        "meaning_ko": "상대"
+      },
+      {
+        "word": "enemy",
+        "meaning_ko": "적"
+      },
+      {
+        "word": "antagonist",
+        "meaning_ko": "적대자"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "rival",
+        "meaning_ko": "라이벌(경쟁 중심)"
+      },
+      {
+        "word": "contender",
+        "meaning_ko": "도전자(경쟁 구도)"
+      },
+      {
+        "word": "foe",
+        "meaning_ko": "적(문어적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ally",
+        "meaning_ko": "동맹, 우군"
+      },
+      {
+        "word": "partner",
+        "meaning_ko": "협력자"
+      },
+      {
+        "word": "supporter",
+        "meaning_ko": "지지자"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "an adversary in a debate",
+            "meaning_ko": "토론에서의 상대편"
+          },
+          {
+            "phrase": "face an adversary",
+            "meaning_ko": "적수를 마주하다"
+          },
+          {
+            "phrase": "defeat an adversary",
+            "meaning_ko": "상대를 물리치다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a formidable adversary",
+            "meaning_ko": "만만치 않은 적수"
+          },
+          {
+            "phrase": "political adversary",
+            "meaning_ko": "정치적 반대자"
+          },
+          {
+            "phrase": "legal adversary",
+            "meaning_ko": "법정에서의 상대(상대방)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a sophisticated adversary",
+            "meaning_ko": "고도화된 적대 주체(안보/사이버)"
+          },
+          {
+            "phrase": "an adversary with asymmetric advantages",
+            "meaning_ko": "비대칭 우위를 가진 적"
+          },
+          {
+            "phrase": "adversary capabilities and intent",
+            "meaning_ko": "적의 능력과 의도(분석 용어)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She respected her adversary and played fair.",
+            "meaning_ko": "그녀는 상대를 존중하며 정정당당하게 임했다."
+          },
+          {
+            "sentence": "He became her adversary in the election.",
+            "meaning_ko": "그는 선거에서 그녀의 경쟁 상대(반대자)가 되었다."
+          },
+          {
+            "sentence": "A good strategist studies an adversary's habits.",
+            "meaning_ko": "좋은 전략가는 상대의 습관을 연구한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The negotiator treated even a hostile adversary as someone who could be persuaded.",
+            "meaning_ko": "협상가는 적대적인 상대조차 설득 가능한 대상으로 대했다."
+          },
+          {
+            "sentence": "In court, he faced an adversary with far more resources.",
+            "meaning_ko": "법정에서 그는 훨씬 더 많은 자원을 가진 상대와 맞섰다."
+          },
+          {
+            "sentence": "They underestimated their adversary and paid for it.",
+            "meaning_ko": "그들은 적수를 과소평가했고 그 대가를 치렀다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "When the adversary is adaptive, a static defense becomes an invitation to be exploited.",
+            "meaning_ko": "적이 적응적으로 움직이면, 고정된 방어는 오히려 취약점을 파고들라는 초대가 된다."
+          },
+          {
+            "sentence": "The report distinguishes between an adversary's capabilities and its intent, warning against simplistic assumptions.",
+            "meaning_ko": "그 보고서는 적의 능력과 의도를 구분하며 단순한 가정의 위험을 경고한다."
+          },
+          {
+            "sentence": "He reframed his fiercest adversary as a necessary constraint that sharpened his own reasoning.",
+            "meaning_ko": "그는 가장 거센 반대자를 자신의 사고를 예리하게 만드는 필수 제약으로 재해석했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "adversary는 opponent보다 ‘적대/대립’ 뉘앙스가 강합니다. 시험 지문에서 ‘political/legal/cyber adversary’처럼 수식어가 붙으면 ‘상대편 진영/위협 주체’로 넓게 해석하세요. 함께 나오는 단어로 ally(우군)와 대비시켜 두면 문맥 판단이 빨라집니다.",
+    "tags": [
+      "경쟁",
+      "대립",
+      "정치",
+      "법률",
+      "안보"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'adversary'.\n(A) helper (B) opponent or enemy (C) teacher (D) passenger",
+            "a": "(B) opponent or enemy",
+            "meaning_ko": "adversary는 적수/적대자입니다."
+          },
+          {
+            "q": "Fill in the blank: The boxer studied his _____ before the match.",
+            "a": "adversary",
+            "meaning_ko": "경기 전 상대(적수)를 연구하는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is an antonym of 'adversary'?\n(A) ally (B) foe (C) rival (D) opponent",
+            "a": "(A) ally",
+            "meaning_ko": "ally는 우군/동맹으로 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: They faced a _____ adversary. (formidable / edible / porous / vacant)",
+            "a": "formidable",
+            "meaning_ko": "formidable adversary(만만치 않은 적수)가 대표 결합입니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'a political adversary'.\n(A) political ally (B) political opponent (C) political hobby (D) political furniture",
+            "a": "(B) political opponent",
+            "meaning_ko": "정치적 반대자/경쟁자라는 의미입니다."
+          },
+          {
+            "q": "Choose the best preposition: He was an adversary _____ the regime. (of / in / at)",
+            "a": "of",
+            "meaning_ko": "an adversary of + 명사(…의 적/대항자) 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: Against a sophisticated adversary, security depends on _____.\n(A) a single static rule (B) adaptive monitoring and response (C) ignoring alerts (D) hiding all documentation",
+            "a": "(B) adaptive monitoring and response",
+            "meaning_ko": "고도화된 적대 주체에는 ‘적응적 대응’이 핵심이라는 논지로 자주 전개됩니다."
+          },
+          {
+            "q": "Error correction: 'They underestimated their adversary, so the plan succeed.' (Fix the grammar logically.)",
+            "a": "They underestimated their adversary, so the plan failed.",
+            "meaning_ko": "과소평가의 결과는 보통 실패로 이어지므로 의미상 failed가 자연스럽고, 문법도 맞춥니다."
+          },
+          {
+            "q": "Insert 'adversary' naturally: 'The analysis focuses on ______ capabilities, intent, and constraints.'",
+            "a": "adversary",
+            "meaning_ko": "능력(capabilities)·의도(intent)·제약(constraints)과 함께 자주 묶이는 분석 문맥입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

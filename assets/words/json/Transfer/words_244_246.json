@@ -1,0 +1,1015 @@
+[
+  {
+    "word": "coincidence",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A surprising concurrence of events or circumstances that seems connected but is actually accidental.",
+        "definition_ko": "겉보기엔 연결된 듯하지만 실제로는 우연히 동시에 일어난 사건·상황의 일치.",
+        "note": "‘우연히 겹침/일치’가 핵심이며, 운명적 연결(=fate)과는 구분합니다."
+      },
+      {
+        "definition_en": "The fact of two or more things happening at the same time or in the same place.",
+        "definition_ko": "둘 이상의 일이 같은 시간·장소에 함께 발생하는 일치(동시성).",
+        "note": "중립적으로 ‘동시 발생’만 말할 때도 씁니다."
+      }
+    ],
+    "concept": "의미 있는 연결처럼 보이지만 실제로는 ‘우연히 겹친 일치’.",
+    "etymology": "라틴어 co-('함께') + incidere('일어나다/떨어지다')에서 유래해, ‘함께 일어남’이라는 의미가 영어로 굳었습니다.",
+    "semanticExtension": "단순한 사건의 ‘우연한 겹침’에서 출발해, ‘이상하게 맞아떨어짐’(strange coincidence)처럼 심리적 놀라움·의심을 동반하는 뉘앙스로 확장됩니다.",
+    "nuanceRegister": "격식·일상 모두 사용 가능하며, 설명문/대화에서 흔합니다. ‘just a coincidence’는 구어적 완화 표현으로 자주 씁니다.",
+    "grammarNotes": "보통 단수로 쓰되 ‘a coincidence’로 사건 하나를, ‘by coincidence’로 ‘우연히’를 표현합니다. ‘It’s (no) coincidence that ~’ 구문이 매우 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "우연히(=우연의 일치로)",
+        "example": "We met by coincidence at the station."
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와(의) 우연한 일치",
+        "example": "The timing was a coincidence with the launch."
+      },
+      {
+        "prep": "between",
+        "meaning_ko": "A와 B 사이의 우연한 일치",
+        "example": "the coincidence between two reports"
+      }
+    ],
+    "requiredComplements": [
+      "coincidence that + S V : ~라는 것이 우연의 일치",
+      "(a) coincidence between A and B : A와 B 사이의 우연한 일치",
+      "by coincidence : 우연히"
+    ],
+    "morphology": "co-(함께) + incid(e)-(일어나다/발생하다) + -ence(명사형)",
+    "derivatives": [
+      {
+        "word": "coincide",
+        "meaning_ko": "우연히 일치하다; 동시에 일어나다"
+      },
+      {
+        "word": "coincidental",
+        "meaning_ko": "우연의; 우연히 일치하는"
+      },
+      {
+        "word": "coincidentally",
+        "meaning_ko": "우연히; 공교롭게도"
+      },
+      {
+        "word": "incidence",
+        "meaning_ko": "발생(률); 일어남(관련 어근)"
+      },
+      {
+        "word": "incident",
+        "meaning_ko": "사건; 일어난 일(관련 어근)"
+      }
+    ],
+    "related": [
+      {
+        "word": "chance",
+        "meaning_ko": "우연; 가능성"
+      },
+      {
+        "word": "synchronicity",
+        "meaning_ko": "동시성(의미 있는 우연으로 해석하는 개념)"
+      },
+      {
+        "word": "randomness",
+        "meaning_ko": "무작위성"
+      },
+      {
+        "word": "alignment",
+        "meaning_ko": "정렬; (상황의) 맞아떨어짐"
+      },
+      {
+        "word": "convergence",
+        "meaning_ko": "수렴; (요소들의) 한데 모임"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "accident",
+        "meaning_ko": "우연한 사건(원인·연결 없이 일어남)"
+      },
+      {
+        "word": "chance occurrence",
+        "meaning_ko": "우연한 발생"
+      },
+      {
+        "word": "happenstance",
+        "meaning_ko": "우연(격식/문어)"
+      },
+      {
+        "word": "fortuity",
+        "meaning_ko": "우연성(문어)"
+      },
+      {
+        "word": "concurrence",
+        "meaning_ko": "동시 발생; 일치(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "serendipity",
+        "meaning_ko": "뜻밖의 행운(좋은 우연)"
+      },
+      {
+        "word": "fate",
+        "meaning_ko": "운명(우연이 아니라 필연으로 해석)"
+      },
+      {
+        "word": "correlation",
+        "meaning_ko": "상관관계(우연·인과와 구분 필요)"
+      },
+      {
+        "word": "compatibility",
+        "meaning_ko": "잘 맞음(성향/조건의 조화)"
+      },
+      {
+        "word": "conspiracy",
+        "meaning_ko": "음모(‘우연이 아니다’라는 해석으로 흐를 때 대비)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "design",
+        "meaning_ko": "의도; 계획"
+      },
+      {
+        "word": "intention",
+        "meaning_ko": "의도"
+      },
+      {
+        "word": "plan",
+        "meaning_ko": "계획"
+      },
+      {
+        "word": "arrangement",
+        "meaning_ko": "준비/배치(의도된)"
+      },
+      {
+        "word": "causation",
+        "meaning_ko": "인과관계"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "by coincidence",
+            "meaning_ko": "우연히"
+          },
+          {
+            "phrase": "a strange coincidence",
+            "meaning_ko": "이상한 우연의 일치"
+          },
+          {
+            "phrase": "just a coincidence",
+            "meaning_ko": "그냥 우연일 뿐"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "pure coincidence",
+            "meaning_ko": "순전한 우연"
+          },
+          {
+            "phrase": "an unfortunate coincidence",
+            "meaning_ko": "불운한 우연의 겹침"
+          },
+          {
+            "phrase": "the coincidence of timing",
+            "meaning_ko": "타이밍의 우연한 일치"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "It’s no coincidence that ~",
+            "meaning_ko": "~인 건 우연이 아니다"
+          },
+          {
+            "phrase": "dismiss ~ as a coincidence",
+            "meaning_ko": "~을 우연으로 치부하다"
+          },
+          {
+            "phrase": "a remarkable coincidence between A and B",
+            "meaning_ko": "A와 B 사이의 놀라운 우연의 일치"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We met by coincidence at the café.",
+            "meaning_ko": "우연히 그 카페에서 만났어요."
+          },
+          {
+            "sentence": "It was just a coincidence, nothing more.",
+            "meaning_ko": "그건 그냥 우연일 뿐이에요."
+          },
+          {
+            "sentence": "What a strange coincidence!",
+            "meaning_ko": "정말 공교로운 우연이네요!"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The coincidence of their arrivals caused a brief confusion.",
+            "meaning_ko": "그들이 동시에 도착한 탓에 잠깐 혼선이 생겼습니다."
+          },
+          {
+            "sentence": "By coincidence, my seat number matched my birthday.",
+            "meaning_ko": "우연히 제 좌석 번호가 제 생일과 같았습니다."
+          },
+          {
+            "sentence": "She insisted it wasn’t a coincidence that the files disappeared.",
+            "meaning_ko": "그녀는 파일이 사라진 게 우연이 아니라고 주장했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "It’s no coincidence that demand spiked right after the policy change.",
+            "meaning_ko": "정책이 바뀐 직후 수요가 급증한 건 우연이 아닙니다."
+          },
+          {
+            "sentence": "He dismissed the overlap as a coincidence, but the pattern persisted.",
+            "meaning_ko": "그는 그 겹침을 우연으로 치부했지만, 그 패턴은 계속되었습니다."
+          },
+          {
+            "sentence": "The report highlights a remarkable coincidence between funding cycles and hiring waves.",
+            "meaning_ko": "그 보고서는 자금 조달 주기와 채용 급증 사이의 눈에 띄는 일치를 강조합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "coincidence는 ‘우연의 일치’로, **인과(causation)**나 **의도(intention)**와 대비시키면 기억이 쉽습니다. 시험에서는 ‘It’s no coincidence that ~’가 ‘~인 건 우연이 아니다(=의도/원인이 있다)’로 자주 출제됩니다. 또한 by coincidence(부사구)와 a coincidence(명사)를 형태로 구분해 두세요.",
+    "tags": [
+      "우연",
+      "논리",
+      "설명문",
+      "일상 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'coincidence'.\nA) a planned event\nB) an accidental overlap\nC) a strict rule\nD) a loud argument",
+            "a": "B",
+            "meaning_ko": "coincidence = 우연한 일치."
+          },
+          {
+            "q": "Fill in the blank: We met ____ coincidence.",
+            "a": "by",
+            "meaning_ko": "관용적으로 by coincidence."
+          },
+          {
+            "q": "Is 'just a coincidence' closer to 'plan' or 'chance'?",
+            "a": "chance",
+            "meaning_ko": "‘그냥 우연’이라는 뜻."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Complete: It's no coincidence that sales ____ after the redesign.",
+            "a": "rose",
+            "meaning_ko": "‘우연이 아니다’ + 결과 동사."
+          },
+          {
+            "q": "Pick the sentence that sounds natural.\nA) It happened in coincidence.\nB) It happened by coincidence.",
+            "a": "B",
+            "meaning_ko": "by coincidence가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest synonym for 'pure coincidence'.\nA) careful design\nB) random chance\nC) official order\nD) legal duty",
+            "a": "B",
+            "meaning_ko": "pure coincidence ≈ random chance."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'dismiss': He said the overlap was only accidental.",
+            "a": "He dismissed the overlap as a coincidence.",
+            "meaning_ko": "dismiss A as B 패턴."
+          },
+          {
+            "q": "Which idea contrasts most with 'coincidence'?\nA) causation\nB) variety\nC) similarity\nD) comfort",
+            "a": "A",
+            "meaning_ko": "우연과 인과는 대비됩니다."
+          },
+          {
+            "q": "Fill in the blank: The author argues that the timing is ____ coincidence but evidence of coordination.",
+            "a": "not a",
+            "meaning_ko": "not a coincidence = 우연이 아니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tear",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A drop of clear salty liquid produced by the eyes, especially when crying.",
+        "definition_ko": "눈에서 나오는 눈물 한 방울(특히 울 때).",
+        "note": "발음 /tɪr/ (티어). 보통 복수 tears로 감정 표현과 함께 자주 씁니다."
+      },
+      {
+        "definition_en": "A rip or hole in something made by pulling it apart.",
+        "definition_ko": "찢어진 틈·구멍; 찢김.",
+        "note": "명사 ‘찢김’은 ‘a tear in + 물건’ 패턴이 흔합니다."
+      },
+      {
+        "definition_en": "To pull something apart violently, causing it to rip.",
+        "definition_ko": "(천·종이 등을) 세게 잡아당겨 찢다.",
+        "note": "동사 발음 /tɛr/ (테어). 과거형 tore, 과거분사 torn."
+      }
+    ],
+    "concept": "눈에서 나는 ‘눈물’(명사)과, 물체를 ‘찢다/찢김’(동사·명사) 두 계열로 기억.",
+    "etymology": "‘눈물’은 고대 영어 tēar(눈물)에서, ‘찢다’는 고대 영어 teran(찢다)에서 왔으며, 철자는 같지만 기원이 다른 동형이의어로 남았습니다.",
+    "semanticExtension": "동사 ‘찢다’에서 ‘tear into someone’(호되게 비난하다)처럼 비유적 확장이 자주 일어납니다. 명사 ‘tears’는 감정의 표출(joyful tears 등)로 확장됩니다.",
+    "nuanceRegister": "눈물(tear)은 일상·문학 모두 흔합니다. ‘tear into’ 같은 구동사는 구어·저널리즘에서도 자연스럽습니다.",
+    "grammarNotes": "동사: tear–tore–torn. 흔한 구동사: tear up(찢다/감정적으로 무너지다), tear down(허물다), tear off(뜯어내다). 명사: a tear in the fabric(천의 찢김), shed tears(눈물을 흘리다).",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(눈물 1방울/찢김 1개); 보통 tears(복수)도 흔함",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 난 찢김",
+        "example": "a tear in the sleeve"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "~을 잡아당겨 찢으려 하다",
+        "example": "tear at the paper"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "~을 산산이 찢다 / ~을 호되게 공격하다",
+        "example": "tear into pieces / tear into a critic"
+      }
+    ],
+    "requiredComplements": [
+      "tear + 목적어 : (무엇을) 찢다",
+      "tear + 목적어 + off/from ~ : ~에서 뜯어내다",
+      "tear up + 목적어 : 찢어 버리다; (계획을) 폐기하다",
+      "a tear in + 물건 : ~에 난 찢김"
+    ],
+    "morphology": "단어 형태는 동일하지만 ‘눈물(명사)’과 ‘찢다(동사)’는 어원이 다른 동형이의어(발음도 다름)입니다.",
+    "derivatives": [
+      {
+        "word": "torn",
+        "meaning_ko": "찢어진; 갈등하는(비유)"
+      },
+      {
+        "word": "teary",
+        "meaning_ko": "눈물이 그렁그렁한"
+      },
+      {
+        "word": "tearful",
+        "meaning_ko": "눈물 어린; 울먹이는"
+      },
+      {
+        "word": "tearjerker",
+        "meaning_ko": "눈물샘 자극하는 작품(구어)"
+      },
+      {
+        "word": "teardown",
+        "meaning_ko": "철거; (제품) 분해 분석(파생/합성)"
+      }
+    ],
+    "related": [
+      {
+        "word": "rip",
+        "meaning_ko": "찢다; 찢김"
+      },
+      {
+        "word": "shred",
+        "meaning_ko": "갈기갈기 찢다; 조각"
+      },
+      {
+        "word": "sob",
+        "meaning_ko": "흐느끼다"
+      },
+      {
+        "word": "grief",
+        "meaning_ko": "슬픔; 비탄"
+      },
+      {
+        "word": "fabric",
+        "meaning_ko": "천; 직물(tear in fabric과 자주 결합)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rip",
+        "meaning_ko": "찢다"
+      },
+      {
+        "word": "rend",
+        "meaning_ko": "찢다(문어/강한 표현)"
+      },
+      {
+        "word": "split",
+        "meaning_ko": "갈라지다; 쪼개다"
+      },
+      {
+        "word": "weeping",
+        "meaning_ko": "울음; 눈물(명사 계열 유사)"
+      },
+      {
+        "word": "drop",
+        "meaning_ko": "한 방울(tear a drop의 단위감)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "cry",
+        "meaning_ko": "울다(행동 전체)"
+      },
+      {
+        "word": "sob",
+        "meaning_ko": "흐느끼다(소리 포함)"
+      },
+      {
+        "word": "cut",
+        "meaning_ko": "자르다(찢다와 결과 유사)"
+      },
+      {
+        "word": "scratch",
+        "meaning_ko": "긁히다(손상 정도 약함)"
+      },
+      {
+        "word": "break",
+        "meaning_ko": "부서지다(찢다와 다른 파손)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mend",
+        "meaning_ko": "수선하다"
+      },
+      {
+        "word": "repair",
+        "meaning_ko": "고치다"
+      },
+      {
+        "word": "sew",
+        "meaning_ko": "꿰매다"
+      },
+      {
+        "word": "heal",
+        "meaning_ko": "치유하다(비유/상처)"
+      },
+      {
+        "word": "fix",
+        "meaning_ko": "고정하다; 수리하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "shed tears",
+            "meaning_ko": "눈물을 흘리다"
+          },
+          {
+            "phrase": "a tear in the paper",
+            "meaning_ko": "종이에 난 찢김"
+          },
+          {
+            "phrase": "tear it up",
+            "meaning_ko": "그걸 찢어 버리다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "burst into tears",
+            "meaning_ko": "갑자기 울음을 터뜨리다"
+          },
+          {
+            "phrase": "tear off a label",
+            "meaning_ko": "라벨을 뜯어내다"
+          },
+          {
+            "phrase": "tear down a wall",
+            "meaning_ko": "벽을 허물다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "tear into someone for ~",
+            "meaning_ko": "~ 때문에 누군가를 호되게 질책하다"
+          },
+          {
+            "phrase": "leave someone torn between A and B",
+            "meaning_ko": "A와 B 사이에서 갈등하게 만들다"
+          },
+          {
+            "phrase": "be reduced to tears",
+            "meaning_ko": "눈물 나게 되다; 울 지경이 되다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "A tear rolled down her cheek.",
+            "meaning_ko": "눈물 한 방울이 그녀의 뺨을 타고 흘렀어요."
+          },
+          {
+            "sentence": "Don’t tear the paper.",
+            "meaning_ko": "종이를 찢지 마세요."
+          },
+          {
+            "sentence": "There is a tear in my shirt.",
+            "meaning_ko": "제 셔츠에 찢어진 데가 있어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He tore the envelope open in a hurry.",
+            "meaning_ko": "그는 급히 봉투를 찢어 열었습니다."
+          },
+          {
+            "sentence": "She burst into tears when she heard the news.",
+            "meaning_ko": "그녀는 그 소식을 듣자마자 울음을 터뜨렸습니다."
+          },
+          {
+            "sentence": "Please tear off the receipt and keep it for your records.",
+            "meaning_ko": "영수증을 뜯어 기록용으로 보관해 주세요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The editor tore into the draft for its vague claims and weak evidence.",
+            "meaning_ko": "편집자는 그 초고를 모호한 주장과 빈약한 근거 때문에 호되게 비판했습니다."
+          },
+          {
+            "sentence": "The country was torn between security concerns and civil liberties.",
+            "meaning_ko": "그 나라는 안보 우려와 시민 자유 사이에서 갈등했습니다."
+          },
+          {
+            "sentence": "The accusation reduced him to tears, despite his usual composure.",
+            "meaning_ko": "그 비난은 평소 침착하던 그를 눈물 나게 만들었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "tear는 **발음이 두 개**라는 점이 핵심입니다: 눈물 /tɪr/, 찢다 /tɛr/. 동사 변화(tear–tore–torn)는 시험에 자주 나오니 묶어서 외우세요. 또한 tear up(찢다/감정적으로 무너지다), tear into(호되게 비난하다)처럼 구동사 의미 확장이 많아, 예문 단위로 잡아두면 실전에서 안정적입니다.",
+    "tags": [
+      "감정",
+      "신체",
+      "파손",
+      "구동사"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the correct past tense of the verb 'tear' (rip).\nA) teared\nB) tore\nC) torn\nD) tearing",
+            "a": "B",
+            "meaning_ko": "tear–tore–torn."
+          },
+          {
+            "q": "Fill in the blank: There is a tear ___ the page.",
+            "a": "in",
+            "meaning_ko": "a tear in + 물건."
+          },
+          {
+            "q": "Which one means 'crying liquid from the eyes'?\nA) tear (noun)\nB) tear (verb)\nC) doom\nD) mend",
+            "a": "A",
+            "meaning_ko": "tear(명사) = 눈물."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best option: She ____ into tears when she saw the result.\nA) burst\nB) tore\nC) mended\nD) banned",
+            "a": "A",
+            "meaning_ko": "burst into tears = 울음을 터뜨리다."
+          },
+          {
+            "q": "Fill in the blank: He tore the sticker ____ the box.",
+            "a": "off",
+            "meaning_ko": "tear off = 뜯어내다."
+          },
+          {
+            "q": "Which sentence is natural?\nA) He tore at the spreadsheet.\nB) He tore at the paper until it ripped.\nC) He tore at the happiness.\nD) He tore at the silence.",
+            "a": "B",
+            "meaning_ko": "tear at은 물리적으로 잡아당겨 찢으려 할 때."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the meaning of 'tear into' in this sentence: The manager tore into him for missing the deadline.",
+            "a": "to criticize severely",
+            "meaning_ko": "tear into = 호되게 질책/비난하다."
+          },
+          {
+            "q": "Rewrite using 'torn between': He couldn’t choose between loyalty and honesty.",
+            "a": "He was torn between loyalty and honesty.",
+            "meaning_ko": "be torn between A and B 패턴."
+          },
+          {
+            "q": "Fill in the blank: The harsh comment reduced her ___ tears.",
+            "a": "to",
+            "meaning_ko": "reduce someone to tears."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "doom",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A terrible fate or inevitable destruction; a final ruin.",
+        "definition_ko": "끔찍한 운명, 피할 수 없는 파멸; 종말적 몰락.",
+        "note": "문어·서사적 뉘앙스가 있어 ‘재앙/파국’의 무게감이 큽니다."
+      },
+      {
+        "definition_en": "To condemn someone or something to an inevitable bad outcome.",
+        "definition_ko": "누군가/무언가를 피할 수 없는 나쁜 결과로 몰아넣다; 파멸로 ‘확정’하다.",
+        "note": "doom A to ~ / doom A for ~ 같은 패턴이 핵심입니다."
+      }
+    ],
+    "concept": "결과가 ‘피할 수 없게’ 나쁘다고 규정되는 파멸·절망의 운명.",
+    "etymology": "고대 영어 dōm(판결, 법)에서 유래했습니다. ‘판결’이 ‘운명적 결과’로 의미가 이동하며 오늘날 ‘파멸의 운명’ 의미가 강해졌습니다.",
+    "semanticExtension": "법적 ‘판결’→삶의 ‘결정된 결과’로 확장되면서, 현대에는 특히 ‘실패/파국이 거의 확정된 상태’(be doomed)로 넓게 쓰입니다.",
+    "nuanceRegister": "문어·격식에서 강한 어감(‘파멸’)이 있으며, 뉴스/비평에서는 과장적 수사로도 쓰입니다(‘doomed from the start’).",
+    "grammarNotes": "동사: doom + 목적어 + to + 명사/동명사/동사원형(예: doom the project to fail). 형용사형 표현: be doomed to ~. 명사: meet one’s doom(파멸을 맞다).",
+    "transitivity": "타동사",
+    "countability": "불가산·가산 모두(추상적 파멸=불가산, 특정 ‘파국’=가산으로도 가능)",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~로(의) 파멸/실패로 몰다",
+        "example": "doom the plan to failure"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "처음부터(이미) 파멸이 정해진",
+        "example": "doomed from the start"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 향해(나쁜 결과로) 정해진",
+        "example": "The deal was doomed for collapse."
+      }
+    ],
+    "requiredComplements": [
+      "doom + 목적어 + to + 명사/동명사/동사원형 : ~을 ~로 몰아넣다",
+      "be doomed to + V/명사 : ~할 운명이다(거의 확정적으로 실패/파멸)",
+      "meet one's doom : 파멸을 맞다"
+    ],
+    "morphology": "고대 영어 어근 doom(판결/결정)에서 파생; 현대 영어에서는 단일 형태로 굳어 형태 분석 요소가 거의 없습니다.",
+    "derivatives": [
+      {
+        "word": "doomed",
+        "meaning_ko": "파멸이 정해진; 성공 가능성이 거의 없는"
+      },
+      {
+        "word": "dooming",
+        "meaning_ko": "파멸로 몰아넣는(동명사/현재분사)"
+      },
+      {
+        "word": "doom-laden",
+        "meaning_ko": "불길한; 파멸감을 풍기는(합성)"
+      },
+      {
+        "word": "doomsday",
+        "meaning_ko": "최후의 날; 종말(종교/비유)"
+      },
+      {
+        "word": "doomsayer",
+        "meaning_ko": "비관론자; 파국을 예언하는 사람"
+      }
+    ],
+    "related": [
+      {
+        "word": "ruin",
+        "meaning_ko": "파멸; 망치다"
+      },
+      {
+        "word": "catastrophe",
+        "meaning_ko": "대재앙; 파국"
+      },
+      {
+        "word": "collapse",
+        "meaning_ko": "붕괴; 무너지다"
+      },
+      {
+        "word": "fatal",
+        "meaning_ko": "치명적인; 치명타의"
+      },
+      {
+        "word": "destiny",
+        "meaning_ko": "운명(중립~장엄)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ruin",
+        "meaning_ko": "파멸"
+      },
+      {
+        "word": "destruction",
+        "meaning_ko": "파괴; 멸망"
+      },
+      {
+        "word": "downfall",
+        "meaning_ko": "몰락"
+      },
+      {
+        "word": "fate",
+        "meaning_ko": "운명(문맥에 따라)"
+      },
+      {
+        "word": "condemnation",
+        "meaning_ko": "유죄 판결; 단죄(비유 포함)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "misfortune",
+        "meaning_ko": "불운(강도 약함)"
+      },
+      {
+        "word": "tragedy",
+        "meaning_ko": "비극"
+      },
+      {
+        "word": "calamity",
+        "meaning_ko": "재난; 큰 불행(격식)"
+      },
+      {
+        "word": "apocalypse",
+        "meaning_ko": "종말(과장/종교적)"
+      },
+      {
+        "word": "failure",
+        "meaning_ko": "실패(더 일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "salvation",
+        "meaning_ko": "구원"
+      },
+      {
+        "word": "rescue",
+        "meaning_ko": "구출"
+      },
+      {
+        "word": "success",
+        "meaning_ko": "성공"
+      },
+      {
+        "word": "deliverance",
+        "meaning_ko": "구출; 해방(격식)"
+      },
+      {
+        "word": "hope",
+        "meaning_ko": "희망"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "meet your doom",
+            "meaning_ko": "파멸을 맞다"
+          },
+          {
+            "phrase": "a sense of doom",
+            "meaning_ko": "불길한 예감"
+          },
+          {
+            "phrase": "be doomed",
+            "meaning_ko": "가망이 없다; 망할 운명이다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "doom the project to failure",
+            "meaning_ko": "프로젝트를 실패로 몰아넣다"
+          },
+          {
+            "phrase": "doomed from the start",
+            "meaning_ko": "처음부터 망할 운명이었던"
+          },
+          {
+            "phrase": "doom and gloom",
+            "meaning_ko": "암울한 비관론"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "doom a negotiation by misreading signals",
+            "meaning_ko": "신호를 오독해 협상을 망치다"
+          },
+          {
+            "phrase": "be doomed to repeat the same mistake",
+            "meaning_ko": "같은 실수를 되풀이할 운명이다"
+          },
+          {
+            "phrase": "pronounce the plan doomed",
+            "meaning_ko": "계획이 가망 없다고 단언하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He felt a sense of doom before the storm.",
+            "meaning_ko": "그는 폭풍 전 불길한 예감을 느꼈습니다."
+          },
+          {
+            "sentence": "The careless choice led them to their doom.",
+            "meaning_ko": "부주의한 선택이 그들을 파멸로 이끌었습니다."
+          },
+          {
+            "sentence": "Without support, the team was doomed.",
+            "meaning_ko": "지원이 없으니 그 팀은 가망이 없었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "A single miscalculation doomed the mission to failure.",
+            "meaning_ko": "한 번의 오판이 임무를 실패로 몰아넣었습니다."
+          },
+          {
+            "sentence": "They tried to fix it, but the deal was doomed from the start.",
+            "meaning_ko": "고치려 했지만, 그 거래는 애초부터 가망이 없었습니다."
+          },
+          {
+            "sentence": "Constant doom and gloom can drain morale quickly.",
+            "meaning_ko": "지속적인 비관론은 사기를 빠르게 깎습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "By ignoring early warnings, the leadership effectively doomed the reforms to collapse.",
+            "meaning_ko": "초기 경고를 무시함으로써 지도부는 개혁을 사실상 붕괴로 몰았습니다."
+          },
+          {
+            "sentence": "She worried that the policy was doomed to repeat the same inequities under a new name.",
+            "meaning_ko": "그녀는 그 정책이 이름만 바꾼 채 같은 불평등을 되풀이할 운명이라고 우려했습니다."
+          },
+          {
+            "sentence": "The critic pronounced the proposal doomed, citing structural incentives that reward delay.",
+            "meaning_ko": "그 비평가는 지연을 보상하는 구조적 유인을 근거로 그 제안이 가망 없다고 단언했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "doom은 ‘나쁜 결과가 **거의 확정**’된 뉘앙스가 핵심이라, 그냥 bad나 failure보다 강합니다. 시험에서는 **be doomed to V**(~할 운명이다/가망 없다)와 **doom A to ~**(A를 ~로 몰다) 패턴이 자주 출제됩니다. 또 doom and gloom은 숙어로 ‘암울한 비관론’이니 통째로 외워 두는 편이 안전합니다.",
+    "tags": [
+      "운명",
+      "비관",
+      "수사",
+      "숙어"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'doom' (noun).\nA) cheerful success\nB) inevitable ruin\nC) small gift\nD) friendly meeting",
+            "a": "B",
+            "meaning_ko": "doom = 피할 수 없는 파멸."
+          },
+          {
+            "q": "Fill in the blank: He had a sense of ____.",
+            "a": "doom",
+            "meaning_ko": "sense of doom = 불길한 예감."
+          },
+          {
+            "q": "Which phrase means 'very likely to fail'?\nA) be doomed\nB) be delighted\nC) be determined\nD) be diligent",
+            "a": "A",
+            "meaning_ko": "be doomed = 가망 없다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The mistake doomed the plan ___ failure.",
+            "a": "to",
+            "meaning_ko": "doom A to B 패턴."
+          },
+          {
+            "q": "Choose the natural sentence.\nA) The project is doomed at succeed.\nB) The project is doomed to fail.",
+            "a": "B",
+            "meaning_ko": "be doomed to + V."
+          },
+          {
+            "q": "What does 'doom and gloom' refer to?\nA) optimistic thinking\nB) dark pessimism\nC) careful planning\nD) quick recovery",
+            "a": "B",
+            "meaning_ko": "비관적·암울한 태도."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'pronounce': The analyst said the merger was hopeless.",
+            "a": "The analyst pronounced the merger doomed.",
+            "meaning_ko": "pronounce A doomed = A는 가망 없다고 단언."
+          },
+          {
+            "q": "Fill in the blank: If we ignore feedback, we may be doomed to ____ the same mistake.",
+            "a": "repeat",
+            "meaning_ko": "be doomed to repeat = 되풀이할 운명."
+          },
+          {
+            "q": "Choose the best paraphrase: The delay doomed the negotiation.\nA) The delay improved the negotiation.\nB) The delay made the negotiation likely to fail.\nC) The delay ended the negotiation successfully.\nD) The delay was irrelevant.",
+            "a": "B",
+            "meaning_ko": "doom = 실패로 몰아넣다."
+          }
+        ]
+      }
+    ]
+  }
+]

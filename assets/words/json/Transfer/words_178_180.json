@@ -1,0 +1,922 @@
+[
+  {
+    "word": "slacken",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To become less tight, intense, or active; to loosen or reduce in force.",
+        "definition_ko": "팽팽함·강도·속도 등이 느슨해지거나 약해지다; (무언가를) 느슨하게 하다.",
+        "note": "‘긴장/속도/규율/관심’ 같은 추상 대상도 ‘약해지다’로 자연스럽게 연결됩니다."
+      }
+    ],
+    "concept": "강도나 팽팽함을 ‘풀어서’ 약화시키는 변화(또는 그 행위).",
+    "etymology": "고대 영어 계열의 ‘slack(느슨한)’에 ‘-en(…하게 만들다/…해지다)’가 결합한 형태로, ‘느슨해지다/느슨하게 하다’의 의미가 발달했습니다.",
+    "semanticExtension": "물리적 ‘느슨해짐’에서 출발해, 노력·규율·정책·관심 등이 ‘완화/약화’되는 추상적 상황으로 의미가 확장됩니다.",
+    "nuanceRegister": "중립~격식. 일상(rope, pace)에도 쓰이고, 문어/기사체에서 ‘규율·정책·수요가 약화되다’처럼 자주 씁니다.",
+    "grammarNotes": "자동사·타동사 모두 가능. 자동사로는 ‘(상태가) 약해지다’, 타동사로는 ‘(대상을) 느슨하게/완화하다’. ‘slacken off/up’ 같은 구동사 형태도 흔합니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(노력·기세 등이) 약해지다",
+        "example": "slacken in discipline"
+      },
+      {
+        "prep": "off",
+        "meaning_ko": "(구동사) 약해지다/누그러지다",
+        "example": "slacken off after noon"
+      },
+      {
+        "prep": "up",
+        "meaning_ko": "(구동사) 느슨해지다/느슨하게 하다",
+        "example": "slacken up the rope"
+      }
+    ],
+    "requiredComplements": [
+      "slacken (one's) pace/effort — 속도/노력을 늦추다",
+      "slacken (a) rope/line/grip — 줄/잡는 힘을 느슨하게 하다",
+      "slacken off — (강도·기세·통제가) 누그러지다"
+    ],
+    "morphology": "slack(느슨한) + -en(…하게 만들다/…해지다) → ‘느슨해지다/느슨하게 하다’.",
+    "derivatives": [
+      {
+        "word": "slack",
+        "meaning_ko": "느슨한; 느슨함"
+      },
+      {
+        "word": "slackening",
+        "meaning_ko": "완화, 느슨해짐"
+      },
+      {
+        "word": "slackness",
+        "meaning_ko": "느슨함, 해이함"
+      },
+      {
+        "word": "slackly",
+        "meaning_ko": "느슨하게, 힘없이"
+      }
+    ],
+    "related": [
+      {
+        "word": "loosen",
+        "meaning_ko": "풀다, 느슨하게 하다"
+      },
+      {
+        "word": "ease",
+        "meaning_ko": "완화하다, 덜어주다"
+      },
+      {
+        "word": "abate",
+        "meaning_ko": "(강도·바람·통증이) 약해지다"
+      },
+      {
+        "word": "relax",
+        "meaning_ko": "긴장을 풀다; 완화하다"
+      },
+      {
+        "word": "wane",
+        "meaning_ko": "(점차) 약해지다, 쇠퇴하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "loosen",
+        "meaning_ko": "느슨하게 하다"
+      },
+      {
+        "word": "ease",
+        "meaning_ko": "누그러뜨리다"
+      },
+      {
+        "word": "abate",
+        "meaning_ko": "약해지다/누그러지다"
+      },
+      {
+        "word": "relent",
+        "meaning_ko": "완화하다, 누그러지다"
+      },
+      {
+        "word": "diminish",
+        "meaning_ko": "줄어들다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "soften",
+        "meaning_ko": "부드럽게 하다; 완화하다"
+      },
+      {
+        "word": "reduce",
+        "meaning_ko": "줄이다"
+      },
+      {
+        "word": "lessen",
+        "meaning_ko": "덜어내다"
+      },
+      {
+        "word": "moderate",
+        "meaning_ko": "조절하다; 완화하다"
+      },
+      {
+        "word": "let up",
+        "meaning_ko": "(비·압박 등이) 약해지다(구어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tighten",
+        "meaning_ko": "팽팽하게 하다; 강화하다"
+      },
+      {
+        "word": "intensify",
+        "meaning_ko": "강화하다, 심화하다"
+      },
+      {
+        "word": "strengthen",
+        "meaning_ko": "강화하다"
+      },
+      {
+        "word": "reinforce",
+        "meaning_ko": "보강하다"
+      },
+      {
+        "word": "escalate",
+        "meaning_ko": "격화되다/격화시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "slacken the rope",
+            "meaning_ko": "줄을 느슨하게 하다"
+          },
+          {
+            "phrase": "slacken the pace",
+            "meaning_ko": "속도를 늦추다"
+          },
+          {
+            "phrase": "slacken slightly",
+            "meaning_ko": "조금 누그러지다/약해지다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "slacken demand",
+            "meaning_ko": "수요가 약해지다"
+          },
+          {
+            "phrase": "slacken one’s grip",
+            "meaning_ko": "쥐는 힘을 풀다"
+          },
+          {
+            "phrase": "slacken enforcement",
+            "meaning_ko": "단속/집행이 느슨해지다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "slacken regulatory oversight",
+            "meaning_ko": "규제 감독을 느슨하게 하다"
+          },
+          {
+            "phrase": "slacken fiscal discipline",
+            "meaning_ko": "재정 규율을 완화하다"
+          },
+          {
+            "phrase": "slacken the criteria for admission",
+            "meaning_ko": "선발/입학 기준을 완화하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Slacken the rope a little, or it will snap.",
+            "meaning_ko": "줄을 조금만 느슨하게 해요, 안 그러면 끊어질 거예요."
+          },
+          {
+            "sentence": "The rain began to slacken by evening.",
+            "meaning_ko": "비가 저녁 무렵부터 약해지기 시작했다."
+          },
+          {
+            "sentence": "Don’t slacken your pace yet.",
+            "meaning_ko": "아직 속도를 늦추지 마."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "As competition increased, consumer demand slackened.",
+            "meaning_ko": "경쟁이 심해지자 소비자 수요가 약해졌다."
+          },
+          {
+            "sentence": "He slackened his grip to avoid hurting the child.",
+            "meaning_ko": "그는 아이가 다치지 않게 손에 힘을 풀었다."
+          },
+          {
+            "sentence": "The coach warned the team not to slacken in discipline.",
+            "meaning_ko": "코치는 팀에 규율이 해이해지지 말라고 경고했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "If regulators slacken oversight, systemic risks can accumulate unnoticed.",
+            "meaning_ko": "감독 당국이 감시를 느슨하게 하면 시스템 리스크가 눈에 띄지 않게 쌓일 수 있다."
+          },
+          {
+            "sentence": "The committee refused to slacken the standards despite public pressure.",
+            "meaning_ko": "위원회는 여론의 압박에도 기준을 완화하지 않았다."
+          },
+          {
+            "sentence": "When vigilance slackens, small procedural violations often become normalized.",
+            "meaning_ko": "경계심이 약해지면 작은 절차 위반이 자주 ‘당연한 것’으로 굳어지곤 한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "핵심은 ‘slack(느슨한)’에서 출발한다는 점입니다. ‘slacken = 느슨해지다/느슨하게 하다’로 먼저 잡고, 추상 대상(규율·감독·수요)이 ‘약해지다/완화되다’로 확장되는 용법을 함께 익히세요. 시험에서는 ‘tighten(강화하다)’와 대비시키거나, ‘slacken off(누그러지다)’ 구동사로 빈칸을 내는 경우가 많습니다.",
+    "tags": [
+      "완화",
+      "느슨함",
+      "정책·규제",
+      "상태 변화"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The wind finally began to ______ after midnight.",
+            "a": "slacken",
+            "meaning_ko": "‘바람이 약해지다’에 slacken이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest meaning of 'slacken': (A) tighten (B) loosen (C) enlarge (D) polish",
+            "a": "loosen",
+            "meaning_ko": "slacken은 ‘느슨하게 하다/약해지다’이므로 (B)입니다."
+          },
+          {
+            "q": "Correct the sentence if needed: Please slacken the knot a bit.",
+            "a": "Please slacken the knot a bit.",
+            "meaning_ko": "타동사로 ‘매듭을 느슨하게 하다’가 가능해 문장 자체는 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The manager told us not to slacken _____ our attention to detail.",
+            "a": "in",
+            "meaning_ko": "slacken in ~ : ~에서 해이해지다/약해지다."
+          },
+          {
+            "q": "Which sentence best matches 'slacken off'?",
+            "a": "The pressure slackened off once the deadline was extended.",
+            "meaning_ko": "slacken off는 ‘압박/강도가 누그러지다’의 의미로 자주 씁니다."
+          },
+          {
+            "q": "Pick the better paraphrase: 'Demand slackened.' = (A) Demand increased. (B) Demand weakened.",
+            "a": "Demand weakened.",
+            "meaning_ko": "slacken은 ‘약해지다/줄어들다’ 쪽입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Sentence completion: If oversight ______, incentives to cut corners may grow.",
+            "a": "slackens",
+            "meaning_ko": "주어가 oversight(단수)이므로 3인칭 단수 -s가 붙어 slackens."
+          },
+          {
+            "q": "Choose the most natural collocation: (A) slacken standards (B) slacken standardsly (C) slacken standard (D) slacken in standards",
+            "a": "slacken standards",
+            "meaning_ko": "standards는 복수로 쓰는 경우가 일반적이며 ‘기준을 완화하다’로 자연스럽습니다."
+          },
+          {
+            "q": "Error spotting: 'The agency slackened up oversight to prevent fraud.'",
+            "a": "The agency tightened up oversight to prevent fraud.",
+            "meaning_ko": "사기를 ‘예방’하려면 감독은 보통 slacken(완화)보다 tighten(강화)이 논리적으로 맞습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adolescence",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The period of life between childhood and adulthood, marked by physical and psychological development.",
+        "definition_ko": "아동기에서 성인기로 넘어가는 성장기(청소년기); 신체·정서·인지 발달이 두드러지는 시기.",
+        "note": "사람뿐 아니라 ‘어떤 분야/기술의 초기 성장기’ 같은 비유적 쓰임도 있습니다."
+      }
+    ],
+    "concept": "어린아이에서 성인이 되는 ‘전환 구간’의 성장 단계.",
+    "etymology": "라틴어 adolescere(성장하다)에서 유래했으며, ‘성장/성숙해 가는 시기’라는 의미로 굳어졌습니다.",
+    "semanticExtension": "인간 발달의 ‘청소년기’에서 확장되어, 조직·산업·기술의 ‘초기 성장 단계(아직 미성숙하지만 빠르게 발전 중)’를 비유적으로도 씁니다.",
+    "nuanceRegister": "격식·학술/교육/의학 문맥에서 매우 흔함. 일상에서도 ‘teenage years’보다 더 포괄적·학술적 뉘앙스입니다.",
+    "grammarNotes": "대체로 불가산처럼 ‘during/in adolescence’로 쓰며, 특정 인물/대상의 한 시기를 강조할 때 드물게 ‘an adolescence’처럼 가산적으로도 씁니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~기에(청소년기에)",
+        "example": "in early adolescence"
+      },
+      {
+        "prep": "during",
+        "meaning_ko": "~동안(청소년기 동안)",
+        "example": "during adolescence"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "~기로 접어들어",
+        "example": "into late adolescence"
+      }
+    ],
+    "requiredComplements": [
+      "during/in adolescence — 청소년기에(동안)",
+      "early/mid/late adolescence — 청소년기 초/중/후반",
+      "the adolescence of + person/field — (드물게) ~의 청소년기/초기 성장기"
+    ],
+    "morphology": "adolesc-(‘성장하다’와 관련된 라틴 어근) + -ence(명사화) → ‘성장기/성장 단계’.",
+    "derivatives": [
+      {
+        "word": "adolescent",
+        "meaning_ko": "청소년; 청소년기의"
+      },
+      {
+        "word": "adolescence",
+        "meaning_ko": "청소년기"
+      },
+      {
+        "word": "adolescents",
+        "meaning_ko": "청소년들"
+      },
+      {
+        "word": "preadolescent",
+        "meaning_ko": "사춘기 이전의"
+      }
+    ],
+    "related": [
+      {
+        "word": "puberty",
+        "meaning_ko": "사춘기(성적 성숙이 시작되는 시기)"
+      },
+      {
+        "word": "teenager",
+        "meaning_ko": "십대"
+      },
+      {
+        "word": "maturation",
+        "meaning_ko": "성숙, 성숙 과정"
+      },
+      {
+        "word": "adulthood",
+        "meaning_ko": "성인기"
+      },
+      {
+        "word": "childhood",
+        "meaning_ko": "아동기"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "teenage years",
+        "meaning_ko": "십대 시절(구어)"
+      },
+      {
+        "word": "youth",
+        "meaning_ko": "청년기/젊은 시절"
+      },
+      {
+        "word": "juvenile period",
+        "meaning_ko": "청소년기(격식)"
+      },
+      {
+        "word": "formative years",
+        "meaning_ko": "형성기(가치관이 잡히는 시기)"
+      },
+      {
+        "word": "pubescence",
+        "meaning_ko": "사춘기(격식/학술, 드묾)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "puberty",
+        "meaning_ko": "사춘기(범위가 더 좁음)"
+      },
+      {
+        "word": "youthfulness",
+        "meaning_ko": "젊음, 풋풋함"
+      },
+      {
+        "word": "coming-of-age",
+        "meaning_ko": "성장/성숙(서사적 뉘앙스)"
+      },
+      {
+        "word": "early adulthood",
+        "meaning_ko": "성인 초기(다음 단계)"
+      },
+      {
+        "word": "developmental stage",
+        "meaning_ko": "발달 단계"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "adulthood",
+        "meaning_ko": "성인기"
+      },
+      {
+        "word": "childhood",
+        "meaning_ko": "아동기"
+      },
+      {
+        "word": "maturity",
+        "meaning_ko": "성숙"
+      },
+      {
+        "word": "senescence",
+        "meaning_ko": "노쇠/노년기(학술)"
+      },
+      {
+        "word": "infancy",
+        "meaning_ko": "유아기"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "during adolescence",
+            "meaning_ko": "청소년기에"
+          },
+          {
+            "phrase": "adolescent years",
+            "meaning_ko": "청소년 시절"
+          },
+          {
+            "phrase": "early adolescence",
+            "meaning_ko": "청소년기 초반"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "transition to adulthood",
+            "meaning_ko": "성인기로의 전환"
+          },
+          {
+            "phrase": "identity formation in adolescence",
+            "meaning_ko": "청소년기의 정체성 형성"
+          },
+          {
+            "phrase": "risk-taking behavior in adolescence",
+            "meaning_ko": "청소년기의 위험 감수 행동"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "adolescent brain development",
+            "meaning_ko": "청소년기 뇌 발달"
+          },
+          {
+            "phrase": "a critical window in adolescence",
+            "meaning_ko": "청소년기의 결정적 시기"
+          },
+          {
+            "phrase": "longitudinal studies of adolescence",
+            "meaning_ko": "청소년기 종단 연구"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "During adolescence, many people grow taller quickly.",
+            "meaning_ko": "청소년기에는 많은 사람이 키가 빠르게 자란다."
+          },
+          {
+            "sentence": "She kept a diary throughout adolescence.",
+            "meaning_ko": "그녀는 청소년기 내내 일기를 썼다."
+          },
+          {
+            "sentence": "Adolescence can be confusing for both teens and parents.",
+            "meaning_ko": "청소년기는 십대와 부모 모두에게 혼란스러울 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "His interests shifted dramatically in adolescence, from sports to music.",
+            "meaning_ko": "그는 청소년기에 관심사가 스포츠에서 음악으로 크게 바뀌었다."
+          },
+          {
+            "sentence": "Researchers link sleep deprivation in adolescence to poorer academic outcomes.",
+            "meaning_ko": "연구자들은 청소년기의 수면 부족을 학업 성과 저하와 연결 짓는다."
+          },
+          {
+            "sentence": "The program supports adolescents who lack stable guidance during adolescence.",
+            "meaning_ko": "그 프로그램은 청소년기에 안정적인 지도가 부족한 청소년들을 지원한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Interventions delivered in adolescence often yield outsized benefits because habits are still malleable.",
+            "meaning_ko": "청소년기에 제공되는 개입은 습관이 아직 유연해 효과가 크게 나타나는 경우가 많다."
+          },
+          {
+            "sentence": "The study distinguishes puberty from adolescence to avoid conflating biological and social transitions.",
+            "meaning_ko": "그 연구는 생물학적 변화와 사회적 전환을 혼동하지 않기 위해 사춘기와 청소년기를 구분한다."
+          },
+          {
+            "sentence": "In the adolescence of the industry, standards were fragmented and enforcement was inconsistent.",
+            "meaning_ko": "산업의 ‘초기 성장기’에는 표준이 분산되어 있었고 집행도 일관되지 않았다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "adolescence는 ‘청소년기’ 전체(대략 10대 전반~후반)를 포괄하는 학술적 단어로, puberty(사춘기: 생물학적 변화 시작)와 구분되는 점이 시험에서 자주 나옵니다. 전치사 패턴은 in/during이 핵심이며, early/mid/late adolescence로 구간을 나눠 쓰는 표현을 함께 외우면 독해·서술형에 유리합니다. 비유적으로 ‘초기 성장기’(기술/산업)로도 쓰일 수 있다는 점을 한 줄로 기억해 두세요.",
+    "tags": [
+      "발달",
+      "심리·교육",
+      "청소년",
+      "성장 단계"
+    ],
+    "frequency": "중",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Many social skills develop during ______.",
+            "a": "adolescence",
+            "meaning_ko": "‘청소년기 동안’이라는 의미로 adolescence가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best meaning of 'adolescence': (A) old age (B) childhood (C) the teen years (D) retirement",
+            "a": "the teen years",
+            "meaning_ko": "청소년기/십대 시절을 가리킵니다."
+          },
+          {
+            "q": "Is this sentence natural? 'In adolescence, he learned to drive.'",
+            "a": "In adolescence, he learned to drive.",
+            "meaning_ko": "in adolescence = 청소년기에, 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the better contrast: 'puberty' vs. 'adolescence' — Which is more biological?",
+            "a": "puberty",
+            "meaning_ko": "puberty는 성적 성숙이 시작되는 생물학적 변화에 더 초점이 있습니다."
+          },
+          {
+            "q": "Fill in the blank: The researcher tracked participants from childhood _____ adolescence.",
+            "a": "into",
+            "meaning_ko": "from A into B: A에서 B로 접어드는 흐름."
+          },
+          {
+            "q": "Choose the most natural phrase: (A) adolescence formation (B) identity formation in adolescence (C) adolescence identity (D) identity of adolescence",
+            "a": "identity formation in adolescence",
+            "meaning_ko": "학술 문맥에서 가장 자연스러운 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading logic: 'The adolescence of a technology' most nearly means:",
+            "a": "its early growth stage before full maturity",
+            "meaning_ko": "비유적으로 ‘완전히 성숙하기 전의 초기 성장 단계’를 뜻합니다."
+          },
+          {
+            "q": "Error correction: 'During adolescences, the brain changes rapidly.'",
+            "a": "During adolescence, the brain changes rapidly.",
+            "meaning_ko": "일반적으로 adolescence는 단수·불가산처럼 씁니다."
+          },
+          {
+            "q": "Sentence completion: Policies targeting nutrition in adolescence may reduce ______ health risks.",
+            "a": "long-term",
+            "meaning_ko": "청소년기 영양 정책이 ‘장기적’ 건강 위험을 줄일 수 있다는 논리 연결이 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "destriction",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A nonstandard or erroneous spelling, most often intended to be 'destruction' or 'restriction'.",
+        "definition_ko": "비표준/오류 철자. 보통 'destruction(파괴)' 또는 'restriction(제한)'을 잘못 적은 형태로 나타남.",
+        "note": "실전에서는 단어 뜻을 외우기보다 ‘오타를 바로잡는 문제’로 출제 포인트가 될 수 있습니다."
+      }
+    ],
+    "concept": "표준어가 아닌 철자(대개 destruction/restriction의 오기).",
+    "etymology": "표준 사전에서 독립 표제어로 인정되는 경우가 드물어 자세한 어원 정보 없음. 실제 사용에서는 대개 destruction 또는 restriction의 오기로 취급됩니다.",
+    "semanticExtension": "의미 확장보다는 ‘철자 혼동’ 학습 포인트가 핵심입니다(유사 철자 단어와의 혼동).",
+    "nuanceRegister": "비표준. 공식 문서/시험 답안/학술 글에서는 사용하지 않는 것이 안전합니다.",
+    "grammarNotes": "표준 단어로 보기 어렵기 때문에, 문장에서는 사용을 피하고 교정(correction) 관점에서 다루는 편이 좋습니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(오타/철자 형태로 하나를 셀 때)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "correct 'destriction' to 'destruction' — destriction을 destruction으로 고치다",
+      "spell-check flags 'destriction' — 맞춤법 검사기가 destriction을 오류로 표시하다"
+    ],
+    "morphology": "표준 형태로는 분해를 단정하기 어렵습니다(대개 destruction 또는 restriction의 철자 혼동으로 발생).",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "destruction",
+        "meaning_ko": "파괴"
+      },
+      {
+        "word": "restriction",
+        "meaning_ko": "제한"
+      },
+      {
+        "word": "constriction",
+        "meaning_ko": "수축, 압박"
+      },
+      {
+        "word": "misspelling",
+        "meaning_ko": "철자 오류"
+      },
+      {
+        "word": "proofread",
+        "meaning_ko": "교정하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "misspelling",
+        "meaning_ko": "오타/철자 오류"
+      },
+      {
+        "word": "typographical error",
+        "meaning_ko": "오타(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "spelling mistake",
+        "meaning_ko": "철자 실수"
+      },
+      {
+        "word": "orthographic error",
+        "meaning_ko": "표기(철자) 오류(학술)"
+      },
+      {
+        "word": "typo",
+        "meaning_ko": "타이포(구어)"
+      },
+      {
+        "word": "error",
+        "meaning_ko": "오류"
+      },
+      {
+        "word": "slip",
+        "meaning_ko": "실수(가벼운 뉘앙스)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "correct spelling",
+        "meaning_ko": "올바른 철자"
+      },
+      {
+        "word": "standard form",
+        "meaning_ko": "표준 형태"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a misspelling of destruction",
+            "meaning_ko": "destruction의 오타"
+          },
+          {
+            "phrase": "spell-check catches 'destriction'",
+            "meaning_ko": "맞춤법 검사가 'destriction'을 잡아낸다"
+          },
+          {
+            "phrase": "correct 'destriction' to 'destruction'",
+            "meaning_ko": "'destriction'을 'destruction'으로 고치다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "confuse 'destriction' with 'restriction'",
+            "meaning_ko": "'destriction'을 'restriction'과 혼동하다"
+          },
+          {
+            "phrase": "flag 'destriction' as an error",
+            "meaning_ko": "'destriction'을 오류로 표시하다"
+          },
+          {
+            "phrase": "a repeated typo: 'destriction'",
+            "meaning_ko": "반복되는 오타: 'destriction'"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "normalize an error like 'destriction' through repetition",
+            "meaning_ko": "반복으로 'destriction' 같은 오류가 고착되다"
+          },
+          {
+            "phrase": "proofread to eliminate nonstandard spellings such as 'destriction'",
+            "meaning_ko": "destriction 같은 비표준 철자를 교정으로 제거하다"
+          },
+          {
+            "phrase": "distinguish intended meaning: destruction vs. restriction",
+            "meaning_ko": "의도 의미(파괴 vs 제한)를 구분하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "My phone underlined 'destriction' as a spelling error.",
+            "meaning_ko": "휴대폰이 'destriction'에 철자 오류 표시를 했다."
+          },
+          {
+            "sentence": "In the draft, 'destriction' was corrected to 'destruction'.",
+            "meaning_ko": "초안에서 'destriction'은 'destruction'으로 고쳐졌다."
+          },
+          {
+            "sentence": "If you see 'destriction', check what word the writer intended.",
+            "meaning_ko": "'destriction'을 보면 작성자가 어떤 단어를 의도했는지 확인해 보세요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Because 'destriction' is nonstandard, avoid using it in formal writing.",
+            "meaning_ko": "'destriction'은 비표준이므로 공식 글에서는 쓰지 않는 것이 좋다."
+          },
+          {
+            "sentence": "The context suggested 'restriction', but the text mistakenly said 'destriction'.",
+            "meaning_ko": "문맥상 'restriction'이 맞는데 글에는 실수로 'destriction'이 적혀 있었다."
+          },
+          {
+            "sentence": "Proofreading once would have removed errors like 'destriction' and 'comodity'.",
+            "meaning_ko": "한 번만 교정했어도 'destriction'이나 'comodity' 같은 오류를 지울 수 있었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "When a misspelling such as 'destriction' spreads online, it can obscure search results and confuse learners.",
+            "meaning_ko": "'destriction' 같은 오기가 온라인에 퍼지면 검색 결과를 흐리고 학습자를 혼란스럽게 할 수 있다."
+          },
+          {
+            "sentence": "Editors treat 'destriction' as an orthographic error and replace it with the intended term based on context.",
+            "meaning_ko": "편집자는 'destriction'을 표기 오류로 보고 문맥에 따라 의도된 용어로 바꾼다."
+          },
+          {
+            "sentence": "In error analysis, 'destriction' illustrates how similar letter sequences can trigger systematic confusions.",
+            "meaning_ko": "오류 분석에서 'destriction'은 비슷한 철자 패턴이 체계적 혼동을 유발하는 사례를 보여준다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "이 항목은 ‘단어’라기보다 ‘오타 교정’ 연습용으로 보시는 게 안전합니다. destriction을 보면 먼저 문맥으로 의도 단어가 destruction(파괴)인지 restriction(제한)인지 판단하고, 표준 철자로 고치는 습관을 들이세요. 시험에서는 ‘철자 오류 찾기/교정’ 유형으로 충분히 활용 가능합니다.",
+    "tags": [
+      "철자",
+      "오타",
+      "교정",
+      "혼동 주의"
+    ],
+    "frequency": "하",
+    "difficulty": "9",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Which is the correct standard spelling for '파괴' in English? (A) destriction (B) destruction (C) destruktion (D) destrictione",
+            "a": "destruction",
+            "meaning_ko": "‘파괴’의 표준 철자는 destruction입니다."
+          },
+          {
+            "q": "True/False: 'destriction' is commonly accepted as a standard dictionary headword.",
+            "a": "False",
+            "meaning_ko": "대체로 비표준/오기 형태로 취급됩니다."
+          },
+          {
+            "q": "Fix the misspelling: The city faced destriction after the storm.",
+            "a": "The city faced destruction after the storm.",
+            "meaning_ko": "문맥상 ‘폭풍 후 파괴’를 뜻하므로 destruction이 맞습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Context check: 'New destriction on imports' — Which intended word is most likely?",
+            "a": "restriction",
+            "meaning_ko": "imports와 함께라면 ‘수입 제한’이므로 restriction이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best action when you encounter 'destriction' in a report.",
+            "a": "Identify the intended meaning from context and replace it with the correct standard term.",
+            "meaning_ko": "문맥으로 의도 의미를 판별해 표준어로 교정하는 것이 정답입니다."
+          },
+          {
+            "q": "Fill in the blank: Spell-check software will usually ______ 'destriction' as an error.",
+            "a": "flag",
+            "meaning_ko": "flag는 ‘오류로 표시하다’라는 의미로 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Editing task: Replace the nonstandard form and keep meaning consistent — 'The policy caused destriction of trade.'",
+            "a": "The policy caused restriction of trade.",
+            "meaning_ko": "policy + trade 문맥에서는 ‘무역 제한’이 의미상 가장 일관됩니다."
+          },
+          {
+            "q": "Error analysis: 'destriction' is best categorized as a(n) ______.",
+            "a": "orthographic error",
+            "meaning_ko": "철자/표기 오류(orthographic error)로 분류하는 것이 적절합니다."
+          },
+          {
+            "q": "Choose the most plausible explanation: Why can 'destriction' persist online?",
+            "a": "Repetition and autocorrect bypass can normalize a misspelling in informal contexts.",
+            "meaning_ko": "반복 노출과 비공식 글쓰기 환경이 오기를 고착시킬 수 있습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

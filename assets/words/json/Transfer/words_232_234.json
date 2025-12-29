@@ -1,0 +1,986 @@
+[
+  {
+    "word": "mourn",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To feel and express deep sorrow, especially because someone has died or something has been lost.",
+        "definition_ko": "특히 죽음이나 상실로 인해 깊이 슬퍼하며 애도하다.",
+        "note": "사람을 직접 목적어로 취해도 되고(mourn him), for/over와 함께 ‘~을 슬퍼하다’로도 흔히 씁니다."
+      },
+      {
+        "definition_en": "To lament or regret something, often publicly or solemnly.",
+        "definition_ko": "어떤 일을 안타까워하며 한탄하다(엄숙하게, 때로는 공개적으로).",
+        "note": "‘한탄하다/개탄하다’ 뉘앙스가 섞이면 lament에 가까워집니다."
+      }
+    ],
+    "concept": "상실을 받아들이며 슬픔을 드러내는 ‘애도/한탄’ 동작.",
+    "etymology": "고대 영어 murnan(슬퍼하다, 걱정하다)에서 왔으며, 중세 영어를 거치며 ‘상실을 애도하다’ 의미로 굳어졌습니다.",
+    "semanticExtension": "사람의 죽음뿐 아니라 ‘mourn the loss of ~’처럼 기회·관계·시대의 끝을 ‘상실로 애도하다’로 확장되어 씁니다.",
+    "nuanceRegister": "중립~격식. 뉴스/추모문/공식 성명에서 자주 보이며, 일상 회화에서도 ‘I mourn…’처럼 진지하게 씁니다.",
+    "grammarNotes": "mourn + 목적어(사람/상실) / mourn for(over) + 명사 / be mourned by + 사람. 진행형도 가능하지만 대체로 상태적 슬픔을 강조할 땐 단순형이 자연스럽습니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 애도하다/슬퍼하다",
+        "example": "mourn for the victims"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~을 두고 슬퍼하다(상실을 강조)",
+        "example": "mourn over the loss"
+      }
+    ],
+    "requiredComplements": [
+      "mourn + 사람/사건/상실: ‘~을 애도하다’",
+      "mourn for + 명사: ‘~을 애도하다/슬퍼하다’",
+      "mourn over + 명사: ‘~의 상실을 두고 슬퍼하다’",
+      "be mourned by + 사람: ‘~에게 애도되다’"
+    ],
+    "morphology": "어근 mourn(슬퍼하다) 자체가 핵심이며, 파생 접미사 -ing(행위/상태), -ful(성질), -er(사람), -ly(부사)이 결합해 확장됩니다.",
+    "derivatives": [
+      {
+        "word": "mourning",
+        "meaning_ko": "애도, 상(喪); 애도하는"
+      },
+      {
+        "word": "mournful",
+        "meaning_ko": "슬픈, 애절한"
+      },
+      {
+        "word": "mourner",
+        "meaning_ko": "조문객, 애도하는 사람"
+      },
+      {
+        "word": "mournfully",
+        "meaning_ko": "슬프게, 애절하게"
+      },
+      {
+        "word": "unmourned",
+        "meaning_ko": "애도받지 못한"
+      }
+    ],
+    "related": [
+      {
+        "word": "grief",
+        "meaning_ko": "비통, 깊은 슬픔"
+      },
+      {
+        "word": "condolence",
+        "meaning_ko": "조의, 위로의 말"
+      },
+      {
+        "word": "bereavement",
+        "meaning_ko": "사별, 상실"
+      },
+      {
+        "word": "funeral",
+        "meaning_ko": "장례식"
+      },
+      {
+        "word": "lament",
+        "meaning_ko": "애도하다/한탄하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "grieve",
+        "meaning_ko": "몹시 슬퍼하다"
+      },
+      {
+        "word": "lament",
+        "meaning_ko": "애도하다, 한탄하다"
+      },
+      {
+        "word": "bemoan",
+        "meaning_ko": "한탄하다, 개탄하다"
+      },
+      {
+        "word": "bewail",
+        "meaning_ko": "통곡하다, 크게 슬퍼하다"
+      },
+      {
+        "word": "sorrow",
+        "meaning_ko": "슬퍼하다(문어적)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "regret",
+        "meaning_ko": "후회하다/유감으로 여기다"
+      },
+      {
+        "word": "miss",
+        "meaning_ko": "그리워하다, 없음을 아쉬워하다"
+      },
+      {
+        "word": "deplore",
+        "meaning_ko": "개탄하다(도덕적 비난 포함)"
+      },
+      {
+        "word": "rue",
+        "meaning_ko": "후회하다(문어적)"
+      },
+      {
+        "word": "yearn",
+        "meaning_ko": "그리워하다(갈망)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rejoice",
+        "meaning_ko": "기뻐하다"
+      },
+      {
+        "word": "celebrate",
+        "meaning_ko": "축하하다"
+      },
+      {
+        "word": "exult",
+        "meaning_ko": "의기양양해하다"
+      },
+      {
+        "word": "delight",
+        "meaning_ko": "큰 기쁨을 느끼다"
+      },
+      {
+        "word": "cheer",
+        "meaning_ko": "환호하다/기운을 북돋우다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mourn the loss",
+            "meaning_ko": "상실을 애도하다"
+          },
+          {
+            "phrase": "mourn a friend",
+            "meaning_ko": "친구의 죽음을 애도하다"
+          },
+          {
+            "phrase": "in mourning",
+            "meaning_ko": "상중에, 애도 중에"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "mourn for the victims",
+            "meaning_ko": "희생자들을 애도하다"
+          },
+          {
+            "phrase": "mourn over a breakup",
+            "meaning_ko": "이별을 두고 슬퍼하다"
+          },
+          {
+            "phrase": "a nation mourns",
+            "meaning_ko": "국가가 애도하다(공식적 표현)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mourn the passing of an era",
+            "meaning_ko": "한 시대의 종언을 애도하다"
+          },
+          {
+            "phrase": "be widely mourned",
+            "meaning_ko": "널리 애도되다"
+          },
+          {
+            "phrase": "mourn what might have been",
+            "meaning_ko": "될 수도 있었던 가능성을 한탄하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She mourned her grandfather for months.",
+            "meaning_ko": "그녀는 몇 달 동안 할아버지를 애도했다."
+          },
+          {
+            "sentence": "We are mourning the loss of our dog.",
+            "meaning_ko": "우리는 반려견을 잃은 슬픔을 애도하고 있다."
+          },
+          {
+            "sentence": "He was in mourning after the funeral.",
+            "meaning_ko": "그는 장례식 후 상중(애도 중)이었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The community gathered to mourn for the victims of the fire.",
+            "meaning_ko": "지역 사회는 화재 희생자들을 애도하기 위해 모였다."
+          },
+          {
+            "sentence": "She still mourns over the career she gave up.",
+            "meaning_ko": "그녀는 포기했던 커리어를 여전히 두고두고 슬퍼한다."
+          },
+          {
+            "sentence": "The writer mourned the decline of public trust in institutions.",
+            "meaning_ko": "그 작가는 제도에 대한 공적 신뢰의 쇠퇴를 한탄했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In his address, he mourned the passing of an era defined by restraint and civility.",
+            "meaning_ko": "그는 연설에서 절제와 예의로 정의되던 한 시대의 종언을 애도했다."
+          },
+          {
+            "sentence": "The decision forced her to mourn what might have been, not just what was lost.",
+            "meaning_ko": "그 결정은 그녀로 하여금 잃어버린 것뿐 아니라 될 수 있었던 가능성까지 애도하게 만들었다."
+          },
+          {
+            "sentence": "Though celebrated in life, he was even more widely mourned in death.",
+            "meaning_ko": "생전에도 존경받았지만, 그는 사후에 더 널리 애도되었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "mourn은 ‘죽음/상실’에 초점이 있어 grieve(개인적 비통)보다 공식·서면 맥락에서 자주 보입니다. 패턴은 크게 두 가지로 외우면 좋습니다: (1) mourn + 목적어(사람/상실), (2) mourn for/over + 명사. 시험에서는 ‘mourn over the loss’처럼 over가 ‘상실을 두고’라는 뉘앙스를 주는지 확인하세요.",
+    "tags": [
+      "감정",
+      "애도",
+      "죽음",
+      "상실",
+      "공식 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The whole town gathered to ____ the victims.",
+            "a": "mourn",
+            "meaning_ko": "희생자들을 ‘애도하다’가 자연스럽습니다."
+          },
+          {
+            "q": "Fill in the blank: She is still mourning the ____ of her childhood home.",
+            "a": "loss",
+            "meaning_ko": "mourn the loss(상실을 애도하다)는 대표 결합입니다."
+          },
+          {
+            "q": "Which is closest in meaning to 'mourn'?",
+            "a": "grieve",
+            "meaning_ko": "grieve는 ‘몹시 슬퍼하다’로 가장 가까운 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the correct preposition: They mourned ___ the lives lost in the accident. (for / at / by)",
+            "a": "for",
+            "meaning_ko": "mourn for + 명사(희생자/상실)를 가장 흔히 씁니다."
+          },
+          {
+            "q": "Choose the best rewrite: 'She mourned over the opportunity she missed.' (Meaning: she felt deep sorrow about it.)",
+            "a": "She mourned the opportunity she missed.",
+            "meaning_ko": "mourn은 목적어를 직접 취할 수 있어 간결하게 바꿀 수 있습니다."
+          },
+          {
+            "q": "Which sentence is grammatically natural?",
+            "a": "The nation mourned the leader's death.",
+            "meaning_ko": "mourn + 목적어(죽음/사람)를 취하는 구문이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The essay does not simply criticize policy failures; it also ____ the erosion of civic trust.",
+            "a": "mourns",
+            "meaning_ko": "mourn은 ‘상실을 애도/한탄하다’로 추상적 대상에도 확장됩니다."
+          },
+          {
+            "q": "Error correction: 'He mourned for what might have been and refused to move on.' (Improve for concision without changing meaning.)",
+            "a": "He mourned what might have been and refused to move on.",
+            "meaning_ko": "what절 목적어는 전치사 없이 직접 받을 수 있습니다."
+          },
+          {
+            "q": "Select the option that best matches the nuance: 'mourn the passing of an era'",
+            "a": "to lament the end of a historical period in a solemn tone",
+            "meaning_ko": "passing of an era는 ‘한 시대의 끝’을 엄숙하게 말할 때 쓰는 고급 결합입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "porous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Full of small holes that allow air or liquid to pass through.",
+        "definition_ko": "작은 구멍이 많아 공기나 액체가 스며드는(다공성의).",
+        "note": "과학/의학/재료 맥락에서 ‘porous rock, porous membrane’처럼 자주 나옵니다."
+      },
+      {
+        "definition_en": "Easily penetrated or influenced; not effectively sealed or controlled.",
+        "definition_ko": "쉽게 침투되거나 영향을 받는, 통제가 허술한(비유).",
+        "note": "porous borders, porous security처럼 ‘허술해 새는’ 느낌으로 확장됩니다."
+      }
+    ],
+    "concept": "구조적으로 ‘스며들 수 있는 구멍’이 많은 상태, 또는 (비유) 허술해 침투되는 상태.",
+    "etymology": "라틴어 porus(구멍)·그리스어 poros(통로)에서 유래했으며, ‘구멍/통로가 많은’ 성질을 가리키는 형용사로 자리 잡았습니다.",
+    "semanticExtension": "물리적 다공성에서 출발해, 경계·보안·규정 등이 ‘새기 쉬운/침투되기 쉬운’ 상태를 묘사하는 비유적 의미로 넓게 쓰입니다.",
+    "nuanceRegister": "기술/학술 맥락에서 흔한 격식어. 비유적 용법도 기사/정책 문서에서 자주 보입니다.",
+    "grammarNotes": "porous to + 물질/영향(공기, 물, 이념 등) 형태가 흔합니다. 비유적으론 ‘porous border/security/system’처럼 명사를 수식하는 형태가 대표적입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~이(가) 잘 스며드는/침투하는",
+        "example": "porous to water"
+      }
+    ],
+    "requiredComplements": [
+      "porous to + 명사: ‘~이 잘 스며드는/침투하는’",
+      "porous + 명사(예: porous rock/membrane/border): ‘다공성/허술한 ~’"
+    ],
+    "morphology": "어근 por-(구멍/통로) + 형용사형 접미사 -ous(‘~의 성질을 가진’) 구조로 이해하면 porosity(다공성)와 연결하기 쉽습니다.",
+    "derivatives": [
+      {
+        "word": "porosity",
+        "meaning_ko": "다공성, 기공률"
+      },
+      {
+        "word": "pore",
+        "meaning_ko": "기공, 작은 구멍"
+      },
+      {
+        "word": "porousness",
+        "meaning_ko": "다공성(성질)"
+      }
+    ],
+    "related": [
+      {
+        "word": "permeable",
+        "meaning_ko": "투과성의"
+      },
+      {
+        "word": "absorbent",
+        "meaning_ko": "흡수성이 좋은"
+      },
+      {
+        "word": "membrane",
+        "meaning_ko": "막, 멤브레인"
+      },
+      {
+        "word": "filter",
+        "meaning_ko": "여과하다/필터"
+      },
+      {
+        "word": "seal",
+        "meaning_ko": "밀봉하다/봉인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "permeable",
+        "meaning_ko": "투과성의"
+      },
+      {
+        "word": "spongy",
+        "meaning_ko": "스펀지 같은, 잘 흡수하는"
+      },
+      {
+        "word": "absorbent",
+        "meaning_ko": "흡수성의"
+      },
+      {
+        "word": "penetrable",
+        "meaning_ko": "뚫릴 수 있는, 침투 가능한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "leaky",
+        "meaning_ko": "새는, 허술한(구어)"
+      },
+      {
+        "word": "full of holes",
+        "meaning_ko": "구멍이 숭숭 난(비유 가능)"
+      },
+      {
+        "word": "lax",
+        "meaning_ko": "느슨한, 허술한(규정/단속)"
+      },
+      {
+        "word": "riddled",
+        "meaning_ko": "구멍이 숭숭 뚫린/결함투성이인"
+      },
+      {
+        "word": "vulnerable",
+        "meaning_ko": "취약한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "impermeable",
+        "meaning_ko": "불투과성의"
+      },
+      {
+        "word": "watertight",
+        "meaning_ko": "물샐틈없는, 완벽히 밀폐된"
+      },
+      {
+        "word": "sealed",
+        "meaning_ko": "밀봉된"
+      },
+      {
+        "word": "dense",
+        "meaning_ko": "치밀한, 밀도가 높은"
+      },
+      {
+        "word": "solid",
+        "meaning_ko": "단단한, 고체의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "porous rock",
+            "meaning_ko": "다공성 암석"
+          },
+          {
+            "phrase": "porous surface",
+            "meaning_ko": "다공성 표면"
+          },
+          {
+            "phrase": "porous material",
+            "meaning_ko": "다공성 재료"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "porous membrane",
+            "meaning_ko": "다공성 막"
+          },
+          {
+            "phrase": "porous to air",
+            "meaning_ko": "공기가 잘 통하는/스며드는"
+          },
+          {
+            "phrase": "porous borders",
+            "meaning_ko": "허술한 국경(침투가 쉬운)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a porous security apparatus",
+            "meaning_ko": "허술한 보안 체계"
+          },
+          {
+            "phrase": "porous institutional boundaries",
+            "meaning_ko": "침투/유입이 쉬운 제도적 경계"
+          },
+          {
+            "phrase": "porous reasoning",
+            "meaning_ko": "허점이 많은 논리"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "This stone is porous and soaks up water quickly.",
+            "meaning_ko": "이 돌은 다공성이라 물을 빨리 흡수한다."
+          },
+          {
+            "sentence": "Porous paper tears easily when it gets wet.",
+            "meaning_ko": "다공성 종이는 젖으면 쉽게 찢어진다."
+          },
+          {
+            "sentence": "The sponge is highly porous.",
+            "meaning_ko": "스펀지는 매우 다공성이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The membrane must be porous to air but resistant to bacteria.",
+            "meaning_ko": "그 막은 공기는 통하게 하되 세균에는 저항성이 있어야 한다."
+          },
+          {
+            "sentence": "Officials warned that the border remained porous despite new checkpoints.",
+            "meaning_ko": "관계자들은 새 검문소에도 국경이 여전히 허술하다고 경고했다."
+          },
+          {
+            "sentence": "Old concrete can become porous over time, allowing moisture to seep in.",
+            "meaning_ko": "오래된 콘크리트는 시간이 지나 다공성이 되어 습기가 스며들 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Without consistent enforcement, the regulation becomes porous, inviting selective compliance.",
+            "meaning_ko": "일관된 집행이 없으면 규정은 허술해져 선택적 준수를 부른다."
+          },
+          {
+            "sentence": "Their partnership blurred into porous boundaries between friendship and work, complicating decisions.",
+            "meaning_ko": "그들의 관계는 우정과 업무의 경계가 흐려져(침투 가능해져) 결정이 복잡해졌다."
+          },
+          {
+            "sentence": "The argument sounded persuasive at first, but its porous reasoning collapsed under scrutiny.",
+            "meaning_ko": "그 주장은 처음엔 설득력 있어 보였지만 허점 많은 논리는 검증 앞에서 무너졌다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "porous는 ‘구멍이 많아 스며든다’(물리)에서 출발해 ‘허술해 침투된다’(비유)로 확장되는 게 포인트입니다. 시험에서 porous to(air/water/ideas)처럼 to가 붙으면 ‘~이 잘 통하는/스며드는’ 의미로 잡으면 됩니다. 반의어는 impermeable, watertight처럼 ‘차단/밀폐’ 계열로 묶어 외우세요.",
+    "tags": [
+      "재료",
+      "과학",
+      "투과",
+      "보안",
+      "비유 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'porous': A porous sponge absorbs water easily.",
+            "a": "full of small holes",
+            "meaning_ko": "porous는 ‘작은 구멍이 많아 스며드는’ 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The stone is so ____ that it stains easily.",
+            "a": "porous",
+            "meaning_ko": "액체가 스며들어 얼룩이 잘 생기는 맥락에서 porous가 적절합니다."
+          },
+          {
+            "q": "Which word is an antonym of 'porous'?",
+            "a": "impermeable",
+            "meaning_ko": "impermeable은 ‘불투과성의’로 porous의 반대입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the correct preposition: This fabric is porous ___ air. (to / for / at)",
+            "a": "to",
+            "meaning_ko": "porous to + 명사는 ‘~이 잘 통하는/스며드는’ 패턴입니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'a porous border'",
+            "a": "a border that is easy to cross illegally",
+            "meaning_ko": "비유적으로 ‘침투/불법 월경이 쉬운 허술한 국경’입니다."
+          },
+          {
+            "q": "Which sentence sounds most natural?",
+            "a": "Over time, the material became porous, letting moisture seep in.",
+            "meaning_ko": "porous + seep in(스며들다) 조합이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best word: Without oversight, the compliance system became ____ and easy to manipulate.",
+            "a": "porous",
+            "meaning_ko": "비유적으로 ‘허술해 새는/침투되는’ 의미가 문맥에 맞습니다."
+          },
+          {
+            "q": "Error correction: 'The policy is porous for corruption to enter.' (Fix the preposition.)",
+            "a": "The policy is porous to corruption.",
+            "meaning_ko": "porous는 to와 결합하는 것이 자연스럽습니다."
+          },
+          {
+            "q": "Reading nuance: In 'porous institutional boundaries,' porous most nearly implies ____.",
+            "a": "easily crossed and not clearly separated",
+            "meaning_ko": "경계가 ‘뚫려 있어’ 넘나들기 쉽고 구분이 약하다는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tendency",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "An inclination or disposition to behave or feel in a particular way.",
+        "definition_ko": "특정 방식으로 행동하거나 느끼려는 성향, 기질.",
+        "note": "a tendency to + 동사 원형이 가장 대표적인 패턴입니다."
+      },
+      {
+        "definition_en": "A general direction in which something is developing or changing; a trend.",
+        "definition_ko": "어떤 현상이 전개·변화하는 전반적 방향, 추세.",
+        "note": "사회/경제/통계 맥락에서 ‘trend’와 거의 겹치지만, tendency는 원인·성향 뉘앙스가 더 자주 붙습니다."
+      },
+      {
+        "definition_en": "A likelihood for something to happen in a particular way.",
+        "definition_ko": "어떤 일이 특정하게 일어날 가능성(경향).",
+        "note": "‘습관적으로 ~해지는 성질’처럼 말할 때도 씁니다."
+      }
+    ],
+    "concept": "사람·사물·현상이 ‘어느 쪽으로 자꾸 기울어지는’ 반복적 방향성.",
+    "etymology": "라틴어 tendere(뻗다, 향하다)에서 유래했으며, ‘어떤 방향으로 향함’이라는 기본 의미가 ‘성향/경향’으로 굳었습니다.",
+    "semanticExtension": "개인의 성향에서 출발해, 통계적 추세·사회적 흐름(경제의 tendency, political tendency)처럼 집단/현상 단위로 확장됩니다.",
+    "nuanceRegister": "중립~격식. 학술/리포트에서 매우 흔하며, 일상에서도 ‘I have a tendency to…’로 자주 씁니다.",
+    "grammarNotes": "a tendency to do / a tendency toward(s) + 명사 / a tendency for + 명사 + to do / have a tendency to. 복수 tendencies로 ‘여러 성향’도 자연스럽습니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~하려는 경향/성향",
+        "example": "a tendency to overthink"
+      },
+      {
+        "prep": "toward",
+        "meaning_ko": "~쪽으로의 경향",
+        "example": "a tendency toward caution"
+      },
+      {
+        "prep": "towards",
+        "meaning_ko": "~쪽으로의 경향(영국식 철자)",
+        "example": "a tendency towards simplicity"
+      }
+    ],
+    "requiredComplements": [
+      "a tendency to + 동사원형: ‘~하는 경향’",
+      "a tendency toward(s) + 명사: ‘~쪽으로의 경향’",
+      "a tendency for + 명사 + to + 동사: ‘~가 ~하는 경향’",
+      "have a tendency to + 동사: ‘~하는 버릇/경향이 있다’",
+      "tendency of + 명사 + to + 동사: ‘~가 ~하려는 경향’(격식)"
+    ],
+    "morphology": "어근 tend-(뻗다/향하다) + 명사형 접미사 -ency(상태/성질)로, ‘어떤 방향으로 향하는 성질’이라는 구조로 이해할 수 있습니다.",
+    "derivatives": [
+      {
+        "word": "tend",
+        "meaning_ko": "…하는 경향이 있다; 돌보다"
+      },
+      {
+        "word": "tendentious",
+        "meaning_ko": "편향된, 의도가 드러나는(글/논조)"
+      },
+      {
+        "word": "tendentiously",
+        "meaning_ko": "편향적으로"
+      },
+      {
+        "word": "tendence",
+        "meaning_ko": "경향(고어/드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "trend",
+        "meaning_ko": "추세, 흐름"
+      },
+      {
+        "word": "inclination",
+        "meaning_ko": "기울어짐, 성향"
+      },
+      {
+        "word": "propensity",
+        "meaning_ko": "성향(특히 특정 행동으로 기우는)"
+      },
+      {
+        "word": "bias",
+        "meaning_ko": "편향"
+      },
+      {
+        "word": "pattern",
+        "meaning_ko": "패턴, 반복 양상"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "inclination",
+        "meaning_ko": "성향, 경향"
+      },
+      {
+        "word": "propensity",
+        "meaning_ko": "성향(강하게 기우는)"
+      },
+      {
+        "word": "leaning",
+        "meaning_ko": "기울어짐, 성향"
+      },
+      {
+        "word": "trend",
+        "meaning_ko": "추세"
+      },
+      {
+        "word": "drift",
+        "meaning_ko": "점진적 이동/경향"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "habit",
+        "meaning_ko": "습관"
+      },
+      {
+        "word": "preference",
+        "meaning_ko": "선호"
+      },
+      {
+        "word": "disposition",
+        "meaning_ko": "기질, 성향"
+      },
+      {
+        "word": "likelihood",
+        "meaning_ko": "가능성"
+      },
+      {
+        "word": "pattern",
+        "meaning_ko": "반복되는 양상"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "aversion",
+        "meaning_ko": "혐오, 기피 성향"
+      },
+      {
+        "word": "resistance",
+        "meaning_ko": "저항, 반대 경향"
+      },
+      {
+        "word": "neutrality",
+        "meaning_ko": "중립성"
+      },
+      {
+        "word": "stability",
+        "meaning_ko": "안정, 변동 없음"
+      },
+      {
+        "word": "randomness",
+        "meaning_ko": "무작위성(일관된 경향 없음)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "have a tendency to",
+            "meaning_ko": "~하는 경향이 있다"
+          },
+          {
+            "phrase": "a natural tendency",
+            "meaning_ko": "타고난 성향"
+          },
+          {
+            "phrase": "a strong tendency",
+            "meaning_ko": "강한 경향"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a tendency toward risk",
+            "meaning_ko": "위험을 감수하려는 경향"
+          },
+          {
+            "phrase": "a tendency for prices to rise",
+            "meaning_ko": "물가가 오르는 경향"
+          },
+          {
+            "phrase": "counter the tendency",
+            "meaning_ko": "그 경향을 상쇄/억제하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a secular tendency",
+            "meaning_ko": "장기적(구조적) 경향"
+          },
+          {
+            "phrase": "a tendency embedded in the data",
+            "meaning_ko": "데이터에 내재된 경향"
+          },
+          {
+            "phrase": "tendency toward path dependence",
+            "meaning_ko": "경로 의존으로 기우는 경향"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I have a tendency to talk too fast when I'm nervous.",
+            "meaning_ko": "저는 긴장하면 말을 너무 빨리 하는 경향이 있어요."
+          },
+          {
+            "sentence": "Children show a natural tendency to imitate adults.",
+            "meaning_ko": "아이들은 어른을 따라 하려는 타고난 성향을 보인다."
+          },
+          {
+            "sentence": "There is a tendency for clutter to build up on this desk.",
+            "meaning_ko": "이 책상은 어수선함이 쌓이기 쉬운 경향이 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report notes a tendency toward centralization in recent reforms.",
+            "meaning_ko": "보고서는 최근 개혁에서 중앙집권화 쪽으로의 경향을 지적한다."
+          },
+          {
+            "sentence": "In winter, the river has a tendency to freeze at night.",
+            "meaning_ko": "겨울에는 그 강이 밤에 얼어붙는 경향이 있다."
+          },
+          {
+            "sentence": "We need safeguards to counter the tendency to cut corners under pressure.",
+            "meaning_ko": "압박 속에서 편법을 쓰려는 경향을 막을 안전장치가 필요하다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The model captures a secular tendency in productivity growth that short-term shocks often obscure.",
+            "meaning_ko": "그 모형은 단기 충격이 가리는 생산성 성장의 장기적 경향을 포착한다."
+          },
+          {
+            "sentence": "Her analysis distinguishes between a statistical tendency embedded in the data and a causal mechanism.",
+            "meaning_ko": "그녀의 분석은 데이터에 내재된 통계적 경향과 인과 메커니즘을 구분한다."
+          },
+          {
+            "sentence": "Unchecked, the tendency toward path dependence can lock institutions into inefficient routines.",
+            "meaning_ko": "통제되지 않으면 경로 의존 쪽으로의 경향이 제도를 비효율적 관행에 가둘 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "tendency는 ‘어떤 방향으로 향한다(tend)’는 어근 이미지로 잡으면 쉽습니다. 문법 패턴은 시험에 자주 나오는 to/toward(s)/for 세 가지를 세트로 외우세요: tendency to V / tendency toward N / tendency for N to V. trend와 헷갈리면, tendency는 ‘성향·원인적 기울기’ 느낌이 더 자주 붙는다는 점(예: tendency to overreact)을 체크하면 됩니다.",
+    "tags": [
+      "성향",
+      "추세",
+      "통계",
+      "문법 패턴",
+      "학술 표현"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: I have a tendency to ____ when I'm tired.",
+            "a": "overeat",
+            "meaning_ko": "tendency to + 동사원형이 대표 패턴입니다."
+          },
+          {
+            "q": "Which phrase is most natural?",
+            "a": "a tendency to procrastinate",
+            "meaning_ko": "to + 동사로 ‘미루는 경향’이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest meaning of 'tendency': His tendency is to worry a lot.",
+            "a": "inclination",
+            "meaning_ko": "tendency는 ‘성향/경향’으로 inclination과 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the correct pattern: There is a tendency ___ prices ___ rise in December. (for / to)",
+            "a": "for; to",
+            "meaning_ko": "tendency for + 명사 + to + 동사 패턴입니다."
+          },
+          {
+            "q": "Choose the best completion: The committee noted a tendency toward ____ in the new policy.",
+            "a": "centralization",
+            "meaning_ko": "toward 다음에는 명사(centralization)가 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence is best?",
+            "a": "Stress can increase the tendency to make impulsive decisions.",
+            "meaning_ko": "tendency to + 동사원형(= make) 구조가 핵심입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading comprehension: In 'a secular tendency in inflation,' secular most nearly means ____.",
+            "a": "long-term",
+            "meaning_ko": "secular tendency는 ‘장기적 경향’을 뜻합니다."
+          },
+          {
+            "q": "Error correction: 'There is a tendency toward to overgeneralize in such debates.'",
+            "a": "There is a tendency to overgeneralize in such debates.",
+            "meaning_ko": "toward는 명사, to는 동사원형으로 역할이 달라서 중복이 되면 오류가 납니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'a tendency embedded in the data'",
+            "a": "a consistent pattern detectable in the dataset",
+            "meaning_ko": "데이터에서 반복적으로 드러나는 일관된 패턴/경향이라는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  }
+]
