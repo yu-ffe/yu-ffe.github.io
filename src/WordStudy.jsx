@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react';
 import './WordStudy.css';
 
 const CSV_COUNT = 92;
+const CARDS_PER_PAGE = 6;
 
 const CSV_FILES = Array.from({ length: CSV_COUNT }, (_, index) =>
   `/assets/words/${String(index + 1).padStart(2, '0')}.csv`
@@ -146,6 +147,56 @@ function formatValue(value) {
     .replace(/\\n/g, ' ');
 }
 
+function useWordEntries() {
+  const [entries, setEntries] = useState([]);
+  const [loading, setLoading] = useState(true);
+  const [error, setError] = useState('');
+
+  useEffect(() => {
+    async function fetchAll() {
+      try {
+        const results = await Promise.allSettled(
+          CSV_FILES.map(async (file, fileIndex) => {
+            const res = await fetch(file, { cache: 'no-cache' });
+            if (!res.ok) throw new Error(`Failed to load ${file}`);
+            const text = await res.text();
+            const parsed = parseCsv(text);
+            return parsed.map((item) => ({
+              ...item,
+              source: file,
+              sourceIndex: fileIndex,
+              sourceLabel: file.split('/').pop()?.replace('.csv', '').padStart(2, '0') ?? '자료',
+            }));
+          })
+        );
+
+        const fulfilled = results.flatMap((result, index) => {
+          if (result.status === 'fulfilled') return result.value;
+          console.warn(
+            `단어장 ${String(index + 1).padStart(2, '0')}을 불러오지 못했습니다.`,
+            result.reason
+          );
+          return [];
+        });
+
+        if (fulfilled.length === 0) {
+          setError('단어장을 불러오지 못했습니다.');
+        } else {
+          setEntries(fulfilled);
+        }
+      } catch (err) {
+        setError(err.message ?? '단어장을 불러오지 못했습니다.');
+      } finally {
+        setLoading(false);
+      }
+    }
+
+    fetchAll();
+  }, []);
+
+  return { entries, loading, error };
+}
+
 function StudyField({ label, value }) {
   return (
     <div className="study-field" key={label}>
@@ -198,68 +249,29 @@ function WordCard({ entry }) {
 }
 
 export default function WordStudy() {
-  const [entries, setEntries] = useState([]);
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState('');
+  const { entries, loading, error } = useWordEntries();
   const [pageIndex, setPageIndex] = useState(0);
   const [cardPage, setCardPage] = useState(1);
-
-  useEffect(() => {
-    async function fetchAll() {
-      try {
-        const results = await Promise.allSettled(
-          CSV_FILES.map(async (file, fileIndex) => {
-            const res = await fetch(file, { cache: 'no-cache' });
-            if (!res.ok) throw new Error(`Failed to load ${file}`);
-            const text = await res.text();
-            const parsed = parseCsv(text);
-            return parsed.map((item) => ({
-              ...item,
-              source: file,
-              sourceIndex: fileIndex,
-              sourceLabel: file.split('/').pop()?.replace('.csv', '').padStart(2, '0') ?? '자료',
-            }));
-          })
-        );
-
-        const fulfilled = results.flatMap((result, index) => {
-          if (result.status === 'fulfilled') return result.value;
-          console.warn(
-            `단어장 ${String(index + 1).padStart(2, '0')}을 불러오지 못했습니다.`,
-            result.reason
-          );
-          return [];
-        });
-
-        if (fulfilled.length === 0) {
-          setError('단어장을 불러오지 못했습니다.');
-        } else {
-          setEntries(fulfilled);
-        }
-      } catch (err) {
-        setError(err.message ?? '단어장을 불러오지 못했습니다.');
-      } finally {
-        setLoading(false);
-      }
-    }
-
-    fetchAll();
-  }, []);
 
   useEffect(() => {
     setCardPage(1);
   }, [pageIndex]);
 
-  const cardsPerPage = 6;
-  const filteredByPage = useMemo(
-    () => entries.filter((entry) => entry.sourceIndex === pageIndex),
-    [entries, pageIndex]
-  );
+  const entriesBySource = useMemo(() => {
+    const groups = Array.from({ length: CSV_FILES.length }, () => []);
+    entries.forEach((entry) => {
+      const bucket = groups[entry.sourceIndex] || groups[0];
+      bucket.push(entry);
+    });
+    return groups;
+  }, [entries]);
 
-  const totalCardPages = Math.max(1, Math.ceil(filteredByPage.length / cardsPerPage));
+  const filteredByPage = entriesBySource[pageIndex] ?? [];
+
+  const totalCardPages = Math.max(1, Math.ceil(filteredByPage.length / CARDS_PER_PAGE));
   const safeCardPage = Math.min(cardPage, totalCardPages);
-  const start = (safeCardPage - 1) * cardsPerPage;
-  const visibleEntries = filteredByPage.slice(start, start + cardsPerPage);
+  const start = (safeCardPage - 1) * CARDS_PER_PAGE;
+  const visibleEntries = filteredByPage.slice(start, start + CARDS_PER_PAGE);
 
   return (
     <div className="word-study-layout">
@@ -291,7 +303,7 @@ export default function WordStudy() {
       {!loading && !error && (
         <section className="card-stack">
           {visibleEntries.map((entry, index) => (
-            <WordCard key={`${entry['단어']}-${index}`} entry={entry} />
+            <WordCard key={`${entry.sourceLabel}-${entry['단어']}-${index}`} entry={entry} />
           ))}
           {filteredByPage.length === 0 && <p className="status">조건에 맞는 단어가 없습니다.</p>}
           {filteredByPage.length > 0 && (

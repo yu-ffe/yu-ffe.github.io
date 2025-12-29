@@ -1,319 +1,47 @@
 import { useEffect, useMemo, useState } from 'react';
 import './LexiconLab.css';
-
-const SETTINGS_COOKIE = 'lexiconLabSettings';
-const POSITION_COOKIE = 'lexiconLabPosition';
-const VIEW_COOKIE = 'lexiconLabView';
-const PRESET_COOKIE = 'lexiconLabPreset';
-const CUSTOM_PRESET_COOKIE = 'lexiconLabCustomPresets';
-const MAX_CUSTOM_PRESETS = 3;
-// TODO: Remove MOBILE_PREVIEW once desktop view is restored.
-const MOBILE_PREVIEW = true;
-const CHUNK_SIZE = 100;
-const PAGE_SIZE_OPTIONS = [6, 8, 10, 12];
+import {
+  CHUNK_SIZE,
+  CUSTOM_PRESET_COOKIE,
+  MAX_CUSTOM_PRESETS,
+  MOBILE_PREVIEW,
+  PAGE_SIZE_OPTIONS,
+  POSITION_COOKIE,
+  PRESET_COOKIE,
+  SETTINGS_COOKIE,
+  VIEW_COOKIE,
+  cloneDefaultSettings,
+  defaultSettings,
+  practiceModules,
+  presetOptions,
+} from './lexicon/constants.js';
+import {
+  loadInitialSettings,
+  loadInitialViewState,
+  normalizeCustomPresets,
+  readCookie,
+  readJsonCookie,
+  writeCookie,
+} from './lexicon/cookies.js';
+import {
+  buildPracticeQuestions,
+  clamp,
+  filterByLevel,
+  getWordSourceKey,
+  getWordSourceLabel,
+  maskWord,
+  normalizePageSize,
+} from './lexicon/utils.js';
 
 const wordSources = import.meta.glob('../public/assets/words/json/**/*.json', { eager: true });
 
 const wordSourceOptions = Array.from(
   new Set(
     Object.keys(wordSources)
-      .map((path) => path.match(/\/words\/json\/([^/]+)\//)?.[1])
+      .map(getWordSourceKey)
       .filter(Boolean)
   )
 ).sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
-
-const wordSourceLabels = {
-  Transfer: 'Transfer · 편입',
-  CSAT: 'CSAT · 수능',
-};
-
-const defaultSettings = {
-  showConcept: true,
-  meaningLimit: 3,
-  showClassification: true,
-  showRelations: true,
-  showUsageContext: true,
-  showFormDetails: true,
-  showNuance: true,
-  showCollocations: true,
-  showExamples: true,
-  showQuiz: true,
-  showKoreanMeanings: true,
-  blurKoreanMeanings: false,
-  showStickyWord: true,
-  showStickyPos: true,
-  blurQuizAnswers: true,
-  quizBlurAmount: 8,
-  collocationLimitPerLevel: null,
-  exampleLimitPerLevel: null,
-  selectedLevels: ['상', '중', '하'],
-  quizItemLimit: 3,
-  wordSource: 'all',
-  showWordSection: true,
-  showPracticeSection: true,
-  practiceItemLimit: 8,
-  selectedPracticeModules: [
-    'preposition',
-    'naturalness',
-    'contextMeaning',
-    'sentenceTranslation',
-    'meaningRecall',
-    'wrongCombination',
-    'rewrite',
-  ],
-};
-
-const presetOptions = [
-  {
-    key: 'minimal',
-    label: '1. 단어-뜻만',
-    description: '단어와 핵심 뜻만 빠르게 보고 싶을 때',
-    settings: {
-      showConcept: false,
-      meaningLimit: 1,
-      showClassification: false,
-      showRelations: false,
-      showUsageContext: false,
-      showFormDetails: false,
-      showNuance: false,
-      showCollocations: false,
-      showExamples: false,
-      showQuiz: false,
-      showWordSection: true,
-      showPracticeSection: false,
-      blurQuizAnswers: false,
-      collocationLimitPerLevel: null,
-      exampleLimitPerLevel: null,
-    },
-    selectedPracticeModules: [],
-  },
-  {
-    key: 'study-core',
-    label: '2. 핵심 공부용',
-    description: '필수 정보와 핵심 예시만 남긴 버전',
-    settings: {
-      showConcept: true,
-      meaningLimit: 3,
-      showClassification: true,
-      showRelations: true,
-      showUsageContext: false,
-      showFormDetails: false,
-      showNuance: false,
-      showCollocations: true,
-      showExamples: true,
-      showQuiz: false,
-      showWordSection: true,
-      showPracticeSection: true,
-      blurQuizAnswers: false,
-      collocationLimitPerLevel: 1,
-      exampleLimitPerLevel: 1,
-    },
-    selectedPracticeModules: ['meaningRecall', 'sentenceTranslation', 'preposition', 'contextMeaning'],
-  },
-  {
-    key: 'study-plus',
-    label: '3. 확장 공부용',
-    description: '조금 더 많은 학습 정보를 포함',
-    settings: {
-      showConcept: true,
-      meaningLimit: 4,
-      showClassification: true,
-      showRelations: true,
-      showUsageContext: false,
-      showFormDetails: false,
-      showNuance: false,
-      showCollocations: true,
-      showExamples: true,
-      showQuiz: true,
-      showWordSection: true,
-      showPracticeSection: true,
-      blurQuizAnswers: true,
-      collocationLimitPerLevel: null,
-      exampleLimitPerLevel: null,
-    },
-    selectedPracticeModules: ['meaningRecall', 'sentenceTranslation', 'preposition', 'contextMeaning', 'naturalness', 'wrongCombination'],
-  },
-  {
-    key: 'full',
-    label: '4. 전체 보기',
-    description: '모든 항목을 한 번에 확인',
-    settings: {
-      showConcept: true,
-      meaningLimit: 6,
-      showClassification: true,
-      showRelations: true,
-      showUsageContext: true,
-      showFormDetails: true,
-      showCollocations: true,
-      showExamples: true,
-      showQuiz: true,
-      showWordSection: true,
-      showPracticeSection: true,
-      blurQuizAnswers: true,
-      showNuance: true,
-      collocationLimitPerLevel: null,
-      exampleLimitPerLevel: null,
-    },
-    selectedPracticeModules: defaultSettings.selectedPracticeModules,
-  },
-];
-
-function cloneDefaultSettings(base = defaultSettings) {
-  return {
-    ...base,
-    selectedLevels: Array.isArray(base.selectedLevels) ? [...base.selectedLevels] : ['상', '중', '하'],
-    selectedPracticeModules: Array.isArray(base.selectedPracticeModules)
-      ? [...base.selectedPracticeModules]
-      : [...defaultSettings.selectedPracticeModules],
-  };
-}
-
-const practiceModules = [
-  {
-    key: 'preposition',
-    label: '전치사 / 보어 채우기',
-    description: '전치사·보어 빈칸을 채우는 문제를 만듭니다.',
-  },
-  {
-    key: 'naturalness',
-    label: '문장 자연성 판단 (O / X)',
-    description: '예문이 자연스러운지 판단하는 문제를 만듭니다.',
-  },
-  {
-    key: 'contextMeaning',
-    label: '문맥 기반 의미 판단',
-    description: '문맥에 맞는 의미를 고르는 문제를 만듭니다.',
-  },
-  {
-    key: 'sentenceTranslation',
-    label: '문장 해석 (뜻 블러 처리)',
-    description: '영문만 보고 해석을 떠올리는 문제를 만듭니다.',
-  },
-  {
-    key: 'meaningRecall',
-    label: '뜻 → 단어 회상',
-    description: '한국어 뜻을 보고 단어를 회상하는 문제를 만듭니다.',
-  },
-  {
-    key: 'wrongCombination',
-    label: '잘못된 결합 찾기',
-    description: '전치사/구문 결합 중 틀린 것을 찾는 문제를 만듭니다.',
-  },
-  {
-    key: 'rewrite',
-    label: '문장 재작성 (지정 단어 사용)',
-    description: '지정 단어를 사용해 문장을 다시 쓰는 문제를 만듭니다.',
-  },
-];
-
-function readCookie(name) {
-  if (typeof document === 'undefined') return '';
-  const value = document.cookie
-    .split('; ')
-    .map((chunk) => chunk.trim())
-    .find((chunk) => chunk.startsWith(`${name}=`));
-  return value ? decodeURIComponent(value.split('=')[1]) : '';
-}
-
-function readJsonCookie(name, fallback = null) {
-  const raw = readCookie(name);
-  if (!raw) return fallback;
-  try {
-    return JSON.parse(raw);
-  } catch (err) {
-    const numeric = Number(raw);
-    if (!Number.isNaN(numeric)) return numeric;
-    console.warn(`${name} 쿠키를 JSON으로 해석하지 못했습니다.`, err);
-    return fallback;
-  }
-}
-
-function writeCookie(name, value, days = 90) {
-  if (typeof document === 'undefined') return;
-  const expires = new Date(Date.now() + days * 24 * 60 * 60 * 1000).toUTCString();
-  document.cookie = `${name}=${encodeURIComponent(value)}; expires=${expires}; path=/`;
-}
-
-function normalizeCustomPresets(value) {
-  if (!Array.isArray(value)) return [];
-  return value.slice(0, MAX_CUSTOM_PRESETS).map((preset, index) => ({
-    key: preset?.key || `custom-${index}`,
-    label: preset?.label || `커스텀 ${index + 1}`,
-    settings: preset?.settings ? { ...preset.settings } : cloneDefaultSettings(),
-    selectedPracticeModules:
-      preset?.selectedPracticeModules ||
-      preset?.settings?.selectedPracticeModules ||
-      cloneDefaultSettings().selectedPracticeModules,
-  }));
-}
-
-function getWordSourceKey(path) {
-  return path.match(/\/words\/json\/([^/]+)\//)?.[1] ?? '';
-}
-
-function getWordSourceLabel(source) {
-  return wordSourceLabels[source] ?? source;
-}
-
-function clamp(value, min, max) {
-  return Math.min(Math.max(value, min), max);
-}
-
-function normalizePageSize(value) {
-  const parsed = Number(value);
-  if (PAGE_SIZE_OPTIONS.includes(parsed)) return parsed;
-  return PAGE_SIZE_OPTIONS[0];
-}
-
-function normalizeOptionalLimit(value) {
-  const parsed = Number(value);
-  if (Number.isInteger(parsed) && parsed > 0) return parsed;
-  return null;
-}
-
-function loadInitialSettings() {
-  const saved = readJsonCookie(SETTINGS_COOKIE, {});
-  const merged = {
-    ...cloneDefaultSettings(defaultSettings),
-    ...(saved && typeof saved === 'object' ? saved : {}),
-  };
-
-  merged.meaningLimit = clamp(Number(merged.meaningLimit) || defaultSettings.meaningLimit, 1, 10);
-  merged.quizItemLimit = clamp(Number(merged.quizItemLimit) || defaultSettings.quizItemLimit, 1, 10);
-  merged.practiceItemLimit = clamp(
-    Number(merged.practiceItemLimit) || defaultSettings.practiceItemLimit,
-    3,
-    20
-  );
-  merged.wordSource = merged.wordSource || defaultSettings.wordSource;
-  merged.selectedLevels = merged.selectedLevels?.length ? merged.selectedLevels : [...defaultSettings.selectedLevels];
-  merged.selectedPracticeModules = Array.isArray(merged.selectedPracticeModules) && merged.selectedPracticeModules.length
-    ? merged.selectedPracticeModules
-    : [...defaultSettings.selectedPracticeModules];
-  merged.collocationLimitPerLevel = normalizeOptionalLimit(merged.collocationLimitPerLevel);
-  merged.exampleLimitPerLevel = normalizeOptionalLimit(merged.exampleLimitPerLevel);
-  merged.showNuance = merged.showNuance !== false;
-  merged.blurKoreanMeanings = merged.blurKoreanMeanings === true;
-  merged.showWordSection = true;
-  merged.showPracticeSection = true;
-
-  return merged;
-}
-
-function loadInitialViewState() {
-  const viewState = readJsonCookie(VIEW_COOKIE, {}) || {};
-  const positionState = readJsonCookie(POSITION_COOKIE, {}) || {};
-  const combined = { ...viewState, ...positionState };
-
-  const viewMode = combined.viewMode === 'practice' ? 'practice' : 'words';
-  const chunkIndex = Number.isInteger(combined.chunkIndex) ? Math.max(0, combined.chunkIndex) : 0;
-  const page = Number.isInteger(combined.page) ? Math.max(1, combined.page) : 1;
-  const pageSize = normalizePageSize(combined.pageSize);
-  const savedLocation =
-    combined && typeof combined === 'object' && Object.keys(combined).length > 0 ? combined : null;
-
-  return { viewMode, chunkIndex, page, pageSize, savedLocation };
-}
 
 function loadWordEntries(sourceFilter) {
   const modules = Object.entries(wordSources)
@@ -1125,43 +853,6 @@ function ViewSwitcher({ active, onChange }) {
   );
 }
 
-function filterByLevel(groups, levels) {
-  if (!groups?.length) return [];
-  if (!levels?.length) return groups;
-  return groups.filter((group) => levels.includes(group.level));
-}
-
-function mulberry32(seed) {
-  let t = seed;
-  return () => {
-    t += 0x6d2b79f5;
-    let result = Math.imul(t ^ (t >>> 15), t | 1);
-    result ^= result + Math.imul(result ^ (result >>> 7), result | 61);
-    return ((result ^ (result >>> 14)) >>> 0) / 4294967296;
-  };
-}
-
-function shuffleList(items, rng) {
-  const list = [...items];
-  for (let i = list.length - 1; i > 0; i -= 1) {
-    const j = Math.floor(rng() * (i + 1));
-    [list[i], list[j]] = [list[j], list[i]];
-  }
-  return list;
-}
-
-function pickOne(items, rng) {
-  if (!items.length) return null;
-  return items[Math.floor(rng() * items.length)];
-}
-
-function maskWord(text, word) {
-  if (!text || !word || typeof text !== 'string') return text;
-  const escaped = word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const pattern = new RegExp(`\\b${escaped}\\b`, 'gi');
-  return text.replace(pattern, '_____');
-}
-
 function resolvePreset(key, customPresetsList) {
   if (!key) return null;
   if (key.startsWith('custom-')) {
@@ -1188,143 +879,6 @@ function mergePresetSettings(previousSettings, preset) {
   }
 
   return next;
-}
-
-function flattenExamples(entry) {
-  return entry.examples?.flatMap((group) => group.items?.map((item) => ({ ...item, level: group.level })) || []) || [];
-}
-
-function buildPracticeQuestions(entries, settings, seed) {
-  const rng = mulberry32(seed);
-  const enabledModules = new Set(settings.selectedPracticeModules);
-  const questions = [];
-
-  entries.forEach((entry) => {
-    const examples = flattenExamples(entry);
-
-    if (enabledModules.has('preposition')) {
-      const patternQuestions = (entry.prepositionPatterns || []).map((pattern) => {
-        const base = pattern.example || `${entry.word} ${pattern.prep}`;
-        const blanked = base.replace(new RegExp(`\\b${pattern.prep}\\b`, 'i'), '___');
-        const prompt = blanked === base ? `${entry.word} ___` : blanked;
-        return {
-          type: '전치사 / 보어 채우기',
-          prompt,
-          answer: pattern.prep,
-          hint: pattern.meaning_ko,
-          word: entry.word,
-        };
-      });
-
-      const complementQuestions = (entry.requiredComplements || [])
-        .map((item) => {
-          const [raw, meaning] = item.split(':').map((part) => part.trim());
-          if (!raw?.includes('+')) return null;
-          const parts = raw.split('+').map((part) => part.trim()).filter(Boolean);
-          if (parts.length < 2) return null;
-          return {
-            type: '전치사 / 보어 채우기',
-            prompt: `${parts.slice(0, -1).join(' + ')} ___`,
-            answer: parts[parts.length - 1],
-            hint: meaning,
-            word: entry.word,
-          };
-        })
-        .filter(Boolean);
-
-      const question = pickOne([...patternQuestions, ...complementQuestions], rng);
-      if (question) questions.push(question);
-    }
-
-    if (enabledModules.has('naturalness') && examples.length) {
-      const example = pickOne(examples, rng);
-      questions.push({
-        type: '문장 자연성 판단 (O / X)',
-        prompt: example.sentence,
-        answer: '자연스럽다 (O)',
-        word: entry.word,
-      });
-    }
-
-    if (enabledModules.has('contextMeaning') && entry.meanings?.length > 1 && examples.length) {
-      const example = pickOne(examples, rng);
-      const correct = pickOne(entry.meanings, rng);
-      const options = shuffleList(
-        entry.meanings.map((meaning) => meaning.definition_ko),
-        rng
-      ).slice(0, Math.min(4, entry.meanings.length));
-      if (!options.includes(correct.definition_ko)) {
-        options.pop();
-        options.push(correct.definition_ko);
-      }
-      const shuffled = shuffleList(options, rng);
-      questions.push({
-        type: '문맥 기반 의미 판단',
-        prompt: example.sentence,
-        choices: shuffled,
-        answer: correct.definition_ko,
-        word: entry.word,
-      });
-    }
-
-    if (enabledModules.has('sentenceTranslation') && examples.length) {
-      const example = pickOne(examples, rng);
-      if (example?.meaning_ko) {
-        questions.push({
-          type: '문장 해석 (뜻 블러 처리)',
-          prompt: example.sentence,
-          answer: example.meaning_ko,
-          word: entry.word,
-        });
-      }
-    }
-
-    if (enabledModules.has('meaningRecall') && entry.meanings?.length) {
-      const meaning = pickOne(entry.meanings, rng);
-      if (meaning?.definition_ko) {
-        questions.push({
-          type: '뜻 → 단어 회상',
-          prompt: meaning.definition_ko,
-          answer: entry.word,
-          word: entry.word,
-        });
-      }
-    }
-
-    if (enabledModules.has('wrongCombination') && entry.prepositionPatterns?.length) {
-      const preps = Array.from(new Set(entry.prepositionPatterns.map((pattern) => pattern.prep)));
-      const pool = ['to', 'for', 'with', 'on', 'in', 'at', 'from', 'by', 'about', 'over', 'into'];
-      const wrongPrep = pickOne(pool.filter((prep) => !preps.includes(prep)), rng);
-      if (wrongPrep) {
-        const choices = shuffleList([...preps, wrongPrep].map((prep) => `${entry.word} ${prep}`), rng);
-        questions.push({
-          type: '잘못된 결합 찾기',
-          prompt: '다음 중 잘못된 결합을 고르세요.',
-          choices,
-          answer: `${entry.word} ${wrongPrep}`,
-          word: entry.word,
-        });
-      }
-    }
-
-    if (enabledModules.has('rewrite') && examples.length) {
-      const example = pickOne(examples, rng);
-      const regex = new RegExp(`\\b${entry.word}\\b`, 'i');
-      const maskedSentence = regex.test(example.sentence)
-        ? example.sentence.replace(regex, '_____')
-        : example.sentence;
-      questions.push({
-        type: '문장 재작성 (지정 단어 사용)',
-        prompt: maskedSentence,
-        answer: example.sentence,
-        word: entry.word,
-        note: `지정 단어: ${entry.word}`,
-      });
-    }
-  });
-
-  const shuffled = shuffleList(questions, rng);
-  return shuffled.slice(0, settings.practiceItemLimit);
 }
 
 function LexiconEntry({ entry, settings }) {
