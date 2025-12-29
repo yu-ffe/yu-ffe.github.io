@@ -1,0 +1,880 @@
+[
+  {
+    "word": "mendacious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Not telling the truth; given to lying or deception.",
+        "definition_ko": "거짓말을 하는; 사실을 속이거나 왜곡하는.",
+        "note": "격식 있는 표현으로, 사람·진술·주장에 모두 쓰입니다."
+      }
+    ],
+    "concept": "사실을 말하지 않고 의도적으로 거짓을 섞는 상태를 나타내는 형용사.",
+    "etymology": "라틴어 mendax(거짓말하는)에서 유래해 ‘거짓’의 의미가 굳어진 말입니다.",
+    "semanticExtension": "사람의 성향뿐 아니라 ‘mendacious claim’처럼 주장·기사·소문 같은 내용에도 확장되어 쓰입니다.",
+    "nuanceRegister": "문어·격식. 비난/비판의 뉘앙스가 강하며 학술·법률·논평 문맥에서 자주 보입니다.",
+    "grammarNotes": "보통 명사를 꾸미는 형용사로 쓰이며(예: mendacious statement), ‘be mendacious’ 형태도 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "mendac- (라틴어 ‘거짓’ 어근) + -ious(‘~한’ 형용사 접미사)로 ‘거짓 성향이 있는’의 의미를 만듭니다.",
+    "derivatives": [
+      {
+        "word": "mendacity",
+        "meaning_ko": "거짓말(하는 성향), 허위"
+      },
+      {
+        "word": "mendaciously",
+        "meaning_ko": "거짓되게, 허위로"
+      },
+      {
+        "word": "mendaciousness",
+        "meaning_ko": "거짓됨, 허위성"
+      }
+    ],
+    "related": [
+      {
+        "word": "deception",
+        "meaning_ko": "기만, 속임"
+      },
+      {
+        "word": "fabrication",
+        "meaning_ko": "날조, 꾸며낸 이야기"
+      },
+      {
+        "word": "perjury",
+        "meaning_ko": "위증"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "dishonest",
+        "meaning_ko": "정직하지 않은"
+      },
+      {
+        "word": "lying",
+        "meaning_ko": "거짓말하는"
+      },
+      {
+        "word": "deceitful",
+        "meaning_ko": "기만적인"
+      },
+      {
+        "word": "false",
+        "meaning_ko": "거짓의"
+      },
+      {
+        "word": "untruthful",
+        "meaning_ko": "사실이 아닌 말을 하는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "duplicitous",
+        "meaning_ko": "이중적인, 속이는"
+      },
+      {
+        "word": "disingenuous",
+        "meaning_ko": "겉으로만 순진한 척하는"
+      },
+      {
+        "word": "misleading",
+        "meaning_ko": "오해를 부르는"
+      },
+      {
+        "word": "evasive",
+        "meaning_ko": "회피하는, 얼버무리는"
+      },
+      {
+        "word": "specious",
+        "meaning_ko": "그럴듯하지만 속 빈(논리·근거가 약한)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "truthful",
+        "meaning_ko": "진실한"
+      },
+      {
+        "word": "honest",
+        "meaning_ko": "정직한"
+      },
+      {
+        "word": "candid",
+        "meaning_ko": "솔직한"
+      },
+      {
+        "word": "veracious",
+        "meaning_ko": "진실을 말하는"
+      },
+      {
+        "word": "forthright",
+        "meaning_ko": "숨김없는, 직설적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a mendacious person",
+            "meaning_ko": "거짓말을 하는 사람"
+          },
+          {
+            "phrase": "a mendacious statement",
+            "meaning_ko": "허위 진술"
+          },
+          {
+            "phrase": "mendacious rumors",
+            "meaning_ko": "근거 없는 거짓 소문"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "mendacious claims",
+            "meaning_ko": "허위 주장"
+          },
+          {
+            "phrase": "a mendacious narrative",
+            "meaning_ko": "왜곡된 이야기/서사"
+          },
+          {
+            "phrase": "mendacious testimony",
+            "meaning_ko": "거짓 증언"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a mendacious propaganda campaign",
+            "meaning_ko": "허위 선전(프로파간다) 캠페인"
+          },
+          {
+            "phrase": "mendaciously distort the record",
+            "meaning_ko": "기록을 고의로 허위 왜곡하다"
+          },
+          {
+            "phrase": "a mendacious pretext for intervention",
+            "meaning_ko": "개입을 위한 거짓 명분"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He gave a mendacious answer to a simple question.",
+            "meaning_ko": "그는 단순한 질문에도 거짓된 답을 했다."
+          },
+          {
+            "sentence": "The report turned out to be mendacious.",
+            "meaning_ko": "그 보고서는 거짓으로 드러났다."
+          },
+          {
+            "sentence": "I stopped trusting him after his mendacious excuses.",
+            "meaning_ko": "그의 거짓 변명을 겪은 뒤로 나는 그를 믿지 않게 됐다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The witness was later exposed as mendacious, undermining the case.",
+            "meaning_ko": "그 증인은 나중에 거짓말쟁이로 드러나 사건의 신빙성을 무너뜨렸다."
+          },
+          {
+            "sentence": "She criticized the article for its mendacious portrayal of the incident.",
+            "meaning_ko": "그녀는 사건을 허위로 묘사한 그 기사를 비판했다."
+          },
+          {
+            "sentence": "A mendacious promise may win applause today but costs credibility tomorrow.",
+            "meaning_ko": "거짓 약속은 오늘 박수를 얻을지 몰라도 내일 신뢰를 잃게 한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The committee found the memo to be mendacious in both substance and intent.",
+            "meaning_ko": "위원회는 그 메모가 내용과 의도 모두에서 허위라고 판단했다."
+          },
+          {
+            "sentence": "His mendacious framing of the data obscured the study’s actual limitations.",
+            "meaning_ko": "그의 데이터에 대한 허위적 프레이밍은 연구의 실제 한계를 가렸다."
+          },
+          {
+            "sentence": "A mendacious pretext was constructed to legitimize actions that were never lawful.",
+            "meaning_ko": "원래 합법이 아니었던 행동을 정당화하기 위해 거짓 명분이 만들어졌다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "mendacious는 ‘거짓말하는 성향’ 자체를 강하게 비난하는 격식어라서, 단순히 ‘틀린’(incorrect)과 다릅니다. 사람뿐 아니라 statement/claim/testimony처럼 ‘말·주장’에도 붙는다는 점을 같이 외우시면 출제 대응이 빨라집니다. mendacity(명사)와 세트로 정리해 두면 어휘 변형 문제에 강해집니다.",
+    "tags": [
+      "성격",
+      "비판",
+      "진실성",
+      "논평",
+      "법률·증언"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'mendacious':\nA) generous\nB) truthful\nC) lying\nD) sleepy",
+            "a": "C",
+            "meaning_ko": "mendacious는 ‘거짓말하는/허위의’ 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The politician denied the accusation with a ______ statement.",
+            "a": "mendacious",
+            "meaning_ko": "허위 진술을 뜻하는 전형적 결합(statement)입니다."
+          },
+          {
+            "q": "Which word is the opposite of 'mendacious'?",
+            "a": "truthful",
+            "meaning_ko": "반의어는 truthful/honest/candid 계열입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the most natural collocation:\nA) mendacious homework\nB) mendacious testimony\nC) mendacious sunshine\nD) mendacious furniture",
+            "a": "B",
+            "meaning_ko": "testimony(증언)와 자주 결합합니다."
+          },
+          {
+            "q": "Rewrite using 'mendacious' (keep the meaning): \"His account was deliberately false.\"",
+            "a": "His account was mendacious.",
+            "meaning_ko": "deliberately false(고의적 허위)를 mendacious로 압축할 수 있습니다."
+          },
+          {
+            "q": "In critical writing, 'mendacious' most strongly implies _____.",
+            "a": "intentional deception",
+            "meaning_ko": "단순 오류가 아니라 ‘의도적 기만’ 뉘앙스가 핵심입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best option to complete the sentence:\n\"The editorial condemned the ______ use of statistics to shape public opinion.\"",
+            "a": "mendacious",
+            "meaning_ko": "통계를 ‘허위로’ 활용했다는 비판적 문맥에서 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence uses 'mendacious' most precisely?",
+            "a": "The memo was mendacious, crafted to conceal conflicts of interest.",
+            "meaning_ko": "허위 + 의도(은폐 목적)를 함께 드러내는 문장이 가장 정확합니다."
+          },
+          {
+            "q": "Error correction: \"He was mendacious about to the results.\" (Fix the grammar.)",
+            "a": "He was mendacious about the results.",
+            "meaning_ko": "about 뒤에는 불필요한 to가 오지 않습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "karma",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "In some religions, the force created by a person's actions that influences their future fate; more generally, the idea that good or bad actions bring corresponding results.",
+        "definition_ko": "일부 종교에서 행위가 만들어내는 업(業)과 그에 따른 결과; 일반적으로는 ‘한 일은 돌려받는다’는 인과 응보 개념.",
+        "note": "일상에서는 ‘업보/자업자득’처럼 가볍게 쓰이기도 합니다."
+      }
+    ],
+    "concept": "행동이 원인이 되어 미래에 결과로 돌아온다는 ‘행위-결과’의 인과 개념.",
+    "etymology": "산스크리트어 karman(행위, 일)에서 유래해 ‘행위가 남기는 결과’ 의미로 정착했습니다.",
+    "semanticExtension": "종교·철학 개념에서 출발했지만, 현대 구어에서는 ‘자업자득’처럼 도덕적 결과를 가리키는 표현으로 넓게 쓰입니다.",
+    "nuanceRegister": "중립~구어. 원래는 종교·철학적 레지스터가 있으나, 온라인/대화에서는 가볍게 ‘karma’로도 씁니다.",
+    "grammarNotes": "보통 불가산처럼 쓰이지만(karma), 맥락상 ‘good/bad karma’처럼 형용사 수식을 받습니다. 구어에서 ‘It’s karma.’로 단독 문장도 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "보통 불가산명사(맥락상 가산처럼 취급되기도 함)",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "어근 karma(‘행위/업’) 자체가 핵심이며, 영어에서는 karmic(형용사) 등으로 파생됩니다.",
+    "derivatives": [
+      {
+        "word": "karmic",
+        "meaning_ko": "업(보)의, 인과응보의"
+      },
+      {
+        "word": "karmically",
+        "meaning_ko": "업보적으로, 인과응보의 관점에서"
+      }
+    ],
+    "related": [
+      {
+        "word": "retribution",
+        "meaning_ko": "응보, 보복(결과)"
+      },
+      {
+        "word": "consequence",
+        "meaning_ko": "결과, 여파"
+      },
+      {
+        "word": "reincarnation",
+        "meaning_ko": "윤회, 환생"
+      },
+      {
+        "word": "dharma",
+        "meaning_ko": "법(法), 도리(종교·철학)"
+      },
+      {
+        "word": "fate",
+        "meaning_ko": "운명"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cause and effect",
+        "meaning_ko": "인과 관계"
+      },
+      {
+        "word": "retribution",
+        "meaning_ko": "응보(결과)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "payback",
+        "meaning_ko": "되갚음(구어)"
+      },
+      {
+        "word": "comeuppance",
+        "meaning_ko": "응분의 대가(구어)"
+      },
+      {
+        "word": "destiny",
+        "meaning_ko": "운명(보다 넓은 개념)"
+      },
+      {
+        "word": "justice",
+        "meaning_ko": "정의(도덕적 결과)"
+      },
+      {
+        "word": "inevitable result",
+        "meaning_ko": "피할 수 없는 결과"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "good karma",
+            "meaning_ko": "좋은 업(좋은 결과를 부르는 행위)"
+          },
+          {
+            "phrase": "bad karma",
+            "meaning_ko": "나쁜 업(나쁜 결과를 부르는 행위)"
+          },
+          {
+            "phrase": "It’s karma.",
+            "meaning_ko": "자업자득이야."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "karma will catch up with you",
+            "meaning_ko": "업보가 결국 따라잡는다"
+          },
+          {
+            "phrase": "a sense of karma",
+            "meaning_ko": "인과응보에 대한 감각/믿음"
+          },
+          {
+            "phrase": "karmic consequences",
+            "meaning_ko": "업(보)적 결과"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "the doctrine of karma",
+            "meaning_ko": "업(業) 교리"
+          },
+          {
+            "phrase": "a karmic cycle of suffering",
+            "meaning_ko": "고통의 업보적 순환"
+          },
+          {
+            "phrase": "karmic causation across lifetimes",
+            "meaning_ko": "생애를 넘어 이어지는 업보 인과"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He believes that good deeds create good karma.",
+            "meaning_ko": "그는 선행이 좋은 업을 만든다고 믿는다."
+          },
+          {
+            "sentence": "She joked, “Relax—karma will handle it.”",
+            "meaning_ko": "그녀는 “진정해, 업보가 알아서 하겠지”라고 농담했다."
+          },
+          {
+            "sentence": "Helping strangers makes me feel like I’m building good karma.",
+            "meaning_ko": "낯선 이를 돕는 건 좋은 업을 쌓는 느낌을 준다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "In his view, karma isn’t punishment but a natural consequence of choice.",
+            "meaning_ko": "그의 관점에서 카르마는 처벌이 아니라 선택의 자연스러운 결과다."
+          },
+          {
+            "sentence": "They warned him that bad karma would catch up with his dishonest behavior.",
+            "meaning_ko": "그들은 그의 부정직한 행동이 결국 업보로 돌아올 거라고 경고했다."
+          },
+          {
+            "sentence": "The film frames revenge as karma rather than justice.",
+            "meaning_ko": "그 영화는 복수를 정의가 아니라 업보로 제시한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The text links karma to ethical intention, not merely outward action.",
+            "meaning_ko": "그 문헌은 카르마를 겉행동이 아니라 윤리적 의도와 연결한다."
+          },
+          {
+            "sentence": "He invoked karma to explain why structural harm echoes across generations.",
+            "meaning_ko": "그는 구조적 피해가 세대를 넘어 울려 퍼지는 이유를 설명하기 위해 카르마를 끌어왔다."
+          },
+          {
+            "sentence": "Reducing karma to simple payback misses its philosophical depth and complexity.",
+            "meaning_ko": "카르마를 단순한 되갚음으로 축소하면 그 철학적 깊이와 복잡성을 놓치게 된다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "karma는 원래 종교·철학 용어라서 ‘벌’(punishment)로만 번역하면 의미가 좁아질 수 있습니다. 시험에서는 consequence, retribution, comeuppance 같은 결과 어휘와 함께 묶어 두면 문맥 추론이 쉬워집니다. 구어의 “Karma will catch up with you”를 통째로 외워 두면 회화/독해 둘 다 커버됩니다.",
+    "tags": [
+      "철학",
+      "종교",
+      "도덕",
+      "인과",
+      "구어 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "What does 'karma' most commonly refer to in everyday English?",
+            "a": "the idea that actions bring corresponding results",
+            "meaning_ko": "일상에서는 ‘한 일은 돌아온다’는 인과응보 개념으로 많이 씁니다."
+          },
+          {
+            "q": "Fill in the blank: He thinks lying will bring him bad ______.",
+            "a": "karma",
+            "meaning_ko": "bad karma는 매우 흔한 결합입니다."
+          },
+          {
+            "q": "Which phrase is closest in meaning to “Karma will catch up with you”?",
+            "a": "You will face the consequences of your actions.",
+            "meaning_ko": "행동의 결과를 맞게 된다는 뜻입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the most natural collocation:\nA) karma furniture\nB) karmic consequences\nC) karma calculus\nD) karmic sandwich",
+            "a": "B",
+            "meaning_ko": "karmic consequences는 학술/논평 문맥에서 자주 쓰입니다."
+          },
+          {
+            "q": "In the sentence “It’s karma,” the speaker most likely means _____.",
+            "a": "It’s a deserved outcome.",
+            "meaning_ko": "자업자득/응분의 결과라는 뉘앙스가 일반적입니다."
+          },
+          {
+            "q": "Pick the best word to replace 'karma' in this context:\n“His cruelty finally had consequences; it felt like ____.”",
+            "a": "comeuppance",
+            "meaning_ko": "구어에서 ‘응분의 대가’에 가까운 대체어입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Complete the sentence with the most precise phrase:\n“The essay argues that _____ depends on intention as well as action.”",
+            "a": "karma",
+            "meaning_ko": "철학적 논지에서 karma가 가장 자연스럽습니다."
+          },
+          {
+            "q": "Which interpretation best matches classical usage of 'karma'?",
+            "a": "A causal moral principle linking actions to future outcomes",
+            "meaning_ko": "고전적 의미는 ‘행위-결과’의 인과 원리입니다."
+          },
+          {
+            "q": "Error correction: “He blamed to karma for everything.” (Fix the sentence.)",
+            "a": "He blamed karma for everything.",
+            "meaning_ko": "blame A for B 구조에서 불필요한 to를 제거합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "given",
+    "partOfSpeech": [
+      "adjective",
+      "preposition",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Past participle of 'give'; also used as an adjective meaning specified or already known.",
+        "definition_ko": "give의 과거분사; 또한 ‘주어진/정해진/이미 알려진’의 뜻으로 쓰이는 형용사.",
+        "note": "문맥에 따라 전치사처럼 ‘~을 고려하면’(given + 명사/절)로도 자주 쓰입니다."
+      },
+      {
+        "definition_en": "Considering; taking into account (used like a preposition), especially in 'given that'.",
+        "definition_ko": "…을 고려하면/감안하면(전치사처럼 쓰임), 특히 given that(~라는 점을 고려하면).",
+        "note": "논리 전개/글쓰기에서 연결어 역할을 합니다."
+      }
+    ],
+    "concept": "이미 제공된 조건·사실을 ‘전제로’ 삼아 설명을 전개할 때 쓰는 표현.",
+    "etymology": "고대 영어 giefan(주다) 계열에서 온 give의 과거분사 형태가 굳어져, ‘주어진’이라는 형용사·연결 표현으로도 쓰이게 되었습니다.",
+    "semanticExtension": "‘주어진(조건)’에서 출발해, 논증에서 ‘그 점을 고려하면’이라는 담화 표지 기능(given that)으로 확장되었습니다.",
+    "nuanceRegister": "중립. 일상(주어진 조건)부터 학술·비즈니스 문서(가정/전제 제시)까지 폭넓습니다.",
+    "grammarNotes": "형용사: a given time/fact. 전치사적 용법: given + 명사, given that + 절. 관용: be given to + N/V-ing(…하는 경향이 있다), given over to(…에 몰두한).",
+    "transitivity": "타동사(‘give’의 과거분사/분사형으로 기능)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "that",
+        "meaning_ko": "…라는 점을 고려하면",
+        "example": "Given that we’re short on time, let’s start."
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "…하는 경향이 있는(관용: be given to)",
+        "example": "She is given to overthinking."
+      }
+    ],
+    "requiredComplements": [
+      "given + noun (…을 고려하면/…이 주어진 상황에서)",
+      "given that + S V (…라는 점을 고려하면)",
+      "be given to + N / V-ing (…하는 경향이 있다)"
+    ],
+    "morphology": "give(주다) 동사의 과거분사 형태. 영어에서는 분사가 형용사/연결어 역할로 문법화되는 경우가 많습니다.",
+    "derivatives": [
+      {
+        "word": "give",
+        "meaning_ko": "주다"
+      },
+      {
+        "word": "giver",
+        "meaning_ko": "주는 사람, 기부자"
+      },
+      {
+        "word": "giving",
+        "meaning_ko": "주는 행위; 관대한"
+      }
+    ],
+    "related": [
+      {
+        "word": "assumption",
+        "meaning_ko": "가정, 전제"
+      },
+      {
+        "word": "premise",
+        "meaning_ko": "전제(논리)"
+      },
+      {
+        "word": "condition",
+        "meaning_ko": "조건"
+      },
+      {
+        "word": "granted",
+        "meaning_ko": "…라고 인정하면(양보)"
+      },
+      {
+        "word": "provided",
+        "meaning_ko": "…라는 조건하에"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "specified",
+        "meaning_ko": "명시된"
+      },
+      {
+        "word": "particular",
+        "meaning_ko": "특정한"
+      },
+      {
+        "word": "granted",
+        "meaning_ko": "인정된/전제로 한"
+      },
+      {
+        "word": "considering",
+        "meaning_ko": "고려하면"
+      },
+      {
+        "word": "in view of",
+        "meaning_ko": "…을 고려하여"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "assuming",
+        "meaning_ko": "가정하면"
+      },
+      {
+        "word": "presuming",
+        "meaning_ko": "추정하면"
+      },
+      {
+        "word": "taking into account",
+        "meaning_ko": "감안하면"
+      },
+      {
+        "word": "notwithstanding",
+        "meaning_ko": "…에도 불구하고(다른 연결)"
+      },
+      {
+        "word": "supposing",
+        "meaning_ko": "가정하건대"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unknown",
+        "meaning_ko": "알려지지 않은"
+      },
+      {
+        "word": "unspecified",
+        "meaning_ko": "명시되지 않은"
+      },
+      {
+        "word": "uncertain",
+        "meaning_ko": "불확실한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a given time",
+            "meaning_ko": "정해진/주어진 시간"
+          },
+          {
+            "phrase": "a given fact",
+            "meaning_ko": "이미 알려진 사실"
+          },
+          {
+            "phrase": "given that",
+            "meaning_ko": "~라는 점을 고려하면"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "given the circumstances",
+            "meaning_ko": "상황을 고려하면"
+          },
+          {
+            "phrase": "at any given moment",
+            "meaning_ko": "어느 특정 순간에든"
+          },
+          {
+            "phrase": "given the constraints",
+            "meaning_ko": "제약을 감안하면"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "given the evidence available",
+            "meaning_ko": "가용한 증거를 고려하면"
+          },
+          {
+            "phrase": "be given to exaggeration",
+            "meaning_ko": "과장하는 경향이 있다"
+          },
+          {
+            "phrase": "given that assumption, it follows that",
+            "meaning_ko": "그 가정하에, 따라서 …가 된다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "At any given time, only one person can speak.",
+            "meaning_ko": "어느 특정 시점이든 한 사람만 말할 수 있다."
+          },
+          {
+            "sentence": "This is true for a given example.",
+            "meaning_ko": "이것은 주어진 예시에서 참이다."
+          },
+          {
+            "sentence": "Given that it’s raining, we’ll stay inside.",
+            "meaning_ko": "비가 오니(라는 점을 고려하면) 우리는 안에 있겠다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Given the circumstances, his decision was reasonable.",
+            "meaning_ko": "상황을 감안하면 그의 결정은 합리적이었다."
+          },
+          {
+            "sentence": "The solution works for any given input within the range.",
+            "meaning_ko": "그 해법은 범위 내 어떤 입력이 주어져도 작동한다."
+          },
+          {
+            "sentence": "She is given to worry when plans change suddenly.",
+            "meaning_ko": "그녀는 계획이 갑자기 바뀌면 걱정하는 경향이 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Given the evidence available at the time, the investigators’ conclusion was defensible.",
+            "meaning_ko": "당시 이용 가능한 증거를 고려하면 수사관들의 결론은 방어 가능한 것이었다."
+          },
+          {
+            "sentence": "Given that the premise is false, the argument collapses regardless of its elegance.",
+            "meaning_ko": "전제가 거짓이라면, 그 논증은 아무리 우아해도 무너진다."
+          },
+          {
+            "sentence": "Any policy must be evaluated in light of a given institutional constraint set.",
+            "meaning_ko": "어떤 정책이든 주어진 제도적 제약 조건 집합을 고려해 평가되어야 한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "given은 ‘주어진’(형용사)과 ‘~을 고려하면’(given that/ given + 명사) 두 축으로 잡으시면 됩니다. 특히 given that은 글의 논리 연결에서 자주 나오므로, because와의 미세한 차이(원인 제시 vs 전제/조건 제시)를 문장째로 익혀두세요. 관용구 be given to(~하는 경향)도 같이 외우면 빈칸·어법 문제에서 점수가 안정됩니다.",
+    "tags": [
+      "문법",
+      "연결 표현",
+      "논리",
+      "전제",
+      "일상·학술"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: ______ that we are late, we should call them.",
+            "a": "Given",
+            "meaning_ko": "Given that(~라는 점을 고려하면) 구조입니다."
+          },
+          {
+            "q": "Which phrase is closest to “a given fact”?",
+            "a": "a known fact",
+            "meaning_ko": "given은 ‘이미 알려진/정해진’ 의미로 쓰입니다."
+          },
+          {
+            "q": "Choose the best meaning of 'given' in: “at any given moment.”",
+            "a": "particular",
+            "meaning_ko": "특정 순간을 뜻하는 particular과 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the most natural completion:\n“_____ the constraints, we need a simpler plan.”",
+            "a": "Given",
+            "meaning_ko": "Given + 명사(제약을 감안하면) 구조가 자연스럽습니다."
+          },
+          {
+            "q": "Rewrite using 'given that' (keep the meaning): “Because the premise is false, the conclusion fails.”",
+            "a": "Given that the premise is false, the conclusion fails.",
+            "meaning_ko": "because를 전제/조건 강조 형태로 바꿀 수 있습니다."
+          },
+          {
+            "q": "What does “She is given to worry” mean?",
+            "a": "She tends to worry.",
+            "meaning_ko": "be given to = ~하는 경향이 있다(관용)입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Complete the sentence:\n“Given that the data are incomplete, any estimate must be treated as ______.”",
+            "a": "tentative",
+            "meaning_ko": "불완전한 데이터라는 전제 → 추정치는 잠정적(tentative)이라는 논리입니다."
+          },
+          {
+            "q": "Error correction: “Given to the evidence, the claim is weak.” (Fix the connector.)",
+            "a": "Given the evidence, the claim is weak.",
+            "meaning_ko": "given 뒤에는 보통 전치사 to가 아니라 바로 명사가 옵니다."
+          },
+          {
+            "q": "Which use of 'given' best signals a logical premise in formal writing?",
+            "a": "Given that + clause",
+            "meaning_ko": "형식 글쓰기에서 전제를 명확히 하는 대표 구조입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

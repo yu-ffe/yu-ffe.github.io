@@ -1,0 +1,1018 @@
+[
+  {
+    "word": "indicate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To point out, show, or make something known, especially by a sign, gesture, or evidence.",
+        "definition_ko": "표시하다, 가리키다; 징후나 근거로 어떤 사실을 드러내다.",
+        "note": "지시(gesture)로 ‘가리키다’부터 데이터가 ‘시사하다’까지 폭넓게 씁니다."
+      },
+      {
+        "definition_en": "To suggest or be a sign that something is true or will happen.",
+        "definition_ko": "시사하다, 나타내다(…일 가능성을 보여 주다).",
+        "note": "강한 단정이라기보다 ‘근거가 그렇게 말한다’는 톤이 자주 납니다."
+      }
+    ],
+    "concept": "말이나 표지·데이터로 어떤 사실을 ‘가리키거나 보여 주는’ 동사.",
+    "etymology": "라틴어 indicare(드러내다, 가리키다)에서 왔으며, in-(…쪽으로) + dicare(말하다/지정하다)의 결합으로 ‘표시하여 알려 주다’ 의미가 발전했습니다.",
+    "semanticExtension": "손짓·표지판처럼 물리적으로 가리키는 의미에서, 그래프·지표가 결론을 ‘시사하다’는 추상적 의미로 자연스럽게 확장됩니다.",
+    "nuanceRegister": "중립~격식. 보고서·논문·공식 안내에서 매우 흔하며, 일상에서도 무난합니다.",
+    "grammarNotes": "주로 타동사로 쓰이며 indicate + 명사 / indicate that + 절 / indicate whether + 절 구조가 빈번합니다. ‘indicate to + 사람’은 ‘…에게 (손짓 등으로) 알려 주다/가리키다’ 뉘앙스입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 (손짓/표지로) 알리다·가리키다",
+        "example": "indicate to the driver that the light is red"
+      },
+      {
+        "prep": "by",
+        "meaning_ko": "~에 의해/로 (방법·수단을 들어) 나타내다",
+        "example": "indicate a change by a slight shift in tone"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~로 (도구·몸짓으로) 표시하다",
+        "example": "indicate the direction with a nod"
+      }
+    ],
+    "requiredComplements": [
+      "indicate that + S V : ~라는 것을 나타내다/시사하다",
+      "indicate whether + S V : ~인지 여부를 나타내다",
+      "indicate + 명사 : 어떤 대상/정보를 가리키다, 제시하다",
+      "indicate to + 사람 + (that절/명사) : ~에게 (손짓 등으로) 알려 주다/가리키다"
+    ],
+    "morphology": "in-(…쪽으로) + dic/dict(말하다, 지시하다) + -ate(동사형 접미)로 ‘지시하여 드러내다’라는 구성으로 이해하면 기억에 도움이 됩니다.",
+    "derivatives": [
+      {
+        "word": "indication",
+        "meaning_ko": "표시, 징후"
+      },
+      {
+        "word": "indicator",
+        "meaning_ko": "지표, 표시기"
+      },
+      {
+        "word": "indicative",
+        "meaning_ko": "나타내는, 암시하는"
+      },
+      {
+        "word": "indict",
+        "meaning_ko": "(공식적으로) 기소하다"
+      },
+      {
+        "word": "dictionary",
+        "meaning_ko": "사전(어근 dict 공유)"
+      }
+    ],
+    "related": [
+      {
+        "word": "signal",
+        "meaning_ko": "신호를 보내다/신호"
+      },
+      {
+        "word": "denote",
+        "meaning_ko": "의미하다, 나타내다(격식)"
+      },
+      {
+        "word": "point",
+        "meaning_ko": "가리키다, 지목하다"
+      },
+      {
+        "word": "imply",
+        "meaning_ko": "암시하다"
+      },
+      {
+        "word": "suggest",
+        "meaning_ko": "시사하다, 제안하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "show",
+        "meaning_ko": "보여 주다"
+      },
+      {
+        "word": "point out",
+        "meaning_ko": "지적하다, 가리키다"
+      },
+      {
+        "word": "reveal",
+        "meaning_ko": "드러내다"
+      },
+      {
+        "word": "signal",
+        "meaning_ko": "신호로 알리다"
+      },
+      {
+        "word": "denote",
+        "meaning_ko": "표시하다, 나타내다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "imply",
+        "meaning_ko": "넌지시 암시하다"
+      },
+      {
+        "word": "suggest",
+        "meaning_ko": "근거로 시사하다"
+      },
+      {
+        "word": "evidence",
+        "meaning_ko": "근거로 뒷받침하다"
+      },
+      {
+        "word": "signify",
+        "meaning_ko": "의미하다/나타내다"
+      },
+      {
+        "word": "mark",
+        "meaning_ko": "표시하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conceal",
+        "meaning_ko": "숨기다"
+      },
+      {
+        "word": "hide",
+        "meaning_ko": "감추다"
+      },
+      {
+        "word": "obscure",
+        "meaning_ko": "흐리다, 모호하게 하다"
+      },
+      {
+        "word": "mislead",
+        "meaning_ko": "오도하다"
+      },
+      {
+        "word": "contradict",
+        "meaning_ko": "반박하다, 모순되다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "indicate a problem",
+            "meaning_ko": "문제가 있음을 나타내다"
+          },
+          {
+            "phrase": "indicate the location",
+            "meaning_ko": "위치를 가리키다"
+          },
+          {
+            "phrase": "indicate the time",
+            "meaning_ko": "시간을 표시하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "clearly indicate",
+            "meaning_ko": "명확히 나타내다"
+          },
+          {
+            "phrase": "indicate whether",
+            "meaning_ko": "~인지 여부를 나타내다"
+          },
+          {
+            "phrase": "indicate a trend",
+            "meaning_ko": "추세를 보여 주다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "indicate a correlation",
+            "meaning_ko": "상관관계를 시사하다"
+          },
+          {
+            "phrase": "indicate underlying causes",
+            "meaning_ko": "근본 원인을 드러내다/시사하다"
+          },
+          {
+            "phrase": "indicate a shift in sentiment",
+            "meaning_ko": "여론/심리의 변화를 보여 주다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Please indicate your name on the form.",
+            "meaning_ko": "서식에 이름을 적어(표시해) 주세요."
+          },
+          {
+            "sentence": "He indicated the door with his hand.",
+            "meaning_ko": "그는 손으로 문을 가리켰습니다."
+          },
+          {
+            "sentence": "The light indicates that the machine is on.",
+            "meaning_ko": "불빛은 기계가 켜져 있음을 나타냅니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report indicates a steady rise in costs.",
+            "meaning_ko": "보고서는 비용이 꾸준히 상승하고 있음을 보여 줍니다."
+          },
+          {
+            "sentence": "Her tone indicated that she was not convinced.",
+            "meaning_ko": "그녀의 말투는 아직 납득하지 못했다는 것을 시사했습니다."
+          },
+          {
+            "sentence": "Please indicate whether you will attend the meeting.",
+            "meaning_ko": "회의에 참석할지 여부를 알려 주세요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The data indicate a correlation between sleep quality and productivity, though causality remains unclear.",
+            "meaning_ko": "데이터는 수면의 질과 생산성 사이의 상관관계를 시사하지만, 인과관계는 여전히 불분명합니다."
+          },
+          {
+            "sentence": "Several inconsistencies indicate that the document may have been altered after approval.",
+            "meaning_ko": "여러 불일치가 승인 이후 문서가 수정되었을 가능성을 보여 줍니다."
+          },
+          {
+            "sentence": "In clinical settings, elevated markers can indicate an underlying inflammatory process.",
+            "meaning_ko": "임상 환경에서는 수치 상승이 잠재된 염증 과정을 나타낼 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "indicate는 ‘가리키다/표시하다’의 기본 의미에서 ‘(근거가) 시사하다’까지 이어집니다. 시험에서는 indicate that(…라고 나타내다), indicate whether(…인지 여부) 같은 절 보어 패턴이 자주 나옵니다. suggest는 더 ‘제안/가능성’ 느낌이 강할 수 있고, indicate는 ‘표지·데이터가 보여 준다’는 객관적 톤이 강하다는 점을 구분해 보세요.",
+    "tags": [
+      "표시",
+      "데이터해석",
+      "보고서",
+      "논문표현",
+      "의사소통"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The arrow on the sign _____ the exit.",
+            "a": "indicates",
+            "meaning_ko": "표지판의 화살표가 출구를 ‘가리킨다’는 문맥입니다."
+          },
+          {
+            "q": "Fill in the blank: Please indicate _____ you need a receipt.",
+            "a": "whether",
+            "meaning_ko": "‘…인지 여부를 표시하다/알리다’는 whether 절이 자연스럽습니다."
+          },
+          {
+            "q": "Which meaning matches 'indicate' here? 'His smile indicated approval.' (A) hide (B) show (C) break",
+            "a": "B",
+            "meaning_ko": "smile이 approval을 ‘보여 준다/시사한다’는 뜻입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'indicate': 'The results suggest that the method is effective.'",
+            "a": "The results indicate that the method is effective.",
+            "meaning_ko": "indicate that 구조로 ‘결과가 …임을 보여 준다’로 바꿀 수 있습니다."
+          },
+          {
+            "q": "Choose the most natural collocation: (A) indicate a trend (B) indicate a bread (C) indicate a pillow",
+            "a": "A",
+            "meaning_ko": "데이터/보고서 문맥에서 trend와 자주 결합합니다."
+          },
+          {
+            "q": "Fill in: She indicated _____ him that the conversation was over by looking away.",
+            "a": "to",
+            "meaning_ko": "indicate to + 사람: ‘…에게 (신호로) 알리다’가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Pick the option closest in meaning to 'indicate' in academic writing: The evidence indicates a causal link. (A) decorate (B) point to (C) erase",
+            "a": "B",
+            "meaning_ko": "point to는 ‘~을 시사하다/가리키다’로 indicate와 매우 가깝습니다."
+          },
+          {
+            "q": "Fill in the blank: The model's confidence intervals indicate _____ the estimate is robust across samples.",
+            "a": "that",
+            "meaning_ko": "indicate that + 절이 가장 전형적이며, 학술 문장에서 흔합니다."
+          },
+          {
+            "q": "Error correction: 'The chart indicates about sales increased.' -> Correct the sentence.",
+            "a": "The chart indicates that sales increased.",
+            "meaning_ko": "indicate 뒤에는 that절 또는 명사구가 와야 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "palatable",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Pleasant to taste; acceptable as food or drink.",
+        "definition_ko": "맛이 좋은, 먹기 좋은(입에 맞는).",
+        "note": "palate(미각)과 연결하면 기억이 쉽습니다."
+      },
+      {
+        "definition_en": "Acceptable or agreeable, especially in a political or social context.",
+        "definition_ko": "(의견·정책 등이) 받아들일 만한, 무난한.",
+        "note": "불편한 내용을 ‘수용 가능하게 만들다’는 비유로 자주 씁니다."
+      }
+    ],
+    "concept": "미각에 ‘거슬리지 않거나’, 의견·정책이 ‘받아들일 만한’ 상태.",
+    "etymology": "라틴어 palatum(입천장, 미각)에서 출발한 어근이 프랑스어를 거쳐 영어 palate로 정착했고, -able이 붙어 ‘입맛에 맞는/수용 가능한’ 의미의 palatable이 형성되었습니다.",
+    "semanticExtension": "원래는 ‘맛이 좋다’는 감각적 의미였으나, 불편한 정책·진실·아이디어가 사람들에게 ‘삼키기 쉬운’ 형태로 가공되었다는 비유로 확장됩니다.",
+    "nuanceRegister": "중립~격식. 음식 설명에도 쓰이지만, ‘정치적으로 수용 가능한(politically palatable)’ 같은 표현에서 문어적 느낌이 강합니다.",
+    "grammarNotes": "보통 be palatable to + 사람/집단(…에게 수용 가능하다) 형태가 흔합니다. 음식 맥락에서는 ‘palatable for + 대상’도 가능하지만 to가 더 일반적입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게(대중·유권자 등) 받아들일 만한",
+        "example": "a policy palatable to voters"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에게/에 (특히 음식이) 먹기 좋은",
+        "example": "a sauce palatable for children"
+      }
+    ],
+    "requiredComplements": [
+      "palatable to + 사람/집단 : ~에게 수용 가능한",
+      "make/render + 명사 + palatable : (불편한 것)을 받아들이기 쉽게 만들다"
+    ],
+    "morphology": "palate(입맛, 미각) + -able(…할 수 있는/…하기 좋은) → ‘입맛에 맞는, 수용 가능한’으로 이해하면 됩니다.",
+    "derivatives": [
+      {
+        "word": "palate",
+        "meaning_ko": "미각, 입맛"
+      },
+      {
+        "word": "palatability",
+        "meaning_ko": "기호성, 먹기 좋음"
+      },
+      {
+        "word": "palatably",
+        "meaning_ko": "맛있게; 무난하게(부사)"
+      },
+      {
+        "word": "palatal",
+        "meaning_ko": "구개(입천장)의"
+      },
+      {
+        "word": "palatalize",
+        "meaning_ko": "구개음화하다(언어학)"
+      }
+    ],
+    "related": [
+      {
+        "word": "appetizing",
+        "meaning_ko": "식욕을 돋우는"
+      },
+      {
+        "word": "edible",
+        "meaning_ko": "먹을 수 있는"
+      },
+      {
+        "word": "acceptable",
+        "meaning_ko": "수용 가능한"
+      },
+      {
+        "word": "agreeable",
+        "meaning_ko": "기분 좋게 받아들일 만한"
+      },
+      {
+        "word": "tolerable",
+        "meaning_ko": "견딜 만한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "tasty",
+        "meaning_ko": "맛있는"
+      },
+      {
+        "word": "appetizing",
+        "meaning_ko": "먹음직한"
+      },
+      {
+        "word": "acceptable",
+        "meaning_ko": "받아들일 만한"
+      },
+      {
+        "word": "agreeable",
+        "meaning_ko": "기분 좋게 동의할 만한"
+      },
+      {
+        "word": "edible",
+        "meaning_ko": "먹을 수 있는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "savory",
+        "meaning_ko": "감칠맛 나는(짭짤한)"
+      },
+      {
+        "word": "flavorful",
+        "meaning_ko": "풍미가 있는"
+      },
+      {
+        "word": "reasonable",
+        "meaning_ko": "합리적인(수용 가능)"
+      },
+      {
+        "word": "presentable",
+        "meaning_ko": "내놓을 만한"
+      },
+      {
+        "word": "tolerable",
+        "meaning_ko": "견딜 만한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unpalatable",
+        "meaning_ko": "맛없는; 받아들이기 힘든"
+      },
+      {
+        "word": "distasteful",
+        "meaning_ko": "불쾌한, 역겨운"
+      },
+      {
+        "word": "inedible",
+        "meaning_ko": "먹을 수 없는"
+      },
+      {
+        "word": "unacceptable",
+        "meaning_ko": "용납할 수 없는"
+      },
+      {
+        "word": "disagreeable",
+        "meaning_ko": "불쾌한; 마음에 들지 않는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "palatable food",
+            "meaning_ko": "입에 맞는 음식"
+          },
+          {
+            "phrase": "make it palatable",
+            "meaning_ko": "먹기/받아들이기 좋게 만들다"
+          },
+          {
+            "phrase": "more palatable",
+            "meaning_ko": "더 수용 가능한/입에 맞는"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a palatable solution",
+            "meaning_ko": "무난하게 받아들일 만한 해결책"
+          },
+          {
+            "phrase": "a palatable alternative",
+            "meaning_ko": "수용 가능한 대안"
+          },
+          {
+            "phrase": "politically palatable",
+            "meaning_ko": "정치적으로 수용 가능한"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "palatable to key stakeholders",
+            "meaning_ko": "핵심 이해관계자에게 수용 가능한"
+          },
+          {
+            "phrase": "render austerity palatable",
+            "meaning_ko": "긴축을 받아들이기 쉽게 만들다"
+          },
+          {
+            "phrase": "a narrative made palatable",
+            "meaning_ko": "수용되도록 가공된 서사/설명"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The soup is hot but still palatable.",
+            "meaning_ko": "수프가 뜨긴 하지만 먹기에는 괜찮습니다."
+          },
+          {
+            "sentence": "Add a little salt to make the vegetables more palatable.",
+            "meaning_ko": "채소가 더 먹기 좋게 소금을 조금 넣으세요."
+          },
+          {
+            "sentence": "I found the dish surprisingly palatable.",
+            "meaning_ko": "그 요리가 의외로 입에 맞았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They softened the wording to make the message palatable to the public.",
+            "meaning_ko": "그들은 대중이 받아들이기 쉽게 표현을 순화했습니다."
+          },
+          {
+            "sentence": "The committee reached a palatable compromise after hours of debate.",
+            "meaning_ko": "위원회는 오랜 토론 끝에 무난한 타협안에 도달했습니다."
+          },
+          {
+            "sentence": "She framed the criticism in a way that was palatable to her team.",
+            "meaning_ko": "그녀는 팀이 받아들일 수 있도록 비판을 표현했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "For reforms to succeed, policymakers must present them in a form palatable to skeptical voters.",
+            "meaning_ko": "개혁이 성공하려면 정책입안자들이 회의적인 유권자도 받아들일 만한 형태로 제시해야 합니다."
+          },
+          {
+            "sentence": "The report renders harsh realities palatable by emphasizing incremental progress and shared benefits.",
+            "meaning_ko": "그 보고서는 점진적 진전과 공동 이익을 강조함으로써 냉혹한 현실을 받아들이기 쉽게 만듭니다."
+          },
+          {
+            "sentence": "An idea may be logically sound yet politically unpalatable, forcing leaders to seek a palatable alternative.",
+            "meaning_ko": "아이디어가 논리적으로 타당해도 정치적으로는 받아들이기 어려워, 지도자들은 수용 가능한 대안을 찾게 됩니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "palatable은 palate(입맛)에서 출발해 ‘맛있는’ → ‘받아들일 만한’으로 확장됩니다. 시험에서는 politically palatable(정치적으로 수용 가능한), palatable to voters(유권자에게 먹히는) 같은 결합이 자주 나옵니다. 반의어 unpalatable도 같이 묶어서 외우면, ‘맛/수용성’ 축으로 의미가 즉시 떠오릅니다.",
+    "tags": [
+      "음식",
+      "비유표현",
+      "정치",
+      "의사결정",
+      "평가어휘"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: This snack is surprisingly _____.",
+            "a": "palatable",
+            "meaning_ko": "음식이 ‘입에 맞다/먹기 좋다’는 문맥입니다."
+          },
+          {
+            "q": "Which is the antonym of 'palatable'? (A) unpalatable (B) edible (C) tasty",
+            "a": "A",
+            "meaning_ko": "unpalatable은 ‘맛없다/받아들이기 어렵다’로 반대입니다."
+          },
+          {
+            "q": "Fill in: The medicine tastes awful, but honey makes it more _____.",
+            "a": "palatable",
+            "meaning_ko": "맛을 ‘덜 거슬리게’ 만들어 먹기 좋게 한다는 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The proposal was revised to be palatable _____ the board.",
+            "a": "to",
+            "meaning_ko": "palatable to + 사람/집단: ‘…에게 수용 가능한’이 기본 패턴입니다."
+          },
+          {
+            "q": "Choose the most natural phrase: (A) palatable compromise (B) palatable thunder (C) palatable asphalt",
+            "a": "A",
+            "meaning_ko": "compromise와 함께 ‘무난한 타협’으로 자주 씁니다."
+          },
+          {
+            "q": "Rewrite using 'palatable': 'They made the criticism easier to accept.'",
+            "a": "They made the criticism more palatable.",
+            "meaning_ko": "‘받아들이기 쉽게 만들다’가 palatable의 비유적 핵심입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In this sentence, what does 'palatable' most nearly mean? 'The tax hike was economically necessary but not palatable to voters.'",
+            "a": "acceptable",
+            "meaning_ko": "유권자에게 ‘수용 가능한’이라는 의미입니다."
+          },
+          {
+            "q": "Fill in: Leaders sometimes package painful cuts in order to render them _____ to the public.",
+            "a": "palatable",
+            "meaning_ko": "render + 목적어 + palatable: ‘수용 가능하게 만들다’ 고급 패턴입니다."
+          },
+          {
+            "q": "Error correction: 'This plan is palatable for most voters.' -> Provide a more standard version.",
+            "a": "This plan is palatable to most voters.",
+            "meaning_ko": "사람/집단에는 to가 더 표준적이고 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jam",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A sweet spread made by cooking fruit with sugar.",
+        "definition_ko": "잼(과일과 설탕을 졸여 만든 스프레드).",
+        "note": "보통 불가산처럼 쓰기도 하지만 종류를 셀 때는 a jam, jams도 가능합니다."
+      },
+      {
+        "definition_en": "A situation in which movement is blocked or delayed, especially in traffic; a congestion.",
+        "definition_ko": "정체, 막힘(특히 교통 체증).",
+        "note": "traffic jam이 가장 대표적입니다."
+      },
+      {
+        "definition_en": "To become stuck, blocked, or tightly packed; to force something into a tight space.",
+        "definition_ko": "끼다/막히다; (좁은 데) 억지로 쑤셔 넣다.",
+        "note": "자동사로 ‘끼다/막히다’, 타동사로 ‘쑤셔 넣다’ 둘 다 흔합니다."
+      }
+    ],
+    "concept": "무언가가 ‘빽빽하게 끼어 움직임이 막히는 상태’와 그 결과(정체·막힘).",
+    "etymology": "자세한 어원 정보 없음(중세 영어에서 ‘눌러서 빽빽하게 만들다/끼다’에 해당하는 의미가 굳어져 현대의 ‘막힘’과 ‘잼(과일 졸임)’ 용례로 분화).",
+    "semanticExtension": "‘끼워 넣어 꽉 막히게 하다’에서 교통·업무 일정·기계 작동 등 다양한 ‘정체/마비’ 상황으로 확장됩니다. 또한 음악에서 jam은 즉흥 합주(jam session)처럼 ‘즉흥적으로 함께 연주하다’의 의미로도 발전했습니다.",
+    "nuanceRegister": "일상 구어에서 매우 흔합니다. 기술·군사·전자 분야에서는 signal jamming(전파 방해)처럼 전문적으로도 쓰입니다.",
+    "grammarNotes": "jam은 명사·동사 모두 가능하며, jammed(끼인/막힌), jam-packed(빽빽한)처럼 형용사 파생이 활발합니다. 동사로는 jam + 목적어 + into(쑤셔 넣다), jam on the brakes(급브레이크를 밟다), be jammed with(…로 꽉 차다) 등이 자주 나옵니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~안으로 억지로 쑤셔 넣다",
+        "example": "jam the papers into a small bag"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~을 (세게) 눌러/갑자기 작동시키다",
+        "example": "jam on the brakes"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~로 꽉 차다/가득 메우다",
+        "example": "The hallway was jammed with people"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에 끼다/갇히다",
+        "example": "My key got jammed in the lock"
+      }
+    ],
+    "requiredComplements": [
+      "jam + 명사 + into + 장소 : ~을 ~에 억지로 쑤셔 넣다",
+      "be jammed with + 명사 : ~로 꽉 차 있다",
+      "get/be jammed in + 장소 : ~에 끼다/막히다",
+      "jam on + the brakes : 급브레이크를 밟다",
+      "a traffic jam : 교통 체증"
+    ],
+    "morphology": "단일 어근 단어로 접두·접미 분해가 뚜렷하지 않습니다. 대신 jammed, jamming, jam-packed처럼 활용·파생 형태를 묶어 외우는 것이 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "jammed",
+        "meaning_ko": "끼인, 막힌"
+      },
+      {
+        "word": "jamming",
+        "meaning_ko": "끼임/방해(전파 방해 등)"
+      },
+      {
+        "word": "jam-packed",
+        "meaning_ko": "빽빽하게 들어찬"
+      },
+      {
+        "word": "jammer",
+        "meaning_ko": "전파 방해 장치; (구어) 성가신 사람"
+      },
+      {
+        "word": "jam session",
+        "meaning_ko": "즉흥 합주(세션)"
+      }
+    ],
+    "related": [
+      {
+        "word": "congestion",
+        "meaning_ko": "정체, 혼잡"
+      },
+      {
+        "word": "clog",
+        "meaning_ko": "막다, 막힘"
+      },
+      {
+        "word": "cram",
+        "meaning_ko": "억지로 밀어 넣다"
+      },
+      {
+        "word": "blockage",
+        "meaning_ko": "차단, 막힘"
+      },
+      {
+        "word": "improvise",
+        "meaning_ko": "즉흥 연주/즉흥으로 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cram",
+        "meaning_ko": "쑤셔 넣다"
+      },
+      {
+        "word": "stuff",
+        "meaning_ko": "마구 쑤셔 넣다"
+      },
+      {
+        "word": "wedge",
+        "meaning_ko": "끼워 넣다"
+      },
+      {
+        "word": "clog",
+        "meaning_ko": "막다"
+      },
+      {
+        "word": "congestion",
+        "meaning_ko": "정체(명사)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "block",
+        "meaning_ko": "막다, 차단하다"
+      },
+      {
+        "word": "hinder",
+        "meaning_ko": "방해하다"
+      },
+      {
+        "word": "snarl",
+        "meaning_ko": "엉키게 하다(traffic snarl)"
+      },
+      {
+        "word": "pack",
+        "meaning_ko": "빽빽하게 채우다"
+      },
+      {
+        "word": "stall",
+        "meaning_ko": "멈추게 하다/지연시키다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unblock",
+        "meaning_ko": "막힌 것을 뚫다"
+      },
+      {
+        "word": "clear",
+        "meaning_ko": "치우다/해소하다"
+      },
+      {
+        "word": "free",
+        "meaning_ko": "해방시키다, 풀어 주다"
+      },
+      {
+        "word": "loosen",
+        "meaning_ko": "느슨하게 하다"
+      },
+      {
+        "word": "flow",
+        "meaning_ko": "흐르다(막힘의 반대)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "traffic jam",
+            "meaning_ko": "교통 체증"
+          },
+          {
+            "phrase": "jam jar",
+            "meaning_ko": "잼 병"
+          },
+          {
+            "phrase": "jam a finger",
+            "meaning_ko": "손가락을 삐다/찧다(끼여 다치다)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "strawberry jam",
+            "meaning_ko": "딸기잼"
+          },
+          {
+            "phrase": "jam-packed schedule",
+            "meaning_ko": "빡빡한 일정"
+          },
+          {
+            "phrase": "jam on the brakes",
+            "meaning_ko": "급브레이크를 밟다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "signal jamming",
+            "meaning_ko": "전파/신호 방해"
+          },
+          {
+            "phrase": "a jammed transmission",
+            "meaning_ko": "방해/혼선으로 막힌 전송"
+          },
+          {
+            "phrase": "improvise at a jam session",
+            "meaning_ko": "잼 세션에서 즉흥 연주하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I like toast with jam.",
+            "meaning_ko": "저는 잼을 바른 토스트를 좋아합니다."
+          },
+          {
+            "sentence": "We were late because of a traffic jam.",
+            "meaning_ko": "교통 체증 때문에 늦었습니다."
+          },
+          {
+            "sentence": "The drawer is jammed.",
+            "meaning_ko": "서랍이 끼어서 안 움직입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He jammed the books into his backpack and ran out.",
+            "meaning_ko": "그는 책을 가방에 억지로 쑤셔 넣고 뛰쳐나갔습니다."
+          },
+          {
+            "sentence": "The subway car was jammed with commuters.",
+            "meaning_ko": "지하철 칸이 통근객으로 꽉 차 있었습니다."
+          },
+          {
+            "sentence": "I had to jam on the brakes when the dog ran into the road.",
+            "meaning_ko": "개가 도로로 뛰어들자 급브레이크를 밟아야 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sensor can jam if dust accumulates in the housing, causing intermittent failures.",
+            "meaning_ko": "하우징에 먼지가 쌓이면 센서가 끼어 간헐적 고장이 날 수 있습니다."
+          },
+          {
+            "sentence": "During the exercise, the team practiced operating under conditions of signal jamming.",
+            "meaning_ko": "훈련 중 팀은 전파 방해 상황에서의 운용을 연습했습니다."
+          },
+          {
+            "sentence": "Her week was jam-packed with deadlines, leaving little room for anything spontaneous.",
+            "meaning_ko": "그녀의 한 주는 마감으로 빽빽해서 즉흥적으로 뭘 할 여유가 거의 없었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "jam은 (1) 잼(과일 스프레드), (2) 교통 정체, (3) 끼다/막히다(동사) 세 갈래를 먼저 분리해 두면 혼동이 줄어듭니다. jam + into(쑤셔 넣다), be jammed with(…로 꽉 차다), jam-packed(빽빽한) 같은 패턴이 시험·실전 모두에서 자주 나옵니다. 기술 분야에서는 signal jamming(전파 방해)도 함께 기억해 두면 좋습니다.",
+    "tags": [
+      "일상회화",
+      "교통",
+      "기계고장",
+      "음식",
+      "기술용어"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: We were stuck in a traffic _____.",
+            "a": "jam",
+            "meaning_ko": "traffic jam = 교통 체증."
+          },
+          {
+            "q": "Which sentence uses 'jam' as food? (A) The door jammed. (B) I spread jam on bread. (C) The signal was jammed.",
+            "a": "B",
+            "meaning_ko": "빵에 바르는 잼 의미입니다."
+          },
+          {
+            "q": "Fill in: The window won't open; it's _____.",
+            "a": "jammed",
+            "meaning_ko": "jammed = 끼인/막힌."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: He jammed the clothes _____ the suitcase.",
+            "a": "into",
+            "meaning_ko": "jam + 목적어 + into: ‘…에 억지로 쑤셔 넣다’."
+          },
+          {
+            "q": "Choose the most natural collocation: (A) jam-packed schedule (B) jam-packed pillow (C) jam-packed silence",
+            "a": "A",
+            "meaning_ko": "일정이 ‘빽빽하다’는 표현으로 고정 결합에 가깝습니다."
+          },
+          {
+            "q": "Rewrite: 'The hallway was very crowded with people.' (Use 'jammed')",
+            "a": "The hallway was jammed with people.",
+            "meaning_ko": "be jammed with: ‘…로 꽉 차 있다’."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In a technical context, what does 'jamming' most likely mean? 'The drone lost GPS due to jamming.'",
+            "a": "signal interference",
+            "meaning_ko": "jamming은 전파/신호를 방해해 기능을 마비시키는 것을 뜻합니다."
+          },
+          {
+            "q": "Error correction: 'I jammed on brake.' -> Correct the phrase.",
+            "a": "I jammed on the brakes.",
+            "meaning_ko": "관용적으로 brakes(복수) + the를 쓰는 경우가 많습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'The printer jammed again.' (A) It printed faster. (B) It got stuck. (C) It turned off.",
+            "a": "B",
+            "meaning_ko": "기계가 ‘끼어서 멈추다’가 핵심입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,942 @@
+[
+  {
+    "word": "inflict",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To cause someone to experience something unpleasant or harmful, especially deliberately.",
+        "definition_ko": "특히 의도적으로 누군가에게 고통·피해·손해 등을 가하다.",
+        "note": "보통 ‘사람/대상 + 고통·손해’를 목적어로 두고, inflict A on/upon B 형태가 매우 흔합니다."
+      }
+    ],
+    "concept": "누군가에게 해롭거나 불쾌한 것을 ‘가해’ 경험하게 만들다.",
+    "etymology": "라틴어 infligere(‘치다, 들이치다’)에서 유래해 ‘충격을 가해 어떤 결과를 안기다’라는 의미로 굳어졌습니다.",
+    "semanticExtension": "물리적 상처뿐 아니라 피해, 굴욕, 패배처럼 추상적 손해도 ‘가하다’로 확장됩니다.",
+    "nuanceRegister": "격식/문어 성격이 강하며, 법률·뉴스·학술 문맥에서 ‘해를 가하다’처럼 객관적으로 쓰입니다.",
+    "grammarNotes": "대개 타동사로 쓰이며 수동태도 흔합니다(be inflicted on). 목적어는 pain/damage/harm/penalty/defeat 등 부정적 명사로 오는 경향이 큽니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "A를 B에게/에 가하다",
+        "example": "inflict damage on civilians"
+      },
+      {
+        "prep": "upon",
+        "meaning_ko": "A를 B에게/에 가하다(좀 더 격식)",
+        "example": "inflict suffering upon others"
+      }
+    ],
+    "requiredComplements": [
+      "inflict + (harm/pain/damage/a wound/a penalty) + on/upon + 사람/집단 (피해·고통·처벌 등을 ~에게 가하다)",
+      "be inflicted on/upon + 사람/집단 (수동: ~에게 가해지다)"
+    ],
+    "morphology": "in-(안으로) + flict(치다/때리다; 라틴어 figere 계열) → ‘안으로 들이쳐 결과를 안기다’의 이미지.",
+    "derivatives": [
+      {
+        "word": "infliction",
+        "meaning_ko": "가함, 부과(고통·손해 등을)"
+      },
+      {
+        "word": "inflicter",
+        "meaning_ko": "가해자(드물게 사용)"
+      }
+    ],
+    "related": [
+      {
+        "word": "harm",
+        "meaning_ko": "해를 끼치다/해"
+      },
+      {
+        "word": "injure",
+        "meaning_ko": "상처를 입히다"
+      },
+      {
+        "word": "impose",
+        "meaning_ko": "부과하다(의무·세금·제재)"
+      },
+      {
+        "word": "punish",
+        "meaning_ko": "처벌하다"
+      },
+      {
+        "word": "retaliate",
+        "meaning_ko": "보복하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cause",
+        "meaning_ko": "야기하다(중립적)"
+      },
+      {
+        "word": "deal",
+        "meaning_ko": "가하다(특히 타격)"
+      },
+      {
+        "word": "bring",
+        "meaning_ko": "초래하다"
+      },
+      {
+        "word": "impose",
+        "meaning_ko": "부과하다(처벌·부담)"
+      },
+      {
+        "word": "administer",
+        "meaning_ko": "가하다/집행하다(형벌·처벌)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "afflict",
+        "meaning_ko": "괴롭히다(지속적·만성적 뉘앙스)"
+      },
+      {
+        "word": "wreak",
+        "meaning_ko": "큰 피해를 초래하다(파괴적)"
+      },
+      {
+        "word": "exact",
+        "meaning_ko": "대가를 치르게 하다(강요)"
+      },
+      {
+        "word": "mete out",
+        "meaning_ko": "나눠 주다→(벌을) 내리다(구동사)"
+      },
+      {
+        "word": "subject",
+        "meaning_ko": "~에 노출시키다/겪게 하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "relieve",
+        "meaning_ko": "덜어주다"
+      },
+      {
+        "word": "alleviate",
+        "meaning_ko": "완화하다"
+      },
+      {
+        "word": "spare",
+        "meaning_ko": "면하게 하다"
+      },
+      {
+        "word": "protect",
+        "meaning_ko": "보호하다"
+      },
+      {
+        "word": "heal",
+        "meaning_ko": "치유하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "inflict pain",
+            "meaning_ko": "고통을 가하다"
+          },
+          {
+            "phrase": "inflict damage",
+            "meaning_ko": "피해를 입히다"
+          },
+          {
+            "phrase": "inflict a wound",
+            "meaning_ko": "상처를 입히다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "inflict harm on",
+            "meaning_ko": "~에게 해를 끼치다"
+          },
+          {
+            "phrase": "inflict a penalty",
+            "meaning_ko": "처벌/벌금을 부과하다"
+          },
+          {
+            "phrase": "inflict losses",
+            "meaning_ko": "손실을 입히다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "inflict a crushing defeat",
+            "meaning_ko": "참패를 안기다"
+          },
+          {
+            "phrase": "inflict psychological trauma",
+            "meaning_ko": "심리적 트라우마를 남기다"
+          },
+          {
+            "phrase": "inflict collateral damage",
+            "meaning_ko": "부수적 피해를 발생시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The bully tried to inflict pain on smaller kids.",
+            "meaning_ko": "그 괴롭히는 아이는 어린 아이들에게 고통을 주려 했다."
+          },
+          {
+            "sentence": "The storm inflicted serious damage on the coast.",
+            "meaning_ko": "그 폭풍은 해안에 심각한 피해를 입혔다."
+          },
+          {
+            "sentence": "He apologized for the hurt he had inflicted.",
+            "meaning_ko": "그는 자신이 가한 상처에 대해 사과했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The policy could inflict hardship on low-income families.",
+            "meaning_ko": "그 정책은 저소득 가정에 어려움을 안길 수 있다."
+          },
+          {
+            "sentence": "The judge inflicted a heavy fine on the company for fraud.",
+            "meaning_ko": "판사는 사기 혐의로 그 회사에 무거운 벌금을 부과했다."
+          },
+          {
+            "sentence": "Years of neglect inflicted lasting harm on the community.",
+            "meaning_ko": "수년간의 방치는 지역사회에 오래가는 해를 남겼다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "When leaders inflame fear, they often inflict invisible wounds that outlast any crisis.",
+            "meaning_ko": "지도자들이 공포를 부추길 때, 위기보다 오래가는 보이지 않는 상처를 남기는 경우가 많다."
+          },
+          {
+            "sentence": "The decision inflicted reputational damage that could not be repaired by a simple apology.",
+            "meaning_ko": "그 결정은 간단한 사과로는 회복할 수 없는 평판 손상을 초래했다."
+          },
+          {
+            "sentence": "Sanctions may inflict pressure on a regime while still harming civilians caught in the middle.",
+            "meaning_ko": "제재는 정권에 압박을 가할 수 있지만, 그 사이에 낀 민간인에게도 피해를 줄 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "inflict는 ‘가해자가 의도적으로 고통/피해를 가한다’는 느낌이 강합니다. afflict는 ‘(질병·문제 등이) 괴롭히다’처럼 원인이 주어로 오는 경우가 흔해요. 또 inflict와 발음이 비슷한 inflect(굴절시키다)와 철자를 자주 헷갈리니 ‘flict=때려서 상처’ 이미지로 묶어 두시면 좋습니다.",
+    "tags": [
+      "가해",
+      "피해",
+      "법률",
+      "뉴스",
+      "공식 문어"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The hurricane ________ severe damage on the island.",
+            "a": "inflicted",
+            "meaning_ko": "inflict는 ‘피해/고통을 가하다’로 damage와 자주 결합합니다."
+          },
+          {
+            "q": "Which phrase sounds most natural?",
+            "a": "inflict pain on someone",
+            "meaning_ko": "inflict는 보통 inflict A on/upon B 형태로 씁니다."
+          },
+          {
+            "q": "Choose the best meaning of inflict: (A) to praise (B) to cause harm (C) to protect (D) to collect",
+            "a": "to cause harm",
+            "meaning_ko": "inflict = 해롭거나 불쾌한 것을 가하게 하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite naturally: The new rule caused hardship to students. (use 'inflict')",
+            "a": "The new rule inflicted hardship on students.",
+            "meaning_ko": "hardship 같은 부정적 명사를 목적어로 두고 on을 씁니다."
+          },
+          {
+            "q": "Error correction: The scandal inflicted on the minister was widely reported.",
+            "a": "The scandal inflicted on the minister was widely reported. → The scandal that hit the minister was widely reported.",
+            "meaning_ko": "scandal 자체는 ‘가하다’의 목적어로 어색합니다(보통 damage/pain/penalty 등)."
+          },
+          {
+            "q": "Choose the closest paraphrase: The judge inflicted a penalty on him.",
+            "a": "The judge imposed a penalty on him.",
+            "meaning_ko": "impose와 의미가 겹치며 ‘부과하다’에 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading logic: If a policy 'inflicts collateral damage,' what is implied?",
+            "a": "It causes unintended harm to people or things not directly targeted.",
+            "meaning_ko": "collateral damage는 ‘의도하지 않은 부수적 피해’입니다."
+          },
+          {
+            "q": "Fill in the blank: The rhetoric did not just anger opponents; it ________ long-term distrust within the community.",
+            "a": "inflicted",
+            "meaning_ko": "장기적 불신 같은 추상적 손해도 inflict로 표현할 수 있습니다."
+          },
+          {
+            "q": "Choose the best option: 'inflict' is most appropriate when the subject is ____.",
+            "a": "an agent causing harm deliberately",
+            "meaning_ko": "주체(가해자)가 피해를 ‘가하는’ 구도가 핵심입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "doctrine",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A set of beliefs or principles taught and accepted by a religion, political group, or organization.",
+        "definition_ko": "종교·정치·조직 등이 가르치고 채택하는 일련의 신념·원칙·교리.",
+        "note": "개별 원칙을 가리킬 때는 가산, ‘교리 전반’처럼 말할 때는 다소 불가산적으로도 씁니다."
+      },
+      {
+        "definition_en": "In specialized contexts, an official policy or theory that guides decisions, especially in the military or law.",
+        "definition_ko": "특히 군사·법률 등에서 의사결정의 기준이 되는 공식 정책·이론.",
+        "note": "military doctrine(군사 교리), legal doctrine(법리)처럼 전문 문맥에서 자주 나옵니다."
+      }
+    ],
+    "concept": "조직이 ‘옳다고 가르치고 따르는 원칙 체계’.",
+    "etymology": "라틴어 doctrina(‘가르침, 교육’)에서 왔으며 ‘가르치는 내용’이 ‘정립된 신념 체계’로 굳어졌습니다.",
+    "semanticExtension": "종교적 교리에서 출발해, 정치·군사·법학에서 ‘공식 원칙/정책 프레임’까지 확장됩니다.",
+    "nuanceRegister": "격식/문어. 학술, 역사, 정치, 군사, 법률 문맥에서 자주 쓰이며 ‘체계화된 원칙’ 뉘앙스가 강합니다.",
+    "grammarNotes": "보통 doctrine of ~ / doctrine that ~ 형태가 가능하며, 복수 doctrines로 여러 교리를 말할 수 있습니다. 때로 the doctrine(특정 학설/원칙)을 정관사로 특정합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 교리/원칙 체계",
+        "example": "the doctrine of original sin"
+      },
+      {
+        "prep": "that",
+        "meaning_ko": "…라는 교리/원칙(명사절)",
+        "example": "the doctrine that all people are equal"
+      }
+    ],
+    "requiredComplements": [
+      "doctrine of + 명사(개념/원칙) (예: doctrine of deterrence)",
+      "doctrine that + S V (…라는 교리/원칙)",
+      "the doctrine + (in law/military) + that-clause/전문 용례 (특정 법리/군사 원칙)"
+    ],
+    "morphology": "doctr-(가르치다; doctor와 같은 어근) + -ine(명사형) → ‘가르침/학설’ 계열.",
+    "derivatives": [
+      {
+        "word": "doctrinal",
+        "meaning_ko": "교리의, 원칙에 관한"
+      },
+      {
+        "word": "doctrinaire",
+        "meaning_ko": "교조적인, 원칙만 고집하는(사람)"
+      }
+    ],
+    "related": [
+      {
+        "word": "principle",
+        "meaning_ko": "원칙"
+      },
+      {
+        "word": "creed",
+        "meaning_ko": "신조"
+      },
+      {
+        "word": "theology",
+        "meaning_ko": "신학"
+      },
+      {
+        "word": "ideology",
+        "meaning_ko": "이데올로기"
+      },
+      {
+        "word": "policy",
+        "meaning_ko": "정책"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "teaching",
+        "meaning_ko": "가르침"
+      },
+      {
+        "word": "tenet",
+        "meaning_ko": "신조, 교의(핵심 원칙)"
+      },
+      {
+        "word": "creed",
+        "meaning_ko": "신념 체계(종교적)"
+      },
+      {
+        "word": "principles",
+        "meaning_ko": "원칙들"
+      },
+      {
+        "word": "dogma",
+        "meaning_ko": "교리/독단적 신조(맥락에 따라 부정적)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "ideology",
+        "meaning_ko": "사상 체계(정치·사회)"
+      },
+      {
+        "word": "orthodoxy",
+        "meaning_ko": "정통/정설"
+      },
+      {
+        "word": "canon",
+        "meaning_ko": "정전, 규범(문학·종교)"
+      },
+      {
+        "word": "platform",
+        "meaning_ko": "정당 강령/정책 방향"
+      },
+      {
+        "word": "theory",
+        "meaning_ko": "이론(검증/설명 강조)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "heresy",
+        "meaning_ko": "이단 사상"
+      },
+      {
+        "word": "skepticism",
+        "meaning_ko": "회의주의"
+      },
+      {
+        "word": "pragmatism",
+        "meaning_ko": "실용주의(원칙보다 실익)"
+      },
+      {
+        "word": "improvisation",
+        "meaning_ko": "즉흥(정해진 원칙 없음)"
+      },
+      {
+        "word": "doubt",
+        "meaning_ko": "의심"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "religious doctrine",
+            "meaning_ko": "종교 교리"
+          },
+          {
+            "phrase": "political doctrine",
+            "meaning_ko": "정치적 교리/원칙"
+          },
+          {
+            "phrase": "official doctrine",
+            "meaning_ko": "공식 교리/원칙"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "military doctrine",
+            "meaning_ko": "군사 교리"
+          },
+          {
+            "phrase": "legal doctrine",
+            "meaning_ko": "법리, 법학상의 원칙"
+          },
+          {
+            "phrase": "doctrine of deterrence",
+            "meaning_ko": "억지(억제) 교리"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "challenge established doctrine",
+            "meaning_ko": "기존 정설에 도전하다"
+          },
+          {
+            "phrase": "a doctrine of national security",
+            "meaning_ko": "국가안보 원칙 체계"
+          },
+          {
+            "phrase": "doctrinal consistency",
+            "meaning_ko": "교리적 일관성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The church teaches a strict doctrine about marriage.",
+            "meaning_ko": "그 교회는 결혼에 관해 엄격한 교리를 가르친다."
+          },
+          {
+            "sentence": "He questioned the doctrine he grew up with.",
+            "meaning_ko": "그는 자신이 자라며 배운 교리에 의문을 제기했다."
+          },
+          {
+            "sentence": "Different doctrines can coexist within the same tradition.",
+            "meaning_ko": "같은 전통 안에서도 서로 다른 교리가 공존할 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The general outlined a new military doctrine for cyber defense.",
+            "meaning_ko": "그 장군은 사이버 방어를 위한 새로운 군사 교리를 제시했다."
+          },
+          {
+            "sentence": "The court relied on a long-standing legal doctrine to decide the case.",
+            "meaning_ko": "법원은 그 사건을 판단하기 위해 오래된 법리를 근거로 삼았다."
+          },
+          {
+            "sentence": "Her argument attacks the doctrine that markets always self-correct.",
+            "meaning_ko": "그녀의 주장은 시장은 항상 스스로 교정된다는 교리를 공격한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "When doctrine hardens into dogma, it can silence inquiry rather than guide it.",
+            "meaning_ko": "원칙이 독단으로 굳어지면 탐구를 이끄는 대신 입을 막을 수 있다."
+          },
+          {
+            "sentence": "A coherent doctrine offers stability, but it also risks oversimplifying complex realities.",
+            "meaning_ko": "일관된 교리는 안정성을 주지만, 복잡한 현실을 과도하게 단순화할 위험도 있다."
+          },
+          {
+            "sentence": "The alliance struggled to align doctrines across members with conflicting threat perceptions.",
+            "meaning_ko": "동맹은 위협 인식이 다른 회원국들 사이에서 교리를 맞추는 데 어려움을 겪었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "doctrine은 ‘가르치고 정립된 원칙 체계’라는 중립적 단어입니다. dogma는 비판적 뉘앙스로 ‘교조적 신조’가 되기 쉬워요. 시험에서는 doctrine of ~ / doctrine that ~ 형태를 통째로 익히고, 군사·법률 문맥(‘군사 교리/법리’)로 확장되는 용례를 같이 기억해 두시면 안정적입니다.",
+    "tags": [
+      "원칙",
+      "신념 체계",
+      "종교",
+      "정치",
+      "군사",
+      "법률",
+      "학술"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of doctrine: (A) a dessert (B) a set of teachings (C) a tool (D) a sudden noise",
+            "a": "a set of teachings",
+            "meaning_ko": "doctrine = 가르침/교리/원칙 체계."
+          },
+          {
+            "q": "Fill in the blank: the doctrine ________ original sin",
+            "a": "of",
+            "meaning_ko": "doctrine of ~ 형태가 기본 패턴입니다."
+          },
+          {
+            "q": "Which collocation is most common?",
+            "a": "religious doctrine",
+            "meaning_ko": "종교 문맥에서 doctrine은 매우 흔한 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: She rejected the doctrine ________ women should remain silent in public meetings.",
+            "a": "that",
+            "meaning_ko": "doctrine that + 절(…라는 교리)."
+          },
+          {
+            "q": "Pick the closest synonym for 'doctrine' in an academic text.",
+            "a": "tenet",
+            "meaning_ko": "tenet은 교리/신조의 ‘핵심 원칙’에 가깝습니다."
+          },
+          {
+            "q": "Error correction: The army announced a new doctrine for at cyber warfare.",
+            "a": "The army announced a new doctrine for cyber warfare.",
+            "meaning_ko": "for at → for로 정리. doctrine for/ on도 가능하지만 여기서는 for가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Nuance question: When does 'dogma' sound more negative than 'doctrine'?",
+            "a": "When the beliefs are treated as unquestionable and suppress criticism.",
+            "meaning_ko": "dogma는 ‘비판을 막는 교조성’ 뉘앙스가 강합니다."
+          },
+          {
+            "q": "Reading inference: If a scholar 'challenges established doctrine,' what are they doing?",
+            "a": "Questioning widely accepted principles or teachings.",
+            "meaning_ko": "established doctrine = 기존 정설/원칙."
+          },
+          {
+            "q": "Choose the best completion: A military doctrine is primarily used to ____.",
+            "a": "guide strategy and decision-making",
+            "meaning_ko": "군사 교리는 전략·운용의 기준을 제공합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "outdistance",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To leave someone or something behind by going faster or farther; to surpass a rival or competitor clearly.",
+        "definition_ko": "더 빠르거나 멀리 가서 다른 이를 따돌리다; 경쟁자·대상을 뚜렷하게 앞지르다.",
+        "note": "경주/선거/실적 비교처럼 ‘격차를 벌려 앞서다’ 뉘앙스가 강합니다."
+      }
+    ],
+    "concept": "속도·거리·성과에서 상대를 ‘따돌릴 만큼’ 앞서다.",
+    "etymology": "out-(~보다 더) + distance(거리) 구성으로, ‘거리 차이를 만들어 앞서다’라는 의미가 직접적으로 형성된 합성어입니다.",
+    "semanticExtension": "물리적 경주에서 출발해, 실적·성장·혁신처럼 추상적 경쟁에서도 ‘현저히 앞지르다’로 확장됩니다.",
+    "nuanceRegister": "중~격식. 스포츠/경마/경제 기사 등에서 비교·격차를 강조할 때 자주 쓰입니다.",
+    "grammarNotes": "주로 타동사로 ‘outdistance + 경쟁자/상대’를 취합니다. 격차를 명시할 때 by + 수치(거리/득표/매출 등), 분야를 명시할 때 in + 영역을 덧붙일 수 있습니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "~만큼 격차로 앞지르다",
+        "example": "outdistance rivals by 10 points"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~면에서 앞지르다",
+        "example": "outdistance competitors in sales"
+      }
+    ],
+    "requiredComplements": [
+      "outdistance + rival/competitor/opponent (경쟁자를 앞지르다/따돌리다)",
+      "outdistance + 대상 + by + 수치/차이 (격차를 수치로 제시)",
+      "outdistance + 대상 + in + 분야 (특정 영역에서 앞지르다)"
+    ],
+    "morphology": "out-(보다 더) + distance(거리/격차) → ‘격차를 만들어 앞서다’.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "surpass",
+        "meaning_ko": "능가하다"
+      },
+      {
+        "word": "outstrip",
+        "meaning_ko": "앞지르다(특히 성장/속도)"
+      },
+      {
+        "word": "overtake",
+        "meaning_ko": "추월하다"
+      },
+      {
+        "word": "lead",
+        "meaning_ko": "선두에 서다"
+      },
+      {
+        "word": "lag",
+        "meaning_ko": "뒤처지다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "outpace",
+        "meaning_ko": "페이스에서 앞지르다"
+      },
+      {
+        "word": "outstrip",
+        "meaning_ko": "크게 앞지르다"
+      },
+      {
+        "word": "surpass",
+        "meaning_ko": "능가하다"
+      },
+      {
+        "word": "leave behind",
+        "meaning_ko": "뒤로 처지게 하다"
+      },
+      {
+        "word": "distance",
+        "meaning_ko": "따돌리다(동사)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "edge out",
+        "meaning_ko": "근소하게 이기다"
+      },
+      {
+        "word": "eclipse",
+        "meaning_ko": "빛을 가리다→압도하다"
+      },
+      {
+        "word": "outperform",
+        "meaning_ko": "성과에서 더 잘하다"
+      },
+      {
+        "word": "dominate",
+        "meaning_ko": "지배하다/압도하다"
+      },
+      {
+        "word": "beat",
+        "meaning_ko": "이기다(구어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "trail",
+        "meaning_ko": "뒤처지다"
+      },
+      {
+        "word": "lag behind",
+        "meaning_ko": "뒤떨어지다"
+      },
+      {
+        "word": "fall behind",
+        "meaning_ko": "처지다"
+      },
+      {
+        "word": "lose to",
+        "meaning_ko": "~에게 지다"
+      },
+      {
+        "word": "be overtaken",
+        "meaning_ko": "추월당하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "outdistance a rival",
+            "meaning_ko": "경쟁자를 따돌리다"
+          },
+          {
+            "phrase": "outdistance opponents",
+            "meaning_ko": "상대들을 앞지르다"
+          },
+          {
+            "phrase": "outdistance the field",
+            "meaning_ko": "출전 선수들을 따돌리다(경주)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "outdistance competitors in sales",
+            "meaning_ko": "매출에서 경쟁사를 앞지르다"
+          },
+          {
+            "phrase": "outdistance peers",
+            "meaning_ko": "동종 업계/동료를 앞서다"
+          },
+          {
+            "phrase": "outdistance by a wide margin",
+            "meaning_ko": "큰 격차로 앞지르다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "outdistance expectations",
+            "meaning_ko": "기대를 훨씬 뛰어넘다"
+          },
+          {
+            "phrase": "outdistance rivals on innovation",
+            "meaning_ko": "혁신 면에서 경쟁사를 크게 앞서다"
+          },
+          {
+            "phrase": "outdistance the incumbent",
+            "meaning_ko": "현직자(기성 강자)를 크게 앞지르다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She outdistanced her friend in the last lap.",
+            "meaning_ko": "그녀는 마지막 바퀴에서 친구를 따돌렸다."
+          },
+          {
+            "sentence": "The fastest runner quickly outdistanced the others.",
+            "meaning_ko": "가장 빠른 주자는 곧 다른 선수들을 멀찌감치 앞질렀다."
+          },
+          {
+            "sentence": "Our team outdistanced the opponent by ten points.",
+            "meaning_ko": "우리 팀은 10점 차로 상대를 앞질렀다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company outdistanced its competitors in online subscriptions.",
+            "meaning_ko": "그 회사는 온라인 구독 부문에서 경쟁사를 앞질렀다."
+          },
+          {
+            "sentence": "In the polls, she outdistanced the incumbent by a comfortable margin.",
+            "meaning_ko": "여론조사에서 그녀는 넉넉한 차이로 현직자를 앞섰다."
+          },
+          {
+            "sentence": "A small group outdistanced the rest by investing early in the new technology.",
+            "meaning_ko": "한 소수 집단은 신기술에 일찍 투자해 나머지를 앞질렀다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The platform outdistanced rivals not by price, but by the reliability users could actually feel.",
+            "meaning_ko": "그 플랫폼은 가격이 아니라 사용자가 체감하는 신뢰성으로 경쟁사를 따돌렸다."
+          },
+          {
+            "sentence": "Once momentum shifted, the leader began to outdistance the field, turning a close race into a rout.",
+            "meaning_ko": "흐름이 바뀌자 선두는 격차를 벌리며 박빙 승부를 일방적 경기로 바꿔 버렸다."
+          },
+          {
+            "sentence": "To outdistance competitors sustainably, a firm must convert short-term wins into repeatable advantages.",
+            "meaning_ko": "경쟁사를 지속적으로 따돌리려면 단기 승리를 반복 가능한 우위로 전환해야 한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "outdistance는 ‘앞서긴 앞서는데, 격차를 만들어 따돌린다’는 점이 핵심입니다. 비슷한 단어로 surpass(능가하다)는 비교적 일반적이고, outpace는 ‘속도/페이스’에, outstrip은 ‘성장·속도에서 앞지르다’에 자주 붙습니다. 또한 동사 distance(따돌리다)도 같이 익히면 어휘군이 한 번에 정리됩니다.",
+    "tags": [
+      "경쟁",
+      "격차",
+      "스포츠",
+      "비즈니스",
+      "선거",
+      "비교 표현"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The sprinter ________ the others within seconds.",
+            "a": "outdistanced",
+            "meaning_ko": "경주에서 ‘따돌리다/멀리 앞서다’의 기본 용례입니다."
+          },
+          {
+            "q": "Choose the closest meaning: outdistance",
+            "a": "to pull far ahead of others",
+            "meaning_ko": "단순히 이기다보다 ‘격차를 벌리다’가 핵심입니다."
+          },
+          {
+            "q": "Which is a natural collocation?",
+            "a": "outdistance the field",
+            "meaning_ko": "경주 기사에서 ‘출전 선수들을 따돌리다’로 흔합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The candidate outdistanced her rival ________ 8 percent in the latest poll.",
+            "a": "by",
+            "meaning_ko": "격차 수치를 말할 때 by를 씁니다."
+          },
+          {
+            "q": "Rewrite naturally: The startup became clearly better than others in sales. (use 'outdistance')",
+            "a": "The startup outdistanced its competitors in sales.",
+            "meaning_ko": "in + 분야로 ‘~면에서 앞지르다’가 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: They outdistanced to their peers in innovation.",
+            "a": "They outdistanced their peers in innovation.",
+            "meaning_ko": "outdistance는 타동사이므로 목적어 앞에 전치사 to를 쓰지 않습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Nuance question: What does outdistance imply that 'edge out' does not?",
+            "a": "A clear gap rather than a narrow win.",
+            "meaning_ko": "edge out은 ‘간신히/근소하게’지만 outdistance는 ‘격차를 벌려’입니다."
+          },
+          {
+            "q": "Fill in the blank: The firm did not merely outperform rivals this quarter; it ________ them in customer trust over years.",
+            "a": "outdistanced",
+            "meaning_ko": "장기 비교에서도 ‘현저한 격차’ 강조가 가능합니다."
+          },
+          {
+            "q": "Choose the best completion: To outdistance competitors long-term, companies typically need ____.",
+            "a": "repeatable advantages and disciplined execution",
+            "meaning_ko": "지속적 격차는 ‘반복 가능한 우위’에서 나온다는 논리 문제입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1016 @@
+[
+  {
+    "word": "organization",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A structured group of people formed for a particular purpose, such as a business, charity, or institution.",
+        "definition_ko": "특정 목적을 위해 구성된 조직(회사, 단체, 기관 등).",
+        "note": "사람들의 ‘단체’ 자체를 뜻할 때가 가장 흔합니다."
+      },
+      {
+        "definition_en": "The act or process of arranging people or things in a coherent, efficient way.",
+        "definition_ko": "정리·체계화(조직화)하는 행위나 과정.",
+        "note": "‘정돈된 상태/구성’(structure) 의미로도 자주 씁니다."
+      },
+      {
+        "definition_en": "The way something is arranged; the structure of a system, text, or event.",
+        "definition_ko": "구성·구조; 어떤 것의 짜임새.",
+        "note": "글의 구성이나 행사 운영의 ‘구성’ 같은 문맥에서 많이 보입니다."
+      }
+    ],
+    "concept": "사람이나 요소들을 목적에 맞게 ‘구조화된 체계’로 묶은 것(또는 그 과정).",
+    "etymology": "라틴어 organisare(도구처럼 ‘조직하다’) 및 그 어근 organum(도구, 기관) 계열에서 발전한 말로, ‘기능하는 부품들이 맞물린 체계’라는 감각이 남아 있습니다.",
+    "semanticExtension": "원래는 ‘구성요소를 기능적으로 배열하다’에서 출발해, 사람 집단(기관·단체) → 운영·관리 체계 → 글/행사/데이터의 ‘구성’으로 의미가 확장되었습니다.",
+    "nuanceRegister": "중립~격식. 비즈니스/학술/행정 문서에서 매우 흔하고, 일상에서도 ‘단체/조직’ 의미로 자연스럽습니다.",
+    "grammarNotes": "가산/불가산 모두 가능: a large organization(단체)처럼 가산이 흔하지만, organization(정리/조직화)처럼 불가산으로도 씁니다. 전치사 패턴(in/within/for)과 of-구문(organization of + N)이 자주 결합합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두(단체=가산, 조직화/정리=불가산)",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 속해/조직 내에서",
+        "example": "work in a nonprofit organization"
+      },
+      {
+        "prep": "within",
+        "meaning_ko": "~조직 내부에서(범위 강조)",
+        "example": "within the organization"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 단체/기관",
+        "example": "an organization for public health"
+      }
+    ],
+    "requiredComplements": [
+      "the organization of + noun: ~의 조직/구성(예: the organization of the report = 보고서의 구성)",
+      "a/an + adjective + organization: 성격이 규정된 조직(예: a grassroots organization = 풀뿌리 단체)",
+      "organizational + noun: 조직의/조직적인(예: organizational structure = 조직 구조)"
+    ],
+    "morphology": "organ(기관/도구/조직의 핵심) + -ize(…화하다) + -ation(…하는 행위/과정/결과) → ‘조직화/조직(체계)’의 의미를 형성.",
+    "derivatives": [
+      {
+        "word": "organize",
+        "meaning_ko": "조직하다, 정리하다"
+      },
+      {
+        "word": "organizational",
+        "meaning_ko": "조직의, 조직적인"
+      },
+      {
+        "word": "organizer",
+        "meaning_ko": "조직자, 주최자"
+      },
+      {
+        "word": "reorganize",
+        "meaning_ko": "재조직하다, 재정비하다"
+      },
+      {
+        "word": "disorganization",
+        "meaning_ko": "무질서, 정리되지 않음"
+      }
+    ],
+    "related": [
+      {
+        "word": "institution",
+        "meaning_ko": "기관, 제도"
+      },
+      {
+        "word": "administration",
+        "meaning_ko": "행정, 운영"
+      },
+      {
+        "word": "structure",
+        "meaning_ko": "구조, 체계"
+      },
+      {
+        "word": "coordination",
+        "meaning_ko": "조정, 협업"
+      },
+      {
+        "word": "hierarchy",
+        "meaning_ko": "계층 구조"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "institution",
+        "meaning_ko": "기관(공식 조직)"
+      },
+      {
+        "word": "association",
+        "meaning_ko": "협회, 단체"
+      },
+      {
+        "word": "entity",
+        "meaning_ko": "조직체(법적/형식적)"
+      },
+      {
+        "word": "body",
+        "meaning_ko": "단체, 기관(집단)"
+      },
+      {
+        "word": "arrangement",
+        "meaning_ko": "배치, 정리(구성)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "system",
+        "meaning_ko": "시스템(절차/방식 중심)"
+      },
+      {
+        "word": "company",
+        "meaning_ko": "회사(사업체)"
+      },
+      {
+        "word": "agency",
+        "meaning_ko": "기관(대행/행정 성격)"
+      },
+      {
+        "word": "framework",
+        "meaning_ko": "틀, 프레임워크"
+      },
+      {
+        "word": "management",
+        "meaning_ko": "관리(운영 행위 중심)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disorder",
+        "meaning_ko": "무질서"
+      },
+      {
+        "word": "chaos",
+        "meaning_ko": "혼란"
+      },
+      {
+        "word": "disorganization",
+        "meaning_ko": "정리되지 않음"
+      },
+      {
+        "word": "anarchy",
+        "meaning_ko": "무정부 상태(통제 부재)"
+      },
+      {
+        "word": "confusion",
+        "meaning_ko": "혼동, 뒤섞임"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a large organization",
+            "meaning_ko": "대규모 조직/단체"
+          },
+          {
+            "phrase": "join an organization",
+            "meaning_ko": "단체에 가입하다"
+          },
+          {
+            "phrase": "run an organization",
+            "meaning_ko": "조직을 운영하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a nonprofit organization",
+            "meaning_ko": "비영리 단체"
+          },
+          {
+            "phrase": "organizational structure",
+            "meaning_ko": "조직 구조"
+          },
+          {
+            "phrase": "internal organization",
+            "meaning_ko": "내부 구성/조직 체계"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "organizational change initiative",
+            "meaning_ko": "조직 변화 추진(프로그램)"
+          },
+          {
+            "phrase": "inter-organizational collaboration",
+            "meaning_ko": "조직 간 협력"
+          },
+          {
+            "phrase": "the organization of a complex argument",
+            "meaning_ko": "복잡한 논증의 구성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She joined a local organization to volunteer on weekends.",
+            "meaning_ko": "그녀는 주말에 봉사하려고 지역 단체에 가입했습니다."
+          },
+          {
+            "sentence": "The organization has offices in three countries.",
+            "meaning_ko": "그 조직은 세 나라에 사무실이 있습니다."
+          },
+          {
+            "sentence": "Good organization makes the job much easier.",
+            "meaning_ko": "잘 정리해 두면 일이 훨씬 쉬워집니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report needs better organization, especially in the methodology section.",
+            "meaning_ko": "그 보고서는 특히 방법론 부분에서 구성이 더 좋아야 합니다."
+          },
+          {
+            "sentence": "Within the organization, decisions move through several layers of approval.",
+            "meaning_ko": "조직 내부에서는 결정이 여러 승인 단계를 거칩니다."
+          },
+          {
+            "sentence": "Their organizational structure changed after the merger.",
+            "meaning_ko": "합병 이후 그들의 조직 구조가 바뀌었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The organization's incentives were misaligned, so teams optimized for local metrics rather than shared outcomes.",
+            "meaning_ko": "조직의 인센티브가 어긋나 있어 팀들이 공동 성과보다 각자 지표 최적화에 매달렸습니다."
+          },
+          {
+            "sentence": "A clear organization of evidence can turn a controversial claim into a persuasive one.",
+            "meaning_ko": "증거를 명확하게 구성하면 논란 많은 주장도 설득력 있게 만들 수 있습니다."
+          },
+          {
+            "sentence": "In highly regulated sectors, organizational accountability must be documented, not merely assumed.",
+            "meaning_ko": "규제가 강한 분야에서는 조직의 책임성이 ‘당연하다’고 두기보다 문서로 입증되어야 합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "organization은 ‘단체/기관’(가산)과 ‘정리·구성’(불가산) 두 축을 먼저 구분해 두면 헷갈림이 크게 줄어듭니다. 시험에서는 report/essay의 organization(글의 구성)처럼 추상 명사로 자주 출제됩니다. 함께 외울 표현은 within the organization(조직 내부에서)와 organizational structure(조직 구조)입니다.",
+    "tags": [
+      "조직",
+      "관리",
+      "구조",
+      "글쓰기",
+      "비즈니스"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: She decided to join a student ______ to meet new people.",
+            "a": "organization",
+            "meaning_ko": "학생 ‘단체’에 가입한다는 문맥이므로 organization이 적절합니다."
+          },
+          {
+            "q": "Fill in the blank: Better ______ of your notes will save you time before exams.",
+            "a": "organization",
+            "meaning_ko": "노트 ‘정리/체계화’의 의미로 organization을 씁니다."
+          },
+          {
+            "q": "Which is closest in meaning to organization (a group): A) chaos B) association C) confusion D) accident",
+            "a": "B) association",
+            "meaning_ko": "association은 ‘단체/협회’로 organization(단체)와 의미가 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using the given phrase: 'Inside the company, information moves slowly.' Use: within the organization",
+            "a": "Within the organization, information moves slowly.",
+            "meaning_ko": "within the organization은 ‘조직 내부에서’를 자연스럽게 표현합니다."
+          },
+          {
+            "q": "Choose the best interpretation: 'The organization of the paper is weak.'",
+            "a": "The structure/arrangement of the paper is weak.",
+            "meaning_ko": "여기서 organization은 ‘단체’가 아니라 글의 ‘구성/짜임새’를 뜻합니다."
+          },
+          {
+            "q": "Pick the best collocation: '______ structure' A) organizational B) organ C) organize D) organization",
+            "a": "A) organizational",
+            "meaning_ko": "structure 앞에는 형용사 organizational이 가장 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the most precise word: The firm's ______ incentives caused departments to compete rather than cooperate.",
+            "a": "organizational",
+            "meaning_ko": "조직 차원의(institution-level) 인센티브이므로 organizational이 가장 정확합니다."
+          },
+          {
+            "q": "Sentence insertion: 'Clear headings help readers.' Where best to insert this sentence? (1) The argument is strong. (2) ___ (3) However, the organization is confusing. (4) As a result, the conclusion feels abrupt.",
+            "a": "(2)",
+            "meaning_ko": "organization(구성) 문제를 설명하기 직전에 ‘제목/구조가 도움이 된다’ 문장을 넣으면 논리 흐름이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The organization are expanding rapidly.' Correct the underlined part.",
+            "a": "is",
+            "meaning_ko": "organization을 단수 조직체로 보았을 때 동사는 is가 자연스럽습니다(미국식 일반)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "undulate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To move in smooth waves or a wavy pattern; to rise and fall gently.",
+        "definition_ko": "물결치듯 출렁이다; 완만하게 오르내리다.",
+        "note": "바다, 천, 지형(언덕)처럼 ‘굴곡/파동’이 있는 움직임에 자주 씁니다."
+      },
+      {
+        "definition_en": "To cause something to have a wavy shape or to move in waves.",
+        "definition_ko": "무엇을 물결 모양이 되게 하다; 출렁이게 만들다.",
+        "note": "타동사로 쓰일 때는 문어적·기술적 문맥에서 더 흔합니다."
+      }
+    ],
+    "concept": "부드러운 파동을 그리며 연속적으로 오르내리거나 출렁이는 움직임.",
+    "etymology": "라틴어 unda(‘물결, 파도’)에서 온 단어로, 기본 이미지가 ‘파도(unda)’ 자체에 가깝습니다.",
+    "semanticExtension": "실제 파동(바다/천/머리카락)에서 출발해, 지형·음성·데이터 곡선처럼 ‘연속적인 굴곡’ 전반으로 의미가 확장되었습니다.",
+    "nuanceRegister": "문어·묘사적(설명/서술) 톤이 강합니다. 과학/기술 글에서는 파형(waveform) 묘사로도 쓰입니다.",
+    "grammarNotes": "주로 자동사로 ‘~이 출렁이다/물결치다’(The hills undulate.) 형태가 흔합니다. 형용사 부사와 함께(undulate gently/slowly) 잘 붙고, with/across/through 같은 전치사 구문으로 움직임의 양상/경로를 덧붙이기도 합니다.",
+    "transitivity": "자동사·타동사 모두(자동사가 더 흔함)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로(…이) 출렁이다/물결치다(원인·양상)",
+        "example": "The fabric undulated with each step."
+      },
+      {
+        "prep": "across",
+        "meaning_ko": "~을 가로질러 물결치다(경로)",
+        "example": "Heat shimmer undulated across the road."
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "~을 통해 출렁이며 퍼지다(전파)",
+        "example": "A ripple undulated through the crowd."
+      }
+    ],
+    "requiredComplements": [
+      "undulate + adverb: 출렁임의 정도/방식(예: undulate gently = 부드럽게 출렁이다)",
+      "undulate with + noun: 원인/동반 요소(예: undulate with excitement = 흥분으로 들썩이다)",
+      "undulate across/through + place: 파동의 진행 경로(예: undulate across the surface = 표면을 가로질러 일렁이다)"
+    ],
+    "morphology": "unda(파도/물결) + -ulate(반복적·점진적 동작을 나타내는 동사형 접미 요소) → ‘물결치다’의 동작 의미를 강화.",
+    "derivatives": [
+      {
+        "word": "undulation",
+        "meaning_ko": "파동, 물결침; 굴곡"
+      },
+      {
+        "word": "undulatory",
+        "meaning_ko": "물결치는, 파동의"
+      },
+      {
+        "word": "unda",
+        "meaning_ko": "라틴어: 물결/파도(어근)"
+      },
+      {
+        "word": "wave",
+        "meaning_ko": "파도, 물결; 흔들리다"
+      },
+      {
+        "word": "ripple",
+        "meaning_ko": "잔물결; 파문을 일으키다"
+      }
+    ],
+    "related": [
+      {
+        "word": "oscillate",
+        "meaning_ko": "진동하다, 오락가락하다"
+      },
+      {
+        "word": "fluctuate",
+        "meaning_ko": "변동하다"
+      },
+      {
+        "word": "ripple",
+        "meaning_ko": "잔물결치다"
+      },
+      {
+        "word": "meander",
+        "meaning_ko": "굽이굽이 흐르다"
+      },
+      {
+        "word": "swell",
+        "meaning_ko": "부풀다, (파도가) 일다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ripple",
+        "meaning_ko": "잔물결치다"
+      },
+      {
+        "word": "wave",
+        "meaning_ko": "물결치다, 흔들리다"
+      },
+      {
+        "word": "roll",
+        "meaning_ko": "물결치며 굴러가다"
+      },
+      {
+        "word": "swell",
+        "meaning_ko": "파도가 부풀어 오르다"
+      },
+      {
+        "word": "oscillate",
+        "meaning_ko": "진동하다(기술적)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "fluctuate",
+        "meaning_ko": "수치가 오르내리다(추상적)"
+      },
+      {
+        "word": "waver",
+        "meaning_ko": "흔들리다/동요하다(의지·소리)"
+      },
+      {
+        "word": "bob",
+        "meaning_ko": "까딱거리다/둥실거릴다(작은 움직임)"
+      },
+      {
+        "word": "sway",
+        "meaning_ko": "흔들리다(좌우로)"
+      },
+      {
+        "word": "pulsate",
+        "meaning_ko": "고동치다(규칙적 맥동)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "flatten",
+        "meaning_ko": "평평해지다/평평하게 하다"
+      },
+      {
+        "word": "stabilize",
+        "meaning_ko": "안정되다/안정시키다"
+      },
+      {
+        "word": "steady",
+        "meaning_ko": "흔들림 없이 안정되게 하다"
+      },
+      {
+        "word": "level",
+        "meaning_ko": "수평을 맞추다"
+      },
+      {
+        "word": "still",
+        "meaning_ko": "고요하게 하다/멈추다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "undulate gently",
+            "meaning_ko": "부드럽게 출렁이다"
+          },
+          {
+            "phrase": "undulate in the wind",
+            "meaning_ko": "바람에 출렁이다"
+          },
+          {
+            "phrase": "undulating hills",
+            "meaning_ko": "완만히 굴곡진 언덕들"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "an undulating surface",
+            "meaning_ko": "굴곡진 표면"
+          },
+          {
+            "phrase": "undulate across the water",
+            "meaning_ko": "물 위를 가로질러 일렁이다"
+          },
+          {
+            "phrase": "undulate with heat",
+            "meaning_ko": "열기 때문에 아지랑이처럼 일렁이다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "undulating waveform",
+            "meaning_ko": "물결 모양 파형"
+          },
+          {
+            "phrase": "undulation amplitude",
+            "meaning_ko": "파동 진폭"
+          },
+          {
+            "phrase": "undulate through the supply chain",
+            "meaning_ko": "공급망 전반으로 파급되다(비유)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The water undulated softly near the shore.",
+            "meaning_ko": "물가 근처의 물이 부드럽게 출렁였습니다."
+          },
+          {
+            "sentence": "The flag undulated in the breeze.",
+            "meaning_ko": "깃발이 산들바람에 출렁였습니다."
+          },
+          {
+            "sentence": "A long road undulated over the hills.",
+            "meaning_ko": "긴 길이 언덕 위로 완만히 굴곡을 그리며 이어졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Heat seemed to undulate above the asphalt, blurring the distant cars.",
+            "meaning_ko": "아스팔트 위로 열기가 일렁여 멀리 있는 차들이 흐릿해 보였습니다."
+          },
+          {
+            "sentence": "Her voice undulated between calm explanation and sudden urgency.",
+            "meaning_ko": "그녀의 목소리는 차분한 설명과 갑작스런 긴박함 사이를 오르내렸습니다."
+          },
+          {
+            "sentence": "The curtain undulated with every movement of the air conditioner.",
+            "meaning_ko": "에어컨 바람이 조금만 움직여도 커튼이 출렁였습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In the simulation, small perturbations made the boundary undulate, eventually triggering an instability.",
+            "meaning_ko": "시뮬레이션에서 작은 교란이 경계를 출렁이게 하더니 결국 불안정성을 유발했습니다."
+          },
+          {
+            "sentence": "The melody undulates around a central note, creating tension without ever fully resolving.",
+            "meaning_ko": "그 선율은 중심 음 주변을 물결치듯 맴돌며 완전히 해소되지 않는 긴장을 만듭니다."
+          },
+          {
+            "sentence": "Prices undulated for months as the market searched for a new equilibrium.",
+            "meaning_ko": "시장이 새 균형을 찾는 동안 가격이 몇 달 내내 출렁이듯 변동했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "unda(파도) 어근을 떠올리면 undulate의 핵심 이미지를 바로 잡을 수 있습니다. fluctuate는 ‘수치 변동’에 더 중립적이고, undulate는 ‘물결처럼 부드러운 굴곡’이라는 시각적·청각적 묘사가 강합니다. undulating hills/undulate gently 같은 결합을 통째로 익혀 두면 독해에서 빨리 잡힙니다.",
+    "tags": [
+      "파동",
+      "묘사",
+      "자연",
+      "기술",
+      "변동"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The flag ______ in the wind.",
+            "a": "undulated",
+            "meaning_ko": "바람에 ‘출렁이다/물결치다’는 동작이므로 undulate가 적절합니다."
+          },
+          {
+            "q": "Which picture best matches undulate? A) a straight line B) a wavy line C) a square D) a dot",
+            "a": "B) a wavy line",
+            "meaning_ko": "undulate는 ‘물결 모양’ 움직임/형태를 뜻합니다."
+          },
+          {
+            "q": "Choose the closest meaning: undulate",
+            "a": "move in waves",
+            "meaning_ko": "핵심 정의는 ‘파도치듯 움직이다’입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: The fabric undulated ___ each step. A) with B) at C) by D) for",
+            "a": "A) with",
+            "meaning_ko": "with는 ‘~에 따라/동반하여’ 출렁이는 양상을 자연스럽게 만듭니다."
+          },
+          {
+            "q": "Paraphrase: 'undulating hills'",
+            "a": "hills with gentle rises and falls",
+            "meaning_ko": "undulating은 ‘완만한 굴곡이 반복되는’ 느낌입니다."
+          },
+          {
+            "q": "Pick the better verb: 'Prices ______ for weeks.' A) undulated B) engraved",
+            "a": "A) undulated",
+            "meaning_ko": "가격이 ‘출렁이듯 변동’한다는 비유로 undulate가 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the most precise verb for wave-like motion in a technical description: A) undulate B) smile C) promise D) own",
+            "a": "A) undulate",
+            "meaning_ko": "파동/파형을 기술적으로 묘사할 때 undulate가 가장 정밀합니다."
+          },
+          {
+            "q": "Error correction: 'The road was undulate over the hills.' Correct the sentence.",
+            "a": "The road undulated over the hills.",
+            "meaning_ko": "be동사 뒤 형용사가 아니라 동사로 서술해야 하므로 undulated가 맞습니다."
+          },
+          {
+            "q": "Complete the sentence: In signal processing, noise can cause a waveform to ______, even when the input is constant.",
+            "a": "undulate",
+            "meaning_ko": "파형이 ‘물결치듯’ 흔들리는 현상을 undulate로 표현할 수 있습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adept",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Very skilled or proficient at doing something.",
+        "definition_ko": "능숙한, 숙련된.",
+        "note": "대개 adept at/in 형태로 ‘~에 능숙한’으로 씁니다."
+      },
+      {
+        "definition_en": "A person who is skilled at something; an expert practitioner.",
+        "definition_ko": "숙련자, 달인.",
+        "note": "명사로도 가능하지만, 형용사 용법이 더 흔합니다."
+      }
+    ],
+    "concept": "특정 기술·업무를 ‘매우 능숙하게’ 해내는 상태(또는 그런 사람).",
+    "etymology": "라틴어 adeptus(‘얻은, 획득한’—adipisci ‘얻다’의 과거분사)에서 왔으며, ‘지식·기술을 획득한 사람’이라는 의미가 ‘숙련된’으로 굳어졌습니다.",
+    "semanticExtension": "초기에는 연금술·비전통 지식 분야에서 ‘숙련자/입문자(adept)’ 의미로도 쓰였고, 현대에는 일반적으로 ‘~에 능숙한’(adept at)이라는 실무적 의미가 중심이 되었습니다.",
+    "nuanceRegister": "중립~약간 격식. ‘skilled’보다 문어적이고, ‘expert’보다는 범위가 좁게(특정 작업) 능숙함을 강조하는 뉘앙스가 있습니다.",
+    "grammarNotes": "형용사로 adept at + V-ing / adept at + noun, 또는 adept in + 분야가 핵심 패턴입니다. 명사로는 an adept at + 분야/기술 형태가 가능하지만 덜 흔합니다.",
+    "transitivity": "해당 없음(형용사/명사)",
+    "countability": "명사일 때 가산명사 / 형용사일 때 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~을/하는 데 능숙한",
+        "example": "adept at solving problems"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~분야에 능숙한(영역 강조)",
+        "example": "adept in negotiation"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~을 능숙하게 다루는",
+        "example": "adept with tools"
+      }
+    ],
+    "requiredComplements": [
+      "adept at + V-ing: ~하는 데 능숙한(예: adept at improvising = 즉흥 연주에 능숙한)",
+      "adept at + noun: ~에 능숙한(예: adept at diplomacy = 외교에 능숙한)",
+      "adept in + field: ~분야에 능숙한(예: adept in data analysis = 데이터 분석에 능숙한)"
+    ],
+    "morphology": "라틴어 어근 ad-(~로, 향해) + *-ept(획득/도달의 의미를 가진 adipisci 계열)에서 파생된 형태로, 현대 영어에서는 더 이상 생산적으로 분해해 쓰지 않는 어휘(비생산적 형태)입니다.",
+    "derivatives": [
+      {
+        "word": "adeptly",
+        "meaning_ko": "능숙하게"
+      },
+      {
+        "word": "adeptness",
+        "meaning_ko": "숙련, 능숙함"
+      },
+      {
+        "word": "adapt",
+        "meaning_ko": "적응하다(철자 유사, 의미 다름)"
+      },
+      {
+        "word": "expert",
+        "meaning_ko": "전문가"
+      },
+      {
+        "word": "proficiency",
+        "meaning_ko": "숙련도"
+      }
+    ],
+    "related": [
+      {
+        "word": "proficient",
+        "meaning_ko": "능숙한"
+      },
+      {
+        "word": "competent",
+        "meaning_ko": "유능한, 자격 있는"
+      },
+      {
+        "word": "dexterous",
+        "meaning_ko": "손재주가 좋은"
+      },
+      {
+        "word": "savvy",
+        "meaning_ko": "요령 있는, 감각 있는"
+      },
+      {
+        "word": "talent",
+        "meaning_ko": "재능"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "skilled",
+        "meaning_ko": "숙련된"
+      },
+      {
+        "word": "proficient",
+        "meaning_ko": "능숙한"
+      },
+      {
+        "word": "expert",
+        "meaning_ko": "전문가의, 숙련된"
+      },
+      {
+        "word": "capable",
+        "meaning_ko": "유능한"
+      },
+      {
+        "word": "dexterous",
+        "meaning_ko": "손재주가 좋은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "competent",
+        "meaning_ko": "기본 역량이 갖춰진(강도 약함)"
+      },
+      {
+        "word": "experienced",
+        "meaning_ko": "경험이 많은"
+      },
+      {
+        "word": "talented",
+        "meaning_ko": "재능 있는(선천/잠재 강조)"
+      },
+      {
+        "word": "seasoned",
+        "meaning_ko": "노련한(경험 축적 강조)"
+      },
+      {
+        "word": "savvy",
+        "meaning_ko": "감각/요령 있는(구어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inept",
+        "meaning_ko": "서툰, 무능한"
+      },
+      {
+        "word": "clumsy",
+        "meaning_ko": "서툰, 어설픈"
+      },
+      {
+        "word": "incompetent",
+        "meaning_ko": "무능한"
+      },
+      {
+        "word": "unskilled",
+        "meaning_ko": "숙련되지 않은"
+      },
+      {
+        "word": "awkward",
+        "meaning_ko": "어색한, 미숙한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "adept at math",
+            "meaning_ko": "수학에 능숙한"
+          },
+          {
+            "phrase": "highly adept",
+            "meaning_ko": "매우 능숙한"
+          },
+          {
+            "phrase": "an adept learner",
+            "meaning_ko": "습득이 빠른 사람(능숙한 학습자)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "adept at problem-solving",
+            "meaning_ko": "문제 해결에 능숙한"
+          },
+          {
+            "phrase": "adept in negotiation",
+            "meaning_ko": "협상에 능숙한"
+          },
+          {
+            "phrase": "adept with technology",
+            "meaning_ko": "기술(기기)을 능숙하게 다루는"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "adept at navigating ambiguity",
+            "meaning_ko": "불확실성을 능숙하게 다루는"
+          },
+          {
+            "phrase": "adept at stakeholder management",
+            "meaning_ko": "이해관계자 관리에 능숙한"
+          },
+          {
+            "phrase": "an adept of rhetorical strategy",
+            "meaning_ko": "수사 전략의 숙련자(명사 용법)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He is adept at fixing bicycles.",
+            "meaning_ko": "그는 자전거를 고치는 데 능숙합니다."
+          },
+          {
+            "sentence": "She is highly adept with computers.",
+            "meaning_ko": "그녀는 컴퓨터를 매우 능숙하게 다룹니다."
+          },
+          {
+            "sentence": "An adept can learn the basics quickly.",
+            "meaning_ko": "숙련자는 기본을 빠르게 익힐 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The team is adept at turning vague requests into clear requirements.",
+            "meaning_ko": "그 팀은 막연한 요청을 명확한 요구사항으로 바꾸는 데 능숙합니다."
+          },
+          {
+            "sentence": "She remained calm because she was adept in negotiation and conflict resolution.",
+            "meaning_ko": "그녀는 협상과 갈등 해결에 능숙해서 침착함을 유지했습니다."
+          },
+          {
+            "sentence": "He is an adept at spotting hidden assumptions in an argument.",
+            "meaning_ko": "그는 논증 속 숨은 전제를 찾아내는 데 능한 사람입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "An adept communicator can frame the same data to address different audiences without distorting the truth.",
+            "meaning_ko": "능숙한 소통가는 진실을 왜곡하지 않으면서도 같은 데이터를 청중에 맞게 제시할 수 있습니다."
+          },
+          {
+            "sentence": "The diplomat proved adept at balancing competing interests while keeping channels open for compromise.",
+            "meaning_ko": "그 외교관은 타협의 통로를 열어둔 채 상충하는 이해관계를 조율하는 데 능숙함을 보였습니다."
+          },
+          {
+            "sentence": "Being adept at execution is valuable, but without direction it can optimize the wrong goal efficiently.",
+            "meaning_ko": "실행에 능숙한 것은 가치 있지만, 방향이 없으면 잘못된 목표를 효율적으로 최적화할 수도 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "adept는 ‘능숙한’이지만 skilled보다 ‘특정 작업/기술에 능하다’는 초점이 강하고, 패턴(adept at/in/with)이 거의 고정이라 통째로 외우는 게 좋습니다. 특히 adept at + V-ing가 빈출이므로 예문을 그대로 암기해 두면 작문에서 바로 써먹을 수 있습니다. inept(서툰)과 철자·의미가 정반대인 짝으로 묶어 외우면 기억이 잘 납니다.",
+    "tags": [
+      "능력",
+      "숙련",
+      "업무",
+      "평가",
+      "표현"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: She is adept ___ drawing realistic portraits. (at / on / by / for)",
+            "a": "at",
+            "meaning_ko": "adept의 대표 패턴은 adept at + V-ing 입니다."
+          },
+          {
+            "q": "Choose the opposite of adept: A) inept B) vivid C) polite D) legal",
+            "a": "A) inept",
+            "meaning_ko": "inept는 ‘서툰/무능한’으로 adept의 반의어입니다."
+          },
+          {
+            "q": "Which is closest in meaning to adept (adj.)?",
+            "a": "skilled",
+            "meaning_ko": "adept(형용사)=숙련된이라는 뜻입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best sentence: A) He is adept to coding. B) He is adept at coding. C) He is adept by coding. D) He is adept for coding.",
+            "a": "B) He is adept at coding.",
+            "meaning_ko": "adept은 to/by/for가 아니라 at를 주로 씁니다."
+          },
+          {
+            "q": "Rewrite using 'adept with': 'She can handle complex software easily.'",
+            "a": "She is adept with complex software.",
+            "meaning_ko": "도구/기술을 능숙하게 다루는 뉘앙스에서 adept with가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the best collocation: ______ at problem-solving",
+            "a": "adept",
+            "meaning_ko": "be adept at problem-solving이 가장 자연스러운 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Complete the sentence: A manager who is adept at ______ can reduce conflict without suppressing dissent.",
+            "a": "mediation",
+            "meaning_ko": "갈등을 ‘중재’하는 능력 문맥에서 mediation이 적합합니다."
+          },
+          {
+            "q": "Error correction: 'She is an adept in persuasive writing.' Correct the underlined part to sound more natural.",
+            "a": "adept at",
+            "meaning_ko": "형용사로는 adept at이 더 일반적입니다(특정 기술)."
+          },
+          {
+            "q": "Choose the best paraphrase: 'He is adept at navigating ambiguity.'",
+            "a": "He can handle uncertainty skillfully.",
+            "meaning_ko": "ambiguity를 ‘불확실성/모호함’으로 보고 능숙하게 처리한다는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

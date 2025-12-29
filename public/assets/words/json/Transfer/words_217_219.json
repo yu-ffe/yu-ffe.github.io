@@ -1,0 +1,984 @@
+[
+  {
+    "word": "bounty",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A reward, especially money, offered for capturing a person or achieving a specified result.",
+        "definition_ko": "특정 인물의 체포·성과 달성 등에 대해 걸어두는 현상금·보상금.",
+        "note": "news/공문에서 ‘a bounty on someone(현상금)’처럼 자주 보입니다."
+      },
+      {
+        "definition_en": "A plentiful supply or abundance of something valuable.",
+        "definition_ko": "풍부한 공급, 넘치는 양(특히 유익한 것).",
+        "note": "문어/격식에서 ‘the bounty of nature(자연의 풍요)’처럼 쓰입니다."
+      }
+    ],
+    "concept": "‘현상금(보상금)’ 또는 ‘풍요로운 넉넉함’을 뜻하는 명사입니다.",
+    "etymology": "중세 프랑스어 bonté(선함, 너그러움) 계열에서 들어와 ‘선의/관대함’ 의미를 거쳐 ‘풍요, 보상’ 의미로 굳어졌습니다.",
+    "semanticExtension": "‘너그러움/풍요’에서 출발해 ‘성과에 대한 보상(현상금)’처럼 사회적 제도·계약의 맥락으로 확장되었습니다.",
+    "nuanceRegister": "‘현상금’ 의미는 뉴스·공문에서 중립적이고, ‘풍요’ 의미는 문어/격식에서 다소 문학적으로 들립니다.",
+    "grammarNotes": "보통 a/the bounty로 쓰며, 의미에 따라 ‘on(현상금 대상)’, ‘of(풍요의 대상)’가 자주 붙습니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두(현상금=가산, 풍요/너그러움=불가산에 가깝게 사용)",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대한 현상금(대상)",
+        "example": "place a bounty on the fugitive"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 풍요, ~의 넘침",
+        "example": "the bounty of the harvest"
+      }
+    ],
+    "requiredComplements": [
+      "place/put a bounty on + 사람/대상: ~에게/그 대상에 현상금을 걸다",
+      "offer/pay a bounty for + 명사/동명사: ~에 대한 보상을 제시/지급하다",
+      "a bounty of + 복수명사/불가산명사: 풍부한 ~"
+    ],
+    "morphology": "bon(‘good’, 라틴어 bonus 계열) + -ty(명사형): ‘좋음/선함’에서 ‘너그러움·풍요’로 의미가 이어집니다.",
+    "derivatives": [
+      {
+        "word": "bountiful",
+        "meaning_ko": "풍부한; 관대한"
+      },
+      {
+        "word": "bounteous",
+        "meaning_ko": "풍성한; 아낌없이 주는"
+      },
+      {
+        "word": "bountifully",
+        "meaning_ko": "풍부하게; 아낌없이"
+      },
+      {
+        "word": "bounty hunter",
+        "meaning_ko": "현상금 사냥꾼(현상금 추적자)"
+      },
+      {
+        "word": "bounties",
+        "meaning_ko": "현상금들; 보상금들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "reward",
+        "meaning_ko": "보상, 상"
+      },
+      {
+        "word": "abundance",
+        "meaning_ko": "풍부함"
+      },
+      {
+        "word": "harvest",
+        "meaning_ko": "수확(량)"
+      },
+      {
+        "word": "generosity",
+        "meaning_ko": "관대함"
+      },
+      {
+        "word": "incentive",
+        "meaning_ko": "유인책, 장려금"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "reward",
+        "meaning_ko": "보상금"
+      },
+      {
+        "word": "prize",
+        "meaning_ko": "상금, 상품"
+      },
+      {
+        "word": "premium",
+        "meaning_ko": "장려금, 프리미엄(추가 보상)"
+      },
+      {
+        "word": "recompense",
+        "meaning_ko": "보상(금)"
+      },
+      {
+        "word": "plenty",
+        "meaning_ko": "풍부함(‘풍요’ 의미에 가까움)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "windfall",
+        "meaning_ko": "뜻밖의 큰 이익"
+      },
+      {
+        "word": "bonanza",
+        "meaning_ko": "대박; 풍부한 산출"
+      },
+      {
+        "word": "largesse",
+        "meaning_ko": "후한 시주/관대함(격식)"
+      },
+      {
+        "word": "stash",
+        "meaning_ko": "숨겨둔 비축물"
+      },
+      {
+        "word": "subsidy",
+        "meaning_ko": "보조금(정책적 보상에 가까움)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scarcity",
+        "meaning_ko": "부족, 희소"
+      },
+      {
+        "word": "dearth",
+        "meaning_ko": "부족(문어)"
+      },
+      {
+        "word": "stinginess",
+        "meaning_ko": "인색함"
+      },
+      {
+        "word": "penalty",
+        "meaning_ko": "벌금, 불이익"
+      },
+      {
+        "word": "paucity",
+        "meaning_ko": "결핍, 부족(격식)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a bounty of + noun",
+            "meaning_ko": "~가 풍부한"
+          },
+          {
+            "phrase": "offer a bounty",
+            "meaning_ko": "현상금/보상금을 내걸다"
+          },
+          {
+            "phrase": "claim a bounty",
+            "meaning_ko": "보상금을 타가다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "place a bounty on + person",
+            "meaning_ko": "~에게 현상금을 걸다"
+          },
+          {
+            "phrase": "bounty hunter",
+            "meaning_ko": "현상금 사냥꾼"
+          },
+          {
+            "phrase": "the bounty of nature",
+            "meaning_ko": "자연의 풍요"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a government bounty program",
+            "meaning_ko": "정부 보상(현상금) 제도"
+          },
+          {
+            "phrase": "a bounty payable upon conviction",
+            "meaning_ko": "유죄 판결 시 지급되는 현상금/보상금"
+          },
+          {
+            "phrase": "bounty for actionable intelligence",
+            "meaning_ko": "실질적 첩보 제공에 대한 현상금"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They offered a bounty for the lost dog.",
+            "meaning_ko": "그들은 잃어버린 개를 찾으면 보상금을 준다고 했습니다."
+          },
+          {
+            "sentence": "The market had a bounty of fresh fruit today.",
+            "meaning_ko": "오늘 시장에는 신선한 과일이 정말 풍부했습니다."
+          },
+          {
+            "sentence": "He claimed the bounty after turning in the thief.",
+            "meaning_ko": "그는 도둑을 넘긴 뒤 현상금을 받아 갔습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The sheriff placed a bounty on the fugitive’s capture.",
+            "meaning_ko": "보안관은 그 도망자의 체포에 현상금을 걸었습니다."
+          },
+          {
+            "sentence": "A bounty hunter tracked the suspect across state lines.",
+            "meaning_ko": "현상금 사냥꾼이 주 경계를 넘어 용의자를 추적했습니다."
+          },
+          {
+            "sentence": "Farmers praised the bounty of the harvest after weeks of rain.",
+            "meaning_ko": "몇 주간의 비 끝에 농부들은 풍성한 수확을 칭찬했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The agency announced a bounty for actionable intelligence leading to an arrest.",
+            "meaning_ko": "그 기관은 체포로 이어지는 유의미한 첩보 제공에 현상금을 내걸었습니다."
+          },
+          {
+            "sentence": "The bounty, payable upon conviction, raised ethical questions among critics.",
+            "meaning_ko": "유죄 판결 시 지급되는 그 현상금은 비판가들 사이에서 윤리적 논쟁을 불러일으켰습니다."
+          },
+          {
+            "sentence": "In the essay, the author contrasts the ocean’s bounty with coastal depletion.",
+            "meaning_ko": "그 에세이에서 저자는 바다의 풍요와 연안 자원 고갈을 대비합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "bounty는 ‘보상금/현상금’과 ‘풍요’ 두 축으로 먼저 나눠 외우는 게 안정적입니다. a bounty on(대상)과 a bounty of(풍요의 대상)을 세트로 기억해 두면 전치사 실수가 크게 줄어듭니다. 시험에서는 ‘현상금’ 뜻만 떠올려서 문어적 ‘풍요’ 의미를 놓치는 경우가 많으니, nature/harvest와 같이 나오면 ‘풍요’로 빠르게 전환하세요.",
+    "tags": [
+      "보상",
+      "현상금",
+      "풍요",
+      "뉴스",
+      "격식 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'bounty' in this sentence: \"They offered a bounty for information.\"",
+            "a": "a reward",
+            "meaning_ko": "정보 제공에 대한 ‘보상금/현상금’ 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: \"The garden produced a ______ of tomatoes this summer.\"",
+            "a": "bounty",
+            "meaning_ko": "풍부한 수확/공급을 말할 때 a bounty of가 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase is natural English?",
+            "a": "place a bounty on someone",
+            "meaning_ko": "‘~에게 현상금을 걸다’는 place/put a bounty on이 정형입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the correct preposition: \"The city placed a bounty ___ the hacker.\"",
+            "a": "on",
+            "meaning_ko": "현상금의 대상에는 on을 씁니다."
+          },
+          {
+            "q": "Rewrite using 'bounty' (keep the meaning): \"The harvest was extremely abundant.\"",
+            "a": "The harvest was a bounty.",
+            "meaning_ko": "abundant를 ‘풍요(=bounty)’로 바꿔 말할 수 있습니다(문맥상 the harvest’s bounty도 가능)."
+          },
+          {
+            "q": "Which word is closest to 'bounty' meaning 'plentiful supply'?",
+            "a": "abundance",
+            "meaning_ko": "풍요 의미에서는 abundance가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the most precise option: \"A bounty payable upon conviction\" most likely appears in ____.",
+            "a": "a legal or official notice",
+            "meaning_ko": "payable upon conviction 같은 표현은 법률/공문 레지스터입니다."
+          },
+          {
+            "q": "Error correction: \"They offered a bounty on returning the artifact.\"",
+            "a": "They offered a bounty for returning the artifact.",
+            "meaning_ko": "성과/행위에 대한 보상은 for + 동명사/명사가 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence best uses the 'bounty of nature' sense?",
+            "a": "We celebrated the bounty of nature after the drought ended.",
+            "meaning_ko": "자연의 풍요를 문어적으로 표현한 용법입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "utter",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To say something aloud, especially in a low voice or in a particular way.",
+        "definition_ko": "말을 (특히 짧게/조용히/특정한 방식으로) 입 밖에 내다, 발언하다.",
+        "note": "utter a word처럼 ‘말을 내뱉다/입 밖에 내다’ 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "To express or articulate (a sound, complaint, or opinion).",
+        "definition_ko": "(소리·불평·의견 등을) 표현하다, 토로하다.",
+        "note": "형식적/문어적으로 들리며 일상 회화에서는 say가 더 흔합니다."
+      },
+      {
+        "definition_en": "Complete and absolute; total.",
+        "definition_ko": "완전한, 철저한(=total).",
+        "note": "utter nonsense / utter failure처럼 명사를 강하게 수식합니다."
+      }
+    ],
+    "concept": "utter는 ‘입 밖에 내다(발언하다)’(동사)와 ‘완전한/전적인’(형용사) 두 용법이 핵심입니다.",
+    "etymology": "동사 utter는 ‘밖으로 내다/발하다’ 계열의 역사적 용법에서 발달했고, 형용사 utter는 ‘바깥쪽/끝까지’의 의미에서 ‘전적인, 완전한’으로 굳어졌습니다.",
+    "semanticExtension": "‘밖으로 내다’(발화/표출)에서 동사 의미가, ‘끝까지/완전히’의 감각에서 형용사 의미가 발전해 서로 다른 방향으로 쓰이게 되었습니다.",
+    "nuanceRegister": "동사 utter는 비교적 격식/문어 느낌(예: utter a complaint), 형용사 utter는 강한 강조 표현으로 중립~격식 문장 모두에서 쓰입니다.",
+    "grammarNotes": "동사로는 보통 타동사로 목적어(utter a word/utter a protest)를 직접 취합니다. 형용사로는 명사 앞에서 ‘완전한’ 강조를 주며, 비교급·최상급보다는 명사+utter 형태가 자연스럽습니다.",
+    "transitivity": "타동사(동사 용법); 형용사 용법은 해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "utter + 명사(utter a word/utter a sound/utter a complaint): 말을/소리를/불평을 내다",
+      "not utter a word: 한마디도 하지 않다(관용적으로 매우 흔함)",
+      "utter + 추상명사(utter nonsense/utter contempt/utter failure): 완전한 ~"
+    ],
+    "morphology": "기본형 utter(‘내다/말하다’ 또는 ‘전적인’) 자체가 중심이며, 파생은 -ance(utterance), -ly(utterly) 형태로 확장됩니다.",
+    "derivatives": [
+      {
+        "word": "utterance",
+        "meaning_ko": "발언, 말(행위/내용)"
+      },
+      {
+        "word": "utterly",
+        "meaning_ko": "완전히, 전적으로"
+      },
+      {
+        "word": "uttermost",
+        "meaning_ko": "극한, 극도의; 최대한"
+      },
+      {
+        "word": "unutterable",
+        "meaning_ko": "말로 표현할 수 없는"
+      },
+      {
+        "word": "utterer",
+        "meaning_ko": "발언자(드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "say",
+        "meaning_ko": "말하다(가장 일반적)"
+      },
+      {
+        "word": "mutter",
+        "meaning_ko": "중얼거리다"
+      },
+      {
+        "word": "declare",
+        "meaning_ko": "공표하다"
+      },
+      {
+        "word": "express",
+        "meaning_ko": "표현하다"
+      },
+      {
+        "word": "total",
+        "meaning_ko": "완전한, 전적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "say",
+        "meaning_ko": "말하다"
+      },
+      {
+        "word": "voice",
+        "meaning_ko": "말로 나타내다/표명하다"
+      },
+      {
+        "word": "articulate",
+        "meaning_ko": "또렷이 표현하다"
+      },
+      {
+        "word": "complete",
+        "meaning_ko": "완전한(형용사 의미)"
+      },
+      {
+        "word": "absolute",
+        "meaning_ko": "절대적인, 전적인(형용사 의미)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "murmur",
+        "meaning_ko": "나직이 말하다"
+      },
+      {
+        "word": "pronounce",
+        "meaning_ko": "발음하다/말하다(격식)"
+      },
+      {
+        "word": "state",
+        "meaning_ko": "진술하다(격식)"
+      },
+      {
+        "word": "sheer",
+        "meaning_ko": "순전한, 완전한(강조)"
+      },
+      {
+        "word": "downright",
+        "meaning_ko": "완전한, 철저한(구어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "withhold",
+        "meaning_ko": "말/정보를 아끼다, 보류하다"
+      },
+      {
+        "word": "conceal",
+        "meaning_ko": "숨기다"
+      },
+      {
+        "word": "partial",
+        "meaning_ko": "부분적인"
+      },
+      {
+        "word": "moderate",
+        "meaning_ko": "절제된"
+      },
+      {
+        "word": "incomplete",
+        "meaning_ko": "불완전한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "utter a word",
+            "meaning_ko": "한마디 하다"
+          },
+          {
+            "phrase": "not utter a word",
+            "meaning_ko": "한마디도 하지 않다"
+          },
+          {
+            "phrase": "utter a sound",
+            "meaning_ko": "소리를 내다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "utter a complaint",
+            "meaning_ko": "불평을 토로하다"
+          },
+          {
+            "phrase": "utter a threat",
+            "meaning_ko": "위협을 내뱉다"
+          },
+          {
+            "phrase": "utter silence",
+            "meaning_ko": "완전한 침묵(강조 표현)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "utter contempt",
+            "meaning_ko": "완전한 경멸"
+          },
+          {
+            "phrase": "utter futility",
+            "meaning_ko": "철저한 무의미/헛됨"
+          },
+          {
+            "phrase": "utter a dissenting opinion",
+            "meaning_ko": "반대 의견을 공식적으로 표명하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He didn’t utter a word during the meeting.",
+            "meaning_ko": "그는 회의 내내 한마디도 하지 않았습니다."
+          },
+          {
+            "sentence": "The child uttered a small cry.",
+            "meaning_ko": "그 아이가 작은 비명을 질렀습니다."
+          },
+          {
+            "sentence": "That’s utter nonsense.",
+            "meaning_ko": "그건 완전 헛소리입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She uttered a complaint but quickly apologized.",
+            "meaning_ko": "그녀는 불평을 한마디 했다가 곧바로 사과했습니다."
+          },
+          {
+            "sentence": "He uttered a threat under his breath.",
+            "meaning_ko": "그는 숨죽인 목소리로 위협을 내뱉었습니다."
+          },
+          {
+            "sentence": "The plan ended in utter failure.",
+            "meaning_ko": "그 계획은 완전한 실패로 끝났습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Witnesses said he uttered a dissenting opinion despite intense pressure.",
+            "meaning_ko": "목격자들은 그가 거센 압박 속에서도 반대 의견을 표명했다고 말했습니다."
+          },
+          {
+            "sentence": "Her essay exposes the utter futility of chasing approval as a life goal.",
+            "meaning_ko": "그녀의 에세이는 인정을 삶의 목표로 쫓는 일이 얼마나 철저히 허망한지 드러냅니다."
+          },
+          {
+            "sentence": "The jury read the statement in utter silence, refusing to react.",
+            "meaning_ko": "배심원단은 아무 반응 없이 완전한 침묵 속에서 진술서를 읽었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "utter는 동사(말하다/내다)보다 형용사(utter + 명사)가 시험에서 더 자주 보입니다. utter는 ‘강한 강조’라서 sheer/absolute/total과 바꿔치기되는지 비교하면 감이 빨리 잡힙니다. 동사로는 utter a word / not utter a word를 통째로 외우면 실전에서 바로 써먹기 좋습니다.",
+    "tags": [
+      "발화",
+      "강조 표현",
+      "격식",
+      "구문 not utter a word"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: \"He didn't ______ a word.\"",
+            "a": "utter",
+            "meaning_ko": "관용적으로 not utter a word가 매우 흔합니다."
+          },
+          {
+            "q": "Choose the best meaning: \"That's utter nonsense.\"",
+            "a": "complete and total",
+            "meaning_ko": "형용사 utter는 ‘완전한/전적인’의 강조입니다."
+          },
+          {
+            "q": "Which is the closest everyday verb to 'utter' (verb)?",
+            "a": "say",
+            "meaning_ko": "동사 의미에서는 say가 가장 일반적 대응입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best rewrite: \"She expressed a complaint.\" (use 'utter')",
+            "a": "She uttered a complaint.",
+            "meaning_ko": "utter는 목적어를 직접 받는 타동사로 자주 쓰입니다."
+          },
+          {
+            "q": "Which phrase sounds most natural?",
+            "a": "utter failure",
+            "meaning_ko": "형용사 utter는 failure/nonsense/silence 같은 명사와 결합이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the incorrect sentence.",
+            "a": "He uttered.",
+            "meaning_ko": "utter는 보통 목적어가 필요한 타동사라 단독 사용은 부자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In academic writing, which option best matches the tone of 'utter futility'?",
+            "a": "complete futility",
+            "meaning_ko": "utter는 강한 강조지만 비교적 문어에도 맞고, complete도 유사 톤입니다."
+          },
+          {
+            "q": "Error correction: \"It was utterly disaster.\"",
+            "a": "It was an utter disaster.",
+            "meaning_ko": "utterly는 부사라 형용사+명사 구조가 아니라 부사+형용사/동사에 붙습니다. 여기서는 an utter disaster가 정답입니다."
+          },
+          {
+            "q": "Choose the best option: \"He refused to utter ____ under oath.\"",
+            "a": "a lie",
+            "meaning_ko": "utter는 ‘말/발언’을 목적어로 취해 ‘거짓말을 하다(입 밖에 내다)’처럼 결합할 수 있습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "siesta",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A short nap or rest taken in the early afternoon, especially in hot climates.",
+        "definition_ko": "낮잠(특히 점심 이후 짧게 자는 휴식), 시에스타.",
+        "note": "스페인·라틴 문화권에서 흔한 낮 휴식 관습을 가리키기도 합니다."
+      }
+    ],
+    "concept": "siesta는 ‘점심 무렵에 잠깐 자는 낮잠/휴식’을 뜻하는 명사입니다.",
+    "etymology": "스페인어 siesta에서 왔고, 이는 라틴어 sexta(‘여섯 번째’—정오 무렵의 ‘제6시’)와 관련된 표현에서 유래했습니다.",
+    "semanticExtension": "원래는 ‘정오 무렵의 시간대’ 감각이 강했으나, 점차 그 시간에 하는 ‘낮잠/휴식’ 자체를 뜻하게 되었습니다.",
+    "nuanceRegister": "중립적이지만 문화적 맥락(남유럽/라틴 문화)의 뉘앙스를 동반하는 경우가 많습니다. 여행·라이프스타일 글에서 자주 보입니다.",
+    "grammarNotes": "보통 take/have a siesta처럼 관용적으로 쓰며, 시간 표현과 함께 during/after로 연결할 수 있습니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(보통 a siesta / two siestas처럼 셀 수 있음)",
+    "prepositionPatterns": [
+      {
+        "prep": "after",
+        "meaning_ko": "점심/식사 뒤에",
+        "example": "a siesta after lunch"
+      },
+      {
+        "prep": "during",
+        "meaning_ko": "~동안(시에스타 시간 동안)",
+        "example": "shops close during siesta"
+      }
+    ],
+    "requiredComplements": [
+      "take/have a siesta: 낮잠을 자다",
+      "a siesta after lunch: 점심 후 낮잠",
+      "during siesta: 시에스타 시간 동안"
+    ],
+    "morphology": "스페인어 siesta(정오 무렵 휴식) 단일 어휘로, 영어에서는 그대로 차용되어 문화어처럼 사용됩니다.",
+    "derivatives": [
+      {
+        "word": "siesta time",
+        "meaning_ko": "시에스타 시간(낮 휴식 시간대)"
+      },
+      {
+        "word": "siesta break",
+        "meaning_ko": "낮잠/휴식 시간"
+      },
+      {
+        "word": "afternoon siesta",
+        "meaning_ko": "오후 낮잠"
+      },
+      {
+        "word": "take a siesta",
+        "meaning_ko": "낮잠을 자다(표현)"
+      },
+      {
+        "word": "siesta habit",
+        "meaning_ko": "낮잠 습관"
+      }
+    ],
+    "related": [
+      {
+        "word": "nap",
+        "meaning_ko": "낮잠"
+      },
+      {
+        "word": "rest",
+        "meaning_ko": "휴식"
+      },
+      {
+        "word": "break",
+        "meaning_ko": "쉬는 시간"
+      },
+      {
+        "word": "doze",
+        "meaning_ko": "졸다"
+      },
+      {
+        "word": "leisure",
+        "meaning_ko": "여가"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "nap",
+        "meaning_ko": "낮잠"
+      },
+      {
+        "word": "doze",
+        "meaning_ko": "짧은 졸음/낮잠"
+      },
+      {
+        "word": "catnap",
+        "meaning_ko": "아주 짧은 낮잠"
+      },
+      {
+        "word": "rest",
+        "meaning_ko": "휴식(잠 포함 가능)"
+      },
+      {
+        "word": "afternoon sleep",
+        "meaning_ko": "오후 낮잠(설명적 표현)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "breaktime",
+        "meaning_ko": "휴식 시간(일반)"
+      },
+      {
+        "word": "pause",
+        "meaning_ko": "잠깐 멈춤/휴식"
+      },
+      {
+        "word": "downtime",
+        "meaning_ko": "쉬는 시간(구어)"
+      },
+      {
+        "word": "recess",
+        "meaning_ko": "휴식 시간(학교/공식)"
+      },
+      {
+        "word": "interlude",
+        "meaning_ko": "잠깐의 막간/휴지기(문어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "work",
+        "meaning_ko": "일"
+      },
+      {
+        "word": "hustle",
+        "meaning_ko": "바삐 움직임(구어)"
+      },
+      {
+        "word": "wakefulness",
+        "meaning_ko": "각성 상태"
+      },
+      {
+        "word": "overtime",
+        "meaning_ko": "야근/초과근무"
+      },
+      {
+        "word": "insomnia",
+        "meaning_ko": "불면(잠을 못 자는 상태)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "take a siesta",
+            "meaning_ko": "시에스타를 하다(낮잠 자다)"
+          },
+          {
+            "phrase": "have a siesta",
+            "meaning_ko": "낮잠을 자다"
+          },
+          {
+            "phrase": "short siesta",
+            "meaning_ko": "짧은 낮잠"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a siesta after lunch",
+            "meaning_ko": "점심 후 낮잠"
+          },
+          {
+            "phrase": "afternoon siesta",
+            "meaning_ko": "오후 낮잠"
+          },
+          {
+            "phrase": "during siesta",
+            "meaning_ko": "시에스타 시간 동안"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "siesta culture",
+            "meaning_ko": "시에스타 문화(관습)"
+          },
+          {
+            "phrase": "observe a siesta",
+            "meaning_ko": "시에스타 관습을 지키다(격식)"
+          },
+          {
+            "phrase": "shops close for siesta",
+            "meaning_ko": "가게가 시에스타 때문에 문을 닫다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I took a siesta after lunch.",
+            "meaning_ko": "저는 점심 후에 낮잠을 잤습니다."
+          },
+          {
+            "sentence": "He likes a short siesta on weekends.",
+            "meaning_ko": "그는 주말에 짧게 낮잠 자는 걸 좋아합니다."
+          },
+          {
+            "sentence": "Let’s have a siesta before we go out again.",
+            "meaning_ko": "다시 나가기 전에 낮잠 좀 자요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "In summer, many people take a siesta to escape the heat.",
+            "meaning_ko": "여름에는 더위를 피하려고 많은 사람들이 시에스타를 합니다."
+          },
+          {
+            "sentence": "The museum is closed during siesta, so we’ll return later.",
+            "meaning_ko": "박물관은 시에스타 시간 동안 문을 닫아서, 나중에 다시 올 거예요."
+          },
+          {
+            "sentence": "A brief siesta improved her focus for the afternoon shift.",
+            "meaning_ko": "짧은 시에스타가 그녀의 오후 근무 집중력을 높여줬습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The guide explained that siesta culture shapes business hours across the region.",
+            "meaning_ko": "가이드는 시에스타 문화가 이 지역 전반의 영업 시간을 좌우한다고 설명했습니다."
+          },
+          {
+            "sentence": "Some researchers argue that a mid‑day siesta can reduce cognitive fatigue without harming nighttime sleep.",
+            "meaning_ko": "일부 연구자들은 한낮의 시에스타가 밤잠을 해치지 않으면서 인지 피로를 줄일 수 있다고 주장합니다."
+          },
+          {
+            "sentence": "We had to restructure the itinerary because shops close for siesta in the early afternoon.",
+            "meaning_ko": "이른 오후에 가게들이 시에스타로 문을 닫아서, 우리는 일정표를 다시 짰습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "siesta는 ‘낮잠’이지만, 단순 nap보다 ‘문화적/시간대’ 느낌이 붙는 단어입니다. take/have a siesta를 덩어리로 외워 두면 말하기·작문에서 바로 활용됩니다. 여행 지문에서는 during siesta(시에스타 시간 동안 가게가 닫는다) 패턴이 자주 나오니 함께 묶어 기억하세요.",
+    "tags": [
+      "낮잠",
+      "휴식",
+      "여행",
+      "문화",
+      "생활 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: \"I took a ______ after lunch.\"",
+            "a": "siesta",
+            "meaning_ko": "점심 후 낮잠은 take a siesta가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest meaning of 'siesta'.",
+            "a": "a short afternoon nap",
+            "meaning_ko": "siesta는 ‘오후의 짧은 낮잠/휴식’입니다."
+          },
+          {
+            "q": "Which verb collocates best with 'siesta'?",
+            "a": "take",
+            "meaning_ko": "take/have a siesta가 대표 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the correct preposition: \"Many shops are closed ___ siesta.\"",
+            "a": "during",
+            "meaning_ko": "특정 시간대 ‘동안’은 during이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the sentence that sounds most natural.",
+            "a": "We’ll visit the market after siesta.",
+            "meaning_ko": "after siesta(시에스타 끝난 뒤) 표현이 여행 문맥에서 자주 쓰입니다."
+          },
+          {
+            "q": "Paraphrase: \"A short nap helped me concentrate.\" (use 'siesta')",
+            "a": "A brief siesta helped me concentrate.",
+            "meaning_ko": "brief/short + siesta로 자연스럽게 바꿉니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In a travel article, what does 'siesta culture' most likely refer to?",
+            "a": "a social habit of resting in the early afternoon",
+            "meaning_ko": "시에스타를 생활 관습으로 지키는 문화적 패턴을 뜻합니다."
+          },
+          {
+            "q": "Error correction: \"We observed a siesta in the store.\"",
+            "a": "We observed a siesta, so the store was closed.",
+            "meaning_ko": "observe a siesta는 ‘관습을 지키다’에 가깝고, 장소(in the store)보다는 결과(가게가 닫힘)로 이어지는 문장이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best completion: \"Because of siesta, we had to restructure the _____.\"",
+            "a": "itinerary",
+            "meaning_ko": "시에스타로 가게가 닫혀 일정(여행 동선)을 조정한다는 맥락에 itinerary가 가장 적절합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,968 @@
+[
+  {
+    "word": "recuperate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To recover strength, health, or energy after illness, injury, or exertion.",
+        "definition_ko": "병·부상·피로 뒤에 체력이나 건강을 회복하다.",
+        "note": "보통 완전히 ‘낫다’라기보다 ‘회복하는 과정’에 초점이 있습니다."
+      },
+      {
+        "definition_en": "To regain or recover something that was lost, especially money or costs.",
+        "definition_ko": "잃었던 것을 되찾다(특히 비용·손실 등을 회수하다).",
+        "note": "이 뜻은 비교적 격식 있고, 문어/비즈니스 문맥에서 더 자주 보입니다."
+      }
+    ],
+    "concept": "손상된 컨디션이나 손실을 ‘다시 회복해 원상에 가깝게 돌려놓는 것’.",
+    "etymology": "라틴어 recuperare(되찾다, 회복하다)에서 왔으며, ‘다시(re-) 얻는다’는 느낌으로 발전했습니다.",
+    "semanticExtension": "원래는 건강 회복이 중심이지만, 손실·비용·통제 등을 ‘회수/복구’하는 의미로도 확장됩니다.",
+    "nuanceRegister": "중간~격식. 일상에서도 쓰이지만 ‘회복 과정’을 말할 때는 recover보다 약간 문어적/진지한 뉘앙스가 있습니다.",
+    "grammarNotes": "자동사로 가장 흔합니다(recuperate from/after). 타동사 용법(비용을 회수하다 등)은 제한적으로 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~에서 회복하다(질병·수술·충격 등)",
+        "example": "recuperate from surgery"
+      },
+      {
+        "prep": "after",
+        "meaning_ko": "~후에(시간 경과 속) 회복하다",
+        "example": "recuperate after a long trip"
+      }
+    ],
+    "requiredComplements": [
+      "recuperate from + 명사(질병/수술/부상 등): ~에서 회복하다",
+      "recuperate after + 사건/기간: ~후에 회복하다",
+      "recuperate + costs/losses(타동사, 문어): 비용/손실을 회수하다"
+    ],
+    "morphology": "라틴어 어근 기반 형태(재-회복의 의미). 현대 영어에서는 접두사·접미사로 분해하기보다 ‘회복’ 의미 덩어리로 암기하는 편이 안전합니다.",
+    "derivatives": [
+      {
+        "word": "recuperation",
+        "meaning_ko": "회복(기), 회복 과정"
+      },
+      {
+        "word": "recuperative",
+        "meaning_ko": "회복을 돕는, 회복력이 있는"
+      },
+      {
+        "word": "recuperate",
+        "meaning_ko": "회복하다; (손실을) 회수하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "convalesce",
+        "meaning_ko": "병후 회복기에 접어들다"
+      },
+      {
+        "word": "rehabilitation",
+        "meaning_ko": "재활(치료/훈련)"
+      },
+      {
+        "word": "rebound",
+        "meaning_ko": "반등하다; 다시 힘을 얻다"
+      },
+      {
+        "word": "restore",
+        "meaning_ko": "복구하다; 원상회복시키다"
+      },
+      {
+        "word": "recoup",
+        "meaning_ko": "손실을 만회하다; 비용을 회수하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "recover",
+        "meaning_ko": "회복하다; 회수하다"
+      },
+      {
+        "word": "regain",
+        "meaning_ko": "되찾다; 회복하다"
+      },
+      {
+        "word": "convalesce",
+        "meaning_ko": "병후 회복하다"
+      },
+      {
+        "word": "recoup",
+        "meaning_ko": "만회하다; 회수하다"
+      },
+      {
+        "word": "reclaim",
+        "meaning_ko": "되찾다; 회수하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "bounce back",
+        "meaning_ko": "금방 회복하다(구어)"
+      },
+      {
+        "word": "rally",
+        "meaning_ko": "기운을 차리다; 회복세를 보이다"
+      },
+      {
+        "word": "revive",
+        "meaning_ko": "되살리다; 기운을 되찾게 하다"
+      },
+      {
+        "word": "heal",
+        "meaning_ko": "치유되다; 낫다"
+      },
+      {
+        "word": "restore",
+        "meaning_ko": "복구하다; 되돌리다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deteriorate",
+        "meaning_ko": "악화되다"
+      },
+      {
+        "word": "decline",
+        "meaning_ko": "쇠퇴하다; 감소하다"
+      },
+      {
+        "word": "relapse",
+        "meaning_ko": "재발하다"
+      },
+      {
+        "word": "worsen",
+        "meaning_ko": "더 나빠지다"
+      },
+      {
+        "word": "weaken",
+        "meaning_ko": "약해지다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "recuperate from illness",
+            "meaning_ko": "병에서 회복하다"
+          },
+          {
+            "phrase": "need time to recuperate",
+            "meaning_ko": "회복할 시간이 필요하다"
+          },
+          {
+            "phrase": "recuperate at home",
+            "meaning_ko": "집에서 요양하며 회복하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "recuperate after surgery",
+            "meaning_ko": "수술 후 회복하다"
+          },
+          {
+            "phrase": "recuperate quickly/slowly",
+            "meaning_ko": "빨리/천천히 회복하다"
+          },
+          {
+            "phrase": "a place to recuperate",
+            "meaning_ko": "요양/회복하기 좋은 곳"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "recuperate losses",
+            "meaning_ko": "손실을 만회하다(문어)"
+          },
+          {
+            "phrase": "recuperate the cost of investment",
+            "meaning_ko": "투자 비용을 회수하다"
+          },
+          {
+            "phrase": "recuperate from emotional trauma",
+            "meaning_ko": "정서적 충격에서 회복하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He stayed home to recuperate.",
+            "meaning_ko": "그는 회복을 위해 집에서 쉬었다."
+          },
+          {
+            "sentence": "You need time to recuperate after a cold.",
+            "meaning_ko": "감기 뒤에는 회복할 시간이 필요하다."
+          },
+          {
+            "sentence": "She is recuperating at her sister’s house.",
+            "meaning_ko": "그녀는 언니 집에서 요양하며 회복 중이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The doctor advised him to recuperate from the surgery for at least two weeks.",
+            "meaning_ko": "의사는 수술 후 최소 2주간 회복에 전념하라고 조언했다."
+          },
+          {
+            "sentence": "A short break helped the team recuperate after a demanding schedule.",
+            "meaning_ko": "짧은 휴식이 빡빡한 일정 뒤 팀이 회복하는 데 도움이 됐다."
+          },
+          {
+            "sentence": "They built a quiet retreat where patients can recuperate in peace.",
+            "meaning_ko": "그들은 환자들이 조용히 회복할 수 있는 휴양 시설을 지었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The company raised prices to recuperate losses incurred during the supply-chain crisis.",
+            "meaning_ko": "그 회사는 공급망 위기 동안 발생한 손실을 만회하려고 가격을 인상했다."
+          },
+          {
+            "sentence": "Even after the verdict, it took years for the victims to recuperate from the emotional trauma.",
+            "meaning_ko": "판결 이후에도 피해자들이 정서적 충격에서 회복하는 데는 수년이 걸렸다."
+          },
+          {
+            "sentence": "To recuperate the cost of development, the studio licensed the engine to third parties.",
+            "meaning_ko": "개발비를 회수하기 위해 스튜디오는 엔진을 제3자에게 라이선스했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "recuperate는 ‘회복’이지만, recover보다 ‘회복 과정(요양/재정비)’ 느낌이 강합니다. 핵심 패턴은 recuperate from + 질병/수술/충격, recuperate after + 사건/기간입니다. 비용·손실을 ‘회수/만회’하는 뜻은 recoup과 세트로 기억해 두면 시험에서 구분하기 쉽습니다.",
+    "tags": [
+      "건강",
+      "회복",
+      "요양",
+      "비즈니스",
+      "손실 만회"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: After the flu, he needed a week to ____.",
+            "a": "recuperate",
+            "meaning_ko": "독감 뒤 ‘회복하다’가 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase is natural English?",
+            "a": "recuperate from surgery",
+            "meaning_ko": "recuperate는 보통 from과 함께 ‘~에서 회복하다’로 씁니다."
+          },
+          {
+            "q": "Fill in the blank: She is ____ at home after the accident.",
+            "a": "recuperating",
+            "meaning_ko": "진행형으로 ‘회복 중’ 상태를 자주 표현합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest meaning of 'recuperate' in this sentence: A two-day rest helped him recuperate.",
+            "a": "recover strength",
+            "meaning_ko": "휴식 후 기력을 되찾는 의미입니다."
+          },
+          {
+            "q": "Choose the best preposition: The athletes recuperated ____ a grueling match.",
+            "a": "after",
+            "meaning_ko": "사건/기간 뒤 회복은 after가 자연스럽습니다."
+          },
+          {
+            "q": "Which option best fits a formal business context?",
+            "a": "recuperate losses",
+            "meaning_ko": "손실 ‘만회/회수’는 문어적 용례로 자주 출제됩니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite without changing meaning: The firm tried to recoup its investment cost.",
+            "a": "The firm tried to recuperate the cost of its investment.",
+            "meaning_ko": "recoup과 recuperate(비용 회수) 용법을 연결하는 문제입니다."
+          },
+          {
+            "q": "Choose the sentence where 'recuperate' is used incorrectly.",
+            "a": "She recuperated into a new job within a day.",
+            "meaning_ko": "recuperate는 into와 결합해 ‘~로 회복하다’처럼 쓰지 않습니다."
+          },
+          {
+            "q": "Fill in the blank with ONE best choice: It took him months to recuperate ____ the shock of the accident.",
+            "a": "from",
+            "meaning_ko": "정신적 충격에서도 recuperate from이 표준 패턴입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "perennial",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Lasting for a very long time; continuing or recurring over many years.",
+        "definition_ko": "오랫동안 계속되는, 해마다 되풀이되는.",
+        "note": "perennial problem/issue처럼 ‘늘 있는’ 느낌으로 자주 씁니다."
+      },
+      {
+        "definition_en": "Of a plant: living for more than two years, typically flowering each year after maturity.",
+        "definition_ko": "(식물) 여러 해를 사는, 다년생의.",
+        "note": "명사로는 ‘다년생 식물’ 자체를 가리킬 수 있습니다."
+      }
+    ],
+    "concept": "시간 축에서 ‘몇 년을 관통해 계속 존재하는 것(늘 반복되거나 지속됨)’.",
+    "etymology": "라틴어 perennis(‘여러 해에 걸친’)에서 왔고, per(통해) + annus(해) 계열 어근의 결합으로 이해할 수 있습니다.",
+    "semanticExtension": "식물학의 ‘다년생’ 의미에서 출발해, 문제·인기·논쟁처럼 ‘해마다 되풀이/상시 존재’하는 추상 개념으로 넓게 쓰입니다.",
+    "nuanceRegister": "격식/문어 성향. 기사·학술·비평에서 ‘늘 존재하는’ 문제를 말할 때 자주 사용됩니다.",
+    "grammarNotes": "형용사로는 명사 앞(perennial issue) 또는 보어(perennial in ...)로 씁니다. 명사로는 countable: a perennial(다년생 식물).",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사 용법) / 해당 없음(형용사 용법)",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(분야/집단 내에서) 늘 반복되는",
+        "example": "a perennial problem in education"
+      }
+    ],
+    "requiredComplements": [
+      "perennial + noun(issue/problem/favorite 등): 늘 있는/해마다 반복되는 ~",
+      "a perennial problem in + 분야/장소: ~에서 늘 반복되는 문제",
+      "a perennial (명사): 다년생 식물"
+    ],
+    "morphology": "per- (through) + -ennial(연 단위/해에 관련된 느낌). ‘여러 해를 관통하는’ 이미지를 잡으면 의미가 고정됩니다.",
+    "derivatives": [
+      {
+        "word": "perennially",
+        "meaning_ko": "늘, 상시(부사)"
+      },
+      {
+        "word": "perennial",
+        "meaning_ko": "오래 지속되는; 다년생(형/명)"
+      },
+      {
+        "word": "perennity",
+        "meaning_ko": "영속성(드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "evergreen",
+        "meaning_ko": "상록의; 늘 인기 있는"
+      },
+      {
+        "word": "enduring",
+        "meaning_ko": "지속되는"
+      },
+      {
+        "word": "persistent",
+        "meaning_ko": "끈질긴; 지속되는"
+      },
+      {
+        "word": "recurring",
+        "meaning_ko": "되풀이되는"
+      },
+      {
+        "word": "annual",
+        "meaning_ko": "1년생의; 매년의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "enduring",
+        "meaning_ko": "오래 지속되는"
+      },
+      {
+        "word": "longstanding",
+        "meaning_ko": "오랜 기간 계속된"
+      },
+      {
+        "word": "persistent",
+        "meaning_ko": "지속되는; 끈질긴"
+      },
+      {
+        "word": "everlasting",
+        "meaning_ko": "영원한(과장/문학적)"
+      },
+      {
+        "word": "constant",
+        "meaning_ko": "끊임없는; 변함없는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "chronic",
+        "meaning_ko": "만성적인; 늘 반복되는(문맥 주의)"
+      },
+      {
+        "word": "continual",
+        "meaning_ko": "거의 끊이지 않는"
+      },
+      {
+        "word": "recurrent",
+        "meaning_ko": "재발/반복되는"
+      },
+      {
+        "word": "ever-present",
+        "meaning_ko": "늘 존재하는"
+      },
+      {
+        "word": "habitual",
+        "meaning_ko": "습관적인; 상습적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "temporary",
+        "meaning_ko": "일시적인"
+      },
+      {
+        "word": "short-lived",
+        "meaning_ko": "수명이 짧은"
+      },
+      {
+        "word": "fleeting",
+        "meaning_ko": "덧없는"
+      },
+      {
+        "word": "ephemeral",
+        "meaning_ko": "수명이 매우 짧은(격식)"
+      },
+      {
+        "word": "annual",
+        "meaning_ko": "1년생의(식물 문맥)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a perennial favorite",
+            "meaning_ko": "늘 인기 있는 것"
+          },
+          {
+            "phrase": "a perennial problem",
+            "meaning_ko": "늘 반복되는 문제"
+          },
+          {
+            "phrase": "perennial flowers",
+            "meaning_ko": "다년생 꽃(류)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a perennial issue in politics",
+            "meaning_ko": "정치에서 늘 나오는 이슈"
+          },
+          {
+            "phrase": "perennial plants",
+            "meaning_ko": "다년생 식물"
+          },
+          {
+            "phrase": "the perennial question of",
+            "meaning_ko": "~라는 ‘단골 질문’"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a perennial source of controversy",
+            "meaning_ko": "늘 논란의 불씨가 되는 것"
+          },
+          {
+            "phrase": "the perennial tension between A and B",
+            "meaning_ko": "A와 B 사이의 상시적 긴장"
+          },
+          {
+            "phrase": "perennial constraints on growth",
+            "meaning_ko": "성장을 가로막는 구조적·지속적 제약"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "This song is a perennial favorite.",
+            "meaning_ko": "이 노래는 늘 인기 있는 곡이다."
+          },
+          {
+            "sentence": "We face the perennial problem of traffic.",
+            "meaning_ko": "우리는 늘 교통 문제를 겪는다."
+          },
+          {
+            "sentence": "Perennials come back year after year.",
+            "meaning_ko": "다년생 식물은 해마다 다시 자란다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Funding has been a perennial issue in public education.",
+            "meaning_ko": "재정은 공교육에서 늘 문제였다."
+          },
+          {
+            "sentence": "She planted perennials so the garden would look full every spring.",
+            "meaning_ko": "그녀는 매년 봄 정원이 풍성해 보이도록 다년생을 심었다."
+          },
+          {
+            "sentence": "The perennial question of privacy versus security keeps resurfacing.",
+            "meaning_ko": "사생활과 안전의 균형이라는 단골 질문이 계속 다시 떠오른다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The report highlights perennial constraints on productivity, including aging infrastructure.",
+            "meaning_ko": "그 보고서는 노후 인프라 등을 포함한 생산성의 지속적 제약을 강조한다."
+          },
+          {
+            "sentence": "Inflation became a perennial source of political controversy, shaping each election cycle.",
+            "meaning_ko": "인플레이션은 매 선거 주기를 좌우하는 상시적 정치 논란의 불씨가 됐다."
+          },
+          {
+            "sentence": "Their collaboration endures despite the perennial tension between artistic freedom and deadlines.",
+            "meaning_ko": "그들의 협업은 예술적 자유와 마감 사이의 상시적 긴장에도 불구하고 지속된다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "perennial은 ‘여러 해(per + year) 동안 계속되는’ 이미지를 잡으면 흔들리지 않습니다. perennial problem/issue/favorite처럼 시험에서 고정 결합으로 자주 나오고, 식물 문맥에서는 annual(1년생)과 대비해 기억하면 좋습니다. chronic은 ‘만성적’으로 부정 뉘앙스가 더 강할 수 있으니 문맥 구분도 같이 연습하세요.",
+    "tags": [
+      "시간",
+      "지속",
+      "사회 이슈",
+      "식물",
+      "문어 어휘"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: Noise is a ____ complaint in this neighborhood.",
+            "a": "perennial",
+            "meaning_ko": "늘 반복되는 불만 = perennial complaint."
+          },
+          {
+            "q": "Which is the best meaning of 'perennial favorite'?",
+            "a": "something that is always popular",
+            "meaning_ko": "항상 인기 있는 것을 뜻합니다."
+          },
+          {
+            "q": "Fill in the blank: A ____ plant lives for more than two years.",
+            "a": "perennial",
+            "meaning_ko": "다년생 식물의 정의입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest synonym for 'perennial' (in 'a perennial issue').",
+            "a": "longstanding",
+            "meaning_ko": "오랜 기간 계속된 이슈라는 의미입니다."
+          },
+          {
+            "q": "Choose the best contrast: annual : perennial = one-year : ____",
+            "a": "multi-year",
+            "meaning_ko": "식물 문맥에서 annual(1년생) ↔ perennial(다년생)."
+          },
+          {
+            "q": "Complete naturally: Funding is a perennial problem ____ healthcare.",
+            "a": "in",
+            "meaning_ko": "분야/영역 안에서 ‘늘 반복되는’ 문제는 in이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best wording for an academic tone: 'This always happens in elections.'",
+            "a": "This is a perennial feature of election cycles.",
+            "meaning_ko": "perennial + feature는 문어적·학술적 표현으로 좋습니다."
+          },
+          {
+            "q": "Identify the incorrect usage.",
+            "a": "He is perennial to arrive late.",
+            "meaning_ko": "perennial은 이런 구조(=to부정사)로 쓰지 않습니다."
+          },
+          {
+            "q": "Fill in the blank: The paper examines the perennial tension between innovation and regulation.",
+            "a": "tension",
+            "meaning_ko": "perennial과 잘 결합하는 추상명사(문어)로 tension이 적합합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shrewd",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Having or showing sharp judgment and practical intelligence; astute.",
+        "definition_ko": "판단이 빠르고 현실 감각이 있는, 영리한(약삭빠른).",
+        "note": "상황 판단·거래·협상에서 ‘눈치 좋고 계산이 선’ 느낌이 날 수 있습니다."
+      },
+      {
+        "definition_en": "Showing keen awareness or insight, especially in observation or evaluation.",
+        "definition_ko": "통찰력 있는, 예리한(관찰·평가가 날카로운).",
+        "note": "shrewd look/remark처럼 ‘예리한’ 뉘앙스로도 자주 쓰입니다."
+      }
+    ],
+    "concept": "현실을 잘 읽고 ‘손해 안 보게’ 예리하게 판단하는 실전형 영리함.",
+    "etymology": "중세 영어에서 ‘사납다/악의적이다’ 쪽 의미로 쓰이던 어휘가, 시간이 지나 ‘빈틈을 잘 간파하는’ 방향으로 의미가 이동해 ‘영리한/예리한’ 뜻이 굳어졌습니다.",
+    "semanticExtension": "단순히 머리가 좋은 것(=intelligent)보다, 사람·상황을 읽어 이득/리스크를 계산하는 ‘실용적 통찰’ 의미가 강해집니다.",
+    "nuanceRegister": "중립~약간 긍정. 다만 문맥에 따라 ‘약삭빠른/계산적인’ 뉘앙스가 섞일 수 있어, 칭찬/평가 표현에서 톤 조절이 필요합니다.",
+    "grammarNotes": "형용사로 사람/판단/평가/표정에 두루 붙습니다. shrewd in/at/about 같은 전치사 결합이 가능하고, shrewd enough to V도 자주 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에(분야) 능숙하고 판단이 예리한",
+        "example": "shrewd in business"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "~을(행위) 잘하고 약삭빠른",
+        "example": "shrewd at bargaining"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 통찰력 있는",
+        "example": "shrewd about people"
+      }
+    ],
+    "requiredComplements": [
+      "be shrewd in + 분야: ~에 능하고 판단이 빠르다",
+      "be shrewd at + 행위(협상/거래 등): ~을 잘한다(약삭빠르다)",
+      "shrewd enough to + 동사원형: ~할 만큼 영리하다"
+    ],
+    "morphology": "현대 영어에서는 별도의 접두사/접미사 분석보다 ‘예리한 현실 판단’이라는 덩어리 의미로 암기하는 편이 안정적입니다.",
+    "derivatives": [
+      {
+        "word": "shrewdly",
+        "meaning_ko": "영리하게; 예리하게(부사)"
+      },
+      {
+        "word": "shrewdness",
+        "meaning_ko": "영리함; 예리함(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "astute",
+        "meaning_ko": "통찰력 있는; 영리한(격식)"
+      },
+      {
+        "word": "savvy",
+        "meaning_ko": "실용 감각 있는(구어)"
+      },
+      {
+        "word": "canny",
+        "meaning_ko": "영리한; 빈틈없는(특히 절약/계산)"
+      },
+      {
+        "word": "perceptive",
+        "meaning_ko": "통찰력 있는(사람/상황 파악)"
+      },
+      {
+        "word": "calculating",
+        "meaning_ko": "계산적인(부정 뉘앙스 가능)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "astute",
+        "meaning_ko": "영리한; 통찰력 있는"
+      },
+      {
+        "word": "sharp",
+        "meaning_ko": "예리한; 빈틈없는"
+      },
+      {
+        "word": "canny",
+        "meaning_ko": "약삭빠른; 영리한"
+      },
+      {
+        "word": "savvy",
+        "meaning_ko": "감각 있는; 요령 있는"
+      },
+      {
+        "word": "perceptive",
+        "meaning_ko": "통찰력 있는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "clever",
+        "meaning_ko": "똑똑한(범용)"
+      },
+      {
+        "word": "wise",
+        "meaning_ko": "현명한(도덕/경험 포함)"
+      },
+      {
+        "word": "prudent",
+        "meaning_ko": "신중한; 분별 있는"
+      },
+      {
+        "word": "tactical",
+        "meaning_ko": "전략적인(행동 선택)"
+      },
+      {
+        "word": "calculating",
+        "meaning_ko": "계산적인(부정 가능)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "naive",
+        "meaning_ko": "순진한; 세상물정 모르는"
+      },
+      {
+        "word": "gullible",
+        "meaning_ko": "쉽게 속는"
+      },
+      {
+        "word": "foolish",
+        "meaning_ko": "어리석은"
+      },
+      {
+        "word": "obtuse",
+        "meaning_ko": "둔감한; 둔한"
+      },
+      {
+        "word": "unworldly",
+        "meaning_ko": "세상 물정 모르는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a shrewd businessman",
+            "meaning_ko": "약삭빠르고 영리한 사업가"
+          },
+          {
+            "phrase": "a shrewd decision",
+            "meaning_ko": "현명한(실리 있는) 결정"
+          },
+          {
+            "phrase": "a shrewd remark",
+            "meaning_ko": "예리한 발언"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a shrewd observer",
+            "meaning_ko": "관찰이 예리한 사람"
+          },
+          {
+            "phrase": "a shrewd assessment",
+            "meaning_ko": "날카로운 평가/분석"
+          },
+          {
+            "phrase": "make a shrewd investment",
+            "meaning_ko": "영리한 투자를 하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a shrewd grasp of human nature",
+            "meaning_ko": "인간 본성에 대한 예리한 통찰"
+          },
+          {
+            "phrase": "a shrewd reading of the market",
+            "meaning_ko": "시장에 대한 날카로운 해석"
+          },
+          {
+            "phrase": "shrewd enough to exploit loopholes",
+            "meaning_ko": "허점을 이용할 만큼 영리한(문맥 주의)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She made a shrewd choice.",
+            "meaning_ko": "그녀는 영리한 선택을 했다."
+          },
+          {
+            "sentence": "He is a shrewd businessman.",
+            "meaning_ko": "그는 약삭빠르고 영리한 사업가다."
+          },
+          {
+            "sentence": "That was a shrewd remark.",
+            "meaning_ko": "그건 예리한 말이었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The manager gave a shrewd assessment of the risks.",
+            "meaning_ko": "그 매니저는 위험을 날카롭게 평가했다."
+          },
+          {
+            "sentence": "She’s shrewd about people and can tell when someone is bluffing.",
+            "meaning_ko": "그녀는 사람을 보는 눈이 있어 누가 허세를 부리는지 알아챈다."
+          },
+          {
+            "sentence": "He was shrewd at negotiating, but he stayed polite.",
+            "meaning_ko": "그는 협상에 능했지만 예의를 지켰다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Her shrewd reading of the market allowed the firm to pivot before the downturn hit.",
+            "meaning_ko": "그녀의 시장에 대한 예리한 판단 덕분에 회사는 침체가 오기 전에 방향 전환을 할 수 있었다."
+          },
+          {
+            "sentence": "A shrewd observer would notice that the proposal shifts costs without reducing them.",
+            "meaning_ko": "예리한 관찰자라면 그 제안이 비용을 줄이기보다 전가한다는 점을 알아챌 것이다."
+          },
+          {
+            "sentence": "His argument sounded moral, but the timing was shrewd, aimed at maximizing leverage.",
+            "meaning_ko": "그의 주장은 도덕적으로 들렸지만, 타이밍은 지렛대를 극대화하려는 계산된 선택이었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "shrewd는 단순히 ‘똑똑한’이 아니라 ‘실리/상황 판단이 빠른’ 뉘앙스가 핵심입니다(=astute, canny). 칭찬으로 쓸 때는 shrewd decision/investment처럼 ‘판단/결정’에 붙이면 부정 뉘앙스가 줄어듭니다. 사람에게 직접 붙이면 ‘약삭빠른/계산적인’ 느낌이 섞일 수 있어 문맥을 점검하세요.",
+    "tags": [
+      "성격",
+      "판단",
+      "비즈니스",
+      "협상",
+      "통찰"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: She made a ____ decision to save money early.",
+            "a": "shrewd",
+            "meaning_ko": "실리 있는 ‘영리한 결정’에 shrewd가 잘 맞습니다."
+          },
+          {
+            "q": "Which is closest in meaning to 'shrewd'?",
+            "a": "astute",
+            "meaning_ko": "astute는 shrewd의 대표 동의어입니다."
+          },
+          {
+            "q": "Fill in the blank: He gave a ____ comment that everyone missed.",
+            "a": "shrewd",
+            "meaning_ko": "예리한 코멘트(remark/comment)에 shrewd가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: She is shrewd ____ people and rarely gets fooled.",
+            "a": "about",
+            "meaning_ko": "사람/상황을 보는 눈은 shrewd about이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the sentence that sounds most natural.",
+            "a": "He is shrewd at bargaining.",
+            "meaning_ko": "특정 행동(흥정/협상)에 ‘능하다’는 at이 잘 어울립니다."
+          },
+          {
+            "q": "In this context, what does 'shrewd' imply? 'a shrewd investor'",
+            "a": "someone who makes smart, practical choices",
+            "meaning_ko": "현실 감각 있는 판단을 강조합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the option that best keeps the meaning: 'Her analysis was shrewd.'",
+            "a": "Her analysis showed sharp practical judgment.",
+            "meaning_ko": "shrewd의 핵심은 ‘예리한 현실 판단’입니다."
+          },
+          {
+            "q": "Identify the sentence where 'shrewd' carries a slightly negative nuance.",
+            "a": "He was shrewd enough to exploit loopholes.",
+            "meaning_ko": "허점 이용처럼 ‘계산적인’ 뉘앙스가 강해질 수 있습니다."
+          },
+          {
+            "q": "Fill in the blank with ONE best choice: A shrewd reading of the market helped them ____ losses.",
+            "a": "avoid",
+            "meaning_ko": "시장 판단으로 손실을 ‘피하다/줄이다’가 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,991 @@
+[
+  {
+    "word": "vacumn",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A space entirely or partly empty of matter; a region of very low pressure.",
+        "definition_ko": "물질이 없거나 거의 없는 공간, 즉 (거의) 진공 상태.",
+        "note": "표준 철자는 보통 vacuum이며, 문맥상 동일 의미로 쓰입니다."
+      },
+      {
+        "definition_en": "A situation in which something is lacking, especially leadership, authority, or information.",
+        "definition_ko": "리더십·권위·정보 등이 비어 생기는 공백 상태.",
+        "note": "power vacuum(권력 공백)처럼 비유적으로 매우 자주 씁니다."
+      },
+      {
+        "definition_en": "A device or process that removes air or dirt by suction.",
+        "definition_ko": "흡입으로 공기나 먼지를 빨아들이는 장치/작용(진공청소기 등).",
+        "note": "동사 vacuum(청소기로 빨아들이다)과 의미가 연결됩니다."
+      }
+    ],
+    "concept": "비어 있음이 만들어내는 ‘공백’(물리적 진공이든, 권력·정보의 공백이든)을 가리키는 말.",
+    "etymology": "라틴어 vacuus(‘비어 있는’)에서 온 vacuum이 어원이며, ‘빈 공간’이라는 핵심 의미가 물리학·일상·비유로 확장되었습니다. vacumn은 흔한 오기(오타) 형태로 보입니다.",
+    "semanticExtension": "‘아무것도 없는 공간’ → ‘무언가가 결여된 상태(권력·리더십·정보 공백)’로 비유가 확장되어 power vacuum, vacuum of authority 같은 표현이 생겼습니다.",
+    "nuanceRegister": "물리·공학에서는 전문적/중립적, 사회·정치 문맥에서는 다소 격식 있게 ‘공백’의 뉘앙스로 씁니다. 관용구 in a vacuum은 학술/논설에서 매우 흔합니다.",
+    "grammarNotes": "명사로는 a vacuum(가산) / in a vacuum(관용구)처럼 쓰이고, 물리 의미로는 불가산처럼도 씁니다. ‘권력 공백’은 power vacuum이 가장 대표적입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "고립된/독립된 상태에서(현실 맥락을 떼어 놓고)",
+        "example": "judge a policy in a vacuum"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~이 결여된 상태의 공백",
+        "example": "a vacuum of leadership"
+      },
+      {
+        "prep": "within",
+        "meaning_ko": "~안에서 생긴 공백(조직/시스템 내부)",
+        "example": "a vacuum within the party"
+      }
+    ],
+    "requiredComplements": [
+      "a vacuum of + 명사: ‘~이 결여된 공백’ (예: a vacuum of authority)",
+      "a vacuum in + 영역/조직: ‘~에서의 공백’ (예: a vacuum in governance)",
+      "in a vacuum: ‘맥락 없이/현실을 떼어 놓고’(관용구)"
+    ],
+    "morphology": "어근 vacu-(empty, 비어 있음) + (명사형) -um. 관련 형용사 vacuous(텅 빈), 명사 vacuity(공허)와 어근을 공유합니다.",
+    "derivatives": [
+      {
+        "word": "vacuum",
+        "meaning_ko": "진공; 공백(표준 철자)"
+      },
+      {
+        "word": "vacuous",
+        "meaning_ko": "내용이 빈; 공허한"
+      },
+      {
+        "word": "vacuity",
+        "meaning_ko": "공허(함); 텅 빔"
+      },
+      {
+        "word": "evacuate",
+        "meaning_ko": "대피시키다; 비우다"
+      },
+      {
+        "word": "vacuum-seal",
+        "meaning_ko": "진공 포장하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "void",
+        "meaning_ko": "공허; 빈 공간"
+      },
+      {
+        "word": "absence",
+        "meaning_ko": "부재; 없음"
+      },
+      {
+        "word": "emptiness",
+        "meaning_ko": "텅 빔; 공허"
+      },
+      {
+        "word": "gap",
+        "meaning_ko": "틈; 격차; 공백"
+      },
+      {
+        "word": "suction",
+        "meaning_ko": "흡입(력)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "void",
+        "meaning_ko": "공허; 빈 공간"
+      },
+      {
+        "word": "absence",
+        "meaning_ko": "부재; 결여"
+      },
+      {
+        "word": "emptiness",
+        "meaning_ko": "텅 빔"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "gap",
+        "meaning_ko": "틈; 공백"
+      },
+      {
+        "word": "shortage",
+        "meaning_ko": "부족"
+      },
+      {
+        "word": "blank",
+        "meaning_ko": "빈칸; 공란"
+      },
+      {
+        "word": "deficit",
+        "meaning_ko": "적자; 결손"
+      },
+      {
+        "word": "lacuna",
+        "meaning_ko": "(글/기록의) 공백, 누락"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fullness",
+        "meaning_ko": "가득 참"
+      },
+      {
+        "word": "presence",
+        "meaning_ko": "존재; 현존"
+      },
+      {
+        "word": "abundance",
+        "meaning_ko": "풍부함"
+      },
+      {
+        "word": "completeness",
+        "meaning_ko": "완전함"
+      },
+      {
+        "word": "plenty",
+        "meaning_ko": "충분함"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "vacuum cleaner",
+            "meaning_ko": "진공청소기"
+          },
+          {
+            "phrase": "create a vacuum",
+            "meaning_ko": "진공을 만들다 / 공백을 만들다"
+          },
+          {
+            "phrase": "vacuum seal",
+            "meaning_ko": "진공 포장(하다)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "power vacuum",
+            "meaning_ko": "권력 공백"
+          },
+          {
+            "phrase": "vacuum pump",
+            "meaning_ko": "진공 펌프"
+          },
+          {
+            "phrase": "vacuum chamber",
+            "meaning_ko": "진공 챔버"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a vacuum of authority",
+            "meaning_ko": "권위/통치의 공백"
+          },
+          {
+            "phrase": "in a vacuum",
+            "meaning_ko": "맥락 없이; 고립된 상태로"
+          },
+          {
+            "phrase": "fill the vacuum",
+            "meaning_ko": "공백을 메우다(세력이 들어서다)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I used a vacuum cleaner to clean the living room.",
+            "meaning_ko": "나는 거실을 청소하려고 진공청소기를 썼다."
+          },
+          {
+            "sentence": "The bottle keeps the food fresh by creating a vacuum.",
+            "meaning_ko": "그 병은 진공을 만들어 음식이 신선하게 유지되게 한다."
+          },
+          {
+            "sentence": "There was a strange silence, like a vacuum, after the announcement.",
+            "meaning_ko": "발표 뒤에는 진공 같은 이상한 침묵이 흘렀다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "After the chairman resigned, a power vacuum formed in the committee.",
+            "meaning_ko": "위원장이 사임한 뒤 위원회에는 권력 공백이 생겼다."
+          },
+          {
+            "sentence": "In a vacuum, the plan sounds reasonable, but real budgets are messy.",
+            "meaning_ko": "맥락 없이 보면 그 계획은 그럴듯하지만, 현실 예산은 복잡하다."
+          },
+          {
+            "sentence": "The sample must be stored in a vacuum chamber to prevent oxidation.",
+            "meaning_ko": "산화를 막기 위해 시료는 진공 챔버에 보관되어야 한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Policy cannot be evaluated in a vacuum; incentives and trade-offs matter.",
+            "meaning_ko": "정책은 맥락 없이 평가할 수 없고, 유인과 상충관계가 중요하다."
+          },
+          {
+            "sentence": "The collapse of the old regime left a vacuum of legitimacy that radicals exploited.",
+            "meaning_ko": "구체제의 붕괴는 정당성의 공백을 남겼고, 급진 세력이 이를 악용했다."
+          },
+          {
+            "sentence": "Even ‘empty’ space is not truly empty—physics predicts vacuum fluctuations.",
+            "meaning_ko": "‘빈’ 공간도 완전히 비어 있지 않으며, 물리학은 진공 요동을 예측한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "이 표제어 vacumn은 흔한 오기 형태이고, 표준 철자는 vacuum입니다. 시험/작문에서는 vacuum을 쓰는 게 안전합니다. 관용구 in a vacuum(맥락 없이)과 power vacuum(권력 공백)을 세트로 외우면 비유 용법을 빠르게 잡을 수 있습니다.",
+    "tags": [
+      "물리",
+      "사회·정치",
+      "공백",
+      "학술 표현",
+      "관용구"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning of 'vacumn' (vacuum). \nA) noise \nB) empty space with little or no matter \nC) celebration \nD) permission",
+            "a": "B",
+            "meaning_ko": "vacuum은 ‘(거의) 비어 있는 공간/진공’을 뜻합니다."
+          },
+          {
+            "q": "Fill in the blank: I bought a new ______ cleaner.",
+            "a": "vacuum",
+            "meaning_ko": "가장 기본 연어는 vacuum cleaner(진공청소기)입니다."
+          },
+          {
+            "q": "Correct the phrase: \"This decision was made in vacuum.\"",
+            "a": "This decision was made in a vacuum.",
+            "meaning_ko": "관용구는 in a vacuum처럼 관사가 들어가는 형태가 일반적입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which phrase best fits the meaning 'a lack of leadership'? \nA) vacuum pump \nB) power vacuum \nC) vacuum seal \nD) vacuum tube",
+            "a": "B",
+            "meaning_ko": "power vacuum은 ‘권력/리더십 공백’의 고정 표현입니다."
+          },
+          {
+            "q": "Fill in the blank: The scandal left a vacuum ___ trust between the two teams.",
+            "a": "of",
+            "meaning_ko": "a vacuum of + 명사는 ‘~의 결여’라는 비유적 구조로 자주 씁니다."
+          },
+          {
+            "q": "Choose the best rewrite: \"Considered in isolation, the proposal looks fine.\"",
+            "a": "In a vacuum, the proposal looks fine.",
+            "meaning_ko": "in a vacuum은 ‘고립된 상태로/맥락 없이’라는 뜻을 자연스럽게 전달합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading: \"When institutions weaken, informal actors rush in to fill the vacuum.\" What does 'fill the vacuum' imply?",
+            "a": "They take over the missing role or authority.",
+            "meaning_ko": "공백을 ‘메우다’는 것은 기존에 없어진 역할/권위를 누군가가 대신 차지한다는 의미입니다."
+          },
+          {
+            "q": "Choose the sentence where 'vacuum' is used metaphorically. \nA) The pump created a vacuum in the chamber. \nB) She vacuumed the rug. \nC) His departure created a vacuum in the team. \nD) The jar has a vacuum seal.",
+            "a": "C",
+            "meaning_ko": "C는 ‘사람이 빠져 생긴 공백’을 비유로 표현합니다."
+          },
+          {
+            "q": "Fill in the blank with the best option: \"Any ethical analysis done ___ a vacuum risks ignoring real-world constraints.\"",
+            "a": "in",
+            "meaning_ko": "in a vacuum(맥락 없이) 구조를 만드는 전치사는 in입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abbreviate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To shorten a word, phrase, or name by using fewer letters.",
+        "definition_ko": "단어나 구를 더 짧게 줄여 쓰다(약어로 만들다).",
+        "note": "be abbreviated as/to 패턴이 매우 자주 나옵니다."
+      },
+      {
+        "definition_en": "To make something shorter in time or length; to reduce.",
+        "definition_ko": "시간·길이·내용을 줄여 축약하다.",
+        "note": "글/보고서/절차를 ‘간단히 줄이다’는 뜻으로도 씁니다."
+      }
+    ],
+    "concept": "길거나 복잡한 것을 ‘짧은 형태’로 만들어 표기·전달을 쉽게 하는 동사.",
+    "etymology": "라틴어 brevis(‘짧은’)와 관련된 abbreviatus(‘짧게 된’)에서 왔으며, ‘짧게 만들다’라는 중심 의미가 글쓰기·표기 규칙으로 고정되었습니다.",
+    "semanticExtension": "원래는 단어를 줄이는 의미가 중심이지만, 절차·설명·기간을 줄여 ‘간단화하다’라는 의미로도 자연스럽게 확장됩니다.",
+    "nuanceRegister": "격식/학술/문서 작성에서 많이 쓰이며, 일상에서도 이름·표현을 줄일 때 사용합니다. 줄임말을 ‘만드는 행위’에 초점이 있습니다.",
+    "grammarNotes": "주로 타동사로 쓰며, 수동태 be abbreviated to/as가 매우 흔합니다. 패턴: abbreviate A to B / abbreviate A as B.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "A를 B로 줄여 쓰다(형태 변화의 도착점)",
+        "example": "abbreviate 'department' to 'dept.'"
+      },
+      {
+        "prep": "as",
+        "meaning_ko": "A를 B로 약칭하다(표기/호칭)",
+        "example": "The term is abbreviated as 'AI'."
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "특정 문서/텍스트 안에서 ~로 약기하다",
+        "example": "abbreviated in the paper as 'Fig.'"
+      }
+    ],
+    "requiredComplements": [
+      "abbreviate A to B: A를 B로 축약하다(예: abbreviate 'January' to 'Jan.')",
+      "abbreviate A as B: A를 B로 약칭/약기하다(예: be abbreviated as 'AI')",
+      "be abbreviated + to/as + 형태: 수동태로 약어 표기를 설명할 때 가장 자연스럽습니다."
+    ],
+    "morphology": "ab-(away/off, 줄여) + brevi-(short, 짧은) + -ate(동사화). ‘짧게 만들다’라는 구조가 형태에 그대로 드러납니다.",
+    "derivatives": [
+      {
+        "word": "abbreviation",
+        "meaning_ko": "약어; 축약"
+      },
+      {
+        "word": "abbreviated",
+        "meaning_ko": "축약된; 약식의"
+      },
+      {
+        "word": "abbr.",
+        "meaning_ko": "abbreviation의 약기"
+      },
+      {
+        "word": "abridge",
+        "meaning_ko": "(책/글을) 축약하다"
+      },
+      {
+        "word": "brevity",
+        "meaning_ko": "간결함; 짧음"
+      }
+    ],
+    "related": [
+      {
+        "word": "acronym",
+        "meaning_ko": "두문자어(하나의 단어처럼 발음되는 약어)"
+      },
+      {
+        "word": "initialism",
+        "meaning_ko": "머리글자 약어(글자 하나씩 읽는 약어)"
+      },
+      {
+        "word": "shorthand",
+        "meaning_ko": "속기; 약식 표기"
+      },
+      {
+        "word": "notation",
+        "meaning_ko": "표기법"
+      },
+      {
+        "word": "citation",
+        "meaning_ko": "인용; 참고문헌 표기"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "shorten",
+        "meaning_ko": "짧게 하다"
+      },
+      {
+        "word": "condense",
+        "meaning_ko": "요약/압축하다"
+      },
+      {
+        "word": "abridge",
+        "meaning_ko": "(내용을) 축약하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "contract",
+        "meaning_ko": "줄이다; (문법) 축약형을 만들다"
+      },
+      {
+        "word": "truncate",
+        "meaning_ko": "끝을 잘라 줄이다"
+      },
+      {
+        "word": "clip",
+        "meaning_ko": "(비격식) 잘라내다; 줄이다"
+      },
+      {
+        "word": "compress",
+        "meaning_ko": "압축하다"
+      },
+      {
+        "word": "simplify",
+        "meaning_ko": "단순화하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lengthen",
+        "meaning_ko": "길게 하다"
+      },
+      {
+        "word": "expand",
+        "meaning_ko": "확장하다"
+      },
+      {
+        "word": "elaborate",
+        "meaning_ko": "자세히 설명하다"
+      },
+      {
+        "word": "spell out",
+        "meaning_ko": "철자를 다 써서 쓰다; 자세히 말하다"
+      },
+      {
+        "word": "extend",
+        "meaning_ko": "연장하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "abbreviate a word",
+            "meaning_ko": "단어를 축약하다"
+          },
+          {
+            "phrase": "abbreviate a name",
+            "meaning_ko": "이름을 줄여 부르다/쓰다"
+          },
+          {
+            "phrase": "common abbreviation",
+            "meaning_ko": "흔한 약어"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "be abbreviated to",
+            "meaning_ko": "~로 줄여 쓰이다"
+          },
+          {
+            "phrase": "be abbreviated as",
+            "meaning_ko": "~로 약칭/약기되다"
+          },
+          {
+            "phrase": "standard abbreviations",
+            "meaning_ko": "표준 약어들"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "abbreviate for convenience",
+            "meaning_ko": "편의를 위해 축약하다"
+          },
+          {
+            "phrase": "abbreviate a complex argument",
+            "meaning_ko": "복잡한 논지를 축약하다"
+          },
+          {
+            "phrase": "abbreviated form in citations",
+            "meaning_ko": "인용에서의 축약 표기"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We often abbreviate 'telephone' to 'tel.'",
+            "meaning_ko": "우리는 종종 telephone을 tel.로 줄여 씁니다."
+          },
+          {
+            "sentence": "Please abbreviate your address on the form.",
+            "meaning_ko": "서식에는 주소를 줄여 적어 주세요."
+          },
+          {
+            "sentence": "She abbreviates her middle name to just an initial.",
+            "meaning_ko": "그녀는 미들네임을 머리글자 하나로만 줄여 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The journal title is abbreviated in the reference list.",
+            "meaning_ko": "학술지 제목은 참고문헌 목록에서 축약 표기됩니다."
+          },
+          {
+            "sentence": "The term is usually abbreviated as 'AI' in this report.",
+            "meaning_ko": "이 보고서에서는 그 용어를 보통 AI로 약기합니다."
+          },
+          {
+            "sentence": "To fit the slide, he abbreviated the explanation to two lines.",
+            "meaning_ko": "슬라이드에 맞추기 위해 그는 설명을 두 줄로 줄였다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The editor abbreviated the passage without changing its core meaning.",
+            "meaning_ko": "편집자는 핵심 의미를 바꾸지 않고 그 구절을 축약했다."
+          },
+          {
+            "sentence": "In policy memos, abbreviating deliberation into bullet points can hide real trade-offs.",
+            "meaning_ko": "정책 메모에서 숙고의 과정을 불릿으로 축약하면 실제 상충관계가 가려질 수 있다."
+          },
+          {
+            "sentence": "The author refused to abbreviate technical terms, prioritizing precision over brevity.",
+            "meaning_ko": "저자는 간결함보다 정확성을 우선하며 전문 용어를 축약하지 않기로 했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "abbreviate는 ‘약어를 만들다/약식으로 쓰다’에 초점이 있고, shorten은 더 일반적인 ‘짧게 하다’입니다. 시험에서는 abbreviate A to B / be abbreviated as B(=A is abbreviated as B) 패턴을 통째로 익히는 게 효율적입니다. acronym/initialism(약어 종류)과 함께 정리하면 독해에서 약어 설명 문장을 빨리 처리할 수 있습니다.",
+    "tags": [
+      "문서 작성",
+      "학술",
+      "약어",
+      "표기법",
+      "시험 독해"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: We ______ 'January' to 'Jan.'",
+            "a": "abbreviate",
+            "meaning_ko": "abbreviate는 ‘단어를 줄여 쓰다’라는 기본 동사입니다."
+          },
+          {
+            "q": "Choose the best meaning of 'abbreviate'.\nA) to decorate\nB) to shorten a word or phrase\nC) to argue loudly\nD) to delay",
+            "a": "B",
+            "meaning_ko": "핵심 의미는 ‘축약하다/약어로 만들다’입니다."
+          },
+          {
+            "q": "Correct the sentence: \"The term is abbreviated to AI.\" (want: 'AI' is the written label)",
+            "a": "The term is abbreviated as AI.",
+            "meaning_ko": "표기/호칭으로 쓰는 형태를 말할 때는 as가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best pattern: \"We abbreviate 'department' ___ 'dept.'\"",
+            "a": "to",
+            "meaning_ko": "abbreviate A to B가 가장 전형적인 구조입니다."
+          },
+          {
+            "q": "Which sentence is most formal for a paper?\nA) We cut 'Figure' to 'Fig.'\nB) We abbreviate 'Figure' to 'Fig.'\nC) We smash 'Figure' down.\nD) We shrink 'Figure' kinda.",
+            "a": "B",
+            "meaning_ko": "학술 문장에서는 abbreviate가 격식 있고 정확합니다."
+          },
+          {
+            "q": "Fill in the blank: The organization’s name is often ________ in news headlines.",
+            "a": "abbreviated",
+            "meaning_ko": "수동태 be abbreviated(축약되다)가 자주 등장합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best option: \"To meet the word limit, the editor ________ the discussion but kept the evidence.\"",
+            "a": "abbreviated",
+            "meaning_ko": "내용을 줄여 간단히 만드는 의미로도 abbreviate를 쓸 수 있습니다."
+          },
+          {
+            "q": "Error correction: \"The term is abbreviated in 'AI' throughout the article.\"",
+            "a": "The term is abbreviated as 'AI' throughout the article.",
+            "meaning_ko": "표기 형태를 지정할 때는 as가 필요하고, in은 부자연스럽습니다."
+          },
+          {
+            "q": "Reading: \"Acronyms are formed from initial letters, but not all abbreviations are acronyms.\" What is a correct inference?",
+            "a": "An acronym is a type of abbreviation.",
+            "meaning_ko": "acronym(두문자어)은 abbreviation(약어)의 하위 범주라는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "capacious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Having a lot of space inside; roomy; able to hold much.",
+        "definition_ko": "안이 넓고 수용력이 큰; 널찍한.",
+        "note": "roomy/spacious보다 격식 있고 문어적입니다."
+      },
+      {
+        "definition_en": "Able to contain or embrace a wide range of ideas, feelings, or meanings.",
+        "definition_ko": "생각·의미 등을 폭넓게 포괄하는(비유적).",
+        "note": "capacious mind, capacious interpretation처럼 추상 명사와도 결합합니다."
+      }
+    ],
+    "concept": "물리적으로 ‘넓게 담을 수 있음’에서 출발해, 비유적으로 ‘폭넓게 포괄함’까지 확장되는 형용사.",
+    "etymology": "라틴어 capax(‘담을 수 있는, 수용력 있는’)에서 파생된 capacious로, capacity(수용력)와 같은 어근을 공유합니다.",
+    "semanticExtension": "‘큰 용량/넓은 내부’ → ‘생각·해석·틀이 넓어 여러 요소를 포괄함’으로 비유가 자연스럽게 확장됩니다.",
+    "nuanceRegister": "문어/격식/서평·논설에서 자주 보이며, 일상 회화에서는 roomy, spacious가 더 흔합니다. ‘크고 넓다’에 ‘품는다/포괄한다’는 느낌이 섞입니다.",
+    "grammarNotes": "형용사로 보통 명사 앞에 옵니다(capacious room/bag). 비교급은 more capacious가 일반적이며, enough for/to 같은 보어 구조로도 씁니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 담기에/수용하기에 (충분히)",
+        "example": "capacious enough for a laptop"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~을 포괄할/담을 수 있는(문어적)",
+        "example": "capacious of multiple meanings"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~으로 가득 찬(결과 상태를 강조)",
+        "example": "a capacious drawer with spare cables"
+      }
+    ],
+    "requiredComplements": [
+      "capacious enough for + 명사: ‘~을 담기에 충분히 넓은’",
+      "capacious enough to + 동사원형: ‘~할 만큼 넓은/수용력 있는’",
+      "capacious of + 추상명사: ‘의미/해석/가능성을 포괄하는’(문어적)"
+    ],
+    "morphology": "capaci-(hold, 담다/수용하다: capax 계열) + -ous(형용사화). capacity, capable과 어근이 연결됩니다.",
+    "derivatives": [
+      {
+        "word": "capacity",
+        "meaning_ko": "수용력; 용량"
+      },
+      {
+        "word": "capable",
+        "meaning_ko": "~할 수 있는; 유능한"
+      },
+      {
+        "word": "capaciousness",
+        "meaning_ko": "넓음; 수용력 큼"
+      },
+      {
+        "word": "capaciously",
+        "meaning_ko": "널찍하게; 넓게(부사)"
+      },
+      {
+        "word": "incapacitate",
+        "meaning_ko": "무능력하게 만들다"
+      }
+    ],
+    "related": [
+      {
+        "word": "spacious",
+        "meaning_ko": "넓은"
+      },
+      {
+        "word": "roomy",
+        "meaning_ko": "널찍한"
+      },
+      {
+        "word": "voluminous",
+        "meaning_ko": "부피가 큰; 방대한"
+      },
+      {
+        "word": "ample",
+        "meaning_ko": "충분한; 넉넉한"
+      },
+      {
+        "word": "commodious",
+        "meaning_ko": "넓고 편리한(격식)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "spacious",
+        "meaning_ko": "넓은"
+      },
+      {
+        "word": "roomy",
+        "meaning_ko": "널찍한"
+      },
+      {
+        "word": "commodious",
+        "meaning_ko": "넓고 편리한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "ample",
+        "meaning_ko": "넉넉한"
+      },
+      {
+        "word": "expansive",
+        "meaning_ko": "광활한; 포괄적인"
+      },
+      {
+        "word": "generous",
+        "meaning_ko": "(크기/양이) 넉넉한"
+      },
+      {
+        "word": "broad",
+        "meaning_ko": "넓은; 폭넓은"
+      },
+      {
+        "word": "inclusive",
+        "meaning_ko": "포괄적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cramped",
+        "meaning_ko": "비좁은"
+      },
+      {
+        "word": "confined",
+        "meaning_ko": "제한된; 갇힌"
+      },
+      {
+        "word": "narrow",
+        "meaning_ko": "좁은"
+      },
+      {
+        "word": "tight",
+        "meaning_ko": "비좁은; 꽉 끼는"
+      },
+      {
+        "word": "restricted",
+        "meaning_ko": "제한된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "capacious bag",
+            "meaning_ko": "널찍한 가방"
+          },
+          {
+            "phrase": "capacious room",
+            "meaning_ko": "넓은 방"
+          },
+          {
+            "phrase": "capacious trunk",
+            "meaning_ko": "넓은 트렁크(차량 짐칸)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "capacious interior",
+            "meaning_ko": "넓은 실내(내부 공간)"
+          },
+          {
+            "phrase": "capacious suitcase",
+            "meaning_ko": "큰 여행가방"
+          },
+          {
+            "phrase": "capacious storage bin",
+            "meaning_ko": "넉넉한 수납함"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a capacious mind",
+            "meaning_ko": "폭넓게 담아내는 사고"
+          },
+          {
+            "phrase": "a capacious interpretation",
+            "meaning_ko": "폭넓은 해석"
+          },
+          {
+            "phrase": "a capacious framework",
+            "meaning_ko": "여러 요소를 포괄하는 틀"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "This backpack is capacious enough for my laptop.",
+            "meaning_ko": "이 백팩은 내 노트북을 넣기에 충분히 넓다."
+          },
+          {
+            "sentence": "They moved into a capacious apartment.",
+            "meaning_ko": "그들은 널찍한 아파트로 이사했다."
+          },
+          {
+            "sentence": "She carries a capacious tote bag every day.",
+            "meaning_ko": "그녀는 매일 큰 토트백을 들고 다닌다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The restaurant has a capacious dining hall for large groups.",
+            "meaning_ko": "그 식당은 단체를 위한 넓은 홀을 갖추고 있다."
+          },
+          {
+            "sentence": "A capacious drawer keeps all the chargers in one place.",
+            "meaning_ko": "넓은 서랍 하나에 충전기를 한곳에 모아 둘 수 있다."
+          },
+          {
+            "sentence": "The new model offers a more capacious trunk than the previous one.",
+            "meaning_ko": "새 모델은 이전 모델보다 더 넓은 트렁크를 제공한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Her capacious mind held competing hypotheses without forcing a quick verdict.",
+            "meaning_ko": "그녀의 폭넓은 사고는 성급한 결론 없이 경쟁하는 가설들을 함께 담아냈다."
+          },
+          {
+            "sentence": "The court adopted a capacious interpretation of \"public interest\" to protect minorities.",
+            "meaning_ko": "법원은 소수자를 보호하기 위해 ‘공익’을 폭넓게 해석했다."
+          },
+          {
+            "sentence": "The novel’s capacious narrative makes room for voices usually pushed to the margins.",
+            "meaning_ko": "그 소설의 포괄적인 서사는 주변으로 밀려난 목소리들이 들어설 공간을 만든다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "capacious는 spacious/roomy보다 격식 있고, ‘넓어서 많이 담는다’는 수용(포괄) 느낌이 강합니다. 물리적 공간(가방/방/트렁크)과 추상적 대상(해석/사고/틀) 두 축으로 예문을 같이 익히면 독해에서 의미 전환을 놓치지 않습니다. capacity(용량)와 같은 어근이라 연상하기도 좋습니다.",
+    "tags": [
+      "형용사",
+      "공간",
+      "수용력",
+      "격식",
+      "비유 표현"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'capacious'.\nA) noisy\nB) roomy and able to hold much\nC) dangerous\nD) sleepy",
+            "a": "B",
+            "meaning_ko": "capacious는 ‘널찍한, 수용력이 큰’이라는 뜻입니다."
+          },
+          {
+            "q": "Fill in the blank: The bag is ________ enough for two books.",
+            "a": "capacious",
+            "meaning_ko": "capacious enough for + 명사 구조로 ‘담기에 충분히 넓다’를 만들 수 있습니다."
+          },
+          {
+            "q": "Which noun fits best? \nA) capacious sandwich\nB) capacious closet\nC) capacious whisper\nD) capacious thunder",
+            "a": "B",
+            "meaning_ko": "capacious는 공간/용량이 큰 대상(closet, room, bag)과 자연스럽게 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: This suitcase is capacious enough ___ a week-long trip.",
+            "a": "for",
+            "meaning_ko": "capacious enough for + 명사 패턴의 전치사는 for가 기본입니다."
+          },
+          {
+            "q": "Choose the closest synonym of 'capacious' in this sentence: \"The car has a capacious trunk.\"",
+            "a": "spacious",
+            "meaning_ko": "물리적 공간 문맥에서는 spacious/roomy가 가장 가까운 유의어입니다."
+          },
+          {
+            "q": "Pick the best rewrite: \"The hall was large and could hold many people.\"",
+            "a": "The hall was capacious and could hold many people.",
+            "meaning_ko": "capacious는 ‘넓어서 많이 수용한다’의 뉘앙스를 한 단어로 압축합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Which sentence uses 'capacious' metaphorically?\nA) A capacious drawer holds my tools.\nB) A capacious bag fits under the seat.\nC) His capacious framework accommodates conflicting values.\nD) A capacious closet needs more hangers.",
+            "a": "C",
+            "meaning_ko": "framework(틀) 같은 추상 명사와 결합하면 비유적 ‘포괄성’으로 쓰입니다."
+          },
+          {
+            "q": "Fill in the blank: \"The essay offers a ________ interpretation of the evidence, considering culture, incentives, and history.\"",
+            "a": "capacious",
+            "meaning_ko": "여러 요소를 ‘폭넓게 포괄하는 해석’이라는 문맥에 capacious가 잘 맞습니다."
+          },
+          {
+            "q": "Error correction: \"The room is capacious of ten people.\"",
+            "a": "The room is capacious enough for ten people.",
+            "meaning_ko": "물리적 수용 인원에는 capacious enough for가 자연스럽고, of는 문어적/추상 문맥에서 더 어울립니다."
+          }
+        ]
+      }
+    ]
+  }
+]

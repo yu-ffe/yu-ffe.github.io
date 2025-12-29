@@ -1,0 +1,873 @@
+[
+  {
+    "word": "mediate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To intervene between people or groups in order to help them settle a dispute or reach agreement.",
+        "definition_ko": "중재하다, 조정하다(분쟁 당사자 사이에 개입해 합의를 돕다).",
+        "note": "mediate between A and B / mediate a dispute 두 패턴이 핵심입니다."
+      },
+      {
+        "definition_en": "To bring about or influence a result as an intermediate factor; to act as a means through which something happens.",
+        "definition_ko": "중간 매개로 작용해 (결과를) 일으키다/형성하다; (무엇을) 매개하다.",
+        "note": "심리·사회과학 문맥에서 ‘A가 B와 C의 관계를 mediate한다’처럼 원인-결과를 연결하는 ‘매개’ 의미로 자주 씁니다."
+      }
+    ],
+    "concept": "핵심은 ‘사이에 들어가 갈등을 풀거나, 원인과 결과 사이를 잇는 매개로 작동한다’입니다.",
+    "etymology": "라틴어 medius(‘중간’) 계열에서 파생되어 ‘중간에서 역할하다’의 의미를 갖게 된 것으로 알려져 있습니다.",
+    "semanticExtension": "‘중간(middle)’이라는 공간적 개념이 사람 사이 분쟁의 ‘중재’로 확장되었고, 더 나아가 변수 간 관계를 ‘매개’하는 추상적 의미(연구/분석 문맥)로 굳었습니다.",
+    "nuanceRegister": "중재 의미는 공적·격식 문맥(법/노사/외교)에서 흔하고, 매개 의미는 학술·보고서·분석 문맥에서 빈도가 높습니다.",
+    "grammarNotes": "자동사·타동사 모두 가능합니다: mediate between A and B(자동사 성격), mediate a dispute/settlement(타동사). 수동태로 be mediated by(‘~에 의해 중재/매개되다’)도 자주 씁니다. meditate(명상하다)와 철자가 매우 비슷하니 주의하세요.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "between",
+        "meaning_ko": "‘A와 B 사이를 중재하다’",
+        "example": "mediate between labor and management"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "‘~에서/문맥에서 중재하다(개입하다)’",
+        "example": "mediate in a conflict"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "‘~를 위해 중재하다/대신 조정하다’",
+        "example": "mediate for a client"
+      }
+    ],
+    "requiredComplements": [
+      "mediate between A and B : A와 B 사이를 중재하다",
+      "mediate + N (a dispute/settlement/agreement) : 분쟁/합의 등을 중재하다",
+      "be mediated by + N : ~에 의해 중재/매개되다",
+      "A mediates the relationship between B and C : A가 B와 C의 관계를 매개하다(학술)"
+    ],
+    "morphology": "medi-(중간) + -ate(동사화)로, ‘중간에서 작동시키다/개입하다’라는 형태적 감각을 잡아두면 의미가 안정적으로 유지됩니다.",
+    "derivatives": [
+      {
+        "word": "mediation",
+        "meaning_ko": "중재; 조정; (학술) 매개"
+      },
+      {
+        "word": "mediator",
+        "meaning_ko": "중재자; 조정자"
+      },
+      {
+        "word": "mediated",
+        "meaning_ko": "중재된; 매개된"
+      }
+    ],
+    "related": [
+      {
+        "word": "arbitrate",
+        "meaning_ko": "중재하다(특히 공식 절차/판정 뉘앙스)"
+      },
+      {
+        "word": "negotiate",
+        "meaning_ko": "협상하다"
+      },
+      {
+        "word": "intervene",
+        "meaning_ko": "개입하다"
+      },
+      {
+        "word": "facilitate",
+        "meaning_ko": "원활하게 하다; 촉진하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "arbitrate",
+        "meaning_ko": "중재하다"
+      },
+      {
+        "word": "intercede",
+        "meaning_ko": "중재하다; 중간에서 변호하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "broker",
+        "meaning_ko": "중개/타결을 성사시키다"
+      },
+      {
+        "word": "conciliate",
+        "meaning_ko": "화해시키다; 유화적으로 달래다"
+      },
+      {
+        "word": "moderate",
+        "meaning_ko": "사회하다; 조정하다(토론/회의)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inflame",
+        "meaning_ko": "격화시키다"
+      },
+      {
+        "word": "exacerbate",
+        "meaning_ko": "악화시키다"
+      },
+      {
+        "word": "provoke",
+        "meaning_ko": "자극하다; 유발하다(갈등)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mediate a dispute",
+            "meaning_ko": "분쟁을 중재하다"
+          },
+          {
+            "phrase": "mediate between two sides",
+            "meaning_ko": "양측 사이를 중재하다"
+          },
+          {
+            "phrase": "a mediated agreement",
+            "meaning_ko": "중재로 성립된 합의"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "mediate a settlement",
+            "meaning_ko": "합의를 중재하다"
+          },
+          {
+            "phrase": "be mediated by a third party",
+            "meaning_ko": "제3자에 의해 중재되다"
+          },
+          {
+            "phrase": "mediate in a conflict",
+            "meaning_ko": "갈등에 개입해 조정하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mediate the relationship between X and Y",
+            "meaning_ko": "X와 Y의 관계를 매개하다(학술)"
+          },
+          {
+            "phrase": "a mediator-appointed process",
+            "meaning_ko": "중재자 선임 절차(문어)"
+          },
+          {
+            "phrase": "structurally mediated inequality",
+            "meaning_ko": "구조에 의해 매개된 불평등(분석 문맥)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She was asked to mediate a dispute between two coworkers.",
+            "meaning_ko": "그녀는 두 동료 사이 분쟁을 중재해 달라는 요청을 받았다."
+          },
+          {
+            "sentence": "A neutral lawyer helped mediate the argument.",
+            "meaning_ko": "중립적인 변호사가 말다툼을 중재하는 데 도움을 주었다."
+          },
+          {
+            "sentence": "They hired someone to mediate between the neighbors.",
+            "meaning_ko": "그들은 이웃들 사이를 중재할 사람을 고용했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The talks were mediated by an international organization.",
+            "meaning_ko": "그 협상은 국제기구에 의해 중재되었다."
+          },
+          {
+            "sentence": "He tried to mediate in the conflict before it escalated.",
+            "meaning_ko": "그는 갈등이 격화되기 전에 개입해 조정하려 했다."
+          },
+          {
+            "sentence": "The union and management agreed to mediate a settlement rather than go to court.",
+            "meaning_ko": "노조와 경영진은 법정으로 가기보다 합의를 중재받기로 했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In the model, perceived fairness mediates the link between pay and employee retention.",
+            "meaning_ko": "그 모형에서는 ‘공정성 인식’이 임금과 직원 유지의 연결을 매개한다."
+          },
+          {
+            "sentence": "Trust, once broken, rarely returns without a process that is carefully mediated.",
+            "meaning_ko": "한번 깨진 신뢰는 신중하게 조정된 과정 없이 좀처럼 돌아오지 않는다."
+          },
+          {
+            "sentence": "The court encouraged the parties to pursue mediation, but their hostility resisted every attempt to mediate.",
+            "meaning_ko": "법원은 조정을 권했지만, 그들의 적대감은 모든 중재 시도를 거부했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "mediate는 ‘중간(middle)’이라는 어근 감각으로 ‘사이에서 조정한다’로 잡으면 됩니다. 실전에서 meditate(명상하다)와 혼동이 잦으니 철자(…diate vs …ditate)와 뜻을 반드시 분리하세요. 또한 독해에서 ‘A mediates B–C relationship’ 형태로 나오면 ‘중재’가 아니라 ‘매개변수로 작용한다’는 학술적 의미일 가능성이 큽니다.",
+    "tags": [
+      "협상",
+      "분쟁해결",
+      "법·외교",
+      "학술",
+      "매개"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'mediate': (A) calculate (B) intervene to help reach agreement (C) decorate (D) memorize",
+            "a": "B",
+            "meaning_ko": "mediate는 ‘중재하다/조정하다’가 기본 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She mediated _____ the two sides.",
+            "a": "between",
+            "meaning_ko": "mediate between A and B가 대표 패턴입니다."
+          },
+          {
+            "q": "Which word is commonly confused with 'mediate' but means 'to practice deep thought or contemplation'?",
+            "a": "meditate",
+            "meaning_ko": "mediate(중재/매개) vs meditate(명상) 혼동 주의입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The negotiations were mediated _____ a neutral third party. (A) by (B) on (C) at (D) to",
+            "a": "by",
+            "meaning_ko": "수동태에서는 be mediated by + 중재자(행위자)가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest synonym (in dispute contexts): mediate ≈ (A) arbitrate (B) inflate (C) erase (D) tremble",
+            "a": "A",
+            "meaning_ko": "공식 분쟁 문맥에서 arbitrate가 가장 가깝습니다."
+          },
+          {
+            "q": "Interpretation: In research writing, 'Stress mediates the effect of workload on sleep' means stress _____.",
+            "a": "acts as an intermediate factor linking workload to sleep",
+            "meaning_ko": "매개 변수로 작용한다는 뜻입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'The treaty was mediated with the UN.' → Rewrite with the most natural preposition.",
+            "a": "The treaty was mediated by the UN.",
+            "meaning_ko": "중재자는 by로 표현하는 것이 표준입니다."
+          },
+          {
+            "q": "Choose the best phrase: 'mediate a _____' (A) dispute (B) perfume (C) staircase (D) eclipse",
+            "a": "dispute",
+            "meaning_ko": "mediate a dispute(분쟁을 중재하다)가 대표 결합입니다."
+          },
+          {
+            "q": "Choose the best contrast: To mediate a conflict is to try to _____ it. (A) resolve (B) ignite (C) prolong (D) conceal",
+            "a": "resolve",
+            "meaning_ko": "중재의 목적은 보통 갈등을 해결(resovle)하는 것입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wayward",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Difficult to control or predict; unruly or contrary.",
+        "definition_ko": "말을 잘 안 듣는; 제멋대로인; 통제하기 어려운.",
+        "note": "a wayward child/teen처럼 사람(특히 아이/청소년)을 수식하는 용례가 흔합니다."
+      },
+      {
+        "definition_en": "Turning from the proper course; deviating from what is expected or accepted.",
+        "definition_ko": "정도에서 벗어난; 빗나간; 탈선한.",
+        "note": "wayward behavior/path처럼 ‘정상 경로에서 벗어남’의 이미지로 독해에 자주 등장합니다."
+      }
+    ],
+    "concept": "‘길(way)에서 벗어나 제멋대로 움직이는’ 이미지 → ‘통제 불가/탈선’으로 이해하면 됩니다.",
+    "etymology": "way(길) + -ward(방향/쪽으로) 결합에서 발전한 말로, ‘길에서 벗어나 다른 방향으로 가는’ 이미지에서 의미가 굳었습니다.",
+    "semanticExtension": "공간적으로 ‘길을 벗어나는’ 의미가 행동·성격·판단이 ‘정상 궤도에서 벗어남’(unruly, erratic)으로 추상화되어 쓰입니다.",
+    "nuanceRegister": "일상에서도 쓰이지만, 독해/문어에서 ‘탈선한/빗나간 행동’처럼 평가적 표현으로 자주 나옵니다. 다소 비판적 뉘앙스가 섞일 수 있습니다.",
+    "grammarNotes": "형용사로 주로 명사 앞에서 수식합니다(wayward child, wayward behavior). ‘erratic’보다 ‘말을 안 듣고 빗나간’ 평가가 조금 더 강하게 들릴 수 있습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "‘~에서 제멋대로/탈선한’",
+        "example": "wayward in his youth"
+      },
+      {
+        "prep": "toward",
+        "meaning_ko": "‘~을 향해 엇나가/치우쳐’(문어적)",
+        "example": "wayward toward extremes"
+      }
+    ],
+    "requiredComplements": [
+      "wayward + N (child/teen/behavior) : 말 안 듣는 아이/탈선한 행동",
+      "a wayward path/course : 빗나간 경로/진로(비유 포함)"
+    ],
+    "morphology": "way(길) + -ward(방향) → ‘길에서 다른 방향으로 새는’ 그림을 떠올리면 의미가 정확히 고정됩니다.",
+    "derivatives": [
+      {
+        "word": "waywardness",
+        "meaning_ko": "제멋대로임; 탈선 성향"
+      }
+    ],
+    "related": [
+      {
+        "word": "unruly",
+        "meaning_ko": "통제하기 어려운; 말 안 듣는"
+      },
+      {
+        "word": "erratic",
+        "meaning_ko": "변덕스러운; 예측 불가한"
+      },
+      {
+        "word": "recalcitrant",
+        "meaning_ko": "반항적인; 다루기 힘든"
+      },
+      {
+        "word": "deviant",
+        "meaning_ko": "일탈한; 정상에서 벗어난"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "unruly",
+        "meaning_ko": "말 안 듣는; 난폭한"
+      },
+      {
+        "word": "errant",
+        "meaning_ko": "그릇된; 빗나간(문어)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "erratic",
+        "meaning_ko": "변덕스러운; 불규칙한"
+      },
+      {
+        "word": "capricious",
+        "meaning_ko": "변덕스러운(감정/판단 중심)"
+      },
+      {
+        "word": "waywardly",
+        "meaning_ko": "제멋대로(부사, 사용 빈도 낮음)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "obedient",
+        "meaning_ko": "순종적인"
+      },
+      {
+        "word": "compliant",
+        "meaning_ko": "순응하는"
+      },
+      {
+        "word": "steady",
+        "meaning_ko": "안정된; 한결같은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "wayward child",
+            "meaning_ko": "말 안 듣는 아이"
+          },
+          {
+            "phrase": "wayward behavior",
+            "meaning_ko": "탈선한 행동"
+          },
+          {
+            "phrase": "a wayward streak",
+            "meaning_ko": "제멋대로인 기질"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a wayward teenager",
+            "meaning_ko": "반항적/탈선한 청소년"
+          },
+          {
+            "phrase": "wayward impulses",
+            "meaning_ko": "빗나간 충동"
+          },
+          {
+            "phrase": "a wayward path",
+            "meaning_ko": "빗나간 길/진로"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "wayward choices with long-term costs",
+            "meaning_ko": "장기적 대가를 부르는 빗나간 선택"
+          },
+          {
+            "phrase": "a wayward policy experiment",
+            "meaning_ko": "엇나간 정책 실험(비판적)"
+          },
+          {
+            "phrase": "reform a wayward institution",
+            "meaning_ko": "탈선한 조직을 개혁하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The wayward child refused to follow simple rules.",
+            "meaning_ko": "말 안 듣는 아이는 간단한 규칙도 따르려 하지 않았다."
+          },
+          {
+            "sentence": "His thoughts went wayward during the long meeting.",
+            "meaning_ko": "긴 회의 중에 그의 생각은 딴 데로 샜다."
+          },
+          {
+            "sentence": "A wayward dog ran into the street.",
+            "meaning_ko": "제멋대로 돌아다니던 개가 길로 뛰어들었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She tried to guide her wayward brother back to school.",
+            "meaning_ko": "그녀는 탈선한 동생이 다시 학교로 돌아오도록 이끌려 했다."
+          },
+          {
+            "sentence": "The report criticized the company's wayward spending.",
+            "meaning_ko": "그 보고서는 회사의 방만하고 빗나간 지출을 비판했다."
+          },
+          {
+            "sentence": "One wayward decision can derail years of careful planning.",
+            "meaning_ko": "한 번의 빗나간 결정이 수년간의 치밀한 계획을 망칠 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The committee framed the scandal as the product of a few wayward actors rather than systemic failure.",
+            "meaning_ko": "위원회는 그 스캔들을 구조적 실패가 아니라 일부 일탈한 개인들의 결과로 규정했다."
+          },
+          {
+            "sentence": "A wayward policy experiment, launched without safeguards, amplified inequality instead of reducing it.",
+            "meaning_ko": "안전장치 없이 시작된 엇나간 정책 실험은 불평등을 줄이기는커녕 키웠다."
+          },
+          {
+            "sentence": "Investors grew wary of the CEO’s wayward strategy shifts that made forecasts meaningless.",
+            "meaning_ko": "투자자들은 예측을 무의미하게 만드는 CEO의 제멋대로인 전략 전환을 경계하게 되었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "wayward는 ‘길(way)에서 벗어난’ 그림이 핵심이라, ‘제멋대로/탈선한’으로 자연스럽게 이어집니다. erratic(불규칙)보다 ‘말 안 듣고 빗나간’ 평가가 강한 편이라 인물/행동을 묘사할 때 뉘앙스를 챙기세요. 또한 way forward(해결책)와 형태가 비슷하다고 의미를 섞지 않도록, 어근 way + ward(방향) 결합으로 고정해 두면 안전합니다.",
+    "tags": [
+      "성격",
+      "행동",
+      "비판",
+      "문어",
+      "독해"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'wayward': (A) obedient (B) difficult to control (C) transparent (D) edible",
+            "a": "B",
+            "meaning_ko": "wayward는 ‘제멋대로인/통제하기 어려운’입니다."
+          },
+          {
+            "q": "Which collocation is most natural? (A) wayward child (B) wayward refrigerator (C) wayward mathematics (D) wayward oxygen",
+            "a": "A",
+            "meaning_ko": "wayward child가 대표 결합입니다."
+          },
+          {
+            "q": "Fill in the blank: One wayward choice can _____ a plan.",
+            "a": "derail",
+            "meaning_ko": "derail a plan(계획을 망치다)와 함께 자주 쓰이는 의미 흐름입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest synonym: wayward ≈ (A) unruly (B) salubrious (C) bilateral (D) veracious",
+            "a": "A",
+            "meaning_ko": "unruly(말 안 듣는)가 가장 가깝습니다."
+          },
+          {
+            "q": "Choose the best completion: The article blamed wayward spending _____ poor oversight. (A) on (B) into (C) at (D) over",
+            "a": "on",
+            "meaning_ko": "blame A on B(원인을 B 탓으로 돌리다) 구조가 자연스럽습니다."
+          },
+          {
+            "q": "Interpretation: 'wayward impulses' most nearly means impulses that are _____.",
+            "a": "misguided and hard to control",
+            "meaning_ko": "‘빗나가고 통제하기 어려운 충동’이라는 뉘앙스입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'His behavior was waywardly.' → Fix the form to describe behavior.",
+            "a": "His behavior was wayward.",
+            "meaning_ko": "보어 자리에는 형용사 wayward가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best contrast: A wayward student is the opposite of an _____ student. (A) obedient (B) acerbic (C) tactile (D) ample",
+            "a": "obedient",
+            "meaning_ko": "wayward(말 안 듣는) ↔ obedient(순종적인) 대비입니다."
+          },
+          {
+            "q": "In policy critique, 'a wayward experiment' most nearly implies the experiment is _____.",
+            "a": "misdirected and producing unintended harm",
+            "meaning_ko": "‘엇나가서 의도치 않은 피해를 낳는’ 비판적 뉘앙스입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "thrift",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The quality of using money and resources carefully and not wastefully; frugality.",
+        "definition_ko": "절약, 검소(돈·자원을 아껴 쓰는 성향/태도).",
+        "note": "미덕/습관으로서의 ‘절약’은 보통 불가산으로 다룹니다."
+      },
+      {
+        "definition_en": "A shop selling secondhand goods at low prices (in compounds such as 'thrift shop').",
+        "definition_ko": "중고품을 저렴하게 파는 가게(예: thrift shop)에서의 ‘thrift’ 요소.",
+        "note": "엄밀히는 ‘절약’의 파생 용법이지만, 실전에서는 thrift shop(중고가게) 결합으로 매우 익숙합니다."
+      }
+    ],
+    "concept": "‘낭비하지 않고 아껴 쓰는 태도(절약)’ + 그 문화가 반영된 ‘thrift shop’ 결합을 함께 잡으면 됩니다.",
+    "etymology": "고대/중세 영어권에서 ‘번영, 잘됨’과 관련된 뉘앙스로 쓰이다가, ‘잘 살기 위해 아끼는 태도’로 의미가 이동해 ‘절약’에 정착한 것으로 알려져 있습니다.",
+    "semanticExtension": "‘번영/성공’의 결과를 가능하게 하는 덕목으로 ‘절약’이 강조되면서, thrift가 ‘검소함’ 자체를 뜻하게 되었고, 현대에는 재사용/중고 문화와 결합해 thrift shop 같은 용례로도 널리 확장되었습니다.",
+    "nuanceRegister": "기본 의미는 중립적이며 일상·문어 모두 흔합니다. thrift shop은 생활/소비 문화 표현으로 구어에서도 매우 일반적입니다.",
+    "grammarNotes": "thrift(절약)는 보통 불가산명사로 쓰입니다(Practice thrift). 다만 thrift shop처럼 명사 앞에서 수식어처럼 쓰이기도 합니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "‘~에서 절약/검소함’(지출 영역)",
+        "example": "thrift in spending"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "‘~을 아껴서’(자원/돈)",
+        "example": "thrift with water"
+      }
+    ],
+    "requiredComplements": [
+      "practice thrift : 절약을 실천하다",
+      "thrift in + N : ~에서 절약(지출/사용 영역)",
+      "thrift with + N : ~을 아껴 쓰다",
+      "thrift shop/store : 중고품 할인점(절약형 소비)"
+    ],
+    "morphology": "형태 분석보다 개념(절약)과 파생어 thrifty(검소한), thriftiness(검소함)를 묶어 외우는 편이 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "thrifty",
+        "meaning_ko": "검소한; 절약하는"
+      },
+      {
+        "word": "thriftiness",
+        "meaning_ko": "검소함; 절약 성향"
+      },
+      {
+        "word": "thriftily",
+        "meaning_ko": "검소하게; 절약하며"
+      }
+    ],
+    "related": [
+      {
+        "word": "frugality",
+        "meaning_ko": "검소함; 절약"
+      },
+      {
+        "word": "economy",
+        "meaning_ko": "절약; 경제성(문맥에 따라)"
+      },
+      {
+        "word": "saving",
+        "meaning_ko": "저축; 절약"
+      },
+      {
+        "word": "reuse",
+        "meaning_ko": "재사용"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "frugality",
+        "meaning_ko": "검소함"
+      },
+      {
+        "word": "economy",
+        "meaning_ko": "절약(자원·비용을 아낌)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "parsimony",
+        "meaning_ko": "심한 절약/인색함(부정적)"
+      },
+      {
+        "word": "prudence",
+        "meaning_ko": "신중함(재정/행동에 적용 가능)"
+      },
+      {
+        "word": "austerity",
+        "meaning_ko": "긴축; 절제(정책/생활)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "wastefulness",
+        "meaning_ko": "낭비"
+      },
+      {
+        "word": "extravagance",
+        "meaning_ko": "사치"
+      },
+      {
+        "word": "profligacy",
+        "meaning_ko": "방탕한 낭비(문어)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "practice thrift",
+            "meaning_ko": "절약을 실천하다"
+          },
+          {
+            "phrase": "thrift shop",
+            "meaning_ko": "중고품 가게"
+          },
+          {
+            "phrase": "a lesson in thrift",
+            "meaning_ko": "절약의 교훈"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "thrift in spending",
+            "meaning_ko": "지출에서의 절약"
+          },
+          {
+            "phrase": "live with thrift",
+            "meaning_ko": "검소하게 살다"
+          },
+          {
+            "phrase": "teach children thrift",
+            "meaning_ko": "아이들에게 절약을 가르치다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "thrift as a civic virtue",
+            "meaning_ko": "시민적 미덕으로서의 절약"
+          },
+          {
+            "phrase": "a culture of thrift and reuse",
+            "meaning_ko": "절약·재사용 문화"
+          },
+          {
+            "phrase": "thrift-driven consumer behavior",
+            "meaning_ko": "절약이 이끄는 소비 행동"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Thrift helped them save money for emergencies.",
+            "meaning_ko": "절약은 그들이 비상시에 대비해 돈을 모으는 데 도움이 됐다."
+          },
+          {
+            "sentence": "She shops at a thrift shop to find cheap clothes.",
+            "meaning_ko": "그녀는 저렴한 옷을 찾으려고 중고가게에서 쇼핑한다."
+          },
+          {
+            "sentence": "My grandparents taught me thrift from an early age.",
+            "meaning_ko": "조부모님은 어릴 때부터 내게 절약을 가르쳐 주셨다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "In hard times, thrift becomes more than a habit—it becomes a necessity.",
+            "meaning_ko": "힘든 시기에는 절약이 습관을 넘어 필수가 된다."
+          },
+          {
+            "sentence": "Thrift in spending allowed the startup to survive its first year.",
+            "meaning_ko": "지출에서의 절약 덕분에 그 스타트업은 첫 해를 버틸 수 있었다."
+          },
+          {
+            "sentence": "He prides himself on thrift with water and electricity.",
+            "meaning_ko": "그는 물과 전기를 아껴 쓰는 것을 자랑스럽게 여긴다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A culture of thrift and reuse can reduce waste without sacrificing quality of life.",
+            "meaning_ko": "절약과 재사용의 문화는 삶의 질을 희생하지 않고도 낭비를 줄일 수 있다."
+          },
+          {
+            "sentence": "The biography portrays thrift as a disciplined strategy rather than mere stinginess.",
+            "meaning_ko": "그 전기는 절약을 단순한 인색함이 아니라 절제된 전략으로 묘사한다."
+          },
+          {
+            "sentence": "Thrift-driven consumer behavior reshaped retail as demand shifted toward secondhand markets.",
+            "meaning_ko": "절약 지향 소비가 수요를 중고 시장으로 이동시키며 소매업의 판도를 바꿨다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "thrift는 기본적으로 ‘절약/검소’(불가산)입니다. parsimony(인색할 정도의 절약)처럼 부정적 단어와 대비해, thrift는 비교적 긍정적 ‘미덕’ 뉘앙스가 있다는 점을 기억하세요. 또한 thrift shop(중고가게)은 결합으로 통째로 외우면 독해와 회화 모두에서 바로 써먹을 수 있습니다.",
+    "tags": [
+      "재정",
+      "소비",
+      "습관",
+      "미덕",
+      "중고문화"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'thrift': (A) waste (B) careful saving and avoiding waste (C) anger (D) speed",
+            "a": "B",
+            "meaning_ko": "thrift는 ‘절약/검소’입니다."
+          },
+          {
+            "q": "Fill in the blank: She found a jacket at a _____ shop.",
+            "a": "thrift",
+            "meaning_ko": "thrift shop은 ‘중고품을 저렴하게 파는 가게’입니다."
+          },
+          {
+            "q": "Which is the opposite of thrift? (A) extravagance (B) diligence (C) euphony (D) cadence",
+            "a": "extravagance",
+            "meaning_ko": "extravagance는 ‘사치/과소비’로 thrift의 반대 축입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: Thrift _____ spending helped the family pay off debt. (A) in (B) on (C) at (D) to",
+            "a": "in",
+            "meaning_ko": "thrift in spending(지출에서의 절약)이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest synonym: thrift ≈ (A) frugality (B) jealousy (C) pant (D) hype",
+            "a": "frugality",
+            "meaning_ko": "frugality(검소함)가 가장 가깝습니다."
+          },
+          {
+            "q": "Choose the best sentence: (A) Thrift are expensive. (B) Thrift is a virtue in many cultures. (C) Thrift ran away. (D) I thrifted a mountain.",
+            "a": "B",
+            "meaning_ko": "thrift는 ‘미덕’으로 표현되는 불가산 개념명사입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'She practices a thrift every day.' → Rewrite to sound natural.",
+            "a": "She practices thrift every day.",
+            "meaning_ko": "thrift는 보통 불가산으로 ‘a’ 없이 씁니다."
+          },
+          {
+            "q": "Nuance choice: Which word can sound negatively stingy compared to 'thrift'? (A) parsimony (B) economy (C) frugality (D) prudence",
+            "a": "parsimony",
+            "meaning_ko": "parsimony는 ‘인색할 정도의 절약’처럼 부정적 뉘앙스가 강합니다."
+          },
+          {
+            "q": "Interpretation: 'thrift-driven consumer behavior' most nearly means consumer behavior motivated by _____.",
+            "a": "the desire to save money and avoid waste",
+            "meaning_ko": "절약 지향(돈/자원 아끼기) 동기가 소비를 이끈다는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

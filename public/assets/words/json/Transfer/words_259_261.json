@@ -1,0 +1,849 @@
+[
+  {
+    "word": "monograph",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A detailed written study or book on a single specialized subject, usually by one author.",
+        "definition_ko": "한 가지 전문 주제를 깊게 다룬 단행 연구서(전문서).",
+        "note": "학술 문맥에서 많이 쓰이며, 보통 특정 인물·작품·현상 ‘하나’에 집중한 책을 말합니다."
+      }
+    ],
+    "concept": "하나의 주제를 끝까지 파고드는 ‘단권 연구서’입니다.",
+    "etymology": "그리스어에서 왔으며 mono-(하나) + -graph(쓰다/기록) 계열 어근이 결합해 ‘한 주제에 대한 기록’이라는 뜻으로 굳었습니다.",
+    "semanticExtension": "원래 ‘한 주제에 대한 글/책’의 의미가 중심이며, 전시 도록·학술 시리즈의 ‘단권’도 monograph라고 부르기도 합니다.",
+    "nuanceRegister": "격식·학술 레지스터(논문/출판/대학·연구기관 문맥). 일상 대화보다는 문어체에 가깝습니다.",
+    "grammarNotes": "가산명사로 a monograph / monographs 형태가 자연스럽습니다. 주제는 보통 on/about + 명사로 붙습니다(예: a monograph on medieval trade).",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 관한(주제 표시)",
+        "example": "a monograph on climate policy"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대한(내용/대상 표시)",
+        "example": "a monograph about the painter"
+      }
+    ],
+    "requiredComplements": [
+      "a monograph on/about + 주제(연구 대상) : ‘~에 관한 단행 연구서’",
+      "publish/release a monograph on + 분야 : ‘~분야에 대한 단행서 출간’"
+    ],
+    "morphology": "mono-(하나) + -graph(쓰다/기록하다) 계열로, ‘한 가지에 대해 기록한 글/책’이라는 구성이 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "monographic",
+        "meaning_ko": "단행 연구서의; 단일 주제에 집중한"
+      },
+      {
+        "word": "monographer",
+        "meaning_ko": "단행 연구서를 쓰는 사람; 전문 연구자"
+      }
+    ],
+    "related": [
+      {
+        "word": "treatise",
+        "meaning_ko": "논문 수준의 전문서; 논고"
+      },
+      {
+        "word": "dissertation",
+        "meaning_ko": "학위 논문"
+      },
+      {
+        "word": "scholarship",
+        "meaning_ko": "학문적 연구 성과(학술성)"
+      },
+      {
+        "word": "bibliography",
+        "meaning_ko": "서지; 참고문헌 목록"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "study",
+        "meaning_ko": "연구서; 연구"
+      },
+      {
+        "word": "scholarly book",
+        "meaning_ko": "학술서"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "paper",
+        "meaning_ko": "논문(보통 더 짧음)"
+      },
+      {
+        "word": "essay",
+        "meaning_ko": "소논문; 에세이(범위가 더 넓을 수 있음)"
+      },
+      {
+        "word": "volume",
+        "meaning_ko": "권(시리즈의 한 권)"
+      },
+      {
+        "word": "report",
+        "meaning_ko": "보고서(실무/조사 성격이 강함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "overview",
+        "meaning_ko": "개관; 개요"
+      },
+      {
+        "word": "survey",
+        "meaning_ko": "총론; 분야 전체를 훑는 조사/개설서"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a monograph on X",
+            "meaning_ko": "X에 관한 단행 연구서"
+          },
+          {
+            "phrase": "publish a monograph",
+            "meaning_ko": "단행 연구서를 출간하다"
+          },
+          {
+            "phrase": "read a monograph",
+            "meaning_ko": "단행 연구서를 읽다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a scholarly monograph",
+            "meaning_ko": "학술 단행서"
+          },
+          {
+            "phrase": "a monograph series",
+            "meaning_ko": "단행서 시리즈"
+          },
+          {
+            "phrase": "revise the monograph",
+            "meaning_ko": "단행서를 개정하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a definitive monograph",
+            "meaning_ko": "결정판(권위 있는) 단행서"
+          },
+          {
+            "phrase": "an annotated monograph",
+            "meaning_ko": "주석(해제)이 달린 단행서"
+          },
+          {
+            "phrase": "a peer-reviewed monograph",
+            "meaning_ko": "동료심사(검토)를 거친 단행서"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She wrote a monograph on urban migration.",
+            "meaning_ko": "그녀는 도시 이주에 관한 단행 연구서를 썼습니다."
+          },
+          {
+            "sentence": "I borrowed a monograph from the university library.",
+            "meaning_ko": "저는 대학 도서관에서 단행 연구서를 빌렸습니다."
+          },
+          {
+            "sentence": "This monograph explains the topic in great detail.",
+            "meaning_ko": "이 단행서는 그 주제를 매우 자세히 설명합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The press will publish his monograph next spring.",
+            "meaning_ko": "그 출판사는 내년 봄 그의 단행서를 출간할 예정입니다."
+          },
+          {
+            "sentence": "Her monograph challenges the standard interpretation of the data.",
+            "meaning_ko": "그녀의 단행서는 데이터의 통상적 해석에 이의를 제기합니다."
+          },
+          {
+            "sentence": "The book began as a dissertation and later became a monograph.",
+            "meaning_ko": "그 책은 학위 논문으로 시작해 나중에 단행서가 되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The author situates the monograph within a broader historiographical debate.",
+            "meaning_ko": "저자는 그 단행서를 더 큰 역사학적 논쟁의 맥락 속에 위치시킵니다."
+          },
+          {
+            "sentence": "The monograph offers a meticulously sourced account, but its theoretical frame is contested.",
+            "meaning_ko": "그 단행서는 치밀한 자료에 근거한 서술을 제시하지만, 이론적 틀은 논쟁적입니다."
+          },
+          {
+            "sentence": "Despite its narrow scope, the monograph reshapes how the field defines its core concepts.",
+            "meaning_ko": "범위는 좁지만 그 단행서는 학계가 핵심 개념을 규정하는 방식을 다시 세웁니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "monograph는 ‘한 주제만 파는 학술 단행서’라는 점이 핵심입니다. survey/overview(총론·개관)와 대비해서 기억하시면 좋습니다. 전치사는 on/about가 가장 안전하며, “a monograph on X”를 덩어리로 외우면 실전에서 흔들리지 않습니다.",
+    "tags": [
+      "학술",
+      "출판",
+      "연구",
+      "도서",
+      "논문"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of \"monograph\":\nA) a short casual message\nB) a detailed book on one subject\nC) a list of random facts\nD) a children’s picture book",
+            "a": "B) a detailed book on one subject",
+            "meaning_ko": "monograph는 ‘하나의 주제에 대한 상세한 단행 연구서’입니다."
+          },
+          {
+            "q": "Fill in the blank: She published a monograph ____ Renaissance sculpture.",
+            "a": "on",
+            "meaning_ko": "주제 표시로 on이 가장 일반적입니다."
+          },
+          {
+            "q": "Which is closer to \"monograph\" in academic context?\nA) overview\nB) treatise\nC) gossip\nD) snack",
+            "a": "B) treatise",
+            "meaning_ko": "treatise는 전문적인 논고/학술서로 monograph와 결이 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using \"monograph\": \"He wrote a detailed book about one narrow topic.\"",
+            "a": "He wrote a monograph on a narrow topic.",
+            "meaning_ko": "detailed book about one topic → monograph on + topic 로 압축 가능합니다."
+          },
+          {
+            "q": "Pick the sentence where \"monograph\" is used most naturally.",
+            "a": "The professor assigned a monograph on trade networks for next week’s seminar.",
+            "meaning_ko": "학술 세미나/과제 문맥이 monograph와 가장 자연스럽습니다."
+          },
+          {
+            "q": "Fill in the blank: The dissertation was expanded and revised into a ____.",
+            "a": "monograph",
+            "meaning_ko": "학위논문이 단행서로 발전하는 흐름에서 자주 쓰는 표현입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best option: \"Her monograph is ____ sourced, yet its conclusions remain controversial.\"\nA) meticulously\nB) reluctantly\nC) randomly\nD) barely",
+            "a": "A) meticulously",
+            "meaning_ko": "학술 문맥에서 ‘치밀하게(정교하게) 자료를 댄’이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: \"He published a monograph in climate policy.\" (Correct the preposition.)",
+            "a": "He published a monograph on climate policy.",
+            "meaning_ko": "주제는 in보다 on/about가 표준적입니다."
+          },
+          {
+            "q": "Complete the sentence logically: \"Although the monograph focuses on a single case study, it ____ the prevailing theory.\"",
+            "a": "calls into question",
+            "meaning_ko": "‘통설에 의문을 제기하다’ 같은 학술적 전개가 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sensual",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Relating to physical senses and the enjoyment of bodily pleasure, especially touch and taste.",
+        "definition_ko": "감각(특히 촉각·미각 등)과 육체적 쾌락에 관련된.",
+        "note": "성적 뉘앙스를 띨 수 있으나, ‘감각적’(향, 촉감, 분위기)처럼 예술·미식 문맥에서도 넓게 씁니다."
+      },
+      {
+        "definition_en": "Arousing or expressing such pleasure; sensuously attractive.",
+        "definition_ko": "관능적인; 감각적 매력을 불러일으키는.",
+        "note": "sensuous(감각을 즐기는)와 겹치지만 sensual은 ‘관능/욕망’ 쪽으로 더 기울 수 있습니다."
+      }
+    ],
+    "concept": "오감의 쾌락(특히 ‘촉감·관능’)을 강하게 떠올리게 하는 말입니다.",
+    "etymology": "라틴어 sensus(감각)에서 파생된 계열로, ‘감각에 관한’ 의미가 ‘관능적’ 뉘앙스로 확장되었습니다.",
+    "semanticExtension": "기본은 ‘감각에 관련된’이지만, 문맥에 따라 ‘관능적/에로틱한 분위기’까지 확장됩니다. 음식·향·음악·조명 등 ‘분위기’ 묘사에도 자주 쓰입니다.",
+    "nuanceRegister": "중간~격식(리뷰/문학/예술 비평에서 자연스럽고, 일상에서도 가능). 다만 사람을 묘사할 때는 성적 뉘앙스를 고려해야 합니다.",
+    "grammarNotes": "형용사로 be/feel/look/sound + sensual 구조가 흔합니다. 명사형은 sensuality, 부사형은 sensually가 표준입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서/면에서 감각적인(표현 영역)",
+        "example": "sensual in its use of color"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와 함께(감각적 요소 동반)",
+        "example": "a scene sensual with warm light"
+      }
+    ],
+    "requiredComplements": [
+      "sensual in + 표현/양식 : ‘~한 점에서 감각적인’",
+      "sensual with + 요소 : ‘~로 가득 찬/~이 배어 있는 관능적 분위기’"
+    ],
+    "morphology": "sense(감각) 계열 어근 + -ual(형용사화)로, ‘감각과 관련된’이라는 구성이 기본입니다.",
+    "derivatives": [
+      {
+        "word": "sensuality",
+        "meaning_ko": "관능; 감각적 쾌락"
+      },
+      {
+        "word": "sensually",
+        "meaning_ko": "관능적으로; 감각적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "sensuous",
+        "meaning_ko": "감각을 즐기는; 감각적인(보다 중립적)"
+      },
+      {
+        "word": "erotic",
+        "meaning_ko": "에로틱한; 성적 자극의"
+      },
+      {
+        "word": "tactile",
+        "meaning_ko": "촉각의; 만져지는 느낌의"
+      },
+      {
+        "word": "aesthetic",
+        "meaning_ko": "미학적인; 심미적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "sensuous",
+        "meaning_ko": "감각적인"
+      },
+      {
+        "word": "voluptuous",
+        "meaning_ko": "관능적인; 육감적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "lush",
+        "meaning_ko": "풍성하고 감각적인(사운드/풍경 등)"
+      },
+      {
+        "word": "intimate",
+        "meaning_ko": "친밀한; 은밀한 분위기의"
+      },
+      {
+        "word": "seductive",
+        "meaning_ko": "유혹적인"
+      },
+      {
+        "word": "luxurious",
+        "meaning_ko": "호화로운; 감각적 만족이 큰"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "austere",
+        "meaning_ko": "금욕적인; 엄격하고 꾸밈없는"
+      },
+      {
+        "word": "clinical",
+        "meaning_ko": "무미건조한; 임상적인"
+      },
+      {
+        "word": "platonic",
+        "meaning_ko": "비성적인; 정신적 사랑의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sensual pleasure",
+            "meaning_ko": "감각적/관능적 즐거움"
+          },
+          {
+            "phrase": "sensual music",
+            "meaning_ko": "감각적인 음악"
+          },
+          {
+            "phrase": "sensual touch",
+            "meaning_ko": "관능적인 촉감/접촉"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a sensual atmosphere",
+            "meaning_ko": "관능적 분위기"
+          },
+          {
+            "phrase": "sensual imagery",
+            "meaning_ko": "감각을 자극하는 이미지/표현"
+          },
+          {
+            "phrase": "sensual appeal",
+            "meaning_ko": "관능적 매력"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sensual undercurrent",
+            "meaning_ko": "은근히 흐르는 관능적 기류"
+          },
+          {
+            "phrase": "sensual immediacy",
+            "meaning_ko": "감각의 즉시성(생생한 감각 전달)"
+          },
+          {
+            "phrase": "sensual excess",
+            "meaning_ko": "감각적 과잉(관능의 과도함)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The perfume has a sensual, warm scent.",
+            "meaning_ko": "그 향수는 관능적이고 따뜻한 향이 납니다."
+          },
+          {
+            "sentence": "They danced to slow, sensual music.",
+            "meaning_ko": "그들은 느리고 감각적인 음악에 맞춰 춤을 췄습니다."
+          },
+          {
+            "sentence": "The silk feels sensual against the skin.",
+            "meaning_ko": "그 실크는 피부에 닿을 때 감각적으로 느껴집니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The director builds a sensual atmosphere with soft light and lingering close-ups.",
+            "meaning_ko": "감독은 부드러운 조명과 오래 머무는 클로즈업으로 관능적 분위기를 만듭니다."
+          },
+          {
+            "sentence": "Her writing is sensual in its attention to taste, texture, and sound.",
+            "meaning_ko": "그녀의 글은 맛·질감·소리에 대한 세심함에서 감각적입니다."
+          },
+          {
+            "sentence": "The review praised the film’s sensual imagery but criticized its thin plot.",
+            "meaning_ko": "리뷰는 영화의 감각적 이미지에는 호평했지만, 빈약한 줄거리는 비판했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The novel’s sensual undercurrent complicates what first appears to be a purely moral tale.",
+            "meaning_ko": "그 소설의 관능적 기류는 처음엔 순전히 도덕담처럼 보이는 이야기를 복잡하게 만듭니다."
+          },
+          {
+            "sentence": "Rather than being explicit, the scene is sensual through suggestion and rhythm.",
+            "meaning_ko": "그 장면은 노골적이기보다 암시와 리듬을 통해 관능적으로 작동합니다."
+          },
+          {
+            "sentence": "Critics debated whether the work celebrates sensual freedom or merely aestheticizes desire.",
+            "meaning_ko": "비평가들은 그 작품이 관능적 자유를 찬미하는지, 아니면 욕망을 미학화할 뿐인지 논쟁했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sensual은 ‘감각적’이면서도 문맥에 따라 ‘관능적(성적 뉘앙스)’으로 읽힐 수 있습니다. 사람을 직접 묘사할 때는 sensuous(보다 중립적)나 aesthetic(심미적) 같은 대안을 고려해 보세요. 덩어리로는 sensual pleasure / sensual atmosphere / sensual imagery를 함께 익히면 활용 폭이 넓습니다.",
+    "tags": [
+      "감각",
+      "예술",
+      "분위기",
+      "문학",
+      "미식"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning of \"sensual\":\nA) related to strict rules\nB) related to physical senses and pleasure\nC) related to speed and power\nD) related to numbers",
+            "a": "B) related to physical senses and pleasure",
+            "meaning_ko": "sensual은 오감과 육체적 쾌락에 관련된 의미가 핵심입니다."
+          },
+          {
+            "q": "Fill in the blank: The velvet robe felt ____ against my skin.",
+            "a": "sensual",
+            "meaning_ko": "촉감·감각을 강조하는 문맥에서 sensual이 자연스럽습니다."
+          },
+          {
+            "q": "Which collocation is most natural?\nA) sensual arithmetic\nB) sensual texture\nC) sensual deadline\nD) sensual invoice",
+            "a": "B) sensual texture",
+            "meaning_ko": "texture(질감)처럼 감각 요소와 잘 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best rewrite: \"The scene feels erotic but not explicit.\" (Use \"sensual\".)",
+            "a": "The scene is sensual but not explicit.",
+            "meaning_ko": "sensual은 ‘노골적이지 않지만 관능적’이라는 뉘앙스를 담기 좋습니다."
+          },
+          {
+            "q": "Fill in the blank: Her prose is sensual ____ its attention to sound and rhythm.",
+            "a": "in",
+            "meaning_ko": "어떤 면에서 감각적인지를 말할 때 sensual in + 영역이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the option that best avoids an overly sexual tone when describing art.\nA) sensual\nB) sensuous\nC) obscene\nD) vulgar",
+            "a": "B) sensuous",
+            "meaning_ko": "sensuous는 ‘감각을 즐기는’ 쪽으로 더 중립적이라 예술 평에서 안전합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: \"The film’s sensuality lies less in nudity than in the ____ of its pacing.\"",
+            "a": "rhythm",
+            "meaning_ko": "노골성보다 ‘리듬/호흡’에서 감각이 나온다는 논리 전개가 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: \"Her style is sensual about its use of color.\" (Fix the preposition.)",
+            "a": "Her style is sensual in its use of color.",
+            "meaning_ko": "‘~한 점에서’는 in이 더 자연스럽습니다."
+          },
+          {
+            "q": "Choose the most nuanced sentence.",
+            "a": "The painting is sensual without being sentimental, inviting the viewer to linger on texture and light.",
+            "meaning_ko": "sensual을 ‘감각적 몰입’으로 쓰면서도 과잉(감상성)과 구별하는 문장입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "debacle",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A sudden, humiliating failure or collapse that causes serious trouble; a fiasco.",
+        "definition_ko": "갑작스럽고 망신스러운 대실패; 수습하기 어려운 난장판(참사).",
+        "note": "실패의 ‘규모’와 ‘혼란/굴욕감’을 함께 강조합니다."
+      }
+    ],
+    "concept": "크게 터져서 ‘망한 사건’(대형 실패/참사)을 한 단어로 잡는 표현입니다.",
+    "etymology": "프랑스어 débâcle(붕괴, 해빙으로 인한 얼음 붕괴/급격한 무너짐)에서 들어와 ‘급격한 붕괴→대실패’ 의미로 굳었습니다.",
+    "semanticExtension": "물리적 붕괴(해빙·무너짐) 이미지가 ‘조직/정책/행사/PR의 붕괴’ 같은 비유로 확장되어, 대형 실패를 가리키는 말로 널리 쓰입니다.",
+    "nuanceRegister": "격식~저널리즘(기사/분석/비평에서 흔함). ‘그냥 실수’보다 훨씬 큰 사고를 강하게 표현합니다.",
+    "grammarNotes": "가산명사로 a debacle / the debacle / debacles가 일반적입니다. turn into a debacle, end in a debacle 같은 동사구와 자주 결합합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "over",
+        "meaning_ko": "~을 두고(논란/사건의 주제)",
+        "example": "a debacle over the budget"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에게/에게는(부정적 결과의 주체)",
+        "example": "a debacle for the company"
+      }
+    ],
+    "requiredComplements": [
+      "turn into/end in + a debacle : ‘대실패로 번지다/끝나다’",
+      "a debacle over + 쟁점 : ‘~을 둘러싼 대형 실패/혼란’"
+    ],
+    "morphology": "차용어라 접두·접미 분석보다는 어원 이미지(‘급격한 붕괴’)로 의미를 잡는 편이 효과적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "fiasco",
+        "meaning_ko": "대실패; 참사"
+      },
+      {
+        "word": "catastrophe",
+        "meaning_ko": "대재앙; 큰 참사"
+      },
+      {
+        "word": "collapse",
+        "meaning_ko": "붕괴; 와해"
+      },
+      {
+        "word": "backlash",
+        "meaning_ko": "역풍; 반발"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "fiasco",
+        "meaning_ko": "대실패"
+      },
+      {
+        "word": "disaster",
+        "meaning_ko": "재앙; 큰 실패"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "mess",
+        "meaning_ko": "엉망진창(톤이 더 구어)"
+      },
+      {
+        "word": "blunder",
+        "meaning_ko": "큰 실수(원인에 초점)"
+      },
+      {
+        "word": "debacle",
+        "meaning_ko": "대형 실패(결과·혼란에 초점)"
+      },
+      {
+        "word": "breakdown",
+        "meaning_ko": "고장; 기능 붕괴"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "success",
+        "meaning_ko": "성공"
+      },
+      {
+        "word": "triumph",
+        "meaning_ko": "대승; 쾌거"
+      },
+      {
+        "word": "smooth rollout",
+        "meaning_ko": "무리 없는 출시/도입"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a public debacle",
+            "meaning_ko": "공개적 망신을 산 대실패"
+          },
+          {
+            "phrase": "a total debacle",
+            "meaning_ko": "완전한 대실패"
+          },
+          {
+            "phrase": "turn into a debacle",
+            "meaning_ko": "대실패로 번지다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a political debacle",
+            "meaning_ko": "정치적 대형 실패"
+          },
+          {
+            "phrase": "a PR debacle",
+            "meaning_ko": "홍보/이미지 관리 참사"
+          },
+          {
+            "phrase": "avoid a debacle",
+            "meaning_ko": "대형 사고를 피하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a cascading debacle",
+            "meaning_ko": "연쇄적으로 커지는 대실패"
+          },
+          {
+            "phrase": "a debacle of historic proportions",
+            "meaning_ko": "역사적 규모의 참사"
+          },
+          {
+            "phrase": "the debacle laid bare X",
+            "meaning_ko": "그 참사가 X를 적나라하게 드러내다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The event turned into a debacle within an hour.",
+            "meaning_ko": "그 행사는 한 시간 만에 대실패로 번졌습니다."
+          },
+          {
+            "sentence": "Their launch was a debacle, and customers demanded refunds.",
+            "meaning_ko": "그들의 출시 행사는 참사였고, 고객들이 환불을 요구했습니다."
+          },
+          {
+            "sentence": "We need a plan to prevent another debacle.",
+            "meaning_ko": "또 다른 대형 실패를 막을 계획이 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "A minor bug escalated into a full-blown debacle after the update.",
+            "meaning_ko": "사소한 버그가 업데이트 이후 전면적인 대실패로 커졌습니다."
+          },
+          {
+            "sentence": "The report details how poor communication fueled the debacle.",
+            "meaning_ko": "그 보고서는 미흡한 소통이 어떻게 참사를 키웠는지 자세히 설명합니다."
+          },
+          {
+            "sentence": "The company tried to frame the debacle as a temporary setback.",
+            "meaning_ko": "회사는 그 참사를 일시적 차질로 포장하려 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "What began as a routine procurement decision became a debacle that exposed systemic governance failures.",
+            "meaning_ko": "일상적인 조달 결정으로 시작된 일이 시스템적 거버넌스 실패를 드러내는 참사로 번졌습니다."
+          },
+          {
+            "sentence": "In hindsight, the debacle was less about incompetence than about incentives aligned against accountability.",
+            "meaning_ko": "돌이켜보면 그 참사는 무능력보다도 책임을 거스르는 방향으로 설계된 인센티브의 문제였습니다."
+          },
+          {
+            "sentence": "The crisis management memo reads like an attempt to narrate control after the debacle had already defined the story.",
+            "meaning_ko": "그 위기 대응 메모는, 이미 참사가 서사를 규정해 버린 뒤에 통제력을 서술로 되찾으려는 시도처럼 읽힙니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "debacle은 ‘실수’가 아니라 ‘대형 참사/망신스러운 붕괴’입니다. fiasco와 거의 동의지만, debacle은 ‘급격한 붕괴처럼 무너진’ 이미지가 더 강합니다. 실전에서는 turn into a debacle / end in a debacle / a PR debacle 같은 덩어리로 익히면 표현력이 크게 올라갑니다.",
+    "tags": [
+      "실패",
+      "사건",
+      "위기관리",
+      "비평",
+      "뉴스"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning of \"debacle\":\nA) a small mistake\nB) a sudden disastrous failure\nC) a friendly chat\nD) a careful plan",
+            "a": "B) a sudden disastrous failure",
+            "meaning_ko": "debacle은 ‘갑작스럽고 큰 대실패/참사’입니다."
+          },
+          {
+            "q": "Fill in the blank: The meeting ____ a debacle when the audio system failed.",
+            "a": "became",
+            "meaning_ko": "become/turn into와 잘 결합합니다."
+          },
+          {
+            "q": "Which collocation sounds natural?\nA) a debacle of sunshine\nB) a PR debacle\nC) a debacle of compliments\nD) a debacle of homework",
+            "a": "B) a PR debacle",
+            "meaning_ko": "기업·정치·홍보 문맥에서 ‘PR 참사’가 매우 흔합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: A minor issue quickly escalated ____ a debacle.",
+            "a": "into",
+            "meaning_ko": "escalate into a debacle(대형 실패로 커지다) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: \"The rollout was a debacle.\"",
+            "a": "The rollout failed badly and caused serious trouble.",
+            "meaning_ko": "단순 실패가 아니라 ‘큰 혼란/피해’까지 포함하는 뉘앙스입니다."
+          },
+          {
+            "q": "Pick the sentence that best fits \"debacle\" (not a minor error).",
+            "a": "The policy reversal triggered a political debacle that dominated headlines for weeks.",
+            "meaning_ko": "장기간 뉴스가 되는 수준의 ‘대형 사태’가 debacle과 어울립니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Complete the sentence: \"The debacle ____ the organization’s lack of internal controls.\"",
+            "a": "laid bare",
+            "meaning_ko": "lay bare는 ‘적나라하게 드러내다’로 분석/기사 문맥에서 강력합니다."
+          },
+          {
+            "q": "Error correction: \"It ended to a debacle.\" (Fix the preposition.)",
+            "a": "It ended in a debacle.",
+            "meaning_ko": "end in + 결과(상태)가 표준입니다."
+          },
+          {
+            "q": "Choose the most precise word for a humiliating large-scale failure: fiasco / debacle / typo",
+            "a": "debacle",
+            "meaning_ko": "typo는 사소하고, fiasco도 가깝지만 ‘붕괴·참사’ 이미지까지 담아 debacle이 가장 강합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

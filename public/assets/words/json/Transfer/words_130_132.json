@@ -1,0 +1,1016 @@
+[
+  {
+    "word": "imperative",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Extremely important or urgent; absolutely necessary.",
+        "definition_ko": "아주 중요한, 시급한; 반드시 필요한.",
+        "note": "격식 있는 문장(보고서/공지/논설)에서 ‘필수’라는 강한 어조로 자주 씁니다."
+      },
+      {
+        "definition_en": "A command or order that must be obeyed.",
+        "definition_ko": "명령, 지시(반드시 따라야 하는 것).",
+        "note": "the imperatives of war/medicine처럼 ‘(상황이 요구하는) 필연적 요구’라는 뜻으로도 확장됩니다."
+      },
+      {
+        "definition_en": "The grammatical mood used for giving commands or making requests.",
+        "definition_ko": "명령법(문법에서 명령·요청을 나타내는 서법).",
+        "note": "예: ‘Close the door.’는 imperative sentence입니다."
+      }
+    ],
+    "concept": "‘지금 반드시 해야 한다’는 필요·명령의 강한 압박을 나타내는 단어",
+    "etymology": "라틴어 imperare(명령하다)에서 왔고, ‘통치/명령’의 의미가 영어로 이어져 ‘필수적’ 의미까지 확장되었습니다.",
+    "semanticExtension": "직접적인 ‘명령’에서 출발해, 상황·윤리·전략이 요구하는 ‘피할 수 없는 필요(necessity)’를 가리키는 추상적 용법이 발달했습니다(예: moral/strategic imperative).",
+    "nuanceRegister": "격식·문어 성향이 강하며, ‘essential’보다 더 단호하고 긴급한 뉘앙스를 줍니다. 공문/보고서/학술·정치 담론에서 흔합니다.",
+    "grammarNotes": "형용사로는 be imperative / it is imperative that절 / imperative to부정사, 명사로는 an imperative(필연/명령)처럼 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두(명령/지시는 가산, ‘필연적 요구’는 문맥상 불가산처럼도 사용)",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~하는 것이 필수적이다",
+        "example": "It is imperative to verify the figures."
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에게/~에 있어 필수적이다",
+        "example": "Clear consent is imperative for ethical research."
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~한 상황에서 (관대/단호 등)",
+        "example": "He was imperative in tone during the briefing."
+      }
+    ],
+    "requiredComplements": [
+      "it is imperative that + S (should) V : ‘~하는 것이 절대적으로 필요하다’(격식)",
+      "be imperative to + V : ‘~하는 것이 필수적이다’",
+      "an imperative for + 명사/동명사 : ‘~을(를) 위한 필연적 요구’"
+    ],
+    "morphology": "imper-(명령/지배) 계열 어근 + -ative(형용사/명사화 접미 요소). 라틴어 imperare ‘명령하다’와 연결됩니다.",
+    "derivatives": [
+      {
+        "word": "imperatively",
+        "meaning_ko": "명령조로; 반드시 필요하게"
+      },
+      {
+        "word": "imperativeness",
+        "meaning_ko": "절대적 필요성; 명령적 성격"
+      },
+      {
+        "word": "imperial",
+        "meaning_ko": "제국의, 황제의(어근 연관)"
+      },
+      {
+        "word": "imperious",
+        "meaning_ko": "오만하게 명령하는, 거만한"
+      },
+      {
+        "word": "imperative mood",
+        "meaning_ko": "명령법(문법 용어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "necessity",
+        "meaning_ko": "필요, 필요성"
+      },
+      {
+        "word": "mandate",
+        "meaning_ko": "명령, (법/권한으로서의) 지시"
+      },
+      {
+        "word": "obligation",
+        "meaning_ko": "의무"
+      },
+      {
+        "word": "injunction",
+        "meaning_ko": "(법적) 명령, 금지명령"
+      },
+      {
+        "word": "priority",
+        "meaning_ko": "우선순위, 급선무"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "essential",
+        "meaning_ko": "필수적인"
+      },
+      {
+        "word": "crucial",
+        "meaning_ko": "결정적인, 매우 중요한"
+      },
+      {
+        "word": "vital",
+        "meaning_ko": "생명에 관계된; 필수적인"
+      },
+      {
+        "word": "mandatory",
+        "meaning_ko": "의무적인"
+      },
+      {
+        "word": "command",
+        "meaning_ko": "명령"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "urgent",
+        "meaning_ko": "긴급한"
+      },
+      {
+        "word": "pressing",
+        "meaning_ko": "절박한"
+      },
+      {
+        "word": "compelling",
+        "meaning_ko": "강력히 설득/압박하는"
+      },
+      {
+        "word": "necessary",
+        "meaning_ko": "필요한"
+      },
+      {
+        "word": "paramount",
+        "meaning_ko": "최우선의, 지극히 중요한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "optional",
+        "meaning_ko": "선택적인"
+      },
+      {
+        "word": "nonessential",
+        "meaning_ko": "필수적이지 않은"
+      },
+      {
+        "word": "trivial",
+        "meaning_ko": "사소한"
+      },
+      {
+        "word": "inessential",
+        "meaning_ko": "본질적이지 않은"
+      },
+      {
+        "word": "permissive",
+        "meaning_ko": "강제하지 않는, 허용적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "absolutely imperative",
+            "meaning_ko": "절대적으로 필수적인"
+          },
+          {
+            "phrase": "imperative need",
+            "meaning_ko": "절박한 필요"
+          },
+          {
+            "phrase": "imperative duty",
+            "meaning_ko": "피할 수 없는 의무"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "moral imperative",
+            "meaning_ko": "도덕적 책무/필연"
+          },
+          {
+            "phrase": "strategic imperative",
+            "meaning_ko": "전략적 필수 과제"
+          },
+          {
+            "phrase": "imperative mood",
+            "meaning_ko": "명령법(문법)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "categorical imperative",
+            "meaning_ko": "정언명령(칸트 윤리학)"
+          },
+          {
+            "phrase": "operational imperative",
+            "meaning_ko": "운영상 최우선 요구"
+          },
+          {
+            "phrase": "an imperative for reform",
+            "meaning_ko": "개혁을 해야만 하는 필연"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It’s imperative to back up your files before you update the system.",
+            "meaning_ko": "시스템을 업데이트하기 전에 파일을 백업하는 건 필수입니다."
+          },
+          {
+            "sentence": "The doctor said it was imperative that he take the medicine on time.",
+            "meaning_ko": "의사는 그가 약을 제때 복용하는 것이 절대적으로 필요하다고 말했습니다."
+          },
+          {
+            "sentence": "In an emergency, staying calm becomes imperative.",
+            "meaning_ko": "비상 상황에서는 침착함을 유지하는 것이 필수적이 됩니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "It is imperative that the data be checked by an independent auditor.",
+            "meaning_ko": "데이터가 독립 감사인에 의해 검증되는 것이 절대적으로 필요합니다."
+          },
+          {
+            "sentence": "‘Please sit down’ can be polite, but it still functions as an imperative.",
+            "meaning_ko": "‘앉아 주세요’는 공손할 수 있지만 기능상 명령법으로 작동합니다."
+          },
+          {
+            "sentence": "The new guidelines were presented as imperatives rather than suggestions.",
+            "meaning_ko": "새 지침은 제안이 아니라 반드시 따라야 하는 지시로 제시되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The company framed cybersecurity as a strategic imperative, not a compliance checkbox.",
+            "meaning_ko": "회사는 사이버보안을 ‘규정 준수 체크박스’가 아니라 ‘전략적 필수 과제’로 규정했습니다."
+          },
+          {
+            "sentence": "Kant’s categorical imperative evaluates a maxim by asking whether it could be universal law.",
+            "meaning_ko": "칸트의 정언명령은 그 준칙이 보편법이 될 수 있는지로 도덕성을 평가합니다."
+          },
+          {
+            "sentence": "The treaty created an imperative for reciprocal verification mechanisms to prevent escalation.",
+            "meaning_ko": "그 조약은 긴장 고조를 막기 위해 상호 검증 장치가 필요하다는 필연을 만들었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "imperative는 ‘필수(essential)’보다 더 강하게 ‘반드시’의 압박을 줍니다. 시험에서는 it is imperative that + (should) V / be imperative to + V 패턴을 특히 잘 봅니다. 문법 용어(명령법) 의미도 같이 나와 혼동되기 쉬우니 예문 ‘Close the door.’를 함께 기억해 두세요.",
+    "tags": [
+      "필수",
+      "명령",
+      "문법",
+      "격식 표현",
+      "윤리·전략 담론"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: It is ___ to wear a helmet on this site. (imperative / decorative / fragile / casual)",
+            "a": "imperative",
+            "meaning_ko": "현장에서 ‘반드시 필요하다’는 의미이므로 imperative가 정답입니다."
+          },
+          {
+            "q": "Choose the closest meaning: ‘imperative’ (as an adjective)",
+            "a": "absolutely necessary",
+            "meaning_ko": "imperative(형용사)=‘절대적으로 필요한, 필수적인’."
+          },
+          {
+            "q": "Which sentence uses an imperative (grammar) correctly?",
+            "a": "Close the window, please.",
+            "meaning_ko": "명령/요청 형태의 문장으로 imperative sentence에 해당합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best structure: It is imperative ___ we (should) act now.",
+            "a": "that",
+            "meaning_ko": "격식 표현으로 it is imperative that + 절(should 생략 가능)이 자연스럽습니다."
+          },
+          {
+            "q": "Rewrite using ‘be imperative to’: We must verify the figures before publishing.",
+            "a": "It is imperative to verify the figures before publishing.",
+            "meaning_ko": "must를 ‘필수’ 의미의 imperative로 바꿔 표현할 수 있습니다."
+          },
+          {
+            "q": "Error correction: ‘It is imperative for we finish by Friday.’ (Fix it.)",
+            "a": "It is imperative that we finish by Friday.",
+            "meaning_ko": "imperative는 that절로 받는 것이 자연스럽고, for we는 비문입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best paraphrase: ‘A moral imperative drove her decision.’",
+            "a": "A sense of unavoidable moral duty drove her decision.",
+            "meaning_ko": "moral imperative는 ‘도덕적으로 피할 수 없는 책무’ 뉘앙스입니다."
+          },
+          {
+            "q": "Which option best fits academic style? ‘It is imperative that the sample ___ sterile.’ (be / is / was / being)",
+            "a": "be",
+            "meaning_ko": "가정/요구를 나타내는 that절에서 원형(be) 가정법을 쓰는 경우가 많습니다."
+          },
+          {
+            "q": "Interpret the nuance: ‘They treated transparency as an imperative, not a preference.’ What does ‘imperative’ imply here?",
+            "a": "a non-negotiable requirement",
+            "meaning_ko": "선호가 아니라 ‘협상 불가한 요구’라는 강한 필수 의미를 강조합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "magnanimous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Very generous and forgiving, especially toward a rival or someone less powerful.",
+        "definition_ko": "아주 관대한, 특히 경쟁자·약자에게도 너그럽고 용서하는.",
+        "note": "승리한 사람이 상대를 ‘대인배처럼’ 대할 때 자주 쓰입니다(magnanimous in victory)."
+      },
+      {
+        "definition_en": "Noble and high-minded; showing greatness of spirit.",
+        "definition_ko": "고결한, 도량이 큰(품격 있는 정신을 드러내는).",
+        "note": "단순히 ‘많이 주는 generous’가 아니라 ‘마음의 크기/품격’이 핵심입니다."
+      }
+    ],
+    "concept": "마음(정신)이 커서 남을 너그럽게 대하고 품위 있게 행동하는 상태",
+    "etymology": "라틴어 magnus(큰) + animus(마음/정신)에서 유래해 ‘큰 마음을 가진’이라는 의미가 굳어졌습니다.",
+    "semanticExtension": "원래 ‘큰 마음/고결한 정신’에서, 현대에는 특히 갈등 상황에서 상대를 너그럽게 대하는 ‘관용·포용’의 덕목으로 자주 쓰입니다.",
+    "nuanceRegister": "격식·문어·문학적 뉘앙스가 강합니다. 일상회화에서는 big-hearted, generous로 더 쉽게 표현하는 경우가 많습니다.",
+    "grammarNotes": "형용사로 be magnanimous, magnanimous toward/to + 사람, magnanimous in + 상황(특히 victory/defeat) 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "toward",
+        "meaning_ko": "~에게 관대하게/너그럽게",
+        "example": "She was magnanimous toward her critics."
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게(더 격식) 관대하게",
+        "example": "He was magnanimous to the defeated opponent."
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~한 상황에서(특히 승리/패배에서)",
+        "example": "Try to be magnanimous in victory."
+      }
+    ],
+    "requiredComplements": [
+      "be magnanimous toward/to + 사람 : ‘~에게 관대하다/대인배처럼 굴다’",
+      "be magnanimous in + 상황 : ‘~한 상황에서 도량이 크다’(in victory/defeat 등)",
+      "a magnanimous + 명사(gesture/offer/concession) : ‘관대한 ~’"
+    ],
+    "morphology": "magn-(큰) + anim-(마음/정신) + -ous(…한 성질의). 어근 자체가 ‘큰 마음’이라 기억하기 좋습니다.",
+    "derivatives": [
+      {
+        "word": "magnanimity",
+        "meaning_ko": "관대함, 도량(큰 마음)"
+      },
+      {
+        "word": "magnanimously",
+        "meaning_ko": "관대하게, 도량 있게"
+      },
+      {
+        "word": "magnanimousness",
+        "meaning_ko": "관대함(드물게 사용)"
+      },
+      {
+        "word": "animus",
+        "meaning_ko": "(관련 어근) 적의, 반감; 마음/정신"
+      },
+      {
+        "word": "magnify",
+        "meaning_ko": "(관련 어근) 확대하다, 과장하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "forgiveness",
+        "meaning_ko": "용서"
+      },
+      {
+        "word": "clemency",
+        "meaning_ko": "관용, (권력자의) 자비"
+      },
+      {
+        "word": "generosity",
+        "meaning_ko": "관대함, 후함"
+      },
+      {
+        "word": "grace",
+        "meaning_ko": "우아함; (상대에 대한) 품위 있는 태도"
+      },
+      {
+        "word": "vindictiveness",
+        "meaning_ko": "앙심, 보복심(대조 개념)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "bighearted",
+        "meaning_ko": "마음이 큰, 인정 많은"
+      },
+      {
+        "word": "generous",
+        "meaning_ko": "관대한, 후한"
+      },
+      {
+        "word": "gracious",
+        "meaning_ko": "품위 있고 친절한; 관대한"
+      },
+      {
+        "word": "noble-minded",
+        "meaning_ko": "고결한, 고상한 마음의"
+      },
+      {
+        "word": "forgiving",
+        "meaning_ko": "너그럽게 용서하는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "benevolent",
+        "meaning_ko": "자애로운, 선의의"
+      },
+      {
+        "word": "charitable",
+        "meaning_ko": "자비로운; 관대하게 해석하는"
+      },
+      {
+        "word": "lenient",
+        "meaning_ko": "(처벌·평가에) 관대한"
+      },
+      {
+        "word": "merciful",
+        "meaning_ko": "자비로운"
+      },
+      {
+        "word": "tolerant",
+        "meaning_ko": "관용적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "petty",
+        "meaning_ko": "속 좁은, 사소한 데 집착하는"
+      },
+      {
+        "word": "mean-spirited",
+        "meaning_ko": "옹졸한, 비열한"
+      },
+      {
+        "word": "vindictive",
+        "meaning_ko": "앙심 품은, 보복하려는"
+      },
+      {
+        "word": "spiteful",
+        "meaning_ko": "악의적인"
+      },
+      {
+        "word": "grudging",
+        "meaning_ko": "마지못해 하는, 인색한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "be magnanimous",
+            "meaning_ko": "관대하게 굴다"
+          },
+          {
+            "phrase": "magnanimous gesture",
+            "meaning_ko": "관대한 제스처/행동"
+          },
+          {
+            "phrase": "magnanimous offer",
+            "meaning_ko": "관대한 제안"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "magnanimous in victory",
+            "meaning_ko": "승리했을 때 관대하다"
+          },
+          {
+            "phrase": "magnanimous toward critics",
+            "meaning_ko": "비판자에게도 너그럽다"
+          },
+          {
+            "phrase": "a magnanimous spirit",
+            "meaning_ko": "도량 큰 기개/정신"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "magnanimous concession",
+            "meaning_ko": "대인배 같은 양보"
+          },
+          {
+            "phrase": "magnanimous clemency",
+            "meaning_ko": "관대한 사면/자비"
+          },
+          {
+            "phrase": "a magnanimous statesman",
+            "meaning_ko": "도량 큰 정치가"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He apologized first and tried to be magnanimous about the mistake.",
+            "meaning_ko": "그는 먼저 사과하고 그 실수에 대해 너그럽게 넘기려 했습니다."
+          },
+          {
+            "sentence": "Winning is easy; being magnanimous afterward is harder.",
+            "meaning_ko": "이기는 건 쉽지만, 그 뒤에 관대하게 구는 건 더 어렵습니다."
+          },
+          {
+            "sentence": "She made a magnanimous offer to share the credit with the whole team.",
+            "meaning_ko": "그녀는 공을 팀 전체와 나누자는 관대한 제안을 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was magnanimous toward his rival and praised her performance publicly.",
+            "meaning_ko": "그는 경쟁자에게도 관대했고 공개적으로 그녀의 성과를 칭찬했습니다."
+          },
+          {
+            "sentence": "Try to remain magnanimous in defeat; bitterness only prolongs the loss.",
+            "meaning_ko": "패배했을 때도 도량을 유지해 보세요. 씁쓸함은 패배를 더 길게 만들 뿐입니다."
+          },
+          {
+            "sentence": "The judge urged the defendant to show magnanimous restraint instead of retaliation.",
+            "meaning_ko": "판사는 보복 대신 관대한 자제를 보이라고 피고에게 권했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The board’s magnanimous concession defused the labor dispute without humiliating either side.",
+            "meaning_ko": "이사회의 대인배 같은 양보는 어느 쪽도 굴욕 주지 않으면서 노사 분쟁을 누그러뜨렸습니다."
+          },
+          {
+            "sentence": "In diplomacy, a single magnanimous gesture can reset a narrative more effectively than dozens of press releases.",
+            "meaning_ko": "외교에서는 단 한 번의 관대한 제스처가 수십 개의 보도자료보다 서사를 더 효과적으로 바꿀 수 있습니다."
+          },
+          {
+            "sentence": "His magnanimity was strategic as well as moral, signaling strength through self-control.",
+            "meaning_ko": "그의 관대함은 도덕적이면서도 전략적이었고, 자기 통제로 힘을 드러냈습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "magnanimous는 ‘generous(후한/관대한)’와 비슷하지만, 핵심은 ‘큰 마음으로 상대를 품어주는 품격’입니다. 특히 toward/to, in victory/defeat 같은 전치사 패턴이 자주 나오니 통째로 외우는 편이 좋습니다. 또한 오타로 magnanmous처럼 쓰기 쉬우니 정확한 철자(…anim…)를 ‘animus=마음’으로 연결해 기억하세요.",
+    "tags": [
+      "성격",
+      "관용",
+      "도덕",
+      "격식 표현",
+      "관계·갈등"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: She was ___ toward the newcomer and offered help. (magnanimous / mechanical / timid / vacant)",
+            "a": "magnanimous",
+            "meaning_ko": "‘너그럽게 도와주다’라는 문맥에서 magnanimous가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best Korean meaning for ‘magnanimous’.",
+            "a": "도량이 큰, 관대한",
+            "meaning_ko": "큰 마음으로 남을 포용하는 의미입니다."
+          },
+          {
+            "q": "Pick the antonym: magnanimous",
+            "a": "petty",
+            "meaning_ko": "magnanimous(대인배) ↔ petty(속 좁은) 대비가 대표적입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: He was magnanimous ___ victory and praised his opponent.",
+            "a": "in",
+            "meaning_ko": "승리/패배 같은 상황에는 magnanimous in + 상황이 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence best matches the nuance of magnanimous (vs generous)?",
+            "a": "She forgave the rival who had tried to undermine her.",
+            "meaning_ko": "상대(라이벌)를 용서/포용하는 ‘큰 마음’ 뉘앙스가 magnanimous에 가깝습니다."
+          },
+          {
+            "q": "Error correction: ‘He was magnanimous with his rival.’ (Make it more idiomatic.)",
+            "a": "He was magnanimous toward his rival.",
+            "meaning_ko": "toward/to가 표준적인 결합입니다(with는 덜 자연스럽습니다)."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best word: The CEO’s ___ concession prevented a public feud after the merger.",
+            "a": "magnanimous",
+            "meaning_ko": "갈등을 피하기 위해 ‘대인배처럼’ 양보하는 상황에 적합합니다."
+          },
+          {
+            "q": "Reading inference: If someone is ‘magnanimous in defeat,’ what are they NOT doing?",
+            "a": "nursing a grudge and seeking revenge",
+            "meaning_ko": "패배 후에도 품위를 유지한다는 뜻이므로 앙심·보복과 반대입니다."
+          },
+          {
+            "q": "Paraphrase: ‘His magnanimity signaled strength through restraint.’",
+            "a": "His self-controlled generosity showed that he was confident and strong.",
+            "meaning_ko": "관대함(특히 자제 속의 관대함)을 힘의 신호로 해석하는 문장입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "legerdemain",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Skillful use of the hands to perform tricks; sleight of hand.",
+        "definition_ko": "손재주로 하는 요술·속임수, 손놀림 마술(손기술).",
+        "note": "무대 마술에서 카드·동전 등을 ‘순식간에 바꾸는’ 기술을 가리킵니다."
+      },
+      {
+        "definition_en": "Clever deception or trickery, especially in politics, language, or finance.",
+        "definition_ko": "교묘한 속임수, 술수(특히 정치·말·재정에서).",
+        "note": "비유적으로 ‘눈속임’ ‘말장난’ 같은 뉘앙스로 쓰이며 비판적 톤이 자주 섞입니다."
+      }
+    ],
+    "concept": "손기술(혹은 말/정치의 눈속임)로 사람의 눈을 속여 원하는 효과를 내는 ‘교묘한 술수’",
+    "etymology": "프랑스어 léger de main(‘가벼운 손’=재빠른 손놀림)에서 들어왔고, 원뜻은 마술사의 ‘sleight of hand’였습니다.",
+    "semanticExtension": "직접적인 ‘손놀림 마술’에서 출발해, 현대에는 회계·정치·수사학에서 사실을 유리하게 보이게 만드는 ‘교묘한 조작/눈속임’ 의미로 넓어졌습니다.",
+    "nuanceRegister": "문어·격식·비평적 문맥에서 자주 보입니다. 일상에서는 trickery, sleight of hand가 더 흔합니다.",
+    "grammarNotes": "대체로 불가산으로 쓰이지만, a piece/bit of legerdemain처럼 가산화되기도 합니다. 수식어로 political/fiscal/rhetorical legerdemain이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사(주로) · 문맥상 가산화 가능(a piece/bit of legerdemain)",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의(속임수/기술)",
+        "example": "a display of legerdemain"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의(특정 분야의) 눈속임",
+        "example": "legerdemain in accounting"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~로/을 가지고(손기술로)",
+        "example": "legerdemain with cards and coins"
+      }
+    ],
+    "requiredComplements": [
+      "political/fiscal/rhetorical legerdemain : ‘정치/재정/수사적 눈속임’",
+      "a piece/bit of legerdemain : ‘한 가지 눈속임(술수)’(가산화)",
+      "legerdemain in + 분야 : ‘~ 분야에서의 교묘한 조작’"
+    ],
+    "morphology": "프랑스어 구(leger + de + main)에서 통째로 들어온 차용어라, 영어 내부 접두사/접미사로는 잘 쪼개지지 않습니다.",
+    "derivatives": [
+      {
+        "word": "sleight of hand",
+        "meaning_ko": "손기술(동의 표현)"
+      },
+      {
+        "word": "prestidigitation",
+        "meaning_ko": "손기술 마술(매우 격식/전문)"
+      },
+      {
+        "word": "conjuring",
+        "meaning_ko": "마술, 요술"
+      },
+      {
+        "word": "legerdemain (figurative)",
+        "meaning_ko": "(비유) 눈속임, 술수"
+      },
+      {
+        "word": "illusionist",
+        "meaning_ko": "일루전 마술사(관련 어휘)"
+      }
+    ],
+    "related": [
+      {
+        "word": "subterfuge",
+        "meaning_ko": "속임수, 위장"
+      },
+      {
+        "word": "chicanery",
+        "meaning_ko": "교묘한 술수, 궤변"
+      },
+      {
+        "word": "misdirection",
+        "meaning_ko": "(마술) 시선 유도; (비유) 주의 돌리기"
+      },
+      {
+        "word": "sleight",
+        "meaning_ko": "(손기술) 재빠른 솜씨; (비유) 속임수"
+      },
+      {
+        "word": "manipulation",
+        "meaning_ko": "조작, 교묘한 처리"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "sleight of hand",
+        "meaning_ko": "손기술(마술)"
+      },
+      {
+        "word": "trickery",
+        "meaning_ko": "속임수"
+      },
+      {
+        "word": "prestidigitation",
+        "meaning_ko": "손기술 마술"
+      },
+      {
+        "word": "conjuring",
+        "meaning_ko": "마술"
+      },
+      {
+        "word": "deception",
+        "meaning_ko": "기만, 속임"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "subterfuge",
+        "meaning_ko": "눈속임, 위장"
+      },
+      {
+        "word": "chicanery",
+        "meaning_ko": "(특히 법/정치) 술수"
+      },
+      {
+        "word": "sleight",
+        "meaning_ko": "교묘한 재주/속임수"
+      },
+      {
+        "word": "maneuvering",
+        "meaning_ko": "(정치·협상) 책략적 움직임"
+      },
+      {
+        "word": "spin",
+        "meaning_ko": "(홍보·정치) 유리한 해석을 만들기"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "transparency",
+        "meaning_ko": "투명성"
+      },
+      {
+        "word": "candor",
+        "meaning_ko": "솔직함"
+      },
+      {
+        "word": "honesty",
+        "meaning_ko": "정직"
+      },
+      {
+        "word": "plain dealing",
+        "meaning_ko": "정직한 거래/처리"
+      },
+      {
+        "word": "openness",
+        "meaning_ko": "개방성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mere legerdemain",
+            "meaning_ko": "그저 눈속임일 뿐"
+          },
+          {
+            "phrase": "stage legerdemain",
+            "meaning_ko": "무대 마술(손기술)"
+          },
+          {
+            "phrase": "a display of legerdemain",
+            "meaning_ko": "손기술의 과시"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "political legerdemain",
+            "meaning_ko": "정치적 눈속임/술수"
+          },
+          {
+            "phrase": "verbal legerdemain",
+            "meaning_ko": "말장난 같은 교묘한 술수"
+          },
+          {
+            "phrase": "fiscal legerdemain",
+            "meaning_ko": "재정(회계) 눈속임"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "accounting legerdemain",
+            "meaning_ko": "회계 조작/눈속임"
+          },
+          {
+            "phrase": "legislative legerdemain",
+            "meaning_ko": "입법 과정의 교묘한 꼼수"
+          },
+          {
+            "phrase": "rhetorical legerdemain",
+            "meaning_ko": "수사학적 눈속임(그럴듯한 포장)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The magician’s legerdemain made the coin vanish in an instant.",
+            "meaning_ko": "마술사의 손기술이 동전을 순식간에 사라지게 만들었습니다."
+          },
+          {
+            "sentence": "Don’t be fooled by cheap legerdemain; check the facts.",
+            "meaning_ko": "값싼 눈속임에 속지 말고 사실을 확인하세요."
+          },
+          {
+            "sentence": "She learned basic legerdemain with cards as a hobby.",
+            "meaning_ko": "그녀는 취미로 카드 손기술 마술의 기초를 배웠습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The spokesperson relied on verbal legerdemain to dodge the question.",
+            "meaning_ko": "대변인은 질문을 피하려고 교묘한 말장난에 의존했습니다."
+          },
+          {
+            "sentence": "Critics called the budget revision fiscal legerdemain rather than real reform.",
+            "meaning_ko": "비평가들은 그 예산 수정이 진짜 개혁이 아니라 재정 눈속임이라고 불렀습니다."
+          },
+          {
+            "sentence": "What looked like compromise turned out to be political legerdemain.",
+            "meaning_ko": "타협처럼 보였던 것은 결국 정치적 술수로 드러났습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Through accounting legerdemain, losses were recast as ‘one-time adjustments’ to flatter earnings.",
+            "meaning_ko": "회계 눈속임으로 손실이 ‘일회성 조정’으로 재포장되어 실적이 좋아 보이게 되었습니다."
+          },
+          {
+            "sentence": "The bill passed after legislative legerdemain buried the controversial clause in an unrelated amendment.",
+            "meaning_ko": "그 법안은 입법 과정의 교묘한 꼼수로 논란 조항이 무관한 수정안 속에 숨겨진 채 통과되었습니다."
+          },
+          {
+            "sentence": "Rhetorical legerdemain can make a weak argument sound rigorous unless you examine the premises.",
+            "meaning_ko": "수사적 눈속임은 전제를 따져보지 않으면 약한 논증도 엄밀해 보이게 만들 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "legerdemain은 철자·발음이 어렵지만 의미는 ‘손기술/눈속임’으로 단순합니다. 어원(프랑스어 ‘가벼운 손’)을 떠올리면 ‘재빠른 손놀림’ → ‘교묘한 술수’로 자연스럽게 연결됩니다. 시험에서는 political/fiscal/rhetorical legerdemain처럼 추상 명사 수식으로 나오기 쉬우니 collocation을 묶어서 익혀 두세요.",
+    "tags": [
+      "마술",
+      "속임수",
+      "정치·홍보",
+      "회계·재정",
+      "비판적 표현"
+    ],
+    "frequency": "하",
+    "difficulty": 9,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: legerdemain",
+            "a": "sleight of hand",
+            "meaning_ko": "legerdemain의 기본 뜻은 ‘손기술(마술)’입니다."
+          },
+          {
+            "q": "Fill in the blank: The magician’s ___ amazed the audience. (legerdemain / geology / infancy / itinerary)",
+            "a": "legerdemain",
+            "meaning_ko": "마술사의 ‘손기술’ 문맥에 맞습니다."
+          },
+          {
+            "q": "Pick the closest Korean meaning: ‘mere legerdemain’",
+            "a": "그저 눈속임",
+            "meaning_ko": "mere=‘단지’ + legerdemain=‘눈속임/손기술’."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Which collocation sounds most natural in a political article?",
+            "a": "political legerdemain",
+            "meaning_ko": "정치 기사에서 ‘교묘한 술수’를 비판적으로 말할 때 흔합니다."
+          },
+          {
+            "q": "Error correction: ‘He used legerdemain for avoid responsibility.’ (Fix it.)",
+            "a": "He used legerdemain to avoid responsibility.",
+            "meaning_ko": "to부정사(to avoid)가 맞고, for avoid는 비문입니다."
+          },
+          {
+            "q": "Choose the best paraphrase: ‘verbal legerdemain’",
+            "a": "clever wordplay used to mislead",
+            "meaning_ko": "말로 교묘하게 속이거나 회피하는 ‘말장난’ 뉘앙스입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading inference: If a report says ‘accounting legerdemain flattered earnings,’ what likely happened?",
+            "a": "Losses were reclassified or hidden to make profits look higher.",
+            "meaning_ko": "회계 처리로 손실을 숨기거나 재분류해 이익이 커 보이게 만든 상황을 뜻합니다."
+          },
+          {
+            "q": "Choose the best antonym for the figurative sense of legerdemain in governance.",
+            "a": "transparency",
+            "meaning_ko": "눈속임/술수와 반대되는 핵심 가치는 ‘투명성’입니다."
+          },
+          {
+            "q": "Complete the sentence in formal style: The policy change was criticized as ___ rather than substantive reform.",
+            "a": "political legerdemain",
+            "meaning_ko": "‘실질적 개혁이 아니라 정치적 눈속임’이라는 비판 구문이 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

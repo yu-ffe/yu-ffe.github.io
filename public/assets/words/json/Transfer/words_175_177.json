@@ -1,0 +1,974 @@
+[
+  {
+    "word": "abnegate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To renounce or reject (a right, belief, or claim), often formally.",
+        "definition_ko": "(권리·신념·주장 등을) 공식적으로 부인하거나 포기하다.",
+        "note": "목적어로 추상명사(rights/claim/belief 등)가 자주 옵니다."
+      },
+      {
+        "definition_en": "To deny oneself (desires, comfort, or pleasure); to practice self-denial.",
+        "definition_ko": "(욕망·편안함·쾌락 등을) 스스로 끊고 절제하다.",
+        "note": "금욕·자기절제 맥락에서 ‘self-abnegation(자기부정)’과 함께 자주 다뤄집니다."
+      }
+    ],
+    "concept": "스스로의 욕구·권리·주장을 의식적으로 부정하거나 포기하다.",
+    "etymology": "라틴어 abnegare(거부하다)에서 왔으며, ab-(떼어/멀리) + negare(부정하다) 결합입니다.",
+    "semanticExtension": "단순 ‘부정’에서 더 나아가, 어떤 권리·주장·욕구를 ‘스스로 내려놓는’ 의미(포기·자기절제)로 확장되어 윤리·법률·철학 문맥에서 쓰입니다.",
+    "nuanceRegister": "매우 격식적·문어적 표현이며, 윤리/금욕/법률/철학 글에서 자주 보입니다.",
+    "grammarNotes": "타동사로 목적어를 반드시 취합니다(abnegate one's rights/claim/desires). 수동태도 가능하며, 명사형은 abnegation(자기부정/포기)입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "abnegate + one's rights (권리를 포기하다)",
+      "abnegate + a claim (주장을 철회/포기하다)",
+      "abnegate + desires/pleasures (욕망·쾌락을 끊다)"
+    ],
+    "morphology": "ab-(떼어/멀리) + neg-(부정) + -ate(동사화)로 이해하면 기억이 쉽습니다(negate와 어근 공유).",
+    "derivatives": [
+      {
+        "word": "abnegation",
+        "meaning_ko": "자기부정, (권리·주장 등의) 포기"
+      },
+      {
+        "word": "self-abnegation",
+        "meaning_ko": "자기희생적 자기부정, 금욕"
+      },
+      {
+        "word": "abnegatory",
+        "meaning_ko": "자기부정의, 포기의"
+      },
+      {
+        "word": "negate",
+        "meaning_ko": "무효로 하다; 부정하다"
+      },
+      {
+        "word": "renunciation",
+        "meaning_ko": "포기, 단념(행위/선언)"
+      }
+    ],
+    "related": [
+      {
+        "word": "asceticism",
+        "meaning_ko": "금욕주의"
+      },
+      {
+        "word": "self-denial",
+        "meaning_ko": "자기절제, 금욕"
+      },
+      {
+        "word": "austerity",
+        "meaning_ko": "검소함; 엄격함"
+      },
+      {
+        "word": "sacrifice",
+        "meaning_ko": "희생"
+      },
+      {
+        "word": "waiver",
+        "meaning_ko": "권리 포기(법률)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "renounce",
+        "meaning_ko": "포기하다; 단념하다"
+      },
+      {
+        "word": "forswear",
+        "meaning_ko": "맹세로 끊다; (공식적으로) 포기하다"
+      },
+      {
+        "word": "relinquish",
+        "meaning_ko": "(권리·소유 등을) 내려놓다"
+      },
+      {
+        "word": "repudiate",
+        "meaning_ko": "부인하다; 거부하다"
+      },
+      {
+        "word": "disavow",
+        "meaning_ko": "부인하다; 관계를 끊다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "deny",
+        "meaning_ko": "부인하다"
+      },
+      {
+        "word": "reject",
+        "meaning_ko": "거절하다; 배척하다"
+      },
+      {
+        "word": "abdicate",
+        "meaning_ko": "(지위·권력을) 사임/양위하다"
+      },
+      {
+        "word": "waive",
+        "meaning_ko": "(권리 등을) 포기하다"
+      },
+      {
+        "word": "abandon",
+        "meaning_ko": "버리다; 포기하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "embrace",
+        "meaning_ko": "받아들이다; 포용하다"
+      },
+      {
+        "word": "affirm",
+        "meaning_ko": "확인하다; 긍정하다"
+      },
+      {
+        "word": "assert",
+        "meaning_ko": "주장하다"
+      },
+      {
+        "word": "claim",
+        "meaning_ko": "요구하다; 주장하다"
+      },
+      {
+        "word": "indulge",
+        "meaning_ko": "(욕망을) 채우다; 탐닉하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "abnegate one's desires",
+            "meaning_ko": "욕망을 끊다"
+          },
+          {
+            "phrase": "abnegate comfort",
+            "meaning_ko": "편안함을 포기하다"
+          },
+          {
+            "phrase": "abnegate pleasure",
+            "meaning_ko": "쾌락을 절제하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "abnegate one's rights",
+            "meaning_ko": "권리를 포기하다"
+          },
+          {
+            "phrase": "abnegate a claim",
+            "meaning_ko": "주장을 철회/포기하다"
+          },
+          {
+            "phrase": "abnegate personal interest",
+            "meaning_ko": "사적 이익을 내려놓다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "abnegate individual agency",
+            "meaning_ko": "개인의 행위 주체성을 포기하다"
+          },
+          {
+            "phrase": "abnegate autonomy in favor of the collective",
+            "meaning_ko": "집단을 위해 자율성을 포기하다"
+          },
+          {
+            "phrase": "abnegate civil liberties",
+            "meaning_ko": "시민의 자유를 스스로/제도적으로 포기하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He tried to abnegate his cravings for sweets for a week.",
+            "meaning_ko": "그는 일주일 동안 단것에 대한 욕구를 끊어보려 했다."
+          },
+          {
+            "sentence": "She abnegated comfort and slept on the floor during training.",
+            "meaning_ko": "그녀는 훈련 기간 동안 편안함을 포기하고 바닥에서 잤다."
+          },
+          {
+            "sentence": "I can’t abnegate every small pleasure in life.",
+            "meaning_ko": "인생의 작은 즐거움까지 전부 끊을 수는 없다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He abnegated his claim to the bonus to avoid conflict in the team.",
+            "meaning_ko": "그는 팀 내 갈등을 피하려고 보너스에 대한 주장을 철회했다."
+          },
+          {
+            "sentence": "The defendant abnegated any right to appeal as part of the deal.",
+            "meaning_ko": "피고는 합의 조건으로 항소권을 포기했다."
+          },
+          {
+            "sentence": "She refused to abnegate her principles for short-term gain.",
+            "meaning_ko": "그녀는 단기 이익을 위해 자신의 원칙을 포기하지 않았다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sect demanded that members abnegate individual agency and submit to a single doctrine.",
+            "meaning_ko": "그 종파는 구성원들이 개인의 주체성을 내려놓고 하나의 교리에 복종하길 요구했다."
+          },
+          {
+            "sentence": "In authoritarian systems, citizens may be pressured to abnegate civil liberties in the name of security.",
+            "meaning_ko": "권위주의 체제에서는 ‘안보’를 명분으로 시민들이 자유권을 포기하도록 압박받을 수 있다."
+          },
+          {
+            "sentence": "The essay critiques a morality that praises abnegation while ignoring structural injustice.",
+            "meaning_ko": "그 에세이는 구조적 부정을 외면한 채 자기부정만 미화하는 도덕관을 비판한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "abnegate는 ‘그냥 부정(deny/negate)’이 아니라, (권리·주장·욕망 등을) ‘스스로 내려놓는 포기/자기절제’ 뉘앙스가 강합니다. 시험 지문에서는 금욕주의(asceticism), 자기희생(self-denial), 권리 포기(waive) 같은 맥락에서 등장하니, 목적어로 rights/claim/desires가 오는 패턴을 통째로 외우면 좋습니다.",
+    "tags": [
+      "윤리",
+      "금욕",
+      "법률",
+      "공식 문어",
+      "자기절제"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: He decided to ____ his desire for fame and focus on the work itself.",
+            "a": "abnegate",
+            "meaning_ko": "욕망을 ‘스스로 끊다/포기하다’가 자연스럽습니다."
+          },
+          {
+            "q": "Which word best matches the meaning: ‘to give up a claim or right formally’? (A) abnegate (B) ignite (C) decorate (D) migrate",
+            "a": "abnegate",
+            "meaning_ko": "권리·주장을 공식적으로 포기/부인하다."
+          },
+          {
+            "q": "Choose the closest Korean meaning of abnegate: (A) 과장하다 (B) 포기·자기절제하다 (C) 계산하다 (D) 확장하다",
+            "a": "(B) 포기·자기절제하다",
+            "meaning_ko": "자기부정/포기 의미가 핵심입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using ‘abnegate’: ‘She waived her right to speak to avoid delaying the meeting.’",
+            "a": "She abnegated her right to speak to avoid delaying the meeting.",
+            "meaning_ko": "waive(권리 포기) ↔ abnegate(권리 포기/부인)로 치환."
+          },
+          {
+            "q": "Pick the best object for ‘abnegate’ in formal writing: (A) sunshine (B) sandwich (C) one’s claim (D) wallpaper",
+            "a": "one’s claim",
+            "meaning_ko": "rights/claim/belief 같은 추상 목적어가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: ‘He abnegated his personal interest for the public good.’",
+            "a": "He put aside his personal interest for the public good.",
+            "meaning_ko": "사적 이익을 내려놓다/포기하다의 뜻."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Select the sentence where ‘abnegate’ is used most appropriately.",
+            "a": "The constitution should not ask citizens to abnegate civil liberties in exchange for vague promises of safety.",
+            "meaning_ko": "권리·자유를 포기하는 맥락이 가장 자연스럽습니다."
+          },
+          {
+            "q": "Distinguish: Explain in one sentence how ‘abnegate’ differs from ‘negate’.",
+            "a": "Abnegate means to renounce or deny oneself (often voluntarily), while negate means to nullify or contradict.",
+            "meaning_ko": "abnegate=포기/자기절제, negate=무효화/부정(대상 중심)."
+          },
+          {
+            "q": "Error correction: ‘He abnegated to his friend about the plan.’ (Fix it.)",
+            "a": "He abnegated his claim about the plan.",
+            "meaning_ko": "abnegate는 타동사라 목적어가 필요하고, ‘about’로 말하다 의미가 아닙니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "foliage",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Leaves of plants collectively; leafage.",
+        "definition_ko": "(식물의) 잎, 잎이 무성한 부분(총칭).",
+        "note": "보통 불가산으로 쓰이며 the foliage처럼 총칭하는 경우가 많습니다."
+      },
+      {
+        "definition_en": "Ornamental leaves or leafy branches used for decoration.",
+        "definition_ko": "장식용 잎사귀·가지(장식물/장식재).",
+        "note": "원예·조경·장식 맥락에서 자주 나옵니다."
+      }
+    ],
+    "concept": "식물의 잎(무성한 잎 부분)을 총칭하는 말.",
+    "etymology": "라틴어 folium(잎)에서 프랑스어 feuillage(잎사귀, 잎이 무성함)를 거쳐 영어 foliage로 굳어졌습니다.",
+    "semanticExtension": "기본 의미(잎)에서 ‘숲의 잎이 빽빽한 상태’, ‘가을 단풍(autumn/fall foliage)’, ‘장식용 잎’처럼 풍경·조경·여행 표현으로 넓게 쓰입니다.",
+    "nuanceRegister": "중립적이지만 자연/조경/여행 글에서 특히 흔한 단어입니다(‘fall foliage’는 매우 관용적).",
+    "grammarNotes": "일반적으로 불가산명사입니다(lush foliage). 다만 식물학/원예에서 ‘종류’를 구분할 때는 복수형 foliages가 드물게 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사(일반적); 종류를 말하면 가산 가능",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "…의 잎/잎무성함",
+        "example": "the foliage of the forest"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "…에 달린 잎",
+        "example": "foliage on the trees"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "…속의 수풀/잎무성한 곳",
+        "example": "hide in the foliage"
+      }
+    ],
+    "requiredComplements": [
+      "foliage of + 장소/식물 (…의 잎, …의 수풀)",
+      "foliage on + 나무/식물 (…에 달린 잎)",
+      "in the foliage (수풀/잎 사이에)"
+    ],
+    "morphology": "fol- (leaf, 잎) 어근 계열로, folium(라틴어 ‘잎’)에서 파생된 단어군과 연결해 기억할 수 있습니다.",
+    "derivatives": [
+      {
+        "word": "foliate",
+        "meaning_ko": "잎이 나다; 잎 모양의(의)"
+      },
+      {
+        "word": "foliation",
+        "meaning_ko": "잎이 생김; (지질) 엽리"
+      },
+      {
+        "word": "foliated",
+        "meaning_ko": "잎이 많은; 잎 모양의"
+      },
+      {
+        "word": "defoliate",
+        "meaning_ko": "잎을 떨구다; 낙엽지게 하다"
+      },
+      {
+        "word": "defoliation",
+        "meaning_ko": "(나무의) 잎이 떨어짐; 제엽"
+      }
+    ],
+    "related": [
+      {
+        "word": "canopy",
+        "meaning_ko": "수관(나뭇잎이 덮인 윗부분)"
+      },
+      {
+        "word": "undergrowth",
+        "meaning_ko": "(숲의) 하층식생, 덤불"
+      },
+      {
+        "word": "vegetation",
+        "meaning_ko": "식생"
+      },
+      {
+        "word": "shrubbery",
+        "meaning_ko": "관목지, 덤불"
+      },
+      {
+        "word": "greenery",
+        "meaning_ko": "푸른 나뭇잎/초목"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "leafage",
+        "meaning_ko": "잎(총칭)"
+      },
+      {
+        "word": "greenery",
+        "meaning_ko": "초목의 푸름; 잎"
+      },
+      {
+        "word": "verdure",
+        "meaning_ko": "초록의 신록(문어)"
+      },
+      {
+        "word": "vegetation",
+        "meaning_ko": "식생(포괄적)"
+      },
+      {
+        "word": "leaves",
+        "meaning_ko": "잎들(구체적)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "canopy",
+        "meaning_ko": "나뭇잎이 덮인 윗부분"
+      },
+      {
+        "word": "brush",
+        "meaning_ko": "덤불, 관목지"
+      },
+      {
+        "word": "underbrush",
+        "meaning_ko": "숲속 덤불"
+      },
+      {
+        "word": "flora",
+        "meaning_ko": "식물상"
+      },
+      {
+        "word": "shrubbery",
+        "meaning_ko": "관목/덤불(지역)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "barrenness",
+        "meaning_ko": "황량함, 불모"
+      },
+      {
+        "word": "leaflessness",
+        "meaning_ko": "무엽(잎이 없음)"
+      },
+      {
+        "word": "defoliation",
+        "meaning_ko": "제엽, 잎이 떨어짐"
+      },
+      {
+        "word": "desolation",
+        "meaning_ko": "황폐"
+      },
+      {
+        "word": "nakedness",
+        "meaning_ko": "(비유) 드러남, 가림 없음"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "green foliage",
+            "meaning_ko": "푸른 잎"
+          },
+          {
+            "phrase": "thick foliage",
+            "meaning_ko": "빽빽한 수풀"
+          },
+          {
+            "phrase": "fallen foliage",
+            "meaning_ko": "떨어진 잎, 낙엽"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "lush foliage",
+            "meaning_ko": "무성한 잎"
+          },
+          {
+            "phrase": "dense foliage",
+            "meaning_ko": "밀집한 잎/수풀"
+          },
+          {
+            "phrase": "autumn foliage",
+            "meaning_ko": "가을 단풍"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "deciduous foliage",
+            "meaning_ko": "낙엽수의 잎"
+          },
+          {
+            "phrase": "evergreen foliage",
+            "meaning_ko": "상록수의 잎"
+          },
+          {
+            "phrase": "ornamental foliage",
+            "meaning_ko": "장식용 잎(원예/조경)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The garden is full of green foliage in spring.",
+            "meaning_ko": "그 정원은 봄이면 푸른 잎으로 가득하다."
+          },
+          {
+            "sentence": "We walked through thick foliage and got scratched.",
+            "meaning_ko": "우리는 빽빽한 수풀 사이를 지나가다가 긁혔다."
+          },
+          {
+            "sentence": "He swept the fallen foliage off the path.",
+            "meaning_ko": "그는 길에 떨어진 잎을 쓸어냈다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The insects hide in the dense foliage during the day.",
+            "meaning_ko": "곤충들은 낮에는 빽빽한 잎 사이에 숨어 있다."
+          },
+          {
+            "sentence": "Tourists come to see the autumn foliage in the mountains.",
+            "meaning_ko": "관광객들은 산의 가을 단풍을 보러 온다."
+          },
+          {
+            "sentence": "Lush foliage can block sunlight from reaching the ground.",
+            "meaning_ko": "무성한 잎은 햇빛이 땅까지 닿는 것을 막을 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The landscape architect selected ornamental foliage to add texture without overpowering the flowers.",
+            "meaning_ko": "조경 설계사는 꽃을 압도하지 않으면서 질감을 더할 장식용 잎을 골랐다."
+          },
+          {
+            "sentence": "Deciduous foliage turns vivid before shedding, creating a brief but spectacular canopy.",
+            "meaning_ko": "낙엽수의 잎은 떨어지기 전 선명하게 물들어 짧지만 장관의 수관을 만든다."
+          },
+          {
+            "sentence": "The report links reduced urban tree foliage to higher surface temperatures in summer.",
+            "meaning_ko": "그 보고서는 도시의 나무 잎이 줄어들면 여름 지표 온도가 더 높아진다고 연결한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "foliage는 leaves보다 ‘잎(총칭)·잎이 무성한 상태’에 초점이 있어 풍경 묘사에 잘 맞습니다. 특히 여행/기사에서 fall(autumn) foliage는 거의 세트 표현처럼 등장합니다. 기본은 불가산이므로 a foliage보다는 (some) foliage / lush foliage / the foliage처럼 쓰는 습관을 들이시면 좋습니다.",
+    "tags": [
+      "자연",
+      "식물",
+      "조경",
+      "여행",
+      "풍경"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The pond was surrounded by thick _____.",
+            "a": "foliage",
+            "meaning_ko": "연못 주변의 ‘무성한 잎/수풀’이라는 맥락."
+          },
+          {
+            "q": "Which phrase is most natural in travel writing? (A) fall foliage (B) fall furniture (C) fall asphalt (D) fall chemistry",
+            "a": "fall foliage",
+            "meaning_ko": "가을 단풍을 뜻하는 관용적 결합입니다."
+          },
+          {
+            "q": "Choose the closest meaning of foliage: (A) 뿌리 (B) 잎(총칭) (C) 바람 (D) 돌",
+            "a": "(B) 잎(총칭)",
+            "meaning_ko": "식물의 잎을 총칭합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best preposition: Many birds nest ____ the foliage to stay hidden. (in / at / by / over)",
+            "a": "in",
+            "meaning_ko": "‘잎/수풀 속에’ 숨다/둥지 틀다 → in the foliage."
+          },
+          {
+            "q": "Rewrite: ‘The leaves on the trees were still dense.’ (Use ‘foliage’.)",
+            "a": "The foliage on the trees was still dense.",
+            "meaning_ko": "foliage는 보통 단수 취급(불가산)으로 was가 자연스럽습니다."
+          },
+          {
+            "q": "Which is usually correct in general English? (A) a foliage (B) some foliage (C) two foliage (D) foliages every day",
+            "a": "some foliage",
+            "meaning_ko": "기본적으로 불가산이라 some/the/lush 같은 형태가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best sentence for academic style.",
+            "a": "Reduced urban tree foliage can intensify the heat-island effect by lowering shade and evapotranspiration.",
+            "meaning_ko": "foliage를 ‘수관/잎의 양’으로 쓰는 학술적 문맥."
+          },
+          {
+            "q": "Explain in one sentence why ‘foliage’ is often treated as uncountable.",
+            "a": "Because it refers to leaves collectively as a mass rather than as individual countable items.",
+            "meaning_ko": "개별 잎이 아니라 ‘잎의 집합/덩어리’로 보는 관점."
+          },
+          {
+            "q": "Error correction: ‘The park is famous for its foliages in October.’ (Fix it.)",
+            "a": "The park is famous for its foliage in October.",
+            "meaning_ko": "일반 용법에서는 불가산으로 foliage 단수가 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "corpulent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Very fat; obese; having a large, heavy body.",
+        "definition_ko": "(사람이) 매우 살찐, 비만한; 체격이 큰.",
+        "note": "문어적·고전적 뉘앙스가 있어 인물 묘사에서 자주 보입니다."
+      },
+      {
+        "definition_en": "(Literary) Full-bodied or bulky in appearance; thick-set.",
+        "definition_ko": "(문학적으로) 덩치가 크고 둔중해 보이는.",
+        "note": "풍자/묘사에서 완곡하거나 약간 비꼬는 톤으로 쓰일 수 있어, 일상 대화에서는 조심하는 편이 좋습니다."
+      }
+    ],
+    "concept": "몸집이 크고 살이 많이 찐 상태를 나타내는 문어적 형용사.",
+    "etymology": "라틴어 corpus(몸)에서 파생된 corpulentus(살이 찐, 몸집이 큰)에서 유래했습니다.",
+    "semanticExtension": "기본적으로 사람의 체형을 묘사하지만, 드물게 문체·형상 등을 ‘묵직하고 과하게 풍부한’ 느낌으로 비유하기도 합니다(비평적 문맥).",
+    "nuanceRegister": "격식/문어 성격이 강하고, 다소 고풍스럽거나 풍자적인 뉘앙스를 띨 수 있습니다.",
+    "grammarNotes": "서술용·한정용 모두 가능(a corpulent man / He is corpulent). 비교급은 more corpulent가 자연스럽고, 현대 일상에서는 overweight 같은 완곡 표현이 더 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "corp-(몸, body) + -ulent(…이 가득한) 형태로 ‘몸집/살이 가득한’ 이미지로 기억할 수 있습니다.",
+    "derivatives": [
+      {
+        "word": "corpulence",
+        "meaning_ko": "비만, 살찐 몸집"
+      },
+      {
+        "word": "corpulently",
+        "meaning_ko": "살찐 모습으로; 비만하게"
+      },
+      {
+        "word": "corporeal",
+        "meaning_ko": "육체의, 물질적인"
+      },
+      {
+        "word": "corpus",
+        "meaning_ko": "(문어) 몸; (언어) 말뭉치"
+      },
+      {
+        "word": "corporate",
+        "meaning_ko": "법인의; 기업의(어근 공유)"
+      }
+    ],
+    "related": [
+      {
+        "word": "obesity",
+        "meaning_ko": "비만"
+      },
+      {
+        "word": "girth",
+        "meaning_ko": "(허리) 둘레; 몸집"
+      },
+      {
+        "word": "bulk",
+        "meaning_ko": "덩치, 부피"
+      },
+      {
+        "word": "stoutness",
+        "meaning_ko": "통통함, 건장함"
+      },
+      {
+        "word": "overweight",
+        "meaning_ko": "과체중"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "obese",
+        "meaning_ko": "비만한"
+      },
+      {
+        "word": "fat",
+        "meaning_ko": "살찐"
+      },
+      {
+        "word": "stout",
+        "meaning_ko": "통통한; (때로) 건장한"
+      },
+      {
+        "word": "portly",
+        "meaning_ko": "(특히 남성이) 점잖게 살찐"
+      },
+      {
+        "word": "heavyset",
+        "meaning_ko": "덩치 큰; 살집 있는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "plump",
+        "meaning_ko": "통통한(대체로 긍정/중립)"
+      },
+      {
+        "word": "overweight",
+        "meaning_ko": "과체중(완곡)"
+      },
+      {
+        "word": "rotund",
+        "meaning_ko": "둥글게 살찐(문어)"
+      },
+      {
+        "word": "paunchy",
+        "meaning_ko": "배가 나온"
+      },
+      {
+        "word": "bulky",
+        "meaning_ko": "부피가 큰; 덩치 큰"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "thin",
+        "meaning_ko": "마른"
+      },
+      {
+        "word": "slender",
+        "meaning_ko": "날씬한"
+      },
+      {
+        "word": "lean",
+        "meaning_ko": "군살 없는; 야윈"
+      },
+      {
+        "word": "gaunt",
+        "meaning_ko": "수척한"
+      },
+      {
+        "word": "emaciated",
+        "meaning_ko": "몹시 야윈"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a corpulent man",
+            "meaning_ko": "살찐 남자"
+          },
+          {
+            "phrase": "corpulent body",
+            "meaning_ko": "비만한 몸"
+          },
+          {
+            "phrase": "corpulent figure",
+            "meaning_ko": "살집 있는 체형"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a corpulent middle-aged gentleman",
+            "meaning_ko": "살찐 중년 신사"
+          },
+          {
+            "phrase": "corpulent cheeks",
+            "meaning_ko": "통통한 볼"
+          },
+          {
+            "phrase": "a corpulent merchant",
+            "meaning_ko": "살찐 상인(인물 묘사)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a corpulent silhouette",
+            "meaning_ko": "둔중한 실루엣"
+          },
+          {
+            "phrase": "a corpulent magnate in a tailored suit",
+            "meaning_ko": "맞춤 양복을 입은 비만한 거물"
+          },
+          {
+            "phrase": "a corpulent character in a satirical novel",
+            "meaning_ko": "풍자 소설 속 ‘둔중한’ 인물"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "A corpulent man sat down beside me on the bus.",
+            "meaning_ko": "버스에서 살찐 남자가 내 옆에 앉았다."
+          },
+          {
+            "sentence": "He became more corpulent after he stopped exercising.",
+            "meaning_ko": "그는 운동을 그만둔 뒤 더 살이 쪘다."
+          },
+          {
+            "sentence": "The jacket looked tight on his corpulent body.",
+            "meaning_ko": "그 재킷은 그의 비만한 몸에 꽉 끼어 보였다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The detective described the suspect as a corpulent, middle-aged gentleman with a cane.",
+            "meaning_ko": "형사는 용기를 든 살찐 중년 신사로 용의자를 묘사했다."
+          },
+          {
+            "sentence": "In the portrait, the king appears corpulent but confident.",
+            "meaning_ko": "그 초상화에서 왕은 살이 쪘지만 자신감 있어 보인다."
+          },
+          {
+            "sentence": "The writer uses ‘corpulent’ to sketch the character quickly without listing details.",
+            "meaning_ko": "작가는 ‘corpulent’를 써서 세부를 늘어놓지 않고도 인물을 빠르게 그려낸다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The novel contrasts a corpulent elite with an emaciated underclass to sharpen its social critique.",
+            "meaning_ko": "그 소설은 살찐 엘리트와 야윈 하층민을 대비시켜 사회 비판을 선명하게 한다."
+          },
+          {
+            "sentence": "His corpulent silhouette, framed by the doorway, becomes a recurring symbol of excess.",
+            "meaning_ko": "문간에 비친 그의 둔중한 실루엣은 과잉의 반복 상징이 된다."
+          },
+          {
+            "sentence": "Although corpulent is precise, it can sound judgmental, so tone matters in nonfiction writing.",
+            "meaning_ko": "corpulent는 정확하지만 평가적으로 들릴 수 있어 논픽션에서는 톤 조절이 중요하다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "corpulent는 obese/fat와 의미가 겹치지만, 더 ‘문어적·고전적 묘사어’라는 점이 시험에서 포인트가 됩니다. 문학 지문에서는 ‘둔중하고 과하게 풍부한 체형’ 이미지를 살려 인물 성격(탐욕, 과잉)을 암시하기도 합니다. 일상 말하기에서는 무례하게 들릴 수 있으니, 완곡하게는 overweight, 중립 묘사는 heavyset 등을 함께 기억해 두세요.",
+    "tags": [
+      "외모묘사",
+      "문학",
+      "건강",
+      "비만",
+      "형용사"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The guard remembered a ____ man wearing a black coat.",
+            "a": "corpulent",
+            "meaning_ko": "체형(살찐)을 묘사하는 형용사."
+          },
+          {
+            "q": "Choose the closest meaning of corpulent: (A) timid (B) obese (C) urgent (D) fragile",
+            "a": "obese",
+            "meaning_ko": "corpulent = 매우 살찐."
+          },
+          {
+            "q": "Which is a polite everyday alternative to ‘corpulent’?",
+            "a": "overweight",
+            "meaning_ko": "overweight가 더 완곡한 일상 표현입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best synonym in literary description: ‘a corpulent gentleman’ ≈ (A) portly (B) absent (C) slender (D) taciturn",
+            "a": "portly",
+            "meaning_ko": "portly는 ‘점잖게 살찐’ 문어적 뉘앙스가 가깝습니다."
+          },
+          {
+            "q": "Choose the best antonym: corpulent ↔ (A) emaciated (B) lush (C) coherent (D) bilateral",
+            "a": "emaciated",
+            "meaning_ko": "몹시 야윈(emaciated)이 반대 의미입니다."
+          },
+          {
+            "q": "Rewrite to avoid a judgmental tone: ‘He is corpulent.’",
+            "a": "He is overweight.",
+            "meaning_ko": "상황에 따라 corpulent는 평가적으로 들릴 수 있어 완곡 표현으로 바꿀 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Select the sentence that uses ‘corpulent’ most effectively for tone.",
+            "a": "The satirist paints the corpulent official as a symbol of greed and excess.",
+            "meaning_ko": "풍자/비평 톤에서 corpulent의 뉘앙스가 잘 살아납니다."
+          },
+          {
+            "q": "Explain in one sentence how register affects the choice between ‘fat’ and ‘corpulent’.",
+            "a": "‘Fat’ is common and blunt, while ‘corpulent’ is formal/literary and can carry a stylized or satirical tone.",
+            "meaning_ko": "어감(레지스터) 차이를 묻는 유형입니다."
+          },
+          {
+            "q": "Error correction: ‘He was corpulently about his diet.’ (Fix it.)",
+            "a": "He was corpulent, and he worried about his diet.",
+            "meaning_ko": "corpulently는 ‘살찐 모습으로’에 가깝고, 이 문맥은 형용사 corpulent가 필요합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

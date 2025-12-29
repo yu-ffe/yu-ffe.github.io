@@ -1,0 +1,953 @@
+[
+  {
+    "word": "dastard",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A cowardly or despicable person; cowardly and dishonorable.",
+        "definition_ko": "비겁하고 비열한 사람; 비겁하고 비명예로운.",
+        "note": "문어적·비난의 뉘앙스가 강하며, 인물/행동을 통째로 깎아내릴 때 씁니다."
+      }
+    ],
+    "concept": "비겁함과 비열함을 동시에 강조해 상대를 강하게 비난하는 말",
+    "etymology": "중세 영어에서 유래한 표현으로, '비열한(卑劣한) 사람'을 뜻하는 용례가 먼저 정착했고 이후 형용사적 용법(비겁한)도 널리 쓰이게 되었습니다.",
+    "semanticExtension": "사람 자체를 가리키는 명사뿐 아니라, 계획·행동·배신 같은 행위를 '비겁한 짓'으로 규정할 때도 확장되어 쓰입니다.",
+    "nuanceRegister": "격식·문어·수사적(연설/기사/문학) 레지스터. 일상 대화에서는 다소 과장되게 들릴 수 있습니다.",
+    "grammarNotes": "명사/형용사 모두 가능. 형용사로는 보통 사람/행동을 수식하며 강한 도덕적 비난을 담습니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사 용법); 형용사 용법은 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(행동 양식에서) 비겁한",
+        "example": "dastard in battle"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게(대상) 비열한/비겁한",
+        "example": "dastard to his allies"
+      }
+    ],
+    "requiredComplements": [
+      "dastard + person (누구를 '비겁한 자'로 규정)",
+      "dastard + act/plot (행위를 '비겁한 짓'으로 규정)"
+    ],
+    "morphology": "어근적으로는 단일 어휘로 굳어져 있어 생산적인 접두/접미 분해가 크지 않습니다(현대 영어에서 파생 규칙이 활발하지 않음).",
+    "derivatives": [
+      {
+        "word": "dastardly",
+        "meaning_ko": "비겁한, 비열한(형용사/부사적으로도 쓰임)"
+      },
+      {
+        "word": "dastardliness",
+        "meaning_ko": "비겁함, 비열함(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "coward",
+        "meaning_ko": "겁쟁이"
+      },
+      {
+        "word": "treachery",
+        "meaning_ko": "배신, 반역"
+      },
+      {
+        "word": "dishonor",
+        "meaning_ko": "불명예"
+      },
+      {
+        "word": "villain",
+        "meaning_ko": "악당, 악인"
+      },
+      {
+        "word": "betrayal",
+        "meaning_ko": "배신 행위"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "coward",
+        "meaning_ko": "겁쟁이"
+      },
+      {
+        "word": "scoundrel",
+        "meaning_ko": "악한, 비열한 자"
+      },
+      {
+        "word": "wretch",
+        "meaning_ko": "비열한 자(비난)"
+      },
+      {
+        "word": "craven",
+        "meaning_ko": "비겁한(형용사)"
+      },
+      {
+        "word": "despicable",
+        "meaning_ko": "비열한, 경멸스러운"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "spineless",
+        "meaning_ko": "기개 없는, 줏대 없는"
+      },
+      {
+        "word": "contemptible",
+        "meaning_ko": "경멸할 만한"
+      },
+      {
+        "word": "underhanded",
+        "meaning_ko": "비열한, 음흉한(수단)"
+      },
+      {
+        "word": "shameful",
+        "meaning_ko": "수치스러운"
+      },
+      {
+        "word": "pusillanimous",
+        "meaning_ko": "겁이 많은(문어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "brave",
+        "meaning_ko": "용감한"
+      },
+      {
+        "word": "valiant",
+        "meaning_ko": "용맹한"
+      },
+      {
+        "word": "honorable",
+        "meaning_ko": "명예로운"
+      },
+      {
+        "word": "upright",
+        "meaning_ko": "정직한, 올곧은"
+      },
+      {
+        "word": "courageous",
+        "meaning_ko": "용기 있는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a dastardly act",
+            "meaning_ko": "비겁한 짓"
+          },
+          {
+            "phrase": "a dastardly move",
+            "meaning_ko": "비열한 수(행동)"
+          },
+          {
+            "phrase": "a dastardly lie",
+            "meaning_ko": "비열한 거짓말"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a dastardly betrayal",
+            "meaning_ko": "비겁한 배신"
+          },
+          {
+            "phrase": "a dastardly attack",
+            "meaning_ko": "비열한 공격"
+          },
+          {
+            "phrase": "a dastardly scheme",
+            "meaning_ko": "비열한 음모"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "condemn the dastardly deed",
+            "meaning_ko": "비겁한 범행을 규탄하다"
+          },
+          {
+            "phrase": "a dastardly assault on civilians",
+            "meaning_ko": "민간인에 대한 비열한 폭행/공격"
+          },
+          {
+            "phrase": "denounce him as a dastard",
+            "meaning_ko": "그를 비겁한 자라고 공개 비난하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "That was a dastardly trick.",
+            "meaning_ko": "그건 비열한 수작이었어요."
+          },
+          {
+            "sentence": "He called the act dastardly.",
+            "meaning_ko": "그는 그 행동을 비겁한 짓이라 불렀어요."
+          },
+          {
+            "sentence": "Don't do anything so dastardly.",
+            "meaning_ko": "그렇게 비열한 짓은 하지 마세요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The committee condemned the dastardly attack without hesitation.",
+            "meaning_ko": "위원회는 그 비열한 공격을 망설임 없이 규탄했다."
+          },
+          {
+            "sentence": "She refused to reward a dastard who profited from fear.",
+            "meaning_ko": "그녀는 공포를 이용해 이익을 본 비겁한 자에게 보상하길 거부했다."
+          },
+          {
+            "sentence": "His apology rang hollow after such a dastardly betrayal.",
+            "meaning_ko": "그런 비겁한 배신 이후 그의 사과는 공허하게 들렸다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "History rarely forgets the leaders who chose a dastardly compromise over principled resistance.",
+            "meaning_ko": "역사는 원칙 있는 저항 대신 비겁한 타협을 택한 지도자들을 좀처럼 잊지 않는다."
+          },
+          {
+            "sentence": "By framing dissent as treason, the regime attempted a dastardly erasure of legitimate criticism.",
+            "meaning_ko": "정권은 반대를 반역으로 몰아 정당한 비판을 비열하게 지우려 했다."
+          },
+          {
+            "sentence": "The novel portrays ambition turning dastard when it feeds on the ruin of the vulnerable.",
+            "meaning_ko": "그 소설은 약자의 파멸을 먹고 자랄 때 야망이 비열해지는 모습을 그린다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dastard는 '겁쟁이(coward)'보다 비난의 강도가 세고, '비겁함+비열함'을 함께 때립니다. 보통 일상 회화보다 기사·연설·문학에서 자주 보이므로, 'dastardly + act/attack/betrayal' 같은 덩어리로 통째로 익히면 기억이 빨라집니다. 철자와 발음이 헷갈리면 dastardly를 함께 외워 연결고리를 만들면 좋습니다.",
+    "tags": [
+      "비난",
+      "성격",
+      "도덕",
+      "문어",
+      "평가"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning: 'dastardly'.\n(A) generous (B) cowardly and dishonorable (C) noisy (D) accurate",
+            "a": "B",
+            "meaning_ko": "dastardly는 '비겁하고 비열한'의 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: It was a ______ act to abandon your teammate mid-game.",
+            "a": "dastardly",
+            "meaning_ko": "비열한 행동을 비난할 때 'dastardly act'가 자연스럽습니다."
+          },
+          {
+            "q": "True/False: A 'dastard' is usually praised for courage.",
+            "a": "False",
+            "meaning_ko": "dastard는 칭찬이 아니라 강한 비난(비겁한 자)입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'dastardly' without changing meaning: 'The attack was cowardly and shameful.'",
+            "a": "The attack was dastardly.",
+            "meaning_ko": "cowardly and shameful → dastardly로 압축 가능합니다."
+          },
+          {
+            "q": "Which collocation sounds most natural?\n(A) dastardly sunshine (B) dastardly scheme (C) dastardly cabbage (D) dastardly triangle",
+            "a": "B",
+            "meaning_ko": "scheme(음모)와 잘 붙습니다."
+          },
+          {
+            "q": "Fill in: The minister was denounced as a ______ after the bribery scandal.",
+            "a": "dastard",
+            "meaning_ko": "인물을 '비열한 자'로 지칭할 때 명사 dastard를 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best option: 'The editorial ______ the company's dastardly attempt to silence whistleblowers.'\n(A) applauded (B) rationalized (C) condemned (D) postponed",
+            "a": "C",
+            "meaning_ko": "비열한 시도를 'condemn(규탄)'하는 구도가 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'He is dastard to his friends when trouble comes.' → Correct the sentence.",
+            "a": "He is a dastard to his friends when trouble comes.",
+            "meaning_ko": "명사 용법이면 관사 a가 필요합니다."
+          },
+          {
+            "q": "Insert the best word: 'Choosing anonymity to avoid accountability was the most ______ decision the board could have made.'",
+            "a": "dastardly",
+            "meaning_ko": "책임 회피를 강하게 비난하는 맥락에 적합합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "plummet",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To fall or drop straight down rapidly; to decrease sharply.",
+        "definition_ko": "급락하다, 곤두박질치다; 급격히 감소하다.",
+        "note": "가격·기온·지지율·매출 같은 수치가 '갑자기 크게' 떨어질 때 특히 자주 씁니다."
+      }
+    ],
+    "concept": "짧은 시간에 수직에 가깝게 ‘확’ 떨어지는 급락",
+    "etymology": "프랑스어 plomb(납)에서 온 'plumb(수직을 재는 추)' 계열과 연결되어, 원래는 수직을 재는 추(플럼밥, plummet)를 뜻했고, 여기서 '수직으로 떨어지다'라는 동사 의미가 확장되었습니다.",
+    "semanticExtension": "물리적으로 떨어지는 의미에서, 주가·평판·기온·실적 등 추상적 수치가 급격히 하락하는 의미로 넓게 확장되었습니다.",
+    "nuanceRegister": "중립~격식. 뉴스/리포트/학술·비즈니스 문맥에서 매우 흔하고, 회화에서도 자연스럽습니다.",
+    "grammarNotes": "자동사로 자주 쓰이며(Prices plummeted), 목적어를 두는 타동사 용법은 드뭅니다. 명사 plummet은 '추' 또는 '급락' 의미로 제한적.",
+    "transitivity": "주로 자동사(타동사 용법은 드묾)",
+    "countability": "가산명사(명사 용법); 동사 용법은 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~까지(수준으로) 급락하다",
+        "example": "plummet to a new low"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~에서(출발점) 급락하다",
+        "example": "plummet from 100 to 60"
+      },
+      {
+        "prep": "by",
+        "meaning_ko": "~만큼(변화폭) 급락하다",
+        "example": "plummet by 30 percent"
+      }
+    ],
+    "requiredComplements": [
+      "plummet to + number/level (수치·수준까지 급락)",
+      "plummet by + amount/percent (변화폭)",
+      "plummet from A to B (A에서 B로 급락)"
+    ],
+    "morphology": "plumb(수직) 계열 어감과 연결되지만, 현대 영어에서는 plummet이 하나의 단어로 굳어져 있어 파생 규칙이 제한적입니다.",
+    "derivatives": [
+      {
+        "word": "plummeting",
+        "meaning_ko": "급락하는(현재분사/형용사적)"
+      },
+      {
+        "word": "plummeted",
+        "meaning_ko": "급락했다(과거/과거분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "drop",
+        "meaning_ko": "떨어지다, 하락"
+      },
+      {
+        "word": "decline",
+        "meaning_ko": "감소, 하락"
+      },
+      {
+        "word": "slump",
+        "meaning_ko": "침체, 급감"
+      },
+      {
+        "word": "collapse",
+        "meaning_ko": "붕괴, 폭락"
+      },
+      {
+        "word": "freefall",
+        "meaning_ko": "자유낙하, 급락 상태"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "plunge",
+        "meaning_ko": "급락하다, 곤두박질치다"
+      },
+      {
+        "word": "tumble",
+        "meaning_ko": "굴러 떨어지다; 급락하다"
+      },
+      {
+        "word": "drop sharply",
+        "meaning_ko": "급격히 떨어지다"
+      },
+      {
+        "word": "sink",
+        "meaning_ko": "가라앉다; 하락하다"
+      },
+      {
+        "word": "collapse",
+        "meaning_ko": "폭락하다, 붕괴하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "slide",
+        "meaning_ko": "서서히 하락(급격함은 덜함)"
+      },
+      {
+        "word": "dip",
+        "meaning_ko": "잠깐 내려가다(규모가 작을 때)"
+      },
+      {
+        "word": "decrease",
+        "meaning_ko": "감소하다(중립)"
+      },
+      {
+        "word": "fall",
+        "meaning_ko": "떨어지다(일반)"
+      },
+      {
+        "word": "slump",
+        "meaning_ko": "뚝 떨어지며 침체하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "soar",
+        "meaning_ko": "치솟다"
+      },
+      {
+        "word": "surge",
+        "meaning_ko": "급등하다"
+      },
+      {
+        "word": "rise",
+        "meaning_ko": "상승하다"
+      },
+      {
+        "word": "climb",
+        "meaning_ko": "오르다"
+      },
+      {
+        "word": "rebound",
+        "meaning_ko": "반등하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "prices plummet",
+            "meaning_ko": "가격이 급락하다"
+          },
+          {
+            "phrase": "plummet quickly",
+            "meaning_ko": "빠르게 곤두박질치다"
+          },
+          {
+            "phrase": "plummet overnight",
+            "meaning_ko": "하룻밤 사이 급락하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "plummet to a record low",
+            "meaning_ko": "사상 최저치로 급락하다"
+          },
+          {
+            "phrase": "plummet by 20 percent",
+            "meaning_ko": "20% 급락하다"
+          },
+          {
+            "phrase": "plummet from A to B",
+            "meaning_ko": "A에서 B로 급락하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "consumer confidence plummeted",
+            "meaning_ko": "소비자 신뢰가 급락했다"
+          },
+          {
+            "phrase": "the currency plummeted against the dollar",
+            "meaning_ko": "통화 가치가 달러 대비 급락했다"
+          },
+          {
+            "phrase": "shares plummeted on fears of insolvency",
+            "meaning_ko": "지급불능 우려로 주가가 폭락했다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The temperature plummeted at night.",
+            "meaning_ko": "밤에 기온이 급락했어요."
+          },
+          {
+            "sentence": "Sales plummeted this week.",
+            "meaning_ko": "이번 주 매출이 곤두박질쳤어요."
+          },
+          {
+            "sentence": "He watched the ball plummet into the river.",
+            "meaning_ko": "그는 공이 강으로 곤두박질치는 것을 봤어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "After the recall announcement, the company's stock plummeted by 18 percent.",
+            "meaning_ko": "리콜 발표 후 그 회사 주가는 18% 급락했다."
+          },
+          {
+            "sentence": "Enrollment plummeted from 12,000 to 7,500 in just two semesters.",
+            "meaning_ko": "등록자 수가 단 두 학기 만에 1만2천에서 7천5백으로 급감했다."
+          },
+          {
+            "sentence": "Public approval plummeted to a new low following the scandal.",
+            "meaning_ko": "스캔들 이후 대중 지지율은 새로운 최저치로 급락했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "When policy signals conflicted, investor expectations plummeted, amplifying volatility across the market.",
+            "meaning_ko": "정책 신호가 엇갈리자 투자자 기대가 급락했고, 시장 전반의 변동성이 증폭됐다."
+          },
+          {
+            "sentence": "The report argues that trust can plummet faster than it is built, especially under repeated opaque decisions.",
+            "meaning_ko": "보고서는 신뢰가 쌓이는 속도보다 무성의한 결정이 반복될 때 더 빨리 무너질 수 있다고 말한다."
+          },
+          {
+            "sentence": "As biodiversity indicators plummet, the ecological costs become impossible to dismiss as temporary noise.",
+            "meaning_ko": "생물다양성 지표가 급락할수록 생태적 비용을 일시적 잡음으로 치부하기 어려워진다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "plummet은 '수직으로 떨어지듯 급락'이 핵심이라, 그냥 fall보다 속도·폭이 큽니다. 시험에서는 to/by/from-to 패턴(수준·폭·구간)을 같이 묻는 경우가 많으니 세 패턴을 한 묶음으로 외우세요. plunge, tumble과 비슷하지만 plummet은 특히 '급격한 하락'에 초점이 강합니다.",
+    "tags": [
+      "하락",
+      "경제",
+      "수치",
+      "뉴스",
+      "변화"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The rock ______ into the sea.",
+            "a": "plummeted",
+            "meaning_ko": "물리적으로 '곤두박질치다'에 plummet이 적합합니다."
+          },
+          {
+            "q": "Choose the best meaning of 'plummet':\n(A) improve slowly (B) fall very quickly (C) speak softly (D) stay the same",
+            "a": "B",
+            "meaning_ko": "plummet = 급격히 떨어지다."
+          },
+          {
+            "q": "Which is more dramatic?\n(A) prices fell (B) prices plummeted",
+            "a": "B",
+            "meaning_ko": "plummeted가 '급락'으로 더 강합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct pattern: Profits ______ 30% last quarter.\n(A) plummeted by (B) plummeted at (C) plummeted in (D) plummeted on",
+            "a": "A",
+            "meaning_ko": "변화폭은 by를 씁니다."
+          },
+          {
+            "q": "Fill in: The index plummeted ______ a record low after the announcement.",
+            "a": "to",
+            "meaning_ko": "도달한 수준은 to입니다."
+          },
+          {
+            "q": "Rewrite using 'plummet': 'Attendance dropped from 500 to 120.'",
+            "a": "Attendance plummeted from 500 to 120.",
+            "meaning_ko": "from A to B 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best inference: If 'confidence plummeted,' what most likely happened?\n(A) It increased slightly (B) It stayed stable (C) It fell sharply (D) It became louder",
+            "a": "C",
+            "meaning_ko": "plummet은 급격한 하락입니다."
+          },
+          {
+            "q": "Error correction: 'The stock plummeted to 15 percent.' → Fix the sentence.",
+            "a": "The stock plummeted by 15 percent.",
+            "meaning_ko": "퍼센트는 변화폭이므로 by를 쓰는 것이 표준적입니다."
+          },
+          {
+            "q": "Choose the most precise option: 'After the leak, trust ______ in a matter of hours.'\n(A) wandered (B) plummeted (C) polished (D) persuaded",
+            "a": "B",
+            "meaning_ko": "짧은 시간 급락 맥락에 plummeted가 정확합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ingenuous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Innocent and unsuspecting; showing childlike simplicity and honesty.",
+        "definition_ko": "순진한, 세상 물정 모르는; 꾸밈없는 단순함과 솔직함이 있는.",
+        "note": "정직한(naive) 뉘앙스가 있어 칭찬/약점 지적 양쪽으로 쓰일 수 있습니다. (disingenuous = 부정직한, 아닌 척하는)"
+      }
+    ],
+    "concept": "악의가 없고 계산이 덜한 ‘순진한 솔직함’",
+    "etymology": "라틴어 ingenuus(자유민의, 타고난)에서 유래해 '자연스러운/꾸밈없는' 의미가 발전했고, 현대 영어에서는 '순진하고 솔직한' 성격을 나타내는 형용사로 굳었습니다.",
+    "semanticExtension": "사람뿐 아니라 질문·발언·반응이 '순진하고 꾸밈없다'는 뜻으로도 확장되어 쓰이며, 때로는 경험 부족을 은근히 지적하는 용법도 있습니다.",
+    "nuanceRegister": "격식~중립. 에세이/기사/평가문에서 흔하며 회화에서도 사용 가능하지만 어휘 난이도는 중상.",
+    "grammarNotes": "형용사로 사람/말/표정/질문 등을 수식. disingenuous(겉으로만 솔직한 척)와 대비해 자주 출제됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해(태도/발언이) 꾸밈없는",
+        "example": "ingenuous about his mistakes"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(행동/표현에서) 순진한",
+        "example": "ingenuous in her questions"
+      }
+    ],
+    "requiredComplements": [
+      "ingenuous about + topic (어떤 주제에 대해 솔직/순진한 태도)",
+      "ingenuous in + expression/question (표현/질문에서 순진함)"
+    ],
+    "morphology": "어근적으로 in-(아님)과 무관하며, 라틴어 계열 단어로서 dis- 접두가 붙어 disingenuous(진정성 없는)로 강하게 대비됩니다.",
+    "derivatives": [
+      {
+        "word": "ingenuously",
+        "meaning_ko": "순진하게, 꾸밈없이(부사)"
+      },
+      {
+        "word": "ingenuousness",
+        "meaning_ko": "순진함, 꾸밈없음(명사)"
+      },
+      {
+        "word": "disingenuous",
+        "meaning_ko": "솔직하지 않은 척하는, 진정성 없는(반대 의미)"
+      }
+    ],
+    "related": [
+      {
+        "word": "naive",
+        "meaning_ko": "순진한(경험 부족)"
+      },
+      {
+        "word": "candid",
+        "meaning_ko": "솔직한(직설적)"
+      },
+      {
+        "word": "sincere",
+        "meaning_ko": "진심 어린"
+      },
+      {
+        "word": "artless",
+        "meaning_ko": "꾸밈없는, 소박한"
+      },
+      {
+        "word": "guileless",
+        "meaning_ko": "교활함이 없는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "naive",
+        "meaning_ko": "순진한"
+      },
+      {
+        "word": "guileless",
+        "meaning_ko": "순박한, 간사함 없는"
+      },
+      {
+        "word": "innocent",
+        "meaning_ko": "순수한, 천진한"
+      },
+      {
+        "word": "artless",
+        "meaning_ko": "꾸밈없는"
+      },
+      {
+        "word": "unsophisticated",
+        "meaning_ko": "세련되지 않은; 세상 물정 모르는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "candid",
+        "meaning_ko": "솔직한(순진함보다는 직설)"
+      },
+      {
+        "word": "straightforward",
+        "meaning_ko": "단도직입적인"
+      },
+      {
+        "word": "simple",
+        "meaning_ko": "단순한(맥락에 따라 긍/부정)"
+      },
+      {
+        "word": "trusting",
+        "meaning_ko": "쉽게 믿는"
+      },
+      {
+        "word": "open",
+        "meaning_ko": "마음이 열린, 숨김없는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disingenuous",
+        "meaning_ko": "진정성 없는, 아닌 척하는"
+      },
+      {
+        "word": "cynical",
+        "meaning_ko": "냉소적인"
+      },
+      {
+        "word": "wary",
+        "meaning_ko": "경계하는"
+      },
+      {
+        "word": "shrewd",
+        "meaning_ko": "약삭빠른, 빈틈없는"
+      },
+      {
+        "word": "worldly",
+        "meaning_ko": "세상 물정에 밝은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "an ingenuous child",
+            "meaning_ko": "순진한 아이"
+          },
+          {
+            "phrase": "an ingenuous smile",
+            "meaning_ko": "천진난만한 미소"
+          },
+          {
+            "phrase": "an ingenuous question",
+            "meaning_ko": "순진한 질문"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ingenuous remarks",
+            "meaning_ko": "꾸밈없는 발언"
+          },
+          {
+            "phrase": "ingenuous curiosity",
+            "meaning_ko": "순수한 호기심"
+          },
+          {
+            "phrase": "an ingenuous admission",
+            "meaning_ko": "꾸밈없는 인정/고백"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "an ingenuous attempt to help",
+            "meaning_ko": "선의에서 나온 순진한 도움 시도"
+          },
+          {
+            "phrase": "ingenuous in his self-criticism",
+            "meaning_ko": "자기비판에서 꾸밈없는"
+          },
+          {
+            "phrase": "an ingenuous response that disarmed critics",
+            "meaning_ko": "비판을 무디게 만든 순진하고 솔직한 반응"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He gave an ingenuous smile.",
+            "meaning_ko": "그는 순진한 미소를 지었다."
+          },
+          {
+            "sentence": "Her question was ingenuous, not rude.",
+            "meaning_ko": "그녀의 질문은 무례해서가 아니라 순진해서였다."
+          },
+          {
+            "sentence": "Don't be so ingenuous about strangers.",
+            "meaning_ko": "낯선 사람에게 그렇게 순진하게 굴지 마세요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "His ingenuous admission made it hard to stay angry with him.",
+            "meaning_ko": "그의 꾸밈없는 고백 때문에 계속 화내기 어려웠다."
+          },
+          {
+            "sentence": "The interviewer praised her for an ingenuous curiosity that kept the discussion honest.",
+            "meaning_ko": "면접관은 대화를 솔직하게 유지하는 그녀의 순수한 호기심을 칭찬했다."
+          },
+          {
+            "sentence": "They mistook his ingenuous manner for incompetence.",
+            "meaning_ko": "그들은 그의 순진한 태도를 무능으로 오해했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "In negotiations, an ingenuous disclosure can build trust—or expose vulnerabilities if the other side is strategic.",
+            "meaning_ko": "협상에서 순진한 솔직함은 신뢰를 쌓기도 하지만 상대가 계산적이면 약점을 드러낼 수도 있다."
+          },
+          {
+            "sentence": "The memoir's power lies in its ingenuous tone, refusing to retrofit wisdom onto past mistakes.",
+            "meaning_ko": "그 회고록의 힘은 과거의 실수에 억지로 지혜를 덧씌우지 않는 꾸밈없는 어조에 있다."
+          },
+          {
+            "sentence": "Her ingenuous optimism, though fragile, became a quiet rebuke to the room's practiced cynicism.",
+            "meaning_ko": "연약하지만 순진한 낙관은 방 안의 익숙한 냉소를 조용히 꾸짖는 듯했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ingenuous는 철자가 disingenuous와 함께 자주 출제되니 'in(순진)+dis(겉으로만)' 대비로 묶어 외우는 게 효과적입니다. naive와 비슷하지만 ingenuous는 '꾸밈없는 솔직함'이 더 드러나며, 문맥에 따라 칭찬(순수함) 또는 약점(세상 물정 모름)으로 읽힐 수 있습니다. collocation은 'ingenuous smile/question/admission' 3종 세트를 추천합니다.",
+    "tags": [
+      "성격",
+      "태도",
+      "솔직함",
+      "평가",
+      "심리"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning: 'ingenuous'.\n(A) suspicious (B) innocent and simple (C) noisy (D) wealthy",
+            "a": "B",
+            "meaning_ko": "ingenuous는 '순진하고 꾸밈없는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She asked an ______ question about money and taxes.",
+            "a": "ingenuous",
+            "meaning_ko": "순진한 질문 = ingenuous question."
+          },
+          {
+            "q": "True/False: 'ingenuous' usually suggests hidden motives.",
+            "a": "False",
+            "meaning_ko": "숨은 의도는 보통 disingenuous 쪽입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best contrast pair:\n(A) ingenuous ↔ disingenuous (B) tall ↔ short (C) bright ↔ dark (D) early ↔ late",
+            "a": "A",
+            "meaning_ko": "ingenuous(순진/솔직) vs disingenuous(진정성 없음)이 핵심 대비입니다."
+          },
+          {
+            "q": "Fill in: He was ingenuous ______ his lack of experience, which impressed the team.",
+            "a": "about",
+            "meaning_ko": "about + 주제(경험 부족)에 대해 꾸밈없이 말하다."
+          },
+          {
+            "q": "Rewrite with 'ingenuously': 'She admitted her mistake in a simple, honest way.'",
+            "a": "She ingenuously admitted her mistake.",
+            "meaning_ko": "ingenuously는 '꾸밈없이/순진하게'를 자연스럽게 전달합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best word: 'The spokesperson sounded ______, carefully avoiding direct answers.'\n(A) ingenuous (B) disingenuous (C) ignorant (D) generous",
+            "a": "B",
+            "meaning_ko": "겉으로만 솔직한 척하며 회피 = disingenuous."
+          },
+          {
+            "q": "Error correction: 'His ingenuousness about the plan were refreshing.' → Correct the sentence.",
+            "a": "His ingenuousness about the plan was refreshing.",
+            "meaning_ko": "주어 ingenuousness는 단수 취급이 일반적이라 was가 맞습니다."
+          },
+          {
+            "q": "Inference: If a critic says a leader's apology was 'ingenuous,' what is the likely evaluation?\n(A) It felt sincere and uncalculated (B) It was clearly sarcastic (C) It was highly technical (D) It was loud",
+            "a": "A",
+            "meaning_ko": "ingenuous는 계산보다 꾸밈없는 진정성/순진함 쪽으로 읽힙니다."
+          }
+        ]
+      }
+    ]
+  }
+]

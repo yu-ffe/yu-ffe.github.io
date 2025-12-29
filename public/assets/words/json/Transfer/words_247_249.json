@@ -1,0 +1,989 @@
+[
+  {
+    "word": "hideous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Extremely ugly or unpleasant to look at.",
+        "definition_ko": "몹시 흉측하거나 보기 거슬리는.",
+        "note": "강한 부정 표현이라 일상 대화에선 과격하게 들릴 수 있습니다."
+      },
+      {
+        "definition_en": "Very shocking or morally offensive; horrifying.",
+        "definition_ko": "끔찍하거나 경악스러운; 도덕적으로도 용납하기 힘든.",
+        "note": "사건·범죄·행동을 평가할 때도 씁니다."
+      },
+      {
+        "definition_en": "Very bad in quality or effect.",
+        "definition_ko": "질·결과가 매우 형편없는.",
+        "note": "hideous mistake/traffic 같은 식으로 과장 강조에 자주 쓰입니다."
+      }
+    ],
+    "concept": "시각적으로든 내용적으로든 ‘너무 끔찍해서 보기/듣기 힘든’ 강한 부정 평가.",
+    "etymology": "중세 프랑스어 hideus(끔찍한)에서 왔으며, 더 근원은 불확실하지만 ‘공포/혐오’를 나타내는 어원에서 발전한 것으로 봅니다.",
+    "semanticExtension": "원래 ‘흉한 외모’에서 출발해, ‘끔찍한 범죄/행위’, 더 나아가 ‘형편없는 실수·상황’ 같은 추상적 평가로 확장됩니다.",
+    "nuanceRegister": "강한 평가의 형용사로 문어·구어 모두 가능하나, 상대를 직접 지칭하면 공격적으로 들릴 수 있어 주의가 필요합니다.",
+    "grammarNotes": "주로 명사 앞(Attributive)과 보어(Predicative) 위치 모두 가능: a hideous smell / The plan is hideous. 사람·사물 모두 수식 가능.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "누구/무엇에게 ‘보기/듣기 불쾌한’ 느낌",
+        "example": "hideous to look at"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "표정/눈빛 등에서 ‘공허·섬뜩함이 드러나는’ 맥락(문맥상)",
+        "example": "something hideous in his grin"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "특정 특징을 ‘지닌 채 흉한’",
+        "example": "hideous with scars"
+      }
+    ],
+    "requiredComplements": [
+      "hideous to + 사람/대상 (…에게/…에게 보기 싫은): The joke was hideous to everyone.",
+      "hideous to + V (…하기에 끔찍한): hideous to watch / to listen to",
+      "hideous (in that) + 절 (평가를 덧붙이는 절): hideous in that it exploits the weak"
+    ],
+    "morphology": "hide(혐오/공포를 유발하는 뿌리로 추정) + -ous(…한, …의 성질을 가진) 형태로 이해하면 기억에 도움이 됩니다.",
+    "derivatives": [
+      {
+        "word": "hideously",
+        "meaning_ko": "끔찍하게; 몹시 흉하게"
+      },
+      {
+        "word": "hideousness",
+        "meaning_ko": "흉측함; 끔찍함"
+      }
+    ],
+    "related": [
+      {
+        "word": "horrific",
+        "meaning_ko": "끔찍한; 공포스러운"
+      },
+      {
+        "word": "grotesque",
+        "meaning_ko": "기괴할 정도로 흉한"
+      },
+      {
+        "word": "repulsive",
+        "meaning_ko": "혐오감을 주는"
+      },
+      {
+        "word": "unsightly",
+        "meaning_ko": "보기 흉한"
+      },
+      {
+        "word": "atrocity",
+        "meaning_ko": "잔혹 행위; 만행"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ugly",
+        "meaning_ko": "못생긴; 보기 안 좋은"
+      },
+      {
+        "word": "horrible",
+        "meaning_ko": "끔찍한"
+      },
+      {
+        "word": "ghastly",
+        "meaning_ko": "소름끼치게 끔찍한"
+      },
+      {
+        "word": "repellent",
+        "meaning_ko": "혐오감을 유발하는"
+      },
+      {
+        "word": "disgusting",
+        "meaning_ko": "역겨운"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "awful",
+        "meaning_ko": "아주 나쁜; 끔찍한(범용)"
+      },
+      {
+        "word": "dreadful",
+        "meaning_ko": "몹시 나쁜; 끔찍한"
+      },
+      {
+        "word": "nasty",
+        "meaning_ko": "불쾌한; (구어) 심한"
+      },
+      {
+        "word": "squalid",
+        "meaning_ko": "지저분하고 비참한"
+      },
+      {
+        "word": "lurid",
+        "meaning_ko": "자극적으로 선정적인; 섬뜩한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "beautiful",
+        "meaning_ko": "아름다운"
+      },
+      {
+        "word": "pleasant",
+        "meaning_ko": "기분 좋은; 보기 좋은"
+      },
+      {
+        "word": "decent",
+        "meaning_ko": "괜찮은; 품위 있는"
+      },
+      {
+        "word": "admirable",
+        "meaning_ko": "훌륭한; 칭찬할 만한"
+      },
+      {
+        "word": "appealing",
+        "meaning_ko": "매력적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a hideous smell",
+            "meaning_ko": "끔찍한 냄새"
+          },
+          {
+            "phrase": "a hideous face",
+            "meaning_ko": "흉측한 얼굴"
+          },
+          {
+            "phrase": "hideous colors",
+            "meaning_ko": "눈에 거슬리는 색감"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a hideous mistake",
+            "meaning_ko": "참혹한/치명적인 실수"
+          },
+          {
+            "phrase": "hideous crime",
+            "meaning_ko": "끔찍한 범죄"
+          },
+          {
+            "phrase": "a hideous truth",
+            "meaning_ko": "끔찍한 진실"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "hideous distortion of the facts",
+            "meaning_ko": "사실의 끔찍한 왜곡"
+          },
+          {
+            "phrase": "a hideous betrayal of trust",
+            "meaning_ko": "신뢰를 저버린 끔찍한 배신"
+          },
+          {
+            "phrase": "hideous indifference to suffering",
+            "meaning_ko": "고통에 대한 끔찍한 무관심"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "There was a hideous smell coming from the kitchen.",
+            "meaning_ko": "부엌에서 끔찍한 냄새가 났습니다."
+          },
+          {
+            "sentence": "He made a hideous face in the photo.",
+            "meaning_ko": "그는 사진에서 흉한 표정을 지었습니다."
+          },
+          {
+            "sentence": "That color looks hideous on this wall.",
+            "meaning_ko": "저 색은 이 벽에 너무 보기 흉합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report described a hideous crime in chilling detail.",
+            "meaning_ko": "그 보고서는 끔찍한 범죄를 소름 돋게 자세히 묘사했습니다."
+          },
+          {
+            "sentence": "I realized I had made a hideous mistake and tried to fix it quickly.",
+            "meaning_ko": "제가 치명적인 실수를 했다는 걸 깨닫고 재빨리 수습하려 했습니다."
+          },
+          {
+            "sentence": "They uncovered a hideous truth that the company had been hiding for years.",
+            "meaning_ko": "그들은 회사가 수년간 숨겨 온 끔찍한 진실을 밝혀냈습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The speech was condemned as a hideous distortion of history designed to inflame hatred.",
+            "meaning_ko": "그 연설은 증오를 부추기려는 끔찍한 역사 왜곡으로 규탄받았습니다."
+          },
+          {
+            "sentence": "What shocked the jury most was the hideous indifference the defendant showed to the victims’ suffering.",
+            "meaning_ko": "배심원을 가장 충격에 빠뜨린 건 피고가 피해자 고통에 보인 끔찍한 무관심이었습니다."
+          },
+          {
+            "sentence": "Calling it a ‘joke’ was a hideous attempt to excuse cruelty with laughter.",
+            "meaning_ko": "그걸 ‘농담’이라 부른 것은 웃음으로 잔혹함을 합리화하려는 끔찍한 시도였습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "hideous는 horrible/ugly보다 ‘혐오·경악’의 강도가 높습니다. 외모를 사람에게 직접 쓰면 모욕이 되기 쉬우니, 냄새·범죄·실수 같은 ‘대상’에 먼저 붙여 익히세요. 시험에선 hideous mistake/ crime처럼 ‘극단적 평가’ 콜로케이션이 자주 나옵니다.",
+    "tags": [
+      "강한부정",
+      "외모",
+      "범죄",
+      "평가표현",
+      "형용사"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The garbage left in the sun gave off a ____ smell.",
+            "a": "hideous",
+            "meaning_ko": "햇볕에 방치된 쓰레기 냄새처럼 ‘끔찍한’에 가장 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence uses 'hideous' correctly?",
+            "a": "The painting looked hideous under the harsh light.",
+            "meaning_ko": "사물의 ‘보기 흉함’을 표현하는 전형적 용법입니다."
+          },
+          {
+            "q": "Fill in the blank: That sweater is ____ on him.",
+            "a": "hideous",
+            "meaning_ko": "형용사로 ‘보기 흉한’을 표현합니다(다만 사람에게 직접 평가는 공격적으로 들릴 수 있음)."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest meaning: 'a hideous mistake'",
+            "a": "a terribly bad mistake",
+            "meaning_ko": "품질/결과가 매우 형편없다는 과장 강조입니다."
+          },
+          {
+            "q": "Complete the pattern: The scene was hideous to ____.",
+            "a": "watch",
+            "meaning_ko": "hideous to + V(…하기에 끔찍한) 패턴입니다."
+          },
+          {
+            "q": "Choose the best replacement for 'hideous' in this context: 'a hideous crime'",
+            "a": "horrific",
+            "meaning_ko": "범죄·사건에선 horrific/heinous류와 의미권이 겹칩니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Select the most natural collocation: a hideous ____ of the facts",
+            "a": "distortion",
+            "meaning_ko": "distortion(왜곡)과 강한 평가 형용사 hideous가 자주 결합합니다."
+          },
+          {
+            "q": "Error check: 'His hideousness to the victims was criticized.' (Fix the unnatural part.)",
+            "a": "His hideous indifference to the victims was criticized.",
+            "meaning_ko": "hideousness는 가능하지만 문맥상 ‘indifference’가 더 자연스럽고 의미가 선명합니다."
+          },
+          {
+            "q": "Which sentence best shows figurative extension?",
+            "a": "The policy was a hideous betrayal of the public’s trust.",
+            "meaning_ko": "외형이 아니라 ‘행위/정책’의 도덕적 평가로 확장된 예입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vacant",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Empty; not occupied by a person or thing.",
+        "definition_ko": "비어 있는; 점유·사용 중이 아닌.",
+        "note": "vacant seat/room/position처럼 ‘자리가 비다’의 기본 의미입니다."
+      },
+      {
+        "definition_en": "Lacking thought or intelligence; blank.",
+        "definition_ko": "생각이 비어 보이는; 멍한, 공허한.",
+        "note": "vacant stare/look처럼 ‘멍한 표정’이 대표적입니다."
+      },
+      {
+        "definition_en": "Having no meaning, purpose, or content.",
+        "definition_ko": "내용·의미·목적이 없는; 공허한.",
+        "note": "vacant promise, vacant words처럼 ‘속 빈’ 느낌을 줍니다."
+      }
+    ],
+    "concept": "물리적으로 ‘비어 있음’에서 출발해, 정신·내용까지 ‘공허/멍함’으로 이어지는 형용사.",
+    "etymology": "라틴어 vacare(비어 있다, 한가하다)에서 유래했으며, vacancy(공석), vacate(비우다) 같은 파생어로 넓게 확장되었습니다.",
+    "semanticExtension": "좌석·방처럼 ‘비어 있는’ 의미가 기본이고, 표정·눈빛에 적용되며 ‘멍함/생각 없음’으로 비유 확장됩니다. 더 나아가 말·약속에 붙어 ‘내용 없는 공허함’을 나타냅니다.",
+    "nuanceRegister": "중립적인 ‘공석/빈자리’ 표현부터, 사람의 표정을 말할 때는 다소 냉정하거나 비판적으로 들릴 수 있습니다. 공문서·채용 공고에서도 흔합니다.",
+    "grammarNotes": "vacant + 명사( vacants seats ) / be vacant( The room is vacant ). 'vacant of'는 문어/수사적(감정이 비어 있음)으로 자주 보입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "…이 결여된/비어 있는",
+        "example": "vacant of emotion"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "눈빛/얼굴 등에서 ‘공허함이 드러나는’",
+        "example": "a vacant look in her eyes"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "표면/구역 ‘~에 비어 있는(자리)’",
+        "example": "a vacant seat on the bus"
+      }
+    ],
+    "requiredComplements": [
+      "be vacant (비어 있다/공석이다): The apartment is vacant.",
+      "vacant of + 추상명사 (…이 없는): vacant of meaning / emotion",
+      "a vacant stare/look (멍한 시선/표정): He gave me a vacant stare."
+    ],
+    "morphology": "vac(비어 있음, 라틴어 vacare 계열) + -ant(…한 성질을 가진)로 ‘비어 있는 상태’를 떠올리면 좋습니다.",
+    "derivatives": [
+      {
+        "word": "vacancy",
+        "meaning_ko": "공석; 빈방; 결원"
+      },
+      {
+        "word": "vacate",
+        "meaning_ko": "비우다; 떠나다(방/자리)"
+      },
+      {
+        "word": "vacantly",
+        "meaning_ko": "멍하니; 공허하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "empty",
+        "meaning_ko": "비어 있는"
+      },
+      {
+        "word": "unoccupied",
+        "meaning_ko": "점유되지 않은"
+      },
+      {
+        "word": "idle",
+        "meaning_ko": "한가한; 유휴의"
+      },
+      {
+        "word": "void",
+        "meaning_ko": "공허한; 텅 빈"
+      },
+      {
+        "word": "absent-minded",
+        "meaning_ko": "멍한; 정신이 딴 데 있는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "empty",
+        "meaning_ko": "비어 있는"
+      },
+      {
+        "word": "unoccupied",
+        "meaning_ko": "사용 중이 아닌"
+      },
+      {
+        "word": "available",
+        "meaning_ko": "비어 있어 사용 가능한"
+      },
+      {
+        "word": "blank",
+        "meaning_ko": "텅 빈; 멍한"
+      },
+      {
+        "word": "void",
+        "meaning_ko": "공허한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "idle",
+        "meaning_ko": "가동되지 않는; 한가한"
+      },
+      {
+        "word": "hollow",
+        "meaning_ko": "속이 빈; 공허한"
+      },
+      {
+        "word": "mindless",
+        "meaning_ko": "생각 없는; 무의식적인"
+      },
+      {
+        "word": "insipid",
+        "meaning_ko": "무미건조한; 재미없는"
+      },
+      {
+        "word": "meaningless",
+        "meaning_ko": "의미 없는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "occupied",
+        "meaning_ko": "사용 중인; 점유된"
+      },
+      {
+        "word": "full",
+        "meaning_ko": "가득 찬"
+      },
+      {
+        "word": "engaged",
+        "meaning_ko": "참여 중인; 집중한"
+      },
+      {
+        "word": "thoughtful",
+        "meaning_ko": "사려 깊은"
+      },
+      {
+        "word": "meaningful",
+        "meaning_ko": "의미 있는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a vacant seat",
+            "meaning_ko": "빈자리"
+          },
+          {
+            "phrase": "a vacant room",
+            "meaning_ko": "빈 방"
+          },
+          {
+            "phrase": "vacant land",
+            "meaning_ko": "빈 땅; 공터"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a vacant position",
+            "meaning_ko": "공석(채용 공고)"
+          },
+          {
+            "phrase": "a vacant stare",
+            "meaning_ko": "멍한 시선"
+          },
+          {
+            "phrase": "leave a seat vacant",
+            "meaning_ko": "자리를 비워 두다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "vacant of any real purpose",
+            "meaning_ko": "실질적 목적이 전혀 없는"
+          },
+          {
+            "phrase": "vacant promises and empty slogans",
+            "meaning_ko": "공허한 약속과 빈 구호"
+          },
+          {
+            "phrase": "a smile vacant of warmth",
+            "meaning_ko": "따뜻함이 결여된 미소"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Is this seat vacant?",
+            "meaning_ko": "이 자리 비어 있나요?"
+          },
+          {
+            "sentence": "The room has been vacant for weeks.",
+            "meaning_ko": "그 방은 몇 주째 비어 있습니다."
+          },
+          {
+            "sentence": "They built a small park on the vacant lot.",
+            "meaning_ko": "그들은 공터에 작은 공원을 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company posted the job as the position became vacant.",
+            "meaning_ko": "그 자리가 공석이 되자 회사는 채용 공고를 올렸습니다."
+          },
+          {
+            "sentence": "He answered with a vacant stare, as if he hadn’t heard the question.",
+            "meaning_ko": "그는 질문을 못 들은 듯 멍한 눈빛으로 대답했습니다."
+          },
+          {
+            "sentence": "Please keep one chair vacant for the late arrival.",
+            "meaning_ko": "늦게 오는 사람을 위해 의자 하나를 비워 두세요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Her apology sounded sincere at first, but it was ultimately vacant of responsibility.",
+            "meaning_ko": "사과는 처음엔 진심처럼 들렸지만 결국 책임감이 결여돼 있었습니다."
+          },
+          {
+            "sentence": "The speech was polished yet vacant of substance, leaving the audience unsatisfied.",
+            "meaning_ko": "연설은 세련됐지만 내용이 공허해 청중은 만족하지 못했습니다."
+          },
+          {
+            "sentence": "Behind his courteous smile was a gaze vacant of warmth, which unsettled everyone in the room.",
+            "meaning_ko": "정중한 미소 뒤에는 따뜻함이 없는 눈빛이 있어 방 안 모두를 불편하게 했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "vacant는 ‘비어 있는’이 핵심이므로 seat/room/position 같은 구체 명사와 먼저 묶어 외우면 안전합니다. 다음으로 vacant stare(멍한 눈빛)처럼 ‘정신이 비어 보임’ 비유를 연결하세요. vacancy(공석), vacate(비우다)와 같이 어근 vac- 계열로 묶으면 암기가 빨라집니다.",
+    "tags": [
+      "공석",
+      "부동산",
+      "채용",
+      "표정",
+      "형용사"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The apartment is ____ right now, so you can move in next week.",
+            "a": "vacant",
+            "meaning_ko": "사람이 없고 비어 있는 상태를 나타냅니다."
+          },
+          {
+            "q": "Choose the best phrase: ____ seat",
+            "a": "vacant",
+            "meaning_ko": "vacant seat = 빈자리(아주 흔한 결합)."
+          },
+          {
+            "q": "Which is closest to 'vacant lot'?",
+            "a": "empty land",
+            "meaning_ko": "공터/빈 땅 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best meaning of 'vacant' in: 'He gave me a vacant stare.'",
+            "a": "blank and thoughtless",
+            "meaning_ko": "멍하고 생각이 비어 보이는 표정/시선입니다."
+          },
+          {
+            "q": "Complete the sentence: The position became vacant, so the team ____ hiring.",
+            "a": "started",
+            "meaning_ko": "공석이 생기면 채용을 ‘시작’하는 흐름이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the correct pattern: 'vacant ____ emotion'",
+            "a": "of",
+            "meaning_ko": "vacant of + 추상명사(…이 결여된) 패턴."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The proposal was vacant of substance.'",
+            "a": "The proposal lacked real content.",
+            "meaning_ko": "vacant of = ‘결여된/속 빈’의 고급 문어 표현입니다."
+          },
+          {
+            "q": "Error correction: 'The room is vacant by anyone.' (Fix it.)",
+            "a": "The room is vacant.",
+            "meaning_ko": "vacant은 보통 보어로 단독 사용하며 by-구를 쓰지 않습니다."
+          },
+          {
+            "q": "Choose the most natural collocation: a smile vacant of ____",
+            "a": "warmth",
+            "meaning_ko": "따뜻함이 결여된 미소(문학/서술에서 자주 보임)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "acme",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The highest point or peak of achievement or development.",
+        "definition_ko": "정점, 절정; 성취·발전의 최고점.",
+        "note": "보통 the acme of ~ 형태로 ‘~의 정점’처럼 씁니다."
+      },
+      {
+        "definition_en": "The most perfect example or embodiment of something.",
+        "definition_ko": "전형(典型), 모범; 어떤 성질을 가장 완벽하게 보여주는 것.",
+        "note": "the acme of courtesy처럼 ‘극치’ 뉘앙스로 자주 나옵니다."
+      },
+      {
+        "definition_en": "The moment when something reaches its greatest intensity.",
+        "definition_ko": "최고조(에 달한 순간).",
+        "note": "감정·열풍·유행 등 ‘강도’가 최고일 때도 활용됩니다."
+      }
+    ],
+    "concept": "성과·품질·강도 등이 ‘최고점에 도달한 상태/순간’을 가리키는 격식 있는 명사.",
+    "etymology": "고대 그리스어 akmē(뾰족한 끝, 최고점, 전성기)에서 유래해 ‘정점/절정’ 의미로 굳었습니다.",
+    "semanticExtension": "물리적 ‘끝/꼭대기’의 이미지가, 성취·품질·시기(전성기) 같은 추상 영역의 ‘최고점’으로 확장되었습니다.",
+    "nuanceRegister": "문어적·격식 있는 표현이며, 일상에선 peak/pinnacle을 더 자주 씁니다. 논설·평론·문학에서 ‘극치’를 강조할 때 적합합니다.",
+    "grammarNotes": "대개 정관사와 함께: the acme of + 명사. 복수 acmes도 가능하지만 실제로는 단수/정관사 구문이 압도적으로 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "…의 정점/극치",
+        "example": "the acme of excellence"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "특정 분야에서 ‘정점에’(문맥상)",
+        "example": "at the acme in his career"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "정점에(관용적으로 at the acme)",
+        "example": "at the acme of his fame"
+      }
+    ],
+    "requiredComplements": [
+      "the acme of + 추상명사/개념 (…의 정점): the acme of achievement",
+      "at the acme of + 시기/상태 (…의 절정에): at the acme of popularity",
+      "reach the acme (정점에 이르다): The trend reached its acme."
+    ],
+    "morphology": "어근 자체가 ‘정점’을 뜻하는 akmē에서 왔으며, 현대 영어에선 형태 분해보다 ‘acme = 최고점’으로 통째로 익히는 편이 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "acmic",
+        "meaning_ko": "정점의; 절정의(드묾/전문적)"
+      }
+    ],
+    "related": [
+      {
+        "word": "peak",
+        "meaning_ko": "정점; 최고조"
+      },
+      {
+        "word": "pinnacle",
+        "meaning_ko": "절정; 최고점(격식)"
+      },
+      {
+        "word": "zenith",
+        "meaning_ko": "정점; 절정(문어)"
+      },
+      {
+        "word": "apex",
+        "meaning_ko": "꼭대기; 절정"
+      },
+      {
+        "word": "culmination",
+        "meaning_ko": "절정; 최종 결과"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "pinnacle",
+        "meaning_ko": "절정; 정점"
+      },
+      {
+        "word": "apex",
+        "meaning_ko": "정점"
+      },
+      {
+        "word": "zenith",
+        "meaning_ko": "정점"
+      },
+      {
+        "word": "peak",
+        "meaning_ko": "최고조"
+      },
+      {
+        "word": "culmination",
+        "meaning_ko": "절정; 종착점"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "height",
+        "meaning_ko": "최고점; 고도"
+      },
+      {
+        "word": "summit",
+        "meaning_ko": "정상; 최고점"
+      },
+      {
+        "word": "climax",
+        "meaning_ko": "절정(전개/스토리)"
+      },
+      {
+        "word": "prime",
+        "meaning_ko": "전성기"
+      },
+      {
+        "word": "crowning point",
+        "meaning_ko": "가장 빛나는 지점"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "nadir",
+        "meaning_ko": "최저점"
+      },
+      {
+        "word": "bottom",
+        "meaning_ko": "바닥; 최저"
+      },
+      {
+        "word": "decline",
+        "meaning_ko": "하락; 쇠퇴"
+      },
+      {
+        "word": "low point",
+        "meaning_ko": "최저점"
+      },
+      {
+        "word": "failure",
+        "meaning_ko": "실패; 실패작"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "the acme of success",
+            "meaning_ko": "성공의 정점"
+          },
+          {
+            "phrase": "reach the acme",
+            "meaning_ko": "정점에 이르다"
+          },
+          {
+            "phrase": "the acme of perfection",
+            "meaning_ko": "완벽의 극치"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "the acme of excellence",
+            "meaning_ko": "탁월함의 정점"
+          },
+          {
+            "phrase": "at the acme of his career",
+            "meaning_ko": "경력의 절정에"
+          },
+          {
+            "phrase": "the acme of popularity",
+            "meaning_ko": "인기의 최고조"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "the acme of scientific achievement",
+            "meaning_ko": "과학적 성취의 정점"
+          },
+          {
+            "phrase": "the acme of moral hypocrisy",
+            "meaning_ko": "도덕적 위선의 극치"
+          },
+          {
+            "phrase": "the acme of artistic refinement",
+            "meaning_ko": "예술적 세련미의 절정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "For her, winning the gold medal was the acme of success.",
+            "meaning_ko": "그녀에게 금메달은 성공의 정점이었습니다."
+          },
+          {
+            "sentence": "The trend reached its acme last summer.",
+            "meaning_ko": "그 유행은 지난여름 최고조에 달했습니다."
+          },
+          {
+            "sentence": "He thought the dish was the acme of perfection.",
+            "meaning_ko": "그는 그 요리가 완벽의 극치라고 생각했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company was at the acme of its popularity before the scandal broke.",
+            "meaning_ko": "그 회사는 스캔들이 터지기 전 인기의 최고조에 있었습니다."
+          },
+          {
+            "sentence": "Her latest book is widely regarded as the acme of her career.",
+            "meaning_ko": "그녀의 최신작은 경력의 정점으로 널리 평가됩니다."
+          },
+          {
+            "sentence": "The ceremony was designed to display the acme of precision and discipline.",
+            "meaning_ko": "그 의식은 정확성과 규율의 극치를 보여주도록 설계되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The discovery marked the acme of decades of research, reshaping the field’s foundational assumptions.",
+            "meaning_ko": "그 발견은 수십 년 연구의 정점을 이루며 분야의 근본 가정을 재편했습니다."
+          },
+          {
+            "sentence": "What they called ‘reform’ was, to critics, the acme of moral hypocrisy dressed in legal language.",
+            "meaning_ko": "그들이 ‘개혁’이라 부른 것은 비판자들에겐 법률 용어로 포장된 도덕적 위선의 극치였습니다."
+          },
+          {
+            "sentence": "In that brief performance, she reached the acme of artistic refinement—controlled, luminous, and utterly fearless.",
+            "meaning_ko": "그 짧은 공연에서 그녀는 예술적 세련미의 절정에 도달했습니다—절제되고, 빛나며, 완전히 두려움이 없었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "acme는 거의 항상 the acme of ~로 나오므로, 통째로 ‘the acme of N = N의 정점’으로 외우는 게 효율적입니다. peak/pinnacle과 바꿔 치환해도 의미는 비슷하지만, acme가 더 문어적이라 논설문에서 ‘극치’ 강조로 자주 쓰입니다. 반의어로 nadir(최저점)을 같이 묶어 두면 독해에서 대비 구조를 빠르게 잡을 수 있습니다.",
+    "tags": [
+      "정점",
+      "성취",
+      "문어",
+      "평론",
+      "명사"
+    ],
+    "frequency": "하",
+    "difficulty": "7",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The award marked the ____ of his career.",
+            "a": "acme",
+            "meaning_ko": "경력의 ‘정점’을 뜻하는 격식 명사입니다."
+          },
+          {
+            "q": "Choose the best phrase: the acme ____ success",
+            "a": "of",
+            "meaning_ko": "the acme of ~가 기본 패턴입니다."
+          },
+          {
+            "q": "Which word is closest to 'acme'?",
+            "a": "peak",
+            "meaning_ko": "일상적 동의어로 peak가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Paraphrase: 'at the acme of popularity'",
+            "a": "at the height of popularity",
+            "meaning_ko": "height of popularity = 인기 최고조."
+          },
+          {
+            "q": "Select the most natural sentence.",
+            "a": "Her final performance was the acme of her artistry.",
+            "meaning_ko": "the acme of + 추상명사(artistry) 구조가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best antonym of 'acme'.",
+            "a": "nadir",
+            "meaning_ko": "nadir는 ‘최저점’으로 대비 독해에 자주 등장합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The policy was criticized as the acme of moral ____.",
+            "a": "hypocrisy",
+            "meaning_ko": "‘위선의 극치’는 논설문에서 강한 비판 결합으로 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'He reached acme of success.' (Fix it.)",
+            "a": "He reached the acme of success.",
+            "meaning_ko": "정관사 the가 거의 필수처럼 붙습니다."
+          },
+          {
+            "q": "Which usage best matches a formal register?",
+            "a": "The discovery represented the acme of decades of research.",
+            "meaning_ko": "논문/평론 톤의 문어적 문장에 잘 어울립니다."
+          }
+        ]
+      }
+    ]
+  }
+]

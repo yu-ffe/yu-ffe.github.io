@@ -1,0 +1,1012 @@
+[
+  {
+    "word": "mushroom",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A fungus with a stem and cap; also, the edible fruiting body of some fungi.",
+        "definition_ko": "갓과 자루가 있는 버섯(균류)의 열매체, 또는 식용 버섯.",
+        "note": "요리/농장 맥락에서는 보통 ‘식용 버섯’을 뜻하고, 생물학적으로는 더 넓게 ‘버섯류’ 전반을 가리킵니다."
+      },
+      {
+        "definition_en": "To increase, spread, or develop rapidly, especially suddenly and on a large scale.",
+        "definition_ko": "(수·규모·문제가) 갑자기 급증하다, 빠르게 불어나다.",
+        "note": "비유적으로 ‘버섯처럼 순식간에 자라다’라는 이미지에서 나온 뜻입니다."
+      },
+      {
+        "definition_en": "A sudden rapid growth or proliferation of something.",
+        "definition_ko": "(비유) 급격한 증가·증식, 폭발적 확산.",
+        "note": "명사로도 ‘a mushroom of ~’보다 ‘a mushrooming of ~’가 더 흔합니다."
+      }
+    ],
+    "concept": "버섯(균류) / 버섯처럼 ‘순식간에’ 급증·확산되는 현상",
+    "etymology": "프랑스어 mousseron(버섯의 한 종류)을 거쳐 영어로 들어온 것으로 설명되는 경우가 많습니다. 다만 세부 변천에는 학설 차이가 있어 ‘정확한 단일 어원’으로 단정하기는 어렵습니다.",
+    "semanticExtension": "실물 버섯이 짧은 시간에 돋아나는 모습에서 ‘급격히 늘다/퍼지다’(가격·가게·문제·전염 등)로 의미가 확장되었습니다. ‘mushroom cloud(버섯구름)’처럼 형태 유사성에 기반한 확장도 있습니다.",
+    "nuanceRegister": "중립~다소 문어/기사체에서도 자주 쓰이는 일반어. 비유 의미(급증)는 보고서·뉴스에서 흔합니다.",
+    "grammarNotes": "동사로는 주로 자동사로 쓰이며, ‘mushroom into + N(…로 불어나/커지다)’, ‘mushroom from/out of + N(…에서 갑자기 생겨나다)’ 패턴이 매우 흔합니다.",
+    "transitivity": "자동사(주로)·타동사도 가능",
+    "countability": "가산명사(버섯 1개/여러 개로 셈), 동사는 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "…로 급격히 커지다/번지다",
+        "example": "The dispute mushroomed into a crisis."
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "…에서 급격히 생겨나다/확산되다",
+        "example": "Problems mushroomed from minor delays."
+      },
+      {
+        "prep": "out of",
+        "meaning_ko": "…에서 갑자기 솟아나다/난립하다",
+        "example": "Shops mushroomed out of nowhere."
+      }
+    ],
+    "requiredComplements": [
+      "mushroom into + 명사: (작은 것이) (더 큰 상태/문제)로 급격히 번지다",
+      "mushroom from/out of + 명사: (원인·배경)에서 급속히 발생/증가하다",
+      "a mushroom cloud: (폭발 뒤) 버섯 모양으로 솟는 구름(핵·대형 폭발 관련)"
+    ],
+    "morphology": "단어 내부의 규칙적 접두/접미로 의미를 투명하게 분석하기는 어렵습니다(어원적으로 차용어 계열). 형태 변화로는 mushroomed, mushrooming 등이 자주 쓰입니다.",
+    "derivatives": [
+      {
+        "word": "mushrooming",
+        "meaning_ko": "급증하는, 급속히 확산되는(분사/형용사적 용법)"
+      },
+      {
+        "word": "mushroomy",
+        "meaning_ko": "버섯 맛/냄새가 나는; 버섯이 많은"
+      },
+      {
+        "word": "mushroomer",
+        "meaning_ko": "버섯 채집가(사용 빈도는 낮음)"
+      },
+      {
+        "word": "mushroomed",
+        "meaning_ko": "급증했다(동사 과거형/과거분사)"
+      },
+      {
+        "word": "mushroom-like",
+        "meaning_ko": "버섯 같은(모양·성질)"
+      }
+    ],
+    "related": [
+      {
+        "word": "fungus",
+        "meaning_ko": "곰팡이·균류"
+      },
+      {
+        "word": "spore",
+        "meaning_ko": "포자"
+      },
+      {
+        "word": "sprout",
+        "meaning_ko": "싹이 트다; 싹"
+      },
+      {
+        "word": "proliferation",
+        "meaning_ko": "증식, 확산"
+      },
+      {
+        "word": "boom",
+        "meaning_ko": "호황, 급증"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "proliferate",
+        "meaning_ko": "급증하다, 번식하다"
+      },
+      {
+        "word": "sprout up",
+        "meaning_ko": "우후죽순 생겨나다"
+      },
+      {
+        "word": "boom",
+        "meaning_ko": "급증하다; 호황을 누리다"
+      },
+      {
+        "word": "multiply",
+        "meaning_ko": "증가하다, 곱절이 되다"
+      },
+      {
+        "word": "surge",
+        "meaning_ko": "급등하다, 급증하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "burgeon",
+        "meaning_ko": "(문어) 급성장하다, 번성하다"
+      },
+      {
+        "word": "snowball",
+        "meaning_ko": "눈덩이처럼 불어나다"
+      },
+      {
+        "word": "escalate",
+        "meaning_ko": "(사태가) 확대되다, 격화되다"
+      },
+      {
+        "word": "spread",
+        "meaning_ko": "퍼지다, 확산되다"
+      },
+      {
+        "word": "rise",
+        "meaning_ko": "오르다, 증가하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dwindle",
+        "meaning_ko": "점점 줄어들다"
+      },
+      {
+        "word": "shrink",
+        "meaning_ko": "줄어들다, 축소되다"
+      },
+      {
+        "word": "decline",
+        "meaning_ko": "감소하다, 쇠퇴하다"
+      },
+      {
+        "word": "wane",
+        "meaning_ko": "약해지다, 줄어들다"
+      },
+      {
+        "word": "contract",
+        "meaning_ko": "수축하다; (규모가) 줄다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mushroom soup",
+            "meaning_ko": "버섯 수프"
+          },
+          {
+            "phrase": "edible mushrooms",
+            "meaning_ko": "식용 버섯"
+          },
+          {
+            "phrase": "mushroom farm",
+            "meaning_ko": "버섯 재배 농장"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "mushroom cloud",
+            "meaning_ko": "버섯구름"
+          },
+          {
+            "phrase": "mushroom growth",
+            "meaning_ko": "급격한 성장/증가"
+          },
+          {
+            "phrase": "mushroom season",
+            "meaning_ko": "버섯 철"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mushroom into a crisis",
+            "meaning_ko": "위기로 급속히 번지다"
+          },
+          {
+            "phrase": "mushrooming costs",
+            "meaning_ko": "통제 불가로 급증하는 비용"
+          },
+          {
+            "phrase": "mushroom from small errors",
+            "meaning_ko": "사소한 실수에서 문제가 걷잡을 수 없이 커지다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We picked mushrooms in the forest.",
+            "meaning_ko": "우리는 숲에서 버섯을 땄어요."
+          },
+          {
+            "sentence": "She made pasta with mushrooms.",
+            "meaning_ko": "그녀는 버섯을 넣어 파스타를 만들었어요."
+          },
+          {
+            "sentence": "These mushrooms are not edible.",
+            "meaning_ko": "이 버섯들은 식용이 아니에요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Small kiosks mushroomed near the station after the festival.",
+            "meaning_ko": "축제 이후 역 근처에 작은 가판대들이 우후죽순 생겨났어요."
+          },
+          {
+            "sentence": "Online rumors can mushroom into real panic.",
+            "meaning_ko": "온라인 소문은 실제 공포로 급속히 번질 수 있어요."
+          },
+          {
+            "sentence": "The mushroom cloud rose above the horizon.",
+            "meaning_ko": "버섯구름이 지평선 위로 솟아올랐어요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "What began as a billing error mushroomed into a regulatory investigation.",
+            "meaning_ko": "청구 오류로 시작된 일이 규제 당국의 조사로까지 급격히 번졌습니다."
+          },
+          {
+            "sentence": "Without clear standards, exceptions tend to mushroom, eroding the policy’s intent.",
+            "meaning_ko": "명확한 기준이 없으면 예외가 급증해 정책의 취지가 약화됩니다."
+          },
+          {
+            "sentence": "The informal network mushroomed from casual chats into a powerful lobbying bloc.",
+            "meaning_ko": "비공식 네트워크가 잡담 수준에서 출발해 강력한 로비 집단으로 커졌습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "mushroom은 ‘버섯’이 기본이지만, 시험에서는 ‘급증하다/우후죽순 늘다’(동사) 뜻이 자주 나옵니다. 특히 mushroom into(…로 번지다) 패턴을 통째로 외우면 독해에서 빠르게 잡힙니다. snowball(눈덩이처럼 불어나다), burgeon(문어)과 비교해 뉘앙스를 구분해 두세요.",
+    "tags": [
+      "음식",
+      "자연",
+      "생물",
+      "급증",
+      "기사체 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the correct meaning of 'mushroom' (noun): A) a small bird B) a type of fungus C) a metal tool D) a river",
+            "a": "B) a type of fungus",
+            "meaning_ko": "'mushroom'의 기본 명사 뜻은 ‘버섯(균류)’입니다."
+          },
+          {
+            "q": "Fill in the blank: I added ____ to the pizza.",
+            "a": "mushrooms",
+            "meaning_ko": "음식 재료로 쓰이는 ‘버섯들’을 넣었다는 문맥입니다."
+          },
+          {
+            "q": "Which is NOT usually edible? A) edible mushrooms B) wild mushrooms without identification C) mushroom soup D) canned mushrooms",
+            "a": "B) wild mushrooms without identification",
+            "meaning_ko": "동정 없이 야생 버섯을 먹는 것은 위험하다는 상식 문항입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The argument quickly mushroomed ____ a major conflict.",
+            "a": "into",
+            "meaning_ko": "mushroom into = (작은 문제가) …로 급격히 번지다."
+          },
+          {
+            "q": "Which sentence best uses the verb 'mushroom' figuratively?",
+            "a": "New complaints mushroomed after the policy change.",
+            "meaning_ko": "정책 변화 이후 불만이 ‘급증했다’는 비유 의미가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest synonym: 'The number of fake accounts mushroomed.' A) dwindled B) proliferated C) paused D) vanished",
+            "a": "B) proliferated",
+            "meaning_ko": "mushroom(급증하다) ≈ proliferate(증식/급증하다)."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'mushroom': 'A minor delay turned into a chain of failures.'",
+            "a": "A minor delay mushroomed into a chain of failures.",
+            "meaning_ko": "turn into를 mushroom into로 바꾸면 ‘급격히 번지다’ 뉘앙스가 살아납니다."
+          },
+          {
+            "q": "Fill in the blank: Without oversight, exceptions can mushroom, ____ the rule’s credibility.",
+            "a": "undermining",
+            "meaning_ko": "앞 절이 원인, 뒤가 결과이므로 ‘신뢰를 약화시키며’(undermining)가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the best option: 'Shops mushroomed out of nowhere' implies the shops A) were planned for years B) appeared suddenly and in large numbers C) were relocated quietly D) closed permanently",
+            "a": "B) appeared suddenly and in large numbers",
+            "meaning_ko": "mushroom out of nowhere = 갑자기 우후죽순 생겨나다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "penchant",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A strong liking or habitual tendency for something; a marked preference.",
+        "definition_ko": "강한 기호(취향), (특정 행동에 대한) 성향·버릇.",
+        "note": "대부분 ‘penchant for + 명사/동명사’ 형태로 고정적으로 쓰입니다."
+      }
+    ],
+    "concept": "특정 대상/행동을 ‘유독 좋아하거나 자주 하려는’ 강한 기호·성향",
+    "etymology": "프랑스어 penchant(‘기울어지는, 경향이 있는’)에서 왔고, 동사 pencher(‘기울다’)와 연결됩니다. ‘기울어짐’이 ‘선호/성향’으로 의미가 발전했습니다.",
+    "semanticExtension": "물리적으로 한쪽으로 ‘기울다’에서 출발해, 마음·취향이 특정 대상 쪽으로 ‘기운다’는 비유로 확장되어 ‘강한 선호/경향’ 의미가 굳어졌습니다.",
+    "nuanceRegister": "격식/문어 느낌이 있는 단어로, 에세이·기사·학술적 서술에서 자주 보입니다. 일상 회화에서는 liking, soft spot 등이 더 흔합니다.",
+    "grammarNotes": "거의 항상 ‘have/show a penchant for + 명사/동명사’로 쓰입니다. 목적어를 직접 취하는 동사가 아니며, for가 핵심입니다.",
+    "transitivity": "해당 없음(명사)",
+    "countability": "가산명사(주로 단수로 사용, 복수도 가능)",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "…을 유독 좋아함/…하는 경향",
+        "example": "She has a penchant for classical music."
+      },
+      {
+        "prep": "toward",
+        "meaning_ko": "…쪽으로 성향이 기움(드묾)",
+        "example": "He has a penchant toward understatement."
+      },
+      {
+        "prep": "among",
+        "meaning_ko": "…사이에서의 선호(드묾)",
+        "example": "A penchant among readers for short essays."
+      }
+    ],
+    "requiredComplements": [
+      "have a penchant for + 명사/동명사: …을 유독 좋아하다/…하는 경향이 있다",
+      "show a penchant for + 명사/동명사: …을 선호하는 기색을 보이다",
+      "a penchant for + 추상명사(precision, novelty 등): 특정 성향을 강조할 때 자주 결합"
+    ],
+    "morphology": "프랑스어 차용어로, 영어 내부 형태소로 투명하게 쪼개기보다는 ‘penchant(기호/성향)’ 자체를 덩어리로 익히는 편이 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "penchantless",
+        "meaning_ko": "기호가 없는(거의 쓰이지 않음)"
+      },
+      {
+        "word": "penchanting",
+        "meaning_ko": "(드묾) 기울어지는; 선호하는(사용 빈도 매우 낮음)"
+      },
+      {
+        "word": "penchant",
+        "meaning_ko": "기호, 취향(기본형)"
+      },
+      {
+        "word": "penchant for",
+        "meaning_ko": "…에 대한 기호(고정 결합)"
+      },
+      {
+        "word": "predilection",
+        "meaning_ko": "편애, 선호(어근은 다르지만 자주 대체되는 유의어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "preference",
+        "meaning_ko": "선호"
+      },
+      {
+        "word": "habit",
+        "meaning_ko": "습관"
+      },
+      {
+        "word": "inclination",
+        "meaning_ko": "경향, 의지"
+      },
+      {
+        "word": "taste",
+        "meaning_ko": "취향"
+      },
+      {
+        "word": "proclivity",
+        "meaning_ko": "(보통 부정적) 경향"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "predilection",
+        "meaning_ko": "선호, 편애"
+      },
+      {
+        "word": "proclivity",
+        "meaning_ko": "경향(종종 부정적 뉘앙스)"
+      },
+      {
+        "word": "fondness",
+        "meaning_ko": "애정, 좋아함"
+      },
+      {
+        "word": "weakness (for)",
+        "meaning_ko": "(…에 대한) 약점=유난한 호감"
+      },
+      {
+        "word": "liking",
+        "meaning_ko": "호감, 취향"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "inclination",
+        "meaning_ko": "기울어짐, 성향"
+      },
+      {
+        "word": "tendency",
+        "meaning_ko": "경향"
+      },
+      {
+        "word": "taste",
+        "meaning_ko": "취향"
+      },
+      {
+        "word": "bias",
+        "meaning_ko": "편향, 치우침"
+      },
+      {
+        "word": "urge",
+        "meaning_ko": "충동, 욕구"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "aversion",
+        "meaning_ko": "혐오, 기피"
+      },
+      {
+        "word": "dislike",
+        "meaning_ko": "싫어함"
+      },
+      {
+        "word": "antipathy",
+        "meaning_ko": "반감"
+      },
+      {
+        "word": "distaste",
+        "meaning_ko": "불쾌감; 취향에 안 맞음"
+      },
+      {
+        "word": "indifference",
+        "meaning_ko": "무관심"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a penchant for sweets",
+            "meaning_ko": "단것을 유독 좋아함"
+          },
+          {
+            "phrase": "have a penchant for music",
+            "meaning_ko": "음악을 특히 좋아하다"
+          },
+          {
+            "phrase": "a penchant for reading",
+            "meaning_ko": "독서를 즐기는 성향"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "show a penchant for precision",
+            "meaning_ko": "정확성을 중시하는 성향을 보이다"
+          },
+          {
+            "phrase": "a lifelong penchant for travel",
+            "meaning_ko": "평생 지속된 여행 취향"
+          },
+          {
+            "phrase": "a penchant for risk-taking",
+            "meaning_ko": "위험 감수를 선호하는 경향"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a penchant for rhetorical flourish",
+            "meaning_ko": "수사적 과장을 즐기는 성향"
+          },
+          {
+            "phrase": "a penchant for contrarian arguments",
+            "meaning_ko": "역발상/반대 논리를 즐겨 펴는 경향"
+          },
+          {
+            "phrase": "a penchant for methodological rigor",
+            "meaning_ko": "방법론적 엄밀성을 추구하는 성향"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He has a penchant for spicy food.",
+            "meaning_ko": "그는 매운 음식을 유독 좋아해요."
+          },
+          {
+            "sentence": "She developed a penchant for drawing.",
+            "meaning_ko": "그녀는 그림 그리기를 좋아하게 되었어요."
+          },
+          {
+            "sentence": "I have a penchant for simple designs.",
+            "meaning_ko": "저는 단순한 디자인을 선호해요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The editor has a penchant for cutting long introductions.",
+            "meaning_ko": "그 편집자는 긴 서문을 잘라내는 성향이 있어요."
+          },
+          {
+            "sentence": "His penchant for late-night work often hurts his sleep.",
+            "meaning_ko": "그의 야간 작업 취향은 종종 수면에 악영향을 줍니다."
+          },
+          {
+            "sentence": "The team showed a clear penchant for data-driven decisions.",
+            "meaning_ko": "그 팀은 데이터 기반 의사결정을 뚜렷이 선호했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Her penchant for nuance made the report harder to summarize but far more accurate.",
+            "meaning_ko": "그녀의 ‘뉘앙스를 놓치지 않으려는’ 성향은 요약을 어렵게 했지만 훨씬 정확하게 만들었습니다."
+          },
+          {
+            "sentence": "The candidate’s penchant for grand promises backfired under detailed scrutiny.",
+            "meaning_ko": "그 후보의 거창한 공약 선호는 세밀한 검증 앞에서 역효과를 냈습니다."
+          },
+          {
+            "sentence": "A penchant for elegance can coexist with a demand for functional clarity.",
+            "meaning_ko": "우아함을 추구하는 취향은 기능적 명료함에 대한 요구와 공존할 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "penchant는 ‘강한 기호/성향’으로, 거의 항상 for와 붙는다는 점이 포인트입니다(= penchant for). 비슷한 유의어로 predilection, proclivity가 함께 출제되니, proclivity는 다소 ‘(나쁜 쪽) 경향’으로도 쓰인다는 뉘앙스를 기억해 두세요. 문장에서는 have/show/develop a penchant for의 동사 결합을 통째로 익히면 안정적입니다.",
+    "tags": [
+      "성향",
+      "심리",
+      "선호",
+      "격식 표현",
+      "독해 빈출"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: She has a penchant ____ classical music.",
+            "a": "for",
+            "meaning_ko": "penchant는 거의 항상 for와 함께 씁니다."
+          },
+          {
+            "q": "Choose the closest meaning: 'penchant' A) fear B) strong liking C) accident D) mistake",
+            "a": "B) strong liking",
+            "meaning_ko": "penchant = 강한 기호/선호."
+          },
+          {
+            "q": "Which phrase sounds natural? A) penchant to pizza B) penchant for pizza C) penchant at pizza D) penchant on pizza",
+            "a": "B) penchant for pizza",
+            "meaning_ko": "정형 결합은 penchant for + 명사입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best rewrite: 'He really likes collecting stamps.'",
+            "a": "He has a penchant for collecting stamps.",
+            "meaning_ko": "‘really likes’를 ‘have a penchant for’로 격식 있게 바꾼 문장입니다."
+          },
+          {
+            "q": "Which word is closest in meaning to 'penchant'? A) aversion B) predilection C) shortage D) remedy",
+            "a": "B) predilection",
+            "meaning_ko": "predilection = 선호/기호로 거의 같은 뜻입니다."
+          },
+          {
+            "q": "Fill in the blank: The reviewer noted her penchant for ____ details others miss.",
+            "a": "noticing",
+            "meaning_ko": "for 뒤에는 명사 또는 동명사(-ing)가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Pick the best option: 'His penchant for contrarian takes' suggests he often A) agrees with everyone B) avoids debate C) argues against common opinions D) stays silent",
+            "a": "C) argues against common opinions",
+            "meaning_ko": "contrarian = 대세에 반대하는; therefore ‘반대 의견을 즐겨 낸다’."
+          },
+          {
+            "q": "Fill in the blank: Her penchant for nuance made summaries difficult, ____ the analysis.",
+            "a": "but strengthening",
+            "meaning_ko": "앞의 단점(difficult)과 대비되어 ‘분석을 강화했다’가 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: Which is incorrect? A) a penchant for reading B) show a penchant for precision C) a penchant of jazz D) develop a penchant for travel",
+            "a": "C) a penchant of jazz",
+            "meaning_ko": "전치사는 of가 아니라 for가 기본입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "scowl",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To look at someone or something with an angry or disapproving frown.",
+        "definition_ko": "(화나거나 못마땅해서) 찡그리다, 노려보다.",
+        "note": "단순한 frown(인상)보다 ‘분노/불만’이 더 강하게 느껴집니다."
+      },
+      {
+        "definition_en": "An angry or disapproving frown; a facial expression showing displeasure.",
+        "definition_ko": "험상궂은 찡그림, 불쾌함이 드러나는 인상.",
+        "note": "명사로는 ‘a scowl’(한 번의 인상), ‘with a scowl’처럼 씁니다."
+      }
+    ],
+    "concept": "불쾌·분노가 드러나는 ‘험한 찡그림/노려봄’",
+    "etymology": "중세 영어에서 ‘얼굴을 찡그리다’라는 뜻으로 나타나며, 어원은 불확실하다는 설명이 많습니다(스칸디나비아/게르만 계열과의 연관이 거론되기도 하나 단정하기 어렵습니다).",
+    "semanticExtension": "표정(찡그림)에서 출발해 ‘상대에 대한 불만/비난의 태도’를 암시하는 동작으로 확장되어, 글에서는 인물의 감정·권력관계를 드러내는 장치로 자주 쓰입니다.",
+    "nuanceRegister": "중립적이지만 묘사력이 강한 단어로, 소설·기사·대화체 모두에서 사용됩니다. glower보다 약간 덜 ‘음침’할 수 있으나 맥락에 따라 강해집니다.",
+    "grammarNotes": "동사로는 보통 자동사이며, ‘scowl at + 사람/대상’이 가장 흔합니다. 명사로는 ‘a scowl of disapproval’, ‘with a scowl’ 등으로 결합합니다.",
+    "transitivity": "자동사(주로)",
+    "countability": "가산명사(한 번의 scowl로 셈), 동사는 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "…을 향해 노려보다/찡그리다",
+        "example": "He scowled at the reporter."
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "…한 상태로(표정/감정)",
+        "example": "She scowled in silence."
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "…한 표정으로(명사와 결합)",
+        "example": "He answered with a scowl."
+      }
+    ],
+    "requiredComplements": [
+      "scowl at + 명사/대상: …을 향해 험하게 찡그리다/노려보다",
+      "a scowl of disapproval: 못마땅함이 담긴 인상",
+      "with a scowl: 찡그린 표정으로(부사구)"
+    ],
+    "morphology": "어근이 투명한 접두/접미 결합이라기보다는 단일 어휘로 굳어 있습니다. 파생은 scowling(현재분사), scowled(과거형)처럼 활용 중심입니다.",
+    "derivatives": [
+      {
+        "word": "scowling",
+        "meaning_ko": "찡그리고 있는; 찡그리며"
+      },
+      {
+        "word": "scowled",
+        "meaning_ko": "찡그렸다(과거/과거분사)"
+      },
+      {
+        "word": "scowler",
+        "meaning_ko": "잘 찡그리는 사람(드묾)"
+      },
+      {
+        "word": "scowl-like",
+        "meaning_ko": "찡그린 듯한"
+      },
+      {
+        "word": "scowl of disapproval",
+        "meaning_ko": "불만이 담긴 찡그림(고정 결합)"
+      }
+    ],
+    "related": [
+      {
+        "word": "frown",
+        "meaning_ko": "인상을 찌푸리다; 찡그림"
+      },
+      {
+        "word": "glare",
+        "meaning_ko": "노려보다; 눈초리"
+      },
+      {
+        "word": "glower",
+        "meaning_ko": "(음침하게) 노려보다"
+      },
+      {
+        "word": "grimace",
+        "meaning_ko": "일그러진 표정"
+      },
+      {
+        "word": "sneer",
+        "meaning_ko": "비웃는 표정/비웃다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "glower",
+        "meaning_ko": "음침하게 노려보다"
+      },
+      {
+        "word": "frown",
+        "meaning_ko": "인상을 찌푸리다"
+      },
+      {
+        "word": "glare",
+        "meaning_ko": "노려보다"
+      },
+      {
+        "word": "scowl",
+        "meaning_ko": "(동일) 찡그리다/노려보다"
+      },
+      {
+        "word": "look daggers (at)",
+        "meaning_ko": "(관용) 눈에서 불꽃 튀기듯 노려보다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "grimace",
+        "meaning_ko": "(고통/혐오로) 얼굴을 일그러뜨리다"
+      },
+      {
+        "word": "sneer",
+        "meaning_ko": "비웃다, 코웃음치다"
+      },
+      {
+        "word": "pout",
+        "meaning_ko": "(삐져서) 입을 내밀다"
+      },
+      {
+        "word": "snarl",
+        "meaning_ko": "으르렁거리다; 험악하게 말하다"
+      },
+      {
+        "word": "glance",
+        "meaning_ko": "힐끗 보다(강도는 약함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "smile",
+        "meaning_ko": "미소 짓다; 미소"
+      },
+      {
+        "word": "grin",
+        "meaning_ko": "활짝 웃다; 씩 웃음"
+      },
+      {
+        "word": "beam",
+        "meaning_ko": "환하게 웃다"
+      },
+      {
+        "word": "smirk",
+        "meaning_ko": "(비꼬는) 씩 웃음(정반대 표정으로 대비)"
+      },
+      {
+        "word": "laugh",
+        "meaning_ko": "웃다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "scowl at him",
+            "meaning_ko": "그를 노려보다"
+          },
+          {
+            "phrase": "a deep scowl",
+            "meaning_ko": "깊게 찡그린 표정"
+          },
+          {
+            "phrase": "with a scowl",
+            "meaning_ko": "찡그린 표정으로"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a scowl of disapproval",
+            "meaning_ko": "못마땅함이 담긴 인상"
+          },
+          {
+            "phrase": "dark scowl",
+            "meaning_ko": "어두운/험한 표정"
+          },
+          {
+            "phrase": "scowl in silence",
+            "meaning_ko": "말없이 찡그리다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "meet the proposal with a scowl",
+            "meaning_ko": "제안을 찡그린 표정으로 맞이하다=부정적으로 반응하다"
+          },
+          {
+            "phrase": "his scowl betrayed irritation",
+            "meaning_ko": "그의 찡그림이 짜증을 드러냈다"
+          },
+          {
+            "phrase": "scowl at the insinuation",
+            "meaning_ko": "암시에 불쾌해하며 노려보다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Don’t scowl at me.",
+            "meaning_ko": "저를 그렇게 찡그리고 보지 마세요."
+          },
+          {
+            "sentence": "He gave me a scowl.",
+            "meaning_ko": "그가 저를 험하게 찡그리고 봤어요."
+          },
+          {
+            "sentence": "She answered with a scowl.",
+            "meaning_ko": "그녀는 찡그린 표정으로 대답했어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The teacher scowled at the noisy students.",
+            "meaning_ko": "선생님은 시끄러운 학생들을 노려보았습니다."
+          },
+          {
+            "sentence": "His scowl softened when he realized it was a misunderstanding.",
+            "meaning_ko": "오해였다는 걸 깨닫자 그의 험한 표정이 누그러졌습니다."
+          },
+          {
+            "sentence": "A scowl of disapproval spread across her face.",
+            "meaning_ko": "못마땅한 표정이 그녀의 얼굴에 번졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "He met the criticism with a scowl, as if the facts were a personal insult.",
+            "meaning_ko": "그는 사실을 지적받자 마치 개인적 모욕이라도 된 듯 찡그린 표정으로 맞섰습니다."
+          },
+          {
+            "sentence": "The manager’s scowl betrayed impatience long before he spoke.",
+            "meaning_ko": "매니저는 말하기도 전에 찡그린 표정으로 조급함을 드러냈습니다."
+          },
+          {
+            "sentence": "She scowled at the insinuation that her results were accidental.",
+            "meaning_ko": "그녀는 자신의 성과가 우연이라는 암시에 불쾌해하며 노려보았습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "scowl은 frown보다 ‘화남/불만’이 더 강한 찡그림입니다. 독해에서는 scowl at(…을 노려보다)와 a scowl of disapproval(못마땅한 표정) 같은 결합이 자주 등장하니 덩어리로 익히세요. 비슷한 단어로 glare(노려보다), glower(음침하게 노려보다), sneer(비웃다)와 감정 방향(분노/비웃음)을 구분하면 헷갈림이 줄어듭니다.",
+    "tags": [
+      "감정",
+      "표정",
+      "대인관계",
+      "묘사",
+      "독해 빈출"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'scowl' (verb): A) to smile warmly B) to frown angrily C) to whisper softly D) to run quickly",
+            "a": "B) to frown angrily",
+            "meaning_ko": "scowl = 화난/못마땅한 표정으로 찡그리다."
+          },
+          {
+            "q": "Fill in the blank: He scowled ____ the waiter.",
+            "a": "at",
+            "meaning_ko": "가장 흔한 전치사 결합은 scowl at 입니다."
+          },
+          {
+            "q": "Which is the opposite of 'scowl'? A) grin B) glare C) pout D) grimace",
+            "a": "A) grin",
+            "meaning_ko": "grin은 활짝 웃는 표정으로 scowl의 반대 방향입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the natural sentence:",
+            "a": "She answered with a scowl.",
+            "meaning_ko": "명사 scowl은 ‘with a scowl’로 자연스럽게 쓰입니다."
+          },
+          {
+            "q": "Choose the closest synonym: 'He scowled at the interviewer.' A) glowered B) giggled C) applauded D) nodded",
+            "a": "A) glowered",
+            "meaning_ko": "glower는 ‘험하게 노려보다’로 의미가 가깝습니다."
+          },
+          {
+            "q": "Fill in the blank: A scowl of ____ crossed his face when he heard the rumor.",
+            "a": "disapproval",
+            "meaning_ko": "a scowl of disapproval = 못마땅한 찡그림."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Rewrite using 'betray': 'His scowl showed that he was irritated.'",
+            "a": "His scowl betrayed irritation.",
+            "meaning_ko": "betray는 ‘(표정/행동이) 감정을 드러내다’로 자주 결합합니다."
+          },
+          {
+            "q": "Fill in the blank: She scowled at the insinuation, ____ to let it pass unchallenged.",
+            "a": "unwilling",
+            "meaning_ko": "암시에 불쾌해하며 ‘그냥 넘어가길 원치 않았다’가 자연스럽습니다."
+          },
+          {
+            "q": "Error detection: Which is awkward? A) scowl at someone B) scowl of disapproval C) scowl to the man D) with a scowl",
+            "a": "C) scowl to the man",
+            "meaning_ko": "scowl은 보통 at을 쓰고 to는 부자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

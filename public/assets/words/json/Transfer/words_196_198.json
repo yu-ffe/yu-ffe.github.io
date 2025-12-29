@@ -1,0 +1,1052 @@
+[
+  {
+    "word": "magnitude",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "the great size, extent, or importance of something",
+        "definition_ko": "어떤 것의 규모·정도·중요성의 크기.",
+        "note": "'문제의 심각성/파급력'처럼 추상적 크기를 말할 때도 자주 씁니다."
+      },
+      {
+        "definition_en": "a quantity used to express the size of something, especially in science or mathematics",
+        "definition_ko": "(과학·수학에서) 어떤 값의 크기를 나타내는 양; 특히 지진의 규모(magnitude).",
+        "note": "지진 규모처럼 수치로 표현되는 '크기'를 뜻할 때는 기술적 용례입니다."
+      }
+    ],
+    "concept": "겉으로 보이는 크기든 영향력이든, ‘얼마나 큰가’를 한 단계 추상화해 말하는 단어.",
+    "etymology": "라틴어 magnitūdō(‘위대함, 크기’)에서 왔으며, magnus(큰) + -tūdō(상태/성질) 계열로 ‘크기/위대함’의 의미가 굳어졌습니다.",
+    "semanticExtension": "물리적 크기(길이·밝기)에서 출발해, 문제·성과·위기의 ‘중요도/심각성’ 같은 추상적 규모로 자연스럽게 확장됩니다.",
+    "nuanceRegister": "격식·학술/보고서·뉴스에서 특히 흔하며, 일상 대화에서도 ‘seriousness/scale’ 느낌으로 무난하게 씁니다.",
+    "grammarNotes": "보통 the magnitude of + 명사로 핵심 대상(문제/변화/손실)을 붙입니다. order of magnitude(10배 단위의 규모) 같은 고정 표현이 자주 출제됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 규모/정도",
+        "example": "the magnitude of the risk"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "규모 면에서(비교·서술)",
+        "example": "vary in magnitude"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "~의 규모로(수치·레벨)",
+        "example": "an earthquake measured at magnitude 6.2"
+      }
+    ],
+    "requiredComplements": [
+      "the magnitude of + N : ~의 규모/심각성",
+      "in magnitude : 규모 면에서(비교·대조)",
+      "order(s) of magnitude : 10배 단위(규모 차이) 표현"
+    ],
+    "morphology": "magn- (큰, 위대한) 어근 + -itude(추상 명사 접미사: 상태/성질) → ‘큰 정도/규모’.",
+    "derivatives": [
+      {
+        "word": "magnify",
+        "meaning_ko": "확대하다; 과장하다"
+      },
+      {
+        "word": "magnificent",
+        "meaning_ko": "장엄한; 훌륭한"
+      },
+      {
+        "word": "magnanimous",
+        "meaning_ko": "도량이 큰"
+      },
+      {
+        "word": "magnate",
+        "meaning_ko": "거물; 재벌"
+      },
+      {
+        "word": "magnitude scale",
+        "meaning_ko": "규모 척도(특히 지진)"
+      }
+    ],
+    "related": [
+      {
+        "word": "scale",
+        "meaning_ko": "규모; 척도"
+      },
+      {
+        "word": "extent",
+        "meaning_ko": "범위; 정도"
+      },
+      {
+        "word": "severity",
+        "meaning_ko": "심각성"
+      },
+      {
+        "word": "intensity",
+        "meaning_ko": "강도"
+      },
+      {
+        "word": "dimension",
+        "meaning_ko": "치수; (문제의) 측면"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "size",
+        "meaning_ko": "크기"
+      },
+      {
+        "word": "scope",
+        "meaning_ko": "범위; 규모"
+      },
+      {
+        "word": "degree",
+        "meaning_ko": "정도"
+      },
+      {
+        "word": "importance",
+        "meaning_ko": "중요성"
+      },
+      {
+        "word": "gravity",
+        "meaning_ko": "중대함; 심각성"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "scale",
+        "meaning_ko": "(비교 가능한) 규모"
+      },
+      {
+        "word": "extent",
+        "meaning_ko": "(퍼져나간) 범위/정도"
+      },
+      {
+        "word": "dimension",
+        "meaning_ko": "(측면/축으로 본) 크기"
+      },
+      {
+        "word": "volume",
+        "meaning_ko": "(양의) 방대한 정도"
+      },
+      {
+        "word": "intensity",
+        "meaning_ko": "(체감되는) 강도"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insignificance",
+        "meaning_ko": "하찮음; 중요하지 않음"
+      },
+      {
+        "word": "triviality",
+        "meaning_ko": "사소함"
+      },
+      {
+        "word": "minuteness",
+        "meaning_ko": "아주 작은 크기"
+      },
+      {
+        "word": "pettiness",
+        "meaning_ko": "하찮음; 옹졸함"
+      },
+      {
+        "word": "smallness",
+        "meaning_ko": "작음"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a large magnitude",
+            "meaning_ko": "큰 규모"
+          },
+          {
+            "phrase": "the magnitude of the problem",
+            "meaning_ko": "문제의 심각성/규모"
+          },
+          {
+            "phrase": "measure magnitude",
+            "meaning_ko": "규모를 측정하다"
+          },
+          {
+            "phrase": "increase in magnitude",
+            "meaning_ko": "규모가 커지다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "the sheer magnitude",
+            "meaning_ko": "압도적인 규모"
+          },
+          {
+            "phrase": "of considerable magnitude",
+            "meaning_ko": "상당한 규모의"
+          },
+          {
+            "phrase": "a magnitude greater than expected",
+            "meaning_ko": "예상보다 큰 규모"
+          },
+          {
+            "phrase": "vary widely in magnitude",
+            "meaning_ko": "규모가 크게 들쭉날쭉하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "an order of magnitude difference",
+            "meaning_ko": "10배 단위의 규모 차이"
+          },
+          {
+            "phrase": "errors of small magnitude",
+            "meaning_ko": "아주 작은 크기의 오차"
+          },
+          {
+            "phrase": "the magnitude of the effect size",
+            "meaning_ko": "효과 크기의 규모(통계)"
+          },
+          {
+            "phrase": "catastrophic in magnitude",
+            "meaning_ko": "규모 면에서 재앙적인"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I didn’t realize the magnitude of the task.",
+            "meaning_ko": "그 일이 얼마나 큰 일인지 몰랐어요."
+          },
+          {
+            "sentence": "The earthquake had a magnitude of 5.8.",
+            "meaning_ko": "그 지진은 규모 5.8이었습니다."
+          },
+          {
+            "sentence": "We need to understand the magnitude of the loss.",
+            "meaning_ko": "손실의 규모를 이해해야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report highlights the sheer magnitude of the budget gap.",
+            "meaning_ko": "그 보고서는 예산 격차의 압도적인 규모를 강조합니다."
+          },
+          {
+            "sentence": "Even small changes in magnitude can alter the outcome.",
+            "meaning_ko": "규모가 조금만 바뀌어도 결과가 달라질 수 있습니다."
+          },
+          {
+            "sentence": "The two projects differ greatly in magnitude and complexity.",
+            "meaning_ko": "두 프로젝트는 규모와 복잡도에서 크게 다릅니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Because the study was underpowered, the magnitude of the observed effect may be overstated.",
+            "meaning_ko": "연구의 검정력이 낮아 관측된 효과 크기가 과장되었을 수 있습니다."
+          },
+          {
+            "sentence": "A one‑time shock of this magnitude can permanently shift market expectations.",
+            "meaning_ko": "이 정도 규모의 일회성 충격은 시장 기대를 영구적으로 바꿀 수 있습니다."
+          },
+          {
+            "sentence": "The policy’s impact is difficult to quantify, but its magnitude is unmistakable in the data.",
+            "meaning_ko": "정책 효과를 수치화하기는 어렵지만, 데이터에서 그 규모는 분명합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "magnitude는 단순히 ‘크다’가 아니라 ‘규모/정도’라는 추상 명사라는 점이 핵심입니다. 시험에서는 the magnitude of + N, sheer magnitude, 그리고 order of magnitude(10배 단위) 표현이 자주 묶여 나옵니다. intensity(강도)와 헷갈리면, intensity는 ‘체감/농도/강도’, magnitude는 ‘크기/규모’로 먼저 분리해 두세요.",
+    "tags": [
+      "규모",
+      "정도",
+      "학술",
+      "보고서",
+      "지진"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of “magnitude”: (A) politeness (B) size or extent (C) speed (D) silence",
+            "a": "B",
+            "meaning_ko": "magnitude는 ‘규모/정도(크기)’를 뜻합니다."
+          },
+          {
+            "q": "Fill in the blank: We underestimated the ________ of the problem.",
+            "a": "magnitude",
+            "meaning_ko": "the magnitude of the problem(문제의 규모/심각성) 패턴."
+          },
+          {
+            "q": "Which phrase is most natural? (A) magnitude on the risk (B) magnitude of the risk (C) magnitude at the risk (D) magnitude with the risk",
+            "a": "B",
+            "meaning_ko": "기본 결합은 the magnitude of + N 입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The two methods differ by an ________ of magnitude.",
+            "a": "order",
+            "meaning_ko": "order of magnitude = 10배 단위의 규모 차이."
+          },
+          {
+            "q": "Choose the sentence that best uses “magnitude.” (A) She magnituded the file. (B) The magnitude of the change surprised us. (C) He is magnitude happy. (D) We magnitude to leave.",
+            "a": "B",
+            "meaning_ko": "명사로 ‘변화의 규모’가 자연스럽습니다."
+          },
+          {
+            "q": "In scientific writing, “magnitude” is closest to: (A) quantity of size (B) moral duty (C) personal taste (D) local custom",
+            "a": "A",
+            "meaning_ko": "과학/수학에서는 ‘크기를 나타내는 양’ 의미가 강합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error-spotting: “The results show a magnitude in improvement of 20%.” What is the best fix?",
+            "a": "The results show an improvement of 20% in magnitude.",
+            "meaning_ko": "in magnitude는 ‘규모 면에서’ 부사구로 쓰이는 편이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: “The sheer magnitude of the crisis overwhelmed responders.”",
+            "a": "The crisis was so enormous that responders were overwhelmed.",
+            "meaning_ko": "sheer magnitude = 압도적인 규모."
+          },
+          {
+            "q": "Reading logic: If A is an order of magnitude larger than B, A is approximately ________ times B.",
+            "a": "10",
+            "meaning_ko": "order of magnitude는 대략 10배 단위 차이를 말합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "refuse",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to say that you will not do something or that you do not want something",
+        "definition_ko": "거절하다; 응하지 않다(하지 않겠다고 말하다).",
+        "note": "refuse to + 동사원형이 가장 대표적입니다."
+      },
+      {
+        "definition_en": "to not allow someone to have something or to not give permission",
+        "definition_ko": "(요청·권한 등을) 허락하지 않다; (접근·입장 등을) 거부하다.",
+        "note": "refuse someone entry/permission처럼 목적어+명사 형태로도 자주 나옵니다."
+      },
+      {
+        "definition_en": "waste material; garbage, especially from homes or factories",
+        "definition_ko": "(명사) 폐기물, 쓰레기(특히 가정/산업에서 나온).",
+        "note": "명사 refuse는 보통 불가산이며, 발음이 /ˈref.juːs/처럼 앞에 강세가 오곤 합니다."
+      }
+    ],
+    "concept": "원하는 요구나 제안을 ‘하지 않겠다/주지 않겠다’고 명확히 선을 긋는 행동(또는 그 결과물).",
+    "etymology": "중세 프랑스어 refuser(거절하다)에서 영어로 들어왔고, 라틴계 접두 re-(뒤로) 계열과 결합된 형태로 ‘되돌려 거부하다’의 뉘앙스를 갖게 되었습니다(세부 어원은 문헌에 따라 다름).",
+    "semanticExtension": "개인적 거절(제안·초대)에서 출발해, 권한/허가를 거부하는 제도적 거절, 더 나아가 ‘버려진 것’(refuse)이라는 명사 의미로도 확장되어 공존합니다.",
+    "nuanceRegister": "동사 refuse는 격식·중립 모두 가능하며, 공식 통지문(We regret to refuse…)에서도 자주 보입니다. 명사 refuse는 비교적 문어·기술/행정 문맥(폐기물)에서 더 자연스럽습니다.",
+    "grammarNotes": "(1) refuse to + V: ~하기를 거부하다. (2) refuse + N: 요청/제안 등을 거절하다. (3) refuse + O + N: refuse him entry/aid처럼 ‘O에게 N을 거부하다’. 명사 refuse는 ‘폐기물’ 뜻으로 주로 단수(불가산) 취급.",
+    "transitivity": "타동사",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~하기를 거부하다(refuse to V)",
+        "example": "refuse to cooperate"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~로 인해/라는 이유로 거절하다(맥락 의존)",
+        "example": "refuse an application for lack of evidence"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~을 근거로 거절하다(격식)",
+        "example": "refuse the request on procedural grounds"
+      }
+    ],
+    "requiredComplements": [
+      "refuse to + V : ~하기를 거부하다",
+      "refuse + N : (요청/제안/초대 등을) 거절하다",
+      "refuse + O + N : O에게 N(입장/허가/도움 등)을 거부하다"
+    ],
+    "morphology": "re-(뒤로, 반대로) + (프랑스어/라틴계) 어근이 결합된 ‘되돌려 거부하다’ 계열로 굳어짐. 같은 철자라도 동사/명사로 품사가 갈라집니다.",
+    "derivatives": [
+      {
+        "word": "refusal",
+        "meaning_ko": "거절; 거부"
+      },
+      {
+        "word": "refuse (n.)",
+        "meaning_ko": "폐기물; 쓰레기"
+      },
+      {
+        "word": "refuser",
+        "meaning_ko": "거부자(드묾)"
+      },
+      {
+        "word": "refutable",
+        "meaning_ko": "반박 가능한"
+      },
+      {
+        "word": "refute",
+        "meaning_ko": "반박하다(어원상 관련이 언급되기도 하나 의미/용법은 별개로 학습)"
+      }
+    ],
+    "related": [
+      {
+        "word": "permission",
+        "meaning_ko": "허가"
+      },
+      {
+        "word": "rejection",
+        "meaning_ko": "거절; 기각"
+      },
+      {
+        "word": "decline",
+        "meaning_ko": "정중히 거절하다"
+      },
+      {
+        "word": "deny",
+        "meaning_ko": "부인하다; 거부하다"
+      },
+      {
+        "word": "waste",
+        "meaning_ko": "폐기물; 낭비"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "decline",
+        "meaning_ko": "(정중히) 거절하다"
+      },
+      {
+        "word": "reject",
+        "meaning_ko": "거절하다; 배척하다"
+      },
+      {
+        "word": "turn down",
+        "meaning_ko": "거절하다(구어)"
+      },
+      {
+        "word": "deny",
+        "meaning_ko": "(권리/요청을) 거부하다"
+      },
+      {
+        "word": "withhold",
+        "meaning_ko": "(일부러) 주지 않다; 보류하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "rebuff",
+        "meaning_ko": "(무례하게) 퇴짜 놓다"
+      },
+      {
+        "word": "spurn",
+        "meaning_ko": "(경멸하며) 걷어차다; 거절하다"
+      },
+      {
+        "word": "disallow",
+        "meaning_ko": "허용하지 않다(규정상)"
+      },
+      {
+        "word": "dismiss",
+        "meaning_ko": "일축하다"
+      },
+      {
+        "word": "veto",
+        "meaning_ko": "거부권을 행사하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "accept",
+        "meaning_ko": "받아들이다"
+      },
+      {
+        "word": "approve",
+        "meaning_ko": "승인하다"
+      },
+      {
+        "word": "allow",
+        "meaning_ko": "허락하다"
+      },
+      {
+        "word": "grant",
+        "meaning_ko": "(요청 등을) 허가하다"
+      },
+      {
+        "word": "consent",
+        "meaning_ko": "동의하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "refuse to answer",
+            "meaning_ko": "대답하기를 거부하다"
+          },
+          {
+            "phrase": "refuse an offer",
+            "meaning_ko": "제안을 거절하다"
+          },
+          {
+            "phrase": "refuse help",
+            "meaning_ko": "도움을 거부하다"
+          },
+          {
+            "phrase": "household refuse",
+            "meaning_ko": "가정 폐기물"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "refuse permission",
+            "meaning_ko": "허가를 거부하다"
+          },
+          {
+            "phrase": "refuse entry",
+            "meaning_ko": "입장을 거부하다"
+          },
+          {
+            "phrase": "refuse to comply",
+            "meaning_ko": "준수/이행을 거부하다"
+          },
+          {
+            "phrase": "refuse collection",
+            "meaning_ko": "쓰레기 수거(서비스)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "refuse on legal grounds",
+            "meaning_ko": "법적 근거로 거부하다"
+          },
+          {
+            "phrase": "refuse to budge",
+            "meaning_ko": "꿈쩍도 하지 않다(완강히 거부)"
+          },
+          {
+            "phrase": "refuse disclosure",
+            "meaning_ko": "공개를 거부하다"
+          },
+          {
+            "phrase": "refuse a writ / injunction",
+            "meaning_ko": "(법원) 명령/가처분을 기각하다(격식)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She refused to apologize.",
+            "meaning_ko": "그녀는 사과하기를 거부했어요."
+          },
+          {
+            "sentence": "I had to refuse the offer.",
+            "meaning_ko": "그 제안을 거절할 수밖에 없었어요."
+          },
+          {
+            "sentence": "The city collects refuse every Monday.",
+            "meaning_ko": "그 도시는 매주 월요일에 쓰레기를 수거합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They refused him entry because he lacked identification.",
+            "meaning_ko": "신분증이 없어서 그에게 입장을 거부했습니다."
+          },
+          {
+            "sentence": "The bank refused the loan application.",
+            "meaning_ko": "은행은 대출 신청을 거절했습니다."
+          },
+          {
+            "sentence": "Industrial refuse must be disposed of safely.",
+            "meaning_ko": "산업 폐기물은 안전하게 처리되어야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The regulator may refuse approval if the applicant fails to meet the statutory requirements.",
+            "meaning_ko": "신청자가 법정 요건을 충족하지 못하면 규제기관은 승인을 거부할 수 있습니다."
+          },
+          {
+            "sentence": "He refused to testify, invoking his right against self‑incrimination.",
+            "meaning_ko": "그는 자기부죄 금지권을 근거로 증언을 거부했습니다."
+          },
+          {
+            "sentence": "By refusing disclosure, the company amplified suspicion rather than calming it.",
+            "meaning_ko": "공개를 거부함으로써 회사는 의심을 가라앉히기는커녕 키웠습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "refuse(동사)와 refuse(명사: 폐기물)는 철자가 같아도 의미·문맥이 완전히 다릅니다. 동사로는 refuse to V(거부)와 refuse + O + N(refuse him entry/aid)이 핵심 패턴입니다. reject(평가 후 기각/배척)·decline(정중 거절)과 비교해, refuse는 ‘안 하겠다/안 주겠다’는 단호한 선 긋기 느낌이 더 강한 편입니다.",
+    "tags": [
+      "거절",
+      "허가",
+      "규정",
+      "폐기물",
+      "행정"
+    ],
+    "frequency": "상",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: He refused ________ sign the contract.",
+            "a": "to",
+            "meaning_ko": "refuse to + 동사원형이 정답입니다."
+          },
+          {
+            "q": "Choose the best meaning of “refuse” in “refuse collection”: (A) apology (B) trash (C) promise (D) advice",
+            "a": "B",
+            "meaning_ko": "refuse collection은 쓰레기 수거입니다."
+          },
+          {
+            "q": "Which is most natural? (A) refuse for answer (B) refuse to answer (C) refuse at answer (D) refuse with answer",
+            "a": "B",
+            "meaning_ko": "refuse to answer(대답을 거부하다)가 고정적으로 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using ‘refuse’: “They didn’t allow him to enter.”",
+            "a": "They refused him entry.",
+            "meaning_ko": "refuse + O + N 패턴."
+          },
+          {
+            "q": "Choose the closest synonym: “She refused the invitation.” (A) accepted (B) declined (C) predicted (D) repaired",
+            "a": "B",
+            "meaning_ko": "정중한 거절이면 decline가 가장 가깝습니다."
+          },
+          {
+            "q": "Fill in the blank: The request was refused ________ procedural grounds.",
+            "a": "on",
+            "meaning_ko": "on grounds(근거로)와 함께 쓰입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error-spotting: “He refused me to help.” What is the best correction?",
+            "a": "He refused to help me.",
+            "meaning_ko": "refuse to V가 기본. ‘refuse me to help’는 비문입니다."
+          },
+          {
+            "q": "Choose the best paraphrase: “The agency refused approval.”",
+            "a": "The agency did not grant approval.",
+            "meaning_ko": "refuse approval = 승인을 허가하지 않다."
+          },
+          {
+            "q": "Reading nuance: Which sounds more formal? (A) turn down (B) refuse",
+            "a": "refuse",
+            "meaning_ko": "turn down은 구어, refuse는 중립~격식입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "definite",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "clearly stated, decided, or known; not vague or uncertain",
+        "definition_ko": "명확한; 분명한; 확정된(애매하지 않은).",
+        "note": "definite plan/answer처럼 ‘결정이 났다’는 뉘앙스로도 씁니다."
+      },
+      {
+        "definition_en": "certain and without doubt",
+        "definition_ko": "확실한; 의심의 여지가 없는.",
+        "note": "a definite improvement(분명한 개선)처럼 ‘눈에 띄는’ 의미로도 자주 확장됩니다."
+      }
+    ],
+    "concept": "흐릿한 가능성이 아니라 ‘결정/판단이 분명히 서 있는 상태’를 딱 잘라 말하는 형용사.",
+    "etymology": "라틴어 dēfīnītus(‘경계를 정한, 규정된’)에서 왔으며, dē- + fīnīre(끝/경계를 정하다) 계열로 ‘정의하다(define)’와 같은 뿌리를 공유합니다.",
+    "semanticExtension": "‘경계를 정해 모호함을 없앰’이라는 원뜻에서, 계획·답·증거 등 다양한 대상에 ‘확정/분명’ 의미로 폭넓게 확장됩니다.",
+    "nuanceRegister": "중립~격식. 회화에서도 흔하지만, 글에서는 ‘모호하지 않음/확정됨’을 단정적으로 강조하는 톤을 만듭니다.",
+    "grammarNotes": "be definite about + N(~에 대해 분명하다/확실히 정해 두다), a definite + 명사(확실한/분명한), make something definite(확정하다)처럼 쓰입니다. definitive(최종적/권위 있는)와 혼동 주의: definite=명확/확실, definitive=결정판/최종.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 분명히(정해) 두다",
+        "example": "be definite about the schedule"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대해 명확히 하다(결정하다)",
+        "example": "be definite on the details"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 분명한(특성이 드러남)",
+        "example": "be definite in his views"
+      }
+    ],
+    "requiredComplements": [
+      "be definite about + N : ~에 대해 확실히/분명히 해 두다",
+      "a definite + N : 분명한/확정된 ~",
+      "make something definite : (계획/합의 등을) 확정하다"
+    ],
+    "morphology": "de-(완전히) + fin- (끝/경계) + -ite(형용사형) 계열 → ‘경계를 정해 분명해진’.",
+    "derivatives": [
+      {
+        "word": "definitely",
+        "meaning_ko": "분명히; 확실히"
+      },
+      {
+        "word": "definition",
+        "meaning_ko": "정의"
+      },
+      {
+        "word": "define",
+        "meaning_ko": "정의하다; 규정하다"
+      },
+      {
+        "word": "definitive",
+        "meaning_ko": "결정적인; 최종의"
+      },
+      {
+        "word": "indefinite",
+        "meaning_ko": "불분명한; 막연한"
+      }
+    ],
+    "related": [
+      {
+        "word": "clarity",
+        "meaning_ko": "명료함"
+      },
+      {
+        "word": "certainty",
+        "meaning_ko": "확실성"
+      },
+      {
+        "word": "decision",
+        "meaning_ko": "결정"
+      },
+      {
+        "word": "specific",
+        "meaning_ko": "구체적인"
+      },
+      {
+        "word": "explicit",
+        "meaning_ko": "명시적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "clear",
+        "meaning_ko": "명확한"
+      },
+      {
+        "word": "certain",
+        "meaning_ko": "확실한"
+      },
+      {
+        "word": "specific",
+        "meaning_ko": "구체적인"
+      },
+      {
+        "word": "explicit",
+        "meaning_ko": "명시적인"
+      },
+      {
+        "word": "unmistakable",
+        "meaning_ko": "틀림없는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "decided",
+        "meaning_ko": "(의사가) 확고한"
+      },
+      {
+        "word": "distinct",
+        "meaning_ko": "뚜렷한"
+      },
+      {
+        "word": "concrete",
+        "meaning_ko": "구체적인"
+      },
+      {
+        "word": "firm",
+        "meaning_ko": "확고한; 단단한"
+      },
+      {
+        "word": "settled",
+        "meaning_ko": "(문제가) 정리된; 확정된"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "vague",
+        "meaning_ko": "모호한"
+      },
+      {
+        "word": "uncertain",
+        "meaning_ko": "불확실한"
+      },
+      {
+        "word": "indefinite",
+        "meaning_ko": "불분명한"
+      },
+      {
+        "word": "ambiguous",
+        "meaning_ko": "애매한"
+      },
+      {
+        "word": "dubious",
+        "meaning_ko": "의심스러운"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a definite answer",
+            "meaning_ko": "확실한 답"
+          },
+          {
+            "phrase": "a definite plan",
+            "meaning_ko": "확정된 계획"
+          },
+          {
+            "phrase": "be definite about it",
+            "meaning_ko": "그건 분명히 해 두다"
+          },
+          {
+            "phrase": "a definite improvement",
+            "meaning_ko": "분명한 개선"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "make arrangements definite",
+            "meaning_ko": "일정을 확정하다"
+          },
+          {
+            "phrase": "a definite date",
+            "meaning_ko": "확정된 날짜"
+          },
+          {
+            "phrase": "definite evidence",
+            "meaning_ko": "명백한 증거"
+          },
+          {
+            "phrase": "a definite sense of",
+            "meaning_ko": "분명한 ~한 느낌"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "definite article",
+            "meaning_ko": "정관사(the)(문법 용어)"
+          },
+          {
+            "phrase": "a definite conclusion",
+            "meaning_ko": "명확한 결론"
+          },
+          {
+            "phrase": "definite boundaries",
+            "meaning_ko": "분명한 경계"
+          },
+          {
+            "phrase": "definite and measurable",
+            "meaning_ko": "명확하고 측정 가능한"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Do you have a definite answer yet?",
+            "meaning_ko": "아직 확실한 답이 있나요?"
+          },
+          {
+            "sentence": "We need a definite plan before we start.",
+            "meaning_ko": "시작하기 전에 확정된 계획이 필요합니다."
+          },
+          {
+            "sentence": "There was a definite change in his tone.",
+            "meaning_ko": "그의 말투에 분명한 변화가 있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She was definite about what she wanted.",
+            "meaning_ko": "그녀는 자신이 원하는 것을 분명히 알고 있었습니다."
+          },
+          {
+            "sentence": "The committee gave no definite date for the decision.",
+            "meaning_ko": "위원회는 결정 날짜를 확정해 주지 않았습니다."
+          },
+          {
+            "sentence": "I have a definite feeling that something is off.",
+            "meaning_ko": "뭔가 이상하다는 확실한 느낌이 들어요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The treaty sets definite limits on emissions, leaving little room for reinterpretation.",
+            "meaning_ko": "그 조약은 배출량에 명확한 한계를 설정해 재해석의 여지를 거의 남기지 않습니다."
+          },
+          {
+            "sentence": "Without definite criteria, the evaluation will inevitably drift into subjectivity.",
+            "meaning_ko": "명확한 기준이 없으면 평가는 필연적으로 주관으로 흐릅니다."
+          },
+          {
+            "sentence": "The study provides definite evidence of a causal link, not merely correlation.",
+            "meaning_ko": "그 연구는 단순 상관이 아니라 인과적 연결에 대한 명백한 증거를 제시합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "definite는 ‘모호하지 않다/확정됐다’가 핵심이고, definitely(부사)로 자주 함께 외워두면 체감 빈도가 확 올라갑니다. definitive(최종/결정판)와 자주 헷갈리니, definite=명확·확실, definitive=결정적·최종·권위 있는(‘결정판’)으로 분리하세요. be definite about + N 패턴은 말하기·작문에서 점수 내기 좋은 표현입니다.",
+    "tags": [
+      "확실함",
+      "명확성",
+      "계획",
+      "결정",
+      "문법"
+    ],
+    "frequency": "상",
+    "difficulty": "3",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: We need a ________ decision by Friday.",
+            "a": "definite",
+            "meaning_ko": "definite decision = 확정된/분명한 결정."
+          },
+          {
+            "q": "Choose the best meaning of “definite”: (A) uncertain (B) clear and certain (C) noisy (D) expensive",
+            "a": "B",
+            "meaning_ko": "definite는 ‘명확하고 확실한’."
+          },
+          {
+            "q": "Which is correct? (A) definite to the plan (B) definite about the plan (C) definite with the plan (D) definite at the plan",
+            "a": "B",
+            "meaning_ko": "be definite about + N 패턴."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best contrast: “definite” is to “vague” as “certain” is to ________.",
+            "a": "uncertain",
+            "meaning_ko": "반의 관계 매칭."
+          },
+          {
+            "q": "Fill in the blank: The manager wouldn’t commit to a definite date; everything stayed ________.",
+            "a": "indefinite",
+            "meaning_ko": "definite ↔ indefinite(불분명한)."
+          },
+          {
+            "q": "Pick the better word: “This is the ________ edition of the guide.” (definite / definitive)",
+            "a": "definitive",
+            "meaning_ko": "결정판/권위 있는 최종판은 definitive가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error-spotting: “She is definite to her position.” What is the best correction?",
+            "a": "She is definite about her position.",
+            "meaning_ko": "be definite about + N이 자연스럽습니다."
+          },
+          {
+            "q": "Paraphrase: “The evidence is definite.”",
+            "a": "The evidence is clear and leaves no doubt.",
+            "meaning_ko": "definite = 의심의 여지가 없을 만큼 명확."
+          },
+          {
+            "q": "Reading nuance: Which sentence sounds more formal? (A) I’m sure. (B) I’m definite about it.",
+            "a": "I’m definite about it.",
+            "meaning_ko": "문맥상 ‘분명히 해두었다/확실하다’의 격식 톤이 더 있습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

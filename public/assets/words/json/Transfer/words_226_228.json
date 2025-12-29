@@ -1,0 +1,895 @@
+[
+  {
+    "word": "sovereign",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A supreme ruler, especially a monarch; a person or state with ultimate authority.",
+        "definition_ko": "군주, 최고 통치자; 또는 최종적 주권을 가진 국가·주체.",
+        "note": "정치·법 문맥에서 '주권을 가진(sovereign)'이라는 형용사 용법이 매우 흔합니다."
+      },
+      {
+        "definition_en": "Having supreme power or authority; self-governing and independent.",
+        "definition_ko": "주권이 있는, 자주적인; 최고 권력을 가진.",
+        "note": "국가(sovereign state), 권한(sovereign authority)처럼 붙어 쓰입니다."
+      }
+    ],
+    "concept": "외부 간섭 없이 스스로 최종 결정을 내리는 ‘최고 권한/주권’의 상태 또는 그 주체.",
+    "etymology": "고프랑스어 soverain(최고의)에서 왔고, 라틴어 superanus(위에 있는, 최고) 계열과 연결됩니다. 의미는 '가장 위의'에서 '최고 권력을 가진'으로 굳어졌습니다.",
+    "semanticExtension": "국가·군주뿐 아니라 '최종 판단 권한'을 비유적으로 가리켜 sovereign decision, sovereign control처럼 확장됩니다.",
+    "nuanceRegister": "격식·문어·정치/법률 레지스터. 일상 대화보다는 기사, 논문, 공문에서 자주 등장합니다.",
+    "grammarNotes": "형용사로는 보통 명사 앞에 위치(sovereign state). 명사로는 the sovereign처럼 특정 군주를 지칭하기도 합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사 용법), 형용사 용법은 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "over",
+        "meaning_ko": "~에 대한 지배/주권을 가진",
+        "example": "sovereign over the territory"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 군주/통치자(문어)",
+        "example": "the sovereign of a kingdom"
+      }
+    ],
+    "requiredComplements": [
+      "sovereign + noun (예: sovereign state/rights/immunity: 주권국/주권/주권면제)",
+      "sovereign over + 대상 (영토·집단 등에 대한 주권/지배를 나타냄)"
+    ],
+    "morphology": "sovereign(어근형) 자체가 '최고의/지배하는' 의미를 담는 형용·명사 형태로 굳어져 있으며, 현대 영어에서는 추가 분해보다 파생형(sovereignty 등)으로 학습하는 편이 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "sovereignty",
+        "meaning_ko": "주권, 자주권"
+      },
+      {
+        "word": "sovereignly",
+        "meaning_ko": "최고 권위로, 주권적으로(드묾)"
+      },
+      {
+        "word": "soverignty",
+        "meaning_ko": "(비표준/오탈자) sovereignty의 흔한 철자 실수"
+      }
+    ],
+    "related": [
+      {
+        "word": "autonomy",
+        "meaning_ko": "자치, 자율권"
+      },
+      {
+        "word": "jurisdiction",
+        "meaning_ko": "관할권"
+      },
+      {
+        "word": "monarch",
+        "meaning_ko": "군주"
+      },
+      {
+        "word": "independence",
+        "meaning_ko": "독립"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "supreme",
+        "meaning_ko": "최고의, 최상위의"
+      },
+      {
+        "word": "independent",
+        "meaning_ko": "독립적인"
+      },
+      {
+        "word": "self-governing",
+        "meaning_ko": "자치하는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "autonomous",
+        "meaning_ko": "자율적인(완전한 주권과는 다를 수 있음)"
+      },
+      {
+        "word": "dominant",
+        "meaning_ko": "우세한/지배적인(주권의 법적 뉘앙스는 약함)"
+      },
+      {
+        "word": "paramount",
+        "meaning_ko": "가장 중요한, 최우선의(권력 의미는 맥락 의존)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "subordinate",
+        "meaning_ko": "종속된"
+      },
+      {
+        "word": "dependent",
+        "meaning_ko": "의존적인"
+      },
+      {
+        "word": "subject",
+        "meaning_ko": "지배받는, 속국의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a sovereign country",
+            "meaning_ko": "주권국가"
+          },
+          {
+            "phrase": "sovereign power",
+            "meaning_ko": "주권/최고 권력"
+          },
+          {
+            "phrase": "national sovereignty",
+            "meaning_ko": "국가 주권"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sovereign state",
+            "meaning_ko": "주권 국가"
+          },
+          {
+            "phrase": "sovereign rights",
+            "meaning_ko": "주권적 권리"
+          },
+          {
+            "phrase": "sovereign authority",
+            "meaning_ko": "최고 권한/주권적 권위"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sovereign immunity",
+            "meaning_ko": "주권면제(국가가 타국 법원 관할에서 면제되는 원칙)"
+          },
+          {
+            "phrase": "a sovereign debt crisis",
+            "meaning_ko": "국가(주권) 부채 위기"
+          },
+          {
+            "phrase": "sovereign discretion",
+            "meaning_ko": "최종 결정권자의 재량"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The island became a sovereign nation after the referendum.",
+            "meaning_ko": "그 섬나라는 국민투표 이후 주권국가가 되었습니다."
+          },
+          {
+            "sentence": "They insist on being sovereign and making their own laws.",
+            "meaning_ko": "그들은 주권을 지키며 스스로 법을 만들겠다고 고집합니다."
+          },
+          {
+            "sentence": "The sovereign visited the city for a public ceremony.",
+            "meaning_ko": "군주가 공개 행사 참석을 위해 그 도시를 방문했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "International law recognizes each sovereign state as equal in principle.",
+            "meaning_ko": "국제법은 원칙적으로 각 주권국가의 평등을 인정합니다."
+          },
+          {
+            "sentence": "The treaty was criticized for limiting the country’s sovereign rights.",
+            "meaning_ko": "그 조약은 국가의 주권적 권리를 제한한다는 비판을 받았습니다."
+          },
+          {
+            "sentence": "A sovereign parliament cannot be bound permanently by a previous one.",
+            "meaning_ko": "주권을 가진 의회는 이전 의회에 의해 영구히 구속될 수 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The court dismissed the claim on the ground of sovereign immunity, despite the plaintiff’s evidence.",
+            "meaning_ko": "법원은 원고의 증거에도 불구하고 주권면제를 근거로 청구를 각하했습니다."
+          },
+          {
+            "sentence": "Analysts warned that rising yields could trigger a sovereign debt spiral in highly leveraged economies.",
+            "meaning_ko": "분석가들은 금리 상승이 고부채 경제에서 국가 부채의 악순환을 촉발할 수 있다고 경고했습니다."
+          },
+          {
+            "sentence": "Invoking sovereignty rhetorically can mask a lack of democratic accountability for policy choices.",
+            "meaning_ko": "수사적으로 주권을 내세우는 것은 정책 선택에 대한 민주적 책임 부재를 가릴 수 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sovereign은 '최종 결정권/주권'이 핵심이라서 autonomous(자율)와 구분해 두시면 좋습니다. 시험에서는 sovereign state, sovereign rights, sovereign immunity 같은 고정 결합이 자주 나오니 덩어리로 암기하세요. 명사(군주)와 형용사(주권의) 용법을 예문으로 함께 익히면 헷갈림이 줄어듭니다.",
+    "tags": [
+      "정치",
+      "국제법",
+      "국가",
+      "권한",
+      "격식어"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'sovereign' in: 'a sovereign state'.\nA) wealthy\nB) independent and self-governing\nC) temporary\nD) noisy",
+            "a": "B",
+            "meaning_ko": "sovereign state는 '주권 국가'로, 독립·자치가 핵심입니다."
+          },
+          {
+            "q": "Fill in the blank: The king was the ______ of the realm.",
+            "a": "sovereign",
+            "meaning_ko": "명사로 '군주/최고 통치자' 의미."
+          },
+          {
+            "q": "Which word is the closest antonym of 'sovereign' (adj.)?\nA) dependent\nB) famous\nC) careful\nD) generous",
+            "a": "A",
+            "meaning_ko": "주권적/독립적의 반대는 dependent(의존적인)입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Complete the collocation: sovereign ______ (국가 부채와 관련된 표현).",
+            "a": "debt",
+            "meaning_ko": "sovereign debt = 국가(주권) 부채."
+          },
+          {
+            "q": "Pick the sentence where 'sovereign' is used as a noun.\nA) They defended sovereign rights.\nB) The sovereign addressed the nation.\nC) A sovereign decision was needed.\nD) Sovereign authority matters.",
+            "a": "B",
+            "meaning_ko": "the sovereign는 '군주'를 가리키는 명사 용법입니다."
+          },
+          {
+            "q": "Rewrite using 'sovereign over': 'The country has ultimate authority in the region.'",
+            "a": "The country is sovereign over the region.",
+            "meaning_ko": "sovereign over + 대상 패턴을 사용합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In public international law, what does 'sovereign immunity' generally refer to? (Answer in one phrase.)",
+            "a": "a state's immunity from another state's courts",
+            "meaning_ko": "타국 법원의 재판권에서 국가가 면제되는 원칙을 말합니다."
+          },
+          {
+            "q": "Choose the most precise option: 'Invoking sovereignty can ____ responsibility.'\nA) enhance\nB) obscure\nC) measure\nD) allocate",
+            "a": "B",
+            "meaning_ko": "수사적으로 주권을 내세워 책임을 '가릴 수 있다(obscure)'가 자연스럽습니다."
+          },
+          {
+            "q": "Fill in the blank with the best word: 'A legislature that is truly ______ cannot be permanently bound by past statutes.'",
+            "a": "sovereign",
+            "meaning_ko": "문어·법학 문맥에서 주권적(최종 권한을 가진)이라는 의미입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pilgrim",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A person who travels to a sacred place for religious reasons.",
+        "definition_ko": "순례자(종교적 이유로 성지를 찾아가는 사람).",
+        "note": "종교적 색채가 강하지만, 넓게는 '목적을 가진 긴 여정의 여행자'로도 비유됩니다."
+      },
+      {
+        "definition_en": "A traveler or visitor, especially one on a long journey.",
+        "definition_ko": "장거리 여정의 여행자(문어/비유).",
+        "note": "문학적·비유적 용법으로 사용되며, 현대 일상에서는 주로 1번 의미가 중심입니다."
+      }
+    ],
+    "concept": "신념이나 목적을 위해 먼 길을 떠나는 ‘순례의 여행자’.",
+    "etymology": "라틴어 peregrinus(외국인, 낯선 땅의 사람)에서 유래해, 중세 라틴어 peregrinus가 종교적 순례자를 가리키며 의미가 특정화되었습니다.",
+    "semanticExtension": "종교적 순례에서 출발해, ‘어떤 이상/목표를 좇아 긴 여정을 하는 사람’이라는 비유로 확장됩니다.",
+    "nuanceRegister": "기본은 중립적이지만 종교·역사·문학 레지스터에서 많이 쓰이며, 비유 용법은 다소 문어적입니다.",
+    "grammarNotes": "단수 a pilgrim / 복수 pilgrims. pilgrim + to + 장소(‘~로 가는 순례자’)처럼 후치 수식이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~로 가는 순례자",
+        "example": "pilgrims to Mecca"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~을(를) 하러(순례) 가는",
+        "example": "pilgrims on a journey"
+      }
+    ],
+    "requiredComplements": [
+      "pilgrim to + 장소 (예: pilgrims to Santiago: 산티아고로 향하는 순례자들)",
+      "go on a pilgrimage (pilgrim과 함께 자주 학습할 동사구)"
+    ],
+    "morphology": "pilgrim은 라틴어 peregrinus 계열에서 들어온 단어로, 현대 영어에서 접두·접미 분해로 의미를 추측하기보다 pilgrimage(순례)와 함께 어휘군으로 묶어 학습하는 편이 좋습니다.",
+    "derivatives": [
+      {
+        "word": "pilgrimage",
+        "meaning_ko": "순례, 성지 방문"
+      },
+      {
+        "word": "pilgrimage site",
+        "meaning_ko": "순례지"
+      },
+      {
+        "word": "pilgrim-like",
+        "meaning_ko": "순례자 같은(형용사적 표현)"
+      }
+    ],
+    "related": [
+      {
+        "word": "devotee",
+        "meaning_ko": "신봉자, 열성 추종자"
+      },
+      {
+        "word": "sanctuary",
+        "meaning_ko": "성소, 보호구역"
+      },
+      {
+        "word": "shrine",
+        "meaning_ko": "성지, 신사"
+      },
+      {
+        "word": "journey",
+        "meaning_ko": "여정"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "pilgrimer",
+        "meaning_ko": "순례자(드묾)"
+      },
+      {
+        "word": "devotee",
+        "meaning_ko": "순례자에 가까운 '신심 깊은 사람'(맥락 필요)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "traveler",
+        "meaning_ko": "여행자(종교적 목적은 없음)"
+      },
+      {
+        "word": "wayfarer",
+        "meaning_ko": "길손(문학적)"
+      },
+      {
+        "word": "visitor",
+        "meaning_ko": "방문객(짧은 체류)"
+      },
+      {
+        "word": "wanderer",
+        "meaning_ko": "방랑자(목적성 약함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "resident",
+        "meaning_ko": "거주자"
+      },
+      {
+        "word": "local",
+        "meaning_ko": "지역 주민"
+      },
+      {
+        "word": "homebody",
+        "meaning_ko": "집에 있는 것을 좋아하는 사람"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a religious pilgrim",
+            "meaning_ko": "종교적 순례자"
+          },
+          {
+            "phrase": "a holy site",
+            "meaning_ko": "성지(순례 맥락)"
+          },
+          {
+            "phrase": "a long journey",
+            "meaning_ko": "긴 여정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "pilgrims to Mecca",
+            "meaning_ko": "메카로 향하는 순례자들"
+          },
+          {
+            "phrase": "make a pilgrimage",
+            "meaning_ko": "순례를 하다"
+          },
+          {
+            "phrase": "a pilgrimage route",
+            "meaning_ko": "순례길/순례 경로"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a medieval pilgrim narrative",
+            "meaning_ko": "중세 순례 서사(기록/문학)"
+          },
+          {
+            "phrase": "a rite of pilgrimage",
+            "meaning_ko": "순례의 의례/관습"
+          },
+          {
+            "phrase": "a secular pilgrimage",
+            "meaning_ko": "세속적 ‘성지순례’(비유: 특정 장소를 열성적으로 방문)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Thousands of pilgrims arrived at the temple before dawn.",
+            "meaning_ko": "수천 명의 순례자들이 새벽 전에 사원에 도착했습니다."
+          },
+          {
+            "sentence": "She traveled as a pilgrim to see the holy city.",
+            "meaning_ko": "그녀는 성지를 보기 위해 순례자로서 여행했습니다."
+          },
+          {
+            "sentence": "The pilgrims rested and shared food along the road.",
+            "meaning_ko": "순례자들은 길에서 쉬며 음식을 나눴습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Many pilgrims to Santiago keep a journal to record small changes in their faith.",
+            "meaning_ko": "산티아고로 가는 많은 순례자들은 신앙의 작은 변화를 기록하려 일기를 씁니다."
+          },
+          {
+            "sentence": "Local volunteers set up shelters so that pilgrims could sleep safely.",
+            "meaning_ko": "지역 자원봉사자들이 순례자들이 안전하게 잘 수 있도록 쉼터를 마련했습니다."
+          },
+          {
+            "sentence": "For him, the museum became a kind of pilgrimage site for modern art.",
+            "meaning_ko": "그에게 그 박물관은 현대미술의 일종의 성지순례 장소가 되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The text frames the pilgrim not as a tourist but as a witness whose movement reshapes identity.",
+            "meaning_ko": "그 글은 순례자를 관광객이 아니라 이동을 통해 정체성을 재구성하는 ‘증언자’로 그립니다."
+          },
+          {
+            "sentence": "In the novel, the pilgrims’ hardships function as a moral economy that tests communal obligation.",
+            "meaning_ko": "그 소설에서 순례자들의 고난은 공동체적 의무를 시험하는 도덕적 질서로 작동합니다."
+          },
+          {
+            "sentence": "Calling it a secular pilgrimage highlights how devotion can attach to brands as well as beliefs.",
+            "meaning_ko": "이를 ‘세속적 성지순례’라 부르는 것은 헌신이 신념뿐 아니라 브랜드에도 붙을 수 있음을 드러냅니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "pilgrim은 pilgrimage(순례)와 세트로 외우면 효율이 좋습니다. traveler/wanderer와 달리 ‘목적(특히 종교적 목적)’이 뚜렷하다는 점이 핵심입니다. 비유로는 secular pilgrimage처럼 ‘열성 팬이 꼭 가는 곳’이라는 의미로도 자주 나오니 예문을 함께 익혀 두세요.",
+    "tags": [
+      "종교",
+      "여행",
+      "역사",
+      "문학",
+      "비유표현"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "A 'pilgrim' most commonly travels to a ______ place.",
+            "a": "sacred",
+            "meaning_ko": "pilgrim은 보통 성지/성스러운 장소로 가는 사람입니다."
+          },
+          {
+            "q": "Choose the best definition of 'pilgrim'.\nA) a local resident\nB) a person on a religious journey\nC) a shop owner\nD) a soldier",
+            "a": "B",
+            "meaning_ko": "핵심 의미는 '종교적 순례를 하는 사람'입니다."
+          },
+          {
+            "q": "Fill in the blank: Many ______ walked for days to reach the shrine.",
+            "a": "pilgrims",
+            "meaning_ko": "복수형 pilgrims를 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Complete the collocation: make a ______ (순례를 하다).",
+            "a": "pilgrimage",
+            "meaning_ko": "make a pilgrimage = 순례를 하다."
+          },
+          {
+            "q": "Pick the most natural phrase.\nA) pilgrims at Mecca\nB) pilgrims to Mecca\nC) pilgrims by Mecca\nD) pilgrims for Mecca",
+            "a": "B",
+            "meaning_ko": "pilgrims to + 장소가 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest in meaning to 'pilgrim' in a literary sense?\nA) wayfarer\nB) accountant\nC) mechanic\nD) opponent",
+            "a": "A",
+            "meaning_ko": "wayfarer는 문학적 '길손'으로 유사어입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Explain briefly (in English): Why is 'secular pilgrimage' an oxymoron-like phrase?",
+            "a": "Because pilgrimage is religious by origin, but 'secular' removes religion while keeping the devotion/ritual of travel.",
+            "meaning_ko": "pilgrimage의 종교적 기원을 남겨 두고 secular로 비종교성을 붙여 대비 효과를 만듭니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'The novel frames the pilgrim as a witness.'\nA) a pilgrim as someone who testifies through experience\nB) a pilgrim as a thief\nC) a pilgrim as a teacher\nD) a pilgrim as a judge",
+            "a": "A",
+            "meaning_ko": "witness는 '직접 겪고 증언하는 사람' 뉘앙스입니다."
+          },
+          {
+            "q": "Fill in the blank: 'Their hardships tested communal ______.' (문맥: 공동체가 져야 할 의무)",
+            "a": "obligation",
+            "meaning_ko": "communal obligation이 자연스러운 결합입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "chew",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To bite and grind food in the mouth, especially with the teeth, in order to swallow it.",
+        "definition_ko": "씹다(음식을 이로 갈아 삼키기 위해 씹는 행위).",
+        "note": "가장 기본 의미이며, chew well처럼 부사와 함께 자주 쓰입니다."
+      },
+      {
+        "definition_en": "To think about something carefully; to mull over.",
+        "definition_ko": "곱씹다, 곰곰이 생각하다(비유).",
+        "note": "chew on + 명사(문제/아이디어)를 많이 씁니다."
+      },
+      {
+        "definition_en": "To damage or wear something by biting or grinding.",
+        "definition_ko": "갉아먹다/물어뜯어 손상시키다.",
+        "note": "dogs chew furniture처럼 사물이 상하는 맥락에서 사용됩니다."
+      }
+    ],
+    "concept": "이를 써서 ‘갈아 부수는 씹기’에서 출발해, 생각을 ‘되씹는’ 비유로 확장되는 동사.",
+    "etymology": "고대 영어 ceowan(씹다)에서 유래한 게르만계 어휘로, 기본 의미는 오래전부터 ‘씹다’로 안정적으로 유지되었습니다.",
+    "semanticExtension": "물리적으로 씹는 행위가 ‘내용을 반복해 다루는 과정’으로 비유화되어 chew on an idea(아이디어를 곱씹다)처럼 확장됩니다.",
+    "nuanceRegister": "일상어(기본 의미) + 구어적 비유(chew on). 문어에서도 쓰이지만, 비유는 회화/에세이 톤에서 자연스럽습니다.",
+    "grammarNotes": "자동사/타동사 모두 가능(chew / chew gum / chew on a problem). 목적어가 없으면 '씹는 행위'에 초점, 목적어가 있으면 '무엇을 씹는지'가 강조됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~을 곱씹다/숙고하다(비유), 또는 ~을 씹다",
+        "example": "chew on the proposal"
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "~을(를) 씹어서 통과/끝내다(식감·노동의 뉘앙스)",
+        "example": "chew through tough meat"
+      }
+    ],
+    "requiredComplements": [
+      "chew on + 명사 (문제/아이디어를 곱씹다)",
+      "chew + 목적어 (gum, food, nails 등)",
+      "chew through + 명사 (질긴 것을 씹어 넘기다/끝내다)"
+    ],
+    "morphology": "chew(어근) + -er(chewer: 씹는 사람/것), + -y(chewy: 질겨서 씹히는)처럼 파생이 쉽습니다. 비유 용법은 전치사 on과 결합하는 것이 핵심 포인트입니다.",
+    "derivatives": [
+      {
+        "word": "chewer",
+        "meaning_ko": "씹는 사람/씹는 것"
+      },
+      {
+        "word": "chewy",
+        "meaning_ko": "질겨서 씹히는, 쫄깃한"
+      },
+      {
+        "word": "chewing",
+        "meaning_ko": "씹기(동명사), (구) chewing gum: 껌"
+      }
+    ],
+    "related": [
+      {
+        "word": "bite",
+        "meaning_ko": "물다"
+      },
+      {
+        "word": "grind",
+        "meaning_ko": "갈다, 분쇄하다"
+      },
+      {
+        "word": "masticate",
+        "meaning_ko": "씹다(격식/의학)"
+      },
+      {
+        "word": "mull",
+        "meaning_ko": "곰곰이 생각하다(비유 관련)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "masticate",
+        "meaning_ko": "씹다(격식)"
+      },
+      {
+        "word": "gnaw",
+        "meaning_ko": "갉아먹다(특히 지속적으로)"
+      },
+      {
+        "word": "mull over",
+        "meaning_ko": "곱씹다/숙고하다(비유 의미)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "bite",
+        "meaning_ko": "한 번 물다(씹기보다 순간적)"
+      },
+      {
+        "word": "chomp",
+        "meaning_ko": "우걱우걱 씹다(소리/거침 강조)"
+      },
+      {
+        "word": "nibble",
+        "meaning_ko": "조금씩 깨물다"
+      },
+      {
+        "word": "ruminate",
+        "meaning_ko": "되새기다/반추하다(격식·추상)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "swallow",
+        "meaning_ko": "삼키다(씹지 않고 넘기다)"
+      },
+      {
+        "word": "spit out",
+        "meaning_ko": "뱉어내다"
+      },
+      {
+        "word": "ignore",
+        "meaning_ko": "(비유) 곱씹지 않고 넘기다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "chew food",
+            "meaning_ko": "음식을 씹다"
+          },
+          {
+            "phrase": "chew gum",
+            "meaning_ko": "껌을 씹다"
+          },
+          {
+            "phrase": "chew slowly",
+            "meaning_ko": "천천히 씹다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "chew on an idea",
+            "meaning_ko": "아이디어를 곱씹다/숙고하다"
+          },
+          {
+            "phrase": "chew your nails",
+            "meaning_ko": "손톱을 물어뜯다"
+          },
+          {
+            "phrase": "chew thoroughly",
+            "meaning_ko": "충분히/꼭꼭 씹다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "chew through tough meat",
+            "meaning_ko": "질긴 고기를 씹어 넘기다"
+          },
+          {
+            "phrase": "chew the cud",
+            "meaning_ko": "되새김질하다(관용/비유: 반복해서 생각하다)"
+          },
+          {
+            "phrase": "chew over the implications",
+            "meaning_ko": "함의를 곱씹다(영국식: chew over)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Chew your food well before you swallow.",
+            "meaning_ko": "삼키기 전에 음식을 꼭꼭 씹으세요."
+          },
+          {
+            "sentence": "He chewed gum during the long meeting.",
+            "meaning_ko": "그는 긴 회의 동안 껌을 씹고 있었습니다."
+          },
+          {
+            "sentence": "The puppy chewed the corner of the blanket.",
+            "meaning_ko": "강아지가 담요 모서리를 씹어 망가뜨렸습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "I need a day to chew on the offer before I decide.",
+            "meaning_ko": "결정하기 전에 제안을 하루 정도 곱씹어 볼 시간이 필요합니다."
+          },
+          {
+            "sentence": "If you chew your nails when you’re anxious, try keeping your hands busy.",
+            "meaning_ko": "불안할 때 손톱을 물어뜯는다면 손을 바쁘게 두는 방법을 써 보세요."
+          },
+          {
+            "sentence": "The steak was so tough that I could barely chew it.",
+            "meaning_ko": "스테이크가 너무 질겨서 거의 씹을 수가 없었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The report invites readers to chew over the implications rather than accept the headline conclusion.",
+            "meaning_ko": "그 보고서는 헤드라인 결론을 그대로 받아들이기보다 함의를 곱씹어 보라고 독자에게 권합니다."
+          },
+          {
+            "sentence": "Years later, she was still chewing the cud of that single mistake, replaying it in her mind.",
+            "meaning_ko": "몇 년이 지나도 그녀는 그 한 번의 실수를 반추하며 머릿속에서 되풀이하고 있었습니다."
+          },
+          {
+            "sentence": "With little water left, they had to chew through dry bread slowly to avoid choking.",
+            "meaning_ko": "물이 거의 남지 않아, 그들은 목이 막히지 않도록 마른 빵을 천천히 씹어 넘겨야 했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "chew는 기본 의미(씹다)만 외우면 끝이 아니라 chew on(곱씹다/숙고하다), chew over(영국식), chew the cud(반추하다) 같은 확장 표현이 자주 나옵니다. bite/chomp/nibble과 비교해 '반복적으로 갈아 부수는' 느낌이 chew의 핵심입니다. 시험 빈칸에서는 on/over 같은 전치사 결합이 포인트가 되니 예문과 함께 덩어리로 익히세요.",
+    "tags": [
+      "일상",
+      "음식",
+      "습관",
+      "비유표현",
+      "구동사"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Chew your food well before you ______ it.",
+            "a": "swallow",
+            "meaning_ko": "chew(씹다)와 반대 동작으로 swallow(삼키다)가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best meaning of 'chew' in: 'The dog chewed the shoe.'\nA) painted\nB) bit and damaged\nC) washed\nD) repaired",
+            "a": "B",
+            "meaning_ko": "물어뜯어 손상시킨다는 의미입니다."
+          },
+          {
+            "q": "Which sentence is natural?\nA) chew at an idea\nB) chew on an idea\nC) chew in an idea\nD) chew by an idea",
+            "a": "B",
+            "meaning_ko": "비유적으로는 chew on + 명사가 정형화된 표현입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'chew on': 'Think about the proposal carefully.'",
+            "a": "Chew on the proposal.",
+            "meaning_ko": "chew on = 곱씹다/숙고하다."
+          },
+          {
+            "q": "Choose the closest synonym of 'chew' (formal).\nA) masticate\nB) meditate\nC) negotiate\nD) evacuate",
+            "a": "A",
+            "meaning_ko": "masticate는 격식/의학적 '씹다'입니다."
+          },
+          {
+            "q": "Fill in the blank: The meat was so tough that it took minutes to chew ______ it.",
+            "a": "through",
+            "meaning_ko": "chew through = 질긴 것을 씹어 넘기다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In the idiom 'chew the cud', what is the figurative meaning?\nA) to celebrate\nB) to repeatedly think about something\nC) to refuse food\nD) to travel far",
+            "a": "B",
+            "meaning_ko": "반추하다 = 반복해서 되새기다."
+          },
+          {
+            "q": "Choose the best option: 'The article asks readers to chew ____ the implications.'\nA) over\nB) above\nC) under\nD) across",
+            "a": "A",
+            "meaning_ko": "chew over는 (특히 영국식) '곱씹다' 표현입니다."
+          },
+          {
+            "q": "Fill in the blank with the most natural word: 'Without water, chewing dry bread can cause ______.'",
+            "a": "choking",
+            "meaning_ko": "마른 빵을 씹다 목이 막히는 상황이므로 choking이 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

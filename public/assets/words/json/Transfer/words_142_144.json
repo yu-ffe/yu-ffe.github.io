@@ -1,0 +1,979 @@
+[
+  {
+    "word": "hefty",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Heavy and difficult to lift or carry; large in size, amount, or impact.",
+        "definition_ko": "들어 올리기 버겁게 무거운; (금액·수치·영향 등이) 꽤 큰.",
+        "note": "물리적 무게뿐 아니라 hefty fine(과태료가 큼)처럼 ‘상당한 규모’ 뉘앙스로 자주 씁니다."
+      },
+      {
+        "definition_en": "Severe or substantial, especially of a penalty, cost, or increase.",
+        "definition_ko": "(벌금·비용·인상폭 등이) 만만치 않게 큰, 상당한.",
+        "note": "부정적 맥락(hefty price tag, hefty sentence)에 특히 자연스럽습니다."
+      }
+    ],
+    "concept": "무게나 규모가 ‘딱 봐도 큼직하고 부담스러운’ 상태를 말합니다.",
+    "etymology": "‘heft(무게, 들어 올리다)’에서 나온 형용사로, ‘무게감이 있다’는 의미가 확장되어 ‘금액/영향이 크다’에도 쓰입니다.",
+    "semanticExtension": "물리적 무거움 → 비용·벌금·인상폭·책임 같은 추상적 ‘부담’으로 의미가 자연스럽게 확장됩니다.",
+    "nuanceRegister": "중립~약간 구어적이며, 기사·리포트에서도 자주 쓰는 일반 어휘입니다. ‘상당히 큰’ 뉘앙스를 강조합니다.",
+    "grammarNotes": "형용사로 명사 앞(hefty bag)·보어 자리(The bill is hefty) 모두 가능. 비교급 heftier, 최상급 heftiest.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "…에 대한(벌금·대가·요금 등)",
+        "example": "a hefty fine for speeding"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "…에 대한(부담/타격이 큼)",
+        "example": "a hefty burden on taxpayers"
+      }
+    ],
+    "requiredComplements": [
+      "hefty + noun (fine / fee / price tag / increase / burden 등) : ‘상당히 큰 ~’",
+      "be hefty : ‘상당히 크다/무겁다’(보어 용법)"
+    ],
+    "morphology": "heft(무게·들어 올리다) + -y(…한 성질의) → ‘무게감 있는/큼직한’.",
+    "derivatives": [
+      {
+        "word": "heft",
+        "meaning_ko": "무게, 중량감; (손으로) 들어 무게를 재다"
+      },
+      {
+        "word": "heftily",
+        "meaning_ko": "무겁게; 상당히(크게)"
+      },
+      {
+        "word": "heftiness",
+        "meaning_ko": "무거움; (규모의) 큼직함"
+      },
+      {
+        "word": "heftier",
+        "meaning_ko": "더 무거운/더 큰(비교급)"
+      }
+    ],
+    "related": [
+      {
+        "word": "substantial",
+        "meaning_ko": "상당한, 실질적인"
+      },
+      {
+        "word": "sizable",
+        "meaning_ko": "꽤 큰"
+      },
+      {
+        "word": "bulky",
+        "meaning_ko": "부피가 큰, 둔중한"
+      },
+      {
+        "word": "steep",
+        "meaning_ko": "(가격·요금이) 가파른, 비싼"
+      },
+      {
+        "word": "weighty",
+        "meaning_ko": "무거운; 중대한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "substantial",
+        "meaning_ko": "상당한"
+      },
+      {
+        "word": "considerable",
+        "meaning_ko": "꽤 많은, 상당한"
+      },
+      {
+        "word": "sizeable",
+        "meaning_ko": "꽤 큰"
+      },
+      {
+        "word": "weighty",
+        "meaning_ko": "무거운; 중대한"
+      },
+      {
+        "word": "stiff",
+        "meaning_ko": "(벌금·요금이) 만만치 않은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "heavy",
+        "meaning_ko": "무거운"
+      },
+      {
+        "word": "big",
+        "meaning_ko": "큰(일반적)"
+      },
+      {
+        "word": "large",
+        "meaning_ko": "큰(규모)"
+      },
+      {
+        "word": "massive",
+        "meaning_ko": "거대한"
+      },
+      {
+        "word": "heaped",
+        "meaning_ko": "수북이 쌓인(맥락 제한)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "light",
+        "meaning_ko": "가벼운"
+      },
+      {
+        "word": "slight",
+        "meaning_ko": "약간의, 미미한"
+      },
+      {
+        "word": "modest",
+        "meaning_ko": "적당한, 과하지 않은"
+      },
+      {
+        "word": "small",
+        "meaning_ko": "작은"
+      },
+      {
+        "word": "negligible",
+        "meaning_ko": "무시할 만한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a hefty bag",
+            "meaning_ko": "큼직하고 무거운 가방"
+          },
+          {
+            "phrase": "a hefty box",
+            "meaning_ko": "묵직한 상자"
+          },
+          {
+            "phrase": "a hefty guy",
+            "meaning_ko": "덩치 큰 사람"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a hefty fine",
+            "meaning_ko": "상당한 벌금"
+          },
+          {
+            "phrase": "a hefty price tag",
+            "meaning_ko": "만만치 않은 가격"
+          },
+          {
+            "phrase": "a hefty increase",
+            "meaning_ko": "큰 폭의 인상"
+          },
+          {
+            "phrase": "a hefty discount",
+            "meaning_ko": "큰 폭의 할인"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a hefty burden on taxpayers",
+            "meaning_ko": "납세자에게 큰 부담"
+          },
+          {
+            "phrase": "a hefty chunk of the budget",
+            "meaning_ko": "예산의 큰 비중"
+          },
+          {
+            "phrase": "a hefty sentence for fraud",
+            "meaning_ko": "사기 혐의에 대한 중형"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "This suitcase is hefty, so lift it with both hands.",
+            "meaning_ko": "이 여행가방은 무거우니 두 손으로 들어요."
+          },
+          {
+            "sentence": "He carried a hefty box up the stairs.",
+            "meaning_ko": "그는 묵직한 상자를 들고 계단을 올라갔어요."
+          },
+          {
+            "sentence": "The dog is hefty for its age.",
+            "meaning_ko": "그 강아지는 나이에 비해 덩치가 큰 편이에요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They were hit with a hefty fine for violating safety rules.",
+            "meaning_ko": "그들은 안전 규정 위반으로 상당한 벌금을 부과받았어요."
+          },
+          {
+            "sentence": "The new phone comes with a hefty price tag.",
+            "meaning_ko": "그 새 휴대폰은 가격이 만만치 않아요."
+          },
+          {
+            "sentence": "A hefty increase in rent is expected next year.",
+            "meaning_ko": "내년에 월세가 크게 오를 것으로 예상돼요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The reform could place a hefty burden on small businesses unless subsidies are expanded.",
+            "meaning_ko": "보조금이 확대되지 않으면 그 개혁은 소상공인에게 큰 부담이 될 수 있어요."
+          },
+          {
+            "sentence": "The project consumed a hefty chunk of the department’s annual budget.",
+            "meaning_ko": "그 프로젝트는 부서 연간 예산의 큰 비중을 소모했어요."
+          },
+          {
+            "sentence": "Courts sometimes impose hefty sentences to deter large-scale financial fraud.",
+            "meaning_ko": "법원은 대규모 금융 사기를 억제하려고 중형을 선고하기도 해요."
+          }
+        ]
+      }
+    ],
+    "studyTips": "hefty는 ‘무거움/큼직함’의 감각이 핵심이라, hefty bag처럼 물리적 예시로 먼저 고정한 뒤 hefty fine, hefty price tag처럼 ‘부담이 큰 규모’로 확장해 외우면 안정적입니다. steep(가격이 비싼)과 자주 비교되는데, steep는 ‘가파르게 비싸다’ 뉘앙스가 더 강하고, hefty는 ‘절대적인 크기/부담’에 초점이 있습니다. 시험에서는 hefty + fine/fee/increase/burden 같은 결합이 자주 나옵니다.",
+    "tags": [
+      "크기",
+      "무게",
+      "비용",
+      "벌금",
+      "정책·경제"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the closest meaning of 'hefty' in: 'a hefty suitcase'.\nA) fragile  B) heavy  C) empty  D) cheap",
+            "a": "B) heavy",
+            "meaning_ko": "물리적으로 ‘무거운’ 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The box is so _____ that I can’t lift it alone.",
+            "a": "hefty",
+            "meaning_ko": "무겁고 묵직하다는 상황."
+          },
+          {
+            "q": "Which sounds most natural?\nA) a hefty apple  B) a hefty fine  C) a hefty whisper  D) a hefty silence",
+            "a": "B) a hefty fine",
+            "meaning_ko": "hefty는 fine/fee/price tag와 매우 자연스럽게 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The company announced a _____ increase in subscription fees.",
+            "a": "hefty",
+            "meaning_ko": "‘큰 폭의 인상’은 hefty increase가 정답."
+          },
+          {
+            "q": "Choose the best paraphrase: 'The bill was hefty.'\nA) The bill was confusing.  B) The bill was expensive.  C) The bill was illegal.  D) The bill was overdue.",
+            "a": "B) The bill was expensive.",
+            "meaning_ko": "금액이 ‘상당히 크다’는 뜻으로 자연스럽습니다."
+          },
+          {
+            "q": "Which collocation is least appropriate?\nA) hefty discount  B) hefty burden  C) hefty fine  D) hefty rumor",
+            "a": "D) hefty rumor",
+            "meaning_ko": "rumor는 보통 hefty보다 rampant/false 같은 수식이 더 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In a policy memo, which sentence best fits a formal tone?\nA) The plan is kinda big on taxpayers.\nB) The plan puts a hefty burden on taxpayers.\nC) The plan is a heavy meme for taxpayers.\nD) The plan is bulky for taxpayers.",
+            "a": "B) The plan puts a hefty burden on taxpayers.",
+            "meaning_ko": "형식적 문맥에서 ‘큰 부담’ 표현으로 적절합니다."
+          },
+          {
+            "q": "Fill in the blank with the best word: The merger required a _____ upfront investment, but it reduced long-term costs.",
+            "a": "hefty",
+            "meaning_ko": "초기 투자금이 ‘상당히 큰’ 맥락."
+          },
+          {
+            "q": "Error correction: 'They were given a hefty penalty for to park illegally.' What should be changed?",
+            "a": "Remove 'to': 'for parking illegally.'",
+            "meaning_ko": "for 뒤에는 동명사 형태가 자연스럽습니다(for + V-ing)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "minority",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The smaller number or part of a group; less than half.",
+        "definition_ko": "소수(집단에서 절반보다 적은 쪽), 소수파.",
+        "note": "a minority of ~, be in a minority 같은 고정 패턴이 매우 중요합니다."
+      },
+      {
+        "definition_en": "A group that is smaller in number or lacks power within a society, often distinguished by ethnicity, religion, or identity.",
+        "definition_ko": "(사회에서 수적으로 적거나 권력이 약한) 소수 집단, 소수자.",
+        "note": "맥락에 따라 민감한 용어가 될 수 있어 ‘minority communities/rights’처럼 중립적 결합이 흔합니다."
+      },
+      {
+        "definition_en": "Relating to the smaller group or to a minority group.",
+        "definition_ko": "소수의; 소수 집단의(형용사 용법).",
+        "note": "예: minority opinion(소수 의견), minority-owned business(소수자 소유 기업)."
+      }
+    ],
+    "concept": "‘전체에서 작은 비중’ 또는 ‘사회적 힘이 상대적으로 약한 집단’을 가리킵니다.",
+    "etymology": "라틴어 minor(더 작은)에서 파생된 minority로, ‘더 작은 부분/집단’이라는 기본 의미가 유지되었습니다.",
+    "semanticExtension": "단순한 수적 ‘소수’에서, 정치·사회 맥락의 ‘소수파/소수자(권력·대표성의 격차)’ 의미로 확장됩니다.",
+    "nuanceRegister": "공식·학술·뉴스에서 흔히 쓰이며 중립적이지만, 정체성/차별 맥락에서는 문맥을 조심해 선택합니다.",
+    "grammarNotes": "명사로 a/the minority, minorities. 형용사로 명사 앞에서만 주로 사용(minority voters). 주요 패턴: a minority of + 복수명사, be in the minority, minority rights.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(주로); 추상적 의미로는 불가산처럼도 쓰임(예: minority status).",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "…의 소수(비중/부분)",
+        "example": "a minority of voters"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "…에서 소수로(처지/입장)",
+        "example": "be in the minority"
+      }
+    ],
+    "requiredComplements": [
+      "a minority of + plural noun : ‘~의 소수’",
+      "be in the minority (in/on something) : ‘(의견·입장 면에서) 소수다’",
+      "minority + noun (rights / communities / shareholders / opinion 등) : ‘소수의/소수자 관련’"
+    ],
+    "morphology": "minor(더 작은) + -ity(상태/성질) → ‘작은 쪽의 상태/비중’.",
+    "derivatives": [
+      {
+        "word": "minor",
+        "meaning_ko": "더 작은; 부차적인; 미성년자"
+      },
+      {
+        "word": "minority-owned",
+        "meaning_ko": "소수자(집단)가 소유한"
+      },
+      {
+        "word": "minoritarian",
+        "meaning_ko": "소수파의; 소수 지배의"
+      },
+      {
+        "word": "minorities",
+        "meaning_ko": "소수 집단들(복수)"
+      }
+    ],
+    "related": [
+      {
+        "word": "majority",
+        "meaning_ko": "다수, 다수파"
+      },
+      {
+        "word": "marginalized",
+        "meaning_ko": "주변화된, 소외된"
+      },
+      {
+        "word": "underrepresented",
+        "meaning_ko": "대표성이 부족한"
+      },
+      {
+        "word": "plurality",
+        "meaning_ko": "최다수(과반은 아닐 수 있음)"
+      },
+      {
+        "word": "equity",
+        "meaning_ko": "공정(형평)·평등의 관점"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "the smaller group",
+        "meaning_ko": "더 작은 집단(설명적 동의)"
+      },
+      {
+        "word": "minor part",
+        "meaning_ko": "소수 부분"
+      },
+      {
+        "word": "minority group",
+        "meaning_ko": "소수 집단"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "few",
+        "meaning_ko": "소수의(형용사)"
+      },
+      {
+        "word": "minor",
+        "meaning_ko": "작은, 부차적인"
+      },
+      {
+        "word": "marginal",
+        "meaning_ko": "미미한; 주변의"
+      },
+      {
+        "word": "limited",
+        "meaning_ko": "제한된"
+      },
+      {
+        "word": "small share",
+        "meaning_ko": "작은 비중(표현)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "majority",
+        "meaning_ko": "다수"
+      },
+      {
+        "word": "mainstream",
+        "meaning_ko": "주류"
+      },
+      {
+        "word": "dominant group",
+        "meaning_ko": "지배적 집단"
+      },
+      {
+        "word": "plurality",
+        "meaning_ko": "최다수(맥락에 따라 반대 개념)"
+      },
+      {
+        "word": "the bulk",
+        "meaning_ko": "대부분"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a small minority",
+            "meaning_ko": "아주 작은 소수"
+          },
+          {
+            "phrase": "the minority group",
+            "meaning_ko": "소수 집단"
+          },
+          {
+            "phrase": "minority opinion",
+            "meaning_ko": "소수 의견"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a minority of voters",
+            "meaning_ko": "유권자의 소수"
+          },
+          {
+            "phrase": "be in the minority",
+            "meaning_ko": "(의견이) 소수이다"
+          },
+          {
+            "phrase": "minority rights",
+            "meaning_ko": "소수자 권리"
+          },
+          {
+            "phrase": "minority shareholders",
+            "meaning_ko": "소액(소수) 주주"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "protect minority communities",
+            "meaning_ko": "소수 공동체를 보호하다"
+          },
+          {
+            "phrase": "address minority underrepresentation",
+            "meaning_ko": "소수 집단의 대표성 부족을 해결하다"
+          },
+          {
+            "phrase": "minority-led coalition government",
+            "meaning_ko": "소수파 주도의 연립 정부"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Only a minority of students chose the early class.",
+            "meaning_ko": "학생들 중 소수만이 이른 수업을 선택했어요."
+          },
+          {
+            "sentence": "She felt like she was in the minority.",
+            "meaning_ko": "그녀는 자신이 소수라고 느꼈어요."
+          },
+          {
+            "sentence": "The minority opinion was recorded in the meeting notes.",
+            "meaning_ko": "회의록에 소수 의견이 기록됐어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "A minority of voters opposed the proposal, but they were very vocal.",
+            "meaning_ko": "유권자의 소수는 그 제안에 반대했지만 목소리가 컸어요."
+          },
+          {
+            "sentence": "Minority shareholders demanded more transparency from the board.",
+            "meaning_ko": "소액 주주들이 이사회에 더 큰 투명성을 요구했어요."
+          },
+          {
+            "sentence": "The bill passed with majority support while the opposition remained in the minority.",
+            "meaning_ko": "그 법안은 다수 지지로 통과됐고, 반대 측은 소수에 머물렀어요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The policy aims to reduce minority underrepresentation in leadership positions through targeted mentoring.",
+            "meaning_ko": "그 정책은 맞춤형 멘토링을 통해 리더십 직책에서 소수 집단의 대표성 부족을 줄이려 합니다."
+          },
+          {
+            "sentence": "In a minority-led coalition, passing legislation often requires careful negotiation across parties.",
+            "meaning_ko": "소수파 주도의 연립에서는 법안 통과에 정당 간 세심한 협상이 자주 필요합니다."
+          },
+          {
+            "sentence": "Courts emphasized that protecting minority rights is essential to maintaining a pluralistic democracy.",
+            "meaning_ko": "법원은 소수자 권리 보호가 다원적 민주주의 유지에 필수적이라고 강조했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "minority는 ‘수적 소수’와 ‘사회적 소수자’ 두 축이 있습니다. 문법 포인트는 a minority of + 복수명사(‘~의 소수’)와 be in the minority(‘소수 입장이다’)를 반드시 덩어리로 외우세요. majority와 세트로 출제되며, 정치·의회 맥락에서는 minority government/party처럼 ‘소수파’ 의미가 자주 나옵니다.",
+    "tags": [
+      "사회",
+      "정치",
+      "통계",
+      "의견",
+      "권리"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'minority'.\nA) the larger part  B) the smaller part  C) the fastest part  D) the newest part",
+            "a": "B) the smaller part",
+            "meaning_ko": "기본 뜻은 ‘소수(더 작은 부분)’입니다."
+          },
+          {
+            "q": "Fill in the blank: Only a _____ of people agreed with me.",
+            "a": "minority",
+            "meaning_ko": "소수만 동의했다는 의미."
+          },
+          {
+            "q": "Which phrase is correct?\nA) a minority of students  B) a minority for students  C) a minority at students  D) a minority by students",
+            "a": "A) a minority of students",
+            "meaning_ko": "a minority of + 복수명사 패턴이 정답."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Complete the sentence: I supported the plan, but I was _____.",
+            "a": "in the minority",
+            "meaning_ko": "be in the minority = ‘소수 입장이다’."
+          },
+          {
+            "q": "Choose the best paraphrase: 'Minority shareholders raised concerns.'\nA) Most shareholders complained.  B) A small group of shareholders complained.  C) No shareholders complained.  D) Only employees complained.",
+            "a": "B) A small group of shareholders complained.",
+            "meaning_ko": "minority shareholders = 소수(소액) 주주."
+          },
+          {
+            "q": "Which collocation fits best in a legal context?\nA) minority snacks  B) minority rights  C) minority weather  D) minority sugar",
+            "a": "B) minority rights",
+            "meaning_ko": "소수자 권리라는 법·사회 용어."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Fill in the blank: The committee noted _____ in leadership and proposed measurable targets.",
+            "a": "minority underrepresentation",
+            "meaning_ko": "대표성 부족(underrepresentation)과 minority의 결합이 정책 문맥에서 자연스럽습니다."
+          },
+          {
+            "q": "Choose the most accurate sentence:\nA) A minority of the people is are here.\nB) A minority of the people are here.\nC) A minority of the people be here.\nD) A minority of the people am here.",
+            "a": "B) A minority of the people are here.",
+            "meaning_ko": "a minority of + 복수 개념이면 복수 동사가 일반적으로 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'They are minority in this debate.' What is the best fix?",
+            "a": "They are in the minority in this debate.",
+            "meaning_ko": "관용적으로 be in the minority를 씁니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cabal",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A small secret group of people who plan and act together, especially in politics.",
+        "definition_ko": "비밀 결사, (특히 정치적) 음모 집단, 파벌.",
+        "note": "‘숨겨진 소수 + 권력/정치적 조작’의 부정적 뉘앙스가 강합니다."
+      }
+    ],
+    "concept": "겉으로 드러나지 않게 권력을 움직이려는 ‘비밀 파벌/음모 집단’입니다.",
+    "etymology": "역사적으로 정치·권력 주변의 ‘비밀 파벌’ 맥락에서 굳어진 단어로, 현대 영어에서는 주로 ‘은밀한 정치 집단’ 의미로 정착했습니다.",
+    "semanticExtension": "초기의 정치적 ‘비밀 모임’ 의미가 유지되며, 오늘날에는 기업·기관 내부의 ‘그들만의 폐쇄적 권력 네트워크’까지 확장해 비판적으로 씁니다.",
+    "nuanceRegister": "문어/기사/정치 담론에서 흔하며, 비난·의심의 뉘앙스가 강합니다(중립적 ‘그룹’보다 훨씬 공격적).",
+    "grammarNotes": "대부분 명사로 사용. 흔한 형태: a cabal of + 복수명사. 동사로 쓰는 경우는 매우 드뭅니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "…로 이루어진 비밀 집단",
+        "example": "a cabal of advisers"
+      },
+      {
+        "prep": "within",
+        "meaning_ko": "… 내부의(조직 안에 존재하는)",
+        "example": "a cabal within the party"
+      }
+    ],
+    "requiredComplements": [
+      "a cabal of + plural noun : ‘~로 구성된 비밀 파벌’",
+      "a cabal within + 조직/집단 : ‘~ 내부의 비밀 파벌’",
+      "form/join a cabal : ‘비밀 파벌을 만들다/가담하다’"
+    ],
+    "morphology": "단어 자체가 고정 어휘로 쓰이며, 현대 영어에서는 ‘secret political clique’ 의미로 덩어리로 익히는 편이 안전합니다.",
+    "derivatives": [
+      {
+        "word": "cabalistic",
+        "meaning_ko": "난해하고 비밀스러운; (문맥상) 신비주의적인"
+      },
+      {
+        "word": "cabal-like",
+        "meaning_ko": "파벌 같은, 음모 집단 같은(형용사적 표현)"
+      }
+    ],
+    "related": [
+      {
+        "word": "clique",
+        "meaning_ko": "파벌, 폐쇄적 무리"
+      },
+      {
+        "word": "faction",
+        "meaning_ko": "파벌(정치·조직 내)"
+      },
+      {
+        "word": "conspiracy",
+        "meaning_ko": "음모"
+      },
+      {
+        "word": "junta",
+        "meaning_ko": "(군사) 정권, 지배 집단"
+      },
+      {
+        "word": "ring",
+        "meaning_ko": "패거리(범죄·부정 맥락)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "clique",
+        "meaning_ko": "폐쇄적 파벌"
+      },
+      {
+        "word": "faction",
+        "meaning_ko": "파벌"
+      },
+      {
+        "word": "conspiratorial group",
+        "meaning_ko": "음모 집단(설명적)"
+      },
+      {
+        "word": "inner circle",
+        "meaning_ko": "핵심 측근 그룹(맥락에 따라)"
+      },
+      {
+        "word": "ring",
+        "meaning_ko": "패거리(부정 맥락)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "group",
+        "meaning_ko": "집단(중립)"
+      },
+      {
+        "word": "network",
+        "meaning_ko": "인맥/네트워크"
+      },
+      {
+        "word": "bloc",
+        "meaning_ko": "블록, 세력"
+      },
+      {
+        "word": "coalition",
+        "meaning_ko": "연합(중립/긍정)"
+      },
+      {
+        "word": "circle",
+        "meaning_ko": "무리, 계"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "public coalition",
+        "meaning_ko": "공개적인 연합"
+      },
+      {
+        "word": "transparent process",
+        "meaning_ko": "투명한 절차"
+      },
+      {
+        "word": "open forum",
+        "meaning_ko": "공개 토론의 장"
+      },
+      {
+        "word": "broad consensus",
+        "meaning_ko": "폭넓은 합의"
+      },
+      {
+        "word": "general membership",
+        "meaning_ko": "일반 구성원(폐쇄적 측근과 대비)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a secret cabal",
+            "meaning_ko": "비밀 파벌"
+          },
+          {
+            "phrase": "a political cabal",
+            "meaning_ko": "정치적 음모 집단"
+          },
+          {
+            "phrase": "a cabal of men",
+            "meaning_ko": "몇몇 남자들의 비밀 집단(문맥주의)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a cabal of advisers",
+            "meaning_ko": "측근 참모들의 비밀 파벌"
+          },
+          {
+            "phrase": "form a cabal",
+            "meaning_ko": "파벌을 결성하다"
+          },
+          {
+            "phrase": "a cabal within the party",
+            "meaning_ko": "당 내부의 비밀 파벌"
+          },
+          {
+            "phrase": "an elite cabal",
+            "meaning_ko": "특권층 파벌"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "allegations of a cabal manipulating appointments",
+            "meaning_ko": "인사를 조작하는 파벌이 있다는 의혹"
+          },
+          {
+            "phrase": "a cabal that operates behind the scenes",
+            "meaning_ko": "배후에서 움직이는 파벌"
+          },
+          {
+            "phrase": "break the influence of an entrenched cabal",
+            "meaning_ko": "뿌리 깊은 파벌의 영향력을 깨다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "People whispered about a secret cabal in the palace.",
+            "meaning_ko": "사람들은 궁전 안의 비밀 파벌에 대해 수군거렸어요."
+          },
+          {
+            "sentence": "He claimed a cabal was controlling the committee.",
+            "meaning_ko": "그는 어떤 파벌이 위원회를 좌지우지한다고 주장했어요."
+          },
+          {
+            "sentence": "The article described an elite cabal of insiders.",
+            "meaning_ko": "그 기사는 내부자들의 특권층 파벌을 묘사했어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "A cabal of advisers pushed the leader toward a risky decision.",
+            "meaning_ko": "측근 참모들의 파벌이 지도자를 위험한 결정으로 몰아갔어요."
+          },
+          {
+            "sentence": "Rumors spread that a cabal within the party was blocking reform.",
+            "meaning_ko": "당 내부 파벌이 개혁을 막고 있다는 소문이 퍼졌어요."
+          },
+          {
+            "sentence": "Investigators looked into whether a cabal had manipulated the bidding process.",
+            "meaning_ko": "조사관들은 파벌이 입찰 절차를 조작했는지 조사했어요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The inquiry found no evidence of a cabal, but it criticized the lack of transparency that fueled the suspicion.",
+            "meaning_ko": "조사 결과 파벌의 증거는 없었지만, 의심을 키운 불투명성을 비판했습니다."
+          },
+          {
+            "sentence": "Opponents accused an entrenched cabal of using patronage networks to control key appointments.",
+            "meaning_ko": "반대파는 뿌리 깊은 파벌이 연고 네트워크로 핵심 인사를 장악한다고 비난했습니다."
+          },
+          {
+            "sentence": "To restore trust, the administration promised to dismantle any cabal that operated behind the scenes.",
+            "meaning_ko": "신뢰 회복을 위해, 정부는 배후에서 움직이는 어떤 파벌도 해체하겠다고 약속했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "cabal은 ‘secret + political clique’로 통째로 기억하는 게 가장 좋습니다. clique/faction은 중립적으로도 쓰이지만, cabal은 ‘은밀하게 조종한다’는 부정적 뉘앙스가 강해 기사/비판 문맥에 잘 맞습니다. 시험에서는 a cabal of + 복수명사, a cabal within + 조직처럼 전치사 패턴이 포인트로 자주 나오니 예문과 함께 외우세요.",
+    "tags": [
+      "정치",
+      "권력",
+      "음모",
+      "조직",
+      "사회"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'cabal'.\nA) a public festival  B) a secret political group  C) a cooking tool  D) a weather report",
+            "a": "B) a secret political group",
+            "meaning_ko": "cabal은 ‘비밀 파벌/음모 집단’입니다."
+          },
+          {
+            "q": "Fill in the blank: The journalist wrote about a _____ of insiders influencing the vote.",
+            "a": "cabal",
+            "meaning_ko": "insiders(내부자) + 비밀 영향력이라는 맥락."
+          },
+          {
+            "q": "Which phrase is most natural?\nA) a cabal of advisers  B) a cabal for advisers  C) a cabal at advisers  D) a cabal by advisers",
+            "a": "A) a cabal of advisers",
+            "meaning_ko": "a cabal of + 복수명사."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the closest synonym to 'cabal' in political writing.\nA) bouquet  B) clique  C) playground  D) pantry",
+            "a": "B) clique",
+            "meaning_ko": "비슷한 뜻이지만 cabal이 더 ‘비밀/조작’ 뉘앙스가 강합니다."
+          },
+          {
+            "q": "Fill in the blank: Rumors of a cabal _____ the party intensified after the leaked messages.",
+            "a": "within",
+            "meaning_ko": "조직 내부를 나타낼 때 within이 자연스럽습니다."
+          },
+          {
+            "q": "Which sentence best captures the negative nuance of 'cabal'?\nA) A cabal organized a charity event.\nB) A cabal secretly manipulated appointments.\nC) A cabal welcomed new members openly.\nD) A cabal published meeting minutes online.",
+            "a": "B) A cabal secretly manipulated appointments.",
+            "meaning_ko": "cabal은 ‘은밀한 조종’과 잘 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Fill in the blank: The report found no cabal, but noted that opaque procedures can _____ conspiracy claims.",
+            "a": "fuel",
+            "meaning_ko": "불투명성이 ‘의혹을 부추기다(fuel)’라는 논리 흐름."
+          },
+          {
+            "q": "Error correction: 'They accused a cabal to manipulate the election.' What is the best fix?",
+            "a": "They accused a cabal of manipulating the election.",
+            "meaning_ko": "accuse A of + V-ing 패턴이 정석입니다."
+          },
+          {
+            "q": "Choose the best rewrite: 'A small group secretly controlled decisions.' (Use 'cabal')",
+            "a": "A cabal secretly controlled the decisions.",
+            "meaning_ko": "secret group을 cabal로 압축해 표현하면 됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

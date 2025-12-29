@@ -1,0 +1,901 @@
+[
+  {
+    "word": "semblance",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "An outward appearance, form, or likeness of something, especially when the reality is different.",
+        "definition_ko": "겉모습, 외관, (실상과 다를 수 있는) ~인 듯한 모습·유사함.",
+        "note": "실제 본질보다 '겉으로 보이는 모양새'에 초점이 있습니다."
+      },
+      {
+        "definition_en": "A small amount or faint trace of something.",
+        "definition_ko": "(아주 조금 남은) 기미, 흔적, 최소한의 정도.",
+        "note": "보통 부정문/수식어와 함께 ‘거의 없다’는 느낌으로 자주 씁니다."
+      },
+      {
+        "definition_en": "A pretense or show intended to give the impression that something exists.",
+        "definition_ko": "(체면·명분을 위한) 겉치레, 형식적인 모양.",
+        "note": "semblance of order/normality처럼 ‘겉으로만 갖춘’ 뉘앙스가 납니다."
+      }
+    ],
+    "concept": "실상과 상관없이 ‘겉으로 보이는 모양’이나 ‘어렴풋한 흔적’을 뜻하는 명사입니다.",
+    "etymology": "중세 프랑스어 semblance(모양, 유사함)에서 왔으며, ‘닮다/비슷해 보이다’의 의미 계열에서 발전했습니다.",
+    "semanticExtension": "‘닮은 외형’에서 출발해, 실제가 비어 있는 ‘겉치레/형식’ 또는 ‘희미한 기미’로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식·문어에서 자주 쓰이며, ‘겉만 그럴듯하다’는 평가가 섞일 때가 많습니다.",
+    "grammarNotes": "대표 패턴은 semblance of + 명사입니다(semblance of order/peace 등). 보통 단수로 쓰이거나, 복수(semblances)로 ‘여러 겉모습’도 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 겉모습/흔적/형식",
+        "example": "a semblance of order"
+      }
+    ],
+    "requiredComplements": [
+      "semblance of + 명사: ~의 겉모습/형식/기미",
+      "maintain/restore a semblance of + 명사: ~의 모양새를 유지/회복하다"
+    ],
+    "morphology": "어근 semble-는 ‘닮다/비슷해 보이다’ 계열과 관련이 있으며, -ance는 ‘상태/성질’을 나타내는 명사형 접미사로 볼 수 있습니다(정확한 분석이 필요하면 별도 확인 권장).",
+    "derivatives": [
+      {
+        "word": "resemble",
+        "meaning_ko": "닮다, 비슷하다"
+      },
+      {
+        "word": "dissemble",
+        "meaning_ko": "감추다, 꾸미다(겉과 다르게 행동하다)"
+      },
+      {
+        "word": "dissemblance",
+        "meaning_ko": "숨김, 위장, 가장"
+      }
+    ],
+    "related": [
+      {
+        "word": "appearance",
+        "meaning_ko": "외관, 겉모습"
+      },
+      {
+        "word": "façade",
+        "meaning_ko": "겉치레, 허울"
+      },
+      {
+        "word": "trace",
+        "meaning_ko": "흔적, 기미"
+      },
+      {
+        "word": "likeness",
+        "meaning_ko": "닮음, 유사함"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "appearance",
+        "meaning_ko": "겉모습"
+      },
+      {
+        "word": "semblance",
+        "meaning_ko": "겉모양(자기참조: 의미 확인용)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "façade",
+        "meaning_ko": "겉치레(속이 비어 있음 강조)"
+      },
+      {
+        "word": "impression",
+        "meaning_ko": "인상(주관적 느낌 강조)"
+      },
+      {
+        "word": "likeness",
+        "meaning_ko": "닮음(실제 유사성 강조)"
+      },
+      {
+        "word": "shadow",
+        "meaning_ko": "그림자/어렴풋한 기미(비유적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reality",
+        "meaning_ko": "현실, 실상"
+      },
+      {
+        "word": "substance",
+        "meaning_ko": "본질, 실체"
+      },
+      {
+        "word": "authenticity",
+        "meaning_ko": "진정성, 진짜임"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a semblance of",
+            "meaning_ko": "~의 기미/모양새"
+          },
+          {
+            "phrase": "keep a semblance",
+            "meaning_ko": "겉모양을 유지하다"
+          },
+          {
+            "phrase": "lose all semblance of",
+            "meaning_ko": "~의 흔적을 완전히 잃다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a semblance of order",
+            "meaning_ko": "질서의 모양새"
+          },
+          {
+            "phrase": "a semblance of normality",
+            "meaning_ko": "정상(상태)인 듯한 모습"
+          },
+          {
+            "phrase": "restore a semblance of calm",
+            "meaning_ko": "차분함의 모양새를 되찾다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "maintain a semblance of legitimacy",
+            "meaning_ko": "정당성의 외피를 유지하다"
+          },
+          {
+            "phrase": "the barest semblance of evidence",
+            "meaning_ko": "증거라고 할 만한 최소한의 흔적"
+          },
+          {
+            "phrase": "strip away the semblance of impartiality",
+            "meaning_ko": "공정한 척하는 외피를 벗겨내다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He tried to keep a semblance of calm.",
+            "meaning_ko": "그는 차분한 척이라도 하려고 애썼습니다."
+          },
+          {
+            "sentence": "There was no semblance of truth in the rumor.",
+            "meaning_ko": "그 소문에는 진실의 흔적이 전혀 없었습니다."
+          },
+          {
+            "sentence": "She returned to work to regain a semblance of routine.",
+            "meaning_ko": "그녀는 일상이라는 모양새를 되찾으려고 다시 일터로 돌아갔습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "After the blackout, the city struggled to restore a semblance of order.",
+            "meaning_ko": "정전 이후 도시는 질서의 모양새를 회복하려 애썼습니다."
+          },
+          {
+            "sentence": "His apology offered only a semblance of remorse.",
+            "meaning_ko": "그의 사과는 후회하는 척하는 모습만 보여 줬습니다."
+          },
+          {
+            "sentence": "The committee’s report gave a semblance of transparency without real disclosure.",
+            "meaning_ko": "위원회 보고서는 실제 공개 없이도 투명한 척하는 인상만 주었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The regime preserved a semblance of democracy through carefully managed elections.",
+            "meaning_ko": "그 정권은 철저히 통제된 선거를 통해 민주주의의 외피를 유지했습니다."
+          },
+          {
+            "sentence": "Under cross-examination, her narrative collapsed, leaving not even a semblance of consistency.",
+            "meaning_ko": "반대신문에서 그녀의 진술은 무너졌고, 일관성의 흔적조차 남지 않았습니다."
+          },
+          {
+            "sentence": "To retain a semblance of credibility, the company commissioned an independent audit and released the methodology.",
+            "meaning_ko": "최소한의 신뢰라도 지키기 위해 회사는 독립 감사를 의뢰하고 방법론을 공개했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "semblance는 ‘겉모양/흔적’이라서 실체가 부족한 상황에서 자주 등장합니다. 특히 semblance of + 명사(semblance of order/normality/calm)를 통째로 덩어리로 외우시면 문장에 바로 붙습니다. ‘trace’가 객관적 흔적이라면, semblance는 ‘겉으로만 그런 척하는 모양새’가 더 강하게 느껴질 때가 많습니다.",
+    "tags": [
+      "겉모습",
+      "형식",
+      "흔적",
+      "문어",
+      "평가적 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best phrase: There was not even a ____ of hope left.",
+            "a": "semblance",
+            "meaning_ko": "‘희망의 흔적’이라는 뜻으로 semblance가 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition most commonly follows 'semblance'? (A) of (B) at (C) for (D) by",
+            "a": "A",
+            "meaning_ko": "대표 패턴은 semblance of + 명사입니다."
+          },
+          {
+            "q": "Closest meaning: 'a semblance of calm' refers to (A) real calm (B) an appearance of calm (C) loud anger (D) total silence",
+            "a": "B",
+            "meaning_ko": "실제보다 ‘차분한 척하는 모습’에 초점이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'semblance of': They had only a little order in the room.",
+            "a": "They had only a semblance of order in the room.",
+            "meaning_ko": "‘질서의 모양새만’이라는 표현으로 바꿉니다."
+          },
+          {
+            "q": "Fill in the blank: The speech created a ____ of unity, but the party remained divided.",
+            "a": "semblance",
+            "meaning_ko": "겉으로만 단합된 듯 보이게 하는 상황입니다."
+          },
+          {
+            "q": "Pick the better choice: The plan lacks any (semblance / substance) of feasibility. (meaning: '실현 가능성의 흔적조차 없다')",
+            "a": "semblance",
+            "meaning_ko": "‘흔적/기미’는 semblance가 적절합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Blank completion: Without procedural safeguards, the review process provides only a ____ of accountability.",
+            "a": "semblance",
+            "meaning_ko": "실질 없는 ‘책임성의 외피’라는 의미입니다."
+          },
+          {
+            "q": "Nuance question: Which word more strongly implies 'a misleading outward show'—'semblance' or 'likeness'?",
+            "a": "semblance",
+            "meaning_ko": "likeness는 실제 유사성을, semblance는 ‘겉치레’ 뉘앙스를 더 자주 냅니다."
+          },
+          {
+            "q": "Paraphrase: 'They maintained a semblance of neutrality' most nearly means they ____.",
+            "a": "appeared neutral even if they were not",
+            "meaning_ko": "실제 중립이 아니라도 ‘중립인 척’했다는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fastidious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Very careful and attentive to detail; demanding that everything be correct and done well.",
+        "definition_ko": "꼼꼼한, 세심한; 사소한 것까지 정확함을 요구하는.",
+        "note": "‘완벽주의에 가깝게 까다롭다’는 뉘앙스가 날 수 있습니다."
+      },
+      {
+        "definition_en": "Hard to please; excessively particular.",
+        "definition_ko": "까다로운, 까탈스러운(만족시키기 어려운).",
+        "note": "사람의 성향/기준이 높은 상황에 자주 씁니다."
+      },
+      {
+        "definition_en": "Concerned with cleanliness and order.",
+        "definition_ko": "청결·정돈에 예민한, 깔끔을 지나치게 신경 쓰는.",
+        "note": "clean/spotless 같은 단어와 함께 나오기 좋습니다."
+      }
+    ],
+    "concept": "세부 사항까지 엄격히 따지는 ‘꼼꼼함/까다로움’을 나타내는 형용사입니다.",
+    "etymology": "라틴어 fastidium(싫증, 혐오, 까다로움)에서 유래해 ‘불만족스러워 쉽게 싫증내는’ 의미가 발전했습니다.",
+    "semanticExtension": "‘마음에 안 들면 싫어하다/질리다’에서, ‘기준이 높아 까다롭다 → 세밀하게 꼼꼼하다’로 의미가 정착했습니다.",
+    "nuanceRegister": "격식·문어/학술적 문맥에서 자주 쓰이며, 긍정(정확·정돈)과 부정(지나친 까다로움) 평가가 모두 가능합니다.",
+    "grammarNotes": "형용사로서 be fastidious about + 명사(세부/청결 등), be fastidious in + 분야(업무/작업) 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 꼼꼼/까다롭다",
+        "example": "fastidious about details"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서/하는 데 꼼꼼하다",
+        "example": "fastidious in her work"
+      }
+    ],
+    "requiredComplements": [
+      "be fastidious about + 명사: ~에 대해 까다롭다/꼼꼼하다",
+      "be fastidious in + 활동/분야: ~에서 꼼꼼하다"
+    ],
+    "morphology": "fastid-는 라틴어 fastidium(싫증/까다로움) 계열과 연관되고, -ous는 ‘~한 성질의’ 형용사 접미사입니다.",
+    "derivatives": [
+      {
+        "word": "fastidiously",
+        "meaning_ko": "꼼꼼하게, 까다롭게"
+      },
+      {
+        "word": "fastidiousness",
+        "meaning_ko": "꼼꼼함, 까다로움"
+      },
+      {
+        "word": "fastidium",
+        "meaning_ko": "싫증, 혐오(문어/학술)"
+      }
+    ],
+    "related": [
+      {
+        "word": "meticulous",
+        "meaning_ko": "매우 꼼꼼한"
+      },
+      {
+        "word": "finicky",
+        "meaning_ko": "사소한 데 까다로운(구어)"
+      },
+      {
+        "word": "punctilious",
+        "meaning_ko": "예절·규칙에 매우 엄격한"
+      },
+      {
+        "word": "spotless",
+        "meaning_ko": "티 하나 없이 깨끗한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "meticulous",
+        "meaning_ko": "세밀하고 꼼꼼한"
+      },
+      {
+        "word": "scrupulous",
+        "meaning_ko": "꼼꼼하고 신중한(양심적 뉘앙스)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "particular",
+        "meaning_ko": "까다로운, 특정한(맥락 의존)"
+      },
+      {
+        "word": "finicky",
+        "meaning_ko": "사소한 것에 민감한(구어)"
+      },
+      {
+        "word": "fussy",
+        "meaning_ko": "까다롭고 성가신(약간 부정적)"
+      },
+      {
+        "word": "neat",
+        "meaning_ko": "정돈된, 깔끔한(강도 약함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "careless",
+        "meaning_ko": "부주의한"
+      },
+      {
+        "word": "sloppy",
+        "meaning_ko": "엉성한, 대충인"
+      },
+      {
+        "word": "indifferent",
+        "meaning_ko": "무관심한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "fastidious about details",
+            "meaning_ko": "세부에 꼼꼼한"
+          },
+          {
+            "phrase": "fastidious about cleanliness",
+            "meaning_ko": "청결에 예민한"
+          },
+          {
+            "phrase": "a fastidious person",
+            "meaning_ko": "까다로운 사람"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "fastidious in his work",
+            "meaning_ko": "일에서 꼼꼼한"
+          },
+          {
+            "phrase": "fastidious standards",
+            "meaning_ko": "엄격한 기준"
+          },
+          {
+            "phrase": "fastidious attention to detail",
+            "meaning_ko": "세부에 대한 꼼꼼한 주의"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "fastidious editorial judgment",
+            "meaning_ko": "까다로운 편집 판단"
+          },
+          {
+            "phrase": "fastidious compliance requirements",
+            "meaning_ko": "세밀하게 지켜야 하는 준수 요건"
+          },
+          {
+            "phrase": "fastidious calibration of parameters",
+            "meaning_ko": "매개변수의 정밀한 조정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She is fastidious about her room.",
+            "meaning_ko": "그녀는 방 정리에 무척 까다롭습니다."
+          },
+          {
+            "sentence": "He’s fastidious about details.",
+            "meaning_ko": "그는 세부 사항에 매우 꼼꼼합니다."
+          },
+          {
+            "sentence": "The chef is fastidious about cleanliness.",
+            "meaning_ko": "그 요리사는 청결에 예민할 정도로 철저합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Our editor is fastidious in checking sources and citations.",
+            "meaning_ko": "우리 편집자는 출처와 인용을 확인하는 데 아주 꼼꼼합니다."
+          },
+          {
+            "sentence": "The client’s fastidious standards slowed the project but improved the final quality.",
+            "meaning_ko": "고객의 까다로운 기준 때문에 일정은 느려졌지만 결과물 품질은 좋아졌습니다."
+          },
+          {
+            "sentence": "He became fastidious about wording after one ambiguous email caused trouble.",
+            "meaning_ko": "모호한 이메일 한 통이 문제를 일으킨 뒤 그는 표현 선택에 까다로워졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Fastidious documentation is essential when regulators may audit your decisions years later.",
+            "meaning_ko": "수년 뒤 규제기관이 판단을 감사할 수 있다면, 꼼꼼한 문서화가 필수입니다."
+          },
+          {
+            "sentence": "Her fastidious approach to experimental controls reduced noise but required substantial time and resources.",
+            "meaning_ko": "실험 통제를 세밀하게 챙긴 그녀의 방식은 잡음을 줄였지만 많은 시간과 자원이 필요했습니다."
+          },
+          {
+            "sentence": "He was so fastidious about symmetry that he redesigned the interface grid multiple times to avoid micro-misalignment.",
+            "meaning_ko": "그는 대칭에 집착할 정도로 꼼꼼해서 미세한 어긋남을 피하려고 UI 그리드를 여러 번 다시 설계했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "fastidious는 ‘meticulous(꼼꼼한)’과 가까우면서도 ‘기준이 높아 까다롭다’는 뉘앙스가 더 잘 납니다. 특히 about(대상: details/cleanliness)와 in(영역: work/checking) 패턴을 같이 익히면 문장 생산이 쉬워집니다. 구어에서는 finicky/fussy가 더 자주 쓰일 수 있지만, 시험·문어에서는 fastidious가 점수 단어로 잘 나옵니다.",
+    "tags": [
+      "꼼꼼함",
+      "까다로움",
+      "성격",
+      "청결",
+      "격식 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: 'fastidious' most nearly means ____.",
+            "a": "very careful and hard to please",
+            "meaning_ko": "‘꼼꼼하고(세부를 따지고) 까다롭다’가 핵심입니다."
+          },
+          {
+            "q": "Fill in the blank: She is fastidious ____ cleanliness. (A) about (B) at (C) for (D) by",
+            "a": "A",
+            "meaning_ko": "fastidious about + 명사가 대표 패턴입니다."
+          },
+          {
+            "q": "Which sentence uses 'fastidious' correctly? (A) He is fastidious and leaves trash everywhere. (B) He is fastidious and checks every detail twice.",
+            "a": "B",
+            "meaning_ko": "fastidious는 세부를 꼼꼼히 챙기는 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'fastidious': He is very meticulous about formatting.",
+            "a": "He is fastidious about formatting.",
+            "meaning_ko": "meticulous를 fastidious로 자연스럽게 바꿉니다."
+          },
+          {
+            "q": "Fill in the blank: The auditor was fastidious ____ verifying each transaction record.",
+            "a": "in",
+            "meaning_ko": "be fastidious in + 동명사/활동(검증하는 데)로 자연스럽습니다."
+          },
+          {
+            "q": "Choose the better word: The report was full of errors because the review was not (fastidious / efficient).",
+            "a": "fastidious",
+            "meaning_ko": "오류가 많았던 이유는 ‘꼼꼼한 검토’가 아니었기 때문입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Nuance question: Which sounds more formal and evaluation-heavy—'fastidious' or 'picky'?",
+            "a": "fastidious",
+            "meaning_ko": "picky는 구어·직설적, fastidious는 문어·평가적입니다."
+          },
+          {
+            "q": "Blank completion: Fastidious control of confounding variables can ____ the validity of causal claims.",
+            "a": "strengthen",
+            "meaning_ko": "fastidious control(철저한 통제) → 인과 주장 타당성 강화 흐름이 자연스럽습니다."
+          },
+          {
+            "q": "Paraphrase: 'a fastidious reader' most nearly means a reader who ____.",
+            "a": "demands accuracy and notices small flaws",
+            "meaning_ko": "작은 결함까지 잡아내며 정확성을 요구한다는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "weary",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Tired, especially after working hard or for a long time.",
+        "definition_ko": "지친, 피곤한(오랜 시간·노력 뒤에).",
+        "note": "단순 tired보다 ‘지치고 기운이 빠진’ 느낌이 강합니다."
+      },
+      {
+        "definition_en": "Bored or impatient because of something that has lasted too long.",
+        "definition_ko": "질린, 싫증난(오래 지속되어 지친).",
+        "note": "be weary of + 명사/동명사 패턴이 매우 흔합니다."
+      },
+      {
+        "definition_en": "To make someone tired or bored; to tire.",
+        "definition_ko": "(사람을) 지치게 하다, 피곤하게 하다; 싫증나게 하다.",
+        "note": "동사로는 문어적이며, 보통 weary someone / weary of 형태로 나타납니다."
+      }
+    ],
+    "concept": "몸·마음이 ‘지쳐서 힘이 빠지거나’ ‘오래 반복되어 싫증난’ 상태를 나타내는 단어입니다.",
+    "etymology": "고대 영어 werig(지친)에서 유래했으며, ‘피곤하다/지치다’의 의미가 오래 유지되어 왔습니다.",
+    "semanticExtension": "육체적 피로에서 출발해, 반복·지속으로 인한 정신적 피로(싫증, 염증)로 자연스럽게 확장되었습니다.",
+    "nuanceRegister": "일상에서도 쓰이지만, 문어에서는 ‘지친 분위기/권태’ 같은 정서 묘사에 자주 등장합니다.",
+    "grammarNotes": "형용사: be weary of + 명사/동명사(…에 질리다), be weary from/with + 원인(…로 지치다). 동사: weary someone(누군가를 지치게 하다).",
+    "transitivity": "형용사·타동사(weary + 목적어) 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~에 질리다/염증나다",
+        "example": "weary of excuses"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~로 인해 지치다",
+        "example": "weary from travel"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~로 지치다(반복/부담)",
+        "example": "weary with worry"
+      }
+    ],
+    "requiredComplements": [
+      "be weary of + 명사/동명사: ~에 질리다/지치다",
+      "be weary from/with + 원인: ~로 지치다",
+      "weary + 사람: ~을 지치게 하다"
+    ],
+    "morphology": "어근 wear-와 철자가 비슷하지만(‘wear’=입다/마모시키다), weary는 별개 계열로 보며, -y는 형용사형(‘~한 상태’)을 만드는 접미사로 이해하면 도움이 됩니다.",
+    "derivatives": [
+      {
+        "word": "weariness",
+        "meaning_ko": "피로, 권태"
+      },
+      {
+        "word": "wearily",
+        "meaning_ko": "지친 듯이"
+      },
+      {
+        "word": "wearisome",
+        "meaning_ko": "지치게 하는, 따분한"
+      }
+    ],
+    "related": [
+      {
+        "word": "tired",
+        "meaning_ko": "피곤한"
+      },
+      {
+        "word": "fatigued",
+        "meaning_ko": "몹시 지친(격식)"
+      },
+      {
+        "word": "jaded",
+        "meaning_ko": "(반복으로) 싫증난, 물린"
+      },
+      {
+        "word": "exhausted",
+        "meaning_ko": "완전히 지친"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "tired",
+        "meaning_ko": "피곤한"
+      },
+      {
+        "word": "fatigued",
+        "meaning_ko": "지친(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "exhausted",
+        "meaning_ko": "완전히 지친(강도 높음)"
+      },
+      {
+        "word": "jaded",
+        "meaning_ko": "지겨워진/염증난(권태 강조)"
+      },
+      {
+        "word": "drained",
+        "meaning_ko": "기운이 빠진(에너지 고갈)"
+      },
+      {
+        "word": "worn out",
+        "meaning_ko": "녹초가 된(구어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rested",
+        "meaning_ko": "푹 쉰"
+      },
+      {
+        "word": "refreshed",
+        "meaning_ko": "상쾌한"
+      },
+      {
+        "word": "energetic",
+        "meaning_ko": "활기찬"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "feel weary",
+            "meaning_ko": "지치다"
+          },
+          {
+            "phrase": "weary eyes",
+            "meaning_ko": "지친 눈"
+          },
+          {
+            "phrase": "be weary of",
+            "meaning_ko": "~에 질리다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "weary from travel",
+            "meaning_ko": "여행으로 지친"
+          },
+          {
+            "phrase": "grow weary",
+            "meaning_ko": "점점 지치다/싫증나다"
+          },
+          {
+            "phrase": "a weary sigh",
+            "meaning_ko": "지친 한숨"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "weary of empty promises",
+            "meaning_ko": "빈 약속에 염증난"
+          },
+          {
+            "phrase": "weary resignation",
+            "meaning_ko": "지친 체념"
+          },
+          {
+            "phrase": "weary the audience with repetition",
+            "meaning_ko": "반복으로 청중을 지치게 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I’m weary after the long day.",
+            "meaning_ko": "긴 하루를 보낸 뒤라 저는 지쳤습니다."
+          },
+          {
+            "sentence": "She looked weary and sat down.",
+            "meaning_ko": "그녀는 지쳐 보였고 앉았습니다."
+          },
+          {
+            "sentence": "I’m weary of waiting.",
+            "meaning_ko": "기다리는 게 이제 지쳤습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "We grew weary of the same argument repeating every week.",
+            "meaning_ko": "우리는 매주 똑같이 반복되는 논쟁에 염증이 났습니다."
+          },
+          {
+            "sentence": "He arrived weary from travel but still tried to smile.",
+            "meaning_ko": "그는 여행으로 지친 채 도착했지만 그래도 웃으려 했습니다."
+          },
+          {
+            "sentence": "The teacher’s patience began to weary after hours of complaints.",
+            "meaning_ko": "몇 시간 동안 불평을 듣고 나자 선생님의 인내심도 지치기 시작했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Citizens weary of corruption demanded institutional reforms rather than symbolic apologies.",
+            "meaning_ko": "부패에 염증난 시민들은 상징적 사과가 아니라 제도 개혁을 요구했습니다."
+          },
+          {
+            "sentence": "The constant reframing of the debate wearied even sympathetic listeners, who wanted concrete proposals.",
+            "meaning_ko": "논쟁을 계속 틀만 바꾸는 행태는 우호적인 청중마저 지치게 했고, 그들은 구체적 제안을 원했습니다."
+          },
+          {
+            "sentence": "Though weary with grief, she spoke with precision, refusing to let emotion distort the facts.",
+            "meaning_ko": "슬픔으로 지쳐 있었지만, 그녀는 감정이 사실을 왜곡하지 않게 하려 정확하게 말했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "weary는 tired보다 ‘지쳐서 기운이 빠진’ 정서가 강하고, be weary of(~에 질리다)로 시험에 자주 나옵니다. from/with는 ‘원인’을 붙여 피로의 이유를 설명할 때 유용합니다(weary from travel, weary with worry). wear(입다/마모시키다)와 철자가 비슷해 헷갈리는데, 의미·품사가 다르므로 ‘weary = 지친 상태’로 따로 묶어 기억하시면 좋습니다.",
+    "tags": [
+      "피로",
+      "권태",
+      "감정",
+      "묘사",
+      "일상/문어"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: I’m ____ of hearing the same excuse.",
+            "a": "weary",
+            "meaning_ko": "be weary of(~에 질리다) 패턴입니다."
+          },
+          {
+            "q": "Choose the closest meaning: 'weary' (adj.) = (A) energetic (B) tired (C) amused (D) wealthy",
+            "a": "B",
+            "meaning_ko": "형용사 weary는 ‘지친’입니다."
+          },
+          {
+            "q": "Which preposition fits best? He was weary ____ travel. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "원인(여행)으로 지칠 때 weary from이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'be weary of': She is tired of the delays.",
+            "a": "She is weary of the delays.",
+            "meaning_ko": "tired of를 weary of로 바꿔 의미를 유지합니다."
+          },
+          {
+            "q": "Fill in the blank: The long meeting ____ everyone, and productivity dropped afterward.",
+            "a": "wearied",
+            "meaning_ko": "동사 weary는 ‘지치게 하다’로 쓸 수 있습니다."
+          },
+          {
+            "q": "Choose the better option: He is weary (with / by) worry.",
+            "a": "with",
+            "meaning_ko": "weary with + 감정/부담 원인이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Blank completion: Voters ____ of polarized rhetoric often respond to candidates who emphasize pragmatic trade-offs.",
+            "a": "weary",
+            "meaning_ko": "‘양극화 수사에 염증난’ 흐름에서 weary of가 적절합니다."
+          },
+          {
+            "q": "Nuance question: Which better captures 'bored by repetition over time'—'weary' or 'exhausted'?",
+            "a": "weary",
+            "meaning_ko": "exhausted는 육체적/총체적 피로, weary는 ‘지치고 싫증’ 뉘앙스가 강합니다."
+          },
+          {
+            "q": "Paraphrase: 'The audience was wearied by the speaker’s digressions' most nearly means the audience ____.",
+            "a": "became tired and impatient because the speaker kept going off-topic",
+            "meaning_ko": "우회(딴길)로 인해 청중이 지치고 짜증이 났다는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,951 @@
+[
+  {
+    "word": "adjacent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "next to or very near something, especially sharing a border or edge",
+        "definition_ko": "어떤 것의 바로 옆에 있는, 인접한(경계·가장자리를 공유하는)",
+        "note": "공간뿐 아니라 시간·주제상 ‘가까운/연관된’ 의미로도 씁니다."
+      },
+      {
+        "definition_en": "near in time, order, or relation; closely connected",
+        "definition_ko": "시간·순서·관계상 가까운, 바로 이어지는",
+        "note": "격식 문맥에서 ‘연속/연관’을 강조할 때 자주 등장합니다."
+      }
+    ],
+    "concept": "‘바로 옆(인접)’을 핵심으로, 경계·거리·연속성을 강조하는 표현",
+    "etymology": "라틴어 ad-('~쪽으로') + iacere('던지다, 놓이다') 계열에서 ‘가까이 놓인’ 의미로 발전했습니다.",
+    "semanticExtension": "물리적 인접에서 출발해, 시간·논리·주제의 ‘인접(바로 이어짐/연관)’으로 확장됩니다.",
+    "nuanceRegister": "중립~격식. 문서/설명문에서 ‘경계가 맞닿음’ 뉘앙스를 정확히 표현할 때 선호됩니다.",
+    "grammarNotes": "보통 서술·한정용법 모두 가능하며, 가장 흔한 패턴은 adjacent to + 명사입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 인접한/바로 옆의",
+        "example": "a room adjacent to the kitchen"
+      }
+    ],
+    "requiredComplements": [
+      "adjacent to + 명사/대명사: ‘~에 인접한’"
+    ],
+    "morphology": "ad-(~쪽으로) + -jacent(‘놓인/누운’의 의미 계열) → ‘가까이 놓인’이라는 이미지로 이해하면 좋습니다.",
+    "derivatives": [
+      {
+        "word": "adjacency",
+        "meaning_ko": "인접, 인접 상태"
+      },
+      {
+        "word": "adjacently",
+        "meaning_ko": "인접하여, 바로 옆에"
+      },
+      {
+        "word": "adjacentness",
+        "meaning_ko": "인접성(드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "border",
+        "meaning_ko": "경계를 이루다, 접하다"
+      },
+      {
+        "word": "neighbor",
+        "meaning_ko": "이웃(이 되다)"
+      },
+      {
+        "word": "proximity",
+        "meaning_ko": "근접, 가까움"
+      },
+      {
+        "word": "vicinity",
+        "meaning_ko": "근처, 주변"
+      },
+      {
+        "word": "connection",
+        "meaning_ko": "연결, 관련"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "adjoining",
+        "meaning_ko": "맞닿은, 바로 옆의"
+      },
+      {
+        "word": "neighboring",
+        "meaning_ko": "이웃한"
+      },
+      {
+        "word": "contiguous",
+        "meaning_ko": "인접한(경계를 공유하는)"
+      },
+      {
+        "word": "next-door",
+        "meaning_ko": "바로 옆집의/옆의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "nearby",
+        "meaning_ko": "근처의"
+      },
+      {
+        "word": "close",
+        "meaning_ko": "가까운"
+      },
+      {
+        "word": "proximate",
+        "meaning_ko": "근접한(격식)"
+      },
+      {
+        "word": "bordering",
+        "meaning_ko": "경계에 접한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "distant",
+        "meaning_ko": "먼"
+      },
+      {
+        "word": "remote",
+        "meaning_ko": "외진, 멀리 떨어진"
+      },
+      {
+        "word": "separate",
+        "meaning_ko": "분리된"
+      },
+      {
+        "word": "faraway",
+        "meaning_ko": "먼 곳의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "adjacent property",
+            "meaning_ko": "인접 부동산/필지"
+          },
+          {
+            "phrase": "adjacent landowners",
+            "meaning_ko": "인접 토지 소유자들"
+          },
+          {
+            "phrase": "adjacent counties",
+            "meaning_ko": "인접한 카운티들(행정구역)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "adjacent building",
+            "meaning_ko": "옆 건물"
+          },
+          {
+            "phrase": "adjacent room",
+            "meaning_ko": "인접한 방"
+          },
+          {
+            "phrase": "adjacent street",
+            "meaning_ko": "옆/인근 거리"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sit adjacent to someone",
+            "meaning_ko": "누군가 옆에 앉다"
+          },
+          {
+            "phrase": "park adjacent to the entrance",
+            "meaning_ko": "입구 옆에 주차하다"
+          },
+          {
+            "phrase": "a shop adjacent to the station",
+            "meaning_ko": "역 옆 가게"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Residents of adjacent properties filed a joint complaint about the construction noise.",
+            "meaning_ko": "인접한 부동산의 주민들이 공사 소음에 대해 공동 민원을 제기했다."
+          },
+          {
+            "sentence": "The report compares two adjacent periods to isolate the impact of the policy change.",
+            "meaning_ko": "그 보고서는 정책 변화의 영향을 분리하기 위해 서로 인접한 두 기간을 비교한다."
+          },
+          {
+            "sentence": "The lab is located in a building adjacent to the hospital, enabling rapid sample transfer.",
+            "meaning_ko": "그 연구실은 병원에 인접한 건물에 있어 검체를 신속히 옮길 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Our office is adjacent to the conference hall.",
+            "meaning_ko": "우리 사무실은 회의장 바로 옆에 있다."
+          },
+          {
+            "sentence": "He lives in an apartment adjacent to mine.",
+            "meaning_ko": "그는 내 집 옆 아파트에 산다."
+          },
+          {
+            "sentence": "The two rooms are adjacent, so you can move between them easily.",
+            "meaning_ko": "두 방이 붙어 있어서 쉽게 오갈 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Sit adjacent to me so you can see the screen.",
+            "meaning_ko": "화면이 보이도록 제 옆에 앉으세요."
+          },
+          {
+            "sentence": "There is a cafe adjacent to the station.",
+            "meaning_ko": "역 옆에 카페가 하나 있어요."
+          },
+          {
+            "sentence": "The bathroom is adjacent to the bedroom.",
+            "meaning_ko": "욕실은 침실 바로 옆에 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "핵심은 ‘맞닿아 있음(경계를 공유함)’입니다. 단순히 ‘가깝다’는 nearby/close와 달리, adjacent는 ‘바로 옆’ 느낌이 강합니다. 시험에서는 adjacent to 패턴이 거의 고정으로 나오므로 전치사까지 세트로 외우는 게 안전합니다.",
+    "tags": [
+      "공간",
+      "거리",
+      "위치",
+      "설명문",
+      "격식 표현"
+    ],
+    "frequency": "상",
+    "difficulty": "3",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The hotel is ___ to the airport.",
+            "a": "adjacent",
+            "meaning_ko": "‘바로 옆에’가 자연스럽기 때문에 adjacent가 정답입니다."
+          },
+          {
+            "q": "Fill in the blank: The library is adjacent ___ the park.",
+            "a": "to",
+            "meaning_ko": "adjacent는 거의 항상 to와 함께 씁니다."
+          },
+          {
+            "q": "Which is closest in meaning to 'adjacent'?",
+            "a": "adjoining",
+            "meaning_ko": "adjoining은 ‘맞닿은/바로 옆의’로 의미가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'adjacent': The two offices are next to each other.",
+            "a": "The two offices are adjacent.",
+            "meaning_ko": "next to each other → adjacent로 간단히 바꿀 수 있습니다."
+          },
+          {
+            "q": "Choose the best option: 'adjacent' most strongly implies (A) a short drive (B) a shared border (C) the same city.",
+            "a": "B",
+            "meaning_ko": "adjacent는 ‘경계를 공유하며 붙어 있음’ 뉘앙스가 강합니다."
+          },
+          {
+            "q": "Fill in the blank: They bought the ___ lot to expand the garden.",
+            "a": "adjacent",
+            "meaning_ko": "‘옆 필지’라는 의미로 adjacent lot이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best phrase for a formal report: 'issues in nearby sectors' → 'issues in ___ sectors'.",
+            "a": "adjacent",
+            "meaning_ko": "정책·산업 분석 문맥에서는 adjacent sectors가 ‘연관·인접 분야’ 뉘앙스를 잘 줍니다."
+          },
+          {
+            "q": "Identify the error: 'The clinic is adjacent with the subway station.'",
+            "a": "with → to",
+            "meaning_ko": "adjacent는 with가 아니라 to를 씁니다."
+          },
+          {
+            "q": "Fill in the blank: The study compared two ___ quarters to control for seasonality.",
+            "a": "adjacent",
+            "meaning_ko": "연속된 분기(인접한 분기)를 뜻해 adjacent quarters가 적절합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "obligatory",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "required by a rule, law, or custom; mandatory",
+        "definition_ko": "규정·법·관습 등에 의해 의무적인, 반드시 해야 하는",
+        "note": "compulsory/mandatory와 매우 가깝지만, 문어·격식에서 자주 쓰입니다."
+      },
+      {
+        "definition_en": "expected as part of a routine; done because it is customary",
+        "definition_ko": "관례상 으레 하는, 빠지기 어려운(형식적인) 의례의",
+        "note": "obligatory smile/joke처럼 ‘형식상’ 뉘앙스로도 씁니다."
+      }
+    ],
+    "concept": "규칙·의무·관례 때문에 ‘선택지가 없는 필수’를 나타내는 형용사",
+    "etymology": "라틴어 obligare(‘묶어 두다, 의무를 지우다’)에서 유래해 ‘의무가 부과된’ 의미로 굳어졌습니다.",
+    "semanticExtension": "법·규정의 의무에서 출발해, 일상에서도 ‘관례상 해야 하는’ 형식적 행위까지 확장됩니다.",
+    "nuanceRegister": "격식/문어 성향이 강합니다. 공지, 규정, 학술·기술 문서에서 자연스럽습니다.",
+    "grammarNotes": "보통 명사 앞에서 ‘의무적인’ 의미로 수식합니다. 패턴은 obligatory for + 명사(대상), 또는 (격식) obligatory on/upon + 대상이 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에게/에 대해 의무적인",
+        "example": "Training is obligatory for new employees."
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~에게 의무로 부과된(격식)",
+        "example": "The duty is obligatory on all members."
+      },
+      {
+        "prep": "upon",
+        "meaning_ko": "~에게 의무로 부과된(격식)",
+        "example": "It is obligatory upon applicants to provide ID."
+      }
+    ],
+    "requiredComplements": [
+      "obligatory for + 명사: ‘~에게/에 대해 의무적인’",
+      "obligatory on/upon + 명사: ‘~에게 의무가 있는’(격식/문어)",
+      "it is obligatory (upon someone) to + 동사원형: ‘(~에게) ~하는 것이 의무이다’"
+    ],
+    "morphology": "oblig- (의무를 지우다/묶다) + -atory(‘~의 성격을 가진’) → ‘의무의 성격을 가진’으로 이해하면 됩니다.",
+    "derivatives": [
+      {
+        "word": "obligation",
+        "meaning_ko": "의무, 책임"
+      },
+      {
+        "word": "obligate",
+        "meaning_ko": "의무를 지우다; 의무적인(격식)"
+      },
+      {
+        "word": "obligatorily",
+        "meaning_ko": "의무적으로"
+      },
+      {
+        "word": "obliging",
+        "meaning_ko": "친절한, 기꺼이 돕는(의무와 직접 동일 의미는 아님)"
+      }
+    ],
+    "related": [
+      {
+        "word": "rule",
+        "meaning_ko": "규칙"
+      },
+      {
+        "word": "requirement",
+        "meaning_ko": "요구 조건"
+      },
+      {
+        "word": "duty",
+        "meaning_ko": "의무"
+      },
+      {
+        "word": "compliance",
+        "meaning_ko": "준수"
+      },
+      {
+        "word": "regulation",
+        "meaning_ko": "규정"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "mandatory",
+        "meaning_ko": "의무적인"
+      },
+      {
+        "word": "compulsory",
+        "meaning_ko": "강제적인, 의무적인"
+      },
+      {
+        "word": "required",
+        "meaning_ko": "필수의"
+      },
+      {
+        "word": "requisite",
+        "meaning_ko": "필수적인(격식)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "necessary",
+        "meaning_ko": "필요한"
+      },
+      {
+        "word": "essential",
+        "meaning_ko": "필수적인"
+      },
+      {
+        "word": "binding",
+        "meaning_ko": "구속력 있는"
+      },
+      {
+        "word": "prescribed",
+        "meaning_ko": "규정된"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "optional",
+        "meaning_ko": "선택적인"
+      },
+      {
+        "word": "voluntary",
+        "meaning_ko": "자발적인"
+      },
+      {
+        "word": "discretionary",
+        "meaning_ko": "재량의"
+      },
+      {
+        "word": "nonmandatory",
+        "meaning_ko": "의무가 아닌(비의무)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "obligatory military service",
+            "meaning_ko": "의무 복무"
+          },
+          {
+            "phrase": "obligatory disclosure",
+            "meaning_ko": "의무적 공시/공개"
+          },
+          {
+            "phrase": "obligatory reporting requirement",
+            "meaning_ko": "의무 보고 요건"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "obligatory attendance",
+            "meaning_ko": "의무 참석"
+          },
+          {
+            "phrase": "obligatory training",
+            "meaning_ko": "필수 교육"
+          },
+          {
+            "phrase": "obligatory subject",
+            "meaning_ko": "필수 과목"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "an obligatory meeting",
+            "meaning_ko": "빠지기 어려운(필수) 회의"
+          },
+          {
+            "phrase": "an obligatory form",
+            "meaning_ko": "반드시 제출해야 하는 서류"
+          },
+          {
+            "phrase": "the obligatory smile",
+            "meaning_ko": "형식상 짓는 미소"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Data breaches must be reported within 72 hours under obligatory disclosure rules.",
+            "meaning_ko": "의무적 공시 규정에 따라 데이터 침해는 72시간 이내에 보고되어야 한다."
+          },
+          {
+            "sentence": "Participation is obligatory for all employees assigned to regulated projects.",
+            "meaning_ko": "규제 대상 프로젝트에 배정된 모든 직원에게 참여는 의무다."
+          },
+          {
+            "sentence": "It is obligatory upon applicants to submit original documents for verification.",
+            "meaning_ko": "지원자는 확인을 위해 원본 서류를 제출할 의무가 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Safety training is obligatory for new staff.",
+            "meaning_ko": "안전 교육은 신입 직원에게 의무입니다."
+          },
+          {
+            "sentence": "Attendance at the briefing is obligatory.",
+            "meaning_ko": "브리핑 참석은 필수입니다."
+          },
+          {
+            "sentence": "The course includes two obligatory modules and one elective.",
+            "meaning_ko": "그 과목은 필수 모듈 두 개와 선택 과목 하나로 구성된다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I made an obligatory phone call to my parents.",
+            "meaning_ko": "부모님께 형식상 전화 한 통 드렸다."
+          },
+          {
+            "sentence": "He gave the obligatory apology and left.",
+            "meaning_ko": "그는 형식적인 사과를 하고 떠났다."
+          },
+          {
+            "sentence": "Wearing a helmet is obligatory here.",
+            "meaning_ko": "여기서는 헬멧 착용이 의무입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "obligatory는 ‘규정/의무로 인해 반드시’의 느낌이라, 단순 필요(necessary)보다 강합니다. 시험에서는 obligatory vs optional(선택) 대비가 자주 나오고, 관용적으로 ‘obligatory + 명사(attendance/training/service)’가 잘 붙습니다. 또한 ‘it is obligatory (upon someone) to V’ 형태를 익혀 두면 문장 완성 문제가 쉬워집니다.",
+    "tags": [
+      "규정",
+      "의무",
+      "법/제도",
+      "학술/문어",
+      "필수"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: Wearing a seat belt is ___ by law.",
+            "a": "obligatory",
+            "meaning_ko": "법에 의해 ‘의무’이므로 obligatory가 적절합니다."
+          },
+          {
+            "q": "Which is the opposite of 'obligatory'?",
+            "a": "optional",
+            "meaning_ko": "obligatory(의무) ↔ optional(선택) 대비는 기본입니다."
+          },
+          {
+            "q": "Fill in the blank: Attendance is obligatory ___ all members.",
+            "a": "for",
+            "meaning_ko": "대상(누구에게 의무인지)을 말할 때 obligatory for가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'obligatory': You must complete the training before starting work.",
+            "a": "The training is obligatory before starting work.",
+            "meaning_ko": "must(의무)를 ‘obligatory’로 형용사화해 표현할 수 있습니다."
+          },
+          {
+            "q": "Choose the best collocation: ___ attendance (A) obligatory (B) adjacent (C) languish",
+            "a": "obligatory",
+            "meaning_ko": "attendance와 가장 잘 붙는 것은 obligatory입니다."
+          },
+          {
+            "q": "Fill in the blank: It is obligatory ___ employees to report conflicts of interest.",
+            "a": "for",
+            "meaning_ko": "일반적으로 for가 가장 무난하며, on/upon은 더 격식적입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Identify the best formal option: 'You have to submit ID.' → 'It is obligatory upon applicants to ___ ID.'",
+            "a": "provide",
+            "meaning_ko": "obligatory upon + to V 형태에서 provide(제공하다)가 가장 자연스럽습니다."
+          },
+          {
+            "q": "Choose the most precise meaning in this sentence: 'He offered an obligatory smile.'",
+            "a": "a polite but routine smile expected by custom",
+            "meaning_ko": "규정이 아니라 ‘관례상 형식적으로’ 짓는 미소를 뜻합니다."
+          },
+          {
+            "q": "Correct the error: 'Participation is obligatory to all members.'",
+            "a": "to → for",
+            "meaning_ko": "대상에게 ‘의무’임을 말할 때는 보통 obligatory for를 씁니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "languish",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "to become weak or lose vitality, especially through neglect or lack of support",
+        "definition_ko": "쇠약해지다, 기운을 잃고 시들다(방치·지원 부족 등으로)",
+        "note": "상태가 ‘점점 나빠지는’ 느린 하강을 강조합니다."
+      },
+      {
+        "definition_en": "to remain in an unpleasant situation for a long time, suffering or being ignored",
+        "definition_ko": "오랫동안 고통스러운 처지에 놓여 지내다(감옥·빈곤·무명 등에서)",
+        "note": "languish in prison/obscurity처럼 in과 자주 결합합니다."
+      },
+      {
+        "definition_en": "to yearn for something; to pine",
+        "definition_ko": "갈망하다, 애타게 그리워하다",
+        "note": "languish for + 명사로 ‘~을 몹시 원하다’ 의미가 됩니다."
+      }
+    ],
+    "concept": "힘·기회·관심이 부족해 ‘오래도록 시들고 처지는 상태’를 그리는 동사",
+    "etymology": "라틴어 languere(‘나른하다, 기운이 없다’)에서 왔고, ‘기력이 떨어져 지속적으로 시드는’ 의미로 발전했습니다.",
+    "semanticExtension": "신체적 쇠약(시듦)에서 출발해, 사회적 처지(감옥·무명·침체)와 정서적 갈망(그리움)까지 확장됩니다.",
+    "nuanceRegister": "문어/격식 및 문학적 뉘앙스가 있습니다. ‘천천히 쇠퇴’하는 분위기를 살릴 때 효과적입니다.",
+    "grammarNotes": "주로 자동사로 쓰며, languish in/under(처지·압박), languish for(갈망) 패턴이 핵심입니다.",
+    "transitivity": "자동사(주로)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(감옥·무명·빈곤 등) 시들다/고통받다",
+        "example": "languish in prison"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 갈망하다/애타게 바라다",
+        "example": "languish for recognition"
+      },
+      {
+        "prep": "under",
+        "meaning_ko": "~ 아래에서(압박·제재 등으로) 침체되다",
+        "example": "languish under sanctions"
+      }
+    ],
+    "requiredComplements": [
+      "languish in + 장소/상태: ‘~에서 오랫동안 고통받다/시들다’",
+      "languish for + 명사: ‘~을 갈망하다’",
+      "languish under + 압박/조건: ‘~ 때문에 침체되다’"
+    ],
+    "morphology": "어근 langu-(나른함/기력 없음) + -ish(동사형)로 이해하면 ‘기운이 빠져 늘어지다’ 이미지가 잡힙니다.",
+    "derivatives": [
+      {
+        "word": "languor",
+        "meaning_ko": "무기력, 나른함"
+      },
+      {
+        "word": "languid",
+        "meaning_ko": "나른한, 기운 없는"
+      },
+      {
+        "word": "languidly",
+        "meaning_ko": "나른하게"
+      },
+      {
+        "word": "languishing",
+        "meaning_ko": "시들어 가는, 침체된"
+      }
+    ],
+    "related": [
+      {
+        "word": "wither",
+        "meaning_ko": "시들다, 쇠약해지다"
+      },
+      {
+        "word": "decline",
+        "meaning_ko": "감소하다, 쇠퇴하다"
+      },
+      {
+        "word": "stagnate",
+        "meaning_ko": "정체되다"
+      },
+      {
+        "word": "pine",
+        "meaning_ko": "그리워하다, 시름시름 앓다"
+      },
+      {
+        "word": "yearn",
+        "meaning_ko": "갈망하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "wither",
+        "meaning_ko": "시들다"
+      },
+      {
+        "word": "waste away",
+        "meaning_ko": "야위어 가다, 쇠약해지다"
+      },
+      {
+        "word": "pine",
+        "meaning_ko": "그리워하다/시름시름 앓다"
+      },
+      {
+        "word": "decline",
+        "meaning_ko": "쇠퇴하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "droop",
+        "meaning_ko": "축 처지다"
+      },
+      {
+        "word": "weaken",
+        "meaning_ko": "약해지다"
+      },
+      {
+        "word": "falter",
+        "meaning_ko": "휘청거리다, 약해지다"
+      },
+      {
+        "word": "stagnate",
+        "meaning_ko": "정체되다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "flourish",
+        "meaning_ko": "번성하다"
+      },
+      {
+        "word": "thrive",
+        "meaning_ko": "번창하다"
+      },
+      {
+        "word": "prosper",
+        "meaning_ko": "번영하다"
+      },
+      {
+        "word": "bloom",
+        "meaning_ko": "꽃피다, 활기를 띠다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "languish in obscurity",
+            "meaning_ko": "무명 속에 묻혀 지내다"
+          },
+          {
+            "phrase": "languish under sanctions",
+            "meaning_ko": "제재 아래에서 침체되다"
+          },
+          {
+            "phrase": "languish in bureaucratic limbo",
+            "meaning_ko": "행정적 공백 상태에 오래 방치되다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "languish in prison",
+            "meaning_ko": "감옥에서 오래 고통받다"
+          },
+          {
+            "phrase": "languish for years",
+            "meaning_ko": "여러 해 동안 침체되다/방치되다"
+          },
+          {
+            "phrase": "languish without funding",
+            "meaning_ko": "자금 부족으로 시들해지다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "languish in bed",
+            "meaning_ko": "침대에 누워 기운 없이 지내다"
+          },
+          {
+            "phrase": "languish for attention",
+            "meaning_ko": "관심을 갈망하다"
+          },
+          {
+            "phrase": "languish in the heat",
+            "meaning_ko": "더위에 지치다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "After the initial hype faded, the project languished in bureaucratic limbo for months.",
+            "meaning_ko": "초기 과열이 가라앉자 그 프로젝트는 몇 달 동안 행정적 공백 상태에 방치됐다."
+          },
+          {
+            "sentence": "Small publishers often languish under distribution bottlenecks despite strong reviews.",
+            "meaning_ko": "소규모 출판사는 호평에도 불구하고 유통 병목 때문에 침체되는 경우가 많다."
+          },
+          {
+            "sentence": "He refused to let the idea languish, steadily gathering allies and resources.",
+            "meaning_ko": "그는 그 아이디어가 시들게 두지 않고 동료와 자원을 꾸준히 모았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company languished for years before a new CEO turned it around.",
+            "meaning_ko": "그 회사는 새 CEO가 반등시키기 전까지 수년간 침체했다."
+          },
+          {
+            "sentence": "The manuscript languished on my desk until the deadline forced me to finish it.",
+            "meaning_ko": "그 원고는 마감이 나를 몰아붙일 때까지 책상 위에서 방치돼 있었다."
+          },
+          {
+            "sentence": "Many prisoners languish in overcrowded cells without proper medical care.",
+            "meaning_ko": "많은 수감자들이 적절한 의료 없이 과밀 수용실에서 고통받는다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The flowers will languish if you forget to water them.",
+            "meaning_ko": "물을 잊으면 꽃이 시들어요."
+          },
+          {
+            "sentence": "I languished in bed all day with a fever.",
+            "meaning_ko": "열이 나서 하루 종일 침대에서 기운 없이 누워 있었다."
+          },
+          {
+            "sentence": "She languished for praise but didn’t say it aloud.",
+            "meaning_ko": "그녀는 칭찬을 몹시 바랐지만 겉으로는 말하지 않았다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "languish는 ‘갑자기 망하다’가 아니라 ‘서서히 기운이 빠져 오래 처지다’가 핵심입니다. 전치사 패턴이 점수 포인트인데, in(처지/장소), under(압박/제재), for(갈망)로 의미가 갈립니다. wither(식물이 시들다)·decline(일반적 쇠퇴)·pine(그리워하다)와 비교해 문맥에 맞게 고르는 연습을 하세요.",
+    "tags": [
+      "침체",
+      "쇠퇴",
+      "감옥/억압",
+      "문어",
+      "감정(갈망)"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The plants will ___ without sunlight.",
+            "a": "languish",
+            "meaning_ko": "햇빛이 없으면 ‘시들어 기운을 잃다’는 의미로 languish가 맞습니다."
+          },
+          {
+            "q": "Fill in the blank: He languished ___ bed all weekend.",
+            "a": "in",
+            "meaning_ko": "bed 같은 장소/상태에는 in이 자연스럽습니다."
+          },
+          {
+            "q": "Which is closest in meaning to 'languish' in this context: 'The project languished for months.'",
+            "a": "stagnate",
+            "meaning_ko": "성과 없이 정체·침체되다(stagnate)가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The singer’s early albums languished in ___ for years.",
+            "a": "obscurity",
+            "meaning_ko": "languish in obscurity는 대표적인 결합입니다."
+          },
+          {
+            "q": "Choose the best preposition: She languished ___ recognition for years. (in / for / to)",
+            "a": "for",
+            "meaning_ko": "갈망 의미는 languish for + 명사입니다."
+          },
+          {
+            "q": "Rewrite using 'languish': The proposal was ignored and made no progress for months.",
+            "a": "The proposal languished for months.",
+            "meaning_ko": "‘무시되어 진전이 없다’는 상황을 languish로 압축할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best meaning: 'The economy languished under sanctions.'",
+            "a": "It remained weak and inactive because of restrictions.",
+            "meaning_ko": "제재라는 압박 조건 때문에 ‘침체되다’ 의미입니다."
+          },
+          {
+            "q": "Identify the best correction: 'The idea languished on the approval.'",
+            "a": "The idea languished awaiting approval.",
+            "meaning_ko": "전치사 선택이 어색하므로 ‘승인을 기다리며 방치되다’로 자연스럽게 고칩니다."
+          },
+          {
+            "q": "Choose the closest synonym for 'languish' in 'He languished in prison.'",
+            "a": "suffer",
+            "meaning_ko": "감옥에서 오랫동안 고통받다 의미로 suffer가 가장 가깝습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

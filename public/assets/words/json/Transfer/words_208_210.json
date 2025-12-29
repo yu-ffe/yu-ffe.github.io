@@ -1,0 +1,983 @@
+[
+  {
+    "word": "scoff",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To speak or react with scornful laughter; to mock or deride.",
+        "definition_ko": "비웃다, 조롱하다; 경멸하는 웃음이나 말로 깎아내리다.",
+        "note": "대상 앞에 보통 전치사 at가 자주 옵니다(scoff at ~)."
+      },
+      {
+        "definition_en": "A scornful remark or laugh; an act of mocking.",
+        "definition_ko": "비웃음, 조롱; 비꼬는 말이나 웃음.",
+        "note": "명사로는 비교적 문어/기사체에서도 자주 보입니다."
+      }
+    ],
+    "concept": "상대나 아이디어를 ‘가치 없다’는 태도로 비웃어 내리는 행위/표현.",
+    "etymology": "자세한 어원 정보 없음(중세 영어에서 ‘조롱하다’ 의미로 굳어짐).",
+    "semanticExtension": "사람뿐 아니라 계획·정책·제안 같은 ‘아이디어’ 자체를 비웃는 비유적 용법이 매우 흔합니다.",
+    "nuanceRegister": "중립~다소 강한 부정 뉘앙스. 일상회화에도 쓰이지만 문어에서도 빈번하며, 경멸·조롱의 톤이 분명합니다.",
+    "grammarNotes": "scoff at + 명사/동명사 패턴이 핵심. 과거/과거분사 scoffed, 현재분사 scoffing.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사 용법), 동사 용법은 해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~을 비웃다/조롱하다(대상 지시)",
+        "example": "scoff at the proposal"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 비웃으며 말하다(주제)",
+        "example": "scoff about his worries"
+      }
+    ],
+    "requiredComplements": [
+      "scoff at + 명사/동명사: ~을 비웃다/조롱하다",
+      "scoff + that + S V(비교적 문어): ~라고 비웃으며 말하다"
+    ],
+    "morphology": "어근 단위로 분해해 의미를 추정하기 어려운 단어로, 형태론적 분석은 제한적입니다.",
+    "derivatives": [
+      {
+        "word": "scoffing",
+        "meaning_ko": "비웃는, 조롱하는(동명사/현재분사)"
+      },
+      {
+        "word": "scoffer",
+        "meaning_ko": "조롱하는 사람, 비웃는 사람"
+      },
+      {
+        "word": "scofflaw",
+        "meaning_ko": "법을 우습게 여기는 사람(비격식·미국식)"
+      },
+      {
+        "word": "scoffingly",
+        "meaning_ko": "비웃으며, 조롱하듯이"
+      }
+    ],
+    "related": [
+      {
+        "word": "scorn",
+        "meaning_ko": "경멸(하다)"
+      },
+      {
+        "word": "ridicule",
+        "meaning_ko": "조롱(하다)"
+      },
+      {
+        "word": "derision",
+        "meaning_ko": "조소, 조롱"
+      },
+      {
+        "word": "mockery",
+        "meaning_ko": "놀림, 조롱"
+      },
+      {
+        "word": "contempt",
+        "meaning_ko": "경멸"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "mock",
+        "meaning_ko": "조롱하다"
+      },
+      {
+        "word": "deride",
+        "meaning_ko": "조롱하다"
+      },
+      {
+        "word": "jeer",
+        "meaning_ko": "야유하다"
+      },
+      {
+        "word": "ridicule",
+        "meaning_ko": "비웃다"
+      },
+      {
+        "word": "taunt",
+        "meaning_ko": "놀리다, 조롱하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "snicker",
+        "meaning_ko": "낄낄 웃다(더 약한 조롱)"
+      },
+      {
+        "word": "smirk",
+        "meaning_ko": "비웃는 듯 씩 웃다"
+      },
+      {
+        "word": "dismiss",
+        "meaning_ko": "대수롭지 않게 치부하다"
+      },
+      {
+        "word": "sneer",
+        "meaning_ko": "코웃음 치다(표정 중심)"
+      },
+      {
+        "word": "belittle",
+        "meaning_ko": "하찮게 여기다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "respect",
+        "meaning_ko": "존중하다"
+      },
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      },
+      {
+        "word": "admire",
+        "meaning_ko": "감탄하다"
+      },
+      {
+        "word": "endorse",
+        "meaning_ko": "지지하다"
+      },
+      {
+        "word": "take seriously",
+        "meaning_ko": "진지하게 받아들이다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "scoff at someone",
+            "meaning_ko": "누군가를 비웃다"
+          },
+          {
+            "phrase": "a scoff and a shrug",
+            "meaning_ko": "비웃음과 어깨 으쓱임"
+          },
+          {
+            "phrase": "meet with scoffs",
+            "meaning_ko": "비웃음을 사다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "scoff at the idea",
+            "meaning_ko": "그 생각을 비웃다"
+          },
+          {
+            "phrase": "scoff openly",
+            "meaning_ko": "공공연히 조롱하다"
+          },
+          {
+            "phrase": "scoff at criticism",
+            "meaning_ko": "비판을 대수롭지 않게 비웃다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "scoff at the very notion of reform",
+            "meaning_ko": "개혁이라는 발상 자체를 비웃다"
+          },
+          {
+            "phrase": "dismiss and scoff at legitimate concerns",
+            "meaning_ko": "정당한 우려를 일축하고 조롱하다"
+          },
+          {
+            "phrase": "scoff at empirical evidence",
+            "meaning_ko": "경험적 근거를 비웃다(근거 경시)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He scoffed at my new haircut.",
+            "meaning_ko": "그는 내 새 헤어스타일을 비웃었다."
+          },
+          {
+            "sentence": "She gave a scoff and walked away.",
+            "meaning_ko": "그녀는 코웃음을 치고 돌아섰다."
+          },
+          {
+            "sentence": "Don't scoff; just listen first.",
+            "meaning_ko": "비웃지 말고, 일단 먼저 들어봐."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They scoffed at the plan until it started working.",
+            "meaning_ko": "그들은 그 계획이 효과를 보이기 전까지 비웃었다."
+          },
+          {
+            "sentence": "The proposal was met with scoffs from senior staff.",
+            "meaning_ko": "그 제안은 고위 직원들의 비웃음을 샀다."
+          },
+          {
+            "sentence": "He scoffed at the warning, but later regretted it.",
+            "meaning_ko": "그는 경고를 비웃었지만 나중에 후회했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "It is easy to scoff at optimism, yet harder to replace it with a workable alternative.",
+            "meaning_ko": "낙관을 비웃기는 쉽지만, 그것을 대체할 실현 가능한 대안을 내놓기는 더 어렵다."
+          },
+          {
+            "sentence": "When experts scoff at emerging risks, they may blind institutions to early signals.",
+            "meaning_ko": "전문가들이 새롭게 떠오르는 위험을 비웃으면, 기관이 초기 신호를 놓칠 수 있다."
+          },
+          {
+            "sentence": "The columnist scoffed at the narrative not because it was false, but because it was inconvenient.",
+            "meaning_ko": "그 칼럼니스트는 그것이 거짓이라서가 아니라 불편하다는 이유로 그 서사를 조롱했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "scoff는 ‘웃으며 깎아내리다’가 핵심이라 단순한 disagree보다 훨씬 공격적입니다. 시험에서는 scoff at ~ 패턴이 자주 빈칸으로 나오며, sneer(표정 중심), mock(행동/말 전반), dismiss(일축)와 구분해 두면 좋습니다.",
+    "tags": [
+      "비웃음",
+      "조롱",
+      "감정표현",
+      "대화",
+      "비판"
+    ],
+    "frequency": "중",
+    "difficulty": "5",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: She ____ at his apology and refused to talk.",
+            "a": "scoffed",
+            "meaning_ko": "사과를 ‘비웃다’의 의미가 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition most commonly follows 'scoff' when naming the target? (A) at (B) on (C) for (D) by",
+            "a": "A",
+            "meaning_ko": "scoff at + 대상이 대표 패턴입니다."
+          },
+          {
+            "q": "Choose the closest meaning: 'to scoff' = (A) to applaud (B) to mock (C) to accept (D) to assist",
+            "a": "B",
+            "meaning_ko": "scoff는 조롱하다/비웃다입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'scoff at': They laughed at the suggestion in a contemptuous way.",
+            "a": "They scoffed at the suggestion.",
+            "meaning_ko": "경멸 섞인 비웃음이므로 scoff at이 적합합니다."
+          },
+          {
+            "q": "Error correction: He scoffed to the idea that remote work could succeed.",
+            "a": "He scoffed at the idea that remote work could succeed.",
+            "meaning_ko": "대상을 가리킬 때 scoff at을 씁니다."
+          },
+          {
+            "q": "Choose the best option: The CEO didn't deny the criticism; he simply ____ it in public.",
+            "a": "scoffed at",
+            "meaning_ko": "공개적으로 비웃으며 일축한다는 흐름에 맞습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Blank completion: Policymakers who ____ empirical findings often repeat avoidable mistakes.",
+            "a": "scoff at",
+            "meaning_ko": "근거를 ‘비웃다/경시하다’는 논리적 연결이 됩니다."
+          },
+          {
+            "q": "Nuance question: Which is more openly contemptuous, 'dismiss' or 'scoff'?",
+            "a": "scoff",
+            "meaning_ko": "dismiss는 차갑게 일축, scoff는 조롱/비웃음이 드러납니다."
+          },
+          {
+            "q": "Paraphrase: 'He scoffed at her concerns' most nearly means he ____.",
+            "a": "treated her concerns as ridiculous",
+            "meaning_ko": "우려를 우스꽝스럽게 여기며 무시했다는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "impassive",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Showing no sign of emotion; not reacting visibly.",
+        "definition_ko": "무표정한, 감정을 드러내지 않는; 겉으로 반응이 없는.",
+        "note": "차분함과는 다릅니다. ‘감정 표현이 거의 없음’에 초점이 있습니다."
+      },
+      {
+        "definition_en": "Not easily affected or moved (by feelings or events).",
+        "definition_ko": "쉽게 흔들리지 않는, 감정적으로 동요하지 않는.",
+        "note": "문어적·서술적 문맥에서 인물 묘사에 자주 씁니다."
+      }
+    ],
+    "concept": "감정이 있어도 겉으로 드러나지 않아 ‘표정/반응이 읽히지 않는’ 상태.",
+    "etymology": "라틴어 passio(감정·고통)와 부정 접두 요소가 결합한 계열에서 ‘감정의 영향이 없는’ 의미로 형성된 어휘입니다.",
+    "semanticExtension": "사람의 ‘얼굴’뿐 아니라 태도·목소리·문체를 impassive라고 하여, 감정 배제가 느껴지는 표현으로 확장됩니다.",
+    "nuanceRegister": "문어/서술체에서 특히 자연스럽고, 일상회화에서도 가능하지만 다소 격식 있는 느낌이 있습니다.",
+    "grammarNotes": "보어로 often 'remain/appear/seem impassive' 형태가 흔합니다. 명사로는 impassivity(무감정/무표정)가 대응합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 대해 무표정/무반응한",
+        "example": "impassive to provocation"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(상황/표현) 무표정한",
+        "example": "impassive in the face of pressure"
+      }
+    ],
+    "requiredComplements": [
+      "remain/keep + impassive: 무표정한 상태를 유지하다",
+      "impassive in the face of + 명사: ~에도 흔들림 없이 무표정하다"
+    ],
+    "morphology": "im-(부정) + passive(영향받는) 계열로 이해하면 ‘영향받지 않는/감정이 드러나지 않는’ 뜻을 기억하기 쉽습니다.",
+    "derivatives": [
+      {
+        "word": "impassivity",
+        "meaning_ko": "무감정함, 무표정함"
+      },
+      {
+        "word": "impassively",
+        "meaning_ko": "무표정하게, 무감정하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "stoic",
+        "meaning_ko": "고통을 묵묵히 견디는, 금욕적인"
+      },
+      {
+        "word": "composed",
+        "meaning_ko": "침착한"
+      },
+      {
+        "word": "unmoved",
+        "meaning_ko": "동요하지 않는"
+      },
+      {
+        "word": "detached",
+        "meaning_ko": "초연한, 거리를 둔"
+      },
+      {
+        "word": "emotionless",
+        "meaning_ko": "감정 없는 듯한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "expressionless",
+        "meaning_ko": "무표정한"
+      },
+      {
+        "word": "unflinching",
+        "meaning_ko": "움찔하지 않는"
+      },
+      {
+        "word": "unemotional",
+        "meaning_ko": "감정을 드러내지 않는"
+      },
+      {
+        "word": "stolid",
+        "meaning_ko": "무덤덤한, 둔감한"
+      },
+      {
+        "word": "phlegmatic",
+        "meaning_ko": "침착하고 냉정한(기질)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "calm",
+        "meaning_ko": "차분한(반드시 무표정은 아님)"
+      },
+      {
+        "word": "reserved",
+        "meaning_ko": "표현을 아끼는, 과묵한"
+      },
+      {
+        "word": "cool",
+        "meaning_ko": "냉정한(구어)"
+      },
+      {
+        "word": "apathetic",
+        "meaning_ko": "무관심한(의욕 결핍)"
+      },
+      {
+        "word": "neutral",
+        "meaning_ko": "중립적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "emotional",
+        "meaning_ko": "감정적인"
+      },
+      {
+        "word": "expressive",
+        "meaning_ko": "표현이 풍부한"
+      },
+      {
+        "word": "animated",
+        "meaning_ko": "생기 있는"
+      },
+      {
+        "word": "agitated",
+        "meaning_ko": "동요한"
+      },
+      {
+        "word": "tearful",
+        "meaning_ko": "눈물이 고인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "an impassive face",
+            "meaning_ko": "무표정한 얼굴"
+          },
+          {
+            "phrase": "remain impassive",
+            "meaning_ko": "무표정을 유지하다"
+          },
+          {
+            "phrase": "impassive expression",
+            "meaning_ko": "무표정한 표정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "seem impassive",
+            "meaning_ko": "무감정해 보이다"
+          },
+          {
+            "phrase": "an impassive stare",
+            "meaning_ko": "무표정한 응시"
+          },
+          {
+            "phrase": "impassive demeanor",
+            "meaning_ko": "무덤덤한 태도"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "impassive in the face of provocation",
+            "meaning_ko": "도발에도 무표정한"
+          },
+          {
+            "phrase": "maintain an impassive tone throughout the testimony",
+            "meaning_ko": "진술 내내 무표정한 톤을 유지하다"
+          },
+          {
+            "phrase": "an impassive mask that conceals anxiety",
+            "meaning_ko": "불안을 숨기는 무표정한 가면"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He stayed impassive during the whole meeting.",
+            "meaning_ko": "그는 회의 내내 무표정했다."
+          },
+          {
+            "sentence": "Her impassive face gave nothing away.",
+            "meaning_ko": "그녀의 무표정한 얼굴은 아무것도 드러내지 않았다."
+          },
+          {
+            "sentence": "Try to look impassive for the photo.",
+            "meaning_ko": "사진에서는 무표정하게 보이도록 해봐."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The judge listened with an impassive expression.",
+            "meaning_ko": "판사는 무표정한 표정으로 들었다."
+          },
+          {
+            "sentence": "Despite the joke, she remained impassive and took notes.",
+            "meaning_ko": "농담에도 그녀는 무표정을 유지하며 메모했다."
+          },
+          {
+            "sentence": "His impassive tone made the apology sound insincere.",
+            "meaning_ko": "그의 무덤덤한 톤 때문에 사과가 성의 없어 보였다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "An impassive exterior can be a learned strategy for navigating high-stakes negotiations.",
+            "meaning_ko": "무표정한 겉모습은 고위험 협상을 헤쳐 나가기 위한 학습된 전략일 수 있다."
+          },
+          {
+            "sentence": "She kept an impassive mask, even as the room’s hostility grew louder.",
+            "meaning_ko": "방 안의 적대감이 커져 가는데도 그녀는 무표정한 가면을 유지했다."
+          },
+          {
+            "sentence": "The memoir portrays him as impassive, yet the subtext suggests a tightly controlled fear.",
+            "meaning_ko": "회고록은 그를 무감정한 인물로 그리지만, 행간은 철저히 통제된 두려움을 암시한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "impassive는 ‘침착한(calm)’과 달리 표정·반응이 드러나지 않는 ‘읽히지 않음’이 포인트입니다. 비슷한 stoic은 고통을 견디는 태도에 초점이 있고, apathetic은 ‘무관심/의욕 없음’이라 결이 다릅니다. 문장에서는 remain/keep/appear/seem과 자주 결합하니 덩어리로 익혀 두세요.",
+    "tags": [
+      "감정",
+      "태도",
+      "성격묘사",
+      "문어",
+      "심리"
+    ],
+    "frequency": "중",
+    "difficulty": "6",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: impassive = (A) excited (B) expressionless (C) talkative (D) sleepy",
+            "a": "B",
+            "meaning_ko": "impassive는 무표정한/감정이 드러나지 않는입니다."
+          },
+          {
+            "q": "Fill in the blank: The detective kept an ____ face to avoid giving clues.",
+            "a": "impassive",
+            "meaning_ko": "표정으로 단서를 주지 않으려는 맥락과 맞습니다."
+          },
+          {
+            "q": "Which pair is closest in meaning? (A) impassive–expressive (B) impassive–emotional (C) impassive–unmoved (D) impassive–noisy",
+            "a": "C",
+            "meaning_ko": "unmoved(동요하지 않는)가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite: She showed no emotion when she heard the news. (use 'impassive')",
+            "a": "She remained impassive when she heard the news.",
+            "meaning_ko": "remain impassive가 자연스러운 재진술입니다."
+          },
+          {
+            "q": "Best fit: His smile looked polite, but his eyes were ____.",
+            "a": "impassive",
+            "meaning_ko": "겉은 웃지만 눈은 감정이 드러나지 않는 대비가 핵심입니다."
+          },
+          {
+            "q": "Error correction: He was impassive at the face of danger.",
+            "a": "He was impassive in the face of danger.",
+            "meaning_ko": "관용적으로 in the face of가 맞습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Nuance: Which word implies lack of interest rather than controlled expression—'impassive' or 'apathetic'?",
+            "a": "apathetic",
+            "meaning_ko": "apathetic은 무관심/의욕 결핍을 강하게 시사합니다."
+          },
+          {
+            "q": "Blank completion: He cultivated an impassive ____ to prevent opponents from reading him.",
+            "a": "demeanor",
+            "meaning_ko": "demeanor(태도/품행)과의 결합이 자연스럽습니다."
+          },
+          {
+            "q": "Paraphrase: 'An impassive tone' most nearly means a tone that ____.",
+            "a": "reveals little emotion",
+            "meaning_ko": "감정이 거의 드러나지 않는 톤이라는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "analyze",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To examine something carefully and in detail in order to understand it or explain it.",
+        "definition_ko": "분석하다; 어떤 것을 자세히 살펴 이해하거나 설명하다.",
+        "note": "자료·문제·텍스트·행동 등 대상이 매우 폭넓습니다."
+      },
+      {
+        "definition_en": "To study the structure or components of something, often using a method or system.",
+        "definition_ko": "구성 요소나 구조를 체계적으로 분해해 조사하다.",
+        "note": "학술/데이터/과학 맥락에서 특히 흔합니다."
+      }
+    ],
+    "concept": "복잡한 대상을 ‘쪼개서’ 근거를 세우고 결론을 도출하는 행위.",
+    "etymology": "그리스어 계열에서 유래한 ana-(다시, 위로) + lyein(풀다, 분해하다) 요소가 결합해 ‘풀어서(분해해서) 이해하다’ 의미로 발전했습니다.",
+    "semanticExtension": "원래 ‘분해해 이해하다’에서 출발해, 데이터·시장·심리처럼 추상적 대상까지 ‘체계적으로 이해하다’로 확장되었습니다.",
+    "nuanceRegister": "중립적·학술적. 일상에서도 ‘분석해보자’처럼 자연스럽지만, formal한 보고서/논문에서 특히 많이 씁니다.",
+    "grammarNotes": "타동사로 목적어를 반드시 취하는 경우가 많습니다(analyze + 명사). 분석 관점/기준을 덧붙일 때 analyze for/as/into 등의 표현이 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위해/을 대상으로(특정 성분·결함 등) 분석하다",
+        "example": "analyze the sample for toxins"
+      },
+      {
+        "prep": "as",
+        "meaning_ko": "~로서/으로 보고 분석하다(분류·해석)",
+        "example": "analyze the event as a turning point"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "~로/에 대해 더 깊이 파고들어 분석하다",
+        "example": "analyze into its component parts"
+      }
+    ],
+    "requiredComplements": [
+      "analyze + 목적어: ~을 분석하다",
+      "analyze A for B: A를 B(특정 요소/결함/성분) 관점에서 분석하다",
+      "analyze A as B: A를 B로 해석/분류하여 분석하다"
+    ],
+    "morphology": "ana-(다시/완전히) + -lyze(풀다/분해하다)로 기억하면 ‘쪼개서 이해’가 핵심이라는 점이 잡힙니다.",
+    "derivatives": [
+      {
+        "word": "analysis",
+        "meaning_ko": "분석"
+      },
+      {
+        "word": "analyst",
+        "meaning_ko": "분석가"
+      },
+      {
+        "word": "analytical",
+        "meaning_ko": "분석적인"
+      },
+      {
+        "word": "analyzer",
+        "meaning_ko": "분석 장치/분석기"
+      },
+      {
+        "word": "reanalysis",
+        "meaning_ko": "재분석"
+      }
+    ],
+    "related": [
+      {
+        "word": "evaluate",
+        "meaning_ko": "평가하다"
+      },
+      {
+        "word": "interpret",
+        "meaning_ko": "해석하다"
+      },
+      {
+        "word": "diagnose",
+        "meaning_ko": "진단하다"
+      },
+      {
+        "word": "examine",
+        "meaning_ko": "조사하다"
+      },
+      {
+        "word": "decompose",
+        "meaning_ko": "분해하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "examine",
+        "meaning_ko": "면밀히 살피다"
+      },
+      {
+        "word": "study",
+        "meaning_ko": "연구하다"
+      },
+      {
+        "word": "assess",
+        "meaning_ko": "평가하다"
+      },
+      {
+        "word": "investigate",
+        "meaning_ko": "조사하다"
+      },
+      {
+        "word": "scrutinize",
+        "meaning_ko": "꼼꼼히 조사하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "review",
+        "meaning_ko": "검토하다(전체적으로)"
+      },
+      {
+        "word": "inspect",
+        "meaning_ko": "검사하다(결함 확인)"
+      },
+      {
+        "word": "break down",
+        "meaning_ko": "분해해 설명하다(구어)"
+      },
+      {
+        "word": "consider",
+        "meaning_ko": "고려하다(분석보다 약함)"
+      },
+      {
+        "word": "probe",
+        "meaning_ko": "캐묻다/탐사하다(깊이 파고듦)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "guess",
+        "meaning_ko": "추측하다"
+      },
+      {
+        "word": "overlook",
+        "meaning_ko": "간과하다"
+      },
+      {
+        "word": "assume",
+        "meaning_ko": "가정하다"
+      },
+      {
+        "word": "misinterpret",
+        "meaning_ko": "오해하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "analyze data",
+            "meaning_ko": "데이터를 분석하다"
+          },
+          {
+            "phrase": "analyze a problem",
+            "meaning_ko": "문제를 분석하다"
+          },
+          {
+            "phrase": "analyze results",
+            "meaning_ko": "결과를 분석하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "analyze the cause",
+            "meaning_ko": "원인을 분석하다"
+          },
+          {
+            "phrase": "analyze customer behavior",
+            "meaning_ko": "고객 행동을 분석하다"
+          },
+          {
+            "phrase": "analyze a text closely",
+            "meaning_ko": "글/지문을 면밀히 분석하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "analyze the data for confounding variables",
+            "meaning_ko": "교란 변수를 염두에 두고 데이터를 분석하다"
+          },
+          {
+            "phrase": "analyze the argument's logical structure",
+            "meaning_ko": "논증의 논리 구조를 분석하다"
+          },
+          {
+            "phrase": "analyze the phenomenon through a multidisciplinary lens",
+            "meaning_ko": "다학제적 관점으로 현상을 분석하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Let's analyze this problem step by step.",
+            "meaning_ko": "이 문제를 단계별로 분석해 보자."
+          },
+          {
+            "sentence": "She analyzed the data on her laptop.",
+            "meaning_ko": "그녀는 노트북으로 데이터를 분석했다."
+          },
+          {
+            "sentence": "We need to analyze the results before we decide.",
+            "meaning_ko": "결정하기 전에 결과를 분석해야 한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The team analyzed customer feedback to improve the product.",
+            "meaning_ko": "팀은 제품 개선을 위해 고객 피드백을 분석했다."
+          },
+          {
+            "sentence": "He analyzed the poem for its imagery and tone.",
+            "meaning_ko": "그는 그 시를 이미지와 어조 측면에서 분석했다."
+          },
+          {
+            "sentence": "Doctors analyzed the sample for signs of infection.",
+            "meaning_ko": "의사들은 감염 징후를 찾기 위해 샘플을 분석했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "To analyze the trend responsibly, we must separate correlation from causation.",
+            "meaning_ko": "추세를 책임 있게 분석하려면 상관관계와 인과관계를 구분해야 한다."
+          },
+          {
+            "sentence": "The report analyzes the policy as a short-term fix that shifts costs into the future.",
+            "meaning_ko": "그 보고서는 그 정책을 비용을 미래로 미루는 단기 처방으로 보고 분석한다."
+          },
+          {
+            "sentence": "If we analyze the failure modes early, we can redesign the system before it scales.",
+            "meaning_ko": "초기에 고장 양상을 분석하면, 확장되기 전에 시스템을 재설계할 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "analyze는 ‘근거를 세우기 위해 분해해 본다’는 느낌이라 review(가볍게 검토)나 consider(고려)보다 훨씬 체계적입니다. 빈칸에서는 analyze A for B(특정 요소를 찾기)와 analyze A as B(해석/분류)가 자주 나오니 예문 덩어리로 외우세요. analysis/analytical/analyst 파생어도 함께 묶으면 장기 기억에 유리합니다.",
+    "tags": [
+      "분석",
+      "학술",
+      "데이터",
+      "사고력",
+      "보고서"
+    ],
+    "frequency": "상",
+    "difficulty": "4",
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: We will ____ the test results tomorrow.",
+            "a": "analyze",
+            "meaning_ko": "결과를 ‘분석하다’가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest meaning: analyze = (A) decorate (B) examine in detail (C) entertain (D) postpone",
+            "a": "B",
+            "meaning_ko": "자세히 살펴 이해/설명하는 의미입니다."
+          },
+          {
+            "q": "Which word is a noun form of 'analyze'? (A) analyst (B) analysis (C) analytical (D) analyzed",
+            "a": "B",
+            "meaning_ko": "analysis가 명사 ‘분석’입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best preposition: The lab analyzed the water ____ heavy metals.",
+            "a": "for",
+            "meaning_ko": "특정 성분/결함을 찾는 맥락에서 analyze for가 정석입니다."
+          },
+          {
+            "q": "Rewrite using 'analyze ... as': They treated the incident as a warning sign and examined it carefully.",
+            "a": "They analyzed the incident as a warning sign.",
+            "meaning_ko": "‘~로 보고 분석하다’ 구조로 압축됩니다."
+          },
+          {
+            "q": "Error correction: We should analyze about the root cause before acting.",
+            "a": "We should analyze the root cause before acting.",
+            "meaning_ko": "analyze는 목적어를 직접 받는 타동사가 기본입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Blank completion: To avoid false conclusions, analyze the dataset ____ potential confounders.",
+            "a": "for",
+            "meaning_ko": "교란 변수를 ‘찾아내기 위해’라는 의미로 analyze for가 적합합니다."
+          },
+          {
+            "q": "Logic question: If a claim relies on emotion rather than evidence, what should you analyze first?",
+            "a": "the argument's assumptions and supporting evidence",
+            "meaning_ko": "논증의 전제와 근거를 분해해 보는 것이 분석의 핵심입니다."
+          },
+          {
+            "q": "Paraphrase: 'Analyze the phenomenon through a multidisciplinary lens' means to ____.",
+            "a": "examine it using insights from multiple fields",
+            "meaning_ko": "여러 학문 분야의 관점으로 살펴본다는 뜻입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

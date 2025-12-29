@@ -1,0 +1,857 @@
+[
+  {
+    "word": "embryo",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "An unborn or unhatched offspring in the early stages of development, especially before it becomes a fetus.",
+        "definition_ko": "배아(임신 초기의 태아 이전 단계)로, 생명이 발달 초기에 있는 상태.",
+        "note": "의학·생물학에서 엄밀히 쓰이며, 비유적으로는 '초기 단계의 어떤 것'을 뜻하기도 합니다."
+      },
+      {
+        "definition_en": "The earliest stage of development of an idea, plan, or organization.",
+        "definition_ko": "어떤 계획·아이디어·조직 등의 ‘태동기/발아 단계’.",
+        "note": "in embryo(아직 미완성인 채로), the embryo of ~(~의 싹) 같은 표현이 자주 나옵니다."
+      }
+    ],
+    "concept": "‘아직 완성되기 전, 자라나는 시작 단계’라는 핵심 이미지의 단어입니다.",
+    "etymology": "그리스어 ‘en-’(안에) + ‘bryein’(부풀다, 자라다) 계열에서 라틴어/프랑스어를 거쳐 영어로 들어온 말로 알려져 있습니다.",
+    "semanticExtension": "생물학적 ‘배아’에서 출발해, 추상적으로 ‘아이디어/조직이 막 형성되는 초기 단계’로 의미가 확장됩니다.",
+    "nuanceRegister": "기본은 학술·의학적(격식) 레지스터이며, 비유적 용법도 비교적 문어/격식에서 자주 보입니다.",
+    "grammarNotes": "보통 가산명사로 쓰이며 복수형 embryos가 가능합니다. 비유적 용법에서 'the embryo of + 명사' 구조가 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "‘~의 싹/초기 형태’",
+        "example": "the embryo of a new policy"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "‘미완성인 채로, 초기 단계로’(관용)",
+        "example": "a plan still in embryo"
+      }
+    ],
+    "requiredComplements": [
+      "the embryo of + N : (~의) 초기 형태/싹",
+      "in embryo : 아직 태동기인, 미완성인 상태로"
+    ],
+    "morphology": "어근 embryo(‘배아/초기 발달 단계’) 자체가 핵심이며, 일반적으로 분해해 암기하기보다는 ‘초기 발달’ 이미지를 잡는 편이 효율적입니다.",
+    "derivatives": [
+      {
+        "word": "embryonic",
+        "meaning_ko": "배아의; 초기 단계의"
+      },
+      {
+        "word": "embryology",
+        "meaning_ko": "발생학(배아 발달 연구)"
+      },
+      {
+        "word": "embryologist",
+        "meaning_ko": "발생학자"
+      }
+    ],
+    "related": [
+      {
+        "word": "fetus",
+        "meaning_ko": "태아(더 발달한 단계)"
+      },
+      {
+        "word": "germ",
+        "meaning_ko": "싹; 발아의 씨앗(비유)"
+      },
+      {
+        "word": "incipient",
+        "meaning_ko": "초기의; 막 시작한"
+      },
+      {
+        "word": "nascent",
+        "meaning_ko": "막 생겨나는; 태동기의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "fetus",
+        "meaning_ko": "태아(맥락에 따라 유사)"
+      },
+      {
+        "word": "germ",
+        "meaning_ko": "싹(비유적 의미에서)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "seed",
+        "meaning_ko": "씨앗; 발단"
+      },
+      {
+        "word": "beginning",
+        "meaning_ko": "시작"
+      },
+      {
+        "word": "prototype",
+        "meaning_ko": "시제품; 초기 형태"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "maturity",
+        "meaning_ko": "성숙; 완성 단계"
+      },
+      {
+        "word": "completion",
+        "meaning_ko": "완성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "human embryo",
+            "meaning_ko": "인간 배아"
+          },
+          {
+            "phrase": "embryo development",
+            "meaning_ko": "배아 발달"
+          },
+          {
+            "phrase": "embryo transfer",
+            "meaning_ko": "배아 이식"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "the embryo of an idea",
+            "meaning_ko": "아이디어의 싹"
+          },
+          {
+            "phrase": "a plan in embryo",
+            "meaning_ko": "태동기인 계획"
+          },
+          {
+            "phrase": "in the embryonic stage",
+            "meaning_ko": "초기(발아) 단계에서"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "an embryo of reform",
+            "meaning_ko": "개혁의 초기 구상"
+          },
+          {
+            "phrase": "an institution still in embryo",
+            "meaning_ko": "아직 형성 중인 제도"
+          },
+          {
+            "phrase": "the embryo of a broader movement",
+            "meaning_ko": "더 큰 운동의 발단"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The lab stored the embryos at a carefully controlled temperature.",
+            "meaning_ko": "그 연구실은 배아를 엄격히 통제된 온도에서 보관했다."
+          },
+          {
+            "sentence": "Doctors monitored the embryo to ensure normal development.",
+            "meaning_ko": "의사들은 정상 발달을 확인하기 위해 배아를 관찰했다."
+          },
+          {
+            "sentence": "A chicken embryo can be observed through the shell in some experiments.",
+            "meaning_ko": "어떤 실험에서는 달걀 껍데기를 통해 닭 배아를 관찰할 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The project is still in embryo, but the direction is promising.",
+            "meaning_ko": "그 프로젝트는 아직 태동기지만 방향은 유망하다."
+          },
+          {
+            "sentence": "You can already see the embryo of a new business model in their proposal.",
+            "meaning_ko": "그들의 제안서에서 새로운 비즈니스 모델의 싹이 이미 보인다."
+          },
+          {
+            "sentence": "Their partnership began as the embryo of a casual conversation.",
+            "meaning_ko": "그들의 파트너십은 가벼운 대화의 발아 단계에서 시작됐다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The committee’s draft was the embryo of legislation that later reshaped the industry.",
+            "meaning_ko": "위원회의 초안은 훗날 산업을 재편한 법안의 초기 형태였다."
+          },
+          {
+            "sentence": "What looked like a minor pilot program turned out to be the embryo of a nationwide initiative.",
+            "meaning_ko": "사소해 보이던 시범 사업이 사실은 전국적 사업의 발단이었다."
+          },
+          {
+            "sentence": "In embryo, the theory contained the same assumptions that would later draw heavy criticism.",
+            "meaning_ko": "초기 단계에서부터 그 이론은 훗날 큰 비판을 받게 될 가정들을 이미 포함하고 있었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "embryo는 ‘배아’의 생물학적 의미가 기본이지만, 시험에서는 ‘in embryo(태동기인)’ 같은 비유적 표현이 자주 출제됩니다. embryo(명사)와 embryonic(형용사: 초기 단계의)을 함께 묶어 외우면 문장 적용이 쉬워집니다. ‘the embryo of + 추상명사’ 구조도 세트로 기억해 두세요.",
+    "tags": [
+      "생물학",
+      "의학",
+      "발달",
+      "초기단계",
+      "비유표현"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'embryo' in biology: (A) mature adult (B) early developing organism (C) fossil (D) predator",
+            "a": "B",
+            "meaning_ko": "embryo는 생물학적으로 ‘발달 초기의 개체(배아)’를 뜻합니다."
+          },
+          {
+            "q": "Fill in the blank: The doctor checked the _____ during the early weeks of pregnancy.",
+            "a": "embryo",
+            "meaning_ko": "임신 초기에는 fetus 이전 단계인 embryo가 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase is most natural? (A) embryo transfer (B) embryo running (C) embryo perfume (D) embryo lecture",
+            "a": "A",
+            "meaning_ko": "embryo transfer는 실제 의료 용어로 쓰입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: Their plan is still ___ embryo, so details are limited.",
+            "a": "in",
+            "meaning_ko": "관용구 in embryo(태동기인)로 ‘in’이 들어갑니다."
+          },
+          {
+            "q": "Pick the closest meaning: 'the embryo of an idea' = (A) the final version (B) the earliest form (C) the public scandal (D) the main obstacle",
+            "a": "B",
+            "meaning_ko": "embryo는 ‘초기 형태/싹’의 비유 의미로도 쓰입니다."
+          },
+          {
+            "q": "Choose the best rewrite: 'The movement was in embryo.' (A) It was fully established. (B) It was just beginning. (C) It was illegal. (D) It was forgotten.",
+            "a": "B",
+            "meaning_ko": "in embryo = 막 시작한/형성 중인 단계입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In formal writing, which option best fits? 'The pilot program was the _____ of a nationwide reform.'",
+            "a": "embryo",
+            "meaning_ko": "‘초기 형태/발단’의 문어적 비유에 embryo가 잘 맞습니다."
+          },
+          {
+            "q": "Choose the best collocation: 'an embryo of _____' (A) reform (B) breakfast (C) sidewalk (D) furniture",
+            "a": "A",
+            "meaning_ko": "추상 개념(reform, policy, movement 등)과 결합해 ‘~의 발단’을 의미합니다."
+          },
+          {
+            "q": "Error correction: 'The embryo of the company was already global.' → Replace 'embryo' with a better word for a fully developed stage.",
+            "a": "maturity",
+            "meaning_ko": "embryo는 ‘초기 단계’이므로, 반대 의미의 maturity(성숙)를 쓰면 문맥이 맞습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cogent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Clear, logical, and convincing; having the power to persuade.",
+        "definition_ko": "명확하고 논리적이며 설득력 있는.",
+        "note": "주로 argument, reason, case, evidence 같은 ‘논증/근거’와 함께 결합합니다."
+      }
+    ],
+    "concept": "‘논리가 빈틈없이 맞아 떨어져 설득력이 강한 상태’를 말합니다.",
+    "etymology": "라틴어 cogere(함께 몰아붙이다/강제하다)에서 유래해 ‘상대를 설득할 만큼 힘이 있는’ 의미로 굳어진 것으로 알려져 있습니다.",
+    "semanticExtension": "물리적으로 ‘강제로 몰다’라는 뿌리 의미에서, 논증이 사람을 ‘끌고 가는 힘’을 가진다는 비유로 확장됩니다.",
+    "nuanceRegister": "격식/문어(학술·비평·법률·에세이)에서 매우 흔하며, 일상 구어에서는 persuasive보다 다소 딱딱하게 들립니다.",
+    "grammarNotes": "형용사로만 주로 쓰이며, 보통 명사 앞에서 수식합니다(cogent argument). 비교급/최상급은 more/most cogent 형태가 자연스럽습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "cogent + argument/reason/case : 설득력 있는 논증/이유/주장"
+    ],
+    "morphology": "cogent는 라틴어계 어근에서 온 형용사로, ‘논증이 강하게 밀어붙인다’는 이미지로 묶어 외우면 좋습니다.",
+    "derivatives": [
+      {
+        "word": "cogency",
+        "meaning_ko": "설득력, 논리적 타당성"
+      },
+      {
+        "word": "cogently",
+        "meaning_ko": "설득력 있게, 논리적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "logic",
+        "meaning_ko": "논리"
+      },
+      {
+        "word": "evidence",
+        "meaning_ko": "증거"
+      },
+      {
+        "word": "rationale",
+        "meaning_ko": "근거, 이유"
+      },
+      {
+        "word": "coherent",
+        "meaning_ko": "일관된, 조리 있는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "compelling",
+        "meaning_ko": "강력히 설득하는"
+      },
+      {
+        "word": "persuasive",
+        "meaning_ko": "설득력 있는"
+      },
+      {
+        "word": "convincing",
+        "meaning_ko": "납득시키는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sound",
+        "meaning_ko": "타당한(논리적으로)"
+      },
+      {
+        "word": "forceful",
+        "meaning_ko": "힘 있는, 강력한"
+      },
+      {
+        "word": "well-reasoned",
+        "meaning_ko": "논리적으로 잘 짜인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "specious",
+        "meaning_ko": "겉만 그럴듯한(허술한)"
+      },
+      {
+        "word": "flawed",
+        "meaning_ko": "결함 있는"
+      },
+      {
+        "word": "unconvincing",
+        "meaning_ko": "설득력 없는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "cogent argument",
+            "meaning_ko": "설득력 있는 논증"
+          },
+          {
+            "phrase": "cogent reason",
+            "meaning_ko": "타당한 이유"
+          },
+          {
+            "phrase": "cogent evidence",
+            "meaning_ko": "설득력 있는 증거"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a cogent case for reform",
+            "meaning_ko": "개혁을 위한 설득력 있는 논거"
+          },
+          {
+            "phrase": "cogent analysis",
+            "meaning_ko": "조리 있는 분석"
+          },
+          {
+            "phrase": "cogent explanation",
+            "meaning_ko": "납득되는 설명"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a cogent rebuttal",
+            "meaning_ko": "치밀하고 설득력 있는 반박"
+          },
+          {
+            "phrase": "cogent grounds for appeal",
+            "meaning_ko": "항소의 타당한 근거(법률 문맥)"
+          },
+          {
+            "phrase": "the most cogent critique",
+            "meaning_ko": "가장 핵심을 찌르는 비평"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She gave a cogent reason for leaving early.",
+            "meaning_ko": "그녀는 일찍 떠나야 하는 타당한 이유를 제시했다."
+          },
+          {
+            "sentence": "His cogent argument changed my mind.",
+            "meaning_ko": "그의 설득력 있는 논증이 내 생각을 바꿨다."
+          },
+          {
+            "sentence": "We need cogent evidence before we make a claim.",
+            "meaning_ko": "주장을 하기 전에 설득력 있는 증거가 필요하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report offers a cogent analysis of why the policy failed.",
+            "meaning_ko": "그 보고서는 정책이 실패한 이유에 대한 조리 있는 분석을 제공한다."
+          },
+          {
+            "sentence": "She laid out a cogent case for investing in safety upgrades.",
+            "meaning_ko": "그녀는 안전 개선에 투자해야 한다는 설득력 있는 논거를 펼쳤다."
+          },
+          {
+            "sentence": "Even critics admitted his explanation was cogent and well supported.",
+            "meaning_ko": "비평가들조차 그의 설명이 설득력 있고 근거가 탄탄하다고 인정했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The judge found the defense’s cogent rebuttal sufficient to raise reasonable doubt.",
+            "meaning_ko": "판사는 변호 측의 설득력 있는 반박이 합리적 의심을 제기하기에 충분하다고 보았다."
+          },
+          {
+            "sentence": "Among many objections, her cogent critique exposed the proposal’s hidden assumptions.",
+            "meaning_ko": "여러 이의 제기 중에서도 그녀의 핵심을 찌르는 비평은 제안서의 숨은 가정을 드러냈다."
+          },
+          {
+            "sentence": "A cogent synthesis of the data revealed patterns the team had overlooked.",
+            "meaning_ko": "데이터를 설득력 있게 종합하자 팀이 놓친 패턴들이 드러났다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "cogent는 ‘설득력 있는’이라도 그냥 persuasive와 똑같지 않고, 특히 ‘논리의 조리/타당성’이 강하게 강조됩니다. argument, reason, evidence, analysis 같은 단어들과 묶어 콜로케이션으로 외우면 시험에서 빠르게 떠올릴 수 있습니다. 반대 의미로는 specious(그럴듯하지만 허술한)를 자주 함께 비교해 두면 좋습니다.",
+    "tags": [
+      "논리",
+      "설득",
+      "비평",
+      "학술",
+      "법률문맥"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'cogent': (A) noisy (B) clear and convincing (C) accidental (D) childish",
+            "a": "B",
+            "meaning_ko": "cogent = 명확하고 논리적이며 설득력 있는."
+          },
+          {
+            "q": "Fill in the blank: He made a _____ argument backed by data.",
+            "a": "cogent",
+            "meaning_ko": "데이터로 뒷받침된 ‘설득력 있는’ argument에 cogent가 자연스럽습니다."
+          },
+          {
+            "q": "Which noun most commonly follows 'cogent'? (A) pillow (B) argument (C) bicycle (D) perfume",
+            "a": "B",
+            "meaning_ko": "cogent argument/reason/evidence가 대표 결합입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the closest synonym: cogent = (A) compelling (B) slippery (C) distant (D) fragile",
+            "a": "A",
+            "meaning_ko": "compelling은 ‘강력히 설득하는’ 의미로 가장 가깝습니다."
+          },
+          {
+            "q": "Choose the best contrast word: A 'cogent' argument is NOT _____. (A) well-reasoned (B) convincing (C) specious (D) clear",
+            "a": "C",
+            "meaning_ko": "specious는 겉만 그럴듯하고 논리는 허술하다는 뜻이라 반대 방향입니다."
+          },
+          {
+            "q": "Rewrite to sound more formal: 'Her point was very persuasive.' → Use 'cogent' once.",
+            "a": "Her point was cogent.",
+            "meaning_ko": "격식체에서 persuasive 대신 cogent로 ‘논리적으로 설득력 있다’를 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In academic writing, choose the best phrase: 'a _____ analysis of the methodology' (A) cogent (B) cozy (C) edible (D) watery",
+            "a": "A",
+            "meaning_ko": "분석이 조리 있고 설득력 있다는 의미로 cogent가 적합합니다."
+          },
+          {
+            "q": "Error correction: 'The evidence was cogently, so we ignored it.' → Fix the sentence using 'cogent'.",
+            "a": "The evidence was cogent, so we did not ignore it.",
+            "meaning_ko": "cogent evidence면 무시하기 어렵다는 흐름이 자연스럽고, 형용사 자리도 맞춰야 합니다."
+          },
+          {
+            "q": "Choose the best completion: 'The defense offered cogent grounds for _____.' (A) appeal (B) breakfast (C) wallpaper (D) snowfall",
+            "a": "A",
+            "meaning_ko": "grounds for appeal(항소 근거)은 법률 문맥의 대표 콜로케이션입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "earmark",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A distinctive feature or characteristic used to identify something or someone.",
+        "definition_ko": "특징, 식별 표지(어떤 대상을 구분해 주는 단서).",
+        "note": "the earmarks of ~ 형태로 ‘~의 전형적 특징’처럼 자주 쓰입니다."
+      },
+      {
+        "definition_en": "To set aside or designate money or resources for a particular purpose.",
+        "definition_ko": "특정 목적에 쓰도록 (돈·자원 등을) 따로 배정하다/따로 떼어 두다.",
+        "note": "earmark A for B 구조가 핵심입니다(예: earmark funds for education)."
+      }
+    ],
+    "concept": "‘식별되는 특징(표지)’ 또는 ‘특정 용도로 따로 지정해 두다’라는 두 축으로 기억하면 됩니다.",
+    "etymology": "원래는 가축의 귀(ear)에 표시(mark)를 해 소유를 구분하던 관행에서 나온 말로, ‘표식’과 ‘지정’ 의미가 파생되었습니다.",
+    "semanticExtension": "물리적 표식(귀표) → 식별 특징(earmarks) → 예산/자원을 특정 목적에 ‘표를 붙여’ 지정한다(동사)로 확장됩니다.",
+    "nuanceRegister": "명사 의미는 비교적 일반적이며, 동사 의미는 행정·재정·정책 문맥(격식)에서 특히 흔합니다.",
+    "grammarNotes": "명사로는 보통 복수로 the earmarks of ~가 자주 쓰입니다. 동사로는 earmark + 명사 + for + 목적이 대표 패턴입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "‘~의 특징/전형적 징후’",
+        "example": "the earmarks of corruption"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "‘~을 위해 따로 배정하다’(동사 패턴)",
+        "example": "earmark funds for schools"
+      },
+      {
+        "prep": "as",
+        "meaning_ko": "‘~로 지정하다’(상대적으로 덜 흔하지만 가능)",
+        "example": "earmark the site as a protected area"
+      }
+    ],
+    "requiredComplements": [
+      "earmark + N + for + N : (돈/자원 등을) ~을 위해 따로 배정하다",
+      "the earmarks of + N : ~의 전형적 특징/징후"
+    ],
+    "morphology": "ear(귀) + mark(표시)로 직관적으로 구성됩니다. ‘귀에 표식을 해 구분한다’ 이미지를 떠올리면 두 의미(특징/지정)가 같이 연결됩니다.",
+    "derivatives": [
+      {
+        "word": "earmarked",
+        "meaning_ko": "지정된; 따로 배정된"
+      },
+      {
+        "word": "earmarking",
+        "meaning_ko": "지정(배정) 행위"
+      }
+    ],
+    "related": [
+      {
+        "word": "allocate",
+        "meaning_ko": "배정하다"
+      },
+      {
+        "word": "designate",
+        "meaning_ko": "지정하다"
+      },
+      {
+        "word": "hallmark",
+        "meaning_ko": "특징, 전형(가까운 뉘앙스)"
+      },
+      {
+        "word": "trait",
+        "meaning_ko": "특성"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "hallmark",
+        "meaning_ko": "전형적 특징"
+      },
+      {
+        "word": "allocate",
+        "meaning_ko": "배정하다(동사 의미에서)"
+      },
+      {
+        "word": "designate",
+        "meaning_ko": "지정하다(동사 의미에서)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "feature",
+        "meaning_ko": "특징"
+      },
+      {
+        "word": "reserve",
+        "meaning_ko": "따로 떼어 두다"
+      },
+      {
+        "word": "set aside",
+        "meaning_ko": "따로 마련하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "misallocate",
+        "meaning_ko": "잘못 배정하다"
+      },
+      {
+        "word": "waste",
+        "meaning_ko": "낭비하다"
+      },
+      {
+        "word": "generic",
+        "meaning_ko": "특징 없는; 일반적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "earmark funds",
+            "meaning_ko": "자금을 따로 배정하다"
+          },
+          {
+            "phrase": "earmark money for",
+            "meaning_ko": "~을 위해 돈을 배정하다"
+          },
+          {
+            "phrase": "distinctive earmarks",
+            "meaning_ko": "뚜렷한 식별 특징"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "the earmarks of success",
+            "meaning_ko": "성공의 징후/특징"
+          },
+          {
+            "phrase": "earmark resources for recovery",
+            "meaning_ko": "회복을 위해 자원을 배정하다"
+          },
+          {
+            "phrase": "earmark a portion of the budget",
+            "meaning_ko": "예산의 일부를 지정하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "earmark subsidies for vulnerable households",
+            "meaning_ko": "취약 가구를 위한 보조금을 지정하다"
+          },
+          {
+            "phrase": "the earmarks of systemic corruption",
+            "meaning_ko": "구조적 부패의 전형적 징후"
+          },
+          {
+            "phrase": "earmark the initiative as a national priority",
+            "meaning_ko": "그 정책을 국가 우선 과제로 지정하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The proposal earmarked money for new classrooms.",
+            "meaning_ko": "그 제안은 새 교실을 위해 돈을 따로 배정했다."
+          },
+          {
+            "sentence": "The painting has the earmarks of a famous artist.",
+            "meaning_ko": "그 그림에는 유명 화가의 특징이 보인다."
+          },
+          {
+            "sentence": "They earmarked a small fund for emergencies.",
+            "meaning_ko": "그들은 비상사태를 위한 소규모 기금을 따로 마련했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "A portion of the budget was earmarked for rural healthcare.",
+            "meaning_ko": "예산의 일부가 농촌 의료를 위해 지정되었다."
+          },
+          {
+            "sentence": "The report listed several earmarks of fraud, including forged signatures.",
+            "meaning_ko": "보고서는 위조 서명 등 사기의 여러 전형적 징후를 열거했다."
+          },
+          {
+            "sentence": "They earmarked resources for recovery before the storm season began.",
+            "meaning_ko": "그들은 폭풍철이 시작되기 전에 복구를 위한 자원을 배정해 두었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The audit uncovered the earmarks of systemic misconduct rather than isolated mistakes.",
+            "meaning_ko": "감사는 단발성 실수라기보다 구조적 비행의 전형적 징후를 밝혀냈다."
+          },
+          {
+            "sentence": "Lawmakers earmarked subsidies for vulnerable households to cushion the impact of inflation.",
+            "meaning_ko": "의원들은 인플레이션 충격을 완화하기 위해 취약 가구를 위한 보조금을 지정했다."
+          },
+          {
+            "sentence": "The agency earmarked the initiative as a national priority, securing multi-year funding.",
+            "meaning_ko": "해당 기관은 그 사업을 국가 우선 과제로 지정해 다년 재원을 확보했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "earmark는 ‘ear+mark(귀에 표식)’라는 직관적 조합이어서 기억이 쉽습니다. 시험에서는 동사 패턴 earmark A for B가 핵심이니 예문과 함께 통째로 익히는 게 가장 안전합니다. 명사로는 the earmarks of ~가 자주 나오며 hallmark(전형적 특징)와 혼동 포인트이니 같이 비교해 두세요.",
+    "tags": [
+      "예산",
+      "정책",
+      "행정",
+      "특징",
+      "표지"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The city _____ funds for repairing roads.",
+            "a": "earmarked",
+            "meaning_ko": "earmark는 ‘(자금을) 특정 목적에 배정하다’이며 과거형 earmarked가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best meaning: 'the earmarks of a masterpiece' (A) the budget plan (B) the distinctive features (C) the cooking recipe (D) the weather forecast",
+            "a": "B",
+            "meaning_ko": "earmarks는 ‘식별되는 특징/표지’ 의미가 됩니다."
+          },
+          {
+            "q": "Which pattern is most natural? (A) earmark for money (B) earmark money for (C) earmark on money (D) earmark under money",
+            "a": "B",
+            "meaning_ko": "earmark A for B 구조가 정석입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: 'A portion of the grant was earmarked _____ training.' (A) at (B) for (C) on (D) by",
+            "a": "B",
+            "meaning_ko": "배정 목적을 나타낼 때 for를 씁니다."
+          },
+          {
+            "q": "Pick the closest synonym (verb): earmark = (A) allocate (B) erase (C) deny (D) delay",
+            "a": "A",
+            "meaning_ko": "allocate/designate가 의미상 가장 가깝습니다."
+          },
+          {
+            "q": "Which sentence uses 'earmark' correctly? (A) She earmarked loudly. (B) We earmarked the fund for scholarships. (C) He earmarked in the table. (D) They earmarked about music.",
+            "a": "B",
+            "meaning_ko": "목적을 for로 받는 타동사 용법이 올바릅니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In policy writing, choose the best phrase: 'earmark subsidies for _____ households' (A) vulnerable (B) violet (C) vacant (D) verbal",
+            "a": "A",
+            "meaning_ko": "취약 가구(vulnerable households) 문맥이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The committee earmarked to education the funds.' → Rewrite using the standard pattern.",
+            "a": "The committee earmarked the funds for education.",
+            "meaning_ko": "표준 패턴 earmark + 목적어 + for + 목적 입니다."
+          },
+          {
+            "q": "Choose the best interpretation: 'The investigation revealed the earmarks of systemic corruption.'",
+            "a": "It revealed typical signs of widespread corruption.",
+            "meaning_ko": "earmarks of ~ = ~의 전형적 징후/특징이라는 의미입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

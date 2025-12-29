@@ -1,0 +1,1048 @@
+[
+  {
+    "word": "damp",
+    "partOfSpeech": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Slightly wet; moist but not dripping.",
+        "definition_ko": "축축한, 약간 젖은(물기가 많지는 않지만 마른 상태도 아닌).",
+        "note": "‘wet’보다 덜 젖은 느낌이며, 날씨·벽·옷감 등에 흔히 씁니다."
+      },
+      {
+        "definition_en": "To reduce the force, intensity, or enthusiasm of something; to make something less strong.",
+        "definition_ko": "무엇의 강도·열의·기세를 꺾다, 약화시키다(억누르다).",
+        "note": "‘damp (down)’은 분위기·열의·소리를 ‘죽이는’ 뉘앙스로 자주 나옵니다."
+      },
+      {
+        "definition_en": "A small amount of moisture in the air or on a surface.",
+        "definition_ko": "습기, 축축함(표면이나 공기 중의 물기).",
+        "note": "명사로는 대체로 ‘the damp’처럼 쓰여 ‘습기’ 의미가 강합니다."
+      }
+    ],
+    "concept": "‘조금 젖어 축축한 상태’이거나 ‘무언가의 기세를 죽여 약하게 만드는 것’을 말합니다.",
+    "etymology": "고대 영어 계열에서 ‘증기·습기’ 의미로 발전한 어휘로, 현대에는 ‘축축한’(형용사)과 ‘약화시키다’(동사) 의미가 함께 굳었습니다.",
+    "semanticExtension": "물리적 ‘축축함’에서 출발해, 소리·열정·분위기 같은 추상적 대상의 ‘강도를 낮추는’ 의미로 확장되었습니다.",
+    "nuanceRegister": "일상·문어 모두 흔하며, 동사 용법은 다소 문어적/기사문에서 ‘열의를 꺾다’처럼 쓰입니다.",
+    "grammarNotes": "형용사로 서술/한정 모두 가능(damp air, The towels are damp). 동사로는 ‘damp down + 명사(열의/소리/갈등)’ 형태가 매우 흔합니다.",
+    "transitivity": "자동사·타동사 모두(주로 타동사 용례가 많음: damp the sound / damp down enthusiasm)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "…으로 축축한(표면에 물기가 묻어)",
+        "example": "damp with sweat"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "…에서/…때문에 축축한(환경·날씨)",
+        "example": "damp in the morning air"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "…에 물기가 있어 축축한",
+        "example": "damp on the surface"
+      }
+    ],
+    "requiredComplements": [
+      "damp + 명사(소리/진동/열의 등) : 강도를 낮추다",
+      "damp down + 명사(열기/갈등/비판 등) : 누그러뜨리다, 진정시키다",
+      "be damp with + 명사(땀/비 등) : …로 젖어 축축하다"
+    ],
+    "morphology": "단일 어근 형태로 보통 접두·접미 분석이 크게 의미를 돕지 않습니다(파생형으로 dampen, dampness 등이 생산됨).",
+    "derivatives": [
+      {
+        "word": "dampness",
+        "meaning_ko": "축축함, 습기"
+      },
+      {
+        "word": "dampen",
+        "meaning_ko": "축축하게 하다; (열의 등을) 약화시키다"
+      },
+      {
+        "word": "damp-proof",
+        "meaning_ko": "방습의, 습기 차단의"
+      },
+      {
+        "word": "dampener",
+        "meaning_ko": "감쇠기; 흥을 깨는 사람/요인(비격식)"
+      },
+      {
+        "word": "damply",
+        "meaning_ko": "축축하게, 풀이 죽어(드물게) "
+      }
+    ],
+    "related": [
+      {
+        "word": "humidity",
+        "meaning_ko": "습도"
+      },
+      {
+        "word": "moisture",
+        "meaning_ko": "수분, 습기"
+      },
+      {
+        "word": "mildew",
+        "meaning_ko": "곰팡이(습기로 생기는)"
+      },
+      {
+        "word": "ventilation",
+        "meaning_ko": "환기"
+      },
+      {
+        "word": "condensation",
+        "meaning_ko": "응결, 결로"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "moist",
+        "meaning_ko": "촉촉한, 약간 젖은"
+      },
+      {
+        "word": "humid",
+        "meaning_ko": "(공기가) 습한"
+      },
+      {
+        "word": "clammy",
+        "meaning_ko": "축축하고 끈적한(불쾌감)"
+      },
+      {
+        "word": "mitigate",
+        "meaning_ko": "(강도를) 완화하다(동사 의미 근접)"
+      },
+      {
+        "word": "dull",
+        "meaning_ko": "(열기·흥을) 무디게 하다(동사 의미 근접)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "wet",
+        "meaning_ko": "젖은(더 넓고 강한 느낌)"
+      },
+      {
+        "word": "soggy",
+        "meaning_ko": "흠뻑 젖어 물컹한"
+      },
+      {
+        "word": "stale",
+        "meaning_ko": "(분위기·흥이) 식은"
+      },
+      {
+        "word": "quench",
+        "meaning_ko": "(불·갈증·열기 등을) 끄다/가라앉히다"
+      },
+      {
+        "word": "restrain",
+        "meaning_ko": "억제하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dry",
+        "meaning_ko": "마른"
+      },
+      {
+        "word": "arid",
+        "meaning_ko": "건조한"
+      },
+      {
+        "word": "crisp",
+        "meaning_ko": "(공기·질감이) 산뜻하고 바삭한"
+      },
+      {
+        "word": "invigorate",
+        "meaning_ko": "활기를 불어넣다"
+      },
+      {
+        "word": "intensify",
+        "meaning_ko": "강화하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "damp clothes",
+            "meaning_ko": "축축한 옷"
+          },
+          {
+            "phrase": "damp weather",
+            "meaning_ko": "습하고 축축한 날씨"
+          },
+          {
+            "phrase": "a damp towel",
+            "meaning_ko": "축축한 수건"
+          },
+          {
+            "phrase": "the damp smell",
+            "meaning_ko": "습한 냄새"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "damp basement",
+            "meaning_ko": "습기 찬 지하실"
+          },
+          {
+            "phrase": "damp air",
+            "meaning_ko": "습한 공기"
+          },
+          {
+            "phrase": "be damp with sweat",
+            "meaning_ko": "땀에 젖어 축축하다"
+          },
+          {
+            "phrase": "damp the noise",
+            "meaning_ko": "소리를 줄이다/죽이다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "damp down enthusiasm",
+            "meaning_ko": "열의를 꺾다"
+          },
+          {
+            "phrase": "damp vibrations",
+            "meaning_ko": "진동을 감쇠시키다"
+          },
+          {
+            "phrase": "damp proofing measures",
+            "meaning_ko": "방습 조치"
+          },
+          {
+            "phrase": "damp a political backlash",
+            "meaning_ko": "정치적 역풍을 누그러뜨리다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The floor is damp near the door.",
+            "meaning_ko": "문 근처 바닥이 축축해요."
+          },
+          {
+            "sentence": "Hang the damp shirt in the sun.",
+            "meaning_ko": "축축한 셔츠를 햇볕에 걸어 두세요."
+          },
+          {
+            "sentence": "I wiped the table with a damp cloth.",
+            "meaning_ko": "저는 축축한 천으로 탁자를 닦았어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The damp air made the room feel colder than it was.",
+            "meaning_ko": "습한 공기 때문에 방이 실제보다 더 춥게 느껴졌어요."
+          },
+          {
+            "sentence": "A quick apology helped damp the tension in the meeting.",
+            "meaning_ko": "빠른 사과가 회의의 긴장을 누그러뜨렸어요."
+          },
+          {
+            "sentence": "The jacket was damp with rain when he arrived.",
+            "meaning_ko": "그가 도착했을 때 재킷은 비에 젖어 축축했어요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The central bank’s statement was crafted to damp inflation expectations without spooking markets.",
+            "meaning_ko": "중앙은행의 성명은 시장을 놀라게 하지 않으면서 인플레이션 기대를 누그러뜨리도록 작성되었습니다."
+          },
+          {
+            "sentence": "Engineers added rubber mounts to damp vibrations and improve precision.",
+            "meaning_ko": "기술자들은 진동을 감쇠시켜 정밀도를 높이기 위해 고무 마운트를 추가했습니다."
+          },
+          {
+            "sentence": "The sudden resignation damped investor confidence, even though the fundamentals remained strong.",
+            "meaning_ko": "기초체력은 견조했지만, 갑작스러운 사임이 투자자 신뢰를 약화시켰습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "‘damp’는 ‘젖었지만 흥건하진 않은 축축함’이 핵심입니다(wet/soggy와 대비). 동사 의미는 ‘기세/소리/열의를 죽이다’로 묶어서 외우시면 좋고, 시험에서는 damp down(누그러뜨리다) 구문이 자주 출제됩니다.",
+    "tags": [
+      "날씨",
+      "질감",
+      "습기",
+      "감정·분위기",
+      "기술·진동"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best word: The towels are still ___, so leave them to dry.",
+            "a": "damp",
+            "meaning_ko": "마르지 않고 ‘축축한’ 상태를 나타내므로 damp가 정답입니다."
+          },
+          {
+            "q": "Fill in the blank: I cleaned the screen with a ___ cloth.",
+            "a": "damp",
+            "meaning_ko": "전자기기 청소는 ‘축축한 천’(damp cloth) 표현이 흔합니다."
+          },
+          {
+            "q": "Which is closest to 'damp' (adjective)? A) dry B) moist C) boiling D) sharp",
+            "a": "B) moist",
+            "meaning_ko": "damp는 ‘약간 젖은’ 의미라 moist가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in: His sarcastic comment __ the celebratory mood.",
+            "a": "damped",
+            "meaning_ko": "분위기를 ‘죽이다/약화시키다’는 동사 용법입니다(damp the mood)."
+          },
+          {
+            "q": "Pick the natural phrase: A) damp with sweat B) damp by sweat C) damp at sweat D) damp to sweat",
+            "a": "A) damp with sweat",
+            "meaning_ko": "be damp with ~ (…로 젖어 축축한)이 정형 표현입니다."
+          },
+          {
+            "q": "Rewrite using 'damp down': The manager tried to reduce the conflict.",
+            "a": "The manager tried to damp down the conflict.",
+            "meaning_ko": "damp down + 명사 = 갈등/열기 등을 누그러뜨리다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In a technical context, what does 'damp vibrations' mean?",
+            "a": "reduce vibrations",
+            "meaning_ko": "공학에서 damp는 ‘감쇠시키다(진폭을 줄이다)’ 뜻으로 쓰입니다."
+          },
+          {
+            "q": "Choose the best fit: The policy aims to ___ demand without causing a recession. (damp / drip / hatch / stitch)",
+            "a": "damp",
+            "meaning_ko": "수요의 강도를 ‘누그러뜨리다’는 의미에 damp가 적절합니다."
+          },
+          {
+            "q": "Error correction: 'The announcement damped down to public anger.' (Fix the sentence.)",
+            "a": "The announcement damped down public anger.",
+            "meaning_ko": "damp down은 타동사적으로 목적어를 바로 받는 구문이 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "complain",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To say that you are unhappy or dissatisfied with something; to express a grievance.",
+        "definition_ko": "불평하다, 불만을 말하다.",
+        "note": "주로 complain about + 대상(서비스/상황)에 많이 붙습니다."
+      },
+      {
+        "definition_en": "To report pain or illness; to say that something hurts (often with 'of').",
+        "definition_ko": "통증·질병을 호소하다(특히 의학/격식에서).",
+        "note": "의학적 맥락에서 complain of + symptom 형태가 자주 보입니다."
+      }
+    ],
+    "concept": "마음에 들지 않는 점을 ‘불만으로 표현’하거나, 몸의 이상을 ‘호소’하는 동사입니다.",
+    "etymology": "라틴어 complangere(함께 + 치다/탄식하다) 계열에서 ‘탄식·한탄하다’ 의미로 발전했고, 프랑스어를 거쳐 ‘불평하다/호소하다’로 굳었습니다.",
+    "semanticExtension": "단순한 불만 표출에서 확장되어, 공식 절차(민원·고객센터)나 의학적 ‘증상 호소’까지 포괄하게 되었습니다.",
+    "nuanceRegister": "일상에서 매우 흔하지만, ‘complain of’는 비교적 격식적/의학적입니다. ‘complain to + 사람’은 대상(상대)과 주제(about)를 구분해 주는 것이 자연스럽습니다.",
+    "grammarNotes": "기본 패턴은 complain (to sb) about sth / complain that S+V. ‘complain of + 증상’은 문어·의료문에서 빈도가 높습니다.",
+    "transitivity": "자동사(대개 전치사 보어가 필요: complain about/of/to/that ...)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "…에 대해 불평하다",
+        "example": "complain about the service"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "…에게 불평하다/항의하다(대상)",
+        "example": "complain to the manager"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "…을 호소하다(증상·통증) / (격식) …을 불평하다",
+        "example": "complain of back pain"
+      }
+    ],
+    "requiredComplements": [
+      "complain to + 사람 + about + 대상 : 누구에게 무엇을 불평하다",
+      "complain that + S V : …라고 불평하다(내용절)",
+      "complain of + 증상 : (의학/격식) 증상을 호소하다"
+    ],
+    "morphology": "com-(함께) + plain/plaint(탄식/호소의 어근) 계열로 연결되어 ‘함께 탄식하다 → 호소하다/불평하다’로 의미가 이어집니다.",
+    "derivatives": [
+      {
+        "word": "complaint",
+        "meaning_ko": "불평, 항의; (증상) 호소"
+      },
+      {
+        "word": "complainant",
+        "meaning_ko": "고소인, 민원인"
+      },
+      {
+        "word": "complaining",
+        "meaning_ko": "불평하는(형용사적 용법)"
+      },
+      {
+        "word": "complaint-free",
+        "meaning_ko": "불만이 없는"
+      },
+      {
+        "word": "complaint-handling",
+        "meaning_ko": "민원 처리(업무)"
+      }
+    ],
+    "related": [
+      {
+        "word": "grievance",
+        "meaning_ko": "불만, 고충"
+      },
+      {
+        "word": "refund",
+        "meaning_ko": "환불"
+      },
+      {
+        "word": "customer service",
+        "meaning_ko": "고객 서비스"
+      },
+      {
+        "word": "symptom",
+        "meaning_ko": "증상"
+      },
+      {
+        "word": "appeal",
+        "meaning_ko": "호소; 항소"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "grumble",
+        "meaning_ko": "투덜거리다"
+      },
+      {
+        "word": "protest",
+        "meaning_ko": "항의하다"
+      },
+      {
+        "word": "object",
+        "meaning_ko": "반대하다/이의를 제기하다"
+      },
+      {
+        "word": "lament",
+        "meaning_ko": "한탄하다(문어)"
+      },
+      {
+        "word": "raise a complaint",
+        "meaning_ko": "불만을 제기하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "criticize",
+        "meaning_ko": "비판하다(더 평가적)"
+      },
+      {
+        "word": "whine",
+        "meaning_ko": "징징거리다(부정적 뉘앙스)"
+      },
+      {
+        "word": "report",
+        "meaning_ko": "보고하다(감정 없이 사실 전달)"
+      },
+      {
+        "word": "plead",
+        "meaning_ko": "간청하다/호소하다(요청 성격)"
+      },
+      {
+        "word": "bemoan",
+        "meaning_ko": "…을 한탄하다(문어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      },
+      {
+        "word": "commend",
+        "meaning_ko": "치하하다(격식)"
+      },
+      {
+        "word": "approve",
+        "meaning_ko": "승인하다; 좋게 여기다"
+      },
+      {
+        "word": "accept",
+        "meaning_ko": "수용하다"
+      },
+      {
+        "word": "be satisfied",
+        "meaning_ko": "만족하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "complain about the food",
+            "meaning_ko": "음식에 대해 불평하다"
+          },
+          {
+            "phrase": "complain to a friend",
+            "meaning_ko": "친구에게 불평하다"
+          },
+          {
+            "phrase": "stop complaining",
+            "meaning_ko": "불평 그만해"
+          },
+          {
+            "phrase": "a customer complains",
+            "meaning_ko": "고객이 불만을 제기하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "complain bitterly",
+            "meaning_ko": "몹시/쓴소리로 불평하다"
+          },
+          {
+            "phrase": "complain to the manager",
+            "meaning_ko": "매니저에게 항의하다"
+          },
+          {
+            "phrase": "complain that the bill is wrong",
+            "meaning_ko": "청구서가 틀렸다고 불평하다"
+          },
+          {
+            "phrase": "complain of a headache",
+            "meaning_ko": "두통을 호소하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "file a complaint",
+            "meaning_ko": "정식으로 민원을 접수하다"
+          },
+          {
+            "phrase": "a flood of complaints",
+            "meaning_ko": "불만이 쇄도함"
+          },
+          {
+            "phrase": "complaint procedure",
+            "meaning_ko": "민원 처리 절차"
+          },
+          {
+            "phrase": "complain to regulators",
+            "meaning_ko": "감독기관에 진정을 제기하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He always complains about the weather.",
+            "meaning_ko": "그는 늘 날씨를 불평해요."
+          },
+          {
+            "sentence": "If you don’t like it, don’t complain—change it.",
+            "meaning_ko": "마음에 안 들면 불평만 하지 말고 바꾸세요."
+          },
+          {
+            "sentence": "She complained to her sister after work.",
+            "meaning_ko": "그녀는 퇴근 후에 언니/여동생에게 불평했어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Several guests complained that the room was too noisy.",
+            "meaning_ko": "여러 투숙객이 방이 너무 시끄럽다고 불평했어요."
+          },
+          {
+            "sentence": "He complained of chest pain and was taken to the hospital.",
+            "meaning_ko": "그는 흉통을 호소했고 병원으로 옮겨졌습니다."
+          },
+          {
+            "sentence": "I tried not to complain, but the delay was frustrating.",
+            "meaning_ko": "불평하지 않으려 했지만 지연이 답답했어요."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Residents complained to city officials about the lack of transparent budgeting.",
+            "meaning_ko": "주민들은 투명한 예산 편성이 부족하다고 시 관계자들에게 항의했습니다."
+          },
+          {
+            "sentence": "The report notes that patients often complain of fatigue long after the infection clears.",
+            "meaning_ko": "보고서는 감염이 사라진 뒤에도 환자들이 오랫동안 피로를 호소하곤 한다고 적고 있습니다."
+          },
+          {
+            "sentence": "To avoid reputational damage, the company revamped its complaint-handling process and response times.",
+            "meaning_ko": "평판 손상을 피하기 위해 회사는 민원 처리 절차와 응답 시간을 전면 개선했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "기본은 complain about(무엇) / complain to(누구) 조합으로 ‘대상’과 ‘주제’를 분리해 외우시면 정확도가 올라갑니다. 의학 문맥의 complain of(증상 호소)는 시험에서 잘 나오는 포인트이고, ‘complaint(불평/민원)’로 품사 전환 문제도 자주 출제됩니다.",
+    "tags": [
+      "일상 회화",
+      "고객응대",
+      "민원·항의",
+      "의학·증상",
+      "감정 표현"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in: Don’t ___ about small things all day.",
+            "a": "complain",
+            "meaning_ko": "‘불평하다’ 기본 동사로 complain이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the correct preposition: She complained ___ the slow Wi‑Fi. (about / in / by / with)",
+            "a": "about",
+            "meaning_ko": "불만의 ‘주제’는 complain about으로 받습니다."
+          },
+          {
+            "q": "Which sentence is natural? A) complain the food B) complain about the food",
+            "a": "B) complain about the food",
+            "meaning_ko": "complain은 보통 전치사 about이 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Complete the pattern: complain to + ___ + about + ___.",
+            "a": "someone / something",
+            "meaning_ko": "누구에게(to) 무엇을(about) 불평하는지 구조를 구분하는 문제가 자주 나옵니다."
+          },
+          {
+            "q": "Fill in: The patient complained ___ dizziness.",
+            "a": "of",
+            "meaning_ko": "의학적 ‘증상 호소’는 complain of가 정형입니다."
+          },
+          {
+            "q": "Rewrite using a that-clause: He complained about the schedule being unfair.",
+            "a": "He complained that the schedule was unfair.",
+            "meaning_ko": "complain that + S V로 내용을 절로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best option: The agency received numerous ___ from citizens. (complain / complaints / complaining / complained)",
+            "a": "complaints",
+            "meaning_ko": "수량을 나타내므로 명사 복수 complaints가 맞습니다."
+          },
+          {
+            "q": "Tone check: Which word implies childish, annoying complaining? A) complain B) whine C) object D) commend",
+            "a": "B) whine",
+            "meaning_ko": "whine은 ‘징징거리다’로 부정적 뉘앙스가 강합니다."
+          },
+          {
+            "q": "Error correction: 'She complained to the price.' (Fix it.)",
+            "a": "She complained about the price.",
+            "meaning_ko": "주제는 about으로, 대상(상대)은 to로 받습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sinecure",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A position that requires little or no work but provides money, status, or other benefits.",
+        "definition_ko": "한직, 무보직(실질적 업무는 거의 없는데 보수·지위는 따르는 자리).",
+        "note": "대개 비판적 뉘앙스(‘꿀보직’/‘밥값 못 하는 자리’)로 쓰입니다."
+      }
+    ],
+    "concept": "‘일은 거의 없는데 혜택은 큰 자리’—특히 특혜·낙하산과 연결되어 비판적으로 쓰입니다.",
+    "etymology": "라틴어 sine cura(‘without care/without duties’, ‘돌봄/책무 없이’)에서 유래해, ‘책임 없는 직위’라는 의미로 굳었습니다.",
+    "semanticExtension": "원래는 책임(돌봄)이 없는 성직 관련 직위를 가리키는 용례에서, 현대에는 공공·기업·정치 전반의 ‘실질 업무 없는 자리’로 일반화되었습니다.",
+    "nuanceRegister": "격식·문어적 단어이며, 기사/평론/비판 맥락에서 많이 쓰입니다. 칭찬이 아니라 ‘특혜’ 느낌이 강합니다.",
+    "grammarNotes": "보통 관사와 함께 a sinecure로 쓰이며, ‘lucrative/political sinecure’ 같은 수식어가 자주 붙습니다. ‘hand out/create sinecures’ 같은 동사와 결합이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "…에게 돌아가는 한직(수혜자 강조)",
+        "example": "a sinecure for loyalists"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "…에서/…분야의 한직(영역 강조)",
+        "example": "a sinecure in the agency"
+      },
+      {
+        "prep": "as",
+        "meaning_ko": "…로서의 한직(역할 규정)",
+        "example": "served as a sinecure"
+      }
+    ],
+    "requiredComplements": [
+      "a sinecure for + 사람/집단 : (특혜로) ~에게 주는 한직",
+      "a sinecure in + 조직/분야 : ~의 한직",
+      "hand out/create sinecures : 한직을 만들어/나눠주다(비판 맥락)"
+    ],
+    "morphology": "sine(없이) + cure(돌봄/책무)로 구성된 라틴어 표현이 그대로 굳어 들어온 단어입니다.",
+    "derivatives": [
+      {
+        "word": "sinecurist",
+        "meaning_ko": "한직을 가진 사람(드묾)"
+      },
+      {
+        "word": "sinecures",
+        "meaning_ko": "sinecure의 복수형"
+      },
+      {
+        "word": "cushy job",
+        "meaning_ko": "편한 직장/자리(구어적 동의 표현)"
+      },
+      {
+        "word": "no-show job",
+        "meaning_ko": "출근·업무 거의 없는 자리(구어)"
+      },
+      {
+        "word": "patronage",
+        "meaning_ko": "후원·연줄 인사(관련 개념)"
+      }
+    ],
+    "related": [
+      {
+        "word": "patronage",
+        "meaning_ko": "연줄 인사, 후원 인사"
+      },
+      {
+        "word": "nepotism",
+        "meaning_ko": "족벌주의, 친족 특혜"
+      },
+      {
+        "word": "cronyism",
+        "meaning_ko": "측근주의, 연고주의"
+      },
+      {
+        "word": "tenure",
+        "meaning_ko": "재직 기간; 종신직"
+      },
+      {
+        "word": "bureaucracy",
+        "meaning_ko": "관료제"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cushy position",
+        "meaning_ko": "편한 자리(구어)"
+      },
+      {
+        "word": "soft job",
+        "meaning_ko": "일이 쉬운 직무"
+      },
+      {
+        "word": "featherbed job",
+        "meaning_ko": "한직/꿀보직(비격식)"
+      },
+      {
+        "word": "plum job",
+        "meaning_ko": "좋은 자리(특혜 느낌)"
+      },
+      {
+        "word": "no-show job",
+        "meaning_ko": "실질 업무 없는 자리"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "ceremonial post",
+        "meaning_ko": "명예직/의례적 직위"
+      },
+      {
+        "word": "figurehead role",
+        "meaning_ko": "허수아비 역할"
+      },
+      {
+        "word": "nominal position",
+        "meaning_ko": "명목상의 직위"
+      },
+      {
+        "word": "perquisite",
+        "meaning_ko": "특전(자리 자체는 아님)"
+      },
+      {
+        "word": "stipend",
+        "meaning_ko": "수당/장학금(보수 개념)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "onerous job",
+        "meaning_ko": "힘든 업무/직무"
+      },
+      {
+        "word": "demanding role",
+        "meaning_ko": "요구가 큰 역할"
+      },
+      {
+        "word": "heavy workload",
+        "meaning_ko": "과중한 업무량"
+      },
+      {
+        "word": "hands-on position",
+        "meaning_ko": "실무 중심 자리"
+      },
+      {
+        "word": "frontline post",
+        "meaning_ko": "현장/전선(최전선) 직위"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a sinecure position",
+            "meaning_ko": "한직(자리)"
+          },
+          {
+            "phrase": "a cushy sinecure",
+            "meaning_ko": "편한 한직"
+          },
+          {
+            "phrase": "a political sinecure",
+            "meaning_ko": "정치적 한직(낙하산 자리)"
+          },
+          {
+            "phrase": "an easy sinecure",
+            "meaning_ko": "일이 거의 없는 자리"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a lucrative sinecure",
+            "meaning_ko": "보수 좋은 한직"
+          },
+          {
+            "phrase": "hand out sinecures",
+            "meaning_ko": "한직을 나눠주다"
+          },
+          {
+            "phrase": "a sinecure for allies",
+            "meaning_ko": "동맹/측근에게 주는 한직"
+          },
+          {
+            "phrase": "turn a post into a sinecure",
+            "meaning_ko": "직위를 사실상 한직으로 만들다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sinecure appointments",
+            "meaning_ko": "한직성 임명(특혜 인사)"
+          },
+          {
+            "phrase": "patronage and sinecures",
+            "meaning_ko": "연줄 인사와 한직(세트로 논의)"
+          },
+          {
+            "phrase": "a sinecure carved out for insiders",
+            "meaning_ko": "내부자들을 위해 만든 한직"
+          },
+          {
+            "phrase": "public outrage over sinecures",
+            "meaning_ko": "한직 특혜에 대한 대중의 분노"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He got a sinecure and rarely showed up at the office.",
+            "meaning_ko": "그는 한직을 얻고는 사무실에 거의 나오지 않았어요."
+          },
+          {
+            "sentence": "People complained that the role was basically a sinecure.",
+            "meaning_ko": "사람들은 그 역할이 사실상 한직이라고 불평했어요."
+          },
+          {
+            "sentence": "She refused a sinecure because she wanted real work.",
+            "meaning_ko": "그녀는 실질적인 일을 하고 싶어서 한직을 거절했어요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The article accused the mayor of handing out sinecures to loyal supporters.",
+            "meaning_ko": "그 기사는 시장이 충성 지지자들에게 한직을 나눠준다고 비난했습니다."
+          },
+          {
+            "sentence": "What started as a serious post slowly turned into a sinecure after the reorganization.",
+            "meaning_ko": "처음엔 중요한 직위였지만, 조직 개편 후 점차 한직이 되어 갔습니다."
+          },
+          {
+            "sentence": "Calling it a sinecure overlooks the occasional crises the team still must manage.",
+            "meaning_ko": "그것을 한직이라고 부르는 것은 팀이 여전히 가끔 처리해야 하는 위기 상황을 간과하는 겁니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Regulators warned that patronage-driven sinecure appointments erode institutional accountability.",
+            "meaning_ko": "감독기관은 연줄 인사로 이뤄진 한직성 임명이 제도적 책임성을 약화시킨다고 경고했습니다."
+          },
+          {
+            "sentence": "The committee proposed rules to prevent boards from creating sinecures funded by public money.",
+            "meaning_ko": "위원회는 공적 자금으로 한직을 만들어내지 못하도록 하는 규정안을 제안했습니다."
+          },
+          {
+            "sentence": "In the aftermath of the scandal, even long-standing sinecures were scrutinized for measurable outcomes.",
+            "meaning_ko": "스캔들 이후에는 오래된 한직들조차도 측정 가능한 성과 기준으로 검증을 받았습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sinecure는 ‘일(책무)이 없다(sine cura)’라는 어원 자체가 의미를 거의 그대로 보여 줍니다. 시험에서는 ‘cushy job’ 같은 구어적 표현과 의미 연결, 그리고 patronage/nepotism/cronyism 같은 ‘특혜 인사’ 어휘군과 함께 묶어 두면 독해에서 빠르게 잡힙니다.",
+    "tags": [
+      "정치·사회",
+      "조직·인사",
+      "비판적 표현",
+      "기사·평론",
+      "특혜·부패"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'sinecure': A) a risky mission B) a job with little work but good benefits C) a sudden storm D) a medical procedure",
+            "a": "B) a job with little work but good benefits",
+            "meaning_ko": "핵심 정의 자체가 ‘일은 거의 없고 혜택은 있는 자리’입니다."
+          },
+          {
+            "q": "Fill in: He joked that his new role was a ___.",
+            "a": "sinecure",
+            "meaning_ko": "문맥상 ‘한직’이 자연스럽습니다."
+          },
+          {
+            "q": "Which adjective commonly modifies 'sinecure'? A) damp B) lucrative C) edible D) porous",
+            "a": "B) lucrative",
+            "meaning_ko": "lucrative sinecure(돈 되는 한직)처럼 결합이 자주 나타납니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The opposition accused the administration of handing out ___ to allies.",
+            "a": "sinecures",
+            "meaning_ko": "복수 목적어로 ‘한직들’을 의미하므로 sinecures가 맞습니다."
+          },
+          {
+            "q": "Paraphrase: The post was mostly ceremonial and required little work.",
+            "a": "It was a sinecure.",
+            "meaning_ko": "‘실질 업무가 거의 없는 직위’는 sinecure로 압축됩니다."
+          },
+          {
+            "q": "Choose the closest synonym: A) onerous job B) cushy position C) frontline post D) heavy workload",
+            "a": "B) cushy position",
+            "meaning_ko": "구어적 동의 표현으로 cushy position이 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In critical commentary, why is 'sinecure' often used instead of 'easy job'?",
+            "a": "It implies undeserved privilege or patronage.",
+            "meaning_ko": "단순히 쉬운 일이 아니라 ‘특혜/연줄로 얻는 자리’라는 비판 뉘앙스를 담습니다."
+          },
+          {
+            "q": "Error correction: 'They appointed him to a sinecure on the agency.' (Fix the preposition.)",
+            "a": "They appointed him to a sinecure in the agency.",
+            "meaning_ko": "조직 내 ‘한직’은 보통 in + 조직으로 표현하는 편이 자연스럽습니다."
+          },
+          {
+            "q": "Complete: patronage and ___ (a related word meaning 'jobs with pay but little work')",
+            "a": "sinecures",
+            "meaning_ko": "기사/평론에서 patronage and sinecures는 자주 함께 등장하는 결합입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,966 @@
+[
+  {
+    "word": "impose",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To force something to be accepted or put in place, especially without consent.",
+        "definition_ko": "특히 상대의 동의 없이 어떤 규칙·의무·부담 등을 강제로 부과하다.",
+        "note": "‘부담/규칙/세금/제한을 impose on/upon ~’처럼 목적어가 ‘부과되는 대상’일 때 전치사 패턴이 중요합니다."
+      },
+      {
+        "definition_en": "To take advantage of someone's kindness; to intrude or burden someone.",
+        "definition_ko": "호의를 이용해 폐를 끼치다, 민폐를 끼치다.",
+        "note": "주로 'impose on someone' 형태로 쓰이며, 격식이 조금 있는 표현입니다."
+      }
+    ],
+    "concept": "상대가 원치 않아도 규칙·의무·부담을 ‘얹어’ 강제로 적용하는 것.",
+    "etymology": "라틴어 imponere(위에 놓다, 부과하다)에서 유래했으며, im-(on) + ponere(놓다)의 결합입니다.",
+    "semanticExtension": "물리적으로 ‘위에 올려놓다’에서 출발해, 규칙·세금·제한 같은 추상적 부담을 ‘부과하다’로 확장되었습니다.",
+    "nuanceRegister": "격식/문어에서 자주 쓰이며, 공식 규정·정책·제재 문맥에 자연스럽습니다. 일상에서는 ‘impose on’으로 ‘폐 끼치다’ 의미가 자주 나옵니다.",
+    "grammarNotes": "타동사이며 ‘impose A on/upon B(=B에게 A를 부과하다)’가 핵심 구문입니다. ‘impose on someone(폐 끼치다)’는 목적어 없이 전치사구로 마무리됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에게(에) 부과하다/강요하다; ~에게 폐 끼치다",
+        "example": "impose a curfew on residents"
+      },
+      {
+        "prep": "upon",
+        "meaning_ko": "격식: ~에게(에) 부과하다/강요하다",
+        "example": "impose sanctions upon a regime"
+      }
+    ],
+    "requiredComplements": [
+      "impose + noun (rule/tax/ban/limit) + on/upon + person/group : ~에게 ~을 부과/강요하다",
+      "impose on + person : ~에게 폐를 끼치다/민폐를 끼치다",
+      "impose + oneself + on + person : (원치 않는데) 들이밀다, 억지로 끼어들다"
+    ],
+    "morphology": "im-(on, upon) + pose/pon(e)(놓다; 라틴 ponere 계열) → ‘위에 얹다’ → ‘부과하다’.",
+    "derivatives": [
+      {
+        "word": "imposition",
+        "meaning_ko": "부과, 강요; (또는) 민폐"
+      },
+      {
+        "word": "imposing",
+        "meaning_ko": "위압적인, 인상적인(규모·위세가 큰)"
+      },
+      {
+        "word": "imposed",
+        "meaning_ko": "부과된, 강요된"
+      }
+    ],
+    "related": [
+      {
+        "word": "enforce",
+        "meaning_ko": "집행하다, 강제하다"
+      },
+      {
+        "word": "mandate",
+        "meaning_ko": "명령하다; (명사) 의무화 조치"
+      },
+      {
+        "word": "levy",
+        "meaning_ko": "부과하다(세금 등)"
+      },
+      {
+        "word": "intrude",
+        "meaning_ko": "침범하다, 불쑥 끼어들다"
+      },
+      {
+        "word": "burden",
+        "meaning_ko": "부담을 지우다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "foist",
+        "meaning_ko": "억지로 떠넘기다"
+      },
+      {
+        "word": "levy",
+        "meaning_ko": "부과하다(세금)"
+      },
+      {
+        "word": "enforce",
+        "meaning_ko": "강제하다"
+      },
+      {
+        "word": "inflict",
+        "meaning_ko": "가하다(고통/피해를)"
+      },
+      {
+        "word": "impose",
+        "meaning_ko": "부과하다(핵심어)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "compel",
+        "meaning_ko": "강요하다(행위를)"
+      },
+      {
+        "word": "oblige",
+        "meaning_ko": "의무를 지우다/부득이하게 하다"
+      },
+      {
+        "word": "require",
+        "meaning_ko": "요구하다"
+      },
+      {
+        "word": "press",
+        "meaning_ko": "압박하다(완곡/비격식 가능)"
+      },
+      {
+        "word": "dictate",
+        "meaning_ko": "지시하다, 좌우하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lift",
+        "meaning_ko": "해제하다(제한/금지)"
+      },
+      {
+        "word": "allow",
+        "meaning_ko": "허용하다"
+      },
+      {
+        "word": "grant",
+        "meaning_ko": "허가/부여하다"
+      },
+      {
+        "word": "refrain",
+        "meaning_ko": "삼가다, 자제하다"
+      },
+      {
+        "word": "respect",
+        "meaning_ko": "존중하다(의사/경계)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "impose a fine",
+            "meaning_ko": "벌금을 부과하다"
+          },
+          {
+            "phrase": "impose a rule",
+            "meaning_ko": "규칙을 부과/적용하다"
+          },
+          {
+            "phrase": "impose a tax",
+            "meaning_ko": "세금을 부과하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "impose a ban on",
+            "meaning_ko": "~에 금지 조치를 부과하다"
+          },
+          {
+            "phrase": "impose restrictions on",
+            "meaning_ko": "~에 제한을 두다"
+          },
+          {
+            "phrase": "impose a deadline",
+            "meaning_ko": "마감기한을 설정(강제)하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "impose a curfew",
+            "meaning_ko": "통행금지를 선포/부과하다"
+          },
+          {
+            "phrase": "impose compliance requirements",
+            "meaning_ko": "준수(컴플라이언스) 요건을 강제하다"
+          },
+          {
+            "phrase": "impose an undue burden",
+            "meaning_ko": "과도한 부담을 지우다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The city imposed a fine for illegal parking.",
+            "meaning_ko": "시는 불법 주차에 벌금을 부과했다."
+          },
+          {
+            "sentence": "Please don’t impose on your neighbors too often.",
+            "meaning_ko": "이웃에게 너무 자주 폐를 끼치지 마세요."
+          },
+          {
+            "sentence": "They imposed a new rule at school last week.",
+            "meaning_ko": "학교는 지난주 새 규칙을 적용했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company imposed strict limits on overtime to cut costs.",
+            "meaning_ko": "회사는 비용 절감을 위해 초과근무에 엄격한 제한을 두었다."
+          },
+          {
+            "sentence": "Don’t impose your opinions on others when you haven’t heard them out.",
+            "meaning_ko": "상대 이야기를 듣지도 않고 의견을 강요하지 마세요."
+          },
+          {
+            "sentence": "The court imposed a two-year ban on the firm’s operating license.",
+            "meaning_ko": "법원은 그 회사의 영업 허가에 2년간 금지 조치를 내렸다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The treaty forbids states from imposing discriminatory tariffs on essential goods.",
+            "meaning_ko": "그 조약은 필수 물품에 차별적 관세를 부과하는 것을 국가에 금지한다."
+          },
+          {
+            "sentence": "Regulators may impose compliance requirements that reshape the entire industry.",
+            "meaning_ko": "규제 당국은 산업 전체를 재편할 정도의 준수 요건을 강제할 수 있다."
+          },
+          {
+            "sentence": "Any reform that imposes an undue burden on small businesses will face backlash.",
+            "meaning_ko": "소규모 기업에 과도한 부담을 지우는 개혁은 반발을 맞을 것이다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "impose는 ‘위에 얹다’ 감각(부담을 얹음)으로 기억하시면 좋습니다. 시험에서는 ‘impose A on/upon B’ 전치사와 목적어 배치를 자주 묻습니다. 일상 의미의 ‘폐 끼치다’는 impose on + 사람으로 통째로 외우면 혼동이 줄어듭니다.",
+    "tags": [
+      "정책",
+      "규제",
+      "의무",
+      "민폐",
+      "법·행정"
+    ],
+    "frequency": "상",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best preposition: The school imposed a new dress code ___ students.",
+            "a": "on",
+            "meaning_ko": "‘impose A on B’가 정형 구문입니다."
+          },
+          {
+            "q": "Fill in the blank: Please don’t ______ on your friends when they’re busy.",
+            "a": "impose",
+            "meaning_ko": "impose on = 폐를 끼치다."
+          },
+          {
+            "q": "Which meaning matches 'impose a fine'?",
+            "a": "to officially force a penalty to be paid",
+            "meaning_ko": "벌금 ‘부과’의 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite: The government forced strict limits on exports. (Use 'impose')",
+            "a": "The government imposed strict limits on exports.",
+            "meaning_ko": "force → impose로 바꿔 표현."
+          },
+          {
+            "q": "Pick the closest meaning: 'Don’t impose your views on me.'",
+            "a": "Don’t force your views on me.",
+            "meaning_ko": "강요하다/억지로 받아들이게 하다."
+          },
+          {
+            "q": "Error correction: They imposed to us a new fee.",
+            "a": "They imposed a new fee on us.",
+            "meaning_ko": "목적어 위치와 전치사 on이 핵심입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best option: 'The policy may impose an ___ burden on low-income households.' (A) undue (B) urban (C) unsure (D) unit",
+            "a": "undue",
+            "meaning_ko": "undue burden = 과도한/부당한 부담."
+          },
+          {
+            "q": "Fill in: The agreement prohibits either party from imposing discriminatory tariffs ___ agricultural imports.",
+            "a": "on",
+            "meaning_ko": "tariffs를 imports에 부과 → impose A on B 구조."
+          },
+          {
+            "q": "Which sentence uses 'impose' most appropriately in a legal context?",
+            "a": "The court imposed sanctions on the defendant for contempt.",
+            "meaning_ko": "법원/제재/법정모독 등은 impose와 결합이 매우 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spontaneous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Happening naturally and suddenly, without being planned or forced.",
+        "definition_ko": "계획하거나 강요하지 않았는데 자연스럽게, 즉흥적으로 일어나는.",
+        "note": "‘spontaneous decision/visit/remark’처럼 ‘즉흥적’ 의미가 핵심입니다."
+      },
+      {
+        "definition_en": "Arising from internal causes rather than external control; self-generated.",
+        "definition_ko": "외부 통제 없이 내부 원인으로 자발적으로 생겨나는.",
+        "note": "과학/의학 문맥에서 ‘자발적(자연 발생)’으로도 자주 쓰입니다(예: spontaneous recovery)."
+      }
+    ],
+    "concept": "미리 짜지 않았는데도 ‘자연스럽게/자발적으로’ 튀어나오는 것.",
+    "etymology": "라틴어 spontaneus(자발적인)에서 왔고, sponte(자발적으로)라는 어근과 연결됩니다.",
+    "semanticExtension": "개인의 즉흥적 행동에서 시작해, 외부 힘이 아닌 내부 요인으로 ‘자연 발생’하는 현상(의학·과학)까지 의미가 확장됩니다.",
+    "nuanceRegister": "일상 회화에서도 흔하지만, ‘자발적 발생’ 의미는 학술/의학 문어에서 더 뚜렷합니다.",
+    "grammarNotes": "형용사로서 명사 앞·보어 위치 모두 자연스럽습니다. 자주 쓰이는 부사는 spontaneously입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(말투/행동이) 즉흥적으로 나타나다",
+        "example": "be spontaneous in conversation"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~에 대해/하면서 즉흥적이다",
+        "example": "be spontaneous with ideas"
+      }
+    ],
+    "requiredComplements": [
+      "spontaneous + noun (decision/visit/applause/remark) : 즉흥적인 결정/방문/박수/발언",
+      "spontaneous + reaction/response : 즉각적이고 자연스러운 반응",
+      "spontaneous + recovery/remission : (의학) 자발적 회복/관해"
+    ],
+    "morphology": "spontane- (자발적) + -ous(형용사 접미사) → ‘자발적인, 즉흥적인’.",
+    "derivatives": [
+      {
+        "word": "spontaneously",
+        "meaning_ko": "자발적으로, 즉흥적으로"
+      },
+      {
+        "word": "spontaneity",
+        "meaning_ko": "즉흥성, 자연스러운 자발성"
+      },
+      {
+        "word": "spontaneism",
+        "meaning_ko": "자발성 중시 경향(드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "impulsive",
+        "meaning_ko": "충동적인(통제 약함)"
+      },
+      {
+        "word": "unplanned",
+        "meaning_ko": "계획되지 않은"
+      },
+      {
+        "word": "voluntary",
+        "meaning_ko": "자발적인(의지적)"
+      },
+      {
+        "word": "instinctive",
+        "meaning_ko": "본능적인"
+      },
+      {
+        "word": "natural",
+        "meaning_ko": "자연스러운"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "unplanned",
+        "meaning_ko": "계획되지 않은"
+      },
+      {
+        "word": "impromptu",
+        "meaning_ko": "즉석의, 즉흥의"
+      },
+      {
+        "word": "unforced",
+        "meaning_ko": "억지스럽지 않은"
+      },
+      {
+        "word": "offhand",
+        "meaning_ko": "별 생각 없이 툭 내뱉는"
+      },
+      {
+        "word": "natural",
+        "meaning_ko": "자연스러운"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "impulsive",
+        "meaning_ko": "충동적인(가끔 부정적)"
+      },
+      {
+        "word": "instinctive",
+        "meaning_ko": "본능적인"
+      },
+      {
+        "word": "voluntary",
+        "meaning_ko": "의지로 하는 자발적"
+      },
+      {
+        "word": "casual",
+        "meaning_ko": "격식 없는, 가벼운"
+      },
+      {
+        "word": "sudden",
+        "meaning_ko": "갑작스러운(계획 여부와는 별개)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "planned",
+        "meaning_ko": "계획된"
+      },
+      {
+        "word": "premeditated",
+        "meaning_ko": "사전에 계획된, 고의의"
+      },
+      {
+        "word": "deliberate",
+        "meaning_ko": "의도적인, 신중한"
+      },
+      {
+        "word": "forced",
+        "meaning_ko": "강요된"
+      },
+      {
+        "word": "staged",
+        "meaning_ko": "연출된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a spontaneous smile",
+            "meaning_ko": "자연스러운 미소"
+          },
+          {
+            "phrase": "a spontaneous decision",
+            "meaning_ko": "즉흥적인 결정"
+          },
+          {
+            "phrase": "spontaneous laughter",
+            "meaning_ko": "절로 터지는 웃음"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a spontaneous trip",
+            "meaning_ko": "즉흥 여행"
+          },
+          {
+            "phrase": "spontaneous applause",
+            "meaning_ko": "자발적으로 터지는 박수"
+          },
+          {
+            "phrase": "a spontaneous offer to help",
+            "meaning_ko": "자발적인 도움 제안"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "spontaneous remission",
+            "meaning_ko": "(의학) 자발적 관해"
+          },
+          {
+            "phrase": "spontaneous combustion",
+            "meaning_ko": "자연 발화"
+          },
+          {
+            "phrase": "spontaneous order",
+            "meaning_ko": "자생적 질서(사회·경제 이론)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We made a spontaneous decision to eat out.",
+            "meaning_ko": "우리는 즉흥적으로 외식하기로 했다."
+          },
+          {
+            "sentence": "Her spontaneous smile made the room feel warmer.",
+            "meaning_ko": "그녀의 자연스러운 미소가 분위기를 더 따뜻하게 만들었다."
+          },
+          {
+            "sentence": "The crowd burst into spontaneous laughter.",
+            "meaning_ko": "군중은 절로 웃음을 터뜨렸다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The team’s spontaneous celebration showed how relieved they were.",
+            "meaning_ko": "팀의 자발적 축하는 그들이 얼마나 안도했는지 보여줬다."
+          },
+          {
+            "sentence": "Try to be spontaneous in conversation instead of rehearsing every line.",
+            "meaning_ko": "대화에서 매 문장을 연습하기보다 좀 더 즉흥적으로 해 보세요."
+          },
+          {
+            "sentence": "What looked spontaneous was actually carefully staged for the camera.",
+            "meaning_ko": "즉흥적으로 보였던 장면은 사실 카메라를 위해 치밀하게 연출된 것이었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The study investigated whether spontaneous remission could be linked to immune regulation.",
+            "meaning_ko": "그 연구는 자발적 관해가 면역 조절과 연관될 수 있는지 조사했다."
+          },
+          {
+            "sentence": "Markets sometimes display a kind of spontaneous order without central planning.",
+            "meaning_ko": "시장은 중앙 계획 없이도 때때로 자생적 질서를 보여준다."
+          },
+          {
+            "sentence": "Because the reaction is spontaneous, it proceeds without an external energy input once initiated.",
+            "meaning_ko": "그 반응은 자발적이어서, 일단 시작되면 외부 에너지 투입 없이 진행된다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "spontaneous는 ‘계획 없음 + 자연스럽게 발생’ 두 축으로 잡아두면 정확합니다. impulsive(충동적, 통제 약함)와 헷갈리기 쉬운데, spontaneous는 ‘좋은 느낌의 자연스러움’이 더 자주 따라옵니다. 학술 문맥에서는 spontaneous remission/combustion 같은 결합을 통째로 익히세요.",
+    "tags": [
+      "감정·행동",
+      "즉흥",
+      "자발성",
+      "의학",
+      "과학"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: We took a ________ trip to the beach.",
+            "a": "spontaneous",
+            "meaning_ko": "계획 없이 즉흥적으로 한 여행."
+          },
+          {
+            "q": "Which is closest to 'spontaneous'?",
+            "a": "unplanned",
+            "meaning_ko": "핵심은 ‘계획되지 않은/자연스러운’입니다."
+          },
+          {
+            "q": "Choose the best sentence.",
+            "a": "The audience gave spontaneous applause.",
+            "meaning_ko": "자발적으로 터지는 박수는 spontaneous와 잘 결합합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite: The party wasn’t planned, but it felt natural. (Use 'spontaneous')",
+            "a": "The party was spontaneous and felt natural.",
+            "meaning_ko": "계획되지 않았고 자연스러웠다 → spontaneous."
+          },
+          {
+            "q": "Pick the better word: She bought it without thinking much. (spontaneous / premeditated)",
+            "a": "spontaneous",
+            "meaning_ko": "premeditated는 사전 계획·고의의 의미."
+          },
+          {
+            "q": "Fill in: He answered ________, without reading from notes.",
+            "a": "spontaneously",
+            "meaning_ko": "부사 spontaneously로 자연스럽게 답했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In a scientific context, 'spontaneous' most nearly means:",
+            "a": "arising from internal causes without external control",
+            "meaning_ko": "자발적/자연 발생."
+          },
+          {
+            "q": "Choose the best collocation: ________ combustion can occur in oily rags.",
+            "a": "spontaneous",
+            "meaning_ko": "spontaneous combustion = 자연 발화."
+          },
+          {
+            "q": "Choose the antonym that best contrasts the idea: spontaneous ↔ ________",
+            "a": "premeditated",
+            "meaning_ko": "즉흥/자연스러움 ↔ 사전 계획/고의."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "anthropomorphic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Having or attributing human form, characteristics, or behavior to nonhuman things.",
+        "definition_ko": "인간이 아닌 것에 인간의 형태·성격·행동을 부여한, 의인화된.",
+        "note": "동물/사물/신/기계에 ‘사람 같다’는 성질을 붙이는 표현 전반을 포괄합니다."
+      }
+    ],
+    "concept": "사람이 아닌 대상에 ‘사람의 얼굴·감정·의도’를 입혀 표현하는 것.",
+    "etymology": "그리스어 anthrōpos(인간) + morphē(형태) + -ic(형용사)에서 유래했습니다.",
+    "semanticExtension": "신화·종교에서 신을 인간 모습으로 묘사하는 데서 출발해, 문학·광고·UX에서 제품/AI에 인간적 특성을 부여하는 방식으로 넓게 쓰입니다.",
+    "nuanceRegister": "학술(심리·인지과학·미학)과 비평/리뷰(캐릭터 디자인, 브랜드 톤)에서 자주 쓰이며, 일상에서는 ‘의인화된’으로 설명해도 자연스럽습니다.",
+    "grammarNotes": "형용사로 쓰이며, 명사형 anthropomorphism(의인화)와 함께 많이 등장합니다. 주로 ‘anthropomorphic + noun(animals/characters/design)’로 결합합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(표현/묘사에서) 의인화가 나타나다",
+        "example": "anthropomorphic traits in cartoons"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에(대해) 인간적 특성을 부여하다(관련 표현)",
+        "example": "attribute human motives to machines"
+      }
+    ],
+    "requiredComplements": [
+      "anthropomorphic + character/animal/figure : 의인화된 캐릭터/동물/형상",
+      "anthropomorphic + design/interface : (제품/UX) 인간적 느낌을 주는 설계",
+      "attribute + human emotions/motives + to + nonhuman entity : 비인간 대상에 인간 감정/동기를 부여하다"
+    ],
+    "morphology": "anthropo-(인간) + morph(형태) + -ic(형용사) → ‘인간 형태의/의인화된’.",
+    "derivatives": [
+      {
+        "word": "anthropomorphism",
+        "meaning_ko": "의인화(비인간에 인간 특성을 부여)"
+      },
+      {
+        "word": "anthropomorphize",
+        "meaning_ko": "의인화하다"
+      },
+      {
+        "word": "anthropomorphized",
+        "meaning_ko": "의인화된"
+      }
+    ],
+    "related": [
+      {
+        "word": "personify",
+        "meaning_ko": "의인화하다"
+      },
+      {
+        "word": "humanlike",
+        "meaning_ko": "사람 같은"
+      },
+      {
+        "word": "zoomorphic",
+        "meaning_ko": "동물 형태의(동물화된)"
+      },
+      {
+        "word": "avatar",
+        "meaning_ko": "아바타, 대리 표현체"
+      },
+      {
+        "word": "characterization",
+        "meaning_ko": "성격 부여, 캐릭터화"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "humanlike",
+        "meaning_ko": "사람 같은"
+      },
+      {
+        "word": "personified",
+        "meaning_ko": "의인화된"
+      },
+      {
+        "word": "human-shaped",
+        "meaning_ko": "인간 형태의"
+      },
+      {
+        "word": "humanized",
+        "meaning_ko": "인간적으로 만든/표현한"
+      },
+      {
+        "word": "anthropomorphic",
+        "meaning_ko": "의인화된(핵심어)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "figurative",
+        "meaning_ko": "비유적인"
+      },
+      {
+        "word": "symbolic",
+        "meaning_ko": "상징적인"
+      },
+      {
+        "word": "mythic",
+        "meaning_ko": "신화적인"
+      },
+      {
+        "word": "cartoonish",
+        "meaning_ko": "만화적인(의인화와 자주 동반)"
+      },
+      {
+        "word": "narrative",
+        "meaning_ko": "서사적인(성격 부여와 연관)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mechanistic",
+        "meaning_ko": "기계론적인, 비인격적인"
+      },
+      {
+        "word": "abstract",
+        "meaning_ko": "추상적인(형상/인격 부여 없음)"
+      },
+      {
+        "word": "literal",
+        "meaning_ko": "문자 그대로의, 비유 없는"
+      },
+      {
+        "word": "nonhuman",
+        "meaning_ko": "비인간의"
+      },
+      {
+        "word": "depersonalized",
+        "meaning_ko": "비인격화된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "anthropomorphic animals",
+            "meaning_ko": "의인화된 동물들"
+          },
+          {
+            "phrase": "anthropomorphic character",
+            "meaning_ko": "의인화된 캐릭터"
+          },
+          {
+            "phrase": "anthropomorphic robot",
+            "meaning_ko": "인간형(의인화된) 로봇"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "anthropomorphic depiction",
+            "meaning_ko": "의인화된 묘사"
+          },
+          {
+            "phrase": "anthropomorphic traits",
+            "meaning_ko": "인간적 특성(의인화 특징)"
+          },
+          {
+            "phrase": "anthropomorphic design",
+            "meaning_ko": "인간적 느낌을 주는 디자인"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "anthropomorphic bias",
+            "meaning_ko": "의인화 편향(비인간에 인간 의도를 투사)"
+          },
+          {
+            "phrase": "anthropomorphic fallacy",
+            "meaning_ko": "의인화의 오류(자연/기계에 인간 동기 부여)"
+          },
+          {
+            "phrase": "anthropomorphic interface cues",
+            "meaning_ko": "UI에서 인간적 단서(말투/표정 등)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The story features anthropomorphic animals who talk like humans.",
+            "meaning_ko": "그 이야기는 사람처럼 말하는 의인화된 동물들이 나온다."
+          },
+          {
+            "sentence": "Kids love the anthropomorphic robot with big eyes.",
+            "meaning_ko": "아이들은 큰 눈을 가진 의인화된 로봇을 좋아한다."
+          },
+          {
+            "sentence": "The ad uses an anthropomorphic coffee cup to make the brand feel friendly.",
+            "meaning_ko": "그 광고는 브랜드를 친근하게 보이게 하려고 의인화된 커피컵을 쓴다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Anthropomorphic design can increase trust, but it may also raise unrealistic expectations.",
+            "meaning_ko": "의인화 디자인은 신뢰를 높일 수 있지만, 비현실적인 기대를 키울 수도 있다."
+          },
+          {
+            "sentence": "People often use anthropomorphic language when they say, “My laptop hates me.”",
+            "meaning_ko": "사람들은 “내 노트북이 나를 싫어해” 같은 의인화 표현을 자주 쓴다."
+          },
+          {
+            "sentence": "The painter avoided anthropomorphic depictions of nature to keep the work abstract.",
+            "meaning_ko": "그 화가는 작품을 추상적으로 유지하려고 자연을 의인화해 묘사하는 것을 피했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Anthropomorphic bias leads users to attribute intention and emotion to statistical outputs.",
+            "meaning_ko": "의인화 편향은 사용자가 통계적 출력에 의도와 감정을 부여하게 만든다."
+          },
+          {
+            "sentence": "In comparative religion, scholars debate the function of anthropomorphic representations of divinity.",
+            "meaning_ko": "비교종교학에서는 신성을 인간 형상으로 표현하는 방식의 기능을 두고 논쟁한다."
+          },
+          {
+            "sentence": "Designers must balance anthropomorphic interface cues with transparency about the system’s limitations.",
+            "meaning_ko": "디자이너는 인간적 UI 단서와 시스템 한계에 대한 투명성을 균형 있게 맞춰야 한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "anthropomorphic은 어근을 쪼개면 거의 외울 필요가 없습니다: anthropo(인간) + morph(형태) + -ic. 시험에서는 anthropomorphism(명사)·anthropomorphize(동사) 형태 변화를 묻거나, ‘기계/자연에 인간 의도 부여’라는 인지 편향(anthropomorphic bias/fallacy) 문맥으로 출제되기도 합니다. personify(의인화하다)와 함께 묶어서 기억하세요.",
+    "tags": [
+      "문학",
+      "광고·브랜딩",
+      "캐릭터",
+      "인지편향",
+      "UX·AI"
+    ],
+    "frequency": "중",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "What does 'anthropomorphic' most nearly mean?",
+            "a": "giving nonhuman things human characteristics",
+            "meaning_ko": "비인간 대상에 인간 특성을 부여."
+          },
+          {
+            "q": "Fill in the blank: The cartoon has ________ animals that wear clothes and speak.",
+            "a": "anthropomorphic",
+            "meaning_ko": "말하고 옷 입는 동물 = 의인화."
+          },
+          {
+            "q": "Choose the related noun form.",
+            "a": "anthropomorphism",
+            "meaning_ko": "형용사 anthropomorphic ↔ 명사 anthropomorphism."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best match: 'My phone is angry today' is an example of ________ language.",
+            "a": "anthropomorphic",
+            "meaning_ko": "사물에 감정 부여 → 의인화 표현."
+          },
+          {
+            "q": "Which word is closest in meaning to 'anthropomorphic'?",
+            "a": "personified",
+            "meaning_ko": "personified = 의인화된."
+          },
+          {
+            "q": "Fill in: The designer used anthropomorphic cues to make the assistant feel more ________.",
+            "a": "humanlike",
+            "meaning_ko": "인간적 느낌을 강화한다는 문맥."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In cognitive science, anthropomorphic bias refers to the tendency to:",
+            "a": "attribute intention or emotion to nonhuman agents",
+            "meaning_ko": "비인간(시스템/자연)에 인간적 의도·감정을 투사."
+          },
+          {
+            "q": "Choose the best antonym for 'anthropomorphic' in a design critique.",
+            "a": "mechanistic",
+            "meaning_ko": "비인격적/기계론적(의인화와 반대 축)."
+          },
+          {
+            "q": "Fill in: The paper warns against the anthropomorphic ________ of treating nature as a moral agent.",
+            "a": "fallacy",
+            "meaning_ko": "의인화의 오류(논리적 비약)라는 고급 결합."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,852 @@
+[
+  {
+    "word": "tamper",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To interfere with or alter something improperly, especially to make it work differently or to deceive.",
+        "definition_ko": "특히 속이거나 결과를 바꾸기 위해 무단으로 손대다, 조작하다.",
+        "note": "법·수사 맥락에서는 ‘증거를 조작하다(tamper with evidence)’처럼 부정행위를 강하게 암시합니다."
+      },
+      {
+        "definition_en": "(noun) An act of unauthorized interference or a person/device that tampers.",
+        "definition_ko": "(명사) 무단 개입·조작 행위, 또는 그런 일을 하는 사람/장치.",
+        "note": "명사로는 비교적 덜 쓰이며, 보통 ‘tampering’ 형태가 더 자연스럽습니다."
+      }
+    ],
+    "concept": "정상적인 흐름을 깨뜨리기 위해 ‘몰래 손대서’ 결과를 바꾸는 행위.",
+    "etymology": "정확한 기원은 불확실하다고 알려져 있으며, 중세 영어에서 ‘만지작거리다/간섭하다’의 뜻으로 쓰이던 형태에서 발전한 것으로 설명되곤 합니다.",
+    "semanticExtension": "물건·장치에 손대는 물리적 조작에서 출발해, 증거·기록·투표 등 ‘결과를 좌우하는 것’을 조작하는 의미로 넓게 확장됩니다.",
+    "nuanceRegister": "부정적 뉘앙스가 강한 비교적 격식/문어 성향의 단어로, 법·수사·보안 문맥에서 매우 자주 등장합니다.",
+    "grammarNotes": "주로 ‘tamper with + 명사’로 쓰이며, ‘tamper + 목적어’(장치/기록을 조작하다)도 가능하지만 with-구문이 더 자연스럽습니다. 명사형은 tampering(조작 행위)이 일반적입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~을(를) 조작하다/손대다(부정하게)",
+        "example": "tamper with the evidence"
+      }
+    ],
+    "requiredComplements": [
+      "tamper with + 증거/기록/장치/시스템 (무단으로 손대 조작하다)",
+      "tamper + 장치/설정/수치 (대상을 직접 조작하다; with-구문보다 덜 흔함)",
+      "evidence tampering / witness tampering (명사구: 증거/증인 조작)"
+    ],
+    "morphology": "어근·접사 분해가 뚜렷한 단어는 아니며, ‘tamper’ 자체가 ‘손대다/간섭하다’의 의미로 굳어져 사용됩니다.",
+    "derivatives": [
+      {
+        "word": "tampering",
+        "meaning_ko": "(명사) (특히 부정한) 조작, 간섭"
+      },
+      {
+        "word": "tampered",
+        "meaning_ko": "(형용사) (기록/증거 등이) 조작된"
+      },
+      {
+        "word": "tamper-proof",
+        "meaning_ko": "(형용사) 변조 방지(손대면 흔적이 남는)"
+      }
+    ],
+    "related": [
+      {
+        "word": "interfere",
+        "meaning_ko": "간섭하다"
+      },
+      {
+        "word": "manipulate",
+        "meaning_ko": "(교묘히) 조작하다"
+      },
+      {
+        "word": "forgery",
+        "meaning_ko": "위조(문서/서명 등)"
+      },
+      {
+        "word": "security",
+        "meaning_ko": "보안"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "meddle",
+        "meaning_ko": "참견하다/끼어들다(대개 부정적)"
+      },
+      {
+        "word": "falsify",
+        "meaning_ko": "(기록/자료를) 날조하다"
+      },
+      {
+        "word": "doctor",
+        "meaning_ko": "(증거/사진 등을) 조작하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "tinker",
+        "meaning_ko": "만지작거리며 고치다(부정 의도는 약함)"
+      },
+      {
+        "word": "adjust",
+        "meaning_ko": "조정하다(중립)"
+      },
+      {
+        "word": "intervene",
+        "meaning_ko": "개입하다(중립/격식)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "preserve",
+        "meaning_ko": "보존하다"
+      },
+      {
+        "word": "protect",
+        "meaning_ko": "보호하다"
+      },
+      {
+        "word": "maintain",
+        "meaning_ko": "(원상/상태를) 유지하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "tamper with evidence",
+            "meaning_ko": "증거를 조작하다"
+          },
+          {
+            "phrase": "witness tampering",
+            "meaning_ko": "증인을 회유·위협해 진술을 바꾸게 하는 행위"
+          },
+          {
+            "phrase": "tamper-proof seal",
+            "meaning_ko": "변조 방지 봉인(씰)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "tamper with the results",
+            "meaning_ko": "결과를 조작하다"
+          },
+          {
+            "phrase": "tamper with a device",
+            "meaning_ko": "장치를 건드려(조작해) 작동을 바꾸다"
+          },
+          {
+            "phrase": "tamper with the settings",
+            "meaning_ko": "설정을 함부로 건드리다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "don't tamper with it",
+            "meaning_ko": "그거 함부로 손대지 마"
+          },
+          {
+            "phrase": "tamper with the lock",
+            "meaning_ko": "자물쇠를 건드려 훼손/조작하다"
+          },
+          {
+            "phrase": "tamper with food",
+            "meaning_ko": "음식에 몰래 손대다(오염/변조)"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The defense argued that the chain of custody was broken, raising the possibility that the evidence had been tampered with.",
+            "meaning_ko": "변호 측은 증거 인수인계 기록이 끊겼다고 주장하며 증거가 조작되었을 가능성을 제기했다."
+          },
+          {
+            "sentence": "Any attempt to tamper with encrypted logs will trigger an audit alert and invalidate the record.",
+            "meaning_ko": "암호화된 로그를 조작하려는 시도는 감사 경보를 울리고 기록을 무효화한다."
+          },
+          {
+            "sentence": "He was charged with witness tampering after investigators found messages pressuring a key witness to recant.",
+            "meaning_ko": "수사관들이 핵심 증인에게 진술을 번복하라고 압박한 메시지를 발견한 뒤 그는 증인 조작 혐의로 기소되었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Someone tampered with the thermostat, so the office was freezing all morning.",
+            "meaning_ko": "누군가 온도조절기를 건드리는 바람에 사무실이 오전 내내 얼어붙을 정도로 추웠다."
+          },
+          {
+            "sentence": "Please don’t tamper with the calibration; it took hours to get it right.",
+            "meaning_ko": "교정값은 건드리지 마세요, 맞추는 데 몇 시간이 걸렸습니다."
+          },
+          {
+            "sentence": "The report looked credible until we realized several figures had been tampered with.",
+            "meaning_ko": "몇몇 수치가 조작된 것을 알아차리기 전까지는 그 보고서가 그럴듯해 보였다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Don’t tamper with the buttons unless you know what they do.",
+            "meaning_ko": "무슨 버튼인지 알기 전에는 함부로 누르거나 건드리지 마."
+          },
+          {
+            "sentence": "The package arrived with a torn seal, as if someone had tampered with it.",
+            "meaning_ko": "포장은 봉인이 찢어진 채 도착했는데, 누가 손댄 것 같았다."
+          },
+          {
+            "sentence": "Kids love to tamper with anything that has a switch.",
+            "meaning_ko": "아이들은 스위치가 달린 건 뭐든 건드리고 싶어 한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "tamper는 ‘고치려고 만지작거리다(tinker)’와 달리 ‘부정하게 손대다’의 느낌이 강합니다. 시험에서는 tamper with(필수)와 evidence/witness tampering 같은 법률 연어가 자주 나오니 통째로 묶어서 외우는 편이 효율적입니다.",
+    "tags": [
+      "법",
+      "증거",
+      "부정행위",
+      "보안",
+      "장치/설정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'tamper with' in the sentence: 'Do not tamper with the seal.'",
+            "a": "to interfere with or alter improperly",
+            "meaning_ko": "봉인을 ‘함부로 손대다/조작하다’라는 뜻입니다."
+          },
+          {
+            "q": "Fill in the blank: Please don’t ________ with the settings.",
+            "a": "tamper",
+            "meaning_ko": "설정을 함부로 건드리지 말라는 문맥에서 tamper가 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase is most natural? A) tamper of evidence B) tamper with evidence",
+            "a": "B) tamper with evidence",
+            "meaning_ko": "tamper는 보통 with와 함께 쓰입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using 'tamper' without changing the meaning: 'Someone altered the report to mislead us.'",
+            "a": "Someone tampered with the report to mislead us.",
+            "meaning_ko": "alter(바꾸다)를 ‘부정한 조작’ 뉘앙스로 바꿀 때 tamper with가 적절합니다."
+          },
+          {
+            "q": "Choose the best option: The suspect was accused of ________ tampering. (evidence / evident)",
+            "a": "evidence",
+            "meaning_ko": "고정 연어로 evidence tampering입니다."
+          },
+          {
+            "q": "What does 'tamper-proof' most likely mean?",
+            "a": "designed to prevent or reveal unauthorized interference",
+            "meaning_ko": "손대면 흔적이 남거나 손대기 어렵게 만든 ‘변조 방지’입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "In legal contexts, why is a broken 'chain of custody' important? Answer using 'tamper' in one sentence.",
+            "a": "It raises the possibility that the evidence was tampered with while it was unaccounted for.",
+            "meaning_ko": "증거 관리 공백이 있으면 조작 가능성이 생긴다는 논리를 묻는 문제입니다."
+          },
+          {
+            "q": "Pick the most precise word: 'The data were ________ to fit the hypothesis.' (tampered / admired / preserved)",
+            "a": "tampered",
+            "meaning_ko": "가설에 맞추려고 데이터를 ‘조작했다’는 의미이므로 tampered가 정답입니다."
+          },
+          {
+            "q": "Error correction: 'He was arrested for tampering the witness.'",
+            "a": "He was arrested for tampering with the witness.",
+            "meaning_ko": "tamper는 보통 ‘tamper with + 명사’로 씁니다(또는 witness tampering이라는 명사구)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lackadaisical",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Lacking enthusiasm, energy, or careful attention; carelessly lazy or indifferent.",
+        "definition_ko": "의욕이 없고 대충대충 하는, 무기력하고 무관심한.",
+        "note": "단순히 ‘느긋한(relaxed)’이 아니라 ‘성의가 부족한’ 비판 뉘앙스가 포함됩니다."
+      }
+    ],
+    "concept": "해야 할 일에 관심·긴장이 풀려 ‘대충’ 흘려보내는 태도.",
+    "etymology": "옛 감탄사 lackaday(‘아이고/아, 슬프다’ 정도의 탄식)에서 파생된 말로 설명되며, 여기에 -ical이 붙어 ‘무기력하고 무심한’ 성격을 나타내는 형용사가 되었습니다.",
+    "semanticExtension": "처음에는 ‘기운이 빠진/시큰둥한’ 정서 상태를 가리키는 데 쓰이다가, 현재는 업무·학업·관리처럼 ‘주의와 성실함이 요구되는 영역’에서의 태도를 비판하는 의미로 자주 확장됩니다.",
+    "nuanceRegister": "비교적 격식 있는 평가/비판 표현(문어 성향)이며, 보고서·피드백·평가문에서 ‘성의 부족’을 지적할 때 자주 쓰입니다.",
+    "grammarNotes": "주로 ‘be lackadaisical about + 명사/동명사’ 형태가 가장 흔합니다. 사람뿐 아니라 ‘lackadaisical attitude/approach’처럼 태도·접근 방식에도 붙습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 시큰둥하다/대충 하다",
+        "example": "lackadaisical about deadlines"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(업무/태도) 성의가 없다",
+        "example": "lackadaisical in his work"
+      }
+    ],
+    "requiredComplements": [
+      "be lackadaisical about + 일/규칙/마감/책임 (대충·무관심하게 대하다)",
+      "a lackadaisical attitude/approach (성의 없는 태도/접근)"
+    ],
+    "morphology": "lackaday(탄식 표현) + -ical(‘~한 성격의’ 형용사 접미사)로 설명되는 경우가 많습니다.",
+    "derivatives": [
+      {
+        "word": "lackadaisically",
+        "meaning_ko": "무기력하게, 성의 없이"
+      },
+      {
+        "word": "lackadaisicalness",
+        "meaning_ko": "무기력함, 성의 없음(성격/태도)"
+      }
+    ],
+    "related": [
+      {
+        "word": "apathy",
+        "meaning_ko": "무관심, 무감동"
+      },
+      {
+        "word": "laziness",
+        "meaning_ko": "게으름"
+      },
+      {
+        "word": "complacency",
+        "meaning_ko": "자만, 안일함"
+      },
+      {
+        "word": "negligence",
+        "meaning_ko": "부주의, 태만"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "listless",
+        "meaning_ko": "기운 없고 무기력한"
+      },
+      {
+        "word": "indifferent",
+        "meaning_ko": "무관심한"
+      },
+      {
+        "word": "slack",
+        "meaning_ko": "느슨한, 성의 없는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "relaxed",
+        "meaning_ko": "느긋한(부정 뉘앙스 약함)"
+      },
+      {
+        "word": "casual",
+        "meaning_ko": "격식 없는/대충인(문맥 따라 중립 가능)"
+      },
+      {
+        "word": "laid-back",
+        "meaning_ko": "태평한, 느긋한(구어)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "diligent",
+        "meaning_ko": "근면한"
+      },
+      {
+        "word": "meticulous",
+        "meaning_ko": "매우 꼼꼼한"
+      },
+      {
+        "word": "enthusiastic",
+        "meaning_ko": "열정적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a lackadaisical attitude toward compliance",
+            "meaning_ko": "준수(컴플라이언스)에 무심한 태도"
+          },
+          {
+            "phrase": "lackadaisical oversight",
+            "meaning_ko": "허술하고 성의 없는 감독"
+          },
+          {
+            "phrase": "a lackadaisical approach to safety",
+            "meaning_ko": "안전에 안일한 접근"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "lackadaisical about deadlines",
+            "meaning_ko": "마감에 느슨하다/대충이다"
+          },
+          {
+            "phrase": "a lackadaisical response",
+            "meaning_ko": "시큰둥하고 성의 없는 대응"
+          },
+          {
+            "phrase": "lackadaisical management",
+            "meaning_ko": "허술한/태만한 경영·관리"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a lackadaisical student",
+            "meaning_ko": "대충 하는 학생"
+          },
+          {
+            "phrase": "lackadaisical effort",
+            "meaning_ko": "성의 없는 노력"
+          },
+          {
+            "phrase": "in a lackadaisical manner",
+            "meaning_ko": "대충대충 하는 식으로"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A lackadaisical approach to safety protocols can expose the entire organization to catastrophic risk.",
+            "meaning_ko": "안전 절차에 안일하게 접근하면 조직 전체가 치명적 위험에 노출될 수 있다."
+          },
+          {
+            "sentence": "The audit revealed lackadaisical oversight and inconsistent documentation across multiple departments.",
+            "meaning_ko": "감사 결과 여러 부서에서 성의 없는 감독과 일관되지 않은 문서화가 드러났다."
+          },
+          {
+            "sentence": "Investors interpreted the lackadaisical communication as a sign that leadership had lost its strategic focus.",
+            "meaning_ko": "투자자들은 시큰둥한 소통을 리더십이 전략적 집중을 잃었다는 신호로 해석했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He’s talented, but he’s too lackadaisical about practice to improve.",
+            "meaning_ko": "재능은 있지만 연습에 너무 대충이라 실력이 늘지 않는다."
+          },
+          {
+            "sentence": "The team missed the deadline because the early planning was lackadaisical.",
+            "meaning_ko": "초기 계획이 허술하고 성의 없어서 팀은 마감을 놓쳤다."
+          },
+          {
+            "sentence": "Don’t be lackadaisical about backups; you’ll regret it after a crash.",
+            "meaning_ko": "백업을 대충 하지 마세요, 시스템이 터진 뒤엔 후회합니다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His lackadaisical attitude annoyed his coworkers.",
+            "meaning_ko": "그의 대충하는 태도는 동료들을 짜증 나게 했다."
+          },
+          {
+            "sentence": "She gave a lackadaisical shrug and walked away.",
+            "meaning_ko": "그녀는 시큰둥하게 어깨를 으쓱하고는 걸어가 버렸다."
+          },
+          {
+            "sentence": "I was lackadaisical this morning, so I forgot my keys.",
+            "meaning_ko": "아침에 정신이 풀려서 열쇠를 깜빡했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "lackadaisical은 ‘느긋하다’보다 ‘성의·긴장감이 없다’ 쪽에 가깝습니다. about과 자주 결합(be lackadaisical about ~)하므로 전치사까지 한 덩어리로 암기하세요. 비슷한 단어 apathetic(무관심한), negligent(태만한)과 함께 비교하면 뉘앙스가 또렷해집니다.",
+    "tags": [
+      "태도",
+      "성격",
+      "업무/평가",
+      "안일함",
+      "부정적 비판"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: He was ________ about his homework and turned it in late.",
+            "a": "lackadaisical",
+            "meaning_ko": "숙제에 ‘대충’이라 늦게 냈다는 문맥에서 lackadaisical이 맞습니다."
+          },
+          {
+            "q": "Which is closer to 'lackadaisical'? A) energetic B) careless",
+            "a": "B) careless",
+            "meaning_ko": "의욕·주의가 부족한 ‘성의 없음’에 가깝습니다."
+          },
+          {
+            "q": "Choose the common preposition: be lackadaisical ___ deadlines.",
+            "a": "about",
+            "meaning_ko": "대표 결합은 be lackadaisical about ~ 입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best rewrite: 'She treated safety rules too casually.'",
+            "a": "She was lackadaisical about safety rules.",
+            "meaning_ko": "casually(안일하게)라는 비판을 lackadaisical로 정확히 바꾼 문장입니다."
+          },
+          {
+            "q": "Pick the sentence that sounds most natural.",
+            "a": "Their lackadaisical planning caused delays.",
+            "meaning_ko": "lackadaisical은 planning/approach/attitude 같은 명사와 잘 붙습니다."
+          },
+          {
+            "q": "What nuance does 'lackadaisical' add compared to 'relaxed'?",
+            "a": "It implies a negative lack of care or effort.",
+            "meaning_ko": "relaxed는 긍정/중립일 수 있지만 lackadaisical은 성의 부족을 지적합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'He is lackadaisical to the compliance requirements.'",
+            "a": "He is lackadaisical about the compliance requirements.",
+            "meaning_ko": "to가 아니라 about이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best word for a performance review: 'Her ________ attitude toward documentation created audit risk.' (lackadaisical / jubilant / fragrant)",
+            "a": "lackadaisical",
+            "meaning_ko": "문서화에 성의가 없어서 감사 리스크가 생겼다는 맥락입니다."
+          },
+          {
+            "q": "Write one sentence using 'lackadaisical oversight' in a formal context.",
+            "a": "The incident was traced back to lackadaisical oversight and inadequate training.",
+            "meaning_ko": "격식 문맥(보고서/감사)에서의 전형적인 조합을 요구합니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "backbite",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To speak maliciously about someone who is not present; to criticize or slander behind their back.",
+        "definition_ko": "(당사자 없는 데서) 험담하다, 뒤에서 깎아내리다.",
+        "note": "‘정면 비판’이 아니라 ‘뒤에서 몰래’ 하는 비방이라는 점이 핵심입니다."
+      }
+    ],
+    "concept": "직접 말하지 않고 뒤에서 평판을 ‘물어뜯듯’ 공격하는 험담.",
+    "etymology": "back(뒤) + bite(물다)의 합성으로, ‘뒤에서 물어뜯다’라는 비유가 사람의 평판을 해치는 말로 굳어진 형태입니다.",
+    "semanticExtension": "신체를 무는 행위(bite)에서 ‘명예·평판을 공격하다’라는 은유로 확장되며, 특히 ‘부재중인 사람’을 대상으로 한다는 사회적 맥락이 강조됩니다.",
+    "nuanceRegister": "문어/격식 느낌이 있으면서도 도덕적 비난이 강한 단어입니다. 일상에서는 gossip, talk behind someone’s back 같은 표현이 더 흔하지만, backbite는 더 직접적이고 날카롭게 비난합니다.",
+    "grammarNotes": "대체로 ‘backbite + 사람(목적어)’로 쓰이며, 명사형은 backbiting(험담, 중상모략)이 일반적입니다. ‘talk behind someone’s back’과 의미가 거의 겹칩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "backbite + 사람/동료/친구 (부재중인 그 사람을 험담하다)",
+      "backbiting about + 사람/집단 (명사·동명사 형태로 ‘~에 대한 험담’)"
+    ],
+    "morphology": "back + bite의 합성어로, 구성 요소 의미가 비교적 투명합니다.",
+    "derivatives": [
+      {
+        "word": "backbiting",
+        "meaning_ko": "(명사) 험담, 뒤에서 하는 비방"
+      },
+      {
+        "word": "backbiter",
+        "meaning_ko": "험담하는 사람"
+      }
+    ],
+    "related": [
+      {
+        "word": "gossip",
+        "meaning_ko": "험담/소문을 퍼뜨리다"
+      },
+      {
+        "word": "slander",
+        "meaning_ko": "중상모략하다(특히 법적 뉘앙스)"
+      },
+      {
+        "word": "defamation",
+        "meaning_ko": "명예훼손"
+      },
+      {
+        "word": "snide",
+        "meaning_ko": "빈정대는, 비꼬는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "slander",
+        "meaning_ko": "(근거 없이) 비방하다"
+      },
+      {
+        "word": "malign",
+        "meaning_ko": "(악의적으로) 헐뜯다"
+      },
+      {
+        "word": "badmouth",
+        "meaning_ko": "(구어) 험담하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "gossip",
+        "meaning_ko": "소문/뒷말을 하다(악의 강도는 다양)"
+      },
+      {
+        "word": "criticize",
+        "meaning_ko": "비판하다(정면 비판도 포함)"
+      },
+      {
+        "word": "snitch",
+        "meaning_ko": "고자질하다(다른 의미, 혼동 주의)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      },
+      {
+        "word": "commend",
+        "meaning_ko": "치하하다(격식)"
+      },
+      {
+        "word": "defend",
+        "meaning_ko": "옹호하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "engage in backbiting",
+            "meaning_ko": "험담에 가담하다"
+          },
+          {
+            "phrase": "backbiting and intrigue",
+            "meaning_ko": "험담과 암투"
+          },
+          {
+            "phrase": "petty backbiting",
+            "meaning_ko": "치졸한 험담"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "backbite a colleague",
+            "meaning_ko": "동료를 뒤에서 험담하다"
+          },
+          {
+            "phrase": "backbite behind closed doors",
+            "meaning_ko": "문 닫힌 곳에서 뒤에서 험담하다"
+          },
+          {
+            "phrase": "backbite to gain favor",
+            "meaning_ko": "잘 보이려고 남을 깎아내리다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "stop backbiting",
+            "meaning_ko": "험담 좀 그만해"
+          },
+          {
+            "phrase": "backbite your friends",
+            "meaning_ko": "친구를 뒤에서 욕하다"
+          },
+          {
+            "phrase": "backbite all day",
+            "meaning_ko": "하루 종일 남 험담만 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "A culture of backbiting erodes trust faster than any external competitor can.",
+            "meaning_ko": "험담이 만연한 문화는 어떤 외부 경쟁자보다도 빠르게 신뢰를 무너뜨린다."
+          },
+          {
+            "sentence": "Rather than address the conflict directly, he chose to backbite, poisoning the team’s morale.",
+            "meaning_ko": "그는 갈등을 정면으로 해결하기보다 뒤에서 험담을 택해 팀 사기를 망쳐 놓았다."
+          },
+          {
+            "sentence": "The organization spent months recovering from the backbiting and intrigue that followed the leadership change.",
+            "meaning_ko": "리더십 교체 뒤에 이어진 험담과 암투로부터 조직은 회복하는 데 몇 달이 걸렸다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "If you backbite your coworkers, don’t be surprised when they stop trusting you.",
+            "meaning_ko": "동료를 뒤에서 험담하면 그들이 당신을 믿지 않게 되어도 놀랄 일이 아니다."
+          },
+          {
+            "sentence": "She refused to backbite, even when others tried to pull her into the gossip.",
+            "meaning_ko": "다른 사람들이 험담에 끌어들이려 해도 그녀는 끝까지 동참하지 않았다."
+          },
+          {
+            "sentence": "He apologized for backbiting and promised to speak up directly next time.",
+            "meaning_ko": "그는 뒤에서 험담한 것을 사과하며 다음부터는 직접 말하겠다고 약속했다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Don’t backbite people who aren’t here.",
+            "meaning_ko": "여기 없는 사람 험담하지 마."
+          },
+          {
+            "sentence": "They backbite, then act friendly in public.",
+            "meaning_ko": "그들은 뒤에서 욕해 놓고 사람들 앞에서는 친한 척한다."
+          },
+          {
+            "sentence": "I hate it when friends backbite each other.",
+            "meaning_ko": "친구들이 서로 뒤에서 험담할 때 정말 싫다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "backbite는 back + bite의 조합이라 이미지가 선명합니다: ‘뒤에서 물어뜯다’ → ‘험담하다’. 시험에서는 backbiting(명사) 형태로 더 자주 나오니 함께 익혀두세요. 일상 표현인 talk behind someone’s back / badmouth와 의미 차이를 비교하면 문맥 선택이 쉬워집니다.",
+    "tags": [
+      "인간관계",
+      "험담",
+      "소문",
+      "윤리",
+      "조직문화"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "What does 'backbite' mean?",
+            "a": "to speak badly about someone who is not present",
+            "meaning_ko": "부재중인 사람을 뒤에서 험담하는 뜻입니다."
+          },
+          {
+            "q": "Fill in the blank: They ________ their manager after he left the room.",
+            "a": "backbit",
+            "meaning_ko": "과거형 backbit을 사용합니다(leave가 과거이므로 시제 일치)."
+          },
+          {
+            "q": "Choose the closest everyday expression: A) talk behind someone’s back B) shake hands",
+            "a": "A) talk behind someone’s back",
+            "meaning_ko": "의미가 거의 같습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Pick the best option: 'He was tired of the office ________.' (backbiting / backpacking / backspacing)",
+            "a": "backbiting",
+            "meaning_ko": "‘사무실 험담 문화’는 backbiting이 자연스럽습니다."
+          },
+          {
+            "q": "Rewrite using 'backbite': 'She criticized her friend when the friend wasn’t there.'",
+            "a": "She backbit her friend when she wasn’t there.",
+            "meaning_ko": "부재중 비방을 backbite로 압축합니다."
+          },
+          {
+            "q": "Which word is stronger and more formal than 'gossip' in a legal sense?",
+            "a": "slander",
+            "meaning_ko": "gossip는 중립/가벼울 수 있고, slander는 중상모략(법적) 뉘앙스가 강합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'He backbited about his boss in public.'",
+            "a": "He backbit his boss in public.",
+            "meaning_ko": "backbite는 보통 목적어를 직접 취하며, 'backbited'가 아니라 'backbit'이 과거형입니다."
+          },
+          {
+            "q": "Choose the best word for a moral critique: 'Their ________ undermined team cohesion.' (backbiting / baking / banking)",
+            "a": "backbiting",
+            "meaning_ko": "도덕적 비난·조직문화 비판 맥락에 backbiting이 맞습니다."
+          },
+          {
+            "q": "Write one sentence contrasting direct feedback and backbiting.",
+            "a": "Direct feedback improves performance, but backbiting breeds resentment and distrust.",
+            "meaning_ko": "정면 피드백 vs 뒤에서 험담의 대비를 요구합니다."
+          }
+        ]
+      }
+    ]
+  }
+]

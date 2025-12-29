@@ -1,0 +1,1016 @@
+[
+  {
+    "word": "salvation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Deliverance from sin, danger, or suffering; the act of being saved.",
+        "definition_ko": "죄, 위험, 고통 등에서의 구원(구제) 및 ‘구원받음’의 상태.",
+        "note": "종교(특히 기독교) 맥락에서 매우 흔하지만, 일반적으로도 ‘위기에서 구해줌’ 의미로 넓게 씁니다."
+      },
+      {
+        "definition_en": "A means of saving or preserving something; a source of relief.",
+        "definition_ko": "무언가를 살리거나 보존하게 해주는 수단, 혹은 위기를 넘기게 해주는 해결책.",
+        "note": "문어·격식에서 'be one's salvation'처럼 ‘구세주/구원책’ 뉘앙스로 자주 나옵니다."
+      }
+    ],
+    "concept": "절망이나 위험에서 ‘건져내어 살리는 것’이라는 핵심 개념.",
+    "etymology": "라틴어 salvare(구하다, 살리다)에서 파생된 salvatio(구원)가 프랑스어를 거쳐 영어 salvation으로 들어왔습니다.",
+    "semanticExtension": "원래는 ‘구해 생명을 보존함’이 중심이었고, 종교적 맥락에서 ‘영혼의 구원’으로 강하게 확장되었습니다. 현대에는 비유적으로 ‘위기 탈출의 돌파구’ 의미로도 넓게 씁니다.",
+    "nuanceRegister": "문어·격식 및 종교 레지스터에서 특히 자주 쓰이며, 일상에서도 ‘마지막 구원책’ 같은 비유 표현으로 사용됩니다.",
+    "grammarNotes": "단독으로도 쓰이지만 from/for/through 같은 전치사와 함께 원인·대상·수단을 밝히는 구문이 흔합니다(예: salvation from debt).",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사(일반적 개념); 문맥에 따라 가산적으로도 가능(‘a salvation’=한 번의 구원/구원책).",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터의 구원(벗어남)",
+        "example": "salvation from bankruptcy"
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "~을 통해 얻는 구원(수단 강조)",
+        "example": "salvation through faith"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 구원(대상·목적)",
+        "example": "salvation for the lost"
+      }
+    ],
+    "requiredComplements": [
+      "salvation from + 명사/동명사: ~로부터의 구원(예: salvation from fear)",
+      "salvation through + 명사: ~을 통해 얻는 구원/구제(예: through education)",
+      "be one's salvation: (비유) ~의 구원책/해결책이 되다"
+    ],
+    "morphology": "salv-(save/구하다) + -ation(명사화: 행위/과정) → ‘구해냄/구원’의 의미를 형성합니다.",
+    "derivatives": [
+      {
+        "word": "save",
+        "meaning_ko": "구하다, 살리다"
+      },
+      {
+        "word": "savior",
+        "meaning_ko": "구원자, 구세주"
+      },
+      {
+        "word": "salvage",
+        "meaning_ko": "구조하다; (난파선 등) 인양"
+      },
+      {
+        "word": "salvific",
+        "meaning_ko": "구원의, 구원하는"
+      },
+      {
+        "word": "unsaved",
+        "meaning_ko": "(종교적) 구원받지 못한"
+      }
+    ],
+    "related": [
+      {
+        "word": "deliverance",
+        "meaning_ko": "구출, 해방"
+      },
+      {
+        "word": "redemption",
+        "meaning_ko": "구원, 속죄"
+      },
+      {
+        "word": "rescue",
+        "meaning_ko": "구조, 구출"
+      },
+      {
+        "word": "sanctuary",
+        "meaning_ko": "피난처, 안식처"
+      },
+      {
+        "word": "relief",
+        "meaning_ko": "안도, 경감"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "deliverance",
+        "meaning_ko": "구원, 구출"
+      },
+      {
+        "word": "rescue",
+        "meaning_ko": "구조"
+      },
+      {
+        "word": "redemption",
+        "meaning_ko": "(종교적) 구원/속죄"
+      },
+      {
+        "word": "release",
+        "meaning_ko": "해방, 석방"
+      },
+      {
+        "word": "preservation",
+        "meaning_ko": "보존, 유지"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "relief",
+        "meaning_ko": "완화, 안도(고통의 감소)"
+      },
+      {
+        "word": "remedy",
+        "meaning_ko": "치료책, 해결책"
+      },
+      {
+        "word": "escape",
+        "meaning_ko": "탈출(행위 자체)"
+      },
+      {
+        "word": "safe haven",
+        "meaning_ko": "안전한 피난처"
+      },
+      {
+        "word": "aid",
+        "meaning_ko": "도움, 지원"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "damnation",
+        "meaning_ko": "(종교적) 영원한 저주/멸망"
+      },
+      {
+        "word": "ruin",
+        "meaning_ko": "파멸"
+      },
+      {
+        "word": "perdition",
+        "meaning_ko": "멸망, 파멸(문어)"
+      },
+      {
+        "word": "doom",
+        "meaning_ko": "파국, 운명적 몰락"
+      },
+      {
+        "word": "condemnation",
+        "meaning_ko": "유죄 판결, 단죄"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "seek salvation",
+            "meaning_ko": "구원을 구하다"
+          },
+          {
+            "phrase": "salvation from danger",
+            "meaning_ko": "위험으로부터의 구원"
+          },
+          {
+            "phrase": "a path to salvation",
+            "meaning_ko": "구원에 이르는 길"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "find salvation in art",
+            "meaning_ko": "예술에서 구원(돌파구)을 찾다"
+          },
+          {
+            "phrase": "promise salvation",
+            "meaning_ko": "구원을 약속하다"
+          },
+          {
+            "phrase": "salvation through hard work",
+            "meaning_ko": "노력을 통한 ‘구원’(비유)"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "the doctrine of salvation",
+            "meaning_ko": "구원 교리"
+          },
+          {
+            "phrase": "offer salvation to the masses",
+            "meaning_ko": "대중에게 구원을 제시하다"
+          },
+          {
+            "phrase": "political salvation narrative",
+            "meaning_ko": "정치적 ‘구원 서사’"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He prayed for salvation.",
+            "meaning_ko": "그는 구원을 위해 기도했다."
+          },
+          {
+            "sentence": "The lifeboat was their salvation.",
+            "meaning_ko": "구명정은 그들의 구원(구원책)이었다."
+          },
+          {
+            "sentence": "Education became her salvation.",
+            "meaning_ko": "교육이 그녀의 구원(돌파구)이 되었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "For many, salvation comes from community as much as faith.",
+            "meaning_ko": "많은 사람에게 구원은 믿음만큼이나 공동체에서 오기도 한다."
+          },
+          {
+            "sentence": "The new policy was marketed as economic salvation, but results were mixed.",
+            "meaning_ko": "새 정책은 경제적 구원책으로 홍보됐지만 성과는 엇갈렸다."
+          },
+          {
+            "sentence": "She found salvation in routines that made her days predictable.",
+            "meaning_ko": "그녀는 하루를 예측 가능하게 만드는 루틴에서 구원 같은 안정을 찾았다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The novel frames salvation not as a miracle, but as a disciplined return to responsibility.",
+            "meaning_ko": "그 소설은 구원을 기적이 아니라 책임으로의 훈련된 복귀로 그린다."
+          },
+          {
+            "sentence": "In the sermon, salvation was described as a lifelong process rather than a single moment.",
+            "meaning_ko": "설교에서 구원은 한 번의 순간이 아니라 평생의 과정으로 묘사됐다."
+          },
+          {
+            "sentence": "Seeking salvation in constant praise can trap leaders in performative humility.",
+            "meaning_ko": "끊임없는 찬사에서 구원을 찾으려 하면 지도자는 ‘보여주기식 겸손’에 갇힐 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "salvation은 ‘구하다(save)’에서 출발한 명사라서, 기본 이미지는 ‘위기에서 건져내어 살림’입니다. 종교적 문맥에서는 redemption(속죄/구원)과 자주 비교되는데, salvation이 ‘구원(결과/상태)’에 더 초점이라면 redemption은 ‘값을 치러 되찾음/속죄’ 뉘앙스가 강합니다. 시험에서는 salvation from/through 같은 전치사 결합과 ‘be one’s salvation(구원책)’ 같은 비유 표현을 자주 체크하세요.",
+    "tags": [
+      "종교",
+      "문어",
+      "위기",
+      "구원",
+      "비유 표현"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: 'The vaccine was a salvation for the town.'",
+            "a": "a source of relief or rescue",
+            "meaning_ko": "여기서 salvation은 ‘구원책/구해주는 것’의 비유적 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: 'They hoped for salvation ___ the storm.' (from/at/into)",
+            "a": "from",
+            "meaning_ko": "salvation from ~ : ~로부터의 구원."
+          },
+          {
+            "q": "Which word is closest to 'salvation' in the sentence 'The hikers were saved by a helicopter'?",
+            "a": "rescue",
+            "meaning_ko": "구출 상황에서는 rescue가 가장 직접적인 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite using the given phrase: 'Her mentor helped her survive the crisis.' (be her salvation)",
+            "a": "Her mentor was her salvation during the crisis.",
+            "meaning_ko": "be one's salvation = ‘~의 구원책/구세주가 되다’."
+          },
+          {
+            "q": "Pick the most natural collocation: (A) salvation on faith (B) salvation through faith (C) salvation by faithing",
+            "a": "salvation through faith",
+            "meaning_ko": "수단을 나타낼 때 through가 자연스럽습니다."
+          },
+          {
+            "q": "In formal writing, which option best fits? 'The reform was presented as the nation's ____.'",
+            "a": "salvation",
+            "meaning_ko": "문어·격식에서 ‘구원(국가적 구원책)’ 의미로 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading inference: 'The speaker sold salvation while avoiding specifics.' What is implied?",
+            "a": "They promised dramatic rescue without concrete plans.",
+            "meaning_ko": "salvation을 ‘대단한 구원책’처럼 포장했지만 내용은 비었다는 뉘앙스입니다."
+          },
+          {
+            "q": "Choose the best contrast: 'The text treats redemption as payment, and salvation as ____.'",
+            "a": "deliverance",
+            "meaning_ko": "redemption(대가를 치러 되찾음)과 대비되는 salvation은 ‘구출/해방’ 쪽이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'He found salvation to music when he was depressed.' (Fix the preposition.)",
+            "a": "He found salvation in music when he was depressed.",
+            "meaning_ko": "find salvation in ~ : ~에서 구원/돌파구를 찾다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "reprieve",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A temporary relief or delay from something unpleasant; a pause in suffering or pressure.",
+        "definition_ko": "고통·압박·불리한 상황에서 잠시 벗어나게 해주는 유예(한숨 돌림).",
+        "note": "일상적으로도 'a brief reprieve'처럼 ‘잠깐의 휴지기’ 의미로 자주 씁니다."
+      },
+      {
+        "definition_en": "An official order stopping or postponing a punishment, especially the execution of a death sentence.",
+        "definition_ko": "(법률) 형벌 집행(특히 사형 집행)을 멈추거나 미루는 공식 유예/집행정지.",
+        "note": "뉴스·법률 문맥에서 ‘사형 집행 유예’로 매우 빈번합니다."
+      },
+      {
+        "definition_en": "To cancel or postpone a punishment or unpleasant event; to grant temporary relief.",
+        "definition_ko": "(동사) 형벌·불이익을 유예하다, 잠시 숨통을 트이게 하다.",
+        "note": "reprieve A / reprieve A from B 형태가 흔합니다."
+      }
+    ],
+    "concept": "완전히 해결되는 게 아니라 ‘잠깐 미뤄지거나 쉬어가는 틈’이 생긴다는 개념.",
+    "etymology": "중세 프랑스어 법률 용어에서 ‘(형벌을) 연기하다/유예하다’ 의미로 들어온 단어로, 현대 영어에서 명사·동사로 굳어졌습니다(세부 어원은 자료에 따라 설명이 달라 간단히 정리합니다).",
+    "semanticExtension": "원래 법률적 ‘형 집행 유예’가 중심이었고, 일반 상황에서도 ‘압박에서의 잠깐의 휴지기’로 의미가 확장되었습니다.",
+    "nuanceRegister": "법률·기사 문체에서 매우 흔하고, 일상/문어 모두에서 ‘잠시 숨 돌림’ 느낌으로 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 from과 잘 결합하고(a reprieve from), 동사로는 목적어를 직접 취하거나 reprieve A from B로 쓰입니다.",
+    "transitivity": "자동사·타동사 모두(주로 타동사: reprieve someone / reprieve something).",
+    "countability": "가산명사(한 번의 유예/휴지기).",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터의 유예/잠깐의 해방",
+        "example": "a reprieve from deadlines"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "(형벌의) 유예 기간/대상",
+        "example": "a reprieve for the prisoner"
+      },
+      {
+        "prep": "after",
+        "meaning_ko": "~후에 찾아온 잠시의 휴지기",
+        "example": "a reprieve after months of stress"
+      }
+    ],
+    "requiredComplements": [
+      "a reprieve from + 명사/동명사: ~로부터의 잠깐의 유예(예: from responsibility)",
+      "reprieve + 목적어(사람/형벌): (법률) 유예하다(예: reprieve a prisoner)",
+      "reprieve + 목적어 + from + 명사: ~로부터 잠시 벗어나게 하다"
+    ],
+    "morphology": "re-(다시/되돌림의 느낌) + (중세 프랑스어 계열 어근)로 굳어진 형태로, 현대 영어에서는 ‘유예/연기’ 의미 단위로 통째로 외우는 편이 안전합니다.",
+    "derivatives": [
+      {
+        "word": "reprieved",
+        "meaning_ko": "유예된; (형이) 집행정지된"
+      },
+      {
+        "word": "reprieving",
+        "meaning_ko": "유예하는(동작)"
+      },
+      {
+        "word": "reprieval",
+        "meaning_ko": "유예, 집행정지(드묾)"
+      },
+      {
+        "word": "reprise",
+        "meaning_ko": "재현, 반복(형태 유사·의미 별개)"
+      },
+      {
+        "word": "defer",
+        "meaning_ko": "연기하다(관련 개념)"
+      }
+    ],
+    "related": [
+      {
+        "word": "respite",
+        "meaning_ko": "잠시 휴식, 숨 돌림"
+      },
+      {
+        "word": "stay",
+        "meaning_ko": "(법률) (집행) 정지"
+      },
+      {
+        "word": "commutation",
+        "meaning_ko": "감형"
+      },
+      {
+        "word": "postponement",
+        "meaning_ko": "연기"
+      },
+      {
+        "word": "clemency",
+        "meaning_ko": "관용, 온정(형벌 완화)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "respite",
+        "meaning_ko": "휴지기, 잠깐의 숨 돌림"
+      },
+      {
+        "word": "stay",
+        "meaning_ko": "(법) 집행정지"
+      },
+      {
+        "word": "postponement",
+        "meaning_ko": "연기"
+      },
+      {
+        "word": "delay",
+        "meaning_ko": "지연, 연기"
+      },
+      {
+        "word": "lull",
+        "meaning_ko": "잠깐의 소강(소란·활동의)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "break",
+        "meaning_ko": "휴식/틈(일반적)"
+      },
+      {
+        "word": "pause",
+        "meaning_ko": "일시 정지"
+      },
+      {
+        "word": "extension",
+        "meaning_ko": "기한 연장"
+      },
+      {
+        "word": "mercy",
+        "meaning_ko": "자비(정서적 강조)"
+      },
+      {
+        "word": "relief",
+        "meaning_ko": "완화(결과 상태 강조)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "execution",
+        "meaning_ko": "집행(특히 사형 집행)"
+      },
+      {
+        "word": "enforcement",
+        "meaning_ko": "집행, 시행"
+      },
+      {
+        "word": "immediacy",
+        "meaning_ko": "즉시성(유예의 반대 개념)"
+      },
+      {
+        "word": "continuation",
+        "meaning_ko": "계속, 지속"
+      },
+      {
+        "word": "pressure",
+        "meaning_ko": "압박(유예가 없는 상태)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a brief reprieve",
+            "meaning_ko": "잠깐의 유예/휴지기"
+          },
+          {
+            "phrase": "win a reprieve",
+            "meaning_ko": "유예를 얻어내다"
+          },
+          {
+            "phrase": "a reprieve from work",
+            "meaning_ko": "일에서 잠시 벗어남"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "grant a reprieve",
+            "meaning_ko": "유예를 부여하다"
+          },
+          {
+            "phrase": "a reprieve from punishment",
+            "meaning_ko": "처벌로부터의 유예"
+          },
+          {
+            "phrase": "offer no reprieve",
+            "meaning_ko": "유예/틈을 주지 않다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "issue a reprieve order",
+            "meaning_ko": "(법) 유예 명령을 내리다"
+          },
+          {
+            "phrase": "seek executive reprieve",
+            "meaning_ko": "(행정권) 집행 유예를 청원하다"
+          },
+          {
+            "phrase": "a temporary reprieve for reforms",
+            "meaning_ko": "개혁에 대한 일시적 ‘유예’"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The rain gave us a reprieve from the heat.",
+            "meaning_ko": "비가 더위에서 잠시 벗어나게 해줬다."
+          },
+          {
+            "sentence": "After the exam, I finally had a reprieve.",
+            "meaning_ko": "시험이 끝나고 드디어 한숨 돌렸다."
+          },
+          {
+            "sentence": "They asked the judge for a reprieve.",
+            "meaning_ko": "그들은 판사에게 유예를 요청했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company offered no reprieve as deadlines kept tightening.",
+            "meaning_ko": "마감이 계속 조여오자 회사는 숨 돌릴 틈을 주지 않았다."
+          },
+          {
+            "sentence": "He was reprieved from the fine after an appeal.",
+            "meaning_ko": "그는 항소 후 벌금에서 유예(면제에 가까운 완화)를 받았다."
+          },
+          {
+            "sentence": "The ceasefire was a fragile reprieve rather than a lasting peace.",
+            "meaning_ko": "휴전은 지속적인 평화라기보다 위태로운 ‘잠깐의 숨 돌림’이었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The governor reprieved the inmate hours before the scheduled execution, citing new evidence.",
+            "meaning_ko": "주지사는 새로운 증거를 이유로 예정된 사형 집행 몇 시간 전에 수감자에게 집행 유예를 내렸다."
+          },
+          {
+            "sentence": "A reprieve can expose structural problems by delaying consequences without removing causes.",
+            "meaning_ko": "유예는 원인을 제거하지 않은 채 결과만 미뤄 구조적 문제를 드러내기도 한다."
+          },
+          {
+            "sentence": "Markets treated the rate cut as a reprieve, yet volatility returned the following week.",
+            "meaning_ko": "시장은 금리 인하를 유예처럼 받아들였지만 변동성은 다음 주에 다시 돌아왔다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "reprieve는 ‘완전한 해결’이 아니라 ‘잠깐 연기/숨 돌림’이라는 점이 핵심입니다. 비슷한 respite가 더 ‘휴식’에 가깝다면, reprieve는 압박·처벌·불리함에서 ‘잠시 면해줌’ 느낌이 강합니다. 시험에서는 a reprieve from ~, grant/receive/win a reprieve 같은 결합과, 법률 문맥에서 ‘사형 집행 유예’ 의미를 놓치지 마세요.",
+    "tags": [
+      "법률",
+      "기사 문체",
+      "유예",
+      "휴지기",
+      "압박"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: 'A cold drink gave me a reprieve ___ the heat.'",
+            "a": "from",
+            "meaning_ko": "reprieve from ~ : ~로부터의 잠깐의 유예/해방."
+          },
+          {
+            "q": "Choose the closest meaning: 'a brief reprieve' (A) a long punishment (B) a short relief (C) a final decision",
+            "a": "a short relief",
+            "meaning_ko": "reprieve의 핵심은 ‘잠깐의 완화/유예’입니다."
+          },
+          {
+            "q": "Which is more natural? (A) take a reprieve (B) get a reprieve",
+            "a": "get a reprieve",
+            "meaning_ko": "일상적으로 ‘get/receive/win a reprieve’가 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite: 'The judge delayed the punishment.' Use 'reprieve' as a verb.",
+            "a": "The judge reprieved the punishment.",
+            "meaning_ko": "reprieve는 동사로 ‘(처벌을) 유예하다/연기하다’가 됩니다."
+          },
+          {
+            "q": "Choose the best collocation for legal context: 'The governor ___ the prisoner.'",
+            "a": "reprieved",
+            "meaning_ko": "사형 집행 유예 등에서 reprieve + 사람(또는 형벌)이 흔합니다."
+          },
+          {
+            "q": "Meaning check: 'The break was a reprieve, not a solution.' What does it imply?",
+            "a": "It offered temporary relief but did not fix the problem.",
+            "meaning_ko": "reprieve는 ‘임시방편’ 뉘앙스를 동반할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'They granted him a reprieve of the sentence.' (Fix the preposition.)",
+            "a": "They granted him a reprieve from the sentence.",
+            "meaning_ko": "a reprieve from ~ 가 가장 자연스럽습니다."
+          },
+          {
+            "q": "Reading nuance: 'The policy is a reprieve for incumbents.' What is suggested?",
+            "a": "It temporarily benefits those in power by delaying pressure or scrutiny.",
+            "meaning_ko": "reprieve가 ‘압박을 잠시 늦춰주는 혜택’으로 쓰였습니다."
+          },
+          {
+            "q": "Choose the best paraphrase: 'The execution was reprieved.'",
+            "a": "The execution was officially postponed or stopped for now.",
+            "meaning_ko": "법률 문맥에서 reprieve는 ‘집행을 멈추거나 미루다’입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prevalent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Widespread in a particular area or at a particular time; common or frequent.",
+        "definition_ko": "특정 지역·집단·시기에 널리 퍼져 있는; 흔한.",
+        "note": "formal한 글에서 common보다 격식 있게 ‘만연한/유행하는’ 느낌을 줍니다."
+      },
+      {
+        "definition_en": "Generally accepted or dominant; prevailing.",
+        "definition_ko": "일반적으로 받아들여지는, 우세한(지배적인).",
+        "note": "prevalent belief/opinion처럼 ‘지배적인 관념’을 말할 때도 씁니다."
+      }
+    ],
+    "concept": "어떤 현상·생각·질병 등이 한 곳에 ‘넓게 퍼져 흔해진 상태’.",
+    "etymology": "라틴어 praevalere(우세하다, 힘이 세다)에서 유래했으며, prae-(앞서) + valere(강하다) 구성에서 ‘우세한 → 널리 퍼진’ 의미로 발전했습니다.",
+    "semanticExtension": "‘우세하다/지배적이다’라는 원뜻이, 현실에서 ‘많아서 흔하다/널리 퍼져 있다’로 자연스럽게 연결되어 현재의 ‘widespread/common’ 의미로 굳었습니다.",
+    "nuanceRegister": "격식·문어·학술/보고서에서 매우 흔합니다. 일상에서는 common이 더 자연스럽고, prevalent는 더 ‘분석적/객관적’ 뉘앙스를 줍니다.",
+    "grammarNotes": "보통 서술·한정 용법 모두 가능하며, in/among/throughout 같은 전치사와 결합해 범위를 명확히 합니다(prevalent in society).",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서/~에 널리 퍼진",
+        "example": "prevalent in urban areas"
+      },
+      {
+        "prep": "among",
+        "meaning_ko": "~사이에서 흔한",
+        "example": "prevalent among teenagers"
+      },
+      {
+        "prep": "throughout",
+        "meaning_ko": "~전역에 걸쳐 만연한",
+        "example": "prevalent throughout the region"
+      }
+    ],
+    "requiredComplements": [
+      "prevalent in + 장소/분야: ~에서 만연한(예: in healthcare)",
+      "prevalent among + 집단: ~사이에서 흔한(예: among students)",
+      "prevalent belief/practice/disease: 지배적인 믿음/관행/질병"
+    ],
+    "morphology": "pre-(앞서/우세) + valent(강한; valere에서 파생) → ‘우세한/지배적인’ 느낌이 기본이며, 여기서 ‘널리 퍼진’ 의미가 나옵니다.",
+    "derivatives": [
+      {
+        "word": "prevail",
+        "meaning_ko": "우세하다; 널리 퍼지다"
+      },
+      {
+        "word": "prevalence",
+        "meaning_ko": "유병률; (현상의) 만연"
+      },
+      {
+        "word": "prevailing",
+        "meaning_ko": "지배적인, 우세한"
+      },
+      {
+        "word": "prevalently",
+        "meaning_ko": "대체로(드묾)"
+      },
+      {
+        "word": "prevalentness",
+        "meaning_ko": "만연함(매우 드묾)"
+      }
+    ],
+    "related": [
+      {
+        "word": "common",
+        "meaning_ko": "흔한"
+      },
+      {
+        "word": "widespread",
+        "meaning_ko": "널리 퍼진"
+      },
+      {
+        "word": "pervasive",
+        "meaning_ko": "스며들 듯 만연한"
+      },
+      {
+        "word": "dominant",
+        "meaning_ko": "지배적인"
+      },
+      {
+        "word": "endemic",
+        "meaning_ko": "(질병/현상) 토착성의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "widespread",
+        "meaning_ko": "널리 퍼진"
+      },
+      {
+        "word": "common",
+        "meaning_ko": "흔한"
+      },
+      {
+        "word": "frequent",
+        "meaning_ko": "빈번한"
+      },
+      {
+        "word": "pervasive",
+        "meaning_ko": "만연한"
+      },
+      {
+        "word": "prevailing",
+        "meaning_ko": "우세한, 지배적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "popular",
+        "meaning_ko": "인기 있는(선호 강조)"
+      },
+      {
+        "word": "typical",
+        "meaning_ko": "전형적인(대표성 강조)"
+      },
+      {
+        "word": "rampant",
+        "meaning_ko": "통제 안 될 정도로 만연한(부정 뉘앙스)"
+      },
+      {
+        "word": "ubiquitous",
+        "meaning_ko": "어디에나 있는(과장/강조)"
+      },
+      {
+        "word": "dominant",
+        "meaning_ko": "지배적인(힘/우세 강조)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rare",
+        "meaning_ko": "드문"
+      },
+      {
+        "word": "uncommon",
+        "meaning_ko": "흔치 않은"
+      },
+      {
+        "word": "scarce",
+        "meaning_ko": "부족한, 드문"
+      },
+      {
+        "word": "isolated",
+        "meaning_ko": "국지적인, 고립된"
+      },
+      {
+        "word": "sporadic",
+        "meaning_ko": "산발적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "be prevalent",
+            "meaning_ko": "널리 퍼져 있다"
+          },
+          {
+            "phrase": "a prevalent problem",
+            "meaning_ko": "흔한 문제"
+          },
+          {
+            "phrase": "prevalent in society",
+            "meaning_ko": "사회에 만연한"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "prevalent belief",
+            "meaning_ko": "지배적인 믿음/통념"
+          },
+          {
+            "phrase": "prevalent practice",
+            "meaning_ko": "널리 행해지는 관행"
+          },
+          {
+            "phrase": "highly prevalent",
+            "meaning_ko": "매우 흔한/만연한"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "prevalent in the literature",
+            "meaning_ko": "(학술) 문헌에서 흔히 나타나는"
+          },
+          {
+            "phrase": "prevalent risk factors",
+            "meaning_ko": "널리 존재하는 위험 요인"
+          },
+          {
+            "phrase": "prevalent misconception",
+            "meaning_ko": "만연한 오해/통념"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Smartphones are prevalent everywhere.",
+            "meaning_ko": "스마트폰은 어디에나 널리 퍼져 있다."
+          },
+          {
+            "sentence": "This disease is prevalent in winter.",
+            "meaning_ko": "이 질병은 겨울에 흔하다."
+          },
+          {
+            "sentence": "A prevalent rumor spread quickly.",
+            "meaning_ko": "널리 퍼진 소문이 빠르게 확산됐다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report notes that burnout is prevalent among new employees.",
+            "meaning_ko": "보고서는 번아웃이 신입 직원들 사이에서 흔하다고 지적한다."
+          },
+          {
+            "sentence": "A prevalent belief can persist even when evidence changes.",
+            "meaning_ko": "지배적인 믿음은 증거가 바뀌어도 지속될 수 있다."
+          },
+          {
+            "sentence": "Cashless payments are increasingly prevalent in small shops.",
+            "meaning_ko": "현금 없는 결제는 작은 가게에서도 점점 더 흔해지고 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The study distinguishes between prevalent cases and newly diagnosed cases to avoid misleading conclusions.",
+            "meaning_ko": "그 연구는 오해를 피하기 위해 기존 유병 사례와 신규 진단 사례를 구분한다."
+          },
+          {
+            "sentence": "A prevalent narrative can shape policy by making certain outcomes feel inevitable.",
+            "meaning_ko": "만연한 서사는 특정 결과를 ‘불가피한 것’처럼 느끼게 하여 정책을 좌우할 수 있다."
+          },
+          {
+            "sentence": "Although the method is prevalent in the literature, its assumptions are rarely stated explicitly.",
+            "meaning_ko": "그 방법은 문헌에서 흔하지만, 그 가정은 명시적으로 거의 언급되지 않는다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "prevalent는 common보다 더 ‘격식 있고 분석적인’ 표현입니다. 범위를 꼭 붙여 주는 경우가 많아서 prevalent in/among/throughout 패턴을 함께 외우시면 좋습니다. 또 prevail(우세하다/널리 퍼지다)–prevalent(만연한)–prevalence(유병률/만연)로 어근을 묶어두면 장기 기억에 유리합니다.",
+    "tags": [
+      "학술",
+      "보고서",
+      "통계",
+      "사회",
+      "격식 표현"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: 'Online shopping is prevalent now.'",
+            "a": "common or widespread",
+            "meaning_ko": "prevalent = 널리 퍼진/흔한."
+          },
+          {
+            "q": "Fill in the blank: 'The habit is prevalent ___ teenagers.' (among/in/at)",
+            "a": "among",
+            "meaning_ko": "집단 ‘사이에서’는 among가 자연스럽습니다."
+          },
+          {
+            "q": "Which is more formal? 'common' or 'prevalent'?",
+            "a": "prevalent",
+            "meaning_ko": "prevalent는 보고서/문어에서 더 격식 있는 뉘앙스입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Rewrite: 'This view is common in the field.' Use 'prevalent'.",
+            "a": "This view is prevalent in the field.",
+            "meaning_ko": "prevalent in + 분야/장소 패턴."
+          },
+          {
+            "q": "Choose the best collocation: 'a prevalent ____' (A) decide (B) belief (C) quickly",
+            "a": "belief",
+            "meaning_ko": "prevalent belief/opinion/practice가 대표 결합입니다."
+          },
+          {
+            "q": "Meaning check: 'A prevalent misconception' refers to ____.",
+            "a": "a widely held false belief",
+            "meaning_ko": "misconception(오해/틀린 믿음)이 널리 퍼져 있다는 뜻입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Error correction: 'The trend is prevalent on our team members.' (Fix the preposition.)",
+            "a": "The trend is prevalent among our team members.",
+            "meaning_ko": "집단에는 among가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best nuance: 'prevalent' vs 'pervasive' — which implies 'spreading into everything, often negatively'?",
+            "a": "pervasive",
+            "meaning_ko": "pervasive는 ‘스며들 듯 만연’하며 종종 부정 뉘앙스가 강합니다."
+          },
+          {
+            "q": "Reading inference: 'Prevalent methods can be unexamined.' What does it suggest?",
+            "a": "Commonly used methods may be accepted without critical review.",
+            "meaning_ko": "널리 쓰인다는 이유로 검증이 느슨해질 수 있다는 함의입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

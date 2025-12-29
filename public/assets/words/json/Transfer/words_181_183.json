@@ -1,0 +1,1073 @@
+[
+  {
+    "word": "agitate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To make someone feel worried, angry, or unsettled; to disturb emotionally.",
+        "definition_ko": "(사람을) 불안·초조·분노하게 하다; 감정을 흔들어 동요시키다.",
+        "note": "사람의 ‘마음 상태’를 흔들어 놓는 뉘앙스가 강합니다."
+      },
+      {
+        "definition_en": "To stir or shake something, especially a liquid, so that it moves around.",
+        "definition_ko": "(액체 등을) 휘젓다, 흔들어 섞다.",
+        "note": "실험·세척 등에서 ‘잘 섞이게 흔들다’로 자주 씁니다."
+      },
+      {
+        "definition_en": "To campaign actively for a cause; to press for change through public action.",
+        "definition_ko": "(개혁·정책 등을) 적극적으로 선동·운동하다; 변화를 요구하며 활동하다.",
+        "note": "‘agitate for/against ~’ 형태로 사회·정치적 맥락에서 많이 등장합니다."
+      }
+    ],
+    "concept": "무언가를 ‘흔들어’ 움직이게 하거나(물리), 사람·사회 분위기를 ‘동요’시키는 행위.",
+    "etymology": "라틴어 agitare(몰아붙이다, 흔들다)에서 유래해 프랑스어를 거쳐 영어로 들어왔으며, ‘세게 흔들다’에서 ‘감정을 뒤흔들다/운동하다’로 의미가 넓어졌습니다.",
+    "semanticExtension": "액체를 흔드는 물리적 행위 → 사람의 감정/여론을 흔드는 심리·사회적 의미로 확장되며, ‘운동하다/선동하다’라는 정치적 용법이 굳어졌습니다.",
+    "nuanceRegister": "중립~격식. 일상에서도 쓰지만, 기사·학술·정치 담론에서 ‘agitate for reform’처럼 비교적 문어적으로 자주 나옵니다.",
+    "grammarNotes": "타동사로 ‘agitate + 사람/감정(또는 액체)’가 흔합니다. 원인·쟁점을 붙여 ‘be agitated about/over ~’도 자주 쓰며, 자동사적으로 ‘agitate for/against ~’(…을 위해/…에 반대해 운동하다) 패턴이 중요합니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위해 (변화를) 요구하며 운동하다",
+        "example": "agitate for electoral reform"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 반대하여 선동/운동하다",
+        "example": "agitate against the new tax"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~ 때문에 동요/불안해하다",
+        "example": "be agitated over the delay"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 초조/격앙되어 있다",
+        "example": "be agitated about the results"
+      }
+    ],
+    "requiredComplements": [
+      "agitate for + 명사: ~을 위해 (사회적/정치적) 운동하다",
+      "agitate against + 명사: ~에 반대해 선동/운동하다",
+      "be agitated about/over + 명사/동명사: ~ 때문에 동요/흥분해 있다",
+      "agitate + 액체/혼합물: (용액 등을) 휘저어 섞다"
+    ],
+    "morphology": "agit(흔들다/몰아붙이다) + -ate(동사형 접미). 기본 이미지가 ‘계속 흔들어 움직이게 만들다’입니다.",
+    "derivatives": [
+      {
+        "word": "agitation",
+        "meaning_ko": "동요, 흥분; (사회) 선동, 운동"
+      },
+      {
+        "word": "agitated",
+        "meaning_ko": "동요한, 흥분한; (용액이) 휘저어진"
+      },
+      {
+        "word": "agitator",
+        "meaning_ko": "선동가; 교반기(기계)"
+      },
+      {
+        "word": "agitprop",
+        "meaning_ko": "(정치) 선전·선동 활동(약칭)"
+      },
+      {
+        "word": "agitational",
+        "meaning_ko": "동요를 일으키는; 선동성의(문어)"
+      }
+    ],
+    "related": [
+      {
+        "word": "stir",
+        "meaning_ko": "휘젓다; (감정을) 자극하다"
+      },
+      {
+        "word": "rile",
+        "meaning_ko": "짜증나게 하다, 화나게 하다"
+      },
+      {
+        "word": "mobilize",
+        "meaning_ko": "동원하다; (여론/조직을) 결집시키다"
+      },
+      {
+        "word": "turbulence",
+        "meaning_ko": "격동, 난기류(불안정한 움직임)"
+      },
+      {
+        "word": "uproar",
+        "meaning_ko": "소동, 큰 소란"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "disturb",
+        "meaning_ko": "불안하게 하다; 방해하다"
+      },
+      {
+        "word": "upset",
+        "meaning_ko": "동요시키다; 속상하게 하다"
+      },
+      {
+        "word": "stir",
+        "meaning_ko": "휘젓다; (감정을) 흔들다"
+      },
+      {
+        "word": "rouse",
+        "meaning_ko": "각성시키다; (감정을) 불러일으키다"
+      },
+      {
+        "word": "perturb",
+        "meaning_ko": "(격식) 동요시키다, 혼란스럽게 하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "provoke",
+        "meaning_ko": "(의도적으로) 자극해 반응을 끌어내다"
+      },
+      {
+        "word": "incite",
+        "meaning_ko": "(폭력/범죄를) 선동하다"
+      },
+      {
+        "word": "inflame",
+        "meaning_ko": "격화시키다; (분노를) 부추기다"
+      },
+      {
+        "word": "foment",
+        "meaning_ko": "(불만·반란을) 조장하다(격식)"
+      },
+      {
+        "word": "jostle",
+        "meaning_ko": "(물리적으로) 밀치다; 흔들리게 하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "calm",
+        "meaning_ko": "진정시키다"
+      },
+      {
+        "word": "soothe",
+        "meaning_ko": "달래다, 진정시키다"
+      },
+      {
+        "word": "appease",
+        "meaning_ko": "(불만을) 달래다"
+      },
+      {
+        "word": "settle",
+        "meaning_ko": "(마음/상황을) 가라앉히다"
+      },
+      {
+        "word": "stabilize",
+        "meaning_ko": "안정시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "agitate for sweeping reforms",
+            "meaning_ko": "대대적 개혁을 요구하며 운동하다"
+          },
+          {
+            "phrase": "agitate public opinion",
+            "meaning_ko": "여론을 동요/자극하다"
+          },
+          {
+            "phrase": "agitate the workforce into action",
+            "meaning_ko": "노동자들을 행동에 나서게 선동하다"
+          },
+          {
+            "phrase": "politically agitated climate",
+            "meaning_ko": "정치적으로 격앙된 분위기"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "be agitated over the delay",
+            "meaning_ko": "지연 때문에 초조/격앙되어 있다"
+          },
+          {
+            "phrase": "agitate the solution gently",
+            "meaning_ko": "용액을 부드럽게 흔들어 섞다"
+          },
+          {
+            "phrase": "agitate against censorship",
+            "meaning_ko": "검열에 반대해 운동하다"
+          },
+          {
+            "phrase": "agitate a mixture",
+            "meaning_ko": "혼합물을 휘저어 섞다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "agitate the water",
+            "meaning_ko": "물을 흔들다/휘젓다"
+          },
+          {
+            "phrase": "agitate someone easily",
+            "meaning_ko": "누군가를 쉽게 동요시키다"
+          },
+          {
+            "phrase": "feel agitated",
+            "meaning_ko": "초조/흥분을 느끼다"
+          },
+          {
+            "phrase": "get agitated",
+            "meaning_ko": "흥분하다, 격앙되다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The opposition continued to agitate for constitutional reform, framing it as a matter of democratic legitimacy.",
+            "meaning_ko": "야당은 헌법 개정을 요구하는 운동을 계속하며, 이를 민주적 정당성의 문제로 제시했다."
+          },
+          {
+            "sentence": "A single misleading headline can agitate public opinion more effectively than a hundred pages of data.",
+            "meaning_ko": "하나의 오해를 부르는 헤드라인이 백 쪽짜리 데이터보다 여론을 더 강하게 흔들 수 있다."
+          },
+          {
+            "sentence": "By agitating the crowd with fear-based rhetoric, the speaker diverted attention from the policy’s real costs.",
+            "meaning_ko": "연사는 공포를 자극하는 수사로 군중을 격앙시켜, 정책의 실제 비용에서 시선을 돌렸다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She became visibly agitated over the sudden change of plans and started pacing the hallway.",
+            "meaning_ko": "그녀는 갑작스러운 계획 변경에 눈에 띄게 동요해 복도를 서성거리기 시작했다."
+          },
+          {
+            "sentence": "Agitate the bottle before use, but do not shake it violently.",
+            "meaning_ko": "사용 전에 병을 흔들어 섞되, 심하게 흔들지는 마세요."
+          },
+          {
+            "sentence": "Local groups agitated against the proposal, arguing it would harm small businesses.",
+            "meaning_ko": "지역 단체들은 그 प्रस्ताव(안)에 반대하는 운동을 벌이며, 소상공인에게 해가 될 것이라고 주장했다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Don’t agitate the dog; it’s already nervous.",
+            "meaning_ko": "개를 자극하지 마세요; 이미 긴장해 있어요."
+          },
+          {
+            "sentence": "He got agitated when he couldn’t find his phone.",
+            "meaning_ko": "그는 휴대폰을 못 찾자 흥분했다."
+          },
+          {
+            "sentence": "Agitate the water with a spoon to dissolve the salt.",
+            "meaning_ko": "소금을 녹이려고 숟가락으로 물을 저어 주세요."
+          }
+        ]
+      }
+    ],
+    "studyTips": "핵심 이미지는 ‘흔들어 움직이게 만들다’입니다. 그래서 agitate는 (1) 액체를 휘젓다, (2) 사람을 동요/격앙시키다, (3) ‘agitate for/against’로 운동하다까지 자연스럽게 이어집니다. ‘incite’는 폭력·범죄 같은 위험한 행동을 ‘부추기는’ 뉘앙스가 더 강하고, agitate는 비교적 넓게 ‘여론/감정/사회적 행동을 흔드는’ 의미로 쓰인다는 점을 구분해 두세요.",
+    "tags": [
+      "감정",
+      "사회운동",
+      "정치",
+      "실험실",
+      "동요"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Don’t ___ him with teasing; he gets upset easily.",
+            "a": "agitate",
+            "meaning_ko": "agitate는 ‘사람을 동요/불안하게 하다’로 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best meaning of agitate in this context: 'Agitate the bottle before use.'",
+            "a": "to shake/stir so it mixes",
+            "meaning_ko": "제품 사용 설명에서는 ‘흔들어 섞다’의 뜻입니다."
+          },
+          {
+            "q": "Which sentence is natural? (A) He agitated the soup. (B) He agitated to the soup.",
+            "a": "A",
+            "meaning_ko": "타동사로 ‘agitate + 대상’을 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The activists continued to agitate ___ safer working conditions.",
+            "a": "for",
+            "meaning_ko": "‘agitate for + 명사’ = ~을 위해 운동하다."
+          },
+          {
+            "q": "Error spotting: 'She was agitated for the delay and snapped at everyone.'",
+            "a": "She was agitated over/about the delay and snapped at everyone.",
+            "meaning_ko": "감정의 원인은 보통 over/about를 씁니다."
+          },
+          {
+            "q": "Choose the closest synonym: 'The news agitated the investors.'",
+            "a": "disturbed",
+            "meaning_ko": "투자자들을 ‘불안하게/동요하게’ 했다는 문맥에서 disturbed가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the most appropriate collocation: The senator tried to ___ public opinion by spreading unfounded rumors.",
+            "a": "agitate",
+            "meaning_ko": "여론을 ‘동요시키다/자극하다’에 agitate가 자연스럽습니다."
+          },
+          {
+            "q": "Fill in the blank: In authoritarian regimes, writers who agitate ___ censorship may face severe penalties.",
+            "a": "against",
+            "meaning_ko": "‘agitate against + 명사’ = ~에 반대해 운동하다."
+          },
+          {
+            "q": "Reading logic: If a policy is said to 'agitate social tensions,' what does it most likely do?",
+            "a": "It intensifies and unsettles existing tensions.",
+            "meaning_ko": "agitate는 긴장을 ‘더 흔들어’ 격화·동요시키는 의미입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "entity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A thing that exists as a distinct and independent being, often as a single unit.",
+        "definition_ko": "독립된 실체(개체); 하나의 단위로 존재하는 것.",
+        "note": "철학·일반 문어에서 ‘존재하는 어떤 것’이라는 넓은 뜻으로도 씁니다."
+      },
+      {
+        "definition_en": "An organization, company, or institution that has a separate identity, especially in law or business.",
+        "definition_ko": "(법·경영) 독립된 법인/기관/조직체.",
+        "note": "‘legal entity’처럼 법적 주체를 강조할 때 매우 흔합니다."
+      },
+      {
+        "definition_en": "In grammar or data models, a defined unit or object treated as a single item.",
+        "definition_ko": "(문법·데이터) 하나의 항목으로 취급되는 단위/객체(엔터티).",
+        "note": "DB/모델링에서 entity는 ‘테이블로 모델링되는 대상’이라는 기술적 의미가 있습니다."
+      }
+    ],
+    "concept": "‘하나로 구분되는 독립된 존재/단위’(물건·사람·조직·데이터 객체까지).",
+    "etymology": "라틴어 ens(존재하는 것)에서 파생된 중세 라틴어 entitas(존재성, 실체)에서 유래해, 영어에서 ‘독립된 실체’라는 의미로 굳어졌습니다.",
+    "semanticExtension": "추상적 ‘존재성’(being)에서 출발해, 현실 세계의 독립된 사물/조직, 더 나아가 데이터/모델에서 구분되는 객체까지 적용 범위가 확장되었습니다.",
+    "nuanceRegister": "격식·중립. 일상 대화에서는 ‘thing/company’로 대체되는 경우가 많고, 문서·법률·비즈니스·IT 문맥에서 특히 많이 씁니다.",
+    "grammarNotes": "가산명사. ‘an entity / entities’로 쓰며, 수식어로 legal, corporate, separate, sovereign, nonprofit 등이 자주 붙습니다. ‘treat A as a single entity’(A를 하나의 단위로 취급하다) 구조가 매우 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "as",
+        "meaning_ko": "~로(서) 간주/취급하다",
+        "example": "treat the team as a single entity"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(의) 엔터티/주체",
+        "example": "an entity in international law"
+      },
+      {
+        "prep": "within",
+        "meaning_ko": "~내의 구성 단위",
+        "example": "separate entities within the conglomerate"
+      }
+    ],
+    "requiredComplements": [
+      "treat/consider/regard A as a single entity: A를 하나의 단위로 취급하다",
+      "legal/corporate/sovereign entity: 법인/법적 주체/주권체",
+      "separate/distinct/independent entity: 분리된/구별되는/독립된 실체"
+    ],
+    "morphology": "ent(존재, being) + -ity(명사화). ‘존재하는 것의 성질/실체’라는 조합입니다.",
+    "derivatives": [
+      {
+        "word": "entitative",
+        "meaning_ko": "실체로서의, 엔터티 성격의(형용사)"
+      },
+      {
+        "word": "entitatively",
+        "meaning_ko": "실체(엔터티)로서(부사)"
+      },
+      {
+        "word": "entitize",
+        "meaning_ko": "(추상을) 실체/엔터티로 취급하다(동사, 전문)"
+      },
+      {
+        "word": "entitization",
+        "meaning_ko": "엔터티화, 실체화(명사, 전문)"
+      },
+      {
+        "word": "entity-based",
+        "meaning_ko": "엔터티 기반의(복합 형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "being",
+        "meaning_ko": "존재, 생명체"
+      },
+      {
+        "word": "organism",
+        "meaning_ko": "유기체(독립된 생물)"
+      },
+      {
+        "word": "corporation",
+        "meaning_ko": "법인, 기업"
+      },
+      {
+        "word": "institution",
+        "meaning_ko": "기관, 제도"
+      },
+      {
+        "word": "object",
+        "meaning_ko": "(CS) 객체; 대상"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "unit",
+        "meaning_ko": "단위"
+      },
+      {
+        "word": "body",
+        "meaning_ko": "(조직·단체) 단체/기구"
+      },
+      {
+        "word": "organization",
+        "meaning_ko": "조직"
+      },
+      {
+        "word": "being",
+        "meaning_ko": "존재(격식)"
+      },
+      {
+        "word": "individual",
+        "meaning_ko": "개체(문맥에 따라)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "agency",
+        "meaning_ko": "기관; 대행사(공공기관 뉘앙스)"
+      },
+      {
+        "word": "firm",
+        "meaning_ko": "회사(구어적)"
+      },
+      {
+        "word": "company",
+        "meaning_ko": "회사(일반적)"
+      },
+      {
+        "word": "institution",
+        "meaning_ko": "제도/기관(공적·공공적)"
+      },
+      {
+        "word": "establishment",
+        "meaning_ko": "(기존) 기득권/기관(뉘앙스 포함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "nonentity",
+        "meaning_ko": "보잘것없는 사람/존재감 없는 것"
+      },
+      {
+        "word": "nothingness",
+        "meaning_ko": "무(無), 허무(철학)"
+      },
+      {
+        "word": "amorphous mass",
+        "meaning_ko": "형체 없는 덩어리(단위가 없는 상태)"
+      },
+      {
+        "word": "fragment",
+        "meaning_ko": "파편(하나의 단위가 아닌 조각)"
+      },
+      {
+        "word": "collective",
+        "meaning_ko": "집합(개별 단위가 흐려진 상태)"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a separate legal entity",
+            "meaning_ko": "별도의 법적 주체"
+          },
+          {
+            "phrase": "recognize statehood as a sovereign entity",
+            "meaning_ko": "주권체로서의 국가성을 인정하다"
+          },
+          {
+            "phrase": "treat the consortium as a single entity",
+            "meaning_ko": "컨소시엄을 하나의 단위로 취급하다"
+          },
+          {
+            "phrase": "entity resolution in large datasets",
+            "meaning_ko": "대규모 데이터에서 엔터티 식별/통합"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "corporate entity",
+            "meaning_ko": "법인(기업) 주체"
+          },
+          {
+            "phrase": "distinct entity",
+            "meaning_ko": "구별되는 실체/단위"
+          },
+          {
+            "phrase": "an entity within the group",
+            "meaning_ko": "그룹 내의 계열사/조직"
+          },
+          {
+            "phrase": "entity in the database",
+            "meaning_ko": "데이터베이스의 엔터티"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "one entity",
+            "meaning_ko": "하나의 단위"
+          },
+          {
+            "phrase": "a new entity",
+            "meaning_ko": "새로운 조직/실체"
+          },
+          {
+            "phrase": "independent entity",
+            "meaning_ko": "독립된 주체"
+          },
+          {
+            "phrase": "treat it as an entity",
+            "meaning_ko": "그것을 하나의 단위로 보다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The court held that the subsidiary was a separate legal entity, shielding the parent company from direct liability.",
+            "meaning_ko": "법원은 자회사가 별도의 법적 주체라고 보아, 모회사가 직접 책임을 지는 것을 제한했다."
+          },
+          {
+            "sentence": "To model the system precisely, we must define each user, device, and session as a distinct entity with clear relationships.",
+            "meaning_ko": "시스템을 정밀하게 모델링하려면 사용자·기기·세션을 각각 관계가 명확한 별도의 엔터티로 정의해야 한다."
+          },
+          {
+            "sentence": "Treating the alliance as a single entity obscures the divergent interests that eventually undermine cooperation.",
+            "meaning_ko": "동맹을 하나의 단일 실체로 취급하면, 결국 협력을 약화시키는 상이한 이해관계를 가리게 된다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The nonprofit operates as an independent entity even though it shares office space with the university.",
+            "meaning_ko": "그 비영리단체는 대학과 사무실을 공유하지만 독립된 조직으로 운영된다."
+          },
+          {
+            "sentence": "In the database, each customer is an entity linked to multiple orders.",
+            "meaning_ko": "데이터베이스에서 각 고객은 여러 주문과 연결된 하나의 엔터티다."
+          },
+          {
+            "sentence": "After the merger, the two departments were reorganized into a single entity.",
+            "meaning_ko": "합병 후 두 부서는 하나의 단일 조직으로 재편되었다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The team acts as one entity when the pressure is high.",
+            "meaning_ko": "압박이 클 때 그 팀은 한 몸처럼 움직인다."
+          },
+          {
+            "sentence": "Each company is a separate entity with its own rules.",
+            "meaning_ko": "각 회사는 자체 규칙을 가진 별개의 조직이다."
+          },
+          {
+            "sentence": "Think of the app as an entity made of many parts.",
+            "meaning_ko": "그 앱을 여러 부분으로 이루어진 하나의 단위라고 생각해 보세요."
+          }
+        ]
+      }
+    ],
+    "studyTips": "entity는 ‘회사/기관’만 뜻하는 게 아니라 ‘독립된 단위’라는 넓은 개념어입니다. 문장에서 ‘legal/corporate entity’면 거의 ‘법인/법적 주체’로 굳어지고, ‘treat A as a single entity’면 ‘A를 하나로 취급하다’가 핵심 패턴입니다. IT 문맥에서는 ‘entity(엔터티)’가 ‘데이터로 모델링되는 대상’이라는 뜻으로 자주 나오니, ‘object/record’와 문맥 차이도 같이 익혀 두시면 좋습니다.",
+    "tags": [
+      "법률",
+      "비즈니스",
+      "데이터모델링",
+      "철학",
+      "조직"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: Each branch is a separate ___ with its own budget.",
+            "a": "entity",
+            "meaning_ko": "branch(지점/부서)도 독립된 단위로 볼 때 entity를 씁니다."
+          },
+          {
+            "q": "Choose the best meaning: 'The startup became a legal entity last year.'",
+            "a": "a legally recognized organization",
+            "meaning_ko": "법적 주체로 등록된 ‘조직/법인’ 의미입니다."
+          },
+          {
+            "q": "Which is more natural? (A) an entity (B) a entity",
+            "a": "an entity",
+            "meaning_ko": "모음 소리 /en-/로 시작하므로 an을 씁니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: The judge ruled that the subsidiary was a separate legal entity, ___ the parent’s assets.",
+            "a": "protecting",
+            "meaning_ko": "‘별도 법적 주체’는 모회사 자산을 보호하는 맥락으로 자주 연결됩니다."
+          },
+          {
+            "q": "Choose the closest paraphrase: 'Treat the two brands as a single entity.'",
+            "a": "Consider the two brands as one unit.",
+            "meaning_ko": "entity = unit(단위)로 바꿔 이해하면 쉽습니다."
+          },
+          {
+            "q": "Error spotting: 'In our ERD, order is a entity connected to customer.'",
+            "a": "In our ERD, order is an entity connected to customer.",
+            "meaning_ko": "모음 소리로 시작하므로 an entity가 맞습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Reading: If a contract says 'the parties are independent entities,' what is it emphasizing?",
+            "a": "They are separate legal/organizational units, not one combined body.",
+            "meaning_ko": "서로 종속되지 않는 ‘별도 단위’임을 강조합니다."
+          },
+          {
+            "q": "Choose the best collocation for corporate law: (A) fuzzy entity (B) separate legal entity (C) soft entity (D) entity of nice",
+            "a": "separate legal entity",
+            "meaning_ko": "법률 문맥에서 가장 표준적인 결합입니다."
+          },
+          {
+            "q": "Fill in the blank: In data integration, ___ resolution aims to identify records that refer to the same real-world object.",
+            "a": "entity",
+            "meaning_ko": "entity resolution은 동일 실체를 가리키는 레코드를 찾아 통합하는 작업입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "generate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To produce or create something, especially as a result of a process or activity.",
+        "definition_ko": "(과정·활동의 결과로) 생산하다, 만들어 내다, 발생시키다.",
+        "note": "결과물(ideas, revenue, heat)을 ‘만들어내다’로 폭넓게 씁니다."
+      },
+      {
+        "definition_en": "To cause something (such as energy, electricity, or heat) to be produced.",
+        "definition_ko": "(전기·에너지·열 등을) 발생시키다/발전하다.",
+        "note": "발전기, 발전소 맥락에서 매우 흔한 핵심 의미입니다."
+      },
+      {
+        "definition_en": "To create data, output, or content automatically (e.g., by a system or program).",
+        "definition_ko": "(시스템이) 데이터/출력/콘텐츠를 자동으로 생성하다.",
+        "note": "IT 문맥에서 generate는 ‘자동 산출’의 뉘앙스가 강합니다."
+      }
+    ],
+    "concept": "무언가를 ‘산출/생성’해서 결과를 만들어 내는 것(물질·에너지·아이디어·데이터).",
+    "etymology": "라틴어 generare(낳다, 만들어 내다) 및 genus(종류, 기원)에서 유래해, ‘생겨나게 하다/산출하다’ 의미로 영어에 정착했습니다.",
+    "semanticExtension": "‘낳다’(생물학적 생성)에서 출발해, 아이디어·수익·문제처럼 추상적 결과를 ‘만들어내다’, 그리고 컴퓨터가 출력물을 ‘자동 생성하다’로 의미가 현대적으로 확장되었습니다.",
+    "nuanceRegister": "중립. 일상(idea, smile)부터 학술·기술(heat, power, output)까지 폭넓게 쓰이며, 특히 문서·보고서에서 선호됩니다.",
+    "grammarNotes": "타동사로 목적어를 직접 취합니다(generate + noun). 원인을 붙일 때 ‘generate from/by’가 자주 쓰이고, ‘generate electricity/heat/revenue/ideas’ 같은 고정 결합이 많습니다. 수동태도 자연스럽게 쓰입니다(Heat is generated by friction).",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터(원천) 만들어 내다",
+        "example": "generate energy from solar panels"
+      },
+      {
+        "prep": "by",
+        "meaning_ko": "~에 의해(수단/원인) 발생하다",
+        "example": "heat generated by friction"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위해(목적) 생성하다",
+        "example": "generate a report for management"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서(맥락/분야) 생성되다",
+        "example": "generate errors in the system"
+      }
+    ],
+    "requiredComplements": [
+      "generate + 산출물(idea/revenue/heat/power/output/report): 무엇을 만들어 내다",
+      "be generated by + 원인/수단: ~에 의해 발생/생성되다",
+      "generate A from + 원천: A를 ~로부터 만들어 내다",
+      "generate A for + 대상/목적: ~을 위해 A를 생성하다"
+    ],
+    "morphology": "gen(낳다/기원) + -erate(동사화). ‘원천에서 결과를 낳게 하다’라는 생성 이미지를 갖습니다.",
+    "derivatives": [
+      {
+        "word": "generation",
+        "meaning_ko": "생성, 발생; 세대"
+      },
+      {
+        "word": "generator",
+        "meaning_ko": "발전기; 생성기(도구/프로그램)"
+      },
+      {
+        "word": "generative",
+        "meaning_ko": "생성의; 생성형(예: generative model)"
+      },
+      {
+        "word": "regenerate",
+        "meaning_ko": "재생하다; 다시 만들어 내다"
+      },
+      {
+        "word": "degenerate",
+        "meaning_ko": "퇴화하다; 타락하다(어근 파생)"
+      }
+    ],
+    "related": [
+      {
+        "word": "produce",
+        "meaning_ko": "생산하다"
+      },
+      {
+        "word": "create",
+        "meaning_ko": "창조하다, 만들어 내다"
+      },
+      {
+        "word": "cause",
+        "meaning_ko": "야기하다"
+      },
+      {
+        "word": "yield",
+        "meaning_ko": "산출하다; 수확을 내다"
+      },
+      {
+        "word": "emit",
+        "meaning_ko": "방출하다(열·빛·가스 등)"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "produce",
+        "meaning_ko": "생산하다"
+      },
+      {
+        "word": "create",
+        "meaning_ko": "만들다"
+      },
+      {
+        "word": "spawn",
+        "meaning_ko": "(비유) 낳다, 야기하다"
+      },
+      {
+        "word": "yield",
+        "meaning_ko": "산출하다"
+      },
+      {
+        "word": "bring about",
+        "meaning_ko": "초래하다, 발생시키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "manufacture",
+        "meaning_ko": "(공장) 제조하다"
+      },
+      {
+        "word": "fabricate",
+        "meaning_ko": "제작하다; (거짓을) 꾸며내다"
+      },
+      {
+        "word": "compile",
+        "meaning_ko": "(자료를) 편집/취합하다"
+      },
+      {
+        "word": "derive",
+        "meaning_ko": "(근거에서) 도출하다"
+      },
+      {
+        "word": "form",
+        "meaning_ko": "형성하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "consume",
+        "meaning_ko": "소비하다"
+      },
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "eliminate",
+        "meaning_ko": "제거하다"
+      },
+      {
+        "word": "suppress",
+        "meaning_ko": "억제하다(발생을 막다)"
+      },
+      {
+        "word": "deplete",
+        "meaning_ko": "고갈시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "generate actionable insights",
+            "meaning_ko": "실행 가능한 인사이트를 도출하다"
+          },
+          {
+            "phrase": "generate electricity at scale",
+            "meaning_ko": "대규모로 전기를 생산하다"
+          },
+          {
+            "phrase": "generate unintended consequences",
+            "meaning_ko": "의도치 않은 결과를 초래하다"
+          },
+          {
+            "phrase": "generate a verifiable audit trail",
+            "meaning_ko": "검증 가능한 감사 추적 기록을 생성하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "generate revenue",
+            "meaning_ko": "수익을 창출하다"
+          },
+          {
+            "phrase": "generate heat",
+            "meaning_ko": "열을 발생시키다"
+          },
+          {
+            "phrase": "generate a report",
+            "meaning_ko": "보고서를 생성하다"
+          },
+          {
+            "phrase": "generate interest",
+            "meaning_ko": "관심을 불러일으키다"
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "generate ideas",
+            "meaning_ko": "아이디어를 내다"
+          },
+          {
+            "phrase": "generate power",
+            "meaning_ko": "전력을 생산하다"
+          },
+          {
+            "phrase": "generate output",
+            "meaning_ko": "출력을 만들다"
+          },
+          {
+            "phrase": "generate noise",
+            "meaning_ko": "소음을 내다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Policies that generate short-term growth can also generate systemic risks that surface years later.",
+            "meaning_ko": "단기 성장을 만들어 내는 정책이 수년 뒤 드러나는 시스템적 위험도 함께 초래할 수 있다."
+          },
+          {
+            "sentence": "The model is designed to generate plausible scenarios, not to predict a single inevitable outcome.",
+            "meaning_ko": "그 모델은 단 하나의 필연적 결과를 예측하기보다, 그럴듯한 시나리오들을 생성하도록 설계됐다."
+          },
+          {
+            "sentence": "Friction between the moving parts generates heat, which must be dissipated to prevent failure.",
+            "meaning_ko": "움직이는 부품 사이의 마찰이 열을 발생시키며, 고장을 막으려면 그 열을 방출해야 한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The campaign generated a lot of attention, but it didn’t generate enough sales.",
+            "meaning_ko": "그 캠페인은 큰 관심을 끌었지만 충분한 매출을 만들지는 못했다."
+          },
+          {
+            "sentence": "This tool can generate a weekly report automatically from your logs.",
+            "meaning_ko": "이 도구는 로그에서 자동으로 주간 보고서를 생성할 수 있다."
+          },
+          {
+            "sentence": "Solar panels generate electricity even on cloudy days, though less efficiently.",
+            "meaning_ko": "태양광 패널은 흐린 날에도(효율은 떨어지지만) 전기를 생산한다."
+          }
+        ]
+      },
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Try to generate three ideas before choosing one.",
+            "meaning_ko": "하나를 고르기 전에 아이디어 세 개를 먼저 떠올려 보세요."
+          },
+          {
+            "sentence": "The machine generates a loud noise when it starts.",
+            "meaning_ko": "그 기계는 작동을 시작할 때 큰 소음을 낸다."
+          },
+          {
+            "sentence": "Walking fast can generate body heat.",
+            "meaning_ko": "빠르게 걸으면 체열이 생길 수 있다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "generate는 ‘만들어 내다/발생시키다’가 핵심이어서, 목적어가 물질(heat, electricity)일 수도 있고 추상(interest, problems)일 수도 있습니다. ‘create’보다 과정·결과(산출물)에 초점이 있고, ‘cause’보다 ‘무언가를 생산해 결과를 낳는다’는 느낌이 강합니다. 수동태 ‘Heat is generated by friction’처럼 by/from로 원인을 붙이는 패턴을 함께 묶어 외우면 실전에서 바로 써먹기 좋습니다.",
+    "tags": [
+      "생산",
+      "에너지",
+      "원인-결과",
+      "IT",
+      "비즈니스"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Fill in the blank: The new feature helped us ___ more interest.",
+            "a": "generate",
+            "meaning_ko": "interest(관심)을 ‘만들어 내다’에 generate가 자연스럽습니다."
+          },
+          {
+            "q": "Choose the best meaning: 'The motor generates heat.'",
+            "a": "produces",
+            "meaning_ko": "열을 ‘발생시키다/만들어 내다’ = produces."
+          },
+          {
+            "q": "Which is correct? (A) generate to a report (B) generate a report",
+            "a": "generate a report",
+            "meaning_ko": "generate는 타동사로 목적어를 바로 받습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Fill in the blank: Most of the power is generated ___ wind turbines.",
+            "a": "by",
+            "meaning_ko": "수동태/원인·수단에는 by가 표준입니다."
+          },
+          {
+            "q": "Error spotting: 'The app generated from your input a summary.'",
+            "a": "The app generated a summary from your input.",
+            "meaning_ko": "목적어를 먼저 두고 from-구는 뒤에 붙이는 편이 자연스럽습니다."
+          },
+          {
+            "q": "Choose the closest synonym: 'The scandal generated controversy.'",
+            "a": "caused",
+            "meaning_ko": "논란을 ‘발생시키다’는 문맥에서 caused가 가장 가깝습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best collocation: The research aims to ___ actionable insights from noisy data.",
+            "a": "generate",
+            "meaning_ko": "‘generate actionable insights’가 매우 자연스러운 결합입니다."
+          },
+          {
+            "q": "Reading: If a policy 'generates perverse incentives,' what does it imply?",
+            "a": "It unintentionally encourages undesirable behavior.",
+            "meaning_ko": "generate는 의도치 않은 결과도 ‘만들어 낼’ 수 있음을 암시합니다."
+          },
+          {
+            "q": "Fill in the blank: A secure logging system should generate an audit trail that is ___ to tampering.",
+            "a": "resistant",
+            "meaning_ko": "tampering에 ‘견디는’(resistant) 감사 추적이 문맥상 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
