@@ -1,0 +1,829 @@
+[
+  {
+    "word": "allege",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To claim or assert something without providing proof; to state as a fact but without proof.",
+        "definition_ko": "증거 없이 무언가를 주장하거나 단언하다; 증거 없이 사실로 진술하다.",
+        "note": "법률·뉴스 맥락에서 자주 사용되며, 증거가 없는 주장을 나타냅니다."
+      }
+    ],
+    "concept": "증거 없이 무언가를 주장하거나 단언하는 행위.",
+    "etymology": "라틴어 allegare(주장하다)에서 유래했으며, ad-(~에게) + legare(보내다)의 결합입니다.",
+    "semanticExtension": "원래는 법률 용어였으나, 현대에는 일반적인 주장('allege that + S V')으로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·법률·뉴스 용어로, 일상에서는 'claim'이나 'say'가 더 흔합니다.",
+    "grammarNotes": "타동사로 'allege + 명사' 또는 'allege that + S V' 패턴이 가능합니다. 3인칭 단수는 alleges입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "allege + 명사 (…을 주장하다)",
+      "allege that + S V (…라고 주장하다)"
+    ],
+    "morphology": "라틴어 allegare에서 유래했으며, ad-(~에게) + legare(보내다)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "allegation",
+        "meaning_ko": "주장, 혐의(명사)"
+      },
+      {
+        "word": "alleged",
+        "meaning_ko": "주장된(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "claim",
+        "meaning_ko": "주장하다"
+      },
+      {
+        "word": "assert",
+        "meaning_ko": "단언하다"
+      },
+      {
+        "word": "accuse",
+        "meaning_ko": "고발하다"
+      },
+      {
+        "word": "contend",
+        "meaning_ko": "주장하다"
+      },
+      {
+        "word": "maintain",
+        "meaning_ko": "주장하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "claim",
+        "meaning_ko": "주장하다"
+      },
+      {
+        "word": "assert",
+        "meaning_ko": "단언하다"
+      },
+      {
+        "word": "contend",
+        "meaning_ko": "주장하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "accuse",
+        "meaning_ko": "고발하다(일반적)"
+      },
+      {
+        "word": "maintain",
+        "meaning_ko": "주장하다(일반적)"
+      },
+      {
+        "word": "state",
+        "meaning_ko": "진술하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "prove",
+        "meaning_ko": "증명하다"
+      },
+      {
+        "word": "confirm",
+        "meaning_ko": "확인하다"
+      },
+      {
+        "word": "verify",
+        "meaning_ko": "검증하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "allege that",
+            "meaning_ko": "~라고 주장하다"
+          },
+          {
+            "phrase": "allege wrongdoing",
+            "meaning_ko": "비행을 주장하다"
+          },
+          {
+            "phrase": "allege fraud",
+            "meaning_ko": "사기를 주장하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "allege misconduct",
+            "meaning_ko": "부정행위를 주장하다"
+          },
+          {
+            "phrase": "allege corruption",
+            "meaning_ko": "부패를 주장하다"
+          },
+          {
+            "phrase": "allege violation",
+            "meaning_ko": "위반을 주장하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "allege without evidence",
+            "meaning_ko": "증거 없이 주장하다"
+          },
+          {
+            "phrase": "allege criminal activity",
+            "meaning_ko": "범죄 활동을 주장하다"
+          },
+          {
+            "phrase": "allege breach of contract",
+            "meaning_ko": "계약 위반을 주장하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The witness alleged that he saw the crime.",
+            "meaning_ko": "그 증인은 그가 그 범죄를 봤다고 주장했다."
+          },
+          {
+            "sentence": "They alleged fraud in the transaction.",
+            "meaning_ko": "그들은 그 거래에서 사기를 주장했다."
+          },
+          {
+            "sentence": "The report alleged wrongdoing by officials.",
+            "meaning_ko": "그 보고서는 공무원들의 비행을 주장했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company alleged misconduct by its competitor.",
+            "meaning_ko": "그 회사는 경쟁사의 부정행위를 주장했다."
+          },
+          {
+            "sentence": "The plaintiff alleged corruption in the government.",
+            "meaning_ko": "그 원고는 정부의 부패를 주장했다."
+          },
+          {
+            "sentence": "They alleged that the contract was violated.",
+            "meaning_ko": "그들은 그 계약이 위반되었다고 주장했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The defense attorney alleged without evidence that the prosecution had tampered with key witnesses.",
+            "meaning_ko": "변호사는 증거 없이 검찰이 주요 증인을 조작했다고 주장했다."
+          },
+          {
+            "sentence": "The investigation alleged criminal activity spanning multiple jurisdictions, requiring international cooperation.",
+            "meaning_ko": "그 조사는 여러 관할권에 걸친 범죄 활동을 주장했고, 국제 협력이 필요했다."
+          },
+          {
+            "sentence": "The company alleged breach of contract, seeking substantial damages for what it claimed were deliberate violations.",
+            "meaning_ko": "그 회사는 계약 위반을 주장했고, 의도적인 위반이라고 주장한 것에 대해 상당한 손해배상을 요구했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "allege는 '증거 없이 주장하다'의 의미로, 법률·뉴스 맥락에서 자주 사용됩니다. 'allege that + S V', 'allege + 명사' 패턴을 익혀두면 좋습니다. allegation(주장), alleged(주장된)와 함께 외우면 좋습니다. 시험에서는 법률·뉴스 지문에서 자주 출제됩니다.",
+    "tags": [
+      "법률",
+      "주장",
+      "뉴스",
+      "정치",
+      "비즈니스"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'allege'.\n(A) to prove (B) to claim without proof (C) to confirm (D) to verify",
+            "a": "(B) to claim without proof",
+            "meaning_ko": "allege는 증거 없이 주장하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The witness _____ that he saw the crime.",
+            "a": "alleged",
+            "meaning_ko": "증인이 범죄를 봤다고 주장했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which pattern is correct: allege _____? (that + S V / to + V / -ing)",
+            "a": "that + S V",
+            "meaning_ko": "allege that + S V 패턴이 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The company _____ misconduct. (allege / alleges / alleging)",
+            "a": "alleged",
+            "meaning_ko": "과거형 alleged가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'allege fraud'.\n(A) prove fraud (B) claim fraud (C) confirm fraud (D) verify fraud",
+            "a": "(B) claim fraud",
+            "meaning_ko": "사기를 주장한다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'allege': 'They claimed that the contract was violated.'",
+            "a": "They alleged that the contract was violated.",
+            "meaning_ko": "주장한다는 것을 allege로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The defense attorney alleged without evidence _____.\n(A) that the prosecution had tampered with witnesses (B) that everything was fine (C) that no problems existed (D) that all was correct",
+            "a": "(A) that the prosecution had tampered with witnesses",
+            "meaning_ko": "검찰이 증인을 조작했다고 주장한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The investigation allege criminal activity.' (Fix the grammar.)",
+            "a": "The investigation alleged criminal activity.",
+            "meaning_ko": "과거형 alleged가 맞습니다."
+          },
+          {
+            "q": "Insert 'allege' naturally: 'The company ______ breach of contract, seeking damages.'",
+            "a": "alleged",
+            "meaning_ko": "계약 위반을 주장한다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "foible",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A minor weakness or eccentricity in someone's character; a slight flaw.",
+        "definition_ko": "누군가의 성격에서 작은 약점이나 기벽; 작은 결함.",
+        "note": "심각한 결함이 아니라 사소하고 용서할 수 있는 약점을 의미합니다."
+      }
+    ],
+    "concept": "사소하고 용서할 수 있는 성격의 작은 약점이나 기벽.",
+    "etymology": "프랑스어 faible(약한)에서 유래했으며, 라틴어 flebilis(약한)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 '약함'의 의미였으나, 현대에는 '사소한 약점/기벽'의 의미로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·문학적 용어로, 일상에서는 'weakness'나 'flaw'가 더 흔합니다.",
+    "grammarNotes": "가산명사로 'a foible' 또는 'foibles'로 사용되며, 'foible of + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 약점",
+        "example": "foible of character"
+      }
+    ],
+    "requiredComplements": [
+      "a foible (약점)",
+      "foible of + 명사 (…의 약점)"
+    ],
+    "morphology": "프랑스어 faible에서 유래했으며, 라틴어 flebilis(약한)와 연관되어 있습니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "weakness",
+        "meaning_ko": "약점"
+      },
+      {
+        "word": "flaw",
+        "meaning_ko": "결함"
+      },
+      {
+        "word": "eccentricity",
+        "meaning_ko": "기벽"
+      },
+      {
+        "word": "quirk",
+        "meaning_ko": "기벽"
+      },
+      {
+        "word": "fault",
+        "meaning_ko": "결함"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "weakness",
+        "meaning_ko": "약점"
+      },
+      {
+        "word": "flaw",
+        "meaning_ko": "결함"
+      },
+      {
+        "word": "eccentricity",
+        "meaning_ko": "기벽"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "quirk",
+        "meaning_ko": "기벽(일반적)"
+      },
+      {
+        "word": "fault",
+        "meaning_ko": "결함(일반적)"
+      },
+      {
+        "word": "imperfection",
+        "meaning_ko": "불완전함(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "strength",
+        "meaning_ko": "강점"
+      },
+      {
+        "word": "virtue",
+        "meaning_ko": "미덕"
+      },
+      {
+        "word": "perfection",
+        "meaning_ko": "완벽함"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "human foible",
+            "meaning_ko": "인간의 약점"
+          },
+          {
+            "phrase": "minor foible",
+            "meaning_ko": "작은 약점"
+          },
+          {
+            "phrase": "personal foible",
+            "meaning_ko": "개인적 약점"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "foible of character",
+            "meaning_ko": "성격의 약점"
+          },
+          {
+            "phrase": "charming foible",
+            "meaning_ko": "매력적인 기벽"
+          },
+          {
+            "phrase": "forgive a foible",
+            "meaning_ko": "약점을 용서하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "endearing foible",
+            "meaning_ko": "사랑스러운 기벽"
+          },
+          {
+            "phrase": "foible that defines",
+            "meaning_ko": "정의하는 약점"
+          },
+          {
+            "phrase": "acknowledge one's foibles",
+            "meaning_ko": "자신의 약점을 인정하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Everyone has their own foibles.",
+            "meaning_ko": "모든 사람은 자신만의 약점이 있다."
+          },
+          {
+            "sentence": "It's just a minor foible, nothing serious.",
+            "meaning_ko": "그것은 단지 작은 약점일 뿐, 심각한 것은 아니다."
+          },
+          {
+            "sentence": "His foible was being too talkative.",
+            "meaning_ko": "그의 약점은 너무 말이 많다는 것이었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The foible of character made him more human.",
+            "meaning_ko": "성격의 약점이 그를 더 인간적으로 만들었다."
+          },
+          {
+            "sentence": "She had a charming foible of always being late.",
+            "meaning_ko": "그녀는 항상 늦는 매력적인 기벽이 있었다."
+          },
+          {
+            "sentence": "We should forgive each other's foibles.",
+            "meaning_ko": "우리는 서로의 약점을 용서해야 한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The endearing foible that defined his personality—his tendency to overthink simple decisions—became a source of both frustration and affection for those who knew him.",
+            "meaning_ko": "그의 성격을 정의한 사랑스러운 기벽—단순한 결정을 과도하게 생각하는 경향—은 그를 아는 사람들에게 좌절과 애정의 원천이 되었다."
+          },
+          {
+            "sentence": "In acknowledging one's foibles, we demonstrate self-awareness and humility, qualities that strengthen relationships.",
+            "meaning_ko": "자신의 약점을 인정함으로써, 우리는 자기 인식과 겸손을 보여주며, 이는 관계를 강화하는 자질이다."
+          },
+          {
+            "sentence": "The biographer noted that even great leaders have their foibles, which humanize them and make their achievements more remarkable.",
+            "meaning_ko": "그 전기 작가는 심지어 위대한 지도자들도 자신의 약점이 있어서, 그것이 그들을 인간적으로 만들고 그들의 성과를 더욱 놀랍게 만든다고 언급했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "foible는 '사소한 약점/기벽'의 의미로, 심각한 결함이 아니라 용서할 수 있는 작은 약점을 강조합니다. 'human/personal foible', 'foible of character' 같은 결합을 익혀두면 좋습니다. 시험에서는 문학·인물 묘사 지문에서 자주 출제됩니다.",
+    "tags": [
+      "성격",
+      "약점",
+      "문학",
+      "인물",
+      "일상"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'foible'.\n(A) strength (B) a minor weakness (C) virtue (D) perfection",
+            "a": "(B) a minor weakness",
+            "meaning_ko": "foible는 작은 약점을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: Everyone has their own _____.",
+            "a": "foibles",
+            "meaning_ko": "모든 사람은 자신만의 약점이 있다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is an antonym of 'foible'?\n(A) weakness (B) strength (C) flaw (D) quirk",
+            "a": "(B) strength",
+            "meaning_ko": "strength는 foible의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ of character made him human. (foible / foibles / foibled)",
+            "a": "foible",
+            "meaning_ko": "foible of character(성격의 약점) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'minor foible'.\n(A) major weakness (B) small weakness (C) great strength (D) perfect trait",
+            "a": "(B) small weakness",
+            "meaning_ko": "작은 약점이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'foible': 'It's just a small weakness, nothing serious.'",
+            "a": "It's just a minor foible, nothing serious.",
+            "meaning_ko": "작은 약점을 foible로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: In acknowledging one's foibles, we demonstrate _____.\n(A) weakness (B) self-awareness and humility (C) perfection (D) arrogance",
+            "a": "(B) self-awareness and humility",
+            "meaning_ko": "자기 인식과 겸손을 보여준다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The biographer note that leaders have their foible.' (Fix the grammar.)",
+            "a": "The biographer noted that leaders have their foibles.",
+            "meaning_ko": "과거형 noted와 복수형 foibles가 맞습니다."
+          },
+          {
+            "q": "Insert 'foible' naturally: 'The endearing ______ that defined his personality became a source of affection.'",
+            "a": "foible",
+            "meaning_ko": "그의 성격을 정의한 사랑스러운 기벽이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "commandeer",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To take possession of something, especially for military or official use, often without permission; to seize or appropriate.",
+        "definition_ko": "무언가를 점유하다, 특히 군사적 또는 공식적 용도로, 종종 허가 없이; 압수하거나 전용하다.",
+        "note": "권한이나 허가 없이 강제로 가져가는 것을 강조합니다."
+      }
+    ],
+    "concept": "권한이나 허가 없이 강제로 무언가를 점유하거나 압수하는 행위.",
+    "etymology": "네덜란드어 kommanderen(명령하다)에서 유래했으며, 프랑스어 commander(명령하다)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 군사 용어였으나, 현대에는 일반적인 강제 점유('commandeer a vehicle')로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·군사·법률 용어로, 일상에서는 'seize'나 'take'가 더 흔합니다.",
+    "grammarNotes": "타동사로 'commandeer + 명사' 패턴이 가능합니다. 3인칭 단수는 commandeers입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "commandeer + 명사 (…을 강제로 점유하다)"
+    ],
+    "morphology": "네덜란드어 kommanderen에서 유래했으며, 프랑스어 commander(명령하다)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "commandeered",
+        "meaning_ko": "강제로 점유된(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "seize",
+        "meaning_ko": "압수하다"
+      },
+      {
+        "word": "appropriate",
+        "meaning_ko": "전용하다"
+      },
+      {
+        "word": "confiscate",
+        "meaning_ko": "몰수하다"
+      },
+      {
+        "word": "take over",
+        "meaning_ko": "인수하다"
+      },
+      {
+        "word": "hijack",
+        "meaning_ko": "납치하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "seize",
+        "meaning_ko": "압수하다"
+      },
+      {
+        "word": "appropriate",
+        "meaning_ko": "전용하다"
+      },
+      {
+        "word": "confiscate",
+        "meaning_ko": "몰수하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "take over",
+        "meaning_ko": "인수하다(일반적)"
+      },
+      {
+        "word": "hijack",
+        "meaning_ko": "납치하다(일반적)"
+      },
+      {
+        "word": "expropriate",
+        "meaning_ko": "수용하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "return",
+        "meaning_ko": "반환하다"
+      },
+      {
+        "word": "release",
+        "meaning_ko": "해제하다"
+      },
+      {
+        "word": "restore",
+        "meaning_ko": "복원하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "commandeer a vehicle",
+            "meaning_ko": "차량을 강제로 점유하다"
+          },
+          {
+            "phrase": "commandeer resources",
+            "meaning_ko": "자원을 강제로 점유하다"
+          },
+          {
+            "phrase": "commandeer property",
+            "meaning_ko": "재산을 강제로 점유하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "commandeer for military use",
+            "meaning_ko": "군사적 용도로 강제 점유하다"
+          },
+          {
+            "phrase": "commandeer supplies",
+            "meaning_ko": "공급품을 강제로 점유하다"
+          },
+          {
+            "phrase": "commandeer equipment",
+            "meaning_ko": "장비를 강제로 점유하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "commandeer without authorization",
+            "meaning_ko": "승인 없이 강제 점유하다"
+          },
+          {
+            "phrase": "commandeer for emergency",
+            "meaning_ko": "비상 상황을 위해 강제 점유하다"
+          },
+          {
+            "phrase": "illegally commandeer",
+            "meaning_ko": "불법적으로 강제 점유하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The soldiers commandeered the vehicle.",
+            "meaning_ko": "군인들은 그 차량을 강제로 점유했다."
+          },
+          {
+            "sentence": "They commandeered supplies for the mission.",
+            "meaning_ko": "그들은 그 임무를 위해 공급품을 강제로 점유했다."
+          },
+          {
+            "sentence": "The government commandeered the property.",
+            "meaning_ko": "정부는 그 재산을 강제로 점유했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The military commandeered the building for emergency use.",
+            "meaning_ko": "군대는 비상 상황을 위해 그 건물을 강제로 점유했다."
+          },
+          {
+            "sentence": "They commandeered equipment without proper authorization.",
+            "meaning_ko": "그들은 적절한 승인 없이 장비를 강제로 점유했다."
+          },
+          {
+            "sentence": "The authorities commandeered the ship for transport.",
+            "meaning_ko": "당국은 수송을 위해 그 배를 강제로 점유했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The military commandeered the facility without authorization, raising questions about the legality of the action.",
+            "meaning_ko": "군대는 승인 없이 그 시설을 강제로 점유했고, 이는 그 행동의 합법성에 대한 질문을 제기했다."
+          },
+          {
+            "sentence": "During the crisis, the government commandeered private resources for emergency use, compensating owners afterward.",
+            "meaning_ko": "위기 동안, 정부는 비상 상황을 위해 민간 자원을 강제로 점유했고, 이후 소유자들에게 보상했다."
+          },
+          {
+            "sentence": "The rebels illegally commandeered vehicles and supplies, using them to support their operations.",
+            "meaning_ko": "반군은 불법적으로 차량과 공급품을 강제로 점유했고, 그것들을 사용하여 그들의 작전을 지원했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "commandeer는 '강제로 점유하다/압수하다'의 의미로, 권한이나 허가 없이 가져가는 것을 강조합니다. 'commandeer + 명사' 패턴을 익혀두면 좋습니다. 시험에서는 군사·법률·정치 지문에서 자주 출제됩니다.",
+    "tags": [
+      "군사",
+      "법률",
+      "정치",
+      "강제",
+      "전문용어"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'commandeer'.\n(A) to return (B) to take possession without permission (C) to release (D) to restore",
+            "a": "(B) to take possession without permission",
+            "meaning_ko": "commandeer는 허가 없이 점유하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The soldiers _____ the vehicle.",
+            "a": "commandeered",
+            "meaning_ko": "군인들이 차량을 강제로 점유했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'commandeer'?\n(A) return (B) seize (C) release (D) restore",
+            "a": "(B) seize",
+            "meaning_ko": "seize는 commandeer의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The military _____ the building. (commandeer / commandeers / commandeered)",
+            "a": "commandeered",
+            "meaning_ko": "과거형 commandeered가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'commandeer supplies'.\n(A) return supplies (B) seize supplies (C) release supplies (D) restore supplies",
+            "a": "(B) seize supplies",
+            "meaning_ko": "공급품을 강제로 점유한다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'commandeer': 'The soldiers seized the vehicle without permission.'",
+            "a": "The soldiers commandeered the vehicle.",
+            "meaning_ko": "허가 없이 압수한다는 것을 commandeer로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The military commandeered the facility without authorization _____.\n(A) raising questions about legality (B) solving all problems (C) ignoring everything (D) creating no issues",
+            "a": "(A) raising questions about legality",
+            "meaning_ko": "합법성에 대한 질문을 제기한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The government commandeer private resources.' (Fix the grammar.)",
+            "a": "The government commandeered private resources.",
+            "meaning_ko": "과거형 commandeered가 맞습니다."
+          },
+          {
+            "q": "Insert 'commandeer' naturally: 'The rebels illegally ______ vehicles and supplies.'",
+            "a": "commandeered",
+            "meaning_ko": "불법적으로 차량과 공급품을 강제로 점유한다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

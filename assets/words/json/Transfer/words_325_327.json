@@ -1,0 +1,834 @@
+[
+  {
+    "word": "dazzle",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To blind temporarily with a bright light; to amaze or impress greatly; a bright light that blinds temporarily; the quality of being very impressive or attractive.",
+        "definition_ko": "밝은 빛으로 일시적으로 눈을 멀게 하다; 크게 놀라게 하거나 인상적으로 만들다; 일시적으로 눈을 멀게 하는 밝은 빛; 매우 인상적이거나 매력적인 특성.",
+        "note": "동사로는 '눈을 멀게 하다/놀라게 하다', 명사로는 '눈부심/매력'의 의미입니다."
+      }
+    ],
+    "concept": "밝은 빛으로 눈을 멀게 하거나, 매우 인상적으로 만드는 것.",
+    "etymology": "중세 영어 daselen(어지럽게 하다)에서 유래했으며, 원래는 '어지럽게 하다' 의미였으나 현대에는 '눈부시게 하다'로 확장되었습니다.",
+    "semanticExtension": "원래는 물리적 눈부심이었으나, 현대에는 추상적 인상('dazzle with performance')으로도 확장되었습니다.",
+    "nuanceRegister": "일상·문학·비즈니스 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 'dazzle + 명사' 또는 'dazzle with + 명사' 패턴이 가능합니다. 3인칭 단수는 dazzles입니다.",
+    "transitivity": "타동사(동사일 때)",
+    "countability": "불가산명사(명사일 때)",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 놀라게 하다",
+        "example": "dazzle with brilliance"
+      }
+    ],
+    "requiredComplements": [
+      "dazzle + 명사 (…을 놀라게 하다)",
+      "dazzle with + 명사 (…로 놀라게 하다)"
+    ],
+    "morphology": "중세 영어 daselen에서 유래했으며, 현대 영어에서는 '눈부시게 하다'의 의미로 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "dazzling",
+        "meaning_ko": "눈부신(형용사)"
+      },
+      {
+        "word": "dazzled",
+        "meaning_ko": "눈부신(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "blind",
+        "meaning_ko": "눈을 멀게 하다"
+      },
+      {
+        "word": "amaze",
+        "meaning_ko": "놀라게 하다"
+      },
+      {
+        "word": "impress",
+        "meaning_ko": "인상적으로 만들다"
+      },
+      {
+        "word": "astound",
+        "meaning_ko": "놀라게 하다"
+      },
+      {
+        "word": "bedazzle",
+        "meaning_ko": "눈부시게 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "amaze",
+        "meaning_ko": "놀라게 하다"
+      },
+      {
+        "word": "impress",
+        "meaning_ko": "인상적으로 만들다"
+      },
+      {
+        "word": "astound",
+        "meaning_ko": "놀라게 하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "blind",
+        "meaning_ko": "눈을 멀게 하다(일반적)"
+      },
+      {
+        "word": "bedazzle",
+        "meaning_ko": "눈부시게 하다(일반적)"
+      },
+      {
+        "word": "stun",
+        "meaning_ko": "놀라게 하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bore",
+        "meaning_ko": "지루하게 하다"
+      },
+      {
+        "word": "disappoint",
+        "meaning_ko": "실망시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "dazzle with",
+            "meaning_ko": "~로 놀라게 하다"
+          },
+          {
+            "phrase": "dazzling light",
+            "meaning_ko": "눈부신 빛"
+          },
+          {
+            "phrase": "dazzle the audience",
+            "meaning_ko": "청중을 놀라게 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dazzle with performance",
+            "meaning_ko": "공연으로 놀라게 하다"
+          },
+          {
+            "phrase": "dazzling display",
+            "meaning_ko": "눈부신 전시"
+          },
+          {
+            "phrase": "dazzle with brilliance",
+            "meaning_ko": "빛으로 놀라게 하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "dazzle with expertise",
+            "meaning_ko": "전문성으로 놀라게 하다"
+          },
+          {
+            "phrase": "dazzling array",
+            "meaning_ko": "눈부신 배열"
+          },
+          {
+            "phrase": "dazzle into submission",
+            "meaning_ko": "눈부시게 하여 복종시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The bright lights dazzled her eyes.",
+            "meaning_ko": "밝은 빛이 그녀의 눈을 멀게 했다."
+          },
+          {
+            "sentence": "The performance dazzled the audience.",
+            "meaning_ko": "그 공연은 청중을 놀라게 했다."
+          },
+          {
+            "sentence": "The dazzling display was beautiful.",
+            "meaning_ko": "그 눈부신 전시는 아름다웠다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She dazzled everyone with her performance.",
+            "meaning_ko": "그녀는 그녀의 공연으로 모든 사람을 놀라게 했다."
+          },
+          {
+            "sentence": "The dazzling array of colors caught everyone's attention.",
+            "meaning_ko": "그 눈부신 색상의 배열이 모든 사람의 주의를 끌었다."
+          },
+          {
+            "sentence": "The star's brilliance dazzled the crowd.",
+            "meaning_ko": "그 별의 빛이 군중을 놀라게 했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The speaker dazzled the conference with her expertise, presenting complex ideas with such clarity that even non-experts could understand.",
+            "meaning_ko": "그 연사는 그녀의 전문성으로 회의를 놀라게 했고, 비전문가도 이해할 수 있을 정도로 명확하게 복잡한 아이디어를 제시했다."
+          },
+          {
+            "sentence": "The dazzling array of technological innovations at the exhibition demonstrated the rapid pace of advancement in the field.",
+            "meaning_ko": "그 전시회에서의 눈부신 기술 혁신의 배열은 그 분야에서의 빠른 발전 속도를 보여주었다."
+          },
+          {
+            "sentence": "The strategy was to dazzle opponents with overwhelming force, hoping to achieve victory through psychological impact rather than prolonged conflict.",
+            "meaning_ko": "그 전략은 압도적인 힘으로 상대를 놀라게 하는 것이었고, 장기적 갈등보다는 심리적 영향력을 통해 승리를 달성하기를 희망했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dazzle는 '눈부시게 하다/놀라게 하다'의 의미로, 'dazzle + 명사', 'dazzle with + 명사' 패턴을 익혀두면 좋습니다. dazzling(눈부신)과 함께 외우면 좋습니다. 시험에서는 'dazzle with performance', 'dazzling display' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "눈부심",
+      "인상",
+      "일상",
+      "예술",
+      "비즈니스"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'dazzle' (verb).\n(A) to bore (B) to amaze or impress greatly (C) to disappoint (D) to ignore",
+            "a": "(B) to amaze or impress greatly",
+            "meaning_ko": "dazzle(동사)는 크게 놀라게 하거나 인상적으로 만드는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The bright lights _____ her eyes.",
+            "a": "dazzled",
+            "meaning_ko": "밝은 빛이 눈을 멀게 했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: dazzle _____ performance? (with / in / at)",
+            "a": "with",
+            "meaning_ko": "dazzle with + 명사 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: She _____ everyone with her performance. (dazzle / dazzles / dazzling)",
+            "a": "dazzled",
+            "meaning_ko": "과거형 dazzled가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'dazzling display'.\n(A) boring display (B) impressive display (C) disappointing display (D) ignored display",
+            "a": "(B) impressive display",
+            "meaning_ko": "눈부신 전시라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'dazzle': 'The performance amazed the audience.'",
+            "a": "The performance dazzled the audience.",
+            "meaning_ko": "청중을 놀라게 했다는 것을 dazzle로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The speaker dazzled the conference with her expertise _____.\n(A) presenting complex ideas with clarity (B) ignoring everything (C) avoiding communication (D) creating confusion",
+            "a": "(A) presenting complex ideas with clarity",
+            "meaning_ko": "명확하게 복잡한 아이디어를 제시한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The dazzling array demonstrate the pace.' (Fix the grammar.)",
+            "a": "The dazzling array demonstrated the pace.",
+            "meaning_ko": "과거형 demonstrated가 맞습니다."
+          },
+          {
+            "q": "Insert 'dazzle' naturally: 'The strategy was to ______ opponents with overwhelming force.'",
+            "a": "dazzle",
+            "meaning_ko": "압도적인 힘으로 상대를 놀라게 한다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quadruple",
+    "partOfSpeech": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To multiply by four; to become four times as great; four times as much or as many; a number or amount that is four times another.",
+        "definition_ko": "4배로 곱하다; 4배가 되다; 4배의; 다른 것의 4배인 수나 양.",
+        "note": "동사로는 '4배로 만들다', 형용사로는 '4배의', 명사로는 '4배'의 의미입니다."
+      }
+    ],
+    "concept": "4배로 만들거나 4배가 되는 것, 또는 4배의 양.",
+    "etymology": "라틴어 quadruplus(4배의)에서 유래했으며, quadri-(4) + -plus(배)의 결합입니다.",
+    "semanticExtension": "원래는 수학 용어였으나, 현대에는 일반적인 증가('quadruple the amount')로도 확장되었습니다.",
+    "nuanceRegister": "일상·비즈니스·과학 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 'quadruple + 명사' 패턴이 가능하고, 형용사로는 'quadruple + 명사' 패턴이 흔합니다. 3인칭 단수는 quadruples입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "quadruple + 명사 (…을 4배로 만들다)",
+      "quadruple (4배가 되다, 자동사)"
+    ],
+    "morphology": "라틴어 quadruplus에서 유래했으며, quadri-(4) + -plus(배)의 결합입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "double",
+        "meaning_ko": "2배로 만들다"
+      },
+      {
+        "word": "triple",
+        "meaning_ko": "3배로 만들다"
+      },
+      {
+        "word": "multiply",
+        "meaning_ko": "곱하다"
+      },
+      {
+        "word": "increase",
+        "meaning_ko": "증가하다"
+      },
+      {
+        "word": "fourfold",
+        "meaning_ko": "4배의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "fourfold",
+        "meaning_ko": "4배의"
+      },
+      {
+        "word": "multiply by four",
+        "meaning_ko": "4배로 곱하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "increase four times",
+        "meaning_ko": "4배 증가하다(일반적)"
+      },
+      {
+        "word": "multiply",
+        "meaning_ko": "곱하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "quarter",
+        "meaning_ko": "4분의 1로 만들다"
+      },
+      {
+        "word": "divide by four",
+        "meaning_ko": "4로 나누다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "quadruple the amount",
+            "meaning_ko": "양을 4배로 만들다"
+          },
+          {
+            "phrase": "quadruple in size",
+            "meaning_ko": "크기가 4배가 되다"
+          },
+          {
+            "phrase": "quadruple the number",
+            "meaning_ko": "수를 4배로 만들다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "quadruple the production",
+            "meaning_ko": "생산을 4배로 만들다"
+          },
+          {
+            "phrase": "quadruple the investment",
+            "meaning_ko": "투자를 4배로 만들다"
+          },
+          {
+            "phrase": "quadruple the capacity",
+            "meaning_ko": "용량을 4배로 만들다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "quadruple the output",
+            "meaning_ko": "산출을 4배로 만들다"
+          },
+          {
+            "phrase": "quadruple exponentially",
+            "meaning_ko": "지수적으로 4배가 되다"
+          },
+          {
+            "phrase": "quadruple the revenue",
+            "meaning_ko": "수익을 4배로 만들다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The population quadrupled in twenty years.",
+            "meaning_ko": "인구는 20년 만에 4배가 되었다."
+          },
+          {
+            "sentence": "They plan to quadruple the production.",
+            "meaning_ko": "그들은 생산을 4배로 늘릴 계획이다."
+          },
+          {
+            "sentence": "The price quadrupled overnight.",
+            "meaning_ko": "그 가격은 하룻밤 사이에 4배가 되었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company aims to quadruple its investment in research.",
+            "meaning_ko": "그 회사는 연구 투자를 4배로 늘리는 것을 목표로 한다."
+          },
+          {
+            "sentence": "The capacity quadrupled after the expansion.",
+            "meaning_ko": "그 용량은 확장 후 4배가 되었다."
+          },
+          {
+            "sentence": "Sales quadrupled following the marketing campaign.",
+            "meaning_ko": "판매는 마케팅 캠페인 후 4배가 되었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The company's strategy to quadruple the revenue within five years required aggressive expansion into new markets and significant technological innovation.",
+            "meaning_ko": "5년 내에 수익을 4배로 늘리려는 그 회사의 전략은 새로운 시장으로의 공격적 확장과 상당한 기술 혁신을 요구했다."
+          },
+          {
+            "sentence": "The output quadrupled exponentially as the new manufacturing process eliminated previous bottlenecks.",
+            "meaning_ko": "새로운 제조 공정이 이전의 병목 현상을 제거하면서 산출이 지수적으로 4배가 되었다."
+          },
+          {
+            "sentence": "The decision to quadruple the investment in renewable energy reflected the government's commitment to addressing climate change.",
+            "meaning_ko": "재생 가능 에너지 투자를 4배로 늘리기로 한 결정은 기후 변화를 다루려는 정부의 약속을 반영했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "quadruple는 '4배로 만들다/4배의' 의미로, 'quadruple + 명사' 패턴을 익혀두면 좋습니다. double(2배), triple(3배)와 함께 외우면 좋습니다. 시험에서는 'quadruple the amount/production', 'quadruple in size' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "수학",
+      "증가",
+      "비즈니스",
+      "과학",
+      "일상"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'quadruple' (verb).\n(A) to divide by four (B) to multiply by four (C) to quarter (D) to reduce",
+            "a": "(B) to multiply by four",
+            "meaning_ko": "quadruple(동사)는 4배로 곱하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The population _____ in twenty years.",
+            "a": "quadrupled",
+            "meaning_ko": "인구가 20년 만에 4배가 되었다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is related to 'quadruple'?\n(A) double (B) quarter (C) divide (D) reduce",
+            "a": "(A) double",
+            "meaning_ko": "double은 quadruple과 관련된 단어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: They plan to _____ the production. (quadruple / quadruples / quadrupling)",
+            "a": "quadruple",
+            "meaning_ko": "동사 원형 quadruple이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'quadruple the amount'.\n(A) quarter the amount (B) multiply the amount by four (C) divide the amount (D) reduce the amount",
+            "a": "(B) multiply the amount by four",
+            "meaning_ko": "양을 4배로 만든다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'quadruple': 'The production increased four times.'",
+            "a": "The production quadrupled.",
+            "meaning_ko": "4배 증가했다는 것을 quadruple로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The strategy to quadruple the revenue required _____.\n(A) aggressive expansion into new markets (B) ignoring opportunities (C) avoiding growth (D) reducing investment",
+            "a": "(A) aggressive expansion into new markets",
+            "meaning_ko": "새로운 시장으로의 공격적 확장을 요구한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The output quadruple exponentially.' (Fix the grammar.)",
+            "a": "The output quadrupled exponentially.",
+            "meaning_ko": "과거형 quadrupled가 맞습니다."
+          },
+          {
+            "q": "Insert 'quadruple' naturally: 'The decision to ______ the investment reflected the commitment.'",
+            "a": "quadruple",
+            "meaning_ko": "투자를 4배로 늘리기로 한 결정이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "plead",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To make an emotional appeal; to present and argue for a position, especially in a court of law; to declare in court whether one is guilty or not.",
+        "definition_ko": "감정적 호소를 하다; 입장을 제시하고 주장하다, 특히 법정에서; 법정에서 유죄인지 무죄인지 선언하다.",
+        "note": "법정에서의 진술뿐 아니라 일반적인 간청('plead with someone')도 의미합니다."
+      }
+    ],
+    "concept": "감정적으로 호소하거나, 법정에서 입장을 주장하거나 유무죄를 선언하는 행위.",
+    "etymology": "프랑스어 plaidier(변론하다)에서 유래했으며, 라틴어 placitum(판결)과 연관되어 있습니다.",
+    "semanticExtension": "원래는 법률 용어였으나, 현대에는 일반적인 간청('plead with someone to do')으로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·법률 용어로, 일상에서도 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 'plead + 명사' 또는 'plead with + 명사 + to + 동사' 패턴이 가능합니다. 3인칭 단수는 pleads입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~에게 간청하다",
+        "example": "plead with someone"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위해 간청하다",
+        "example": "plead for mercy"
+      },
+      {
+        "prep": "guilty",
+        "meaning_ko": "유죄를 인정하다",
+        "example": "plead guilty"
+      }
+    ],
+    "requiredComplements": [
+      "plead with + 명사 + to + 동사 (…에게 …하도록 간청하다)",
+      "plead + 형용사 (…로 진술하다, 법정)",
+      "plead for + 명사 (…을 위해 간청하다)"
+    ],
+    "morphology": "프랑스어 plaidier에서 유래했으며, 라틴어 placitum(판결)과 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "pleading",
+        "meaning_ko": "간청하는(형용사)"
+      },
+      {
+        "word": "plea",
+        "meaning_ko": "간청, 항변(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "beg",
+        "meaning_ko": "간청하다"
+      },
+      {
+        "word": "appeal",
+        "meaning_ko": "호소하다"
+      },
+      {
+        "word": "implore",
+        "meaning_ko": "간청하다"
+      },
+      {
+        "word": "beseech",
+        "meaning_ko": "간청하다"
+      },
+      {
+        "word": "argue",
+        "meaning_ko": "주장하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "beg",
+        "meaning_ko": "간청하다"
+      },
+      {
+        "word": "appeal",
+        "meaning_ko": "호소하다"
+      },
+      {
+        "word": "implore",
+        "meaning_ko": "간청하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "beseech",
+        "meaning_ko": "간청하다(일반적)"
+      },
+      {
+        "word": "argue",
+        "meaning_ko": "주장하다(일반적)"
+      },
+      {
+        "word": "request",
+        "meaning_ko": "요청하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "refuse",
+        "meaning_ko": "거부하다"
+      },
+      {
+        "word": "reject",
+        "meaning_ko": "거절하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "plead guilty",
+            "meaning_ko": "유죄를 인정하다"
+          },
+          {
+            "phrase": "plead not guilty",
+            "meaning_ko": "무죄를 주장하다"
+          },
+          {
+            "phrase": "plead with someone",
+            "meaning_ko": "누군가에게 간청하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "plead for mercy",
+            "meaning_ko": "자비를 간청하다"
+          },
+          {
+            "phrase": "plead the case",
+            "meaning_ko": "사건을 변론하다"
+          },
+          {
+            "phrase": "plead ignorance",
+            "meaning_ko": "무지를 주장하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "plead the fifth",
+            "meaning_ko": "묵비권을 행사하다"
+          },
+          {
+            "phrase": "plead insanity",
+            "meaning_ko": "정신 이상을 주장하다"
+          },
+          {
+            "phrase": "plead for leniency",
+            "meaning_ko": "관대함을 간청하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He pleaded guilty to the crime.",
+            "meaning_ko": "그는 그 범죄에 대해 유죄를 인정했다."
+          },
+          {
+            "sentence": "She pleaded with him to stay.",
+            "meaning_ko": "그녀는 그에게 머물러 달라고 간청했다."
+          },
+          {
+            "sentence": "The defendant pleaded not guilty.",
+            "meaning_ko": "그 피고는 무죄를 주장했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The lawyer pleaded the case effectively.",
+            "meaning_ko": "그 변호사는 그 사건을 효과적으로 변론했다."
+          },
+          {
+            "sentence": "They pleaded for mercy from the judge.",
+            "meaning_ko": "그들은 판사에게 자비를 간청했다."
+          },
+          {
+            "sentence": "The accused pleaded ignorance of the law.",
+            "meaning_ko": "그 피고인은 법에 대한 무지를 주장했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The defense attorney pleaded for leniency, presenting evidence of the defendant's difficult circumstances and genuine remorse.",
+            "meaning_ko": "변호사는 관대함을 간청했고, 피고인의 어려운 상황과 진정한 후회의 증거를 제시했다."
+          },
+          {
+            "sentence": "When questioned about his involvement, the witness chose to plead the fifth, exercising his constitutional right to remain silent.",
+            "meaning_ko": "그의 관여에 대해 질문받았을 때, 그 증인은 묵비권을 행사하기로 선택했고, 침묵을 유지할 수 있는 헌법적 권리를 행사했다."
+          },
+          {
+            "sentence": "The defendant's decision to plead insanity required extensive psychological evaluation to determine the validity of the claim.",
+            "meaning_ko": "피고인이 정신 이상을 주장하기로 한 결정은 그 주장의 타당성을 결정하기 위해 광범위한 심리 평가를 요구했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "plead는 '간청하다/변론하다'의 의미로, 'plead with + 명사 + to + 동사', 'plead guilty/not guilty', 'plead for + 명사' 패턴을 익혀두면 좋습니다. plea(간청)와 함께 외우면 좋습니다. 시험에서는 법률 지문에서 자주 출제됩니다.",
+    "tags": [
+      "법률",
+      "간청",
+      "변론",
+      "일상",
+      "정치"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'plead'.\n(A) to refuse (B) to make an emotional appeal (C) to reject (D) to ignore",
+            "a": "(B) to make an emotional appeal",
+            "meaning_ko": "plead는 감정적 호소를 하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ guilty to the crime.",
+            "a": "pleaded",
+            "meaning_ko": "범죄에 대해 유죄를 인정했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'to admit guilt'?\n(A) plead guilty (B) plead not guilty (C) plead with (D) plead for",
+            "a": "(A) plead guilty",
+            "meaning_ko": "plead guilty는 유죄를 인정한다는 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: They _____ for mercy. (plead / pleads / pleading)",
+            "a": "pleaded",
+            "meaning_ko": "과거형 pleaded가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'plead with someone'.\n(A) ignore someone (B) beg someone (C) refuse someone (D) reject someone",
+            "a": "(B) beg someone",
+            "meaning_ko": "누군가에게 간청한다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'plead': 'She begged him to stay.'",
+            "a": "She pleaded with him to stay.",
+            "meaning_ko": "간청한다는 것을 plead로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The defense attorney pleaded for leniency _____.\n(A) presenting evidence of circumstances (B) ignoring evidence (C) avoiding facts (D) creating problems",
+            "a": "(A) presenting evidence of circumstances",
+            "meaning_ko": "상황의 증거를 제시한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The witness choose to plead the fifth.' (Fix the grammar.)",
+            "a": "The witness chose to plead the fifth.",
+            "meaning_ko": "과거형 chose가 맞습니다."
+          },
+          {
+            "q": "Insert 'plead' naturally: 'The defendant's decision to ______ insanity required evaluation.'",
+            "a": "plead",
+            "meaning_ko": "정신 이상을 주장하기로 한 결정이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

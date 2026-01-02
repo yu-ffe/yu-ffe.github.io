@@ -1,0 +1,835 @@
+[
+  {
+    "word": "obesity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The condition of being grossly fat or overweight; a medical condition in which excess body fat has accumulated to the extent that it may have an adverse effect on health.",
+        "definition_ko": "심하게 뚱뚱하거나 과체중인 상태; 과도한 체지방이 건강에 부정적 영향을 줄 수 있을 정도로 축적된 의학적 상태.",
+        "note": "의학 용어로, 단순한 과체중보다 심각한 상태를 의미합니다."
+      }
+    ],
+    "concept": "과도한 체지방이 건강에 부정적 영향을 줄 수 있을 정도로 축적된 의학적 상태.",
+    "etymology": "라틴어 obesitas(비만)에서 유래했으며, obesus(뚱뚱한)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 일반적 비만이었으나, 현대에는 의학 용어('childhood obesity', 'obesity epidemic')로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·의학 용어로, 일상에서는 'being overweight'가 더 흔합니다.",
+    "grammarNotes": "불가산명사로 주로 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 비만",
+        "example": "obesity in children"
+      }
+    ],
+    "requiredComplements": [
+      "obesity in + 명사 (…에서의 비만)"
+    ],
+    "morphology": "라틴어 obesitas에서 유래했으며, obesus(뚱뚱한)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "obese",
+        "meaning_ko": "비만한(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "overweight",
+        "meaning_ko": "과체중"
+      },
+      {
+        "word": "fat",
+        "meaning_ko": "뚱뚱한"
+      },
+      {
+        "word": "weight",
+        "meaning_ko": "체중"
+      },
+      {
+        "word": "health",
+        "meaning_ko": "건강"
+      },
+      {
+        "word": "diet",
+        "meaning_ko": "식이요법"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "overweight",
+        "meaning_ko": "과체중"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "fat",
+        "meaning_ko": "뚱뚱한(일반적)"
+      },
+      {
+        "word": "weight problem",
+        "meaning_ko": "체중 문제(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "thinness",
+        "meaning_ko": "마름"
+      },
+      {
+        "word": "underweight",
+        "meaning_ko": "저체중"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "childhood obesity",
+            "meaning_ko": "소아 비만"
+          },
+          {
+            "phrase": "obesity epidemic",
+            "meaning_ko": "비만 유행"
+          },
+          {
+            "phrase": "prevent obesity",
+            "meaning_ko": "비만을 예방하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "obesity rates",
+            "meaning_ko": "비만율"
+          },
+          {
+            "phrase": "obesity in children",
+            "meaning_ko": "아동의 비만"
+          },
+          {
+            "phrase": "combat obesity",
+            "meaning_ko": "비만과 싸우다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "obesity-related diseases",
+            "meaning_ko": "비만 관련 질병"
+          },
+          {
+            "phrase": "obesity prevention",
+            "meaning_ko": "비만 예방"
+          },
+          {
+            "phrase": "obesity crisis",
+            "meaning_ko": "비만 위기"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Childhood obesity is a growing problem.",
+            "meaning_ko": "소아 비만은 증가하는 문제이다."
+          },
+          {
+            "sentence": "The obesity epidemic affects many countries.",
+            "meaning_ko": "비만 유행은 많은 국가에 영향을 미친다."
+          },
+          {
+            "sentence": "Exercise can help prevent obesity.",
+            "meaning_ko": "운동은 비만을 예방하는 데 도움이 될 수 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Obesity rates have increased significantly in recent years.",
+            "meaning_ko": "비만율은 최근 몇 년 동안 크게 증가했다."
+          },
+          {
+            "sentence": "The government launched a campaign to combat obesity.",
+            "meaning_ko": "정부는 비만과 싸우기 위한 캠페인을 시작했다."
+          },
+          {
+            "sentence": "Obesity in children requires early intervention.",
+            "meaning_ko": "아동의 비만은 조기 개입이 필요하다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The obesity-related diseases, including diabetes and heart disease, have placed an increasing burden on healthcare systems worldwide.",
+            "meaning_ko": "당뇨병과 심장 질환을 포함한 비만 관련 질병은 전 세계적으로 의료 시스템에 증가하는 부담을 지웠다."
+          },
+          {
+            "sentence": "Obesity prevention programs that focus on education and lifestyle changes have shown promise in addressing the crisis at its root.",
+            "meaning_ko": "교육과 생활 방식 변화에 집중하는 비만 예방 프로그램은 그 위기의 근본 원인을 다루는 데 유망함을 보여주었다."
+          },
+          {
+            "sentence": "The obesity crisis has prompted policymakers to consider regulations on food marketing and urban planning to create environments that support healthy choices.",
+            "meaning_ko": "그 비만 위기는 정책 입안자들로 하여금 건강한 선택을 지원하는 환경을 만들기 위해 식품 마케팅과 도시 계획에 대한 규제를 고려하도록 촉진했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "obesity는 '비만'의 의미로, 'childhood obesity', 'obesity epidemic', 'obesity rates' 같은 결합을 익혀두면 좋습니다. obese(비만한)와 함께 외우면 좋습니다. 시험에서는 의학·건강 지문에서 자주 출제됩니다.",
+    "tags": [
+      "의학",
+      "건강",
+      "사회",
+      "과학",
+      "전문용어"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'obesity'.\n(A) thinness (B) the condition of being grossly fat (C) underweight (D) fitness",
+            "a": "(B) the condition of being grossly fat",
+            "meaning_ko": "obesity는 심하게 뚱뚱한 상태를 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: Childhood _____ is a growing problem.",
+            "a": "obesity",
+            "meaning_ko": "소아 비만이 증가하는 문제라는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is related to 'obesity'?\n(A) thin (B) obese (C) underweight (D) fit",
+            "a": "(B) obese",
+            "meaning_ko": "obese는 obesity의 형용사형입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ rates have increased. (obesity / obese / obesities)",
+            "a": "obesity",
+            "meaning_ko": "obesity rates(비만율) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'obesity epidemic'.\n(A) thinness epidemic (B) overweight epidemic (C) fitness epidemic (D) health epidemic",
+            "a": "(B) overweight epidemic",
+            "meaning_ko": "비만 유행이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'obesity': 'The problem of being overweight affects many countries.'",
+            "a": "The obesity epidemic affects many countries.",
+            "meaning_ko": "과체중 문제를 obesity로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The obesity-related diseases _____.\n(A) have placed an increasing burden on healthcare (B) have been ignored (C) have been solved (D) have disappeared",
+            "a": "(A) have placed an increasing burden on healthcare",
+            "meaning_ko": "의료에 증가하는 부담을 지웠다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'Obesity prevention program have shown promise.' (Fix the grammar.)",
+            "a": "Obesity prevention programs have shown promise.",
+            "meaning_ko": "복수형 programs과 복수 동사 have가 맞습니다."
+          },
+          {
+            "q": "Insert 'obesity' naturally: 'The ______ crisis has prompted policymakers to consider regulations.'",
+            "a": "obesity",
+            "meaning_ko": "비만 위기라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "incandescent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Emitting light as a result of being heated; full of strong emotion; brilliant or passionate.",
+        "definition_ko": "가열되어 빛을 발하는; 강한 감정으로 가득 찬; 빛나는 또는 열정적인.",
+        "note": "물리적 빛뿐 아니라 추상적 열정('incandescent with anger')도 의미합니다."
+      }
+    ],
+    "concept": "가열되어 빛을 발하거나, 강한 감정으로 가득 차 빛나는 상태.",
+    "etymology": "라틴어 incandescere(빛나다)에서 유래했으며, in-(강조) + candere(빛나다)의 결합입니다.",
+    "semanticExtension": "원래는 물리적 빛('incandescent bulb')이었으나, 현대에는 추상적 열정('incandescent rage')으로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·과학·문학 용어로, 일상에서는 'glowing'이나 'brilliant'가 더 흔합니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능하며, 'incandescent + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 빛나는",
+        "example": "incandescent with anger"
+      }
+    ],
+    "requiredComplements": [
+      "incandescent + 명사 (빛나는 …)",
+      "incandescent with + 명사 (…로 빛나는)"
+    ],
+    "morphology": "라틴어 incandescere에서 유래했으며, in-(강조) + candere(빛나다)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "incandescence",
+        "meaning_ko": "백열, 열광(명사)"
+      },
+      {
+        "word": "incandescently",
+        "meaning_ko": "빛나게(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "glowing",
+        "meaning_ko": "빛나는"
+      },
+      {
+        "word": "brilliant",
+        "meaning_ko": "빛나는"
+      },
+      {
+        "word": "radiant",
+        "meaning_ko": "빛나는"
+      },
+      {
+        "word": "passionate",
+        "meaning_ko": "열정적인"
+      },
+      {
+        "word": "luminous",
+        "meaning_ko": "빛나는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "glowing",
+        "meaning_ko": "빛나는"
+      },
+      {
+        "word": "brilliant",
+        "meaning_ko": "빛나는"
+      },
+      {
+        "word": "radiant",
+        "meaning_ko": "빛나는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "passionate",
+        "meaning_ko": "열정적인(일반적)"
+      },
+      {
+        "word": "luminous",
+        "meaning_ko": "빛나는(일반적)"
+      },
+      {
+        "word": "bright",
+        "meaning_ko": "밝은(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dim",
+        "meaning_ko": "어두운"
+      },
+      {
+        "word": "dull",
+        "meaning_ko": "둔한"
+      },
+      {
+        "word": "apathetic",
+        "meaning_ko": "무관심한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "incandescent bulb",
+            "meaning_ko": "백열 전구"
+          },
+          {
+            "phrase": "incandescent light",
+            "meaning_ko": "백열광"
+          },
+          {
+            "phrase": "incandescent with anger",
+            "meaning_ko": "분노로 빛나는"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "incandescent rage",
+            "meaning_ko": "빛나는 분노"
+          },
+          {
+            "phrase": "incandescent beauty",
+            "meaning_ko": "빛나는 아름다움"
+          },
+          {
+            "phrase": "incandescent performance",
+            "meaning_ko": "빛나는 공연"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "incandescent brilliance",
+            "meaning_ko": "빛나는 광채"
+          },
+          {
+            "phrase": "incandescent passion",
+            "meaning_ko": "빛나는 열정"
+          },
+          {
+            "phrase": "incandescent quality",
+            "meaning_ko": "빛나는 특성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The incandescent bulb was replaced with an LED.",
+            "meaning_ko": "그 백열 전구는 LED로 교체되었다."
+          },
+          {
+            "sentence": "She was incandescent with anger.",
+            "meaning_ko": "그녀는 분노로 빛났다."
+          },
+          {
+            "sentence": "The incandescent light filled the room.",
+            "meaning_ko": "그 백열광이 방을 채웠다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "His incandescent rage shocked everyone.",
+            "meaning_ko": "그의 빛나는 분노는 모든 사람을 놀라게 했다."
+          },
+          {
+            "sentence": "The incandescent beauty of the sunset was breathtaking.",
+            "meaning_ko": "그 일몰의 빛나는 아름다움은 숨 막히게 했다."
+          },
+          {
+            "sentence": "The actor's incandescent performance received standing ovations.",
+            "meaning_ko": "그 배우의 빛나는 공연은 기립 박수를 받았다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The incandescent brilliance of her writing illuminated complex themes with such clarity that readers were both moved and enlightened.",
+            "meaning_ko": "그녀의 글쓰기의 빛나는 광채는 복잡한 주제를 그런 명확성으로 밝혀서 독자들이 감동받고 깨달음을 얻었다."
+          },
+          {
+            "sentence": "His incandescent passion for social justice burned so intensely that it inspired a generation of activists to take up the cause.",
+            "meaning_ko": "사회 정의에 대한 그의 빛나는 열정은 너무 강렬하게 타올라서 한 세대의 활동가들이 그 대의를 맡도록 영감을 주었다."
+          },
+          {
+            "sentence": "The incandescent quality of the performance transcended mere technical skill, creating an emotional resonance that lingered long after the curtain fell.",
+            "meaning_ko": "그 공연의 빛나는 특성은 단순한 기술적 기술을 초월했고, 막이 내린 후에도 오래 지속되는 감정적 공명을 만들었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "incandescent는 '빛나는/열정적인' 의미로, 'incandescent bulb/light', 'incandescent with anger' 같은 결합을 익혀두면 좋습니다. incandescence(백열)와 함께 외우면 좋습니다. 시험에서는 'incandescent bulb', 'incandescent with anger' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "빛",
+      "열정",
+      "과학",
+      "문학",
+      "일상"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'incandescent'.\n(A) dim (B) emitting light as a result of being heated (C) dull (D) apathetic",
+            "a": "(B) emitting light as a result of being heated",
+            "meaning_ko": "incandescent는 가열되어 빛을 발하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ bulb was replaced with an LED.",
+            "a": "incandescent",
+            "meaning_ko": "백열 전구가 LED로 교체되었다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: incandescent _____ anger? (with / in / at)",
+            "a": "with",
+            "meaning_ko": "incandescent with + 명사 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: His _____ rage shocked everyone. (incandescent / incandescence / incandescently)",
+            "a": "incandescent",
+            "meaning_ko": "incandescent rage(빛나는 분노) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'incandescent beauty'.\n(A) dim beauty (B) glowing beauty (C) dull beauty (D) dark beauty",
+            "a": "(B) glowing beauty",
+            "meaning_ko": "빛나는 아름다움이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'incandescent': 'She was glowing with anger.'",
+            "a": "She was incandescent with anger.",
+            "meaning_ko": "분노로 빛난다는 것을 incandescent로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The incandescent brilliance of her writing _____.\n(A) illuminated complex themes with clarity (B) ignored everything (C) avoided details (D) created confusion",
+            "a": "(A) illuminated complex themes with clarity",
+            "meaning_ko": "복잡한 주제를 명확성으로 밝혔다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'His incandescent passion have inspired activists.' (Fix the grammar.)",
+            "a": "His incandescent passion has inspired activists.",
+            "meaning_ko": "단수 주어이므로 has가 맞습니다."
+          },
+          {
+            "q": "Insert 'incandescent' naturally: 'The ______ quality of the performance transcended technical skill.'",
+            "a": "incandescent",
+            "meaning_ko": "공연의 빛나는 특성이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fundamental",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Forming a necessary base or core; of central importance; a central or primary rule or principle on which something is based.",
+        "definition_ko": "필수적인 기초나 핵심을 형성하는; 중심적 중요성을 가진; 무언가가 기반하는 중심적이거나 기본적인 규칙이나 원칙.",
+        "note": "형용사로는 '기본적인/근본적인', 명사로는 '기본 원칙'의 의미입니다."
+      }
+    ],
+    "concept": "필수적인 기초나 핵심을 형성하는 것, 또는 기본 원칙.",
+    "etymology": "라틴어 fundamentalis(기초의)에서 유래했으며, fundamentum(기초)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 '기초의' 의미였으나, 현대에는 추상적 중요성('fundamental principle/right')으로도 확장되었습니다.",
+    "nuanceRegister": "일상·학술·비즈니스 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 'fundamental + 명사' 패턴이 흔하고, 명사로는 'a fundamental' 또는 'fundamentals'로 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 기본적인",
+        "example": "fundamental to success"
+      }
+    ],
+    "requiredComplements": [
+      "fundamental + 명사 (기본적인 …)",
+      "fundamental to + 명사 (…에 기본적인)"
+    ],
+    "morphology": "라틴어 fundamentalis에서 유래했으며, fundamentum(기초)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "fundamentally",
+        "meaning_ko": "근본적으로(부사)"
+      },
+      {
+        "word": "fundamentalism",
+        "meaning_ko": "근본주의(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "basic",
+        "meaning_ko": "기본적인"
+      },
+      {
+        "word": "essential",
+        "meaning_ko": "필수적인"
+      },
+      {
+        "word": "primary",
+        "meaning_ko": "주요한"
+      },
+      {
+        "word": "core",
+        "meaning_ko": "핵심의"
+      },
+      {
+        "word": "elementary",
+        "meaning_ko": "기초의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "basic",
+        "meaning_ko": "기본적인"
+      },
+      {
+        "word": "essential",
+        "meaning_ko": "필수적인"
+      },
+      {
+        "word": "primary",
+        "meaning_ko": "주요한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "core",
+        "meaning_ko": "핵심의(일반적)"
+      },
+      {
+        "word": "elementary",
+        "meaning_ko": "기초의(일반적)"
+      },
+      {
+        "word": "underlying",
+        "meaning_ko": "기본의(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "superficial",
+        "meaning_ko": "표면적인"
+      },
+      {
+        "word": "secondary",
+        "meaning_ko": "부차적인"
+      },
+      {
+        "word": "trivial",
+        "meaning_ko": "사소한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "fundamental principle",
+            "meaning_ko": "기본 원칙"
+          },
+          {
+            "phrase": "fundamental right",
+            "meaning_ko": "기본 권리"
+          },
+          {
+            "phrase": "fundamental change",
+            "meaning_ko": "근본적 변화"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "fundamental to",
+            "meaning_ko": "~에 기본적인"
+          },
+          {
+            "phrase": "fundamental issue",
+            "meaning_ko": "근본적 문제"
+          },
+          {
+            "phrase": "fundamental difference",
+            "meaning_ko": "근본적 차이"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "fundamental assumption",
+            "meaning_ko": "근본적 가정"
+          },
+          {
+            "phrase": "fundamental question",
+            "meaning_ko": "근본적 질문"
+          },
+          {
+            "phrase": "fundamental transformation",
+            "meaning_ko": "근본적 변환"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Education is a fundamental right.",
+            "meaning_ko": "교육은 기본 권리이다."
+          },
+          {
+            "sentence": "The fundamental principle is fairness.",
+            "meaning_ko": "기본 원칙은 공정함이다."
+          },
+          {
+            "sentence": "We need a fundamental change in approach.",
+            "meaning_ko": "우리는 접근 방식의 근본적 변화가 필요하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Trust is fundamental to any relationship.",
+            "meaning_ko": "신뢰는 어떤 관계에도 기본적이다."
+          },
+          {
+            "sentence": "The fundamental issue is lack of resources.",
+            "meaning_ko": "근본적 문제는 자원 부족이다."
+          },
+          {
+            "sentence": "There is a fundamental difference between the two approaches.",
+            "meaning_ko": "두 접근 방식 사이에는 근본적 차이가 있다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The fundamental assumption underlying the theory has been challenged by recent empirical evidence, requiring a reexamination of its core premises.",
+            "meaning_ko": "그 이론의 기반이 되는 근본적 가정은 최근의 경험적 증거에 의해 도전받았고, 그 핵심 전제의 재검토를 요구한다."
+          },
+          {
+            "sentence": "The fundamental question of how to balance individual freedom with collective security has preoccupied political philosophers for centuries.",
+            "meaning_ko": "개인의 자유와 집단적 안보의 균형을 어떻게 맞출 것인가라는 근본적 질문은 수세기 동안 정치 철학자들을 사로잡아왔다."
+          },
+          {
+            "sentence": "The fundamental transformation of the industry, driven by technological innovation, has rendered many traditional business models obsolete.",
+            "meaning_ko": "기술 혁신에 의해 추진된 그 산업의 근본적 변환은 많은 전통적 비즈니스 모델을 쓸모없게 만들었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "fundamental는 '기본적인/근본적인' 의미로, 'fundamental principle/right', 'fundamental to + 명사' 같은 결합을 익혀두면 좋습니다. fundamentally(근본적으로)와 함께 외우면 좋습니다. 시험에서는 'fundamental to', 'fundamental principle/change' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "기본",
+      "근본",
+      "학술",
+      "비즈니스",
+      "일상"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'fundamental' (adjective).\n(A) superficial (B) forming a necessary base or core (C) secondary (D) trivial",
+            "a": "(B) forming a necessary base or core",
+            "meaning_ko": "fundamental(형용사)는 필수적인 기초나 핵심을 형성하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: Education is a _____ right.",
+            "a": "fundamental",
+            "meaning_ko": "교육이 기본 권리라는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: fundamental _____ success? (to / in / at)",
+            "a": "to",
+            "meaning_ko": "fundamental to + 명사 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: Trust is _____ to any relationship. (fundamental / fundamentally / fundamentalism)",
+            "a": "fundamental",
+            "meaning_ko": "fundamental to + 명사 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'fundamental principle'.\n(A) superficial principle (B) basic principle (C) secondary principle (D) trivial principle",
+            "a": "(B) basic principle",
+            "meaning_ko": "기본 원칙이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'fundamental': 'Trust is essential to any relationship.'",
+            "a": "Trust is fundamental to any relationship.",
+            "meaning_ko": "필수적이라는 것을 fundamental로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The fundamental assumption underlying the theory _____.\n(A) has been challenged by recent evidence (B) has been ignored (C) has been forgotten (D) has been solved",
+            "a": "(A) has been challenged by recent evidence",
+            "meaning_ko": "최근 증거에 의해 도전받았다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The fundamental question have preoccupied philosophers.' (Fix the grammar.)",
+            "a": "The fundamental question has preoccupied philosophers.",
+            "meaning_ko": "단수 주어이므로 has가 맞습니다."
+          },
+          {
+            "q": "Insert 'fundamental' naturally: 'The ______ transformation of the industry has rendered models obsolete.'",
+            "a": "fundamental",
+            "meaning_ko": "산업의 근본적 변환이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

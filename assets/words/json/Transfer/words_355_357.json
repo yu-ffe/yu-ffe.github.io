@@ -1,0 +1,819 @@
+[
+  {
+    "word": "sanctuary",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A place of refuge or safety; a nature reserve; a holy place; protection or safety from danger.",
+        "definition_ko": "피난처나 안전한 장소; 자연 보호 구역; 성스러운 장소; 위험으로부터의 보호나 안전.",
+        "note": "물리적 피난처뿐 아니라 추상적 안전('sanctuary from persecution')도 의미합니다."
+      }
+    ],
+    "concept": "피난처나 안전한 장소, 또는 위험으로부터의 보호.",
+    "etymology": "라틴어 sanctuarium(성소)에서 유래했으며, sanctus(성스러운)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 '성소' 의미였으나, 현대에는 일반적 피난처('wildlife sanctuary', 'sanctuary city')로도 확장되었습니다.",
+    "nuanceRegister": "일상·종교·환경 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사로 'a sanctuary' 또는 'sanctuaries'로 사용되며, 'sanctuary from + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터의 피난처",
+        "example": "sanctuary from persecution"
+      }
+    ],
+    "requiredComplements": [
+      "sanctuary from + 명사 (…로부터의 피난처)",
+      "a sanctuary (피난처)"
+    ],
+    "morphology": "라틴어 sanctuarium에서 유래했으며, sanctus(성스러운)와 연관되어 있습니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "refuge",
+        "meaning_ko": "피난처"
+      },
+      {
+        "word": "shelter",
+        "meaning_ko": "피난처"
+      },
+      {
+        "word": "haven",
+        "meaning_ko": "안전한 곳"
+      },
+      {
+        "word": "asylum",
+        "meaning_ko": "피난처"
+      },
+      {
+        "word": "reserve",
+        "meaning_ko": "보호 구역"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "refuge",
+        "meaning_ko": "피난처"
+      },
+      {
+        "word": "shelter",
+        "meaning_ko": "피난처"
+      },
+      {
+        "word": "haven",
+        "meaning_ko": "안전한 곳"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "asylum",
+        "meaning_ko": "피난처(일반적)"
+      },
+      {
+        "word": "reserve",
+        "meaning_ko": "보호 구역(일반적)"
+      },
+      {
+        "word": "retreat",
+        "meaning_ko": "은신처(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "danger",
+        "meaning_ko": "위험"
+      },
+      {
+        "word": "threat",
+        "meaning_ko": "위협"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sanctuary from",
+            "meaning_ko": "~로부터의 피난처"
+          },
+          {
+            "phrase": "wildlife sanctuary",
+            "meaning_ko": "야생동물 보호 구역"
+          },
+          {
+            "phrase": "seek sanctuary",
+            "meaning_ko": "피난처를 찾다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sanctuary city",
+            "meaning_ko": "피난 도시"
+          },
+          {
+            "phrase": "bird sanctuary",
+            "meaning_ko": "조류 보호 구역"
+          },
+          {
+            "phrase": "find sanctuary",
+            "meaning_ko": "피난처를 찾다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sanctuary that provides",
+            "meaning_ko": "제공하는 피난처"
+          },
+          {
+            "phrase": "sanctuary from persecution",
+            "meaning_ko": "박해로부터의 피난처"
+          },
+          {
+            "phrase": "sanctuary status",
+            "meaning_ko": "피난처 지위"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The wildlife sanctuary protects endangered species.",
+            "meaning_ko": "그 야생동물 보호 구역은 멸종 위기 종을 보호한다."
+          },
+          {
+            "sentence": "They sought sanctuary from the storm.",
+            "meaning_ko": "그들은 폭풍으로부터 피난처를 찾았다."
+          },
+          {
+            "sentence": "The church provided sanctuary for refugees.",
+            "meaning_ko": "그 교회는 난민들에게 피난처를 제공했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The sanctuary city offers protection to undocumented immigrants.",
+            "meaning_ko": "그 피난 도시는 문서 없는 이민자들에게 보호를 제공한다."
+          },
+          {
+            "sentence": "The bird sanctuary is home to many rare species.",
+            "meaning_ko": "그 조류 보호 구역은 많은 희귀 종의 서식지이다."
+          },
+          {
+            "sentence": "They found sanctuary from persecution in a neighboring country.",
+            "meaning_ko": "그들은 인접 국가에서 박해로부터 피난처를 찾았다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sanctuary that provides refuge for those fleeing conflict has become a symbol of hope and humanity in a region torn by violence.",
+            "meaning_ko": "갈등을 피해 도망하는 사람들에게 피난처를 제공하는 그 피난처는 폭력으로 찢어진 지역에서 희망과 인류애의 상징이 되었다."
+          },
+          {
+            "sentence": "The sanctuary from persecution, established through international agreements, has saved countless lives while challenging nations to uphold their humanitarian obligations.",
+            "meaning_ko": "국제 협정을 통해 설립된 박해로부터의 그 피난처는 국가들이 그들의 인도주의적 의무를 유지하도록 도전하면서 수많은 생명을 구했다."
+          },
+          {
+            "sentence": "The sanctuary status granted to the nature reserve has enabled the recovery of species that were once on the brink of extinction, demonstrating the power of protected spaces.",
+            "meaning_ko": "그 자연 보호 구역에 부여된 그 피난처 지위는 한때 멸종 위기에 있던 종들의 회복을 가능하게 했고, 보호된 공간의 힘을 보여주었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sanctuary는 '피난처/보호 구역'의 의미로, 'sanctuary from + 명사', 'wildlife/bird sanctuary', 'sanctuary city' 같은 결합을 익혀두면 좋습니다. refuge(피난처), shelter(피난처)와 함께 외우면 좋습니다. 시험에서는 'sanctuary from', 'wildlife sanctuary', 'seek sanctuary' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "피난처",
+      "환경",
+      "종교",
+      "정치",
+      "일상"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'sanctuary'.\n(A) danger (B) a place of refuge or safety (C) threat (D) risk",
+            "a": "(B) a place of refuge or safety",
+            "meaning_ko": "sanctuary는 피난처나 안전한 장소를 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: The wildlife _____ protects endangered species.",
+            "a": "sanctuary",
+            "meaning_ko": "야생동물 보호 구역이 멸종 위기 종을 보호한다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: sanctuary _____ persecution? (from / in / at)",
+            "a": "from",
+            "meaning_ko": "sanctuary from + 명사 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ city offers protection. (sanctuary / sanctuaries / sanctuary's)",
+            "a": "sanctuary",
+            "meaning_ko": "sanctuary city(피난 도시) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'wildlife sanctuary'.\n(A) wildlife danger (B) wildlife refuge (C) wildlife threat (D) wildlife risk",
+            "a": "(B) wildlife refuge",
+            "meaning_ko": "야생동물 보호 구역이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'sanctuary': 'They sought refuge from the storm.'",
+            "a": "They sought sanctuary from the storm.",
+            "meaning_ko": "폭풍으로부터 피난처를 찾았다는 것을 sanctuary로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The sanctuary that provides refuge for those fleeing conflict _____.\n(A) has become a symbol of hope (B) has been ignored (C) has been forgotten (D) has been rejected",
+            "a": "(A) has become a symbol of hope",
+            "meaning_ko": "희망의 상징이 되었다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The sanctuary from persecution have saved lives.' (Fix the grammar.)",
+            "a": "The sanctuary from persecution has saved lives.",
+            "meaning_ko": "단수 주어이므로 has가 맞습니다."
+          },
+          {
+            "q": "Insert 'sanctuary' naturally: 'The ______ status granted to the reserve has enabled recovery.'",
+            "a": "sanctuary",
+            "meaning_ko": "보호 구역에 부여된 피난처 지위라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ebullient",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Cheerful and full of energy; overflowing with enthusiasm or excitement; boiling or bubbling.",
+        "definition_ko": "쾌활하고 에너지로 가득 찬; 열정이나 흥분으로 넘치는; 끓거나 거품이 나는.",
+        "note": "격식 있는 문어로, 일상에서는 'enthusiastic'이나 'cheerful'이 더 흔합니다."
+      }
+    ],
+    "concept": "열정이나 흥분으로 넘치고 에너지로 가득 찬 상태.",
+    "etymology": "라틴어 ebullire(끓어 넘치다)에서 유래했으며, e-(밖으로) + bullire(끓다)의 결합입니다.",
+    "semanticExtension": "원래는 '끓어 넘치다' 의미였으나, 현대에는 추상적 열정('ebullient personality', 'ebullient mood')으로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·문학 용어로, 일상에서는 거의 사용되지 않습니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능하며, 'ebullient + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "ebullient + 명사 (열정 넘치는 …)"
+    ],
+    "morphology": "라틴어 ebullire에서 유래했으며, e-(밖으로) + bullire(끓다)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "ebullience",
+        "meaning_ko": "열정 넘침(명사)"
+      },
+      {
+        "word": "ebulliently",
+        "meaning_ko": "열정 넘치게(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "enthusiastic",
+        "meaning_ko": "열정적인"
+      },
+      {
+        "word": "cheerful",
+        "meaning_ko": "쾌활한"
+      },
+      {
+        "word": "exuberant",
+        "meaning_ko": "풍부한"
+      },
+      {
+        "word": "vivacious",
+        "meaning_ko": "활기찬"
+      },
+      {
+        "word": "effervescent",
+        "meaning_ko": "활기찬"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "enthusiastic",
+        "meaning_ko": "열정적인"
+      },
+      {
+        "word": "cheerful",
+        "meaning_ko": "쾌활한"
+      },
+      {
+        "word": "exuberant",
+        "meaning_ko": "풍부한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "vivacious",
+        "meaning_ko": "활기찬(일반적)"
+      },
+      {
+        "word": "effervescent",
+        "meaning_ko": "활기찬(일반적)"
+      },
+      {
+        "word": "buoyant",
+        "meaning_ko": "활기찬(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "gloomy",
+        "meaning_ko": "우울한"
+      },
+      {
+        "word": "depressed",
+        "meaning_ko": "우울한"
+      },
+      {
+        "word": "lethargic",
+        "meaning_ko": "무기력한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ebullient personality",
+            "meaning_ko": "열정 넘치는 성격"
+          },
+          {
+            "phrase": "ebullient mood",
+            "meaning_ko": "열정 넘치는 기분"
+          },
+          {
+            "phrase": "ebullient spirit",
+            "meaning_ko": "열정 넘치는 정신"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ebullient enthusiasm",
+            "meaning_ko": "열정 넘치는 열정"
+          },
+          {
+            "phrase": "ebullient character",
+            "meaning_ko": "열정 넘치는 인물"
+          },
+          {
+            "phrase": "ebullient energy",
+            "meaning_ko": "열정 넘치는 에너지"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ebullient that inspires",
+            "meaning_ko": "영감을 주는 열정 넘치는"
+          },
+          {
+            "phrase": "ebullient optimism",
+            "meaning_ko": "열정 넘치는 낙관주의"
+          },
+          {
+            "phrase": "ebullient celebration",
+            "meaning_ko": "열정 넘치는 축하"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She has an ebullient personality.",
+            "meaning_ko": "그녀는 열정 넘치는 성격을 가지고 있다."
+          },
+          {
+            "sentence": "The ebullient mood was contagious.",
+            "meaning_ko": "그 열정 넘치는 기분은 전염성이 있었다."
+          },
+          {
+            "sentence": "His ebullient spirit lifted everyone's mood.",
+            "meaning_ko": "그의 열정 넘치는 정신은 모든 사람의 기분을 올렸다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The ebullient enthusiasm of the team motivated everyone.",
+            "meaning_ko": "그 팀의 열정 넘치는 열정은 모든 사람을 동기부여했다."
+          },
+          {
+            "sentence": "The ebullient character brought life to the story.",
+            "meaning_ko": "그 열정 넘치는 인물은 그 이야기에 생명을 불어넣었다."
+          },
+          {
+            "sentence": "Her ebullient energy was evident in everything she did.",
+            "meaning_ko": "그녀의 열정 넘치는 에너지는 그녀가 한 모든 것에서 명백했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ebullient that inspires others to pursue their dreams has been a defining characteristic of great leaders throughout history.",
+            "meaning_ko": "다른 사람들이 그들의 꿈을 추구하도록 영감을 주는 그 열정 넘치는 것은 역사를 통해 위대한 지도자들의 정의적 특성이었다."
+          },
+          {
+            "sentence": "The ebullient optimism displayed by the community in the face of adversity has become a source of strength and resilience for its members.",
+            "meaning_ko": "역경에 직면하여 지역 사회가 보여준 그 열정 넘치는 낙관주의는 그 구성원들에게 힘과 회복력의 원천이 되었다."
+          },
+          {
+            "sentence": "The ebullient celebration that followed the victory reflected not just joy, but a profound sense of collective achievement and shared purpose.",
+            "meaning_ko": "그 승리 후에 이어진 그 열정 넘치는 축하는 단순히 기쁨뿐만 아니라 집단적 성취와 공유된 목적에 대한 깊은 감각을 반영했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ebullient는 '열정 넘치는/쾌활한' 의미로, 'ebullient personality/mood', 'ebullient enthusiasm/energy' 같은 결합을 익혀두면 좋습니다. ebullience(열정 넘침)와 함께 외우면 좋습니다. 시험에서는 'ebullient personality', 'ebullient mood', 'ebullient enthusiasm' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "열정",
+      "감정",
+      "문학",
+      "격식",
+      "일상"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'ebullient'.\n(A) gloomy (B) cheerful and full of energy (C) depressed (D) lethargic",
+            "a": "(B) cheerful and full of energy",
+            "meaning_ko": "ebullient는 쾌활하고 에너지로 가득 찬 것입니다."
+          },
+          {
+            "q": "Fill in the blank: She has an _____ personality.",
+            "a": "ebullient",
+            "meaning_ko": "열정 넘치는 성격을 가지고 있다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is an antonym of 'ebullient'?\n(A) enthusiastic (B) gloomy (C) cheerful (D) exuberant",
+            "a": "(B) gloomy",
+            "meaning_ko": "gloomy는 ebullient의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ mood was contagious. (ebullient / ebullience / ebulliently)",
+            "a": "ebullient",
+            "meaning_ko": "ebullient mood(열정 넘치는 기분) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'ebullient personality'.\n(A) gloomy personality (B) enthusiastic personality (C) depressed personality (D) lethargic personality",
+            "a": "(B) enthusiastic personality",
+            "meaning_ko": "열정 넘치는 성격이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'ebullient': 'She has an enthusiastic and cheerful personality.'",
+            "a": "She has an ebullient personality.",
+            "meaning_ko": "열정적이고 쾌활한 성격을 ebullient로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The ebullient that inspires others to pursue dreams _____.\n(A) has been a defining characteristic of leaders (B) has been ignored (C) has been forgotten (D) has been rejected",
+            "a": "(A) has been a defining characteristic of leaders",
+            "meaning_ko": "지도자들의 정의적 특성이었다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The ebullient optimism have become a source.' (Fix the grammar.)",
+            "a": "The ebullient optimism has become a source.",
+            "meaning_ko": "단수 주어이므로 has가 맞습니다."
+          },
+          {
+            "q": "Insert 'ebullient' naturally: 'The ______ celebration reflected a sense of achievement.'",
+            "a": "ebullient",
+            "meaning_ko": "열정 넘치는 축하라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "peccadillo",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A small, relatively unimportant offense or sin; a minor fault or mistake.",
+        "definition_ko": "작고 상대적으로 중요하지 않은 위반이나 죄; 작은 결함이나 실수.",
+        "note": "격식 있는 문어로, 일상에서는 'minor fault'나 'small mistake'가 더 흔합니다."
+      }
+    ],
+    "concept": "작고 중요하지 않은 위반이나 작은 결함.",
+    "etymology": "스페인어 pecadillo(작은 죄)에서 유래했으며, pecado(죄)의 축소형입니다.",
+    "semanticExtension": "원래는 '작은 죄' 의미였으나, 현대에는 일반적 작은 실수('minor peccadillo', 'harmless peccadillo')로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·문학 용어로, 일상에서는 거의 사용되지 않습니다.",
+    "grammarNotes": "가산명사로 'a peccadillo' 또는 'peccadillos'로 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "a peccadillo (작은 실수)"
+    ],
+    "morphology": "스페인어 pecadillo에서 유래했으며, pecado(죄)의 축소형입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "minor fault",
+        "meaning_ko": "작은 결함"
+      },
+      {
+        "word": "small mistake",
+        "meaning_ko": "작은 실수"
+      },
+      {
+        "word": "trifle",
+        "meaning_ko": "사소한 것"
+      },
+      {
+        "word": "venial sin",
+        "meaning_ko": "경미한 죄"
+      },
+      {
+        "word": "indiscretion",
+        "meaning_ko": "부주의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "minor fault",
+        "meaning_ko": "작은 결함"
+      },
+      {
+        "word": "small mistake",
+        "meaning_ko": "작은 실수"
+      },
+      {
+        "word": "trifle",
+        "meaning_ko": "사소한 것"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "venial sin",
+        "meaning_ko": "경미한 죄(일반적)"
+      },
+      {
+        "word": "indiscretion",
+        "meaning_ko": "부주의(일반적)"
+      },
+      {
+        "word": "lapse",
+        "meaning_ko": "실수(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "serious offense",
+        "meaning_ko": "심각한 위반"
+      },
+      {
+        "word": "major crime",
+        "meaning_ko": "중대한 범죄"
+      },
+      {
+        "word": "grave sin",
+        "meaning_ko": "중대한 죄"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "minor peccadillo",
+            "meaning_ko": "작은 실수"
+          },
+          {
+            "phrase": "harmless peccadillo",
+            "meaning_ko": "무해한 작은 실수"
+          },
+          {
+            "phrase": "small peccadillo",
+            "meaning_ko": "작은 실수"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "youthful peccadillo",
+            "meaning_ko": "젊은 시절의 작은 실수"
+          },
+          {
+            "phrase": "past peccadillo",
+            "meaning_ko": "과거의 작은 실수"
+          },
+          {
+            "phrase": "forgive a peccadillo",
+            "meaning_ko": "작은 실수를 용서하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "peccadillo that tarnishes",
+            "meaning_ko": "손상시키는 작은 실수"
+          },
+          {
+            "phrase": "peccadillo overlooked",
+            "meaning_ko": "간과된 작은 실수"
+          },
+          {
+            "phrase": "peccadillo from the past",
+            "meaning_ko": "과거의 작은 실수"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It was just a minor peccadillo.",
+            "meaning_ko": "그것은 단지 작은 실수였다."
+          },
+          {
+            "sentence": "The harmless peccadillo was quickly forgotten.",
+            "meaning_ko": "그 무해한 작은 실수는 빠르게 잊혀졌다."
+          },
+          {
+            "sentence": "Everyone has their small peccadillos.",
+            "meaning_ko": "모든 사람은 그들의 작은 실수들을 가지고 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The youthful peccadillo came back to haunt him.",
+            "meaning_ko": "그 젊은 시절의 작은 실수는 그를 괴롭히기 위해 돌아왔다."
+          },
+          {
+            "sentence": "The past peccadillo was brought up during the campaign.",
+            "meaning_ko": "그 과거의 작은 실수는 캠페인 중에 제기되었다."
+          },
+          {
+            "sentence": "They were willing to forgive the peccadillo.",
+            "meaning_ko": "그들은 그 작은 실수를 용서할 의향이 있었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The peccadillo that tarnishes an otherwise spotless reputation has been exploited by opponents seeking to undermine the candidate's credibility.",
+            "meaning_ko": "그렇지 않으면 흠 없는 명성을 손상시키는 그 작은 실수는 그 후보의 신뢰성을 훼손하려는 상대들에 의해 악용되었다."
+          },
+          {
+            "sentence": "The peccadillo overlooked in youth can resurface decades later, demonstrating how seemingly minor indiscretions can have lasting consequences.",
+            "meaning_ko": "젊은 시절에 간과된 그 작은 실수는 수십 년 후에 다시 나타날 수 있고, 겉보기에 사소한 부주의가 어떻게 지속적인 결과를 가질 수 있는지 보여준다."
+          },
+          {
+            "sentence": "The peccadillo from the past, though insignificant at the time, became a focal point in the media's scrutiny of the public figure's character.",
+            "meaning_ko": "과거의 그 작은 실수는 비록 당시에는 중요하지 않았지만, 그 공인물의 성격에 대한 미디어의 검토에서 초점이 되었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "peccadillo는 '작은 실수/경미한 죄'의 의미로, 'minor/harmless peccadillo', 'youthful/past peccadillo' 같은 결합을 익혀두면 좋습니다. minor fault, small mistake보다 더 격식 있는 문어입니다. 시험에서는 'minor peccadillo', 'youthful peccadillo', 'forgive a peccadillo' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "실수",
+      "죄",
+      "문학",
+      "격식",
+      "정치"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'peccadillo'.\n(A) serious offense (B) a small, relatively unimportant offense (C) major crime (D) grave sin",
+            "a": "(B) a small, relatively unimportant offense",
+            "meaning_ko": "peccadillo는 작고 상대적으로 중요하지 않은 위반을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: It was just a minor _____.",
+            "a": "peccadillo",
+            "meaning_ko": "단지 작은 실수였다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'peccadillo'?\n(A) serious offense (B) minor fault (C) major crime (D) grave sin",
+            "a": "(B) minor fault",
+            "meaning_ko": "minor fault는 peccadillo의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ peccadillo came back to haunt him. (youthful / youthfully / youthfulness)",
+            "a": "youthful",
+            "meaning_ko": "youthful peccadillo(젊은 시절의 작은 실수) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'minor peccadillo'.\n(A) major peccadillo (B) small mistake (C) serious offense (D) grave sin",
+            "a": "(B) small mistake",
+            "meaning_ko": "작은 실수라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'peccadillo': 'It was just a minor fault.'",
+            "a": "It was just a minor peccadillo.",
+            "meaning_ko": "작은 결함을 peccadillo로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The peccadillo that tarnishes reputation _____.\n(A) has been exploited by opponents (B) has been ignored (C) has been forgotten (D) has been solved",
+            "a": "(A) has been exploited by opponents",
+            "meaning_ko": "상대들에 의해 악용되었다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The peccadillo overlooked in youth can resurface decades later.' (Fix if needed - this is actually correct.)",
+            "a": "The peccadillo overlooked in youth can resurface decades later.",
+            "meaning_ko": "문법적으로 올바릅니다."
+          },
+          {
+            "q": "Insert 'peccadillo' naturally: 'The ______ from the past became a focal point.'",
+            "a": "peccadillo",
+            "meaning_ko": "과거의 작은 실수라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

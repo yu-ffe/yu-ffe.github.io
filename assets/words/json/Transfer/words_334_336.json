@@ -1,0 +1,825 @@
+[
+  {
+    "word": "debris",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Scattered pieces of waste or remains; rubble or wreckage from something that has been destroyed or broken.",
+        "definition_ko": "흩어진 쓰레기나 잔해 조각; 파괴되거나 부서진 것에서 나온 잔해나 파편.",
+        "note": "불가산명사로 주로 사용되며, 때로는 복수형으로도 사용됩니다."
+      }
+    ],
+    "concept": "파괴되거나 부서진 것에서 나온 흩어진 잔해나 쓰레기 조각.",
+    "etymology": "프랑스어 débris(잔해)에서 유래했으며, dé-(분리) + briser(깨뜨리다)의 결합입니다.",
+    "semanticExtension": "원래는 파괴된 건물의 잔해였으나, 현대에는 일반적인 쓰레기('space debris', 'storm debris')로도 확장되었습니다.",
+    "nuanceRegister": "일상·뉴스·과학 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 불가산명사로 사용되며, 때로는 복수형 debris로도 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~에서 나온 잔해",
+        "example": "debris from the explosion"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 잔해",
+        "example": "debris of the building"
+      }
+    ],
+    "requiredComplements": [
+      "debris from/of + 명사 (…에서/의 잔해)"
+    ],
+    "morphology": "프랑스어 débris에서 유래했으며, dé-(분리) + briser(깨뜨리다)의 결합입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "rubble",
+        "meaning_ko": "잔해"
+      },
+      {
+        "word": "wreckage",
+        "meaning_ko": "파편"
+      },
+      {
+        "word": "remains",
+        "meaning_ko": "잔해"
+      },
+      {
+        "word": "fragments",
+        "meaning_ko": "파편"
+      },
+      {
+        "word": "waste",
+        "meaning_ko": "쓰레기"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rubble",
+        "meaning_ko": "잔해"
+      },
+      {
+        "word": "wreckage",
+        "meaning_ko": "파편"
+      },
+      {
+        "word": "remains",
+        "meaning_ko": "잔해"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "fragments",
+        "meaning_ko": "파편(일반적)"
+      },
+      {
+        "word": "waste",
+        "meaning_ko": "쓰레기(일반적)"
+      },
+      {
+        "word": "litter",
+        "meaning_ko": "쓰레기(일반적)"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "debris from",
+            "meaning_ko": "~에서 나온 잔해"
+          },
+          {
+            "phrase": "clear debris",
+            "meaning_ko": "잔해를 치우다"
+          },
+          {
+            "phrase": "storm debris",
+            "meaning_ko": "폭풍 잔해"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "space debris",
+            "meaning_ko": "우주 쓰레기"
+          },
+          {
+            "phrase": "debris field",
+            "meaning_ko": "잔해 지역"
+          },
+          {
+            "phrase": "remove debris",
+            "meaning_ko": "잔해를 제거하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "debris scattered",
+            "meaning_ko": "흩어진 잔해"
+          },
+          {
+            "phrase": "marine debris",
+            "meaning_ko": "해양 쓰레기"
+          },
+          {
+            "phrase": "debris removal",
+            "meaning_ko": "잔해 제거"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The debris from the explosion was scattered everywhere.",
+            "meaning_ko": "폭발에서 나온 잔해가 사방에 흩어져 있었다."
+          },
+          {
+            "sentence": "Workers cleared the debris from the road.",
+            "meaning_ko": "작업자들은 도로에서 잔해를 치웠다."
+          },
+          {
+            "sentence": "Storm debris blocked the street.",
+            "meaning_ko": "폭풍 잔해가 거리를 막았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Space debris poses a threat to satellites.",
+            "meaning_ko": "우주 쓰레기는 위성에 위협이 된다."
+          },
+          {
+            "sentence": "The debris field extended for miles.",
+            "meaning_ko": "그 잔해 지역은 수 마일에 걸쳐 확장되었다."
+          },
+          {
+            "sentence": "Emergency crews worked to remove debris from the site.",
+            "meaning_ko": "응급 대원들은 현장에서 잔해를 제거하기 위해 일했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The debris scattered across the landscape after the tornado required extensive cleanup efforts, with volunteers and professionals working together to restore the area.",
+            "meaning_ko": "토네이도 후 풍경에 흩어진 그 잔해는 광범위한 정리 노력을 요구했고, 자원봉사자들과 전문가들이 함께 그 지역을 복원하기 위해 일했다."
+          },
+          {
+            "sentence": "Marine debris, accumulating in ocean gyres, has become a global environmental crisis, affecting marine ecosystems and entering the food chain.",
+            "meaning_ko": "해양 소용돌이에 축적되는 해양 쓰레기는 전 세계적인 환경 위기가 되었고, 해양 생태계에 영향을 미치고 식품 사슬에 들어가고 있다."
+          },
+          {
+            "sentence": "The debris removal operation following the natural disaster involved coordination between multiple agencies and required specialized equipment to handle hazardous materials safely.",
+            "meaning_ko": "자연 재해 후의 잔해 제거 작업은 여러 기관 간의 조정을 포함했고, 위험 물질을 안전하게 처리하기 위해 전문 장비를 요구했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "debris는 '잔해/쓰레기'의 의미로, 'debris from/of + 명사', 'clear/remove debris' 같은 결합을 익혀두면 좋습니다. rubble(잔해), wreckage(파편)와 함께 외우면 좋습니다. 시험에서는 'space debris', 'storm debris', 'debris field' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "잔해",
+      "환경",
+      "뉴스",
+      "과학",
+      "일상"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'debris'.\n(A) building (B) scattered pieces of waste or remains (C) structure (D) foundation",
+            "a": "(B) scattered pieces of waste or remains",
+            "meaning_ko": "debris는 흩어진 쓰레기나 잔해 조각을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ from the explosion was scattered everywhere.",
+            "a": "debris",
+            "meaning_ko": "폭발에서 나온 잔해가 사방에 흩어져 있었다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: debris _____ the explosion? (from / in / at)",
+            "a": "from",
+            "meaning_ko": "debris from + 명사 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: Space _____ poses a threat. (debris / debrises / debris's)",
+            "a": "debris",
+            "meaning_ko": "불가산명사 debris가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'storm debris'.\n(A) storm building (B) storm rubble (C) storm structure (D) storm foundation",
+            "a": "(B) storm rubble",
+            "meaning_ko": "폭풍 잔해라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'debris': 'Workers cleared the rubble from the road.'",
+            "a": "Workers cleared the debris from the road.",
+            "meaning_ko": "잔해를 debris로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The debris scattered across the landscape _____.\n(A) required extensive cleanup efforts (B) was ignored (C) disappeared (D) solved itself",
+            "a": "(A) required extensive cleanup efforts",
+            "meaning_ko": "광범위한 정리 노력을 요구했다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'Marine debris have become a crisis.' (Fix the grammar.)",
+            "a": "Marine debris has become a crisis.",
+            "meaning_ko": "불가산명사이므로 단수 동사 has가 맞습니다."
+          },
+          {
+            "q": "Insert 'debris' naturally: 'The ______ removal operation involved coordination.'",
+            "a": "debris",
+            "meaning_ko": "잔해 제거 작업이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "endue",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To provide or endow someone with a quality, ability, or attribute; to invest with a gift or power.",
+        "definition_ko": "누군가에게 특성, 능력, 또는 속성을 제공하거나 부여하다; 선물이나 힘을 부여하다.",
+        "note": "격식 있는 문어로, 일상에서는 'endow'나 'provide'가 더 흔합니다."
+      }
+    ],
+    "concept": "누군가에게 특성, 능력, 또는 속성을 부여하거나 제공하는 행위.",
+    "etymology": "라틴어 induere(입히다)에서 유래했으며, in-(안으로) + duere(이끌다)의 결합입니다.",
+    "semanticExtension": "원래는 '입히다' 의미였으나, 현대에는 추상적 속성('endue with wisdom')으로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·문학 용어로, 일상에서는 거의 사용되지 않습니다.",
+    "grammarNotes": "타동사로 'endue + 명사 + with + 명사' 패턴이 가능합니다. 3인칭 단수는 endues입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~을 부여하다",
+        "example": "endue with wisdom"
+      }
+    ],
+    "requiredComplements": [
+      "endue + 명사 + with + 명사 (…에게 …을 부여하다)"
+    ],
+    "morphology": "라틴어 induere에서 유래했으며, in-(안으로) + duere(이끌다)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "endued",
+        "meaning_ko": "부여된(형용사)"
+      },
+      {
+        "word": "enduing",
+        "meaning_ko": "부여하는(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "endow",
+        "meaning_ko": "부여하다"
+      },
+      {
+        "word": "provide",
+        "meaning_ko": "제공하다"
+      },
+      {
+        "word": "invest",
+        "meaning_ko": "부여하다"
+      },
+      {
+        "word": "grant",
+        "meaning_ko": "수여하다"
+      },
+      {
+        "word": "bestow",
+        "meaning_ko": "수여하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "endow",
+        "meaning_ko": "부여하다"
+      },
+      {
+        "word": "provide",
+        "meaning_ko": "제공하다"
+      },
+      {
+        "word": "invest",
+        "meaning_ko": "부여하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "grant",
+        "meaning_ko": "수여하다(일반적)"
+      },
+      {
+        "word": "bestow",
+        "meaning_ko": "수여하다(일반적)"
+      },
+      {
+        "word": "equip",
+        "meaning_ko": "갖추게 하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deprive",
+        "meaning_ko": "박탈하다"
+      },
+      {
+        "word": "strip",
+        "meaning_ko": "벗기다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "endue with",
+            "meaning_ko": "~을 부여하다"
+          },
+          {
+            "phrase": "endue with wisdom",
+            "meaning_ko": "지혜를 부여하다"
+          },
+          {
+            "phrase": "endue with power",
+            "meaning_ko": "힘을 부여하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "endue with strength",
+            "meaning_ko": "힘을 부여하다"
+          },
+          {
+            "phrase": "endue with courage",
+            "meaning_ko": "용기를 부여하다"
+          },
+          {
+            "phrase": "endue with ability",
+            "meaning_ko": "능력을 부여하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "endue with authority",
+            "meaning_ko": "권위를 부여하다"
+          },
+          {
+            "phrase": "endue with virtue",
+            "meaning_ko": "덕을 부여하다"
+          },
+          {
+            "phrase": "endue with grace",
+            "meaning_ko": "은혜를 부여하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The teacher endued her students with wisdom.",
+            "meaning_ko": "그 교사는 그녀의 학생들에게 지혜를 부여했다."
+          },
+          {
+            "sentence": "The ceremony endued him with power.",
+            "meaning_ko": "그 의식은 그에게 힘을 부여했다."
+          },
+          {
+            "sentence": "They were endued with courage.",
+            "meaning_ko": "그들은 용기를 부여받았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The leader endued his followers with strength.",
+            "meaning_ko": "그 지도자는 그의 추종자들에게 힘을 부여했다."
+          },
+          {
+            "sentence": "The training endued them with the ability to succeed.",
+            "meaning_ko": "그 훈련은 그들에게 성공할 수 있는 능력을 부여했다."
+          },
+          {
+            "sentence": "The organization endued its members with authority.",
+            "meaning_ko": "그 조직은 그 구성원들에게 권위를 부여했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ancient ritual was believed to endue participants with virtue, transforming them through symbolic acts that connected them to divine forces.",
+            "meaning_ko": "그 고대 의식은 참가자들에게 덕을 부여한다고 믿어졌고, 그들을 신성한 힘에 연결하는 상징적 행위를 통해 그들을 변화시켰다."
+          },
+          {
+            "sentence": "The philosophical tradition endued its practitioners with grace, teaching them to approach life's challenges with equanimity and wisdom.",
+            "meaning_ko": "그 철학적 전통은 그 실천자들에게 은혜를 부여했고, 그들에게 평정과 지혜로 삶의 도전에 접근하도록 가르쳤다."
+          },
+          {
+            "sentence": "The educational system aimed to endue students with not just knowledge, but the moral authority to make ethical decisions in complex situations.",
+            "meaning_ko": "그 교육 체계는 학생들에게 단순히 지식뿐만 아니라 복잡한 상황에서 윤리적 결정을 내릴 수 있는 도덕적 권위를 부여하는 것을 목표로 했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "endue는 '부여하다'의 의미로, 'endue + 명사 + with + 명사' 패턴을 익혀두면 좋습니다. endow(부여하다)와 유사하지만 더 격식 있는 문어입니다. 시험에서는 'endue with wisdom/power/strength' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "부여",
+      "문학",
+      "격식",
+      "철학",
+      "교육"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'endue'.\n(A) to deprive (B) to provide with a quality or ability (C) to strip (D) to remove",
+            "a": "(B) to provide with a quality or ability",
+            "meaning_ko": "endue는 특성이나 능력을 제공하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The teacher _____ her students with wisdom.",
+            "a": "endued",
+            "meaning_ko": "학생들에게 지혜를 부여했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: endue _____ wisdom? (with / in / at)",
+            "a": "with",
+            "meaning_ko": "endue with + 명사 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The training _____ them with ability. (endue / endues / enduing)",
+            "a": "endued",
+            "meaning_ko": "과거형 endued가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'endue with power'.\n(A) deprive of power (B) endow with power (C) strip of power (D) remove power",
+            "a": "(B) endow with power",
+            "meaning_ko": "힘을 부여한다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'endue': 'The ceremony endowed him with authority.'",
+            "a": "The ceremony endued him with authority.",
+            "meaning_ko": "권위를 부여한다는 것을 endue로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The ritual was believed to endue participants with virtue _____.\n(A) transforming them through symbolic acts (B) ignoring everything (C) avoiding change (D) creating problems",
+            "a": "(A) transforming them through symbolic acts",
+            "meaning_ko": "상징적 행위를 통해 그들을 변화시킨다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The tradition endue practitioners with grace.' (Fix the grammar.)",
+            "a": "The tradition endued practitioners with grace.",
+            "meaning_ko": "과거형 endued가 맞습니다."
+          },
+          {
+            "q": "Insert 'endue' naturally: 'The system aimed to ______ students with moral authority.'",
+            "a": "endue",
+            "meaning_ko": "학생들에게 도덕적 권위를 부여한다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lethargic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Affected by lethargy; sluggish and apathetic; lacking energy or enthusiasm.",
+        "definition_ko": "무기력에 영향을 받은; 느리고 무관심한; 에너지나 열정이 부족한.",
+        "note": "활동이나 반응이 느리고 무기력한 상태를 강조합니다."
+      }
+    ],
+    "concept": "에너지나 열정이 부족하여 느리고 무기력한 상태.",
+    "etymology": "그리스어 lethargia(무기력)에서 유래했으며, lethe(망각) + argia(활동 없음)의 결합입니다.",
+    "semanticExtension": "원래는 의학 용어였으나, 현대에는 일반적인 무기력('lethargic response', 'lethargic economy')으로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·의학·비즈니스 용어로, 일상에서는 'sluggish'나 'tired'가 더 흔합니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능하며, 'lethargic + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "lethargic + 명사 (무기력한 …)"
+    ],
+    "morphology": "그리스어 lethargia에서 유래했으며, lethe(망각) + argia(활동 없음)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "lethargy",
+        "meaning_ko": "무기력(명사)"
+      },
+      {
+        "word": "lethargically",
+        "meaning_ko": "무기력하게(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "sluggish",
+        "meaning_ko": "느린"
+      },
+      {
+        "word": "apathetic",
+        "meaning_ko": "무관심한"
+      },
+      {
+        "word": "listless",
+        "meaning_ko": "무기력한"
+      },
+      {
+        "word": "tired",
+        "meaning_ko": "피곤한"
+      },
+      {
+        "word": "drowsy",
+        "meaning_ko": "졸린"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "sluggish",
+        "meaning_ko": "느린"
+      },
+      {
+        "word": "apathetic",
+        "meaning_ko": "무관심한"
+      },
+      {
+        "word": "listless",
+        "meaning_ko": "무기력한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "tired",
+        "meaning_ko": "피곤한(일반적)"
+      },
+      {
+        "word": "drowsy",
+        "meaning_ko": "졸린(일반적)"
+      },
+      {
+        "word": "inactive",
+        "meaning_ko": "비활동적인(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "energetic",
+        "meaning_ko": "활기찬"
+      },
+      {
+        "word": "active",
+        "meaning_ko": "활동적인"
+      },
+      {
+        "word": "vigorous",
+        "meaning_ko": "활발한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "lethargic feeling",
+            "meaning_ko": "무기력한 느낌"
+          },
+          {
+            "phrase": "feel lethargic",
+            "meaning_ko": "무기력하게 느끼다"
+          },
+          {
+            "phrase": "lethargic state",
+            "meaning_ko": "무기력한 상태"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "lethargic response",
+            "meaning_ko": "무기력한 반응"
+          },
+          {
+            "phrase": "lethargic economy",
+            "meaning_ko": "무기력한 경제"
+          },
+          {
+            "phrase": "lethargic behavior",
+            "meaning_ko": "무기력한 행동"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "lethargic performance",
+            "meaning_ko": "무기력한 성과"
+          },
+          {
+            "phrase": "lethargic market",
+            "meaning_ko": "무기력한 시장"
+          },
+          {
+            "phrase": "lethargic recovery",
+            "meaning_ko": "무기력한 회복"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She felt lethargic after the long journey.",
+            "meaning_ko": "그녀는 긴 여행 후 무기력하게 느꼈다."
+          },
+          {
+            "sentence": "The patient was in a lethargic state.",
+            "meaning_ko": "그 환자는 무기력한 상태에 있었다."
+          },
+          {
+            "sentence": "The hot weather made everyone lethargic.",
+            "meaning_ko": "더운 날씨가 모든 사람을 무기력하게 만들었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The lethargic response to the crisis worried officials.",
+            "meaning_ko": "그 위기에 대한 무기력한 반응은 공무원들을 걱정시켰다."
+          },
+          {
+            "sentence": "The lethargic economy showed no signs of improvement.",
+            "meaning_ko": "그 무기력한 경제는 개선의 징후를 보이지 않았다."
+          },
+          {
+            "sentence": "His lethargic behavior concerned his family.",
+            "meaning_ko": "그의 무기력한 행동은 그의 가족을 걱정시켰다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The lethargic performance of the stock market reflected broader economic uncertainties, with investors remaining cautious despite positive indicators.",
+            "meaning_ko": "주식 시장의 무기력한 성과는 더 넓은 경제적 불확실성을 반영했고, 투자자들은 긍정적 지표에도 불구하고 신중하게 남아 있었다."
+          },
+          {
+            "sentence": "The lethargic recovery from the recession has been attributed to structural issues in the labor market and reduced consumer confidence.",
+            "meaning_ko": "그 불경기에서의 무기력한 회복은 노동 시장의 구조적 문제와 감소한 소비자 신뢰에 기인한 것으로 여겨진다."
+          },
+          {
+            "sentence": "The lethargic market response to the new product launch surprised analysts, who had expected more enthusiasm from consumers.",
+            "meaning_ko": "새로운 제품 출시에 대한 무기력한 시장 반응은 분석가들을 놀라게 했고, 그들은 소비자들로부터 더 많은 열정을 기대했었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "lethargic는 '무기력한' 의미로, 'feel lethargic', 'lethargic state/response/economy' 같은 결합을 익혀두면 좋습니다. lethargy(무기력)와 함께 외우면 좋습니다. 시험에서는 'lethargic response', 'lethargic economy', 'lethargic performance' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "무기력",
+      "의학",
+      "비즈니스",
+      "경제",
+      "일상"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'lethargic'.\n(A) energetic (B) lacking energy or enthusiasm (C) active (D) vigorous",
+            "a": "(B) lacking energy or enthusiasm",
+            "meaning_ko": "lethargic는 에너지나 열정이 부족한 것입니다."
+          },
+          {
+            "q": "Fill in the blank: She felt _____ after the long journey.",
+            "a": "lethargic",
+            "meaning_ko": "긴 여행 후 무기력하게 느꼈다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is an antonym of 'lethargic'?\n(A) sluggish (B) energetic (C) apathetic (D) listless",
+            "a": "(B) energetic",
+            "meaning_ko": "energetic는 lethargic의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ response worried officials. (lethargic / lethargy / lethargically)",
+            "a": "lethargic",
+            "meaning_ko": "lethargic response(무기력한 반응) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'lethargic economy'.\n(A) energetic economy (B) sluggish economy (C) active economy (D) vigorous economy",
+            "a": "(B) sluggish economy",
+            "meaning_ko": "무기력한 경제라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'lethargic': 'The economy was sluggish and showed no improvement.'",
+            "a": "The lethargic economy showed no improvement.",
+            "meaning_ko": "느리고 무기력한 경제를 lethargic로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The lethargic performance of the market _____.\n(A) reflected broader economic uncertainties (B) showed improvement (C) solved problems (D) created enthusiasm",
+            "a": "(A) reflected broader economic uncertainties",
+            "meaning_ko": "더 넓은 경제적 불확실성을 반영했다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The lethargic recovery have been attributed to issues.' (Fix the grammar.)",
+            "a": "The lethargic recovery has been attributed to issues.",
+            "meaning_ko": "단수 주어이므로 has가 맞습니다."
+          },
+          {
+            "q": "Insert 'lethargic' naturally: 'The ______ market response surprised analysts.'",
+            "a": "lethargic",
+            "meaning_ko": "무기력한 시장 반응이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+
