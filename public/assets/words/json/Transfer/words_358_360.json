@@ -1,0 +1,859 @@
+[
+  {
+    "word": "generous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Showing a readiness to give more of something, especially money or time, than is strictly necessary or expected; showing kindness and willingness to give.",
+        "definition_ko": "필요하거나 기대되는 것보다 더 많이 주는 것을 보여주는, 특히 돈이나 시간을; 친절함과 기꺼이 주는 의지를 보여주는.",
+        "note": "관대하고 아낌없이 주는 것을 강조합니다."
+      },
+      {
+        "definition_en": "Larger or more plentiful than is usual or necessary.",
+        "definition_ko": "일반적이거나 필요한 것보다 더 크거나 풍부한.",
+        "note": "양이나 크기가 풍부한 것을 의미합니다."
+      }
+    ],
+    "concept": "아낌없이 주거나 풍부한 양을 보여주는 상태.",
+    "etymology": "라틴어 generosus(고귀한, 관대한)에서 유래했으며, genus(종족, 출신)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 '고귀한 출신' 의미였으나, 현대에는 '관대한'('generous person', 'generous amount')로 확장되었습니다.",
+    "nuanceRegister": "일상·비즈니스·문학 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~에 관대한",
+        "example": "generous with money"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 관대한",
+        "example": "generous to others"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 관대한",
+        "example": "generous in giving"
+      }
+    ],
+    "requiredComplements": [
+      "generous + 명사 (관대한 …)",
+      "generous with/to/in + 명사 (…에/에게/에서 관대한)"
+    ],
+    "morphology": "라틴어 generosus에서 유래했으며, genus(종족, 출신)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "generously",
+        "meaning_ko": "관대하게(부사)"
+      },
+      {
+        "word": "generosity",
+        "meaning_ko": "관대함(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "kind",
+        "meaning_ko": "친절한"
+      },
+      {
+        "word": "charitable",
+        "meaning_ko": "자선의"
+      },
+      {
+        "word": "bountiful",
+        "meaning_ko": "풍부한"
+      },
+      {
+        "word": "liberal",
+        "meaning_ko": "관대한"
+      },
+      {
+        "word": "magnanimous",
+        "meaning_ko": "관대한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "charitable",
+        "meaning_ko": "자선의"
+      },
+      {
+        "word": "bountiful",
+        "meaning_ko": "풍부한"
+      },
+      {
+        "word": "liberal",
+        "meaning_ko": "관대한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "kind",
+        "meaning_ko": "친절한(일반적)"
+      },
+      {
+        "word": "magnanimous",
+        "meaning_ko": "관대한(일반적)"
+      },
+      {
+        "word": "munificent",
+        "meaning_ko": "관대한(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stingy",
+        "meaning_ko": "인색한"
+      },
+      {
+        "word": "selfish",
+        "meaning_ko": "이기적인"
+      },
+      {
+        "word": "mean",
+        "meaning_ko": "인색한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "generous person",
+            "meaning_ko": "관대한 사람"
+          },
+          {
+            "phrase": "generous amount",
+            "meaning_ko": "풍부한 양"
+          },
+          {
+            "phrase": "generous with",
+            "meaning_ko": "~에 관대한"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "generous donation",
+            "meaning_ko": "관대한 기부"
+          },
+          {
+            "phrase": "generous offer",
+            "meaning_ko": "관대한 제안"
+          },
+          {
+            "phrase": "generous to others",
+            "meaning_ko": "다른 사람에게 관대한"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "generous in giving",
+            "meaning_ko": "주는 것에서 관대한"
+          },
+          {
+            "phrase": "generous portion",
+            "meaning_ko": "풍부한 분량"
+          },
+          {
+            "phrase": "generous spirit",
+            "meaning_ko": "관대한 정신"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She is a generous person.",
+            "meaning_ko": "그녀는 관대한 사람이다."
+          },
+          {
+            "sentence": "He gave a generous amount of money.",
+            "meaning_ko": "그는 풍부한 양의 돈을 주었다."
+          },
+          {
+            "sentence": "They are generous with their time.",
+            "meaning_ko": "그들은 그들의 시간에 관대하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The generous donation helped many families.",
+            "meaning_ko": "그 관대한 기부는 많은 가족들을 도왔다."
+          },
+          {
+            "sentence": "She made a generous offer to help.",
+            "meaning_ko": "그녀는 도움을 주기 위해 관대한 제안을 했다."
+          },
+          {
+            "sentence": "He is generous to others in need.",
+            "meaning_ko": "그는 필요한 다른 사람들에게 관대하다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The philanthropist was generous in giving, not only contributing substantial financial resources but also dedicating countless hours to mentoring young entrepreneurs who lacked access to professional guidance.",
+            "meaning_ko": "그 박애주의자는 주는 것에서 관대했고, 상당한 재정적 자원을 기부할 뿐만 아니라 전문적인 지도를 받을 기회가 없는 젊은 기업가들을 멘토링하는 데 수많은 시간을 바쳤다."
+          },
+          {
+            "sentence": "The restaurant served generous portions that satisfied even the heartiest appetites, ensuring that every customer left feeling both physically and emotionally nourished.",
+            "meaning_ko": "그 레스토랑은 가장 큰 식욕을 가진 사람들조차 만족시키는 풍부한 분량을 제공했고, 모든 고객이 신체적으로뿐만 아니라 정서적으로도 영양을 공급받은 느낌으로 떠나도록 보장했다."
+          },
+          {
+            "sentence": "Her generous spirit, manifested through countless acts of kindness and unwavering support for those facing adversity, became a beacon of hope in a community that had long struggled with economic hardship.",
+            "meaning_ko": "수많은 친절한 행동과 역경에 직면한 사람들에 대한 변함없는 지지를 통해 나타난 그녀의 관대한 정신은 오랫동안 경제적 어려움으로 고생해 온 지역사회에서 희망의 등대가 되었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "generous는 '관대한/풍부한'의 의미로, 'generous person/amount', 'generous with/to/in + 명사' 같은 결합을 익혀두면 좋습니다. generosity(관대함)와 함께 외우면 좋습니다. 시험에서는 'generous with', 'generous donation', 'generous offer' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "관대",
+      "일상",
+      "비즈니스",
+      "사회",
+      "감정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'generous'.\n(A) stingy (B) showing a readiness to give more than expected (C) selfish (D) mean",
+            "a": "(B) showing a readiness to give more than expected",
+            "meaning_ko": "generous는 기대되는 것보다 더 많이 주는 것을 보여주는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: She is a _____ person.",
+            "a": "generous",
+            "meaning_ko": "관대한 사람이라는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'to give freely'?\n(A) generous with (B) stingy with (C) selfish with (D) mean with",
+            "a": "(A) generous with",
+            "meaning_ko": "generous with는 ~에 관대하다는 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ donation helped many families. (generous / generously / generosity)",
+            "a": "generous",
+            "meaning_ko": "generous donation(관대한 기부) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'generous offer'.\n(A) stingy offer (B) charitable offer (C) selfish offer (D) mean offer",
+            "a": "(B) charitable offer",
+            "meaning_ko": "관대한 제안이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'generous': 'He gave a large amount of money.'",
+            "a": "He gave a generous amount of money.",
+            "meaning_ko": "풍부한 양의 돈을 generous amount로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The philanthropist was generous in giving _____.\n(A) not only contributing resources but also dedicating time (B) avoiding contributions (C) being selfish (D) being mean",
+            "a": "(A) not only contributing resources but also dedicating time",
+            "meaning_ko": "자원을 기부할 뿐만 아니라 시간을 바쳤다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The restaurant serve generous portions.' (Fix the grammar.)",
+            "a": "The restaurant served generous portions.",
+            "meaning_ko": "과거형 served가 맞습니다."
+          },
+          {
+            "q": "Insert 'generous' naturally: 'Her ______ spirit became a beacon of hope.'",
+            "a": "generous",
+            "meaning_ko": "관대한 정신이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rampant",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Growing or spreading unchecked; flourishing or spreading in an uncontrolled manner; unrestrained.",
+        "definition_ko": "억제되지 않고 자라거나 퍼지는; 통제되지 않은 방식으로 번성하거나 퍼지는; 억제되지 않은.",
+        "note": "통제되지 않고 퍼지는 것을 강조합니다."
+      },
+      {
+        "definition_en": "In heraldry, standing on the hind legs with the forelegs raised.",
+        "definition_ko": "문장학에서, 뒷다리로 서서 앞다리를 올린 자세의.",
+        "note": "문장학 용어로 사용됩니다."
+      }
+    ],
+    "concept": "통제되지 않고 퍼지거나 번성하는 상태.",
+    "etymology": "프랑스어 rampant(기어오르는)에서 유래했으며, ramper(기어오르다)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 '기어오르는' 의미였으나, 현대에는 '통제되지 않고 퍼지는'('rampant corruption', 'rampant inflation')로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·학술·비즈니스 용어로, 일상에서는 거의 사용되지 않습니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "rampant + 명사 (통제되지 않고 퍼지는 …)"
+    ],
+    "morphology": "프랑스어 rampant에서 유래했으며, ramper(기어오르다)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "rampantly",
+        "meaning_ko": "통제되지 않게(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "uncontrolled",
+        "meaning_ko": "통제되지 않은"
+      },
+      {
+        "word": "widespread",
+        "meaning_ko": "광범위한"
+      },
+      {
+        "word": "unrestrained",
+        "meaning_ko": "억제되지 않은"
+      },
+      {
+        "word": "prevalent",
+        "meaning_ko": "널리 퍼진"
+      },
+      {
+        "word": "epidemic",
+        "meaning_ko": "유행하는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "uncontrolled",
+        "meaning_ko": "통제되지 않은"
+      },
+      {
+        "word": "unrestrained",
+        "meaning_ko": "억제되지 않은"
+      },
+      {
+        "word": "widespread",
+        "meaning_ko": "광범위한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "prevalent",
+        "meaning_ko": "널리 퍼진(일반적)"
+      },
+      {
+        "word": "epidemic",
+        "meaning_ko": "유행하는(일반적)"
+      },
+      {
+        "word": "rife",
+        "meaning_ko": "널리 퍼진(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "controlled",
+        "meaning_ko": "통제된"
+      },
+      {
+        "word": "restrained",
+        "meaning_ko": "억제된"
+      },
+      {
+        "word": "limited",
+        "meaning_ko": "제한된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "rampant corruption",
+            "meaning_ko": "만연한 부패"
+          },
+          {
+            "phrase": "rampant inflation",
+            "meaning_ko": "급등하는 인플레이션"
+          },
+          {
+            "phrase": "rampant crime",
+            "meaning_ko": "만연한 범죄"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "rampant disease",
+            "meaning_ko": "만연한 질병"
+          },
+          {
+            "phrase": "rampant speculation",
+            "meaning_ko": "만연한 투기"
+          },
+          {
+            "phrase": "rampant growth",
+            "meaning_ko": "통제되지 않은 성장"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "rampant that threatens",
+            "meaning_ko": "위협하는 만연한"
+          },
+          {
+            "phrase": "rampant throughout",
+            "meaning_ko": "전역에 만연한"
+          },
+          {
+            "phrase": "rampant speculation that",
+            "meaning_ko": "~라는 만연한 투기"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Corruption was rampant in the government.",
+            "meaning_ko": "부패는 정부에서 만연했다."
+          },
+          {
+            "sentence": "Inflation is rampant in the economy.",
+            "meaning_ko": "인플레이션은 경제에서 급등하고 있다."
+          },
+          {
+            "sentence": "Crime is rampant in the city.",
+            "meaning_ko": "범죄는 그 도시에서 만연하다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The disease was rampant throughout the region.",
+            "meaning_ko": "그 질병은 그 지역 전역에 만연했다."
+          },
+          {
+            "sentence": "Rampant speculation caused market instability.",
+            "meaning_ko": "만연한 투기는 시장 불안정을 야기했다."
+          },
+          {
+            "sentence": "The rampant growth of technology changed society.",
+            "meaning_ko": "통제되지 않은 기술의 성장은 사회를 변화시켰다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The corruption that was rampant throughout the government threatened to undermine the very foundations of democratic institutions, requiring immediate and comprehensive reform measures.",
+            "meaning_ko": "정부 전역에 만연했던 그 부패는 민주적 제도의 기초 자체를 훼손할 위협이 되었고, 즉각적이고 포괄적인 개혁 조치를 요구했다."
+          },
+          {
+            "sentence": "Rampant speculation in the housing market, driven by unrealistic expectations and easy credit, created a bubble that eventually burst, leaving countless families in financial distress.",
+            "meaning_ko": "비현실적인 기대와 쉬운 신용에 의해 추진된 주택 시장에서의 만연한 투기는 결국 터진 거품을 만들어냈고, 수많은 가족들을 재정적 곤경에 빠뜨렸다."
+          },
+          {
+            "sentence": "The rampant spread of misinformation through social media platforms has become a critical challenge for modern democracies, necessitating new strategies to ensure the integrity of public discourse.",
+            "meaning_ko": "소셜 미디어 플랫폼을 통한 잘못된 정보의 만연한 확산은 현대 민주주의에 대한 중요한 도전이 되었고, 공적 담론의 무결성을 보장하기 위한 새로운 전략을 필요로 한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "rampant는 '통제되지 않고 퍼지는'의 의미로, 'rampant corruption/inflation/crime', 'rampant throughout' 같은 결합을 익혀두면 좋습니다. uncontrolled, widespread와 유사하지만 더 격식 있는 문어입니다. 시험에서는 'rampant corruption', 'rampant inflation', 'rampant throughout' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "통제",
+      "학술",
+      "비즈니스",
+      "사회",
+      "경제"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'rampant'.\n(A) controlled (B) growing or spreading unchecked (C) restrained (D) limited",
+            "a": "(B) growing or spreading unchecked",
+            "meaning_ko": "rampant는 억제되지 않고 자라거나 퍼지는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: Corruption was _____ in the government.",
+            "a": "rampant",
+            "meaning_ko": "정부에서 만연했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'rampant'?\n(A) controlled (B) uncontrolled (C) restrained (D) limited",
+            "a": "(B) uncontrolled",
+            "meaning_ko": "uncontrolled는 rampant의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The disease was _____ throughout the region. (rampant / rampantly / rampancy)",
+            "a": "rampant",
+            "meaning_ko": "rampant throughout(전역에 만연한) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'rampant corruption'.\n(A) controlled corruption (B) widespread corruption (C) restrained corruption (D) limited corruption",
+            "a": "(B) widespread corruption",
+            "meaning_ko": "광범위한 부패라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'rampant': 'The crime was spreading uncontrollably in the city.'",
+            "a": "Crime was rampant in the city.",
+            "meaning_ko": "통제되지 않게 퍼지고 있다는 것을 rampant로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The corruption that was rampant throughout the government _____.\n(A) threatened to undermine institutions (B) was controlled (C) was restrained (D) was limited",
+            "a": "(A) threatened to undermine institutions",
+            "meaning_ko": "제도를 훼손할 위협이 되었다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'Rampant speculation in the housing market create a bubble.' (Fix the grammar.)",
+            "a": "Rampant speculation in the housing market created a bubble.",
+            "meaning_ko": "과거형 created가 맞습니다."
+          },
+          {
+            "q": "Insert 'rampant' naturally: 'The ______ spread of misinformation has become a critical challenge.'",
+            "a": "rampant",
+            "meaning_ko": "만연한 확산이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accentuate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To make something more prominent or noticeable; to emphasize or highlight.",
+        "definition_ko": "무언가를 더 두드러지게 하거나 눈에 띄게 만들다; 강조하거나 부각시키다.",
+        "note": "강조하거나 부각시키는 것을 의미합니다."
+      }
+    ],
+    "concept": "무언가를 더 두드러지게 하거나 강조하는 행위.",
+    "etymology": "라틴어 accentuare(강조하다)에서 유래했으며, accentus(강세)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 '강세를 두다' 의미였으나, 현대에는 '강조하다'('accentuate the problem', 'accentuate the difference')로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·학술·비즈니스 용어로, 일상에서는 'emphasize'나 'highlight'가 더 흔합니다.",
+    "grammarNotes": "타동사로 사용됩니다.",
+    "morphology": "라틴어 accentuare에서 유래했으며, accentus(강세)와 연관되어 있습니다. 3인칭 단수는 accentuates입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "accentuate + 명사 (…을 강조하다)"
+    ],
+    "derivatives": [
+      {
+        "word": "accentuation",
+        "meaning_ko": "강조(명사)"
+      },
+      {
+        "word": "accentuated",
+        "meaning_ko": "강조된(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "emphasize",
+        "meaning_ko": "강조하다"
+      },
+      {
+        "word": "highlight",
+        "meaning_ko": "부각시키다"
+      },
+      {
+        "word": "stress",
+        "meaning_ko": "강조하다"
+      },
+      {
+        "word": "underscore",
+        "meaning_ko": "강조하다"
+      },
+      {
+        "word": "accent",
+        "meaning_ko": "강조하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "emphasize",
+        "meaning_ko": "강조하다"
+      },
+      {
+        "word": "highlight",
+        "meaning_ko": "부각시키다"
+      },
+      {
+        "word": "stress",
+        "meaning_ko": "강조하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "underscore",
+        "meaning_ko": "강조하다(일반적)"
+      },
+      {
+        "word": "accent",
+        "meaning_ko": "강조하다(일반적)"
+      },
+      {
+        "word": "underline",
+        "meaning_ko": "강조하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "minimize",
+        "meaning_ko": "최소화하다"
+      },
+      {
+        "word": "downplay",
+        "meaning_ko": "축소하다"
+      },
+      {
+        "word": "de-emphasize",
+        "meaning_ko": "강조를 줄이다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "accentuate the problem",
+            "meaning_ko": "문제를 강조하다"
+          },
+          {
+            "phrase": "accentuate the difference",
+            "meaning_ko": "차이를 강조하다"
+          },
+          {
+            "phrase": "accentuate the importance",
+            "meaning_ko": "중요성을 강조하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "accentuate the need",
+            "meaning_ko": "필요성을 강조하다"
+          },
+          {
+            "phrase": "accentuate the contrast",
+            "meaning_ko": "대조를 강조하다"
+          },
+          {
+            "phrase": "accentuate the feature",
+            "meaning_ko": "특징을 강조하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "accentuate that",
+            "meaning_ko": "~라는 것을 강조하다"
+          },
+          {
+            "phrase": "accentuate the significance",
+            "meaning_ko": "의미를 강조하다"
+          },
+          {
+            "phrase": "accentuate the urgency",
+            "meaning_ko": "긴급성을 강조하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The report accentuated the problem.",
+            "meaning_ko": "그 보고서는 그 문제를 강조했다."
+          },
+          {
+            "sentence": "The lighting accentuated the difference.",
+            "meaning_ko": "그 조명은 그 차이를 강조했다."
+          },
+          {
+            "sentence": "She accentuated the importance of education.",
+            "meaning_ko": "그녀는 교육의 중요성을 강조했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The study accentuated the need for reform.",
+            "meaning_ko": "그 연구는 개혁의 필요성을 강조했다."
+          },
+          {
+            "sentence": "The design accentuated the contrast between colors.",
+            "meaning_ko": "그 디자인은 색상들 사이의 대조를 강조했다."
+          },
+          {
+            "sentence": "The speech accentuated the feature of the new product.",
+            "meaning_ko": "그 연설은 그 신제품의 특징을 강조했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The comprehensive analysis accentuated that the current economic policies, while achieving short-term stability, were fundamentally unsustainable and would require immediate structural adjustments to prevent long-term systemic collapse.",
+            "meaning_ko": "그 포괄적인 분석은 현재의 경제 정책들이 단기적 안정을 달성하면서도 근본적으로 지속 불가능하며 장기적인 체계적 붕괴를 방지하기 위해 즉각적인 구조적 조정이 필요하다는 것을 강조했다."
+          },
+          {
+            "sentence": "The architectural design accentuated the significance of natural light, not merely as an aesthetic element but as a crucial factor in creating spaces that enhance human well-being and productivity.",
+            "meaning_ko": "그 건축 디자인은 자연광의 의미를 강조했고, 단순히 미적 요소로서가 아니라 인간의 복지와 생산성을 향상시키는 공간을 만드는 데 중요한 요소로서 강조했다."
+          },
+          {
+            "sentence": "The emergency briefing accentuated the urgency of the situation, compelling all stakeholders to set aside their differences and collaborate immediately to address the crisis that threatened to affect millions of lives.",
+            "meaning_ko": "그 비상 브리핑은 상황의 긴급성을 강조했고, 모든 이해관계자들로 하여금 그들의 차이를 제쳐두고 수백만 명의 삶에 영향을 미칠 위협이 있는 그 위기를 해결하기 위해 즉시 협력하도록 강요했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "accentuate는 '강조하다'의 의미로, 'accentuate + 명사', 'accentuate the problem/difference/importance' 같은 결합을 익혀두면 좋습니다. emphasize, highlight와 유사하지만 더 격식 있는 문어입니다. 시험에서는 'accentuate the problem', 'accentuate the difference', 'accentuate the importance' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "강조",
+      "학술",
+      "비즈니스",
+      "문학",
+      "격식"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'accentuate'.\n(A) to minimize (B) to make something more prominent or noticeable (C) to downplay (D) to de-emphasize",
+            "a": "(B) to make something more prominent or noticeable",
+            "meaning_ko": "accentuate는 무언가를 더 두드러지게 하거나 눈에 띄게 만드는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The report _____ the problem.",
+            "a": "accentuated",
+            "meaning_ko": "문제를 강조했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'accentuate'?\n(A) minimize (B) emphasize (C) downplay (D) de-emphasize",
+            "a": "(B) emphasize",
+            "meaning_ko": "emphasize는 accentuate의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The study _____ the need for reform. (accentuate / accentuates / accentuated)",
+            "a": "accentuated",
+            "meaning_ko": "과거형 accentuated가 맞습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'accentuate the difference'.\n(A) minimize the difference (B) highlight the difference (C) downplay the difference (D) de-emphasize the difference",
+            "a": "(B) highlight the difference",
+            "meaning_ko": "차이를 부각시키다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'accentuate': 'The lighting emphasized the difference.'",
+            "a": "The lighting accentuated the difference.",
+            "meaning_ko": "차이를 강조했다는 것을 accentuate로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The analysis accentuated that the current policies _____.\n(A) were fundamentally unsustainable (B) were perfect (C) were simple (D) were easy",
+            "a": "(A) were fundamentally unsustainable",
+            "meaning_ko": "근본적으로 지속 불가능했다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The design accentuate the contrast between colors.' (Fix the grammar.)",
+            "a": "The design accentuated the contrast between colors.",
+            "meaning_ko": "과거형 accentuated가 맞습니다."
+          },
+          {
+            "q": "Insert 'accentuate' naturally: 'The briefing ______ the urgency of the situation.'",
+            "a": "accentuated",
+            "meaning_ko": "상황의 긴급성을 강조했다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+

@@ -1,0 +1,842 @@
+[
+  {
+    "word": "discreet",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Careful and prudent in one's speech or actions, especially in order to keep something confidential or to avoid embarrassment; intentionally unobtrusive.",
+        "definition_ko": "말이나 행동에서 신중하고 조심스러운, 특히 무언가를 기밀로 유지하거나 당황을 피하기 위해; 의도적으로 눈에 띄지 않는.",
+        "note": "신중하고 조심스러워서 기밀을 유지하거나 당황을 피하는 것을 강조합니다."
+      }
+    ],
+    "concept": "신중하고 조심스러워서 기밀을 유지하거나 당황을 피하는 상태.",
+    "etymology": "라틴어 discretus(구별된)에서 유래했으며, dis-(분리) + cernere(구별하다)의 결합입니다.",
+    "semanticExtension": "원래는 '구별된' 의미였으나, 현대에는 '신중한'('discreet inquiry', 'discreet behavior')로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·비즈니스 용어로, 일상에서도 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능하며, 'discreet + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "discreet + 명사 (신중한 …)"
+    ],
+    "morphology": "라틴어 discretus에서 유래했으며, dis-(분리) + cernere(구별하다)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "discreetly",
+        "meaning_ko": "신중하게(부사)"
+      },
+      {
+        "word": "discretion",
+        "meaning_ko": "신중함(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "careful",
+        "meaning_ko": "신중한"
+      },
+      {
+        "word": "prudent",
+        "meaning_ko": "신중한"
+      },
+      {
+        "word": "tactful",
+        "meaning_ko": "재치 있는"
+      },
+      {
+        "word": "cautious",
+        "meaning_ko": "조심스러운"
+      },
+      {
+        "word": "unobtrusive",
+        "meaning_ko": "눈에 띄지 않는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "careful",
+        "meaning_ko": "신중한"
+      },
+      {
+        "word": "prudent",
+        "meaning_ko": "신중한"
+      },
+      {
+        "word": "tactful",
+        "meaning_ko": "재치 있는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "cautious",
+        "meaning_ko": "조심스러운(일반적)"
+      },
+      {
+        "word": "unobtrusive",
+        "meaning_ko": "눈에 띄지 않는(일반적)"
+      },
+      {
+        "word": "diplomatic",
+        "meaning_ko": "외교적인(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "indiscreet",
+        "meaning_ko": "신중하지 않은"
+      },
+      {
+        "word": "careless",
+        "meaning_ko": "부주의한"
+      },
+      {
+        "word": "tactless",
+        "meaning_ko": "재치 없는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "discreet inquiry",
+            "meaning_ko": "신중한 문의"
+          },
+          {
+            "phrase": "discreet behavior",
+            "meaning_ko": "신중한 행동"
+          },
+          {
+            "phrase": "be discreet",
+            "meaning_ko": "신중하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "discreet manner",
+            "meaning_ko": "신중한 방식"
+          },
+          {
+            "phrase": "discreet investigation",
+            "meaning_ko": "신중한 조사"
+          },
+          {
+            "phrase": "discreet approach",
+            "meaning_ko": "신중한 접근"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "discreet silence",
+            "meaning_ko": "신중한 침묵"
+          },
+          {
+            "phrase": "discreet observation",
+            "meaning_ko": "신중한 관찰"
+          },
+          {
+            "phrase": "discreet handling",
+            "meaning_ko": "신중한 처리"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She made a discreet inquiry about the job.",
+            "meaning_ko": "그녀는 그 일자리에 대해 신중한 문의를 했다."
+          },
+          {
+            "sentence": "Please be discreet about this matter.",
+            "meaning_ko": "이 문제에 대해 신중해 주세요."
+          },
+          {
+            "sentence": "His discreet behavior avoided embarrassment.",
+            "meaning_ko": "그의 신중한 행동은 당황을 피했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The investigation was conducted in a discreet manner.",
+            "meaning_ko": "그 조사는 신중한 방식으로 수행되었다."
+          },
+          {
+            "sentence": "She handled the situation with a discreet approach.",
+            "meaning_ko": "그녀는 신중한 접근으로 그 상황을 처리했다."
+          },
+          {
+            "sentence": "The discreet observation revealed important details.",
+            "meaning_ko": "그 신중한 관찰은 중요한 세부사항을 드러냈다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The discreet silence maintained by all parties during the negotiations prevented sensitive information from leaking to the media.",
+            "meaning_ko": "협상 중 모든 당사자들에 의해 유지된 신중한 침묵은 민감한 정보가 미디어에 유출되는 것을 방지했다."
+          },
+          {
+            "sentence": "The discreet handling of the crisis by the management team demonstrated their professionalism and prevented potential damage to the company's reputation.",
+            "meaning_ko": "경영진에 의한 그 위기의 신중한 처리는 그들의 전문성을 보여주었고, 회사의 명성에 대한 잠재적 손상을 방지했다."
+          },
+          {
+            "sentence": "Her discreet observation of the social dynamics allowed her to navigate the complex relationships without causing offense or drawing unwanted attention.",
+            "meaning_ko": "사회적 역학에 대한 그녀의 신중한 관찰은 그녀로 하여금 불쾌감을 주거나 원하지 않는 주의를 끌지 않고 복잡한 관계를 탐색할 수 있게 했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "discreet는 '신중한' 의미로, 'discreet inquiry/behavior', 'be discreet', 'discreet manner/approach' 같은 결합을 익혀두면 좋습니다. discretion(신중함)과 함께 외우면 좋습니다. discrete(별개의)와 혼동하지 않도록 주의해야 합니다. 시험에서는 'be discreet', 'discreet inquiry', 'discreet manner' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "신중",
+      "비즈니스",
+      "일상",
+      "관계",
+      "태도"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'discreet'.\n(A) careless (B) careful and prudent in speech or actions (C) tactless (D) indiscreet",
+            "a": "(B) careful and prudent in speech or actions",
+            "meaning_ko": "discreet는 말이나 행동에서 신중하고 조심스러운 것입니다."
+          },
+          {
+            "q": "Fill in the blank: Please be _____ about this matter.",
+            "a": "discreet",
+            "meaning_ko": "이 문제에 대해 신중해 달라는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is an antonym of 'discreet'?\n(A) careful (B) indiscreet (C) prudent (D) tactful",
+            "a": "(B) indiscreet",
+            "meaning_ko": "indiscreet는 discreet의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The investigation was conducted in a _____ manner. (discreet / discreetly / discretion)",
+            "a": "discreet",
+            "meaning_ko": "discreet manner(신중한 방식) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'discreet behavior'.\n(A) careless behavior (B) careful behavior (C) tactless behavior (D) indiscreet behavior",
+            "a": "(B) careful behavior",
+            "meaning_ko": "신중한 행동이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'discreet': 'She handled the situation carefully.'",
+            "a": "She handled the situation in a discreet manner.",
+            "meaning_ko": "신중하게 처리한다는 것을 discreet로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The discreet silence maintained by all parties _____.\n(A) prevented sensitive information from leaking (B) caused problems (C) created confusion (D) ignored everything",
+            "a": "(A) prevented sensitive information from leaking",
+            "meaning_ko": "민감한 정보가 유출되는 것을 방지했다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The discreet handling have demonstrated professionalism.' (Fix the grammar.)",
+            "a": "The discreet handling has demonstrated professionalism.",
+            "meaning_ko": "단수 주어이므로 has가 맞습니다."
+          },
+          {
+            "q": "Insert 'discreet' naturally: 'Her ______ observation allowed her to navigate relationships.'",
+            "a": "discreet",
+            "meaning_ko": "신중한 관찰이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vitiate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To spoil or impair the quality or efficiency of; to make invalid or ineffective; to corrupt morally.",
+        "definition_ko": "품질이나 효율성을 손상시키거나 훼손하다; 무효하게 하거나 비효과적으로 만들다; 도덕적으로 타락시키다.",
+        "note": "격식 있는 문어로, 일상에서는 'spoil'이나 'impair'가 더 흔합니다."
+      }
+    ],
+    "concept": "품질이나 효율성을 손상시키거나 무효하게 만드는 행위.",
+    "etymology": "라틴어 vitiare(손상시키다)에서 유래했으며, vitium(결함)과 연관되어 있습니다.",
+    "semanticExtension": "원래는 '결함을 만들다' 의미였으나, 현대에는 추상적 손상('vitiate the argument', 'vitiate the contract')으로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·법률·학술 용어로, 일상에서는 거의 사용되지 않습니다.",
+    "grammarNotes": "타동사로 'vitiate + 명사' 패턴이 가능합니다. 3인칭 단수는 vitiates입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "vitiate + 명사 (…을 손상시키다)"
+    ],
+    "morphology": "라틴어 vitiare에서 유래했으며, vitium(결함)과 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "vitiated",
+        "meaning_ko": "손상된(형용사)"
+      },
+      {
+        "word": "vitiation",
+        "meaning_ko": "손상(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "spoil",
+        "meaning_ko": "손상시키다"
+      },
+      {
+        "word": "impair",
+        "meaning_ko": "훼손하다"
+      },
+      {
+        "word": "corrupt",
+        "meaning_ko": "타락시키다"
+      },
+      {
+        "word": "undermine",
+        "meaning_ko": "훼손하다"
+      },
+      {
+        "word": "invalid",
+        "meaning_ko": "무효한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "spoil",
+        "meaning_ko": "손상시키다"
+      },
+      {
+        "word": "impair",
+        "meaning_ko": "훼손하다"
+      },
+      {
+        "word": "undermine",
+        "meaning_ko": "훼손하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "corrupt",
+        "meaning_ko": "타락시키다(일반적)"
+      },
+      {
+        "word": "invalidate",
+        "meaning_ko": "무효화하다(일반적)"
+      },
+      {
+        "word": "weaken",
+        "meaning_ko": "약화시키다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "strengthen",
+        "meaning_ko": "강화하다"
+      },
+      {
+        "word": "validate",
+        "meaning_ko": "유효화하다"
+      },
+      {
+        "word": "improve",
+        "meaning_ko": "개선하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "vitiate the argument",
+            "meaning_ko": "논증을 손상시키다"
+          },
+          {
+            "phrase": "vitiate the contract",
+            "meaning_ko": "계약을 무효화하다"
+          },
+          {
+            "phrase": "vitiate the effect",
+            "meaning_ko": "효과를 손상시키다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "vitiate the validity",
+            "meaning_ko": "타당성을 손상시키다"
+          },
+          {
+            "phrase": "vitiate the agreement",
+            "meaning_ko": "협정을 무효화하다"
+          },
+          {
+            "phrase": "vitiate the purpose",
+            "meaning_ko": "목적을 손상시키다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "vitiate the integrity",
+            "meaning_ko": "무결성을 손상시키다"
+          },
+          {
+            "phrase": "vitiate completely",
+            "meaning_ko": "완전히 손상시키다"
+          },
+          {
+            "phrase": "vitiate the credibility",
+            "meaning_ko": "신뢰성을 손상시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The error vitiated the argument.",
+            "meaning_ko": "그 오류는 그 논증을 손상시켰다."
+          },
+          {
+            "sentence": "The fraud vitiated the contract.",
+            "meaning_ko": "그 사기는 그 계약을 무효화했다."
+          },
+          {
+            "sentence": "The mistake vitiated the effect of the treatment.",
+            "meaning_ko": "그 실수는 그 치료의 효과를 손상시켰다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The procedural error vitiated the validity of the study.",
+            "meaning_ko": "그 절차적 오류는 그 연구의 타당성을 손상시켰다."
+          },
+          {
+            "sentence": "The breach of confidentiality vitiated the agreement.",
+            "meaning_ko": "그 기밀 유지 위반은 그 협정을 무효화했다."
+          },
+          {
+            "sentence": "The conflict of interest vitiated the purpose of the investigation.",
+            "meaning_ko": "그 이해관계 충돌은 그 조사의 목적을 손상시켰다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The evidence of data manipulation vitiated the integrity of the entire research project, casting doubt on all its findings.",
+            "meaning_ko": "데이터 조작의 증거는 전체 연구 프로젝트의 무결성을 손상시켰고, 그 모든 발견에 의문을 제기했다."
+          },
+          {
+            "sentence": "The failure to disclose relevant information vitiated completely the credibility of the witness's testimony, rendering it inadmissible in court.",
+            "meaning_ko": "관련 정보를 공개하지 않은 실패는 그 증인의 증언의 신뢰성을 완전히 손상시켰고, 법정에서 채택할 수 없게 만들었다."
+          },
+          {
+            "sentence": "The systematic bias in the selection process vitiated the credibility of the study's conclusions, prompting calls for an independent review.",
+            "meaning_ko": "선택 과정에서의 체계적 편향은 그 연구의 결론의 신뢰성을 손상시켰고, 독립적 검토에 대한 요구를 촉진했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "vitiate는 '손상시키다/무효화하다'의 의미로, 'vitiate + 명사' 패턴을 익혀두면 좋습니다. spoil, impair보다 더 격식 있는 문어입니다. vitiation(손상)과 함께 외우면 좋습니다. 시험에서는 'vitiate the argument/contract', 'vitiate the validity' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "손상",
+      "법률",
+      "학술",
+      "격식",
+      "비즈니스"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'vitiate'.\n(A) to strengthen (B) to spoil or impair the quality (C) to validate (D) to improve",
+            "a": "(B) to spoil or impair the quality",
+            "meaning_ko": "vitiate는 품질을 손상시키거나 훼손하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The error _____ the argument.",
+            "a": "vitiated",
+            "meaning_ko": "오류가 논증을 손상시켰다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'vitiate'?\n(A) strengthen (B) spoil (C) validate (D) improve",
+            "a": "(B) spoil",
+            "meaning_ko": "spoil는 vitiate의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The fraud _____ the contract. (vitiate / vitiates / vitiating)",
+            "a": "vitiated",
+            "meaning_ko": "과거형 vitiated가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'vitiate the argument'.\n(A) strengthen the argument (B) spoil the argument (C) validate the argument (D) improve the argument",
+            "a": "(B) spoil the argument",
+            "meaning_ko": "논증을 손상시킨다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'vitiate': 'The error spoiled the validity of the study.'",
+            "a": "The error vitiated the validity of the study.",
+            "meaning_ko": "타당성을 손상시켰다는 것을 vitiate로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The evidence of manipulation vitiated the integrity _____.\n(A) casting doubt on all findings (B) improving everything (C) solving problems (D) ignoring issues",
+            "a": "(A) casting doubt on all findings",
+            "meaning_ko": "모든 발견에 의문을 제기한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The failure have vitiated the credibility.' (Fix the grammar.)",
+            "a": "The failure has vitiated the credibility.",
+            "meaning_ko": "단수 주어이므로 has가 맞습니다."
+          },
+          {
+            "q": "Insert 'vitiate' naturally: 'The systematic bias ______ the credibility of the conclusions.'",
+            "a": "vitiated",
+            "meaning_ko": "결론의 신뢰성을 손상시켰다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "utility",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The state of being useful, profitable, or beneficial; a public service such as gas, water, or electricity; a useful feature of a computer system.",
+        "definition_ko": "유용하거나 수익성이 있거나 유익한 상태; 가스, 물, 또는 전기와 같은 공공 서비스; 컴퓨터 시스템의 유용한 기능.",
+        "note": "유용성, 공공 서비스, 또는 컴퓨터 기능의 의미입니다."
+      }
+    ],
+    "concept": "유용하거나 수익성이 있는 상태, 또는 공공 서비스나 컴퓨터 기능.",
+    "etymology": "라틴어 utilitas(유용성)에서 유래했으며, utilis(유용한)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 '유용성' 의미였으나, 현대에는 공공 서비스('public utility', 'utility company')로도 확장되었습니다.",
+    "nuanceRegister": "일상·비즈니스·기술 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산/불가산 모두 가능하며, 'utility of + 명사' 또는 'utility for + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 유용성",
+        "example": "utility of the tool"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 유용성",
+        "example": "utility for users"
+      }
+    ],
+    "requiredComplements": [
+      "utility of/for + 명사 (…의/을 위한 유용성)",
+      "public utility (공공 서비스)"
+    ],
+    "morphology": "라틴어 utilitas에서 유래했으며, utilis(유용한)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "utilize",
+        "meaning_ko": "활용하다(동사)"
+      },
+      {
+        "word": "utilitarian",
+        "meaning_ko": "실용적인(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "usefulness",
+        "meaning_ko": "유용성"
+      },
+      {
+        "word": "benefit",
+        "meaning_ko": "이익"
+      },
+      {
+        "word": "value",
+        "meaning_ko": "가치"
+      },
+      {
+        "word": "service",
+        "meaning_ko": "서비스"
+      },
+      {
+        "word": "function",
+        "meaning_ko": "기능"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "usefulness",
+        "meaning_ko": "유용성"
+      },
+      {
+        "word": "benefit",
+        "meaning_ko": "이익"
+      },
+      {
+        "word": "value",
+        "meaning_ko": "가치"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "service",
+        "meaning_ko": "서비스(일반적)"
+      },
+      {
+        "word": "function",
+        "meaning_ko": "기능(일반적)"
+      },
+      {
+        "word": "advantage",
+        "meaning_ko": "이점(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "uselessness",
+        "meaning_ko": "무용함"
+      },
+      {
+        "word": "disadvantage",
+        "meaning_ko": "불리함"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "public utility",
+            "meaning_ko": "공공 서비스"
+          },
+          {
+            "phrase": "utility company",
+            "meaning_ko": "공공 서비스 회사"
+          },
+          {
+            "phrase": "utility bill",
+            "meaning_ko": "공공 요금 고지서"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "utility of",
+            "meaning_ko": "~의 유용성"
+          },
+          {
+            "phrase": "utility for",
+            "meaning_ko": "~을 위한 유용성"
+          },
+          {
+            "phrase": "practical utility",
+            "meaning_ko": "실용적 유용성"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "utility that provides",
+            "meaning_ko": "제공하는 공공 서비스"
+          },
+          {
+            "phrase": "marginal utility",
+            "meaning_ko": "한계 효용"
+          },
+          {
+            "phrase": "utility function",
+            "meaning_ko": "효용 함수"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The public utility provides electricity to the city.",
+            "meaning_ko": "그 공공 서비스는 그 도시에 전기를 제공한다."
+          },
+          {
+            "sentence": "The utility bill was higher than expected.",
+            "meaning_ko": "그 공공 요금 고지서는 예상보다 높았다."
+          },
+          {
+            "sentence": "The tool has great utility.",
+            "meaning_ko": "그 도구는 큰 유용성이 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The utility of this approach is limited.",
+            "meaning_ko": "이 접근 방식의 유용성은 제한적이다."
+          },
+          {
+            "sentence": "The utility for users has been improved.",
+            "meaning_ko": "사용자를 위한 유용성이 개선되었다."
+          },
+          {
+            "sentence": "The practical utility of the research is significant.",
+            "meaning_ko": "그 연구의 실용적 유용성은 중요하다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The utility that provides essential services to millions of households has faced challenges in maintaining infrastructure while keeping costs affordable.",
+            "meaning_ko": "수백만 가구에 필수 서비스를 제공하는 그 공공 서비스는 비용을 저렴하게 유지하면서 인프라를 유지하는 데 도전에 직면했다."
+          },
+          {
+            "sentence": "The marginal utility of additional resources decreases as more are consumed, a principle central to economic theory.",
+            "meaning_ko": "추가 자원의 한계 효용은 더 많이 소비될수록 감소하는데, 이는 경제 이론의 중심 원칙이다."
+          },
+          {
+            "sentence": "The utility function in the economic model helps predict consumer behavior by quantifying the satisfaction derived from different combinations of goods.",
+            "meaning_ko": "그 경제 모델에서의 효용 함수는 상품의 다른 조합에서 얻는 만족을 정량화함으로써 소비자 행동을 예측하는 데 도움이 된다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "utility는 '유용성/공공 서비스'의 의미로, 'public utility', 'utility company/bill', 'utility of/for + 명사' 같은 결합을 익혀두면 좋습니다. utilize(활용하다), utilitarian(실용적인)와 함께 외우면 좋습니다. 시험에서는 'public utility', 'utility of/for', 'utility company' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "유용성",
+      "공공",
+      "비즈니스",
+      "경제",
+      "기술"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'utility'.\n(A) uselessness (B) the state of being useful or beneficial (C) disadvantage (D) problem",
+            "a": "(B) the state of being useful or beneficial",
+            "meaning_ko": "utility는 유용하거나 유익한 상태를 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: The public _____ provides electricity to the city.",
+            "a": "utility",
+            "meaning_ko": "공공 서비스가 도시에 전기를 제공한다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'electricity, water, or gas service'?\n(A) public utility (B) private utility (C) personal utility (D) individual utility",
+            "a": "(A) public utility",
+            "meaning_ko": "public utility는 공공 서비스를 의미합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ of this approach is limited. (utility / utilize / utilitarian)",
+            "a": "utility",
+            "meaning_ko": "utility of + 명사(유용성) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'utility company'.\n(A) useless company (B) public service company (C) private company (D) individual company",
+            "a": "(B) public service company",
+            "meaning_ko": "공공 서비스 회사라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'utility': 'The usefulness of this tool is great.'",
+            "a": "The utility of this tool is great.",
+            "meaning_ko": "유용성을 utility로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The utility that provides essential services _____.\n(A) has faced challenges in maintaining infrastructure (B) has been ignored (C) has been forgotten (D) has been solved",
+            "a": "(A) has faced challenges in maintaining infrastructure",
+            "meaning_ko": "인프라를 유지하는 데 도전에 직면했다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The marginal utility decrease as more are consumed.' (Fix the grammar.)",
+            "a": "The marginal utility decreases as more are consumed.",
+            "meaning_ko": "3인칭 단수 decreases가 맞습니다."
+          },
+          {
+            "q": "Insert 'utility' naturally: 'The ______ function in the model helps predict behavior.'",
+            "a": "utility",
+            "meaning_ko": "모델에서의 효용 함수라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

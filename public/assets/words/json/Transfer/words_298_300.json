@@ -1,0 +1,834 @@
+[
+  {
+    "word": "sweep",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To clean or clear a surface by moving a brush or broom across it; to move quickly and smoothly; a wide range or scope.",
+        "definition_ko": "솔이나 빗자루로 표면을 청소하거나 정리하다; 빠르고 부드럽게 움직이다; 넓은 범위나 범위.",
+        "note": "동사로는 '쓸다/휩쓸다', 명사로는 '쓸기/넓은 범위'의 의미입니다."
+      }
+    ],
+    "concept": "솔이나 빗자루로 청소하거나, 빠르게 휩쓸고 지나가는 것, 또는 넓은 범위.",
+    "etymology": "고대 영어 swapan(쓸다)에서 유래했으며, '빠르게 움직이다'의 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 청소의 의미였으나, 현대에는 '휩쓸다/넓게 퍼지다'('sweep across', 'sweep of change')로도 확장되었습니다.",
+    "nuanceRegister": "일상·비즈니스·문학 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 'sweep + 명사' 또는 'sweep across/through + 명사' 패턴이 가능합니다. 3인칭 단수는 sweeps입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [
+      {
+        "prep": "across",
+        "meaning_ko": "~을 가로질러 휩쓸다",
+        "example": "sweep across the country"
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "~을 통과하여 휩쓸다",
+        "example": "sweep through the city"
+      },
+      {
+        "prep": "away",
+        "meaning_ko": "쓸어내다",
+        "example": "sweep away debris"
+      }
+    ],
+    "requiredComplements": [
+      "sweep + 명사 (…을 쓸다)",
+      "sweep across/through + 명사 (…을 가로질러/통과하여 휩쓸다)"
+    ],
+    "morphology": "고대 영어 swapan에서 유래했으며, 현대 영어에서는 '쓸다/휩쓸다'의 의미로 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "sweeper",
+        "meaning_ko": "청소부(명사)"
+      },
+      {
+        "word": "sweeping",
+        "meaning_ko": "광범위한(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "clean",
+        "meaning_ko": "청소하다"
+      },
+      {
+        "word": "brush",
+        "meaning_ko": "솔질하다"
+      },
+      {
+        "word": "rush",
+        "meaning_ko": "급히 움직이다"
+      },
+      {
+        "word": "range",
+        "meaning_ko": "범위"
+      },
+      {
+        "word": "scope",
+        "meaning_ko": "범위"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "clean",
+        "meaning_ko": "청소하다"
+      },
+      {
+        "word": "brush",
+        "meaning_ko": "솔질하다"
+      },
+      {
+        "word": "rush",
+        "meaning_ko": "급히 움직이다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "range",
+        "meaning_ko": "범위(일반적)"
+      },
+      {
+        "word": "scope",
+        "meaning_ko": "범위(일반적)"
+      },
+      {
+        "word": "span",
+        "meaning_ko": "범위(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "scatter",
+        "meaning_ko": "흩뜨리다"
+      },
+      {
+        "word": "mess",
+        "meaning_ko": "어지럽히다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sweep the floor",
+            "meaning_ko": "바닥을 쓸다"
+          },
+          {
+            "phrase": "sweep away",
+            "meaning_ko": "쓸어내다"
+          },
+          {
+            "phrase": "clean sweep",
+            "meaning_ko": "완전한 승리"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sweep across",
+            "meaning_ko": "~을 가로질러 휩쓸다"
+          },
+          {
+            "phrase": "sweep through",
+            "meaning_ko": "~을 통과하여 휩쓸다"
+          },
+          {
+            "phrase": "sweep the board",
+            "meaning_ko": "모든 것을 차지하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sweep of change",
+            "meaning_ko": "변화의 범위"
+          },
+          {
+            "phrase": "sweep aside",
+            "meaning_ko": "무시하고 지나가다"
+          },
+          {
+            "phrase": "sweep to victory",
+            "meaning_ko": "승리로 휩쓸다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She swept the floor every morning.",
+            "meaning_ko": "그녀는 매일 아침 바닥을 쓸었다."
+          },
+          {
+            "sentence": "The team made a clean sweep of the competition.",
+            "meaning_ko": "그 팀은 경쟁에서 완전한 승리를 거두었다."
+          },
+          {
+            "sentence": "The wind swept away the leaves.",
+            "meaning_ko": "바람이 나뭇잎을 쓸어냈다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The fire swept through the building quickly.",
+            "meaning_ko": "불이 건물을 빠르게 휩쓸었다."
+          },
+          {
+            "sentence": "The movement swept across the country.",
+            "meaning_ko": "그 운동은 전국을 휩쓸었다."
+          },
+          {
+            "sentence": "They swept the board at the awards ceremony.",
+            "meaning_ko": "그들은 시상식에서 모든 상을 차지했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sweep of change that followed the revolution transformed every aspect of society.",
+            "meaning_ko": "혁명 후에 이어진 변화의 범위는 사회의 모든 측면을 변화시켰다."
+          },
+          {
+            "sentence": "The candidate swept to victory with an overwhelming majority, sweeping aside all opposition.",
+            "meaning_ko": "그 후보는 압도적 다수로 승리로 휩쓸었고, 모든 반대를 무시하고 지나갔다."
+          },
+          {
+            "sentence": "The new policy swept through the organization, affecting departments that had previously been isolated.",
+            "meaning_ko": "새로운 정책은 조직을 휩쓸었고, 이전에 고립되어 있던 부서들에 영향을 미쳤다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sweep는 '쓸다/휩쓸다'의 의미로, 'sweep across/through + 명사' 패턴을 익혀두면 좋습니다. 'clean sweep'(완전한 승리)도 자주 사용됩니다. sweeping(광범위한)과 함께 외우면 좋습니다. 시험에서는 'sweep across/through', 'sweep to victory' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "청소",
+      "움직임",
+      "범위",
+      "일상",
+      "정치"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'sweep' (verb).\n(A) to scatter (B) to clean by moving a brush (C) to mess (D) to ignore",
+            "a": "(B) to clean by moving a brush",
+            "meaning_ko": "sweep(동사)는 솔로 청소하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: She _____ the floor every morning.",
+            "a": "swept",
+            "meaning_ko": "매일 아침 바닥을 쓴다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'complete victory'?\n(A) clean sweep (B) dirty sweep (C) messy sweep (D) scattered sweep",
+            "a": "(A) clean sweep",
+            "meaning_ko": "clean sweep는 완전한 승리를 의미합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The fire _____ through the building. (sweep / swept / sweeping)",
+            "a": "swept",
+            "meaning_ko": "과거형 swept가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'sweep across the country'.\n(A) scatter across the country (B) rush across the country (C) ignore the country (D) mess the country",
+            "a": "(B) rush across the country",
+            "meaning_ko": "전국을 휩쓴다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'sweep': 'The movement spread quickly across the country.'",
+            "a": "The movement swept across the country.",
+            "meaning_ko": "빠르게 퍼진다는 것을 sweep로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The sweep of change that followed the revolution _____.\n(A) ignored everything (B) transformed every aspect of society (C) created no impact (D) solved nothing",
+            "a": "(B) transformed every aspect of society",
+            "meaning_ko": "사회의 모든 측면을 변화시켰다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The candidate sweep to victory.' (Fix the grammar.)",
+            "a": "The candidate swept to victory.",
+            "meaning_ko": "과거형 swept가 맞습니다."
+          },
+          {
+            "q": "Insert 'sweep' naturally: 'The new policy ______ through the organization.'",
+            "a": "swept",
+            "meaning_ko": "조직을 휩쓴다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "haggard",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Looking exhausted and unwell, especially from fatigue, worry, or illness; wild and untamed in appearance.",
+        "definition_ko": "피곤, 걱정, 또는 질병으로 특히 지치고 건강하지 않아 보이는; 외모가 거칠고 길들지 않은.",
+        "note": "피로나 걱정으로 인해 초췌하고 지쳐 보이는 상태를 강조합니다."
+      }
+    ],
+    "concept": "피로나 걱정으로 지치고 초췌해 보이는 상태.",
+    "etymology": "프랑스어 hagard(길들지 않은 매)에서 유래했으며, 원래는 '야생의' 의미였으나 '지친' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 야생 동물의 거친 외모였으나, 현대에는 사람의 지치고 초췌한 외모를 나타내는 데 사용됩니다.",
+    "nuanceRegister": "격식 있는 문어·문학적 용어로, 일상에서는 'tired'나 'exhausted'가 더 흔합니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능하며, 'haggard + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "haggard + 명사 (지친 …)"
+    ],
+    "morphology": "프랑스어 hagard에서 유래했으며, 현대 영어에서는 '지친/초췌한'의 의미로 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "haggardly",
+        "meaning_ko": "지치게(부사)"
+      },
+      {
+        "word": "haggardness",
+        "meaning_ko": "지침, 초췌함(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "tired",
+        "meaning_ko": "피곤한"
+      },
+      {
+        "word": "exhausted",
+        "meaning_ko": "지친"
+      },
+      {
+        "word": "gaunt",
+        "meaning_ko": "수척한"
+      },
+      {
+        "word": "wan",
+        "meaning_ko": "창백한"
+      },
+      {
+        "word": "drawn",
+        "meaning_ko": "초췌한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "tired",
+        "meaning_ko": "피곤한"
+      },
+      {
+        "word": "exhausted",
+        "meaning_ko": "지친"
+      },
+      {
+        "word": "gaunt",
+        "meaning_ko": "수척한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "wan",
+        "meaning_ko": "창백한(일반적)"
+      },
+      {
+        "word": "drawn",
+        "meaning_ko": "초췌한(일반적)"
+      },
+      {
+        "word": "weary",
+        "meaning_ko": "지친(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fresh",
+        "meaning_ko": "신선한"
+      },
+      {
+        "word": "energetic",
+        "meaning_ko": "활기찬"
+      },
+      {
+        "word": "healthy",
+        "meaning_ko": "건강한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "haggard face",
+            "meaning_ko": "지친 얼굴"
+          },
+          {
+            "phrase": "haggard appearance",
+            "meaning_ko": "초췌한 외모"
+          },
+          {
+            "phrase": "look haggard",
+            "meaning_ko": "지쳐 보이다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "haggard features",
+            "meaning_ko": "초췌한 용모"
+          },
+          {
+            "phrase": "haggard expression",
+            "meaning_ko": "지친 표정"
+          },
+          {
+            "phrase": "haggard from worry",
+            "meaning_ko": "걱정으로 지친"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "haggard countenance",
+            "meaning_ko": "초췌한 안색"
+          },
+          {
+            "phrase": "haggard from exhaustion",
+            "meaning_ko": "피로로 지친"
+          },
+          {
+            "phrase": "haggard visage",
+            "meaning_ko": "지친 얼굴"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She looked haggard after the long journey.",
+            "meaning_ko": "그녀는 긴 여행 후 지쳐 보였다."
+          },
+          {
+            "sentence": "His haggard face showed he was tired.",
+            "meaning_ko": "그의 지친 얼굴은 그가 피곤하다는 것을 보여주었다."
+          },
+          {
+            "sentence": "The haggard appearance worried her family.",
+            "meaning_ko": "초췌한 외모가 그녀의 가족을 걱정시켰다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "His haggard features revealed the stress he had been under.",
+            "meaning_ko": "그의 초췌한 용모는 그가 받아온 스트레스를 드러냈다."
+          },
+          {
+            "sentence": "She appeared haggard from worry about her son.",
+            "meaning_ko": "그녀는 아들에 대한 걱정으로 지쳐 보였다."
+          },
+          {
+            "sentence": "The haggard expression on his face told a story of hardship.",
+            "meaning_ko": "그의 얼굴에 있는 지친 표정은 고난의 이야기를 들려주었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The haggard countenance of the refugee spoke volumes about the trauma she had endured during her escape.",
+            "meaning_ko": "그 난민의 초췌한 안색은 그녀가 탈출 중에 견뎌낸 트라우마에 대해 많은 것을 말해주었다."
+          },
+          {
+            "sentence": "Despite his haggard appearance from exhaustion, he continued to work tirelessly on the project.",
+            "meaning_ko": "피로로 인한 초췌한 외모에도 불구하고, 그는 그 프로젝트에서 끊임없이 일을 계속했다."
+          },
+          {
+            "sentence": "The haggard visage of the patient reflected weeks of illness and sleepless nights.",
+            "meaning_ko": "그 환자의 지친 얼굴은 몇 주간의 질병과 잠 못 이루는 밤을 반영했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "haggard는 '지치고 초췌한' 의미로, 피로나 걱정으로 인한 외모를 강조합니다. 'haggard face/appearance', 'look haggard' 같은 결합을 익혀두면 좋습니다. 시험에서는 문학·의학 지문에서 자주 출제됩니다.",
+    "tags": [
+      "외모",
+      "피로",
+      "문학",
+      "의학",
+      "감정"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'haggard'.\n(A) fresh (B) looking exhausted and unwell (C) energetic (D) healthy",
+            "a": "(B) looking exhausted and unwell",
+            "meaning_ko": "haggard는 지치고 건강하지 않아 보이는 것을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: She looked _____ after the long journey.",
+            "a": "haggard",
+            "meaning_ko": "긴 여행 후 지쳐 보였다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'haggard'?\n(A) fresh (B) exhausted (C) energetic (D) healthy",
+            "a": "(B) exhausted",
+            "meaning_ko": "exhausted는 haggard의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: His _____ face showed he was tired. (haggard / haggardly / haggardness)",
+            "a": "haggard",
+            "meaning_ko": "haggard face(지친 얼굴) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'haggard appearance'.\n(A) fresh appearance (B) exhausted appearance (C) energetic appearance (D) healthy appearance",
+            "a": "(B) exhausted appearance",
+            "meaning_ko": "초췌한 외모라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'haggard': 'She looked tired and unwell after the journey.'",
+            "a": "She looked haggard after the journey.",
+            "meaning_ko": "지치고 건강하지 않아 보인다는 것을 haggard로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The haggard countenance of the refugee _____.\n(A) showed nothing (B) spoke volumes about the trauma (C) was ignored (D) was forgotten",
+            "a": "(B) spoke volumes about the trauma",
+            "meaning_ko": "트라우마에 대해 많은 것을 말해주었다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'Despite his haggard appearance from exhaustion, he continue to work.' (Fix the grammar.)",
+            "a": "Despite his haggard appearance from exhaustion, he continued to work.",
+            "meaning_ko": "과거형 continued가 맞습니다."
+          },
+          {
+            "q": "Insert 'haggard' naturally: 'The ______ visage of the patient reflected weeks of illness.'",
+            "a": "haggard",
+            "meaning_ko": "지친 얼굴이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dowry",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Property or money brought by a bride to her husband on their marriage; a gift given at marriage.",
+        "definition_ko": "신부가 결혼 시 남편에게 가져오는 재산이나 돈; 결혼 시 주는 선물.",
+        "note": "전통적으로 신부의 가족이 신랑에게 주는 재산을 의미합니다."
+      }
+    ],
+    "concept": "결혼 시 신부가 남편에게 가져오는 재산이나 돈.",
+    "etymology": "라틴어 dotarium(결혼 지참금)에서 유래했으며, dos(선물)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 결혼 지참금이었으나, 현대에는 문화적·법적 맥락에서 논의됩니다.",
+    "nuanceRegister": "격식 있는 문어·역사·법률 용어로, 일상에서는 'marriage gift'가 더 흔합니다.",
+    "grammarNotes": "가산명사로 'a dowry' 또는 'dowries'로 사용되며, 'dowry of + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 지참금",
+        "example": "dowry of land"
+      }
+    ],
+    "requiredComplements": [
+      "dowry of + 명사 (…의 지참금)",
+      "a dowry (지참금)"
+    ],
+    "morphology": "라틴어 dotarium에서 유래했으며, dos(선물)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "dowried",
+        "meaning_ko": "지참금이 있는(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "bride price",
+        "meaning_ko": "신부 값"
+      },
+      {
+        "word": "marriage gift",
+        "meaning_ko": "결혼 선물"
+      },
+      {
+        "word": "settlement",
+        "meaning_ko": "정착금"
+      },
+      {
+        "word": "endowment",
+        "meaning_ko": "기부금"
+      },
+      {
+        "word": "inheritance",
+        "meaning_ko": "상속"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "marriage gift",
+        "meaning_ko": "결혼 선물"
+      },
+      {
+        "word": "settlement",
+        "meaning_ko": "정착금"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "endowment",
+        "meaning_ko": "기부금(일반적)"
+      },
+      {
+        "word": "inheritance",
+        "meaning_ko": "상속(일반적)"
+      },
+      {
+        "word": "bride price",
+        "meaning_ko": "신부 값(일반적)"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pay a dowry",
+            "meaning_ko": "지참금을 지불하다"
+          },
+          {
+            "phrase": "receive a dowry",
+            "meaning_ko": "지참금을 받다"
+          },
+          {
+            "phrase": "dowry system",
+            "meaning_ko": "지참금 제도"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dowry of land",
+            "meaning_ko": "토지의 지참금"
+          },
+          {
+            "phrase": "dowry payment",
+            "meaning_ko": "지참금 지불"
+          },
+          {
+            "phrase": "dowry practice",
+            "meaning_ko": "지참금 관행"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "dowry prohibition",
+            "meaning_ko": "지참금 금지"
+          },
+          {
+            "phrase": "dowry-related violence",
+            "meaning_ko": "지참금 관련 폭력"
+          },
+          {
+            "phrase": "abolish the dowry",
+            "meaning_ko": "지참금을 폐지하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The bride's family paid a large dowry.",
+            "meaning_ko": "신부의 가족은 큰 지참금을 지불했다."
+          },
+          {
+            "sentence": "The dowry included land and money.",
+            "meaning_ko": "그 지참금에는 토지와 돈이 포함되었다."
+          },
+          {
+            "sentence": "The dowry system is still practiced in some cultures.",
+            "meaning_ko": "지참금 제도는 일부 문화에서 여전히 관행되고 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The dowry of land was transferred to the groom's family.",
+            "meaning_ko": "토지의 지참금은 신랑의 가족에게 이전되었다."
+          },
+          {
+            "sentence": "Dowry payments can create financial burdens.",
+            "meaning_ko": "지참금 지불은 재정적 부담을 만들 수 있다."
+          },
+          {
+            "sentence": "The practice of dowry has been criticized for its impact on women.",
+            "meaning_ko": "지참금 관행은 여성에 대한 영향으로 비판받아왔다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The dowry prohibition law was enacted to protect women from financial exploitation, though enforcement remains challenging.",
+            "meaning_ko": "지참금 금지 법은 여성을 재정적 착취로부터 보호하기 위해 제정되었지만, 집행은 여전히 도전적이다."
+          },
+          {
+            "sentence": "Dowry-related violence continues to be a serious issue in regions where the practice persists despite legal restrictions.",
+            "meaning_ko": "지참금 관련 폭력은 법적 제한에도 불구하고 그 관행이 지속되는 지역에서 계속해서 심각한 문제이다."
+          },
+          {
+            "sentence": "Efforts to abolish the dowry have met with mixed success, as deeply rooted cultural traditions resist change.",
+            "meaning_ko": "지참금을 폐지하려는 노력은 뿌리 깊은 문화적 전통이 변화에 저항하기 때문에 혼합된 성공을 거두었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dowry는 '결혼 지참금'의 의미로, 전통적으로 신부의 가족이 신랑에게 주는 재산입니다. 'pay/receive a dowry', 'dowry system' 같은 결합을 익혀두면 좋습니다. 시험에서는 역사·문화·법률 지문에서 자주 출제됩니다.",
+    "tags": [
+      "결혼",
+      "문화",
+      "역사",
+      "법률",
+      "사회"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'dowry'.\n(A) divorce (B) property brought by a bride at marriage (C) wedding (D) engagement",
+            "a": "(B) property brought by a bride at marriage",
+            "meaning_ko": "dowry는 결혼 시 신부가 가져오는 재산을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: The bride's family paid a large _____.",
+            "a": "dowry",
+            "meaning_ko": "큰 지참금을 지불했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'to give money at marriage'?\n(A) pay a dowry (B) receive a dowry (C) ignore a dowry (D) forget a dowry",
+            "a": "(A) pay a dowry",
+            "meaning_ko": "pay a dowry는 지참금을 지불한다는 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ system is still practiced. (dowry / dowries / dowried)",
+            "a": "dowry",
+            "meaning_ko": "dowry system(지참금 제도) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'dowry payment'.\n(A) marriage gift payment (B) divorce payment (C) engagement payment (D) wedding payment",
+            "a": "(A) marriage gift payment",
+            "meaning_ko": "지참금 지불이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'dowry': 'The bride's family gave property at marriage.'",
+            "a": "The bride's family paid a dowry.",
+            "meaning_ko": "결혼 시 재산을 준다는 것을 dowry로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The dowry prohibition law was enacted _____.\n(A) to exploit women (B) to protect women from financial exploitation (C) to ignore problems (D) to create issues",
+            "a": "(B) to protect women from financial exploitation",
+            "meaning_ko": "여성을 재정적 착취로부터 보호하기 위해 제정되었다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'Efforts to abolish the dowry have meet with success.' (Fix the grammar.)",
+            "a": "Efforts to abolish the dowry have met with success.",
+            "meaning_ko": "과거분사 met가 맞습니다."
+          },
+          {
+            "q": "Insert 'dowry' naturally: 'Dowry-related violence continues to be a serious issue where the ______ persists.'",
+            "a": "dowry",
+            "meaning_ko": "지참금이 지속되는 곳이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

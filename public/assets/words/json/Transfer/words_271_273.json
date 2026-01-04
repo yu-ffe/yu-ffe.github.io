@@ -1,0 +1,894 @@
+[
+  {
+    "word": "equality",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The state of being equal, especially in status, rights, or opportunities.",
+        "definition_ko": "평등한 상태, 특히 지위·권리·기회에서 동등함.",
+        "note": "법적·사회적 권리에서의 평등을 강조할 때 자주 사용됩니다."
+      }
+    ],
+    "concept": "모든 사람이 동등한 지위·권리·기회를 가지는 상태.",
+    "etymology": "라틴어 aequalitas(동등함)에서 유래했으며, equal(동등한) + -ity(명사형 접미사)로 구성됩니다.",
+    "semanticExtension": "개인 간 평등뿐 아니라 'gender equality', 'economic equality'처럼 사회·경제·법적 영역의 평등 개념으로 확장됩니다.",
+    "nuanceRegister": "격식 있는 문어·정치·법률·사회과학 용어로, 공식 문서와 학술 논문에서 자주 사용됩니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, 'equality of + 명사', 'equality between + 명사', 'equality in + 영역' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 평등",
+        "example": "equality of opportunity"
+      },
+      {
+        "prep": "between",
+        "meaning_ko": "~ 사이의 평등",
+        "example": "equality between men and women"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~ 영역에서의 평등",
+        "example": "equality in education"
+      }
+    ],
+    "requiredComplements": [
+      "equality of + 명사 (…의 평등)",
+      "equality between + 명사 and 명사 (…와 … 사이의 평등)",
+      "equality in + 영역 (… 영역에서의 평등)"
+    ],
+    "morphology": "equal(동등한, 형용사) + -ity(명사형 접미사)로, '동등함'의 추상 명사입니다.",
+    "derivatives": [
+      {
+        "word": "equal",
+        "meaning_ko": "동등한(형용사)"
+      },
+      {
+        "word": "equalize",
+        "meaning_ko": "평등하게 만들다(동사)"
+      },
+      {
+        "word": "inequality",
+        "meaning_ko": "불평등(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "equity",
+        "meaning_ko": "공정성, 형평성"
+      },
+      {
+        "word": "fairness",
+        "meaning_ko": "공정함"
+      },
+      {
+        "word": "justice",
+        "meaning_ko": "정의, 공정"
+      },
+      {
+        "word": "parity",
+        "meaning_ko": "동등, 균형"
+      },
+      {
+        "word": "sameness",
+        "meaning_ko": "동일함"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "parity",
+        "meaning_ko": "동등, 균형"
+      },
+      {
+        "word": "equivalence",
+        "meaning_ko": "동등성"
+      },
+      {
+        "word": "sameness",
+        "meaning_ko": "동일함"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "equity",
+        "meaning_ko": "공정성(결과의 공정함 강조)"
+      },
+      {
+        "word": "fairness",
+        "meaning_ko": "공정함(처리 방식의 공정)"
+      },
+      {
+        "word": "justice",
+        "meaning_ko": "정의(법적·도덕적 공정)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inequality",
+        "meaning_ko": "불평등"
+      },
+      {
+        "word": "discrimination",
+        "meaning_ko": "차별"
+      },
+      {
+        "word": "inequity",
+        "meaning_ko": "불공정"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "gender equality",
+            "meaning_ko": "성평등"
+          },
+          {
+            "phrase": "equality of opportunity",
+            "meaning_ko": "기회의 평등"
+          },
+          {
+            "phrase": "fight for equality",
+            "meaning_ko": "평등을 위해 싸우다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "economic equality",
+            "meaning_ko": "경제적 평등"
+          },
+          {
+            "phrase": "equality before the law",
+            "meaning_ko": "법 앞의 평등"
+          },
+          {
+            "phrase": "promote equality",
+            "meaning_ko": "평등을 촉진하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "substantive equality",
+            "meaning_ko": "실질적 평등"
+          },
+          {
+            "phrase": "equality of outcome",
+            "meaning_ko": "결과의 평등"
+          },
+          {
+            "phrase": "intersectional equality",
+            "meaning_ko": "교차적 평등"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The law guarantees equality for all citizens.",
+            "meaning_ko": "법은 모든 시민에게 평등을 보장한다."
+          },
+          {
+            "sentence": "She fought for gender equality in the workplace.",
+            "meaning_ko": "그녀는 직장에서의 성평등을 위해 싸웠다."
+          },
+          {
+            "sentence": "True equality means everyone has the same opportunities.",
+            "meaning_ko": "진정한 평등은 모든 사람이 동일한 기회를 가진다는 뜻이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The policy aims to achieve equality between urban and rural areas.",
+            "meaning_ko": "그 정책은 도시와 농촌 지역 간의 평등을 달성하는 것을 목표로 한다."
+          },
+          {
+            "sentence": "Equality before the law is a fundamental principle of democracy.",
+            "meaning_ko": "법 앞의 평등은 민주주의의 기본 원칙이다."
+          },
+          {
+            "sentence": "Economic equality remains an elusive goal in many societies.",
+            "meaning_ko": "경제적 평등은 많은 사회에서 여전히 달성하기 어려운 목표다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The distinction between formal equality and substantive equality reveals the limitations of legal frameworks alone.",
+            "meaning_ko": "형식적 평등과 실질적 평등의 구분은 법적 틀만으로는 한계가 있음을 드러낸다."
+          },
+          {
+            "sentence": "Intersectional equality requires addressing how multiple forms of discrimination compound each other.",
+            "meaning_ko": "교차적 평등은 여러 형태의 차별이 서로 겹쳐지는 방식을 다루는 것을 요구한다."
+          },
+          {
+            "sentence": "The debate over equality of opportunity versus equality of outcome reflects deeper philosophical divisions about justice.",
+            "meaning_ko": "기회의 평등 대 결과의 평등에 대한 논쟁은 정의에 대한 더 깊은 철학적 분열을 반영한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "equality는 '동등함'의 상태를 나타내는 추상 명사입니다. 'equality of/between/in' 패턴을 익혀두면 좋습니다. equity(공정성)와 혼동하기 쉬운데, equality는 '동등함'을, equity는 '공정함'을 강조합니다. 시험에서는 'gender/economic/racial equality' 같은 수식어와 함께 자주 출제됩니다.",
+    "tags": [
+      "사회",
+      "정치",
+      "법률",
+      "권리",
+      "정의"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'equality'.\n(A) difference (B) the state of being equal (C) competition (D) conflict",
+            "a": "(B) the state of being equal",
+            "meaning_ko": "equality는 동등한 상태를 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: The organization fights for gender _____.",
+            "a": "equality",
+            "meaning_ko": "성평등을 위해 싸운다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: equality _____ opportunity? (of / in / at)",
+            "a": "of",
+            "meaning_ko": "equality of + 명사 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: _____ equality is a fundamental right. (Gender / Gendered / Gendering)",
+            "a": "Gender",
+            "meaning_ko": "gender equality(성평등)가 대표 결합입니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'equality between groups'.\n(A) difference between groups (B) parity between groups (C) conflict between groups (D) competition between groups",
+            "a": "(B) parity between groups",
+            "meaning_ko": "parity는 동등함을 의미하는 동의어입니다."
+          },
+          {
+            "q": "Rewrite using 'equality': 'All people should have the same rights.'",
+            "a": "All people should have equality of rights.",
+            "meaning_ko": "동일한 권리를 equality of rights로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The distinction between formal and substantive equality highlights _____.\n(A) the simplicity of legal solutions (B) the limitations of legal frameworks alone (C) the irrelevance of law (D) the need to abolish all laws",
+            "a": "(B) the limitations of legal frameworks alone",
+            "meaning_ko": "형식적 평등과 실질적 평등의 구분은 법적 틀만으로는 한계가 있음을 보여줍니다."
+          },
+          {
+            "q": "Error correction: 'The policy promotes equality in between different regions.' (Fix the preposition.)",
+            "a": "The policy promotes equality between different regions.",
+            "meaning_ko": "equality between + 명사 패턴이 맞습니다. 'in between'은 불필요합니다."
+          },
+          {
+            "q": "Insert 'equality' naturally: 'The framework addresses ______ of opportunity, access, and representation.'",
+            "a": "equality",
+            "meaning_ko": "기회·접근·대표성의 평등을 다루는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "disapprove",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To have or express an unfavorable opinion about something; to refuse to approve.",
+        "definition_ko": "무호의적 의견을 가지거나 표현하다; 승인을 거부하다.",
+        "note": "개인적 의견뿐 아니라 공식적 승인 거부의 의미도 있습니다."
+      }
+    ],
+    "concept": "무언가에 대해 부정적 의견을 가지거나 승인하지 않는 행위.",
+    "etymology": "dis-(반대) + approve(승인하다)로 구성되며, '승인하지 않다' → '반대하다/비난하다'의 의미로 확장되었습니다.",
+    "semanticExtension": "개인적 의견 표현뿐 아니라 'disapprove of + 명사'처럼 특정 행동·정책·태도에 대한 공식적 반대로도 쓰입니다.",
+    "nuanceRegister": "격식 있는 문어·공식 문서에서 자주 사용되며, 일상에서는 'don't like'나 'disagree with'가 더 흔합니다.",
+    "grammarNotes": "자동사로는 'disapprove of + 명사' 패턴이 필수이며, 타동사로는 'disapprove + 명사'(승인 거부)도 가능합니다. 3인칭 단수는 disapproves입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~에 대해 반대하다/비난하다",
+        "example": "disapprove of smoking"
+      },
+      {
+        "prep": "strongly",
+        "meaning_ko": "강하게 반대하다(부사 수식)",
+        "example": "strongly disapprove of"
+      }
+    ],
+    "requiredComplements": [
+      "disapprove of + 명사/동명사 (…에 대해 반대하다)",
+      "disapprove + 명사 (…을 승인 거부하다, 타동사)"
+    ],
+    "morphology": "dis-(반대 접두사) + approve(승인하다)로, '승인하지 않다'의 의미를 형성합니다.",
+    "derivatives": [
+      {
+        "word": "disapproval",
+        "meaning_ko": "반대, 비난(명사)"
+      },
+      {
+        "word": "disapproving",
+        "meaning_ko": "반대하는, 비난하는(형용사)"
+      },
+      {
+        "word": "disapprovingly",
+        "meaning_ko": "반대하여, 비난하여(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "reject",
+        "meaning_ko": "거부하다"
+      },
+      {
+        "word": "condemn",
+        "meaning_ko": "비난하다"
+      },
+      {
+        "word": "criticize",
+        "meaning_ko": "비판하다"
+      },
+      {
+        "word": "oppose",
+        "meaning_ko": "반대하다"
+      },
+      {
+        "word": "denounce",
+        "meaning_ko": "규탄하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "reject",
+        "meaning_ko": "거부하다"
+      },
+      {
+        "word": "condemn",
+        "meaning_ko": "비난하다"
+      },
+      {
+        "word": "oppose",
+        "meaning_ko": "반대하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "criticize",
+        "meaning_ko": "비판하다(구체적 지적)"
+      },
+      {
+        "word": "denounce",
+        "meaning_ko": "규탄하다(공개적 비난)"
+      },
+      {
+        "word": "object",
+        "meaning_ko": "반대하다(이의 제기)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "approve",
+        "meaning_ko": "승인하다"
+      },
+      {
+        "word": "endorse",
+        "meaning_ko": "지지하다"
+      },
+      {
+        "word": "support",
+        "meaning_ko": "지지하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "disapprove of",
+            "meaning_ko": "~에 대해 반대하다"
+          },
+          {
+            "phrase": "strongly disapprove",
+            "meaning_ko": "강하게 반대하다"
+          },
+          {
+            "phrase": "disapprove of behavior",
+            "meaning_ko": "행동에 대해 반대하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "disapprove of the decision",
+            "meaning_ko": "결정에 대해 반대하다"
+          },
+          {
+            "phrase": "disapprove of the policy",
+            "meaning_ko": "정책에 대해 반대하다"
+          },
+          {
+            "phrase": "publicly disapprove",
+            "meaning_ko": "공개적으로 반대하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "disapprove of the methodology",
+            "meaning_ko": "방법론에 대해 반대하다"
+          },
+          {
+            "phrase": "categorically disapprove",
+            "meaning_ko": "단호하게 반대하다"
+          },
+          {
+            "phrase": "disapprove on ethical grounds",
+            "meaning_ko": "윤리적 근거로 반대하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Her parents disapprove of her career choice.",
+            "meaning_ko": "그녀의 부모는 그녀의 직업 선택에 대해 반대한다."
+          },
+          {
+            "sentence": "I disapprove of smoking in public places.",
+            "meaning_ko": "나는 공공장소에서의 흡연에 반대한다."
+          },
+          {
+            "sentence": "The committee disapproved the proposal.",
+            "meaning_ko": "위원회는 그 제안을 승인 거부했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Many citizens strongly disapprove of the new tax policy.",
+            "meaning_ko": "많은 시민들이 새로운 세금 정책에 강하게 반대한다."
+          },
+          {
+            "sentence": "The board disapproved the budget on the grounds that it was too risky.",
+            "meaning_ko": "이사회는 예산이 너무 위험하다는 이유로 승인을 거부했다."
+          },
+          {
+            "sentence": "She disapproved of his methods but respected his goals.",
+            "meaning_ko": "그녀는 그의 방법에는 반대했지만 목표는 존중했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ethics committee categorically disapproved of the research methodology on the grounds that it violated informed consent.",
+            "meaning_ko": "윤리위원회는 사전 동의를 위반했다는 이유로 그 연구 방법론을 단호하게 반대했다."
+          },
+          {
+            "sentence": "While the board disapproved the merger, shareholders remained divided on whether to challenge the decision.",
+            "meaning_ko": "이사회가 합병을 승인 거부했지만, 주주들은 그 결정에 이의를 제기할지 여부에 대해 여전히 분열되어 있었다."
+          },
+          {
+            "sentence": "The professor disapproved of the student's approach not because it was wrong, but because it lacked rigor.",
+            "meaning_ko": "그 교수는 학생의 접근법이 틀렸기 때문이 아니라 엄밀함이 부족해서 반대했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "disapprove는 'disapprove of + 명사/동명사' 패턴이 필수입니다. 'disapprove + 명사'(승인 거부)는 타동사로도 쓰이지만, 'of'를 쓰는 자동사 패턴이 더 흔합니다. approve(승인하다)와 대비해서 외우면 좋습니다. 시험에서는 'strongly disapprove of' 같은 수식어와 함께 자주 출제됩니다.",
+    "tags": [
+      "의견",
+      "반대",
+      "비판",
+      "승인",
+      "태도"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'disapprove'.\n(A) to agree (B) to have an unfavorable opinion (C) to celebrate (D) to ignore",
+            "a": "(B) to have an unfavorable opinion",
+            "meaning_ko": "disapprove는 무호의적 의견을 가지는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: Many people _____ of the new law.",
+            "a": "disapprove",
+            "meaning_ko": "새로운 법에 대해 반대한다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: disapprove _____ smoking? (of / in / at)",
+            "a": "of",
+            "meaning_ko": "disapprove of + 명사 패턴이 필수입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The committee _____ the proposal. (disapproved / disapproved of / disapproved to)",
+            "a": "disapproved",
+            "meaning_ko": "타동사로 'disapprove + 명사'(승인 거부)가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'disapprove of the decision'.\n(A) support the decision (B) reject the decision (C) ignore the decision (D) celebrate the decision",
+            "a": "(B) reject the decision",
+            "meaning_ko": "결정에 대해 반대한다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'disapprove': 'She doesn't like his behavior.'",
+            "a": "She disapproves of his behavior.",
+            "meaning_ko": "좋아하지 않는다는 것을 disapprove of로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The ethics committee disapproved of the methodology _____.\n(A) because it was popular (B) on the grounds that it violated informed consent (C) since everyone agreed (D) as it was well-funded",
+            "a": "(B) on the grounds that it violated informed consent",
+            "meaning_ko": "윤리적 근거로 반대하는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The board disapproved of the merger on ethical reasons.' (Fix the preposition.)",
+            "a": "The board disapproved of the merger on ethical grounds.",
+            "meaning_ko": "on ... grounds(… 근거로) 패턴이 맞습니다. 'on ... reasons'는 어색합니다."
+          },
+          {
+            "q": "Insert 'disapprove' naturally: 'While the professor ______ of the approach, she acknowledged its creativity.'",
+            "a": "disapproved",
+            "meaning_ko": "접근법에 대해 반대하지만 창의성은 인정한다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "maintain",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To keep something in existence or in good condition; to assert or state something as true.",
+        "definition_ko": "무언가를 존재하게 하거나 좋은 상태로 유지하다; 무언가를 사실로 주장하거나 진술하다.",
+        "note": "물리적 유지뿐 아니라 의견·관계·상태를 계속 유지하는 의미도 있습니다."
+      }
+    ],
+    "concept": "무언가를 계속 유지하거나 주장하는 행위.",
+    "etymology": "라틴어 manu tenere(손으로 잡다)에서 유래했으며, '손에 쥐고 있다' → '유지하다/보유하다'의 의미로 확장되었습니다.",
+    "semanticExtension": "물리적 유지('maintain a building')뿐 아니라 추상적 유지('maintain a relationship'), 주장('maintain that + S V')로도 넓게 쓰입니다.",
+    "nuanceRegister": "격식 있는 문어·공식 문서에서 자주 사용되며, 일상에서는 'keep'이나 'say'가 더 흔합니다.",
+    "grammarNotes": "타동사로 'maintain + 명사' 또는 'maintain that + S V'(주장하다) 패턴이 가능합니다. 3인칭 단수는 maintains입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~ 수준으로 유지하다",
+        "example": "maintain at a high level"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~ 동안 유지하다",
+        "example": "maintain for years"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와 함께 유지하다",
+        "example": "maintain contact with"
+      }
+    ],
+    "requiredComplements": [
+      "maintain + 명사 (…을 유지하다)",
+      "maintain that + S V (…라고 주장하다)",
+      "maintain + 명사 + at + 수준 (…을 … 수준으로 유지하다)"
+    ],
+    "morphology": "라틴어 어원으로, 현대 영어에서는 '유지하다/주장하다'의 의미로 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "maintenance",
+        "meaning_ko": "유지, 보수(명사)"
+      },
+      {
+        "word": "maintainable",
+        "meaning_ko": "유지 가능한(형용사)"
+      },
+      {
+        "word": "maintainer",
+        "meaning_ko": "유지자(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "preserve",
+        "meaning_ko": "보존하다"
+      },
+      {
+        "word": "sustain",
+        "meaning_ko": "지속하다"
+      },
+      {
+        "word": "uphold",
+        "meaning_ko": "유지하다, 지지하다"
+      },
+      {
+        "word": "assert",
+        "meaning_ko": "주장하다"
+      },
+      {
+        "word": "claim",
+        "meaning_ko": "주장하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "preserve",
+        "meaning_ko": "보존하다"
+      },
+      {
+        "word": "sustain",
+        "meaning_ko": "지속하다"
+      },
+      {
+        "word": "uphold",
+        "meaning_ko": "유지하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "keep",
+        "meaning_ko": "유지하다(일상적)"
+      },
+      {
+        "word": "assert",
+        "meaning_ko": "주장하다(단정적)"
+      },
+      {
+        "word": "claim",
+        "meaning_ko": "주장하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "abandon",
+        "meaning_ko": "포기하다"
+      },
+      {
+        "word": "neglect",
+        "meaning_ko": "방치하다"
+      },
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "maintain order",
+            "meaning_ko": "질서를 유지하다"
+          },
+          {
+            "phrase": "maintain contact",
+            "meaning_ko": "연락을 유지하다"
+          },
+          {
+            "phrase": "maintain a building",
+            "meaning_ko": "건물을 유지하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "maintain a relationship",
+            "meaning_ko": "관계를 유지하다"
+          },
+          {
+            "phrase": "maintain standards",
+            "meaning_ko": "기준을 유지하다"
+          },
+          {
+            "phrase": "maintain that",
+            "meaning_ko": "~라고 주장하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "maintain equilibrium",
+            "meaning_ko": "균형을 유지하다"
+          },
+          {
+            "phrase": "maintain a position",
+            "meaning_ko": "입장을 유지하다"
+          },
+          {
+            "phrase": "maintain confidentiality",
+            "meaning_ko": "기밀을 유지하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We need to maintain this building properly.",
+            "meaning_ko": "우리는 이 건물을 제대로 유지해야 한다."
+          },
+          {
+            "sentence": "She maintains contact with her old friends.",
+            "meaning_ko": "그녀는 옛 친구들과 연락을 유지한다."
+          },
+          {
+            "sentence": "The police maintain order in the city.",
+            "meaning_ko": "경찰은 도시의 질서를 유지한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company maintains high standards of quality.",
+            "meaning_ko": "그 회사는 높은 품질 기준을 유지한다."
+          },
+          {
+            "sentence": "He maintains that he is innocent.",
+            "meaning_ko": "그는 자신이 무죄라고 주장한다."
+          },
+          {
+            "sentence": "It's difficult to maintain a long-distance relationship.",
+            "meaning_ko": "장거리 연애를 유지하는 것은 어렵다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ecosystem maintains a delicate equilibrium that can be disrupted by even minor changes.",
+            "meaning_ko": "그 생태계는 미세한 변화로도 깨질 수 있는 섬세한 균형을 유지한다."
+          },
+          {
+            "sentence": "Despite mounting evidence, the defendant maintained his position that he had no knowledge of the incident.",
+            "meaning_ko": "증거가 쌓여도 피고는 그 사건에 대해 아무것도 모른다는 입장을 유지했다."
+          },
+          {
+            "sentence": "The organization maintains strict confidentiality regarding client information, even under legal pressure.",
+            "meaning_ko": "그 조직은 법적 압력이 있어도 고객 정보에 대해 엄격한 기밀을 유지한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "maintain은 '유지하다'와 '주장하다' 두 가지 의미가 있습니다. 'maintain + 명사'(유지)와 'maintain that + S V'(주장) 패턴을 구분해서 외우세요. keep보다 격식 있고, preserve보다는 '계속 유지'의 뉘앙스가 강합니다. 시험에서는 'maintain standards/order/contact' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "유지",
+      "보존",
+      "주장",
+      "관계",
+      "상태"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'maintain'.\n(A) to destroy (B) to keep in good condition (C) to ignore (D) to forget",
+            "a": "(B) to keep in good condition",
+            "meaning_ko": "maintain은 좋은 상태로 유지하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: We need to _____ the building regularly.",
+            "a": "maintain",
+            "meaning_ko": "건물을 정기적으로 유지한다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which pattern is correct: maintain _____? (that + S V / to + V / -ing)",
+            "a": "that + S V",
+            "meaning_ko": "maintain that + S V(주장하다) 패턴이 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The company _____ high standards. (maintains / maintains that / maintains to)",
+            "a": "maintains",
+            "meaning_ko": "maintain + 명사(기준을 유지하다) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'maintain contact'.\n(A) break contact (B) keep contact (C) lose contact (D) ignore contact",
+            "a": "(B) keep contact",
+            "meaning_ko": "연락을 유지한다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'maintain': 'He says that he is innocent.'",
+            "a": "He maintains that he is innocent.",
+            "meaning_ko": "주장한다는 것을 maintain that으로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The ecosystem maintains a delicate equilibrium _____.\n(A) that can be easily disrupted (B) that never changes (C) that requires no attention (D) that is completely stable",
+            "a": "(A) that can be easily disrupted",
+            "meaning_ko": "섬세한 균형은 쉽게 깨질 수 있다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'She maintains to be innocent.' (Fix the pattern.)",
+            "a": "She maintains that she is innocent.",
+            "meaning_ko": "maintain that + S V 패턴이 맞습니다. 'maintain to be'는 어색합니다."
+          },
+          {
+            "q": "Insert 'maintain' naturally: 'Despite the pressure, the organization ______ strict confidentiality.'",
+            "a": "maintains",
+            "meaning_ko": "압력에도 불구하고 엄격한 기밀을 유지한다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

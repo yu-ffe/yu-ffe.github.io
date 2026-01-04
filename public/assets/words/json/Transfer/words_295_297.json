@@ -1,0 +1,841 @@
+[
+  {
+    "word": "lure",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Something that tempts or attracts, especially with the promise of pleasure or gain; to attract or entice someone to do something.",
+        "definition_ko": "유혹하거나 끌어들이는 것, 특히 즐거움이나 이득의 약속으로; 누군가를 끌어들이거나 유혹하여 무언가를 하게 하다.",
+        "note": "명사로는 '유혹물/미끼', 동사로는 '유혹하다/끌어들이다'의 의미입니다."
+      }
+    ],
+    "concept": "유혹하거나 끌어들이는 것, 또는 그런 행위.",
+    "etymology": "프랑스어 leurre(미끼)에서 유래했으며, 라틴어 lusus(놀이)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 사냥용 미끼였으나, 현대에는 추상적 유혹('lure of success')의 의미로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상에서도 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 'lure of + 명사' 패턴이 흔하고, 동사로는 'lure + 명사 + into/to + 명사' 패턴이 가능합니다.",
+    "transitivity": "타동사(동사일 때)",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 유혹",
+        "example": "lure of success"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "~로 유혹하다",
+        "example": "lure into a trap"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~로 유혹하다",
+        "example": "lure to a place"
+      }
+    ],
+    "requiredComplements": [
+      "lure + 명사 + into/to + 명사 (…을 …로 유혹하다)",
+      "lure of + 명사 (…의 유혹)"
+    ],
+    "morphology": "프랑스어 leurre에서 유래했으며, 라틴어 lusus(놀이)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "luring",
+        "meaning_ko": "유혹하는(형용사)"
+      },
+      {
+        "word": "lured",
+        "meaning_ko": "유혹된(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "attract",
+        "meaning_ko": "끌다"
+      },
+      {
+        "word": "entice",
+        "meaning_ko": "유혹하다"
+      },
+      {
+        "word": "tempt",
+        "meaning_ko": "유혹하다"
+      },
+      {
+        "word": "bait",
+        "meaning_ko": "미끼"
+      },
+      {
+        "word": "allure",
+        "meaning_ko": "매혹"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "attract",
+        "meaning_ko": "끌다"
+      },
+      {
+        "word": "entice",
+        "meaning_ko": "유혹하다"
+      },
+      {
+        "word": "tempt",
+        "meaning_ko": "유혹하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "bait",
+        "meaning_ko": "미끼(일반적)"
+      },
+      {
+        "word": "allure",
+        "meaning_ko": "매혹(일반적)"
+      },
+      {
+        "word": "seduce",
+        "meaning_ko": "유혹하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "repel",
+        "meaning_ko": "물리치다"
+      },
+      {
+        "word": "deter",
+        "meaning_ko": "단념시키다"
+      },
+      {
+        "word": "discourage",
+        "meaning_ko": "낙담시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "lure of success",
+            "meaning_ko": "성공의 유혹"
+          },
+          {
+            "phrase": "lure someone",
+            "meaning_ko": "누군가를 유혹하다"
+          },
+          {
+            "phrase": "fishing lure",
+            "meaning_ko": "낚시 미끼"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "lure into",
+            "meaning_ko": "~로 유혹하다"
+          },
+          {
+            "phrase": "lure away",
+            "meaning_ko": "끌어내다"
+          },
+          {
+            "phrase": "lure of money",
+            "meaning_ko": "돈의 유혹"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "lure with promises",
+            "meaning_ko": "약속으로 유혹하다"
+          },
+          {
+            "phrase": "irresistible lure",
+            "meaning_ko": "저항할 수 없는 유혹"
+          },
+          {
+            "phrase": "lure of adventure",
+            "meaning_ko": "모험의 유혹"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The lure of success motivated him.",
+            "meaning_ko": "성공의 유혹이 그를 동기부여했다."
+          },
+          {
+            "sentence": "They used a fishing lure to catch fish.",
+            "meaning_ko": "그들은 물고기를 잡기 위해 낚시 미끼를 사용했다."
+          },
+          {
+            "sentence": "The advertisement lured customers to the store.",
+            "meaning_ko": "그 광고는 고객들을 상점으로 유혹했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company tried to lure away talented employees.",
+            "meaning_ko": "그 회사는 재능 있는 직원들을 끌어내려고 시도했다."
+          },
+          {
+            "sentence": "The lure of money can be powerful.",
+            "meaning_ko": "돈의 유혹은 강력할 수 있다."
+          },
+          {
+            "sentence": "They lured him into a trap.",
+            "meaning_ko": "그들은 그를 함정으로 유혹했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The irresistible lure of adventure drew many young people to explore uncharted territories.",
+            "meaning_ko": "저항할 수 없는 모험의 유혹은 많은 젊은이들을 미지의 영역을 탐험하도록 이끌었다."
+          },
+          {
+            "sentence": "Criminals often lure victims with promises of easy money, exploiting their desperation.",
+            "meaning_ko": "범죄자들은 종종 쉬운 돈의 약속으로 피해자를 유혹하여 그들의 절망을 악용한다."
+          },
+          {
+            "sentence": "The company's aggressive recruitment strategy aimed to lure top talent away from competitors.",
+            "meaning_ko": "그 회사의 공격적인 채용 전략은 경쟁사로부터 최고 인재를 끌어내는 것을 목표로 했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "lure는 '유혹하다/미끼'의 의미로, 'lure + 명사 + into/to + 명사' 패턴을 익혀두면 좋습니다. 'lure of + 명사' 패턴도 자주 사용됩니다. 시험에서는 'lure of success/money', 'lure into' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "유혹",
+      "끌어들임",
+      "사냥",
+      "비즈니스",
+      "일상"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'lure' (verb).\n(A) to repel (B) to attract or entice (C) to discourage (D) to deter",
+            "a": "(B) to attract or entice",
+            "meaning_ko": "lure(동사)는 끌어들이거나 유혹하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ of success motivated him.",
+            "a": "lure",
+            "meaning_ko": "성공의 유혹이라는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: lure _____ a trap? (into / on / at)",
+            "a": "into",
+            "meaning_ko": "lure into + 명사 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The company tried to _____ away talented employees. (lure / lures / luring)",
+            "a": "lure",
+            "meaning_ko": "동사 원형 lure가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'lure of money'.\n(A) attraction of money (B) repulsion of money (C) ignorance of money (D) avoidance of money",
+            "a": "(A) attraction of money",
+            "meaning_ko": "돈의 유혹이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'lure': 'The advertisement attracted customers to the store.'",
+            "a": "The advertisement lured customers to the store.",
+            "meaning_ko": "끌어들인다는 것을 lure로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: Criminals often lure victims _____.\n(A) with promises of easy money (B) by avoiding contact (C) by ignoring them (D) by helping them",
+            "a": "(A) with promises of easy money",
+            "meaning_ko": "쉬운 돈의 약속으로 유혹한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The lure of adventure draw many people.' (Fix the grammar.)",
+            "a": "The lure of adventure drew many people.",
+            "meaning_ko": "과거형 drew가 맞습니다."
+          },
+          {
+            "q": "Insert 'lure' naturally: 'The company's strategy aimed to ______ top talent away from competitors.'",
+            "a": "lure",
+            "meaning_ko": "경쟁사로부터 최고 인재를 끌어내는 것을 목표로 한다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To become less intense or widespread; to reduce in amount, degree, or intensity.",
+        "definition_ko": "덜 강렬하거나 널리 퍼지게 되다; 양, 정도, 또는 강도에서 줄어들다.",
+        "note": "폭풍·고통·분노 등이 줄어들거나 약해지는 것을 나타냅니다."
+      }
+    ],
+    "concept": "강도나 양이 줄어들거나 약해지는 것.",
+    "etymology": "라틴어 abatere(떨어뜨리다)에서 유래했으며, ab-(떨어져) + batere(치다)의 결합입니다.",
+    "semanticExtension": "원래는 '떨어뜨리다' 의미였으나, 현대에는 '줄어들다/약해지다'의 의미로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상에서는 'decrease'나 'lessen'이 더 흔합니다.",
+    "grammarNotes": "자동사로 'abate' 단독 또는 타동사로 'abate + 명사' 패턴이 가능합니다. 3인칭 단수는 abates입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "abate (줄어들다, 자동사)",
+      "abate + 명사 (…을 줄이다, 타동사)"
+    ],
+    "morphology": "라틴어 abatere에서 유래했으며, ab-(떨어져) + batere(치다)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "abatement",
+        "meaning_ko": "감소, 완화(명사)"
+      },
+      {
+        "word": "abated",
+        "meaning_ko": "줄어든(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "decrease",
+        "meaning_ko": "감소하다"
+      },
+      {
+        "word": "lessen",
+        "meaning_ko": "줄이다"
+      },
+      {
+        "word": "subside",
+        "meaning_ko": "가라앉다"
+      },
+      {
+        "word": "diminish",
+        "meaning_ko": "감소시키다"
+      },
+      {
+        "word": "ease",
+        "meaning_ko": "완화하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "decrease",
+        "meaning_ko": "감소하다"
+      },
+      {
+        "word": "lessen",
+        "meaning_ko": "줄이다"
+      },
+      {
+        "word": "subside",
+        "meaning_ko": "가라앉다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "diminish",
+        "meaning_ko": "감소시키다(일반적)"
+      },
+      {
+        "word": "ease",
+        "meaning_ko": "완화하다(일반적)"
+      },
+      {
+        "word": "weaken",
+        "meaning_ko": "약해지다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "increase",
+        "meaning_ko": "증가하다"
+      },
+      {
+        "word": "intensify",
+        "meaning_ko": "강화하다"
+      },
+      {
+        "word": "escalate",
+        "meaning_ko": "확대하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "storm abated",
+            "meaning_ko": "폭풍이 약해지다"
+          },
+          {
+            "phrase": "pain abated",
+            "meaning_ko": "고통이 줄어들다"
+          },
+          {
+            "phrase": "anger abated",
+            "meaning_ko": "분노가 가라앉다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "abate the problem",
+            "meaning_ko": "문제를 완화하다"
+          },
+          {
+            "phrase": "abate concerns",
+            "meaning_ko": "우려를 줄이다"
+          },
+          {
+            "phrase": "gradually abate",
+            "meaning_ko": "점진적으로 줄어들다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "abate the crisis",
+            "meaning_ko": "위기를 완화하다"
+          },
+          {
+            "phrase": "abate significantly",
+            "meaning_ko": "상당히 줄어들다"
+          },
+          {
+            "phrase": "abate public anxiety",
+            "meaning_ko": "대중의 불안을 완화하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The storm finally abated.",
+            "meaning_ko": "폭풍이 마침내 약해졌다."
+          },
+          {
+            "sentence": "Her pain abated after taking medicine.",
+            "meaning_ko": "그녀의 고통은 약을 먹은 후 줄어들었다."
+          },
+          {
+            "sentence": "The anger abated over time.",
+            "meaning_ko": "분노는 시간이 지나면서 가라앉았다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The government took steps to abate the problem.",
+            "meaning_ko": "정부는 그 문제를 완화하기 위한 조치를 취했다."
+          },
+          {
+            "sentence": "The medication helped abate her symptoms.",
+            "meaning_ko": "그 약물은 그녀의 증상을 완화하는 데 도움이 되었다."
+          },
+          {
+            "sentence": "Concerns gradually abated as more information became available.",
+            "meaning_ko": "더 많은 정보가 이용 가능해지면서 우려가 점진적으로 줄어들었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The emergency measures helped abate the crisis, though long-term solutions were still needed.",
+            "meaning_ko": "비상 조치가 위기를 완화하는 데 도움이 되었지만, 장기적 해결책은 여전히 필요했다."
+          },
+          {
+            "sentence": "Public anxiety began to abate significantly after officials provided transparent information about the situation.",
+            "meaning_ko": "공무원들이 상황에 대한 투명한 정보를 제공한 후 대중의 불안이 상당히 줄어들기 시작했다."
+          },
+          {
+            "sentence": "The conflict showed no signs of abating, despite multiple attempts at mediation.",
+            "meaning_ko": "여러 차례의 중재 시도에도 불구하고, 그 갈등은 줄어들 기미를 보이지 않았다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "abate는 '줄어들다/완화하다'의 의미로, 자동사와 타동사 모두 가능합니다. 'storm/pain/anger abated' 같은 결합을 익혀두면 좋습니다. abatement(감소)와 함께 외우면 좋습니다. 시험에서는 'abate the problem/crisis' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "감소",
+      "완화",
+      "자연",
+      "의학",
+      "정치"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'abate'.\n(A) to increase (B) to become less intense (C) to intensify (D) to escalate",
+            "a": "(B) to become less intense",
+            "meaning_ko": "abate는 덜 강렬해지는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The storm finally _____.",
+            "a": "abated",
+            "meaning_ko": "폭풍이 마침내 약해졌다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'abate'?\n(A) increase (B) decrease (C) intensify (D) escalate",
+            "a": "(B) decrease",
+            "meaning_ko": "decrease는 abate의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The government took steps to _____ the problem. (abate / abates / abating)",
+            "a": "abate",
+            "meaning_ko": "동사 원형 abate가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'abate concerns'.\n(A) increase concerns (B) lessen concerns (C) intensify concerns (D) escalate concerns",
+            "a": "(B) lessen concerns",
+            "meaning_ko": "우려를 줄인다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'abate': 'The pain decreased after taking medicine.'",
+            "a": "The pain abated after taking medicine.",
+            "meaning_ko": "줄어들었다는 것을 abate로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: Public anxiety began to abate significantly _____.\n(A) after officials provided transparent information (B) after ignoring the problem (C) after creating more confusion (D) after avoiding communication",
+            "a": "(A) after officials provided transparent information",
+            "meaning_ko": "공무원들이 투명한 정보를 제공한 후 줄어들기 시작했다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The conflict show no signs of abating.' (Fix the grammar.)",
+            "a": "The conflict showed no signs of abating.",
+            "meaning_ko": "과거형 showed가 맞습니다."
+          },
+          {
+            "q": "Insert 'abate' naturally: 'The emergency measures helped ______ the crisis.'",
+            "a": "abate",
+            "meaning_ko": "위기를 완화하는 데 도움이 되었다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gaffe",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "An unintentional act or remark causing embarrassment or offense; a social blunder.",
+        "definition_ko": "당황스럽거나 모욕을 주는 의도하지 않은 행동이나 발언; 사회적 실수.",
+        "note": "의도하지 않은 실수로 인한 당황이나 모욕을 강조합니다."
+      }
+    ],
+    "concept": "의도하지 않은 사회적 실수나 당황스러운 발언.",
+    "etymology": "프랑스어 gaffe(실수)에서 유래했으며, 원래는 '갈고리'의 의미였으나 '실수'로 확장되었습니다.",
+    "semanticExtension": "원래는 일반적 실수였으나, 현대에는 특히 공인·정치인의 사회적 실수('political gaffe')를 강조합니다.",
+    "nuanceRegister": "격식 있는 문어·정치·미디어 용어로, 일상에서는 'mistake'나 'blunder'가 더 흔합니다.",
+    "grammarNotes": "가산명사로 'a gaffe' 또는 'gaffes'로 사용되며, 'make a gaffe' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "make a gaffe (실수를 하다)",
+      "a gaffe (실수)"
+    ],
+    "morphology": "프랑스어 gaffe에서 유래했으며, 현대 영어에서는 '사회적 실수'의 의미로 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "mistake",
+        "meaning_ko": "실수"
+      },
+      {
+        "word": "blunder",
+        "meaning_ko": "큰 실수"
+      },
+      {
+        "word": "faux pas",
+        "meaning_ko": "예의 없는 행동"
+      },
+      {
+        "word": "slip",
+        "meaning_ko": "실수"
+      },
+      {
+        "word": "error",
+        "meaning_ko": "오류"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "mistake",
+        "meaning_ko": "실수"
+      },
+      {
+        "word": "blunder",
+        "meaning_ko": "큰 실수"
+      },
+      {
+        "word": "faux pas",
+        "meaning_ko": "예의 없는 행동"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "slip",
+        "meaning_ko": "실수(일반적)"
+      },
+      {
+        "word": "error",
+        "meaning_ko": "오류(일반적)"
+      },
+      {
+        "word": "mishap",
+        "meaning_ko": "불행한 사고(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "success",
+        "meaning_ko": "성공"
+      },
+      {
+        "word": "achievement",
+        "meaning_ko": "성취"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "make a gaffe",
+            "meaning_ko": "실수를 하다"
+          },
+          {
+            "phrase": "political gaffe",
+            "meaning_ko": "정치적 실수"
+          },
+          {
+            "phrase": "embarrassing gaffe",
+            "meaning_ko": "당황스러운 실수"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "diplomatic gaffe",
+            "meaning_ko": "외교적 실수"
+          },
+          {
+            "phrase": "public gaffe",
+            "meaning_ko": "공개적 실수"
+          },
+          {
+            "phrase": "costly gaffe",
+            "meaning_ko": "비용이 많이 드는 실수"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "gaffe that damaged",
+            "meaning_ko": "손상을 입힌 실수"
+          },
+          {
+            "phrase": "recover from a gaffe",
+            "meaning_ko": "실수에서 회복하다"
+          },
+          {
+            "phrase": "gaffe-prone",
+            "meaning_ko": "실수를 자주 하는"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He made a gaffe at the party.",
+            "meaning_ko": "그는 파티에서 실수를 했다."
+          },
+          {
+            "sentence": "The politician's gaffe was widely reported.",
+            "meaning_ko": "그 정치인의 실수는 널리 보도되었다."
+          },
+          {
+            "sentence": "It was an embarrassing gaffe.",
+            "meaning_ko": "그것은 당황스러운 실수였다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The diplomatic gaffe strained relations between the countries.",
+            "meaning_ko": "그 외교적 실수는 국가 간 관계를 악화시켰다."
+          },
+          {
+            "sentence": "The public gaffe cost him support.",
+            "meaning_ko": "그 공개적 실수는 그에게 지지를 잃게 만들었다."
+          },
+          {
+            "sentence": "She tried to recover from the gaffe quickly.",
+            "meaning_ko": "그녀는 그 실수에서 빠르게 회복하려고 시도했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The gaffe that damaged his reputation was caught on camera and went viral on social media.",
+            "meaning_ko": "그의 명성을 손상시킨 그 실수는 카메라에 포착되었고 소셜 미디어에서 바이럴이 되었다."
+          },
+          {
+            "sentence": "Despite being gaffe-prone, the candidate managed to maintain public support through genuine apologies.",
+            "meaning_ko": "실수를 자주 하는 경향이 있음에도 불구하고, 그 후보는 진정성 있는 사과를 통해 대중의 지지를 유지했다."
+          },
+          {
+            "sentence": "The diplomatic gaffe, while unintentional, required immediate damage control to prevent further escalation.",
+            "meaning_ko": "그 외교적 실수는 비록 의도하지 않았지만, 추가 확대를 방지하기 위해 즉각적인 손상 통제가 필요했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "gaffe는 '사회적 실수'의 의미로, 특히 공인·정치인의 실수를 강조합니다. 'make a gaffe', 'political/diplomatic gaffe' 같은 결합을 익혀두면 좋습니다. 시험에서는 정치·미디어 지문에서 자주 출제됩니다.",
+    "tags": [
+      "실수",
+      "정치",
+      "사회",
+      "미디어",
+      "일상"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'gaffe'.\n(A) success (B) an unintentional social blunder (C) achievement (D) victory",
+            "a": "(B) an unintentional social blunder",
+            "meaning_ko": "gaffe는 의도하지 않은 사회적 실수를 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: He made a _____ at the party.",
+            "a": "gaffe",
+            "meaning_ko": "파티에서 실수를 했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'to make a mistake'?\n(A) make a gaffe (B) make a success (C) make an achievement (D) make a victory",
+            "a": "(A) make a gaffe",
+            "meaning_ko": "make a gaffe는 실수를 한다는 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ gaffe strained relations. (diplomatic / diplomatically / diplomacy)",
+            "a": "diplomatic",
+            "meaning_ko": "diplomatic gaffe(외교적 실수) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'political gaffe'.\n(A) political success (B) political blunder (C) political achievement (D) political victory",
+            "a": "(B) political blunder",
+            "meaning_ko": "정치적 실수라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'gaffe': 'The politician made a social blunder.'",
+            "a": "The politician made a gaffe.",
+            "meaning_ko": "사회적 실수를 gaffe로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The gaffe that damaged his reputation _____.\n(A) was ignored (B) was caught on camera and went viral (C) was forgotten (D) was celebrated",
+            "a": "(B) was caught on camera and went viral",
+            "meaning_ko": "카메라에 포착되어 바이럴이 되었다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The diplomatic gaffe require immediate damage control.' (Fix the grammar.)",
+            "a": "The diplomatic gaffe required immediate damage control.",
+            "meaning_ko": "과거형 required가 맞습니다."
+          },
+          {
+            "q": "Insert 'gaffe' naturally: 'Despite being ______-prone, the candidate maintained support.'",
+            "a": "gaffe",
+            "meaning_ko": "실수를 자주 하는 경향이 있음에도 불구하고라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

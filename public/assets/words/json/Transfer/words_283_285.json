@@ -1,0 +1,851 @@
+[
+  {
+    "word": "slender",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Thin and graceful in an attractive way; small in amount or extent.",
+        "definition_ko": "매력적으로 얇고 우아한; 양이나 범위가 작은.",
+        "note": "사람·물체의 얇음뿐 아니라 가능성·기회의 작음을 나타낼 때도 사용됩니다."
+      }
+    ],
+    "concept": "얇고 우아한, 또는 양이나 가능성이 작은 상태.",
+    "etymology": "중세 영어 slendre에서 유래했으며, 정확한 어원은 불분명하지만 '얇은/가느다란'의 의미로 굳었습니다.",
+    "semanticExtension": "원래는 물리적 얇음('slender figure')에서 출발했으나, 추상적 의미('slender chance/possibility')로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·문학적 용어로, 일상에서는 'thin'이나 'slim'이 더 흔합니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능하며, 'slender + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "slender + 명사 (얇은/작은 …)"
+    ],
+    "morphology": "중세 영어 어원으로, 현대 영어에서는 '얇은/작은'의 의미로 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "slenderness",
+        "meaning_ko": "얇음, 가늘음(명사)"
+      },
+      {
+        "word": "slenderly",
+        "meaning_ko": "얇게, 가늘게(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "thin",
+        "meaning_ko": "얇은"
+      },
+      {
+        "word": "slim",
+        "meaning_ko": "호리호리한"
+      },
+      {
+        "word": "graceful",
+        "meaning_ko": "우아한"
+      },
+      {
+        "word": "narrow",
+        "meaning_ko": "좁은"
+      },
+      {
+        "word": "slight",
+        "meaning_ko": "작은"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "thin",
+        "meaning_ko": "얇은"
+      },
+      {
+        "word": "slim",
+        "meaning_ko": "호리호리한"
+      },
+      {
+        "word": "narrow",
+        "meaning_ko": "좁은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "graceful",
+        "meaning_ko": "우아한(일반적)"
+      },
+      {
+        "word": "slight",
+        "meaning_ko": "작은(일반적)"
+      },
+      {
+        "word": "delicate",
+        "meaning_ko": "섬세한(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "thick",
+        "meaning_ko": "두꺼운"
+      },
+      {
+        "word": "wide",
+        "meaning_ko": "넓은"
+      },
+      {
+        "word": "substantial",
+        "meaning_ko": "상당한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "slender figure",
+            "meaning_ko": "호리호리한 체형"
+          },
+          {
+            "phrase": "slender chance",
+            "meaning_ko": "작은 가능성"
+          },
+          {
+            "phrase": "slender build",
+            "meaning_ko": "가느다란 체격"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "slender possibility",
+            "meaning_ko": "작은 가능성"
+          },
+          {
+            "phrase": "slender margin",
+            "meaning_ko": "좁은 여유"
+          },
+          {
+            "phrase": "slender resources",
+            "meaning_ko": "부족한 자원"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "slender evidence",
+            "meaning_ko": "부족한 증거"
+          },
+          {
+            "phrase": "slender majority",
+            "meaning_ko": "약한 다수"
+          },
+          {
+            "phrase": "slender thread of hope",
+            "meaning_ko": "가느다란 희망의 실"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She has a slender figure.",
+            "meaning_ko": "그녀는 호리호리한 체형이다."
+          },
+          {
+            "sentence": "There's only a slender chance of success.",
+            "meaning_ko": "성공할 가능성은 작다."
+          },
+          {
+            "sentence": "The tree had slender branches.",
+            "meaning_ko": "그 나무는 가느다란 가지를 가지고 있었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company operates on a slender margin.",
+            "meaning_ko": "그 회사는 좁은 여유로 운영된다."
+          },
+          {
+            "sentence": "There's only a slender possibility that the plan will work.",
+            "meaning_ko": "그 계획이 작동할 가능성은 작다."
+          },
+          {
+            "sentence": "The organization works with slender resources.",
+            "meaning_ko": "그 조직은 부족한 자원으로 일한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The prosecution's case rested on slender evidence, making a conviction uncertain.",
+            "meaning_ko": "검찰의 사건은 부족한 증거에 의존했고, 이로 인해 유죄 판결이 불확실했다."
+          },
+          {
+            "sentence": "Despite the slender majority, the party managed to pass the controversial legislation.",
+            "meaning_ko": "약한 다수에도 불구하고, 그 정당은 논란의 여지가 있는 법안을 통과시켰다."
+          },
+          {
+            "sentence": "They clung to a slender thread of hope that the situation would improve.",
+            "meaning_ko": "그들은 상황이 개선될 것이라는 가느다란 희망의 실을 붙잡고 있었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "slender는 '얇고 우아한' 또는 '작은'의 의미로, thin보다 긍정적 뉘앙스가 강합니다. 'slender chance/possibility'처럼 가능성의 작음을 나타낼 때도 사용됩니다. 시험에서는 'slender figure/chance/margin' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "외형",
+      "가능성",
+      "양",
+      "문학",
+      "일상"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'slender'.\n(A) thick (B) thin and graceful (C) wide (D) large",
+            "a": "(B) thin and graceful",
+            "meaning_ko": "slender는 얇고 우아한 것을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: She has a _____ figure.",
+            "a": "slender",
+            "meaning_ko": "호리호리한 체형이라는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'a small chance'?\n(A) slender chance (B) large chance (C) certain chance (D) impossible chance",
+            "a": "(A) slender chance",
+            "meaning_ko": "slender chance는 작은 가능성을 의미합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The company operates on a _____ margin. (slender / slenders / slenderly)",
+            "a": "slender",
+            "meaning_ko": "slender margin(좁은 여유) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'slender possibility'.\n(A) large possibility (B) small possibility (C) certain possibility (D) impossible possibility",
+            "a": "(B) small possibility",
+            "meaning_ko": "작은 가능성이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'slender': 'There's only a small chance of success.'",
+            "a": "There's only a slender chance of success.",
+            "meaning_ko": "작은 가능성을 slender chance로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The prosecution's case rested on slender evidence _____.\n(A) making a conviction certain (B) making a conviction uncertain (C) ensuring success (D) guaranteeing victory",
+            "a": "(B) making a conviction uncertain",
+            "meaning_ko": "부족한 증거는 유죄 판결을 불확실하게 만든다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'They clung to slender thread of hope.' (Fix the article.)",
+            "a": "They clung to a slender thread of hope.",
+            "meaning_ko": "가산명사이므로 관사 a가 필요합니다."
+          },
+          {
+            "q": "Insert 'slender' naturally: 'Despite the ______ majority, the party managed to pass the legislation.'",
+            "a": "slender",
+            "meaning_ko": "약한 다수라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "engage",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To participate or become involved in; to attract and hold attention; to employ or hire.",
+        "definition_ko": "참여하거나 관여하다; 주의를 끌고 유지하다; 고용하거나 채용하다.",
+        "note": "다양한 의미를 가지며, 'engage in + 명사', 'engage + 명사' 패턴이 흔합니다."
+      }
+    ],
+    "concept": "참여하거나 관여하는 행위, 또는 주의를 끌고 유지하는 행위.",
+    "etymology": "프랑스어 engager(약속하다, 관여하다)에서 유래했으며, en-(안으로) + gage(약속)의 결합입니다.",
+    "semanticExtension": "원래는 약속·관여의 의미였으나, 현대에는 참여·주의 끌기·고용 등 다양한 의미로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·비즈니스·학술 용어로, 일상에서도 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 'engage + 명사' 또는 'engage in + 명사' 패턴이 가능합니다. 3인칭 단수는 engages입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 참여하다",
+        "example": "engage in activities"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와 교류하다",
+        "example": "engage with the audience"
+      }
+    ],
+    "requiredComplements": [
+      "engage in + 명사 (…에 참여하다)",
+      "engage + 명사 (…을 고용하다/주의를 끌다)",
+      "engage with + 명사 (…와 교류하다)"
+    ],
+    "morphology": "프랑스어 engager에서 유래했으며, en-(안으로) + gage(약속)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "engagement",
+        "meaning_ko": "참여, 약혼(명사)"
+      },
+      {
+        "word": "engaged",
+        "meaning_ko": "참여한, 약혼한(형용사)"
+      },
+      {
+        "word": "engaging",
+        "meaning_ko": "매력적인(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "participate",
+        "meaning_ko": "참여하다"
+      },
+      {
+        "word": "involve",
+        "meaning_ko": "관여하다"
+      },
+      {
+        "word": "hire",
+        "meaning_ko": "고용하다"
+      },
+      {
+        "word": "attract",
+        "meaning_ko": "끌다"
+      },
+      {
+        "word": "occupy",
+        "meaning_ko": "점유하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "participate",
+        "meaning_ko": "참여하다"
+      },
+      {
+        "word": "involve",
+        "meaning_ko": "관여하다"
+      },
+      {
+        "word": "hire",
+        "meaning_ko": "고용하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "attract",
+        "meaning_ko": "끌다(일반적)"
+      },
+      {
+        "word": "occupy",
+        "meaning_ko": "점유하다(일반적)"
+      },
+      {
+        "word": "employ",
+        "meaning_ko": "고용하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disengage",
+        "meaning_ko": "참여하지 않다"
+      },
+      {
+        "word": "withdraw",
+        "meaning_ko": "철회하다"
+      },
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "engage in activities",
+            "meaning_ko": "활동에 참여하다"
+          },
+          {
+            "phrase": "engage the audience",
+            "meaning_ko": "청중의 주의를 끌다"
+          },
+          {
+            "phrase": "engage with people",
+            "meaning_ko": "사람들과 교류하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "engage in discussion",
+            "meaning_ko": "토론에 참여하다"
+          },
+          {
+            "phrase": "engage employees",
+            "meaning_ko": "직원을 고용하다"
+          },
+          {
+            "phrase": "engage in research",
+            "meaning_ko": "연구에 참여하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "engage in dialogue",
+            "meaning_ko": "대화에 참여하다"
+          },
+          {
+            "phrase": "engage stakeholders",
+            "meaning_ko": "이해관계자와 교류하다"
+          },
+          {
+            "phrase": "engage in critical thinking",
+            "meaning_ko": "비판적 사고에 참여하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Students should engage in class discussions.",
+            "meaning_ko": "학생들은 수업 토론에 참여해야 한다."
+          },
+          {
+            "sentence": "The speaker engaged the audience with stories.",
+            "meaning_ko": "연사는 이야기로 청중의 주의를 끌었다."
+          },
+          {
+            "sentence": "We need to engage more people in the project.",
+            "meaning_ko": "우리는 더 많은 사람들을 프로젝트에 참여시켜야 한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company engaged a consultant to improve efficiency.",
+            "meaning_ko": "그 회사는 효율성을 개선하기 위해 컨설턴트를 고용했다."
+          },
+          {
+            "sentence": "She engaged in research on climate change.",
+            "meaning_ko": "그녀는 기후 변화에 대한 연구에 참여했다."
+          },
+          {
+            "sentence": "The organization engages with local communities regularly.",
+            "meaning_ko": "그 조직은 지역 사회와 정기적으로 교류한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The government engaged in dialogue with opposition parties to find common ground on the policy.",
+            "meaning_ko": "정부는 그 정책에 대해 공통점을 찾기 위해 야당과 대화에 참여했다."
+          },
+          {
+            "sentence": "The project manager engaged stakeholders throughout the development process to ensure their concerns were addressed.",
+            "meaning_ko": "프로젝트 매니저는 개발 과정 전반에 걸쳐 이해관계자들과 교류하여 그들의 우려가 해결되도록 했다."
+          },
+          {
+            "sentence": "The curriculum encourages students to engage in critical thinking rather than passive memorization.",
+            "meaning_ko": "그 교육과정은 수동적 암기보다는 비판적 사고에 참여하도록 학생들을 장려한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "engage는 '참여하다', '주의를 끌다', '고용하다' 등 다양한 의미가 있습니다. 'engage in + 명사'(참여), 'engage + 명사'(고용/주의 끌기), 'engage with + 명사'(교류) 패턴을 구분해서 외우세요. engagement(참여, 약혼)와 함께 외우면 좋습니다.",
+    "tags": [
+      "참여",
+      "고용",
+      "주의",
+      "교류",
+      "비즈니스"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'engage'.\n(A) to ignore (B) to participate or become involved (C) to avoid (D) to forget",
+            "a": "(B) to participate or become involved",
+            "meaning_ko": "engage는 참여하거나 관여하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: Students should _____ in class discussions.",
+            "a": "engage",
+            "meaning_ko": "수업 토론에 참여해야 한다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: engage _____ activities? (in / on / at)",
+            "a": "in",
+            "meaning_ko": "engage in + 명사 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The company _____ a consultant. (engaged / engage / engaging)",
+            "a": "engaged",
+            "meaning_ko": "과거형 engaged가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'engage in discussion'.\n(A) avoid discussion (B) participate in discussion (C) ignore discussion (D) forget discussion",
+            "a": "(B) participate in discussion",
+            "meaning_ko": "토론에 참여한다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'engage': 'The speaker attracted the audience's attention.'",
+            "a": "The speaker engaged the audience.",
+            "meaning_ko": "주의를 끈다는 것을 engage로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The government engaged in dialogue _____.\n(A) to avoid communication (B) to find common ground (C) to ignore issues (D) to create conflict",
+            "a": "(B) to find common ground",
+            "meaning_ko": "대화에 참여하는 목적은 공통점을 찾기 위함이라는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The project manager engage stakeholders.' (Fix the grammar.)",
+            "a": "The project manager engages stakeholders.",
+            "meaning_ko": "3인칭 단수형 engages가 맞습니다."
+          },
+          {
+            "q": "Insert 'engage' naturally: 'The curriculum encourages students to ______ in critical thinking.'",
+            "a": "engage",
+            "meaning_ko": "비판적 사고에 참여한다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "illustrious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Well known, respected, and admired for past achievements; famous and distinguished.",
+        "definition_ko": "과거 성과로 잘 알려지고 존경받으며 칭송받는; 유명하고 뛰어난.",
+        "note": "단순히 유명한 것이 아니라 존경받고 뛰어난 성과를 가진 사람을 묘사할 때 사용됩니다."
+      }
+    ],
+    "concept": "과거 성과로 존경받고 칭송받는 유명하고 뛰어난 상태.",
+    "etymology": "라틴어 illustris(빛나는, 유명한)에서 유래했으며, in-(안으로) + lustrare(빛나다)의 결합입니다.",
+    "semanticExtension": "원래는 '빛나는' 의미였으나, 현대에는 '유명하고 존경받는' 의미로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·문학적 용어로, 일상에서는 'famous'나 'distinguished'가 더 흔합니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능하며, 'illustrious + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "illustrious + 명사 (유명하고 뛰어난 …)"
+    ],
+    "morphology": "라틴어 illustris에서 유래했으며, in-(안으로) + lustrare(빛나다)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "illustriously",
+        "meaning_ko": "유명하게, 뛰어나게(부사)"
+      },
+      {
+        "word": "illustriousness",
+        "meaning_ko": "유명함, 뛰어남(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "famous",
+        "meaning_ko": "유명한"
+      },
+      {
+        "word": "distinguished",
+        "meaning_ko": "뛰어난"
+      },
+      {
+        "word": "renowned",
+        "meaning_ko": "저명한"
+      },
+      {
+        "word": "celebrated",
+        "meaning_ko": "명성 있는"
+      },
+      {
+        "word": "eminent",
+        "meaning_ko": "저명한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "famous",
+        "meaning_ko": "유명한"
+      },
+      {
+        "word": "distinguished",
+        "meaning_ko": "뛰어난"
+      },
+      {
+        "word": "renowned",
+        "meaning_ko": "저명한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "celebrated",
+        "meaning_ko": "명성 있는(일반적)"
+      },
+      {
+        "word": "eminent",
+        "meaning_ko": "저명한(일반적)"
+      },
+      {
+        "word": "prestigious",
+        "meaning_ko": "명성 있는(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unknown",
+        "meaning_ko": "알려지지 않은"
+      },
+      {
+        "word": "obscure",
+        "meaning_ko": "무명의"
+      },
+      {
+        "word": "infamous",
+        "meaning_ko": "악명 높은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "illustrious career",
+            "meaning_ko": "유명한 경력"
+          },
+          {
+            "phrase": "illustrious figure",
+            "meaning_ko": "유명한 인물"
+          },
+          {
+            "phrase": "illustrious history",
+            "meaning_ko": "유명한 역사"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "illustrious scholar",
+            "meaning_ko": "저명한 학자"
+          },
+          {
+            "phrase": "illustrious tradition",
+            "meaning_ko": "유명한 전통"
+          },
+          {
+            "phrase": "illustrious reputation",
+            "meaning_ko": "유명한 명성"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "illustrious lineage",
+            "meaning_ko": "유명한 가문"
+          },
+          {
+            "phrase": "illustrious achievements",
+            "meaning_ko": "뛰어난 성과"
+          },
+          {
+            "phrase": "illustrious predecessor",
+            "meaning_ko": "유명한 선배"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He had an illustrious career as a scientist.",
+            "meaning_ko": "그는 과학자로서 유명한 경력을 가졌다."
+          },
+          {
+            "sentence": "The university has an illustrious history.",
+            "meaning_ko": "그 대학은 유명한 역사를 가지고 있다."
+          },
+          {
+            "sentence": "She is an illustrious figure in literature.",
+            "meaning_ko": "그녀는 문학에서 유명한 인물이다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The illustrious scholar received many awards.",
+            "meaning_ko": "그 저명한 학자는 많은 상을 받았다."
+          },
+          {
+            "sentence": "The organization has an illustrious tradition of excellence.",
+            "meaning_ko": "그 조직은 우수성의 유명한 전통을 가지고 있다."
+          },
+          {
+            "sentence": "His illustrious reputation preceded him.",
+            "meaning_ko": "그의 유명한 명성이 그보다 먼저 알려졌다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The family's illustrious lineage traced back to the founding of the nation, with each generation contributing to public service.",
+            "meaning_ko": "그 가족의 유명한 가문은 국가 건립까지 거슬러 올라가며, 각 세대가 공공 서비스에 기여했다."
+          },
+          {
+            "sentence": "The new director faced the challenge of living up to the illustrious achievements of her predecessor.",
+            "meaning_ko": "새로운 감독은 그녀의 선배의 뛰어난 성과에 맞서는 도전에 직면했다."
+          },
+          {
+            "sentence": "Despite his illustrious reputation in academia, he remained humble and approachable to students.",
+            "meaning_ko": "학계에서의 유명한 명성에도 불구하고, 그는 겸손하고 학생들에게 친근하게 남아있었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "illustrious는 '유명하고 존경받는' 의미로, famous보다 존경과 뛰어난 성과를 강조합니다. 'illustrious career/history/figure' 같은 결합을 익혀두면 좋습니다. 시험에서는 'illustrious scholar/tradition/reputation' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "명성",
+      "존경",
+      "역사",
+      "인물",
+      "문학"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'illustrious'.\n(A) unknown (B) well known and respected (C) obscure (D) infamous",
+            "a": "(B) well known and respected",
+            "meaning_ko": "illustrious는 잘 알려지고 존경받는 것을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: He had an _____ career as a scientist.",
+            "a": "illustrious",
+            "meaning_ko": "유명한 경력이라는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'illustrious'?\n(A) unknown (B) famous (C) obscure (D) infamous",
+            "a": "(B) famous",
+            "meaning_ko": "famous는 illustrious의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ scholar received many awards. (illustrious / illustriously / illustriousness)",
+            "a": "illustrious",
+            "meaning_ko": "illustrious scholar(저명한 학자) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'illustrious reputation'.\n(A) unknown reputation (B) famous reputation (C) obscure reputation (D) bad reputation",
+            "a": "(B) famous reputation",
+            "meaning_ko": "유명한 명성이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'illustrious': 'The university has a famous history.'",
+            "a": "The university has an illustrious history.",
+            "meaning_ko": "유명한 역사를 illustrious로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The new director faced the challenge of living up to _____.\n(A) avoiding work (B) the illustrious achievements of her predecessor (C) ignoring responsibilities (D) creating problems",
+            "a": "(B) the illustrious achievements of her predecessor",
+            "meaning_ko": "선배의 뛰어난 성과에 맞서는 도전이라는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The family's illustrious lineage trace back.' (Fix the grammar.)",
+            "a": "The family's illustrious lineage traces back.",
+            "meaning_ko": "3인칭 단수형 traces가 맞습니다."
+          },
+          {
+            "q": "Insert 'illustrious' naturally: 'Despite his ______ reputation, he remained humble.'",
+            "a": "illustrious",
+            "meaning_ko": "유명한 명성이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

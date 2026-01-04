@@ -1,0 +1,854 @@
+[
+  {
+    "word": "irrigate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To supply water to land or crops to help growth, typically by means of channels; to wash out a wound or body cavity with a flow of water or other fluid.",
+        "definition_ko": "토지나 작물에 물을 공급하여 성장을 돕다, 보통 수로를 통해; 상처나 체강을 물이나 다른 액체의 흐름으로 씻어내다.",
+        "note": "농업 용어뿐 아니라 의학 용어로도 사용됩니다."
+      }
+    ],
+    "concept": "토지나 작물에 물을 공급하거나, 상처를 액체로 씻어내는 행위.",
+    "etymology": "라틴어 irrigare(물을 주다)에서 유래했으며, in-(안으로) + rigare(물을 주다)의 결합입니다.",
+    "semanticExtension": "원래는 농업 용어였으나, 현대에는 의학 용어('irrigate a wound')로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·농업·의학 용어로, 일상에서는 'water'가 더 흔합니다.",
+    "grammarNotes": "타동사로 'irrigate + 명사' 패턴이 가능합니다. 3인칭 단수는 irrigates입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 관개하다",
+        "example": "irrigate with water"
+      }
+    ],
+    "requiredComplements": [
+      "irrigate + 명사 (…에 물을 공급하다)",
+      "irrigate + 명사 + with + 명사 (…을 …로 관개하다)"
+    ],
+    "morphology": "라틴어 irrigare에서 유래했으며, in-(안으로) + rigare(물을 주다)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "irrigation",
+        "meaning_ko": "관개, 관수(명사)"
+      },
+      {
+        "word": "irrigated",
+        "meaning_ko": "관개된(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "water",
+        "meaning_ko": "물을 주다"
+      },
+      {
+        "word": "supply",
+        "meaning_ko": "공급하다"
+      },
+      {
+        "word": "flood",
+        "meaning_ko": "홍수로 만들다"
+      },
+      {
+        "word": "hydrate",
+        "meaning_ko": "수화시키다"
+      },
+      {
+        "word": "flush",
+        "meaning_ko": "씻어내다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "water",
+        "meaning_ko": "물을 주다"
+      },
+      {
+        "word": "supply",
+        "meaning_ko": "공급하다"
+      },
+      {
+        "word": "flush",
+        "meaning_ko": "씻어내다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "flood",
+        "meaning_ko": "홍수로 만들다(일반적)"
+      },
+      {
+        "word": "hydrate",
+        "meaning_ko": "수화시키다(일반적)"
+      },
+      {
+        "word": "saturate",
+        "meaning_ko": "포화시키다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "drain",
+        "meaning_ko": "배수하다"
+      },
+      {
+        "word": "dry",
+        "meaning_ko": "말리다"
+      },
+      {
+        "word": "dehydrate",
+        "meaning_ko": "탈수시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "irrigate fields",
+            "meaning_ko": "밭에 물을 주다"
+          },
+          {
+            "phrase": "irrigate crops",
+            "meaning_ko": "작물에 물을 주다"
+          },
+          {
+            "phrase": "irrigation system",
+            "meaning_ko": "관개 시스템"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "irrigate land",
+            "meaning_ko": "토지에 물을 주다"
+          },
+          {
+            "phrase": "irrigate a wound",
+            "meaning_ko": "상처를 씻어내다"
+          },
+          {
+            "phrase": "efficient irrigation",
+            "meaning_ko": "효율적인 관개"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "irrigate with precision",
+            "meaning_ko": "정밀하게 관개하다"
+          },
+          {
+            "phrase": "sustainable irrigation",
+            "meaning_ko": "지속 가능한 관개"
+          },
+          {
+            "phrase": "irrigate agricultural land",
+            "meaning_ko": "농지에 물을 공급하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Farmers irrigate their fields regularly.",
+            "meaning_ko": "농부들은 정기적으로 밭에 물을 준다."
+          },
+          {
+            "sentence": "The irrigation system helps crops grow.",
+            "meaning_ko": "관개 시스템은 작물이 자라도록 돕는다."
+          },
+          {
+            "sentence": "They need to irrigate the land during dry seasons.",
+            "meaning_ko": "그들은 건기 동안 토지에 물을 공급해야 한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The doctor irrigated the wound to prevent infection.",
+            "meaning_ko": "의사는 감염을 예방하기 위해 상처를 씻어냈다."
+          },
+          {
+            "sentence": "Efficient irrigation systems conserve water.",
+            "meaning_ko": "효율적인 관개 시스템은 물을 절약한다."
+          },
+          {
+            "sentence": "The region relies on irrigation for agriculture.",
+            "meaning_ko": "그 지역은 농업을 위해 관개에 의존한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Modern agricultural practices use precision irrigation to optimize water usage while maintaining crop yields.",
+            "meaning_ko": "현대 농업 관행은 작물 수확량을 유지하면서 물 사용을 최적화하기 위해 정밀 관개를 사용한다."
+          },
+          {
+            "sentence": "Sustainable irrigation methods have become essential as water resources become increasingly scarce.",
+            "meaning_ko": "물 자원이 점점 부족해지면서 지속 가능한 관개 방법이 필수적이 되었다."
+          },
+          {
+            "sentence": "The surgeon irrigated the surgical site with sterile saline solution to minimize the risk of contamination.",
+            "meaning_ko": "외과의사는 오염 위험을 최소화하기 위해 수술 부위를 멸균 식염수로 씻어냈다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "irrigate는 '물을 공급하다'의 의미로, 농업 용어뿐 아니라 의학 용어로도 사용됩니다. irrigation(관개)과 함께 외우면 좋습니다. 시험에서는 'irrigate fields/crops', 'irrigation system' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "농업",
+      "의학",
+      "물",
+      "환경",
+      "전문용어"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'irrigate'.\n(A) to drain (B) to supply water to land (C) to dry (D) to dehydrate",
+            "a": "(B) to supply water to land",
+            "meaning_ko": "irrigate는 토지에 물을 공급하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: Farmers _____ their fields regularly.",
+            "a": "irrigate",
+            "meaning_ko": "농부들이 정기적으로 밭에 물을 준다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is related to 'irrigate'?\n(A) drain (B) irrigation (C) dry (D) dehydrate",
+            "a": "(B) irrigation",
+            "meaning_ko": "irrigation은 irrigate의 파생어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The doctor _____ the wound. (irrigate / irrigated / irrigating)",
+            "a": "irrigated",
+            "meaning_ko": "과거형 irrigated가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'irrigate fields'.\n(A) drain fields (B) water fields (C) dry fields (D) ignore fields",
+            "a": "(B) water fields",
+            "meaning_ko": "밭에 물을 준다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'irrigate': 'Farmers supply water to their crops.'",
+            "a": "Farmers irrigate their crops.",
+            "meaning_ko": "작물에 물을 공급한다는 것을 irrigate로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: Modern practices use precision irrigation _____.\n(A) to waste water (B) to optimize water usage (C) to ignore efficiency (D) to create problems",
+            "a": "(B) to optimize water usage",
+            "meaning_ko": "물 사용을 최적화하기 위해 정밀 관개를 사용한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The surgeon irrigate the surgical site.' (Fix the grammar.)",
+            "a": "The surgeon irrigated the surgical site.",
+            "meaning_ko": "과거형 irrigated가 맞습니다."
+          },
+          {
+            "q": "Insert 'irrigate' naturally: 'Sustainable methods have become essential as farmers need to ______ efficiently.'",
+            "a": "irrigate",
+            "meaning_ko": "효율적으로 관개해야 한다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mercenary",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A professional soldier hired to serve in a foreign army; motivated primarily by money rather than loyalty or principles.",
+        "definition_ko": "외국 군대에서 복무하기 위해 고용된 전문 군인; 충성이나 원칙보다 돈에 의해 주로 동기부여되는.",
+        "note": "명사로는 '용병', 형용사로는 '돈에 의한/이기적인' 의미입니다."
+      }
+    ],
+    "concept": "돈을 위해 싸우는 용병, 또는 돈에 의해 동기부여되는 이기적인 태도.",
+    "etymology": "라틴어 mercenarius(돈을 받는 사람)에서 유래했으며, merces(보수)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 용병의 의미였으나, 현대에는 '돈에 의한/이기적인' 형용사 의미로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·군사·정치 용어로, 일상에서는 'hired soldier'가 더 흔합니다.",
+    "grammarNotes": "명사로는 'a mercenary' 또는 'mercenaries'로 사용되며, 형용사로는 'mercenary + 명사' 패턴이 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "mercenary + 명사 (이기적인 …)"
+    ],
+    "morphology": "라틴어 mercenarius에서 유래했으며, merces(보수)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "mercenarily",
+        "meaning_ko": "이기적으로(부사)"
+      },
+      {
+        "word": "mercenariness",
+        "meaning_ko": "이기적임(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "soldier",
+        "meaning_ko": "군인"
+      },
+      {
+        "word": "hired",
+        "meaning_ko": "고용된"
+      },
+      {
+        "word": "greedy",
+        "meaning_ko": "탐욕스러운"
+      },
+      {
+        "word": "selfish",
+        "meaning_ko": "이기적인"
+      },
+      {
+        "word": "opportunistic",
+        "meaning_ko": "기회주의적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "hired soldier",
+        "meaning_ko": "고용된 군인"
+      },
+      {
+        "word": "greedy",
+        "meaning_ko": "탐욕스러운"
+      },
+      {
+        "word": "selfish",
+        "meaning_ko": "이기적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "opportunistic",
+        "meaning_ko": "기회주의적인(일반적)"
+      },
+      {
+        "word": "materialistic",
+        "meaning_ko": "물질주의적인(일반적)"
+      },
+      {
+        "word": "avaricious",
+        "meaning_ko": "탐욕스러운(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "patriotic",
+        "meaning_ko": "애국적인"
+      },
+      {
+        "word": "altruistic",
+        "meaning_ko": "이타적인"
+      },
+      {
+        "word": "selfless",
+        "meaning_ko": "이타적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mercenary soldier",
+            "meaning_ko": "용병"
+          },
+          {
+            "phrase": "mercenary army",
+            "meaning_ko": "용병 군대"
+          },
+          {
+            "phrase": "hire mercenaries",
+            "meaning_ko": "용병을 고용하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "mercenary motives",
+            "meaning_ko": "이기적인 동기"
+          },
+          {
+            "phrase": "mercenary interests",
+            "meaning_ko": "이기적인 이익"
+          },
+          {
+            "phrase": "mercenary force",
+            "meaning_ko": "용병 부대"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mercenary warfare",
+            "meaning_ko": "용병 전쟁"
+          },
+          {
+            "phrase": "mercenary calculation",
+            "meaning_ko": "이기적인 계산"
+          },
+          {
+            "phrase": "mercenary opportunism",
+            "meaning_ko": "이기적인 기회주의"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The country hired mercenaries to fight.",
+            "meaning_ko": "그 국가는 싸우기 위해 용병을 고용했다."
+          },
+          {
+            "sentence": "His mercenary attitude disappointed everyone.",
+            "meaning_ko": "그의 이기적인 태도가 모두를 실망시켰다."
+          },
+          {
+            "sentence": "Mercenary soldiers fought for money.",
+            "meaning_ko": "용병들은 돈을 위해 싸웠다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The mercenary force was deployed in the conflict.",
+            "meaning_ko": "그 용병 부대는 그 갈등에 배치되었다."
+          },
+          {
+            "sentence": "Her mercenary motives were obvious.",
+            "meaning_ko": "그녀의 이기적인 동기는 명백했다."
+          },
+          {
+            "sentence": "The use of mercenaries raised ethical questions.",
+            "meaning_ko": "용병의 사용은 윤리적 질문을 제기했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The rise of mercenary warfare has complicated international relations, as private military contractors operate outside traditional state control.",
+            "meaning_ko": "용병 전쟁의 증가는 민간 군사 계약업체가 전통적인 국가 통제 밖에서 운영되면서 국제 관계를 복잡하게 만들었다."
+          },
+          {
+            "sentence": "Critics accused the politician of mercenary opportunism, prioritizing personal gain over public interest.",
+            "meaning_ko": "비평가들은 그 정치인을 이기적인 기회주의로 비난했으며, 공공 이익보다 개인적 이득을 우선시한다고 했다."
+          },
+          {
+            "sentence": "The mercenary calculation behind the decision became apparent when financial records were revealed.",
+            "meaning_ko": "그 결정 뒤의 이기적인 계산은 재무 기록이 공개되면서 명백해졌다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "mercenary는 '용병'과 '이기적인' 두 의미가 있습니다. 'mercenary soldier/army'와 'mercenary motives/interests' 같은 결합을 익혀두면 좋습니다. 시험에서는 정치·군사 지문에서 자주 출제됩니다.",
+    "tags": [
+      "군사",
+      "정치",
+      "이기적",
+      "돈",
+      "전문용어"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'mercenary' (noun).\n(A) patriotic soldier (B) a professional soldier hired for money (C) volunteer (D) altruistic person",
+            "a": "(B) a professional soldier hired for money",
+            "meaning_ko": "mercenary(명사)는 돈을 위해 고용된 전문 군인을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: The country hired _____ to fight.",
+            "a": "mercenaries",
+            "meaning_ko": "싸우기 위해 용병을 고용한다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is an antonym of 'mercenary'?\n(A) greedy (B) patriotic (C) selfish (D) opportunistic",
+            "a": "(B) patriotic",
+            "meaning_ko": "patriotic은 mercenary의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ force was deployed. (mercenary / mercenaries / mercenarily)",
+            "a": "mercenary",
+            "meaning_ko": "mercenary force(용병 부대) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'mercenary motives'.\n(A) patriotic motives (B) selfish motives (C) altruistic motives (D) selfless motives",
+            "a": "(B) selfish motives",
+            "meaning_ko": "이기적인 동기라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'mercenary': 'His selfish attitude disappointed everyone.'",
+            "a": "His mercenary attitude disappointed everyone.",
+            "meaning_ko": "이기적인 태도를 mercenary로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The rise of mercenary warfare has complicated international relations _____.\n(A) as private contractors operate outside state control (B) as everything improved (C) as problems disappeared (D) as nothing changed",
+            "a": "(A) as private contractors operate outside state control",
+            "meaning_ko": "민간 계약업체가 국가 통제 밖에서 운영되면서 복잡해졌다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The mercenary calculation become apparent.' (Fix the grammar.)",
+            "a": "The mercenary calculation became apparent.",
+            "meaning_ko": "과거형 became가 맞습니다."
+          },
+          {
+            "q": "Insert 'mercenary' naturally: 'Critics accused the politician of ______ opportunism.'",
+            "a": "mercenary",
+            "meaning_ko": "이기적인 기회주의라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "torpor",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A state of physical or mental inactivity; lethargy; a state of reduced physiological activity.",
+        "definition_ko": "신체적 또는 정신적 비활동 상태; 무기력; 생리적 활동이 감소된 상태.",
+        "note": "동면·무기력·정신적 둔화를 나타낼 때 사용됩니다."
+      }
+    ],
+    "concept": "신체적 또는 정신적 비활동 상태, 무기력.",
+    "etymology": "라틴어 torpor(마비, 둔화)에서 유래했으며, torpere(마비되다)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 생리적 둔화였으나, 현대에는 정신적 무기력·비활동의 의미로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·의학·문학 용어로, 일상에서는 'lethargy'나 'inactivity'가 더 흔합니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, 'in a state of torpor' 또는 'torpor of + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 무기력",
+        "example": "torpor of mind"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "무기력 상태에",
+        "example": "in a state of torpor"
+      }
+    ],
+    "requiredComplements": [
+      "in a state of torpor (무기력 상태에)",
+      "torpor of + 명사 (…의 무기력)"
+    ],
+    "morphology": "라틴어 torpor에서 유래했으며, torpere(마비되다)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "torpid",
+        "meaning_ko": "무기력한(형용사)"
+      },
+      {
+        "word": "torpidly",
+        "meaning_ko": "무기력하게(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "lethargy",
+        "meaning_ko": "무기력"
+      },
+      {
+        "word": "inactivity",
+        "meaning_ko": "비활동"
+      },
+      {
+        "word": "sluggishness",
+        "meaning_ko": "둔화"
+      },
+      {
+        "word": "dormancy",
+        "meaning_ko": "휴면"
+      },
+      {
+        "word": "apathy",
+        "meaning_ko": "무관심"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "lethargy",
+        "meaning_ko": "무기력"
+      },
+      {
+        "word": "inactivity",
+        "meaning_ko": "비활동"
+      },
+      {
+        "word": "sluggishness",
+        "meaning_ko": "둔화"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "dormancy",
+        "meaning_ko": "휴면(일반적)"
+      },
+      {
+        "word": "apathy",
+        "meaning_ko": "무관심(일반적)"
+      },
+      {
+        "word": "stupor",
+        "meaning_ko": "혼미(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "activity",
+        "meaning_ko": "활동"
+      },
+      {
+        "word": "energy",
+        "meaning_ko": "에너지"
+      },
+      {
+        "word": "vigor",
+        "meaning_ko": "활력"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "in a state of torpor",
+            "meaning_ko": "무기력 상태에"
+          },
+          {
+            "phrase": "mental torpor",
+            "meaning_ko": "정신적 무기력"
+          },
+          {
+            "phrase": "winter torpor",
+            "meaning_ko": "겨울 무기력"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "torpor of mind",
+            "meaning_ko": "정신의 무기력"
+          },
+          {
+            "phrase": "deep torpor",
+            "meaning_ko": "깊은 무기력"
+          },
+          {
+            "phrase": "emerge from torpor",
+            "meaning_ko": "무기력에서 벗어나다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "hibernating torpor",
+            "meaning_ko": "동면 무기력"
+          },
+          {
+            "phrase": "intellectual torpor",
+            "meaning_ko": "지적 무기력"
+          },
+          {
+            "phrase": "torpor induced by",
+            "meaning_ko": "~에 의해 유발된 무기력"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The bear was in a state of torpor during winter.",
+            "meaning_ko": "그 곰은 겨울 동안 무기력 상태에 있었다."
+          },
+          {
+            "sentence": "She felt a sense of mental torpor.",
+            "meaning_ko": "그녀는 정신적 무기력감을 느꼈다."
+          },
+          {
+            "sentence": "The heat caused a torpor in everyone.",
+            "meaning_ko": "더위가 모든 사람에게 무기력을 일으켰다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The torpor of mind made it hard to think clearly.",
+            "meaning_ko": "정신의 무기력이 명확하게 생각하는 것을 어렵게 만들었다."
+          },
+          {
+            "sentence": "The animal emerged from its deep torpor in spring.",
+            "meaning_ko": "그 동물은 봄에 깊은 무기력에서 벗어났다."
+          },
+          {
+            "sentence": "The medication caused a state of torpor.",
+            "meaning_ko": "그 약물은 무기력 상태를 일으켰다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The intellectual torpor that had settled over the institution was finally challenged by a new generation of scholars.",
+            "meaning_ko": "그 기관에 정착했던 지적 무기력은 마침내 새로운 세대의 학자들에 의해 도전받았다."
+          },
+          {
+            "sentence": "The hibernating torpor of the bear allowed it to survive the harsh winter months with minimal energy expenditure.",
+            "meaning_ko": "그 곰의 동면 무기력은 최소한의 에너지 소비로 가혹한 겨울 달을 생존할 수 있게 했다."
+          },
+          {
+            "sentence": "The torpor induced by the medication raised concerns about its long-term effects on cognitive function.",
+            "meaning_ko": "그 약물에 의해 유발된 무기력은 인지 기능에 대한 장기적 영향에 대한 우려를 제기했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "torpor는 '무기력/비활동 상태'의 의미로, 동면·정신적 둔화를 나타낼 때 사용됩니다. 'in a state of torpor', 'torpor of mind' 같은 결합을 익혀두면 좋습니다. torpid(무기력한)와 함께 외우면 좋습니다. 시험에서는 의학·생물학 지문에서 자주 출제됩니다.",
+    "tags": [
+      "무기력",
+      "의학",
+      "생물학",
+      "정신",
+      "문학"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'torpor'.\n(A) activity (B) a state of inactivity (C) energy (D) vigor",
+            "a": "(B) a state of inactivity",
+            "meaning_ko": "torpor는 비활동 상태를 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: The bear was in a state of _____ during winter.",
+            "a": "torpor",
+            "meaning_ko": "겨울 동안 무기력 상태에 있다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'torpor'?\n(A) activity (B) lethargy (C) energy (D) vigor",
+            "a": "(B) lethargy",
+            "meaning_ko": "lethargy는 torpor의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ of mind made it hard to think. (torpor / torpid / torpidly)",
+            "a": "torpor",
+            "meaning_ko": "torpor of mind(정신의 무기력) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'mental torpor'.\n(A) mental activity (B) mental lethargy (C) mental energy (D) mental vigor",
+            "a": "(B) mental lethargy",
+            "meaning_ko": "정신적 무기력이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'torpor': 'The bear was in a state of inactivity during winter.'",
+            "a": "The bear was in a state of torpor during winter.",
+            "meaning_ko": "비활동 상태를 torpor로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The intellectual torpor was finally challenged _____.\n(A) by a new generation (B) by avoiding problems (C) by ignoring issues (D) by giving up",
+            "a": "(A) by a new generation",
+            "meaning_ko": "새로운 세대에 의해 도전받았다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The torpor induce by the medication raised concerns.' (Fix the grammar.)",
+            "a": "The torpor induced by the medication raised concerns.",
+            "meaning_ko": "과거분사 induced가 맞습니다."
+          },
+          {
+            "q": "Insert 'torpor' naturally: 'The hibernating ______ allowed the bear to survive.'",
+            "a": "torpor",
+            "meaning_ko": "동면 무기력이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

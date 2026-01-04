@@ -1,0 +1,871 @@
+[
+  {
+    "word": "hierarchy",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A system in which members are ranked according to relative status or authority.",
+        "definition_ko": "구성원들이 상대적 지위나 권한에 따라 순위가 매겨진 체계.",
+        "note": "조직·사회·생물학 등에서 위계질서를 나타낼 때 사용됩니다."
+      }
+    ],
+    "concept": "상하 관계가 명확한 순위 체계, 위계질서.",
+    "etymology": "그리스어 hierarkhia(성직자의 지배)에서 유래했으며, hieros(신성한) + arkhein(지배하다)의 결합입니다.",
+    "semanticExtension": "원래 종교적 맥락에서 사용되었으나, 현대에는 조직·사회·생물학 등 다양한 영역의 위계 구조를 나타내는 데 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·학술·비즈니스 용어로, 공식 문서와 학술 논문에서 자주 사용됩니다.",
+    "grammarNotes": "가산명사로 주로 사용되며, 'hierarchy of + 명사' 패턴이 흔합니다. 복수형은 hierarchies입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 위계",
+        "example": "hierarchy of needs"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 위계",
+        "example": "hierarchy in the organization"
+      }
+    ],
+    "requiredComplements": [
+      "hierarchy of + 명사 (…의 위계)",
+      "in the hierarchy (위계 내에서)",
+      "within the hierarchy (위계 내에서)"
+    ],
+    "morphology": "그리스어 어원으로, 현대 영어에서는 '위계질서'의 의미로 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "hierarchical",
+        "meaning_ko": "위계적인(형용사)"
+      },
+      {
+        "word": "hierarchically",
+        "meaning_ko": "위계적으로(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "rank",
+        "meaning_ko": "계급, 순위"
+      },
+      {
+        "word": "structure",
+        "meaning_ko": "구조"
+      },
+      {
+        "word": "order",
+        "meaning_ko": "질서"
+      },
+      {
+        "word": "pecking order",
+        "meaning_ko": "서열"
+      },
+      {
+        "word": "chain of command",
+        "meaning_ko": "명령 체계"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ranking",
+        "meaning_ko": "순위"
+      },
+      {
+        "word": "pecking order",
+        "meaning_ko": "서열"
+      },
+      {
+        "word": "chain of command",
+        "meaning_ko": "명령 체계"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "structure",
+        "meaning_ko": "구조(일반적)"
+      },
+      {
+        "word": "order",
+        "meaning_ko": "질서(일반적)"
+      },
+      {
+        "word": "system",
+        "meaning_ko": "체계(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "equality",
+        "meaning_ko": "평등"
+      },
+      {
+        "word": "egalitarianism",
+        "meaning_ko": "평등주의"
+      },
+      {
+        "word": "flat structure",
+        "meaning_ko": "평면 구조"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "social hierarchy",
+            "meaning_ko": "사회적 위계"
+          },
+          {
+            "phrase": "organizational hierarchy",
+            "meaning_ko": "조직 위계"
+          },
+          {
+            "phrase": "in the hierarchy",
+            "meaning_ko": "위계 내에서"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "hierarchy of needs",
+            "meaning_ko": "욕구의 위계"
+          },
+          {
+            "phrase": "corporate hierarchy",
+            "meaning_ko": "기업 위계"
+          },
+          {
+            "phrase": "challenge the hierarchy",
+            "meaning_ko": "위계에 도전하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "hierarchical structure",
+            "meaning_ko": "위계적 구조"
+          },
+          {
+            "phrase": "flatten the hierarchy",
+            "meaning_ko": "위계를 평평하게 만들다"
+          },
+          {
+            "phrase": "hierarchy of values",
+            "meaning_ko": "가치의 위계"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The company has a clear hierarchy.",
+            "meaning_ko": "그 회사는 명확한 위계가 있다."
+          },
+          {
+            "sentence": "She moved up in the hierarchy quickly.",
+            "meaning_ko": "그녀는 위계에서 빠르게 올라갔다."
+          },
+          {
+            "sentence": "The social hierarchy affects people's opportunities.",
+            "meaning_ko": "사회적 위계는 사람들의 기회에 영향을 미친다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Maslow's hierarchy of needs is a well-known psychological theory.",
+            "meaning_ko": "매슬로의 욕구의 위계는 잘 알려진 심리학 이론이다."
+          },
+          {
+            "sentence": "The corporate hierarchy made decision-making slow.",
+            "meaning_ko": "기업 위계는 의사결정을 느리게 만들었다."
+          },
+          {
+            "sentence": "Young employees often challenge the traditional hierarchy.",
+            "meaning_ko": "젊은 직원들은 종종 전통적인 위계에 도전한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The organization attempted to flatten its hierarchy to encourage innovation and faster communication.",
+            "meaning_ko": "그 조직은 혁신과 빠른 소통을 장려하기 위해 위계를 평평하게 만들려고 시도했다."
+          },
+          {
+            "sentence": "Critics argue that the hierarchy of values embedded in the curriculum reflects outdated assumptions about knowledge.",
+            "meaning_ko": "비평가들은 교육과정에 내재된 가치의 위계가 지식에 대한 구식 가정을 반영한다고 주장한다."
+          },
+          {
+            "sentence": "The hierarchical structure, while providing clear lines of authority, also created barriers to cross-functional collaboration.",
+            "meaning_ko": "위계적 구조는 명확한 권한 체계를 제공하면서도 동시에 기능 간 협업에 장벽을 만들었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "hierarchy는 '위계질서'의 의미로, 조직·사회·생물학 등에서 순위 체계를 나타낼 때 사용됩니다. 'hierarchy of + 명사' 패턴을 익혀두면 좋습니다. hierarchical(위계적인)과 함께 외우면 좋습니다. 시험에서는 'social/organizational/corporate hierarchy' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "조직",
+      "사회",
+      "위계",
+      "구조",
+      "관리"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'hierarchy'.\n(A) equality (B) a system of ranking (C) chaos (D) friendship",
+            "a": "(B) a system of ranking",
+            "meaning_ko": "hierarchy는 순위 체계를 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: The company has a clear _____.",
+            "a": "hierarchy",
+            "meaning_ko": "명확한 위계가 있다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is an antonym of 'hierarchy'?\n(A) structure (B) equality (C) order (D) system",
+            "a": "(B) equality",
+            "meaning_ko": "equality는 hierarchy의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: Maslow's _____ of needs. (hierarchy / hierarchies / hierarchical)",
+            "a": "hierarchy",
+            "meaning_ko": "hierarchy of needs(욕구의 위계)가 대표 결합입니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'organizational hierarchy'.\n(A) organizational equality (B) organizational structure (C) organizational chaos (D) organizational friendship",
+            "a": "(B) organizational structure",
+            "meaning_ko": "조직 구조라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'hierarchy': 'The company has a clear ranking system.'",
+            "a": "The company has a clear hierarchy.",
+            "meaning_ko": "순위 체계를 hierarchy로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The organization attempted to flatten its hierarchy _____.\n(A) to maintain strict control (B) to encourage innovation (C) to increase bureaucracy (D) to create more levels",
+            "a": "(B) to encourage innovation",
+            "meaning_ko": "위계를 평평하게 만드는 목적은 혁신을 장려하기 위함이라는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The hierarchies in the organization was complex.' (Fix the grammar.)",
+            "a": "The hierarchy in the organization was complex.",
+            "meaning_ko": "단수형 hierarchy가 맞고, 단수 동사 was가 자연스럽습니다."
+          },
+          {
+            "q": "Insert 'hierarchy' naturally: 'The ______ of values embedded in the curriculum reflects outdated assumptions.'",
+            "a": "hierarchy",
+            "meaning_ko": "교육과정에 내재된 가치의 위계라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shortchange",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To give someone less than the correct amount of change; to treat someone unfairly by not giving them what they deserve.",
+        "definition_ko": "거스름돈을 적게 주다; 누군가가 받아야 할 것을 주지 않아 불공정하게 대하다.",
+        "note": "직역적으로는 거스름돈을 적게 주는 것이지만, 비유적으로는 '제대로 대우하지 않다'의 의미로 자주 사용됩니다."
+      }
+    ],
+    "concept": "거스름돈을 적게 주거나, 누군가가 받아야 할 것을 제대로 주지 않는 행위.",
+    "etymology": "short(짧은, 부족한) + change(거스름돈)의 결합으로, '거스름돈을 적게 주다'에서 출발해 '제대로 대우하지 않다'로 확장되었습니다.",
+    "semanticExtension": "원래는 거스름돈을 적게 주는 의미였으나, 현대에는 '제대로 대우하지 않다/기대에 못 미치다'의 비유적 의미로 넓게 쓰입니다.",
+    "nuanceRegister": "구어·일상 회화에서 자주 사용되며, 격식 있는 문어보다는 비격식적입니다.",
+    "grammarNotes": "타동사로 'shortchange + 명사' 패턴이 가능합니다. 3인칭 단수는 shortchanges입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에서 적게 주다",
+        "example": "shortchange someone on payment"
+      },
+      {
+        "prep": "out of",
+        "meaning_ko": "~에서 빼앗다",
+        "example": "shortchange someone out of their rights"
+      }
+    ],
+    "requiredComplements": [
+      "shortchange + 명사 (…을 제대로 대우하지 않다)",
+      "shortchange someone on + 명사 (…에서 …을 적게 주다)"
+    ],
+    "morphology": "short(부족한) + change(거스름돈)의 결합으로, '거스름돈을 적게 주다'의 의미를 형성합니다.",
+    "derivatives": [
+      {
+        "word": "shortchanged",
+        "meaning_ko": "제대로 대우받지 못한(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "cheat",
+        "meaning_ko": "속이다"
+      },
+      {
+        "word": "defraud",
+        "meaning_ko": "사기치다"
+      },
+      {
+        "word": "underpay",
+        "meaning_ko": "적게 지불하다"
+      },
+      {
+        "word": "deprive",
+        "meaning_ko": "빼앗다"
+      },
+      {
+        "word": "swindle",
+        "meaning_ko": "사기치다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cheat",
+        "meaning_ko": "속이다"
+      },
+      {
+        "word": "defraud",
+        "meaning_ko": "사기치다"
+      },
+      {
+        "word": "underpay",
+        "meaning_ko": "적게 지불하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "deprive",
+        "meaning_ko": "빼앗다(일반적)"
+      },
+      {
+        "word": "swindle",
+        "meaning_ko": "사기치다(일반적)"
+      },
+      {
+        "word": "rob",
+        "meaning_ko": "강탈하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "compensate",
+        "meaning_ko": "보상하다"
+      },
+      {
+        "word": "reimburse",
+        "meaning_ko": "상환하다"
+      },
+      {
+        "word": "pay in full",
+        "meaning_ko": "전액 지불하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "shortchange someone",
+            "meaning_ko": "누군가를 제대로 대우하지 않다"
+          },
+          {
+            "phrase": "get shortchanged",
+            "meaning_ko": "제대로 대우받지 못하다"
+          },
+          {
+            "phrase": "shortchange on payment",
+            "meaning_ko": "지불에서 적게 주다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "shortchange students",
+            "meaning_ko": "학생들을 제대로 교육하지 않다"
+          },
+          {
+            "phrase": "shortchange on quality",
+            "meaning_ko": "품질에서 적게 주다"
+          },
+          {
+            "phrase": "shortchange out of rights",
+            "meaning_ko": "권리에서 빼앗다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "shortchange the public",
+            "meaning_ko": "대중을 제대로 대우하지 않다"
+          },
+          {
+            "phrase": "shortchange on opportunities",
+            "meaning_ko": "기회에서 적게 주다"
+          },
+          {
+            "phrase": "shortchange future generations",
+            "meaning_ko": "미래 세대를 제대로 대우하지 않다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The cashier shortchanged me by two dollars.",
+            "meaning_ko": "계산원이 나에게 2달러를 적게 줬다."
+          },
+          {
+            "sentence": "Don't shortchange yourself by accepting less than you deserve.",
+            "meaning_ko": "자신이 받아야 할 것보다 적게 받아서 자신을 제대로 대우하지 마라."
+          },
+          {
+            "sentence": "I felt shortchanged by the service.",
+            "meaning_ko": "나는 그 서비스에 대해 제대로 대우받지 못했다고 느꼈다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The school system shortchanges students in rural areas.",
+            "meaning_ko": "학교 시스템은 농촌 지역 학생들을 제대로 교육하지 않는다."
+          },
+          {
+            "sentence": "The company shortchanged workers on their benefits.",
+            "meaning_ko": "그 회사는 근로자들의 혜택에서 적게 줬다."
+          },
+          {
+            "sentence": "Critics argue that the policy shortchanges future generations.",
+            "meaning_ko": "비평가들은 그 정책이 미래 세대를 제대로 대우하지 않는다고 주장한다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The education reform, while well-intentioned, shortchanged students by prioritizing test scores over critical thinking skills.",
+            "meaning_ko": "그 교육 개혁은 비록 선의였지만, 비판적 사고 능력보다 시험 점수를 우선시함으로써 학생들을 제대로 교육하지 못했다."
+          },
+          {
+            "sentence": "The budget proposal shortchanges future generations by deferring necessary infrastructure investments.",
+            "meaning_ko": "그 예산안은 필요한 인프라 투자를 미루는 것으로 미래 세대를 제대로 대우하지 않는다."
+          },
+          {
+            "sentence": "Despite promises of comprehensive coverage, the healthcare plan shortchanged patients on essential services.",
+            "meaning_ko": "포괄적 보장을 약속했음에도 불구하고, 그 의료보험 계획은 필수 서비스에서 환자들을 제대로 대우하지 않았다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "shortchange는 '거스름돈을 적게 주다'의 직역뿐 아니라 '제대로 대우하지 않다'의 비유적 의미로 자주 사용됩니다. 'shortchange someone on + 명사' 패턴을 익혀두면 좋습니다. 시험에서는 'shortchange students/workers/the public' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "불공정",
+      "거래",
+      "교육",
+      "정책",
+      "일상"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'shortchange'.\n(A) to give too much (B) to give less than correct amount (C) to ignore (D) to celebrate",
+            "a": "(B) to give less than correct amount",
+            "meaning_ko": "shortchange는 정확한 양보다 적게 주는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The cashier _____ me by two dollars.",
+            "a": "shortchanged",
+            "meaning_ko": "계산원이 2달러를 적게 줬다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'to treat unfairly'?\n(A) shortchange someone (B) help someone (C) support someone (D) celebrate someone",
+            "a": "(A) shortchange someone",
+            "meaning_ko": "shortchange someone은 불공정하게 대한다는 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The school system _____ students. (shortchanges / shortchange / shortchanging)",
+            "a": "shortchanges",
+            "meaning_ko": "3인칭 단수형 shortchanges가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'shortchange students'.\n(A) help students (B) deprive students (C) support students (D) celebrate students",
+            "a": "(B) deprive students",
+            "meaning_ko": "학생들을 제대로 교육하지 않는다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'shortchange': 'The company didn't give workers their full benefits.'",
+            "a": "The company shortchanged workers on their benefits.",
+            "meaning_ko": "전액 혜택을 주지 않는다는 것을 shortchange로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The education reform shortchanged students _____.\n(A) by providing excellent resources (B) by prioritizing test scores over critical thinking (C) by increasing funding (D) by improving facilities",
+            "a": "(B) by prioritizing test scores over critical thinking",
+            "meaning_ko": "비판적 사고보다 시험 점수를 우선시함으로써 제대로 교육하지 못했다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The policy shortchange future generations.' (Fix the grammar.)",
+            "a": "The policy shortchanges future generations.",
+            "meaning_ko": "3인칭 단수형 shortchanges가 맞습니다."
+          },
+          {
+            "q": "Insert 'shortchange' naturally: 'The budget proposal ______ future generations by deferring investments.'",
+            "a": "shortchanges",
+            "meaning_ko": "투자를 미루는 것으로 미래 세대를 제대로 대우하지 않는다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "discordant",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Not in agreement or harmony; conflicting or harsh-sounding.",
+        "definition_ko": "일치하지 않거나 조화롭지 않은; 충돌하거나 거친 소리의.",
+        "note": "의견·관계의 불일치뿐 아니라 음악적으로 불협화음의 의미도 있습니다."
+      }
+    ],
+    "concept": "일치하지 않고 충돌하거나, 소리가 거칠고 조화롭지 않은 상태.",
+    "etymology": "라틴어 discordare(일치하지 않다)에서 유래했으며, dis-(반대) + cordare(마음을 맞추다)의 결합입니다.",
+    "semanticExtension": "원래는 음악적 불협화음에서 출발했으나, 현대에는 의견·관계·정책의 불일치를 나타내는 데도 넓게 쓰입니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상에서는 'conflicting'이나 'harsh'가 더 흔합니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능하며, 'discordant with + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~와 일치하지 않는",
+        "example": "discordant with the evidence"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~와 다른",
+        "example": "discordant from expectations"
+      }
+    ],
+    "requiredComplements": [
+      "discordant with + 명사 (…와 일치하지 않는)",
+      "discordant + 명사 (불일치하는 …)"
+    ],
+    "morphology": "dis-(반대) + cordare(마음을 맞추다)의 결합으로, '일치하지 않는'의 의미를 형성합니다.",
+    "derivatives": [
+      {
+        "word": "discord",
+        "meaning_ko": "불일치, 불협화음(명사)"
+      },
+      {
+        "word": "discordance",
+        "meaning_ko": "불일치(명사)"
+      },
+      {
+        "word": "discordantly",
+        "meaning_ko": "불일치하게(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "conflicting",
+        "meaning_ko": "충돌하는"
+      },
+      {
+        "word": "incompatible",
+        "meaning_ko": "양립할 수 없는"
+      },
+      {
+        "word": "harsh",
+        "meaning_ko": "거친"
+      },
+      {
+        "word": "dissonant",
+        "meaning_ko": "불협화음의"
+      },
+      {
+        "word": "incongruous",
+        "meaning_ko": "어울리지 않는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "conflicting",
+        "meaning_ko": "충돌하는"
+      },
+      {
+        "word": "incompatible",
+        "meaning_ko": "양립할 수 없는"
+      },
+      {
+        "word": "dissonant",
+        "meaning_ko": "불협화음의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "harsh",
+        "meaning_ko": "거친(일반적)"
+      },
+      {
+        "word": "incongruous",
+        "meaning_ko": "어울리지 않는(일반적)"
+      },
+      {
+        "word": "jarring",
+        "meaning_ko": "어색한(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "harmonious",
+        "meaning_ko": "조화로운"
+      },
+      {
+        "word": "concordant",
+        "meaning_ko": "일치하는"
+      },
+      {
+        "word": "compatible",
+        "meaning_ko": "양립할 수 있는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "discordant voices",
+            "meaning_ko": "불일치하는 목소리"
+          },
+          {
+            "phrase": "discordant sounds",
+            "meaning_ko": "거친 소리"
+          },
+          {
+            "phrase": "discordant views",
+            "meaning_ko": "불일치하는 의견"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "discordant with evidence",
+            "meaning_ko": "증거와 일치하지 않는"
+          },
+          {
+            "phrase": "discordant relationship",
+            "meaning_ko": "불일치하는 관계"
+          },
+          {
+            "phrase": "discordant policies",
+            "meaning_ko": "충돌하는 정책"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "discordant narratives",
+            "meaning_ko": "충돌하는 서사"
+          },
+          {
+            "phrase": "discordant with expectations",
+            "meaning_ko": "기대와 일치하지 않는"
+          },
+          {
+            "phrase": "discordant ideological positions",
+            "meaning_ko": "충돌하는 이데올로기적 입장"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The discordant sounds hurt my ears.",
+            "meaning_ko": "거친 소리가 내 귀를 아프게 했다."
+          },
+          {
+            "sentence": "Their opinions were discordant.",
+            "meaning_ko": "그들의 의견은 일치하지 않았다."
+          },
+          {
+            "sentence": "The discordant voices made it hard to decide.",
+            "meaning_ko": "불일치하는 목소리들이 결정을 어렵게 만들었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The findings were discordant with previous research.",
+            "meaning_ko": "그 발견들은 이전 연구와 일치하지 않았다."
+          },
+          {
+            "sentence": "The discordant relationship between the departments caused delays.",
+            "meaning_ko": "부서 간의 불일치하는 관계가 지연을 초래했다."
+          },
+          {
+            "sentence": "The policy was discordant with public expectations.",
+            "meaning_ko": "그 정책은 대중의 기대와 일치하지 않았다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The discordant narratives emerging from different sources made it difficult to establish a coherent account of the events.",
+            "meaning_ko": "다양한 출처에서 나오는 충돌하는 서사들이 사건에 대한 일관된 설명을 세우는 것을 어렵게 만들었다."
+          },
+          {
+            "sentence": "The discordant ideological positions within the party threatened to fragment its base.",
+            "meaning_ko": "당 내부의 충돌하는 이데올로기적 입장들이 그 기반을 분열시킬 위협이 되었다."
+          },
+          {
+            "sentence": "Her testimony was discordant with the physical evidence, raising questions about its reliability.",
+            "meaning_ko": "그녀의 증언은 물리적 증거와 일치하지 않아 그 신뢰성에 의문을 제기했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "discordant는 '일치하지 않는/불협화음의' 의미로, 의견·관계·정책의 불일치뿐 아니라 음악적 불협화음도 나타냅니다. 'discordant with + 명사' 패턴을 익혀두면 좋습니다. discord(불일치)와 함께 외우면 좋습니다. 시험에서는 'discordant with evidence/expectations' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "불일치",
+      "충돌",
+      "음악",
+      "관계",
+      "정책"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'discordant'.\n(A) harmonious (B) not in agreement (C) friendly (D) calm",
+            "a": "(B) not in agreement",
+            "meaning_ko": "discordant는 일치하지 않는 것을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: Their opinions were _____.",
+            "a": "discordant",
+            "meaning_ko": "의견이 일치하지 않는다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is an antonym of 'discordant'?\n(A) conflicting (B) harmonious (C) harsh (D) incompatible",
+            "a": "(B) harmonious",
+            "meaning_ko": "harmonious는 discordant의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The findings were _____ with previous research. (discordant / discordant of / discordant from)",
+            "a": "discordant",
+            "meaning_ko": "discordant with + 명사 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'discordant voices'.\n(A) harmonious voices (B) conflicting voices (C) friendly voices (D) calm voices",
+            "a": "(B) conflicting voices",
+            "meaning_ko": "불일치하는 목소리라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'discordant': 'The policy conflicted with public expectations.'",
+            "a": "The policy was discordant with public expectations.",
+            "meaning_ko": "충돌한다는 것을 discordant로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The discordant narratives _____.\n(A) made it easy to understand (B) made it difficult to establish a coherent account (C) clarified everything (D) simplified the story",
+            "a": "(B) made it difficult to establish a coherent account",
+            "meaning_ko": "충돌하는 서사는 일관된 설명을 세우는 것을 어렵게 만든다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The findings were discordant to the evidence.' (Fix the preposition.)",
+            "a": "The findings were discordant with the evidence.",
+            "meaning_ko": "discordant with + 명사 패턴이 맞습니다."
+          },
+          {
+            "q": "Insert 'discordant' naturally: 'The testimony was ______ with the physical evidence.'",
+            "a": "discordant",
+            "meaning_ko": "증언이 물리적 증거와 일치하지 않는다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

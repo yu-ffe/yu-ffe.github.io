@@ -1,0 +1,865 @@
+[
+  {
+    "word": "cronyism",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The practice of favoring one's close friends, especially by giving them jobs; the appointment of friends and associates to positions of authority, without proper regard to their qualifications.",
+        "definition_ko": "특히 직업을 주는 것과 같이 가까운 친구들을 선호하는 관행; 자격에 대한 적절한 고려 없이 친구들과 동료들을 권위 있는 직위에 임명하는 것.",
+        "note": "친구나 지인을 선호하여 특혜를 주는 부정한 관행입니다."
+      }
+    ],
+    "concept": "친구나 지인을 선호하여 특혜를 주는 부정한 관행.",
+    "etymology": "crony(친구) + -ism의 결합으로, 그리스어 chronios(오래된)에서 유래했습니다.",
+    "semanticExtension": "원래는 '친구 관계' 의미였으나, 현대에는 '친구 선호 관행'('political cronyism', 'cronyism in hiring')로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·정치·비즈니스 용어로, 부정적 뉘앙스가 강합니다.",
+    "grammarNotes": "불가산명사로 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 친구 선호",
+        "example": "cronyism in politics"
+      }
+    ],
+    "requiredComplements": [
+      "cronyism in + 명사 (~에서의 친구 선호)"
+    ],
+    "morphology": "crony(친구) + -ism의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "crony",
+        "meaning_ko": "친구(명사)"
+      },
+      {
+        "word": "cronyistic",
+        "meaning_ko": "친구 선호의(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "nepotism",
+        "meaning_ko": "친척 선호"
+      },
+      {
+        "word": "favoritism",
+        "meaning_ko": "편애"
+      },
+      {
+        "word": "patronage",
+        "meaning_ko": "후원"
+      },
+      {
+        "word": "corruption",
+        "meaning_ko": "부패"
+      },
+      {
+        "word": "graft",
+        "meaning_ko": "부정 수수"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "nepotism",
+        "meaning_ko": "친척 선호"
+      },
+      {
+        "word": "favoritism",
+        "meaning_ko": "편애"
+      },
+      {
+        "word": "patronage",
+        "meaning_ko": "후원"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "corruption",
+        "meaning_ko": "부패(일반적)"
+      },
+      {
+        "word": "graft",
+        "meaning_ko": "부정 수수(일반적)"
+      },
+      {
+        "word": "bias",
+        "meaning_ko": "편향(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "meritocracy",
+        "meaning_ko": "능력주의"
+      },
+      {
+        "word": "fairness",
+        "meaning_ko": "공정함"
+      },
+      {
+        "word": "impartiality",
+        "meaning_ko": "공정성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "political cronyism",
+            "meaning_ko": "정치적 친구 선호"
+          },
+          {
+            "phrase": "cronyism in",
+            "meaning_ko": "~에서의 친구 선호"
+          },
+          {
+            "phrase": "accusations of cronyism",
+            "meaning_ko": "친구 선호에 대한 비난"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "cronyism in politics",
+            "meaning_ko": "정치에서의 친구 선호"
+          },
+          {
+            "phrase": "cronyism in hiring",
+            "meaning_ko": "채용에서의 친구 선호"
+          },
+          {
+            "phrase": "widespread cronyism",
+            "meaning_ko": "널리 퍼진 친구 선호"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "cronyism that undermines",
+            "meaning_ko": "훼손하는 친구 선호"
+          },
+          {
+            "phrase": "cronyism in government",
+            "meaning_ko": "정부에서의 친구 선호"
+          },
+          {
+            "phrase": "systematic cronyism",
+            "meaning_ko": "체계적인 친구 선호"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The political cronyism was criticized.",
+            "meaning_ko": "그 정치적 친구 선호는 비판받았다."
+          },
+          {
+            "sentence": "There was cronyism in the hiring process.",
+            "meaning_ko": "그 채용 과정에 친구 선호가 있었다."
+          },
+          {
+            "sentence": "Accusations of cronyism were made.",
+            "meaning_ko": "친구 선호에 대한 비난이 제기되었다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The cronyism in politics damaged public trust.",
+            "meaning_ko": "정치에서의 그 친구 선호는 대중의 신뢰를 훼손했다."
+          },
+          {
+            "sentence": "Widespread cronyism in the organization was exposed.",
+            "meaning_ko": "그 조직에서의 널리 퍼진 친구 선호가 폭로되었다."
+          },
+          {
+            "sentence": "The cronyism in hiring prevented qualified candidates from getting jobs.",
+            "meaning_ko": "채용에서의 그 친구 선호는 자격 있는 후보자들이 직업을 얻는 것을 방지했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The cronyism that undermines the integrity of public institutions, where positions of power are awarded based on personal relationships rather than merit, has eroded public confidence in democratic processes and created systemic barriers that prevent talented individuals from contributing to society based on their abilities.",
+            "meaning_ko": "공공 기관의 무결성을 훼손하는 그 친구 선호는, 권력의 직위가 능력보다는 개인적 관계에 기반하여 수여되는 곳에서, 민주적 과정에 대한 대중의 신뢰를 침식했고 능력에 기반하여 사회에 기여하는 재능 있는 개인들을 방지하는 체계적 장벽을 만들었다."
+          },
+          {
+            "sentence": "The systematic cronyism in government appointments, which had become deeply entrenched over decades, required comprehensive reform measures including transparent hiring processes, independent oversight committees, and strict accountability mechanisms to restore public trust and ensure that positions are filled based on qualifications rather than connections.",
+            "meaning_ko": "수십 년에 걸쳐 깊이 뿌리박힌 정부 임명에서의 그 체계적인 친구 선호는 대중의 신뢰를 회복하고 직위가 연결보다는 자격에 기반하여 채워지도록 보장하기 위해 투명한 채용 과정, 독립적인 감독 위원회, 그리고 엄격한 책임 메커니즘을 포함한 포괄적인 개혁 조치를 요구했다."
+          },
+          {
+            "sentence": "The investigation into cronyism in the corporate sector revealed a pattern of favoritism that extended beyond individual cases, suggesting a cultural problem that needed to be addressed through organizational restructuring, ethical training programs, and the establishment of clear merit-based evaluation systems that would prevent personal relationships from influencing professional decisions.",
+            "meaning_ko": "기업 부문에서의 친구 선호에 대한 그 조사는 개별 사례를 넘어 확장된 편애의 패턴을 드러냈고, 조직적 재구조화, 윤리적 교육 프로그램, 그리고 개인적 관계가 전문적 결정에 영향을 미치는 것을 방지할 명확한 능력 기반 평가 시스템의 수립을 통해 다뤄져야 할 문화적 문제를 시사했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "cronyism는 '친구 선호'의 의미로, 'political cronyism', 'cronyism in + 명사', 'accusations of cronyism' 같은 결합을 익혀두면 좋습니다. nepotism(친척 선호), favoritism(편애)와 유사합니다. crony(친구)와 함께 외우면 좋습니다. 시험에서는 'political cronyism', 'cronyism in politics', 'cronyism in hiring' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "정치",
+      "부패",
+      "사회",
+      "비즈니스",
+      "부정적"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'cronyism'.\n(A) meritocracy (B) the practice of favoring one's close friends, especially by giving them jobs (C) fairness (D) impartiality",
+            "a": "(B) the practice of favoring one's close friends, especially by giving them jobs",
+            "meaning_ko": "cronyism는 특히 직업을 주는 것과 같이 가까운 친구들을 선호하는 관행입니다."
+          },
+          {
+            "q": "Fill in the blank: The political _____ was criticized.",
+            "a": "cronyism",
+            "meaning_ko": "정치적 친구 선호가 비판받았다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is opposite to 'cronyism'?\n(A) nepotism (B) meritocracy (C) favoritism (D) patronage",
+            "a": "(B) meritocracy",
+            "meaning_ko": "meritocracy는 cronyism의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ in politics damaged public trust. (cronyism / cronyisms / cronyistic)",
+            "a": "cronyism",
+            "meaning_ko": "cronyism in politics(정치에서의 친구 선호) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'cronyism in hiring'.\n(A) meritocracy in hiring (B) favoritism in hiring (C) fairness in hiring (D) impartiality in hiring",
+            "a": "(B) favoritism in hiring",
+            "meaning_ko": "채용에서의 편애라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'cronyism': 'The practice of favoring friends in hiring was criticized.'",
+            "a": "The cronyism in hiring was criticized.",
+            "meaning_ko": "채용에서 친구를 선호하는 관행을 cronyism로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The cronyism that undermines the integrity _____.\n(A) has eroded public confidence (B) has built trust (C) has improved fairness (D) has promoted meritocracy",
+            "a": "(A) has eroded public confidence",
+            "meaning_ko": "대중의 신뢰를 침식했다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The systematic cronyism in government appointment require comprehensive reform.' (Fix the grammar.)",
+            "a": "The systematic cronyism in government appointments requires comprehensive reform.",
+            "meaning_ko": "단수 주어이므로 requires가 맞고, appointments가 맞습니다."
+          },
+          {
+            "q": "Insert 'cronyism' naturally: 'The investigation into ______ in the corporate sector revealed a pattern.'",
+            "a": "cronyism",
+            "meaning_ko": "기업 부문에서의 친구 선호에 대한 조사라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "implore",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To beg someone earnestly or desperately to do something; to plead with someone in an urgent or emotional manner.",
+        "definition_ko": "누군가에게 무언가를 하도록 진심으로 또는 절실하게 간청하다; 긴급하거나 감정적인 방식으로 누군가에게 간청하다.",
+        "note": "진심으로 또는 절실하게 간청하는 것을 강조합니다."
+      }
+    ],
+    "concept": "진심으로 또는 절실하게 간청하는 행위.",
+    "etymology": "라틴어 implorare(간청하다)에서 유래했으며, in-(안으로) + plorare(울다)의 결합입니다.",
+    "semanticExtension": "원래는 '울며 간청하다' 의미였으나, 현대에는 '진심으로 간청하다'('implore someone to do', 'implore for')로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·문학 용어로, 일상에서는 'beg'나 'plead'가 더 흔합니다.",
+    "grammarNotes": "타동사로 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위해 간청하다",
+        "example": "implore for mercy"
+      }
+    ],
+    "requiredComplements": [
+      "implore + 명사 + to + 동사 (…에게 ~하도록 간청하다)",
+      "implore + 명사 + for + 명사 (~에게 …을 위해 간청하다)"
+    ],
+    "morphology": "라틴어 implorare에서 유래했으며, in-(안으로) + plorare(울다)의 결합입니다. 3인칭 단수는 implores입니다.",
+    "derivatives": [
+      {
+        "word": "imploring",
+        "meaning_ko": "간청하는(형용사)"
+      },
+      {
+        "word": "imploringly",
+        "meaning_ko": "간청하듯이(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "beg",
+        "meaning_ko": "간청하다"
+      },
+      {
+        "word": "plead",
+        "meaning_ko": "간청하다"
+      },
+      {
+        "word": "beseech",
+        "meaning_ko": "간청하다"
+      },
+      {
+        "word": "entreat",
+        "meaning_ko": "간청하다"
+      },
+      {
+        "word": "supplicate",
+        "meaning_ko": "간청하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "beg",
+        "meaning_ko": "간청하다"
+      },
+      {
+        "word": "plead",
+        "meaning_ko": "간청하다"
+      },
+      {
+        "word": "beseech",
+        "meaning_ko": "간청하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "entreat",
+        "meaning_ko": "간청하다(일반적)"
+      },
+      {
+        "word": "supplicate",
+        "meaning_ko": "간청하다(일반적)"
+      },
+      {
+        "word": "appeal",
+        "meaning_ko": "호소하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "refuse",
+        "meaning_ko": "거절하다"
+      },
+      {
+        "word": "reject",
+        "meaning_ko": "거부하다"
+      },
+      {
+        "word": "deny",
+        "meaning_ko": "부인하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "implore someone to",
+            "meaning_ko": "누군가에게 ~하도록 간청하다"
+          },
+          {
+            "phrase": "implore for",
+            "meaning_ko": "~을 위해 간청하다"
+          },
+          {
+            "phrase": "implore mercy",
+            "meaning_ko": "자비를 간청하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "implore for mercy",
+            "meaning_ko": "자비를 위해 간청하다"
+          },
+          {
+            "phrase": "implore desperately",
+            "meaning_ko": "절실하게 간청하다"
+          },
+          {
+            "phrase": "implore earnestly",
+            "meaning_ko": "진심으로 간청하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "implore that",
+            "meaning_ko": "~라고 간청하다"
+          },
+          {
+            "phrase": "implore on behalf of",
+            "meaning_ko": "~을 대신하여 간청하다"
+          },
+          {
+            "phrase": "implore with tears",
+            "meaning_ko": "눈물로 간청하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She implored him to stay.",
+            "meaning_ko": "그녀는 그에게 머물러 달라고 간청했다."
+          },
+          {
+            "sentence": "He implored for mercy.",
+            "meaning_ko": "그는 자비를 위해 간청했다."
+          },
+          {
+            "sentence": "They implored the judge to reconsider.",
+            "meaning_ko": "그들은 그 판사에게 재고해 달라고 간청했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The mother implored for mercy for her son.",
+            "meaning_ko": "그 어머니는 그녀의 아들을 위해 자비를 간청했다."
+          },
+          {
+            "sentence": "He implored desperately for help.",
+            "meaning_ko": "그는 절실하게 도움을 간청했다."
+          },
+          {
+            "sentence": "She implored earnestly for understanding.",
+            "meaning_ko": "그녀는 진심으로 이해를 간청했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The defendant's family implored that the court show leniency, presenting emotional testimony about his difficult upbringing, his efforts at rehabilitation, and the devastating impact that a harsh sentence would have on his children, who depended on him for support and guidance.",
+            "meaning_ko": "그 피고인의 가족은 법원이 관대함을 보여달라고 간청했고, 그의 어려운 성장 과정, 재활 노력, 그리고 가혹한 판결이 그에게 지원과 지도를 의존하는 그의 아이들에게 미칠 파괴적인 영향에 대한 감정적 증언을 제시했다."
+          },
+          {
+            "sentence": "The humanitarian worker implored on behalf of the refugees, eloquently describing the dire conditions they faced and the urgent need for international assistance, moving many in the audience to take immediate action to provide support and resources.",
+            "meaning_ko": "그 인도주의 노동자는 난민들을 대신하여 간청했고, 그들이 직면한 절박한 상황과 국제적 지원의 긴급한 필요에 대해 유창하게 설명하여 청중의 많은 사람들을 즉각적인 행동을 취하여 지원과 자원을 제공하도록 이끌었다."
+          },
+          {
+            "sentence": "The elderly woman implored with tears in her eyes, her voice trembling with emotion as she described how the proposed policy change would force her to leave the home where she had lived for fifty years, a place filled with memories of her late husband and the family they had raised together.",
+            "meaning_ko": "그 노인 여성은 눈에 눈물을 흘리며 간청했고, 제안된 정책 변경이 그녀가 50년 동안 살았던 집을 떠나도록 강요할 것이라는 것을 설명하면서 감정으로 목소리가 떨렸고, 그 집은 그녀의 고인이 된 남편과 그들이 함께 키운 가족의 추억으로 가득한 곳이었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "implore는 '진심으로 간청하다'의 의미로, 'implore + 명사 + to + 동사', 'implore for + 명사', 'implore desperately/earnestly' 같은 결합을 익혀두면 좋습니다. beg, plead와 유사하지만 더 격식 있고 감정적인 뉘앙스가 있습니다. 시험에서는 'implore someone to', 'implore for mercy', 'implore desperately' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "간청",
+      "문학",
+      "격식",
+      "일상",
+      "감정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'implore'.\n(A) to refuse (B) to beg someone earnestly or desperately (C) to reject (D) to deny",
+            "a": "(B) to beg someone earnestly or desperately",
+            "meaning_ko": "implore는 누군가에게 진심으로 또는 절실하게 간청하는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: She _____ him to stay.",
+            "a": "implored",
+            "meaning_ko": "그에게 머물러 달라고 간청했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'implore'?\n(A) refuse (B) beg (C) reject (D) deny",
+            "a": "(B) beg",
+            "meaning_ko": "beg는 implore의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The mother _____ for mercy for her son. (implore / implores / implored)",
+            "a": "implored",
+            "meaning_ko": "implored for(…을 위해 간청했다) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'implore for mercy'.\n(A) refuse mercy (B) beg for mercy (C) reject mercy (D) deny mercy",
+            "a": "(B) beg for mercy",
+            "meaning_ko": "자비를 위해 간청한다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'implore': 'She begged him earnestly to stay.'",
+            "a": "She implored him to stay.",
+            "meaning_ko": "그에게 진심으로 머물러 달라고 간청했다는 것을 implore로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The family implored that the court show leniency _____.\n(A) presenting emotional testimony (B) refusing to speak (C) rejecting the case (D) denying everything",
+            "a": "(A) presenting emotional testimony",
+            "meaning_ko": "감정적 증언을 제시했다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The worker implore on behalf of the refugees.' (Fix the grammar.)",
+            "a": "The worker implored on behalf of the refugees.",
+            "meaning_ko": "과거형 implored가 맞습니다."
+          },
+          {
+            "q": "Insert 'implore' naturally: 'The woman ______ with tears in her eyes, her voice trembling.'",
+            "a": "implored",
+            "meaning_ko": "눈에 눈물을 흘리며 간청했다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "feature",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A distinctive attribute or aspect of something; a prominent or special article, program, or section in a newspaper, magazine, or broadcast.",
+        "definition_ko": "무언가의 독특한 속성이나 측면; 신문, 잡지, 또는 방송에서의 두드러지거나 특별한 기사, 프로그램, 또는 섹션.",
+        "note": "특징이나 주요 기사를 의미합니다."
+      },
+      {
+        "definition_en": "To have or include as a prominent attribute or aspect; to present or promote as a special attraction.",
+        "definition_ko": "두드러진 속성이나 측면으로 가지거나 포함하다; 특별한 매력으로 제시하거나 홍보하다.",
+        "note": "특징으로 포함하거나 홍보하는 행위입니다."
+      }
+    ],
+    "concept": "특징이나 주요 기사, 또는 특징으로 포함하거나 홍보하는 행위.",
+    "etymology": "고대 프랑스어 faiture(만들어진 것)에서 유래했으며, 라틴어 factura(만들기)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 '만들어진 것' 의미였으나, 현대에는 '특징'('feature of', 'main feature')로 확장되었습니다.",
+    "nuanceRegister": "일상·비즈니스·미디어 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사와 동사 모두 가능합니다.",
+    "transitivity": "타동사·자동사 모두",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 특징",
+        "example": "feature of the landscape"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에 나타나는 특징",
+        "example": "feature in the magazine"
+      }
+    ],
+    "requiredComplements": [
+      "feature + 명사 (…을 특징으로 포함하다)",
+      "feature of/in + 명사 (~의/~에 나타나는 특징)"
+    ],
+    "morphology": "고대 프랑스어 faiture에서 유래했으며, 라틴어 factura(만들기)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "featured",
+        "meaning_ko": "특징으로 포함된(형용사)"
+      },
+      {
+        "word": "featureless",
+        "meaning_ko": "특징 없는(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "characteristic",
+        "meaning_ko": "특징"
+      },
+      {
+        "word": "attribute",
+        "meaning_ko": "속성"
+      },
+      {
+        "word": "trait",
+        "meaning_ko": "특성"
+      },
+      {
+        "word": "article",
+        "meaning_ko": "기사"
+      },
+      {
+        "word": "highlight",
+        "meaning_ko": "강조하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "characteristic",
+        "meaning_ko": "특징"
+      },
+      {
+        "word": "attribute",
+        "meaning_ko": "속성"
+      },
+      {
+        "word": "trait",
+        "meaning_ko": "특성"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "article",
+        "meaning_ko": "기사(일반적)"
+      },
+      {
+        "word": "highlight",
+        "meaning_ko": "강조하다(일반적)"
+      },
+      {
+        "word": "showcase",
+        "meaning_ko": "전시하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "flaw",
+        "meaning_ko": "결함"
+      },
+      {
+        "word": "defect",
+        "meaning_ko": "결함"
+      },
+      {
+        "word": "weakness",
+        "meaning_ko": "약점"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "main feature",
+            "meaning_ko": "주요 특징"
+          },
+          {
+            "phrase": "feature of",
+            "meaning_ko": "~의 특징"
+          },
+          {
+            "phrase": "special feature",
+            "meaning_ko": "특별한 특징"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "feature in",
+            "meaning_ko": "~에 나타나는 특징"
+          },
+          {
+            "phrase": "key feature",
+            "meaning_ko": "핵심 특징"
+          },
+          {
+            "phrase": "distinctive feature",
+            "meaning_ko": "독특한 특징"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "feature that distinguishes",
+            "meaning_ko": "구별하는 특징"
+          },
+          {
+            "phrase": "feature prominently",
+            "meaning_ko": "두드러지게 특징으로 포함하다"
+          },
+          {
+            "phrase": "defining feature",
+            "meaning_ko": "정의하는 특징"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The main feature of the phone is its camera.",
+            "meaning_ko": "그 전화의 주요 특징은 그 카메라이다."
+          },
+          {
+            "sentence": "The magazine featured an article about travel.",
+            "meaning_ko": "그 잡지는 여행에 대한 기사를 특징으로 포함했다."
+          },
+          {
+            "sentence": "The special feature attracted many customers.",
+            "meaning_ko": "그 특별한 특징은 많은 고객들을 끌어들였다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The key feature of the software is its ease of use.",
+            "meaning_ko": "그 소프트웨어의 핵심 특징은 그 사용의 용이성이다."
+          },
+          {
+            "sentence": "The film featured in the festival won an award.",
+            "meaning_ko": "그 축제에 특징으로 포함된 그 영화는 상을 받았다."
+          },
+          {
+            "sentence": "The distinctive feature of the building is its design.",
+            "meaning_ko": "그 건물의 독특한 특징은 그 디자인이다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The feature that distinguishes this product from its competitors is not merely its innovative technology but also its commitment to sustainability, incorporating eco-friendly materials and manufacturing processes that appeal to environmentally conscious consumers while maintaining high performance standards.",
+            "meaning_ko": "이 제품을 그 경쟁자들과 구별하는 그 특징은 단순히 그 혁신적인 기술이 아니라 지속 가능성에 대한 그 약속이며, 높은 성능 기준을 유지하면서 환경을 의식하는 소비자들에게 어필하는 친환경 재료와 제조 과정을 통합한다."
+          },
+          {
+            "sentence": "The documentary featured prominently in the film festival, receiving critical acclaim for its powerful storytelling and its ability to shed light on important social issues that had previously received little attention, ultimately winning the top prize and sparking a broader conversation about the topics it explored.",
+            "meaning_ko": "그 다큐멘터리는 그 영화제에서 두드러지게 특징으로 포함되었고, 이전에 거의 주목받지 못했던 중요한 사회 문제에 빛을 비추는 그 능력과 강력한 스토리텔링으로 비평적 찬사를 받았으며, 결국 최고상을 수상하고 그것이 탐구한 주제에 대한 더 넓은 대화를 촉발했다."
+          },
+          {
+            "sentence": "The defining feature of the organization's success has been its ability to adapt quickly to changing market conditions while maintaining its core values, demonstrating that flexibility and principle can coexist when strategic vision is combined with operational excellence and a genuine commitment to stakeholder welfare.",
+            "meaning_ko": "그 조직의 성공을 정의하는 그 특징은 핵심 가치를 유지하면서 변화하는 시장 조건에 빠르게 적응하는 그 능력이었고, 전략적 비전이 운영 우수성과 이해관계자 복지에 대한 진정한 약속과 결합될 때 유연성과 원칙이 공존할 수 있음을 보여주었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "feature는 '특징/특징으로 포함하다'의 의미로, 'main/key feature', 'feature of/in + 명사', 'feature + 명사' 같은 결합을 익혀두면 좋습니다. characteristic, attribute와 유사합니다. featured(특징으로 포함된)와 함께 외우면 좋습니다. 시험에서는 'main feature', 'feature of', 'special feature' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "특징",
+      "미디어",
+      "비즈니스",
+      "일상",
+      "기술"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'feature'.\n(A) flaw (B) a distinctive attribute or aspect of something (C) defect (D) weakness",
+            "a": "(B) a distinctive attribute or aspect of something",
+            "meaning_ko": "feature는 무언가의 독특한 속성이나 측면입니다."
+          },
+          {
+            "q": "Fill in the blank: The main _____ of the phone is its camera.",
+            "a": "feature",
+            "meaning_ko": "전화의 주요 특징이라는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'feature'?\n(A) flaw (B) characteristic (C) defect (D) weakness",
+            "a": "(B) characteristic",
+            "meaning_ko": "characteristic는 feature의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The key _____ of the software is its ease of use. (feature / features / featured)",
+            "a": "feature",
+            "meaning_ko": "key feature(핵심 특징) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'main feature'.\n(A) main flaw (B) main characteristic (C) main defect (D) main weakness",
+            "a": "(B) main characteristic",
+            "meaning_ko": "주요 특징이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'feature': 'The magazine highlighted an article about travel.'",
+            "a": "The magazine featured an article about travel.",
+            "meaning_ko": "여행에 대한 기사를 강조했다는 것을 feature로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The feature that distinguishes this product _____.\n(A) is not merely its technology but also its commitment (B) is simple (C) is easy (D) is basic",
+            "a": "(A) is not merely its technology but also its commitment",
+            "meaning_ko": "단순히 그 기술이 아니라 그 약속이라는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The documentary feature prominently in the festival.' (Fix the grammar.)",
+            "a": "The documentary featured prominently in the festival.",
+            "meaning_ko": "과거형 featured가 맞습니다."
+          },
+          {
+            "q": "Insert 'feature' naturally: 'The defining ______ of the organization's success has been its ability.'",
+            "a": "feature",
+            "meaning_ko": "조직의 성공을 정의하는 특징이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

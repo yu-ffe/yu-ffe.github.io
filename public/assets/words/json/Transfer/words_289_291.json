@@ -1,0 +1,845 @@
+[
+  {
+    "word": "necessity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "The state or fact of being required or indispensable; something that is necessary.",
+        "definition_ko": "필요하거나 필수적인 상태나 사실; 필요한 것.",
+        "note": "불가피함이나 필수성을 강조할 때 사용됩니다."
+      }
+    ],
+    "concept": "필요하거나 필수적인 상태, 또는 필요한 것.",
+    "etymology": "라틴어 necessitas(필요)에서 유래했으며, ne-(아니) + cedere(가다)의 결합으로 '피할 수 없는' 의미에서 출발했습니다.",
+    "semanticExtension": "원래는 '불가피함'의 의미였으나, 현대에는 '필요성/필수품'의 의미로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·학술·비즈니스 용어로, 일상에서도 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산/불가산 모두 가능하며, 'necessity of + 명사' 또는 'necessity for + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 필요성",
+        "example": "necessity of action"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 필요성",
+        "example": "necessity for change"
+      }
+    ],
+    "requiredComplements": [
+      "necessity of + 명사 (…의 필요성)",
+      "necessity for + 명사 (…을 위한 필요성)",
+      "of necessity (필연적으로)"
+    ],
+    "morphology": "라틴어 necessitas에서 유래했으며, ne-(아니) + cedere(가다)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "necessary",
+        "meaning_ko": "필요한(형용사)"
+      },
+      {
+        "word": "necessitate",
+        "meaning_ko": "필요하게 하다(동사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "need",
+        "meaning_ko": "필요"
+      },
+      {
+        "word": "requirement",
+        "meaning_ko": "요구사항"
+      },
+      {
+        "word": "essential",
+        "meaning_ko": "필수적인"
+      },
+      {
+        "word": "indispensable",
+        "meaning_ko": "필수불가결한"
+      },
+      {
+        "word": "obligation",
+        "meaning_ko": "의무"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "need",
+        "meaning_ko": "필요"
+      },
+      {
+        "word": "requirement",
+        "meaning_ko": "요구사항"
+      },
+      {
+        "word": "essential",
+        "meaning_ko": "필수적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "indispensable",
+        "meaning_ko": "필수불가결한(일반적)"
+      },
+      {
+        "word": "obligation",
+        "meaning_ko": "의무(일반적)"
+      },
+      {
+        "word": "prerequisite",
+        "meaning_ko": "전제 조건(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "luxury",
+        "meaning_ko": "사치"
+      },
+      {
+        "word": "option",
+        "meaning_ko": "선택"
+      },
+      {
+        "word": "choice",
+        "meaning_ko": "선택"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "necessity of",
+            "meaning_ko": "~의 필요성"
+          },
+          {
+            "phrase": "basic necessity",
+            "meaning_ko": "기본 필수품"
+          },
+          {
+            "phrase": "out of necessity",
+            "meaning_ko": "필요에 의해"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "necessity for change",
+            "meaning_ko": "변화의 필요성"
+          },
+          {
+            "phrase": "economic necessity",
+            "meaning_ko": "경제적 필요성"
+          },
+          {
+            "phrase": "absolute necessity",
+            "meaning_ko": "절대적 필요성"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "necessity of reform",
+            "meaning_ko": "개혁의 필요성"
+          },
+          {
+            "phrase": "historical necessity",
+            "meaning_ko": "역사적 필연성"
+          },
+          {
+            "phrase": "necessity of intervention",
+            "meaning_ko": "개입의 필요성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Food and water are basic necessities.",
+            "meaning_ko": "음식과 물은 기본 필수품이다."
+          },
+          {
+            "sentence": "We acted out of necessity.",
+            "meaning_ko": "우리는 필요에 의해 행동했다."
+          },
+          {
+            "sentence": "There's a necessity for better communication.",
+            "meaning_ko": "더 나은 소통의 필요성이 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The necessity of reform became clear after the crisis.",
+            "meaning_ko": "개혁의 필요성은 위기 후에 명확해졌다."
+          },
+          {
+            "sentence": "Economic necessity forced many to relocate.",
+            "meaning_ko": "경제적 필요성이 많은 사람들로 하여금 이주하게 만들었다."
+          },
+          {
+            "sentence": "The absolute necessity of action was undeniable.",
+            "meaning_ko": "행동의 절대적 필요성은 부인할 수 없었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The historical necessity of social change became evident as traditional structures failed to address contemporary challenges.",
+            "meaning_ko": "전통적 구조가 현대적 도전을 해결하지 못하면서 사회 변화의 역사적 필연성이 명확해졌다."
+          },
+          {
+            "sentence": "The necessity of intervention was debated, with some arguing it was premature while others saw it as urgent.",
+            "meaning_ko": "개입의 필요성은 논의되었는데, 일부는 그것이 성급하다고 주장했고 다른 이들은 긴급하다고 보았다."
+          },
+          {
+            "sentence": "Philosophers have long debated whether certain actions are driven by free will or historical necessity.",
+            "meaning_ko": "철학자들은 오랫동안 특정 행동이 자유 의지에 의해 동기부여되는지 아니면 역사적 필연성에 의해 동기부여되는지 논쟁해왔다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "necessity는 '필요성/필수품'의 의미로, 'necessity of/for + 명사' 패턴을 익혀두면 좋습니다. necessary(필요한)와 함께 외우면 좋습니다. 시험에서는 'necessity of reform/change' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "필요",
+      "필수",
+      "경제",
+      "사회",
+      "일상"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'necessity'.\n(A) luxury (B) something that is necessary (C) option (D) choice",
+            "a": "(B) something that is necessary",
+            "meaning_ko": "necessity는 필요한 것을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: Food and water are basic _____.",
+            "a": "necessities",
+            "meaning_ko": "기본 필수품이라는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which preposition is correct: necessity _____ change? (of / in / at)",
+            "a": "of",
+            "meaning_ko": "necessity of + 명사 패턴이 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ of reform became clear. (necessity / necessities / necessary)",
+            "a": "necessity",
+            "meaning_ko": "necessity of + 명사(필요성) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'necessity for change'.\n(A) option for change (B) need for change (C) luxury for change (D) choice for change",
+            "a": "(B) need for change",
+            "meaning_ko": "변화의 필요성이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'necessity': 'We acted because it was necessary.'",
+            "a": "We acted out of necessity.",
+            "meaning_ko": "필요에 의해 행동한다는 것을 necessity로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The historical necessity of social change became evident _____.\n(A) as traditional structures failed (B) as everything improved (C) as problems disappeared (D) as nothing changed",
+            "a": "(A) as traditional structures failed",
+            "meaning_ko": "전통적 구조가 실패하면서 명확해졌다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The necessity of intervention was debate.' (Fix the grammar.)",
+            "a": "The necessity of intervention was debated.",
+            "meaning_ko": "과거분사 debated가 맞습니다."
+          },
+          {
+            "q": "Insert 'necessity' naturally: 'Philosophers debated whether actions are driven by free will or historical ______.'",
+            "a": "necessity",
+            "meaning_ko": "역사적 필연성이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tarnish",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "To make something less bright or shiny, especially metal; to damage or spoil the reputation of someone or something.",
+        "definition_ko": "무언가를 덜 밝거나 반짝이게 만들다, 특히 금속; 누군가나 무언가의 명성을 손상시키거나 망치다.",
+        "note": "물리적 변색뿐 아니라 추상적 명성 손상의 의미도 있습니다."
+      }
+    ],
+    "concept": "금속이 어둡게 변하거나, 명성이 손상되는 것.",
+    "etymology": "프랑스어 ternir(어둡게 만들다)에서 유래했으며, 라틴어 tenebrae(어둠)와 연관되어 있습니다.",
+    "semanticExtension": "원래는 금속의 변색이었으나, 현대에는 명성·평판의 손상('tarnish one's reputation')으로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상에서는 'damage'나 'spoil'이 더 흔합니다.",
+    "grammarNotes": "타동사로 'tarnish + 명사' 패턴이 가능합니다. 3인칭 단수는 tarnishes입니다.",
+    "transitivity": "타동사(동사일 때)",
+    "countability": "불가산명사(명사일 때)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "tarnish + 명사 (…을 손상시키다)"
+    ],
+    "morphology": "프랑스어 ternir에서 유래했으며, 라틴어 tenebrae(어둠)와 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "tarnished",
+        "meaning_ko": "손상된(형용사)"
+      },
+      {
+        "word": "tarnishing",
+        "meaning_ko": "손상시키는(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "stain",
+        "meaning_ko": "얼룩지게 하다"
+      },
+      {
+        "word": "damage",
+        "meaning_ko": "손상시키다"
+      },
+      {
+        "word": "sully",
+        "meaning_ko": "더럽히다"
+      },
+      {
+        "word": "blemish",
+        "meaning_ko": "흠집 내다"
+      },
+      {
+        "word": "tarnish",
+        "meaning_ko": "손상시키다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "stain",
+        "meaning_ko": "얼룩지게 하다"
+      },
+      {
+        "word": "damage",
+        "meaning_ko": "손상시키다"
+      },
+      {
+        "word": "sully",
+        "meaning_ko": "더럽히다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "blemish",
+        "meaning_ko": "흠집 내다(일반적)"
+      },
+      {
+        "word": "spoil",
+        "meaning_ko": "망치다(일반적)"
+      },
+      {
+        "word": "mar",
+        "meaning_ko": "손상시키다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "polish",
+        "meaning_ko": "닦다"
+      },
+      {
+        "word": "brighten",
+        "meaning_ko": "밝게 하다"
+      },
+      {
+        "word": "enhance",
+        "meaning_ko": "향상시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "tarnish reputation",
+            "meaning_ko": "명성을 손상시키다"
+          },
+          {
+            "phrase": "tarnish image",
+            "meaning_ko": "이미지를 손상시키다"
+          },
+          {
+            "phrase": "tarnished silver",
+            "meaning_ko": "변색된 은"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "tarnish the name",
+            "meaning_ko": "이름을 손상시키다"
+          },
+          {
+            "phrase": "tarnish credibility",
+            "meaning_ko": "신뢰성을 손상시키다"
+          },
+          {
+            "phrase": "tarnish legacy",
+            "meaning_ko": "유산을 손상시키다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "tarnish the record",
+            "meaning_ko": "기록을 손상시키다"
+          },
+          {
+            "phrase": "tarnish one's standing",
+            "meaning_ko": "지위를 손상시키다"
+          },
+          {
+            "phrase": "irreparably tarnish",
+            "meaning_ko": "회복 불가능하게 손상시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The scandal tarnished his reputation.",
+            "meaning_ko": "그 스캔들은 그의 명성을 손상시켰다."
+          },
+          {
+            "sentence": "The silver tarnished over time.",
+            "meaning_ko": "은은 시간이 지나면서 변색되었다."
+          },
+          {
+            "sentence": "The incident tarnished the company's image.",
+            "meaning_ko": "그 사건은 회사의 이미지를 손상시켰다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The allegations tarnished the politician's credibility.",
+            "meaning_ko": "그 주장들은 정치인의 신뢰성을 손상시켰다."
+          },
+          {
+            "sentence": "The controversy tarnished the organization's legacy.",
+            "meaning_ko": "그 논란은 조직의 유산을 손상시켰다."
+          },
+          {
+            "sentence": "The mistake tarnished an otherwise perfect record.",
+            "meaning_ko": "그 실수는 그렇지 않으면 완벽했을 기록을 손상시켰다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The corruption scandal irreparably tarnished the institution's standing, eroding public trust that had taken decades to build.",
+            "meaning_ko": "그 부패 스캔들은 기관의 지위를 회복 불가능하게 손상시켰고, 수십 년에 걸쳐 구축된 대중의 신뢰를 침식했다."
+          },
+          {
+            "sentence": "Despite attempts to restore its image, the tarnished reputation continued to affect the company's operations.",
+            "meaning_ko": "이미지를 회복하려는 시도에도 불구하고, 손상된 명성은 계속해서 회사의 운영에 영향을 미쳤다."
+          },
+          {
+            "sentence": "The historian argued that the event, while significant, did not tarnish the leader's overall legacy.",
+            "meaning_ko": "그 역사가는 그 사건이 비록 중요했지만, 지도자의 전체적 유산을 손상시키지는 않았다고 주장했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "tarnish는 '손상시키다'의 의미로, 물리적 변색('tarnished silver')과 추상적 명성 손상('tarnish reputation') 모두에 사용됩니다. 'tarnish + 명사' 패턴을 익혀두면 좋습니다. 시험에서는 'tarnish reputation/image/credibility' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "손상",
+      "명성",
+      "이미지",
+      "정치",
+      "비즈니스"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'tarnish'.\n(A) to polish (B) to damage reputation (C) to brighten (D) to enhance",
+            "a": "(B) to damage reputation",
+            "meaning_ko": "tarnish는 명성을 손상시키는 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The scandal _____ his reputation.",
+            "a": "tarnished",
+            "meaning_ko": "스캔들이 명성을 손상시켰다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'to damage reputation'?\n(A) tarnish reputation (B) polish reputation (C) brighten reputation (D) enhance reputation",
+            "a": "(A) tarnish reputation",
+            "meaning_ko": "tarnish reputation은 명성을 손상시킨다는 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The allegations _____ the politician's credibility. (tarnish / tarnishes / tarnishing)",
+            "a": "tarnished",
+            "meaning_ko": "과거형 tarnished가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'tarnish image'.\n(A) polish image (B) damage image (C) brighten image (D) enhance image",
+            "a": "(B) damage image",
+            "meaning_ko": "이미지를 손상시킨다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'tarnish': 'The incident damaged the company's reputation.'",
+            "a": "The incident tarnished the company's reputation.",
+            "meaning_ko": "손상시켰다는 것을 tarnish로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The corruption scandal irreparably tarnished the institution's standing _____.\n(A) building public trust (B) eroding public trust (C) improving everything (D) solving all problems",
+            "a": "(B) eroding public trust",
+            "meaning_ko": "대중의 신뢰를 침식한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The tarnish reputation continued to affect operations.' (Fix the grammar.)",
+            "a": "The tarnished reputation continued to affect operations.",
+            "meaning_ko": "과거분사 tarnished가 맞습니다."
+          },
+          {
+            "q": "Insert 'tarnish' naturally: 'The event did not ______ the leader's overall legacy.'",
+            "a": "tarnish",
+            "meaning_ko": "지도자의 전체적 유산을 손상시키지 않는다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "clairvoyant",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A person who claims to have the ability to see events in the future or beyond normal sensory contact; having the ability to perceive things beyond normal sight.",
+        "definition_ko": "미래의 사건이나 정상적인 감각 접촉을 넘어선 것을 볼 수 있는 능력을 가진다고 주장하는 사람; 정상적인 시야를 넘어선 것을 인지할 수 있는 능력을 가진.",
+        "note": "초능력·예언 능력을 가진 사람을 의미합니다."
+      }
+    ],
+    "concept": "미래를 보거나 정상적인 감각을 넘어선 것을 인지할 수 있다고 주장하는 사람.",
+    "etymology": "프랑스어 clairvoyant(명확하게 보는)에서 유래했으며, clair(명확한) + voyant(보는)의 결합입니다.",
+    "semanticExtension": "원래는 '명확하게 보는' 의미였으나, 현대에는 초능력·예언 능력을 가진 사람의 의미로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·문학·심리학 용어로, 일상에서는 'psychic'이나 'fortune teller'가 더 흔합니다.",
+    "grammarNotes": "명사로는 'clairvoyant' 단독 또는 'a clairvoyant'로 사용되며, 형용사로는 'clairvoyant + 명사' 패턴이 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "clairvoyant + 명사 (예언 능력을 가진 …)"
+    ],
+    "morphology": "프랑스어 clairvoyant에서 유래했으며, clair(명확한) + voyant(보는)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "clairvoyance",
+        "meaning_ko": "예언 능력(명사)"
+      },
+      {
+        "word": "clairvoyantly",
+        "meaning_ko": "예언 능력으로(부사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "psychic",
+        "meaning_ko": "초능력자"
+      },
+      {
+        "word": "fortune teller",
+        "meaning_ko": "점술가"
+      },
+      {
+        "word": "prophet",
+        "meaning_ko": "예언자"
+      },
+      {
+        "word": "seer",
+        "meaning_ko": "예언자"
+      },
+      {
+        "word": "medium",
+        "meaning_ko": "영매"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "psychic",
+        "meaning_ko": "초능력자"
+      },
+      {
+        "word": "fortune teller",
+        "meaning_ko": "점술가"
+      },
+      {
+        "word": "seer",
+        "meaning_ko": "예언자"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "prophet",
+        "meaning_ko": "예언자(일반적)"
+      },
+      {
+        "word": "medium",
+        "meaning_ko": "영매(일반적)"
+      },
+      {
+        "word": "visionary",
+        "meaning_ko": "선견자(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "skeptic",
+        "meaning_ko": "회의론자"
+      },
+      {
+        "word": "realist",
+        "meaning_ko": "현실주의자"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a clairvoyant",
+            "meaning_ko": "예언 능력을 가진 사람"
+          },
+          {
+            "phrase": "clairvoyant ability",
+            "meaning_ko": "예언 능력"
+          },
+          {
+            "phrase": "visit a clairvoyant",
+            "meaning_ko": "예언자를 방문하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "clairvoyant reading",
+            "meaning_ko": "예언 점술"
+          },
+          {
+            "phrase": "claim to be clairvoyant",
+            "meaning_ko": "예언 능력이 있다고 주장하다"
+          },
+          {
+            "phrase": "clairvoyant vision",
+            "meaning_ko": "예언적 비전"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "self-proclaimed clairvoyant",
+            "meaning_ko": "자칭 예언자"
+          },
+          {
+            "phrase": "clairvoyant insight",
+            "meaning_ko": "예언적 통찰"
+          },
+          {
+            "phrase": "skeptical of clairvoyant claims",
+            "meaning_ko": "예언 주장에 회의적인"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She visited a clairvoyant to learn about her future.",
+            "meaning_ko": "그녀는 자신의 미래에 대해 알아보기 위해 예언자를 방문했다."
+          },
+          {
+            "sentence": "The clairvoyant predicted the outcome.",
+            "meaning_ko": "그 예언자는 결과를 예측했다."
+          },
+          {
+            "sentence": "He claimed to have clairvoyant abilities.",
+            "meaning_ko": "그는 예언 능력을 가지고 있다고 주장했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The clairvoyant reading revealed unexpected information.",
+            "meaning_ko": "그 예언 점술은 예상치 못한 정보를 드러냈다."
+          },
+          {
+            "sentence": "Many people are skeptical of clairvoyant claims.",
+            "meaning_ko": "많은 사람들이 예언 주장에 회의적이다."
+          },
+          {
+            "sentence": "The self-proclaimed clairvoyant gained a following.",
+            "meaning_ko": "그 자칭 예언자는 추종자를 얻었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Scientists remain skeptical of clairvoyant claims, arguing that such abilities lack empirical evidence.",
+            "meaning_ko": "과학자들은 예언 주장에 대해 회의적이며, 그러한 능력이 경험적 증거가 부족하다고 주장한다."
+          },
+          {
+            "sentence": "The clairvoyant's predictions, while intriguing, failed to materialize when tested under controlled conditions.",
+            "meaning_ko": "그 예언자의 예측은 비록 흥미로웠지만, 통제된 조건에서 테스트했을 때 실현되지 않았다."
+          },
+          {
+            "sentence": "The self-proclaimed clairvoyant's following grew despite widespread skepticism from the scientific community.",
+            "meaning_ko": "과학계의 광범위한 회의론에도 불구하고, 그 자칭 예언자의 추종자는 증가했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "clairvoyant는 '예언 능력을 가진 사람'의 의미로, psychic과 유사합니다. clairvoyance(예언 능력)와 함께 외우면 좋습니다. 시험에서는 'clairvoyant reading/claims' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "초능력",
+      "예언",
+      "심리학",
+      "문학",
+      "문화"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'clairvoyant'.\n(A) skeptic (B) a person who claims to see the future (C) realist (D) scientist",
+            "a": "(B) a person who claims to see the future",
+            "meaning_ko": "clairvoyant는 미래를 볼 수 있다고 주장하는 사람을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: She visited a _____ to learn about her future.",
+            "a": "clairvoyant",
+            "meaning_ko": "예언자를 방문한다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'clairvoyant'?\n(A) skeptic (B) psychic (C) realist (D) scientist",
+            "a": "(B) psychic",
+            "meaning_ko": "psychic은 clairvoyant의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ reading revealed information. (clairvoyant / clairvoyance / clairvoyantly)",
+            "a": "clairvoyant",
+            "meaning_ko": "clairvoyant reading(예언 점술) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'clairvoyant claims'.\n(A) scientific claims (B) psychic claims (C) realistic claims (D) skeptical claims",
+            "a": "(B) psychic claims",
+            "meaning_ko": "예언 주장이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'clairvoyant': 'She visited a psychic to learn about her future.'",
+            "a": "She visited a clairvoyant to learn about her future.",
+            "meaning_ko": "초능력자를 clairvoyant로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: Scientists remain skeptical of clairvoyant claims _____.\n(A) because they lack empirical evidence (B) because they are always accurate (C) because they are easy to prove (D) because everyone believes them",
+            "a": "(A) because they lack empirical evidence",
+            "meaning_ko": "경험적 증거가 부족하기 때문에 회의적이라는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The clairvoyant prediction failed to materialize.' (Fix the grammar.)",
+            "a": "The clairvoyant's predictions failed to materialize.",
+            "meaning_ko": "소유격 clairvoyant's와 복수형 predictions가 자연스럽습니다."
+          },
+          {
+            "q": "Insert 'clairvoyant' naturally: 'The self-proclaimed ______ gained a following despite skepticism.'",
+            "a": "clairvoyant",
+            "meaning_ko": "자칭 예언자라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

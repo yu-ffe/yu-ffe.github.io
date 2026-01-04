@@ -1,0 +1,832 @@
+[
+  {
+    "word": "label",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A piece of paper or material attached to something to identify or describe it; to attach a label to something; to describe someone or something with a word or phrase.",
+        "definition_ko": "무언가에 붙여서 식별하거나 설명하는 종이 또는 재료; 무언가에 라벨을 붙이다; 누군가나 무언가를 단어나 구로 묘사하다.",
+        "note": "명사로는 '라벨/표시', 동사로는 '라벨을 붙이다/분류하다'의 의미입니다."
+      }
+    ],
+    "concept": "무언가를 식별하거나 설명하는 표시, 또는 그런 표시를 붙이거나 분류하는 행위.",
+    "etymology": "프랑스어 label(띠, 표시)에서 유래했으며, 라틴어 labellum(작은 입술)과 연관되어 있습니다.",
+    "semanticExtension": "원래는 물리적 라벨이었으나, 현대에는 추상적 분류·명명('label someone as')의 의미로도 확장되었습니다.",
+    "nuanceRegister": "일상·비즈니스·학술 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 'label on + 명사' 패턴이 흔하고, 동사로는 'label + 명사 + as + 명사' 패턴이 가능합니다.",
+    "transitivity": "타동사(동사일 때)",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 붙은 라벨",
+        "example": "label on the bottle"
+      },
+      {
+        "prep": "as",
+        "meaning_ko": "~로 분류하다",
+        "example": "label someone as"
+      }
+    ],
+    "requiredComplements": [
+      "label + 명사 + as + 명사 (…을 …로 분류하다)",
+      "label on + 명사 (…에 붙은 라벨)"
+    ],
+    "morphology": "프랑스어 label에서 유래했으며, 현대 영어에서는 '라벨/표시'의 의미로 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "labeled",
+        "meaning_ko": "라벨이 붙은(형용사)"
+      },
+      {
+        "word": "labeling",
+        "meaning_ko": "라벨 붙이기(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "tag",
+        "meaning_ko": "태그"
+      },
+      {
+        "word": "mark",
+        "meaning_ko": "표시"
+      },
+      {
+        "word": "classify",
+        "meaning_ko": "분류하다"
+      },
+      {
+        "word": "categorize",
+        "meaning_ko": "분류하다"
+      },
+      {
+        "word": "identify",
+        "meaning_ko": "식별하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "tag",
+        "meaning_ko": "태그"
+      },
+      {
+        "word": "mark",
+        "meaning_ko": "표시"
+      },
+      {
+        "word": "classify",
+        "meaning_ko": "분류하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "categorize",
+        "meaning_ko": "분류하다(일반적)"
+      },
+      {
+        "word": "identify",
+        "meaning_ko": "식별하다(일반적)"
+      },
+      {
+        "word": "name",
+        "meaning_ko": "이름 붙이다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unlabel",
+        "meaning_ko": "라벨을 떼다"
+      },
+      {
+        "word": "mislabel",
+        "meaning_ko": "잘못 라벨 붙이다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "product label",
+            "meaning_ko": "제품 라벨"
+          },
+          {
+            "phrase": "label something",
+            "meaning_ko": "무언가에 라벨 붙이다"
+          },
+          {
+            "phrase": "read the label",
+            "meaning_ko": "라벨을 읽다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "label as",
+            "meaning_ko": "~로 분류하다"
+          },
+          {
+            "phrase": "nutrition label",
+            "meaning_ko": "영양 정보 라벨"
+          },
+          {
+            "phrase": "warning label",
+            "meaning_ko": "경고 라벨"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "label someone as",
+            "meaning_ko": "누군가를 ~로 분류하다"
+          },
+          {
+            "phrase": "misleading label",
+            "meaning_ko": "오해의 소지가 있는 라벨"
+          },
+          {
+            "phrase": "label with caution",
+            "meaning_ko": "신중하게 분류하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Check the label before buying.",
+            "meaning_ko": "구매하기 전에 라벨을 확인하세요."
+          },
+          {
+            "sentence": "She labeled all the boxes.",
+            "meaning_ko": "그녀는 모든 상자에 라벨을 붙였다."
+          },
+          {
+            "sentence": "The label shows the ingredients.",
+            "meaning_ko": "라벨에는 성분이 표시되어 있다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Don't label people based on stereotypes.",
+            "meaning_ko": "고정관념에 기반해서 사람들을 분류하지 마세요."
+          },
+          {
+            "sentence": "The nutrition label provides important information.",
+            "meaning_ko": "영양 정보 라벨은 중요한 정보를 제공한다."
+          },
+          {
+            "sentence": "They labeled the product as organic.",
+            "meaning_ko": "그들은 그 제품을 유기농으로 분류했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Critics argue that the media often labels complex issues with simplistic terms, obscuring nuance.",
+            "meaning_ko": "비평가들은 미디어가 종종 복잡한 이슈를 단순한 용어로 분류하여 뉘앙스를 가리는 경향이 있다고 주장한다."
+          },
+          {
+            "sentence": "The misleading label on the product violated consumer protection regulations.",
+            "meaning_ko": "제품의 오해의 소지가 있는 라벨은 소비자 보호 규정을 위반했다."
+          },
+          {
+            "sentence": "Sociologists warn against labeling individuals based on single characteristics, as this can reinforce harmful stereotypes.",
+            "meaning_ko": "사회학자들은 단일 특성에 기반해서 개인을 분류하는 것에 대해 경고하는데, 이는 해로운 고정관념을 강화할 수 있기 때문이다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "label은 '라벨/표시'와 '라벨을 붙이다/분류하다' 두 의미가 있습니다. 'label + 명사 + as + 명사' 패턴을 익혀두면 좋습니다. 시험에서는 'label as', 'product label', 'nutrition label' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "분류",
+      "식별",
+      "제품",
+      "사회",
+      "일상"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'label' (noun).\n(A) to ignore (B) a piece of paper to identify something (C) to forget (D) to celebrate",
+            "a": "(B) a piece of paper to identify something",
+            "meaning_ko": "label(명사)는 무언가를 식별하는 종이를 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: Check the _____ before buying.",
+            "a": "label",
+            "meaning_ko": "구매하기 전에 라벨을 확인한다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase means 'to classify'?\n(A) label as (B) ignore (C) forget (D) avoid",
+            "a": "(A) label as",
+            "meaning_ko": "label as는 분류한다는 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: Don't _____ people based on stereotypes. (label / labels / labeling)",
+            "a": "label",
+            "meaning_ko": "동사 원형 label이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'label as'.\n(A) ignore (B) classify as (C) forget (D) avoid",
+            "a": "(B) classify as",
+            "meaning_ko": "~로 분류한다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'label': 'They classified the product as organic.'",
+            "a": "They labeled the product as organic.",
+            "meaning_ko": "분류한다는 것을 label로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: Critics argue that the media often labels complex issues _____.\n(A) with detailed analysis (B) with simplistic terms (C) with careful consideration (D) with thorough research",
+            "a": "(B) with simplistic terms",
+            "meaning_ko": "단순한 용어로 분류한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The misleading label on the product violate regulations.' (Fix the grammar.)",
+            "a": "The misleading label on the product violates regulations.",
+            "meaning_ko": "3인칭 단수형 violates가 맞습니다."
+          },
+          {
+            "q": "Insert 'label' naturally: 'Sociologists warn against ______ individuals based on single characteristics.'",
+            "a": "labeling",
+            "meaning_ko": "개인을 분류하는 것이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "beforehand",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "In advance; earlier than a particular time or event.",
+        "definition_ko": "미리; 특정 시간이나 사건보다 앞서서.",
+        "note": "어떤 일이 일어나기 전에 미리 하는 것을 강조합니다."
+      }
+    ],
+    "concept": "무언가가 일어나기 전에 미리 하는 것.",
+    "etymology": "before(앞서) + hand(손)의 결합으로, '손으로 앞서서' → '미리'의 의미로 굳었습니다.",
+    "semanticExtension": "원래는 '손으로 앞서서'의 의미였으나, 현대에는 '미리/사전에'의 의미로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상에서는 'in advance'나 'earlier'가 더 흔합니다.",
+    "grammarNotes": "부사로 문장의 앞이나 뒤에 올 수 있으며, 'beforehand' 단독으로도 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "before(앞서) + hand(손)의 결합으로, '미리'의 의미를 형성합니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "in advance",
+        "meaning_ko": "미리"
+      },
+      {
+        "word": "earlier",
+        "meaning_ko": "더 일찍"
+      },
+      {
+        "word": "previously",
+        "meaning_ko": "이전에"
+      },
+      {
+        "word": "ahead of time",
+        "meaning_ko": "시간보다 앞서서"
+      },
+      {
+        "word": "prior",
+        "meaning_ko": "이전의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "in advance",
+        "meaning_ko": "미리"
+      },
+      {
+        "word": "earlier",
+        "meaning_ko": "더 일찍"
+      },
+      {
+        "word": "previously",
+        "meaning_ko": "이전에"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "ahead of time",
+        "meaning_ko": "시간보다 앞서서(일반적)"
+      },
+      {
+        "word": "prior",
+        "meaning_ko": "이전의(일반적)"
+      },
+      {
+        "word": "before",
+        "meaning_ko": "앞서(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "afterward",
+        "meaning_ko": "나중에"
+      },
+      {
+        "word": "later",
+        "meaning_ko": "나중에"
+      },
+      {
+        "word": "subsequently",
+        "meaning_ko": "그 후에"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "plan beforehand",
+            "meaning_ko": "미리 계획하다"
+          },
+          {
+            "phrase": "know beforehand",
+            "meaning_ko": "미리 알다"
+          },
+          {
+            "phrase": "prepare beforehand",
+            "meaning_ko": "미리 준비하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "arrange beforehand",
+            "meaning_ko": "미리 준비하다"
+          },
+          {
+            "phrase": "discuss beforehand",
+            "meaning_ko": "미리 논의하다"
+          },
+          {
+            "phrase": "inform beforehand",
+            "meaning_ko": "미리 알리다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "coordinate beforehand",
+            "meaning_ko": "미리 조율하다"
+          },
+          {
+            "phrase": "anticipate beforehand",
+            "meaning_ko": "미리 예상하다"
+          },
+          {
+            "phrase": "strategize beforehand",
+            "meaning_ko": "미리 전략을 세우다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We should plan the trip beforehand.",
+            "meaning_ko": "우리는 여행을 미리 계획해야 한다."
+          },
+          {
+            "sentence": "I wish I had known beforehand.",
+            "meaning_ko": "미리 알았더라면 좋았을 텐데."
+          },
+          {
+            "sentence": "Please prepare everything beforehand.",
+            "meaning_ko": "모든 것을 미리 준비해 주세요."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The details were arranged beforehand.",
+            "meaning_ko": "세부사항은 미리 준비되었다."
+          },
+          {
+            "sentence": "We should discuss the terms beforehand.",
+            "meaning_ko": "우리는 조건을 미리 논의해야 한다."
+          },
+          {
+            "sentence": "They informed us beforehand about the changes.",
+            "meaning_ko": "그들은 변경사항에 대해 미리 알려주었다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The team coordinated all logistics beforehand to ensure a smooth execution of the event.",
+            "meaning_ko": "팀은 행사의 원활한 실행을 보장하기 위해 모든 물류를 미리 조율했다."
+          },
+          {
+            "sentence": "Had they anticipated the challenges beforehand, they could have developed contingency plans.",
+            "meaning_ko": "그들이 도전을 미리 예상했다면, 비상 계획을 세울 수 있었을 것이다."
+          },
+          {
+            "sentence": "The organization strategized beforehand to address potential obstacles before they materialized.",
+            "meaning_ko": "그 조직은 장애물이 실제화되기 전에 그것들을 해결하기 위해 미리 전략을 세웠다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "beforehand는 '미리/사전에'의 의미로, 'in advance'와 유사합니다. 문장의 앞이나 뒤에 올 수 있으며, 'plan/know/prepare beforehand' 같은 결합을 익혀두면 좋습니다. 시험에서는 시간 순서를 나타내는 문맥에서 자주 출제됩니다.",
+    "tags": [
+      "시간",
+      "준비",
+      "계획",
+      "일상",
+      "비즈니스"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'beforehand'.\n(A) afterward (B) in advance (C) later (D) subsequently",
+            "a": "(B) in advance",
+            "meaning_ko": "beforehand는 미리를 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: We should plan the trip _____.",
+            "a": "beforehand",
+            "meaning_ko": "여행을 미리 계획해야 한다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is an antonym of 'beforehand'?\n(A) in advance (B) afterward (C) earlier (D) previously",
+            "a": "(B) afterward",
+            "meaning_ko": "afterward는 beforehand의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The details were _____ beforehand. (arrange / arranged / arranging)",
+            "a": "arranged",
+            "meaning_ko": "과거분사 arranged가 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'plan beforehand'.\n(A) plan later (B) plan in advance (C) plan afterward (D) plan never",
+            "a": "(B) plan in advance",
+            "meaning_ko": "미리 계획한다는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'beforehand': 'We should prepare everything in advance.'",
+            "a": "We should prepare everything beforehand.",
+            "meaning_ko": "미리를 beforehand로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The team coordinated all logistics beforehand _____.\n(A) to create problems (B) to ensure a smooth execution (C) to cause delays (D) to ignore details",
+            "a": "(B) to ensure a smooth execution",
+            "meaning_ko": "원활한 실행을 보장하기 위해 미리 조율한다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'Had they anticipate the challenges beforehand.' (Fix the grammar.)",
+            "a": "Had they anticipated the challenges beforehand.",
+            "meaning_ko": "과거완료형 anticipated가 맞습니다."
+          },
+          {
+            "q": "Insert 'beforehand' naturally: 'The organization strategized ______ to address potential obstacles.'",
+            "a": "beforehand",
+            "meaning_ko": "잠재적 장애물을 해결하기 위해 미리 전략을 세운다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "odious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Extremely unpleasant; repulsive; deserving of hatred or strong dislike.",
+        "definition_ko": "극도로 불쾌한; 역겨운; 혐오나 강한 싫어함을 받을 만한.",
+        "note": "단순히 싫은 것이 아니라 강한 혐오감을 불러일으키는 것을 강조합니다."
+      }
+    ],
+    "concept": "극도로 불쾌하고 혐오스러운 상태.",
+    "etymology": "라틴어 odiosus(혐오스러운)에서 유래했으며, odium(혐오)과 연관되어 있습니다.",
+    "semanticExtension": "원래는 '혐오스러운' 의미였으나, 현대에는 사람·행동·상황의 극도로 불쾌함을 나타내는 데 넓게 쓰입니다.",
+    "nuanceRegister": "격식 있는 문어·문학적 용어로, 일상에서는 'disgusting'이나 'hateful'이 더 흔합니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능하며, 'odious + 명사' 패턴이 흔합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "odious + 명사 (혐오스러운 …)"
+    ],
+    "morphology": "라틴어 odiosus에서 유래했으며, odium(혐오)과 연관되어 있습니다.",
+    "derivatives": [
+      {
+        "word": "odiously",
+        "meaning_ko": "혐오스럽게(부사)"
+      },
+      {
+        "word": "odiousness",
+        "meaning_ko": "혐오스러움(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "disgusting",
+        "meaning_ko": "역겨운"
+      },
+      {
+        "word": "repulsive",
+        "meaning_ko": "혐오스러운"
+      },
+      {
+        "word": "hateful",
+        "meaning_ko": "증오스러운"
+      },
+      {
+        "word": "abhorrent",
+        "meaning_ko": "혐오스러운"
+      },
+      {
+        "word": "loathsome",
+        "meaning_ko": "혐오스러운"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "disgusting",
+        "meaning_ko": "역겨운"
+      },
+      {
+        "word": "repulsive",
+        "meaning_ko": "혐오스러운"
+      },
+      {
+        "word": "hateful",
+        "meaning_ko": "증오스러운"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "abhorrent",
+        "meaning_ko": "혐오스러운(일반적)"
+      },
+      {
+        "word": "loathsome",
+        "meaning_ko": "혐오스러운(일반적)"
+      },
+      {
+        "word": "revolting",
+        "meaning_ko": "역겨운(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "pleasant",
+        "meaning_ko": "유쾌한"
+      },
+      {
+        "word": "delightful",
+        "meaning_ko": "즐거운"
+      },
+      {
+        "word": "charming",
+        "meaning_ko": "매력적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "odious behavior",
+            "meaning_ko": "혐오스러운 행동"
+          },
+          {
+            "phrase": "odious person",
+            "meaning_ko": "혐오스러운 사람"
+          },
+          {
+            "phrase": "odious smell",
+            "meaning_ko": "역겨운 냄새"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "odious crime",
+            "meaning_ko": "혐오스러운 범죄"
+          },
+          {
+            "phrase": "odious practice",
+            "meaning_ko": "혐오스러운 관행"
+          },
+          {
+            "phrase": "odious task",
+            "meaning_ko": "혐오스러운 일"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "odious regime",
+            "meaning_ko": "혐오스러운 정권"
+          },
+          {
+            "phrase": "odious comparison",
+            "meaning_ko": "혐오스러운 비교"
+          },
+          {
+            "phrase": "odious reputation",
+            "meaning_ko": "혐오스러운 명성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His odious behavior made everyone uncomfortable.",
+            "meaning_ko": "그의 혐오스러운 행동이 모두를 불편하게 만들었다."
+          },
+          {
+            "sentence": "The odious smell filled the room.",
+            "meaning_ko": "역겨운 냄새가 방을 가득 채웠다."
+          },
+          {
+            "sentence": "She found the task odious.",
+            "meaning_ko": "그녀는 그 일이 혐오스럽다고 느꼈다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The odious crime shocked the community.",
+            "meaning_ko": "그 혐오스러운 범죄는 지역 사회를 충격에 빠뜨렸다."
+          },
+          {
+            "sentence": "The odious practice was finally banned.",
+            "meaning_ko": "그 혐오스러운 관행은 마침내 금지되었다."
+          },
+          {
+            "sentence": "Critics condemned the odious regime.",
+            "meaning_ko": "비평가들은 그 혐오스러운 정권을 비난했다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The odious regime's human rights violations drew international condemnation.",
+            "meaning_ko": "그 혐오스러운 정권의 인권 침해는 국제적 비난을 불러일으켰다."
+          },
+          {
+            "sentence": "Historians have documented the odious practices that characterized that era, serving as a warning for future generations.",
+            "meaning_ko": "역사가들은 그 시대를 특징짓던 혐오스러운 관행들을 문서화했으며, 이는 미래 세대에 대한 경고로 작용한다."
+          },
+          {
+            "sentence": "The odious comparison between the two leaders sparked controversy and debate.",
+            "meaning_ko": "두 지도자 간의 혐오스러운 비교는 논란과 논쟁을 불러일으켰다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "odious는 '극도로 불쾌하고 혐오스러운' 의미로, disgusting보다 격식 있고 강한 뉘앙스입니다. 'odious behavior/crime/regime' 같은 결합을 익혀두면 좋습니다. 시험에서는 문학·정치·역사 지문에서 자주 출제됩니다.",
+    "tags": [
+      "혐오",
+      "감정",
+      "정치",
+      "역사",
+      "문학"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'odious'.\n(A) pleasant (B) extremely unpleasant (C) delightful (D) charming",
+            "a": "(B) extremely unpleasant",
+            "meaning_ko": "odious는 극도로 불쾌한 것을 의미합니다."
+          },
+          {
+            "q": "Fill in the blank: His _____ behavior made everyone uncomfortable.",
+            "a": "odious",
+            "meaning_ko": "혐오스러운 행동이라는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'odious'?\n(A) pleasant (B) disgusting (C) delightful (D) charming",
+            "a": "(B) disgusting",
+            "meaning_ko": "disgusting은 odious의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ crime shocked the community. (odious / odiously / odiousness)",
+            "a": "odious",
+            "meaning_ko": "odious crime(혐오스러운 범죄) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'odious practice'.\n(A) pleasant practice (B) repulsive practice (C) delightful practice (D) charming practice",
+            "a": "(B) repulsive practice",
+            "meaning_ko": "혐오스러운 관행이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'odious': 'The disgusting behavior shocked everyone.'",
+            "a": "The odious behavior shocked everyone.",
+            "meaning_ko": "역겨운 행동을 odious로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The odious regime's human rights violations _____.\n(A) drew international praise (B) drew international condemnation (C) improved the situation (D) solved all problems",
+            "a": "(B) drew international condemnation",
+            "meaning_ko": "인권 침해는 국제적 비난을 불러일으킨다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The odious practice was finally ban.' (Fix the grammar.)",
+            "a": "The odious practice was finally banned.",
+            "meaning_ko": "과거분사 banned가 맞습니다."
+          },
+          {
+            "q": "Insert 'odious' naturally: 'Historians documented the ______ practices that characterized that era.'",
+            "a": "odious",
+            "meaning_ko": "그 시대를 특징짓던 혐오스러운 관행이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+

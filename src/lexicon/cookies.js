@@ -73,7 +73,14 @@ export function loadInitialSettings(savedSettings = {}) {
   merged.collocationLimitPerLevel = normalizeOptionalLimit(merged.collocationLimitPerLevel);
   merged.exampleLimitPerLevel = normalizeOptionalLimit(merged.exampleLimitPerLevel);
   merged.showNuance = merged.showNuance !== false;
-  merged.blurKoreanMeanings = merged.blurKoreanMeanings === true;
+  // 하위 호환성: blurKoreanMeanings가 있으면 blurBasicMeanings로 변환
+  if (merged.blurKoreanMeanings !== undefined && merged.blurBasicMeanings === undefined) {
+    merged.blurBasicMeanings = merged.blurKoreanMeanings === true;
+    merged.blurContextMeanings = merged.blurKoreanMeanings === true;
+  }
+  merged.blurBasicMeanings = merged.blurBasicMeanings === true;
+  merged.blurContextMeanings = merged.blurContextMeanings === true;
+  merged.fontScale = clamp(Number(merged.fontScale) || defaultSettings.fontScale, 0.75, 1.5);
   merged.showWordSection = true;
   merged.showPracticeSection = true;
 

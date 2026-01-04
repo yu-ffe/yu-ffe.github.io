@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import './LexiconLab.css';
 import {
   CHUNK_SIZE,
@@ -54,6 +54,55 @@ function loadWordEntries(sourceFilter) {
     if (payload && Array.isArray(payload.words)) return payload.words;
     return [];
   });
+}
+
+function formatMeaningText(text) {
+  if (!text) return '';
+  // 세미콜론을 엔터로 변환 (세미콜론 제거)
+  return text.replace(/;\s*/g, '\n');
+}
+
+function formatTextWithBold(text) {
+  if (!text) return '';
+  
+  let result = String(text);
+  
+  // 이미 <strong> 태그로 감싸진 부분은 제외하고 처리하기 위해 임시 마커 사용
+  const strongMarkers = [];
+  let markerIndex = 0;
+  
+  // 기존 <strong> 태그를 임시 마커로 교체
+  result = result.replace(/<strong>([^<]*)<\/strong>/g, (match) => {
+    const marker = `__STRONG_${markerIndex}__`;
+    strongMarkers.push(match);
+    markerIndex++;
+    return marker;
+  });
+  
+  // 다양한 따옴표 패턴 처리
+  // 작은따옴표: ' (U+2018), ' (U+2019), ' (일반)
+  // 큰따옴표: " (U+201C), " (U+201D), " (일반)
+  
+  // 유니코드 따옴표 쌍 처리 (더 구체적인 패턴부터)
+  result = result.replace(/'([^']+)'/g, '<strong>$1</strong>');  // 유니코드 작은따옴표 ''
+  result = result.replace(/'([^']+)'/g, '<strong>$1</strong>');  // 유니코드 작은따옴표 ''
+  result = result.replace(/"([^"]+)"/g, '<strong>$1</strong>');  // 유니코드 큰따옴표 ""
+  result = result.replace(/"([^"]+)"/g, '<strong>$1</strong>');  // 유니코드 큰따옴표 ""
+  
+  // 일반 따옴표 쌍 처리
+  result = result.replace(/'([^']+)'/g, '<strong>$1</strong>');  // 일반 작은따옴표 ''
+  result = result.replace(/"([^"]+)"/g, '<strong>$1</strong>');  // 일반 큰따옴표 ""
+  
+  // 임시 마커를 원래 <strong> 태그로 복원
+  strongMarkers.forEach((marker, index) => {
+    result = result.replace(`__STRONG_${index}__`, marker);
+  });
+  
+  return result;
+}
+
+function formatConceptText(text) {
+  return formatTextWithBold(text);
 }
 
 function SettingToggle({ label, checked, onChange, description }) {
@@ -127,6 +176,30 @@ function SettingsPanel({
         </div>
       </header>
 
+      <SettingGroup title="글자 크기" description="화면에 맞게 글자 크기를 조절할 수 있습니다.">
+        <div className="setting-field">
+          <label htmlFor="fontScale">글자 크기 배율</label>
+          <div className="font-size-control">
+            <label htmlFor="fontScale">크기</label>
+            <input
+              id="fontScale"
+              type="range"
+              min="0.75"
+              max="1.5"
+              step="0.05"
+              value={settings.fontScale || 1}
+              onChange={(e) => {
+                const scale = Number(e.target.value);
+                onChange({ ...settings, fontScale: scale });
+                document.documentElement.style.setProperty('--font-scale', scale);
+              }}
+            />
+            <span className="font-size-value">{Math.round((settings.fontScale || 1) * 100)}%</span>
+          </div>
+          <p className="setting-desc">75% ~ 150% 범위에서 조절 가능합니다.</p>
+        </div>
+      </SettingGroup>
+
       <SettingGroup title="프리셋" description="원클릭으로 보기/문제 구성을 전환합니다.">
         <div className="preset-list">
           {presetOptions.map((preset) => (
@@ -140,6 +213,103 @@ function SettingsPanel({
               <span className="preset-desc">{preset.description}</span>
             </button>
           ))}
+        </div>
+
+        <div className="settings-import-export">
+          <div className="setting-field">
+            <label htmlFor="settingsExport">설정 내보내기</label>
+            <div className="export-actions">
+              <button
+                type="button"
+                className="ghost"
+                onClick={() => {
+                  const exportData = {
+                    settings: { ...settings },
+                    selectedPracticeModules: settings.selectedPracticeModules,
+                  };
+                  const jsonString = JSON.stringify(exportData, null, 2);
+                  navigator.clipboard.writeText(jsonString).then(() => {
+                    alert('설정이 클립보드에 복사되었습니다!');
+                  }).catch(() => {
+                    const textarea = document.createElement('textarea');
+                    textarea.value = jsonString;
+                    document.body.appendChild(textarea);
+                    textarea.select();
+                    document.execCommand('copy');
+                    document.body.removeChild(textarea);
+                    alert('설정이 클립보드에 복사되었습니다!');
+                  });
+                }}
+              >
+                설정 복사
+              </button>
+            </div>
+            <p className="setting-desc">현재 설정을 JSON 문자열로 복사합니다.</p>
+          </div>
+
+          <div className="setting-field">
+            <label htmlFor="settingsImport">설정 가져오기</label>
+            <textarea
+              id="settingsImport"
+              placeholder="설정 JSON을 여기에 붙여넣으세요..."
+              rows="4"
+              style={{
+                width: '100%',
+                background: 'rgba(255, 255, 255, 0.06)',
+                border: '1px solid rgba(255, 255, 255, 0.12)',
+                color: '#f8fbff',
+                padding: '0.65rem 0.75rem',
+                borderRadius: '12px',
+                fontFamily: 'monospace',
+                fontSize: '0.85rem',
+                resize: 'vertical',
+              }}
+            />
+            <div className="import-actions" style={{ marginTop: '0.5rem', display: 'flex', gap: '0.5rem' }}>
+              <button
+                type="button"
+                className="ghost"
+                onClick={() => {
+                  const textarea = document.getElementById('settingsImport');
+                  const jsonString = textarea.value.trim();
+                  if (!jsonString) {
+                    alert('설정 JSON을 입력해주세요.');
+                    return;
+                  }
+                  try {
+                    const imported = JSON.parse(jsonString);
+                    if (imported.settings) {
+                      const newSettings = {
+                        ...settings,
+                        ...imported.settings,
+                        ...(imported.selectedPracticeModules ? { selectedPracticeModules: imported.selectedPracticeModules } : {}),
+                      };
+                      onChange(newSettings);
+                      textarea.value = '';
+                      alert('설정이 적용되었습니다!');
+                    } else {
+                      alert('올바른 설정 형식이 아닙니다.');
+                    }
+                  } catch (err) {
+                    alert(`설정을 불러오는데 실패했습니다: ${err.message}`);
+                  }
+                }}
+              >
+                설정 적용
+              </button>
+              <button
+                type="button"
+                className="ghost subtle"
+                onClick={() => {
+                  const textarea = document.getElementById('settingsImport');
+                  textarea.value = '';
+                }}
+              >
+                지우기
+              </button>
+            </div>
+            <p className="setting-desc">다른 사람의 설정 JSON을 붙여넣어 적용할 수 있습니다.</p>
+          </div>
         </div>
 
         <div className="custom-presets">
@@ -265,12 +435,20 @@ function SettingsPanel({
           checked={settings.showKoreanMeanings}
           onChange={(value) => onChange({ ...settings, showKoreanMeanings: value })}
         />
-        <SettingToggle
-          label="한국어 뜻 블러 처리"
-          description="표시된 한국어 뜻을 흐리게 두고, 클릭하면 선명하게 드러나도록 합니다."
-          checked={settings.blurKoreanMeanings}
-          onChange={(value) => onChange({ ...settings, blurKoreanMeanings: value })}
-        />
+        <div className="settings-grid">
+          <SettingToggle
+            label="기본 단어 뜻 가리기"
+            description="주요 의미(definition_ko)를 흐리게 두고, 클릭하면 선명하게 드러나도록 합니다."
+            checked={settings.blurBasicMeanings}
+            onChange={(value) => onChange({ ...settings, blurBasicMeanings: value })}
+          />
+          <SettingToggle
+            label="문장/콜로케이션 뜻 가리기"
+            description="예문 해석과 콜로케이션 뜻을 흐리게 두고, 클릭하면 선명하게 드러나도록 합니다."
+            checked={settings.blurContextMeanings}
+            onChange={(value) => onChange({ ...settings, blurContextMeanings: value })}
+          />
+        </div>
       </SettingGroup>
 
       <SettingGroup title="맥락 · 문법" description="학습 시 보고 싶은 설명 영역을 세분화합니다.">
@@ -393,11 +571,15 @@ function LevelIndicator({ level }) {
   );
 }
 
-function BlurReveal({ text, as = 'span', blurred, className = '' }) {
+function BlurReveal({ text, as = 'span', blurred, className = '', applyBold = false }) {
   const [revealed, setRevealed] = useState(false);
   const Tag = as;
+  const formattedText = applyBold ? formatTextWithBold(text) : text;
 
   if (!blurred) {
+    if (applyBold) {
+      return <Tag className={className} dangerouslySetInnerHTML={{ __html: formattedText }} />;
+    }
     return <Tag className={className}>{text}</Tag>;
   }
 
@@ -419,7 +601,11 @@ function BlurReveal({ text, as = 'span', blurred, className = '' }) {
       aria-pressed={revealed}
       aria-label={revealed ? '뜻이 표시되었습니다' : '클릭하여 뜻 보기'}
     >
-      <span className="blur-reveal__text">{text}</span>
+      {applyBold ? (
+        <span className="blur-reveal__text" dangerouslySetInnerHTML={{ __html: formattedText }} />
+      ) : (
+        <span className="blur-reveal__text">{text}</span>
+      )}
       {!revealed && <span className="blur-reveal__hint">탭/클릭하여 보기</span>}
     </Tag>
   );
@@ -437,9 +623,9 @@ function PillList({ label, items, showMeaning }) {
   };
 
   return (
-    <div className="pill-row">
+    <div className="pill-row pill-row--scrollable">
       <span className="pill-label">{label}</span>
-      <div className="pill-items">
+      <div className="pill-items pill-items--scrollable">
         {items.map((item, index) => (
           <span className="pill" key={`${renderItem(item)}-${index}`}>
             {renderItem(item)}
@@ -450,7 +636,7 @@ function PillList({ label, items, showMeaning }) {
   );
 }
 
-function MeaningList({ meanings, limit, showKorean, blurKoreanMeanings }) {
+function MeaningList({ meanings, limit, showKorean, blurBasicMeanings }) {
   const limited = useMemo(() => meanings?.slice(0, limit) ?? [], [limit, meanings]);
 
   if (!limited.length) return <p className="muted">뜻 정보가 없습니다.</p>;
@@ -462,9 +648,9 @@ function MeaningList({ meanings, limit, showKorean, blurKoreanMeanings }) {
           <div className="meaning-texts">
             <p className="meaning-en">{meaning.definition_en}</p>
             {showKorean && meaning.definition_ko && (
-              <BlurReveal as="p" className="meaning-ko" text={meaning.definition_ko} blurred={blurKoreanMeanings} />
+              <BlurReveal as="p" className="meaning-ko" text={formatMeaningText(meaning.definition_ko)} blurred={blurBasicMeanings} />
             )}
-            {meaning.note && <p className="meaning-note">{meaning.note}</p>}
+            {meaning.note && <p className="meaning-note" dangerouslySetInnerHTML={{ __html: formatTextWithBold(meaning.note) }} />}
           </div>
         </li>
       ))}
@@ -472,7 +658,7 @@ function MeaningList({ meanings, limit, showKorean, blurKoreanMeanings }) {
   );
 }
 
-function PrepositionPatternList({ patterns, blurKoreanMeanings }) {
+function PrepositionPatternList({ patterns, blurBasicMeanings }) {
   if (!patterns?.length) return <p className="muted">전치사 패턴 정보가 없습니다.</p>;
   return (
     <ul className="preposition-list">
@@ -481,9 +667,9 @@ function PrepositionPatternList({ patterns, blurKoreanMeanings }) {
           <span className="pill">{pattern.prep}</span>
           <div>
             {pattern.meaning_ko && (
-              <BlurReveal as="p" className="meaning-ko" text={pattern.meaning_ko} blurred={blurKoreanMeanings} />
+              <BlurReveal as="p" className="meaning-ko" text={formatMeaningText(pattern.meaning_ko)} blurred={blurBasicMeanings} />
             )}
-            {pattern.example && <p className="meaning-note">예: {pattern.example}</p>}
+            {pattern.example && <p className="meaning-note" dangerouslySetInnerHTML={{ __html: formatTextWithBold(`예: ${pattern.example}`) }} />}
           </div>
         </li>
       ))}
@@ -491,68 +677,166 @@ function PrepositionPatternList({ patterns, blurKoreanMeanings }) {
   );
 }
 
-function CollocationList({ groups, showKorean, limitPerLevel, blurKoreanMeanings }) {
+function CollocationList({ groups, showKorean, limitPerLevel, blurContextMeanings }) {
+  const scrollRef = useRef(null);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(false);
+
+  const checkScrollability = () => {
+    if (!scrollRef.current) return;
+    const { scrollLeft, scrollWidth, clientWidth } = scrollRef.current;
+    setCanScrollLeft(scrollLeft > 0);
+    setCanScrollRight(scrollLeft < scrollWidth - clientWidth - 1);
+  };
+
+  useEffect(() => {
+    checkScrollability();
+    const container = scrollRef.current;
+    if (container) {
+      container.addEventListener('scroll', checkScrollability);
+      window.addEventListener('resize', checkScrollability);
+      return () => {
+        container.removeEventListener('scroll', checkScrollability);
+        window.removeEventListener('resize', checkScrollability);
+      };
+    }
+  }, [groups]);
+
+  const scrollLeft = () => {
+    if (!scrollRef.current) return;
+    const groupWidth = scrollRef.current.clientWidth;
+    scrollRef.current.scrollBy({ left: -groupWidth, behavior: 'smooth' });
+  };
+
+  const scrollRight = () => {
+    if (!scrollRef.current) return;
+    const groupWidth = scrollRef.current.clientWidth;
+    scrollRef.current.scrollBy({ left: groupWidth, behavior: 'smooth' });
+  };
+
   if (!groups || groups.length === 0) return <p className="muted">콜로케이션 정보가 없습니다.</p>;
   return (
-    <div className="collocation-groups">
-      {groups.map((group) => (
-        <div key={group.level} className="collocation-group">
-          <LevelIndicator level={group.level} />
-          <ul className="collocation-list">
-            {group.items?.length ? (
-              (limitPerLevel ? group.items.slice(0, limitPerLevel) : group.items).map((item, index) => (
-                <li key={`${item.phrase}-${index}`}>
-                  <div className="collocation-head">
-                    <span className="phrase">{item.phrase}</span>
-                    {showKorean && item.meaning_ko && (
-                      <BlurReveal
-                        as="span"
-                        className="collocation-meaning"
-                        text={item.meaning_ko}
-                        blurred={blurKoreanMeanings}
-                      />
-                    )}
-                  </div>
-                </li>
-              ))
-            ) : (
-              <li className="muted">이 레벨의 콜로케이션이 없습니다.</li>
-            )}
-          </ul>
-        </div>
-      ))}
+    <div className="collocation-groups-wrapper">
+      <div ref={scrollRef} className="collocation-groups">
+        {groups.map((group) => (
+          <div key={group.level} className="collocation-group">
+            <LevelIndicator level={group.level} />
+            <ul className="collocation-list">
+              {group.items?.length ? (
+                (limitPerLevel ? group.items.slice(0, limitPerLevel) : group.items).map((item, index) => (
+                  <li key={`${item.phrase}-${index}`}>
+                    <div className="collocation-head">
+                      <span className="phrase" dangerouslySetInnerHTML={{ __html: formatTextWithBold(item.phrase) }} />
+                      {showKorean && item.meaning_ko && (
+                        <BlurReveal
+                          as="span"
+                          className="collocation-meaning"
+                          text={formatMeaningText(item.meaning_ko)}
+                          blurred={blurContextMeanings}
+                          applyBold={true}
+                        />
+                      )}
+                    </div>
+                  </li>
+                ))
+              ) : (
+                <li className="muted">이 레벨의 콜로케이션이 없습니다.</li>
+              )}
+            </ul>
+          </div>
+        ))}
+      </div>
+      {canScrollLeft && (
+        <button type="button" className="scroll-arrow scroll-arrow-left" onClick={scrollLeft} aria-label="왼쪽으로 스크롤">
+          ◀
+        </button>
+      )}
+      {canScrollRight && (
+        <button type="button" className="scroll-arrow scroll-arrow-right" onClick={scrollRight} aria-label="오른쪽으로 스크롤">
+          ▶
+        </button>
+      )}
     </div>
   );
 }
 
-function ExampleList({ examples, showKorean, limitPerLevel, blurKoreanMeanings }) {
+function ExampleList({ examples, showKorean, limitPerLevel, blurContextMeanings }) {
+  const scrollRef = useRef(null);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(false);
+
+  const checkScrollability = () => {
+    if (!scrollRef.current) return;
+    const { scrollLeft, scrollWidth, clientWidth } = scrollRef.current;
+    setCanScrollLeft(scrollLeft > 0);
+    setCanScrollRight(scrollLeft < scrollWidth - clientWidth - 1);
+  };
+
+  useEffect(() => {
+    checkScrollability();
+    const container = scrollRef.current;
+    if (container) {
+      container.addEventListener('scroll', checkScrollability);
+      window.addEventListener('resize', checkScrollability);
+      return () => {
+        container.removeEventListener('scroll', checkScrollability);
+        window.removeEventListener('resize', checkScrollability);
+      };
+    }
+  }, [examples]);
+
+  const scrollLeft = () => {
+    if (!scrollRef.current) return;
+    const groupWidth = scrollRef.current.clientWidth;
+    scrollRef.current.scrollBy({ left: -groupWidth, behavior: 'smooth' });
+  };
+
+  const scrollRight = () => {
+    if (!scrollRef.current) return;
+    const groupWidth = scrollRef.current.clientWidth;
+    scrollRef.current.scrollBy({ left: groupWidth, behavior: 'smooth' });
+  };
+
   if (!examples || examples.length === 0) return <p className="muted">예문이 없습니다.</p>;
   return (
-    <div className="example-groups">
-      {examples.map((group) => (
-        <div key={group.level} className="example-group">
-          <LevelIndicator level={group.level} />
-          <ul className="example-list">
-            {group.items?.length ? (
-              (limitPerLevel ? group.items.slice(0, limitPerLevel) : group.items).map((item, index) => (
-                <li key={`${item.sentence}-${index}`}>
-                  <p className="meaning-en">{item.sentence}</p>
-                  {showKorean && item.meaning_ko && (
-                    <BlurReveal
-                      as="p"
-                      className="meaning-ko"
-                      text={item.meaning_ko}
-                      blurred={blurKoreanMeanings}
-                    />
-                  )}
-                </li>
-              ))
-            ) : (
-              <li className="muted">예문이 없습니다.</li>
-            )}
-          </ul>
-        </div>
-      ))}
+    <div className="example-groups-wrapper">
+      <div ref={scrollRef} className="example-groups">
+        {examples.map((group) => (
+          <div key={group.level} className="example-group">
+            <LevelIndicator level={group.level} />
+            <ul className="example-list">
+              {group.items?.length ? (
+                (limitPerLevel ? group.items.slice(0, limitPerLevel) : group.items).map((item, index) => (
+                  <li key={`${item.sentence}-${index}`}>
+                    <p className="meaning-en" dangerouslySetInnerHTML={{ __html: formatTextWithBold(item.sentence) }} />
+                    {showKorean && item.meaning_ko && (
+                      <BlurReveal
+                        as="p"
+                        className="meaning-ko"
+                        text={formatMeaningText(item.meaning_ko)}
+                        blurred={blurContextMeanings}
+                        applyBold={true}
+                      />
+                    )}
+                  </li>
+                ))
+              ) : (
+                <li className="muted">예문이 없습니다.</li>
+              )}
+            </ul>
+          </div>
+        ))}
+      </div>
+      {canScrollLeft && (
+        <button type="button" className="scroll-arrow scroll-arrow-left" onClick={scrollLeft} aria-label="왼쪽으로 스크롤">
+          ◀
+        </button>
+      )}
+      {canScrollRight && (
+        <button type="button" className="scroll-arrow scroll-arrow-right" onClick={scrollRight} aria-label="오른쪽으로 스크롤">
+          ▶
+        </button>
+      )}
     </div>
   );
 }
@@ -588,39 +872,88 @@ function QuizList({
   showTitle = true,
   blurAnswers,
   blurAmount,
-  blurKoreanMeanings,
+  blurBasicMeanings,
 }) {
+  const scrollRef = useRef(null);
+  const [canScrollLeft, setCanScrollLeft] = useState(false);
+  const [canScrollRight, setCanScrollRight] = useState(false);
+
+  const checkScrollability = () => {
+    if (!scrollRef.current) return;
+    const { scrollLeft, scrollWidth, clientWidth } = scrollRef.current;
+    setCanScrollLeft(scrollLeft > 0);
+    setCanScrollRight(scrollLeft < scrollWidth - clientWidth - 1);
+  };
+
+  useEffect(() => {
+    checkScrollability();
+    const container = scrollRef.current;
+    if (container) {
+      container.addEventListener('scroll', checkScrollability);
+      window.addEventListener('resize', checkScrollability);
+      return () => {
+        container.removeEventListener('scroll', checkScrollability);
+        window.removeEventListener('resize', checkScrollability);
+      };
+    }
+  }, [quiz]);
+
+  const scrollLeft = () => {
+    if (!scrollRef.current) return;
+    const groupWidth = scrollRef.current.clientWidth;
+    scrollRef.current.scrollBy({ left: -groupWidth, behavior: 'smooth' });
+  };
+
+  const scrollRight = () => {
+    if (!scrollRef.current) return;
+    const groupWidth = scrollRef.current.clientWidth;
+    scrollRef.current.scrollBy({ left: groupWidth, behavior: 'smooth' });
+  };
+
   if (!quiz || quiz.length === 0) return null;
   return (
-    <div className="quiz-list">
+    <div className="quiz-list-wrapper">
       {showTitle && <p className="quiz-title">미니 퀴즈</p>}
-      {quiz.map((group) => (
-        <div key={group.level} className="quiz-group">
-          <LevelIndicator level={group.level} />
-          <ul className="quiz-items">
-            {group.items?.length ? (
-              group.items.slice(0, limitPerLevel).map((item, index) => (
-                <li key={`${item.q}-${index}`}>
-                  <p className="quiz-question">{item.q}</p>
-                  {showKorean && item.meaning_ko && (
-                    <BlurReveal
-                      as="p"
-                      className="meaning-note quiz-hint"
-                      text={item.meaning_ko}
-                      blurred={blurKoreanMeanings}
-                    />
-                  )}
-                  <div className="quiz-choices">
-                    <QuizAnswer text={item.a} blurred={blurAnswers} blurAmount={blurAmount} />
-                  </div>
-                </li>
-              ))
-            ) : (
-              <li className="muted">이 레벨의 퀴즈가 없습니다.</li>
-            )}
-          </ul>
-        </div>
-      ))}
+      <div ref={scrollRef} className="quiz-groups">
+        {quiz.map((group) => (
+          <div key={group.level} className="quiz-group">
+            <LevelIndicator level={group.level} />
+            <ul className="quiz-items">
+              {group.items?.length ? (
+                group.items.slice(0, limitPerLevel).map((item, index) => (
+                  <li key={`${item.q}-${index}`}>
+                    <p className="quiz-question" dangerouslySetInnerHTML={{ __html: formatTextWithBold(item.q) }} />
+                    {showKorean && item.meaning_ko && (
+                      <BlurReveal
+                        as="p"
+                        className="meaning-note quiz-hint"
+                        text={item.meaning_ko}
+                        blurred={blurBasicMeanings}
+                        applyBold={true}
+                      />
+                    )}
+                    <div className="quiz-choices">
+                      <QuizAnswer text={item.a} blurred={blurAnswers} blurAmount={blurAmount} />
+                    </div>
+                  </li>
+                ))
+              ) : (
+                <li className="muted">이 레벨의 퀴즈가 없습니다.</li>
+              )}
+            </ul>
+          </div>
+        ))}
+      </div>
+      {canScrollLeft && (
+        <button type="button" className="scroll-arrow scroll-arrow-left" onClick={scrollLeft} aria-label="왼쪽으로 스크롤">
+          ◀
+        </button>
+      )}
+      {canScrollRight && (
+        <button type="button" className="scroll-arrow scroll-arrow-right" onClick={scrollRight} aria-label="오른쪽으로 스크롤">
+          ▶
+        </button>
+      )}
     </div>
   );
 }
@@ -664,34 +997,66 @@ function PracticeCard({ question, settings }) {
   return (
     <article className={`practice-card ${revealed ? 'revealed' : ''}`}>
       <header className="practice-card-header">
-        <p className="practice-type">{question.type}</p>
-        <span className={`practice-word ${revealed ? 'visible' : 'hidden'}`}>{revealed ? question.word : '???'}</span>
+        <div className="practice-header-left">
+          <span className="practice-type-badge">{question.type}</span>
+          <span className={`practice-word ${revealed ? 'visible' : 'hidden'}`}>
+            {revealed ? question.word : '???'}
+          </span>
+        </div>
       </header>
-      {question.note && <p className="practice-note">{question.note}</p>}
-      <p className="practice-prompt">{maskedPrompt}</p>
-      {maskedChoices && (
-        <ul className="practice-choices">
-          {maskedChoices.map((choice) => (
-            <li key={choice} className="choice">
-              {choice}
-            </li>
-          ))}
-        </ul>
-      )}
-      {question.hint && <p className="practice-hint">힌트: {question.hint}</p>}
-      <div className={`practice-answer ${revealed ? 'revealed' : ''}`}>
-        <PracticeAnswer
-          text={question.answer}
-          blurred={settings.blurQuizAnswers && !revealed}
-          blurAmount={settings.quizBlurAmount}
-          onReveal={handleReveal}
-          revealed={revealed}
-        />
+      
+      <div className="practice-card-body">
+        {question.note && (
+          <div className="practice-note">
+            <span className="note-icon">ℹ️</span>
+            <span>{question.note}</span>
+          </div>
+        )}
+        
+        <div className="practice-prompt-wrapper">
+          <p className="practice-prompt">{maskedPrompt}</p>
+        </div>
+
+        {maskedChoices && maskedChoices.length > 0 && (
+          <div className="practice-choices-wrapper">
+            <p className="choices-label">선택지</p>
+            <ul className="practice-choices">
+              {maskedChoices.map((choice, idx) => (
+                <li key={`${choice}-${idx}`} className="practice-choice-item">
+                  <span className="choice-letter">{String.fromCharCode(65 + idx)}</span>
+                  <span className="choice-text">{choice}</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {question.hint && (
+          <div className="practice-hint">
+            <span className="hint-icon">💡</span>
+            <span>{question.hint}</span>
+          </div>
+        )}
+
+        <div className={`practice-answer-wrapper ${revealed ? 'revealed' : ''}`}>
+          <p className="answer-label">정답</p>
+          <PracticeAnswer
+            text={question.answer}
+            blurred={settings.blurQuizAnswers && !revealed}
+            blurAmount={settings.quizBlurAmount}
+            onReveal={handleReveal}
+            revealed={revealed}
+          />
+        </div>
       </div>
+
       {!revealed && (
-        <button type="button" className="reveal-button" onClick={handleReveal}>
-          정답 · 단어 보기
-        </button>
+        <footer className="practice-card-footer">
+          <button type="button" className="reveal-button" onClick={handleReveal}>
+            <span className="reveal-icon">👁️</span>
+            <span>정답 보기</span>
+          </button>
+        </footer>
       )}
     </article>
   );
@@ -703,19 +1068,32 @@ function PracticeSection({ questions, settings, onShuffle, rangeLabel }) {
   return (
     <section className="practice-section">
       <header className="practice-header">
-        <div>
-          <p className="eyebrow">문제 모드</p>
-          <h2>문제 형식으로 공부하기</h2>
-          <p className="practice-desc">선택한 모듈을 섞어서 랜덤 문제를 제공합니다.</p>
-          {rangeLabel && <p className="practice-range">{rangeLabel}</p>}
+        <div className="practice-header-content">
+          <div>
+            <p className="eyebrow">문제 모드</p>
+            <h2>문제 형식으로 공부하기</h2>
+            <p className="practice-desc">선택한 모듈을 섞어서 랜덤 문제를 제공합니다.</p>
+            {rangeLabel && <p className="practice-range">{rangeLabel}</p>}
+          </div>
+          <button type="button" className="shuffle-button" onClick={onShuffle}>
+            <span className="shuffle-icon">🔀</span>
+            <span>문제 다시 섞기</span>
+          </button>
         </div>
-        <button type="button" className="ghost" onClick={onShuffle}>
-          문제 다시 섞기
-        </button>
       </header>
 
-      {!hasModules && <p className="status">맞춤 설정에서 문제 모듈을 선택해주세요.</p>}
-      {hasModules && questions.length === 0 && <p className="status">선택한 모듈에 맞는 문제가 없습니다.</p>}
+      {!hasModules && (
+        <div className="practice-empty-state">
+          <p className="empty-icon">📚</p>
+          <p className="empty-message">맞춤 설정에서 문제 모듈을 선택해주세요.</p>
+        </div>
+      )}
+      {hasModules && questions.length === 0 && (
+        <div className="practice-empty-state">
+          <p className="empty-icon">🔍</p>
+          <p className="empty-message">선택한 모듈에 맞는 문제가 없습니다.</p>
+        </div>
+      )}
 
       {questions.length > 0 && (
         <div className="practice-grid">
@@ -728,7 +1106,7 @@ function PracticeSection({ questions, settings, onShuffle, rangeLabel }) {
   );
 }
 
-function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPageSizeChange, totalItems }) {
+function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPageSizeChange, totalItems, sticky = false }) {
   if (!totalItems) return null;
 
   const handleSelectChange = (event) => {
@@ -738,43 +1116,45 @@ function PaginationControls({ currentPage, totalPages, onChange, pageSize, onPag
   };
 
   return (
-    <div className="pagination-bar" aria-label="카드 페이지 전환">
+    <div className={`pagination-bar ${sticky ? 'pagination-bar--sticky' : ''}`} aria-label="카드 페이지 전환">
       <div className="pagination-meta">
-        <p className="eyebrow">총 {totalItems}개 단어</p>
+        <p className="eyebrow">현재 구간: {totalItems}개 단어</p>
         <p className="pagination-range">
           페이지 {currentPage} / {totalPages}
         </p>
       </div>
       <div className="pagination-actions">
         <label className="page-size" htmlFor="pageSize">
-          페이지당
+          <span>페이지당</span>
           <select id="pageSize" value={pageSize} onChange={handleSelectChange}>
             {PAGE_SIZE_OPTIONS.map((size) => (
               <option key={size} value={size}>
-                {size}
+                {size}개
               </option>
             ))}
           </select>
-          개
         </label>
         <div className="page-buttons">
           <button
             type="button"
-            className="page-button"
+            className="page-nav-button"
             onClick={() => onChange(currentPage - 1)}
             disabled={currentPage === 1}
             aria-label="이전 페이지"
           >
-            ← 이전
+            ◀
           </button>
+          <span className="page-status">
+            {String(currentPage).padStart(2, '0')} / {String(totalPages).padStart(2, '0')}
+          </span>
           <button
             type="button"
-            className="page-button"
+            className="page-nav-button"
             onClick={() => onChange(currentPage + 1)}
             disabled={currentPage === totalPages}
             aria-label="다음 페이지"
           >
-            다음 →
+            ▶
           </button>
         </div>
       </div>
@@ -795,14 +1175,20 @@ function ChunkControls({ currentChunk, totalChunks, onChange, rangeStart, rangeE
   return (
     <div className="chunk-bar" aria-label="단어 100개 묶음 전환">
       <div className="chunk-meta">
-        <p className="eyebrow">단어 구간</p>
+        <p className="eyebrow">단어 구간 (100개 단위)</p>
         <p className="chunk-range">
           {rangeStart}–{rangeEnd} / {totalItems} 단어
         </p>
       </div>
       <div className="chunk-actions">
-        <button type="button" className="ghost" onClick={() => onChange(currentChunk - 1)} disabled={currentChunk === 1}>
-          ← 이전 100개
+        <button 
+          type="button" 
+          className="chunk-nav-button" 
+          onClick={() => onChange(currentChunk - 1)} 
+          disabled={currentChunk === 1}
+          aria-label="이전 100개"
+        >
+          ◀
         </button>
         <label className="chunk-select" htmlFor="chunkSelect">
           <span>묶음</span>
@@ -817,11 +1203,12 @@ function ChunkControls({ currentChunk, totalChunks, onChange, rangeStart, rangeE
         </label>
         <button
           type="button"
-          className="ghost"
+          className="chunk-nav-button"
           onClick={() => onChange(currentChunk + 1)}
           disabled={currentChunk === totalChunks}
+          aria-label="다음 100개"
         >
-          다음 100개 →
+          ▶
         </button>
       </div>
     </div>
@@ -852,6 +1239,7 @@ function ViewSwitcher({ active, onChange }) {
     </div>
   );
 }
+
 
 function resolvePreset(key, customPresetsList) {
   if (!key) return null;
@@ -890,6 +1278,49 @@ function LexiconEntry({ entry, settings }) {
     quiz: true,
   });
 
+  // 단어에서 품사 부분 제거 (예: "ceaseverb/noun" -> "cease", "negotiationnoun" -> "negotiation")
+  const cleanWord = useMemo(() => {
+    if (!entry.word) return '';
+    let word = entry.word.trim();
+    const originalWord = word;
+    
+    // 품사 목록 (긴 것부터 먼저 매칭하도록 정렬)
+    const posWords = ['preposition', 'conjunction', 'interjection', 'determiner', 'auxiliary', 'adjective', 'adverb', 'pronoun', 'verb', 'noun'];
+    
+    // "negotiationnoun" 같은 경우: 단어 끝에 품사가 붙은 패턴 제거
+    // 먼저 "verb/noun" 같은 슬래시 패턴 처리
+    const slashPattern = new RegExp(
+      `(${posWords.join('|')})\\s*\\/\\s*(${posWords.join('|')})$`,
+      'i'
+    );
+    let match = word.match(slashPattern);
+    if (match) {
+      word = word.slice(0, -match[0].length).trim();
+    }
+    
+    // 그 다음 단일 품사 패턴 처리 (예: "noun" in "negotiationnoun")
+    // 각 품사를 긴 것부터 확인
+    for (const pos of posWords) {
+      const lowerWord = word.toLowerCase();
+      const lowerPos = pos.toLowerCase();
+      if (lowerWord.endsWith(lowerPos)) {
+        const beforePos = word.slice(0, -pos.length);
+        // 단어가 품사로만 이루어져 있지 않고, 품사 앞에 실제 단어가 있는 경우에만 제거
+        if (beforePos.length > 0 && beforePos.trim().length > 0) {
+          word = beforePos.trim();
+          break; // 하나만 제거하고 종료
+        }
+      }
+    }
+    
+    // 디버깅: 원본 단어에 품사가 포함되어 있었는지 확인
+    if (originalWord !== word && originalWord.toLowerCase().includes('noun') || originalWord.toLowerCase().includes('verb')) {
+      console.log(`[cleanWord] "${originalWord}" -> "${word}"`);
+    }
+    
+    return word;
+  }, [entry.word]);
+
   const availableLevels = useMemo(() => {
     const levelSet = new Set(['상', '중', '하']);
     [entry.collocations, entry.examples, entry.quiz].forEach((groups) => {
@@ -924,25 +1355,15 @@ function LexiconEntry({ entry, settings }) {
     <article className="lex-card">
       <header className="lex-card-header sticky-entry">
         <div>
-          <p className="entry-word">{entry.word}</p>
-          <p className="entry-pos">{Array.isArray(entry.partOfSpeech) ? entry.partOfSpeech.join(' / ') : entry.partOfSpeech}</p>
-        </div>
-        <div className="meta-right">
-          {settings.showClassification && entry.frequency && <span className="chip ghost">빈도 {entry.frequency}</span>}
-          {settings.showClassification && entry.difficulty && <span className="chip">Lv.{entry.difficulty}</span>}
-        </div>
-      </header>
-
-      {settings.showStickyWord && (
-        <div className="lex-card-sticky">
-          <span className="sticky-word">{entry.word}</span>
-          {settings.showStickyPos && (
-            <span className="sticky-pos">
-              {Array.isArray(entry.partOfSpeech) ? entry.partOfSpeech.join(' / ') : entry.partOfSpeech}
-            </span>
+          <p className="entry-word">{cleanWord}</p>
+          {entry.partOfSpeech && (
+            <p className="entry-pos">{Array.isArray(entry.partOfSpeech) ? entry.partOfSpeech.join(' / ') : entry.partOfSpeech}</p>
           )}
         </div>
-      )}
+        <div className="meta-right">
+          {/* 메타 정보는 quick-meta에만 표시 */}
+        </div>
+      </header>
 
       <div className="lex-card-hero">
         {settings.showClassification && (
@@ -997,7 +1418,7 @@ function LexiconEntry({ entry, settings }) {
           {settings.showConcept && entry.concept && (
             <div className="concept-block concept-block--compact">
               <p className="eyebrow">핵심 개념</p>
-              <p className="concept concept--compact">{entry.concept}</p>
+              <p className="concept concept--compact" dangerouslySetInnerHTML={{ __html: formatConceptText(entry.concept) }} />
             </div>
           )}
 
@@ -1007,7 +1428,7 @@ function LexiconEntry({ entry, settings }) {
               meanings={entry.meanings}
               limit={settings.meaningLimit}
               showKorean={settings.showKoreanMeanings}
-              blurKoreanMeanings={settings.blurKoreanMeanings}
+              blurBasicMeanings={settings.blurBasicMeanings}
             />
           </div>
 
@@ -1036,11 +1457,11 @@ function LexiconEntry({ entry, settings }) {
           <div className="context-grid">
             <div>
               <p className="label">의미 확장</p>
-              <p className="body-text">{entry.semanticExtension || '의미 확장 정보 없음'}</p>
+              <p className="body-text" dangerouslySetInnerHTML={{ __html: formatTextWithBold(entry.semanticExtension || '의미 확장 정보 없음') }} />
             </div>
             <div>
               <p className="label">추가 노트</p>
-              {entry.studyTips ? <p className="body-text">{entry.studyTips}</p> : <p className="muted">추가 학습 노트가 없습니다.</p>}
+              {entry.studyTips ? <p className="body-text" dangerouslySetInnerHTML={{ __html: formatTextWithBold(entry.studyTips) }} /> : <p className="muted">추가 학습 노트가 없습니다.</p>}
             </div>
           </div>
         </Section>
@@ -1056,22 +1477,22 @@ function LexiconEntry({ entry, settings }) {
           <div className="grid-two">
             <div>
               <p className="label">형태 분석</p>
-              <p>{entry.morphology || '—'}</p>
+              <p dangerouslySetInnerHTML={{ __html: formatTextWithBold(entry.morphology || '—') }} />
               <p className="label">어원·역사적 변천</p>
-              <p>{entry.etymology || '—'}</p>
+              <p dangerouslySetInnerHTML={{ __html: formatTextWithBold(entry.etymology || '—') }} />
             </div>
             <div>
               <p className="label">전치사 패턴 · 보어</p>
               <PrepositionPatternList
                 patterns={entry.prepositionPatterns}
-                blurKoreanMeanings={settings.blurKoreanMeanings}
+                blurBasicMeanings={settings.blurBasicMeanings}
               />
               <div className="required-complements">
                 <p className="label">필수 보어</p>
                 {entry.requiredComplements?.length ? (
                   <ul className="simple-list">
                     {entry.requiredComplements.map((item, index) => (
-                      <li key={`${item}-${index}`}>{item}</li>
+                      <li key={`${item}-${index}`} dangerouslySetInnerHTML={{ __html: formatTextWithBold(item) }} />
                     ))}
                   </ul>
                 ) : (
@@ -1079,11 +1500,11 @@ function LexiconEntry({ entry, settings }) {
                 )}
               </div>
               <p className="label">문법적 특징</p>
-              <p>{entry.grammarNotes || '—'}</p>
+              <p dangerouslySetInnerHTML={{ __html: formatTextWithBold(entry.grammarNotes || '—') }} />
               <p className="label">자동사 / 타동사</p>
-              <p>{entry.transitivity || '—'}</p>
+              <p dangerouslySetInnerHTML={{ __html: formatTextWithBold(entry.transitivity || '—') }} />
               <p className="label">가산 / 불가산</p>
-              <p>{entry.countability || '—'}</p>
+              <p dangerouslySetInnerHTML={{ __html: formatTextWithBold(entry.countability || '—') }} />
             </div>
           </div>
         </Section>
@@ -1097,20 +1518,26 @@ function LexiconEntry({ entry, settings }) {
           onToggle={() => toggleSection('resources')}
         >
           {settings.showCollocations && (
-            <CollocationList
-              groups={filteredCollocations}
-              showKorean={settings.showKoreanMeanings}
-              limitPerLevel={settings.collocationLimitPerLevel}
-              blurKoreanMeanings={settings.blurKoreanMeanings}
-            />
+            <div>
+              <p className="label">콜로케이션</p>
+              <CollocationList
+                groups={filteredCollocations}
+                showKorean={settings.showKoreanMeanings}
+                limitPerLevel={settings.collocationLimitPerLevel}
+                blurContextMeanings={settings.blurContextMeanings}
+              />
+            </div>
           )}
           {settings.showExamples && (
-            <ExampleList
-              examples={filteredExamples}
-              showKorean={settings.showKoreanMeanings}
-              limitPerLevel={settings.exampleLimitPerLevel}
-              blurKoreanMeanings={settings.blurKoreanMeanings}
-            />
+            <div>
+              <p className="label">예문</p>
+              <ExampleList
+                examples={filteredExamples}
+                showKorean={settings.showKoreanMeanings}
+                limitPerLevel={settings.exampleLimitPerLevel}
+                blurContextMeanings={settings.blurContextMeanings}
+              />
+            </div>
           )}
           {!filteredCollocations.length && !filteredExamples.length && (
             <p className="muted">선택한 레벨에 해당하는 예시가 없습니다.</p>
@@ -1132,7 +1559,7 @@ function LexiconEntry({ entry, settings }) {
             showTitle={false}
             blurAnswers={settings.blurQuizAnswers}
             blurAmount={settings.quizBlurAmount}
-            blurKoreanMeanings={settings.blurKoreanMeanings}
+            blurBasicMeanings={settings.blurBasicMeanings}
           />
         </Section>
       )}
@@ -1159,6 +1586,12 @@ export default function LexiconLab() {
     const savedCustom = readJsonCookie(CUSTOM_PRESET_COOKIE, []);
     return normalizeCustomPresets(Array.isArray(savedCustom) ? savedCustom : []);
   });
+
+  // 글자 크기 적용
+  useEffect(() => {
+    const scale = settings.fontScale || 1;
+    document.documentElement.style.setProperty('--font-scale', scale);
+  }, [settings.fontScale]);
 
   const handleWordSourceChange = (nextSource) => {
     setSettings((prev) => ({ ...prev, wordSource: nextSource }));
@@ -1339,14 +1772,12 @@ export default function LexiconLab() {
   const handlePageChange = (nextPage) => {
     const page = Math.min(Math.max(nextPage, 1), totalPages);
     setCurrentPage(page);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   const handleChunkChange = (nextChunk) => {
     const safeChunk = clamp(nextChunk, 1, chunkCount) - 1;
     setChunkIndex(safeChunk);
     setCurrentPage(1);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   const handleViewChange = (nextView) => {
@@ -1355,7 +1786,7 @@ export default function LexiconLab() {
   };
 
   return (
-    <div className={`lex-page ${MOBILE_PREVIEW ? 'lex-page--mobile' : ''}`}>
+    <div className="lex-page">
       <header className="lex-topbar">
         <div className="topbar-title">
           <p className="eyebrow">Lexicon Lab</p>
@@ -1388,6 +1819,23 @@ export default function LexiconLab() {
               </div>
             </div>
           )}
+          <div className="font-size-control">
+            <label htmlFor="fontScaleTop">크기</label>
+            <input
+              id="fontScaleTop"
+              type="range"
+              min="0.75"
+              max="1.5"
+              step="0.05"
+              value={settings.fontScale || 1}
+              onChange={(e) => {
+                const scale = Number(e.target.value);
+                setSettings({ ...settings, fontScale: scale });
+              }}
+              style={{ width: '100px' }}
+            />
+            <span className="font-size-value">{Math.round((settings.fontScale || 1) * 100)}%</span>
+          </div>
           <button className="panel-toggle" type="button" onClick={() => setPanelOpen((v) => !v)} aria-label="설정 열기">
             <span className="toggle-icon">⚙</span>
             <span>맞춤 설정</span>
@@ -1439,6 +1887,7 @@ export default function LexiconLab() {
               pageSize={pageSize}
               onPageSizeChange={setPageSize}
               totalItems={chunkEntries.length}
+              sticky
             />
           </section>
         </>

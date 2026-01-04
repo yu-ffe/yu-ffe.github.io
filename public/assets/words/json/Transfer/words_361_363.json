@@ -1,0 +1,836 @@
+[
+  {
+    "word": "elegy",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_en": "A poem of serious reflection, typically a lament for the dead; a mournful, melancholic, or plaintive poem.",
+        "definition_ko": "진지한 성찰의 시, 일반적으로 죽은 사람에 대한 애도; 슬픈, 우울한, 또는 비탄에 찬 시.",
+        "note": "죽은 사람에 대한 애도나 슬픔을 표현하는 시입니다."
+      }
+    ],
+    "concept": "죽은 사람에 대한 애도나 슬픔을 표현하는 시.",
+    "etymology": "그리스어 elegos(애도가)에서 유래했으며, 원래는 플루트 반주와 함께 부르는 노래였습니다.",
+    "semanticExtension": "원래는 플루트 반주와 함께 부르는 노래였으나, 현대에는 죽은 사람에 대한 애도 시('elegy for the dead', 'write an elegy')로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·문학 용어로, 일상에서는 거의 사용되지 않습니다.",
+    "grammarNotes": "가산명사로 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대한 애도시",
+        "example": "elegy for the dead"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 바치는 애도시",
+        "example": "elegy to a friend"
+      }
+    ],
+    "requiredComplements": [
+      "elegy for/to + 명사 (…에 대한/에게 바치는 애도시)"
+    ],
+    "morphology": "그리스어 elegos에서 유래했으며, 원래는 플루트 반주와 함께 부르는 노래였습니다.",
+    "derivatives": [
+      {
+        "word": "elegiac",
+        "meaning_ko": "애도의(형용사)"
+      },
+      {
+        "word": "elegist",
+        "meaning_ko": "애도시 작가(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "lament",
+        "meaning_ko": "애도"
+      },
+      {
+        "word": "dirge",
+        "meaning_ko": "장송곡"
+      },
+      {
+        "word": "requiem",
+        "meaning_ko": "진혼곡"
+      },
+      {
+        "word": "threnody",
+        "meaning_ko": "비가"
+      },
+      {
+        "word": "poem",
+        "meaning_ko": "시"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "lament",
+        "meaning_ko": "애도"
+      },
+      {
+        "word": "dirge",
+        "meaning_ko": "장송곡"
+      },
+      {
+        "word": "threnody",
+        "meaning_ko": "비가"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "requiem",
+        "meaning_ko": "진혼곡(일반적)"
+      },
+      {
+        "word": "poem",
+        "meaning_ko": "시(일반적)"
+      },
+      {
+        "word": "ode",
+        "meaning_ko": "송시(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "celebration",
+        "meaning_ko": "축하"
+      },
+      {
+        "word": "paean",
+        "meaning_ko": "찬가"
+      },
+      {
+        "word": "hymn",
+        "meaning_ko": "찬송가"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "write an elegy",
+            "meaning_ko": "애도시를 쓰다"
+          },
+          {
+            "phrase": "elegy for",
+            "meaning_ko": "~에 대한 애도시"
+          },
+          {
+            "phrase": "elegy to",
+            "meaning_ko": "~에게 바치는 애도시"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "elegy for the dead",
+            "meaning_ko": "죽은 사람에 대한 애도시"
+          },
+          {
+            "phrase": "elegy to a friend",
+            "meaning_ko": "친구에게 바치는 애도시"
+          },
+          {
+            "phrase": "elegiac poem",
+            "meaning_ko": "애도시"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "elegy that mourns",
+            "meaning_ko": "애도하는 애도시"
+          },
+          {
+            "phrase": "elegy commemorating",
+            "meaning_ko": "기념하는 애도시"
+          },
+          {
+            "phrase": "elegy reflecting on",
+            "meaning_ko": "~에 대해 성찰하는 애도시"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He wrote an elegy for his friend.",
+            "meaning_ko": "그는 그의 친구에 대한 애도시를 썼다."
+          },
+          {
+            "sentence": "The elegy mourned the loss.",
+            "meaning_ko": "그 애도시는 그 손실을 애도했다."
+          },
+          {
+            "sentence": "She composed an elegy to her father.",
+            "meaning_ko": "그녀는 그녀의 아버지에게 바치는 애도시를 작곡했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The elegy for the dead soldier moved everyone.",
+            "meaning_ko": "그 죽은 병사에 대한 애도시는 모든 사람을 감동시켰다."
+          },
+          {
+            "sentence": "The elegiac poem expressed deep sorrow.",
+            "meaning_ko": "그 애도시는 깊은 슬픔을 표현했다."
+          },
+          {
+            "sentence": "He wrote an elegy to a friend who had passed away.",
+            "meaning_ko": "그는 세상을 떠난 친구에게 바치는 애도시를 썼다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The elegy that mourned the passing of the great poet not only captured the profound sense of loss felt by the literary community but also served as a meditation on the transient nature of human achievement and the enduring power of artistic legacy.",
+            "meaning_ko": "그 위대한 시인의 죽음을 애도한 그 애도시는 문학계가 느낀 깊은 상실감을 포착할 뿐만 아니라 인간의 성취의 덧없는 본성과 예술적 유산의 지속적인 힘에 대한 명상으로도 작용했다."
+          },
+          {
+            "sentence": "The elegy commemorating the victims of the tragedy transcended its immediate purpose of mourning, becoming a universal expression of grief that resonated with readers across generations and cultures.",
+            "meaning_ko": "그 비극의 희생자들을 기념하는 그 애도시는 애도의 즉각적인 목적을 초월하여, 세대와 문화를 초월한 독자들과 공명하는 보편적인 슬픔의 표현이 되었다."
+          },
+          {
+            "sentence": "The elegy reflecting on the loss of innocence in a rapidly changing world employed rich imagery and complex metaphors to explore themes of memory, regret, and the impossibility of returning to a simpler past.",
+            "meaning_ko": "급변하는 세계에서 순수의 상실에 대해 성찰하는 그 애도시는 풍부한 이미지와 복잡한 은유를 사용하여 기억, 후회, 그리고 더 단순한 과거로 돌아갈 수 없는 불가능성이라는 주제를 탐구했다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "elegy는 '애도시'의 의미로, 'write an elegy', 'elegy for/to + 명사' 같은 결합을 익혀두면 좋습니다. lament, dirge와 유사하지만 더 격식 있는 문학 용어입니다. elegiac(애도의)와 함께 외우면 좋습니다. 시험에서는 'elegy for the dead', 'elegy to a friend', 'write an elegy' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "문학",
+      "시",
+      "애도",
+      "격식",
+      "예술"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'elegy'.\n(A) celebration (B) a poem of serious reflection, typically a lament for the dead (C) paean (D) hymn",
+            "a": "(B) a poem of serious reflection, typically a lament for the dead",
+            "meaning_ko": "elegy는 진지한 성찰의 시, 일반적으로 죽은 사람에 대한 애도입니다."
+          },
+          {
+            "q": "Fill in the blank: He wrote an _____ for his friend.",
+            "a": "elegy",
+            "meaning_ko": "친구에 대한 애도시를 썼다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'elegy'?\n(A) celebration (B) lament (C) paean (D) hymn",
+            "a": "(B) lament",
+            "meaning_ko": "lament는 elegy의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ for the dead soldier moved everyone. (elegy / elegies / elegiac)",
+            "a": "elegy",
+            "meaning_ko": "elegy for(…에 대한 애도시) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'elegy for the dead'.\n(A) celebration for the dead (B) lament for the dead (C) paean for the dead (D) hymn for the dead",
+            "a": "(B) lament for the dead",
+            "meaning_ko": "죽은 사람에 대한 애도라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'elegy': 'He wrote a lament for his friend.'",
+            "a": "He wrote an elegy for his friend.",
+            "meaning_ko": "애도를 elegy로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The elegy that mourned the passing _____.\n(A) captured the profound sense of loss (B) celebrated the life (C) ignored the loss (D) forgot the loss",
+            "a": "(A) captured the profound sense of loss",
+            "meaning_ko": "깊은 상실감을 포착했다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The elegy commemorating the victims transcend its purpose.' (Fix the grammar.)",
+            "a": "The elegy commemorating the victims transcended its purpose.",
+            "meaning_ko": "과거형 transcended가 맞습니다."
+          },
+          {
+            "q": "Insert 'elegy' naturally: 'The ______ reflecting on the loss employed rich imagery.'",
+            "a": "elegy",
+            "meaning_ko": "상실에 대해 성찰하는 애도시라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "magnificent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_en": "Extremely beautiful, elaborate, or impressive; splendid; grand.",
+        "definition_ko": "매우 아름답거나 정교하거나 인상적인; 화려한; 웅장한.",
+        "note": "매우 인상적이고 웅장한 것을 강조합니다."
+      }
+    ],
+    "concept": "매우 인상적이고 웅장한 상태.",
+    "etymology": "라틴어 magnificus(웅장한)에서 유래했으며, magnus(큰) + facere(만들다)의 결합입니다.",
+    "semanticExtension": "원래는 '웅장하게 만든' 의미였으나, 현대에는 '매우 인상적인'('magnificent view', 'magnificent building')로 확장되었습니다.",
+    "nuanceRegister": "일상·문학·비즈니스 용어로, 다양한 맥락에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로 명사 앞/서술 보어로 모두 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "magnificent + 명사 (웅장한 …)"
+    ],
+    "morphology": "라틴어 magnificus에서 유래했으며, magnus(큰) + facere(만들다)의 결합입니다.",
+    "derivatives": [
+      {
+        "word": "magnificently",
+        "meaning_ko": "웅장하게(부사)"
+      },
+      {
+        "word": "magnificence",
+        "meaning_ko": "웅장함(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "splendid",
+        "meaning_ko": "화려한"
+      },
+      {
+        "word": "grand",
+        "meaning_ko": "웅장한"
+      },
+      {
+        "word": "impressive",
+        "meaning_ko": "인상적인"
+      },
+      {
+        "word": "stunning",
+        "meaning_ko": "눈부신"
+      },
+      {
+        "word": "gorgeous",
+        "meaning_ko": "화려한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "splendid",
+        "meaning_ko": "화려한"
+      },
+      {
+        "word": "grand",
+        "meaning_ko": "웅장한"
+      },
+      {
+        "word": "impressive",
+        "meaning_ko": "인상적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "stunning",
+        "meaning_ko": "눈부신(일반적)"
+      },
+      {
+        "word": "gorgeous",
+        "meaning_ko": "화려한(일반적)"
+      },
+      {
+        "word": "breathtaking",
+        "meaning_ko": "숨막히는(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "humble",
+        "meaning_ko": "초라한"
+      },
+      {
+        "word": "modest",
+        "meaning_ko": "검소한"
+      },
+      {
+        "word": "plain",
+        "meaning_ko": "평범한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "magnificent view",
+            "meaning_ko": "웅장한 경치"
+          },
+          {
+            "phrase": "magnificent building",
+            "meaning_ko": "웅장한 건물"
+          },
+          {
+            "phrase": "magnificent performance",
+            "meaning_ko": "웅장한 공연"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "magnificent achievement",
+            "meaning_ko": "웅장한 성취"
+          },
+          {
+            "phrase": "magnificent palace",
+            "meaning_ko": "웅장한 궁전"
+          },
+          {
+            "phrase": "magnificent display",
+            "meaning_ko": "웅장한 전시"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "magnificent that captures",
+            "meaning_ko": "포착하는 웅장한"
+          },
+          {
+            "phrase": "magnificent in its",
+            "meaning_ko": "그것의 …에서 웅장한"
+          },
+          {
+            "phrase": "magnificent spectacle",
+            "meaning_ko": "웅장한 광경"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The view was magnificent.",
+            "meaning_ko": "그 경치는 웅장했다."
+          },
+          {
+            "sentence": "They built a magnificent building.",
+            "meaning_ko": "그들은 웅장한 건물을 지었다."
+          },
+          {
+            "sentence": "The performance was magnificent.",
+            "meaning_ko": "그 공연은 웅장했다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The magnificent achievement inspired many people.",
+            "meaning_ko": "그 웅장한 성취는 많은 사람들을 영감을 주었다."
+          },
+          {
+            "sentence": "The magnificent palace attracted tourists.",
+            "meaning_ko": "그 웅장한 궁전은 관광객들을 끌어들였다."
+          },
+          {
+            "sentence": "The magnificent display showcased the art.",
+            "meaning_ko": "그 웅장한 전시는 그 예술을 선보였다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The architectural masterpiece was magnificent in its ability to capture both the grandeur of classical design and the innovative spirit of modern engineering, creating a structure that stood as a testament to human creativity across centuries.",
+            "meaning_ko": "그 건축 걸작은 고전적 디자인의 웅장함과 현대 공학의 혁신적 정신을 모두 포착하는 능력에서 웅장했고, 수세기에 걸친 인간의 창의성에 대한 증거로 서 있는 구조를 만들었다."
+          },
+          {
+            "sentence": "The magnificent spectacle that unfolded during the festival, with its intricate choreography and breathtaking visual effects, left the audience in awe, transforming what could have been a simple celebration into an unforgettable cultural experience.",
+            "meaning_ko": "그 축제 동안 펼쳐진 그 웅장한 광경은 정교한 안무와 숨막히는 시각 효과로 관객들을 경외감에 빠뜨렸고, 단순한 축제가 될 수 있었던 것을 잊을 수 없는 문화적 경험으로 변화시켰다."
+          },
+          {
+            "sentence": "The scientist's magnificent discovery, which revolutionized our understanding of quantum mechanics, not only earned international recognition but also opened new frontiers in technology that would shape the future of human civilization.",
+            "meaning_ko": "양자 역학에 대한 우리의 이해를 혁명적으로 바꾼 그 과학자의 웅장한 발견은 국제적 인정을 받았을 뿐만 아니라 인간 문명의 미래를 형성할 기술의 새로운 영역을 열었다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "magnificent는 '웅장한/인상적인'의 의미로, 'magnificent view/building/performance', 'magnificent achievement' 같은 결합을 익혀두면 좋습니다. splendid, grand와 유사합니다. magnificence(웅장함)와 함께 외우면 좋습니다. 시험에서는 'magnificent view', 'magnificent building', 'magnificent performance' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "웅장",
+      "일상",
+      "문학",
+      "예술",
+      "건축"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'magnificent'.\n(A) humble (B) extremely beautiful, elaborate, or impressive (C) modest (D) plain",
+            "a": "(B) extremely beautiful, elaborate, or impressive",
+            "meaning_ko": "magnificent는 매우 아름답거나 정교하거나 인상적인 것입니다."
+          },
+          {
+            "q": "Fill in the blank: The view was _____.",
+            "a": "magnificent",
+            "meaning_ko": "경치가 웅장했다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which word is closest to 'magnificent'?\n(A) humble (B) splendid (C) modest (D) plain",
+            "a": "(B) splendid",
+            "meaning_ko": "splendid는 magnificent의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: The _____ achievement inspired many people. (magnificent / magnificently / magnificence)",
+            "a": "magnificent",
+            "meaning_ko": "magnificent achievement(웅장한 성취) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'magnificent building'.\n(A) humble building (B) splendid building (C) modest building (D) plain building",
+            "a": "(B) splendid building",
+            "meaning_ko": "화려한 건물이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'magnificent': 'The view was very impressive.'",
+            "a": "The view was magnificent.",
+            "meaning_ko": "매우 인상적이라는 것을 magnificent로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: The architectural masterpiece was magnificent in its ability _____.\n(A) to capture both grandeur and innovation (B) to be simple (C) to be plain (D) to be modest",
+            "a": "(A) to capture both grandeur and innovation",
+            "meaning_ko": "웅장함과 혁신을 모두 포착하는 능력이라는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The magnificent spectacle that unfold during the festival left the audience in awe.' (Fix the grammar.)",
+            "a": "The magnificent spectacle that unfolded during the festival left the audience in awe.",
+            "meaning_ko": "과거형 unfolded가 맞습니다."
+          },
+          {
+            "q": "Insert 'magnificent' naturally: 'The scientist's ______ discovery revolutionized our understanding.'",
+            "a": "magnificent",
+            "meaning_ko": "웅장한 발견이라는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "henceforth",
+    "partOfSpeech": [
+      "adverb"
+    ],
+    "meanings": [
+      {
+        "definition_en": "From this time forward; from now on; starting from this point.",
+        "definition_ko": "이때부터 앞으로; 지금부터; 이 시점부터 시작하여.",
+        "note": "이 시점부터 앞으로를 의미합니다."
+      }
+    ],
+    "concept": "이 시점부터 앞으로.",
+    "etymology": "hence(여기서부터) + forth(앞으로)의 결합으로, 중세 영어에서 유래했습니다.",
+    "semanticExtension": "원래는 '여기서부터 앞으로' 의미였으나, 현대에는 '지금부터'('henceforth, we will', 'henceforth known as')로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·법률·비즈니스 용어로, 일상에서는 'from now on'이 더 흔합니다.",
+    "grammarNotes": "부사로 문장 앞/중간에 위치하며, 쉼표와 함께 사용되는 경우가 많습니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "hence(여기서부터) + forth(앞으로)의 결합입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "from now on",
+        "meaning_ko": "지금부터"
+      },
+      {
+        "word": "hereafter",
+        "meaning_ko": "이후"
+      },
+      {
+        "word": "thereafter",
+        "meaning_ko": "그 이후"
+      },
+      {
+        "word": "subsequently",
+        "meaning_ko": "그 후"
+      },
+      {
+        "word": "from this point",
+        "meaning_ko": "이 시점부터"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "from now on",
+        "meaning_ko": "지금부터"
+      },
+      {
+        "word": "hereafter",
+        "meaning_ko": "이후"
+      },
+      {
+        "word": "thereafter",
+        "meaning_ko": "그 이후"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "subsequently",
+        "meaning_ko": "그 후(일반적)"
+      },
+      {
+        "word": "from this point",
+        "meaning_ko": "이 시점부터(일반적)"
+      },
+      {
+        "word": "going forward",
+        "meaning_ko": "앞으로(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hitherto",
+        "meaning_ko": "지금까지"
+      },
+      {
+        "word": "previously",
+        "meaning_ko": "이전에"
+      },
+      {
+        "word": "before",
+        "meaning_ko": "이전에"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "henceforth, we will",
+            "meaning_ko": "지금부터, 우리는 ~할 것이다"
+          },
+          {
+            "phrase": "henceforth known as",
+            "meaning_ko": "지금부터 ~로 알려진"
+          },
+          {
+            "phrase": "henceforth, all",
+            "meaning_ko": "지금부터, 모든"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "henceforth, the company",
+            "meaning_ko": "지금부터, 그 회사는"
+          },
+          {
+            "phrase": "henceforth referred to as",
+            "meaning_ko": "지금부터 ~로 지칭되는"
+          },
+          {
+            "phrase": "henceforth, it shall",
+            "meaning_ko": "지금부터, 그것은 ~할 것이다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "henceforth, the policy",
+            "meaning_ko": "지금부터, 그 정책은"
+          },
+          {
+            "phrase": "henceforth, all parties",
+            "meaning_ko": "지금부터, 모든 당사자들은"
+          },
+          {
+            "phrase": "henceforth, the regulation",
+            "meaning_ko": "지금부터, 그 규정은"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Henceforth, we will follow the new rules.",
+            "meaning_ko": "지금부터, 우리는 새로운 규칙을 따를 것이다."
+          },
+          {
+            "sentence": "The building is henceforth known as the Tower.",
+            "meaning_ko": "그 건물은 지금부터 타워로 알려진다."
+          },
+          {
+            "sentence": "Henceforth, all students must wear uniforms.",
+            "meaning_ko": "지금부터, 모든 학생들은 교복을 입어야 한다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Henceforth, the company will implement new policies.",
+            "meaning_ko": "지금부터, 그 회사는 새로운 정책을 시행할 것이다."
+          },
+          {
+            "sentence": "The term is henceforth referred to as 'digital transformation'.",
+            "meaning_ko": "그 용어는 지금부터 '디지털 전환'으로 지칭된다."
+          },
+          {
+            "sentence": "Henceforth, it shall be the responsibility of all members.",
+            "meaning_ko": "지금부터, 그것은 모든 구성원의 책임이 될 것이다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Henceforth, the policy regarding environmental protection will be strictly enforced, with comprehensive monitoring systems in place to ensure compliance and significant penalties for violations that threaten the sustainability of our natural resources.",
+            "meaning_ko": "지금부터, 환경 보호에 관한 그 정책은 엄격히 시행될 것이며, 준수를 보장하고 우리의 자연 자원의 지속 가능성을 위협하는 위반에 대해 상당한 처벌을 가하는 포괄적인 모니터링 시스템이 마련되어 있다."
+          },
+          {
+            "sentence": "Henceforth, all parties involved in the negotiation process must adhere to the newly established framework, which includes mandatory transparency requirements and regular progress assessments to maintain the integrity of the diplomatic dialogue.",
+            "meaning_ko": "지금부터, 협상 과정에 관련된 모든 당사자들은 외교적 대화의 무결성을 유지하기 위해 필수적인 투명성 요구사항과 정기적인 진행 평가를 포함하는 새로 수립된 틀을 준수해야 한다."
+          },
+          {
+            "sentence": "The regulation, henceforth, will apply retroactively to all cases filed within the past five years, requiring immediate review and potential adjustment of previous decisions to align with the updated legal standards.",
+            "meaning_ko": "그 규정은, 지금부터, 지난 5년 동안 제기된 모든 사건에 소급 적용될 것이며, 업데이트된 법적 기준에 맞추기 위해 이전 결정의 즉각적인 검토와 잠재적 조정을 요구한다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "henceforth는 '지금부터'의 의미로, 'henceforth, we will', 'henceforth known as', 'henceforth, all' 같은 결합을 익혀두면 좋습니다. from now on과 유사하지만 더 격식 있는 문어입니다. 시험에서는 'henceforth, we will', 'henceforth known as', 'henceforth, all' 같은 결합이 자주 출제됩니다.",
+    "tags": [
+      "시간",
+      "법률",
+      "비즈니스",
+      "격식",
+      "문어"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning of 'henceforth'.\n(A) previously (B) from this time forward (C) before (D) hitherto",
+            "a": "(B) from this time forward",
+            "meaning_ko": "henceforth는 이때부터 앞으로입니다."
+          },
+          {
+            "q": "Fill in the blank: _____, we will follow the new rules.",
+            "a": "Henceforth",
+            "meaning_ko": "지금부터 새로운 규칙을 따를 것이다는 맥락에 자연스럽습니다."
+          },
+          {
+            "q": "Which phrase is closest to 'henceforth'?\n(A) previously (B) from now on (C) before (D) hitherto",
+            "a": "(B) from now on",
+            "meaning_ko": "from now on은 henceforth의 동의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best collocation: _____, the company will implement new policies. (Henceforth / Hitherto / Previously)",
+            "a": "Henceforth",
+            "meaning_ko": "Henceforth, the company(지금부터, 그 회사는) 패턴이 자연스럽습니다."
+          },
+          {
+            "q": "Pick the closest alternative: 'henceforth known as'.\n(A) previously known as (B) from now on known as (C) before known as (D) hitherto known as",
+            "a": "(B) from now on known as",
+            "meaning_ko": "지금부터 ~로 알려진이라는 의미입니다."
+          },
+          {
+            "q": "Rewrite using 'henceforth': 'From now on, all students must wear uniforms.'",
+            "a": "Henceforth, all students must wear uniforms.",
+            "meaning_ko": "지금부터를 henceforth로 표현할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Choose the best completion: Henceforth, the policy regarding environmental protection _____.\n(A) will be strictly enforced (B) was ignored (C) was forgotten (D) was stopped",
+            "a": "(A) will be strictly enforced",
+            "meaning_ko": "엄격히 시행될 것이다는 맥락이 자연스럽습니다."
+          },
+          {
+            "q": "Error correction: 'The regulation, henceforth, will apply retroactive to all cases.' (Fix the grammar.)",
+            "a": "The regulation, henceforth, will apply retroactively to all cases.",
+            "meaning_ko": "부사형 retroactively가 맞습니다."
+          },
+          {
+            "q": "Insert 'henceforth' naturally: '_____, all parties involved must adhere to the framework.'",
+            "a": "Henceforth",
+            "meaning_ko": "지금부터 모든 당사자들이 준수해야 한다는 맥락에 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
+
+
+
