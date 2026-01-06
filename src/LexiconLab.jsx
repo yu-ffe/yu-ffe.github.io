@@ -984,7 +984,7 @@ function PracticeAnswer({ text, blurred, blurAmount, onReveal, revealed = false 
   );
 }
 
-function PracticeCard({ question, settings }) {
+function PracticeCard({ question, settings, onToggleMark }) {
   const [revealed, setRevealed] = useState(false);
   const maskedPrompt = revealed ? question.prompt : maskWord(question.prompt, question.word);
   const maskedChoices = useMemo(
@@ -1003,6 +1003,15 @@ function PracticeCard({ question, settings }) {
             {revealed ? question.word : '???'}
           </span>
         </div>
+        <button
+          type="button"
+          className="practice-card-dismiss"
+          onClick={() => onToggleMark(question.word)}
+          aria-label="이 단어를 연습 대상에서 제거"
+          title="이 단어를 연습 대상에서 제거"
+        >
+          ✕
+        </button>
       </header>
       
       <div className="practice-card-body">
@@ -1062,7 +1071,7 @@ function PracticeCard({ question, settings }) {
   );
 }
 
-function PracticeSection({ questions, settings, onShuffle, rangeLabel }) {
+function PracticeSection({ questions, settings, onShuffle, rangeLabel, onToggleMark }) {
   const hasModules = settings.selectedPracticeModules.length > 0;
 
   return (
@@ -1098,7 +1107,12 @@ function PracticeSection({ questions, settings, onShuffle, rangeLabel }) {
       {questions.length > 0 && (
         <div className="practice-grid">
           {questions.map((question, index) => (
-            <PracticeCard key={`${question.type}-${question.word}-${index}`} question={question} settings={settings} />
+            <PracticeCard
+              key={`${question.type}-${question.word}-${index}`}
+              question={question}
+              settings={settings}
+              onToggleMark={onToggleMark}
+            />
           ))}
         </div>
       )}
@@ -1269,7 +1283,7 @@ function mergePresetSettings(previousSettings, preset) {
   return next;
 }
 
-function LexiconEntry({ entry, settings }) {
+function LexiconEntry({ entry, settings, isMarked, onToggleMark }) {
   const [openSections, setOpenSections] = useState({
     core: true,
     context: true,
@@ -1352,7 +1366,7 @@ function LexiconEntry({ entry, settings }) {
   }, [settings.showCollocations, settings.showExamples, settings.showFormDetails, settings.showQuiz, settings.showUsageContext]);
 
   return (
-    <article className="lex-card">
+    <article className={`lex-card ${isMarked ? 'lex-card--marked' : ''}`}>
       <header className="lex-card-header sticky-entry">
         <div>
           <p className="entry-word">{cleanWord}</p>
@@ -1361,10 +1375,27 @@ function LexiconEntry({ entry, settings }) {
           )}
         </div>
         <div className="meta-right">
-          {/* 메타 정보는 quick-meta에만 표시 */}
+          <button
+            type="button"
+            className="lex-card-dismiss"
+            onClick={onToggleMark}
+            aria-label={isMarked ? '연습 대상에서 제거' : '이 단어를 문제 섹션에 추가'}
+            title={isMarked ? '연습 대상에서 제거' : '이 단어를 문제 섹션에 추가'}
+          >
+            ✕
+          </button>
         </div>
       </header>
 
+      {/* X로 표시된 단어는 단어만 보여 주고 나머지 섹션은 숨긴다 */}
+      {isMarked && (
+        <div className="lex-card-marked-note">
+          <p>이 단어는 문제 섹션에서 연습용으로 선택되었습니다.</p>
+        </div>
+      )}
+
+      {!isMarked && (
+        <>
       <div className="lex-card-hero">
         {settings.showClassification && (
           <div className="quick-meta" aria-label="단어 메타 정보">
@@ -1563,6 +1594,8 @@ function LexiconEntry({ entry, settings }) {
           />
         </Section>
       )}
+        </>
+      )}
     </article>
   );
 }
@@ -1585,6 +1618,17 @@ export default function LexiconLab() {
   const [customPresets, setCustomPresets] = useState(() => {
     const savedCustom = readJsonCookie(CUSTOM_PRESET_COOKIE, []);
     return normalizeCustomPresets(Array.isArray(savedCustom) ? savedCustom : []);
+  });
+  const [markedWords, setMarkedWords] = useState(() => {
+    if (typeof window === 'undefined') return [];
+    try {
+      const raw = window.localStorage.getItem('lexicon-marked-words');
+      if (!raw) return [];
+      const parsed = JSON.parse(raw);
+      return Array.isArray(parsed) ? parsed : [];
+    } catch {
+      return [];
+    }
   });
 
   // 글자 크기 적용
@@ -1653,6 +1697,16 @@ export default function LexiconLab() {
   useEffect(() => {
     writeCookie(CUSTOM_PRESET_COOKIE, JSON.stringify(customPresets));
   }, [customPresets]);
+
+  // X로 표시한 단어 목록을 localStorage에 저장
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    try {
+      window.localStorage.setItem('lexicon-marked-words', JSON.stringify(markedWords));
+    } catch {
+      // ignore
+    }
+  }, [markedWords]);
 
   useEffect(() => {
     writeCookie(
@@ -1765,8 +1819,17 @@ export default function LexiconLab() {
   }, [chunkIndex, currentPage, pageSize, viewMode]);
 
   const practiceQuestions = useMemo(
-    () => buildPracticeQuestions(chunkEntries, settings, practiceSeed),
-    [chunkEntries, settings, practiceSeed]
+    () => {
+      if (!markedWords.length) return [];
+      const markedSet = new Set(markedWords);
+      const sourceEntries = entries.filter((entry) => {
+        const key = String(entry.word || '').toLowerCase();
+        return key && markedSet.has(key);
+      });
+      if (!sourceEntries.length) return [];
+      return buildPracticeQuestions(sourceEntries, settings, practiceSeed);
+    },
+    [entries, markedWords, settings, practiceSeed]
   );
 
   const handlePageChange = (nextPage) => {
@@ -1783,6 +1846,18 @@ export default function LexiconLab() {
   const handleViewChange = (nextView) => {
     setViewMode(nextView);
     window.scrollTo({ top: 0, behavior: 'smooth' });
+  };
+
+  const handleToggleMarkWord = (word) => {
+    const key = String(word || '').toLowerCase();
+    if (!key) return;
+    setMarkedWords((prev) => {
+      const exists = prev.includes(key);
+      if (exists) {
+        return prev.filter((item) => item !== key);
+      }
+      return [...prev, key];
+    });
   };
 
   return (
@@ -1876,9 +1951,19 @@ export default function LexiconLab() {
               totalItems={chunkEntries.length}
             />
 
-            {visibleEntries.map((entry) => (
-              <LexiconEntry key={entry.word} entry={entry} settings={settings} />
-            ))}
+            {visibleEntries.map((entry) => {
+              const key = String(entry.word || '').toLowerCase();
+              const isMarked = markedWords.includes(key);
+              return (
+                <LexiconEntry
+                  key={entry.word}
+                  entry={entry}
+                  settings={settings}
+                  isMarked={isMarked}
+                  onToggleMark={() => handleToggleMarkWord(entry.word)}
+                />
+              );
+            })}
 
             <PaginationControls
               currentPage={currentPage}
@@ -1909,7 +1994,8 @@ export default function LexiconLab() {
             questions={practiceQuestions}
             settings={settings}
             onShuffle={() => setPracticeSeed(Date.now())}
-            rangeLabel={`${chunkRangeStart}–${chunkRangeEnd}번 단어 묶음에서 출제됩니다.`}
+            rangeLabel={markedWords.length ? `X로 표시한 ${markedWords.length}개 단어에서만 출제됩니다.` : '아직 X로 표시한 단어가 없습니다.'}
+            onToggleMark={handleToggleMarkWord}
           />
         </>
       )}

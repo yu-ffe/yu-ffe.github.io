@@ -403,6 +403,56 @@
   width: 100%;
 }
 
+.lex-card-dismiss {
+  border: none;
+  background: rgba(15, 23, 42, 0.04);
+  color: var(--text-muted);
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  cursor: pointer;
+  box-shadow: var(--shadow-xs);
+  transition: all 0.2s ease;
+}
+
+.lex-card-dismiss:hover {
+  background: rgba(248, 113, 113, 0.12);
+  color: #b91c1c;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+.lex-card-dismiss:active {
+  transform: translateY(0);
+  box-shadow: var(--shadow-xs);
+}
+
+.lex-card--marked {
+  opacity: 0.7;
+  background: linear-gradient(180deg, rgba(15, 23, 42, 0.02), rgba(15, 23, 42, 0.06));
+  filter: grayscale(0.15);
+}
+
+.lex-card--marked .entry-word {
+  -webkit-text-fill-color: rgba(15, 23, 42, 0.65);
+  background: none;
+  color: rgba(15, 23, 42, 0.85);
+}
+
+.lex-card-marked-note {
+  margin-top: 8px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: 1px dashed var(--border-light);
+  background: rgba(15, 23, 42, 0.02);
+  color: var(--text-soft);
+  font-size: 12px;
+}
+
 .entry-word {
   font-size: clamp(26px, 5vw, 36px);
   font-weight: 700;
@@ -1927,6 +1977,9 @@
   margin-bottom: clamp(16px, 2vw, 20px);
   padding-bottom: clamp(12px, 1.5vw, 16px);
   border-bottom: 2px solid var(--border-light);
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
 }
 
 .practice-header-left {
@@ -1934,6 +1987,34 @@
   align-items: center;
   gap: 12px;
   flex-wrap: wrap;
+}
+
+.practice-card-dismiss {
+  border: none;
+  background: rgba(15, 23, 42, 0.04);
+  color: var(--text-muted);
+  width: 28px;
+  height: 28px;
+  border-radius: 999px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  cursor: pointer;
+  box-shadow: var(--shadow-xs);
+  transition: all 0.2s ease;
+}
+
+.practice-card-dismiss:hover {
+  background: rgba(248, 113, 113, 0.12);
+  color: #b91c1c;
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+.practice-card-dismiss:active {
+  transform: translateY(0);
+  box-shadow: var(--shadow-xs);
 }
 
 .practice-type-badge {
