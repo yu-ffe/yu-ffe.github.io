@@ -1,0 +1,783 @@
+[
+  {
+    "word": "chivalry",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "기사도, 기사 정신; 중세 기사들이 지켜야 할 예의와 용기, 명예의 정신.",
+        "note": "중세 기사들이 지켜야 할 예의와 용기, 명예의 정신을 가리킵니다."
+      },
+      {
+        "definition_ko": "신사도, 예의; 남성이 여성에게 보여주는 정중하고 예의 바른 태도.",
+        "note": "남성이 여성에게 보여주는 정중하고 예의 바른 태도를 가리킵니다."
+      }
+    ],
+    "concept": "중세 기사들이 지켜야 할 예의와 용기, 명예의 정신, 또는 남성이 여성에게 보여주는 정중하고 예의 바른 태도.",
+    "etymology": "프랑스어 chevalerie(기사도)에서 유래했으며, 원래는 '기사도' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '기사도' 의미였으나, 현대에는 '신사도, 예의'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, chivalry 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "chivalry toward + 명사 : ~에 대한 기사도",
+      "chivalry of + 명사 : ~의 기사도"
+    ],
+    "morphology": "프랑스어 chevalerie에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "chivalrous",
+        "meaning_ko": "기사도적인"
+      },
+      {
+        "word": "chivalrously",
+        "meaning_ko": "기사도적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "courtesy",
+        "meaning_ko": "예의"
+      },
+      {
+        "word": "honor",
+        "meaning_ko": "명예"
+      },
+      {
+        "word": "gallantry",
+        "meaning_ko": "신사도"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "courtesy",
+        "meaning_ko": "예의"
+      },
+      {
+        "word": "honor",
+        "meaning_ko": "명예"
+      },
+      {
+        "word": "gallantry",
+        "meaning_ko": "신사도"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "politeness",
+        "meaning_ko": "정중함(범위가 더 넓음)"
+      },
+      {
+        "word": "nobility",
+        "meaning_ko": "고귀함"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rudeness",
+        "meaning_ko": "무례함"
+      },
+      {
+        "word": "discourtesy",
+        "meaning_ko": "무례함"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "chivalry toward",
+            "meaning_ko": "~에 대한 기사도"
+          },
+          {
+            "phrase": "chivalry of",
+            "meaning_ko": "~의 기사도"
+          },
+          {
+            "phrase": "code of chivalry",
+            "meaning_ko": "기사도 규칙"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "chivalry toward women",
+            "meaning_ko": "여성에 대한 기사도"
+          },
+          {
+            "phrase": "chivalry of knights",
+            "meaning_ko": "기사들의 기사도"
+          },
+          {
+            "phrase": "age of chivalry",
+            "meaning_ko": "기사도 시대"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "chivalry in action",
+            "meaning_ko": "행동에서의 기사도"
+          },
+          {
+            "phrase": "chivalry of the past",
+            "meaning_ko": "과거의 기사도"
+          },
+          {
+            "phrase": "chivalry tradition",
+            "meaning_ko": "기사도 전통"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He showed chivalry toward the elderly woman.",
+            "meaning_ko": "그는 그 노인 여성에게 기사도를 보여줬습니다."
+          },
+          {
+            "sentence": "The code of chivalry was important to medieval knights.",
+            "meaning_ko": "기사도 규칙은 중세 기사들에게 중요했습니다."
+          },
+          {
+            "sentence": "Chivalry is not dead.",
+            "meaning_ko": "기사도는 죽지 않았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "His chivalry toward women was evident in the way he held doors open and offered his seat on public transportation.",
+            "meaning_ko": "여성에 대한 그의 기사도는 그가 문을 열어주고 대중 교통에서 자신의 자리를 양보하는 방식에서 명백했습니다."
+          },
+          {
+            "sentence": "The chivalry of knights in medieval times emphasized honor, courage, and protection of the weak, creating a code of conduct that influenced European culture for centuries.",
+            "meaning_ko": "중세 시대 기사들의 기사도는 명예, 용기, 약자의 보호를 강조했고, 수세기 동안 유럽 문화에 영향을 미친 행동 규칙을 만들었습니다."
+          },
+          {
+            "sentence": "The age of chivalry, though romanticized in literature, represented a complex system of social values and military ethics that shaped medieval society.",
+            "meaning_ko": "기사도 시대는 문학에서 낭만화되었지만, 중세 사회를 형성한 사회적 가치와 군사적 윤리의 복잡한 시스템을 나타냈습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The chivalry in action displayed by the rescue team, who risked their own safety to save others, demonstrated that the principles of honor and selflessness remain relevant in modern times.",
+            "meaning_ko": "다른 사람들을 구하기 위해 자신의 안전을 위험에 빠뜨린 구조 팀이 보여준 행동에서의 기사도는 명예와 이타주의의 원칙이 현대에도 여전히 관련이 있다는 것을 보여줬습니다."
+          },
+          {
+            "sentence": "The chivalry of the past, while often idealized, reflected genuine attempts to balance military prowess with moral conduct and social responsibility in a hierarchical society.",
+            "meaning_ko": "과거의 기사도는 종종 이상화되었지만, 계층적 사회에서 군사적 능력과 도덕적 행동 및 사회적 책임을 균형 잡으려는 진정한 시도를 반영했습니다."
+          },
+          {
+            "sentence": "The chivalry tradition, preserved through literature and historical accounts, continues to influence contemporary notions of honor, duty, and respectful behavior toward others.",
+            "meaning_ko": "문학과 역사적 기록을 통해 보존된 기사도 전통은 명예, 의무, 다른 사람들에 대한 정중한 행동에 대한 현대적 개념에 계속 영향을 미칩니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "chivalry는 '기사도, 기사 정신' 또는 '신사도' 의미로, 중세 기사들이 지켜야 할 예의와 용기, 명예의 정신을 가리킵니다. 매우 격식 있고 드문 단어로, courtesy, honor와 비슷하지만 더 역사적 뉘앙스가 있습니다. code of chivalry, chivalry toward ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "역사",
+      "격식",
+      "문어",
+      "드문",
+      "긍정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: chivalry = (A) rudeness (B) courtesy or honor (C) discourtesy (D) impoliteness",
+            "a": "B",
+            "meaning_ko": "chivalry는 '예의 또는 명예' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He showed _____ toward the elderly woman.",
+            "a": "chivalry",
+            "meaning_ko": "chivalry는 '기사도'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of chivalry? (A) courtesy (B) honor (C) rudeness (D) gallantry",
+            "a": "C",
+            "meaning_ko": "rudeness(무례함)가 chivalry의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The code of _____ was important. (A) chivalry (B) chivalries (C) chivalrous (D) chivalrously",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 chivalry가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: chivalry = (A) rudeness (B) courtesy (C) discourtesy (D) impoliteness",
+            "a": "B",
+            "meaning_ko": "courtesy(예의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The chivalries of knights were important.' → Fix the sentence.",
+            "a": "The chivalry of knights was important.",
+            "meaning_ko": "chivalry는 불가산명사이므로 복수형이 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The chivalry of knights emphasized honor.'",
+            "a": "The code of conduct and ethical principles followed by medieval warriors highlighted and placed importance on integrity, moral character, and noble behavior.",
+            "meaning_ko": "chivalry of knights는 '기사들의 기사도'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ tradition influenced culture. (A) chivalry (B) chivalries (C) chivalrous (D) chivalrously",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 chivalry가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses chivalry most appropriately? (A) The chivalry ran. (B) He showed chivalry. (C) She chivalry smiled. (D) Chivalry is good.",
+            "a": "B",
+            "meaning_ko": "chivalry는 명사로 '기사도'를 의미하며, show와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "everlasting",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "영원한, 영구적인; 끝없이 계속되는.",
+        "note": "끝없이 계속되는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "끝없이 계속되는 영원한 상태.",
+    "etymology": "ever(영원히) + lasting(지속되는)의 결합으로, '영원히 지속되는'에서 '영원한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '영원히 지속되는' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학적 뉘앙스가 있습니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be everlasting 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be everlasting : 영원하다",
+      "everlasting + 명사 : 영원한 ~"
+    ],
+    "morphology": "ever(영원히) + lasting(지속되는)의 결합으로, '영원히 지속되는'에서 '영원한'으로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "everlastingly",
+        "meaning_ko": "영원히"
+      }
+    ],
+    "related": [
+      {
+        "word": "eternal",
+        "meaning_ko": "영원한"
+      },
+      {
+        "word": "permanent",
+        "meaning_ko": "영구적인"
+      },
+      {
+        "word": "endless",
+        "meaning_ko": "끝없는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "eternal",
+        "meaning_ko": "영원한"
+      },
+      {
+        "word": "permanent",
+        "meaning_ko": "영구적인"
+      },
+      {
+        "word": "endless",
+        "meaning_ko": "끝없는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "infinite",
+        "meaning_ko": "무한한(범위가 더 넓음)"
+      },
+      {
+        "word": "immortal",
+        "meaning_ko": "불멸의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "temporary",
+        "meaning_ko": "일시적인"
+      },
+      {
+        "word": "transient",
+        "meaning_ko": "일시적인"
+      },
+      {
+        "word": "ephemeral",
+        "meaning_ko": "일시적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "everlasting love",
+            "meaning_ko": "영원한 사랑"
+          },
+          {
+            "phrase": "everlasting peace",
+            "meaning_ko": "영원한 평화"
+          },
+          {
+            "phrase": "everlasting life",
+            "meaning_ko": "영생"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "everlasting memory",
+            "meaning_ko": "영원한 기억"
+          },
+          {
+            "phrase": "everlasting fame",
+            "meaning_ko": "영원한 명성"
+          },
+          {
+            "phrase": "everlasting beauty",
+            "meaning_ko": "영원한 아름다움"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "everlasting legacy",
+            "meaning_ko": "영원한 유산"
+          },
+          {
+            "phrase": "everlasting impact",
+            "meaning_ko": "영원한 영향"
+          },
+          {
+            "phrase": "everlasting bond",
+            "meaning_ko": "영원한 유대"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They promised everlasting love to each other.",
+            "meaning_ko": "그들은 서로에게 영원한 사랑을 약속했습니다."
+          },
+          {
+            "sentence": "The hope for everlasting peace remains strong.",
+            "meaning_ko": "영원한 평화에 대한 희망은 여전히 강합니다."
+          },
+          {
+            "sentence": "Many religions believe in everlasting life.",
+            "meaning_ko": "많은 종교들이 영생을 믿습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The couple's everlasting love for each other was evident in the way they supported one another through decades of challenges and joys.",
+            "meaning_ko": "그 부부의 서로에 대한 영원한 사랑은 그들이 수십 년간의 도전과 기쁨을 통해 서로를 지원하는 방식에서 명백했습니다."
+          },
+          {
+            "sentence": "The artist hoped that her work would achieve everlasting fame, leaving a lasting impression on future generations of art enthusiasts.",
+            "meaning_ko": "그 예술가는 그녀의 작품이 영원한 명성을 얻어 미래 세대의 예술 애호가들에게 지속적인 인상을 남기기를 희망했습니다."
+          },
+          {
+            "sentence": "The monument was built to preserve the everlasting memory of those who had sacrificed their lives for the nation's freedom.",
+            "meaning_ko": "그 기념비는 국가의 자유를 위해 자신들의 생명을 희생한 사람들의 영원한 기억을 보존하기 위해 세워졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The philosopher's everlasting legacy continues to influence contemporary thought, with his ideas remaining relevant and inspiring new generations of thinkers.",
+            "meaning_ko": "그 철학자의 영원한 유산은 그의 아이디어가 여전히 관련이 있고 새로운 세대의 사상가들을 영감을 주면서 현대 사상에 계속 영향을 미칩니다."
+          },
+          {
+            "sentence": "The scientific discovery had an everlasting impact on the field, fundamentally changing how researchers approached similar problems and opening new avenues for investigation.",
+            "meaning_ko": "그 과학적 발견은 그 분야에 영원한 영향을 미쳤고, 연구자들이 유사한 문제에 접근하는 방식을 근본적으로 바꾸고 조사를 위한 새로운 길을 열었습니다."
+          },
+          {
+            "sentence": "The everlasting bond between the two nations, forged through shared struggles and mutual support, served as a model for international cooperation and friendship.",
+            "meaning_ko": "공유된 투쟁과 상호 지원을 통해 형성된 두 국가 사이의 영원한 유대는 국제 협력과 우정의 모델로 기능했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "everlasting는 '영원한, 영구적인' 의미로, 끝없이 계속되는 상태를 가리킵니다. eternal, permanent와 비슷하지만 더 문학적 뉘앙스가 있습니다. everlasting love, everlasting peace 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "시간",
+      "일상 회화",
+      "문학",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: everlasting = (A) temporary (B) eternal or permanent (C) transient (D) ephemeral",
+            "a": "B",
+            "meaning_ko": "everlasting는 '영원하거나 영구적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They promised _____ love to each other.",
+            "a": "everlasting",
+            "meaning_ko": "everlasting는 '영원한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of everlasting? (A) eternal (B) permanent (C) temporary (D) endless",
+            "a": "C",
+            "meaning_ko": "temporary(일시적인)가 everlasting의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ peace remains strong. (A) everlasting (B) everlastingly (C) everlast (D) everlasts",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 everlasting가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: everlasting = (A) temporary (B) eternal (C) transient (D) ephemeral",
+            "a": "B",
+            "meaning_ko": "eternal(영원한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The love was everlastingly.' → Fix the sentence.",
+            "a": "The love was everlasting.",
+            "meaning_ko": "be 동사 뒤에는 형용사 everlasting가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The everlasting legacy continues to influence thought.'",
+            "a": "The permanent and enduring impact left behind by the person or work continues to have an effect on and shape current ideas and ways of thinking.",
+            "meaning_ko": "everlasting legacy는 '영원한 유산'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ impact changed the field. (A) everlasting (B) everlastingly (C) everlast (D) everlasts",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 everlasting가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses everlasting most appropriately? (A) The everlasting ran. (B) They promised everlasting love. (C) She everlasting smiled. (D) Everlasting is good.",
+            "a": "B",
+            "meaning_ko": "everlasting는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sangfroid",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "침착함, 냉정함; 어려운 상황에서도 침착하고 냉정한 태도.",
+        "note": "어려운 상황에서도 침착하고 냉정한 태도를 가리킵니다."
+      }
+    ],
+    "concept": "어려운 상황에서도 침착하고 냉정한 태도.",
+    "etymology": "프랑스어 sang-froid(차가운 피)에서 유래했으며, 원래는 '차가운 피' 의미였으나 현대에는 '침착함'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '차가운 피' 의미였으나, 현대에는 '어려운 상황에서도 침착하고 냉정한 태도'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, sangfroid 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "with sangfroid : 침착함으로",
+      "sangfroid in + 명사 : ~에서의 침착함"
+    ],
+    "morphology": "프랑스어 sang-froid에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "composure",
+        "meaning_ko": "침착함"
+      },
+      {
+        "word": "calmness",
+        "meaning_ko": "차분함"
+      },
+      {
+        "word": "poise",
+        "meaning_ko": "침착함"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "composure",
+        "meaning_ko": "침착함"
+      },
+      {
+        "word": "calmness",
+        "meaning_ko": "차분함"
+      },
+      {
+        "word": "poise",
+        "meaning_ko": "침착함"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "coolness",
+        "meaning_ko": "냉정함(범위가 더 넓음)"
+      },
+      {
+        "word": "self-control",
+        "meaning_ko": "자제력"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "panic",
+        "meaning_ko": "공황"
+      },
+      {
+        "word": "agitation",
+        "meaning_ko": "불안"
+      },
+      {
+        "word": "nervousness",
+        "meaning_ko": "긴장"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "with sangfroid",
+            "meaning_ko": "침착함으로"
+          },
+          {
+            "phrase": "sangfroid in",
+            "meaning_ko": "~에서의 침착함"
+          },
+          {
+            "phrase": "maintain sangfroid",
+            "meaning_ko": "침착함을 유지하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sangfroid in crisis",
+            "meaning_ko": "위기에서의 침착함"
+          },
+          {
+            "phrase": "sangfroid under pressure",
+            "meaning_ko": "압력 하에서의 침착함"
+          },
+          {
+            "phrase": "remarkable sangfroid",
+            "meaning_ko": "놀라운 침착함"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sangfroid in the face of danger",
+            "meaning_ko": "위험에 직면한 침착함"
+          },
+          {
+            "phrase": "sangfroid during adversity",
+            "meaning_ko": "역경 중의 침착함"
+          },
+          {
+            "phrase": "sangfroid in difficult situations",
+            "meaning_ko": "어려운 상황에서의 침착함"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He handled the crisis with sangfroid.",
+            "meaning_ko": "그는 그 위기를 침착함으로 처리했습니다."
+          },
+          {
+            "sentence": "Her sangfroid in difficult situations was impressive.",
+            "meaning_ko": "어려운 상황에서의 그녀의 침착함은 인상적이었습니다."
+          },
+          {
+            "sentence": "They maintained their sangfroid under pressure.",
+            "meaning_ko": "그들은 압력 하에서 자신들의 침착함을 유지했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The surgeon's sangfroid in crisis situations allowed her to make critical decisions quickly and effectively, saving numerous lives.",
+            "meaning_ko": "그 외과의사의 위기 상황에서의 침착함은 그녀가 빠르고 효과적으로 중요한 결정을 내려 수많은 생명을 구할 수 있게 했습니다."
+          },
+          {
+            "sentence": "His remarkable sangfroid under pressure during the negotiations impressed both his colleagues and opponents, demonstrating exceptional leadership qualities.",
+            "meaning_ko": "그 협상 중 압력 하에서의 그의 놀라운 침착함은 그의 동료들과 상대방 모두에게 인상을 주었고, 탁월한 리더십 자질을 보여줬습니다."
+          },
+          {
+            "sentence": "The diplomat's sangfroid in the face of international tensions helped de-escalate the situation and prevent further conflict.",
+            "meaning_ko": "국제적 긴장에 직면한 그 외교관의 침착함은 상황을 완화하고 추가 갈등을 방지하는 데 도움을 줬습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The pilot's sangfroid in the face of danger, when the aircraft experienced mechanical failure, enabled her to execute emergency procedures flawlessly and ensure the safety of all passengers.",
+            "meaning_ko": "그 항공기가 기계적 고장을 경험했을 때 위험에 직면한 그 조종사의 침착함은 그녀가 비상 절차를 완벽하게 실행하고 모든 승객의 안전을 보장할 수 있게 했습니다."
+          },
+          {
+            "sentence": "The leader's sangfroid during adversity, when the organization faced its most challenging period, inspired confidence among team members and stakeholders, ultimately leading to successful recovery.",
+            "meaning_ko": "그 조직이 가장 도전적인 시기를 직면했을 때 역경 중의 그 지도자의 침착함은 팀 구성원들과 이해관계자들 사이에 자신감을 영감을 주었고, 궁극적으로 성공적인 회복으로 이어졌습니다."
+          },
+          {
+            "sentence": "The negotiator's sangfroid in difficult situations, characterized by high stakes and emotional tension, allowed her to maintain clear thinking and achieve favorable outcomes for all parties involved.",
+            "meaning_ko": "높은 위험과 감정적 긴장이 특징인 어려운 상황에서의 그 협상가의 침착함은 그녀가 명확한 사고를 유지하고 관련된 모든 당사자들에게 유리한 결과를 달성할 수 있게 했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sangfroid는 '침착함, 냉정함' 의미로, 어려운 상황에서도 침착하고 냉정한 태도를 가리킵니다. 매우 격식 있고 드문 단어로, composure, poise와 비슷하지만 더 프랑스어 기원의 뉘앙스가 있습니다. with sangfroid, sangfroid in ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "성격",
+      "격식",
+      "문어",
+      "드문",
+      "긍정"
+    ],
+    "frequency": "하",
+    "difficulty": 9,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sangfroid = (A) panic (B) composure or calmness (C) agitation (D) nervousness",
+            "a": "B",
+            "meaning_ko": "sangfroid는 '침착함 또는 차분함' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He handled the crisis with _____.",
+            "a": "sangfroid",
+            "meaning_ko": "sangfroid는 '침착함'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of sangfroid? (A) composure (B) calmness (C) panic (D) poise",
+            "a": "C",
+            "meaning_ko": "panic(공황)가 sangfroid의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: Her _____ in difficult situations was impressive. (A) sangfroid (B) sangfroids (C) sangfroidly (D) sangfroidness",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 sangfroid가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: sangfroid = (A) panic (B) composure (C) agitation (D) nervousness",
+            "a": "B",
+            "meaning_ko": "composure(침착함)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The sangfroids in crisis was impressive.' → Fix the sentence.",
+            "a": "The sangfroid in crisis was impressive.",
+            "meaning_ko": "sangfroid는 불가산명사이므로 복수형이 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The surgeon's sangfroid in crisis allowed quick decisions.'",
+            "a": "The doctor's calm and composed demeanor during emergency situations enabled her to make rapid and effective choices without being overwhelmed by stress or panic.",
+            "meaning_ko": "sangfroid in crisis는 '위기에서의 침착함'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ under pressure was remarkable. (A) sangfroid (B) sangfroids (C) sangfroidly (D) sangfroidness",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 sangfroid가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sangfroid most appropriately? (A) The sangfroid ran. (B) He handled it with sangfroid. (C) She sangfroid smiled. (D) Sangfroid is good.",
+            "a": "B",
+            "meaning_ko": "sangfroid는 명사로 '침착함'을 의미하며, with와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

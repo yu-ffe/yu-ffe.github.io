@@ -1,0 +1,811 @@
+[
+  {
+    "word": "cajole",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "달래다, 구슬리다; 아첨하거나 약속으로 설득하다.",
+        "note": "부드러운 말이나 아첨으로 상대방을 설득하려는 의미입니다."
+      }
+    ],
+    "concept": "부드러운 말이나 아첨으로 상대방을 설득하거나 원하는 대로 만들려고 하다.",
+    "etymology": "프랑스어 cajoler(달래다, 아첨하다)에서 유래했으며, 원래는 '새를 부드럽게 다루다'는 의미였으나 현대에는 '설득하다'로 확장되었습니다.",
+    "semanticExtension": "원래는 '부드럽게 다루다' 의미였으나, 현대에는 '아첨하거나 약속으로 설득하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어에서 주로 쓰이며, 일상 회화에서는 덜 흔합니다.",
+    "grammarNotes": "타동사로 목적어를 바로 취합니다(cajole + 명사). 전치사 into/out of와 함께 쓰이기도 합니다(cajole someone into doing).",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~하도록 설득하다",
+        "example": "cajole someone into doing"
+      },
+      {
+        "prep": "out of",
+        "meaning_ko": "~하지 않도록 설득하다",
+        "example": "cajole someone out of doing"
+      }
+    ],
+    "requiredComplements": [
+      "cajole + 명사 : ~을 달래다/구슬리다",
+      "cajole + 명사 + into + V-ing : ~을 ~하도록 설득하다",
+      "cajole + 명사 + out of + V-ing : ~을 ~하지 않도록 설득하다"
+    ],
+    "morphology": "프랑스어 cajoler에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "cajolery",
+        "meaning_ko": "달래기, 아첨"
+      },
+      {
+        "word": "cajoling",
+        "meaning_ko": "달래는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "persuade",
+        "meaning_ko": "설득하다"
+      },
+      {
+        "word": "coax",
+        "meaning_ko": "구슬리다"
+      },
+      {
+        "word": "wheedle",
+        "meaning_ko": "구슬리다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "coax",
+        "meaning_ko": "구슬리다"
+      },
+      {
+        "word": "wheedle",
+        "meaning_ko": "구슬리다"
+      },
+      {
+        "word": "persuade",
+        "meaning_ko": "설득하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "flatter",
+        "meaning_ko": "아첨하다"
+      },
+      {
+        "word": "entice",
+        "meaning_ko": "유혹하다"
+      },
+      {
+        "word": "beguile",
+        "meaning_ko": "속이다, 유혹하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "force",
+        "meaning_ko": "강제하다"
+      },
+      {
+        "word": "compel",
+        "meaning_ko": "강요하다"
+      },
+      {
+        "word": "threaten",
+        "meaning_ko": "위협하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "cajole someone",
+            "meaning_ko": "누군가를 달래다"
+          },
+          {
+            "phrase": "cajole into doing",
+            "meaning_ko": "~하도록 설득하다"
+          },
+          {
+            "phrase": "cajole out of",
+            "meaning_ko": "~하지 않도록 설득하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "cajole with promises",
+            "meaning_ko": "약속으로 구슬리다"
+          },
+          {
+            "phrase": "cajole with flattery",
+            "meaning_ko": "아첨으로 구슬리다"
+          },
+          {
+            "phrase": "cajole someone into agreement",
+            "meaning_ko": "누군가를 동의하도록 설득하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "cajole through manipulation",
+            "meaning_ko": "조작을 통해 구슬리다"
+          },
+          {
+            "phrase": "cajole into compliance",
+            "meaning_ko": "순응하도록 설득하다"
+          },
+          {
+            "phrase": "cajole with false promises",
+            "meaning_ko": "거짓 약속으로 구슬리다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She tried to cajole him into going to the party.",
+            "meaning_ko": "그녀는 그를 파티에 가도록 구슬리려고 했습니다."
+          },
+          {
+            "sentence": "He cajoled his parents into buying him a new bike.",
+            "meaning_ko": "그는 부모님을 구슬려서 새 자전거를 사게 했습니다."
+          },
+          {
+            "sentence": "They cajoled her out of quitting her job.",
+            "meaning_ko": "그들은 그녀를 구슬려서 직장을 그만두지 않게 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The salesman cajoled customers with promises of discounts.",
+            "meaning_ko": "그 판매원은 할인 약속으로 고객들을 구슬렸습니다."
+          },
+          {
+            "sentence": "She cajoled her boss into giving her a raise with flattery.",
+            "meaning_ko": "그녀는 아첨으로 상사를 구슬려서 승급을 받았습니다."
+          },
+          {
+            "sentence": "The politician cajoled voters into supporting his campaign.",
+            "meaning_ko": "그 정치인은 유권자들을 구슬려서 자신의 캠페인을 지지하도록 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The manager cajoled employees into compliance through subtle manipulation and false promises.",
+            "meaning_ko": "그 관리자는 미묘한 조작과 거짓 약속을 통해 직원들을 순응하도록 구슬렸습니다."
+          },
+          {
+            "sentence": "She cajoled her way into the exclusive club by flattering the members.",
+            "meaning_ko": "그녀는 회원들을 아첨함으로써 독점 클럽에 들어갈 수 있도록 구슬렸습니다."
+          },
+          {
+            "sentence": "The negotiator cajoled the opposing party into agreement through persistent persuasion and charm.",
+            "meaning_ko": "그 협상가는 끈질긴 설득과 매력으로 상대방을 동의하도록 구슬렸습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "cajole은 '구슬리다, 달래다' 의미로, 부드러운 말이나 아첨으로 설득하는 뉘앙스가 있습니다. coax, wheedle과 비슷하지만 더 격식 있는 표현입니다. 전치사 패턴(cajole into/out of)을 함께 외우면 실전에서 바로 활용할 수 있습니다.",
+    "tags": [
+      "설득",
+      "아첨",
+      "격식",
+      "문어",
+      "인간관계"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: cajole = (A) force (B) persuade with flattery (C) threaten (D) ignore",
+            "a": "B",
+            "meaning_ko": "cajole은 '아첨으로 설득하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She tried to _____ him into going.",
+            "a": "cajole",
+            "meaning_ko": "cajole someone into doing는 '~을 ~하도록 구슬리다' 패턴입니다."
+          },
+          {
+            "q": "Which is the opposite of cajole? (A) persuade (B) force (C) coax (D) wheedle",
+            "a": "B",
+            "meaning_ko": "force(강제하다)가 cajole의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: She cajoled him _____ going. (A) into (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "cajole someone into doing가 표준 패턴입니다."
+          },
+          {
+            "q": "Pick the best synonym: cajole = (A) force (B) coax (C) threaten (D) ignore",
+            "a": "B",
+            "meaning_ko": "coax(구슬리다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She cajoled him to go.' → Fix the sentence.",
+            "a": "She cajoled him into going.",
+            "meaning_ko": "cajole은 into + V-ing 패턴을 사용합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She cajoled him into agreement through flattery.'",
+            "a": "She persuaded him to agree by using flattering words and charm.",
+            "meaning_ko": "cajole은 '아첨으로 설득하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The manager _____ employees into compliance. (A) cajoled (B) cajoles (C) cajoling (D) cajole",
+            "a": "A",
+            "meaning_ko": "과거 시제에서 타동사 cajoled가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses cajole most appropriately? (A) The cajole ran. (B) She cajoled him into helping. (C) He cajole smiled. (D) Cajole is good.",
+            "a": "B",
+            "meaning_ko": "cajole은 타동사로 '누군가를 ~하도록 구슬리다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "edible",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "식용 가능한, 먹을 수 있는.",
+        "note": "먹어도 안전하고 해롭지 않은 것을 가리킵니다."
+      }
+    ],
+    "concept": "먹어도 안전하고 해롭지 않은, 식용 가능한 상태.",
+    "etymology": "라틴어 edibilis(먹을 수 있는)에서 유래했으며, edere(먹다) 계열과 연결됩니다.",
+    "semanticExtension": "원래는 '먹을 수 있는' 의미였으나, 현대에는 '식용 가능한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로 명사를 수식하거나 서술어로 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "edible + 명사 : 식용 가능한 ~"
+    ],
+    "morphology": "ed-(먹다) + -ible(가능한)로, '먹을 수 있는' 의미가 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "inedible",
+        "meaning_ko": "식용 불가능한"
+      },
+      {
+        "word": "edibility",
+        "meaning_ko": "식용 가능성"
+      }
+    ],
+    "related": [
+      {
+        "word": "consumable",
+        "meaning_ko": "소비 가능한"
+      },
+      {
+        "word": "safe",
+        "meaning_ko": "안전한"
+      },
+      {
+        "word": "palatable",
+        "meaning_ko": "맛있는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "consumable",
+        "meaning_ko": "소비 가능한"
+      },
+      {
+        "word": "safe to eat",
+        "meaning_ko": "먹어도 안전한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "palatable",
+        "meaning_ko": "맛있는(범위가 더 넓음)"
+      },
+      {
+        "word": "digestible",
+        "meaning_ko": "소화 가능한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inedible",
+        "meaning_ko": "식용 불가능한"
+      },
+      {
+        "word": "poisonous",
+        "meaning_ko": "독이 있는"
+      },
+      {
+        "word": "toxic",
+        "meaning_ko": "유독한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "edible plants",
+            "meaning_ko": "식용 식물"
+          },
+          {
+            "phrase": "edible mushrooms",
+            "meaning_ko": "식용 버섯"
+          },
+          {
+            "phrase": "edible flowers",
+            "meaning_ko": "식용 꽃"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "edible portion",
+            "meaning_ko": "식용 부분"
+          },
+          {
+            "phrase": "edible oil",
+            "meaning_ko": "식용유"
+          },
+          {
+            "phrase": "edible seaweed",
+            "meaning_ko": "식용 해조류"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "edible packaging",
+            "meaning_ko": "식용 포장재"
+          },
+          {
+            "phrase": "edible insects",
+            "meaning_ko": "식용 곤충"
+          },
+          {
+            "phrase": "edible vaccine",
+            "meaning_ko": "식용 백신"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "These berries are edible and safe to eat.",
+            "meaning_ko": "이 열매들은 식용 가능하고 먹어도 안전합니다."
+          },
+          {
+            "sentence": "Not all mushrooms are edible.",
+            "meaning_ko": "모든 버섯이 식용 가능한 것은 아닙니다."
+          },
+          {
+            "sentence": "The guide showed us which plants were edible.",
+            "meaning_ko": "가이드는 우리에게 어떤 식물이 식용 가능한지 보여줬습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Only the edible portion of the fruit should be consumed.",
+            "meaning_ko": "과일의 식용 부분만 섭취해야 합니다."
+          },
+          {
+            "sentence": "Edible oil is extracted from various plant sources.",
+            "meaning_ko": "식용유는 다양한 식물 원료에서 추출됩니다."
+          },
+          {
+            "sentence": "The restaurant serves dishes made with edible flowers.",
+            "meaning_ko": "그 식당은 식용 꽃으로 만든 요리를 제공합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Researchers are developing edible packaging materials to reduce plastic waste.",
+            "meaning_ko": "연구자들은 플라스틱 폐기물을 줄이기 위해 식용 포장재를 개발하고 있습니다."
+          },
+          {
+            "sentence": "Edible insects are being explored as a sustainable protein source in many countries.",
+            "meaning_ko": "식용 곤충은 많은 국가에서 지속 가능한 단백질 공급원으로 탐구되고 있습니다."
+          },
+          {
+            "sentence": "Scientists are working on edible vaccines that could be administered through food.",
+            "meaning_ko": "과학자들은 음식을 통해 투여할 수 있는 식용 백신을 개발하고 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "edible은 '식용 가능한' 의미로, 먹어도 안전한 것을 가리킵니다. inedible(식용 불가능한)과 대비해서 외우면 기억이 오래갑니다. 식물, 버섯, 꽃 등과 함께 자주 쓰이므로, 이런 문맥에서 나오면 edible로 해석하면 됩니다.",
+    "tags": [
+      "음식",
+      "안전",
+      "일상 회화",
+      "과학",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: edible = (A) poisonous (B) safe to eat (C) dangerous (D) toxic",
+            "a": "B",
+            "meaning_ko": "edible은 '먹어도 안전한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: These mushrooms are _____ and safe to eat.",
+            "a": "edible",
+            "meaning_ko": "edible은 '식용 가능한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of edible? (A) safe (B) inedible (C) consumable (D) palatable",
+            "a": "B",
+            "meaning_ko": "inedible(식용 불가능한)이 edible의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: Only the _____ portion should be consumed. (A) edible (B) edibles (C) edibled (D) edibling",
+            "a": "A",
+            "meaning_ko": "portion을 수식하는 형용사 edible이 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: edible = (A) poisonous (B) consumable (C) toxic (D) dangerous",
+            "a": "B",
+            "meaning_ko": "consumable(소비 가능한)이 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The plant is edible.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "edible은 형용사로 서술어로 쓰일 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Edible insects are being explored as a protein source.'",
+            "a": "Insects that are safe to eat are being investigated as a source of protein.",
+            "meaning_ko": "edible은 '식용 가능한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: Scientists are developing _____ packaging. (A) edible (B) edibles (C) edibled (D) edibling",
+            "a": "A",
+            "meaning_ko": "packaging을 수식하는 형용사 edible이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses edible most appropriately? (A) The edible ran. (B) The edible plants are safe. (C) She edible smiled. (D) Edible is good.",
+            "a": "B",
+            "meaning_ko": "edible은 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "scrutinize",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "면밀히 검토하다, 자세히 살펴보다.",
+        "note": "주의 깊게 자세히 살펴보고 검토하는 의미입니다."
+      }
+    ],
+    "concept": "주의 깊게 자세히 살펴보고 검토하다.",
+    "etymology": "라틴어 scrutinium(조사, 검토)에서 유래했으며, scrutari(조사하다) 계열과 연결됩니다.",
+    "semanticExtension": "원래는 '조사하다' 의미였으나, 현대에는 '면밀히 검토하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·학술·비즈니스에서 자주 쓰이며, 일상 회화에서는 덜 흔합니다.",
+    "grammarNotes": "타동사로 목적어를 바로 취합니다(scrutinize + 명사). 수동태도 가능합니다(be scrutinized).",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "scrutinize + 명사 : ~을 면밀히 검토하다"
+    ],
+    "morphology": "scrutin-(조사하다) + -ize(동사화)로, '조사하다' 의미가 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "scrutiny",
+        "meaning_ko": "면밀한 검토, 조사"
+      },
+      {
+        "word": "scrutinizer",
+        "meaning_ko": "검토자"
+      }
+    ],
+    "related": [
+      {
+        "word": "examine",
+        "meaning_ko": "검토하다"
+      },
+      {
+        "word": "inspect",
+        "meaning_ko": "검사하다"
+      },
+      {
+        "word": "analyze",
+        "meaning_ko": "분석하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "examine",
+        "meaning_ko": "검토하다"
+      },
+      {
+        "word": "inspect",
+        "meaning_ko": "검사하다"
+      },
+      {
+        "word": "analyze",
+        "meaning_ko": "분석하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "review",
+        "meaning_ko": "검토하다(범위가 더 넓음)"
+      },
+      {
+        "word": "study",
+        "meaning_ko": "연구하다"
+      },
+      {
+        "word": "investigate",
+        "meaning_ko": "조사하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "overlook",
+        "meaning_ko": "간과하다"
+      },
+      {
+        "word": "neglect",
+        "meaning_ko": "소홀히 하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "scrutinize documents",
+            "meaning_ko": "문서를 면밀히 검토하다"
+          },
+          {
+            "phrase": "scrutinize evidence",
+            "meaning_ko": "증거를 자세히 살펴보다"
+          },
+          {
+            "phrase": "scrutinize records",
+            "meaning_ko": "기록을 면밀히 검토하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "scrutinize the proposal",
+            "meaning_ko": "제안을 면밀히 검토하다"
+          },
+          {
+            "phrase": "scrutinize the budget",
+            "meaning_ko": "예산을 자세히 살펴보다"
+          },
+          {
+            "phrase": "scrutinize the contract",
+            "meaning_ko": "계약을 면밀히 검토하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "scrutinize financial transactions",
+            "meaning_ko": "금융 거래를 면밀히 검토하다"
+          },
+          {
+            "phrase": "scrutinize under a microscope",
+            "meaning_ko": "현미경으로 면밀히 검토하다"
+          },
+          {
+            "phrase": "scrutinize for errors",
+            "meaning_ko": "오류를 찾기 위해 면밀히 검토하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The lawyer scrutinized the contract carefully.",
+            "meaning_ko": "변호사는 계약을 주의 깊게 면밀히 검토했습니다."
+          },
+          {
+            "sentence": "The committee will scrutinize the proposal.",
+            "meaning_ko": "위원회는 그 제안을 면밀히 검토할 것입니다."
+          },
+          {
+            "sentence": "She scrutinized the evidence for any mistakes.",
+            "meaning_ko": "그녀는 실수를 찾기 위해 증거를 자세히 살펴봤습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The auditor scrutinized the financial records for discrepancies.",
+            "meaning_ko": "감사관은 불일치를 찾기 위해 재무 기록을 면밀히 검토했습니다."
+          },
+          {
+            "sentence": "The board scrutinized the budget proposal before approval.",
+            "meaning_ko": "이사회는 승인 전에 예산 제안을 면밀히 검토했습니다."
+          },
+          {
+            "sentence": "Researchers scrutinized the data for patterns.",
+            "meaning_ko": "연구자들은 패턴을 찾기 위해 데이터를 자세히 살펴봤습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Regulators scrutinized the financial transactions to detect potential fraud.",
+            "meaning_ko": "규제 당국은 잠재적 사기를 감지하기 위해 금융 거래를 면밀히 검토했습니다."
+          },
+          {
+            "sentence": "The sample was scrutinized under a microscope to identify the cellular structure.",
+            "meaning_ko": "샘플은 세포 구조를 확인하기 위해 현미경으로 면밀히 검토되었습니다."
+          },
+          {
+            "sentence": "The committee scrutinized the proposal for errors before making a final decision.",
+            "meaning_ko": "위원회는 최종 결정을 내리기 전에 제안을 오류를 찾기 위해 면밀히 검토했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "scrutinize은 '면밀히 검토하다' 의미로, examine, inspect보다 더 주의 깊고 자세한 검토를 의미합니다. 학술·비즈니스 지문에서 자주 나오므로, 이런 문맥에서 '자세히 살펴보다'와 연결되면 scrutinize로 해석하면 됩니다. 명사형 scrutiny도 함께 외우면 좋습니다.",
+    "tags": [
+      "검토",
+      "조사",
+      "학술",
+      "비즈니스",
+      "격식"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: scrutinize = (A) ignore (B) examine carefully (C) forget (D) destroy",
+            "a": "B",
+            "meaning_ko": "scrutinize은 '면밀히 검토하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The lawyer _____ the contract carefully.",
+            "a": "scrutinized",
+            "meaning_ko": "scrutinize은 타동사로 목적어를 받습니다."
+          },
+          {
+            "q": "Which is the opposite of scrutinize? (A) examine (B) ignore (C) inspect (D) analyze",
+            "a": "B",
+            "meaning_ko": "ignore(무시하다)가 scrutinize의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The auditor _____ the records. (A) scrutinized (B) scrutinizes (C) scrutinizing (D) scrutinize",
+            "a": "A",
+            "meaning_ko": "과거 시제에서 타동사 scrutinized가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: scrutinize = (A) ignore (B) examine (C) forget (D) destroy",
+            "a": "B",
+            "meaning_ko": "examine(검토하다)이 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The document was scrutinize.' → Fix the sentence.",
+            "a": "The document was scrutinized.",
+            "meaning_ko": "수동태를 쓰려면 과거분사 scrutinized가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Regulators scrutinized the transactions for fraud.'",
+            "a": "Regulators examined the transactions carefully to detect fraud.",
+            "meaning_ko": "scrutinize은 '면밀히 검토하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The committee _____ the proposal. (A) scrutinized (B) scrutinizes (C) scrutinizing (D) scrutinize",
+            "a": "A",
+            "meaning_ko": "과거 시제에서 타동사 scrutinized가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses scrutinize most appropriately? (A) The scrutinize ran. (B) They scrutinized the evidence. (C) She scrutinize smiled. (D) Scrutinize is good.",
+            "a": "B",
+            "meaning_ko": "scrutinize은 타동사로 '~을 면밀히 검토하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

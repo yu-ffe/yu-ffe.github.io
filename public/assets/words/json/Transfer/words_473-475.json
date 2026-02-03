@@ -1,0 +1,774 @@
+[
+  {
+    "word": "ingredient",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "재료, 성분; 요리나 제품을 만드는 데 사용되는 구성 요소.",
+        "note": "요리나 제품을 만드는 데 사용되는 구성 요소를 가리킵니다."
+      },
+      {
+        "definition_ko": "요소, 구성 요소; 무언가를 이루는 중요한 부분이나 요소.",
+        "note": "무언가를 이루는 중요한 부분이나 요소를 가리킵니다."
+      }
+    ],
+    "concept": "요리나 제품을 만드는 데 사용되는 재료, 또는 무언가를 이루는 중요한 요소.",
+    "etymology": "라틴어 ingredi(들어가다)에서 유래했으며, 원래는 '들어가다' 의미였으나 현대에는 '재료'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '들어가다' 의미였으나, 현대에는 '요리나 제품을 만드는 데 사용되는 구성 요소' 또는 '무언가를 이루는 중요한 요소'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사로 an ingredient, ingredients 형태로 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 재료",
+        "example": "ingredient of the recipe"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에 들어가는 재료",
+        "example": "ingredient in the dish"
+      }
+    ],
+    "requiredComplements": [
+      "ingredient of/in + 명사 : ~의/~에 들어가는 재료"
+    ],
+    "morphology": "라틴어 ingredi에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "component",
+        "meaning_ko": "구성 요소"
+      },
+      {
+        "word": "element",
+        "meaning_ko": "요소"
+      },
+      {
+        "word": "constituent",
+        "meaning_ko": "구성 요소"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "component",
+        "meaning_ko": "구성 요소"
+      },
+      {
+        "word": "element",
+        "meaning_ko": "요소"
+      },
+      {
+        "word": "constituent",
+        "meaning_ko": "구성 요소"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "part",
+        "meaning_ko": "부분(범위가 더 넓음)"
+      },
+      {
+        "word": "factor",
+        "meaning_ko": "요인"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "main ingredient",
+            "meaning_ko": "주요 재료"
+          },
+          {
+            "phrase": "ingredient list",
+            "meaning_ko": "재료 목록"
+          },
+          {
+            "phrase": "key ingredient",
+            "meaning_ko": "핵심 재료"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "active ingredient",
+            "meaning_ko": "활성 성분"
+          },
+          {
+            "phrase": "ingredient in the recipe",
+            "meaning_ko": "레시피의 재료"
+          },
+          {
+            "phrase": "essential ingredient",
+            "meaning_ko": "필수 재료"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ingredient of success",
+            "meaning_ko": "성공의 요소"
+          },
+          {
+            "phrase": "pharmaceutical ingredient",
+            "meaning_ko": "의약 성분"
+          },
+          {
+            "phrase": "ingredient composition",
+            "meaning_ko": "성분 구성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Flour is the main ingredient in bread.",
+            "meaning_ko": "밀가루는 빵의 주요 재료입니다."
+          },
+          {
+            "sentence": "Check the ingredient list before buying.",
+            "meaning_ko": "구매하기 전에 재료 목록을 확인하세요."
+          },
+          {
+            "sentence": "Salt is a key ingredient in cooking.",
+            "meaning_ko": "소금은 요리의 핵심 재료입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The active ingredient in the medication provides the therapeutic effect.",
+            "meaning_ko": "그 약물의 활성 성분은 치료 효과를 제공합니다."
+          },
+          {
+            "sentence": "All ingredients in the recipe must be fresh for the best results.",
+            "meaning_ko": "레시피의 모든 재료는 최상의 결과를 위해 신선해야 합니다."
+          },
+          {
+            "sentence": "Trust is an essential ingredient in any successful relationship.",
+            "meaning_ko": "신뢰는 어떤 성공적인 관계에서도 필수 요소입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Hard work and perseverance are key ingredients of success in any field.",
+            "meaning_ko": "노력과 인내는 어떤 분야에서도 성공의 핵심 요소입니다."
+          },
+          {
+            "sentence": "The pharmaceutical ingredient underwent rigorous testing to ensure safety and efficacy.",
+            "meaning_ko": "그 의약 성분은 안전성과 효능을 보장하기 위해 엄격한 테스트를 거쳤습니다."
+          },
+          {
+            "sentence": "The ingredient composition of the product was carefully analyzed to meet regulatory standards.",
+            "meaning_ko": "그 제품의 성분 구성은 규제 기준을 충족하기 위해 신중하게 분석되었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ingredient은 '재료, 성분' 또는 '요소' 의미로, 요리나 제품을 만드는 데 사용되는 구성 요소를 가리킵니다. component, element와 비슷하지만 더 일상적이고 요리 맥락에서 자주 쓰입니다. main ingredient, key ingredient 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "요리",
+      "제품",
+      "일상 회화",
+      "과학",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: ingredient = (A) result (B) component or element (C) product (D) outcome",
+            "a": "B",
+            "meaning_ko": "ingredient은 '구성 요소 또는 요소' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Flour is the main _____ in bread.",
+            "a": "ingredient",
+            "meaning_ko": "ingredient은 '재료'를 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'most important component'? (A) main ingredient (B) small ingredient (C) extra ingredient (D) optional ingredient",
+            "a": "A",
+            "meaning_ko": "main ingredient는 '주요 재료' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: ingredient _____ the recipe. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "ingredient of ~는 '~의 재료' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: ingredient = (A) result (B) component (C) product (D) outcome",
+            "a": "B",
+            "meaning_ko": "component(구성 요소)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'Check the ingredient list.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "ingredient list는 '재료 목록' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Hard work is a key ingredient of success.'",
+            "a": "Diligent effort is an essential component or element that contributes to achieving goals.",
+            "meaning_ko": "key ingredient of success는 '성공의 핵심 요소'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ composition was analyzed. (A) ingredient (B) ingredients (C) ingredienting (D) ingrediented",
+            "a": "A",
+            "meaning_ko": "명사 수식어로 단수형 ingredient가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses ingredient most appropriately? (A) The ingredient ran. (B) Flour is an ingredient in bread. (C) She ingredient smiled. (D) Ingredient is good.",
+            "a": "B",
+            "meaning_ko": "ingredient는 명사로 '재료'를 의미하며, in과 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "snowball",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "눈덩이; 눈을 뭉쳐서 만든 공.",
+        "note": "명사로는 '눈덩이', 동사로는 '눈덩이처럼 커지다' 의미입니다."
+      },
+      {
+        "definition_ko": "눈덩이처럼 커지다, 급속히 증가하다; 작은 것에서 시작해서 빠르게 커지거나 증가하다.",
+        "note": "동사로는 '눈덩이처럼 커지다' 의미입니다."
+      }
+    ],
+    "concept": "눈을 뭉쳐서 만든 공인 눈덩이, 또는 작은 것에서 시작해서 빠르게 커지거나 증가하는 것.",
+    "etymology": "snow(눈) + ball(공)의 결합으로, '눈 공'에서 '눈덩이처럼 커지다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '눈 공' 의미였으나, 현대에는 '작은 것에서 시작해서 빠르게 커지거나 증가하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사이며, 동사로는 자동사로 snowball into + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~로 눈덩이처럼 커지다",
+        "example": "snowball into a crisis"
+      }
+    ],
+    "requiredComplements": [
+      "snowball into + 명사 : ~로 눈덩이처럼 커지다"
+    ],
+    "morphology": "snow(눈) + ball(공)의 결합으로, '눈 공'에서 '눈덩이처럼 커지다'로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "snowballing",
+        "meaning_ko": "눈덩이처럼 커지는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "grow",
+        "meaning_ko": "자라다"
+      },
+      {
+        "word": "expand",
+        "meaning_ko": "확장하다"
+      },
+      {
+        "word": "escalate",
+        "meaning_ko": "확대되다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "escalate",
+        "meaning_ko": "확대되다(동사 의미에서)"
+      },
+      {
+        "word": "grow",
+        "meaning_ko": "자라다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "expand",
+        "meaning_ko": "확장하다(범위가 더 넓음)"
+      },
+      {
+        "word": "multiply",
+        "meaning_ko": "증가하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "shrink",
+        "meaning_ko": "줄어들다"
+      },
+      {
+        "word": "diminish",
+        "meaning_ko": "감소하다"
+      },
+      {
+        "word": "decrease",
+        "meaning_ko": "감소하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "snowball effect",
+            "meaning_ko": "눈덩이 효과"
+          },
+          {
+            "phrase": "snowball into",
+            "meaning_ko": "~로 눈덩이처럼 커지다"
+          },
+          {
+            "phrase": "throw a snowball",
+            "meaning_ko": "눈덩이를 던지다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "snowball into a problem",
+            "meaning_ko": "문제로 눈덩이처럼 커지다"
+          },
+          {
+            "phrase": "snowball into a crisis",
+            "meaning_ko": "위기로 눈덩이처럼 커지다"
+          },
+          {
+            "phrase": "snowball debt",
+            "meaning_ko": "빚이 눈덩이처럼 커지다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "snowball into a conflict",
+            "meaning_ko": "갈등으로 눈덩이처럼 커지다"
+          },
+          {
+            "phrase": "snowball into controversy",
+            "meaning_ko": "논란으로 눈덩이처럼 커지다"
+          },
+          {
+            "phrase": "snowball momentum",
+            "meaning_ko": "눈덩이처럼 커지는 추진력"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The children made a snowball and threw it.",
+            "meaning_ko": "아이들은 눈덩이를 만들어서 던졌습니다."
+          },
+          {
+            "sentence": "The small problem snowballed into a big crisis.",
+            "meaning_ko": "작은 문제가 큰 위기로 눈덩이처럼 커졌습니다."
+          },
+          {
+            "sentence": "The debt began to snowball.",
+            "meaning_ko": "빚이 눈덩이처럼 커지기 시작했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The initial disagreement snowballed into a major conflict between the two parties.",
+            "meaning_ko": "초기의 불일치가 두 당사자 사이의 주요 갈등으로 눈덩이처럼 커졌습니다."
+          },
+          {
+            "sentence": "The company's financial troubles snowballed into a crisis that threatened its survival.",
+            "meaning_ko": "그 회사의 재정적 문제는 생존을 위협하는 위기로 눈덩이처럼 커졌습니다."
+          },
+          {
+            "sentence": "The rumor snowballed into widespread controversy, affecting the organization's reputation.",
+            "meaning_ko": "그 소문은 조직의 명성에 영향을 미치는 광범위한 논란으로 눈덩이처럼 커졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The minor incident snowballed into a full-scale conflict, requiring international intervention to resolve.",
+            "meaning_ko": "그 작은 사건은 해결하기 위해 국제적 개입이 필요한 전면적 갈등으로 눈덩이처럼 커졌습니다."
+          },
+          {
+            "sentence": "The initial misunderstanding snowballed into controversy that dominated headlines for weeks and damaged public trust.",
+            "meaning_ko": "초기의 오해는 수주 동안 헤드라인을 지배하고 공공의 신뢰를 손상시킨 논란으로 눈덩이처럼 커졌습니다."
+          },
+          {
+            "sentence": "The economic downturn created a snowball effect, where job losses led to reduced spending, which further weakened the economy.",
+            "meaning_ko": "그 경제 침체는 눈덩이 효과를 만들었고, 실업이 지출 감소로 이어졌으며, 이것이 경제를 더욱 약화시켰습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "snowball은 '눈덩이' 또는 '눈덩이처럼 커지다' 의미로, 명사와 동사 모두로 쓰입니다. 명사로는 '눈을 뭉쳐서 만든 공', 동사로는 '작은 것에서 시작해서 빠르게 커지거나 증가하다' 의미입니다. snowball into ~, snowball effect 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "증가",
+      "문제",
+      "일상 회화",
+      "비즈니스",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: snowball (verb) = (A) shrink (B) grow rapidly or escalate (C) diminish (D) decrease",
+            "a": "B",
+            "meaning_ko": "snowball(동사)는 '급속히 자라거나 확대되다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The problem _____ into a crisis.",
+            "a": "snowballed",
+            "meaning_ko": "snowball은 '눈덩이처럼 커지다' 의미입니다."
+          },
+          {
+            "q": "Which phrase means 'grow rapidly'? (A) snowball into (B) shrink into (C) diminish into (D) decrease into",
+            "a": "A",
+            "meaning_ko": "snowball into ~는 '~로 눈덩이처럼 커지다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: snowball _____ a crisis. (A) into (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "snowball into ~는 '~로 눈덩이처럼 커지다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: snowball (verb) = (A) shrink (B) escalate (C) diminish (D) decrease",
+            "a": "B",
+            "meaning_ko": "escalate(확대되다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The debt began to snowball.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "snowball은 자동사로 '눈덩이처럼 커지다' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The incident snowballed into a conflict.'",
+            "a": "The event grew rapidly and escalated into a serious disagreement or dispute.",
+            "meaning_ko": "snowball into ~는 '~로 눈덩이처럼 커지다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The problem _____ into controversy. (A) snowball (B) snowballed (C) snowballing (D) snowballs",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 자동사 snowballed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses snowball most appropriately? (A) The snowball ran. (B) The problem snowballed. (C) She snowball smiled. (D) Snowball is good.",
+            "a": "B",
+            "meaning_ko": "snowball은 자동사로 '눈덩이처럼 커지다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "comodity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "상품, 원자재; 거래되는 물건이나 원자재.",
+        "note": "거래되는 물건이나 원자재를 가리킵니다."
+      }
+    ],
+    "concept": "거래되는 물건이나 원자재인 상품.",
+    "etymology": "라틴어 commoditas(편의)에서 유래했으며, 원래는 '편의' 의미였으나 현대에는 '상품'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '편의' 의미였으나, 현대에는 '거래되는 물건이나 원자재'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 경제·비즈니스 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사로 a commodity, commodities 형태로 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "commodity + 명사 : 상품 ~",
+      "trade in commodities : 상품 거래"
+    ],
+    "morphology": "라틴어 commoditas에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "commoditize",
+        "meaning_ko": "상품화하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "product",
+        "meaning_ko": "제품"
+      },
+      {
+        "word": "goods",
+        "meaning_ko": "상품"
+      },
+      {
+        "word": "merchandise",
+        "meaning_ko": "상품"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "product",
+        "meaning_ko": "제품"
+      },
+      {
+        "word": "goods",
+        "meaning_ko": "상품"
+      },
+      {
+        "word": "merchandise",
+        "meaning_ko": "상품"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "item",
+        "meaning_ko": "항목(범위가 더 넓음)"
+      },
+      {
+        "word": "resource",
+        "meaning_ko": "자원"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "commodity market",
+            "meaning_ko": "상품 시장"
+          },
+          {
+            "phrase": "commodity prices",
+            "meaning_ko": "상품 가격"
+          },
+          {
+            "phrase": "trade commodities",
+            "meaning_ko": "상품을 거래하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "commodity exchange",
+            "meaning_ko": "상품 거래소"
+          },
+          {
+            "phrase": "commodity trading",
+            "meaning_ko": "상품 거래"
+          },
+          {
+            "phrase": "raw commodity",
+            "meaning_ko": "원자재"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "commodity futures",
+            "meaning_ko": "상품 선물"
+          },
+          {
+            "phrase": "commodity speculation",
+            "meaning_ko": "상품 투기"
+          },
+          {
+            "phrase": "commodity index",
+            "meaning_ko": "상품 지수"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Oil is an important commodity.",
+            "meaning_ko": "석유는 중요한 상품입니다."
+          },
+          {
+            "sentence": "The commodity market is very volatile.",
+            "meaning_ko": "상품 시장은 매우 변동성이 큽니다."
+          },
+          {
+            "sentence": "Commodity prices have been rising.",
+            "meaning_ko": "상품 가격이 상승하고 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The commodity exchange facilitates trading of agricultural products and raw materials.",
+            "meaning_ko": "그 상품 거래소는 농산물과 원자재의 거래를 촉진합니다."
+          },
+          {
+            "sentence": "Commodity trading requires understanding of market trends and supply chain dynamics.",
+            "meaning_ko": "상품 거래는 시장 동향과 공급망 역학에 대한 이해가 필요합니다."
+          },
+          {
+            "sentence": "The price of raw commodities like gold and silver affects global economies.",
+            "meaning_ko": "금과 은과 같은 원자재의 가격은 글로벌 경제에 영향을 미칩니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Investors use commodity futures to hedge against price fluctuations in agricultural and energy markets.",
+            "meaning_ko": "투자자들은 농업 및 에너지 시장의 가격 변동에 대비하기 위해 상품 선물을 사용합니다."
+          },
+          {
+            "sentence": "The commodity speculation in the oil market led to significant price volatility, affecting consumers worldwide.",
+            "meaning_ko": "석유 시장의 상품 투기는 전 세계 소비자에 영향을 미치는 상당한 가격 변동성을 초래했습니다."
+          },
+          {
+            "sentence": "The commodity index tracks the performance of various raw materials, providing insights into global economic trends.",
+            "meaning_ko": "그 상품 지수는 다양한 원자재의 성과를 추적하여 글로벌 경제 동향에 대한 통찰을 제공합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "commodity는 '상품, 원자재' 의미로, 거래되는 물건이나 원자재를 가리킵니다. product, goods와 비슷하지만 더 경제적이고 거래 중심의 뉘앙스가 있습니다. commodity market, commodity prices 같은 고정 결합을 함께 외우면 좋습니다. 참고: 단어가 'comodity'로 오타가 있을 수 있지만, 정확한 철자는 'commodity'입니다.",
+    "tags": [
+      "경제",
+      "비즈니스",
+      "일상 회화",
+      "상품",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: commodity = (A) service (B) product or raw material for trade (C) idea (D) concept",
+            "a": "B",
+            "meaning_ko": "commodity는 '거래를 위한 제품 또는 원자재' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Oil is an important _____.",
+            "a": "commodity",
+            "meaning_ko": "commodity는 '상품'을 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'market for products'? (A) commodity market (B) service market (C) idea market (D) concept market",
+            "a": "A",
+            "meaning_ko": "commodity market는 '상품 시장' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ prices have been rising. (A) commodity (B) commodities (C) commoditize (D) commoditized",
+            "a": "B",
+            "meaning_ko": "복수형 commodities가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: commodity = (A) service (B) product (C) idea (D) concept",
+            "a": "B",
+            "meaning_ko": "product(제품)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The commodity market is volatile.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "commodity market는 '상품 시장' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Commodity trading requires market understanding.'",
+            "a": "Buying and selling of raw materials and products for trade needs knowledge of market trends and dynamics.",
+            "meaning_ko": "commodity trading는 '상품 거래'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ exchange facilitates trading. (A) commodity (B) commodities (C) commoditize (D) commoditized",
+            "a": "A",
+            "meaning_ko": "명사 수식어로 단수형 commodity가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses commodity most appropriately? (A) The commodity ran. (B) Oil is a commodity. (C) She commodity smiled. (D) Commodity is good.",
+            "a": "B",
+            "meaning_ko": "commodity는 명사로 '상품'을 의미하며, be 동사와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

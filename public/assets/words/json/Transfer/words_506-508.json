@@ -1,0 +1,809 @@
+[
+  {
+    "word": "distraught",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "심란한, 정신이 나간; 매우 걱정되거나 슬퍼서 정신이 나간 상태의.",
+        "note": "매우 걱정되거나 슬퍼서 정신이 나간 상태를 가리킵니다."
+      }
+    ],
+    "concept": "매우 걱정되거나 슬퍼서 정신이 나간 심란한 상태.",
+    "etymology": "라틴어 distrahere(분리하다)에서 유래했으며, 원래는 '분리된' 의미였으나 현대에는 '심란한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '분리된' 의미였으나, 현대에는 '매우 걱정되거나 슬퍼서 정신이 나간'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be distraught 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 인해 심란한",
+        "example": "distraught with grief"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~에 대해 심란한",
+        "example": "distraught over the loss"
+      }
+    ],
+    "requiredComplements": [
+      "be distraught : 심란하다",
+      "be distraught with + 명사 : ~로 인해 심란한",
+      "be distraught over + 명사 : ~에 대해 심란한"
+    ],
+    "morphology": "라틴어 distrahere에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "upset",
+        "meaning_ko": "화가 난"
+      },
+      {
+        "word": "agitated",
+        "meaning_ko": "불안한"
+      },
+      {
+        "word": "frantic",
+        "meaning_ko": "미친 듯한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "frantic",
+        "meaning_ko": "미친 듯한"
+      },
+      {
+        "word": "hysterical",
+        "meaning_ko": "히스테리적인"
+      },
+      {
+        "word": "overwhelmed",
+        "meaning_ko": "압도된"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "upset",
+        "meaning_ko": "화가 난(강도가 더 약함)"
+      },
+      {
+        "word": "agitated",
+        "meaning_ko": "불안한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "calm",
+        "meaning_ko": "차분한"
+      },
+      {
+        "word": "composed",
+        "meaning_ko": "침착한"
+      },
+      {
+        "word": "serene",
+        "meaning_ko": "평온한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "distraught with",
+            "meaning_ko": "~로 인해 심란한"
+          },
+          {
+            "phrase": "distraught over",
+            "meaning_ko": "~에 대해 심란한"
+          },
+          {
+            "phrase": "distraught parent",
+            "meaning_ko": "심란한 부모"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "distraught with grief",
+            "meaning_ko": "슬픔으로 인해 심란한"
+          },
+          {
+            "phrase": "distraught over the loss",
+            "meaning_ko": "손실에 대해 심란한"
+          },
+          {
+            "phrase": "distraught expression",
+            "meaning_ko": "심란한 표정"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "distraught state",
+            "meaning_ko": "심란한 상태"
+          },
+          {
+            "phrase": "distraught condition",
+            "meaning_ko": "심란한 상태"
+          },
+          {
+            "phrase": "distraught demeanor",
+            "meaning_ko": "심란한 태도"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She was distraught with grief after the accident.",
+            "meaning_ko": "그녀는 그 사고 후 슬픔으로 인해 심란했습니다."
+          },
+          {
+            "sentence": "He was distraught over the loss of his job.",
+            "meaning_ko": "그는 그의 직장을 잃은 것에 대해 심란했습니다."
+          },
+          {
+            "sentence": "The distraught parent searched for the missing child.",
+            "meaning_ko": "그 심란한 부모는 실종된 아이를 찾았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The family was distraught with grief following the sudden death of their loved one, struggling to come to terms with the devastating loss.",
+            "meaning_ko": "그 가족은 사랑하는 사람의 갑작스러운 죽음 후 슬픔으로 인해 심란했고, 그 파괴적인 손실을 받아들이는 데 어려움을 겪었습니다."
+          },
+          {
+            "sentence": "She was distraught over the loss of her research data, which represented years of work and could not be easily recovered.",
+            "meaning_ko": "그녀는 그녀의 연구 데이터의 손실에 대해 심란했고, 그것은 수년간의 작업을 나타냈으며 쉽게 복구될 수 없었습니다."
+          },
+          {
+            "sentence": "The distraught expression on his face revealed the depth of his emotional turmoil and the weight of the difficult decision he had to make.",
+            "meaning_ko": "그의 얼굴의 심란한 표정은 그의 감정적 혼란의 깊이와 그가 내려야 했던 어려운 결정의 무게를 드러냈습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The distraught state of the community following the natural disaster required immediate psychological support and counseling services to help residents process their trauma.",
+            "meaning_ko": "그 자연 재해 후 지역 사회의 심란한 상태는 주민들이 자신들의 트라우마를 처리하는 데 도움을 주기 위해 즉각적인 심리적 지원과 상담 서비스를 요구했습니다."
+          },
+          {
+            "sentence": "The distraught condition of the patient, who had received devastating medical news, necessitated a comprehensive approach to emotional and psychological care.",
+            "meaning_ko": "파괴적인 의학적 소식을 받은 그 환자의 심란한 상태는 감정적이고 심리적인 돌봄에 대한 포괄적인 접근을 필요로 했습니다."
+          },
+          {
+            "sentence": "Her distraught demeanor during the crisis meeting reflected not only personal concerns but also the broader implications of the situation for the entire organization.",
+            "meaning_ko": "그 위기 회의 중 그녀의 심란한 태도는 개인적 우려뿐만 아니라 전체 조직에 대한 상황의 더 넓은 함의를 반영했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "distraught는 '심란한, 정신이 나간' 의미로, 매우 걱정되거나 슬퍼서 정신이 나간 상태를 가리킵니다. 매우 격식 있고 드문 단어로, frantic, hysterical과 비슷하지만 더 문학적 뉘앙스가 있습니다. be distraught with/over ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "감정",
+      "격식",
+      "문어",
+      "드문",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: distraught = (A) calm (B) very upset or frantic (C) composed (D) serene",
+            "a": "B",
+            "meaning_ko": "distraught는 '매우 화가 나거나 미친 듯한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She was _____ with grief after the accident.",
+            "a": "distraught",
+            "meaning_ko": "distraught는 '심란한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of distraught? (A) frantic (B) hysterical (C) calm (D) overwhelmed",
+            "a": "C",
+            "meaning_ko": "calm(차분한)가 distraught의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: distraught _____ grief. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "distraught with ~는 '~로 인해 심란한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: distraught = (A) calm (B) frantic (C) composed (D) serene",
+            "a": "B",
+            "meaning_ko": "frantic(미친 듯한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was distraught on the loss.' → Fix the preposition.",
+            "a": "She was distraught over the loss.",
+            "meaning_ko": "distraught over ~는 '~에 대해 심란한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The family was distraught with grief.'",
+            "a": "The relatives were extremely upset, emotionally overwhelmed, and mentally distressed due to deep sadness and sorrow.",
+            "meaning_ko": "distraught with grief는 '슬픔으로 인해 심란한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ expression revealed turmoil. (A) distraught (B) distraughts (C) distraughtly (D) distraughtness",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 distraught가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses distraught most appropriately? (A) The distraught ran. (B) She was distraught with grief. (C) She distraught smiled. (D) Distraught is good.",
+            "a": "B",
+            "meaning_ko": "distraught는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "reside",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "거주하다, 살다; 특정한 장소에 살다.",
+        "note": "특정한 장소에 사는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "존재하다, 있다; 특정한 곳에 존재하거나 있다.",
+        "note": "특정한 곳에 존재하거나 있는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "특정한 장소에 살거나 거주하는 것, 또는 특정한 곳에 존재하거나 있는 것.",
+    "etymology": "라틴어 residere(머물다)에서 유래했으며, 원래는 '머물다' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '머물다' 의미였으나, 현대에는 '거주하다' 또는 '존재하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "자동사로 reside in/at + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 거주하다",
+        "example": "reside in the city"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "~에 거주하다",
+        "example": "reside at the address"
+      }
+    ],
+    "requiredComplements": [
+      "reside in + 명사 : ~에 거주하다",
+      "reside at + 명사 : ~에 거주하다"
+    ],
+    "morphology": "라틴어 residere에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "residence",
+        "meaning_ko": "거주지"
+      },
+      {
+        "word": "resident",
+        "meaning_ko": "거주자"
+      },
+      {
+        "word": "residential",
+        "meaning_ko": "거주의"
+      }
+    ],
+    "related": [
+      {
+        "word": "live",
+        "meaning_ko": "살다"
+      },
+      {
+        "word": "dwell",
+        "meaning_ko": "거주하다"
+      },
+      {
+        "word": "inhabit",
+        "meaning_ko": "거주하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "live",
+        "meaning_ko": "살다"
+      },
+      {
+        "word": "dwell",
+        "meaning_ko": "거주하다"
+      },
+      {
+        "word": "inhabit",
+        "meaning_ko": "거주하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "stay",
+        "meaning_ko": "머물다(범위가 더 넓음)"
+      },
+      {
+        "word": "occupy",
+        "meaning_ko": "점유하다"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "reside in",
+            "meaning_ko": "~에 거주하다"
+          },
+          {
+            "phrase": "reside at",
+            "meaning_ko": "~에 거주하다"
+          },
+          {
+            "phrase": "reside permanently",
+            "meaning_ko": "영구적으로 거주하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "reside in the city",
+            "meaning_ko": "도시에 거주하다"
+          },
+          {
+            "phrase": "reside at the address",
+            "meaning_ko": "그 주소에 거주하다"
+          },
+          {
+            "phrase": "reside temporarily",
+            "meaning_ko": "일시적으로 거주하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "reside in the region",
+            "meaning_ko": "그 지역에 거주하다"
+          },
+          {
+            "phrase": "reside in the country",
+            "meaning_ko": "그 나라에 거주하다"
+          },
+          {
+            "phrase": "reside in the area",
+            "meaning_ko": "그 지역에 거주하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She resides in New York.",
+            "meaning_ko": "그녀는 뉴욕에 거주합니다."
+          },
+          {
+            "sentence": "He resides at that address.",
+            "meaning_ko": "그는 그 주소에 거주합니다."
+          },
+          {
+            "sentence": "They reside permanently in the country.",
+            "meaning_ko": "그들은 그 나라에 영구적으로 거주합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The family has resided in the city for over twenty years, establishing deep roots in the local community.",
+            "meaning_ko": "그 가족은 20년 이상 그 도시에 거주했고, 지역 사회에 깊은 뿌리를 내렸습니다."
+          },
+          {
+            "sentence": "The diplomat was required to reside at the official address provided by the embassy, ensuring proper documentation and communication.",
+            "meaning_ko": "그 외교관은 대사관에서 제공한 공식 주소에 거주해야 했고, 적절한 문서화와 소통을 보장했습니다."
+          },
+          {
+            "sentence": "Many students choose to reside temporarily in university housing during their academic years, before moving to permanent residences.",
+            "meaning_ko": "많은 학생들이 영구 거주지로 이사하기 전에 학업 기간 동안 대학 주거 시설에 일시적으로 거주하는 것을 선택합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The research team discovered that a significant portion of the population resides in the region, despite challenging economic conditions and limited infrastructure.",
+            "meaning_ko": "그 연구 팀은 어려운 경제 조건과 제한된 인프라에도 불구하고 인구의 상당 부분이 그 지역에 거주한다는 것을 발견했습니다."
+          },
+          {
+            "sentence": "The artist chose to reside in the country that had inspired much of her work, finding that the cultural environment enhanced her creative process.",
+            "meaning_ko": "그 예술가는 그녀의 작품의 많은 부분에 영감을 준 그 나라에 거주하기로 선택했고, 그 문화적 환경이 그녀의 창의적 과정을 향상시킨다는 것을 발견했습니다."
+          },
+          {
+            "sentence": "The policy required all foreign workers to reside in the area designated by the government, facilitating better integration and monitoring of the expatriate community.",
+            "meaning_ko": "그 정책은 모든 외국인 근로자들이 정부가 지정한 지역에 거주하도록 요구했고, 외국인 커뮤니티의 더 나은 통합과 모니터링을 용이하게 했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "reside는 '거주하다, 살다' 의미로, 특정한 장소에 사는 행동을 가리킵니다. 매우 격식 있는 단어로, live, dwell과 비슷하지만 더 공식적 뉘앙스가 있습니다. reside in/at ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "거주",
+      "격식",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: reside = (A) leave (B) live or dwell (C) go (D) move",
+            "a": "B",
+            "meaning_ko": "reside는 '살거나 거주하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She _____ in New York.",
+            "a": "resides",
+            "meaning_ko": "reside는 '거주하다' 의미입니다."
+          },
+          {
+            "q": "Which preposition is correct? reside (A) in (B) on (C) at (D) both A and C",
+            "a": "D",
+            "meaning_ko": "reside in/at ~는 모두 '~에 거주하다' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: reside _____ the city. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "reside in ~는 '~에 거주하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: reside = (A) leave (B) live (C) go (D) move",
+            "a": "B",
+            "meaning_ko": "live(살다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He resides on that address.' → Fix the preposition.",
+            "a": "He resides at that address.",
+            "meaning_ko": "reside at ~는 '~에 거주하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The family has resided in the city for years.'",
+            "a": "The relatives have lived and made their home in the urban area for an extended period of time, establishing a long-term presence there.",
+            "meaning_ko": "reside in ~는 '~에 거주하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ in the region. (A) reside (B) resides (C) residing (D) resided",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 reside가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses reside most appropriately? (A) The reside ran. (B) She resides in the city. (C) She reside smiled. (D) Reside is good.",
+            "a": "B",
+            "meaning_ko": "reside는 자동사로 '거주하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "laity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "평신도, 일반인; 종교에서 성직자가 아닌 일반 신자들.",
+        "note": "종교에서 성직자가 아닌 일반 신자들을 가리킵니다."
+      },
+      {
+        "definition_ko": "일반인, 비전문가; 특정 분야의 전문가가 아닌 일반인들.",
+        "note": "특정 분야의 전문가가 아닌 일반인들을 가리킵니다."
+      }
+    ],
+    "concept": "종교에서 성직자가 아닌 일반 신자들, 또는 특정 분야의 전문가가 아닌 일반인들.",
+    "etymology": "그리스어 laos(사람들)에서 유래했으며, 원래는 '사람들' 의미였으나 현대에는 '평신도'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '사람들' 의미였으나, 현대에는 '성직자가 아닌 일반 신자들' 또는 '전문가가 아닌 일반인들'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, the laity 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "the laity : 평신도",
+      "laity of + 명사 : ~의 평신도"
+    ],
+    "morphology": "그리스어 laos에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "lay",
+        "meaning_ko": "평신도의"
+      },
+      {
+        "word": "layman",
+        "meaning_ko": "평신도"
+      }
+    ],
+    "related": [
+      {
+        "word": "layman",
+        "meaning_ko": "평신도"
+      },
+      {
+        "word": "nonprofessional",
+        "meaning_ko": "비전문가"
+      },
+      {
+        "word": "amateur",
+        "meaning_ko": "아마추어"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "layman",
+        "meaning_ko": "평신도"
+      },
+      {
+        "word": "nonprofessional",
+        "meaning_ko": "비전문가"
+      },
+      {
+        "word": "amateur",
+        "meaning_ko": "아마추어"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "commoner",
+        "meaning_ko": "일반인(범위가 더 넓음)"
+      },
+      {
+        "word": "outsider",
+        "meaning_ko": "외부인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clergy",
+        "meaning_ko": "성직자"
+      },
+      {
+        "word": "professional",
+        "meaning_ko": "전문가"
+      },
+      {
+        "word": "expert",
+        "meaning_ko": "전문가"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "the laity",
+            "meaning_ko": "평신도"
+          },
+          {
+            "phrase": "laity of",
+            "meaning_ko": "~의 평신도"
+          },
+          {
+            "phrase": "lay laity",
+            "meaning_ko": "평신도(중복 표현)"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "laity of the church",
+            "meaning_ko": "교회의 평신도"
+          },
+          {
+            "phrase": "laity participation",
+            "meaning_ko": "평신도 참여"
+          },
+          {
+            "phrase": "laity involvement",
+            "meaning_ko": "평신도 참여"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "laity of the congregation",
+            "meaning_ko": "회중의 평신도"
+          },
+          {
+            "phrase": "laity leadership",
+            "meaning_ko": "평신도 지도력"
+          },
+          {
+            "phrase": "laity education",
+            "meaning_ko": "평신도 교육"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The laity attended the church service.",
+            "meaning_ko": "그 평신도들은 교회 예배에 참석했습니다."
+          },
+          {
+            "sentence": "The priest addressed the laity.",
+            "meaning_ko": "그 사제는 평신도들에게 말했습니다."
+          },
+          {
+            "sentence": "The laity of the church were very active.",
+            "meaning_ko": "그 교회의 평신도들은 매우 활동적이었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The laity of the church played an important role in organizing community events and supporting charitable activities.",
+            "meaning_ko": "그 교회의 평신도들은 지역 사회 행사를 조직하고 자선 활동을 지원하는 데 중요한 역할을 했습니다."
+          },
+          {
+            "sentence": "The priest encouraged laity participation in the decision-making process, recognizing the value of diverse perspectives within the congregation.",
+            "meaning_ko": "그 사제는 회중 내 다양한 관점의 가치를 인정하며 의사 결정 과정에서 평신도 참여를 장려했습니다."
+          },
+          {
+            "sentence": "The laity involvement in the church's outreach programs demonstrated the commitment of non-clerical members to serving the community.",
+            "meaning_ko": "그 교회의 외부 프로그램에서 평신도 참여는 지역 사회를 섬기는 데 비성직자 구성원들의 헌신을 보여줬습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The laity of the congregation took on leadership roles in various ministries, reflecting a shift toward greater involvement of non-ordained members in church governance.",
+            "meaning_ko": "그 회중의 평신도들은 다양한 사역에서 지도력 역할을 맡았고, 교회 통치에서 서품받지 않은 구성원들의 더 큰 참여로의 변화를 반영했습니다."
+          },
+          {
+            "sentence": "The development of laity leadership programs aimed to empower non-clerical members with the skills and knowledge necessary for effective ministry and community engagement.",
+            "meaning_ko": "평신도 지도력 프로그램의 개발은 효과적인 사역과 지역 사회 참여에 필요한 기술과 지식으로 비성직자 구성원들에게 권한을 부여하는 것을 목표로 했습니다."
+          },
+          {
+            "sentence": "The laity education initiative provided theological training and spiritual formation opportunities for members who were not pursuing ordination but wished to deepen their faith and serve their communities.",
+            "meaning_ko": "그 평신도 교육 계획은 서품을 추구하지 않지만 자신들의 신앙을 깊게 하고 지역 사회를 섬기고 싶어하는 구성원들을 위해 신학적 훈련과 영적 형성 기회를 제공했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "laity는 '평신도, 일반인' 의미로, 종교에서 성직자가 아닌 일반 신자들을 가리킵니다. 매우 격식 있고 드문 단어로, 주로 종교 맥락에서 사용됩니다. the laity, laity of ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "종교",
+      "격식",
+      "문어",
+      "드문",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: laity = (A) clergy (B) lay people or nonprofessionals (C) professional (D) expert",
+            "a": "B",
+            "meaning_ko": "laity는 '평신도 또는 비전문가' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ attended the church service.",
+            "a": "laity",
+            "meaning_ko": "laity는 '평신도'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of laity? (A) layman (B) nonprofessional (C) clergy (D) amateur",
+            "a": "C",
+            "meaning_ko": "clergy(성직자)가 laity의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ of the church were active. (A) laity (B) laities (C) laitys (D) laityes",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 laity가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: laity = (A) clergy (B) layman (C) professional (D) expert",
+            "a": "B",
+            "meaning_ko": "layman(평신도)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The laitys attended the service.' → Fix the sentence.",
+            "a": "The laity attended the service.",
+            "meaning_ko": "laity는 불가산명사이므로 복수형이 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The laity of the church played an important role.'",
+            "a": "The non-ordained members and lay people belonging to the religious institution had a significant function and contribution in the organization's activities and mission.",
+            "meaning_ko": "laity of the church는 '교회의 평신도'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ participation was encouraged. (A) laity (B) laities (C) laitys (D) laityes",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 laity가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses laity most appropriately? (A) The laity ran. (B) The laity attended the service. (C) She laity smiled. (D) Laity is good.",
+            "a": "B",
+            "meaning_ko": "laity는 명사로 '평신도'를 의미하며, attended와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

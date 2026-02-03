@@ -1,0 +1,813 @@
+[
+  {
+    "word": "snap",
+    "partOfSpeech": [
+      "verb",
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "딱 소리 내며 부러지다, 부러뜨리다; 갑자기 딱 소리를 내며 부러지거나 부러뜨리다.",
+        "note": "갑자기 딱 소리를 내며 부러지거나 부러뜨리는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "딱 소리, 딱 소리; 갑자기 딱 소리가 나는 소리.",
+        "note": "갑자기 딱 소리가 나는 소리를 가리킵니다."
+      },
+      {
+        "definition_ko": "갑작스러운, 즉각적인; 갑자기 일어나는 즉각적인.",
+        "note": "갑자기 일어나는 즉각적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "갑자기 딱 소리를 내며 부러지거나 부러뜨리는 것, 또는 갑자기 딱 소리가 나는 소리.",
+    "etymology": "네덜란드어 snappen(물다)에서 유래했으며, 원래는 '물다' 의미였으나 현대에는 '딱 소리 내며 부러지다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '물다' 의미였으나, 현대에는 '딱 소리 내며 부러지다' 또는 '딱 소리'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 타동사와 자동사 모두로 쓰이며, 명사로는 가산명사로, 형용사로는 명사를 수식하거나 서술어로 쓰입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~을 향해 딱 소리 내다",
+        "example": "snap at someone"
+      },
+      {
+        "prep": "out",
+        "meaning_ko": "갑자기 말하다",
+        "example": "snap out of it"
+      }
+    ],
+    "requiredComplements": [
+      "snap + 명사 : ~을 부러뜨리다",
+      "snap at + 명사 : ~을 향해 딱 소리 내다"
+    ],
+    "morphology": "네덜란드어 snappen에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "snappy",
+        "meaning_ko": "빠른"
+      },
+      {
+        "word": "snapped",
+        "meaning_ko": "부러진(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "break",
+        "meaning_ko": "부러뜨리다"
+      },
+      {
+        "word": "crack",
+        "meaning_ko": "깨뜨리다"
+      },
+      {
+        "word": "click",
+        "meaning_ko": "딱 소리 내다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "break",
+        "meaning_ko": "부러뜨리다"
+      },
+      {
+        "word": "crack",
+        "meaning_ko": "깨뜨리다"
+      },
+      {
+        "word": "click",
+        "meaning_ko": "딱 소리 내다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "pop",
+        "meaning_ko": "딱 소리 내다(범위가 더 넓음)"
+      },
+      {
+        "word": "burst",
+        "meaning_ko": "터뜨리다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mend",
+        "meaning_ko": "고치다"
+      },
+      {
+        "word": "repair",
+        "meaning_ko": "수리하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "snap at",
+            "meaning_ko": "~을 향해 딱 소리 내다"
+          },
+          {
+            "phrase": "snap out of",
+            "meaning_ko": "~에서 벗어나다"
+          },
+          {
+            "phrase": "snap decision",
+            "meaning_ko": "즉각적인 결정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "snap at someone",
+            "meaning_ko": "누군가에게 딱 소리 내다"
+          },
+          {
+            "phrase": "snap a photo",
+            "meaning_ko": "사진을 찍다"
+          },
+          {
+            "phrase": "snap judgment",
+            "meaning_ko": "즉각적인 판단"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "snap into action",
+            "meaning_ko": "즉시 행동하다"
+          },
+          {
+            "phrase": "snap election",
+            "meaning_ko": "갑작스러운 선거"
+          },
+          {
+            "phrase": "snap response",
+            "meaning_ko": "즉각적인 반응"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The branch snapped in the wind.",
+            "meaning_ko": "그 가지는 바람에 부러졌습니다."
+          },
+          {
+            "sentence": "She snapped at him for being late.",
+            "meaning_ko": "그녀는 그가 늦은 것에 대해 그에게 딱 소리를 냈습니다."
+          },
+          {
+            "sentence": "He made a snap decision.",
+            "meaning_ko": "그는 즉각적인 결정을 내렸습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The branch snapped in the wind during the storm, falling onto the road and creating a hazard for drivers.",
+            "meaning_ko": "그 가지는 그 폭풍 중 바람에 부러졌고, 도로에 떨어져 운전자들에게 위험을 만들었습니다."
+          },
+          {
+            "sentence": "She snapped at him for being late, expressing her frustration after waiting for over an hour without any communication.",
+            "meaning_ko": "그녀는 그가 늦은 것에 대해 그에게 딱 소리를 냈고, 어떤 소통도 없이 한 시간 이상 기다린 후 그녀의 좌절감을 표현했습니다."
+          },
+          {
+            "sentence": "He made a snap decision to accept the job offer, recognizing that the opportunity might not come again and trusting his instincts.",
+            "meaning_ko": "그는 그 일자리 제안을 받아들이는 즉각적인 결정을 내렸고, 그 기회가 다시 오지 않을 수 있다는 것을 인식하고 자신의 직감을 신뢰했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The team had to snap into action when the emergency was declared, quickly mobilizing resources and coordinating efforts to address the crisis effectively.",
+            "meaning_ko": "그 팀은 그 비상사태가 선언되었을 때 즉시 행동해야 했고, 위기를 효과적으로 다루기 위해 빠르게 자원을 동원하고 노력을 조정했습니다."
+          },
+          {
+            "sentence": "The snap election called by the prime minister caught many political observers by surprise, requiring parties to quickly reorganize their campaigns and strategies.",
+            "meaning_ko": "그 총리가 소집한 그 갑작스러운 선거는 많은 정치 관찰자들을 놀라게 했고, 정당들이 자신들의 캠페인과 전략을 빠르게 재조직할 것을 요구했습니다."
+          },
+          {
+            "sentence": "Her snap response to the unexpected question demonstrated her quick thinking and ability to adapt to challenging situations under pressure.",
+            "meaning_ko": "그 예상치 못한 질문에 대한 그녀의 즉각적인 반응은 그녀의 빠른 사고와 압력 하에서 도전적인 상황에 적응하는 능력을 보여줬습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "snap는 '딱 소리 내며 부러지다' 또는 '딱 소리' 의미로, 갑자기 딱 소리를 내며 부러지거나 부러뜨리는 행동을 가리킵니다. break, crack와 비슷하지만 더 갑작스러운 뉘앙스가 있습니다. snap at ~, snap out of ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "동작",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: snap = (A) mend (B) break suddenly or click (C) repair (D) fix",
+            "a": "B",
+            "meaning_ko": "snap는 '갑자기 부러지거나 딱 소리 내다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The branch _____ in the wind.",
+            "a": "snapped",
+            "meaning_ko": "snap는 '부러지다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of snap? (A) break (B) crack (C) mend (D) click",
+            "a": "C",
+            "meaning_ko": "mend(고치다)가 snap의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: snap _____ someone. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "snap at ~는 '~을 향해 딱 소리 내다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: snap = (A) mend (B) break (C) repair (D) fix",
+            "a": "B",
+            "meaning_ko": "break(부러뜨리다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She snapped on him for being late.' → Fix the preposition.",
+            "a": "She snapped at him for being late.",
+            "meaning_ko": "snap at ~는 '~을 향해 딱 소리 내다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The team had to snap into action.'",
+            "a": "The group needed to respond immediately and take action very quickly, without delay, when the situation required an urgent response.",
+            "meaning_ko": "snap into action는 '즉시 행동하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ into action. (A) snap (B) snaps (C) snapping (D) snapped",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 snap가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses snap most appropriately? (A) The snap ran. (B) The branch snapped. (C) She snap smiled. (D) Snap is good.",
+            "a": "B",
+            "meaning_ko": "snap는 자동사로 '부러지다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "brim",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "가장자리, 테두리; 컵이나 그릇의 가장자리.",
+        "note": "컵이나 그릇의 가장자리를 가리킵니다."
+      },
+      {
+        "definition_ko": "가득 차다, 넘치다; 가득 차서 넘치다.",
+        "note": "가득 차서 넘치는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "컵이나 그릇의 가장자리, 또는 가득 차서 넘치는 것.",
+    "etymology": "고대 영어 brymme(가장자리)에서 유래했으며, 원래는 '가장자리' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '가장자리' 의미였으나, 현대에는 '가득 차서 넘치다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로, 동사로는 자동사로 쓰이며, brim with + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 가득 차다",
+        "example": "brim with confidence"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~로 넘치다",
+        "example": "brim over with joy"
+      }
+    ],
+    "requiredComplements": [
+      "brim with + 명사 : ~로 가득 차다",
+      "brim over with + 명사 : ~로 넘치다"
+    ],
+    "morphology": "고대 영어 brymme에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "brimming",
+        "meaning_ko": "가득 찬(현재분사/형용사)"
+      },
+      {
+        "word": "brimful",
+        "meaning_ko": "가득 찬"
+      }
+    ],
+    "related": [
+      {
+        "word": "edge",
+        "meaning_ko": "가장자리"
+      },
+      {
+        "word": "rim",
+        "meaning_ko": "테두리"
+      },
+      {
+        "word": "overflow",
+        "meaning_ko": "넘치다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "edge",
+        "meaning_ko": "가장자리"
+      },
+      {
+        "word": "rim",
+        "meaning_ko": "테두리"
+      },
+      {
+        "word": "lip",
+        "meaning_ko": "가장자리"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "border",
+        "meaning_ko": "경계(범위가 더 넓음)"
+      },
+      {
+        "word": "overflow",
+        "meaning_ko": "넘치다"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "brim with",
+            "meaning_ko": "~로 가득 차다"
+          },
+          {
+            "phrase": "brim over",
+            "meaning_ko": "넘치다"
+          },
+          {
+            "phrase": "full to the brim",
+            "meaning_ko": "가장자리까지 가득 차다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "brim with confidence",
+            "meaning_ko": "자신감으로 가득 차다"
+          },
+          {
+            "phrase": "brim with excitement",
+            "meaning_ko": "흥분으로 가득 차다"
+          },
+          {
+            "phrase": "brim over with joy",
+            "meaning_ko": "기쁨으로 넘치다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "brim with enthusiasm",
+            "meaning_ko": "열정으로 가득 차다"
+          },
+          {
+            "phrase": "brim with potential",
+            "meaning_ko": "잠재력으로 가득 차다"
+          },
+          {
+            "phrase": "brim with possibilities",
+            "meaning_ko": "가능성으로 가득 차다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The cup was full to the brim.",
+            "meaning_ko": "그 컵은 가장자리까지 가득 찼습니다."
+          },
+          {
+            "sentence": "She was brimming with confidence.",
+            "meaning_ko": "그녀는 자신감으로 가득 차 있었습니다."
+          },
+          {
+            "sentence": "The glass brimmed over with water.",
+            "meaning_ko": "그 유리잔은 물로 넘쳤습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The cup was full to the brim with hot coffee, leaving no room for additional liquid without spilling.",
+            "meaning_ko": "그 컵은 뜨거운 커피로 가장자리까지 가득 찼고, 넘치지 않고 추가 액체를 위한 공간이 없었습니다."
+          },
+          {
+            "sentence": "She was brimming with confidence after receiving positive feedback on her presentation, feeling ready to take on new challenges.",
+            "meaning_ko": "그녀는 그녀의 발표에 대한 긍정적 피드백을 받은 후 자신감으로 가득 차 있었고, 새로운 도전을 받아들일 준비가 되었다고 느꼈습니다."
+          },
+          {
+            "sentence": "The glass brimmed over with water when she tried to add more, demonstrating that it had reached its maximum capacity.",
+            "meaning_ko": "그 유리잔은 그녀가 더 추가하려고 했을 때 물로 넘쳤고, 그것이 최대 용량에 도달했다는 것을 보여줬습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The young entrepreneur was brimming with enthusiasm about her startup idea, presenting her business plan with energy and conviction that impressed potential investors.",
+            "meaning_ko": "그 젊은 기업가는 그녀의 스타트업 아이디어에 대해 열정으로 가득 차 있었고, 잠재적 투자자들에게 인상을 준 에너지와 확신으로 그녀의 사업 계획을 제시했습니다."
+          },
+          {
+            "sentence": "The project brimmed with potential for innovation and growth, attracting attention from various stakeholders who recognized its transformative possibilities.",
+            "meaning_ko": "그 프로젝트는 혁신과 성장의 잠재력으로 가득 차 있었고, 그것의 변혁적 가능성을 인식한 다양한 이해관계자들의 관심을 끌었습니다."
+          },
+          {
+            "sentence": "Her eyes brimmed with possibilities as she considered the various career paths available to her, each offering unique opportunities for personal and professional development.",
+            "meaning_ko": "그녀는 그녀에게 이용 가능한 다양한 경력 경로를 고려하면서 가능성으로 가득 찼고, 각각이 개인적이고 전문적인 발전을 위한 독특한 기회를 제공했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "brim는 '가장자리' 또는 '가득 차다' 의미로, 컵이나 그릇의 가장자리를 가리킵니다. edge, rim과 비슷하지만 더 구체적으로 컵이나 그릇의 가장자리를 가리킵니다. brim with ~, full to the brim 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "물체",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: brim = (A) empty (B) edge or overflow (C) bottom (D) center",
+            "a": "B",
+            "meaning_ko": "brim는 '가장자리 또는 넘치다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The cup was full to the _____.",
+            "a": "brim",
+            "meaning_ko": "brim는 '가장자리'를 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'overflow'? (A) full to the brim (B) brim with (C) brim over (D) edge of",
+            "a": "C",
+            "meaning_ko": "brim over는 '넘치다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: brim _____ confidence. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "brim with ~는 '~로 가득 차다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: brim = (A) empty (B) edge (C) bottom (D) center",
+            "a": "B",
+            "meaning_ko": "edge(가장자리)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was brimming at confidence.' → Fix the preposition.",
+            "a": "She was brimming with confidence.",
+            "meaning_ko": "brim with ~는 '~로 가득 차다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She was brimming with confidence.'",
+            "a": "She was completely filled with and overflowing with self-assurance and belief in her abilities, showing no signs of doubt or hesitation.",
+            "meaning_ko": "brim with confidence는 '자신감으로 가득 차다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The glass _____ over with water. (A) brim (B) brims (C) brimming (D) brimmed",
+            "a": "B",
+            "meaning_ko": "3인칭 단수 주어에서 brims가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses brim most appropriately? (A) The brim ran. (B) The cup was full to the brim. (C) She brim smiled. (D) Brim is good.",
+            "a": "B",
+            "meaning_ko": "brim는 명사로 '가장자리'를 의미하며, full to the brim와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dilatory",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "지연시키는, 지체하는; 일을 지연시키거나 지체하는.",
+        "note": "일을 지연시키거나 지체하는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "일을 지연시키거나 지체하는 지연시키는 상태.",
+    "etymology": "라틴어 dilatorius(지연시키는)에서 유래했으며, 원래는 '지연시키는' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '지연시키는' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be dilatory 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be dilatory : 지연시키다",
+      "dilatory + 명사 : 지연시키는 ~"
+    ],
+    "morphology": "라틴어 dilatorius에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "dilatorily",
+        "meaning_ko": "지연시키게"
+      },
+      {
+        "word": "dilatoriness",
+        "meaning_ko": "지연"
+      }
+    ],
+    "related": [
+      {
+        "word": "delaying",
+        "meaning_ko": "지연시키는"
+      },
+      {
+        "word": "slow",
+        "meaning_ko": "느린"
+      },
+      {
+        "word": "tardy",
+        "meaning_ko": "지체하는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "delaying",
+        "meaning_ko": "지연시키는"
+      },
+      {
+        "word": "tardy",
+        "meaning_ko": "지체하는"
+      },
+      {
+        "word": "procrastinating",
+        "meaning_ko": "지연시키는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "slow",
+        "meaning_ko": "느린(범위가 더 넓음)"
+      },
+      {
+        "word": "sluggish",
+        "meaning_ko": "느린"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "prompt",
+        "meaning_ko": "즉각적인"
+      },
+      {
+        "word": "immediate",
+        "meaning_ko": "즉각적인"
+      },
+      {
+        "word": "swift",
+        "meaning_ko": "빠른"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "dilatory tactics",
+            "meaning_ko": "지연 전술"
+          },
+          {
+            "phrase": "dilatory behavior",
+            "meaning_ko": "지연 행동"
+          },
+          {
+            "phrase": "dilatory response",
+            "meaning_ko": "지연 반응"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dilatory approach",
+            "meaning_ko": "지연 접근"
+          },
+          {
+            "phrase": "dilatory action",
+            "meaning_ko": "지연 행동"
+          },
+          {
+            "phrase": "dilatory process",
+            "meaning_ko": "지연 과정"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "dilatory strategy",
+            "meaning_ko": "지연 전략"
+          },
+          {
+            "phrase": "dilatory measures",
+            "meaning_ko": "지연 조치"
+          },
+          {
+            "phrase": "dilatory proceedings",
+            "meaning_ko": "지연 절차"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The dilatory tactics delayed the decision.",
+            "meaning_ko": "그 지연 전술은 그 결정을 지연시켰습니다."
+          },
+          {
+            "sentence": "His dilatory behavior frustrated the team.",
+            "meaning_ko": "그의 지연 행동은 그 팀을 좌절시켰습니다."
+          },
+          {
+            "sentence": "The dilatory response caused problems.",
+            "meaning_ko": "그 지연 반응은 문제를 일으켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The dilatory tactics used by the opposition party delayed the decision on the important legislation, frustrating both lawmakers and the public.",
+            "meaning_ko": "야당이 사용한 그 지연 전술은 중요한 법안에 대한 결정을 지연시켰고, 입법자들과 대중 모두를 좌절시켰습니다."
+          },
+          {
+            "sentence": "His dilatory behavior frustrated the team, as his constant delays in completing tasks affected the overall project timeline and team morale.",
+            "meaning_ko": "그의 지연 행동은 그 팀을 좌절시켰고, 작업을 완료하는 데 그의 지속적인 지연이 전체 프로젝트 일정과 팀 사기에 영향을 미쳤기 때문입니다."
+          },
+          {
+            "sentence": "The dilatory response from the management to the urgent request created problems for the department, which needed immediate action to address the crisis.",
+            "meaning_ko": "그 긴급 요청에 대한 경영진의 지연 반응은 그 위기를 다루기 위해 즉각적인 조치가 필요했던 그 부서에 문제를 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The dilatory strategy employed by the defense team, while legally permissible, raised questions about the ethics of intentionally prolonging legal proceedings.",
+            "meaning_ko": "그 변호 팀이 사용한 그 지연 전략은 법적으로 허용되었지만, 법적 절차를 의도적으로 연장하는 것의 윤리에 대한 질문을 제기했습니다."
+          },
+          {
+            "sentence": "The dilatory measures taken by the administration in responding to the crisis were criticized by experts who argued that immediate action was necessary to prevent further damage.",
+            "meaning_ko": "그 위기에 대응하는 데 행정부가 취한 그 지연 조치는 추가 피해를 방지하기 위해 즉각적인 조치가 필요하다고 주장한 전문가들에 의해 비판을 받았습니다."
+          },
+          {
+            "sentence": "The dilatory proceedings in the court case frustrated all parties involved, as the repeated delays extended the legal process far beyond reasonable expectations.",
+            "meaning_ko": "그 법정 사건에서의 지연 절차는 반복된 지연이 법적 과정을 합리적인 기대를 훨씬 넘어 연장했기 때문에 관련된 모든 당사자들을 좌절시켰습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dilatory는 '지연시키는, 지체하는' 의미로, 일을 지연시키거나 지체하는 상태를 가리킵니다. 매우 격식 있고 드문 단어로, delaying, tardy와 비슷하지만 더 법적·공식적 뉘앙스가 있습니다. dilatory tactics, dilatory behavior 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "시간",
+      "격식",
+      "문어",
+      "드문",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: dilatory = (A) prompt (B) delaying or tardy (C) immediate (D) swift",
+            "a": "B",
+            "meaning_ko": "dilatory는 '지연시키거나 지체하는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ tactics delayed the decision.",
+            "a": "dilatory",
+            "meaning_ko": "dilatory는 '지연시키는' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of dilatory? (A) delaying (B) tardy (C) prompt (D) procrastinating",
+            "a": "C",
+            "meaning_ko": "prompt(즉각적인)가 dilatory의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ behavior frustrated the team. (A) dilatory (B) dilatorily (C) dilatoriness (D) dilatories",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 dilatory가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: dilatory = (A) prompt (B) delaying (C) immediate (D) swift",
+            "a": "B",
+            "meaning_ko": "delaying(지연시키는)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The response was dilatorily.' → Fix the sentence.",
+            "a": "The response was dilatory.",
+            "meaning_ko": "be 동사 뒤에는 형용사 dilatory가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The dilatory tactics delayed the decision.'",
+            "a": "The strategies and methods designed to intentionally slow down or postpone action caused the final choice or resolution to be put off and not made promptly.",
+            "meaning_ko": "dilatory tactics는 '지연 전술'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ approach caused problems. (A) dilatory (B) dilatorily (C) dilatoriness (D) dilatories",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 dilatory가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses dilatory most appropriately? (A) The dilatory ran. (B) The dilatory tactics delayed. (C) She dilatory smiled. (D) Dilatory is good.",
+            "a": "B",
+            "meaning_ko": "dilatory는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

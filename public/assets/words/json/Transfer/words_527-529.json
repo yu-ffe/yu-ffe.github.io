@@ -1,0 +1,793 @@
+[
+  {
+    "word": "cozy",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "아늑한, 편안한; 따뜻하고 편안한.",
+        "note": "따뜻하고 편안한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "따뜻하고 편안한 아늑한 상태.",
+    "etymology": "스코틀랜드어 cosie(편안한)에서 유래했으며, 원래는 '편안한' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '편안한' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be cozy 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be cozy : 아늑하다",
+      "cozy + 명사 : 아늑한 ~"
+    ],
+    "morphology": "스코틀랜드어 cosie에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "cozily",
+        "meaning_ko": "아늑하게"
+      },
+      {
+        "word": "coziness",
+        "meaning_ko": "아늑함"
+      }
+    ],
+    "related": [
+      {
+        "word": "comfortable",
+        "meaning_ko": "편안한"
+      },
+      {
+        "word": "snug",
+        "meaning_ko": "아늑한"
+      },
+      {
+        "word": "warm",
+        "meaning_ko": "따뜻한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "comfortable",
+        "meaning_ko": "편안한"
+      },
+      {
+        "word": "snug",
+        "meaning_ko": "아늑한"
+      },
+      {
+        "word": "warm",
+        "meaning_ko": "따뜻한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "homely",
+        "meaning_ko": "아늑한(영국 영어)"
+      },
+      {
+        "word": "intimate",
+        "meaning_ko": "친밀한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "uncomfortable",
+        "meaning_ko": "불편한"
+      },
+      {
+        "word": "cold",
+        "meaning_ko": "차가운"
+      },
+      {
+        "word": "unwelcoming",
+        "meaning_ko": "환영하지 않는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "cozy room",
+            "meaning_ko": "아늑한 방"
+          },
+          {
+            "phrase": "cozy atmosphere",
+            "meaning_ko": "아늑한 분위기"
+          },
+          {
+            "phrase": "cozy home",
+            "meaning_ko": "아늑한 집"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "cozy corner",
+            "meaning_ko": "아늑한 구석"
+          },
+          {
+            "phrase": "cozy fireplace",
+            "meaning_ko": "아늑한 벽난로"
+          },
+          {
+            "phrase": "cozy setting",
+            "meaning_ko": "아늑한 환경"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "cozy ambiance",
+            "meaning_ko": "아늑한 분위기"
+          },
+          {
+            "phrase": "cozy retreat",
+            "meaning_ko": "아늑한 휴양지"
+          },
+          {
+            "phrase": "cozy intimacy",
+            "meaning_ko": "아늑한 친밀함"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The cozy room was perfect for reading.",
+            "meaning_ko": "그 아늑한 방은 독서하기에 완벽했습니다."
+          },
+          {
+            "sentence": "They enjoyed a cozy evening by the fire.",
+            "meaning_ko": "그들은 벽난로 옆에서 아늑한 저녁을 즐겼습니다."
+          },
+          {
+            "sentence": "The cozy atmosphere made everyone feel welcome.",
+            "meaning_ko": "그 아늑한 분위기는 모든 사람을 환영받는다고 느끼게 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The cozy room was perfect for reading, with soft lighting, comfortable furniture, and a warm fireplace creating an inviting environment.",
+            "meaning_ko": "그 아늑한 방은 독서하기에 완벽했고, 부드러운 조명, 편안한 가구, 따뜻한 벽난로가 초대하는 환경을 만들었습니다."
+          },
+          {
+            "sentence": "They enjoyed a cozy evening by the fire, sharing stories and laughter in the intimate setting that brought them closer together.",
+            "meaning_ko": "그들은 벽난로 옆에서 아늑한 저녁을 즐겼고, 그들을 더 가깝게 만든 친밀한 환경에서 이야기와 웃음을 공유했습니다."
+          },
+          {
+            "sentence": "The cozy atmosphere made everyone feel welcome, with the combination of warm colors, soft music, and comfortable seating creating a sense of belonging.",
+            "meaning_ko": "그 아늑한 분위기는 모든 사람을 환영받는다고 느끼게 만들었고, 따뜻한 색상, 부드러운 음악, 편안한 좌석의 조합이 소속감을 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The cozy ambiance of the small café, with its dim lighting, vintage décor, and the aroma of fresh coffee, attracted customers seeking a peaceful escape from the busy city streets.",
+            "meaning_ko": "그 작은 카페의 아늑한 분위기는 어두운 조명, 빈티지 장식, 신선한 커피의 향기와 함께 바쁜 도시 거리에서 평화로운 탈출을 찾는 고객들을 끌어들였습니다."
+          },
+          {
+            "sentence": "The cozy retreat in the mountains provided the perfect setting for reflection and relaxation, away from the demands of daily life and surrounded by natural beauty.",
+            "meaning_ko": "그 산속의 아늑한 휴양지는 일상 생활의 요구로부터 멀리 떨어져 있고 자연의 아름다움으로 둘러싸여 반성과 휴식을 위한 완벽한 환경을 제공했습니다."
+          },
+          {
+            "sentence": "The cozy intimacy of the small gathering, with close friends sharing personal stories and supporting each other, created a sense of connection that strengthened their relationships.",
+            "meaning_ko": "그 작은 모임의 아늑한 친밀함은 가까운 친구들이 개인적인 이야기를 공유하고 서로를 지원하면서 그들의 관계를 강화한 연결감을 만들었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "cozy는 '아늑한, 편안한' 의미로, 따뜻하고 편안한 상태를 가리킵니다. comfortable, snug와 비슷하지만 더 따뜻하고 친밀한 뉘앙스가 있습니다. cozy room, cozy atmosphere 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "감정",
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: cozy = (A) uncomfortable (B) comfortable or warm (C) cold (D) unwelcoming",
+            "a": "B",
+            "meaning_ko": "cozy는 '편안하거나 따뜻한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ room was perfect for reading.",
+            "a": "cozy",
+            "meaning_ko": "cozy는 '아늑한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of cozy? (A) comfortable (B) snug (C) uncomfortable (D) warm",
+            "a": "C",
+            "meaning_ko": "uncomfortable(불편한)가 cozy의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ atmosphere made everyone feel welcome. (A) cozy (B) cozily (C) coziness (D) cozies",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 cozy가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: cozy = (A) uncomfortable (B) comfortable (C) cold (D) unwelcoming",
+            "a": "B",
+            "meaning_ko": "comfortable(편안한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The room was cozily.' → Fix the sentence.",
+            "a": "The room was cozy.",
+            "meaning_ko": "be 동사 뒤에는 형용사 cozy가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The cozy atmosphere made everyone feel welcome.'",
+            "a": "The warm, comfortable, and inviting environment created a sense of belonging and acceptance that made all people present feel accepted and at ease.",
+            "meaning_ko": "cozy atmosphere는 '아늑한 분위기'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ setting created a sense of belonging. (A) cozy (B) cozily (C) coziness (D) cozies",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 cozy가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses cozy most appropriately? (A) The cozy ran. (B) The cozy room was perfect. (C) She cozy smiled. (D) Cozy is good.",
+            "a": "B",
+            "meaning_ko": "cozy는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "investigation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "조사, 수사; 사실이나 사건을 조사하거나 수사하는 것.",
+        "note": "사실이나 사건을 조사하거나 수사하는 것을 가리킵니다."
+      }
+    ],
+    "concept": "사실이나 사건을 조사하거나 수사하는 조사.",
+    "etymology": "라틴어 investigare(조사하다)에서 유래했으며, 원래는 '조사하다' 의미였으나 현대에는 '조사'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '조사하다' 의미였으나, 현대에는 '조사'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사와 불가산명사 모두로 쓰이며, an investigation, investigations 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~에 대한 조사",
+        "example": "investigation into the matter"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 조사",
+        "example": "investigation of the crime"
+      }
+    ],
+    "requiredComplements": [
+      "investigation into + 명사 : ~에 대한 조사",
+      "investigation of + 명사 : ~의 조사"
+    ],
+    "morphology": "라틴어 investigare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "investigate",
+        "meaning_ko": "조사하다"
+      },
+      {
+        "word": "investigator",
+        "meaning_ko": "조사관"
+      },
+      {
+        "word": "investigative",
+        "meaning_ko": "조사의"
+      }
+    ],
+    "related": [
+      {
+        "word": "inquiry",
+        "meaning_ko": "조사"
+      },
+      {
+        "word": "examination",
+        "meaning_ko": "조사"
+      },
+      {
+        "word": "probe",
+        "meaning_ko": "조사"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "inquiry",
+        "meaning_ko": "조사"
+      },
+      {
+        "word": "examination",
+        "meaning_ko": "조사"
+      },
+      {
+        "word": "probe",
+        "meaning_ko": "조사"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "research",
+        "meaning_ko": "연구(범위가 더 넓음)"
+      },
+      {
+        "word": "study",
+        "meaning_ko": "연구"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "investigation into",
+            "meaning_ko": "~에 대한 조사"
+          },
+          {
+            "phrase": "investigation of",
+            "meaning_ko": "~의 조사"
+          },
+          {
+            "phrase": "police investigation",
+            "meaning_ko": "경찰 수사"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "criminal investigation",
+            "meaning_ko": "형사 수사"
+          },
+          {
+            "phrase": "thorough investigation",
+            "meaning_ko": "철저한 조사"
+          },
+          {
+            "phrase": "ongoing investigation",
+            "meaning_ko": "진행 중인 조사"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "investigation into the matter",
+            "meaning_ko": "그 사안에 대한 조사"
+          },
+          {
+            "phrase": "investigation of the crime",
+            "meaning_ko": "그 범죄의 조사"
+          },
+          {
+            "phrase": "comprehensive investigation",
+            "meaning_ko": "포괄적인 조사"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The police launched an investigation into the crime.",
+            "meaning_ko": "그 경찰은 그 범죄에 대한 수사를 시작했습니다."
+          },
+          {
+            "sentence": "The investigation of the accident took several months.",
+            "meaning_ko": "그 사고의 조사는 몇 달이 걸렸습니다."
+          },
+          {
+            "sentence": "They conducted a thorough investigation.",
+            "meaning_ko": "그들은 철저한 조사를 수행했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The police launched an investigation into the crime, gathering evidence and interviewing witnesses to determine what had happened.",
+            "meaning_ko": "그 경찰은 그 범죄에 대한 수사를 시작했고, 무슨 일이 일어났는지 결정하기 위해 증거를 수집하고 증인들을 면담했습니다."
+          },
+          {
+            "sentence": "The investigation of the accident took several months, as experts examined the scene, analyzed data, and reconstructed the events leading to the incident.",
+            "meaning_ko": "그 사고의 조사는 몇 달이 걸렸고, 전문가들이 현장을 조사하고, 데이터를 분석하고, 그 사건으로 이어진 사건들을 재구성했기 때문입니다."
+          },
+          {
+            "sentence": "They conducted a thorough investigation to identify the root cause of the problem, leaving no stone unturned in their search for answers.",
+            "meaning_ko": "그들은 그 문제의 근본 원인을 식별하기 위해 철저한 조사를 수행했고, 답을 찾는 데 모든 것을 조사했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The investigation into the matter revealed systemic issues within the organization, prompting calls for comprehensive reforms and improved oversight mechanisms.",
+            "meaning_ko": "그 사안에 대한 조사는 그 조직 내 체계적 문제를 드러냈고, 포괄적인 개혁과 개선된 감독 메커니즘에 대한 요구를 촉진했습니다."
+          },
+          {
+            "sentence": "The investigation of the crime involved multiple agencies working together, combining forensic evidence, witness testimonies, and digital analysis to build a complete picture of the events.",
+            "meaning_ko": "그 범죄의 조사는 함께 일하는 여러 기관을 포함했고, 사건의 완전한 그림을 만들기 위해 법의학적 증거, 증인 증언, 디지털 분석을 결합했습니다."
+          },
+          {
+            "sentence": "The comprehensive investigation conducted by the independent commission examined all aspects of the incident, from initial causes to long-term implications, providing detailed recommendations for prevention.",
+            "meaning_ko": "그 독립 위원회가 수행한 그 포괄적인 조사는 초기 원인부터 장기적 함의까지 그 사건의 모든 측면을 조사했고, 예방을 위한 상세한 권고를 제공했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "investigation는 '조사, 수사' 의미로, 사실이나 사건을 조사하거나 수사하는 것을 가리킵니다. inquiry, examination과 비슷하지만 더 공식적이고 체계적인 뉘앙스가 있습니다. investigation into/of ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "법률",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: investigation = (A) ignore (B) inquiry or examination (C) forget (D) neglect",
+            "a": "B",
+            "meaning_ko": "investigation는 '조사 또는 검사' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The police launched an _____ into the crime.",
+            "a": "investigation",
+            "meaning_ko": "investigation는 '조사'를 의미합니다."
+          },
+          {
+            "q": "Which preposition is correct? investigation (A) into (B) on (C) at (D) both A and of",
+            "a": "D",
+            "meaning_ko": "investigation into/of ~는 모두 '~에 대한 조사' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: investigation _____ the matter. (A) into (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "investigation into ~는 '~에 대한 조사' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: investigation = (A) ignore (B) inquiry (C) forget (D) neglect",
+            "a": "B",
+            "meaning_ko": "inquiry(조사)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The investigation on the crime was launched.' → Fix the preposition.",
+            "a": "The investigation into the crime was launched.",
+            "meaning_ko": "investigation into ~는 '~에 대한 조사' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The investigation into the matter revealed issues.'",
+            "a": "The systematic examination and inquiry conducted to understand the situation uncovered and brought to light problems and concerns that had previously been hidden or unknown.",
+            "meaning_ko": "investigation into ~는 '~에 대한 조사'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of the crime took months. (A) investigation (B) investigations (C) investigate (D) investigated",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 investigation가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses investigation most appropriately? (A) The investigation ran. (B) The investigation was launched. (C) She investigation smiled. (D) Investigation is good.",
+            "a": "B",
+            "meaning_ko": "investigation는 명사로 '조사'를 의미하며, be launched와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "verbal",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "구두의, 말의; 말로 표현되는.",
+        "note": "말로 표현되는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "동사의, 동사와 관련된; 동사와 관련된.",
+        "note": "동사와 관련된 상태를 가리킵니다."
+      }
+    ],
+    "concept": "말로 표현되는 구두의 상태, 또는 동사와 관련된 상태.",
+    "etymology": "라틴어 verbalis(말의)에서 유래했으며, 원래는 '말의' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '말의' 의미였으나, 현대에는 '동사와 관련된'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be verbal 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be verbal : 구두적이다",
+      "verbal + 명사 : 구두의 ~"
+    ],
+    "morphology": "라틴어 verbalis에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "verbally",
+        "meaning_ko": "구두로"
+      },
+      {
+        "word": "verbalize",
+        "meaning_ko": "구두로 표현하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "oral",
+        "meaning_ko": "구두의"
+      },
+      {
+        "word": "spoken",
+        "meaning_ko": "말로 된"
+      },
+      {
+        "word": "linguistic",
+        "meaning_ko": "언어의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "oral",
+        "meaning_ko": "구두의"
+      },
+      {
+        "word": "spoken",
+        "meaning_ko": "말로 된"
+      },
+      {
+        "word": "vocal",
+        "meaning_ko": "구두의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "linguistic",
+        "meaning_ko": "언어의(범위가 더 넓음)"
+      },
+      {
+        "word": "word-based",
+        "meaning_ko": "단어 기반의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "written",
+        "meaning_ko": "글의"
+      },
+      {
+        "word": "nonverbal",
+        "meaning_ko": "비언어적"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "verbal communication",
+            "meaning_ko": "구두 소통"
+          },
+          {
+            "phrase": "verbal agreement",
+            "meaning_ko": "구두 합의"
+          },
+          {
+            "phrase": "verbal skills",
+            "meaning_ko": "구두 기술"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "verbal expression",
+            "meaning_ko": "구두 표현"
+          },
+          {
+            "phrase": "verbal ability",
+            "meaning_ko": "구두 능력"
+          },
+          {
+            "phrase": "verbal contract",
+            "meaning_ko": "구두 계약"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "verbal reasoning",
+            "meaning_ko": "구두 추론"
+          },
+          {
+            "phrase": "verbal intelligence",
+            "meaning_ko": "구두 지능"
+          },
+          {
+            "phrase": "verbal fluency",
+            "meaning_ko": "구두 유창성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They had a verbal agreement.",
+            "meaning_ko": "그들은 구두 합의를 했습니다."
+          },
+          {
+            "sentence": "Verbal communication is important.",
+            "meaning_ko": "구두 소통은 중요합니다."
+          },
+          {
+            "sentence": "She has strong verbal skills.",
+            "meaning_ko": "그녀는 강한 구두 기술을 가지고 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They had a verbal agreement that was later confirmed in writing, though the initial understanding was established through spoken communication.",
+            "meaning_ko": "그들은 나중에 글로 확인된 구두 합의를 했지만, 초기 이해는 말로 된 소통을 통해 확립되었습니다."
+          },
+          {
+            "sentence": "Verbal communication is important in building relationships, as the tone, choice of words, and clarity of expression all contribute to effective interaction.",
+            "meaning_ko": "구두 소통은 관계를 구축하는 데 중요하며, 톤, 단어 선택, 표현의 명확성이 모두 효과적인 상호작용에 기여하기 때문입니다."
+          },
+          {
+            "sentence": "She has strong verbal skills that enable her to articulate complex ideas clearly and persuasively in both formal presentations and casual conversations.",
+            "meaning_ko": "그녀는 복잡한 아이디어를 격식 있는 발표와 캐주얼한 대화 모두에서 명확하고 설득력 있게 표현할 수 있게 하는 강한 구두 기술을 가지고 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The study of verbal reasoning examines how individuals process and understand language-based information, revealing patterns in cognitive development and problem-solving abilities.",
+            "meaning_ko": "구두 추론에 대한 연구는 개인들이 언어 기반 정보를 어떻게 처리하고 이해하는지 조사하며, 인지적 발전과 문제 해결 능력의 패턴을 드러냅니다."
+          },
+          {
+            "sentence": "Her verbal intelligence, demonstrated through her ability to understand and use complex language structures, contributed significantly to her success in academic and professional settings.",
+            "meaning_ko": "복잡한 언어 구조를 이해하고 사용하는 그녀의 능력을 통해 보여진 그녀의 구두 지능은 학술적이고 전문적인 환경에서 그녀의 성공에 상당히 기여했습니다."
+          },
+          {
+            "sentence": "The assessment of verbal fluency in the language learning program measured students' ability to produce language spontaneously and accurately, providing insights into their communicative competence.",
+            "meaning_ko": "그 언어 학습 프로그램에서 구두 유창성의 평가는 학생들이 언어를 자발적이고 정확하게 생산하는 능력을 측정했고, 그들의 소통 능력에 대한 통찰을 제공했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "verbal는 '구두의, 말의' 또는 '동사의' 의미로, 말로 표현되는 상태를 가리킵니다. oral, spoken과 비슷하지만 더 학술적 뉘앙스가 있습니다. verbal communication, verbal agreement 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "언어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: verbal = (A) written (B) spoken or oral (C) nonverbal (D) silent",
+            "a": "B",
+            "meaning_ko": "verbal는 '말로 된 또는 구두의' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They had a _____ agreement.",
+            "a": "verbal",
+            "meaning_ko": "verbal는 '구두의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of verbal? (A) oral (B) spoken (C) written (D) vocal",
+            "a": "C",
+            "meaning_ko": "written(글의)가 verbal의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: _____ communication is important. (A) Verbal (B) Verbally (C) Verbalize (D) Verbalizes",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 Verbal가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: verbal = (A) written (B) oral (C) nonverbal (D) silent",
+            "a": "B",
+            "meaning_ko": "oral(구두의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The agreement was verbally.' → Fix the sentence.",
+            "a": "The agreement was verbal.",
+            "meaning_ko": "be 동사 뒤에는 형용사 verbal가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Verbal communication is important.'",
+            "a": "Spoken and oral interaction between people plays a significant role in human relationships and understanding, as it allows for immediate exchange of ideas and emotions.",
+            "meaning_ko": "verbal communication는 '구두 소통'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ skills were assessed. (A) verbal (B) verbally (C) verbalize (D) verbalizes",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 verbal가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses verbal most appropriately? (A) The verbal ran. (B) They had a verbal agreement. (C) She verbal smiled. (D) Verbal is good.",
+            "a": "B",
+            "meaning_ko": "verbal는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

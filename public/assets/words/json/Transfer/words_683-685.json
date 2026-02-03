@@ -1,0 +1,798 @@
+[
+  {
+    "word": "appraise",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "평가하다, 감정하다; 가치나 품질을 평가하거나 감정하다.",
+        "note": "가치나 품질을 평가하거나 감정하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "검토하다, 평가하다; 상황이나 성과를 검토하거나 평가하다.",
+        "note": "상황이나 성과를 검토하거나 평가하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "가치나 품질을 평가하거나 감정하는 평가, 또는 상황이나 성과를 검토하거나 평가하는 것.",
+    "etymology": "프랑스어 apprisier(가치를 매기다)에서 유래했으며, 원래는 '가치를 매기다' 의미였고 현대에는 '평가하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '가치를 매기다' 의미였고, 현대에는 '상황이나 성과를 검토하거나 평가하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 전문 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 쓰이며, appraise + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "appraise + 명사 : ~을 평가하다/감정하다"
+    ],
+    "morphology": "프랑스어 apprisier에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "appraised",
+        "meaning_ko": "평가된/감정된(과거분사/형용사)"
+      },
+      {
+        "word": "appraising",
+        "meaning_ko": "평가하는/감정하는(현재분사/형용사)"
+      },
+      {
+        "word": "appraisal",
+        "meaning_ko": "평가"
+      }
+    ],
+    "related": [
+      {
+        "word": "evaluate",
+        "meaning_ko": "평가하다"
+      },
+      {
+        "word": "assess",
+        "meaning_ko": "평가하다"
+      },
+      {
+        "word": "estimate",
+        "meaning_ko": "추정하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "evaluate",
+        "meaning_ko": "평가하다"
+      },
+      {
+        "word": "assess",
+        "meaning_ko": "평가하다"
+      },
+      {
+        "word": "estimate",
+        "meaning_ko": "추정하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "judge",
+        "meaning_ko": "판단하다(범위가 더 넓음)"
+      },
+      {
+        "word": "value",
+        "meaning_ko": "가치를 매기다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "dismiss",
+        "meaning_ko": "무시하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "appraise value",
+            "meaning_ko": "가치를 평가하다"
+          },
+          {
+            "phrase": "appraise property",
+            "meaning_ko": "부동산을 감정하다"
+          },
+          {
+            "phrase": "appraise performance",
+            "meaning_ko": "성과를 평가하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "appraise situation",
+            "meaning_ko": "상황을 평가하다"
+          },
+          {
+            "phrase": "appraise quality",
+            "meaning_ko": "품질을 평가하다"
+          },
+          {
+            "phrase": "appraise worth",
+            "meaning_ko": "가치를 평가하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "appraise asset",
+            "meaning_ko": "자산을 평가하다"
+          },
+          {
+            "phrase": "appraise condition",
+            "meaning_ko": "상태를 평가하다"
+          },
+          {
+            "phrase": "appraise effectiveness",
+            "meaning_ko": "효과성을 평가하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She appraised the property.",
+            "meaning_ko": "그녀는 그 부동산을 감정했습니다."
+          },
+          {
+            "sentence": "They appraised the situation.",
+            "meaning_ko": "그들은 그 상황을 평가했습니다."
+          },
+          {
+            "sentence": "He tried to appraise the value.",
+            "meaning_ko": "그는 그 가치를 평가하려고 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She appraised the property, with her evaluation determining its market value and condition, though the accuracy of the appraisal would depend on her expertise and thoroughness.",
+            "meaning_ko": "그녀는 그 부동산을 감정했고, 그녀의 평가가 그 시장 가치와 상태를 결정했지만, 그 평가의 정확성은 그녀의 전문성과 철저함에 달려있을 것입니다."
+          },
+          {
+            "sentence": "They appraised the situation, with their assessment helping to understand the current state and potential outcomes, though the evaluation would need to be comprehensive to be useful.",
+            "meaning_ko": "그들은 그 상황을 평가했고, 그들의 평가가 현재 상태와 잠재적 결과를 이해하는 데 도움이 되었지만, 그 평가는 유용하기 위해 포괄적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "He tried to appraise the value, with his efforts to evaluate and determine worth requiring careful analysis, though the accuracy would depend on available information and methodology.",
+            "meaning_ko": "그는 그 가치를 평가하려고 했고, 그 가치를 평가하고 결정하려는 그의 노력이 신중한 분석을 요구했지만, 그 정확성은 사용 가능한 정보와 방법론에 달려있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to appraise the asset required professional expertise and detailed analysis, with the evaluation process involving examination of various factors that would determine its true value, though the accuracy of the appraisal would be crucial for making informed decisions.",
+            "meaning_ko": "그 자산을 평가하기로 한 그 결정은 전문적 전문성과 상세한 분석을 요구했고, 그 평가 과정이 그 진정한 가치를 결정할 다양한 요인들의 검사를 포함했지만, 그 평가의 정확성은 정보에 입각한 결정을 내리는 데 중요할 것입니다."
+          },
+          {
+            "sentence": "The process to appraise the condition of the infrastructure involved comprehensive inspection and assessment, with the evaluation identifying strengths and weaknesses that would inform maintenance and improvement strategies, though the thoroughness of the appraisal would determine its usefulness.",
+            "meaning_ko": "그 인프라의 상태를 평가하는 그 과정은 포괄적 검사와 평가를 포함했고, 그 평가가 유지 보수와 개선 전략을 알릴 강점과 약점을 식별했지만, 그 평가의 철저함이 그 유용성을 결정할 것입니다."
+          },
+          {
+            "sentence": "The effort to appraise the effectiveness of the program required systematic evaluation and data analysis, with the assessment measuring outcomes and impact to determine success, though the quality of the appraisal would depend on the methodology and criteria used.",
+            "meaning_ko": "그 프로그램의 효과성을 평가하려는 그 노력은 체계적 평가와 데이터 분석을 요구했고, 그 평가가 성공을 결정하기 위해 결과와 영향을 측정했지만, 그 평가의 품질은 사용된 방법론과 기준에 달려있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "appraise는 '평가하다, 감정하다' 또는 '검토하다, 평가하다' 의미로, 가치나 품질을 평가하거나 감정하는 행동을 가리킵니다. evaluate, assess와 비슷하지만 더 전문적 뉘앙스가 있습니다. appraise property, appraise situation 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "전문",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: appraise = (A) ignore (B) evaluate or assess (C) dismiss (D) reject",
+            "a": "B",
+            "meaning_ko": "appraise는 '평가하다 또는 평가하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She _____ the property.",
+            "a": "appraised",
+            "meaning_ko": "appraise는 '감정하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of appraise? (A) evaluate (B) assess (C) ignore (D) estimate",
+            "a": "C",
+            "meaning_ko": "ignore(무시하다)가 appraise의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They _____ the situation. (A) appraise (B) appraised (C) appraising (D) appraises",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 appraised가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: appraise = (A) ignore (B) evaluate (C) dismiss (D) reject",
+            "a": "B",
+            "meaning_ko": "evaluate(평가하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She appraise the property.' → Fix the sentence.",
+            "a": "She appraised the property.",
+            "meaning_ko": "과거 시제에서 과거형 appraised가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She appraised the property.'",
+            "a": "She evaluated and assessed the real estate, with her appraisal determining its market value and condition, though the accuracy of the evaluation would depend on her expertise and thoroughness.",
+            "meaning_ko": "appraise는 '감정하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He tried to _____ the value. (A) appraise (B) appraised (C) appraising (D) appraises",
+            "a": "A",
+            "meaning_ko": "try to 뒤에는 동사 원형 appraise가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses appraise most appropriately? (A) The appraise ran. (B) She appraised the property. (C) She appraise smiled. (D) Appraise is good.",
+            "a": "B",
+            "meaning_ko": "appraise는 동사로 '평가하다'를 의미하며, 타동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "urgent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "긴급한, 시급한; 즉시 처리해야 하거나 시급한.",
+        "note": "즉시 처리해야 하거나 시급한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "중요한, 중요한; 중요하거나 중요한.",
+        "note": "중요하거나 중요한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "즉시 처리해야 하거나 시급한 긴급한 상태, 또는 중요하거나 중요한 중요한 상태.",
+    "etymology": "라틴어 urgere(압박하다)에서 유래했으며, 원래는 '압박하다' 의미였고 현대에는 '긴급한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '압박하다' 의미였고, 현대에는 '중요하거나 중요한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be urgent 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be urgent : 긴급하다",
+      "urgent + 명사 : 긴급한 ~"
+    ],
+    "morphology": "라틴어 urgere에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "urgently",
+        "meaning_ko": "긴급하게"
+      },
+      {
+        "word": "urgency",
+        "meaning_ko": "긴급함"
+      }
+    ],
+    "related": [
+      {
+        "word": "critical",
+        "meaning_ko": "중요한"
+      },
+      {
+        "word": "pressing",
+        "meaning_ko": "시급한"
+      },
+      {
+        "word": "important",
+        "meaning_ko": "중요한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "critical",
+        "meaning_ko": "중요한"
+      },
+      {
+        "word": "pressing",
+        "meaning_ko": "시급한"
+      },
+      {
+        "word": "important",
+        "meaning_ko": "중요한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "immediate",
+        "meaning_ko": "즉각적인(범위가 더 넓음)"
+      },
+      {
+        "word": "crucial",
+        "meaning_ko": "중요한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "non-urgent",
+        "meaning_ko": "비긴급한"
+      },
+      {
+        "word": "unimportant",
+        "meaning_ko": "중요하지 않은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "urgent matter",
+            "meaning_ko": "긴급한 문제"
+          },
+          {
+            "phrase": "urgent need",
+            "meaning_ko": "긴급한 필요"
+          },
+          {
+            "phrase": "urgent call",
+            "meaning_ko": "긴급한 전화"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "urgent situation",
+            "meaning_ko": "긴급한 상황"
+          },
+          {
+            "phrase": "urgent request",
+            "meaning_ko": "긴급한 요청"
+          },
+          {
+            "phrase": "urgent attention",
+            "meaning_ko": "긴급한 주의"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "urgent action",
+            "meaning_ko": "긴급한 조치"
+          },
+          {
+            "phrase": "urgent priority",
+            "meaning_ko": "긴급한 우선순위"
+          },
+          {
+            "phrase": "urgent intervention",
+            "meaning_ko": "긴급한 개입"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The matter was urgent.",
+            "meaning_ko": "그 문제는 긴급했습니다."
+          },
+          {
+            "sentence": "She had an urgent need.",
+            "meaning_ko": "그녀는 긴급한 필요가 있었습니다."
+          },
+          {
+            "sentence": "They made an urgent call.",
+            "meaning_ko": "그들은 긴급한 전화를 걸었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The matter was urgent, with the situation requiring immediate attention and action, though addressing it promptly would be essential to prevent further problems.",
+            "meaning_ko": "그 문제는 긴급했고, 그 상황이 즉각적인 주의와 행동을 요구했지만, 그것을 신속하게 다루는 것은 추가 문제를 방지하기 위해 필수적일 것입니다."
+          },
+          {
+            "sentence": "She had an urgent need, with the requirement demanding immediate response and assistance, though meeting the need would require resources and coordination.",
+            "meaning_ko": "그녀는 긴급한 필요가 있었고, 그 요구가 즉각적인 대응과 지원을 요구했지만, 그 필요를 충족하는 것은 자원과 조정을 요구할 것입니다."
+          },
+          {
+            "sentence": "They made an urgent call, with the communication seeking immediate attention and response, though the urgency would need to be communicated clearly to ensure appropriate action.",
+            "meaning_ko": "그들은 긴급한 전화를 걸었고, 그 의사 소통이 즉각적인 주의와 대응을 찾았지만, 그 긴급함은 적절한 행동을 보장하기 위해 명확하게 전달될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The urgent action that was required to address the crisis involved immediate decision-making and resource allocation, with the situation demanding rapid response to prevent escalation, though the effectiveness would depend on coordination and execution.",
+            "meaning_ko": "그 위기를 다루기 위해 요구된 그 긴급한 조치는 즉각적인 의사 결정과 자원 배당을 포함했고, 그 상황이 확대를 방지하기 위해 신속한 대응을 요구했지만, 그 효과는 조정과 실행에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The urgent priority that emerged from the assessment created a need for immediate focus and resources, with the situation requiring quick action to address critical issues, though managing multiple priorities would require careful planning and prioritization.",
+            "meaning_ko": "그 평가에서 나타난 그 긴급한 우선순위는 즉각적인 초점과 자원의 필요를 만들었고, 그 상황이 중요한 문제를 다루기 위해 빠른 행동을 요구했지만, 여러 우선순위를 관리하는 것은 신중한 계획과 우선순위 설정을 요구할 것입니다."
+          },
+          {
+            "sentence": "The urgent intervention that was necessary to prevent further deterioration required coordinated efforts and immediate response, with the situation demanding action to address the critical issues, though the success would depend on the timeliness and effectiveness of the intervention.",
+            "meaning_ko": "추가 악화를 방지하기 위해 필요했던 그 긴급한 개입은 조정된 노력과 즉각적인 대응을 요구했고, 그 상황이 중요한 문제를 다루기 위해 행동을 요구했지만, 그 성공은 그 개입의 적시성과 효과성에 달려있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "urgent는 '긴급한, 시급한' 또는 '중요한, 중요한' 의미로, 즉시 처리해야 하거나 시급한 상태를 가리킵니다. critical, pressing와 비슷하지만 더 일반적 표현입니다. urgent matter, urgent need 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: urgent = (A) non-urgent (B) critical or pressing (C) unimportant (D) slow",
+            "a": "B",
+            "meaning_ko": "urgent는 '중요한 또는 시급한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The matter was _____.",
+            "a": "urgent",
+            "meaning_ko": "urgent는 '긴급한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of urgent? (A) critical (B) pressing (C) non-urgent (D) important",
+            "a": "C",
+            "meaning_ko": "non-urgent(비긴급한)가 urgent의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She had an _____ need. (A) urgent (B) urgently (C) urgency (D) urgent's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 urgent가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: urgent = (A) non-urgent (B) critical (C) unimportant (D) slow",
+            "a": "B",
+            "meaning_ko": "critical(중요한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The matter was urgently.' → Fix the sentence.",
+            "a": "The matter was urgent.",
+            "meaning_ko": "서술어로 형용사 urgent가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The matter was urgent.'",
+            "a": "The situation required immediate attention and action, with the urgency demanding prompt response to prevent further problems, though addressing it quickly would be essential.",
+            "meaning_ko": "urgent는 '긴급한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They made an _____ call. (A) urgent (B) urgently (C) urgency (D) urgent's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 urgent가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses urgent most appropriately? (A) The urgent ran. (B) The matter was urgent. (C) She urgent smiled. (D) Urgent is good.",
+            "a": "B",
+            "meaning_ko": "urgent는 형용사로 '긴급한'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "local",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "지역의, 지역적인; 특정 지역에 속하거나 지역적인.",
+        "note": "특정 지역에 속하거나 지역적인 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "지역 주민, 지역 사람; 특정 지역에 사는 주민이나 지역 사람.",
+        "note": "특정 지역에 사는 주민이나 지역 사람을 가리킵니다."
+      }
+    ],
+    "concept": "특정 지역에 속하거나 지역적인 지역의 상태, 또는 특정 지역에 사는 주민이나 지역 사람.",
+    "etymology": "라틴어 localis(장소의)에서 유래했으며, locus(장소)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '장소의' 의미였고, 현대에는 '특정 지역에 사는 주민이나 지역 사람'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 주로 명사를 수식하거나 서술어로 쓰이며, be local 형태로 자주 사용됩니다. 명사로는 가산명사로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be local : 지역적이다",
+      "local + 명사 : 지역의 ~",
+      "local : 지역 주민"
+    ],
+    "morphology": "라틴어 localis에서 유래한 단어로, locus(장소)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "locally",
+        "meaning_ko": "지역적으로"
+      },
+      {
+        "word": "locality",
+        "meaning_ko": "지역"
+      },
+      {
+        "word": "localize",
+        "meaning_ko": "지역화하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "regional",
+        "meaning_ko": "지역의"
+      },
+      {
+        "word": "neighborhood",
+        "meaning_ko": "지역"
+      },
+      {
+        "word": "resident",
+        "meaning_ko": "주민"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "regional",
+        "meaning_ko": "지역의"
+      },
+      {
+        "word": "neighborhood",
+        "meaning_ko": "지역"
+      },
+      {
+        "word": "resident",
+        "meaning_ko": "주민"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "native",
+        "meaning_ko": "토착의(범위가 더 넓음)"
+      },
+      {
+        "word": "community",
+        "meaning_ko": "공동체"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "global",
+        "meaning_ko": "전세계의"
+      },
+      {
+        "word": "national",
+        "meaning_ko": "국가의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "local area",
+            "meaning_ko": "지역"
+          },
+          {
+            "phrase": "local people",
+            "meaning_ko": "지역 주민"
+          },
+          {
+            "phrase": "local community",
+            "meaning_ko": "지역 공동체"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "local government",
+            "meaning_ko": "지방 정부"
+          },
+          {
+            "phrase": "local business",
+            "meaning_ko": "지역 사업"
+          },
+          {
+            "phrase": "local news",
+            "meaning_ko": "지역 뉴스"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "local authority",
+            "meaning_ko": "지방 당국"
+          },
+          {
+            "phrase": "local economy",
+            "meaning_ko": "지역 경제"
+          },
+          {
+            "phrase": "local culture",
+            "meaning_ko": "지역 문화"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The local area was quiet.",
+            "meaning_ko": "그 지역은 조용했습니다."
+          },
+          {
+            "sentence": "She talked to the locals.",
+            "meaning_ko": "그녀는 그 지역 주민들과 이야기했습니다."
+          },
+          {
+            "sentence": "They supported local businesses.",
+            "meaning_ko": "그들은 지역 사업을 지원했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The local area was quiet, with the neighborhood providing a peaceful environment for residents, though maintaining this tranquility would require community cooperation.",
+            "meaning_ko": "그 지역은 조용했고, 그 지역이 주민들을 위한 평화로운 환경을 제공했지만, 이 평온을 유지하는 것은 공동체 협력을 요구할 것입니다."
+          },
+          {
+            "sentence": "She talked to the locals, with the conversations providing insights into the community and its culture, though understanding the perspectives would require listening and engagement.",
+            "meaning_ko": "그녀는 그 지역 주민들과 이야기했고, 그 대화가 그 공동체와 그 문화에 대한 통찰을 제공했지만, 그 관점을 이해하는 것은 듣기와 참여를 요구할 것입니다."
+          },
+          {
+            "sentence": "They supported local businesses, with their patronage helping to strengthen the community economy, though the support would need to be sustained to have lasting impact.",
+            "meaning_ko": "그들은 지역 사업을 지원했고, 그들의 후원이 그 공동체 경제를 강화하는 데 도움이 되었지만, 그 지원은 지속적인 영향을 갖기 위해 지속될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The local authority that governed the region made decisions affecting residents' daily lives, with the administration responsible for services and infrastructure, though the effectiveness would depend on responsiveness to community needs.",
+            "meaning_ko": "그 지역을 통치했던 그 지방 당국은 주민들의 일상 생활에 영향을 미치는 결정을 내렸고, 그 행정이 서비스와 인프라에 책임이 있었지만, 그 효과는 공동체 필요에 대한 반응성에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The local economy that sustained the community depended on various factors including employment and business activity, with the economic health affecting quality of life, though supporting growth would require strategic planning and investment.",
+            "meaning_ko": "그 공동체를 유지했던 그 지역 경제는 고용과 사업 활동을 포함한 다양한 요인에 달려있었고, 그 경제적 건강이 삶의 질에 영향을 미쳤지만, 성장을 지원하는 것은 전략적 계획과 투자를 요구할 것입니다."
+          },
+          {
+            "sentence": "The local culture that characterized the area reflected traditions and values passed down through generations, with the cultural identity providing a sense of belonging and continuity, though preserving this heritage would require active engagement and appreciation.",
+            "meaning_ko": "그 지역을 특징지었던 그 지역 문화는 세대를 통해 전달된 전통과 가치를 반영했고, 그 문화적 정체성이 소속감과 연속성의 감각을 제공했지만, 이 유산을 보존하는 것은 적극적인 참여와 감상을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "local는 '지역의, 지역적인' 또는 '지역 주민, 지역 사람' 의미로, 특정 지역에 속하거나 지역적인 상태를 가리킵니다. regional, neighborhood와 비슷하지만 더 일반적 표현입니다. local area, local people 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 1,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: local = (A) global (B) regional or resident (C) national (D) international",
+            "a": "B",
+            "meaning_ko": "local는 '지역의 또는 주민' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ area was quiet.",
+            "a": "local",
+            "meaning_ko": "local는 '지역의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of local? (A) regional (B) neighborhood (C) global (D) resident",
+            "a": "C",
+            "meaning_ko": "global(전세계의)가 local의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She talked to the _____. (A) local (B) locally (C) locality (D) local's",
+            "a": "A",
+            "meaning_ko": "명사 local(지역 주민들)이 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: local = (A) global (B) regional (C) national (D) international",
+            "a": "B",
+            "meaning_ko": "regional(지역의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The local area was locally.' → Fix the sentence.",
+            "a": "The local area was quiet.",
+            "meaning_ko": "서술어로 형용사가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The local area was quiet.'",
+            "a": "The regional neighborhood provided a peaceful environment, with the area offering tranquility for residents, though maintaining this calm would require community cooperation.",
+            "meaning_ko": "local는 '지역의' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They supported _____ businesses. (A) local (B) locally (C) locality (D) local's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 local가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses local most appropriately? (A) The local ran. (B) The local area was quiet. (C) She local smiled. (D) Local is good.",
+            "a": "B",
+            "meaning_ko": "local는 형용사로 '지역의'를 의미하며, 명사를 수식하거나 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

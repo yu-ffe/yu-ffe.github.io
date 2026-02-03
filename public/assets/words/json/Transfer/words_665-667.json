@@ -1,0 +1,800 @@
+[
+  {
+    "word": "tickle",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "간지럼, 간지러움; 간지러운 느낌이나 감각.",
+        "note": "간지러운 느낌이나 감각을 가리킵니다."
+      },
+      {
+        "definition_ko": "간지럽히다, 간지럼을 태우다; 간지러운 느낌을 주거나 간지럽히다.",
+        "note": "간지러운 느낌을 주거나 간지럽히는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "즐겁게 하다, 기쁘게 하다; 즐겁게 하거나 기쁘게 하다.",
+        "note": "즐겁게 하거나 기쁘게 하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "간지러운 느낌이나 감각인 간지럼, 또는 간지러운 느낌을 주거나 간지럽히는 것, 또는 즐겁게 하거나 기쁘게 하는 것.",
+    "etymology": "불확실한 어원을 가진 단어로, 아마도 '간지럽다' 의미의 방언에서 유래했을 것입니다.",
+    "semanticExtension": "원래는 '간지럽히다' 의미였고, 현대에는 '즐겁게 하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로 자주 사용되며, tickle 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, tickle + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "tickle : 간지럼",
+      "tickle + 명사 : ~을 간지럽히다/즐겁게 하다"
+    ],
+    "morphology": "불확실한 어원을 가진 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "tickled",
+        "meaning_ko": "간지러운/즐거운(과거분사/형용사)"
+      },
+      {
+        "word": "tickling",
+        "meaning_ko": "간지럽히는/즐겁게 하는(현재분사/형용사)"
+      },
+      {
+        "word": "ticklish",
+        "meaning_ko": "간지러운"
+      }
+    ],
+    "related": [
+      {
+        "word": "amuse",
+        "meaning_ko": "즐겁게 하다"
+      },
+      {
+        "word": "delight",
+        "meaning_ko": "기쁘게 하다"
+      },
+      {
+        "word": "entertain",
+        "meaning_ko": "즐겁게 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "amuse",
+        "meaning_ko": "즐겁게 하다"
+      },
+      {
+        "word": "delight",
+        "meaning_ko": "기쁘게 하다"
+      },
+      {
+        "word": "entertain",
+        "meaning_ko": "즐겁게 하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "please",
+        "meaning_ko": "기쁘게 하다(범위가 더 넓음)"
+      },
+      {
+        "word": "charm",
+        "meaning_ko": "매혹하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "bore",
+        "meaning_ko": "지루하게 하다"
+      },
+      {
+        "word": "annoy",
+        "meaning_ko": "짜증나게 하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "tickle someone",
+            "meaning_ko": "누군가를 간지럽히다"
+          },
+          {
+            "phrase": "tickle fancy",
+            "meaning_ko": "호기심을 자극하다"
+          },
+          {
+            "phrase": "tickle funny bone",
+            "meaning_ko": "웃음을 자극하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "tickle pink",
+            "meaning_ko": "매우 기쁘게 하다"
+          },
+          {
+            "phrase": "tickle sense",
+            "meaning_ko": "감각을 자극하다"
+          },
+          {
+            "phrase": "tickle imagination",
+            "meaning_ko": "상상력을 자극하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "tickle interest",
+            "meaning_ko": "흥미를 자극하다"
+          },
+          {
+            "phrase": "tickle curiosity",
+            "meaning_ko": "호기심을 자극하다"
+          },
+          {
+            "phrase": "tickle palate",
+            "meaning_ko": "입맛을 돋우다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She tickled the child.",
+            "meaning_ko": "그녀는 그 아이를 간지럽혔습니다."
+          },
+          {
+            "sentence": "The joke tickled him.",
+            "meaning_ko": "그 농담은 그를 즐겁게 했습니다."
+          },
+          {
+            "sentence": "He felt a tickle.",
+            "meaning_ko": "그는 간지러움을 느꼈습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She tickled the child, with her gentle touch creating laughter and joy, though the playful interaction would need to be done carefully to avoid discomfort.",
+            "meaning_ko": "그녀는 그 아이를 간지럽혔고, 그녀의 부드러운 접촉이 웃음과 기쁨을 만들었지만, 그 장난스러운 상호작용은 불편함을 피하기 위해 신중하게 수행될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The joke tickled him, with the humor creating amusement and laughter, though the entertainment would be temporary and the effect would fade over time.",
+            "meaning_ko": "그 농담은 그를 즐겁게 했고, 그 유머가 즐거움과 웃음을 만들었지만, 그 오락은 일시적일 것이고 그 효과는 시간이 지나면서 사라질 것입니다."
+          },
+          {
+            "sentence": "He felt a tickle, with the sensation creating a light and pleasant feeling, though the ticklish response would vary depending on individual sensitivity.",
+            "meaning_ko": "그는 간지러움을 느꼈고, 그 감각이 가볍고 즐거운 느낌을 만들었지만, 그 간지러운 반응은 개인의 민감도에 따라 다를 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The story tickled his interest, with the intriguing narrative capturing his attention and creating curiosity, though the initial fascination would need to be sustained through engaging content to maintain his engagement.",
+            "meaning_ko": "그 이야기는 그의 흥미를 자극했고, 그 흥미로운 서사가 그의 주의를 포착하고 호기심을 만들었지만, 초기 매혹은 그의 참여를 유지하기 위해 매력적인 콘텐츠를 통해 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The presentation tickled his curiosity, with the fascinating information and engaging delivery creating a desire to learn more, though the interest would need to be followed up with additional resources to fully satisfy the curiosity.",
+            "meaning_ko": "그 발표는 그의 호기심을 자극했고, 그 매혹적인 정보와 매력적인 전달이 더 배우고 싶은 욕구를 만들었지만, 그 흥미는 호기심을 완전히 만족시키기 위해 추가 자원으로 후속 조치가 필요할 것입니다."
+          },
+          {
+            "sentence": "The flavor tickled his palate, with the interesting taste combination creating a pleasant sensation, though the experience would be subjective and depend on individual preferences.",
+            "meaning_ko": "그 맛은 그의 입맛을 돋웠고, 그 흥미로운 맛 조합이 즐거운 감각을 만들었지만, 그 경험은 주관적일 것이고 개인의 선호에 달려있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "tickle는 '간지럼, 간지러움' 또는 '간지럽히다, 간지럼을 태우다' 또는 '즐겁게 하다, 기쁘게 하다' 의미로, 간지러운 느낌이나 감각을 가리킵니다. amuse, delight와 비슷하지만 더 물리적 뉘앙스가 있습니다. tickle someone, tickle fancy 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: tickle = (A) bore (B) amuse or delight (C) annoy (D) irritate",
+            "a": "B",
+            "meaning_ko": "tickle는 '즐겁게 하다 또는 기쁘게 하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She _____ the child.",
+            "a": "tickled",
+            "meaning_ko": "tickle는 '간지럽히다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of tickle (meaning to amuse)? (A) amuse (B) delight (C) bore (D) entertain",
+            "a": "C",
+            "meaning_ko": "bore(지루하게 하다)가 tickle의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The joke _____ him. (A) tickle (B) tickled (C) tickling (D) tickles",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 tickled가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: tickle = (A) bore (B) amuse (C) annoy (D) irritate",
+            "a": "B",
+            "meaning_ko": "amuse(즐겁게 하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She tickle the child.' → Fix the sentence.",
+            "a": "She tickled the child.",
+            "meaning_ko": "과거 시제에서 과거형 tickled가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She tickled the child.'",
+            "a": "She touched the child in a way that created a ticklish sensation, with the gentle contact producing laughter and amusement, though the playful interaction would need to be done carefully to avoid discomfort.",
+            "meaning_ko": "tickle는 '간지럽히다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He felt a _____. (A) tickle (B) tickles (C) tickling (D) tickled",
+            "a": "A",
+            "meaning_ko": "명사 tickle가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses tickle most appropriately? (A) The tickle ran. (B) She tickled the child. (C) She tickle smiled. (D) Tickle is good.",
+            "a": "B",
+            "meaning_ko": "tickle는 동사로 '간지럽히다'를 의미하며, 타동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "niche",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "틈새, 적소; 특정한 목적이나 기능을 위한 작은 공간이나 위치.",
+        "note": "특정한 목적이나 기능을 위한 작은 공간이나 위치를 가리킵니다."
+      },
+      {
+        "definition_ko": "틈새 시장, 전문 분야; 특정한 시장이나 전문 분야.",
+        "note": "특정한 시장이나 전문 분야를 가리킵니다."
+      }
+    ],
+    "concept": "특정한 목적이나 기능을 위한 작은 공간이나 위치인 틈새, 또는 특정한 시장이나 전문 분야인 틈새 시장.",
+    "etymology": "프랑스어 niche(틈새)에서 유래했으며, 원래는 '틈새' 의미였고 현대에는 '틈새 시장'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '틈새' 의미였고, 현대에는 '특정한 시장이나 전문 분야'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사로 쓰이며, niche 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~의 틈새에",
+        "example": "niche in the market"
+      }
+    ],
+    "requiredComplements": [
+      "niche : 틈새/틈새 시장",
+      "niche in + 명사 : ~의 틈새"
+    ],
+    "morphology": "프랑스어 niche에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "corner",
+        "meaning_ko": "구석"
+      },
+      {
+        "word": "specialty",
+        "meaning_ko": "전문 분야"
+      },
+      {
+        "word": "market",
+        "meaning_ko": "시장"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "corner",
+        "meaning_ko": "구석"
+      },
+      {
+        "word": "specialty",
+        "meaning_ko": "전문 분야"
+      },
+      {
+        "word": "market",
+        "meaning_ko": "시장"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "recess",
+        "meaning_ko": "벽감(범위가 더 넓음)"
+      },
+      {
+        "word": "cubbyhole",
+        "meaning_ko": "작은 공간"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mainstream",
+        "meaning_ko": "주류"
+      },
+      {
+        "word": "general",
+        "meaning_ko": "일반적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "niche in",
+            "meaning_ko": "~의 틈새"
+          },
+          {
+            "phrase": "niche market",
+            "meaning_ko": "틈새 시장"
+          },
+          {
+            "phrase": "find niche",
+            "meaning_ko": "틈새를 찾다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "niche in the market",
+            "meaning_ko": "시장의 틈새"
+          },
+          {
+            "phrase": "niche product",
+            "meaning_ko": "틈새 제품"
+          },
+          {
+            "phrase": "niche audience",
+            "meaning_ko": "틈새 청중"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "niche strategy",
+            "meaning_ko": "틈새 전략"
+          },
+          {
+            "phrase": "niche positioning",
+            "meaning_ko": "틈새 포지셔닝"
+          },
+          {
+            "phrase": "niche specialization",
+            "meaning_ko": "틈새 전문화"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She found her niche.",
+            "meaning_ko": "그녀는 그녀의 틈새를 찾았습니다."
+          },
+          {
+            "sentence": "The product filled a niche.",
+            "meaning_ko": "그 제품은 틈새를 채웠습니다."
+          },
+          {
+            "sentence": "He works in a niche market.",
+            "meaning_ko": "그는 틈새 시장에서 일합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She found her niche, with her skills and interests aligning perfectly with a specialized area, though establishing herself in this field would require dedication and expertise.",
+            "meaning_ko": "그녀는 그녀의 틈새를 찾았고, 그녀의 기술과 관심이 전문 분야와 완벽하게 정렬했지만, 이 분야에서 자신을 확립하는 것은 헌신과 전문성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The product filled a niche, with its specialized features addressing specific needs that were not met by mainstream options, though the market size might be limited.",
+            "meaning_ko": "그 제품은 틈새를 채웠고, 그 전문적 기능이 주류 옵션에 의해 충족되지 않은 특정 필요를 다루었지만, 시장 규모는 제한될 수 있습니다."
+          },
+          {
+            "sentence": "He works in a niche market, with his business focusing on a specialized segment that requires specific knowledge and expertise, though the limited market size might affect growth potential.",
+            "meaning_ko": "그는 틈새 시장에서 일하고, 그의 사업이 특정 지식과 전문성을 요구하는 전문 세그먼트에 초점을 맞추었지만, 제한된 시장 규모가 성장 잠재력에 영향을 미칠 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The niche strategy adopted by the company focused on serving specialized customer segments, with the approach targeting specific needs and preferences that were not adequately addressed by mainstream competitors, though the strategy would require careful market analysis and positioning.",
+            "meaning_ko": "그 회사가 채택한 그 틈새 전략은 전문 고객 세그먼트를 서비스하는 것에 초점을 맞췄고, 그 접근이 주류 경쟁자에 의해 충분히 다루어지지 않은 특정 필요와 선호를 목표로 했지만, 그 전략은 신중한 시장 분석과 포지셔닝을 요구할 것입니다."
+          },
+          {
+            "sentence": "The niche positioning in the market created opportunities for differentiation, with the specialized focus allowing the business to establish expertise and build customer loyalty, though maintaining this position would require continuous innovation and adaptation.",
+            "meaning_ko": "시장에서 그 틈새 포지셔닝은 차별화를 위한 기회를 만들었고, 그 전문적 초점이 그 사업이 전문성을 확립하고 고객 충성도를 구축할 수 있게 했지만, 이 위치를 유지하는 것은 지속적인 혁신과 적응을 요구할 것입니다."
+          },
+          {
+            "sentence": "The niche specialization developed by the organization provided competitive advantages, with the focused expertise creating barriers to entry and establishing the company as a leader in the specialized field, though the narrow focus would require balancing specialization with market opportunities.",
+            "meaning_ko": "그 조직이 개발한 그 틈새 전문화는 경쟁 우위를 제공했고, 그 집중된 전문성이 진입 장벽을 만들고 그 회사를 그 전문 분야의 리더로 확립했지만, 그 좁은 초점은 전문화와 시장 기회 사이의 균형을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "niche는 '틈새, 적소' 또는 '틈새 시장, 전문 분야' 의미로, 특정한 목적이나 기능을 위한 작은 공간이나 위치를 가리킵니다. corner, specialty와 비슷하지만 더 전문적 뉘앙스가 있습니다. niche market, find niche 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "비즈니스",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: niche = (A) mainstream (B) corner or specialty (C) general (D) common",
+            "a": "B",
+            "meaning_ko": "niche는 '구석 또는 전문 분야' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She found her _____.",
+            "a": "niche",
+            "meaning_ko": "niche는 '틈새'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of niche? (A) corner (B) specialty (C) mainstream (D) market",
+            "a": "C",
+            "meaning_ko": "mainstream(주류)가 niche의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: niche _____ the market. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "niche in ~는 '~의 틈새' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: niche = (A) mainstream (B) specialty (C) general (D) common",
+            "a": "B",
+            "meaning_ko": "specialty(전문 분야)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She found her niche at the market.' → Fix the preposition.",
+            "a": "She found her niche in the market.",
+            "meaning_ko": "niche in ~는 '~의 틈새' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She found her niche.'",
+            "a": "She discovered her specialized area or position, with her skills and interests aligning perfectly with a particular field, though establishing herself would require dedication and expertise.",
+            "meaning_ko": "niche는 '틈새'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The product filled a _____. (A) niche (B) niches (C) niche's (D) niched",
+            "a": "A",
+            "meaning_ko": "명사 niche가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses niche most appropriately? (A) The niche ran. (B) She found her niche. (C) She niche smiled. (D) Niche is good.",
+            "a": "B",
+            "meaning_ko": "niche는 명사로 '틈새'를 의미하며, 전문 분야를 나타낼 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "annihilate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "전멸시키다, 완전히 파괴하다; 완전히 없애거나 전멸시키다.",
+        "note": "완전히 없애거나 전멸시키는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "소멸시키다, 제거하다; 완전히 소멸시키거나 제거하다.",
+        "note": "완전히 소멸시키거나 제거하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "완전히 없애거나 전멸시키는 전멸, 또는 완전히 소멸시키거나 제거하는 소멸.",
+    "etymology": "라틴어 annihilare(없애다)에서 유래했으며, an-(없이) + nihil(아무것도)의 조합입니다.",
+    "semanticExtension": "원래는 '없애다' 의미였고, 현대에는 '완전히 없애거나 전멸시키다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학과 학문 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 쓰이며, annihilate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "annihilate + 명사 : ~을 전멸시키다/소멸시키다"
+    ],
+    "morphology": "an-(없이) + nihil(아무것도)의 조합으로, '아무것도 없이' 즉 '전멸시키다' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "annihilated",
+        "meaning_ko": "전멸된/소멸된(과거분사/형용사)"
+      },
+      {
+        "word": "annihilating",
+        "meaning_ko": "전멸시키는/소멸시키는(현재분사/형용사)"
+      },
+      {
+        "word": "annihilation",
+        "meaning_ko": "전멸"
+      }
+    ],
+    "related": [
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "obliterate",
+        "meaning_ko": "소멸시키다"
+      },
+      {
+        "word": "eradicate",
+        "meaning_ko": "근절하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "obliterate",
+        "meaning_ko": "소멸시키다"
+      },
+      {
+        "word": "eradicate",
+        "meaning_ko": "근절하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "eliminate",
+        "meaning_ko": "제거하다(범위가 더 넓음)"
+      },
+      {
+        "word": "exterminate",
+        "meaning_ko": "전멸시키다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "create",
+        "meaning_ko": "창조하다"
+      },
+      {
+        "word": "preserve",
+        "meaning_ko": "보존하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "annihilate enemy",
+            "meaning_ko": "적을 전멸시키다"
+          },
+          {
+            "phrase": "annihilate army",
+            "meaning_ko": "군대를 전멸시키다"
+          },
+          {
+            "phrase": "annihilate completely",
+            "meaning_ko": "완전히 전멸시키다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "annihilate opposition",
+            "meaning_ko": "반대를 전멸시키다"
+          },
+          {
+            "phrase": "annihilate threat",
+            "meaning_ko": "위협을 전멸시키다"
+          },
+          {
+            "phrase": "annihilate resistance",
+            "meaning_ko": "저항을 전멸시키다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "annihilate population",
+            "meaning_ko": "인구를 전멸시키다"
+          },
+          {
+            "phrase": "annihilate civilization",
+            "meaning_ko": "문명을 전멸시키다"
+          },
+          {
+            "phrase": "annihilate existence",
+            "meaning_ko": "존재를 전멸시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They annihilated the enemy.",
+            "meaning_ko": "그들은 그 적을 전멸시켰습니다."
+          },
+          {
+            "sentence": "The army was annihilated.",
+            "meaning_ko": "그 군대는 전멸되었습니다."
+          },
+          {
+            "sentence": "She annihilated the competition.",
+            "meaning_ko": "그녀는 그 경쟁을 전멸시켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They annihilated the enemy, with the complete destruction eliminating all opposition, though the victory would come at a significant cost and raise questions about the methods used.",
+            "meaning_ko": "그들은 그 적을 전멸시켰고, 그 완전한 파괴가 모든 반대를 제거했지만, 그 승리는 중요한 비용을 치르고 사용된 방법에 대한 질문을 제기할 것입니다."
+          },
+          {
+            "sentence": "The army was annihilated, with the complete destruction leaving no survivors, though the defeat would have lasting consequences for the nation and its people.",
+            "meaning_ko": "그 군대는 전멸되었고, 그 완전한 파괴가 생존자를 남기지 않았지만, 그 패배는 그 국가와 그 국민에게 지속적인 결과를 가질 것입니다."
+          },
+          {
+            "sentence": "She annihilated the competition, with her superior performance completely overwhelming all opponents, though the dominance would need to be maintained through continued excellence.",
+            "meaning_ko": "그녀는 그 경쟁을 전멸시켰고, 그녀의 우수한 성과가 모든 상대를 완전히 압도했지만, 그 지배력은 지속적인 우수성을 통해 유지될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The conflict annihilated the population of the region, with the warfare causing complete destruction and loss of life, though the devastation would leave lasting scars and require extensive recovery efforts.",
+            "meaning_ko": "그 갈등은 그 지역의 인구를 전멸시켰고, 그 전쟁이 완전한 파괴와 생명 손실을 일으켰지만, 그 황폐화는 지속적인 상처를 남기고 광범위한 회복 노력을 요구할 것입니다."
+          },
+          {
+            "sentence": "The disaster annihilated the civilization that had existed for centuries, with the catastrophic event completely destroying the society and its achievements, though remnants of the culture might survive in various forms.",
+            "meaning_ko": "그 재난은 수세기 동안 존재했던 그 문명을 전멸시켰고, 그 재앙적 사건이 그 사회와 그 성취를 완전히 파괴했지만, 그 문화의 잔재가 다양한 형태로 생존할 수 있습니다."
+          },
+          {
+            "sentence": "The policy annihilated the existence of traditional practices, with the systematic elimination completely removing long-established customs, though the loss would have cultural and social implications that would need to be addressed.",
+            "meaning_ko": "그 정책은 전통적 관행의 존재를 전멸시켰고, 그 체계적 제거가 오래된 관습을 완전히 제거했지만, 그 손실은 다루어질 필요가 있는 문화적이고 사회적 함의를 가질 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "annihilate는 '전멸시키다, 완전히 파괴하다' 또는 '소멸시키다, 제거하다' 의미로, 완전히 없애거나 전멸시키는 행동을 가리킵니다. destroy, obliterate와 비슷하지만 더 강한 뉘앙스가 있습니다. annihilate enemy, annihilate completely 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문학",
+      "학문",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: annihilate = (A) create (B) destroy completely or obliterate (C) preserve (D) save",
+            "a": "B",
+            "meaning_ko": "annihilate는 '완전히 파괴하다 또는 소멸시키다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They _____ the enemy.",
+            "a": "annihilated",
+            "meaning_ko": "annihilate는 '전멸시키다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of annihilate? (A) destroy (B) obliterate (C) create (D) eradicate",
+            "a": "C",
+            "meaning_ko": "create(창조하다)가 annihilate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The army was _____. (A) annihilate (B) annihilated (C) annihilating (D) annihilates",
+            "a": "B",
+            "meaning_ko": "수동태에서 과거분사 annihilated가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: annihilate = (A) create (B) destroy (C) preserve (D) save",
+            "a": "B",
+            "meaning_ko": "destroy(파괴하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They annihilate the enemy.' → Fix the sentence if needed.",
+            "a": "They annihilated the enemy.",
+            "meaning_ko": "과거 시제에서 과거형 annihilated가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They annihilated the enemy.'",
+            "a": "They completely destroyed and eliminated the enemy, with the total annihilation leaving no survivors and completely removing all opposition, though the victory would come at a significant cost.",
+            "meaning_ko": "annihilate는 '전멸시키다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She _____ the competition. (A) annihilate (B) annihilated (C) annihilating (D) annihilates",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 annihilated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses annihilate most appropriately? (A) The annihilate ran. (B) They annihilated the enemy. (C) She annihilate smiled. (D) Annihilate is good.",
+            "a": "B",
+            "meaning_ko": "annihilate는 동사로 '전멸시키다'를 의미하며, 타동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

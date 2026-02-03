@@ -611,7 +611,7 @@ function BlurReveal({ text, as = 'span', blurred, className = '', applyBold = fa
   );
 }
 
-function PillList({ label, items, showMeaning }) {
+function PillList({ label, items, showMeaning, hiddenWords = [], onWordClick }) {
   if (!items || items.length === 0) return null;
   const renderItem = (item) => {
     if (typeof item === 'string') return item;
@@ -622,15 +622,45 @@ function PillList({ label, items, showMeaning }) {
     return '';
   };
 
+  const getWordKey = (item) => {
+    if (typeof item === 'string') return item.toLowerCase();
+    if (item?.word) return String(item.word).toLowerCase();
+    return '';
+  };
+
+  const filteredItems = items.filter((item) => {
+    const key = getWordKey(item);
+    return key && !hiddenWords.includes(key);
+  });
+
+  if (filteredItems.length === 0) return null;
+
   return (
     <div className="pill-row pill-row--scrollable">
       <span className="pill-label">{label}</span>
       <div className="pill-items pill-items--scrollable">
-        {items.map((item, index) => (
-          <span className="pill" key={`${renderItem(item)}-${index}`}>
-            {renderItem(item)}
-          </span>
-        ))}
+        {filteredItems.map((item, index) => {
+          const wordKey = getWordKey(item);
+          const isHidden = hiddenWords.includes(wordKey);
+          return (
+            <span
+              className="pill pill-clickable"
+              key={`${renderItem(item)}-${index}`}
+              onClick={() => onWordClick && onWordClick(wordKey)}
+              role="button"
+              tabIndex={0}
+              onKeyDown={(e) => {
+                if ((e.key === 'Enter' || e.key === ' ') && onWordClick) {
+                  e.preventDefault();
+                  onWordClick(wordKey);
+                }
+              }}
+              title="클릭하여 숨기기"
+            >
+              {renderItem(item)}
+            </span>
+          );
+        })}
       </div>
     </div>
   );
@@ -1276,14 +1306,20 @@ function mergePresetSettings(previousSettings, preset) {
     selectedLevels: preset.settings.selectedLevels || previousSettings.selectedLevels,
   };
 
-  if (preset.selectedPracticeModules) {
+  if (preset.selectedPracticeModules !== undefined) {
     next.selectedPracticeModules = preset.selectedPracticeModules;
+  }
+
+  // 문맥 연습 프리셋의 경우 문제 모드가 확실히 꺼지도록 보장
+  if (preset.key === 'context-practice') {
+    next.showPracticeSection = false;
+    next.selectedPracticeModules = [];
   }
 
   return next;
 }
 
-function LexiconEntry({ entry, settings, isMarked, onToggleMark }) {
+function LexiconEntry({ entry, settings, isMarked, onToggleMark, hiddenRelationWords = [], onToggleRelationWord }) {
   const [openSections, setOpenSections] = useState({
     core: true,
     context: true,
@@ -1467,11 +1503,41 @@ function LexiconEntry({ entry, settings, isMarked, onToggleMark }) {
             <div className="relation-column">
               <p className="label">단어 관계</p>
               <div className="relation-stack">
-                <PillList label="파생어" items={entry.derivatives} showMeaning={settings.showKoreanMeanings} />
-                <PillList label="관련어" items={entry.related} showMeaning={settings.showKoreanMeanings} />
-                <PillList label="동의어" items={entry.synonyms} showMeaning={settings.showKoreanMeanings} />
-                <PillList label="유사어" items={entry.nearSynonyms} showMeaning={settings.showKoreanMeanings} />
-                <PillList label="반의어" items={entry.antonyms} showMeaning={settings.showKoreanMeanings} />
+                <PillList
+                  label="파생어"
+                  items={entry.derivatives}
+                  showMeaning={settings.showKoreanMeanings}
+                  hiddenWords={hiddenRelationWords}
+                  onWordClick={onToggleRelationWord}
+                />
+                <PillList
+                  label="관련어"
+                  items={entry.related}
+                  showMeaning={settings.showKoreanMeanings}
+                  hiddenWords={hiddenRelationWords}
+                  onWordClick={onToggleRelationWord}
+                />
+                <PillList
+                  label="동의어"
+                  items={entry.synonyms}
+                  showMeaning={settings.showKoreanMeanings}
+                  hiddenWords={hiddenRelationWords}
+                  onWordClick={onToggleRelationWord}
+                />
+                <PillList
+                  label="유사어"
+                  items={entry.nearSynonyms}
+                  showMeaning={settings.showKoreanMeanings}
+                  hiddenWords={hiddenRelationWords}
+                  onWordClick={onToggleRelationWord}
+                />
+                <PillList
+                  label="반의어"
+                  items={entry.antonyms}
+                  showMeaning={settings.showKoreanMeanings}
+                  hiddenWords={hiddenRelationWords}
+                  onWordClick={onToggleRelationWord}
+                />
               </div>
             </div>
           )}
@@ -1630,6 +1696,28 @@ export default function LexiconLab() {
       return [];
     }
   });
+  const [excludedWords, setExcludedWords] = useState(() => {
+    if (typeof window === 'undefined') return [];
+    try {
+      const raw = window.localStorage.getItem('lexicon-excluded-words');
+      if (!raw) return [];
+      const parsed = JSON.parse(raw);
+      return Array.isArray(parsed) ? parsed : [];
+    } catch {
+      return [];
+    }
+  });
+  const [hiddenRelationWords, setHiddenRelationWords] = useState(() => {
+    if (typeof window === 'undefined') return [];
+    try {
+      const raw = window.localStorage.getItem('lexicon-hidden-relation-words');
+      if (!raw) return [];
+      const parsed = JSON.parse(raw);
+      return Array.isArray(parsed) ? parsed : [];
+    } catch {
+      return [];
+    }
+  });
 
   // 글자 크기 적용
   useEffect(() => {
@@ -1708,6 +1796,26 @@ export default function LexiconLab() {
     }
   }, [markedWords]);
 
+  // 제외된 단어 목록을 localStorage에 저장
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    try {
+      window.localStorage.setItem('lexicon-excluded-words', JSON.stringify(excludedWords));
+    } catch {
+      // ignore
+    }
+  }, [excludedWords]);
+
+  // 단어 관계에서 숨긴 단어 목록을 localStorage에 저장
+  useEffect(() => {
+    if (typeof window === 'undefined') return;
+    try {
+      window.localStorage.setItem('lexicon-hidden-relation-words', JSON.stringify(hiddenRelationWords));
+    } catch {
+      // ignore
+    }
+  }, [hiddenRelationWords]);
+
   useEffect(() => {
     writeCookie(
       VIEW_COOKIE,
@@ -1757,18 +1865,29 @@ export default function LexiconLab() {
     loadEntries();
   }, [settings.wordSource]);
 
+  // 단어 모드에서는 markedWords나 excludedWords에 있는 단어는 필터링
+  const filteredEntries = useMemo(() => {
+    const markedSet = new Set(markedWords);
+    const excludedSet = new Set(excludedWords);
+    return entries.filter((entry) => {
+      const key = String(entry.word || '').toLowerCase();
+      return key && !markedSet.has(key) && !excludedSet.has(key);
+    });
+  }, [entries, markedWords, excludedWords]);
+
+  const chunkCount = Math.max(1, Math.ceil(filteredEntries.length / CHUNK_SIZE));
+
   useEffect(() => {
-    const chunkCount = Math.max(1, Math.ceil(entries.length / CHUNK_SIZE));
     if (chunkIndex > chunkCount - 1) {
       setChunkIndex(chunkCount - 1);
     }
-  }, [chunkIndex, entries.length]);
-
-  const chunkCount = Math.max(1, Math.ceil(entries.length / CHUNK_SIZE));
-  const chunkStart = clamp(chunkIndex * CHUNK_SIZE, 0, Math.max(0, entries.length - 1));
-  const chunkEnd = Math.min(entries.length, chunkStart + CHUNK_SIZE);
-  const chunkEntries = useMemo(() => entries.slice(chunkStart, chunkEnd), [entries, chunkStart, chunkEnd]);
-  const chunkRangeStart = entries.length ? chunkStart + 1 : 0;
+  }, [chunkIndex, chunkCount]);
+  const chunkStart = clamp(chunkIndex * CHUNK_SIZE, 0, Math.max(0, filteredEntries.length - 1));
+  const chunkEnd = Math.min(filteredEntries.length, chunkStart + CHUNK_SIZE);
+  const chunkEntries = useMemo(() => {
+    return filteredEntries.slice(chunkStart, chunkEnd);
+  }, [filteredEntries, chunkStart, chunkEnd]);
+  const chunkRangeStart = filteredEntries.length ? chunkStart + 1 : 0;
   const chunkRangeEnd = chunkEnd;
   const isWordView = viewMode === 'words';
   const isPracticeView = viewMode === 'practice';
@@ -1822,14 +1941,15 @@ export default function LexiconLab() {
     () => {
       if (!markedWords.length) return [];
       const markedSet = new Set(markedWords);
+      const excludedSet = new Set(excludedWords);
       const sourceEntries = entries.filter((entry) => {
         const key = String(entry.word || '').toLowerCase();
-        return key && markedSet.has(key);
+        return key && markedSet.has(key) && !excludedSet.has(key);
       });
       if (!sourceEntries.length) return [];
       return buildPracticeQuestions(sourceEntries, settings, practiceSeed);
     },
-    [entries, markedWords, settings, practiceSeed]
+    [entries, markedWords, excludedWords, settings, practiceSeed, viewMode]
   );
 
   const handlePageChange = (nextPage) => {
@@ -1848,15 +1968,37 @@ export default function LexiconLab() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
+  // 단어 모드에서 X를 누를 때: markedWords에 추가 (문제 모드에만 표시)
   const handleToggleMarkWord = (word) => {
     const key = String(word || '').toLowerCase();
     if (!key) return;
     setMarkedWords((prev) => {
-      const exists = prev.includes(key);
-      if (exists) {
+      if (prev.includes(key)) {
         return prev.filter((item) => item !== key);
       }
       return [...prev, key];
+    });
+  };
+
+  // 문제 모드에서 X를 누를 때: markedWords에서 제거하고 excludedWords에 추가 (완전히 제거)
+  const handleExcludeWord = (word) => {
+    const key = String(word || '').toLowerCase();
+    if (!key) return;
+    setMarkedWords((prev) => prev.filter((item) => item !== key));
+    setExcludedWords((prev) => {
+      if (prev.includes(key)) return prev;
+      return [...prev, key];
+    });
+  };
+
+  // 단어 관계에서 단어를 클릭하여 숨기기/보이기 토글
+  const handleToggleRelationWord = (wordKey) => {
+    if (!wordKey) return;
+    setHiddenRelationWords((prev) => {
+      if (prev.includes(wordKey)) {
+        return prev.filter((item) => item !== wordKey);
+      }
+      return [...prev, wordKey];
     });
   };
 
@@ -1961,6 +2103,8 @@ export default function LexiconLab() {
                   settings={settings}
                   isMarked={isMarked}
                   onToggleMark={() => handleToggleMarkWord(entry.word)}
+                  hiddenRelationWords={hiddenRelationWords}
+                  onToggleRelationWord={handleToggleRelationWord}
                 />
               );
             })}
@@ -1995,7 +2139,7 @@ export default function LexiconLab() {
             settings={settings}
             onShuffle={() => setPracticeSeed(Date.now())}
             rangeLabel={markedWords.length ? `X로 표시한 ${markedWords.length}개 단어에서만 출제됩니다.` : '아직 X로 표시한 단어가 없습니다.'}
-            onToggleMark={handleToggleMarkWord}
+            onToggleMark={handleExcludeWord}
           />
         </>
       )}

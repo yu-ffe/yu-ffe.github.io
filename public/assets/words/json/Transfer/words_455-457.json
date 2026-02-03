@@ -1,0 +1,809 @@
+[
+  {
+    "word": "lack",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "부족, 결핍; 필요한 것이 없거나 부족한 상태.",
+        "note": "명사로는 '부족', 동사로는 '~이 부족하다' 의미입니다."
+      },
+      {
+        "definition_ko": "~이 부족하다, ~이 없다; 필요한 것이 없거나 부족하다.",
+        "note": "동사로는 '~이 부족하다' 의미입니다."
+      }
+    ],
+    "concept": "필요한 것이 없거나 부족한 상태, 또는 그런 상태가 되는 것.",
+    "etymology": "중세 네덜란드어 lak(결함)에서 유래했으며, 원래는 '결함' 의미였으나 현대에는 '부족'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '결함' 의미였으나, 현대에는 '필요한 것이 없거나 부족한 상태'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 불가산명사이며, 동사로는 타동사로 lack + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 부족",
+        "example": "lack of money"
+      }
+    ],
+    "requiredComplements": [
+      "lack + 명사 : ~이 부족하다",
+      "lack of + 명사 : ~의 부족"
+    ],
+    "morphology": "중세 네덜란드어 lak에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "shortage",
+        "meaning_ko": "부족"
+      },
+      {
+        "word": "deficiency",
+        "meaning_ko": "결핍"
+      },
+      {
+        "word": "absence",
+        "meaning_ko": "부재"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "shortage",
+        "meaning_ko": "부족"
+      },
+      {
+        "word": "deficiency",
+        "meaning_ko": "결핍"
+      },
+      {
+        "word": "absence",
+        "meaning_ko": "부재"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "want",
+        "meaning_ko": "부족(격식)"
+      },
+      {
+        "word": "need",
+        "meaning_ko": "필요(범위가 더 넓음)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "abundance",
+        "meaning_ko": "풍부"
+      },
+      {
+        "word": "sufficiency",
+        "meaning_ko": "충분"
+      },
+      {
+        "word": "plenty",
+        "meaning_ko": "충분"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "lack of money",
+            "meaning_ko": "돈 부족"
+          },
+          {
+            "phrase": "lack of time",
+            "meaning_ko": "시간 부족"
+          },
+          {
+            "phrase": "lack experience",
+            "meaning_ko": "경험이 부족하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "lack of resources",
+            "meaning_ko": "자원 부족"
+          },
+          {
+            "phrase": "lack of information",
+            "meaning_ko": "정보 부족"
+          },
+          {
+            "phrase": "lack confidence",
+            "meaning_ko": "자신감이 부족하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "lack of evidence",
+            "meaning_ko": "증거 부족"
+          },
+          {
+            "phrase": "lack of clarity",
+            "meaning_ko": "명확성 부족"
+          },
+          {
+            "phrase": "lack of understanding",
+            "meaning_ko": "이해 부족"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The project failed due to lack of money.",
+            "meaning_ko": "그 프로젝트는 돈 부족으로 실패했습니다."
+          },
+          {
+            "sentence": "She lacks experience in this field.",
+            "meaning_ko": "그녀는 이 분야에서 경험이 부족합니다."
+          },
+          {
+            "sentence": "There is a lack of time to complete the task.",
+            "meaning_ko": "그 작업을 완료할 시간이 부족합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The organization struggled due to lack of resources during the economic downturn.",
+            "meaning_ko": "그 조직은 경제 침체 동안 자원 부족으로 어려움을 겪었습니다."
+          },
+          {
+            "sentence": "The decision was made without sufficient information, highlighting the lack of data available.",
+            "meaning_ko": "그 결정은 충분한 정보 없이 내려졌으며, 사용 가능한 데이터의 부족을 강조했습니다."
+          },
+          {
+            "sentence": "Many students lack confidence when speaking in public, which affects their academic performance.",
+            "meaning_ko": "많은 학생들이 공개적으로 말할 때 자신감이 부족하며, 이것이 그들의 학업 성과에 영향을 미칩니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The case was dismissed due to lack of evidence, leaving many questions unanswered.",
+            "meaning_ko": "그 사건은 증거 부족으로 기각되었고, 많은 질문을 미답으로 남겼습니다."
+          },
+          {
+            "sentence": "The lack of clarity in the policy statement created confusion among stakeholders.",
+            "meaning_ko": "그 정책 성명의 명확성 부족은 이해관계자들 사이에 혼란을 만들었습니다."
+          },
+          {
+            "sentence": "The research revealed a significant lack of understanding about the long-term effects of the treatment.",
+            "meaning_ko": "그 연구는 치료의 장기적 효과에 대한 상당한 이해 부족을 드러냈습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "lack은 '부족' 또는 '~이 부족하다' 의미로, 명사와 동사 모두로 쓰입니다. 명사로는 lack of ~, 동사로는 lack + 명사 형태로 자주 쓰입니다. shortage, deficiency와 비슷하지만 더 일상적 표현입니다. lack of money, lack of time 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "부족",
+      "일상 회화",
+      "비즈니스",
+      "부정",
+      "상태"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: lack (noun) = (A) abundance (B) shortage or absence (C) plenty (D) sufficiency",
+            "a": "B",
+            "meaning_ko": "lack(명사)는 '부족 또는 부재' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The project failed due to _____ of money.",
+            "a": "lack",
+            "meaning_ko": "lack은 '부족'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of lack? (A) shortage (B) deficiency (C) abundance (D) absence",
+            "a": "C",
+            "meaning_ko": "abundance(풍부)가 lack의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: lack _____ resources. (A) of (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "lack of ~는 '~의 부족' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: lack (noun) = (A) abundance (B) shortage (C) plenty (D) sufficiency",
+            "a": "B",
+            "meaning_ko": "shortage(부족)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She lacks of experience.' → Fix the sentence.",
+            "a": "She lacks experience.",
+            "meaning_ko": "동사 lack은 직접 목적어를 취하며, of를 사용하지 않습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The lack of evidence led to dismissal.'",
+            "a": "The absence or shortage of proof resulted in the case being thrown out.",
+            "meaning_ko": "lack of evidence는 '증거 부족'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The organization _____ resources. (A) lack (B) lacks (C) lacking (D) lacked",
+            "a": "B",
+            "meaning_ko": "현재 시제에서 타동사 lacks가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses lack most appropriately? (A) The lack ran. (B) They lack experience. (C) She lack smiled. (D) Lack is good.",
+            "a": "B",
+            "meaning_ko": "lack은 타동사로 '~이 부족하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tentative",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "임시의, 시험적인; 확정되지 않고 임시로 시도하는.",
+        "note": "확정되지 않고 임시로 시도하는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "망설이는, 주저하는; 자신감이 없어 망설이는.",
+        "note": "자신감이 없어 망설이는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "확정되지 않고 임시로 시도하거나 자신감이 없어 망설이는 상태.",
+    "etymology": "라틴어 tentare(시도하다)에서 유래했으며, 원래는 '시도하다' 의미였으나 현대에는 '임시의, 망설이는'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '시도하다' 의미였으나, 현대에는 '확정되지 않고 임시로 시도하는' 또는 '망설이는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be tentative 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 망설이는",
+        "example": "tentative about doing"
+      }
+    ],
+    "requiredComplements": [
+      "be tentative : 망설이다",
+      "tentative + 명사 : 임시의/망설이는 ~",
+      "be tentative about + 명사/동명사 : ~에 대해 망설이다"
+    ],
+    "morphology": "라틴어 tentare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "tentatively",
+        "meaning_ko": "임시로, 망설이며"
+      },
+      {
+        "word": "tentativeness",
+        "meaning_ko": "임시성, 망설임"
+      }
+    ],
+    "related": [
+      {
+        "word": "provisional",
+        "meaning_ko": "임시의"
+      },
+      {
+        "word": "hesitant",
+        "meaning_ko": "망설이는"
+      },
+      {
+        "word": "uncertain",
+        "meaning_ko": "불확실한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "provisional",
+        "meaning_ko": "임시의"
+      },
+      {
+        "word": "hesitant",
+        "meaning_ko": "망설이는"
+      },
+      {
+        "word": "uncertain",
+        "meaning_ko": "불확실한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "temporary",
+        "meaning_ko": "임시의(범위가 더 넓음)"
+      },
+      {
+        "word": "cautious",
+        "meaning_ko": "신중한(강도가 덜함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "definite",
+        "meaning_ko": "확정된"
+      },
+      {
+        "word": "certain",
+        "meaning_ko": "확실한"
+      },
+      {
+        "word": "confident",
+        "meaning_ko": "자신 있는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "tentative plan",
+            "meaning_ko": "임시 계획"
+          },
+          {
+            "phrase": "tentative agreement",
+            "meaning_ko": "임시 합의"
+          },
+          {
+            "phrase": "tentative step",
+            "meaning_ko": "망설이는 발걸음"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "tentative schedule",
+            "meaning_ko": "임시 일정"
+          },
+          {
+            "phrase": "tentative conclusion",
+            "meaning_ko": "임시 결론"
+          },
+          {
+            "phrase": "tentative approach",
+            "meaning_ko": "망설이는 접근"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "tentative proposal",
+            "meaning_ko": "임시 제안"
+          },
+          {
+            "phrase": "tentative hypothesis",
+            "meaning_ko": "임시 가설"
+          },
+          {
+            "phrase": "tentative arrangement",
+            "meaning_ko": "임시 배치"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "We made a tentative plan for the weekend.",
+            "meaning_ko": "우리는 주말에 대한 임시 계획을 세웠습니다."
+          },
+          {
+            "sentence": "The two parties reached a tentative agreement.",
+            "meaning_ko": "두 당사자는 임시 합의에 도달했습니다."
+          },
+          {
+            "sentence": "She took a tentative step forward.",
+            "meaning_ko": "그녀는 망설이며 앞으로 한 걸음 내딛었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The tentative schedule for the conference was subject to change based on participant availability.",
+            "meaning_ko": "그 회의의 임시 일정은 참가자 가용성에 따라 변경될 수 있었습니다."
+          },
+          {
+            "sentence": "The researchers presented a tentative conclusion that required further investigation.",
+            "meaning_ko": "그 연구자들은 추가 조사가 필요한 임시 결론을 제시했습니다."
+          },
+          {
+            "sentence": "His tentative approach to the problem showed his uncertainty about the best solution.",
+            "meaning_ko": "그 문제에 대한 그의 망설이는 접근은 최선의 해결책에 대한 그의 불확실성을 보여주었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The committee submitted a tentative proposal that would be refined after receiving stakeholder feedback.",
+            "meaning_ko": "그 위원회는 이해관계자 피드백을 받은 후 정제될 임시 제안을 제출했습니다."
+          },
+          {
+            "sentence": "The scientist's tentative hypothesis about the phenomenon required extensive experimental validation before it could be accepted.",
+            "meaning_ko": "그 과학자의 그 현상에 대한 임시 가설은 받아들여지기 전에 광범위한 실험적 검증이 필요했습니다."
+          },
+          {
+            "sentence": "The tentative arrangement for the merger was carefully negotiated, with both parties aware that final terms might differ.",
+            "meaning_ko": "그 합병에 대한 임시 배치는 양쪽 당사자가 최종 조건이 다를 수 있다는 것을 알고 신중하게 협상되었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "tentative은 '임시의, 시험적인' 또는 '망설이는' 의미로, 확정되지 않고 임시로 시도하거나 자신감이 없어 망설이는 상태를 가리킵니다. provisional, hesitant와 비슷하지만 더 일상적 표현입니다. tentative plan, tentative agreement 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "상태",
+      "일상 회화",
+      "비즈니스",
+      "중립",
+      "불확실"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: tentative = (A) definite (B) provisional or hesitant (C) certain (D) confident",
+            "a": "B",
+            "meaning_ko": "tentative은 '임시의 또는 망설이는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: We made a _____ plan for the weekend.",
+            "a": "tentative",
+            "meaning_ko": "tentative은 '임시의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of tentative? (A) provisional (B) hesitant (C) definite (D) uncertain",
+            "a": "C",
+            "meaning_ko": "definite(확정된)가 tentative의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The agreement was _____. (A) tentative (B) tentatively (C) tentativeness (D) tentatives",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 tentative가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: tentative = (A) definite (B) provisional (C) certain (D) confident",
+            "a": "B",
+            "meaning_ko": "provisional(임시의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was tentatively about the decision.' → Fix the sentence.",
+            "a": "She was tentative about the decision.",
+            "meaning_ko": "be 동사 뒤에는 형용사 tentative가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The tentative proposal required refinement.'",
+            "a": "The provisional or not yet finalized suggestion needed further development and improvement.",
+            "meaning_ko": "tentative proposal는 '임시 제안'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ hypothesis needed validation. (A) tentative (B) tentatively (C) tentativeness (D) tentatives",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 tentative가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses tentative most appropriately? (A) The tentative ran. (B) The plan was tentative. (C) She tentative smiled. (D) Tentative is good.",
+            "a": "B",
+            "meaning_ko": "tentative은 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mitigate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "완화하다, 줄이다; 문제나 고통의 심각성을 줄이다.",
+        "note": "문제나 고통의 심각성을 줄이는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "문제나 고통의 심각성을 줄이는 것.",
+    "etymology": "라틴어 mitigare(부드럽게 하다)에서 유래했으며, 원래는 '부드럽게 하다' 의미였으나 현대에는 '완화하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '부드럽게 하다' 의미였으나, 현대에는 '문제나 고통의 심각성을 줄이다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 격식 있는 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 mitigate + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "mitigate + 명사 : ~을 완화하다"
+    ],
+    "morphology": "라틴어 mitigare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "mitigation",
+        "meaning_ko": "완화"
+      },
+      {
+        "word": "mitigating",
+        "meaning_ko": "완화하는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "alleviate",
+        "meaning_ko": "완화하다"
+      },
+      {
+        "word": "reduce",
+        "meaning_ko": "줄이다"
+      },
+      {
+        "word": "lessen",
+        "meaning_ko": "줄이다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "alleviate",
+        "meaning_ko": "완화하다"
+      },
+      {
+        "word": "reduce",
+        "meaning_ko": "줄이다"
+      },
+      {
+        "word": "lessen",
+        "meaning_ko": "줄이다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "ease",
+        "meaning_ko": "완화하다(범위가 더 넓음)"
+      },
+      {
+        "word": "relieve",
+        "meaning_ko": "완화하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "aggravate",
+        "meaning_ko": "악화시키다"
+      },
+      {
+        "word": "worsen",
+        "meaning_ko": "악화시키다"
+      },
+      {
+        "word": "intensify",
+        "meaning_ko": "강화하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mitigate the effects",
+            "meaning_ko": "효과를 완화하다"
+          },
+          {
+            "phrase": "mitigate the damage",
+            "meaning_ko": "피해를 완화하다"
+          },
+          {
+            "phrase": "mitigate the risk",
+            "meaning_ko": "위험을 완화하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "mitigate the impact",
+            "meaning_ko": "영향을 완화하다"
+          },
+          {
+            "phrase": "mitigate the problem",
+            "meaning_ko": "문제를 완화하다"
+          },
+          {
+            "phrase": "mitigate the suffering",
+            "meaning_ko": "고통을 완화하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mitigate the consequences",
+            "meaning_ko": "결과를 완화하다"
+          },
+          {
+            "phrase": "mitigate climate change",
+            "meaning_ko": "기후 변화를 완화하다"
+          },
+          {
+            "phrase": "mitigate the severity",
+            "meaning_ko": "심각성을 완화하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The government tried to mitigate the effects of the economic crisis.",
+            "meaning_ko": "정부는 경제 위기의 효과를 완화하려고 했습니다."
+          },
+          {
+            "sentence": "We need to mitigate the damage caused by the storm.",
+            "meaning_ko": "우리는 폭풍으로 인한 피해를 완화해야 합니다."
+          },
+          {
+            "sentence": "The new policy aims to mitigate the risk of accidents.",
+            "meaning_ko": "새 정책은 사고의 위험을 완화하는 것을 목표로 합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The organization implemented measures to mitigate the impact of the budget cuts on its programs.",
+            "meaning_ko": "그 조직은 예산 삭감이 프로그램에 미치는 영향을 완화하기 위한 조치를 시행했습니다."
+          },
+          {
+            "sentence": "The medication helped mitigate the suffering of patients with chronic pain.",
+            "meaning_ko": "그 약물은 만성 통증을 가진 환자들의 고통을 완화하는 데 도움이 되었습니다."
+          },
+          {
+            "sentence": "The team developed strategies to mitigate the problem before it escalated into a major crisis.",
+            "meaning_ko": "그 팀은 문제가 큰 위기로 확대되기 전에 그것을 완화하기 위한 전략을 개발했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The international agreement was designed to mitigate the consequences of climate change through coordinated global action.",
+            "meaning_ko": "그 국제 협정은 조정된 글로벌 행동을 통해 기후 변화의 결과를 완화하도록 설계되었습니다."
+          },
+          {
+            "sentence": "The research focused on developing technologies to mitigate climate change by reducing greenhouse gas emissions.",
+            "meaning_ko": "그 연구는 온실가스 배출을 줄여 기후 변화를 완화하는 기술 개발에 집중했습니다."
+          },
+          {
+            "sentence": "The emergency response plan was activated to mitigate the severity of the natural disaster's impact on the affected communities.",
+            "meaning_ko": "그 응급 대응 계획은 피해 지역 사회에 미치는 자연 재해의 심각성을 완화하기 위해 활성화되었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "mitigate은 '완화하다, 줄이다' 의미로, 문제나 고통의 심각성을 줄이는 행동을 가리킵니다. alleviate, reduce와 비슷하지만 더 격식 있고 전문적 뉘앙스가 있습니다. mitigate the effects, mitigate the risk 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "완화",
+      "문제",
+      "일상 회화",
+      "비즈니스",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: mitigate = (A) aggravate (B) reduce or alleviate (C) worsen (D) intensify",
+            "a": "B",
+            "meaning_ko": "mitigate은 '줄이다 또는 완화하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The government tried to _____ the effects of the crisis.",
+            "a": "mitigate",
+            "meaning_ko": "mitigate은 '완화하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of mitigate? (A) alleviate (B) reduce (C) aggravate (D) lessen",
+            "a": "C",
+            "meaning_ko": "aggravate(악화시키다)가 mitigate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The policy aims to _____ the risk. (A) mitigate (B) mitigated (C) mitigating (D) mitigates",
+            "a": "A",
+            "meaning_ko": "현재 시제에서 타동사 mitigate가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: mitigate = (A) aggravate (B) alleviate (C) worsen (D) intensify",
+            "a": "B",
+            "meaning_ko": "alleviate(완화하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They tried to mitigate the effects of the crisis.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "mitigate + 명사는 '~을 완화하다' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The agreement was designed to mitigate climate change.'",
+            "a": "The treaty was created to reduce or lessen the severity of global warming and environmental damage.",
+            "meaning_ko": "mitigate climate change는 '기후 변화를 완화하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The measures _____ the impact. (A) mitigate (B) mitigated (C) mitigating (D) mitigates",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 타동사 mitigated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses mitigate most appropriately? (A) The mitigate ran. (B) They mitigated the damage. (C) She mitigate smiled. (D) Mitigate is good.",
+            "a": "B",
+            "meaning_ko": "mitigate은 타동사로 '~을 완화하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

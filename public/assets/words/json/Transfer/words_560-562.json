@@ -1,0 +1,827 @@
+[
+  {
+    "word": "analogous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "유사한, 비슷한; 구조나 기능이 비슷한.",
+        "note": "구조나 기능이 비슷한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "구조나 기능이 비슷한 유사한 상태.",
+    "etymology": "그리스어 analogos(비례하는)에서 유래했으며, 원래는 '비례하는' 의미였으나 현대에는 '유사한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '비례하는' 의미였으나, 현대에는 '구조나 기능이 비슷한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 학술적 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be analogous to + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~와 유사한",
+        "example": "analogous to the situation"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와 유사한",
+        "example": "analogous with the case"
+      }
+    ],
+    "requiredComplements": [
+      "be analogous to + 명사 : ~와 유사하다",
+      "be analogous with + 명사 : ~와 유사하다"
+    ],
+    "morphology": "그리스어 analogos에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "analogously",
+        "meaning_ko": "유사하게"
+      },
+      {
+        "word": "analogy",
+        "meaning_ko": "유사성"
+      }
+    ],
+    "related": [
+      {
+        "word": "similar",
+        "meaning_ko": "비슷한"
+      },
+      {
+        "word": "comparable",
+        "meaning_ko": "비교 가능한"
+      },
+      {
+        "word": "equivalent",
+        "meaning_ko": "동등한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "similar",
+        "meaning_ko": "비슷한"
+      },
+      {
+        "word": "comparable",
+        "meaning_ko": "비교 가능한"
+      },
+      {
+        "word": "equivalent",
+        "meaning_ko": "동등한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "alike",
+        "meaning_ko": "비슷한(범위가 더 넓음)"
+      },
+      {
+        "word": "parallel",
+        "meaning_ko": "평행한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dissimilar",
+        "meaning_ko": "다른"
+      },
+      {
+        "word": "different",
+        "meaning_ko": "다른"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "analogous to",
+            "meaning_ko": "~와 유사한"
+          },
+          {
+            "phrase": "analogous situation",
+            "meaning_ko": "유사한 상황"
+          },
+          {
+            "phrase": "analogous case",
+            "meaning_ko": "유사한 사례"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "analogous to the situation",
+            "meaning_ko": "그 상황과 유사한"
+          },
+          {
+            "phrase": "analogous structure",
+            "meaning_ko": "유사한 구조"
+          },
+          {
+            "phrase": "analogous function",
+            "meaning_ko": "유사한 기능"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "analogous to the case",
+            "meaning_ko": "그 사례와 유사한"
+          },
+          {
+            "phrase": "analogous mechanism",
+            "meaning_ko": "유사한 메커니즘"
+          },
+          {
+            "phrase": "analogous process",
+            "meaning_ko": "유사한 과정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The situation is analogous to what happened before.",
+            "meaning_ko": "그 상황은 이전에 일어난 것과 유사합니다."
+          },
+          {
+            "sentence": "These structures are analogous.",
+            "meaning_ko": "이 구조들은 유사합니다."
+          },
+          {
+            "sentence": "The function is analogous to that of the heart.",
+            "meaning_ko": "그 기능은 심장의 그것과 유사합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The situation is analogous to what happened before, sharing similar characteristics and patterns that suggest the same underlying causes and potential solutions.",
+            "meaning_ko": "그 상황은 이전에 일어난 것과 유사하고, 같은 근본 원인과 잠재적 해결책을 시사하는 유사한 특성과 패턴을 공유합니다."
+          },
+          {
+            "sentence": "These structures are analogous in their design and function, having evolved independently but serving similar purposes in different organisms.",
+            "meaning_ko": "이 구조들은 그들의 설계와 기능에서 유사하고, 독립적으로 진화했지만 다른 생물체에서 유사한 목적을 제공합니다."
+          },
+          {
+            "sentence": "The function is analogous to that of the heart, pumping fluid through the system and maintaining circulation, though the mechanism differs in its specific implementation.",
+            "meaning_ko": "그 기능은 심장의 그것과 유사하고, 시스템을 통해 액체를 펌핑하고 순환을 유지하지만, 그 메커니즘이 그 특정 구현에서 다릅니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The economic crisis was analogous to the case of the Great Depression, with similar patterns of market collapse, unemployment, and government intervention, though the specific circumstances and global context differed significantly.",
+            "meaning_ko": "그 경제 위기는 대공황의 사례와 유사했고, 시장 붕괴, 실업, 정부 개입의 유사한 패턴을 가지고 있었지만, 특정 상황과 글로벌 맥락이 크게 달랐습니다."
+          },
+          {
+            "sentence": "The research revealed an analogous mechanism in both species, suggesting that the evolutionary solution to a common environmental challenge had been reached independently through convergent evolution.",
+            "meaning_ko": "그 연구는 두 종 모두에서 유사한 메커니즘을 드러냈고, 공통 환경적 도전에 대한 진화적 해결책이 수렴 진화를 통해 독립적으로 도달되었음을 시사했습니다."
+          },
+          {
+            "sentence": "The political process was analogous to the democratic systems found in other countries, though cultural differences and historical contexts shaped its unique implementation and specific characteristics.",
+            "meaning_ko": "그 정치 과정은 다른 국가에서 발견되는 민주적 시스템과 유사했지만, 문화적 차이와 역사적 맥락이 그 고유한 구현과 특정 특성을 형성했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "analogous는 '유사한, 비슷한' 의미로, 구조나 기능이 비슷한 상태를 가리킵니다. similar, comparable와 비슷하지만 더 학술적 뉘앙스가 있습니다. analogous to/with ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "비교",
+      "학술",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: analogous = (A) different (B) similar or comparable (C) dissimilar (D) opposite",
+            "a": "B",
+            "meaning_ko": "analogous는 '유사하거나 비교 가능한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The situation is _____ to what happened before.",
+            "a": "analogous",
+            "meaning_ko": "analogous는 '유사한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of analogous? (A) similar (B) comparable (C) different (D) equivalent",
+            "a": "C",
+            "meaning_ko": "different(다른)가 analogous의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: analogous _____ the situation. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "analogous to ~는 '~와 유사한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: analogous = (A) different (B) similar (C) dissimilar (D) opposite",
+            "a": "B",
+            "meaning_ko": "similar(비슷한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The situation is analogous on what happened.' → Fix the preposition.",
+            "a": "The situation is analogous to what happened.",
+            "meaning_ko": "analogous to ~는 '~와 유사한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The situation is analogous to what happened before.'",
+            "a": "The current circumstances share similar characteristics, patterns, and underlying structures with the previous event, suggesting comparable causes and potential outcomes.",
+            "meaning_ko": "analogous to ~는 '~와 유사한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: These structures are _____. (A) analogous (B) analogously (C) analogy (D) analogies",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 analogous가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses analogous most appropriately? (A) The analogous ran. (B) The situation is analogous to what happened. (C) She analogous smiled. (D) Analogous is good.",
+            "a": "B",
+            "meaning_ko": "analogous는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "scare",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "공포, 두려움; 갑작스러운 공포나 두려움.",
+        "note": "갑작스러운 공포나 두려움을 가리킵니다."
+      },
+      {
+        "definition_ko": "놀라게 하다, 겁주다; 갑작스럽게 공포나 두려움을 느끼게 하다.",
+        "note": "갑작스럽게 공포나 두려움을 느끼게 하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "갑작스러운 공포나 두려움, 또는 갑작스럽게 공포나 두려움을 느끼게 하는 것.",
+    "etymology": "고대 영어 scearu(공포)에서 유래했으며, 원래는 '공포' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '공포' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로, 동사로는 타동사와 자동사 모두로 쓰이며, scare + 명사 또는 scare + 명사 + away/off 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "away",
+        "meaning_ko": "~을 쫓아내다",
+        "example": "scare away the birds"
+      },
+      {
+        "prep": "off",
+        "meaning_ko": "~을 쫓아내다",
+        "example": "scare off intruders"
+      }
+    ],
+    "requiredComplements": [
+      "scare + 명사 : ~을 놀라게 하다",
+      "scare + 명사 + away/off : ~을 쫓아내다"
+    ],
+    "morphology": "고대 영어 scearu에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "scared",
+        "meaning_ko": "겁먹은(과거분사/형용사)"
+      },
+      {
+        "word": "scary",
+        "meaning_ko": "무서운"
+      },
+      {
+        "word": "scaring",
+        "meaning_ko": "놀라게 하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "frighten",
+        "meaning_ko": "겁주다"
+      },
+      {
+        "word": "alarm",
+        "meaning_ko": "경보"
+      },
+      {
+        "word": "terror",
+        "meaning_ko": "공포"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "frighten",
+        "meaning_ko": "겁주다"
+      },
+      {
+        "word": "alarm",
+        "meaning_ko": "경보"
+      },
+      {
+        "word": "terror",
+        "meaning_ko": "공포"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "startle",
+        "meaning_ko": "깜짝 놀라게 하다(범위가 더 넓음)"
+      },
+      {
+        "word": "shock",
+        "meaning_ko": "충격을 주다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reassure",
+        "meaning_ko": "안심시키다"
+      },
+      {
+        "word": "comfort",
+        "meaning_ko": "위로하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "scare away",
+            "meaning_ko": "~을 쫓아내다"
+          },
+          {
+            "phrase": "scare off",
+            "meaning_ko": "~을 쫓아내다"
+          },
+          {
+            "phrase": "get a scare",
+            "meaning_ko": "깜짝 놀라다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "scare the birds",
+            "meaning_ko": "새들을 쫓아내다"
+          },
+          {
+            "phrase": "scare someone",
+            "meaning_ko": "누군가를 놀라게 하다"
+          },
+          {
+            "phrase": "health scare",
+            "meaning_ko": "건강 공포"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "scare tactics",
+            "meaning_ko": "공포 전술"
+          },
+          {
+            "phrase": "scare campaign",
+            "meaning_ko": "공포 캠페인"
+          },
+          {
+            "phrase": "scare story",
+            "meaning_ko": "공포 이야기"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The noise scared the children.",
+            "meaning_ko": "그 소음은 아이들을 놀라게 했습니다."
+          },
+          {
+            "sentence": "She got a scare when she saw the snake.",
+            "meaning_ko": "그녀는 그 뱀을 봤을 때 깜짝 놀랐습니다."
+          },
+          {
+            "sentence": "The dog scared away the birds.",
+            "meaning_ko": "그 개는 새들을 쫓아냈습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The noise scared the children, causing them to run away and seek safety, though it turned out to be just a harmless sound from the construction site nearby.",
+            "meaning_ko": "그 소음은 아이들을 놀라게 했고, 그들이 도망가고 안전을 찾도록 만들었지만, 그것은 근처 건설 현장에서 온 무해한 소음으로 판명되었습니다."
+          },
+          {
+            "sentence": "She got a scare when she saw the snake in the garden, immediately stepping back and calling for help, though the reptile turned out to be non-venomous and quickly slithered away.",
+            "meaning_ko": "그녀는 정원에서 그 뱀을 봤을 때 깜짝 놀랐고, 즉시 뒤로 물러서고 도움을 요청했지만, 그 파충류는 독이 없는 것으로 판명되었고 빠르게 기어갔습니다."
+          },
+          {
+            "sentence": "The dog scared away the birds that had been feeding in the yard, though they returned once the animal went inside, demonstrating the temporary nature of such deterrents.",
+            "meaning_ko": "그 개는 마당에서 먹이를 먹고 있던 새들을 쫓아냈지만, 그 동물이 안으로 들어간 후 그들이 돌아왔고, 그러한 억제제의 일시적 특성을 보여줬습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The politician's use of scare tactics during the campaign, spreading misinformation about the opponent's policies, raised concerns about the integrity of the electoral process and the impact of fear-based messaging on democratic discourse.",
+            "meaning_ko": "그 정치인이 그 캠페인 중에 공포 전술을 사용한 것은, 상대방의 정책에 대한 잘못된 정보를 퍼뜨리면서, 선거 과정의 무결성과 민주적 담론에 대한 공포 기반 메시징의 영향에 대한 우려를 제기했습니다."
+          },
+          {
+            "sentence": "The health scare prompted widespread public concern and led to increased demand for medical services, though subsequent research revealed that the initial reports had been exaggerated and the actual risk was minimal.",
+            "meaning_ko": "그 건강 공포는 광범위한 공공 우려를 촉발했고 의료 서비스에 대한 수요 증가로 이어졌지만, 후속 연구는 초기 보고서가 과장되었고 실제 위험이 최소였다는 것을 드러냈습니다."
+          },
+          {
+            "sentence": "The media's coverage of the scare story generated significant public anxiety, though critics argued that the sensationalized reporting prioritized attention over accuracy and contributed to unnecessary panic.",
+            "meaning_ko": "그 미디어의 그 공포 이야기 보도는 상당한 공공 불안을 생성했지만, 비평가들은 선정적인 보도가 정확성보다 주의를 우선시했고 불필요한 공황에 기여했다고 주장했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "scare는 '공포, 두려움' 또는 '놀라게 하다, 겁주다' 의미로, 갑작스러운 공포나 두려움을 가리킵니다. frighten, alarm과 비슷하지만 더 일상적 표현입니다. scare away/off ~, get a scare 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "감정",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: scare = (A) comfort (B) frighten or alarm (C) reassure (D) calm",
+            "a": "B",
+            "meaning_ko": "scare는 '겁주거나 경보' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The noise _____ the children.",
+            "a": "scared",
+            "meaning_ko": "scare는 '놀라게 하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of scare? (A) frighten (B) alarm (C) reassure (D) terror",
+            "a": "C",
+            "meaning_ko": "reassure(안심시키다)가 scare의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: scare _____ the birds. (A) away (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "scare away ~는 '~을 쫓아내다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: scare = (A) comfort (B) frighten (C) reassure (D) calm",
+            "a": "B",
+            "meaning_ko": "frighten(겁주다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The dog scared on the birds.' → Fix the preposition.",
+            "a": "The dog scared away the birds.",
+            "meaning_ko": "scare away ~는 '~을 쫓아내다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The noise scared the children.'",
+            "a": "The sound caused sudden fear and alarm among the young ones, making them feel frightened and prompting them to react with concern or seek safety.",
+            "meaning_ko": "scare는 '놀라게 하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the intruders. (A) scare (B) scares (C) scaring (D) scared",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 scare가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses scare most appropriately? (A) The scare ran. (B) The noise scared the children. (C) She scare smiled. (D) Scare is good.",
+            "a": "B",
+            "meaning_ko": "scare는 타동사로 '~을 놀라게 하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "excoriate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "강하게 비난하다, 맹비난하다; 매우 강하게 비난하거나 맹비난하다.",
+        "note": "매우 강하게 비난하거나 맹비난하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "껍질을 벗기다; 피부나 표면의 껍질을 벗기다.",
+        "note": "피부나 표면의 껍질을 벗기는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "매우 강하게 비난하거나 맹비난하는 것, 또는 피부나 표면의 껍질을 벗기는 것.",
+    "etymology": "라틴어 excoriare(껍질을 벗기다)에서 유래했으며, 원래는 '껍질을 벗기다' 의미였으나 현대에는 '강하게 비난하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '껍질을 벗기다' 의미였으나, 현대에는 '매우 강하게 비난하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "타동사로 쓰이며, excoriate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대해 강하게 비난하다",
+        "example": "excoriate someone for something"
+      }
+    ],
+    "requiredComplements": [
+      "excoriate + 명사 : ~을 강하게 비난하다",
+      "excoriate + 명사 + for + 명사 : ~을 ~에 대해 강하게 비난하다"
+    ],
+    "morphology": "라틴어 excoriare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "excoriated",
+        "meaning_ko": "강하게 비난된(과거분사/형용사)"
+      },
+      {
+        "word": "excoriating",
+        "meaning_ko": "강하게 비난하는(현재분사/형용사)"
+      },
+      {
+        "word": "excoriation",
+        "meaning_ko": "강한 비난"
+      }
+    ],
+    "related": [
+      {
+        "word": "criticize",
+        "meaning_ko": "비난하다"
+      },
+      {
+        "word": "condemn",
+        "meaning_ko": "비난하다"
+      },
+      {
+        "word": "denounce",
+        "meaning_ko": "비난하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "criticize",
+        "meaning_ko": "비난하다"
+      },
+      {
+        "word": "condemn",
+        "meaning_ko": "비난하다"
+      },
+      {
+        "word": "denounce",
+        "meaning_ko": "비난하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "attack",
+        "meaning_ko": "공격하다(범위가 더 넓음)"
+      },
+      {
+        "word": "rebuke",
+        "meaning_ko": "꾸짖다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      },
+      {
+        "word": "commend",
+        "meaning_ko": "칭찬하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "excoriate someone",
+            "meaning_ko": "누군가를 강하게 비난하다"
+          },
+          {
+            "phrase": "excoriate for",
+            "meaning_ko": "~에 대해 강하게 비난하다"
+          },
+          {
+            "phrase": "excoriate the policy",
+            "meaning_ko": "그 정책을 강하게 비난하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "excoriate someone for something",
+            "meaning_ko": "누군가를 ~에 대해 강하게 비난하다"
+          },
+          {
+            "phrase": "excoriate the decision",
+            "meaning_ko": "그 결정을 강하게 비난하다"
+          },
+          {
+            "phrase": "excoriate the government",
+            "meaning_ko": "그 정부를 강하게 비난하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "excoriate the administration",
+            "meaning_ko": "그 행정부를 강하게 비난하다"
+          },
+          {
+            "phrase": "excoriate the leadership",
+            "meaning_ko": "그 지도부를 강하게 비난하다"
+          },
+          {
+            "phrase": "excoriate the approach",
+            "meaning_ko": "그 접근을 강하게 비난하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The critic excoriated the film.",
+            "meaning_ko": "그 비평가는 그 영화를 강하게 비난했습니다."
+          },
+          {
+            "sentence": "They excoriated the government for its policies.",
+            "meaning_ko": "그들은 그 정부를 그 정책에 대해 강하게 비난했습니다."
+          },
+          {
+            "sentence": "The article excoriated the decision.",
+            "meaning_ko": "그 기사는 그 결정을 강하게 비난했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The critic excoriated the film for its poor storytelling and weak character development, arguing that it failed to meet even basic standards of cinematic quality.",
+            "meaning_ko": "그 비평가는 그 영화를 그 약한 스토리텔링과 약한 캐릭터 개발에 대해 강하게 비난했고, 그것이 영화적 품질의 기본 기준조차 충족하지 못했다고 주장했습니다."
+          },
+          {
+            "sentence": "They excoriated the government for its policies, delivering a scathing critique that highlighted failures in economic management and social welfare programs.",
+            "meaning_ko": "그들은 그 정부를 그 정책에 대해 강하게 비난했고, 경제 관리와 사회 복지 프로그램의 실패를 강조한 맹렬한 비판을 전달했습니다."
+          },
+          {
+            "sentence": "The article excoriated the decision, providing detailed analysis of the negative consequences and questioning the judgment of those responsible for making such a choice.",
+            "meaning_ko": "그 기사는 그 결정을 강하게 비난했고, 부정적 결과에 대한 자세한 분석을 제공하고 그러한 선택을 하는 데 책임이 있는 사람들의 판단에 의문을 제기했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The editorial excoriated the administration for its handling of the crisis, systematically dismantling each policy decision and exposing what it described as a pattern of incompetence and disregard for public welfare.",
+            "meaning_ko": "그 사설은 그 행정부를 그 위기 처리에 대해 강하게 비난했고, 각 정책 결정을 체계적으로 해체하고 그것이 무능력과 공공 복지에 대한 무시의 패턴이라고 설명한 것을 폭로했습니다."
+          },
+          {
+            "sentence": "The opposition leader excoriated the leadership for what he called a betrayal of democratic principles, delivering a passionate speech that resonated with voters who felt their concerns had been ignored.",
+            "meaning_ko": "그 야당 지도자는 그 지도부를 그가 민주적 원칙의 배신이라고 부른 것에 대해 강하게 비난했고, 자신들의 우려가 무시되었다고 느낀 유권자들과 공명한 열정적인 연설을 전달했습니다."
+          },
+          {
+            "sentence": "The academic paper excoriated the approach taken by previous researchers, methodically identifying flaws in methodology and arguing that the conclusions drawn were fundamentally flawed due to systematic errors in data collection and analysis.",
+            "meaning_ko": "그 학술 논문은 이전 연구자들이 취한 그 접근을 강하게 비난했고, 방법론의 결함을 체계적으로 식별하고 데이터 수집과 분석의 체계적 오류로 인해 도출된 결론이 근본적으로 결함이 있다고 주장했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "excoriate는 '강하게 비난하다, 맹비난하다' 의미로, 매우 강하게 비난하거나 맹비난하는 행동을 가리킵니다. 매우 격식 있고 드문 단어로, criticize, condemn과 비슷하지만 더 강한 뉘앙스가 있습니다. excoriate + 명사, excoriate + 명사 + for + 명사 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "비난",
+      "격식",
+      "문어",
+      "드문",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: excoriate = (A) praise (B) criticize harshly (C) commend (D) approve",
+            "a": "B",
+            "meaning_ko": "excoriate는 '강하게 비난하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The critic _____ the film.",
+            "a": "excoriated",
+            "meaning_ko": "excoriate는 '강하게 비난하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of excoriate? (A) criticize (B) condemn (C) praise (D) denounce",
+            "a": "C",
+            "meaning_ko": "praise(칭찬하다)가 excoriate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: excoriate someone _____ something. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "excoriate + 명사 + for ~는 '~을 ~에 대해 강하게 비난하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: excoriate = (A) praise (B) criticize (C) commend (D) approve",
+            "a": "B",
+            "meaning_ko": "criticize(비난하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They excoriated the government on its policies.' → Fix the preposition.",
+            "a": "They excoriated the government for its policies.",
+            "meaning_ko": "excoriate + 명사 + for ~는 '~을 ~에 대해 강하게 비난하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The critic excoriated the film.'",
+            "a": "The reviewer delivered a harsh and severe criticism of the movie, attacking it with strong negative language and systematically pointing out its flaws and failures.",
+            "meaning_ko": "excoriate는 '강하게 비난하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the government. (A) excoriate (B) excoriates (C) excoriating (D) excoriated",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 excoriate가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses excoriate most appropriately? (A) The excoriate ran. (B) The critic excoriated the film. (C) She excoriate smiled. (D) Excoriate is good.",
+            "a": "B",
+            "meaning_ko": "excoriate는 타동사로 '~을 강하게 비난하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

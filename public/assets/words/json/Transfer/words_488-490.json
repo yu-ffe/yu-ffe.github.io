@@ -1,0 +1,789 @@
+[
+  {
+    "word": "blur",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "흐림, 흐릿함; 선명하지 않고 흐릿한 상태.",
+        "note": "명사로는 '흐림', 동사로는 '흐리게 하다' 의미입니다."
+      },
+      {
+        "definition_ko": "흐리게 하다, 흐려지다; 선명하지 않게 만들거나 흐려지다.",
+        "note": "동사로는 '흐리게 하다' 의미입니다."
+      }
+    ],
+    "concept": "선명하지 않고 흐릿한 상태, 또는 그런 상태로 만드는 것.",
+    "etymology": "중세 영어 blurre(흐릿한)에서 유래했으며, 원래는 '흐릿한' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '흐릿한' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사와 불가산명사 모두 가능하며, 동사로는 타동사와 자동사 모두 가능합니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "blur + 명사 : ~을 흐리게 하다",
+      "blur into + 명사 : ~로 흐려지다"
+    ],
+    "morphology": "중세 영어 blurre에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "blurred",
+        "meaning_ko": "흐린(과거분사/형용사)"
+      },
+      {
+        "word": "blurring",
+        "meaning_ko": "흐리게 하는(현재분사)"
+      },
+      {
+        "word": "blurry",
+        "meaning_ko": "흐린(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "fade",
+        "meaning_ko": "바래다"
+      },
+      {
+        "word": "obscure",
+        "meaning_ko": "흐리게 하다"
+      },
+      {
+        "word": "dim",
+        "meaning_ko": "흐리게 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "obscure",
+        "meaning_ko": "흐리게 하다(동사 의미에서)"
+      },
+      {
+        "word": "dim",
+        "meaning_ko": "흐리게 하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "fade",
+        "meaning_ko": "바래다(범위가 더 넓음)"
+      },
+      {
+        "word": "smear",
+        "meaning_ko": "번지게 하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clarify",
+        "meaning_ko": "명확하게 하다"
+      },
+      {
+        "word": "focus",
+        "meaning_ko": "초점을 맞추다"
+      },
+      {
+        "word": "sharpen",
+        "meaning_ko": "선명하게 하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "blur the image",
+            "meaning_ko": "이미지를 흐리게 하다"
+          },
+          {
+            "phrase": "blur the line",
+            "meaning_ko": "경계를 흐리게 하다"
+          },
+          {
+            "phrase": "blurred vision",
+            "meaning_ko": "흐린 시야"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "blur the distinction",
+            "meaning_ko": "구별을 흐리게 하다"
+          },
+          {
+            "phrase": "blur the boundary",
+            "meaning_ko": "경계를 흐리게 하다"
+          },
+          {
+            "phrase": "blur into",
+            "meaning_ko": "~로 흐려지다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "blur the distinction between",
+            "meaning_ko": "~ 사이의 구별을 흐리게 하다"
+          },
+          {
+            "phrase": "blur the memory",
+            "meaning_ko": "기억을 흐리게 하다"
+          },
+          {
+            "phrase": "blur the focus",
+            "meaning_ko": "초점을 흐리게 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The photo was blurry.",
+            "meaning_ko": "그 사진은 흐렸습니다."
+          },
+          {
+            "sentence": "Tears blurred her vision.",
+            "meaning_ko": "눈물이 그녀의 시야를 흐리게 했습니다."
+          },
+          {
+            "sentence": "The line between right and wrong was blurred.",
+            "meaning_ko": "옳고 그름 사이의 경계는 흐려졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The new policy blurred the distinction between public and private sectors.",
+            "meaning_ko": "새 정책은 공공 부문과 민간 부문 사이의 구별을 흐리게 했습니다."
+          },
+          {
+            "sentence": "Time had blurred the boundary between fact and fiction in his memory.",
+            "meaning_ko": "시간이 그의 기억에서 사실과 허구 사이의 경계를 흐리게 했습니다."
+          },
+          {
+            "sentence": "The colors blurred into each other as the sun set.",
+            "meaning_ko": "태양이 지면서 색깔들이 서로로 흐려졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The technological advancement blurred the distinction between artificial intelligence and human cognition, raising profound philosophical questions.",
+            "meaning_ko": "그 기술적 발전은 인공지능과 인간 인지 사이의 구별을 흐리게 했고, 심오한 철학적 질문을 제기했습니다."
+          },
+          {
+            "sentence": "The traumatic experience blurred the memory of the event, making it difficult to recall specific details accurately.",
+            "meaning_ko": "그 외상적 경험은 사건의 기억을 흐리게 했고, 특정 세부사항을 정확하게 회상하기 어렵게 만들었습니다."
+          },
+          {
+            "sentence": "The media coverage blurred the focus on the core issues, diverting attention to peripheral matters.",
+            "meaning_ko": "그 미디어 보도는 핵심 문제에 대한 초점을 흐리게 했고, 주의를 주변 문제로 돌렸습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "blur은 '흐림' 또는 '흐리게 하다' 의미로, 명사와 동사 모두로 쓰입니다. 명사로는 '선명하지 않고 흐릿한 상태', 동사로는 '흐리게 하다' 의미입니다. blur the line, blurred vision 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "시각",
+      "상태",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: blur (verb) = (A) clarify (B) make unclear or obscure (C) focus (D) sharpen",
+            "a": "B",
+            "meaning_ko": "blur(동사)는 '불명확하게 하거나 흐리게 하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Tears _____ her vision.",
+            "a": "blurred",
+            "meaning_ko": "blur은 '흐리게 하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of blur? (A) obscure (B) dim (C) clarify (D) fade",
+            "a": "C",
+            "meaning_ko": "clarify(명확하게 하다)가 blur의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The photo was _____. (A) blur (B) blurred (C) blurring (D) blurs",
+            "a": "B",
+            "meaning_ko": "서술어로 형용사 blurred가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: blur (verb) = (A) clarify (B) obscure (C) focus (D) sharpen",
+            "a": "B",
+            "meaning_ko": "obscure(흐리게 하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The line was blur between right and wrong.' → Fix the sentence.",
+            "a": "The line between right and wrong was blurred.",
+            "meaning_ko": "be 동사 뒤에는 형용사 blurred가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The policy blurred the distinction.'",
+            "a": "The regulation made the difference or boundary unclear and less distinct.",
+            "meaning_ko": "blur the distinction는 '구별을 흐리게 하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The memory was _____. (A) blur (B) blurred (C) blurring (D) blurs",
+            "a": "B",
+            "meaning_ko": "서술어로 형용사 blurred가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses blur most appropriately? (A) The blur ran. (B) Tears blurred her vision. (C) She blur smiled. (D) Blur is good.",
+            "a": "B",
+            "meaning_ko": "blur은 타동사로 '~을 흐리게 하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bizarre",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "기괴한, 이상한; 매우 이상하고 기괴한.",
+        "note": "매우 이상하고 기괴한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "매우 이상하고 기괴한 상태.",
+    "etymology": "프랑스어 bizarre(기괴한)에서 유래했으며, 원래는 '기괴한' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '기괴한' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be bizarre 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be bizarre : 기괴하다",
+      "bizarre + 명사 : 기괴한 ~"
+    ],
+    "morphology": "프랑스어 bizarre에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "bizarrely",
+        "meaning_ko": "기괴하게"
+      },
+      {
+        "word": "bizarreness",
+        "meaning_ko": "기괴함"
+      }
+    ],
+    "related": [
+      {
+        "word": "strange",
+        "meaning_ko": "이상한"
+      },
+      {
+        "word": "weird",
+        "meaning_ko": "기괴한"
+      },
+      {
+        "word": "odd",
+        "meaning_ko": "이상한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "strange",
+        "meaning_ko": "이상한"
+      },
+      {
+        "word": "weird",
+        "meaning_ko": "기괴한"
+      },
+      {
+        "word": "odd",
+        "meaning_ko": "이상한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "peculiar",
+        "meaning_ko": "특이한(범위가 더 넓음)"
+      },
+      {
+        "word": "eccentric",
+        "meaning_ko": "별난"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "normal",
+        "meaning_ko": "정상적인"
+      },
+      {
+        "word": "ordinary",
+        "meaning_ko": "평범한"
+      },
+      {
+        "word": "conventional",
+        "meaning_ko": "전통적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "bizarre behavior",
+            "meaning_ko": "기괴한 행동"
+          },
+          {
+            "phrase": "bizarre story",
+            "meaning_ko": "기괴한 이야기"
+          },
+          {
+            "phrase": "bizarre incident",
+            "meaning_ko": "기괴한 사건"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "bizarre situation",
+            "meaning_ko": "기괴한 상황"
+          },
+          {
+            "phrase": "bizarre coincidence",
+            "meaning_ko": "기괴한 우연"
+          },
+          {
+            "phrase": "bizarre turn of events",
+            "meaning_ko": "기괴한 사건 전개"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "bizarre phenomenon",
+            "meaning_ko": "기괴한 현상"
+          },
+          {
+            "phrase": "bizarre twist",
+            "meaning_ko": "기괴한 전환"
+          },
+          {
+            "phrase": "bizarre circumstances",
+            "meaning_ko": "기괴한 상황"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His behavior was very bizarre.",
+            "meaning_ko": "그의 행동은 매우 기괴했습니다."
+          },
+          {
+            "sentence": "It was a bizarre story.",
+            "meaning_ko": "그것은 기괴한 이야기였습니다."
+          },
+          {
+            "sentence": "The incident was bizarre.",
+            "meaning_ko": "그 사건은 기괴했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The bizarre situation left everyone confused and uncertain about how to proceed.",
+            "meaning_ko": "그 기괴한 상황은 모든 사람을 혼란스럽게 만들었고, 어떻게 진행할지 불확실하게 만들었습니다."
+          },
+          {
+            "sentence": "The bizarre coincidence of meeting the same person in three different countries amazed the travelers.",
+            "meaning_ko": "세 개의 다른 국가에서 같은 사람을 만나는 기괴한 우연은 여행자들을 놀라게 했습니다."
+          },
+          {
+            "sentence": "The bizarre turn of events in the trial surprised both the prosecution and defense.",
+            "meaning_ko": "그 재판에서의 기괴한 사건 전개는 검찰과 변호 양쪽 모두를 놀라게 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The bizarre phenomenon observed in the experiment challenged existing scientific theories and required new explanations.",
+            "meaning_ko": "그 실험에서 관찰된 기괴한 현상은 기존 과학 이론에 도전했고, 새로운 설명이 필요했습니다."
+          },
+          {
+            "sentence": "The bizarre twist in the narrative revealed unexpected connections between seemingly unrelated characters.",
+            "meaning_ko": "그 서사에서의 기괴한 전환은 겉보기에 관련 없는 인물들 사이의 예상치 못한 연결을 드러냈습니다."
+          },
+          {
+            "sentence": "The bizarre circumstances surrounding the discovery raised questions about the authenticity of the findings.",
+            "meaning_ko": "그 발견을 둘러싼 기괴한 상황은 그 결과의 진정성에 대한 질문을 제기했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "bizarre은 '기괴한, 이상한' 의미로, 매우 이상하고 기괴한 상태를 가리킵니다. strange, weird와 비슷하지만 더 강하고 기괴한 뉘앙스가 있습니다. bizarre behavior, bizarre story 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "성격",
+      "이상",
+      "일상 회화",
+      "문학",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: bizarre = (A) normal (B) very strange or weird (C) ordinary (D) conventional",
+            "a": "B",
+            "meaning_ko": "bizarre은 '매우 이상하거나 기괴한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: His behavior was very _____.",
+            "a": "bizarre",
+            "meaning_ko": "bizarre은 '기괴한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of bizarre? (A) strange (B) weird (C) normal (D) odd",
+            "a": "C",
+            "meaning_ko": "normal(정상적인)가 bizarre의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The story was _____. (A) bizarre (B) bizarrely (C) bizarreness (D) bizarrs",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 bizarre가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: bizarre = (A) normal (B) strange (C) ordinary (D) conventional",
+            "a": "B",
+            "meaning_ko": "strange(이상한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The incident was bizarrely.' → Fix the sentence.",
+            "a": "The incident was bizarre.",
+            "meaning_ko": "be 동사 뒤에는 형용사 bizarre가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The bizarre situation left everyone confused.'",
+            "a": "The very strange and unusual circumstances made all people uncertain and puzzled.",
+            "meaning_ko": "bizarre situation는 '기괴한 상황'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ phenomenon challenged theories. (A) bizarre (B) bizarrely (C) bizarreness (D) bizarrs",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 bizarre가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses bizarre most appropriately? (A) The bizarre ran. (B) The behavior was bizarre. (C) She bizarre smiled. (D) Bizarre is good.",
+            "a": "B",
+            "meaning_ko": "bizarre은 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "trailblazer",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "선구자, 개척자; 새로운 길을 열거나 개척하는 사람.",
+        "note": "새로운 길을 열거나 개척하는 사람을 가리킵니다."
+      }
+    ],
+    "concept": "새로운 길을 열거나 개척하는 선구자.",
+    "etymology": "trail(길) + blazer(불을 지르는 사람)의 결합으로, '길에 불을 지르는 사람'에서 '선구자'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '길에 불을 지르는 사람' 의미였으나, 현대에는 '새로운 길을 열거나 개척하는 사람'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 긍정적 뉘앙스가 있습니다.",
+    "grammarNotes": "가산명사로 a trailblazer, trailblazers 형태로 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "trailblazer in + 명사 : ~의 선구자",
+      "trailblazer for + 명사 : ~을 위한 선구자"
+    ],
+    "morphology": "trail(길) + blazer(불을 지르는 사람)의 결합으로, '길에 불을 지르는 사람'에서 '선구자'로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "trailblazing",
+        "meaning_ko": "선구적인(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "pioneer",
+        "meaning_ko": "선구자"
+      },
+      {
+        "word": "innovator",
+        "meaning_ko": "혁신가"
+      },
+      {
+        "word": "leader",
+        "meaning_ko": "지도자"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "pioneer",
+        "meaning_ko": "선구자"
+      },
+      {
+        "word": "innovator",
+        "meaning_ko": "혁신가"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "leader",
+        "meaning_ko": "지도자(범위가 더 넓음)"
+      },
+      {
+        "word": "forerunner",
+        "meaning_ko": "선구자"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "follower",
+        "meaning_ko": "추종자"
+      },
+      {
+        "word": "imitator",
+        "meaning_ko": "모방자"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "trailblazer in",
+            "meaning_ko": "~의 선구자"
+          },
+          {
+            "phrase": "trailblazer for",
+            "meaning_ko": "~을 위한 선구자"
+          },
+          {
+            "phrase": "true trailblazer",
+            "meaning_ko": "진정한 선구자"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "trailblazer in science",
+            "meaning_ko": "과학의 선구자"
+          },
+          {
+            "phrase": "trailblazer in technology",
+            "meaning_ko": "기술의 선구자"
+          },
+          {
+            "phrase": "trailblazer for women",
+            "meaning_ko": "여성을 위한 선구자"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "trailblazer in the field",
+            "meaning_ko": "그 분야의 선구자"
+          },
+          {
+            "phrase": "trailblazer for equality",
+            "meaning_ko": "평등을 위한 선구자"
+          },
+          {
+            "phrase": "trailblazing research",
+            "meaning_ko": "선구적인 연구"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She was a trailblazer in the field of medicine.",
+            "meaning_ko": "그녀는 의학 분야의 선구자였습니다."
+          },
+          {
+            "sentence": "He is considered a trailblazer for women's rights.",
+            "meaning_ko": "그는 여성 권리를 위한 선구자로 여겨집니다."
+          },
+          {
+            "sentence": "The company was a trailblazer in technology.",
+            "meaning_ko": "그 회사는 기술의 선구자였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The scientist was a trailblazer in science, developing theories that revolutionized the field.",
+            "meaning_ko": "그 과학자는 과학의 선구자였고, 그 분야를 혁명적으로 만든 이론을 개발했습니다."
+          },
+          {
+            "sentence": "The entrepreneur became a trailblazer in technology, creating innovations that transformed the industry.",
+            "meaning_ko": "그 기업가는 기술의 선구자가 되었고, 산업을 변화시킨 혁신을 만들었습니다."
+          },
+          {
+            "sentence": "She was recognized as a trailblazer for women, breaking barriers in a male-dominated profession.",
+            "meaning_ko": "그녀는 여성을 위한 선구자로 인정받았고, 남성 중심 직업에서 장벽을 깼습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The researcher was a trailblazer in the field of genetics, making discoveries that opened new avenues for medical treatment.",
+            "meaning_ko": "그 연구자는 유전학 분야의 선구자였고, 의료 치료를 위한 새로운 길을 열어준 발견을 했습니다."
+          },
+          {
+            "sentence": "The activist served as a trailblazer for equality, challenging discriminatory practices and advocating for systemic change.",
+            "meaning_ko": "그 활동가는 평등을 위한 선구자로 활동했고, 차별적 관행에 도전하며 체계적 변화를 옹호했습니다."
+          },
+          {
+            "sentence": "The trailblazing research conducted by the team established new methodologies that became standard practice in the discipline.",
+            "meaning_ko": "그 팀이 수행한 선구적인 연구는 그 학문 분야에서 표준 관행이 된 새로운 방법론을 수립했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "trailblazer는 '선구자, 개척자' 의미로, 새로운 길을 열거나 개척하는 사람을 가리킵니다. pioneer, innovator와 비슷하지만 더 구체적이고 긍정적 뉘앙스가 있습니다. trailblazer in ~, trailblazer for ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "인물",
+      "혁신",
+      "일상 회화",
+      "비즈니스",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: trailblazer = (A) follower (B) pioneer or innovator (C) imitator (D) copycat",
+            "a": "B",
+            "meaning_ko": "trailblazer는 '선구자 또는 혁신가' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She was a _____ in the field of medicine.",
+            "a": "trailblazer",
+            "meaning_ko": "trailblazer는 '선구자'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of trailblazer? (A) pioneer (B) innovator (C) follower (D) leader",
+            "a": "C",
+            "meaning_ko": "follower(추종자)가 trailblazer의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: He was a _____ in technology. (A) trailblazer (B) trailblazers (C) trailblazing (D) trailblazed",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 trailblazer가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: trailblazer = (A) follower (B) pioneer (C) imitator (D) copycat",
+            "a": "B",
+            "meaning_ko": "pioneer(선구자)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was trailblazer in science.' → Fix the sentence.",
+            "a": "She was a trailblazer in science.",
+            "meaning_ko": "trailblazer는 가산명사이므로 관사 a가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The researcher was a trailblazer in genetics.'",
+            "a": "The scientist was a pioneer or innovator who opened new paths and established new methods in the field of genetics.",
+            "meaning_ko": "trailblazer in genetics는 '유전학의 선구자'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ research established methods. (A) trailblazer (B) trailblazers (C) trailblazing (D) trailblazed",
+            "a": "C",
+            "meaning_ko": "명사를 수식하는 형용사 trailblazing이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses trailblazer most appropriately? (A) The trailblazer ran. (B) She was a trailblazer. (C) He trailblazer smiled. (D) Trailblazer is good.",
+            "a": "B",
+            "meaning_ko": "trailblazer는 명사로 '선구자'를 의미하며, be 동사와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

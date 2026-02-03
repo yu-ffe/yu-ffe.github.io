@@ -1,0 +1,799 @@
+[
+  {
+    "word": "fragrant",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "향기로운, 좋은 냄새가 나는; 달콤하고 즐거운 향기를 가진.",
+        "note": "달콤하고 즐거운 향기를 가진 상태를 가리킵니다."
+      }
+    ],
+    "concept": "달콤하고 즐거운 향기를 가진 향기로운 상태.",
+    "etymology": "라틴어 fragrare(향기를 풍기다)에서 유래했으며, 원래는 '향기를 풍기다' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '향기를 풍기다' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학적 뉘앙스가 있습니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be fragrant 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 향기로운",
+        "example": "fragrant with flowers"
+      }
+    ],
+    "requiredComplements": [
+      "be fragrant : 향기롭다",
+      "fragrant + 명사 : 향기로운 ~",
+      "be fragrant with + 명사 : ~로 향기로운"
+    ],
+    "morphology": "라틴어 fragrare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "fragrantly",
+        "meaning_ko": "향기롭게"
+      },
+      {
+        "word": "fragrance",
+        "meaning_ko": "향기"
+      }
+    ],
+    "related": [
+      {
+        "word": "aromatic",
+        "meaning_ko": "향기로운"
+      },
+      {
+        "word": "scented",
+        "meaning_ko": "향이 나는"
+      },
+      {
+        "word": "perfumed",
+        "meaning_ko": "향수 냄새가 나는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "aromatic",
+        "meaning_ko": "향기로운"
+      },
+      {
+        "word": "scented",
+        "meaning_ko": "향이 나는"
+      },
+      {
+        "word": "perfumed",
+        "meaning_ko": "향수 냄새가 나는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sweet-smelling",
+        "meaning_ko": "달콤한 냄새가 나는(구어)"
+      },
+      {
+        "word": "odorous",
+        "meaning_ko": "냄새가 나는(범위가 더 넓음)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "foul",
+        "meaning_ko": "악취가 나는"
+      },
+      {
+        "word": "stinky",
+        "meaning_ko": "냄새나는"
+      },
+      {
+        "word": "malodorous",
+        "meaning_ko": "악취가 나는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "fragrant flowers",
+            "meaning_ko": "향기로운 꽃"
+          },
+          {
+            "phrase": "fragrant perfume",
+            "meaning_ko": "향기로운 향수"
+          },
+          {
+            "phrase": "fragrant smell",
+            "meaning_ko": "향기로운 냄새"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "fragrant garden",
+            "meaning_ko": "향기로운 정원"
+          },
+          {
+            "phrase": "fragrant herbs",
+            "meaning_ko": "향기로운 허브"
+          },
+          {
+            "phrase": "fragrant air",
+            "meaning_ko": "향기로운 공기"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "fragrant blossoms",
+            "meaning_ko": "향기로운 꽃"
+          },
+          {
+            "phrase": "fragrant essence",
+            "meaning_ko": "향기로운 정수"
+          },
+          {
+            "phrase": "fragrant bouquet",
+            "meaning_ko": "향기로운 꽃다발"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The garden was filled with fragrant flowers.",
+            "meaning_ko": "그 정원은 향기로운 꽃으로 가득했습니다."
+          },
+          {
+            "sentence": "She wore a fragrant perfume.",
+            "meaning_ko": "그녀는 향기로운 향수를 뿌렸습니다."
+          },
+          {
+            "sentence": "The room had a fragrant smell of roses.",
+            "meaning_ko": "그 방은 장미의 향기로운 냄새가 났습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The fragrant garden attracted butterflies and bees with its sweet aromas.",
+            "meaning_ko": "그 향기로운 정원은 달콤한 향기로 나비와 벌을 끌어들였습니다."
+          },
+          {
+            "sentence": "The chef used fragrant herbs to enhance the flavor of the dish.",
+            "meaning_ko": "그 요리사는 요리의 맛을 향상시키기 위해 향기로운 허브를 사용했습니다."
+          },
+          {
+            "sentence": "The evening air was fragrant with the scent of jasmine from the nearby garden.",
+            "meaning_ko": "저녁 공기는 근처 정원에서 온 재스민의 향기로 향기로웠습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The fragrant blossoms of the cherry trees created an enchanting atmosphere in the spring park.",
+            "meaning_ko": "벚나무의 향기로운 꽃은 봄 공원에 매혹적인 분위기를 만들었습니다."
+          },
+          {
+            "sentence": "The perfumer extracted the fragrant essence from rare flowers to create an exclusive fragrance.",
+            "meaning_ko": "그 조향사는 독점 향수를 만들기 위해 희귀한 꽃에서 향기로운 정수를 추출했습니다."
+          },
+          {
+            "sentence": "The bride carried a fragrant bouquet of white roses and lavender, filling the ceremony with delicate scents.",
+            "meaning_ko": "그 신부는 흰 장미와 라벤더의 향기로운 꽃다발을 들고 있었고, 의식을 섬세한 향기로 채웠습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "fragrant은 '향기로운, 좋은 냄새가 나는' 의미로, 달콤하고 즐거운 향기를 가진 상태를 가리킵니다. aromatic, scented와 비슷하지만 더 문학적이고 세련된 뉘앙스가 있습니다. fragrant flowers, fragrant perfume 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "향기",
+      "감각",
+      "일상 회화",
+      "문학",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: fragrant = (A) foul (B) sweet-smelling or aromatic (C) stinky (D) malodorous",
+            "a": "B",
+            "meaning_ko": "fragrant은 '달콤한 냄새가 나거나 향기로운' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The garden was filled with _____ flowers.",
+            "a": "fragrant",
+            "meaning_ko": "fragrant은 '향기로운' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of fragrant? (A) aromatic (B) scented (C) foul (D) perfumed",
+            "a": "C",
+            "meaning_ko": "foul(악취가 나는)가 fragrant의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The air was _____. (A) fragrant (B) fragrantly (C) fragrance (D) fragrants",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 fragrant가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: fragrant = (A) foul (B) aromatic (C) stinky (D) malodorous",
+            "a": "B",
+            "meaning_ko": "aromatic(향기로운)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The room was fragrantly.' → Fix the sentence.",
+            "a": "The room was fragrant.",
+            "meaning_ko": "be 동사 뒤에는 형용사 fragrant가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The fragrant blossoms created an enchanting atmosphere.'",
+            "a": "The sweet-smelling and aromatic flowers produced a delightful and captivating environment.",
+            "meaning_ko": "fragrant blossoms는 '향기로운 꽃'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ essence was extracted. (A) fragrant (B) fragrantly (C) fragrance (D) fragrants",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 fragrant가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses fragrant most appropriately? (A) The fragrant ran. (B) The flowers were fragrant. (C) She fragrant smiled. (D) Fragrant is good.",
+            "a": "B",
+            "meaning_ko": "fragrant은 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "genocide",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "집단 학살, 대량 학살; 특정 집단을 의도적으로 파괴하려는 행위.",
+        "note": "특정 집단을 의도적으로 파괴하려는 행위를 가리킵니다."
+      }
+    ],
+    "concept": "특정 집단을 의도적으로 파괴하려는 집단 학살.",
+    "etymology": "그리스어 genos(종족) + 라틴어 cide(죽이다)의 결합으로, '종족을 죽이다'에서 '집단 학살'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '종족을 죽이다' 의미였으나, 현대에는 '특정 집단을 의도적으로 파괴하려는 행위'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·법률·역사 용어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, a genocide, genocides 형태는 드뭅니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "genocide of + 명사 : ~의 집단 학살",
+      "commit genocide : 집단 학살을 저지르다"
+    ],
+    "morphology": "그리스어 genos(종족) + 라틴어 cide(죽이다)의 결합으로, '종족을 죽이다'에서 '집단 학살'로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "genocidal",
+        "meaning_ko": "집단 학살의"
+      }
+    ],
+    "related": [
+      {
+        "word": "massacre",
+        "meaning_ko": "대량 학살"
+      },
+      {
+        "word": "extermination",
+        "meaning_ko": "멸절"
+      },
+      {
+        "word": "annihilation",
+        "meaning_ko": "전멸"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "massacre",
+        "meaning_ko": "대량 학살"
+      },
+      {
+        "word": "extermination",
+        "meaning_ko": "멸절"
+      },
+      {
+        "word": "annihilation",
+        "meaning_ko": "전멸"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "slaughter",
+        "meaning_ko": "학살(범위가 더 넓음)"
+      },
+      {
+        "word": "pogrom",
+        "meaning_ko": "포그롬"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "commit genocide",
+            "meaning_ko": "집단 학살을 저지르다"
+          },
+          {
+            "phrase": "genocide of",
+            "meaning_ko": "~의 집단 학살"
+          },
+          {
+            "phrase": "prevent genocide",
+            "meaning_ko": "집단 학살을 방지하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "genocide against",
+            "meaning_ko": "~에 대한 집단 학살"
+          },
+          {
+            "phrase": "genocide prevention",
+            "meaning_ko": "집단 학살 방지"
+          },
+          {
+            "phrase": "genocide survivors",
+            "meaning_ko": "집단 학살 생존자"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "genocide convention",
+            "meaning_ko": "집단 학살 협약"
+          },
+          {
+            "phrase": "genocide tribunal",
+            "meaning_ko": "집단 학살 재판소"
+          },
+          {
+            "phrase": "genocide recognition",
+            "meaning_ko": "집단 학살 인정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The international community condemned the genocide.",
+            "meaning_ko": "국제 사회는 그 집단 학살을 비난했습니다."
+          },
+          {
+            "sentence": "They committed genocide against the minority group.",
+            "meaning_ko": "그들은 소수 집단에 대해 집단 학살을 저질렀습니다."
+          },
+          {
+            "sentence": "The world must prevent genocide from happening again.",
+            "meaning_ko": "세계는 집단 학살이 다시 발생하는 것을 방지해야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The genocide against the ethnic group resulted in the deaths of hundreds of thousands of people.",
+            "meaning_ko": "그 민족 집단에 대한 집단 학살은 수십만 명의 사망을 초래했습니다."
+          },
+          {
+            "sentence": "International organizations work on genocide prevention through early warning systems and diplomatic intervention.",
+            "meaning_ko": "국제 기관들은 조기 경보 시스템과 외교적 개입을 통해 집단 학살 방지에 노력합니다."
+          },
+          {
+            "sentence": "The genocide survivors shared their stories to ensure that such atrocities are never forgotten.",
+            "meaning_ko": "그 집단 학살 생존자들은 그런 잔학 행위가 결코 잊혀지지 않도록 자신들의 이야기를 공유했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The Genocide Convention established legal frameworks to prevent and punish acts of genocide, defining it as the intentional destruction of a national, ethnic, racial, or religious group.",
+            "meaning_ko": "그 집단 학살 협약은 집단 학살 행위를 방지하고 처벌하기 위한 법률 프레임워크를 수립했고, 그것을 민족, 인종, 종교 집단의 의도적 파괴로 정의했습니다."
+          },
+          {
+            "sentence": "The genocide tribunal was established to bring perpetrators to justice and provide accountability for the systematic destruction of communities.",
+            "meaning_ko": "그 집단 학살 재판소는 가해자를 법의 심판대에 세우고 공동체의 체계적 파괴에 대한 책임을 묻기 위해 설립되었습니다."
+          },
+          {
+            "sentence": "The genocide recognition by the international community was a crucial step toward reconciliation and preventing future atrocities.",
+            "meaning_ko": "국제 사회의 집단 학살 인정은 화해와 미래의 잔학 행위 방지로 가는 중요한 단계였습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "genocide는 '집단 학살, 대량 학살' 의미로, 특정 집단을 의도적으로 파괴하려는 행위를 가리킵니다. 매우 심각하고 격식 있는 단어로, 역사나 법률 지문에서 가끔 나옵니다. massacre, extermination과 비슷하지만 더 체계적이고 의도적인 뉘앙스가 있습니다.",
+    "tags": [
+      "역사",
+      "법률",
+      "격식",
+      "드문",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: genocide = (A) peace (B) mass killing of a group (C) harmony (D) unity",
+            "a": "B",
+            "meaning_ko": "genocide는 '집단의 대량 학살' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The international community condemned the _____.",
+            "a": "genocide",
+            "meaning_ko": "genocide는 '집단 학살'을 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'carry out mass killing'? (A) commit genocide (B) prevent genocide (C) recognize genocide (D) study genocide",
+            "a": "A",
+            "meaning_ko": "commit genocide는 '집단 학살을 저지르다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ against the group was condemned. (A) genocide (B) genocides (C) genocidal (D) genocidally",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 genocide가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: genocide = (A) peace (B) massacre (C) harmony (D) unity",
+            "a": "B",
+            "meaning_ko": "massacre(대량 학살)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They committed genocides against the group.' → Fix the sentence.",
+            "a": "They committed genocide against the group.",
+            "meaning_ko": "genocide는 불가산명사이므로 단수형을 사용합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The Genocide Convention established legal frameworks.'",
+            "a": "The international treaty on mass killing of groups created legal structures to prevent and punish such acts.",
+            "meaning_ko": "Genocide Convention는 '집단 학살 협약'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ tribunal was established. (A) genocide (B) genocides (C) genocidal (D) genocidally",
+            "a": "A",
+            "meaning_ko": "명사 수식어로 단수형 genocide가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses genocide most appropriately? (A) The genocide ran. (B) They committed genocide. (C) She genocide smiled. (D) Genocide is good.",
+            "a": "B",
+            "meaning_ko": "genocide는 명사로 '집단 학살'을 의미하며, commit과 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vehement",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "격렬한, 맹렬한; 매우 강하고 열정적인.",
+        "note": "매우 강하고 열정적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "매우 강하고 열정적인 격렬한 상태.",
+    "etymology": "라틴어 vehemens(격렬한)에서 유래했으며, 원래는 '격렬한' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '격렬한' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 격식 있는 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be vehement 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 격렬한",
+        "example": "vehement in opposition"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 격렬한",
+        "example": "vehement about the issue"
+      }
+    ],
+    "requiredComplements": [
+      "be vehement : 격렬하다",
+      "vehement + 명사 : 격렬한 ~",
+      "be vehement in/about + 명사 : ~에서/~에 대해 격렬하다"
+    ],
+    "morphology": "라틴어 vehemens에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "vehemently",
+        "meaning_ko": "격렬하게"
+      },
+      {
+        "word": "vehemence",
+        "meaning_ko": "격렬함"
+      }
+    ],
+    "related": [
+      {
+        "word": "intense",
+        "meaning_ko": "강렬한"
+      },
+      {
+        "word": "fierce",
+        "meaning_ko": "맹렬한"
+      },
+      {
+        "word": "passionate",
+        "meaning_ko": "열정적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "intense",
+        "meaning_ko": "강렬한"
+      },
+      {
+        "word": "fierce",
+        "meaning_ko": "맹렬한"
+      },
+      {
+        "word": "passionate",
+        "meaning_ko": "열정적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "strong",
+        "meaning_ko": "강한(범위가 더 넓음)"
+      },
+      {
+        "word": "ardent",
+        "meaning_ko": "열렬한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mild",
+        "meaning_ko": "온화한"
+      },
+      {
+        "word": "gentle",
+        "meaning_ko": "부드러운"
+      },
+      {
+        "word": "calm",
+        "meaning_ko": "차분한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "vehement opposition",
+            "meaning_ko": "격렬한 반대"
+          },
+          {
+            "phrase": "vehement protest",
+            "meaning_ko": "격렬한 항의"
+          },
+          {
+            "phrase": "vehement denial",
+            "meaning_ko": "격렬한 부인"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "vehement argument",
+            "meaning_ko": "격렬한 논증"
+          },
+          {
+            "phrase": "vehement criticism",
+            "meaning_ko": "격렬한 비판"
+          },
+          {
+            "phrase": "vehement support",
+            "meaning_ko": "격렬한 지지"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "vehement defense",
+            "meaning_ko": "격렬한 방어"
+          },
+          {
+            "phrase": "vehement advocacy",
+            "meaning_ko": "격렬한 옹호"
+          },
+          {
+            "phrase": "vehement condemnation",
+            "meaning_ko": "격렬한 비난"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She expressed vehement opposition to the plan.",
+            "meaning_ko": "그녀는 그 계획에 대해 격렬한 반대를 표현했습니다."
+          },
+          {
+            "sentence": "There was vehement protest against the decision.",
+            "meaning_ko": "그 결정에 대해 격렬한 항의가 있었습니다."
+          },
+          {
+            "sentence": "He made a vehement denial of the accusations.",
+            "meaning_ko": "그는 그 비난에 대해 격렬한 부인을 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The politician's vehement argument against the policy failed to convince the majority of voters.",
+            "meaning_ko": "그 정치인의 그 정책에 대한 격렬한 논증은 대다수 유권자들을 설득하지 못했습니다."
+          },
+          {
+            "sentence": "The organization faced vehement criticism from environmental groups for its practices.",
+            "meaning_ko": "그 조직은 그 관행에 대해 환경 단체들로부터 격렬한 비판을 받았습니다."
+          },
+          {
+            "sentence": "Despite vehement support from supporters, the proposal was ultimately rejected.",
+            "meaning_ko": "지지자들의 격렬한 지지에도 불구하고, 그 제안은 결국 거부되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The lawyer's vehement defense of her client, despite overwhelming evidence, raised questions about her judgment.",
+            "meaning_ko": "그 변호사의 압도적인 증거에도 불구하고 그녀의 의뢰인에 대한 격렬한 방어는 그녀의 판단에 대한 질문을 제기했습니다."
+          },
+          {
+            "sentence": "The activist's vehement advocacy for human rights drew international attention to the cause.",
+            "meaning_ko": "그 활동가의 인권에 대한 격렬한 옹호는 그 사안에 대한 국제적 주의를 끌었습니다."
+          },
+          {
+            "sentence": "The international community's vehement condemnation of the human rights violations led to sanctions against the regime.",
+            "meaning_ko": "국제 사회의 인권 침해에 대한 격렬한 비난은 그 정권에 대한 제재로 이어졌습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "vehement은 '격렬한, 맹렬한' 의미로, 매우 강하고 열정적인 상태를 가리킵니다. intense, fierce와 비슷하지만 더 격식 있고 강한 뉘앙스가 있습니다. vehement opposition, vehement protest 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "감정",
+      "강도",
+      "일상 회화",
+      "정치",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: vehement = (A) mild (B) intense and passionate (C) gentle (D) calm",
+            "a": "B",
+            "meaning_ko": "vehement은 '강렬하고 열정적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She expressed _____ opposition to the plan.",
+            "a": "vehement",
+            "meaning_ko": "vehement은 '격렬한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of vehement? (A) intense (B) fierce (C) mild (D) passionate",
+            "a": "C",
+            "meaning_ko": "mild(온화한)가 vehement의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The protest was _____. (A) vehement (B) vehemently (C) vehemence (D) vehemences",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 vehement가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: vehement = (A) mild (B) intense (C) gentle (D) calm",
+            "a": "B",
+            "meaning_ko": "intense(강렬한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He was vehemently in opposition.' → Fix the sentence.",
+            "a": "He was vehement in opposition.",
+            "meaning_ko": "be 동사 뒤에는 형용사 vehement가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The lawyer's vehement defense raised questions.'",
+            "a": "The attorney's intense and passionate argument in support raised doubts about the approach.",
+            "meaning_ko": "vehement defense는 '격렬한 방어'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ condemnation led to sanctions. (A) vehement (B) vehemently (C) vehemence (D) vehemences",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 vehement가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses vehement most appropriately? (A) The vehement ran. (B) The opposition was vehement. (C) She vehement smiled. (D) Vehement is good.",
+            "a": "B",
+            "meaning_ko": "vehement은 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

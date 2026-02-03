@@ -1,0 +1,791 @@
+[
+  {
+    "word": "satisfaction",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "만족, 만족감; 원하는 것이 충족되어 느끼는 기쁨이나 만족.",
+        "note": "원하는 것이 충족되어 느끼는 기쁨이나 만족을 가리킵니다."
+      },
+      {
+        "definition_ko": "해결, 만족; 문제나 불만을 해결하거나 만족시키는 것.",
+        "note": "문제나 불만을 해결하거나 만족시키는 것을 가리킵니다."
+      }
+    ],
+    "concept": "원하는 것이 충족되어 느끼는 기쁨이나 만족, 또는 문제나 불만을 해결하는 것.",
+    "etymology": "라틴어 satisfacere(만족시키다)에서 유래했으며, 원래는 '만족시키다' 의미였으나 현대에는 '만족'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '만족시키다' 의미였으나, 현대에는 '원하는 것이 충족되어 느끼는 기쁨' 또는 '문제나 불만을 해결하는 것'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, a satisfaction, satisfactions 형태는 드뭅니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~에 만족",
+        "example": "satisfaction with the result"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 만족",
+        "example": "satisfaction of needs"
+      }
+    ],
+    "requiredComplements": [
+      "satisfaction with + 명사 : ~에 만족",
+      "satisfaction of + 명사 : ~의 만족"
+    ],
+    "morphology": "라틴어 satisfacere에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "satisfy",
+        "meaning_ko": "만족시키다"
+      },
+      {
+        "word": "satisfactory",
+        "meaning_ko": "만족스러운"
+      },
+      {
+        "word": "satisfied",
+        "meaning_ko": "만족한"
+      }
+    ],
+    "related": [
+      {
+        "word": "contentment",
+        "meaning_ko": "만족"
+      },
+      {
+        "word": "pleasure",
+        "meaning_ko": "기쁨"
+      },
+      {
+        "word": "fulfillment",
+        "meaning_ko": "충족"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "contentment",
+        "meaning_ko": "만족"
+      },
+      {
+        "word": "pleasure",
+        "meaning_ko": "기쁨"
+      },
+      {
+        "word": "fulfillment",
+        "meaning_ko": "충족"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "happiness",
+        "meaning_ko": "행복(범위가 더 넓음)"
+      },
+      {
+        "word": "gratification",
+        "meaning_ko": "만족(격식)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dissatisfaction",
+        "meaning_ko": "불만족"
+      },
+      {
+        "word": "discontent",
+        "meaning_ko": "불만"
+      },
+      {
+        "word": "frustration",
+        "meaning_ko": "좌절"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "satisfaction with",
+            "meaning_ko": "~에 만족"
+          },
+          {
+            "phrase": "customer satisfaction",
+            "meaning_ko": "고객 만족"
+          },
+          {
+            "phrase": "job satisfaction",
+            "meaning_ko": "직업 만족"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sense of satisfaction",
+            "meaning_ko": "만족감"
+          },
+          {
+            "phrase": "satisfaction of needs",
+            "meaning_ko": "필요의 만족"
+          },
+          {
+            "phrase": "personal satisfaction",
+            "meaning_ko": "개인적 만족"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "satisfaction of requirements",
+            "meaning_ko": "요구사항의 만족"
+          },
+          {
+            "phrase": "satisfaction of desires",
+            "meaning_ko": "욕구의 만족"
+          },
+          {
+            "phrase": "professional satisfaction",
+            "meaning_ko": "전문적 만족"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She expressed satisfaction with the results.",
+            "meaning_ko": "그녀는 결과에 만족을 표현했습니다."
+          },
+          {
+            "sentence": "Customer satisfaction is important for business success.",
+            "meaning_ko": "고객 만족은 비즈니스 성공에 중요합니다."
+          },
+          {
+            "sentence": "He found great satisfaction in his work.",
+            "meaning_ko": "그는 자신의 일에서 큰 만족을 찾았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The sense of satisfaction from completing the project motivated the team to take on new challenges.",
+            "meaning_ko": "프로젝트를 완료한 것에서 오는 만족감은 팀이 새로운 도전을 받아들이도록 동기부여했습니다."
+          },
+          {
+            "sentence": "The satisfaction of needs is fundamental to human well-being and development.",
+            "meaning_ko": "필요의 만족은 인간의 복지와 발전에 근본적입니다."
+          },
+          {
+            "sentence": "Personal satisfaction in one's career often comes from finding meaning and purpose in the work.",
+            "meaning_ko": "경력에서의 개인적 만족은 종종 일에서 의미와 목적을 찾는 것에서 옵니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The satisfaction of requirements for the certification program demonstrated the candidate's comprehensive understanding of the field.",
+            "meaning_ko": "그 인증 프로그램의 요구사항의 만족은 후보자의 그 분야에 대한 포괄적인 이해를 보여주었습니다."
+          },
+          {
+            "sentence": "The philosopher argued that the satisfaction of desires, while temporarily pleasurable, does not necessarily lead to lasting happiness.",
+            "meaning_ko": "그 철학자는 욕구의 만족이 일시적으로 즐거움을 주지만, 반드시 지속적인 행복으로 이어지지는 않는다고 주장했습니다."
+          },
+          {
+            "sentence": "Professional satisfaction in the medical field often comes from the ability to help patients and contribute to advancing healthcare.",
+            "meaning_ko": "의료 분야에서의 전문적 만족은 종종 환자를 돕고 의료 발전에 기여하는 능력에서 옵니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "satisfaction은 '만족, 만족감' 의미로, 원하는 것이 충족되어 느끼는 기쁨이나 만족을 가리킵니다. contentment, pleasure와 비슷하지만 더 구체적이고 목표 달성과 연결된 뉘앙스가 있습니다. satisfaction with ~, customer satisfaction 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "감정",
+      "만족",
+      "일상 회화",
+      "비즈니스",
+      "긍정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: satisfaction = (A) dissatisfaction (B) contentment or pleasure (C) discontent (D) frustration",
+            "a": "B",
+            "meaning_ko": "satisfaction은 '만족 또는 기쁨' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She expressed _____ with the results.",
+            "a": "satisfaction",
+            "meaning_ko": "satisfaction은 '만족'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of satisfaction? (A) contentment (B) pleasure (C) dissatisfaction (D) fulfillment",
+            "a": "C",
+            "meaning_ko": "dissatisfaction(불만족)가 satisfaction의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: satisfaction _____ the result. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "satisfaction with ~는 '~에 만족' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: satisfaction = (A) dissatisfaction (B) contentment (C) discontent (D) frustration",
+            "a": "B",
+            "meaning_ko": "contentment(만족)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He found great satisfactions in his work.' → Fix the sentence.",
+            "a": "He found great satisfaction in his work.",
+            "meaning_ko": "satisfaction은 불가산명사이므로 단수형을 사용합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The sense of satisfaction motivated the team.'",
+            "a": "The feeling of contentment and pleasure from achieving goals encouraged and inspired the group to continue.",
+            "meaning_ko": "sense of satisfaction는 '만족감'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of needs is fundamental. (A) satisfaction (B) satisfactions (C) satisfy (D) satisfies",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 satisfaction이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses satisfaction most appropriately? (A) The satisfaction ran. (B) She expressed satisfaction. (C) He satisfaction smiled. (D) Satisfaction is good.",
+            "a": "B",
+            "meaning_ko": "satisfaction은 명사로 '만족'을 의미하며, express와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "appellation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "명칭, 호칭; 사람이나 장소에 붙여진 이름이나 호칭.",
+        "note": "사람이나 장소에 붙여진 이름이나 호칭을 가리킵니다."
+      }
+    ],
+    "concept": "사람이나 장소에 붙여진 이름이나 호칭인 명칭.",
+    "etymology": "라틴어 appellare(부르다)에서 유래했으며, 원래는 '부르다' 의미였으나 현대에는 '명칭'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '부르다' 의미였으나, 현대에는 '사람이나 장소에 붙여진 이름이나 호칭'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "가산명사로 an appellation, appellations 형태로 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "appellation of + 명사 : ~의 명칭",
+      "under the appellation : 그 명칭으로"
+    ],
+    "morphology": "라틴어 appellare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "name",
+        "meaning_ko": "이름"
+      },
+      {
+        "word": "title",
+        "meaning_ko": "호칭"
+      },
+      {
+        "word": "designation",
+        "meaning_ko": "명칭"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "name",
+        "meaning_ko": "이름"
+      },
+      {
+        "word": "title",
+        "meaning_ko": "호칭"
+      },
+      {
+        "word": "designation",
+        "meaning_ko": "명칭"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "label",
+        "meaning_ko": "라벨(범위가 더 넓음)"
+      },
+      {
+        "word": "term",
+        "meaning_ko": "용어"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "official appellation",
+            "meaning_ko": "공식 명칭"
+          },
+          {
+            "phrase": "appellation of origin",
+            "meaning_ko": "원산지 명칭"
+          },
+          {
+            "phrase": "under the appellation",
+            "meaning_ko": "그 명칭으로"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "geographical appellation",
+            "meaning_ko": "지리적 명칭"
+          },
+          {
+            "phrase": "appellation contrôlée",
+            "meaning_ko": "원산지 통제 명칭"
+          },
+          {
+            "phrase": "traditional appellation",
+            "meaning_ko": "전통적 명칭"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "appellation of nobility",
+            "meaning_ko": "귀족의 명칭"
+          },
+          {
+            "phrase": "appellation of distinction",
+            "meaning_ko": "구별의 명칭"
+          },
+          {
+            "phrase": "appellation of honor",
+            "meaning_ko": "명예의 명칭"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The wine has an official appellation of origin.",
+            "meaning_ko": "그 와인은 공식 원산지 명칭을 가지고 있습니다."
+          },
+          {
+            "sentence": "The region is known under the appellation of Champagne.",
+            "meaning_ko": "그 지역은 샴페인이라는 명칭으로 알려져 있습니다."
+          },
+          {
+            "sentence": "The appellation distinguishes this product from others.",
+            "meaning_ko": "그 명칭은 이 제품을 다른 것들과 구별합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The geographical appellation protected the wine's origin and quality standards.",
+            "meaning_ko": "그 지리적 명칭은 와인의 원산지와 품질 기준을 보호했습니다."
+          },
+          {
+            "sentence": "The appellation contrôlée system ensures that products meet specific regional and quality requirements.",
+            "meaning_ko": "원산지 통제 명칭 시스템은 제품이 특정 지역 및 품질 요구사항을 충족하도록 보장합니다."
+          },
+          {
+            "sentence": "The traditional appellation has been used for centuries to identify the unique characteristics of the region.",
+            "meaning_ko": "그 전통적 명칭은 수세기 동안 그 지역의 고유한 특성을 식별하는 데 사용되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The appellation of nobility, carefully preserved through generations, reflected the family's historical status and achievements.",
+            "meaning_ko": "세대를 통해 신중하게 보존된 그 귀족의 명칭은 그 가족의 역사적 지위와 성취를 반영했습니다."
+          },
+          {
+            "sentence": "The appellation of distinction awarded to the scholar recognized her exceptional contributions to the field of research.",
+            "meaning_ko": "그 학자에게 수여된 구별의 명칭은 그녀의 연구 분야에 대한 탁월한 기여를 인정했습니다."
+          },
+          {
+            "sentence": "The appellation of honor, bestowed by the international community, acknowledged the organization's humanitarian efforts.",
+            "meaning_ko": "국제 사회에 의해 수여된 그 명예의 명칭은 그 조직의 인도주의적 노력을 인정했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "appellation은 '명칭, 호칭' 의미로, 사람이나 장소에 붙여진 이름이나 호칭을 가리킵니다. 매우 격식 있고 드문 단어로, 법률이나 격식 있는 글에서 가끔 나옵니다. name, title과 비슷하지만 더 격식 있고 공식적 뉘앙스가 있습니다.",
+    "tags": [
+      "명칭",
+      "격식",
+      "법률",
+      "드문",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 9,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: appellation = (A) person (B) name or title (C) place (D) thing",
+            "a": "B",
+            "meaning_ko": "appellation은 '이름 또는 호칭' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The wine has an official _____ of origin.",
+            "a": "appellation",
+            "meaning_ko": "appellation은 '명칭'을 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'official name'? (A) official appellation (B) unofficial appellation (C) personal appellation (D) private appellation",
+            "a": "A",
+            "meaning_ko": "official appellation는 '공식 명칭' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The region is known under the _____ of Champagne. (A) appellation (B) appellations (C) appellational (D) appellatively",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 appellation이 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: appellation = (A) person (B) name (C) place (D) thing",
+            "a": "B",
+            "meaning_ko": "name(이름)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The wine has appellation of origin.' → Fix the sentence.",
+            "a": "The wine has an appellation of origin.",
+            "meaning_ko": "appellation는 가산명사이므로 관사 an이 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The geographical appellation protected the wine's origin.'",
+            "a": "The official name based on location ensured that the wine's place of production and quality standards were maintained.",
+            "meaning_ko": "geographical appellation는 '지리적 명칭'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of distinction was awarded. (A) appellation (B) appellations (C) appellational (D) appellatively",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 appellation이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses appellation most appropriately? (A) The appellation ran. (B) The wine has an appellation. (C) She appellation smiled. (D) Appellation is good.",
+            "a": "B",
+            "meaning_ko": "appellation는 명사로 '명칭'을 의미하며, have와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "officiate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "집행하다, 주관하다; 공식적인 의식이나 행사를 주관하거나 집행하다.",
+        "note": "공식적인 의식이나 행사를 주관하거나 집행하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "공식적인 의식이나 행사를 주관하거나 집행하는 것.",
+    "etymology": "라틴어 officiare(임무를 수행하다)에서 유래했으며, 원래는 '임무를 수행하다' 의미였으나 현대에는 '집행하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '임무를 수행하다' 의미였으나, 현대에는 '공식적인 의식이나 행사를 주관하거나 집행하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 격식 있는 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "자동사와 타동사 모두 가능하며, officiate at/over + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에서 집행하다",
+        "example": "officiate at the ceremony"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~을 주관하다",
+        "example": "officiate over the event"
+      }
+    ],
+    "requiredComplements": [
+      "officiate at/over + 명사 : ~에서/~을 집행하다/주관하다"
+    ],
+    "morphology": "라틴어 officiare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "officiating",
+        "meaning_ko": "집행하는(현재분사)"
+      },
+      {
+        "word": "officiant",
+        "meaning_ko": "집행자"
+      }
+    ],
+    "related": [
+      {
+        "word": "preside",
+        "meaning_ko": "주재하다"
+      },
+      {
+        "word": "conduct",
+        "meaning_ko": "집행하다"
+      },
+      {
+        "word": "perform",
+        "meaning_ko": "수행하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "preside",
+        "meaning_ko": "주재하다"
+      },
+      {
+        "word": "conduct",
+        "meaning_ko": "집행하다"
+      },
+      {
+        "word": "perform",
+        "meaning_ko": "수행하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "lead",
+        "meaning_ko": "이끌다(범위가 더 넓음)"
+      },
+      {
+        "word": "oversee",
+        "meaning_ko": "감독하다"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "officiate at the ceremony",
+            "meaning_ko": "의식에서 집행하다"
+          },
+          {
+            "phrase": "officiate at the wedding",
+            "meaning_ko": "결혼식에서 집행하다"
+          },
+          {
+            "phrase": "officiate the game",
+            "meaning_ko": "경기를 주관하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "officiate at the funeral",
+            "meaning_ko": "장례식에서 집행하다"
+          },
+          {
+            "phrase": "officiate over the event",
+            "meaning_ko": "행사를 주관하다"
+          },
+          {
+            "phrase": "officiate the match",
+            "meaning_ko": "경기를 주관하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "officiate at the inauguration",
+            "meaning_ko": "취임식에서 집행하다"
+          },
+          {
+            "phrase": "officiate over the proceedings",
+            "meaning_ko": "절차를 주관하다"
+          },
+          {
+            "phrase": "officiate the ritual",
+            "meaning_ko": "의식을 집행하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The priest will officiate at the wedding ceremony.",
+            "meaning_ko": "그 신부는 결혼식에서 집행할 것입니다."
+          },
+          {
+            "sentence": "The referee will officiate the game.",
+            "meaning_ko": "그 심판은 경기를 주관할 것입니다."
+          },
+          {
+            "sentence": "She was asked to officiate at the ceremony.",
+            "meaning_ko": "그녀는 의식에서 집행하도록 요청받았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The minister officiated at the funeral, providing comfort and guidance to the grieving family.",
+            "meaning_ko": "그 목사는 장례식에서 집행했고, 슬픔에 잠긴 가족에게 위로와 안내를 제공했습니다."
+          },
+          {
+            "sentence": "The experienced judge was chosen to officiate over the event, ensuring that all procedures were followed correctly.",
+            "meaning_ko": "그 경험 많은 판사는 행사를 주관하도록 선택되었고, 모든 절차가 올바르게 따르도록 보장했습니다."
+          },
+          {
+            "sentence": "The professional referee officiated the match with fairness and impartiality, maintaining the integrity of the competition.",
+            "meaning_ko": "그 전문 심판은 공정성과 공정함으로 경기를 주관했고, 경쟁의 무결성을 유지했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The chief justice was invited to officiate at the inauguration, symbolizing the importance of the democratic transition.",
+            "meaning_ko": "그 대법원장은 취임식에서 집행하도록 초대되었고, 민주적 전환의 중요성을 상징했습니다."
+          },
+          {
+            "sentence": "The senior official was appointed to officiate over the proceedings, ensuring that all legal requirements were met during the formal ceremony.",
+            "meaning_ko": "그 고위 관리는 절차를 주관하도록 임명되었고, 공식 의식 중 모든 법적 요구사항이 충족되도록 보장했습니다."
+          },
+          {
+            "sentence": "The tribal elder was chosen to officiate the ritual, preserving the cultural traditions that had been passed down through generations.",
+            "meaning_ko": "그 부족 장로는 의식을 집행하도록 선택되었고, 세대를 통해 전해진 문화적 전통을 보존했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "officiate은 '집행하다, 주관하다' 의미로, 공식적인 의식이나 행사를 주관하거나 집행하는 행동을 가리킵니다. preside, conduct와 비슷하지만 더 공식적이고 의식적인 뉘앙스가 있습니다. officiate at/over ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "의식",
+      "행사",
+      "일상 회화",
+      "법률",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: officiate = (A) attend (B) preside or conduct officially (C) watch (D) observe",
+            "a": "B",
+            "meaning_ko": "officiate은 '공식적으로 주재하거나 집행하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The priest will _____ at the wedding.",
+            "a": "officiate",
+            "meaning_ko": "officiate은 '집행하다' 의미입니다."
+          },
+          {
+            "q": "Which phrase means 'preside at ceremony'? (A) officiate at the ceremony (B) attend the ceremony (C) watch the ceremony (D) observe the ceremony",
+            "a": "A",
+            "meaning_ko": "officiate at the ceremony는 '의식에서 집행하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: officiate _____ the ceremony. (A) at (B) in (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "officiate at ~는 '~에서 집행하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: officiate = (A) attend (B) preside (C) watch (D) observe",
+            "a": "B",
+            "meaning_ko": "preside(주재하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The referee will officiate the game.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "officiate은 타동사로 직접 목적어를 취할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The judge officiated over the event.'",
+            "a": "The legal official presided or conducted the formal proceedings, ensuring proper procedures were followed.",
+            "meaning_ko": "officiate over ~는 '~을 주관하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The minister _____ at the funeral. (A) officiate (B) officiated (C) officiating (D) officiates",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 자동사 officiated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses officiate most appropriately? (A) The officiate ran. (B) The priest officiated at the wedding. (C) She officiate smiled. (D) Officiate is good.",
+            "a": "B",
+            "meaning_ko": "officiate은 자동사로 '~에서 집행하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

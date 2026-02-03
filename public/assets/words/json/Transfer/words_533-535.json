@@ -1,0 +1,806 @@
+[
+  {
+    "word": "duel",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "결투, 대결; 두 사람 사이의 공식적인 결투나 대결.",
+        "note": "두 사람 사이의 공식적인 결투나 대결을 가리킵니다."
+      },
+      {
+        "definition_ko": "결투하다, 대결하다; 두 사람이 결투하거나 대결하다.",
+        "note": "두 사람이 결투하거나 대결하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "두 사람 사이의 공식적인 결투나 대결, 또는 두 사람이 결투하거나 대결하는 것.",
+    "etymology": "라틴어 duellum(전쟁)에서 유래했으며, 원래는 '전쟁' 의미였으나 현대에는 '결투'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '전쟁' 의미였으나, 현대에는 '두 사람 사이의 공식적인 결투'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로, 동사로는 자동사와 타동사 모두로 쓰입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~와 결투하다",
+        "example": "duel with an opponent"
+      }
+    ],
+    "requiredComplements": [
+      "duel with + 명사 : ~와 결투하다",
+      "duel + 명사 : ~와 결투하다"
+    ],
+    "morphology": "라틴어 duellum에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "dueling",
+        "meaning_ko": "결투하는(현재분사/형용사)"
+      },
+      {
+        "word": "duelist",
+        "meaning_ko": "결투자"
+      }
+    ],
+    "related": [
+      {
+        "word": "fight",
+        "meaning_ko": "싸움"
+      },
+      {
+        "word": "combat",
+        "meaning_ko": "전투"
+      },
+      {
+        "word": "confrontation",
+        "meaning_ko": "대결"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "fight",
+        "meaning_ko": "싸움"
+      },
+      {
+        "word": "combat",
+        "meaning_ko": "전투"
+      },
+      {
+        "word": "confrontation",
+        "meaning_ko": "대결"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "battle",
+        "meaning_ko": "전투(범위가 더 넓음)"
+      },
+      {
+        "word": "contest",
+        "meaning_ko": "경쟁"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "duel with",
+            "meaning_ko": "~와 결투하다"
+          },
+          {
+            "phrase": "sword duel",
+            "meaning_ko": "검 결투"
+          },
+          {
+            "phrase": "pistol duel",
+            "meaning_ko": "권총 결투"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "duel between",
+            "meaning_ko": "~ 사이의 결투"
+          },
+          {
+            "phrase": "formal duel",
+            "meaning_ko": "공식 결투"
+          },
+          {
+            "phrase": "verbal duel",
+            "meaning_ko": "언어적 대결"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "duel of wits",
+            "meaning_ko": "지적 대결"
+          },
+          {
+            "phrase": "duel of honor",
+            "meaning_ko": "명예 결투"
+          },
+          {
+            "phrase": "political duel",
+            "meaning_ko": "정치적 대결"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The two men agreed to a duel.",
+            "meaning_ko": "그 두 남자는 결투에 동의했습니다."
+          },
+          {
+            "sentence": "He challenged his opponent to a duel.",
+            "meaning_ko": "그는 그의 상대에게 결투를 신청했습니다."
+          },
+          {
+            "sentence": "The sword duel ended in tragedy.",
+            "meaning_ko": "그 검 결투는 비극으로 끝났습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The two men agreed to a duel to settle their dispute over honor, following the traditional code of conduct that governed such confrontations.",
+            "meaning_ko": "그 두 남자는 명예에 대한 그들의 분쟁을 해결하기 위해 결투에 동의했고, 그러한 대결을 지배하는 전통적 행동 규칙을 따랐습니다."
+          },
+          {
+            "sentence": "He challenged his opponent to a duel after being publicly insulted, believing that only a formal confrontation could restore his reputation.",
+            "meaning_ko": "그는 공개적으로 모욕을 당한 후 그의 상대에게 결투를 신청했고, 공식적인 대결만이 그의 명예를 회복할 수 있다고 믿었습니다."
+          },
+          {
+            "sentence": "The sword duel ended in tragedy when one of the participants was fatally wounded, leading to calls for the abolition of such practices.",
+            "meaning_ko": "그 검 결투는 참가자 중 한 명이 치명상을 입었을 때 비극으로 끝났고, 그러한 관행의 폐지에 대한 요구로 이어졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The duel of wits between the two scholars during the academic debate captivated the audience, as each participant demonstrated exceptional knowledge and rhetorical skill.",
+            "meaning_ko": "그 학술 토론 중 두 학자들 사이의 지적 대결은 청중을 사로잡았고, 각 참가자가 탁월한 지식과 수사적 기술을 보여줬기 때문입니다."
+          },
+          {
+            "sentence": "The duel of honor, though illegal in most jurisdictions, continued to be practiced in certain social circles where traditional codes of conduct were still valued.",
+            "meaning_ko": "그 명예 결투는 대부분의 관할권에서 불법이었지만, 전통적 행동 규칙이 여전히 가치 있게 여겨지는 특정 사회 집단에서 계속 실천되었습니다."
+          },
+          {
+            "sentence": "The political duel between the two candidates during the election campaign featured intense debates and public confrontations that shaped the outcome of the race.",
+            "meaning_ko": "그 선거 캠페인 중 두 후보자들 사이의 정치적 대결은 그 경주의 결과를 형성한 격렬한 토론과 공개적 대결을 특징으로 했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "duel는 '결투, 대결' 또는 '결투하다' 의미로, 두 사람 사이의 공식적인 결투나 대결을 가리킵니다. fight, combat와 비슷하지만 더 공식적이고 역사적 뉘앙스가 있습니다. duel with ~, sword duel 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "전투",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: duel = (A) peace (B) fight or combat between two (C) agreement (D) cooperation",
+            "a": "B",
+            "meaning_ko": "duel는 '두 사람 사이의 싸움 또는 전투' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The two men agreed to a _____.",
+            "a": "duel",
+            "meaning_ko": "duel는 '결투'를 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'formal fight'? (A) sword duel (B) peace agreement (C) cooperation (D) harmony",
+            "a": "A",
+            "meaning_ko": "sword duel는 '검 결투' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: duel _____ an opponent. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "duel with ~는 '~와 결투하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: duel = (A) peace (B) fight (C) agreement (D) cooperation",
+            "a": "B",
+            "meaning_ko": "fight(싸움)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He dueled at his opponent.' → Fix the preposition.",
+            "a": "He dueled with his opponent.",
+            "meaning_ko": "duel with ~는 '~와 결투하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The two men agreed to a duel to settle their dispute.'",
+            "a": "The two individuals made an agreement to engage in a formal combat or confrontation, following established rules, in order to resolve their disagreement and determine a winner.",
+            "meaning_ko": "duel to settle dispute는 '분쟁을 해결하기 위해 결투하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ with each other. (A) duel (B) duels (C) dueling (D) dueled",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 duel가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses duel most appropriately? (A) The duel ran. (B) They agreed to a duel. (C) She duel smiled. (D) Duel is good.",
+            "a": "B",
+            "meaning_ko": "duel는 명사로 '결투'를 의미하며, agree to와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vengeful",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "복수심이 강한, 원한을 품은; 복수하려는 마음이 강한.",
+        "note": "복수하려는 마음이 강한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "복수하려는 마음이 강한 복수심이 강한 상태.",
+    "etymology": "vengeance(복수) + -ful(형용사 접미사)의 결합으로, '복수가 있는'에서 '복수심이 강한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '복수가 있는' 의미였으며, 현대에는 '복수하려는 마음이 강한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be vengeful 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "toward",
+        "meaning_ko": "~에 대해 복수심이 강한",
+        "example": "vengeful toward enemies"
+      }
+    ],
+    "requiredComplements": [
+      "be vengeful : 복수심이 강하다",
+      "be vengeful toward + 명사 : ~에 대해 복수심이 강한"
+    ],
+    "morphology": "vengeance(복수) + -ful(형용사 접미사)의 결합으로, '복수가 있는'에서 '복수심이 강한'으로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "vengefully",
+        "meaning_ko": "복수심이 강하게"
+      },
+      {
+        "word": "vengefulness",
+        "meaning_ko": "복수심"
+      }
+    ],
+    "related": [
+      {
+        "word": "revengeful",
+        "meaning_ko": "복수심이 강한"
+      },
+      {
+        "word": "vindictive",
+        "meaning_ko": "복수심이 강한"
+      },
+      {
+        "word": "spiteful",
+        "meaning_ko": "악의적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "revengeful",
+        "meaning_ko": "복수심이 강한"
+      },
+      {
+        "word": "vindictive",
+        "meaning_ko": "복수심이 강한"
+      },
+      {
+        "word": "spiteful",
+        "meaning_ko": "악의적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "resentful",
+        "meaning_ko": "원한을 품은(범위가 더 넓음)"
+      },
+      {
+        "word": "bitter",
+        "meaning_ko": "쓴"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "forgiving",
+        "meaning_ko": "용서하는"
+      },
+      {
+        "word": "merciful",
+        "meaning_ko": "자비로운"
+      },
+      {
+        "word": "compassionate",
+        "meaning_ko": "동정적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "vengeful toward",
+            "meaning_ko": "~에 대해 복수심이 강한"
+          },
+          {
+            "phrase": "vengeful spirit",
+            "meaning_ko": "복수심이 강한 정신"
+          },
+          {
+            "phrase": "vengeful person",
+            "meaning_ko": "복수심이 강한 사람"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "vengeful attitude",
+            "meaning_ko": "복수심이 강한 태도"
+          },
+          {
+            "phrase": "vengeful behavior",
+            "meaning_ko": "복수심이 강한 행동"
+          },
+          {
+            "phrase": "vengeful response",
+            "meaning_ko": "복수심이 강한 반응"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "vengeful nature",
+            "meaning_ko": "복수심이 강한 성격"
+          },
+          {
+            "phrase": "vengeful intent",
+            "meaning_ko": "복수심이 강한 의도"
+          },
+          {
+            "phrase": "vengeful retribution",
+            "meaning_ko": "복수심이 강한 보복"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was vengeful toward his enemies.",
+            "meaning_ko": "그는 그의 적들에 대해 복수심이 강했습니다."
+          },
+          {
+            "sentence": "The vengeful spirit sought revenge.",
+            "meaning_ko": "그 복수심이 강한 정신은 복수를 추구했습니다."
+          },
+          {
+            "sentence": "She had a vengeful attitude.",
+            "meaning_ko": "그녀는 복수심이 강한 태도를 가지고 있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was vengeful toward his enemies after they had betrayed him, plotting ways to make them suffer for their actions.",
+            "meaning_ko": "그는 그들이 그를 배신한 후 그의 적들에 대해 복수심이 강했고, 그들의 행동에 대해 그들이 고통받도록 하는 방법을 계획했습니다."
+          },
+          {
+            "sentence": "The vengeful spirit sought revenge for the wrongs committed against it, refusing to rest until justice was served.",
+            "meaning_ko": "그 복수심이 강한 정신은 그것에 대해 저지른 잘못에 대한 복수를 추구했고, 정의가 이루어질 때까지 쉬기를 거부했습니다."
+          },
+          {
+            "sentence": "She had a vengeful attitude that made it difficult for her to move on from past grievances, constantly dwelling on ways to get even.",
+            "meaning_ko": "그녀는 과거의 불만으로부터 벗어나기 어렵게 만든 복수심이 강한 태도를 가지고 있었고, 계속해서 복수하는 방법에 대해 생각했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The vengeful nature of the character drove the plot forward, as his desire for retribution against those who had wronged him led to increasingly destructive actions.",
+            "meaning_ko": "그 인물의 복수심이 강한 성격은 그 줄거리를 앞으로 이끌었고, 그에게 잘못한 사람들에 대한 그의 보복 욕구가 점점 더 파괴적인 행동으로 이어졌기 때문입니다."
+          },
+          {
+            "sentence": "The vengeful intent behind the attack was evident in the planning and execution, suggesting that the perpetrator had been motivated by a deep desire for revenge rather than immediate gain.",
+            "meaning_ko": "그 공격 뒤의 복수심이 강한 의도는 계획과 실행에서 명백했고, 가해자가 즉각적인 이득보다는 깊은 복수 욕구에 의해 동기 부여되었다는 것을 시사했습니다."
+          },
+          {
+            "sentence": "The cycle of vengeful retribution between the two families had continued for generations, with each act of revenge leading to further violence and deepening the feud.",
+            "meaning_ko": "그 두 가족 사이의 복수심이 강한 보복의 순환은 세대를 거쳐 계속되었고, 각 복수 행위가 추가 폭력으로 이어지고 그 불화를 깊게 만들었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "vengeful는 '복수심이 강한, 원한을 품은' 의미로, 복수하려는 마음이 강한 상태를 가리킵니다. revengeful, vindictive와 비슷하지만 더 강한 뉘앙스가 있습니다. vengeful toward ~, vengeful spirit 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "감정",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: vengeful = (A) forgiving (B) revengeful or vindictive (C) merciful (D) compassionate",
+            "a": "B",
+            "meaning_ko": "vengeful는 '복수심이 강하거나 복수심이 강한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was _____ toward his enemies.",
+            "a": "vengeful",
+            "meaning_ko": "vengeful는 '복수심이 강한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of vengeful? (A) revengeful (B) vindictive (C) forgiving (D) spiteful",
+            "a": "C",
+            "meaning_ko": "forgiving(용서하는)가 vengeful의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: vengeful _____ enemies. (A) toward (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "vengeful toward ~는 '~에 대해 복수심이 강한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: vengeful = (A) forgiving (B) revengeful (C) merciful (D) compassionate",
+            "a": "B",
+            "meaning_ko": "revengeful(복수심이 강한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He was vengeful on his enemies.' → Fix the preposition.",
+            "a": "He was vengeful toward his enemies.",
+            "meaning_ko": "vengeful toward ~는 '~에 대해 복수심이 강한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was vengeful toward his enemies after the betrayal.'",
+            "a": "He had a strong desire for revenge and retribution against those who had wronged him, feeling deep anger and resentment following the act of disloyalty.",
+            "meaning_ko": "vengeful toward ~는 '~에 대해 복수심이 강한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ spirit sought revenge. (A) vengeful (B) vengefully (C) vengefulness (D) vengefuls",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 vengeful가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses vengeful most appropriately? (A) The vengeful ran. (B) He was vengeful toward enemies. (C) She vengeful smiled. (D) Vengeful is good.",
+            "a": "B",
+            "meaning_ko": "vengeful는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fidelity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "충성, 신의; 배우자나 원칙에 대한 충성이나 신의.",
+        "note": "배우자나 원칙에 대한 충성이나 신의를 가리킵니다."
+      },
+      {
+        "definition_ko": "정확성, 충실성; 원본이나 원래의 것에 대한 정확성이나 충실성.",
+        "note": "원본이나 원래의 것에 대한 정확성이나 충실성을 가리킵니다."
+      }
+    ],
+    "concept": "배우자나 원칙에 대한 충성이나 신의, 또는 원본이나 원래의 것에 대한 정확성이나 충실성.",
+    "etymology": "라틴어 fides(신뢰)에서 유래했으며, 원래는 '신뢰' 의미였으나 현대에는 '충성'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '신뢰' 의미였으나, 현대에는 '배우자나 원칙에 대한 충성' 또는 '원본에 대한 정확성'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, fidelity 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 대한 충성",
+        "example": "fidelity to principles"
+      }
+    ],
+    "requiredComplements": [
+      "fidelity to + 명사 : ~에 대한 충성",
+      "marital fidelity : 결혼 충성"
+    ],
+    "morphology": "라틴어 fides에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "fidel",
+        "meaning_ko": "충성의(형용사)"
+      },
+      {
+        "word": "infidelity",
+        "meaning_ko": "불충성"
+      }
+    ],
+    "related": [
+      {
+        "word": "loyalty",
+        "meaning_ko": "충성"
+      },
+      {
+        "word": "faithfulness",
+        "meaning_ko": "충실함"
+      },
+      {
+        "word": "accuracy",
+        "meaning_ko": "정확성"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "loyalty",
+        "meaning_ko": "충성"
+      },
+      {
+        "word": "faithfulness",
+        "meaning_ko": "충실함"
+      },
+      {
+        "word": "devotion",
+        "meaning_ko": "헌신"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "accuracy",
+        "meaning_ko": "정확성(의미가 약간 다름)"
+      },
+      {
+        "word": "allegiance",
+        "meaning_ko": "충성"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "infidelity",
+        "meaning_ko": "불충성"
+      },
+      {
+        "word": "disloyalty",
+        "meaning_ko": "불충성"
+      },
+      {
+        "word": "treachery",
+        "meaning_ko": "배신"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "fidelity to",
+            "meaning_ko": "~에 대한 충성"
+          },
+          {
+            "phrase": "marital fidelity",
+            "meaning_ko": "결혼 충성"
+          },
+          {
+            "phrase": "high fidelity",
+            "meaning_ko": "고충실도"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "fidelity to principles",
+            "meaning_ko": "원칙에 대한 충성"
+          },
+          {
+            "phrase": "fidelity to the original",
+            "meaning_ko": "원본에 대한 충실성"
+          },
+          {
+            "phrase": "fidelity in marriage",
+            "meaning_ko": "결혼에서의 충성"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "fidelity to the cause",
+            "meaning_ko": "그 대의에 대한 충성"
+          },
+          {
+            "phrase": "fidelity of reproduction",
+            "meaning_ko": "재생의 충실성"
+          },
+          {
+            "phrase": "fidelity to tradition",
+            "meaning_ko": "전통에 대한 충성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Marital fidelity is important in a relationship.",
+            "meaning_ko": "결혼 충성은 관계에서 중요합니다."
+          },
+          {
+            "sentence": "He showed fidelity to his principles.",
+            "meaning_ko": "그는 그의 원칙에 대한 충성을 보여줬습니다."
+          },
+          {
+            "sentence": "The recording had high fidelity.",
+            "meaning_ko": "그 녹음은 고충실도를 가지고 있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Marital fidelity is important in a relationship, as it builds trust and creates a foundation for long-term commitment and mutual respect.",
+            "meaning_ko": "결혼 충성은 관계에서 중요하며, 신뢰를 구축하고 장기적 헌신과 상호 존중을 위한 기초를 만들기 때문입니다."
+          },
+          {
+            "sentence": "He showed fidelity to his principles throughout his career, refusing to compromise on values that he considered fundamental to his character.",
+            "meaning_ko": "그는 그의 경력 전반에 걸쳐 그의 원칙에 대한 충성을 보여줬고, 그의 성격에 근본적이라고 여긴 가치에 대해 타협하는 것을 거부했습니다."
+          },
+          {
+            "sentence": "The recording had high fidelity, accurately reproducing the original sound with minimal distortion and maintaining the quality of the source material.",
+            "meaning_ko": "그 녹음은 고충실도를 가지고 있었고, 최소한의 왜곡으로 원본 소리를 정확하게 재생하고 소스 자료의 품질을 유지했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "His fidelity to the cause remained unwavering despite numerous challenges and temptations to abandon the movement, demonstrating his deep commitment to the principles he believed in.",
+            "meaning_ko": "그의 그 대의에 대한 충성은 그 운동을 포기하도록 하는 수많은 도전과 유혹에도 불구하고 흔들리지 않았고, 그가 믿었던 원칙에 대한 그의 깊은 헌신을 보여줬습니다."
+          },
+          {
+            "sentence": "The fidelity of reproduction in the digital restoration process was crucial for preserving the historical accuracy of the archival materials, ensuring that future generations could access authentic representations.",
+            "meaning_ko": "그 디지털 복원 과정에서 재생의 충실성은 기록 자료의 역사적 정확성을 보존하는 데 중요했고, 미래 세대가 진정한 표현에 접근할 수 있도록 보장했습니다."
+          },
+          {
+            "sentence": "The organization's fidelity to tradition, while maintaining core values, also allowed for necessary adaptations to changing circumstances, balancing preservation with progress.",
+            "meaning_ko": "그 조직의 전통에 대한 충성은 핵심 가치를 유지하면서도 변화하는 상황에 필요한 적응을 허용했고, 보존과 진보의 균형을 맞췄습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "fidelity는 '충성, 신의' 또는 '정확성' 의미로, 배우자나 원칙에 대한 충성이나 신의를 가리킵니다. 매우 격식 있는 단어로, loyalty, faithfulness와 비슷하지만 더 공식적 뉘앙스가 있습니다. fidelity to ~, marital fidelity 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "도덕",
+      "격식",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: fidelity = (A) infidelity (B) loyalty or faithfulness (C) disloyalty (D) treachery",
+            "a": "B",
+            "meaning_ko": "fidelity는 '충성 또는 충실함' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Marital _____ is important in a relationship.",
+            "a": "fidelity",
+            "meaning_ko": "fidelity는 '충성'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of fidelity? (A) loyalty (B) faithfulness (C) infidelity (D) devotion",
+            "a": "C",
+            "meaning_ko": "infidelity(불충성)가 fidelity의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: fidelity _____ principles. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "fidelity to ~는 '~에 대한 충성' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: fidelity = (A) infidelity (B) loyalty (C) disloyalty (D) treachery",
+            "a": "B",
+            "meaning_ko": "loyalty(충성)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He showed fidelity on his principles.' → Fix the preposition.",
+            "a": "He showed fidelity to his principles.",
+            "meaning_ko": "fidelity to ~는 '~에 대한 충성' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He showed fidelity to his principles throughout his career.'",
+            "a": "He demonstrated consistent loyalty, faithfulness, and adherence to his core beliefs and values over the entire duration of his professional life, refusing to compromise on what he considered important.",
+            "meaning_ko": "fidelity to principles는 '원칙에 대한 충성'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ to the cause remained strong. (A) fidelity (B) fidelities (C) fidel (D) fideled",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 fidelity가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses fidelity most appropriately? (A) The fidelity ran. (B) He showed fidelity to principles. (C) She fidelity smiled. (D) Fidelity is good.",
+            "a": "B",
+            "meaning_ko": "fidelity는 명사로 '충성'을 의미하며, show와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

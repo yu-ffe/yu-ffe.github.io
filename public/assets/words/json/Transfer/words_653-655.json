@@ -1,0 +1,819 @@
+[
+  {
+    "word": "whine",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "징징거림, 불평; 징징거리거나 불평하는 소리.",
+        "note": "징징거리거나 불평하는 소리를 가리킵니다."
+      },
+      {
+        "definition_ko": "징징거리다, 불평하다; 징징거리거나 불평하다.",
+        "note": "징징거리거나 불평하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "울부짖다, 징징거리다; 높은 톤으로 울부짖거나 징징거리다.",
+        "note": "높은 톤으로 울부짖거나 징징거리는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "징징거리거나 불평하는 소리인 징징거림, 또는 징징거리거나 불평하는 것, 또는 높은 톤으로 울부짖거나 징징거리는 것.",
+    "etymology": "고대 영어 hwīnan(울부짖다)에서 유래했으며, 원래는 '울부짖다' 의미였고 현대에는 '징징거리다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '울부짖다' 의미였고, 현대에는 '징징거리거나 불평하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 비격식 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "명사로는 가산명사로 자주 사용되며, whine 형태로 자주 사용됩니다. 동사로는 자동사·타동사 모두로 쓰이며, whine 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 징징거리다",
+        "example": "whine about problems"
+      }
+    ],
+    "requiredComplements": [
+      "whine : 징징거림",
+      "whine : 징징거리다",
+      "whine about + 명사 : ~에 대해 징징거리다"
+    ],
+    "morphology": "고대 영어 hwīnan에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "whined",
+        "meaning_ko": "징징거린(과거분사/형용사)"
+      },
+      {
+        "word": "whining",
+        "meaning_ko": "징징거리는(현재분사/형용사)"
+      },
+      {
+        "word": "whiner",
+        "meaning_ko": "징징거리는 사람"
+      }
+    ],
+    "related": [
+      {
+        "word": "complain",
+        "meaning_ko": "불평하다"
+      },
+      {
+        "word": "moan",
+        "meaning_ko": "불평하다"
+      },
+      {
+        "word": "grumble",
+        "meaning_ko": "불평하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "complain",
+        "meaning_ko": "불평하다"
+      },
+      {
+        "word": "moan",
+        "meaning_ko": "불평하다"
+      },
+      {
+        "word": "grumble",
+        "meaning_ko": "불평하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "whimper",
+        "meaning_ko": "징징거리다(범위가 더 넓음)"
+      },
+      {
+        "word": "cry",
+        "meaning_ko": "울다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rejoice",
+        "meaning_ko": "기뻐하다"
+      },
+      {
+        "word": "celebrate",
+        "meaning_ko": "축하하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "whine about",
+            "meaning_ko": "~에 대해 징징거리다"
+          },
+          {
+            "phrase": "stop whining",
+            "meaning_ko": "징징거림을 멈추다"
+          },
+          {
+            "phrase": "constant whine",
+            "meaning_ko": "지속적인 징징거림"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "whine about problems",
+            "meaning_ko": "문제에 대해 징징거리다"
+          },
+          {
+            "phrase": "whine and complain",
+            "meaning_ko": "징징거리고 불평하다"
+          },
+          {
+            "phrase": "childish whine",
+            "meaning_ko": "어린애 같은 징징거림"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "whine incessantly",
+            "meaning_ko": "끊임없이 징징거리다"
+          },
+          {
+            "phrase": "whine petulantly",
+            "meaning_ko": "까다롭게 징징거리다"
+          },
+          {
+            "phrase": "whine tone",
+            "meaning_ko": "징징거리는 톤"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He began to whine.",
+            "meaning_ko": "그는 징징거리기 시작했습니다."
+          },
+          {
+            "sentence": "She whined about the work.",
+            "meaning_ko": "그녀는 그 일에 대해 징징거렸습니다."
+          },
+          {
+            "sentence": "The dog let out a whine.",
+            "meaning_ko": "그 개는 징징거리는 소리를 냈습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He began to whine, expressing his dissatisfaction in a complaining tone, though the behavior was not productive and would not help resolve the situation.",
+            "meaning_ko": "그는 징징거리기 시작했고, 불평하는 톤으로 그의 불만을 표현했지만, 그 행동은 생산적이지 않았고 그 상황을 해결하는 데 도움이 되지 않을 것입니다."
+          },
+          {
+            "sentence": "She whined about the work, complaining about the difficulty and expressing frustration, though her complaints did not address the underlying issues or contribute to finding solutions.",
+            "meaning_ko": "그녀는 그 일에 대해 징징거렸고, 그 어려움에 대해 불평하고 좌절을 표현했지만, 그녀의 불평은 근본적인 문제를 다루지 않았고 해결책을 찾는 데 기여하지 않았습니다."
+          },
+          {
+            "sentence": "The dog let out a whine, making a high-pitched sound that expressed discomfort or desire, though the specific reason for the vocalization would need to be determined through observation.",
+            "meaning_ko": "그 개는 징징거리는 소리를 냈고, 불편함이나 욕구를 표현하는 높은 톤의 소리를 만들었지만, 그 발성의 특정 이유는 관찰을 통해 결정될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The child whined incessantly about having to do homework, with the persistent complaining creating frustration for parents and teachers, though addressing the underlying issues and providing support would be more effective than simply responding to the complaints.",
+            "meaning_ko": "그 아이는 숙제를 해야 한다는 것에 대해 끊임없이 징징거렸고, 그 지속적인 불평이 부모와 교사에게 좌절을 만들었지만, 근본적인 문제를 다루고 지원을 제공하는 것이 단순히 불평에 응답하는 것보다 더 효과적일 것입니다."
+          },
+          {
+            "sentence": "She whined petulantly about the unfair treatment, with her complaining tone and attitude reflecting frustration, though the behavior would be more productive if channeled into constructive communication and problem-solving efforts.",
+            "meaning_ko": "그녀는 그 부당한 대우에 대해 까다롭게 징징거렸고, 그녀의 불평하는 톤과 태도가 좌절을 반영했지만, 그 행동은 건설적인 의사 소통과 문제 해결 노력으로 전환되면 더 생산적일 것입니다."
+          },
+          {
+            "sentence": "The whine tone in his voice indicated dissatisfaction and frustration, with the complaining sound conveying negative emotions, though the underlying concerns would need to be addressed through open communication and problem-solving rather than simply dismissing the complaints.",
+            "meaning_ko": "그의 목소리에 있는 그 징징거리는 톤은 불만족과 좌절을 나타냈고, 그 불평하는 소리가 부정적 감정을 전달했지만, 근본적인 우려는 단순히 불평을 무시하는 것보다 개방적 의사 소통과 문제 해결을 통해 다루어질 필요가 있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "whine는 '징징거림, 불평' 또는 '징징거리다, 불평하다' 또는 '울부짖다, 징징거리다' 의미로, 징징거리거나 불평하는 소리를 가리킵니다. complain, moan와 비슷하지만 더 비격식 뉘앙스가 있습니다. whine about ~, stop whining 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: whine = (A) rejoice (B) complain or moan (C) celebrate (D) praise",
+            "a": "B",
+            "meaning_ko": "whine는 '불평하다 또는 징징거리다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He began to _____.",
+            "a": "whine",
+            "meaning_ko": "whine는 '징징거리다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of whine? (A) complain (B) moan (C) rejoice (D) grumble",
+            "a": "C",
+            "meaning_ko": "rejoice(기뻐하다)가 whine의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: whine _____ problems. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "whine about ~는 '~에 대해 징징거리다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: whine = (A) rejoice (B) complain (C) celebrate (D) praise",
+            "a": "B",
+            "meaning_ko": "complain(불평하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She whined at the work.' → Fix the preposition.",
+            "a": "She whined about the work.",
+            "meaning_ko": "whine about ~는 '~에 대해 징징거리다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He began to whine.'",
+            "a": "He started complaining in a high-pitched, complaining tone, expressing dissatisfaction and frustration, though the behavior was not productive and would not help resolve the situation.",
+            "meaning_ko": "whine는 '징징거리다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The dog let out a _____. (A) whine (B) whines (C) whining (D) whined",
+            "a": "A",
+            "meaning_ko": "명사 whine가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses whine most appropriately? (A) The whine ran. (B) He began to whine. (C) She whine smiled. (D) Whine is good.",
+            "a": "B",
+            "meaning_ko": "whine는 동사로 '징징거리다'를 의미하며, 자동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "terse",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "간결한, 간단한; 말이나 표현이 간결하거나 간단한.",
+        "note": "말이나 표현이 간결하거나 간단한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "짧은, 압축된; 말이나 표현이 짧거나 압축된.",
+        "note": "말이나 표현이 짧거나 압축된 상태를 가리킵니다."
+      }
+    ],
+    "concept": "말이나 표현이 간결하거나 간단한 간결한 상태, 또는 말이나 표현이 짧거나 압축된 짧은 상태.",
+    "etymology": "라틴어 tersus(닦은)에서 유래했으며, 원래는 '닦은' 의미였으나 현대에는 '간결한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '닦은' 의미였으나, 현대에는 '말이나 표현이 간결하거나 간단한' 또는 '말이나 표현이 짧거나 압축된'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학과 학문 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be terse 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be terse : 간결하다",
+      "terse + 명사 : 간결한 ~"
+    ],
+    "morphology": "라틴어 tersus에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "tersely",
+        "meaning_ko": "간결하게"
+      },
+      {
+        "word": "terseness",
+        "meaning_ko": "간결함"
+      }
+    ],
+    "related": [
+      {
+        "word": "concise",
+        "meaning_ko": "간결한"
+      },
+      {
+        "word": "brief",
+        "meaning_ko": "간단한"
+      },
+      {
+        "word": "succinct",
+        "meaning_ko": "간결한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "concise",
+        "meaning_ko": "간결한"
+      },
+      {
+        "word": "brief",
+        "meaning_ko": "간단한"
+      },
+      {
+        "word": "succinct",
+        "meaning_ko": "간결한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "laconic",
+        "meaning_ko": "간결한(범위가 더 넓음)"
+      },
+      {
+        "word": "pithy",
+        "meaning_ko": "간결한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "verbose",
+        "meaning_ko": "장황한"
+      },
+      {
+        "word": "wordy",
+        "meaning_ko": "장황한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "terse reply",
+            "meaning_ko": "간결한 답변"
+          },
+          {
+            "phrase": "terse statement",
+            "meaning_ko": "간결한 진술"
+          },
+          {
+            "phrase": "terse response",
+            "meaning_ko": "간결한 응답"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "terse comment",
+            "meaning_ko": "간결한 논평"
+          },
+          {
+            "phrase": "terse style",
+            "meaning_ko": "간결한 스타일"
+          },
+          {
+            "phrase": "terse language",
+            "meaning_ko": "간결한 언어"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "terse prose",
+            "meaning_ko": "간결한 산문"
+          },
+          {
+            "phrase": "terse expression",
+            "meaning_ko": "간결한 표현"
+          },
+          {
+            "phrase": "terse communication",
+            "meaning_ko": "간결한 의사 소통"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He gave a terse reply.",
+            "meaning_ko": "그는 간결한 답변을 했습니다."
+          },
+          {
+            "sentence": "Her response was terse.",
+            "meaning_ko": "그녀의 응답은 간결했습니다."
+          },
+          {
+            "sentence": "The statement was terse.",
+            "meaning_ko": "그 진술은 간결했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He gave a terse reply, with his response being brief and to the point, though the conciseness might have seemed abrupt or lacking in detail to some.",
+            "meaning_ko": "그는 간결한 답변을 했고, 그의 응답이 간단하고 요점을 찌르는 것이었지만, 그 간결함이 일부에게는 갑작스럽거나 세부 사항이 부족한 것으로 보일 수 있습니다."
+          },
+          {
+            "sentence": "Her response was terse, with the brief and concise answer providing the essential information without unnecessary elaboration, though some might have preferred more detailed explanation.",
+            "meaning_ko": "그녀의 응답은 간결했고, 그 간단하고 간결한 답변이 불필요한 설명 없이 필수 정보를 제공했지만, 일부는 더 상세한 설명을 선호했을 수 있습니다."
+          },
+          {
+            "sentence": "The statement was terse, with the concise expression conveying the message efficiently, though the brevity might have left some questions unanswered or details unexplained.",
+            "meaning_ko": "그 진술은 간결했고, 그 간결한 표현이 메시지를 효율적으로 전달했지만, 그 간결함이 일부 질문을 답변 없이 남기거나 세부 사항을 설명하지 않았을 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The terse prose style of the author created a distinctive voice, with the concise and compressed language conveying meaning efficiently while maintaining clarity, though the brevity required readers to engage actively with the text to fully appreciate the depth of the writing.",
+            "meaning_ko": "그 작가의 그 간결한 산문 스타일은 독특한 목소리를 만들었고, 그 간결하고 압축된 언어가 명확성을 유지하면서 의미를 효율적으로 전달했지만, 그 간결함은 독자들이 글의 깊이를 완전히 감상하기 위해 텍스트와 적극적으로 참여하는 것을 요구했습니다."
+          },
+          {
+            "sentence": "The terse expression used in the communication reflected a preference for efficiency, with the brief and concise language conveying essential information without elaboration, though the conciseness might have required recipients to infer some details or seek clarification.",
+            "meaning_ko": "그 의사 소통에서 사용된 그 간결한 표현은 효율성에 대한 선호를 반영했고, 그 간단하고 간결한 언어가 설명 없이 필수 정보를 전달했지만, 그 간결함은 수신자가 일부 세부 사항을 추론하거나 명확화를 요청하는 것을 요구했을 수 있습니다."
+          },
+          {
+            "sentence": "The terse communication style adopted by the organization emphasized clarity and efficiency, with the concise messages providing necessary information while avoiding unnecessary verbosity, though the brevity would need to be balanced with sufficient detail to ensure understanding.",
+            "meaning_ko": "그 조직이 채택한 그 간결한 의사 소통 스타일은 명확성과 효율성을 강조했고, 그 간결한 메시지가 불필요한 장황함을 피하면서 필요한 정보를 제공했지만, 그 간결함은 이해를 보장하기 위해 충분한 세부 사항과 균형을 맞춰야 할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "terse는 '간결한, 간단한' 또는 '짧은, 압축된' 의미로, 말이나 표현이 간결하거나 간단한 상태를 가리킵니다. concise, brief와 비슷하지만 더 문학적 뉘앙스가 있습니다. terse reply, terse statement 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문학",
+      "학문",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: terse = (A) verbose (B) concise or brief (C) wordy (D) lengthy",
+            "a": "B",
+            "meaning_ko": "terse는 '간결한 또는 간단한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He gave a _____ reply.",
+            "a": "terse",
+            "meaning_ko": "terse는 '간결한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of terse? (A) concise (B) brief (C) verbose (D) succinct",
+            "a": "C",
+            "meaning_ko": "verbose(장황한)가 terse의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: Her response was _____. (A) terse (B) tersely (C) terseness (D) terse's",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 terse가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: terse = (A) verbose (B) concise (C) wordy (D) lengthy",
+            "a": "B",
+            "meaning_ko": "concise(간결한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'Her response was tersely.' → Fix the sentence.",
+            "a": "Her response was terse.",
+            "meaning_ko": "서술어로 형용사 terse가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He gave a terse reply.'",
+            "a": "He provided a brief and concise response, with the answer being to the point and efficient, though the conciseness might have seemed abrupt or lacking in detail to some.",
+            "meaning_ko": "terse는 '간결한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The statement was _____. (A) terse (B) tersely (C) terseness (D) terse's",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 terse가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses terse most appropriately? (A) The terse ran. (B) He gave a terse reply. (C) She terse smiled. (D) Terse is good.",
+            "a": "B",
+            "meaning_ko": "terse는 형용사로 명사를 수식하거나 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "comment",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "논평, 의견; 의견이나 논평을 나타내는 말이나 글.",
+        "note": "의견이나 논평을 나타내는 말이나 글을 가리킵니다."
+      },
+      {
+        "definition_ko": "논평하다, 의견을 말하다; 의견이나 논평을 말하거나 쓰다.",
+        "note": "의견이나 논평을 말하거나 쓰는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "의견이나 논평을 나타내는 말이나 글인 논평, 또는 의견이나 논평을 말하거나 쓰는 것.",
+    "etymology": "라틴어 commentum(논평)에서 유래했으며, com-(함께) + mentiri(생각하다)의 조합입니다.",
+    "semanticExtension": "원래는 '논평' 의미였고, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로 자주 사용되며, comment 형태로 자주 사용됩니다. 동사로는 자동사·타동사 모두로 쓰이며, comment 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대해 논평하다",
+        "example": "comment on the issue"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 논평하다",
+        "example": "comment about the situation"
+      }
+    ],
+    "requiredComplements": [
+      "comment : 논평/의견",
+      "comment : 논평하다",
+      "comment on + 명사 : ~에 대해 논평하다",
+      "comment about + 명사 : ~에 대해 논평하다"
+    ],
+    "morphology": "com-(함께) + mentiri(생각하다)의 조합으로, '함께 생각하다' 즉 '논평하다' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "commented",
+        "meaning_ko": "논평한(과거분사/형용사)"
+      },
+      {
+        "word": "commenting",
+        "meaning_ko": "논평하는(현재분사/형용사)"
+      },
+      {
+        "word": "commentary",
+        "meaning_ko": "논평"
+      },
+      {
+        "word": "commentator",
+        "meaning_ko": "논평가"
+      }
+    ],
+    "related": [
+      {
+        "word": "remark",
+        "meaning_ko": "논평"
+      },
+      {
+        "word": "observation",
+        "meaning_ko": "관찰"
+      },
+      {
+        "word": "statement",
+        "meaning_ko": "진술"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "remark",
+        "meaning_ko": "논평"
+      },
+      {
+        "word": "observation",
+        "meaning_ko": "관찰"
+      },
+      {
+        "word": "statement",
+        "meaning_ko": "진술"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "note",
+        "meaning_ko": "논평(범위가 더 넓음)"
+      },
+      {
+        "word": "opinion",
+        "meaning_ko": "의견"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "comment on",
+            "meaning_ko": "~에 대해 논평하다"
+          },
+          {
+            "phrase": "comment about",
+            "meaning_ko": "~에 대해 논평하다"
+          },
+          {
+            "phrase": "make comment",
+            "meaning_ko": "논평을 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "comment on the issue",
+            "meaning_ko": "그 문제에 대해 논평하다"
+          },
+          {
+            "phrase": "public comment",
+            "meaning_ko": "공개 논평"
+          },
+          {
+            "phrase": "comment section",
+            "meaning_ko": "논평 섹션"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "comment thread",
+            "meaning_ko": "논평 스레드"
+          },
+          {
+            "phrase": "comment policy",
+            "meaning_ko": "논평 정책"
+          },
+          {
+            "phrase": "comment moderation",
+            "meaning_ko": "논평 조정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He made a comment.",
+            "meaning_ko": "그는 논평을 했습니다."
+          },
+          {
+            "sentence": "She commented on the issue.",
+            "meaning_ko": "그녀는 그 문제에 대해 논평했습니다."
+          },
+          {
+            "sentence": "The comment was helpful.",
+            "meaning_ko": "그 논평은 도움이 되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He made a comment, expressing his opinion on the matter, though the remark would need to be considered in context to fully understand its implications and significance.",
+            "meaning_ko": "그는 논평을 했고, 그 문제에 대한 그의 의견을 표현했지만, 그 논평은 그 함의와 중요성을 완전히 이해하기 위해 맥락에서 고려될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "She commented on the issue, providing her perspective and analysis, though her remarks would contribute to the ongoing discussion and help shape understanding of the topic.",
+            "meaning_ko": "그녀는 그 문제에 대해 논평했고, 그녀의 관점과 분석을 제공했지만, 그녀의 논평은 지속적인 논의에 기여하고 그 주제에 대한 이해를 형성하는 데 도움이 될 것입니다."
+          },
+          {
+            "sentence": "The comment was helpful, with the observation providing useful information and insight, though the value of the remark would depend on its accuracy and relevance to the discussion.",
+            "meaning_ko": "그 논평은 도움이 되었고, 그 관찰이 유용한 정보와 통찰을 제공했지만, 그 논평의 가치는 그 정확성과 그 논의에 대한 관련성에 달려있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The comment thread generated extensive discussion, with participants engaging in dialogue and exchange of ideas, though the conversation would need moderation to ensure constructive communication and prevent inappropriate content.",
+            "meaning_ko": "그 논평 스레드는 광범위한 논의를 생성했고, 참가자들이 대화와 아이디어 교환에 참여했지만, 그 대화는 건설적인 의사 소통을 보장하고 부적절한 콘텐츠를 방지하기 위해 조정이 필요할 것입니다."
+          },
+          {
+            "sentence": "The comment policy established guidelines for participation, with rules governing acceptable behavior and content standards, though enforcement would require monitoring and moderation to maintain a respectful and productive environment.",
+            "meaning_ko": "그 논평 정책은 참여를 위한 지침을 확립했고, 허용 가능한 행동과 콘텐츠 기준을 규제하는 규칙이 있었지만, 집행은 존중하고 생산적인 환경을 유지하기 위해 모니터링과 조정을 요구할 것입니다."
+          },
+          {
+            "sentence": "The comment moderation process ensured quality and appropriateness, with reviewers evaluating submissions for relevance and compliance with standards, though the system would need to balance oversight with freedom of expression.",
+            "meaning_ko": "그 논평 조정 과정은 품질과 적절성을 보장했고, 검토자들이 관련성과 기준 준수를 위해 제출물을 평가했지만, 그 시스템은 감독과 표현의 자유 사이의 균형을 맞춰야 할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "comment는 '논평, 의견' 또는 '논평하다, 의견을 말하다' 의미로, 의견이나 논평을 나타내는 말이나 글을 가리킵니다. remark, observation와 비슷하지만 더 일반적 표현입니다. comment on ~, make comment 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: comment = (A) silence (B) remark or opinion (C) quiet (D) mute",
+            "a": "B",
+            "meaning_ko": "comment는 '논평 또는 의견' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He made a _____.",
+            "a": "comment",
+            "meaning_ko": "comment는 '논평'을 의미합니다."
+          },
+          {
+            "q": "Which is similar to comment? (A) silence (B) remark (C) quiet (D) mute",
+            "a": "B",
+            "meaning_ko": "remark(논평)가 comment와 유사합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: comment _____ the issue. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "comment on ~는 '~에 대해 논평하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: comment = (A) silence (B) remark (C) quiet (D) mute",
+            "a": "B",
+            "meaning_ko": "remark(논평)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She commented at the issue.' → Fix the preposition.",
+            "a": "She commented on the issue.",
+            "meaning_ko": "comment on ~는 '~에 대해 논평하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He made a comment.'",
+            "a": "He expressed an opinion or observation, providing his perspective on the matter, though the remark would need to be considered in context to fully understand its implications and significance.",
+            "meaning_ko": "comment는 '논평'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: She _____ on the issue. (A) comment (B) commented (C) commenting (D) comments",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 commented가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses comment most appropriately? (A) The comment ran. (B) He made a comment. (C) She comment smiled. (D) Comment is good.",
+            "a": "B",
+            "meaning_ko": "comment는 명사로 '논평'을 의미하며, make와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

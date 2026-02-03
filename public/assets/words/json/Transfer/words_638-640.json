@@ -1,0 +1,818 @@
+[
+  {
+    "word": "stash",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "비밀 저장소, 숨겨둔 곳; 비밀리에 보관하거나 숨겨둔 곳.",
+        "note": "비밀리에 보관하거나 숨겨둔 곳을 가리킵니다."
+      },
+      {
+        "definition_ko": "비밀 저장물, 숨겨둔 물건; 비밀리에 보관하거나 숨겨둔 물건.",
+        "note": "비밀리에 보관하거나 숨겨둔 물건을 가리킵니다."
+      },
+      {
+        "definition_ko": "비밀리에 보관하다, 숨겨두다; 비밀리에 보관하거나 숨겨두다.",
+        "note": "비밀리에 보관하거나 숨겨두는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "비밀리에 보관하거나 숨겨둔 곳인 비밀 저장소, 또는 비밀리에 보관하거나 숨겨둔 물건, 또는 비밀리에 보관하거나 숨겨두는 것.",
+    "etymology": "불확실한 어원을 가진 단어로, 아마도 '숨기다' 의미의 방언에서 유래했을 것입니다.",
+    "semanticExtension": "원래는 '비밀 저장소' 의미였고, 현대에는 '비밀 저장물' 또는 '비밀리에 보관하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 비격식 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "명사로는 가산명사로 자주 사용되며, stash 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, stash + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "away",
+        "meaning_ko": "숨겨두다",
+        "example": "stash away"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에 숨겨두다",
+        "example": "stash in the drawer"
+      }
+    ],
+    "requiredComplements": [
+      "stash : 비밀 저장소/비밀 저장물",
+      "stash + 명사 : ~을 비밀리에 보관하다",
+      "stash away : 숨겨두다",
+      "stash in + 명사 : ~에 숨겨두다"
+    ],
+    "morphology": "불확실한 어원을 가진 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "stashed",
+        "meaning_ko": "비밀리에 보관한(과거분사/형용사)"
+      },
+      {
+        "word": "stashing",
+        "meaning_ko": "비밀리에 보관하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "hide",
+        "meaning_ko": "숨기다"
+      },
+      {
+        "word": "store",
+        "meaning_ko": "저장하다"
+      },
+      {
+        "word": "cache",
+        "meaning_ko": "비밀 저장소"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "hide",
+        "meaning_ko": "숨기다"
+      },
+      {
+        "word": "store",
+        "meaning_ko": "저장하다"
+      },
+      {
+        "word": "cache",
+        "meaning_ko": "비밀 저장소"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "conceal",
+        "meaning_ko": "숨기다(범위가 더 넓음)"
+      },
+      {
+        "word": "hoard",
+        "meaning_ko": "비축하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reveal",
+        "meaning_ko": "드러내다"
+      },
+      {
+        "word": "expose",
+        "meaning_ko": "노출시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "stash away",
+            "meaning_ko": "숨겨두다"
+          },
+          {
+            "phrase": "stash in",
+            "meaning_ko": "~에 숨겨두다"
+          },
+          {
+            "phrase": "secret stash",
+            "meaning_ko": "비밀 저장소"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "stash money",
+            "meaning_ko": "돈을 숨겨두다"
+          },
+          {
+            "phrase": "stash drugs",
+            "meaning_ko": "마약을 숨겨두다"
+          },
+          {
+            "phrase": "stash location",
+            "meaning_ko": "숨겨둔 위치"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "stash evidence",
+            "meaning_ko": "증거를 숨겨두다"
+          },
+          {
+            "phrase": "stash weapons",
+            "meaning_ko": "무기를 숨겨두다"
+          },
+          {
+            "phrase": "stash cache",
+            "meaning_ko": "비밀 저장소"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He had a stash of money.",
+            "meaning_ko": "그는 돈을 숨겨두었습니다."
+          },
+          {
+            "sentence": "She stashed the documents.",
+            "meaning_ko": "그녀는 그 문서들을 숨겨두었습니다."
+          },
+          {
+            "sentence": "They found a stash.",
+            "meaning_ko": "그들은 비밀 저장소를 찾았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He had a stash of money, with the hidden funds representing savings that he kept secret from others, though the discovery of the cache raised questions about its origin and purpose.",
+            "meaning_ko": "그는 돈을 숨겨두었고, 그 숨겨진 자금이 그가 다른 사람들에게 비밀로 유지한 저축을 나타냈지만, 그 저장소의 발견은 그 기원과 목적에 대한 질문을 제기했습니다."
+          },
+          {
+            "sentence": "She stashed the documents, hiding them in a secure location to prevent unauthorized access, with the concealment intended to protect sensitive information from being discovered or compromised.",
+            "meaning_ko": "그녀는 그 문서들을 숨겨두었고, 무단 접근을 방지하기 위해 안전한 위치에 숨겼으며, 그 은닉이 민감한 정보가 발견되거나 손상되는 것을 보호하기 위한 의도였습니다."
+          },
+          {
+            "sentence": "They found a stash, with the discovery revealing a collection of items that had been hidden away, though the contents and purpose of the cache remained unclear and required further investigation.",
+            "meaning_ko": "그들은 비밀 저장소를 찾았고, 그 발견이 숨겨져 있던 항목들의 모음을 드러냈지만, 그 저장소의 내용과 목적은 불명확하게 남아있었고 추가 조사를 요구했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The investigation uncovered a stash of evidence that had been carefully hidden, with the discovery providing crucial information that would support the case and potentially lead to significant developments in the legal proceedings.",
+            "meaning_ko": "그 조사는 신중하게 숨겨져 있던 증거의 비밀 저장소를 발견했고, 그 발견이 그 사건을 지지하고 법적 절차에서 중요한 발전으로 이어질 수 있는 중요한 정보를 제공했습니다."
+          },
+          {
+            "sentence": "The authorities discovered a stash of weapons that had been concealed in a remote location, with the cache representing a significant security threat that required immediate attention and raised concerns about the potential for illegal activities.",
+            "meaning_ko": "그 당국은 외딴 위치에 숨겨져 있던 무기의 비밀 저장소를 발견했고, 그 저장소가 즉각적인 주의를 요구하고 불법 활동의 가능성에 대한 우려를 제기한 중요한 보안 위협을 나타냈습니다."
+          },
+          {
+            "sentence": "The stash cache was strategically located to avoid detection, with the hidden storage facility designed to remain undetected while providing access to resources that could be retrieved when needed, demonstrating careful planning and organization.",
+            "meaning_ko": "그 비밀 저장소는 탐지를 피하기 위해 전략적으로 위치했고, 그 숨겨진 저장 시설이 필요할 때 검색할 수 있는 자원에 대한 접근을 제공하면서 탐지되지 않은 상태로 남아있도록 설계되었으며, 신중한 계획과 조직을 보여주었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "stash는 '비밀 저장소, 숨겨둔 곳' 또는 '비밀 저장물, 숨겨둔 물건' 또는 '비밀리에 보관하다, 숨겨두다' 의미로, 비밀리에 보관하거나 숨겨둔 곳을 가리킵니다. hide, store와 비슷하지만 더 비격식 뉘앙스가 있습니다. stash away, stash in ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: stash = (A) reveal (B) hide or store (C) expose (D) show",
+            "a": "B",
+            "meaning_ko": "stash는 '숨기다 또는 저장하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He had a _____ of money.",
+            "a": "stash",
+            "meaning_ko": "stash는 '비밀 저장물'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of stash? (A) hide (B) store (C) reveal (D) cache",
+            "a": "C",
+            "meaning_ko": "reveal(드러내다)가 stash의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: stash _____ the drawer. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "stash in ~는 '~에 숨겨두다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: stash = (A) reveal (B) hide (C) expose (D) show",
+            "a": "B",
+            "meaning_ko": "hide(숨기다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She stashed the documents at the drawer.' → Fix the preposition.",
+            "a": "She stashed the documents in the drawer.",
+            "meaning_ko": "stash in ~는 '~에 숨겨두다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He had a stash of money.'",
+            "a": "He possessed a hidden collection of money that had been secretly stored away, with the funds kept in a concealed location to avoid detection and maintain secrecy about the existence of the savings.",
+            "meaning_ko": "stash는 '비밀 저장물'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They found a _____. (A) stash (B) stashes (C) stash's (D) stashed",
+            "a": "A",
+            "meaning_ko": "명사 stash가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses stash most appropriately? (A) The stash ran. (B) She stashed the documents. (C) She stash smiled. (D) Stash is good.",
+            "a": "B",
+            "meaning_ko": "stash는 동사로 '비밀리에 보관하다'를 의미하며, 타동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "complacent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "안주하는, 자만하는; 현재 상태에 만족하여 더 이상 노력하지 않는.",
+        "note": "현재 상태에 만족하여 더 이상 노력하지 않는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "무관심한, 태만한; 주의를 기울이지 않거나 신경 쓰지 않는.",
+        "note": "주의를 기울이지 않거나 신경 쓰지 않는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "현재 상태에 만족하여 더 이상 노력하지 않는 안주하는 상태, 또는 주의를 기울이지 않거나 신경 쓰지 않는 무관심한 상태.",
+    "etymology": "라틴어 complacens(만족하는)에서 유래했으며, com-(함께) + placere(기쁘게 하다)의 조합입니다.",
+    "semanticExtension": "원래는 '만족하는' 의미였으나, 현대에는 '안주하는, 자만하는' 또는 '무관심한, 태만한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 비판적 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be complacent 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 안주하는",
+        "example": "complacent about success"
+      }
+    ],
+    "requiredComplements": [
+      "be complacent : 안주하다",
+      "complacent + 명사 : 안주하는 ~",
+      "complacent about + 명사 : ~에 대해 안주하는"
+    ],
+    "morphology": "com-(함께) + placere(기쁘게 하다)의 조합으로, '함께 기쁘게 하는' 즉 '만족하는' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "complacently",
+        "meaning_ko": "안주하게"
+      },
+      {
+        "word": "complacency",
+        "meaning_ko": "안주"
+      }
+    ],
+    "related": [
+      {
+        "word": "satisfied",
+        "meaning_ko": "만족한"
+      },
+      {
+        "word": "self-satisfied",
+        "meaning_ko": "자만하는"
+      },
+      {
+        "word": "smug",
+        "meaning_ko": "뻐기는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "satisfied",
+        "meaning_ko": "만족한"
+      },
+      {
+        "word": "self-satisfied",
+        "meaning_ko": "자만하는"
+      },
+      {
+        "word": "smug",
+        "meaning_ko": "뻐기는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "content",
+        "meaning_ko": "만족한(범위가 더 넓음)"
+      },
+      {
+        "word": "indifferent",
+        "meaning_ko": "무관심한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ambitious",
+        "meaning_ko": "야심찬"
+      },
+      {
+        "word": "striving",
+        "meaning_ko": "노력하는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "complacent about",
+            "meaning_ko": "~에 대해 안주하는"
+          },
+          {
+            "phrase": "become complacent",
+            "meaning_ko": "안주하게 되다"
+          },
+          {
+            "phrase": "complacent attitude",
+            "meaning_ko": "안주하는 태도"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "complacent about success",
+            "meaning_ko": "성공에 대해 안주하는"
+          },
+          {
+            "phrase": "complacent behavior",
+            "meaning_ko": "안주하는 행동"
+          },
+          {
+            "phrase": "complacent response",
+            "meaning_ko": "안주하는 반응"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "complacent mindset",
+            "meaning_ko": "안주하는 사고방식"
+          },
+          {
+            "phrase": "complacent approach",
+            "meaning_ko": "안주하는 접근"
+          },
+          {
+            "phrase": "complacent culture",
+            "meaning_ko": "안주하는 문화"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He became complacent.",
+            "meaning_ko": "그는 안주하게 되었습니다."
+          },
+          {
+            "sentence": "She was complacent about her success.",
+            "meaning_ko": "그녀는 그녀의 성공에 대해 안주했습니다."
+          },
+          {
+            "sentence": "The team grew complacent.",
+            "meaning_ko": "그 팀은 안주하게 되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He became complacent, with his early success leading him to believe that further effort was unnecessary, though this attitude would eventually prove detrimental to his continued progress and achievement.",
+            "meaning_ko": "그는 안주하게 되었고, 그의 초기 성공이 추가 노력이 불필요하다고 믿게 만들었지만, 이 태도는 결국 그의 지속적인 진행과 성취에 해롭다는 것이 입증될 것입니다."
+          },
+          {
+            "sentence": "She was complacent about her success, with the achievement making her feel satisfied and reducing her motivation to continue improving, though this self-satisfaction could prevent her from reaching her full potential.",
+            "meaning_ko": "그녀는 그녀의 성공에 대해 안주했고, 그 성취가 그녀를 만족하게 만들고 계속 개선하려는 그녀의 동기를 감소시켰지만, 이 자기 만족은 그녀가 그녀의 전체 잠재력에 도달하는 것을 방지할 수 있습니다."
+          },
+          {
+            "sentence": "The team grew complacent, with their previous victories creating a sense of security that led to reduced effort and preparation, though this overconfidence would make them vulnerable to defeat by more motivated opponents.",
+            "meaning_ko": "그 팀은 안주하게 되었고, 그들의 이전 승리가 더 동기 부여된 상대에 의해 패배에 취약하게 만들 수 있는 감소된 노력과 준비로 이어지는 안전감을 만들었지만."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The complacent mindset that developed after the initial success proved to be a significant obstacle, with the self-satisfaction and lack of continued effort creating a situation where the organization failed to adapt to changing conditions and maintain its competitive advantage.",
+            "meaning_ko": "초기 성공 후에 발전한 그 안주하는 사고방식은 중요한 장애물임이 입증되었고, 자기 만족과 지속적인 노력의 부족이 그 조직이 변화하는 조건에 적응하고 그 경쟁 우위를 유지하는 데 실패하는 상황을 만들었습니다."
+          },
+          {
+            "sentence": "The complacent approach to quality control resulted in declining standards, with the lack of vigilance and continuous improvement allowing defects to go unnoticed and creating a situation where customer satisfaction and product reliability were compromised.",
+            "meaning_ko": "품질 관리에 대한 그 안주하는 접근은 감소하는 기준으로 이어졌고, 경계와 지속적 개선의 부족이 결함이 눈에 띄지 않게 가고 고객 만족과 제품 신뢰성이 손상된 상황을 만들었습니다."
+          },
+          {
+            "sentence": "The complacent culture within the organization prevented innovation and growth, with the widespread satisfaction with the status quo discouraging risk-taking and creative thinking, ultimately limiting the company's ability to respond to market changes and maintain relevance in a competitive environment.",
+            "meaning_ko": "그 조직 내의 그 안주하는 문화는 혁신과 성장을 방지했고, 현상 유지에 대한 광범위한 만족이 위험 감수와 창의적 사고를 낙담시켰으며, 궁극적으로 그 회사가 시장 변화에 대응하고 경쟁 환경에서 관련성을 유지하는 능력을 제한했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "complacent는 '안주하는, 자만하는' 또는 '무관심한, 태만한' 의미로, 현재 상태에 만족하여 더 이상 노력하지 않는 상태를 가리킵니다. satisfied, self-satisfied와 비슷하지만 더 부정적 뉘앙스가 있습니다. complacent about ~, become complacent 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: complacent = (A) ambitious (B) self-satisfied or smug (C) striving (D) motivated",
+            "a": "B",
+            "meaning_ko": "complacent는 '자만하는 또는 뻐기는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He became _____.",
+            "a": "complacent",
+            "meaning_ko": "complacent는 '안주하는' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of complacent? (A) satisfied (B) smug (C) ambitious (D) self-satisfied",
+            "a": "C",
+            "meaning_ko": "ambitious(야심찬)가 complacent의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: complacent _____ success. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "complacent about ~는 '~에 대해 안주하는' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: complacent = (A) ambitious (B) self-satisfied (C) striving (D) motivated",
+            "a": "B",
+            "meaning_ko": "self-satisfied(자만하는)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was complacent at her success.' → Fix the preposition.",
+            "a": "She was complacent about her success.",
+            "meaning_ko": "complacent about ~는 '~에 대해 안주하는' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He became complacent.'",
+            "a": "He developed a self-satisfied attitude, with his early success leading him to believe that further effort was unnecessary, though this overconfidence would eventually prove detrimental to his continued progress and achievement.",
+            "meaning_ko": "complacent는 '안주하는' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The team grew _____. (A) complacent (B) complacently (C) complacency (D) complacent's",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 complacent가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses complacent most appropriately? (A) The complacent ran. (B) He became complacent. (C) She complacent smiled. (D) Complacent is good.",
+            "a": "B",
+            "meaning_ko": "complacent는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abduct",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "납치하다, 유괴하다; 강제로 데려가거나 납치하다.",
+        "note": "강제로 데려가거나 납치하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "강제로 데려가거나 납치하는 납치.",
+    "etymology": "라틴어 abducere(데려가다)에서 유래했으며, ab-(떨어져) + ducere(이끌다)의 조합입니다.",
+    "semanticExtension": "원래는 '데려가다' 의미였고, 현대에는 '강제로 데려가거나 납치하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 법률과 범죄 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 쓰이며, abduct + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "abduct + 명사 : ~을 납치하다"
+    ],
+    "morphology": "ab-(떨어져) + ducere(이끌다)의 조합으로, '떨어져 이끌다' 즉 '납치하다' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "abducted",
+        "meaning_ko": "납치된(과거분사/형용사)"
+      },
+      {
+        "word": "abducting",
+        "meaning_ko": "납치하는(현재분사/형용사)"
+      },
+      {
+        "word": "abduction",
+        "meaning_ko": "납치"
+      },
+      {
+        "word": "abductor",
+        "meaning_ko": "납치범"
+      }
+    ],
+    "related": [
+      {
+        "word": "kidnap",
+        "meaning_ko": "납치하다"
+      },
+      {
+        "word": "seize",
+        "meaning_ko": "잡다"
+      },
+      {
+        "word": "capture",
+        "meaning_ko": "포획하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "kidnap",
+        "meaning_ko": "납치하다"
+      },
+      {
+        "word": "seize",
+        "meaning_ko": "잡다"
+      },
+      {
+        "word": "capture",
+        "meaning_ko": "포획하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "snatch",
+        "meaning_ko": "잡아채다(범위가 더 넓음)"
+      },
+      {
+        "word": "take",
+        "meaning_ko": "데려가다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "release",
+        "meaning_ko": "석방하다"
+      },
+      {
+        "word": "free",
+        "meaning_ko": "해방하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "abduct child",
+            "meaning_ko": "아이를 납치하다"
+          },
+          {
+            "phrase": "abduct person",
+            "meaning_ko": "사람을 납치하다"
+          },
+          {
+            "phrase": "abduct victim",
+            "meaning_ko": "피해자를 납치하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "abduct by force",
+            "meaning_ko": "강제로 납치하다"
+          },
+          {
+            "phrase": "abduct from",
+            "meaning_ko": "~에서 납치하다"
+          },
+          {
+            "phrase": "attempt to abduct",
+            "meaning_ko": "납치하려고 시도하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "abduct for ransom",
+            "meaning_ko": "몸값을 위해 납치하다"
+          },
+          {
+            "phrase": "abduct illegally",
+            "meaning_ko": "불법적으로 납치하다"
+          },
+          {
+            "phrase": "abduct and hold",
+            "meaning_ko": "납치하고 감금하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They abducted the child.",
+            "meaning_ko": "그들은 그 아이를 납치했습니다."
+          },
+          {
+            "sentence": "She was abducted.",
+            "meaning_ko": "그녀는 납치되었습니다."
+          },
+          {
+            "sentence": "The criminals abducted him.",
+            "meaning_ko": "그 범죄자들은 그를 납치했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They abducted the child, taking the victim by force and removing them from their location, with the illegal act creating a dangerous situation that required immediate law enforcement response and investigation.",
+            "meaning_ko": "그들은 그 아이를 납치했고, 그 피해자를 강제로 데려가고 그들의 위치에서 제거했으며, 그 불법 행위가 즉각적인 법 집행 대응과 조사를 요구하는 위험한 상황을 만들었습니다."
+          },
+          {
+            "sentence": "She was abducted, with the crime involving her being taken against her will and held against her wishes, though authorities launched an investigation and search operation to locate her and bring the perpetrators to justice.",
+            "meaning_ko": "그녀는 납치되었고, 그 범죄가 그녀의 의지에 반하여 데려가지고 그녀의 소원에 반하여 감금되는 것을 포함했지만, 당국은 그녀를 찾고 가해자를 법의 심판대로 데려오기 위해 조사와 수색 작전을 시작했습니다."
+          },
+          {
+            "sentence": "The criminals abducted him, with the illegal act involving force and coercion to take the victim from their location, though the crime would be investigated and those responsible would face serious legal consequences.",
+            "meaning_ko": "그 범죄자들은 그를 납치했고, 그 불법 행위가 그 피해자를 그들의 위치에서 데려가기 위해 힘과 강제를 포함했지만, 그 범죄는 조사될 것이고 책임 있는 사람들은 심각한 법적 결과에 직면할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The criminals abducted the victim for ransom, with the kidnapping involving demands for payment in exchange for the victim's release, though the illegal act would trigger a comprehensive law enforcement response and investigation to secure the victim's safe return and apprehend those responsible.",
+            "meaning_ko": "그 범죄자들은 몸값을 위해 그 피해자를 납치했고, 그 납치가 그 피해자의 석방과 교환하여 지불에 대한 요구를 포함했지만, 그 불법 행위는 그 피해자의 안전한 귀환을 확보하고 책임 있는 사람들을 체포하기 위해 포괄적인 법 집행 대응과 조사를 촉발할 것입니다."
+          },
+          {
+            "sentence": "The investigation revealed that the victim had been abducted illegally, with the crime involving multiple perpetrators and a coordinated effort to take the individual against their will, though the case would require extensive resources and international cooperation to resolve.",
+            "meaning_ko": "그 조사는 그 피해자가 불법적으로 납치되었음을 드러냈고, 그 범죄가 여러 가해자와 그 개인의 의지에 반하여 그 개인을 데려가기 위한 조정된 노력을 포함했지만, 그 사건은 해결하기 위해 광범위한 자원과 국제 협력을 요구할 것입니다."
+          },
+          {
+            "sentence": "The criminals planned to abduct and hold the victim, with the scheme involving careful preparation and coordination to carry out the illegal act, though law enforcement agencies were monitoring the situation and would intervene to prevent the crime and protect the potential victim.",
+            "meaning_ko": "그 범죄자들은 그 피해자를 납치하고 감금할 계획을 세웠고, 그 계획이 그 불법 행위를 수행하기 위해 신중한 준비와 조정을 포함했지만, 법 집행 기관이 그 상황을 모니터링하고 있었고 그 범죄를 방지하고 잠재적 피해자를 보호하기 위해 개입할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "abduct는 '납치하다, 유괴하다' 의미로, 강제로 데려가거나 납치하는 행동을 가리킵니다. kidnap, seize와 비슷하지만 더 공식적 뉘앙스가 있습니다. abduct child, abduct by force 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "법률",
+      "범죄",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: abduct = (A) release (B) kidnap or seize (C) free (D) liberate",
+            "a": "B",
+            "meaning_ko": "abduct는 '납치하다 또는 잡다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They _____ the child.",
+            "a": "abducted",
+            "meaning_ko": "abduct는 '납치하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of abduct? (A) kidnap (B) seize (C) release (D) capture",
+            "a": "C",
+            "meaning_ko": "release(석방하다)가 abduct의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She was _____. (A) abduct (B) abducted (C) abducting (D) abducts",
+            "a": "B",
+            "meaning_ko": "수동태에서 과거분사 abducted가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: abduct = (A) release (B) kidnap (C) free (D) liberate",
+            "a": "B",
+            "meaning_ko": "kidnap(납치하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They abducted the childs.' → Fix the sentence.",
+            "a": "They abducted the child.",
+            "meaning_ko": "child의 복수형은 children입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They abducted the child.'",
+            "a": "They kidnapped the child, taking the victim by force and removing them from their location, with the illegal act involving coercion and creating a dangerous situation that required immediate law enforcement response.",
+            "meaning_ko": "abduct는 '납치하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The criminals _____ him. (A) abduct (B) abducted (C) abducting (D) abducts",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 abducted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses abduct most appropriately? (A) The abduct ran. (B) They abducted the child. (C) She abduct smiled. (D) Abduct is good.",
+            "a": "B",
+            "meaning_ko": "abduct는 동사로 '납치하다'를 의미하며, 타동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

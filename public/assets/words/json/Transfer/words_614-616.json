@@ -1,0 +1,836 @@
+[
+  {
+    "word": "segment",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "부분, 구간; 전체의 일부나 구간.",
+        "note": "전체의 일부나 구간을 가리킵니다."
+      },
+      {
+        "definition_ko": "나누다, 분할하다; 전체를 부분이나 구간으로 나누거나 분할하다.",
+        "note": "전체를 부분이나 구간으로 나누거나 분할하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "전체의 일부나 구간인 부분, 또는 전체를 부분이나 구간으로 나누거나 분할하는 것.",
+    "etymology": "라틴어 segmentum(자른 조각)에서 유래했으며, 원래는 '자른 조각' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래는 '자른 조각' 의미였고, 현대에도 같은 의미로 사용되며 비유적으로 '부분'으로도 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로, a segment, segments 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, segment + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 부분",
+        "example": "segment of the population"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "~로 나누다",
+        "example": "segment into parts"
+      }
+    ],
+    "requiredComplements": [
+      "segment of + 명사 : ~의 부분",
+      "segment into + 명사 : ~로 나누다",
+      "segment + 명사 : ~을 나누다",
+      "a segment : 부분"
+    ],
+    "morphology": "라틴어 segmentum에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "segmentation",
+        "meaning_ko": "분할"
+      },
+      {
+        "word": "segmented",
+        "meaning_ko": "분할된(과거분사/형용사)"
+      },
+      {
+        "word": "segmenting",
+        "meaning_ko": "분할하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "section",
+        "meaning_ko": "부분"
+      },
+      {
+        "word": "part",
+        "meaning_ko": "부분"
+      },
+      {
+        "word": "divide",
+        "meaning_ko": "나누다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "section",
+        "meaning_ko": "부분"
+      },
+      {
+        "word": "part",
+        "meaning_ko": "부분"
+      },
+      {
+        "word": "divide",
+        "meaning_ko": "나누다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "portion",
+        "meaning_ko": "부분(범위가 더 넓음)"
+      },
+      {
+        "word": "fragment",
+        "meaning_ko": "조각"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whole",
+        "meaning_ko": "전체"
+      },
+      {
+        "word": "entirety",
+        "meaning_ko": "전체"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "segment of",
+            "meaning_ko": "~의 부분"
+          },
+          {
+            "phrase": "segment into",
+            "meaning_ko": "~로 나누다"
+          },
+          {
+            "phrase": "market segment",
+            "meaning_ko": "시장 세분화"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "segment of the population",
+            "meaning_ko": "인구의 일부"
+          },
+          {
+            "phrase": "segment the market",
+            "meaning_ko": "시장을 세분화하다"
+          },
+          {
+            "phrase": "target segment",
+            "meaning_ko": "타겟 세그먼트"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "segment analysis",
+            "meaning_ko": "세그먼트 분석"
+          },
+          {
+            "phrase": "segment strategy",
+            "meaning_ko": "세그먼트 전략"
+          },
+          {
+            "phrase": "segment identification",
+            "meaning_ko": "세그먼트 식별"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Each segment of the program was important.",
+            "meaning_ko": "그 프로그램의 각 부분은 중요했습니다."
+          },
+          {
+            "sentence": "They segmented the market into groups.",
+            "meaning_ko": "그들은 그 시장을 그룹으로 세분화했습니다."
+          },
+          {
+            "sentence": "The segment showed different results.",
+            "meaning_ko": "그 부분은 다른 결과를 보여주었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Each segment of the program was important, with different components addressing specific aspects of the overall goal, requiring careful coordination to ensure that all parts worked together effectively.",
+            "meaning_ko": "그 프로그램의 각 부분은 중요했고, 다른 구성 요소가 전체 목표의 특정 측면을 다루었으며, 모든 부분이 효과적으로 함께 작동하도록 보장하기 위해 신중한 조정을 요구했습니다."
+          },
+          {
+            "sentence": "They segmented the market into groups, dividing consumers based on demographics, preferences, and behaviors, which allowed for more targeted marketing strategies and better understanding of customer needs.",
+            "meaning_ko": "그들은 그 시장을 그룹으로 세분화했고, 인구 통계, 선호도, 행동에 기반하여 소비자를 나누었으며, 이것은 더 타겟팅된 마케팅 전략과 고객 필요에 대한 더 나은 이해를 허용했습니다."
+          },
+          {
+            "sentence": "The segment showed different results, with the data revealing distinct patterns and trends that required separate analysis and interpretation, highlighting the importance of understanding each part individually.",
+            "meaning_ko": "그 부분은 다른 결과를 보여주었고, 데이터가 별도의 분석과 해석을 요구하는 뚜렷한 패턴과 추세를 드러냈으며, 각 부분을 개별적으로 이해하는 것의 중요성을 강조했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The segment analysis revealed significant variations in consumer behavior across different demographic groups, with each segment displaying unique preferences and purchasing patterns that required customized approaches to marketing and product development.",
+            "meaning_ko": "그 세그먼트 분석은 다른 인구 통계 그룹에 걸쳐 소비자 행동의 중요한 변형을 드러냈고, 각 세그먼트가 마케팅과 제품 개발에 대한 맞춤형 접근을 요구하는 고유한 선호도와 구매 패턴을 표시했습니다."
+          },
+          {
+            "sentence": "The segment strategy developed by the company involved identifying and targeting specific customer groups with tailored products and messaging, maximizing the effectiveness of marketing efforts by focusing resources on the most promising segments.",
+            "meaning_ko": "그 회사가 개발한 그 세그먼트 전략은 맞춤형 제품과 메시징으로 특정 고객 그룹을 식별하고 타겟팅하는 것을 포함했고, 가장 유망한 세그먼트에 자원을 집중함으로써 마케팅 노력의 효과를 극대화했습니다."
+          },
+          {
+            "sentence": "The segment identification process required sophisticated data analysis and market research, as the company needed to understand not just who their customers were but also how different groups responded to various marketing initiatives and product features.",
+            "meaning_ko": "그 세그먼트 식별 과정은 정교한 데이터 분석과 시장 조사를 요구했고, 그 회사가 그들의 고객이 누구인지뿐만 아니라 다른 그룹이 다양한 마케팅 이니셔티브와 제품 기능에 어떻게 반응하는지 이해해야 했기 때문입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "segment는 '부분, 구간' 또는 '나누다, 분할하다' 의미로, 전체의 일부나 구간을 가리킵니다. section, part와 비슷하지만 더 전문적 뉘앙스가 있습니다. segment of ~, segment into ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "비즈니스",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: segment = (A) whole (B) part or section (C) entirety (D) complete",
+            "a": "B",
+            "meaning_ko": "segment는 '부분 또는 구간' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Each _____ of the program was important.",
+            "a": "segment",
+            "meaning_ko": "segment는 '부분'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of segment? (A) section (B) part (C) whole (D) portion",
+            "a": "C",
+            "meaning_ko": "whole(전체)가 segment의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: segment _____ the population. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "segment of ~는 '~의 부분' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: segment = (A) whole (B) section (C) entirety (D) complete",
+            "a": "B",
+            "meaning_ko": "section(부분)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'Each segment at the program was important.' → Fix the preposition.",
+            "a": "Each segment of the program was important.",
+            "meaning_ko": "segment of ~는 '~의 부분' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Each segment of the program was important.'",
+            "a": "Each individual part or section of the program played a crucial role, with every component contributing to the overall success and requiring careful attention to ensure that all segments worked together effectively.",
+            "meaning_ko": "segment는 '부분'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the market into groups. (A) segment (B) segments (C) segmenting (D) segmented",
+            "a": "D",
+            "meaning_ko": "과거 시제에서 과거형 segmented가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses segment most appropriately? (A) The segment ran. (B) Each segment of the program was important. (C) She segment smiled. (D) Segment is good.",
+            "a": "B",
+            "meaning_ko": "segment는 명사로 '부분'을 의미하며, of와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "estate",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "부동산, 토지; 부동산이나 토지.",
+        "note": "부동산이나 토지를 가리킵니다."
+      },
+      {
+        "definition_ko": "재산, 유산; 개인이 소유한 재산이나 유산.",
+        "note": "개인이 소유한 재산이나 유산을 가리킵니다."
+      },
+      {
+        "definition_ko": "계급, 신분; 사회적 계급이나 신분.",
+        "note": "사회적 계급이나 신분을 가리킵니다."
+      }
+    ],
+    "concept": "부동산이나 토지인 부동산, 또는 개인이 소유한 재산이나 유산인 재산, 또는 사회적 계급이나 신분인 계급.",
+    "etymology": "라틴어 status(상태)에서 유래했으며, 원래는 '상태' 의미였으나 현대에는 '부동산'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '상태' 의미였으나, 현대에는 '부동산이나 토지' 또는 '개인이 소유한 재산이나 유산' 또는 '사회적 계급이나 신분'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 법률과 부동산 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사와 불가산명사로 모두 사용되며, an estate, estates, estate 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 재산",
+        "example": "estate of the deceased"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에 있는 부동산",
+        "example": "estate in the country"
+      }
+    ],
+    "requiredComplements": [
+      "estate of + 명사 : ~의 재산",
+      "estate in + 명사 : ~에 있는 부동산",
+      "an estate : 부동산"
+    ],
+    "morphology": "라틴어 status에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "estate agent",
+        "meaning_ko": "부동산 중개인"
+      },
+      {
+        "word": "real estate",
+        "meaning_ko": "부동산"
+      }
+    ],
+    "related": [
+      {
+        "word": "property",
+        "meaning_ko": "재산"
+      },
+      {
+        "word": "land",
+        "meaning_ko": "토지"
+      },
+      {
+        "word": "inheritance",
+        "meaning_ko": "유산"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "property",
+        "meaning_ko": "재산"
+      },
+      {
+        "word": "land",
+        "meaning_ko": "토지"
+      },
+      {
+        "word": "inheritance",
+        "meaning_ko": "유산"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "assets",
+        "meaning_ko": "자산(범위가 더 넓음)"
+      },
+      {
+        "word": "holdings",
+        "meaning_ko": "보유 자산"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "real estate",
+            "meaning_ko": "부동산"
+          },
+          {
+            "phrase": "estate agent",
+            "meaning_ko": "부동산 중개인"
+          },
+          {
+            "phrase": "estate of",
+            "meaning_ko": "~의 재산"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "estate planning",
+            "meaning_ko": "유산 계획"
+          },
+          {
+            "phrase": "estate tax",
+            "meaning_ko": "유산세"
+          },
+          {
+            "phrase": "estate sale",
+            "meaning_ko": "유산 매각"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "estate administration",
+            "meaning_ko": "유산 관리"
+          },
+          {
+            "phrase": "estate distribution",
+            "meaning_ko": "유산 분배"
+          },
+          {
+            "phrase": "estate valuation",
+            "meaning_ko": "유산 평가"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He inherited a large estate.",
+            "meaning_ko": "그는 큰 재산을 상속받았습니다."
+          },
+          {
+            "sentence": "The estate was worth millions.",
+            "meaning_ko": "그 재산은 수백만 달러의 가치가 있었습니다."
+          },
+          {
+            "sentence": "She worked as an estate agent.",
+            "meaning_ko": "그녀는 부동산 중개인으로 일했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He inherited a large estate, including property, investments, and other assets that had been accumulated over generations, which required careful management and planning to preserve and grow.",
+            "meaning_ko": "그는 큰 재산을 상속받았고, 세대에 걸쳐 축적된 부동산, 투자, 기타 자산을 포함했으며, 이것은 보존하고 성장시키기 위해 신중한 관리와 계획을 요구했습니다."
+          },
+          {
+            "sentence": "The estate was worth millions, with the total value including real estate holdings, financial investments, and personal property, making it one of the most significant inheritances in the region.",
+            "meaning_ko": "그 재산은 수백만 달러의 가치가 있었고, 총 가치가 부동산 보유, 금융 투자, 개인 재산을 포함했으며, 이것을 그 지역에서 가장 중요한 유산 중 하나로 만들었습니다."
+          },
+          {
+            "sentence": "She worked as an estate agent, helping clients buy and sell properties, providing expertise in market analysis, property valuation, and negotiation to ensure successful transactions.",
+            "meaning_ko": "그녀는 부동산 중개인으로 일했고, 고객이 부동산을 사고 파는 것을 도왔으며, 성공적인 거래를 보장하기 위해 시장 분석, 부동산 평가, 협상에서 전문성을 제공했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The estate administration process was complex, involving legal procedures, tax considerations, and asset distribution that required coordination between lawyers, accountants, and family members to ensure that the deceased's wishes were honored and all legal requirements were met.",
+            "meaning_ko": "그 유산 관리 과정은 복잡했고, 법적 절차, 세금 고려, 자산 분배를 포함했으며, 사망자의 소원이 존중되고 모든 법적 요구 사항이 충족되도록 변호사, 회계사, 가족 구성원 사이의 조정을 요구했습니다."
+          },
+          {
+            "sentence": "The estate distribution followed the terms of the will, with assets divided among beneficiaries according to specific instructions, though disputes arose when some family members contested the allocation, leading to lengthy legal proceedings.",
+            "meaning_ko": "그 유산 분배는 유언장의 조건을 따랐고, 자산이 특정 지시에 따라 수혜자들 사이에 나뉘었지만, 일부 가족 구성원이 할당에 이의를 제기했을 때 분쟁이 발생했고, 긴 법적 절차로 이어졌습니다."
+          },
+          {
+            "sentence": "The estate valuation required comprehensive assessment of all assets, including real estate, investments, business interests, and personal property, with professional appraisers determining fair market value for each component to ensure accurate tax reporting and equitable distribution.",
+            "meaning_ko": "그 유산 평가는 모든 자산의 포괄적 평가를 요구했고, 부동산, 투자, 사업 이익, 개인 재산을 포함했으며, 전문 평가사가 각 구성 요소에 대한 공정한 시장 가치를 결정하여 정확한 세금 보고와 공정한 분배를 보장했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "estate는 '부동산, 토지' 또는 '재산, 유산' 또는 '계급, 신분' 의미로, 부동산이나 토지를 가리킵니다. property, land와 비슷하지만 더 법적 뉘앙스가 있습니다. real estate, estate of ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "법률",
+      "부동산",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: estate = (A) debt (B) property or inheritance (C) poverty (D) loss",
+            "a": "B",
+            "meaning_ko": "estate는 '재산 또는 유산' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He inherited a large _____.",
+            "a": "estate",
+            "meaning_ko": "estate는 '재산'을 의미합니다."
+          },
+          {
+            "q": "Which is a common phrase with estate? (A) real estate (B) fake estate (C) small estate (D) new estate",
+            "a": "A",
+            "meaning_ko": "real estate(부동산)가 일반적인 구입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: estate _____ the deceased. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "estate of ~는 '~의 재산' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: estate = (A) debt (B) property (C) poverty (D) loss",
+            "a": "B",
+            "meaning_ko": "property(재산)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He inherited a large estate at his father.' → Fix the preposition.",
+            "a": "He inherited a large estate from his father.",
+            "meaning_ko": "inherit from ~는 '~로부터 상속받다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He inherited a large estate.'",
+            "a": "He received a substantial amount of property, assets, and wealth through inheritance, acquiring ownership of real estate, investments, and other valuable possessions that had belonged to a deceased family member.",
+            "meaning_ko": "estate는 '재산'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ was worth millions. (A) estate (B) estates (C) estate's (D) estating",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 estate가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses estate most appropriately? (A) The estate ran. (B) He inherited a large estate. (C) She estate smiled. (D) Estate is good.",
+            "a": "B",
+            "meaning_ko": "estate는 명사로 '재산'을 의미하며, inherit와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quake",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "떨다, 진동하다; 빠르게 떨거나 진동하다.",
+        "note": "빠르게 떨거나 진동하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "지진, 진동; 땅이 떨리거나 진동하는 현상.",
+        "note": "땅이 떨리거나 진동하는 현상을 가리킵니다."
+      }
+    ],
+    "concept": "빠르게 떨거나 진동하는 것, 또는 땅이 떨리거나 진동하는 현상인 지진.",
+    "etymology": "고대 영어 cwacian(떨다)에서 유래했으며, 원래는 '떨다' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래는 '떨다' 의미였고, 현대에도 같은 의미로 사용되며 비유적으로 '지진'으로도 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 지리와 자연 현상 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "동사로는 자동사로 쓰이며, quake, quakes, quaked, quaking 형태로 자주 사용됩니다. 명사로는 가산명사로, a quake, quakes 형태로 자주 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 떨다",
+        "example": "quake with fear"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "~에 떨다",
+        "example": "quake at the thought"
+      }
+    ],
+    "requiredComplements": [
+      "quake : 떨다",
+      "quake with + 명사 : ~로 떨다",
+      "quake at + 명사 : ~에 떨다",
+      "a quake : 지진"
+    ],
+    "morphology": "고대 영어 cwacian에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "quaking",
+        "meaning_ko": "떨리는(현재분사/형용사)"
+      },
+      {
+        "word": "quaked",
+        "meaning_ko": "떨린(과거분사/형용사)"
+      },
+      {
+        "word": "earthquake",
+        "meaning_ko": "지진"
+      }
+    ],
+    "related": [
+      {
+        "word": "tremble",
+        "meaning_ko": "떨다"
+      },
+      {
+        "word": "shake",
+        "meaning_ko": "흔들다"
+      },
+      {
+        "word": "earthquake",
+        "meaning_ko": "지진"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "tremble",
+        "meaning_ko": "떨다"
+      },
+      {
+        "word": "shake",
+        "meaning_ko": "흔들다"
+      },
+      {
+        "word": "earthquake",
+        "meaning_ko": "지진"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "vibrate",
+        "meaning_ko": "진동하다(범위가 더 넓음)"
+      },
+      {
+        "word": "shiver",
+        "meaning_ko": "떨다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "steady",
+        "meaning_ko": "안정된"
+      },
+      {
+        "word": "stable",
+        "meaning_ko": "안정적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "quake with",
+            "meaning_ko": "~로 떨다"
+          },
+          {
+            "phrase": "earthquake",
+            "meaning_ko": "지진"
+          },
+          {
+            "phrase": "quake at",
+            "meaning_ko": "~에 떨다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "quake with fear",
+            "meaning_ko": "공포로 떨다"
+          },
+          {
+            "phrase": "quake with cold",
+            "meaning_ko": "추위로 떨다"
+          },
+          {
+            "phrase": "major quake",
+            "meaning_ko": "대지진"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "quake in one's boots",
+            "meaning_ko": "무서워 떨다"
+          },
+          {
+            "phrase": "seismic quake",
+            "meaning_ko": "지진"
+          },
+          {
+            "phrase": "quake intensity",
+            "meaning_ko": "지진 강도"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The ground began to quake.",
+            "meaning_ko": "땅이 떨리기 시작했습니다."
+          },
+          {
+            "sentence": "She quaked with fear.",
+            "meaning_ko": "그녀는 공포로 떨었습니다."
+          },
+          {
+            "sentence": "The quake caused damage.",
+            "meaning_ko": "그 지진은 피해를 일으켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The ground began to quake, with the violent shaking causing buildings to sway and people to lose their balance, as the seismic activity created widespread panic and concern about potential structural damage.",
+            "meaning_ko": "땅이 떨리기 시작했고, 그 격렬한 흔들림이 건물을 흔들고 사람들이 균형을 잃게 만들었으며, 그 지진 활동이 광범위한 공황과 잠재적 구조적 피해에 대한 우려를 만들었기 때문입니다."
+          },
+          {
+            "sentence": "She quaked with fear, her entire body trembling uncontrollably as the overwhelming emotion took hold, making it difficult for her to think clearly or take any action to protect herself.",
+            "meaning_ko": "그녀는 공포로 떨었고, 그 압도적인 감정이 장악하면서 그녀의 전체 몸이 통제할 수 없이 떨렸으며, 그녀가 명확하게 생각하거나 자신을 보호하기 위한 어떤 행동도 취하는 것을 어렵게 만들었습니다."
+          },
+          {
+            "sentence": "The quake caused damage, with buildings collapsing, roads cracking, and infrastructure being compromised, leading to significant economic losses and requiring extensive reconstruction efforts.",
+            "meaning_ko": "그 지진은 피해를 일으켰고, 건물이 붕괴되고, 도로가 갈라지고, 인프라가 손상되었으며, 중요한 경제적 손실로 이어졌고 광범위한 재건 노력을 요구했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The quake in one's boots expression captured the intensity of the fear, as the person's entire body trembled with such force that it seemed as if the ground itself was shaking, reflecting the profound psychological impact of the terrifying situation.",
+            "meaning_ko": "그 무서워 떨다 표현은 그 공포의 강도를 포착했고, 그 사람의 전체 몸이 땅 자체가 흔들리는 것처럼 보일 정도로 그런 힘으로 떨렸으며, 그 무서운 상황의 깊은 심리적 영향을 반영했습니다."
+          },
+          {
+            "sentence": "The seismic quake that struck the region was one of the most powerful in recorded history, with the Richter scale measuring the intensity and the resulting devastation affecting millions of people across multiple countries.",
+            "meaning_ko": "그 지역을 강타한 그 지진은 기록된 역사에서 가장 강력한 것 중 하나였고, 리히터 규모가 강도를 측정했고 그 결과로 인한 파괴가 여러 국가에 걸쳐 수백만 명의 사람들에게 영향을 미쳤습니다."
+          },
+          {
+            "sentence": "The quake intensity measured by seismologists revealed the magnitude of the geological event, with the data helping to understand the underlying causes and predict potential aftershocks that could pose additional risks to already vulnerable areas.",
+            "meaning_ko": "지진학자들이 측정한 그 지진 강도는 그 지질학적 사건의 규모를 드러냈고, 데이터가 근본 원인을 이해하고 이미 취약한 지역에 추가 위험을 초래할 수 있는 잠재적 여진을 예측하는 데 도움이 되었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "quake는 '떨다, 진동하다' 또는 '지진, 진동' 의미로, 빠르게 떨거나 진동하는 행동을 가리킵니다. tremble, shake와 비슷하지만 더 강한 뉘앙스가 있습니다. quake with ~, earthquake 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "지리",
+      "자연",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: quake = (A) steady (B) tremble or earthquake (C) stable (D) calm",
+            "a": "B",
+            "meaning_ko": "quake는 '떨다 또는 지진' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The ground began to _____.",
+            "a": "quake",
+            "meaning_ko": "quake는 '떨다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of quake? (A) tremble (B) shake (C) steady (D) earthquake",
+            "a": "C",
+            "meaning_ko": "steady(안정된)가 quake의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: quake _____ fear. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "quake with ~는 '~로 떨다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: quake = (A) steady (B) tremble (C) stable (D) calm",
+            "a": "B",
+            "meaning_ko": "tremble(떨다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She quaked at fear.' → Fix the preposition.",
+            "a": "She quaked with fear.",
+            "meaning_ko": "quake with ~는 '~로 떨다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The ground began to quake.'",
+            "a": "The earth started to shake and tremble violently, with the ground moving in a way that created vibrations and instability, typically caused by seismic activity or geological forces.",
+            "meaning_ko": "quake는 '떨다'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ caused damage. (A) quake (B) quakes (C) quaking (D) quaked",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 quake가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses quake most appropriately? (A) The quake ran. (B) The ground began to quake. (C) She quake smiled. (D) Quake is good.",
+            "a": "B",
+            "meaning_ko": "quake는 동사로 '떨다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

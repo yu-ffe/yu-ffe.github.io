@@ -1,0 +1,809 @@
+[
+  {
+    "word": "counterfeit",
+    "partOfSpeech": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "위조의, 가짜의; 진짜가 아닌 위조된.",
+        "note": "진짜가 아닌 위조된 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "위조품, 가짜; 진짜가 아닌 위조된 물건.",
+        "note": "진짜가 아닌 위조된 물건을 가리킵니다."
+      },
+      {
+        "definition_ko": "위조하다, 가짜로 만들다; 진짜가 아닌 것을 만들거나 위조하다.",
+        "note": "진짜가 아닌 것을 만들거나 위조하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "진짜가 아닌 위조된 상태, 또는 진짜가 아닌 것을 만들거나 위조하는 것.",
+    "etymology": "프랑스어 contrefaire(모방하다)에서 유래했으며, 원래는 '모방하다' 의미였으나 현대에는 '위조하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '모방하다' 의미였으나, 현대에는 '진짜가 아닌 것을 만들거나 위조하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 명사를 수식하거나 서술어로, 명사로는 가산명사로, 동사로는 타동사로 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "counterfeit + 명사 : ~을 위조하다",
+      "counterfeit money : 위조 지폐"
+    ],
+    "morphology": "프랑스어 contrefaire에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "counterfeiting",
+        "meaning_ko": "위조하는(현재분사/형용사)"
+      },
+      {
+        "word": "counterfeiter",
+        "meaning_ko": "위조자"
+      },
+      {
+        "word": "counterfeited",
+        "meaning_ko": "위조된(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "fake",
+        "meaning_ko": "가짜의"
+      },
+      {
+        "word": "forged",
+        "meaning_ko": "위조된"
+      },
+      {
+        "word": "imitation",
+        "meaning_ko": "모방품"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "fake",
+        "meaning_ko": "가짜의"
+      },
+      {
+        "word": "forged",
+        "meaning_ko": "위조된"
+      },
+      {
+        "word": "imitation",
+        "meaning_ko": "모방품"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "false",
+        "meaning_ko": "거짓의(범위가 더 넓음)"
+      },
+      {
+        "word": "bogus",
+        "meaning_ko": "가짜의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "genuine",
+        "meaning_ko": "진짜의"
+      },
+      {
+        "word": "authentic",
+        "meaning_ko": "진정한"
+      },
+      {
+        "word": "real",
+        "meaning_ko": "진짜의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "counterfeit money",
+            "meaning_ko": "위조 지폐"
+          },
+          {
+            "phrase": "counterfeit goods",
+            "meaning_ko": "위조 상품"
+          },
+          {
+            "phrase": "counterfeit document",
+            "meaning_ko": "위조 문서"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "counterfeit currency",
+            "meaning_ko": "위조 통화"
+          },
+          {
+            "phrase": "counterfeit product",
+            "meaning_ko": "위조 제품"
+          },
+          {
+            "phrase": "counterfeit signature",
+            "meaning_ko": "위조 서명"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "counterfeit certificate",
+            "meaning_ko": "위조 증명서"
+          },
+          {
+            "phrase": "counterfeit passport",
+            "meaning_ko": "위조 여권"
+          },
+          {
+            "phrase": "counterfeit artwork",
+            "meaning_ko": "위조 예술품"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The police found counterfeit money in his possession.",
+            "meaning_ko": "경찰은 그의 소지품에서 위조 지폐를 발견했습니다."
+          },
+          {
+            "sentence": "They were arrested for counterfeiting documents.",
+            "meaning_ko": "그들은 문서 위조로 체포되었습니다."
+          },
+          {
+            "sentence": "The counterfeit goods were confiscated.",
+            "meaning_ko": "그 위조 상품들은 압수되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The police found counterfeit money in his possession, leading to charges of fraud and illegal currency production that could result in significant penalties.",
+            "meaning_ko": "경찰은 그의 소지품에서 위조 지폐를 발견했고, 상당한 처벌로 이어질 수 있는 사기와 불법 통화 생산 혐의로 이어졌습니다."
+          },
+          {
+            "sentence": "They were arrested for counterfeiting documents, including passports and identification cards, which they had been selling to individuals seeking to evade legal restrictions.",
+            "meaning_ko": "그들은 여권과 신분증을 포함한 문서 위조로 체포되었고, 그것들을 법적 제한을 피하려는 개인들에게 판매하고 있었습니다."
+          },
+          {
+            "sentence": "The counterfeit goods were confiscated by customs officials, who identified them as unauthorized reproductions of branded products that violated intellectual property rights.",
+            "meaning_ko": "그 위조 상품들은 세관 공무원들에 의해 압수되었고, 그들은 그것들을 지적 재산권을 위반한 브랜드 제품의 무단 복제품으로 식별했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The investigation into the counterfeit certificate scheme revealed a sophisticated operation that involved multiple individuals and advanced printing technology to create convincing forgeries.",
+            "meaning_ko": "그 위조 증명서 계획에 대한 조사는 설득력 있는 위조품을 만들기 위해 여러 개인과 첨단 인쇄 기술을 포함한 정교한 작전을 드러냈습니다."
+          },
+          {
+            "sentence": "The discovery of counterfeit passports in the criminal network exposed vulnerabilities in document security systems and raised concerns about border control effectiveness.",
+            "meaning_ko": "그 범죄 네트워크에서 위조 여권의 발견은 문서 보안 시스템의 취약점을 드러냈고 국경 통제 효과에 대한 우려를 제기했습니다."
+          },
+          {
+            "sentence": "The art market was shaken by the revelation of counterfeit artwork that had been sold as authentic pieces, leading to lawsuits and a loss of confidence among collectors and investors.",
+            "meaning_ko": "그 예술 시장은 진정한 작품으로 판매되었던 위조 예술품의 폭로로 흔들렸고, 소송과 수집가들과 투자자들 사이의 신뢰 상실로 이어졌습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "counterfeit는 '위조의, 가짜의' 또는 '위조하다' 의미로, 진짜가 아닌 위조된 상태를 가리킵니다. fake, forged와 비슷하지만 더 공식적이고 법적 뉘앙스가 있습니다. counterfeit money, counterfeit goods 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "법률",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: counterfeit = (A) genuine (B) fake or forged (C) authentic (D) real",
+            "a": "B",
+            "meaning_ko": "counterfeit는 '가짜의 또는 위조된' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The police found _____ money in his possession.",
+            "a": "counterfeit",
+            "meaning_ko": "counterfeit는 '위조된' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of counterfeit? (A) fake (B) forged (C) genuine (D) imitation",
+            "a": "C",
+            "meaning_ko": "genuine(진짜의)가 counterfeit의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They were arrested for _____ documents. (A) counterfeit (B) counterfeiting (C) counterfeited (D) counterfeits",
+            "a": "B",
+            "meaning_ko": "동명사로 counterfeiting가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: counterfeit = (A) genuine (B) fake (C) authentic (D) real",
+            "a": "B",
+            "meaning_ko": "fake(가짜의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The money was counterfeitly.' → Fix the sentence.",
+            "a": "The money was counterfeit.",
+            "meaning_ko": "be 동사 뒤에는 형용사 counterfeit가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They were arrested for counterfeiting documents.'",
+            "a": "They were taken into custody by law enforcement for the crime of creating false and unauthorized copies of official papers and identification materials.",
+            "meaning_ko": "counterfeiting documents는 '문서 위조'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ goods were confiscated. (A) counterfeit (B) counterfeiting (C) counterfeited (D) counterfeits",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 counterfeit가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses counterfeit most appropriately? (A) The counterfeit ran. (B) The counterfeit money was found. (C) She counterfeit smiled. (D) Counterfeit is good.",
+            "a": "B",
+            "meaning_ko": "counterfeit는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "galvanize",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "자극하다, 활성화하다; 사람이나 그룹을 행동하도록 자극하거나 활성화하다.",
+        "note": "사람이나 그룹을 행동하도록 자극하거나 활성화하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "아연 도금하다; 철이나 강철에 아연을 도금하다.",
+        "note": "철이나 강철에 아연을 도금하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "사람이나 그룹을 행동하도록 자극하거나 활성화하는 것, 또는 철이나 강철에 아연을 도금하는 것.",
+    "etymology": "갈바니(Luigi Galvani)의 이름에서 유래했으며, 원래는 '전기로 자극하다' 의미였으나 현대에는 '자극하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '전기로 자극하다' 의미였으나, 현대에는 '사람이나 그룹을 행동하도록 자극하다' 또는 '아연 도금하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 galvanize + 명사 형태로 자주 쓰이며, galvanize + 명사 + into + 동명사 형태도 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~하도록 자극하다",
+        "example": "galvanize into action"
+      }
+    ],
+    "requiredComplements": [
+      "galvanize + 명사 : ~을 자극하다",
+      "galvanize + 명사 + into + 동명사 : ~하도록 ~을 자극하다"
+    ],
+    "morphology": "갈바니의 이름에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "galvanization",
+        "meaning_ko": "자극, 아연 도금"
+      },
+      {
+        "word": "galvanized",
+        "meaning_ko": "자극된/아연 도금된(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "stimulate",
+        "meaning_ko": "자극하다"
+      },
+      {
+        "word": "energize",
+        "meaning_ko": "활성화하다"
+      },
+      {
+        "word": "motivate",
+        "meaning_ko": "동기 부여하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "stimulate",
+        "meaning_ko": "자극하다"
+      },
+      {
+        "word": "energize",
+        "meaning_ko": "활성화하다"
+      },
+      {
+        "word": "motivate",
+        "meaning_ko": "동기 부여하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "inspire",
+        "meaning_ko": "영감을 주다(범위가 더 넓음)"
+      },
+      {
+        "word": "rouse",
+        "meaning_ko": "깨우다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "discourage",
+        "meaning_ko": "좌절시키다"
+      },
+      {
+        "word": "deter",
+        "meaning_ko": "억제하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "galvanize into",
+            "meaning_ko": "~하도록 자극하다"
+          },
+          {
+            "phrase": "galvanize support",
+            "meaning_ko": "지원을 자극하다"
+          },
+          {
+            "phrase": "galvanize action",
+            "meaning_ko": "행동을 자극하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "galvanize into action",
+            "meaning_ko": "행동하도록 자극하다"
+          },
+          {
+            "phrase": "galvanize the public",
+            "meaning_ko": "대중을 자극하다"
+          },
+          {
+            "phrase": "galvanize the movement",
+            "meaning_ko": "운동을 자극하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "galvanize public opinion",
+            "meaning_ko": "여론을 자극하다"
+          },
+          {
+            "phrase": "galvanize the community",
+            "meaning_ko": "지역 사회를 자극하다"
+          },
+          {
+            "phrase": "galvanize resistance",
+            "meaning_ko": "저항을 자극하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The speech galvanized the audience into action.",
+            "meaning_ko": "그 연설은 청중을 행동하도록 자극했습니다."
+          },
+          {
+            "sentence": "The crisis galvanized public support.",
+            "meaning_ko": "그 위기는 대중의 지원을 자극했습니다."
+          },
+          {
+            "sentence": "The event galvanized the movement.",
+            "meaning_ko": "그 사건은 그 운동을 자극했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The speech galvanized the audience into action, inspiring them to volunteer, donate, and participate in efforts to address the social issues that had been highlighted.",
+            "meaning_ko": "그 연설은 청중을 행동하도록 자극했고, 강조되었던 사회적 문제를 다루기 위한 노력에 자원봉사하고, 기부하고, 참여하도록 영감을 주었습니다."
+          },
+          {
+            "sentence": "The crisis galvanized public support for the reform movement, as people recognized the urgent need for change and became more engaged in political processes.",
+            "meaning_ko": "그 위기는 그 개혁 운동에 대한 대중의 지원을 자극했고, 사람들이 변화의 긴급한 필요성을 인식하고 정치적 과정에 더 참여하게 되었기 때문입니다."
+          },
+          {
+            "sentence": "The event galvanized the movement, bringing together diverse groups and creating momentum that led to significant policy changes and social progress.",
+            "meaning_ko": "그 사건은 그 운동을 자극했고, 다양한 그룹들을 함께 모으고 중요한 정책 변화와 사회적 진보로 이어진 동력을 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The revelation galvanized public opinion against the proposed policy, leading to widespread protests and ultimately forcing the government to reconsider its position.",
+            "meaning_ko": "그 폭로는 제안된 정책에 대해 여론을 자극했고, 광범위한 시위로 이어졌고 궁극적으로 정부가 자신들의 입장을 재고하도록 강요했습니다."
+          },
+          {
+            "sentence": "The tragedy galvanized the community to come together and address long-standing issues, creating new initiatives and partnerships that would have lasting positive effects.",
+            "meaning_ko": "그 비극은 지역 사회를 함께 모이고 오래된 문제를 다루도록 자극했고, 지속적인 긍정적 효과를 가질 새로운 계획과 파트너십을 만들었습니다."
+          },
+          {
+            "sentence": "The leader's call to action galvanized resistance against the oppressive regime, uniting previously fragmented opposition groups and creating a coordinated movement for change.",
+            "meaning_ko": "그 지도자의 행동 촉구는 그 억압적 정권에 대한 저항을 자극했고, 이전에 분열되었던 반대 그룹들을 통합하고 변화를 위한 조화된 운동을 만들었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "galvanize는 '자극하다, 활성화하다' 또는 '아연 도금하다' 의미로, 사람이나 그룹을 행동하도록 자극하거나 활성화하는 행동을 가리킵니다. stimulate, energize와 비슷하지만 더 강하고 즉각적인 뉘앙스가 있습니다. galvanize into action, galvanize support 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "행동",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: galvanize = (A) discourage (B) stimulate or energize (C) deter (D) prevent",
+            "a": "B",
+            "meaning_ko": "galvanize는 '자극하거나 활성화하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The speech _____ the audience into action.",
+            "a": "galvanized",
+            "meaning_ko": "galvanize는 '자극하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of galvanize? (A) stimulate (B) energize (C) discourage (D) motivate",
+            "a": "C",
+            "meaning_ko": "discourage(좌절시키다)가 galvanize의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: galvanize _____ action. (A) into (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "galvanize into ~는 '~하도록 자극하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: galvanize = (A) discourage (B) stimulate (C) deter (D) prevent",
+            "a": "B",
+            "meaning_ko": "stimulate(자극하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The speech galvanized the audience to action.' → Fix the preposition.",
+            "a": "The speech galvanized the audience into action.",
+            "meaning_ko": "galvanize into ~는 '~하도록 자극하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The speech galvanized the audience into action.'",
+            "a": "The address stimulated and energized the listeners, motivating them to take immediate steps and become actively involved in addressing the issues that had been discussed.",
+            "meaning_ko": "galvanize into action는 '행동하도록 자극하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The crisis _____ public support. (A) galvanize (B) galvanizes (C) galvanizing (D) galvanized",
+            "a": "D",
+            "meaning_ko": "과거 시제에서 타동사 galvanized가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses galvanize most appropriately? (A) The galvanize ran. (B) The speech galvanized the audience. (C) She galvanize smiled. (D) Galvanize is good.",
+            "a": "B",
+            "meaning_ko": "galvanize는 타동사로 '~을 자극하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "onslaught",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "맹공격, 맹습; 강력하고 격렬한 공격이나 맹습.",
+        "note": "강력하고 격렬한 공격이나 맹습을 가리킵니다."
+      }
+    ],
+    "concept": "강력하고 격렬한 공격이나 맹습.",
+    "etymology": "네덜란드어 aanslag(공격)에서 유래했으며, 원래는 '공격' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '공격' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사와 불가산명사 모두로 쓰이며, an onslaught, onslaughts 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 맹공격",
+        "example": "onslaught of criticism"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대한 맹공격",
+        "example": "onslaught on the city"
+      }
+    ],
+    "requiredComplements": [
+      "onslaught of + 명사 : ~의 맹공격",
+      "onslaught on + 명사 : ~에 대한 맹공격"
+    ],
+    "morphology": "네덜란드어 aanslag에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "attack",
+        "meaning_ko": "공격"
+      },
+      {
+        "word": "assault",
+        "meaning_ko": "공격"
+      },
+      {
+        "word": "offensive",
+        "meaning_ko": "공격"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "attack",
+        "meaning_ko": "공격"
+      },
+      {
+        "word": "assault",
+        "meaning_ko": "공격"
+      },
+      {
+        "word": "offensive",
+        "meaning_ko": "공격"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "barrage",
+        "meaning_ko": "집중 공격(범위가 더 넓음)"
+      },
+      {
+        "word": "blitz",
+        "meaning_ko": "맹습"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "defense",
+        "meaning_ko": "방어"
+      },
+      {
+        "word": "protection",
+        "meaning_ko": "보호"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "onslaught of",
+            "meaning_ko": "~의 맹공격"
+          },
+          {
+            "phrase": "onslaught on",
+            "meaning_ko": "~에 대한 맹공격"
+          },
+          {
+            "phrase": "fierce onslaught",
+            "meaning_ko": "격렬한 맹공격"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "onslaught of criticism",
+            "meaning_ko": "비판의 맹공격"
+          },
+          {
+            "phrase": "onslaught on the city",
+            "meaning_ko": "도시에 대한 맹공격"
+          },
+          {
+            "phrase": "media onslaught",
+            "meaning_ko": "미디어 맹공격"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "onslaught of questions",
+            "meaning_ko": "질문의 맹공격"
+          },
+          {
+            "phrase": "onslaught of attacks",
+            "meaning_ko": "공격의 맹공격"
+          },
+          {
+            "phrase": "verbal onslaught",
+            "meaning_ko": "언어적 맹공격"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The city faced an onslaught of attacks.",
+            "meaning_ko": "그 도시는 공격의 맹공격에 직면했습니다."
+          },
+          {
+            "sentence": "She endured an onslaught of criticism.",
+            "meaning_ko": "그녀는 비판의 맹공격을 견뎠습니다."
+          },
+          {
+            "sentence": "The onslaught on the fortress was fierce.",
+            "meaning_ko": "그 요새에 대한 맹공격은 격렬했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The city faced an onslaught of attacks from multiple directions, requiring the military to coordinate defensive strategies across various fronts.",
+            "meaning_ko": "그 도시는 여러 방향에서 공격의 맹공격에 직면했고, 군대가 다양한 전선에 걸쳐 방어 전략을 조정할 것을 요구했습니다."
+          },
+          {
+            "sentence": "She endured an onslaught of criticism from both the media and the public, as her controversial decision sparked widespread debate and opposition.",
+            "meaning_ko": "그녀는 미디어와 대중 모두로부터 비판의 맹공격을 견뎠고, 그녀의 논란의 여지가 있는 결정이 광범위한 토론과 반대로 이어졌기 때문입니다."
+          },
+          {
+            "sentence": "The onslaught on the fortress was fierce, with enemy forces launching coordinated attacks from land, sea, and air in an attempt to overwhelm the defenders.",
+            "meaning_ko": "그 요새에 대한 맹공격은 격렬했고, 적군이 방어자들을 압도하려는 시도로 육지, 바다, 공중에서 조화된 공격을 시작했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The politician faced an onslaught of questions from journalists during the press conference, as reporters sought to uncover details about the scandal that had recently come to light.",
+            "meaning_ko": "그 정치인은 그 기자 회견 중 기자들로부터 질문의 맹공격에 직면했고, 기자들이 최근에 드러난 그 스캔들에 대한 세부사항을 밝히려고 했기 때문입니다."
+          },
+          {
+            "sentence": "The organization struggled to defend itself against the onslaught of attacks from various stakeholders, including competitors, regulators, and public interest groups.",
+            "meaning_ko": "그 조직은 경쟁자들, 규제 기관들, 공익 단체들을 포함한 다양한 이해관계자들로부터 공격의 맹공격에 대해 자신을 방어하는 데 어려움을 겪었습니다."
+          },
+          {
+            "sentence": "The verbal onslaught launched by the opposition during the debate was designed to undermine the candidate's credibility, though it also risked alienating undecided voters who might view the tactics as too aggressive.",
+            "meaning_ko": "그 토론 중 야당이 시작한 그 언어적 맹공격은 그 후보자의 신뢰성을 훼손하도록 설계되었지만, 그 전술을 너무 공격적으로 보는 미결정 유권자들을 소외시킬 위험도 있었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "onslaught는 '맹공격, 맹습' 의미로, 강력하고 격렬한 공격이나 맹습을 가리킵니다. attack, assault와 비슷하지만 더 강하고 집중적인 뉘앙스가 있습니다. onslaught of ~, onslaught on ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "전투",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: onslaught = (A) defense (B) fierce attack or assault (C) protection (D) shield",
+            "a": "B",
+            "meaning_ko": "onslaught는 '격렬한 공격 또는 공격' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The city faced an _____ of attacks.",
+            "a": "onslaught",
+            "meaning_ko": "onslaught는 '맹공격'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of onslaught? (A) attack (B) assault (C) defense (D) offensive",
+            "a": "C",
+            "meaning_ko": "defense(방어)가 onslaught의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: onslaught _____ criticism. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "onslaught of ~는 '~의 맹공격' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: onslaught = (A) defense (B) attack (C) protection (D) shield",
+            "a": "B",
+            "meaning_ko": "attack(공격)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The onslaught on criticism was fierce.' → Fix the preposition.",
+            "a": "The onslaught of criticism was fierce.",
+            "meaning_ko": "onslaught of ~는 '~의 맹공격' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The city faced an onslaught of attacks from multiple directions.'",
+            "a": "The urban area encountered a fierce and overwhelming series of assaults coming from various different locations and angles, creating a challenging defensive situation.",
+            "meaning_ko": "onslaught of attacks는 '공격의 맹공격'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of criticism was fierce. (A) onslaught (B) onslaughts (C) onslaughting (D) onslaughted",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 onslaught가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses onslaught most appropriately? (A) The onslaught ran. (B) The city faced an onslaught. (C) She onslaught smiled. (D) Onslaught is good.",
+            "a": "B",
+            "meaning_ko": "onslaught는 명사로 '맹공격'을 의미하며, face와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

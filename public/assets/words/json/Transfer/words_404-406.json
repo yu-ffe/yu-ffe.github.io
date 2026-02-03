@@ -1,0 +1,813 @@
+[
+  {
+    "word": "identity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "정체성, 자아; 자신이 누구인지에 대한 인식이나 특성.",
+        "note": "개인이나 집단의 고유한 특성이나 본질을 가리킵니다."
+      },
+      {
+        "definition_ko": "동일성, 일치; 같은 것임을 나타내는 상태.",
+        "note": "수학이나 논리에서 '같음'을 의미합니다."
+      }
+    ],
+    "concept": "자신이 누구인지에 대한 인식이나 특성, 또는 같은 것임을 나타내는 상태.",
+    "etymology": "라틴어 identitas(동일성)에서 유래했으며, idem(같은) 계열과 연결됩니다.",
+    "semanticExtension": "원래는 '동일성' 의미였으나, 현대에는 '정체성'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 학술 용어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사와 불가산명사 모두 가능합니다. a strong identity(강한 정체성)처럼 가산이 흔하지만, identity(동일성)처럼 불가산으로도 씁니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 정체성",
+        "example": "identity of the person"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와의 동일성",
+        "example": "identity with the group"
+      }
+    ],
+    "requiredComplements": [
+      "identity of + 명사 : ~의 정체성",
+      "identity with + 명사 : ~와의 동일성"
+    ],
+    "morphology": "idem-(같은) + -ity(명사화)로, '동일성' 의미가 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "identify",
+        "meaning_ko": "확인하다, 동일시하다"
+      },
+      {
+        "word": "identification",
+        "meaning_ko": "확인, 신원 확인"
+      },
+      {
+        "word": "identical",
+        "meaning_ko": "동일한"
+      }
+    ],
+    "related": [
+      {
+        "word": "self",
+        "meaning_ko": "자아"
+      },
+      {
+        "word": "character",
+        "meaning_ko": "성격"
+      },
+      {
+        "word": "personality",
+        "meaning_ko": "인격"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "self",
+        "meaning_ko": "자아"
+      },
+      {
+        "word": "character",
+        "meaning_ko": "성격"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "personality",
+        "meaning_ko": "인격(범위가 더 넓음)"
+      },
+      {
+        "word": "individuality",
+        "meaning_ko": "개성"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "difference",
+        "meaning_ko": "차이"
+      },
+      {
+        "word": "distinction",
+        "meaning_ko": "구별"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "personal identity",
+            "meaning_ko": "개인적 정체성"
+          },
+          {
+            "phrase": "cultural identity",
+            "meaning_ko": "문화적 정체성"
+          },
+          {
+            "phrase": "identity card",
+            "meaning_ko": "신분증"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "national identity",
+            "meaning_ko": "국가적 정체성"
+          },
+          {
+            "phrase": "identity crisis",
+            "meaning_ko": "정체성 위기"
+          },
+          {
+            "phrase": "identity theft",
+            "meaning_ko": "신원 도용"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "identity formation",
+            "meaning_ko": "정체성 형성"
+          },
+          {
+            "phrase": "identity politics",
+            "meaning_ko": "정체성 정치"
+          },
+          {
+            "phrase": "identity verification",
+            "meaning_ko": "신원 확인"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She struggled with her personal identity.",
+            "meaning_ko": "그녀는 자신의 개인적 정체성으로 고민했습니다."
+          },
+          {
+            "sentence": "The country has a strong cultural identity.",
+            "meaning_ko": "그 나라는 강한 문화적 정체성을 가지고 있습니다."
+          },
+          {
+            "sentence": "You need to show your identity card.",
+            "meaning_ko": "신분증을 보여줘야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The nation's identity was shaped by its history.",
+            "meaning_ko": "그 국가의 정체성은 그 역사에 의해 형성되었습니다."
+          },
+          {
+            "sentence": "Many teenagers experience an identity crisis during adolescence.",
+            "meaning_ko": "많은 청소년들이 사춘기 동안 정체성 위기를 경험합니다."
+          },
+          {
+            "sentence": "Identity theft is a serious crime that affects millions of people.",
+            "meaning_ko": "신원 도용은 수백만 명의 사람들에게 영향을 미치는 심각한 범죄입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Identity formation is a complex process influenced by social, cultural, and psychological factors.",
+            "meaning_ko": "정체성 형성은 사회적, 문화적, 심리적 요인에 의해 영향을 받는 복잡한 과정입니다."
+          },
+          {
+            "sentence": "Identity politics has become a central issue in contemporary democratic discourse.",
+            "meaning_ko": "정체성 정치는 현대 민주주의 담론에서 핵심 이슈가 되었습니다."
+          },
+          {
+            "sentence": "The system requires identity verification through multiple authentication methods.",
+            "meaning_ko": "그 시스템은 여러 인증 방법을 통한 신원 확인을 요구합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "identity는 '정체성'과 '동일성' 두 의미를 가지므로 문맥에 따라 해석이 달라집니다. 개인이나 집단의 특성을 말할 때는 '정체성', 수학이나 논리에서 '같음'을 말할 때는 '동일성'으로 해석하면 됩니다. identity card(신분증), identity theft(신원 도용) 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "정체성",
+      "심리",
+      "사회",
+      "일상 회화",
+      "학술"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: identity = (A) difference (B) sense of self (C) enemy (D) friend",
+            "a": "B",
+            "meaning_ko": "identity는 '자아 의식/정체성' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She struggled with her personal _____.",
+            "a": "identity",
+            "meaning_ko": "personal identity는 '개인적 정체성'을 의미합니다."
+          },
+          {
+            "q": "Which word is related to identity? (A) difference (B) self (C) enemy (D) friend",
+            "a": "B",
+            "meaning_ko": "self(자아)가 identity와 관련된 단어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: identity _____ the person. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "identity of ~는 '~의 정체성' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: identity = (A) difference (B) self (C) enemy (D) friend",
+            "a": "B",
+            "meaning_ko": "self(자아)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She has strong identity.' → Fix the sentence.",
+            "a": "She has a strong identity.",
+            "meaning_ko": "identity는 가산명사로 쓰일 때 관사 a가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Identity formation is influenced by social factors.'",
+            "a": "The process of developing a sense of self is affected by social conditions.",
+            "meaning_ko": "identity formation은 '정체성 형성'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: _____ theft is a serious crime. (A) Identity (B) Identities (C) Identified (D) Identifying",
+            "a": "A",
+            "meaning_ko": "identity theft는 '신원 도용'을 의미하는 고정 결합입니다."
+          },
+          {
+            "q": "Which sentence uses identity most appropriately? (A) The identity ran. (B) Cultural identity shapes behavior. (C) She identity smiled. (D) Identity is good.",
+            "a": "B",
+            "meaning_ko": "identity는 명사로 '정체성'을 의미하며, cultural identity와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bigoted",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "편견에 사로잡힌, 고집스럽게 편견을 가진.",
+        "note": "특정 집단이나 의견에 대해 고정관념을 가지고 거부하는 성격을 가리킵니다."
+      }
+    ],
+    "concept": "특정 집단이나 의견에 대해 고정관념을 가지고 거부하는 편견에 사로잡힌 상태.",
+    "etymology": "bigot(고집스러운 사람)에서 유래했으며, 원래는 '종교적 편견을 가진 사람' 의미였으나 현대에는 일반적인 편견으로 확장되었습니다.",
+    "semanticExtension": "원래는 종교적 편견이었으나, 현대에는 인종, 성별, 정치 등 다양한 분야의 편견으로 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어에서 주로 쓰이며, 강한 부정적 뉘앙스를 가집니다.",
+    "grammarNotes": "형용사로 명사를 수식하거나 서술어로 쓰입니다. 비교급은 more bigoted, 최상급은 most bigoted입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대해 편견을 가진",
+        "example": "bigoted against minorities"
+      },
+      {
+        "prep": "toward",
+        "meaning_ko": "~에 대해 편견을 가진",
+        "example": "bigoted toward immigrants"
+      }
+    ],
+    "requiredComplements": [
+      "bigoted + against/toward + 명사 : ~에 대해 편견을 가진"
+    ],
+    "morphology": "bigot(고집스러운 사람) + -ed(형용사화)로, '편견을 가진' 의미가 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "bigot",
+        "meaning_ko": "고집스러운 사람, 편견을 가진 사람"
+      },
+      {
+        "word": "bigotry",
+        "meaning_ko": "편견, 고집"
+      }
+    ],
+    "related": [
+      {
+        "word": "prejudiced",
+        "meaning_ko": "편견을 가진"
+      },
+      {
+        "word": "intolerant",
+        "meaning_ko": "관용하지 않는"
+      },
+      {
+        "word": "narrow-minded",
+        "meaning_ko": "편협한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "prejudiced",
+        "meaning_ko": "편견을 가진"
+      },
+      {
+        "word": "intolerant",
+        "meaning_ko": "관용하지 않는"
+      },
+      {
+        "word": "narrow-minded",
+        "meaning_ko": "편협한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "biased",
+        "meaning_ko": "편향된(범위가 더 넓음)"
+      },
+      {
+        "word": "discriminatory",
+        "meaning_ko": "차별적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tolerant",
+        "meaning_ko": "관용적인"
+      },
+      {
+        "word": "open-minded",
+        "meaning_ko": "열린 마음을 가진"
+      },
+      {
+        "word": "accepting",
+        "meaning_ko": "수용하는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "bigoted views",
+            "meaning_ko": "편견에 사로잡힌 견해"
+          },
+          {
+            "phrase": "bigoted attitude",
+            "meaning_ko": "편견에 사로잡힌 태도"
+          },
+          {
+            "phrase": "bigoted person",
+            "meaning_ko": "편견에 사로잡힌 사람"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "bigoted against minorities",
+            "meaning_ko": "소수자에 대해 편견을 가진"
+          },
+          {
+            "phrase": "bigoted comments",
+            "meaning_ko": "편견에 사로잡힌 발언"
+          },
+          {
+            "phrase": "bigoted behavior",
+            "meaning_ko": "편견에 사로잡힌 행동"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "bigoted ideology",
+            "meaning_ko": "편견에 사로잡힌 이데올로기"
+          },
+          {
+            "phrase": "bigoted rhetoric",
+            "meaning_ko": "편견에 사로잡힌 수사"
+          },
+          {
+            "phrase": "bigoted discrimination",
+            "meaning_ko": "편견에 기반한 차별"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He has bigoted views about immigrants.",
+            "meaning_ko": "그는 이민자에 대해 편견에 사로잡힌 견해를 가지고 있습니다."
+          },
+          {
+            "sentence": "She was criticized for her bigoted attitude.",
+            "meaning_ko": "그녀는 편견에 사로잡힌 태도 때문에 비판받았습니다."
+          },
+          {
+            "sentence": "The bigoted comments offended many people.",
+            "meaning_ko": "편견에 사로잡힌 발언이 많은 사람들을 불쾌하게 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The politician was accused of being bigoted against minorities.",
+            "meaning_ko": "그 정치인은 소수자에 대해 편견을 가진 것으로 비난받았습니다."
+          },
+          {
+            "sentence": "Bigoted behavior has no place in a diverse society.",
+            "meaning_ko": "편견에 사로잡힌 행동은 다양한 사회에서 용납될 수 없습니다."
+          },
+          {
+            "sentence": "The article criticized the bigoted rhetoric used in the speech.",
+            "meaning_ko": "그 기사는 연설에서 사용된 편견에 사로잡힌 수사를 비판했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The bigoted ideology promoted by extremist groups threatens social cohesion.",
+            "meaning_ko": "극단주의 집단이 선동하는 편견에 사로잡힌 이데올로기는 사회적 결속을 위협합니다."
+          },
+          {
+            "sentence": "Bigoted discrimination based on race, gender, or religion violates fundamental human rights.",
+            "meaning_ko": "인종, 성별, 종교에 기반한 편견에 기반한 차별은 기본적 인권을 침해합니다."
+          },
+          {
+            "sentence": "Educational programs aim to combat bigoted attitudes by promoting understanding and tolerance.",
+            "meaning_ko": "교육 프로그램은 이해와 관용을 촉진함으로써 편견에 사로잡힌 태도와 싸우는 것을 목표로 합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "bigoted은 '편견에 사로잡힌' 의미로, 강한 부정적 뉘앙스를 가집니다. prejudiced, intolerant와 비슷하지만 더 강한 표현입니다. 사회 문제 지문에서 자주 나오므로, 차별이나 편견과 관련된 문맥에서 나오면 bigoted로 해석하면 됩니다.",
+    "tags": [
+      "사회 문제",
+      "편견",
+      "차별",
+      "격식",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: bigoted = (A) tolerant (B) prejudiced and intolerant (C) open-minded (D) accepting",
+            "a": "B",
+            "meaning_ko": "bigoted은 '편견을 가진, 관용하지 않는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He has _____ views about immigrants.",
+            "a": "bigoted",
+            "meaning_ko": "bigoted은 '편견에 사로잡힌' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of bigoted? (A) prejudiced (B) tolerant (C) intolerant (D) narrow-minded",
+            "a": "B",
+            "meaning_ko": "tolerant(관용적인)가 bigoted의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: bigoted _____ minorities. (A) against (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "bigoted against ~는 '~에 대해 편견을 가진' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: bigoted = (A) tolerant (B) prejudiced (C) open-minded (D) accepting",
+            "a": "B",
+            "meaning_ko": "prejudiced(편견을 가진)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The person is bigoted.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "bigoted은 형용사로 서술어로 쓰일 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Bigoted discrimination violates human rights.'",
+            "a": "Discrimination based on prejudice and intolerance violates fundamental human rights.",
+            "meaning_ko": "bigoted discrimination은 '편견에 기반한 차별'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ rhetoric offended many. (A) bigoted (B) bigots (C) bigotry (D) bigot",
+            "a": "A",
+            "meaning_ko": "rhetoric을 수식하는 형용사 bigoted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses bigoted most appropriately? (A) The bigoted ran. (B) Bigoted views are harmful. (C) She bigoted smiled. (D) Bigoted is good.",
+            "a": "B",
+            "meaning_ko": "bigoted은 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sentient",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "지각이 있는, 감각이 있는; 의식이나 감각을 가진.",
+        "note": "의식이나 감각을 가지고 있어서 경험을 할 수 있는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "의식이나 감각을 가지고 있어서 경험을 할 수 있는 상태.",
+    "etymology": "라틴어 sentire(느끼다, 인지하다)에서 유래했으며, '감각을 가진' 의미입니다.",
+    "semanticExtension": "원래는 '감각을 가진' 의미였으나, 현대에는 '의식을 가진'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·철학·과학 용어로, 일상 회화에서는 덜 흔합니다.",
+    "grammarNotes": "형용사로 명사를 수식하거나 서술어로 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "sentient + 명사 : 지각이 있는 ~"
+    ],
+    "morphology": "senti-(느끼다) + -ent(형용사화)로, '감각을 가진' 의미가 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "sentience",
+        "meaning_ko": "지각, 감각"
+      },
+      {
+        "word": "sentiently",
+        "meaning_ko": "지각 있게"
+      }
+    ],
+    "related": [
+      {
+        "word": "conscious",
+        "meaning_ko": "의식 있는"
+      },
+      {
+        "word": "aware",
+        "meaning_ko": "인식하는"
+      },
+      {
+        "word": "perceptive",
+        "meaning_ko": "지각력 있는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "conscious",
+        "meaning_ko": "의식 있는"
+      },
+      {
+        "word": "aware",
+        "meaning_ko": "인식하는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "perceptive",
+        "meaning_ko": "지각력 있는"
+      },
+      {
+        "word": "sensitive",
+        "meaning_ko": "민감한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insentient",
+        "meaning_ko": "지각 없는"
+      },
+      {
+        "word": "unconscious",
+        "meaning_ko": "의식 없는"
+      },
+      {
+        "word": "inanimate",
+        "meaning_ko": "무생물의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sentient being",
+            "meaning_ko": "지각이 있는 존재"
+          },
+          {
+            "phrase": "sentient creature",
+            "meaning_ko": "지각이 있는 생물"
+          },
+          {
+            "phrase": "sentient life",
+            "meaning_ko": "지각이 있는 생명"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sentient intelligence",
+            "meaning_ko": "지각이 있는 지능"
+          },
+          {
+            "phrase": "sentient entity",
+            "meaning_ko": "지각이 있는 실체"
+          },
+          {
+            "phrase": "sentient experience",
+            "meaning_ko": "지각이 있는 경험"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sentient rights",
+            "meaning_ko": "지각이 있는 존재의 권리"
+          },
+          {
+            "phrase": "sentient artificial intelligence",
+            "meaning_ko": "지각이 있는 인공지능"
+          },
+          {
+            "phrase": "sentient consciousness",
+            "meaning_ko": "지각이 있는 의식"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Animals are sentient beings that can feel pain.",
+            "meaning_ko": "동물은 고통을 느낄 수 있는 지각이 있는 존재입니다."
+          },
+          {
+            "sentence": "The debate centers on whether AI can be truly sentient.",
+            "meaning_ko": "그 논쟁은 AI가 진정으로 지각이 있을 수 있는지에 초점을 맞춥니다."
+          },
+          {
+            "sentence": "Sentient creatures deserve ethical consideration.",
+            "meaning_ko": "지각이 있는 생물은 윤리적 고려를 받을 자격이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Philosophers debate what makes a being truly sentient.",
+            "meaning_ko": "철학자들은 무엇이 존재를 진정으로 지각이 있게 만드는지 논쟁합니다."
+          },
+          {
+            "sentence": "The concept of sentient intelligence raises questions about AI rights.",
+            "meaning_ko": "지각이 있는 지능의 개념은 AI 권리에 대한 질문을 제기합니다."
+          },
+          {
+            "sentence": "Sentient entities are capable of experiencing suffering and joy.",
+            "meaning_ko": "지각이 있는 실체는 고통과 기쁨을 경험할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ethical framework for sentient rights must consider the capacity for suffering and well-being.",
+            "meaning_ko": "지각이 있는 존재의 권리에 대한 윤리적 틀은 고통과 웰빙에 대한 능력을 고려해야 합니다."
+          },
+          {
+            "sentence": "Researchers are exploring whether sentient artificial intelligence could develop genuine emotions and self-awareness.",
+            "meaning_ko": "연구자들은 지각이 있는 인공지능이 진정한 감정과 자의식을 발전시킬 수 있는지 탐구하고 있습니다."
+          },
+          {
+            "sentence": "The distinction between sentient consciousness and mere information processing remains a central question in cognitive science.",
+            "meaning_ko": "지각이 있는 의식과 단순한 정보 처리 사이의 구별은 인지 과학에서 핵심 질문으로 남아 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sentient은 '지각이 있는' 의미로, 의식이나 감각을 가진 존재를 가리킵니다. 철학·과학 지문에서 자주 나오므로, 의식이나 감각과 관련된 문맥에서 나오면 sentient로 해석하면 됩니다. conscious, aware와 비슷하지만 더 격식 있는 표현입니다.",
+    "tags": [
+      "철학",
+      "과학",
+      "의식",
+      "격식",
+      "문어"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sentient = (A) unconscious (B) capable of feeling and awareness (C) dead (D) inanimate",
+            "a": "B",
+            "meaning_ko": "sentient은 '감각과 의식을 가진' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Animals are _____ beings that can feel pain.",
+            "a": "sentient",
+            "meaning_ko": "sentient은 '지각이 있는' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of sentient? (A) conscious (B) insentient (C) aware (D) perceptive",
+            "a": "B",
+            "meaning_ko": "insentient(지각 없는)이 sentient의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: _____ beings deserve ethical consideration. (A) Sentient (B) Sentients (C) Sentienced (D) Sentiencing",
+            "a": "A",
+            "meaning_ko": "beings를 수식하는 형용사 sentient이 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: sentient = (A) unconscious (B) conscious (C) dead (D) inanimate",
+            "a": "B",
+            "meaning_ko": "conscious(의식 있는)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The creature is sentient.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "sentient은 형용사로 서술어로 쓰일 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Sentient beings deserve ethical consideration.'",
+            "a": "Creatures capable of feeling and awareness should be treated with ethical respect.",
+            "meaning_ko": "sentient beings는 '지각이 있는 존재'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The debate centers on _____ intelligence. (A) sentient (B) sentients (C) sentienced (D) sentiencing",
+            "a": "A",
+            "meaning_ko": "intelligence를 수식하는 형용사 sentient이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sentient most appropriately? (A) The sentient ran. (B) Sentient beings can feel pain. (C) She sentient smiled. (D) Sentient is good.",
+            "a": "B",
+            "meaning_ko": "sentient은 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
