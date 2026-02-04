@@ -1,0 +1,822 @@
+[
+  {
+    "word": "deleterious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "유해한, 해로운; 유해하거나 해로운.",
+        "note": "유해하거나 해로운 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "손상시키는, 악화시키는; 손상시키거나 악화시키는.",
+        "note": "손상시키거나 악화시키는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "유해하거나 해로운 상태, 또는 손상시키거나 악화시키는 상태.",
+    "etymology": "그리스어 deleterios(파괴적인)에서 유래했으며, deleisthai(해치다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '파괴적인' 의미였고, 현대에는 '유해하거나 해로운'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be deleterious 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 유해한",
+        "example": "deleterious to"
+      }
+    ],
+    "requiredComplements": [
+      "be deleterious : 유해하다",
+      "deleterious + 명사 : 유해한 ~",
+      "deleterious to + 명사 : ~에 유해한"
+    ],
+    "morphology": "그리스어 deleterios에서 유래한 단어로, deleisthai(해치다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "deleteriously",
+        "meaning_ko": "유해하게"
+      },
+      {
+        "word": "deleteriousness",
+        "meaning_ko": "유해함"
+      }
+    ],
+    "related": [
+      {
+        "word": "harmful",
+        "meaning_ko": "유해한"
+      },
+      {
+        "word": "damaging",
+        "meaning_ko": "손상시키는"
+      },
+      {
+        "word": "detrimental",
+        "meaning_ko": "해로운"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "harmful",
+        "meaning_ko": "유해한"
+      },
+      {
+        "word": "damaging",
+        "meaning_ko": "손상시키는"
+      },
+      {
+        "word": "detrimental",
+        "meaning_ko": "해로운"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "injurious",
+        "meaning_ko": "해로운(범위가 더 넓음)"
+      },
+      {
+        "word": "destructive",
+        "meaning_ko": "파괴적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "beneficial",
+        "meaning_ko": "유익한"
+      },
+      {
+        "word": "helpful",
+        "meaning_ko": "도움이 되는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "deleterious to",
+            "meaning_ko": "~에 유해한"
+          },
+          {
+            "phrase": "deleterious effect",
+            "meaning_ko": "유해한 효과"
+          },
+          {
+            "phrase": "deleterious impact",
+            "meaning_ko": "유해한 영향"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "deleterious to health",
+            "meaning_ko": "건강에 유해한"
+          },
+          {
+            "phrase": "deleterious consequence",
+            "meaning_ko": "유해한 결과"
+          },
+          {
+            "phrase": "deleterious influence",
+            "meaning_ko": "유해한 영향"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "deleterious to the environment",
+            "meaning_ko": "환경에 유해한"
+          },
+          {
+            "phrase": "deleterious outcome",
+            "meaning_ko": "유해한 결과"
+          },
+          {
+            "phrase": "deleterious result",
+            "meaning_ko": "유해한 결과"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It was deleterious to health.",
+            "meaning_ko": "그것은 건강에 유해했습니다."
+          },
+          {
+            "sentence": "She found the effect deleterious.",
+            "meaning_ko": "그녀는 그 효과가 유해하다고 발견했습니다."
+          },
+          {
+            "sentence": "They saw a deleterious impact.",
+            "meaning_ko": "그들은 유해한 영향을 봤습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "It was deleterious to health, with the harmful and damaging effect creating risk and concern, though the deleteriousness would require prevention and mitigation.",
+            "meaning_ko": "그것은 건강에 유해했고, 그 유해하고 손상시키는 효과가 위험과 우려를 만들었지만, 그 유해함은 예방과 완화를 요구할 것입니다."
+          },
+          {
+            "sentence": "She found the effect deleterious, with the detrimental and injurious impact creating harm and damage, though the deleteriousness would need to be addressed and minimized.",
+            "meaning_ko": "그녀는 그 효과가 유해하다고 발견했고, 그 해롭고 해로운 영향이 해악과 손상을 만들었지만, 그 유해함은 다뤄지고 최소화될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They saw a deleterious impact, with the destructive and harmful consequence creating problems and issues, though the deleteriousness would require understanding and action.",
+            "meaning_ko": "그들은 유해한 영향을 봤고, 그 파괴적이고 유해한 결과가 문제와 이슈를 만들었지만, 그 유해함은 이해와 행동을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address the deleterious effect to the environment that was made in the policy created awareness and action to prevent harm, with the recognition enabling protective measures and regulations, though the deleteriousness would require ongoing monitoring and management to ensure that environmental damage is minimized and ecosystems are protected.",
+            "meaning_ko": "그 정책에서 내려졌던 그 환경에 대한 그 유해한 효과를 다루기로 한 그 결정은 해악을 방지하기 위한 인식과 행동을 만들었고, 그 인정이 보호 조치와 규제를 가능하게 했지만, 그 유해함은 환경 손상이 최소화되고 생태계가 보호되는 것을 보장하기 위해 지속적인 모니터링과 관리를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to mitigate the deleterious outcome that was undertaken in the research created opportunities for prevention and improvement, with the study enabling identification of risks and solutions, though the deleteriousness would need to be systematically addressed through comprehensive strategies to reduce harm and protect well-being.",
+            "meaning_ko": "그 연구에서 착수되었던 그 유해한 결과를 완화하기 위한 그 노력은 예방과 개선을 위한 기회를 만들었고, 그 연구가 위험과 해결책의 식별을 가능하게 했지만, 그 유해함은 해악을 줄이고 웰빙을 보호하기 위해 포괄적인 전략을 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to prevent the deleterious result that was completed in the program created pathways for protection and safety, with the measures enabling reduction of harm and risk, though the deleteriousness would require continued vigilance and adaptation to address emerging threats and ensure that preventive actions remain effective.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 유해한 결과를 방지하기 위한 그 작업은 보호와 안전을 위한 경로를 만들었고, 그 조치가 해악과 위험의 감소를 가능하게 했지만, 그 유해함은 새로운 위협을 다루고 예방 조치가 계속 효과적이도록 지속적인 경계와 적응을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "deleterious는 '유해한, 해로운' 또는 '손상시키는, 악화시키는' 의미로, 유해하거나 해로운 상태를 가리킵니다. harmful, damaging와 비슷하지만 더 문어적 뉘앙스가 있습니다. deleterious to ~, deleterious effect 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "과학",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: deleterious = (A) beneficial (B) harmful or damaging (C) helpful (D) useful",
+            "a": "B",
+            "meaning_ko": "deleterious는 '유해한 또는 손상시키는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: It was _____ to health.",
+            "a": "deleterious",
+            "meaning_ko": "deleterious는 '유해한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of deleterious? (A) harmful (B) damaging (C) beneficial (D) detrimental",
+            "a": "C",
+            "meaning_ko": "beneficial(유익한)가 deleterious의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: deleterious _____ health. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "deleterious to ~는 '~에 유해한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: deleterious = (A) beneficial (B) harmful (C) helpful (D) useful",
+            "a": "B",
+            "meaning_ko": "harmful(유해한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She found the effect deleterious at health.' → Fix the preposition.",
+            "a": "She found the effect deleterious to health.",
+            "meaning_ko": "deleterious to ~는 '~에 유해한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'It was deleterious to health.'",
+            "a": "It was harmful and damaging to well-being, with the deleterious effect creating risk and concern, though the deleteriousness would require prevention and mitigation.",
+            "meaning_ko": "deleterious는 '유해한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They saw a _____ impact. (A) deleterious (B) deleteriously (C) deleteriousness (D) deleterious's",
+            "a": "A",
+            "meaning_ko": "형용사 deleterious가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses deleterious most appropriately? (A) The deleterious ran. (B) It was deleterious to health. (C) She deleterious smiled. (D) Deleterious is good.",
+            "a": "B",
+            "meaning_ko": "deleterious는 형용사로 '유해한'을 의미하며, deleterious to ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rate",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "비율, 율; 비율이나 율.",
+        "note": "비율이나 율을 가리킵니다."
+      },
+      {
+        "definition_ko": "평가하다, 평가하다; 평가하거나 평가하다.",
+        "note": "평가하거나 평가하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "비율이나 율인 비율, 또는 평가하거나 평가하는 것.",
+    "etymology": "라틴어 rata(계산된)에서 유래했으며, reri(생각하다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '계산된' 의미였고, 현대에는 '비율이나 율'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사와 동사로 모두 사용되며, rate 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~의 비율로",
+        "example": "at a rate"
+      },
+      {
+        "prep": "as",
+        "meaning_ko": "~로 평가하다",
+        "example": "rate as"
+      }
+    ],
+    "requiredComplements": [
+      "rate : 비율/율",
+      "rate + 명사 : ~을 평가하다",
+      "rate as + 명사 : ~로 평가하다"
+    ],
+    "morphology": "라틴어 rata에서 유래한 단어로, reri(생각하다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "rates",
+        "meaning_ko": "비율들(복수형)"
+      },
+      {
+        "word": "rated",
+        "meaning_ko": "평가한(과거분사/형용사)"
+      },
+      {
+        "word": "rating",
+        "meaning_ko": "평가"
+      }
+    ],
+    "related": [
+      {
+        "word": "ratio",
+        "meaning_ko": "비율"
+      },
+      {
+        "word": "proportion",
+        "meaning_ko": "비율"
+      },
+      {
+        "word": "evaluate",
+        "meaning_ko": "평가하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ratio",
+        "meaning_ko": "비율"
+      },
+      {
+        "word": "proportion",
+        "meaning_ko": "비율"
+      },
+      {
+        "word": "evaluate",
+        "meaning_ko": "평가하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "percentage",
+        "meaning_ko": "백분율(범위가 더 넓음)"
+      },
+      {
+        "word": "assess",
+        "meaning_ko": "평가하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "whole",
+        "meaning_ko": "전체"
+      },
+      {
+        "word": "total",
+        "meaning_ko": "전체"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "at a rate",
+            "meaning_ko": "~의 비율로"
+          },
+          {
+            "phrase": "rate as",
+            "meaning_ko": "~로 평가하다"
+          },
+          {
+            "phrase": "interest rate",
+            "meaning_ko": "이자율"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "at a rate of",
+            "meaning_ko": "~의 비율로"
+          },
+          {
+            "phrase": "rate as high",
+            "meaning_ko": "높게 평가하다"
+          },
+          {
+            "phrase": "exchange rate",
+            "meaning_ko": "환율"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "at a rate that",
+            "meaning_ko": "~한 비율로"
+          },
+          {
+            "phrase": "rate as excellent",
+            "meaning_ko": "우수로 평가하다"
+          },
+          {
+            "phrase": "success rate",
+            "meaning_ko": "성공률"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He rated it highly.",
+            "meaning_ko": "그는 그것을 높게 평가했습니다."
+          },
+          {
+            "sentence": "She saw a high rate.",
+            "meaning_ko": "그녀는 높은 비율을 봤습니다."
+          },
+          {
+            "sentence": "They worked at a rate.",
+            "meaning_ko": "그들은 한 비율로 일했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He rated it highly, with his evaluate and assess creating judgment and opinion, though the rating would require consideration and review.",
+            "meaning_ko": "그는 그것을 높게 평가했고, 그의 평가와 평가가 판단과 의견을 만들었지만, 그 평가는 고려와 검토를 요구할 것입니다."
+          },
+          {
+            "sentence": "She saw a high rate, with the ratio and proportion creating measurement and comparison, though the rate would need to be analyzed and understood.",
+            "meaning_ko": "그녀는 높은 비율을 봤고, 그 비율과 비율이 측정과 비교를 만들었지만, 그 비율은 분석되고 이해될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They worked at a rate, with the pace and speed creating progress and efficiency, though the rate would require monitoring and adjustment.",
+            "meaning_ko": "그들은 한 비율로 일했고, 그 속도와 속도가 진행과 효율을 만들었지만, 그 비율은 모니터링과 조정을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to rate the performance as excellent that was made in the evaluation created recognition and acknowledgment of achievement, with the assessment enabling identification of strengths and areas for improvement, though the rating would require ongoing monitoring and review to ensure that standards are maintained and performance continues to meet expectations.",
+            "meaning_ko": "그 평가에서 내려졌던 그 성과를 우수로 평가하기로 한 그 결정은 성취에 대한 인정과 승인을 만들었고, 그 평가가 강점과 개선 영역의 식별을 가능하게 했지만, 그 평가는 기준이 유지되고 성과가 계속 기대를 충족하는 것을 보장하기 위해 지속적인 모니터링과 검토를 요구할 것입니다."
+          },
+          {
+            "sentence": "The analysis of the success rate that was undertaken in the study created understanding and insight into performance patterns, with the examination enabling identification of factors and trends, though the rate would need to be interpreted through comprehensive data and context to ensure accurate assessment and meaningful conclusions.",
+            "meaning_ko": "그 연구에서 착수되었던 그 성공률의 그 분석은 성과 패턴에 대한 이해와 통찰을 만들었고, 그 검토가 요인과 추세의 식별을 가능하게 했지만, 그 비율은 정확한 평가와 의미 있는 결론을 보장하기 위해 포괄적인 데이터와 맥락을 통해 해석될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to maintain the rate at a level that was completed in the project created stability and consistency in operations, with the management enabling control and predictability, though the rate would require continuous monitoring and adjustment to respond to changing conditions and ensure optimal performance.",
+            "meaning_ko": "그 프로젝트에서 완료되었던 그 수준에서 그 비율을 유지하기 위한 그 작업은 운영에서 안정성과 일관성을 만들었고, 그 관리가 통제와 예측 가능성을 가능하게 했지만, 그 비율은 변화하는 조건에 대응하고 최적의 성과를 보장하기 위해 지속적인 모니터링과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "rate는 '비율, 율' 또는 '평가하다, 평가하다' 의미로, 비율이나 율을 가리킵니다. ratio, proportion와 비슷하지만 더 일반적 뉘앙스가 있습니다. at a rate ~, rate as ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: rate = (A) whole (B) ratio or evaluate (C) total (D) complete",
+            "a": "B",
+            "meaning_ko": "rate는 '비율 또는 평가하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ it highly.",
+            "a": "rated",
+            "meaning_ko": "rate는 '평가하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of rate? (A) ratio (B) proportion (C) whole (D) evaluate",
+            "a": "C",
+            "meaning_ko": "whole(전체)가 rate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: rate _____ high. (A) as (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "rate as ~는 '~로 평가하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: rate = (A) whole (B) ratio (C) total (D) complete",
+            "a": "B",
+            "meaning_ko": "ratio(비율)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She saw a high rate at the situation.' → Fix the sentence.",
+            "a": "She saw a high rate.",
+            "meaning_ko": "rate는 직접 명사로 쓰이므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He rated it highly.'",
+            "a": "He evaluated and assessed it with a positive judgment, with the rating creating recognition and acknowledgment, though the evaluation would require consideration and review.",
+            "meaning_ko": "rate는 '평가하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They worked at a _____. (A) rate (B) rates (C) rated (D) rating",
+            "a": "A",
+            "meaning_ko": "명사 rate가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses rate most appropriately? (A) The rate ran. (B) He rated it highly. (C) She rate smiled. (D) Rate is good.",
+            "a": "B",
+            "meaning_ko": "rate는 타동사로 '평가하다'를 의미하며, rate + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sardonic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "비꼬는, 비웃는; 비꼬거나 비웃는.",
+        "note": "비꼬거나 비웃는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "냉소적인, 풍자적인; 냉소적이거나 풍자적인.",
+        "note": "냉소적이거나 풍자적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "비꼬거나 비웃는 상태, 또는 냉소적이거나 풍자적인 상태.",
+    "etymology": "그리스어 sardonios(비꼬는)에서 유래했으며, 사르디니아 섬의 독초를 먹고 웃는 것에서 파생되었습니다.",
+    "semanticExtension": "원래는 '비꼬는' 의미였고, 현대에는 '냉소적이거나 풍자적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be sardonic 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 비꼬는",
+        "example": "sardonic about"
+      }
+    ],
+    "requiredComplements": [
+      "be sardonic : 비꼬다",
+      "sardonic + 명사 : 비꼬는 ~",
+      "sardonic about + 명사 : ~에 대해 비꼬는"
+    ],
+    "morphology": "그리스어 sardonios에서 유래한 단어로, 사르디니아 섬의 독초를 먹고 웃는 것에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "sardonically",
+        "meaning_ko": "비꼬며"
+      },
+      {
+        "word": "sardonicism",
+        "meaning_ko": "비꼬는 태도"
+      }
+    ],
+    "related": [
+      {
+        "word": "sarcastic",
+        "meaning_ko": "비꼬는"
+      },
+      {
+        "word": "cynical",
+        "meaning_ko": "냉소적인"
+      },
+      {
+        "word": "mocking",
+        "meaning_ko": "비웃는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "sarcastic",
+        "meaning_ko": "비꼬는"
+      },
+      {
+        "word": "cynical",
+        "meaning_ko": "냉소적인"
+      },
+      {
+        "word": "mocking",
+        "meaning_ko": "비웃는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "ironic",
+        "meaning_ko": "반어적인(범위가 더 넓음)"
+      },
+      {
+        "word": "satirical",
+        "meaning_ko": "풍자적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sincere",
+        "meaning_ko": "진지한"
+      },
+      {
+        "word": "genuine",
+        "meaning_ko": "진실한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sardonic about",
+            "meaning_ko": "~에 대해 비꼬는"
+          },
+          {
+            "phrase": "sardonic smile",
+            "meaning_ko": "비꼬는 미소"
+          },
+          {
+            "phrase": "sardonic humor",
+            "meaning_ko": "비꼬는 유머"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sardonic about the situation",
+            "meaning_ko": "그 상황에 대해 비꼬는"
+          },
+          {
+            "phrase": "sardonic comment",
+            "meaning_ko": "비꼬는 코멘트"
+          },
+          {
+            "phrase": "sardonic tone",
+            "meaning_ko": "비꼬는 톤"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sardonic about the outcome",
+            "meaning_ko": "그 결과에 대해 비꼬는"
+          },
+          {
+            "phrase": "sardonic wit",
+            "meaning_ko": "비꼬는 재치"
+          },
+          {
+            "phrase": "sardonic remark",
+            "meaning_ko": "비꼬는 발언"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He had a sardonic smile.",
+            "meaning_ko": "그는 비꼬는 미소를 가졌습니다."
+          },
+          {
+            "sentence": "She was sardonic about the situation.",
+            "meaning_ko": "그녀는 그 상황에 대해 비꼬는 태도를 보였습니다."
+          },
+          {
+            "sentence": "They made a sardonic comment.",
+            "meaning_ko": "그들은 비꼬는 코멘트를 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He had a sardonic smile, with his sarcastic and cynical expression creating irony and mockery, though the sardonicism would require understanding and interpretation.",
+            "meaning_ko": "그는 비꼬는 미소를 가졌고, 그의 비꼬는 그리고 냉소적인 표정이 반어와 조롱을 만들었지만, 그 비꼬는 태도는 이해와 해석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She was sardonic about the situation, with her mocking and satirical attitude creating humor and criticism, though the sardonicism would need to be recognized and appreciated.",
+            "meaning_ko": "그녀는 그 상황에 대해 비꼬는 태도를 보였고, 그녀의 비웃는 그리고 풍자적인 태도가 유머와 비판을 만들었지만, 그 비꼬는 태도는 인식되고 감사받을 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They made a sardonic comment, with their ironic and sarcastic remark creating wit and amusement, though the sardonicism would require context and insight.",
+            "meaning_ko": "그들은 비꼬는 코멘트를 했고, 그들의 반어적이고 비꼬는 발언이 재치와 즐거움을 만들었지만, 그 비꼬는 태도는 맥락과 통찰을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sardonic wit about the outcome that was displayed in the response created a sense of irony and criticism, with the sarcastic tone leading to amusement and reflection, though the sardonicism would require careful interpretation to understand the underlying message and appreciate the nuanced expression of discontent or skepticism.",
+            "meaning_ko": "그 응답에서 표시되었던 그 결과에 대한 그 비꼬는 재치는 반어와 비판의 감각을 만들었고, 그 비꼬는 톤이 즐거움과 성찰로 이어졌지만, 그 비꼬는 태도는 근본적인 메시지를 이해하고 불만이나 회의주의의 미묘한 표현을 감사하기 위해 신중한 해석을 요구할 것입니다."
+          },
+          {
+            "sentence": "The decision to use sardonic humor that was made in the presentation created engagement and interest through irony and wit, with the satirical approach enabling criticism and commentary, though the sardonicism would need to be balanced with clarity to ensure that the message is understood and the humor serves its intended purpose.",
+            "meaning_ko": "그 발표에서 내려졌던 그 비꼬는 유머를 사용하기로 한 그 결정은 반어와 재치를 통해 참여와 관심을 만들었고, 그 풍자적인 접근이 비판과 논평을 가능하게 했지만, 그 비꼬는 태도는 메시지가 이해되고 유머가 의도된 목적을 달성하는 것을 보장하기 위해 명확성과 균형을 맞출 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to develop sardonic remarks that was undertaken in the writing created opportunities for expression and commentary, with the ironic style enabling subtle criticism and social observation, though the sardonicism would require skill and nuance to ensure that the wit is effective and the message resonates with the audience.",
+            "meaning_ko": "그 글쓰기에서 착수되었던 그 비꼬는 발언을 발전시키기 위한 그 작업은 표현과 논평을 위한 기회를 만들었고, 그 반어적 스타일이 미묘한 비판과 사회적 관찰을 가능하게 했지만, 그 비꼬는 태도는 재치가 효과적이고 메시지가 청중과 공명하는 것을 보장하기 위해 기술과 미묘함을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sardonic는 '비꼬는, 비웃는' 또는 '냉소적인, 풍자적인' 의미로, 비꼬거나 비웃는 상태를 가리킵니다. sarcastic, cynical와 비슷하지만 더 문어적 뉘앙스가 있습니다. sardonic about ~, sardonic smile 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sardonic = (A) sincere (B) sarcastic or cynical (C) genuine (D) honest",
+            "a": "B",
+            "meaning_ko": "sardonic는 '비꼬는 또는 냉소적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He had a _____ smile.",
+            "a": "sardonic",
+            "meaning_ko": "sardonic는 '비꼬는' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of sardonic? (A) sarcastic (B) cynical (C) sincere (D) mocking",
+            "a": "C",
+            "meaning_ko": "sincere(진지한)가 sardonic의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: sardonic _____ the situation. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "sardonic about ~는 '~에 대해 비꼬는' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: sardonic = (A) sincere (B) sarcastic (C) genuine (D) honest",
+            "a": "B",
+            "meaning_ko": "sarcastic(비꼬는)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was sardonic at the situation.' → Fix the preposition.",
+            "a": "She was sardonic about the situation.",
+            "meaning_ko": "sardonic about ~는 '~에 대해 비꼬는' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He had a sardonic smile.'",
+            "a": "He displayed a sarcastic and cynical expression, with the sardonic smile creating irony and mockery, though the sardonicism would require understanding and interpretation.",
+            "meaning_ko": "sardonic는 '비꼬는' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They made a _____ comment. (A) sardonic (B) sardonically (C) sardonicism (D) sardonic's",
+            "a": "A",
+            "meaning_ko": "형용사 sardonic가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sardonic most appropriately? (A) The sardonic ran. (B) He had a sardonic smile. (C) She sardonic smiled. (D) Sardonic is good.",
+            "a": "B",
+            "meaning_ko": "sardonic는 형용사로 '비꼬는'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

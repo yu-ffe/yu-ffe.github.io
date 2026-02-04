@@ -1,0 +1,820 @@
+[
+  {
+    "word": "hazardous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "위험한, 위험한; 위험하거나 위험한.",
+        "note": "위험하거나 위험한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "위험스러운, 위험스러운; 위험스럽거나 위험스러운.",
+        "note": "위험스럽거나 위험스러운 상태를 가리킵니다."
+      }
+    ],
+    "concept": "위험하거나 위험한 상태, 또는 위험스럽거나 위험스러운 상태.",
+    "etymology": "프랑스어 hasard(위험)에서 유래했으며, '위험한' 의미입니다.",
+    "semanticExtension": "원래는 '위험한' 의미였고, 현대에는 '위험한' 또는 '위험스러운'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be hazardous 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 위험한",
+        "example": "hazardous to"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에게 위험한",
+        "example": "hazardous for"
+      }
+    ],
+    "requiredComplements": [
+      "be hazardous : 위험하다",
+      "hazardous + 명사 : 위험한 ~",
+      "hazardous to + 명사 : ~에게 위험한",
+      "hazardous for + 명사 : ~에게 위험한"
+    ],
+    "morphology": "프랑스어 hasard에서 유래한 단어로, '위험한' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "hazardously",
+        "meaning_ko": "위험하게"
+      },
+      {
+        "word": "hazardousness",
+        "meaning_ko": "위험함"
+      },
+      {
+        "word": "hazard",
+        "meaning_ko": "위험"
+      }
+    ],
+    "related": [
+      {
+        "word": "dangerous",
+        "meaning_ko": "위험한"
+      },
+      {
+        "word": "risky",
+        "meaning_ko": "위험한"
+      },
+      {
+        "word": "unsafe",
+        "meaning_ko": "안전하지 않은"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "dangerous",
+        "meaning_ko": "위험한"
+      },
+      {
+        "word": "risky",
+        "meaning_ko": "위험한"
+      },
+      {
+        "word": "unsafe",
+        "meaning_ko": "안전하지 않은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "perilous",
+        "meaning_ko": "위험한(범위가 더 넓음)"
+      },
+      {
+        "word": "treacherous",
+        "meaning_ko": "위험한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "safe",
+        "meaning_ko": "안전한"
+      },
+      {
+        "word": "secure",
+        "meaning_ko": "안전한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "hazardous to",
+            "meaning_ko": "~에게 위험한"
+          },
+          {
+            "phrase": "hazardous for",
+            "meaning_ko": "~에게 위험한"
+          },
+          {
+            "phrase": "hazardous material",
+            "meaning_ko": "위험한 물질"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "hazardous to health",
+            "meaning_ko": "그 건강에게 위험한"
+          },
+          {
+            "phrase": "hazardous for the environment",
+            "meaning_ko": "그 환경에게 위험한"
+          },
+          {
+            "phrase": "hazardous waste",
+            "meaning_ko": "위험한 폐기물"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "hazardous to safety",
+            "meaning_ko": "그 안전에게 위험한"
+          },
+          {
+            "phrase": "hazardous for workers",
+            "meaning_ko": "그 노동자들에게 위험한"
+          },
+          {
+            "phrase": "hazardous conditions",
+            "meaning_ko": "위험한 조건"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He handled hazardous material.",
+            "meaning_ko": "그는 위험한 물질을 다뤘습니다."
+          },
+          {
+            "sentence": "She avoided hazardous waste.",
+            "meaning_ko": "그녀는 위험한 폐기물을 피했습니다."
+          },
+          {
+            "sentence": "They worked in hazardous conditions.",
+            "meaning_ko": "그들은 위험한 조건에서 일했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He handled hazardous material, with the dangerous and risky substance creating risk and danger, though the hazardousness would require caution and safety measures.",
+            "meaning_ko": "그는 위험한 물질을 다뤘고, 그 위험하고 위험한 물질이 위험과 위험을 만들었지만, 그 위험함은 경계와 안전 조치를 요구할 것입니다."
+          },
+          {
+            "sentence": "She avoided hazardous waste, with the perilous and treacherous material creating danger and risk, though the hazardousness would need to be managed and controlled.",
+            "meaning_ko": "그녀는 위험한 폐기물을 피했고, 그 위험하고 위험한 물질이 위험과 위험을 만들었지만, 그 위험함은 관리되고 통제될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They worked in hazardous conditions, with the unsafe and dangerous environment creating risk and danger, though the hazardousness would require protection and safety.",
+            "meaning_ko": "그들은 위험한 조건에서 일했고, 그 안전하지 않고 위험한 환경이 위험과 위험을 만들었지만, 그 위험함은 보호와 안전을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to manage hazardous to safety that was made in the process created opportunities for protection and prevention, with the management enabling reduction of risk and danger, though the hazardousness would require comprehensive safety measures and monitoring to ensure that safety is protected and risk is effectively reduced.",
+            "meaning_ko": "그 과정에서 내려졌던 그 안전에게 그 위험한 것을 관리하기로 한 그 결정은 보호와 방지를 위한 기회를 만들었고, 그 관리가 위험과 위험의 감소를 가능하게 했지만, 그 위험함은 안전이 보호되고 위험이 효과적으로 감소되는 것을 보장하기 위해 포괄적인 안전 조치와 모니터링을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to control hazardous for workers that was undertaken in the initiative created pathways for safety and protection, with the control enabling reduction of risk and danger, though the hazardousness would need to be systematically managed through safety measures and monitoring to ensure that workers are protected and risk is effectively reduced.",
+            "meaning_ko": "그 계획에서 착수되었던 그 노동자들에게 그 위험한 것을 통제하기 위한 그 노력은 안전과 보호를 위한 경로를 만들었고, 그 통제가 위험과 위험의 감소를 가능하게 했지만, 그 위험함은 노동자들이 보호되고 위험이 효과적으로 감소되는 것을 보장하기 위해 안전 조치와 모니터링을 통해 체계적으로 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to monitor hazardous conditions that was completed in the system created structure and methods for safety and protection, with the monitoring enabling identification of risk and danger, though the hazardousness would require ongoing safety measures and vigilance to ensure that conditions continue to be monitored and risk remains effectively reduced and controlled.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 위험한 조건들을 모니터링하기 위한 그 작업은 안전과 보호를 위한 구조와 방법을 만들었고, 그 모니터링이 위험과 위험의 식별을 가능하게 했지만, 그 위험함은 조건이 계속 모니터링되고 위험이 계속 효과적으로 감소되고 통제되는 것을 보장하기 위해 지속적인 안전 조치와 경계를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "hazardous는 '위험한, 위험한' 또는 '위험스러운, 위험스러운' 의미로, 위험하거나 위험한 상태를 가리킵니다. dangerous, risky와 비슷하지만 더 공식적 뉘앙스가 있습니다. hazardous to ~, hazardous for ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: hazardous = (A) safe (B) dangerous or risky (C) secure (D) protected",
+            "a": "B",
+            "meaning_ko": "hazardous는 '위험한 또는 위험한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He handled _____ material.",
+            "a": "hazardous",
+            "meaning_ko": "hazardous는 '위험한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of hazardous? (A) dangerous (B) risky (C) safe (D) unsafe",
+            "a": "C",
+            "meaning_ko": "safe(안전한)가 hazardous의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: hazardous _____ health. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "hazardous to ~는 '~에게 위험한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: hazardous = (A) safe (B) dangerous (C) secure (D) protected",
+            "a": "B",
+            "meaning_ko": "dangerous(위험한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She avoided hazardous waste at the environment.' → Fix the preposition.",
+            "a": "She avoided hazardous waste.",
+            "meaning_ko": "hazardous waste는 이미 '위험한 폐기물' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He handled hazardous material.'",
+            "a": "He managed dangerous and risky substance, with the hazardousness creating risk and danger, though the material would require caution and safety measures.",
+            "meaning_ko": "hazardous는 '위험한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They worked in _____ conditions. (A) hazardous (B) hazardously (C) hazardousness (D) hazard",
+            "a": "A",
+            "meaning_ko": "형용사 hazardous가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses hazardous most appropriately? (A) The hazardous ran. (B) He handled hazardous material. (C) She hazardous smiled. (D) Hazardous is good.",
+            "a": "B",
+            "meaning_ko": "hazardous는 형용사로 '위험한'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "saunter",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "천천히 걷다, 거닐다; 천천히 걷거나 거닐는 것.",
+        "note": "천천히 걷거나 거닐는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "산책, 거닐기; 산책이나 거닐기.",
+        "note": "산책이나 거닐기를 가리킵니다."
+      }
+    ],
+    "concept": "천천히 걷거나 거닐는 행동, 또는 산책이나 거닐기.",
+    "etymology": "프랑스어 s'aventurer(모험하다)에서 유래했으며, '모험하다' 의미에서 '천천히 걷다' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '모험하다' 의미였고, 현대에는 '천천히 걷다' 또는 '거닐다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 자동사로 사용되며, saunter 형태로 자주 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "along",
+        "meaning_ko": "~을 따라 천천히 걷다",
+        "example": "saunter along"
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "~을 통해 천천히 걷다",
+        "example": "saunter through"
+      }
+    ],
+    "requiredComplements": [
+      "saunter : 천천히 걷다/거닐다",
+      "saunter along + 명사 : ~을 따라 천천히 걷다",
+      "saunter through + 명사 : ~을 통해 천천히 걷다"
+    ],
+    "morphology": "프랑스어 s'aventurer에서 유래한 단어로, '모험하다' 의미에서 '천천히 걷다' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "sauntered",
+        "meaning_ko": "천천히 걸은(과거분사)"
+      },
+      {
+        "word": "sauntering",
+        "meaning_ko": "천천히 걷는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "stroll",
+        "meaning_ko": "산책하다"
+      },
+      {
+        "word": "amble",
+        "meaning_ko": "천천히 걷다"
+      },
+      {
+        "word": "walk",
+        "meaning_ko": "걷다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "stroll",
+        "meaning_ko": "산책하다"
+      },
+      {
+        "word": "amble",
+        "meaning_ko": "천천히 걷다"
+      },
+      {
+        "word": "walk",
+        "meaning_ko": "걷다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "wander",
+        "meaning_ko": "거닐다(범위가 더 넓음)"
+      },
+      {
+        "word": "meander",
+        "meaning_ko": "천천히 걷다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rush",
+        "meaning_ko": "서두르다"
+      },
+      {
+        "word": "hurry",
+        "meaning_ko": "서두르다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "saunter along",
+            "meaning_ko": "~을 따라 천천히 걷다"
+          },
+          {
+            "phrase": "saunter through",
+            "meaning_ko": "~을 통해 천천히 걷다"
+          },
+          {
+            "phrase": "take a saunter",
+            "meaning_ko": "산책을 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "saunter along the street",
+            "meaning_ko": "그 거리를 따라 천천히 걷다"
+          },
+          {
+            "phrase": "saunter through the park",
+            "meaning_ko": "그 공원을 통해 천천히 걷다"
+          },
+          {
+            "phrase": "leisurely saunter",
+            "meaning_ko": "여유롭게 천천히 걷기"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "saunter along the path",
+            "meaning_ko": "그 길을 따라 천천히 걷다"
+          },
+          {
+            "phrase": "saunter through the garden",
+            "meaning_ko": "그 정원을 통해 천천히 걷다"
+          },
+          {
+            "phrase": "casual saunter",
+            "meaning_ko": "편안하게 천천히 걷기"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He sauntered along the street.",
+            "meaning_ko": "그는 그 거리를 따라 천천히 걸었습니다."
+          },
+          {
+            "sentence": "She sauntered through the park.",
+            "meaning_ko": "그녀는 그 공원을 통해 천천히 걸었습니다."
+          },
+          {
+            "sentence": "They took a saunter.",
+            "meaning_ko": "그들은 산책을 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He sauntered along the street, with his stroll and amble creating leisurely and relaxed movement, though the sauntering would require time and patience.",
+            "meaning_ko": "그는 그 거리를 따라 천천히 걸었고, 그의 산책 그리고 천천히 걷기가 여유롭고 편안한 이동을 만들었지만, 그 천천히 걷기는 시간과 인내를 요구할 것입니다."
+          },
+          {
+            "sentence": "She sauntered through the park, with the wander and meander creating casual and relaxed walk, though the sauntering would need to be enjoyed and appreciated.",
+            "meaning_ko": "그녀는 그 공원을 통해 천천히 걸었고, 그 거닐기 그리고 천천히 걷기가 편안하고 편안한 걷기를 만들었지만, 그 천천히 걷기는 즐기고 감상될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They took a saunter, with the walk and stroll creating leisurely and relaxed activity, though the sauntering would require enjoyment and appreciation.",
+            "meaning_ko": "그들은 산책을 했고, 그 걷기 그리고 산책이 여유롭고 편안한 활동을 만들었지만, 그 천천히 걷기는 즐거움과 감상을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to saunter along the path that was made in the process created opportunities for relaxation and enjoyment, with the sauntering enabling leisurely and relaxed movement, though the sauntering would require comprehensive time and patience to ensure that path is properly enjoyed and relaxation is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 길을 따라 천천히 걷기로 한 그 결정은 휴식과 즐거움을 위한 기회를 만들었고, 그 천천히 걷기가 여유롭고 편안한 이동을 가능하게 했지만, 그 천천히 걷기는 길이 적절히 즐겨지고 휴식이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 시간과 인내를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to saunter through the garden that was undertaken in the initiative created pathways for relaxation and appreciation, with the sauntering enabling casual and relaxed walk, though the sauntering would need to be systematically enjoyed through time and patience to ensure that garden is properly appreciated and relaxation is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 정원을 통해 천천히 걷기 위한 그 노력은 휴식과 감상을 위한 경로를 만들었고, 그 천천히 걷기가 편안하고 편안한 걷기를 가능하게 했지만, 그 천천히 걷기는 정원이 적절히 감상되고 휴식이 효과적으로 달성되는 것을 보장하기 위해 시간과 인내를 통해 체계적으로 즐겨질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to enjoy casual saunter that was completed in the system created structure and methods for relaxation and enjoyment, with the enjoyment enabling appreciation of leisurely and relaxed activity, though the sauntering would require ongoing time and patience to ensure that saunter continues to be enjoyed and relaxation remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 편안하게 천천히 걷기를 즐기기 위한 그 작업은 휴식과 즐거움을 위한 구조와 방법을 만들었고, 그 즐거움이 여유롭고 편안한 활동의 감상을 가능하게 했지만, 그 천천히 걷기는 천천히 걷기가 계속 즐겨지고 휴식이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 시간과 인내를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "saunter는 '천천히 걷다, 거닐다' 또는 '산책, 거닐기' 의미로, 천천히 걷거나 거닐는 행동을 가리킵니다. stroll, amble와 비슷하지만 더 여유로운 뉘앙스가 있습니다. saunter along ~, saunter through ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: saunter = (A) rush (B) stroll or amble (C) hurry (D) run",
+            "a": "B",
+            "meaning_ko": "saunter는 '산책하다 또는 천천히 걷다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ along the street.",
+            "a": "sauntered",
+            "meaning_ko": "saunter는 '천천히 걷다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of saunter? (A) stroll (B) amble (C) rush (D) walk",
+            "a": "C",
+            "meaning_ko": "rush(서두르다)가 saunter의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: saunter _____ the park. (A) through (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "saunter through ~는 '~을 통해 천천히 걷다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: saunter = (A) rush (B) stroll (C) hurry (D) run",
+            "a": "B",
+            "meaning_ko": "stroll(산책하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She sauntered at the park.' → Fix the preposition.",
+            "a": "She sauntered through the park.",
+            "meaning_ko": "saunter through ~는 '~을 통해 천천히 걷다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He sauntered along the street.'",
+            "a": "He strolled and ambled along the road leisurely, with the sauntering creating relaxed and casual movement, though the walk would require time and patience.",
+            "meaning_ko": "saunter는 '천천히 걷다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ a saunter. (A) take (B) takes (C) took (D) taking",
+            "a": "C",
+            "meaning_ko": "과거형 took가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses saunter most appropriately? (A) The saunter ran. (B) He sauntered along the street. (C) She saunter smiled. (D) Saunter is good.",
+            "a": "B",
+            "meaning_ko": "saunter는 동사로 '천천히 걷다'를 의미하며, saunter along ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "monotheism",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "일신교, 일신론; 일신교나 일신론.",
+        "note": "일신교나 일신론을 가리킵니다."
+      },
+      {
+        "definition_ko": "단일신론, 단일신론; 단일신론이나 단일신론.",
+        "note": "단일신론이나 단일신론을 가리킵니다."
+      }
+    ],
+    "concept": "일신교나 일신론인 일신교, 또는 단일신론이나 단일신론.",
+    "etymology": "그리스어 monos(하나) + theos(신)의 조합으로, '하나의 신' 의미입니다.",
+    "semanticExtension": "원래는 '하나의 신' 의미였고, 현대에는 '일신교' 또는 '일신론'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 불가산명사로 사용되며, monotheism 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "monotheism : 일신교/일신론"
+    ],
+    "morphology": "그리스어 monos(하나) + theos(신)의 조합으로, '하나의 신' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "monotheist",
+        "meaning_ko": "일신교도"
+      },
+      {
+        "word": "monotheistic",
+        "meaning_ko": "일신교의"
+      }
+    ],
+    "related": [
+      {
+        "word": "polytheism",
+        "meaning_ko": "다신교"
+      },
+      {
+        "word": "theism",
+        "meaning_ko": "유신론"
+      },
+      {
+        "word": "religion",
+        "meaning_ko": "종교"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "polytheism",
+        "meaning_ko": "다신교"
+      },
+      {
+        "word": "theism",
+        "meaning_ko": "유신론"
+      },
+      {
+        "word": "religion",
+        "meaning_ko": "종교"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "deism",
+        "meaning_ko": "이신론(범위가 더 넓음)"
+      },
+      {
+        "word": "pantheism",
+        "meaning_ko": "범신론"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "polytheism",
+        "meaning_ko": "다신교"
+      },
+      {
+        "word": "atheism",
+        "meaning_ko": "무신론"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "believe in monotheism",
+            "meaning_ko": "일신교를 믿다"
+          },
+          {
+            "phrase": "practice monotheism",
+            "meaning_ko": "일신교를 실천하다"
+          },
+          {
+            "phrase": "monotheism religion",
+            "meaning_ko": "일신교 종교"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "adopt monotheism",
+            "meaning_ko": "일신교를 채택하다"
+          },
+          {
+            "phrase": "monotheism tradition",
+            "meaning_ko": "일신교 전통"
+          },
+          {
+            "phrase": "monotheism belief",
+            "meaning_ko": "일신교 신앙"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "embrace monotheism",
+            "meaning_ko": "일신교를 받아들이다"
+          },
+          {
+            "phrase": "monotheism doctrine",
+            "meaning_ko": "일신교 교리"
+          },
+          {
+            "phrase": "monotheism theology",
+            "meaning_ko": "일신교 신학"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He believed in monotheism.",
+            "meaning_ko": "그는 일신교를 믿었습니다."
+          },
+          {
+            "sentence": "She practiced monotheism.",
+            "meaning_ko": "그녀는 일신교를 실천했습니다."
+          },
+          {
+            "sentence": "They adopted monotheism.",
+            "meaning_ko": "그들은 일신교를 채택했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He believed in monotheism, with his theism and religion creating faith and belief, though the monotheism would require understanding and practice.",
+            "meaning_ko": "그는 일신교를 믿었고, 그의 유신론 그리고 종교가 신앙과 믿음을 만들었지만, 그 일신교는 이해와 실천을 요구할 것입니다."
+          },
+          {
+            "sentence": "She practiced monotheism, with the deism and pantheism creating belief and faith, though the monotheism would need to be understood and followed.",
+            "meaning_ko": "그녀는 일신교를 실천했고, 그 이신론 그리고 범신론이 믿음과 신앙을 만들었지만, 그 일신교는 이해되고 따를 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They adopted monotheism, with the polytheism and theism creating religion and belief, though the monotheism would require commitment and practice.",
+            "meaning_ko": "그들은 일신교를 채택했고, 그 다신교 그리고 유신론이 종교와 믿음을 만들었지만, 그 일신교는 헌신과 실천을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to embrace monotheism that was made in the process created opportunities for faith and belief, with the embracing enabling adoption of theism and religion, though the monotheism would require comprehensive understanding and practice to ensure that monotheism is properly embraced and faith is effectively established.",
+            "meaning_ko": "그 과정에서 내려졌던 그 일신교를 받아들이기로 한 그 결정은 신앙과 믿음을 위한 기회를 만들었고, 그 받아들이기가 유신론과 종교의 채택을 가능하게 했지만, 그 일신교는 일신교가 적절히 받아들여지고 신앙이 효과적으로 확립되는 것을 보장하기 위해 포괄적인 이해와 실천을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to study monotheism doctrine that was undertaken in the initiative created pathways for understanding and faith, with the study enabling learning of theology and belief, though the monotheism would need to be systematically understood through study and practice to ensure that doctrine is properly understood and faith is effectively established.",
+            "meaning_ko": "그 계획에서 착수되었던 그 일신교 교리를 연구하기 위한 그 노력은 이해와 신앙을 위한 경로를 만들었고, 그 연구가 신학과 믿음의 학습을 가능하게 했지만, 그 일신교는 교리가 적절히 이해되고 신앙이 효과적으로 확립되는 것을 보장하기 위해 연구와 실천을 통해 체계적으로 이해될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to develop monotheism theology that was completed in the system created structure and methods for understanding and faith, with the development enabling creation of doctrine and belief, though the monotheism would require ongoing study and practice to ensure that theology continues to be developed and faith remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 일신교 신학을 발전시키기 위한 그 작업은 이해와 신앙을 위한 구조와 방법을 만들었고, 그 발전이 교리와 믿음의 창조를 가능하게 했지만, 그 일신교는 신학이 계속 발전되고 신앙이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 연구와 실천을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "monotheism는 '일신교, 일신론' 또는 '단일신론, 단일신론' 의미로, 일신교나 일신론을 가리킵니다. polytheism, theism와 비슷하지만 더 구체적 뉘앙스가 있습니다. believe in monotheism, practice monotheism 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "전문 용어",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: monotheism = (A) polytheism (B) theism or religion (C) atheism (D) deism",
+            "a": "B",
+            "meaning_ko": "monotheism는 '유신론 또는 종교' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He believed in _____.",
+            "a": "monotheism",
+            "meaning_ko": "monotheism는 '일신교' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of monotheism? (A) theism (B) religion (C) polytheism (D) deism",
+            "a": "C",
+            "meaning_ko": "polytheism(다신교)가 monotheism의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: believe in _____ monotheism. (A) (no article) (B) a (C) an (D) the",
+            "a": "A",
+            "meaning_ko": "monotheism는 불가산명사이므로 관사가 필요 없습니다."
+          },
+          {
+            "q": "Pick the best synonym: monotheism = (A) polytheism (B) theism (C) atheism (D) deism",
+            "a": "B",
+            "meaning_ko": "theism(유신론)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She practiced a monotheism.' → Fix the sentence.",
+            "a": "She practiced monotheism.",
+            "meaning_ko": "monotheism는 불가산명사이므로 관사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He believed in monotheism.'",
+            "a": "He had faith in theism and religion, with the monotheism creating belief and faith, though the belief would require understanding and practice.",
+            "meaning_ko": "monotheism는 '일신교' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They adopted _____. (A) monotheism (B) monotheisms (C) monotheistic (D) monotheist",
+            "a": "A",
+            "meaning_ko": "명사 monotheism가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses monotheism most appropriately? (A) The monotheism ran. (B) He believed in monotheism. (C) She monotheism smiled. (D) Monotheism is good.",
+            "a": "B",
+            "meaning_ko": "monotheism는 명사로 '일신교'를 의미하며, believe in monotheism와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

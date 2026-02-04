@@ -1,0 +1,809 @@
+[
+  {
+    "word": "bivouac",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "야영지, 야영; 야영지나 야영.",
+        "note": "야영지나 야영을 가리킵니다."
+      },
+      {
+        "definition_ko": "야영하다, 야영하다; 야영하거나 야영하는 것.",
+        "note": "야영하거나 야영하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "야영지나 야영인 야영지, 또는 야영하거나 야영하는 행동.",
+    "etymology": "프랑스어 bivouac(야영지)에서 유래했으며, '야영지' 의미입니다.",
+    "semanticExtension": "원래는 '야영지' 의미였고, 현대에는 '야영지' 또는 '야영'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "명사로는 주로 단수형으로 사용되며, 동사로는 자동사로 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에서 야영하다",
+        "example": "bivouac at"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 야영하다",
+        "example": "bivouac in"
+      }
+    ],
+    "requiredComplements": [
+      "bivouac : 야영지/야영하다",
+      "bivouac at + 명사 : ~에서 야영하다",
+      "bivouac in + 명사 : ~에서 야영하다"
+    ],
+    "morphology": "프랑스어 bivouac에서 유래한 단어로, '야영지' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "bivouacked",
+        "meaning_ko": "야영한(과거분사)"
+      },
+      {
+        "word": "bivouacking",
+        "meaning_ko": "야영하는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "camp",
+        "meaning_ko": "야영지"
+      },
+      {
+        "word": "encampment",
+        "meaning_ko": "야영지"
+      },
+      {
+        "word": "shelter",
+        "meaning_ko": "피난처"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "camp",
+        "meaning_ko": "야영지"
+      },
+      {
+        "word": "encampment",
+        "meaning_ko": "야영지"
+      },
+      {
+        "word": "shelter",
+        "meaning_ko": "피난처"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "campsite",
+        "meaning_ko": "야영지(범위가 더 넓음)"
+      },
+      {
+        "word": "bivouac site",
+        "meaning_ko": "야영지"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "permanent",
+        "meaning_ko": "영구적인"
+      },
+      {
+        "word": "settled",
+        "meaning_ko": "정착된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "bivouac at",
+            "meaning_ko": "~에서 야영하다"
+          },
+          {
+            "phrase": "bivouac in",
+            "meaning_ko": "~에서 야영하다"
+          },
+          {
+            "phrase": "set up bivouac",
+            "meaning_ko": "야영지를 설치하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "bivouac at the site",
+            "meaning_ko": "그 장소에서 야영하다"
+          },
+          {
+            "phrase": "bivouac in the forest",
+            "meaning_ko": "그 숲에서 야영하다"
+          },
+          {
+            "phrase": "military bivouac",
+            "meaning_ko": "군사 야영지"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "bivouac at the location",
+            "meaning_ko": "그 위치에서 야영하다"
+          },
+          {
+            "phrase": "bivouac in the wilderness",
+            "meaning_ko": "그 황야에서 야영하다"
+          },
+          {
+            "phrase": "temporary bivouac",
+            "meaning_ko": "임시 야영지"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He set up a bivouac.",
+            "meaning_ko": "그는 야영지를 설치했습니다."
+          },
+          {
+            "sentence": "She bivouacked at the site.",
+            "meaning_ko": "그녀는 그 장소에서 야영했습니다."
+          },
+          {
+            "sentence": "They bivouacked in the forest.",
+            "meaning_ko": "그들은 그 숲에서 야영했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He set up a bivouac, with his camp and encampment creating shelter and temporary accommodation, though the bivouacking would require preparation and organization.",
+            "meaning_ko": "그는 야영지를 설치했고, 그의 야영지 그리고 야영지가 피난처와 임시 숙소를 만들었지만, 그 야영은 준비와 조직을 요구할 것입니다."
+          },
+          {
+            "sentence": "She bivouacked at the site, with the campsite and bivouac site creating temporary shelter and accommodation, though the bivouacking would need to be organized and prepared.",
+            "meaning_ko": "그녀는 그 장소에서 야영했고, 그 야영지 그리고 야영지가 임시 피난처와 숙소를 만들었지만, 그 야영은 조직되고 준비될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They bivouacked in the forest, with the shelter and camp creating temporary accommodation and protection, though the bivouacking would require planning and coordination.",
+            "meaning_ko": "그들은 그 숲에서 야영했고, 그 피난처 그리고 야영지가 임시 숙소와 보호를 만들었지만, 그 야영은 계획과 조정을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to bivouac at the location that was made in the process created opportunities for rest and shelter, with the bivouacking enabling temporary accommodation and protection, though the bivouac would require comprehensive preparation and organization to ensure that location is properly utilized and shelter is effectively established.",
+            "meaning_ko": "그 과정에서 내려졌던 그 위치에서 야영하기로 한 그 결정은 휴식과 피난처를 위한 기회를 만들었고, 그 야영이 임시 숙소와 보호를 가능하게 했지만, 그 야영지는 위치가 적절히 활용되고 피난처가 효과적으로 확립되는 것을 보장하기 위해 포괄적인 준비와 조직을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to bivouac in the wilderness that was undertaken in the initiative created pathways for shelter and rest, with the bivouacking enabling temporary accommodation and protection, though the bivouac would need to be systematically organized through preparation and planning to ensure that wilderness is properly navigated and shelter is effectively established.",
+            "meaning_ko": "그 계획에서 착수되었던 그 황야에서 야영하기 위한 그 노력은 피난처와 휴식을 위한 경로를 만들었고, 그 야영이 임시 숙소와 보호를 가능하게 했지만, 그 야영지는 황야가 적절히 탐색되고 피난처가 효과적으로 확립되는 것을 보장하기 위해 준비와 계획을 통해 체계적으로 조직될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to maintain temporary bivouac that was completed in the system created structure and methods for shelter and accommodation, with the maintenance enabling preservation of temporary shelter and protection, though the bivouac would require ongoing preparation and organization to ensure that bivouac continues to be maintained and shelter remains effective and protected.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 임시 야영지를 유지하기 위한 그 작업은 피난처와 숙소를 위한 구조와 방법을 만들었고, 그 유지가 임시 피난처와 보호의 보존을 가능하게 했지만, 그 야영지는 야영지가 계속 유지되고 피난처가 계속 효과적이고 보호되는 것을 보장하기 위해 지속적인 준비와 조직을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "bivouac는 '야영지, 야영' 또는 '야영하다, 야영하다' 의미로, 야영지나 야영을 가리킵니다. camp, encampment와 비슷하지만 더 전문적 뉘앙스가 있습니다. bivouac at ~, bivouac in ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "전문 용어",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: bivouac = (A) permanent (B) camp or encampment (C) settled (D) fixed",
+            "a": "B",
+            "meaning_ko": "bivouac는 '야영지 또는 야영지' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He set up a _____.",
+            "a": "bivouac",
+            "meaning_ko": "bivouac는 '야영지' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of bivouac? (A) camp (B) encampment (C) permanent (D) shelter",
+            "a": "C",
+            "meaning_ko": "permanent(영구적인)가 bivouac의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: bivouac _____ the site. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "bivouac at ~는 '~에서 야영하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: bivouac = (A) permanent (B) camp (C) settled (D) fixed",
+            "a": "B",
+            "meaning_ko": "camp(야영지)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She bivouacked on the site.' → Fix the preposition.",
+            "a": "She bivouacked at the site.",
+            "meaning_ko": "bivouac at ~는 '~에서 야영하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He set up a bivouac.'",
+            "a": "He established a camp and encampment, with the bivouac creating temporary shelter and accommodation, though the setup would require preparation and organization.",
+            "meaning_ko": "bivouac는 '야영지' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ in the forest. (A) bivouac (B) bivouacs (C) bivouacked (D) bivouacking",
+            "a": "C",
+            "meaning_ko": "과거형 bivouacked가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses bivouac most appropriately? (A) The bivouac ran. (B) He set up a bivouac. (C) She bivouac smiled. (D) Bivouac is good.",
+            "a": "B",
+            "meaning_ko": "bivouac는 명사로 '야영지'를 의미하며, set up a bivouac와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "odd",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "이상한, 기이한; 이상하거나 기이한.",
+        "note": "이상하거나 기이한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "홀수의, 홀수의; 홀수이거나 홀수의.",
+        "note": "홀수이거나 홀수의 상태를 가리킵니다."
+      }
+    ],
+    "concept": "이상하거나 기이한 상태, 또는 홀수이거나 홀수의 상태.",
+    "etymology": "고대 영어 odde(홀수)에서 유래했으며, '홀수' 의미에서 '이상한' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '홀수' 의미였고, 현대에는 '이상한' 또는 '기이한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be odd 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be odd : 이상하다",
+      "odd + 명사 : 이상한 ~"
+    ],
+    "morphology": "고대 영어 odde에서 유래한 단어로, '홀수' 의미에서 '이상한' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "oddly",
+        "meaning_ko": "이상하게"
+      },
+      {
+        "word": "oddness",
+        "meaning_ko": "이상함"
+      },
+      {
+        "word": "odds",
+        "meaning_ko": "확률"
+      }
+    ],
+    "related": [
+      {
+        "word": "strange",
+        "meaning_ko": "이상한"
+      },
+      {
+        "word": "peculiar",
+        "meaning_ko": "기이한"
+      },
+      {
+        "word": "unusual",
+        "meaning_ko": "비정상적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "strange",
+        "meaning_ko": "이상한"
+      },
+      {
+        "word": "peculiar",
+        "meaning_ko": "기이한"
+      },
+      {
+        "word": "unusual",
+        "meaning_ko": "비정상적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "weird",
+        "meaning_ko": "이상한(범위가 더 넓음)"
+      },
+      {
+        "word": "bizarre",
+        "meaning_ko": "기괴한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "normal",
+        "meaning_ko": "정상적인"
+      },
+      {
+        "word": "even",
+        "meaning_ko": "짝수의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "odd behavior",
+            "meaning_ko": "이상한 행동"
+          },
+          {
+            "phrase": "odd number",
+            "meaning_ko": "홀수"
+          },
+          {
+            "phrase": "odd person",
+            "meaning_ko": "이상한 사람"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "odd situation",
+            "meaning_ko": "이상한 상황"
+          },
+          {
+            "phrase": "odd occurrence",
+            "meaning_ko": "이상한 사건"
+          },
+          {
+            "phrase": "odd feeling",
+            "meaning_ko": "이상한 느낌"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "odd circumstance",
+            "meaning_ko": "이상한 상황"
+          },
+          {
+            "phrase": "odd phenomenon",
+            "meaning_ko": "이상한 현상"
+          },
+          {
+            "phrase": "odd coincidence",
+            "meaning_ko": "이상한 우연"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He had odd behavior.",
+            "meaning_ko": "그는 이상한 행동을 했습니다."
+          },
+          {
+            "sentence": "She found an odd number.",
+            "meaning_ko": "그녀는 홀수를 찾았습니다."
+          },
+          {
+            "sentence": "They noticed an odd person.",
+            "meaning_ko": "그들은 이상한 사람을 알아챘습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He had odd behavior, with his strange and peculiar actions creating curiosity and concern, though the oddness would require understanding and analysis.",
+            "meaning_ko": "그는 이상한 행동을 했고, 그의 이상하고 기이한 행동이 호기심과 관심을 만들었지만, 그 이상함은 이해와 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She found an odd number, with the unusual and weird value creating mathematical interest and curiosity, though the oddness would need to be calculated and understood.",
+            "meaning_ko": "그녀는 홀수를 찾았고, 그 비정상적이고 이상한 값이 수학적 관심과 호기심을 만들었지만, 그 이상함은 계산되고 이해될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They noticed an odd person, with the bizarre and strange individual creating curiosity and concern, though the oddness would require observation and understanding.",
+            "meaning_ko": "그들은 이상한 사람을 알아챘고, 그 기괴하고 이상한 개인이 호기심과 관심을 만들었지만, 그 이상함은 관찰과 이해를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to investigate odd circumstance that was made in the process created opportunities for understanding and analysis, with the investigation enabling identification of strange and peculiar conditions, though the oddness would require comprehensive analysis and understanding to ensure that circumstance is properly investigated and understanding is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 이상한 상황을 조사하기로 한 그 결정은 이해와 분석을 위한 기회를 만들었고, 그 조사가 이상하고 기이한 조건의 식별을 가능하게 했지만, 그 이상함은 상황이 적절히 조사되고 이해가 효과적으로 달성되는 것을 보장하기 위해 포괄적인 분석과 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to analyze odd phenomenon that was undertaken in the initiative created pathways for understanding and explanation, with the analysis enabling identification of unusual and weird occurrences, though the oddness would need to be systematically examined through research and investigation to ensure that phenomenon is properly analyzed and understanding is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 이상한 현상을 분석하기 위한 그 노력은 이해와 설명을 위한 경로를 만들었고, 그 분석이 비정상적이고 이상한 사건의 식별을 가능하게 했지만, 그 이상함은 현상이 적절히 분석되고 이해가 효과적으로 달성되는 것을 보장하기 위해 연구와 조사를 통해 체계적으로 검토될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to understand odd coincidence that was completed in the system created structure and methods for analysis and explanation, with the understanding enabling identification of strange and peculiar connections, though the oddness would require ongoing investigation and analysis to ensure that coincidence continues to be understood and explanation remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 이상한 우연을 이해하기 위한 그 작업은 분석과 설명을 위한 구조와 방법을 만들었고, 그 이해가 이상하고 기이한 연결의 식별을 가능하게 했지만, 그 이상함은 우연이 계속 이해되고 설명이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 조사와 분석을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "odd는 '이상한, 기이한' 또는 '홀수의, 홀수의' 의미로, 이상하거나 기이한 상태를 가리킵니다. strange, peculiar와 비슷하지만 더 일상적 뉘앙스가 있습니다. odd behavior, odd number 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: odd = (A) normal (B) strange or peculiar (C) even (D) regular",
+            "a": "B",
+            "meaning_ko": "odd는 '이상한 또는 기이한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He had _____ behavior.",
+            "a": "odd",
+            "meaning_ko": "odd는 '이상한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of odd? (A) strange (B) peculiar (C) normal (D) unusual",
+            "a": "C",
+            "meaning_ko": "normal(정상적인)가 odd의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: odd _____ behavior. (A) (no preposition) (B) of (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "odd는 형용사로 명사를 직접 수식합니다."
+          },
+          {
+            "q": "Pick the best synonym: odd = (A) normal (B) strange (C) even (D) regular",
+            "a": "B",
+            "meaning_ko": "strange(이상한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She found an odd number of the problem.' → Fix the sentence.",
+            "a": "She found an odd number.",
+            "meaning_ko": "odd number는 이미 '홀수' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He had odd behavior.'",
+            "a": "He displayed strange and peculiar actions, with the oddness creating curiosity and concern, though the behavior would require understanding and analysis.",
+            "meaning_ko": "odd는 '이상한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They noticed an _____ person. (A) odd (B) oddly (C) oddness (D) odds",
+            "a": "A",
+            "meaning_ko": "형용사 odd가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses odd most appropriately? (A) The odd ran. (B) He had odd behavior. (C) She odd smiled. (D) Odd is good.",
+            "a": "B",
+            "meaning_ko": "odd는 형용사로 '이상한'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "somersault",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "공중제비, 공중제비; 공중제비나 공중제비.",
+        "note": "공중제비나 공중제비를 가리킵니다."
+      },
+      {
+        "definition_ko": "공중제비를 하다, 공중제비를 하다; 공중제비를 하거나 공중제비를 하는 것.",
+        "note": "공중제비를 하거나 공중제비를 하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "공중제비나 공중제비인 공중제비, 또는 공중제비를 하거나 공중제비를 하는 행동.",
+    "etymology": "프랑스어 sombresault(공중제비)에서 유래했으며, '공중제비' 의미입니다.",
+    "semanticExtension": "원래는 '공중제비' 의미였고, 현대에는 '공중제비' 또는 '공중제비를 하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 주로 단수형으로 사용되며, 동사로는 자동사로 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "somersault : 공중제비/공중제비를 하다",
+      "do a somersault : 공중제비를 하다"
+    ],
+    "morphology": "프랑스어 sombresault에서 유래한 단어로, '공중제비' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "somersaulted",
+        "meaning_ko": "공중제비를 한(과거분사)"
+      },
+      {
+        "word": "somersaulting",
+        "meaning_ko": "공중제비를 하는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "flip",
+        "meaning_ko": "공중제비"
+      },
+      {
+        "word": "tumble",
+        "meaning_ko": "구르기"
+      },
+      {
+        "word": "acrobatics",
+        "meaning_ko": "곡예"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "flip",
+        "meaning_ko": "공중제비"
+      },
+      {
+        "word": "tumble",
+        "meaning_ko": "구르기"
+      },
+      {
+        "word": "acrobatics",
+        "meaning_ko": "곡예"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "cartwheel",
+        "meaning_ko": "공중제비(범위가 더 넓음)"
+      },
+      {
+        "word": "handspring",
+        "meaning_ko": "공중제비"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stand",
+        "meaning_ko": "서다"
+      },
+      {
+        "word": "still",
+        "meaning_ko": "정지"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "do a somersault",
+            "meaning_ko": "공중제비를 하다"
+          },
+          {
+            "phrase": "turn a somersault",
+            "meaning_ko": "공중제비를 하다"
+          },
+          {
+            "phrase": "perform a somersault",
+            "meaning_ko": "공중제비를 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "do a forward somersault",
+            "meaning_ko": "앞으로 공중제비를 하다"
+          },
+          {
+            "phrase": "do a backward somersault",
+            "meaning_ko": "뒤로 공중제비를 하다"
+          },
+          {
+            "phrase": "perfect somersault",
+            "meaning_ko": "완벽한 공중제비"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "do a double somersault",
+            "meaning_ko": "이중 공중제비를 하다"
+          },
+          {
+            "phrase": "do a triple somersault",
+            "meaning_ko": "삼중 공중제비를 하다"
+          },
+          {
+            "phrase": "aerial somersault",
+            "meaning_ko": "공중 공중제비"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He did a somersault.",
+            "meaning_ko": "그는 공중제비를 했습니다."
+          },
+          {
+            "sentence": "She turned a somersault.",
+            "meaning_ko": "그녀는 공중제비를 했습니다."
+          },
+          {
+            "sentence": "They performed a somersault.",
+            "meaning_ko": "그들은 공중제비를 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He did a somersault, with his flip and tumble creating acrobatics and movement, though the somersaulting would require skill and practice.",
+            "meaning_ko": "그는 공중제비를 했고, 그의 공중제비 그리고 구르기가 곡예와 이동을 만들었지만, 그 공중제비하기는 기술과 연습을 요구할 것입니다."
+          },
+          {
+            "sentence": "She turned a somersault, with the cartwheel and handspring creating acrobatics and movement, though the somersaulting would need to be practiced and perfected.",
+            "meaning_ko": "그녀는 공중제비를 했고, 그 공중제비 그리고 공중제비가 곡예와 이동을 만들었지만, 그 공중제비하기는 연습되고 완벽해질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They performed a somersault, with the acrobatics and flip creating movement and skill, though the somersaulting would require training and practice.",
+            "meaning_ko": "그들은 공중제비를 했고, 그 곡예 그리고 공중제비가 이동과 기술을 만들었지만, 그 공중제비하기는 훈련과 연습을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to perform do a double somersault that was made in the process created opportunities for skill and achievement, with the performing enabling execution of acrobatics and movement, though the somersaulting would require comprehensive training and practice to ensure that somersault is properly performed and skill is effectively demonstrated.",
+            "meaning_ko": "그 과정에서 내려졌던 그 이중 공중제비를 하기로 한 그 결정은 기술과 성취를 위한 기회를 만들었고, 그 수행이 곡예와 이동의 실행을 가능하게 했지만, 그 공중제비하기는 공중제비가 적절히 수행되고 기술이 효과적으로 입증되는 것을 보장하기 위해 포괄적인 훈련과 연습을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to master do a triple somersault that was undertaken in the initiative created pathways for skill and excellence, with the mastering enabling perfection of acrobatics and movement, though the somersaulting would need to be systematically practiced through training and dedication to ensure that somersault is properly mastered and excellence is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 삼중 공중제비를 하기를 마스터하기 위한 그 노력은 기술과 우수성을 위한 경로를 만들었고, 그 마스터링이 곡예와 이동의 완벽을 가능하게 했지만, 그 공중제비하기는 공중제비가 적절히 마스터되고 우수성이 효과적으로 달성되는 것을 보장하기 위해 훈련과 헌신을 통해 체계적으로 연습될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to perfect aerial somersault that was completed in the system created structure and methods for skill and achievement, with the perfecting enabling enhancement of acrobatics and movement, though the somersaulting would require ongoing training and practice to ensure that somersault continues to be perfected and skill remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 공중 공중제비를 완벽하게 하기 위한 그 작업은 기술과 성취를 위한 구조와 방법을 만들었고, 그 완벽하게 하기가 곡예와 이동의 향상을 가능하게 했지만, 그 공중제비하기는 공중제비가 계속 완벽해지고 기술이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 훈련과 연습을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "somersault는 '공중제비, 공중제비' 또는 '공중제비를 하다, 공중제비를 하다' 의미로, 공중제비나 공중제비를 가리킵니다. flip, tumble와 비슷하지만 더 구체적 뉘앙스가 있습니다. do a somersault, turn a somersault 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: somersault = (A) stand (B) flip or tumble (C) still (D) stop",
+            "a": "B",
+            "meaning_ko": "somersault는 '공중제비 또는 구르기' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He did a _____.",
+            "a": "somersault",
+            "meaning_ko": "somersault는 '공중제비' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of somersault? (A) flip (B) tumble (C) stand (D) acrobatics",
+            "a": "C",
+            "meaning_ko": "stand(서다)가 somersault의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: do a _____ somersault. (A) (no article) (B) the (C) an (D) some",
+            "a": "A",
+            "meaning_ko": "do a somersault는 '공중제비를 하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: somersault = (A) stand (B) flip (C) still (D) stop",
+            "a": "B",
+            "meaning_ko": "flip(공중제비)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She turned somersault.' → Fix the sentence.",
+            "a": "She turned a somersault.",
+            "meaning_ko": "turn a somersault는 '공중제비를 하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He did a somersault.'",
+            "a": "He performed a flip and tumble, with the somersaulting creating acrobatics and movement, though the action would require skill and practice.",
+            "meaning_ko": "somersault는 '공중제비' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They performed a _____. (A) somersault (B) somersaults (C) somersaulted (D) somersaulting",
+            "a": "A",
+            "meaning_ko": "명사 somersault가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses somersault most appropriately? (A) The somersault ran. (B) He did a somersault. (C) She somersault smiled. (D) Somersault is good.",
+            "a": "B",
+            "meaning_ko": "somersault는 명사로 '공중제비'를 의미하며, do a somersault와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

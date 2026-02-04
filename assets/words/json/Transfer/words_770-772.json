@@ -1,0 +1,828 @@
+[
+  {
+    "word": "perjury",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "위증, 거짓 증언; 위증이나 거짓 증언.",
+        "note": "위증이나 거짓 증언을 가리킵니다."
+      },
+      {
+        "definition_ko": "선서 위반, 맹세 위반; 선서 위반이나 맹세 위반.",
+        "note": "선서 위반이나 맹세 위반을 가리킵니다."
+      }
+    ],
+    "concept": "위증이나 거짓 증언인 위증, 또는 선서 위반이나 맹세 위반.",
+    "etymology": "라틴어 perjurium(위증)에서 유래했으며, per(나쁜) + jurare(맹세하다)의 조합입니다.",
+    "semanticExtension": "원래는 '나쁜 맹세' 의미였고, 현대에는 '위증이나 거짓 증언'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 법률 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사와 불가산명사로 모두 사용되며, perjury 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 위증",
+        "example": "perjury in"
+      }
+    ],
+    "requiredComplements": [
+      "perjury : 위증/거짓 증언",
+      "perjury in + 명사 : ~에서 위증"
+    ],
+    "morphology": "라틴어 perjurium에서 유래한 단어로, per(나쁜) + jurare(맹세하다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "perjuries",
+        "meaning_ko": "위증들(복수형)"
+      },
+      {
+        "word": "perjure",
+        "meaning_ko": "위증하다"
+      },
+      {
+        "word": "perjurer",
+        "meaning_ko": "위증자"
+      }
+    ],
+    "related": [
+      {
+        "word": "false testimony",
+        "meaning_ko": "거짓 증언"
+      },
+      {
+        "word": "lying under oath",
+        "meaning_ko": "선서 하에 거짓말"
+      },
+      {
+        "word": "oath violation",
+        "meaning_ko": "선서 위반"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "false testimony",
+        "meaning_ko": "거짓 증언"
+      },
+      {
+        "word": "lying under oath",
+        "meaning_ko": "선서 하에 거짓말"
+      },
+      {
+        "word": "oath violation",
+        "meaning_ko": "선서 위반"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "deception",
+        "meaning_ko": "속임(범위가 더 넓음)"
+      },
+      {
+        "word": "falsehood",
+        "meaning_ko": "거짓"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "truth",
+        "meaning_ko": "진실"
+      },
+      {
+        "word": "honesty",
+        "meaning_ko": "정직"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "perjury in",
+            "meaning_ko": "~에서 위증"
+          },
+          {
+            "phrase": "commit perjury",
+            "meaning_ko": "위증을 저지르다"
+          },
+          {
+            "phrase": "charge of perjury",
+            "meaning_ko": "위증 혐의"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "perjury in court",
+            "meaning_ko": "법정에서 위증"
+          },
+          {
+            "phrase": "perjury case",
+            "meaning_ko": "위증 사건"
+          },
+          {
+            "phrase": "perjury trial",
+            "meaning_ko": "위증 재판"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "perjury in the testimony",
+            "meaning_ko": "그 증언에서 위증"
+          },
+          {
+            "phrase": "perjury conviction",
+            "meaning_ko": "위증 유죄 판결"
+          },
+          {
+            "phrase": "perjury penalty",
+            "meaning_ko": "위증 처벌"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was charged with perjury.",
+            "meaning_ko": "그는 위증 혐의로 기소되었습니다."
+          },
+          {
+            "sentence": "She committed perjury in court.",
+            "meaning_ko": "그녀는 법정에서 위증을 저질렀습니다."
+          },
+          {
+            "sentence": "They faced a perjury trial.",
+            "meaning_ko": "그들은 위증 재판에 직면했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was charged with perjury, with the false testimony and lying under oath creating legal consequences and penalties, though the perjury would require proof and evidence.",
+            "meaning_ko": "그는 위증 혐의로 기소되었고, 그 거짓 증언과 선서 하에 거짓말이 법적 결과와 처벌을 만들었지만, 그 위증은 증거와 증거를 요구할 것입니다."
+          },
+          {
+            "sentence": "She committed perjury in court, with the oath violation and false testimony creating serious legal issues, though the perjury would need to be proven and prosecuted.",
+            "meaning_ko": "그녀는 법정에서 위증을 저질렀고, 그 선서 위반과 거짓 증언이 심각한 법적 문제를 만들었지만, 그 위증은 입증되고 기소될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They faced a perjury trial, with the false testimony and deception creating criminal charges and proceedings, though the perjury case would require legal representation and defense.",
+            "meaning_ko": "그들은 위증 재판에 직면했고, 그 거짓 증언과 속임이 형사 기소와 절차를 만들었지만, 그 위증 사건은 법적 대리와 변호를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The perjury in the testimony that was discovered in the investigation created serious legal consequences and criminal charges, with the false testimony undermining the integrity of the judicial process, though the perjury would require thorough investigation and prosecution to maintain the credibility of the legal system.",
+            "meaning_ko": "그 조사에서 발견되었던 그 증언에서의 위증은 심각한 법적 결과와 형사 기소를 만들었고, 그 거짓 증언이 사법 과정의 무결성을 훼손했지만, 그 위증은 법률 체계의 신뢰성을 유지하기 위해 철저한 조사와 기소를 요구할 것입니다."
+          },
+          {
+            "sentence": "The perjury conviction that was obtained in the case created accountability and deterrence for false testimony, with the penalty serving as a warning against lying under oath, though the perjury conviction would require ensuring that the legal process was fair and the evidence was sufficient.",
+            "meaning_ko": "그 사건에서 얻어졌던 그 위증 유죄 판결은 거짓 증언에 대한 책임과 억제를 만들었고, 그 처벌이 선서 하에 거짓말에 대한 경고로 작용했지만, 그 위증 유죄 판결은 법적 과정이 공정하고 증거가 충분했는지 보장하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The perjury penalty that was imposed in the sentence created consequences for the violation of oath and trust, with the punishment reflecting the seriousness of false testimony in legal proceedings, though the perjury penalty would need to be proportional and serve the purpose of maintaining judicial integrity.",
+            "meaning_ko": "그 판결에서 부과되었던 그 위증 처벌은 선서와 신뢰 위반에 대한 결과를 만들었고, 그 처벌이 법적 절차에서 거짓 증언의 심각성을 반영했지만, 그 위증 처벌은 비례적이고 사법 무결성을 유지하는 목적을 제공할 필요가 있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "perjury는 '위증, 거짓 증언' 또는 '선서 위반, 맹세 위반' 의미로, 위증이나 거짓 증언을 가리킵니다. false testimony, lying under oath와 비슷하지만 더 법률적 뉘앙스가 있습니다. perjury in ~, commit perjury 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "법률",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: perjury = (A) truth (B) false testimony or lying under oath (C) honesty (D) sincerity",
+            "a": "B",
+            "meaning_ko": "perjury는 '거짓 증언 또는 선서 하에 거짓말' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was charged with _____.",
+            "a": "perjury",
+            "meaning_ko": "perjury는 '위증'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of perjury? (A) false testimony (B) lying under oath (C) truth (D) oath violation",
+            "a": "C",
+            "meaning_ko": "truth(진실)가 perjury의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: perjury _____ court. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "perjury in ~는 '~에서 위증' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: perjury = (A) truth (B) false testimony (C) honesty (D) sincerity",
+            "a": "B",
+            "meaning_ko": "false testimony(거짓 증언)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She committed perjury at court.' → Fix the preposition.",
+            "a": "She committed perjury in court.",
+            "meaning_ko": "perjury in ~는 '~에서 위증' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was charged with perjury.'",
+            "a": "He was accused of false testimony and lying under oath, with the perjury creating legal consequences and penalties, though the charge would require proof and evidence.",
+            "meaning_ko": "perjury는 '위증'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They faced a _____ trial. (A) perjury (B) perjuries (C) perjury's (D) perjure",
+            "a": "A",
+            "meaning_ko": "명사 perjury가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses perjury most appropriately? (A) The perjury ran. (B) He was charged with perjury. (C) She perjury smiled. (D) Perjury is good.",
+            "a": "B",
+            "meaning_ko": "perjury는 명사로 '위증'을 의미하며, charge with와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stealthy",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "은밀한, 몰래 하는; 은밀하거나 몰래 하는.",
+        "note": "은밀하거나 몰래 하는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "조용한, 소리 없는; 조용하거나 소리 없는.",
+        "note": "조용하거나 소리 없는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "은밀하거나 몰래 하는 상태, 또는 조용하거나 소리 없는 상태.",
+    "etymology": "고대 영어 stælth(도둑질)에서 유래했으며, stelan(훔치다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '도둑질' 의미였고, 현대에는 '은밀하거나 몰래 하는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be stealthy 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 은밀한",
+        "example": "stealthy in"
+      }
+    ],
+    "requiredComplements": [
+      "be stealthy : 은밀하다",
+      "stealthy + 명사 : 은밀한 ~",
+      "stealthy in + 명사 : ~에서 은밀한"
+    ],
+    "morphology": "고대 영어 stælth에서 유래한 단어로, stelan(훔치다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "stealthily",
+        "meaning_ko": "은밀하게"
+      },
+      {
+        "word": "stealthiness",
+        "meaning_ko": "은밀함"
+      },
+      {
+        "word": "stealth",
+        "meaning_ko": "은밀함"
+      }
+    ],
+    "related": [
+      {
+        "word": "sneaky",
+        "meaning_ko": "은밀한"
+      },
+      {
+        "word": "secretive",
+        "meaning_ko": "비밀스러운"
+      },
+      {
+        "word": "furtive",
+        "meaning_ko": "은밀한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "sneaky",
+        "meaning_ko": "은밀한"
+      },
+      {
+        "word": "secretive",
+        "meaning_ko": "비밀스러운"
+      },
+      {
+        "word": "furtive",
+        "meaning_ko": "은밀한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "covert",
+        "meaning_ko": "은밀한(범위가 더 넓음)"
+      },
+      {
+        "word": "clandestine",
+        "meaning_ko": "비밀의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "open",
+        "meaning_ko": "공개적인"
+      },
+      {
+        "word": "obvious",
+        "meaning_ko": "명백한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "stealthy in",
+            "meaning_ko": "~에서 은밀한"
+          },
+          {
+            "phrase": "stealthy movement",
+            "meaning_ko": "은밀한 움직임"
+          },
+          {
+            "phrase": "stealthy approach",
+            "meaning_ko": "은밀한 접근"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "stealthy in the night",
+            "meaning_ko": "밤에 은밀한"
+          },
+          {
+            "phrase": "stealthy operation",
+            "meaning_ko": "은밀한 작전"
+          },
+          {
+            "phrase": "stealthy behavior",
+            "meaning_ko": "은밀한 행동"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "stealthy in the mission",
+            "meaning_ko": "그 임무에서 은밀한"
+          },
+          {
+            "phrase": "stealthy infiltration",
+            "meaning_ko": "은밀한 침투"
+          },
+          {
+            "phrase": "stealthy surveillance",
+            "meaning_ko": "은밀한 감시"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He made a stealthy movement.",
+            "meaning_ko": "그는 은밀한 움직임을 했습니다."
+          },
+          {
+            "sentence": "She took a stealthy approach.",
+            "meaning_ko": "그녀는 은밀한 접근을 취했습니다."
+          },
+          {
+            "sentence": "They conducted a stealthy operation.",
+            "meaning_ko": "그들은 은밀한 작전을 수행했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He made a stealthy movement, with his sneaky and secretive action creating concealment and avoidance, though the stealthy behavior would require caution and care.",
+            "meaning_ko": "그는 은밀한 움직임을 했고, 그의 은밀하고 비밀스러운 행동이 은폐와 회피를 만들었지만, 그 은밀한 행동은 신중함과 주의를 요구할 것입니다."
+          },
+          {
+            "sentence": "She took a stealthy approach, with her furtive and covert method creating secrecy and discretion, though the stealthy operation would require planning and execution.",
+            "meaning_ko": "그녀는 은밀한 접근을 취했고, 그녀의 은밀하고 은밀한 방법이 비밀과 신중함을 만들었지만, 그 은밀한 작전은 계획과 실행을 요구할 것입니다."
+          },
+          {
+            "sentence": "They conducted a stealthy operation, with their clandestine and secretive mission creating hidden and undetected activity, though the stealthy behavior would need to be maintained and protected.",
+            "meaning_ko": "그들은 은밀한 작전을 수행했고, 그들의 비밀스럽고 비밀스러운 임무가 숨겨지고 감지되지 않은 활동을 만들었지만, 그 은밀한 행동은 유지되고 보호될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The stealthy infiltration that was executed in the mission created undetected access and penetration, with the covert operation enabling entry without alerting security, though the stealthy approach would require maintaining secrecy and avoiding detection throughout the process.",
+            "meaning_ko": "그 임무에서 실행되었던 그 은밀한 침투는 감지되지 않은 접근과 침투를 만들었고, 그 은밀한 작전이 보안을 경고하지 않고 진입을 가능하게 했지만, 그 은밀한 접근은 그 과정 전반에 걸쳐 비밀을 유지하고 감지를 피하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The stealthy surveillance that was implemented in the operation created monitoring and observation without detection, with the secretive method enabling information gathering while remaining hidden, though the stealthy surveillance would require careful planning and execution to avoid compromise.",
+            "meaning_ko": "그 작전에서 실행되었던 그 은밀한 감시는 감지 없이 모니터링과 관찰을 만들었고, 그 비밀스러운 방법이 숨겨진 상태로 정보 수집을 가능하게 했지만, 그 은밀한 감시는 타협을 피하기 위해 신중한 계획과 실행을 요구할 것입니다."
+          },
+          {
+            "sentence": "The decision to use a stealthy approach that was made in the strategy created advantages through secrecy and surprise, with the covert method enabling operations without alerting opponents, though the stealthy strategy would require maintaining operational security and adapting to changing circumstances.",
+            "meaning_ko": "그 전략에서 내려졌던 그 은밀한 접근을 사용하기로 한 그 결정은 비밀과 놀라움을 통해 이점을 만들었고, 그 은밀한 방법이 상대를 경고하지 않고 작전을 가능하게 했지만, 그 은밀한 전략은 작전 보안을 유지하고 변화하는 상황에 적응하는 것을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "stealthy는 '은밀한, 몰래 하는' 또는 '조용한, 소리 없는' 의미로, 은밀하거나 몰래 하는 상태를 가리킵니다. sneaky, secretive와 비슷하지만 더 일반적 뉘앙스가 있습니다. stealthy in ~, stealthy movement 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: stealthy = (A) open (B) sneaky or secretive (C) obvious (D) public",
+            "a": "B",
+            "meaning_ko": "stealthy는 '은밀한 또는 비밀스러운' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He made a _____ movement.",
+            "a": "stealthy",
+            "meaning_ko": "stealthy는 '은밀한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of stealthy? (A) sneaky (B) secretive (C) open (D) furtive",
+            "a": "C",
+            "meaning_ko": "open(공개적인)가 stealthy의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: stealthy _____ the night. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "stealthy in ~는 '~에서 은밀한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: stealthy = (A) open (B) sneaky (C) obvious (D) public",
+            "a": "B",
+            "meaning_ko": "sneaky(은밀한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She took a stealthy at approach.' → Fix the preposition.",
+            "a": "She took a stealthy approach.",
+            "meaning_ko": "stealthy는 직접 명사를 수식하므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He made a stealthy movement.'",
+            "a": "He performed a sneaky and secretive action, with the stealthy behavior creating concealment and avoidance, though the movement would require caution and care.",
+            "meaning_ko": "stealthy는 '은밀한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They conducted a _____ operation. (A) stealthy (B) stealthily (C) stealthiness (D) stealthy's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 stealthy가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses stealthy most appropriately? (A) The stealthy ran. (B) He made a stealthy movement. (C) She stealthy smiled. (D) Stealthy is good.",
+            "a": "B",
+            "meaning_ko": "stealthy는 형용사로 '은밀한'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "excel",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "뛰어나다, 탁월하다; 뛰어나거나 탁월하다.",
+        "note": "뛰어나거나 탁월한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "우수하다, 능가하다; 우수하거나 능가하다.",
+        "note": "우수하거나 능가하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "뛰어나거나 탁월한 것, 또는 우수하거나 능가하는 것.",
+    "etymology": "라틴어 excellere(뛰어나다)에서 유래했으며, ex(밖으로) + cellere(올라가다)의 조합입니다.",
+    "semanticExtension": "원래는 '밖으로 올라가다' 의미였고, 현대에는 '뛰어나거나 탁월하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "자동사와 타동사로 모두 사용되며, excel + at/in 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에서 뛰어나다",
+        "example": "excel at"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 뛰어나다",
+        "example": "excel in"
+      }
+    ],
+    "requiredComplements": [
+      "excel : 뛰어나다/탁월하다",
+      "excel at + 명사 : ~에서 뛰어나다",
+      "excel in + 명사 : ~에서 뛰어나다"
+    ],
+    "morphology": "라틴어 excellere에서 유래한 단어로, ex(밖으로) + cellere(올라가다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "excelled",
+        "meaning_ko": "뛰어났던(과거형)"
+      },
+      {
+        "word": "excelling",
+        "meaning_ko": "뛰어난(현재분사/형용사)"
+      },
+      {
+        "word": "excellence",
+        "meaning_ko": "우수함"
+      }
+    ],
+    "related": [
+      {
+        "word": "outperform",
+        "meaning_ko": "능가하다"
+      },
+      {
+        "word": "surpass",
+        "meaning_ko": "능가하다"
+      },
+      {
+        "word": "shine",
+        "meaning_ko": "빛나다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "outperform",
+        "meaning_ko": "능가하다"
+      },
+      {
+        "word": "surpass",
+        "meaning_ko": "능가하다"
+      },
+      {
+        "word": "shine",
+        "meaning_ko": "빛나다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "outshine",
+        "meaning_ko": "능가하다(범위가 더 넓음)"
+      },
+      {
+        "word": "transcend",
+        "meaning_ko": "초월하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fail",
+        "meaning_ko": "실패하다"
+      },
+      {
+        "word": "underperform",
+        "meaning_ko": "부진하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "excel at",
+            "meaning_ko": "~에서 뛰어나다"
+          },
+          {
+            "phrase": "excel in",
+            "meaning_ko": "~에서 뛰어나다"
+          },
+          {
+            "phrase": "excel at sports",
+            "meaning_ko": "스포츠에서 뛰어나다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "excel at mathematics",
+            "meaning_ko": "수학에서 뛰어나다"
+          },
+          {
+            "phrase": "excel in studies",
+            "meaning_ko": "학습에서 뛰어나다"
+          },
+          {
+            "phrase": "excel at work",
+            "meaning_ko": "일에서 뛰어나다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "excel at leadership",
+            "meaning_ko": "리더십에서 뛰어나다"
+          },
+          {
+            "phrase": "excel in performance",
+            "meaning_ko": "성과에서 뛰어나다"
+          },
+          {
+            "phrase": "excel at communication",
+            "meaning_ko": "소통에서 뛰어나다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He excels at sports.",
+            "meaning_ko": "그는 스포츠에서 뛰어납니다."
+          },
+          {
+            "sentence": "She excelled in studies.",
+            "meaning_ko": "그녀는 학습에서 뛰어났습니다."
+          },
+          {
+            "sentence": "They excel at work.",
+            "meaning_ko": "그들은 일에서 뛰어납니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He excels at sports, with his performance and ability creating success and recognition, though the excellence would require practice and dedication.",
+            "meaning_ko": "그는 스포츠에서 뛰어나고, 그의 성과와 능력이 성공과 인정을 만들었지만, 그 우수함은 연습과 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "She excelled in studies, with her achievement and performance creating academic success and advancement, though the excellence would require continued effort and learning.",
+            "meaning_ko": "그녀는 학습에서 뛰어났고, 그녀의 성취와 성과가 학업적 성공과 발전을 만들었지만, 그 우수함은 지속적인 노력과 학습을 요구할 것입니다."
+          },
+          {
+            "sentence": "They excel at work, with their performance and skill creating productivity and results, though the excellence would need to be maintained and improved.",
+            "meaning_ko": "그들은 일에서 뛰어나고, 그들의 성과와 기술이 생산성과 결과를 만들었지만, 그 우수함은 유지되고 개선될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ability to excel at leadership that was demonstrated in the role created effective management and team success, with the performance enabling guidance and inspiration, though the excellence would require ongoing development and adaptation to maintain effectiveness.",
+            "meaning_ko": "그 역할에서 입증되었던 그 리더십에서 뛰어날 수 있는 능력은 효과적인 관리와 팀 성공을 만들었고, 그 성과가 지도와 영감을 가능하게 했지만, 그 우수함은 효과를 유지하기 위해 지속적인 발전과 적응을 요구할 것입니다."
+          },
+          {
+            "sentence": "The performance that excelled in the project created outstanding results and achievements, with the excellence enabling recognition and advancement, though the success would require building on strengths and addressing areas for improvement.",
+            "meaning_ko": "그 프로젝트에서 뛰어났던 그 성과는 뛰어난 결과와 성취를 만들었고, 그 우수함이 인정과 발전을 가능하게 했지만, 그 성공은 강점을 구축하고 개선 영역을 다루는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The skill to excel at communication that was evident in the interactions created effective dialogue and understanding, with the excellence enabling connection and collaboration, though the ability would require continued practice and refinement to maintain high standards.",
+            "meaning_ko": "그 상호작용에서 명백했던 그 소통에서 뛰어날 수 있는 그 기술은 효과적인 대화와 이해를 만들었고, 그 우수함이 연결과 협력을 가능하게 했지만, 그 능력은 높은 기준을 유지하기 위해 지속적인 연습과 정제를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "excel은 '뛰어나다, 탁월하다' 또는 '우수하다, 능가하다' 의미로, 뛰어나거나 탁월한 상태를 가리킵니다. outperform, surpass와 비슷하지만 더 일반적 뉘앙스가 있습니다. excel at ~, excel in ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: excel = (A) fail (B) outperform or surpass (C) underperform (D) struggle",
+            "a": "B",
+            "meaning_ko": "excel은 '능가하다 또는 능가하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ at sports.",
+            "a": "excels",
+            "meaning_ko": "excel은 '뛰어나다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of excel? (A) outperform (B) surpass (C) fail (D) shine",
+            "a": "C",
+            "meaning_ko": "fail(실패하다)가 excel의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: excel _____ sports. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "excel at ~는 '~에서 뛰어나다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: excel = (A) fail (B) outperform (C) underperform (D) struggle",
+            "a": "B",
+            "meaning_ko": "outperform(능가하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She excelled on studies.' → Fix the preposition.",
+            "a": "She excelled in studies.",
+            "meaning_ko": "excel in ~는 '~에서 뛰어나다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He excels at sports.'",
+            "a": "He outperforms and surpasses others in athletic activities, with the excellence creating success and recognition, though the performance would require practice and dedication.",
+            "meaning_ko": "excel은 '뛰어나다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ at work. (A) excel (B) excels (C) excelled (D) excelling",
+            "a": "A",
+            "meaning_ko": "현재형 excel이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses excel most appropriately? (A) The excel ran. (B) He excels at sports. (C) She excel smiled. (D) Excel is good.",
+            "a": "B",
+            "meaning_ko": "excel은 자동사로 '뛰어나다'를 의미하며, excel at ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

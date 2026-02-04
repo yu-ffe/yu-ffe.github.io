@@ -1,0 +1,823 @@
+[
+  {
+    "word": "distinguish",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "구별하다, 구분하다; 구별하거나 구분하다.",
+        "note": "구별하거나 구분하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "인식하다, 알아보다; 인식하거나 알아보다.",
+        "note": "인식하거나 알아보는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "구별하거나 구분하는 것, 또는 인식하거나 알아보는 것.",
+    "etymology": "라틴어 distinguere(구별하다)에서 유래했으며, dis(분리) + stinguere(찌르다)의 조합입니다.",
+    "semanticExtension": "원래는 '분리하다' 의미였고, 현대에는 '구별하거나 구분하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사와 자동사로 모두 사용되며, distinguish + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "between",
+        "meaning_ko": "~과 ~을 구별하다",
+        "example": "distinguish between"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~와 구별하다",
+        "example": "distinguish from"
+      }
+    ],
+    "requiredComplements": [
+      "distinguish : 구별하다/구분하다",
+      "distinguish + 명사 : ~을 구별하다",
+      "distinguish between + 명사 : ~과 ~을 구별하다",
+      "distinguish from + 명사 : ~와 구별하다"
+    ],
+    "morphology": "라틴어 distinguere에서 유래한 단어로, dis(분리) + stinguere(찌르다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "distinguished",
+        "meaning_ko": "저명한(과거분사/형용사)"
+      },
+      {
+        "word": "distinguishing",
+        "meaning_ko": "구별하는(현재분사/형용사)"
+      },
+      {
+        "word": "distinction",
+        "meaning_ko": "구별"
+      }
+    ],
+    "related": [
+      {
+        "word": "differentiate",
+        "meaning_ko": "구별하다"
+      },
+      {
+        "word": "discern",
+        "meaning_ko": "구별하다"
+      },
+      {
+        "word": "identify",
+        "meaning_ko": "식별하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "differentiate",
+        "meaning_ko": "구별하다"
+      },
+      {
+        "word": "discern",
+        "meaning_ko": "구별하다"
+      },
+      {
+        "word": "identify",
+        "meaning_ko": "식별하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "separate",
+        "meaning_ko": "분리하다(범위가 더 넓음)"
+      },
+      {
+        "word": "recognize",
+        "meaning_ko": "인식하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "confuse",
+        "meaning_ko": "혼동하다"
+      },
+      {
+        "word": "mix",
+        "meaning_ko": "섞다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "distinguish between",
+            "meaning_ko": "~과 ~을 구별하다"
+          },
+          {
+            "phrase": "distinguish from",
+            "meaning_ko": "~와 구별하다"
+          },
+          {
+            "phrase": "distinguish the difference",
+            "meaning_ko": "차이를 구별하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "distinguish between right and wrong",
+            "meaning_ko": "옳고 그름을 구별하다"
+          },
+          {
+            "phrase": "distinguish from others",
+            "meaning_ko": "다른 것들과 구별하다"
+          },
+          {
+            "phrase": "distinguish the features",
+            "meaning_ko": "특징을 구별하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "distinguish between fact and fiction",
+            "meaning_ko": "사실과 허구를 구별하다"
+          },
+          {
+            "phrase": "distinguish from competitors",
+            "meaning_ko": "경쟁자들과 구별하다"
+          },
+          {
+            "phrase": "distinguish the characteristics",
+            "meaning_ko": "특성을 구별하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He can distinguish between right and wrong.",
+            "meaning_ko": "그는 옳고 그름을 구별할 수 있습니다."
+          },
+          {
+            "sentence": "She distinguished the difference.",
+            "meaning_ko": "그녀는 그 차이를 구별했습니다."
+          },
+          {
+            "sentence": "They distinguished from others.",
+            "meaning_ko": "그들은 다른 것들과 구별되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He can distinguish between right and wrong, with his ability and judgment creating clarity and understanding, though the distinction would require careful consideration and reflection.",
+            "meaning_ko": "그는 옳고 그름을 구별할 수 있고, 그의 능력과 판단이 명확성과 이해를 만들었지만, 그 구별은 신중한 고려와 성찰을 요구할 것입니다."
+          },
+          {
+            "sentence": "She distinguished the difference, with her analysis and observation providing insight and awareness, though the distinction would require validation and confirmation.",
+            "meaning_ko": "그녀는 그 차이를 구별했고, 그녀의 분석과 관찰이 통찰과 인식을 제공했지만, 그 구별은 검증과 확인을 요구할 것입니다."
+          },
+          {
+            "sentence": "They distinguished from others, with their unique qualities and characteristics creating separation and identity, though the distinction would need to be recognized and appreciated.",
+            "meaning_ko": "그들은 다른 것들과 구별되었고, 그들의 독특한 자질과 특성이 분리와 정체성을 만들었지만, 그 구별은 인식되고 감사받을 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ability to distinguish between fact and fiction that was demonstrated in the analysis created a framework for critical thinking and evaluation, with the skill enabling accurate assessment and judgment, though the distinction would require ongoing practice and refinement.",
+            "meaning_ko": "그 분석에서 입증되었던 그 사실과 허구를 구별하는 능력은 비판적 사고와 평가를 위한 틀을 만들었고, 그 기술이 정확한 평가와 판단을 가능하게 했지만, 그 구별은 지속적인 연습과 정제를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to distinguish from competitors that was undertaken in the strategy created opportunities for differentiation and positioning, with the distinction enabling unique value proposition and market identity, though the differentiation would require consistent communication and reinforcement.",
+            "meaning_ko": "그 전략에서 착수되었던 그 경쟁자들과 구별하기 위한 그 노력은 차별화와 포지셔닝을 위한 기회를 만들었고, 그 구별이 독특한 가치 제안과 시장 정체성을 가능하게 했지만, 그 차별화는 일관된 소통과 강화를 요구할 것입니다."
+          },
+          {
+            "sentence": "The work to distinguish the characteristics that was completed in the research created understanding of differences and similarities, with the analysis providing clarity and insight into the subject matter, though the distinction would need to be validated and applied in practice.",
+            "meaning_ko": "그 연구에서 완료되었던 그 특성을 구별하기 위한 그 작업은 차이와 유사성에 대한 이해를 만들었고, 그 분석이 그 주제에 대한 명확성과 통찰을 제공했지만, 그 구별은 검증되고 실천에 적용될 필요가 있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "distinguish는 '구별하다, 구분하다' 또는 '인식하다, 알아보다' 의미로, 구별하거나 구분하는 행동을 가리킵니다. differentiate, discern과 비슷하지만 더 일반적 뉘앙스가 있습니다. distinguish between ~, distinguish from ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: distinguish = (A) confuse (B) differentiate or identify (C) mix (D) blend",
+            "a": "B",
+            "meaning_ko": "distinguish는 '구별하다 또는 식별하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He can _____ between right and wrong.",
+            "a": "distinguish",
+            "meaning_ko": "distinguish는 '구별하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of distinguish? (A) differentiate (B) discern (C) confuse (D) identify",
+            "a": "C",
+            "meaning_ko": "confuse(혼동하다)가 distinguish의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: distinguish _____ right and wrong. (A) between (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "distinguish between ~는 '~과 ~을 구별하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: distinguish = (A) confuse (B) differentiate (C) mix (D) blend",
+            "a": "B",
+            "meaning_ko": "differentiate(구별하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She distinguished at the difference.' → Fix the preposition.",
+            "a": "She distinguished the difference.",
+            "meaning_ko": "distinguish는 직접 목적어를 취하므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He can distinguish between right and wrong.'",
+            "a": "He has the ability to differentiate and identify the difference between correct and incorrect actions, with his judgment creating clarity and understanding, though the distinction would require careful consideration.",
+            "meaning_ko": "distinguish는 '구별하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ from others. (A) distinguish (B) distinguishes (C) distinguished (D) distinguishing",
+            "a": "C",
+            "meaning_ko": "과거형 distinguished가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses distinguish most appropriately? (A) The distinguish ran. (B) He can distinguish between right and wrong. (C) She distinguish smiled. (D) Distinguish is good.",
+            "a": "B",
+            "meaning_ko": "distinguish는 동사로 '구별하다'를 의미하며, distinguish between ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "partisan",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "당파주의자, 당원; 당파주의자나 당원.",
+        "note": "당파주의자나 당원을 가리킵니다."
+      },
+      {
+        "definition_ko": "당파적인, 편향된; 당파적이거나 편향된.",
+        "note": "당파적이거나 편향된 상태를 가리킵니다."
+      }
+    ],
+    "concept": "당파주의자나 당원인 당파주의자, 또는 당파적이거나 편향된 상태.",
+    "etymology": "프랑스어 partisan(당원)에서 유래했으며, partie(당)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '당원' 의미였고, 현대에는 '당파적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 정치 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "명사와 형용사로 모두 사용되며, partisan 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 당파주의자",
+        "example": "partisan of"
+      }
+    ],
+    "requiredComplements": [
+      "partisan : 당파주의자/당원",
+      "partisan of + 명사 : ~의 당파주의자",
+      "partisan + 명사 : 당파적인 ~"
+    ],
+    "morphology": "프랑스어 partisan에서 유래한 단어로, partie(당)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "partisans",
+        "meaning_ko": "당파주의자들(복수형)"
+      },
+      {
+        "word": "partisanship",
+        "meaning_ko": "당파주의"
+      }
+    ],
+    "related": [
+      {
+        "word": "supporter",
+        "meaning_ko": "지지자"
+      },
+      {
+        "word": "follower",
+        "meaning_ko": "추종자"
+      },
+      {
+        "word": "biased",
+        "meaning_ko": "편향된"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "supporter",
+        "meaning_ko": "지지자"
+      },
+      {
+        "word": "follower",
+        "meaning_ko": "추종자"
+      },
+      {
+        "word": "biased",
+        "meaning_ko": "편향된"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "advocate",
+        "meaning_ko": "옹호자(범위가 더 넓음)"
+      },
+      {
+        "word": "prejudiced",
+        "meaning_ko": "편견이 있는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "neutral",
+        "meaning_ko": "중립적인"
+      },
+      {
+        "word": "impartial",
+        "meaning_ko": "공정한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "partisan of",
+            "meaning_ko": "~의 당파주의자"
+          },
+          {
+            "phrase": "partisan politics",
+            "meaning_ko": "당파 정치"
+          },
+          {
+            "phrase": "partisan support",
+            "meaning_ko": "당파적 지원"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "partisan of the party",
+            "meaning_ko": "그 정당의 당파주의자"
+          },
+          {
+            "phrase": "partisan division",
+            "meaning_ko": "당파적 분열"
+          },
+          {
+            "phrase": "partisan conflict",
+            "meaning_ko": "당파적 갈등"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "partisan of the movement",
+            "meaning_ko": "그 운동의 당파주의자"
+          },
+          {
+            "phrase": "partisan polarization",
+            "meaning_ko": "당파적 양극화"
+          },
+          {
+            "phrase": "partisan rhetoric",
+            "meaning_ko": "당파적 수사"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was a partisan of the party.",
+            "meaning_ko": "그는 그 정당의 당파주의자였습니다."
+          },
+          {
+            "sentence": "She showed partisan support.",
+            "meaning_ko": "그녀는 당파적 지원을 보였습니다."
+          },
+          {
+            "sentence": "They engaged in partisan politics.",
+            "meaning_ko": "그들은 당파 정치에 참여했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was a partisan of the party, with his support and loyalty creating alignment with the group, though the partisan position would require commitment and adherence.",
+            "meaning_ko": "그는 그 정당의 당파주의자였고, 그의 지원과 충성심이 그 그룹과의 일치를 만들었지만, 그 당파적 입장은 헌신과 준수를 요구할 것입니다."
+          },
+          {
+            "sentence": "She showed partisan support, with her biased and one-sided approach creating division and conflict, though the partisan behavior would require moderation and balance.",
+            "meaning_ko": "그녀는 당파적 지원을 보였고, 그녀의 편향되고 한쪽 편인 접근이 분열과 갈등을 만들었지만, 그 당파적 행동은 절제와 균형을 요구할 것입니다."
+          },
+          {
+            "sentence": "They engaged in partisan politics, with their divided and biased participation creating polarization and disagreement, though the partisan activity would need to be addressed and moderated.",
+            "meaning_ko": "그들은 당파 정치에 참여했고, 그들의 분열되고 편향된 참여가 양극화와 불일치를 만들었지만, 그 당파적 활동은 다뤄지고 절제될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The partisan of the movement that was identified in the organization created a strong alignment with the group's goals and values, with the supporter providing dedicated advocacy and commitment, though the partisan position would require maintaining principles while avoiding excessive bias.",
+            "meaning_ko": "그 조직에서 확인되었던 그 운동의 당파주의자는 그 그룹의 목표와 가치와의 강한 일치를 만들었고, 그 지지자가 헌신적인 옹호와 헌신을 제공했지만, 그 당파적 입장은 과도한 편견을 피하면서 원칙을 유지하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The partisan polarization that was observed in the political landscape created deep divisions and conflicts, with the biased positions leading to gridlock and inability to compromise, though the partisan situation would require dialogue and cooperation to resolve.",
+            "meaning_ko": "그 정치 풍경에서 관찰되었던 그 당파적 양극화는 깊은 분열과 갈등을 만들었고, 그 편향된 입장이 교착 상태와 타협할 수 없음으로 이어졌지만, 그 당파적 상황은 해결하기 위해 대화와 협력을 요구할 것입니다."
+          },
+          {
+            "sentence": "The partisan rhetoric that was used in the campaign created emotional appeals and divisive messaging, with the biased language influencing public opinion and voter behavior, though the partisan communication would require fact-checking and balanced perspective.",
+            "meaning_ko": "그 캠페인에서 사용되었던 그 당파적 수사는 감정적 호소와 분열적인 메시징을 만들었고, 그 편향된 언어가 여론과 유권자 행동에 영향을 미쳤지만, 그 당파적 소통은 사실 확인과 균형 잡힌 관점을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "partisan은 '당파주의자, 당원' 또는 '당파적인, 편향된' 의미로, 당파주의자나 당원을 가리킵니다. supporter, biased와 비슷하지만 더 정치적 뉘앙스가 있습니다. partisan of ~, partisan politics 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "정치",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: partisan = (A) neutral (B) supporter or biased (C) impartial (D) fair",
+            "a": "B",
+            "meaning_ko": "partisan은 '지지자 또는 편향된' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was a _____ of the party.",
+            "a": "partisan",
+            "meaning_ko": "partisan은 '당파주의자'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of partisan? (A) supporter (B) follower (C) neutral (D) biased",
+            "a": "C",
+            "meaning_ko": "neutral(중립적인)이 partisan의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: partisan _____ the party. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "partisan of ~는 '~의 당파주의자' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: partisan = (A) neutral (B) supporter (C) impartial (D) fair",
+            "a": "B",
+            "meaning_ko": "supporter(지지자)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She showed partisan at support.' → Fix the preposition.",
+            "a": "She showed partisan support.",
+            "meaning_ko": "partisan은 직접 명사를 수식하므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was a partisan of the party.'",
+            "a": "He was a dedicated supporter and follower of the group, with his partisan position creating alignment with the party's goals, though the commitment would require maintaining principles.",
+            "meaning_ko": "partisan은 '당파주의자'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They engaged in _____ politics. (A) partisan (B) partisans (C) partisan's (D) partisanship",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 partisan이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses partisan most appropriately? (A) The partisan ran. (B) He was a partisan of the party. (C) She partisan smiled. (D) Partisan is good.",
+            "a": "B",
+            "meaning_ko": "partisan은 명사로 '당파주의자'를 의미하며, partisan of ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "additives",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "첨가물, 첨가제; 첨가물이나 첨가제.",
+        "note": "첨가물이나 첨가제를 가리킵니다."
+      },
+      {
+        "definition_ko": "보충제, 추가물; 보충제나 추가물.",
+        "note": "보충제나 추가물을 가리킵니다."
+      }
+    ],
+    "concept": "첨가물이나 첨가제인 첨가물, 또는 보충제나 추가물.",
+    "etymology": "라틴어 additivus(추가의)에서 유래했으며, addere(추가하다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '추가의' 의미였고, 현대에는 '첨가물이나 첨가제'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 식품과 화학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "복수형 명사로 자주 사용되며, additives 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 첨가물",
+        "example": "additives in"
+      }
+    ],
+    "requiredComplements": [
+      "additives : 첨가물들/첨가제들",
+      "additives in + 명사 : ~에 첨가물"
+    ],
+    "morphology": "라틴어 additivus에서 유래한 단어로, addere(추가하다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "additive",
+        "meaning_ko": "첨가물(단수형)"
+      },
+      {
+        "word": "add",
+        "meaning_ko": "추가하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "ingredients",
+        "meaning_ko": "성분"
+      },
+      {
+        "word": "supplements",
+        "meaning_ko": "보충제"
+      },
+      {
+        "word": "preservatives",
+        "meaning_ko": "보존제"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ingredients",
+        "meaning_ko": "성분"
+      },
+      {
+        "word": "supplements",
+        "meaning_ko": "보충제"
+      },
+      {
+        "word": "preservatives",
+        "meaning_ko": "보존제"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "chemicals",
+        "meaning_ko": "화학물질(범위가 더 넓음)"
+      },
+      {
+        "word": "enhancers",
+        "meaning_ko": "향상제"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "natural",
+        "meaning_ko": "자연의"
+      },
+      {
+        "word": "organic",
+        "meaning_ko": "유기농의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "additives in",
+            "meaning_ko": "~에 첨가물"
+          },
+          {
+            "phrase": "food additives",
+            "meaning_ko": "식품 첨가물"
+          },
+          {
+            "phrase": "chemical additives",
+            "meaning_ko": "화학 첨가물"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "additives in food",
+            "meaning_ko": "식품에 첨가물"
+          },
+          {
+            "phrase": "additives in products",
+            "meaning_ko": "제품에 첨가물"
+          },
+          {
+            "phrase": "artificial additives",
+            "meaning_ko": "인공 첨가물"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "additives in processed foods",
+            "meaning_ko": "가공 식품에 첨가물"
+          },
+          {
+            "phrase": "additives in cosmetics",
+            "meaning_ko": "화장품에 첨가물"
+          },
+          {
+            "phrase": "synthetic additives",
+            "meaning_ko": "합성 첨가물"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The food contains additives.",
+            "meaning_ko": "그 식품은 첨가물을 포함하고 있습니다."
+          },
+          {
+            "sentence": "She avoided additives in food.",
+            "meaning_ko": "그녀는 식품의 첨가물을 피했습니다."
+          },
+          {
+            "sentence": "He checked the additives.",
+            "meaning_ko": "그는 그 첨가물들을 확인했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The food contains additives, with the ingredients and supplements creating enhanced flavor and preservation, though the additives would require regulation and monitoring.",
+            "meaning_ko": "그 식품은 첨가물을 포함하고 있고, 그 성분과 보충제가 향상된 맛과 보존을 만들었지만, 그 첨가물은 규제와 모니터링을 요구할 것입니다."
+          },
+          {
+            "sentence": "She avoided additives in food, with her preference and concern creating a focus on natural and organic options, though the avoidance would require careful reading and selection.",
+            "meaning_ko": "그녀는 식품의 첨가물을 피했고, 그녀의 선호와 우려가 자연적이고 유기농 옵션에 초점을 만들었지만, 그 회피는 신중한 읽기와 선택을 요구할 것입니다."
+          },
+          {
+            "sentence": "He checked the additives, with his review and analysis providing information about ingredients and effects, though the additives would need to be evaluated and understood.",
+            "meaning_ko": "그는 그 첨가물들을 확인했고, 그의 검토와 분석이 성분과 효과에 대한 정보를 제공했지만, 그 첨가물은 평가되고 이해될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The additives in processed foods that were identified in the study created concerns about health and safety, with the ingredients requiring regulation and transparency, though the additives would need to be monitored and evaluated for potential risks.",
+            "meaning_ko": "그 연구에서 확인되었던 그 가공 식품에 첨가물은 건강과 안전에 대한 우려를 만들었고, 그 성분이 규제와 투명성을 요구했지만, 그 첨가물은 잠재적 위험에 대해 모니터링되고 평가될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The additives in cosmetics that were analyzed in the research created awareness of ingredients and potential effects, with the chemicals requiring careful consideration and consumer education, though the additives would need to be tested and regulated.",
+            "meaning_ko": "그 연구에서 분석되었던 그 화장품에 첨가물은 성분과 잠재적 효과에 대한 인식을 만들었고, 그 화학물질이 신중한 고려와 소비자 교육을 요구했지만, 그 첨가물은 테스트되고 규제될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The synthetic additives that were used in the production created enhanced properties and functionality, with the chemicals providing specific benefits and characteristics, though the additives would require safety testing and regulatory approval.",
+            "meaning_ko": "그 제작에서 사용되었던 그 합성 첨가물은 향상된 특성과 기능을 만들었고, 그 화학물질이 특정 이점과 특성을 제공했지만, 그 첨가물은 안전 테스트와 규제 승인을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "additives는 '첨가물, 첨가제' 또는 '보충제, 추가물' 의미로, 첨가물이나 첨가제를 가리킵니다. ingredients, supplements와 비슷하지만 더 식품과 화학 관련 뉘앙스가 있습니다. additives in ~, food additives 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "식품",
+      "화학",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: additives = (A) natural (B) ingredients or supplements (C) organic (D) pure",
+            "a": "B",
+            "meaning_ko": "additives는 '성분 또는 보충제' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The food contains _____.",
+            "a": "additives",
+            "meaning_ko": "additives는 '첨가물들'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of additives? (A) ingredients (B) supplements (C) natural (D) preservatives",
+            "a": "C",
+            "meaning_ko": "natural(자연의)이 additives의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: additives _____ food. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "additives in ~는 '~에 첨가물' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: additives = (A) natural (B) ingredients (C) organic (D) pure",
+            "a": "B",
+            "meaning_ko": "ingredients(성분)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She avoided additives at food.' → Fix the preposition.",
+            "a": "She avoided additives in food.",
+            "meaning_ko": "additives in ~는 '~에 첨가물' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The food contains additives.'",
+            "a": "The product includes ingredients and supplements, with the additives providing enhanced properties and functionality, though the components would require regulation and monitoring.",
+            "meaning_ko": "additives는 '첨가물들'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: He checked the _____. (A) additives (B) additive (C) additive's (D) add",
+            "a": "A",
+            "meaning_ko": "복수형 명사 additives가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses additives most appropriately? (A) The additives ran. (B) The food contains additives. (C) She additives smiled. (D) Additives is good.",
+            "a": "B",
+            "meaning_ko": "additives는 명사로 '첨가물들'을 의미하며, contain과 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

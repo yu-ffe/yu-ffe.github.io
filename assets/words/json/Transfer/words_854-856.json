@@ -1,0 +1,817 @@
+[
+  {
+    "word": "diction",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "말투, 어조; 말투나 어조.",
+        "note": "말투나 어조를 가리킵니다."
+      },
+      {
+        "definition_ko": "단어 선택, 어휘; 단어 선택이나 어휘.",
+        "note": "단어 선택이나 어휘를 가리킵니다."
+      }
+    ],
+    "concept": "말투나 어조인 말투, 또는 단어 선택이나 어휘.",
+    "etymology": "라틴어 dictio(말하기)에서 유래했으며, dicere(말하다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '말하기' 의미였고, 현대에는 '말투나 어조'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학이나 언어 관련 문맥에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, diction 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 말투",
+        "example": "diction of"
+      }
+    ],
+    "requiredComplements": [
+      "diction : 말투/어조",
+      "diction of + 명사 : ~의 말투"
+    ],
+    "morphology": "라틴어 dictio에서 유래한 단어로, dicere(말하다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "dictionary",
+        "meaning_ko": "사전"
+      },
+      {
+        "word": "dictate",
+        "meaning_ko": "지시하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "speech",
+        "meaning_ko": "말하기"
+      },
+      {
+        "word": "language",
+        "meaning_ko": "언어"
+      },
+      {
+        "word": "expression",
+        "meaning_ko": "표현"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "speech",
+        "meaning_ko": "말하기"
+      },
+      {
+        "word": "language",
+        "meaning_ko": "언어"
+      },
+      {
+        "word": "expression",
+        "meaning_ko": "표현"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "phraseology",
+        "meaning_ko": "말투(범위가 더 넓음)"
+      },
+      {
+        "word": "wording",
+        "meaning_ko": "문구"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "silence",
+        "meaning_ko": "침묵"
+      },
+      {
+        "word": "muteness",
+        "meaning_ko": "무언"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "diction of",
+            "meaning_ko": "~의 말투"
+          },
+          {
+            "phrase": "clear diction",
+            "meaning_ko": "명확한 말투"
+          },
+          {
+            "phrase": "poetic diction",
+            "meaning_ko": "시적 말투"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "diction of the speaker",
+            "meaning_ko": "그 화자의 말투"
+          },
+          {
+            "phrase": "formal diction",
+            "meaning_ko": "공식적인 말투"
+          },
+          {
+            "phrase": "literary diction",
+            "meaning_ko": "문학적 말투"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "diction of the author",
+            "meaning_ko": "그 작가의 말투"
+          },
+          {
+            "phrase": "precise diction",
+            "meaning_ko": "정확한 말투"
+          },
+          {
+            "phrase": "elevated diction",
+            "meaning_ko": "고상한 말투"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He had clear diction.",
+            "meaning_ko": "그는 명확한 말투를 가졌습니다."
+          },
+          {
+            "sentence": "She studied poetic diction.",
+            "meaning_ko": "그녀는 시적 말투를 연구했습니다."
+          },
+          {
+            "sentence": "They improved their diction.",
+            "meaning_ko": "그들은 그들의 말투를 개선했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He had clear diction, with his speech and language creating understanding and clarity, though the diction would require practice and refinement.",
+            "meaning_ko": "그는 명확한 말투를 가졌고, 그의 말하기와 언어가 이해와 명확성을 만들었지만, 그 말투는 연습과 정제를 요구할 것입니다."
+          },
+          {
+            "sentence": "She studied poetic diction, with the expression and phraseology creating beauty and artistry, though the diction would need to be appreciated and analyzed.",
+            "meaning_ko": "그녀는 시적 말투를 연구했고, 그 표현과 말투가 아름다움과 예술성을 만들었지만, 그 말투는 감사되고 분석될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They improved their diction, with the wording and language creating communication and effectiveness, though the diction would require ongoing attention and development.",
+            "meaning_ko": "그들은 그들의 말투를 개선했고, 그 문구와 언어가 소통과 효과를 만들었지만, 그 말투는 지속적인 주의와 발전을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to study the diction of the author that was made in the research created opportunities for understanding and analysis, with the study enabling recognition of style and expression, though the diction would require thorough examination and interpretation to ensure that the author's voice and style are accurately understood and appreciated.",
+            "meaning_ko": "그 연구에서 내려졌던 그 작가의 그 말투를 연구하기로 한 그 결정은 이해와 분석을 위한 기회를 만들었고, 그 연구가 스타일과 표현의 인정을 가능하게 했지만, 그 말투는 작가의 목소리와 스타일이 정확히 이해되고 감사되는 것을 보장하기 위해 철저한 검토와 해석을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to develop precise diction that was undertaken in the program created pathways for effective communication and expression, with the development enabling improvement of clarity and accuracy, though the diction would need to be refined through practice and feedback to ensure that communication is clear and messages are effectively conveyed.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 정확한 말투를 발전시키기 위한 그 노력은 효과적인 소통과 표현을 위한 경로를 만들었고, 그 발전이 명확성과 정확성의 개선을 가능하게 했지만, 그 말투는 소통이 명확하고 메시지가 효과적으로 전달되는 것을 보장하기 위해 연습과 피드백을 통해 정제될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to analyze elevated diction that was completed in the study created structure and methods for literary analysis, with the analysis enabling understanding of style and sophistication, though the diction would require ongoing study and appreciation to ensure that elevated language is properly understood and its artistic value is recognized.",
+            "meaning_ko": "그 연구에서 완료되었던 그 고상한 말투를 분석하기 위한 그 작업은 문학 분석을 위한 구조와 방법을 만들었고, 그 분석이 스타일과 세련됨에 대한 이해를 가능하게 했지만, 그 말투는 고상한 언어가 적절히 이해되고 그 예술적 가치가 인정되는 것을 보장하기 위해 지속적인 연구와 감사를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "diction는 '말투, 어조' 또는 '단어 선택, 어휘' 의미로, 말투나 어조를 가리킵니다. speech, language와 비슷하지만 더 문어적 뉘앙스가 있습니다. diction of ~, clear diction 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: diction = (A) silence (B) speech or language (C) muteness (D) quiet",
+            "a": "B",
+            "meaning_ko": "diction는 '말하기 또는 언어' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He had clear _____.",
+            "a": "diction",
+            "meaning_ko": "diction는 '말투' 의미입니다."
+          },
+          {
+            "q": "Which is related to diction? (A) speech (B) silence (C) muteness (D) quiet",
+            "a": "A",
+            "meaning_ko": "speech(말하기)가 diction와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: diction _____ the speaker. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "diction of ~는 '~의 말투' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: diction = (A) silence (B) speech (C) muteness (D) quiet",
+            "a": "B",
+            "meaning_ko": "speech(말하기)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She studied poetic diction at the speaker.' → Fix the sentence.",
+            "a": "She studied poetic diction.",
+            "meaning_ko": "poetic diction는 이미 '시적 말투' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He had clear diction.'",
+            "a": "He possessed clear speech and language, with the diction creating understanding and clarity, though the expression would require practice and refinement.",
+            "meaning_ko": "diction는 '말투' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They improved their _____. (A) diction (B) dictions (C) dictionary (D) dictate",
+            "a": "A",
+            "meaning_ko": "명사 diction가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses diction most appropriately? (A) The diction ran. (B) He had clear diction. (C) She diction smiled. (D) Diction is good.",
+            "a": "B",
+            "meaning_ko": "diction는 명사로 '말투'를 의미하며, have clear diction와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "acquit",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "무죄를 선고하다, 석방하다; 무죄를 선고하거나 석방하다.",
+        "note": "무죄를 선고하거나 석방하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "면제하다, 해제하다; 면제하거나 해제하다.",
+        "note": "면제하거나 해제하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "무죄를 선고하거나 석방하는 것, 또는 면제하거나 해제하는 것.",
+    "etymology": "라틴어 acquitare(해방하다)에서 유래했으며, ad(에게) + quitare(평화롭게 하다)의 조합입니다.",
+    "semanticExtension": "원래는 '해방하다' 의미였고, 현대에는 '무죄를 선고하거나 석방하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 법률 관련 문맥에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 자주 사용되며, acquit + of 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 죄를 면제하다",
+        "example": "acquit of"
+      }
+    ],
+    "requiredComplements": [
+      "acquit + 명사 : ~을 무죄로 선고하다",
+      "acquit of + 명사 : ~의 죄를 면제하다"
+    ],
+    "morphology": "라틴어 acquitare에서 유래한 단어로, ad(에게) + quitare(평화롭게 하다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "acquitted",
+        "meaning_ko": "무죄를 선고한(과거분사/형용사)"
+      },
+      {
+        "word": "acquitting",
+        "meaning_ko": "무죄를 선고하는(현재분사/형용사)"
+      },
+      {
+        "word": "acquittal",
+        "meaning_ko": "무죄 선고"
+      }
+    ],
+    "related": [
+      {
+        "word": "exonerate",
+        "meaning_ko": "무죄를 선고하다"
+      },
+      {
+        "word": "clear",
+        "meaning_ko": "무죄를 선고하다"
+      },
+      {
+        "word": "release",
+        "meaning_ko": "석방하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "exonerate",
+        "meaning_ko": "무죄를 선고하다"
+      },
+      {
+        "word": "clear",
+        "meaning_ko": "무죄를 선고하다"
+      },
+      {
+        "word": "release",
+        "meaning_ko": "석방하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "absolve",
+        "meaning_ko": "면제하다(범위가 더 넓음)"
+      },
+      {
+        "word": "pardon",
+        "meaning_ko": "사면하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "convict",
+        "meaning_ko": "유죄를 선고하다"
+      },
+      {
+        "word": "condemn",
+        "meaning_ko": "유죄를 선고하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "acquit of",
+            "meaning_ko": "~의 죄를 면제하다"
+          },
+          {
+            "phrase": "acquit the defendant",
+            "meaning_ko": "그 피고인을 무죄로 선고하다"
+          },
+          {
+            "phrase": "acquit oneself",
+            "meaning_ko": "자신을 잘 해내다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "acquit of the charge",
+            "meaning_ko": "그 기소의 죄를 면제하다"
+          },
+          {
+            "phrase": "acquit the accused",
+            "meaning_ko": "그 피고인을 무죄로 선고하다"
+          },
+          {
+            "phrase": "acquit the suspect",
+            "meaning_ko": "그 용의자를 무죄로 선고하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "acquit of all charges",
+            "meaning_ko": "모든 기소의 죄를 면제하다"
+          },
+          {
+            "phrase": "acquit the defendant",
+            "meaning_ko": "그 피고인을 무죄로 선고하다"
+          },
+          {
+            "phrase": "acquit honorably",
+            "meaning_ko": "명예롭게 해내다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The jury acquitted the defendant.",
+            "meaning_ko": "그 배심원단은 그 피고인을 무죄로 선고했습니다."
+          },
+          {
+            "sentence": "She was acquitted of the charge.",
+            "meaning_ko": "그녀는 그 기소의 죄를 면제받았습니다."
+          },
+          {
+            "sentence": "They acquitted themselves well.",
+            "meaning_ko": "그들은 자신들을 잘 해냈습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The jury acquitted the defendant, with their exonerate and clear creating justice and fairness, though the acquittal would require evidence and justification.",
+            "meaning_ko": "그 배심원단은 그 피고인을 무죄로 선고했고, 그들의 무죄 선고하기와 무죄 선고하기가 정의와 공정성을 만들었지만, 그 무죄 선고는 증거와 정당화를 요구할 것입니다."
+          },
+          {
+            "sentence": "She was acquitted of the charge, with the release and absolve creating freedom and relief, though the acquittal would need to be based on facts and law.",
+            "meaning_ko": "그녀는 그 기소의 죄를 면제받았고, 그 석방과 면제가 자유와 안도감을 만들었지만, 그 무죄 선고는 사실과 법에 기반할 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They acquitted themselves well, with their perform and handle creating success and achievement, though the acquittal would require effort and skill.",
+            "meaning_ko": "그들은 자신들을 잘 해냈고, 그들의 수행하기와 처리하기가 성공과 성취를 만들었지만, 그 해내기는 노력과 기술을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to acquit the defendant of all charges that was made in the trial created opportunities for justice and fairness, with the acquittal enabling recognition of innocence and protection of rights, though the acquittal would require thorough examination of evidence and legal procedures to ensure that the decision is based on facts and law and justice is served.",
+            "meaning_ko": "그 재판에서 내려졌던 모든 기소의 그 피고인을 무죄로 선고하기로 한 그 결정은 정의와 공정성을 위한 기회를 만들었고, 그 무죄 선고가 무죄의 인정과 권리의 보호를 가능하게 했지만, 그 무죄 선고는 결정이 사실과 법에 기반하고 정의가 이루어지는 것을 보장하기 위해 증거와 법적 절차의 철저한 검토를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to ensure fair acquittal that was undertaken in the system created pathways for legal protection and justice, with the acquittal enabling proper evaluation of evidence and cases, though the acquittal would need to be conducted through proper legal procedures and oversight to ensure that decisions are fair and based on evidence and law.",
+            "meaning_ko": "그 시스템에서 착수되었던 그 공정한 무죄 선고를 보장하기 위한 그 노력은 법적 보호와 정의를 위한 경로를 만들었고, 그 무죄 선고가 증거와 사건의 적절한 평가를 가능하게 했지만, 그 무죄 선고는 결정이 공정하고 증거와 법에 기반하는 것을 보장하기 위해 적절한 법적 절차와 감독을 통해 수행될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to analyze acquittal rates that was completed in the research created structure and methods for understanding legal outcomes, with the analysis enabling evaluation of justice and fairness, though the acquittal would require ongoing monitoring and evaluation to ensure that legal systems function properly and justice is consistently served.",
+            "meaning_ko": "그 연구에서 완료되었던 그 무죄 선고 비율을 분석하기 위한 그 작업은 법적 결과를 이해하기 위한 구조와 방법을 만들었고, 그 분석이 정의와 공정성의 평가를 가능하게 했지만, 그 무죄 선고는 법적 시스템이 적절히 기능하고 정의가 일관되게 이루어지는 것을 보장하기 위해 지속적인 모니터링과 평가를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "acquit는 '무죄를 선고하다, 석방하다' 또는 '면제하다, 해제하다' 의미로, 무죄를 선고하거나 석방하는 행동을 가리킵니다. exonerate, clear와 비슷하지만 더 법률적 뉘앙스가 있습니다. acquit of ~, acquit the defendant 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: acquit = (A) convict (B) exonerate or clear (C) condemn (D) sentence",
+            "a": "B",
+            "meaning_ko": "acquit는 '무죄를 선고하다 또는 무죄를 선고하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The jury _____ the defendant.",
+            "a": "acquitted",
+            "meaning_ko": "acquit는 '무죄를 선고하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of acquit? (A) exonerate (B) clear (C) convict (D) release",
+            "a": "C",
+            "meaning_ko": "convict(유죄를 선고하다)가 acquit의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: acquit _____ the charge. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "acquit of ~는 '~의 죄를 면제하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: acquit = (A) convict (B) exonerate (C) condemn (D) sentence",
+            "a": "B",
+            "meaning_ko": "exonerate(무죄를 선고하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was acquitted at the charge.' → Fix the preposition.",
+            "a": "She was acquitted of the charge.",
+            "meaning_ko": "acquit of ~는 '~의 죄를 면제하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The jury acquitted the defendant.'",
+            "a": "The jury exonerated and cleared the accused, with the acquittal creating justice and fairness, though the decision would require evidence and justification.",
+            "meaning_ko": "acquit는 '무죄를 선고하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ themselves well. (A) acquit (B) acquits (C) acquitted (D) acquitting",
+            "a": "C",
+            "meaning_ko": "과거형 acquitted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses acquit most appropriately? (A) The acquit ran. (B) The jury acquitted the defendant. (C) She acquit smiled. (D) Acquit is good.",
+            "a": "B",
+            "meaning_ko": "acquit는 타동사로 '무죄를 선고하다'를 의미하며, acquit + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "subsidy",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "보조금, 지원금; 보조금이나 지원금.",
+        "note": "보조금이나 지원금을 가리킵니다."
+      },
+      {
+        "definition_ko": "정부 보조, 정부 지원; 정부 보조나 정부 지원.",
+        "note": "정부 보조나 정부 지원을 가리킵니다."
+      }
+    ],
+    "concept": "보조금이나 지원금인 보조금, 또는 정부 보조나 정부 지원.",
+    "etymology": "라틴어 subsidium(지원)에서 유래했으며, sub(아래) + sedere(앉다)의 조합입니다.",
+    "semanticExtension": "원래는 '지원' 의미였고, 현대에는 '보조금이나 지원금'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 경제나 정책 관련 문맥에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, subsidy 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 보조금",
+        "example": "subsidy for"
+      }
+    ],
+    "requiredComplements": [
+      "subsidy : 보조금/지원금",
+      "subsidy for + 명사 : ~을 위한 보조금"
+    ],
+    "morphology": "라틴어 subsidium에서 유래한 단어로, sub(아래) + sedere(앉다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "subsidies",
+        "meaning_ko": "보조금들(복수형)"
+      },
+      {
+        "word": "subsidize",
+        "meaning_ko": "보조금을 주다"
+      },
+      {
+        "word": "subsidized",
+        "meaning_ko": "보조금을 받은"
+      }
+    ],
+    "related": [
+      {
+        "word": "grant",
+        "meaning_ko": "보조금"
+      },
+      {
+        "word": "aid",
+        "meaning_ko": "지원"
+      },
+      {
+        "word": "assistance",
+        "meaning_ko": "지원"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "grant",
+        "meaning_ko": "보조금"
+      },
+      {
+        "word": "aid",
+        "meaning_ko": "지원"
+      },
+      {
+        "word": "assistance",
+        "meaning_ko": "지원"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "allowance",
+        "meaning_ko": "수당(범위가 더 넓음)"
+      },
+      {
+        "word": "support",
+        "meaning_ko": "지원"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tax",
+        "meaning_ko": "세금"
+      },
+      {
+        "word": "levy",
+        "meaning_ko": "징수"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "subsidy for",
+            "meaning_ko": "~을 위한 보조금"
+          },
+          {
+            "phrase": "government subsidy",
+            "meaning_ko": "정부 보조금"
+          },
+          {
+            "phrase": "receive a subsidy",
+            "meaning_ko": "보조금을 받다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "subsidy for housing",
+            "meaning_ko": "주택을 위한 보조금"
+          },
+          {
+            "phrase": "agricultural subsidy",
+            "meaning_ko": "농업 보조금"
+          },
+          {
+            "phrase": "federal subsidy",
+            "meaning_ko": "연방 보조금"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "subsidy for education",
+            "meaning_ko": "교육을 위한 보조금"
+          },
+          {
+            "phrase": "export subsidy",
+            "meaning_ko": "수출 보조금"
+          },
+          {
+            "phrase": "housing subsidy",
+            "meaning_ko": "주택 보조금"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He received a subsidy.",
+            "meaning_ko": "그는 보조금을 받았습니다."
+          },
+          {
+            "sentence": "She applied for a subsidy for housing.",
+            "meaning_ko": "그녀는 주택을 위한 보조금을 신청했습니다."
+          },
+          {
+            "sentence": "They cut the subsidy.",
+            "meaning_ko": "그들은 그 보조금을 삭감했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He received a subsidy, with the grant and aid creating support and assistance, though the subsidy would require management and oversight.",
+            "meaning_ko": "그는 보조금을 받았고, 그 보조금과 지원이 지원과 원조를 만들었지만, 그 보조금은 관리와 감독을 요구할 것입니다."
+          },
+          {
+            "sentence": "She applied for a subsidy for housing, with the assistance and support creating opportunity and help, though the subsidy would need to be evaluated and approved.",
+            "meaning_ko": "그녀는 주택을 위한 보조금을 신청했고, 그 원조와 지원이 기회와 도움을 만들었지만, 그 보조금은 평가되고 승인될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They cut the subsidy, with the allowance and support creating reduction and limitation, though the subsidy would require reconsideration and adjustment.",
+            "meaning_ko": "그들은 그 보조금을 삭감했고, 그 수당과 지원이 감소와 제한을 만들었지만, 그 보조금은 재고려와 조정을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to provide a subsidy for education that was made in the policy created opportunities for access and support, with the subsidy enabling financial assistance and educational opportunities, though the subsidy would require careful allocation and monitoring to ensure that funds are used effectively and educational goals are achieved.",
+            "meaning_ko": "그 정책에서 내려졌던 그 교육을 위한 보조금을 제공하기로 한 그 결정은 접근과 지원을 위한 기회를 만들었고, 그 보조금이 재정 지원과 교육 기회를 가능하게 했지만, 그 보조금은 자금이 효과적으로 사용되고 교육 목표가 달성되는 것을 보장하기 위해 신중한 할당과 모니터링을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to manage the export subsidy that was undertaken in the program created pathways for economic support and trade promotion, with the subsidy enabling assistance for exporters and businesses, though the subsidy would need to be evaluated and adjusted through economic analysis and policy review to ensure that subsidies are effective and trade goals are met.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 수출 보조금을 관리하기 위한 그 노력은 경제 지원과 무역 촉진을 위한 경로를 만들었고, 그 보조금이 수출업자와 기업을 위한 지원을 가능하게 했지만, 그 보조금은 보조금이 효과적이고 무역 목표가 달성되는 것을 보장하기 위해 경제 분석과 정책 검토를 통해 평가되고 조정될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to evaluate housing subsidy programs that was completed in the research created structure and methods for policy analysis, with the evaluation enabling assessment of effectiveness and impact, though the subsidy would require ongoing monitoring and adjustment to ensure that programs are effective and housing needs are met.",
+            "meaning_ko": "그 연구에서 완료되었던 그 주택 보조금 프로그램을 평가하기 위한 그 작업은 정책 분석을 위한 구조와 방법을 만들었고, 그 평가가 효과성과 영향의 평가를 가능하게 했지만, 그 보조금은 프로그램이 효과적이고 주택 필요가 충족되는 것을 보장하기 위해 지속적인 모니터링과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "subsidy는 '보조금, 지원금' 또는 '정부 보조, 정부 지원' 의미로, 보조금이나 지원금을 가리킵니다. grant, aid와 비슷하지만 더 공식적 뉘앙스가 있습니다. subsidy for ~, government subsidy 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: subsidy = (A) tax (B) grant or aid (C) levy (D) fee",
+            "a": "B",
+            "meaning_ko": "subsidy는 '보조금 또는 지원' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He received a _____.",
+            "a": "subsidy",
+            "meaning_ko": "subsidy는 '보조금' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of subsidy? (A) grant (B) aid (C) tax (D) assistance",
+            "a": "C",
+            "meaning_ko": "tax(세금)가 subsidy의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: subsidy _____ housing. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "subsidy for ~는 '~을 위한 보조금' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: subsidy = (A) tax (B) grant (C) levy (D) fee",
+            "a": "B",
+            "meaning_ko": "grant(보조금)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She applied for a subsidy at housing.' → Fix the preposition.",
+            "a": "She applied for a subsidy for housing.",
+            "meaning_ko": "subsidy for ~는 '~을 위한 보조금' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He received a subsidy.'",
+            "a": "He obtained a grant and aid, with the subsidy creating support and assistance, though the financial assistance would require management and oversight.",
+            "meaning_ko": "subsidy는 '보조금' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They cut the _____. (A) subsidy (B) subsidies (C) subsidize (D) subsidized",
+            "a": "A",
+            "meaning_ko": "명사 subsidy가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses subsidy most appropriately? (A) The subsidy ran. (B) He received a subsidy. (C) She subsidy smiled. (D) Subsidy is good.",
+            "a": "B",
+            "meaning_ko": "subsidy는 명사로 '보조금'을 의미하며, receive a subsidy와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,805 @@
+[
+  {
+    "word": "anthem",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "국가, 찬가; 국가나 찬가.",
+        "note": "국가나 찬가를 가리킵니다."
+      },
+      {
+        "definition_ko": "축가, 찬송가; 축가나 찬송가.",
+        "note": "축가나 찬송가를 가리킵니다."
+      }
+    ],
+    "concept": "국가나 찬가인 국가, 또는 축가나 찬송가.",
+    "etymology": "그리스어 antiphona(대응하는 소리)에서 유래했으며, anti(대응하여) + phone(소리)의 조합입니다.",
+    "semanticExtension": "원래는 '대응하는 소리' 의미였고, 현대에는 '국가나 찬가'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, anthem 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 국가",
+        "example": "anthem of"
+      }
+    ],
+    "requiredComplements": [
+      "anthem : 국가/찬가",
+      "anthem of + 명사 : ~의 국가"
+    ],
+    "morphology": "그리스어 antiphona에서 유래한 단어로, anti(대응하여) + phone(소리)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "anthems",
+        "meaning_ko": "국가들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "hymn",
+        "meaning_ko": "찬송가"
+      },
+      {
+        "word": "song",
+        "meaning_ko": "노래"
+      },
+      {
+        "word": "chorus",
+        "meaning_ko": "합창"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "hymn",
+        "meaning_ko": "찬송가"
+      },
+      {
+        "word": "song",
+        "meaning_ko": "노래"
+      },
+      {
+        "word": "chorus",
+        "meaning_ko": "합창"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "ode",
+        "meaning_ko": "송가(범위가 더 넓음)"
+      },
+      {
+        "word": "psalm",
+        "meaning_ko": "시편"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "silence",
+        "meaning_ko": "침묵"
+      },
+      {
+        "word": "quiet",
+        "meaning_ko": "조용함"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "anthem of",
+            "meaning_ko": "~의 국가"
+          },
+          {
+            "phrase": "national anthem",
+            "meaning_ko": "국가"
+          },
+          {
+            "phrase": "sing the anthem",
+            "meaning_ko": "국가를 부르다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "anthem of the country",
+            "meaning_ko": "그 나라의 국가"
+          },
+          {
+            "phrase": "patriotic anthem",
+            "meaning_ko": "애국 국가"
+          },
+          {
+            "phrase": "official anthem",
+            "meaning_ko": "공식 국가"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "anthem of the nation",
+            "meaning_ko": "그 국가의 국가"
+          },
+          {
+            "phrase": "ceremonial anthem",
+            "meaning_ko": "의식 국가"
+          },
+          {
+            "phrase": "traditional anthem",
+            "meaning_ko": "전통 국가"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They sang the national anthem.",
+            "meaning_ko": "그들은 국가를 불렀습니다."
+          },
+          {
+            "sentence": "She heard the anthem.",
+            "meaning_ko": "그녀는 그 국가를 들었습니다."
+          },
+          {
+            "sentence": "He played the anthem.",
+            "meaning_ko": "그는 그 국가를 연주했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They sang the national anthem, with the hymn and song creating patriotism and unity, though the anthem would require respect and reverence.",
+            "meaning_ko": "그들은 국가를 불렀고, 그 찬송가와 노래가 애국심과 단결을 만들었지만, 그 국가는 존중과 경외를 요구할 것입니다."
+          },
+          {
+            "sentence": "She heard the anthem, with the chorus and ode creating emotion and pride, though the anthem would need to be honored and appreciated.",
+            "meaning_ko": "그녀는 그 국가를 들었고, 그 합창과 송가가 감정과 자부심을 만들었지만, 그 국가는 존중되고 감사받을 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "He played the anthem, with the psalm and hymn creating ceremony and tradition, though the anthem would require performance and observance.",
+            "meaning_ko": "그는 그 국가를 연주했고, 그 시편과 찬송가가 의식과 전통을 만들었지만, 그 국가는 연주와 준수를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to perform the anthem of the nation that was made in the ceremony created opportunities for unity and expression of national identity, with the performance enabling recognition of shared values and history, though the anthem would require respectful presentation and understanding to ensure that it serves its purpose of bringing people together and honoring the nation.",
+            "meaning_ko": "그 의식에서 내려졌던 그 국가의 그 국가를 연주하기로 한 그 결정은 단결과 국가 정체성의 표현을 위한 기회를 만들었고, 그 연주가 공유된 가치와 역사의 인정을 가능하게 했지만, 그 국가는 사람들을 함께 모으고 국가를 존경하는 목적을 달성하는 것을 보장하기 위해 존중하는 발표와 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to preserve the ceremonial anthem that was undertaken in the tradition created pathways for continuity and cultural expression, with the preservation enabling maintenance of rituals and customs, though the anthem would need to be transmitted through education and practice to ensure that future generations understand and appreciate its significance.",
+            "meaning_ko": "그 전통에서 착수되었던 그 의식 국가를 보존하기 위한 그 노력은 연속성과 문화적 표현을 위한 경로를 만들었고, 그 보존이 의식과 관습의 유지를 가능하게 했지만, 그 국가는 미래 세대가 그 중요성을 이해하고 감사하는 것을 보장하기 위해 교육과 실천을 통해 전수될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to teach the traditional anthem that was completed in the program created structure and standards for cultural education, with the instruction enabling understanding of history and values, though the anthem would require ongoing commitment and reinforcement to ensure that the tradition continues and remains meaningful for the community.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 전통 국가를 가르치기 위한 그 작업은 문화 교육을 위한 구조와 기준을 만들었고, 그 지도가 역사와 가치에 대한 이해를 가능하게 했지만, 그 국가는 전통이 계속되고 공동체에게 계속 의미 있는 것을 보장하기 위해 지속적인 헌신과 강화를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "anthem는 '국가, 찬가' 또는 '축가, 찬송가' 의미로, 국가나 찬가를 가리킵니다. hymn, song와 비슷하지만 더 공식적 뉘앙스가 있습니다. anthem of ~, national anthem 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: anthem = (A) silence (B) hymn or song (C) quiet (D) noise",
+            "a": "B",
+            "meaning_ko": "anthem는 '찬송가 또는 노래' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They sang the national _____.",
+            "a": "anthem",
+            "meaning_ko": "anthem는 '국가' 의미입니다."
+          },
+          {
+            "q": "Which is related to anthem? (A) hymn (B) silence (C) quiet (D) noise",
+            "a": "A",
+            "meaning_ko": "hymn(찬송가)가 anthem와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: anthem _____ the country. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "anthem of ~는 '~의 국가' 의미입니다."
+          },
+          {
+            "q": "Pick the best related word: anthem = (A) silence (B) hymn (C) quiet (D) noise",
+            "a": "B",
+            "meaning_ko": "hymn(찬송가)가 가장 관련이 있는 단어입니다."
+          },
+          {
+            "q": "Error check: 'She heard the anthem at the country.' → Fix the sentence.",
+            "a": "She heard the anthem of the country.",
+            "meaning_ko": "anthem of ~는 '~의 국가' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They sang the national anthem.'",
+            "a": "They performed the hymn and song of the nation, with the anthem creating patriotism and unity, though the performance would require respect and reverence.",
+            "meaning_ko": "anthem는 '국가' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He played the _____. (A) anthem (B) anthems (C) anthemed (D) antheming",
+            "a": "A",
+            "meaning_ko": "명사 anthem가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses anthem most appropriately? (A) The anthem ran. (B) They sang the national anthem. (C) She anthem smiled. (D) Anthem is good.",
+            "a": "B",
+            "meaning_ko": "anthem는 명사로 '국가'를 의미하며, national anthem와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dispense",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "배포하다, 나누어 주다; 배포하거나 나누어 주다.",
+        "note": "배포하거나 나누어 주는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "면제하다, 제외하다; 면제하거나 제외하다.",
+        "note": "면제하거나 제외하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "배포하거나 나누어 주는 것, 또는 면제하거나 제외하는 것.",
+    "etymology": "라틴어 dispensare(나누다)에서 유래했으며, dis(분리하여) + pensare(무게를 달다)의 조합입니다.",
+    "semanticExtension": "원래는 '나누다' 의미였고, 현대에는 '배포하거나 나누어 주다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 자주 사용되며, dispense + with 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~을 면제하다",
+        "example": "dispense with"
+      }
+    ],
+    "requiredComplements": [
+      "dispense + 명사 : ~을 배포하다",
+      "dispense with + 명사 : ~을 면제하다"
+    ],
+    "morphology": "라틴어 dispensare에서 유래한 단어로, dis(분리하여) + pensare(무게를 달다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "dispensed",
+        "meaning_ko": "배포한(과거분사/형용사)"
+      },
+      {
+        "word": "dispensing",
+        "meaning_ko": "배포하는(현재분사/형용사)"
+      },
+      {
+        "word": "dispensation",
+        "meaning_ko": "배포"
+      }
+    ],
+    "related": [
+      {
+        "word": "distribute",
+        "meaning_ko": "배포하다"
+      },
+      {
+        "word": "give",
+        "meaning_ko": "주다"
+      },
+      {
+        "word": "provide",
+        "meaning_ko": "제공하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "distribute",
+        "meaning_ko": "배포하다"
+      },
+      {
+        "word": "give",
+        "meaning_ko": "주다"
+      },
+      {
+        "word": "provide",
+        "meaning_ko": "제공하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "administer",
+        "meaning_ko": "관리하다(범위가 더 넓음)"
+      },
+      {
+        "word": "allocate",
+        "meaning_ko": "할당하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "collect",
+        "meaning_ko": "수집하다"
+      },
+      {
+        "word": "gather",
+        "meaning_ko": "모으다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "dispense with",
+            "meaning_ko": "~을 면제하다"
+          },
+          {
+            "phrase": "dispense medicine",
+            "meaning_ko": "약을 배포하다"
+          },
+          {
+            "phrase": "dispense justice",
+            "meaning_ko": "정의를 배포하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dispense with the formality",
+            "meaning_ko": "그 형식을 면제하다"
+          },
+          {
+            "phrase": "dispense advice",
+            "meaning_ko": "조언을 배포하다"
+          },
+          {
+            "phrase": "dispense information",
+            "meaning_ko": "정보를 배포하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "dispense with the requirement",
+            "meaning_ko": "그 요구사항을 면제하다"
+          },
+          {
+            "phrase": "dispense services",
+            "meaning_ko": "서비스를 배포하다"
+          },
+          {
+            "phrase": "dispense resources",
+            "meaning_ko": "자원을 배포하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He dispensed medicine.",
+            "meaning_ko": "그는 약을 배포했습니다."
+          },
+          {
+            "sentence": "She dispensed with the formality.",
+            "meaning_ko": "그녀는 그 형식을 면제했습니다."
+          },
+          {
+            "sentence": "They dispensed justice.",
+            "meaning_ko": "그들은 정의를 배포했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He dispensed medicine, with his distribute and provide creating access and care, though the dispensation would require accuracy and responsibility.",
+            "meaning_ko": "그는 약을 배포했고, 그의 배포와 제공이 접근과 돌봄을 만들었지만, 그 배포는 정확성과 책임을 요구할 것입니다."
+          },
+          {
+            "sentence": "She dispensed with the formality, with her exempt and exclude creating efficiency and ease, though the dispensation would need to be appropriate and justified.",
+            "meaning_ko": "그녀는 그 형식을 면제했고, 그녀의 면제와 제외가 효율성과 편안함을 만들었지만, 그 배포는 적절하고 정당화될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They dispensed justice, with their administer and allocate creating fairness and order, though the dispensation would require wisdom and balance.",
+            "meaning_ko": "그들은 정의를 배포했고, 그들의 관리와 할당이 공정성과 질서를 만들었지만, 그 배포는 지혜와 균형을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to dispense with the requirement that was made in the process created opportunities for efficiency and flexibility, with the exemption enabling streamlined procedures and reduced bureaucracy, though the dispensation would require careful evaluation and justification to ensure that the exemption does not compromise standards or create unintended consequences.",
+            "meaning_ko": "그 과정에서 내려졌던 그 요구사항을 면제하기로 한 그 결정은 효율성과 유연성을 위한 기회를 만들었고, 그 면제가 간소화된 절차와 감소된 관료제를 가능하게 했지만, 그 배포는 면제가 기준을 훼손하거나 의도하지 않은 결과를 만들지 않는 것을 보장하기 위해 신중한 평가와 정당화를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to dispense services that was undertaken in the program created pathways for access and support, with the distribution enabling provision of assistance and resources, though the dispensation would need to be managed through systematic processes and monitoring to ensure that services are delivered effectively and reach those in need.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 서비스를 배포하기 위한 그 노력은 접근과 지원을 위한 경로를 만들었고, 그 배포가 지원과 자원의 제공을 가능하게 했지만, 그 배포는 서비스가 효과적으로 전달되고 필요한 사람들에게 도달하는 것을 보장하기 위해 체계적인 프로세스와 모니터링을 통해 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to dispense resources that was completed in the organization created structure and systems for allocation and distribution, with the management enabling fair and efficient use of assets, though the dispensation would require ongoing oversight and evaluation to ensure that resources are allocated appropriately and serve their intended purpose effectively.",
+            "meaning_ko": "그 조직에서 완료되었던 그 자원을 배포하기 위한 그 작업은 할당과 배포를 위한 구조와 시스템을 만들었고, 그 관리가 자산의 공정하고 효율적인 사용을 가능하게 했지만, 그 배포는 자원이 적절히 할당되고 의도된 목적을 효과적으로 달성하는 것을 보장하기 위해 지속적인 감독과 평가를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dispense는 '배포하다, 나누어 주다' 또는 '면제하다, 제외하다' 의미로, 배포하거나 나누어 주는 행동을 가리킵니다. distribute, provide와 비슷하지만 더 문어적 뉘앙스가 있습니다. dispense with ~, dispense medicine 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: dispense = (A) collect (B) distribute or provide (C) gather (D) accumulate",
+            "a": "B",
+            "meaning_ko": "dispense는 '배포하다 또는 제공하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ medicine.",
+            "a": "dispensed",
+            "meaning_ko": "dispense는 '배포하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of dispense? (A) distribute (B) provide (C) collect (D) give",
+            "a": "C",
+            "meaning_ko": "collect(수집하다)가 dispense의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: dispense _____ the formality. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "dispense with ~는 '~을 면제하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: dispense = (A) collect (B) distribute (C) gather (D) accumulate",
+            "a": "B",
+            "meaning_ko": "distribute(배포하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She dispensed at the formality.' → Fix the preposition.",
+            "a": "She dispensed with the formality.",
+            "meaning_ko": "dispense with ~는 '~을 면제하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He dispensed medicine.'",
+            "a": "He distributed and provided medication, with the dispensation creating access and care, though the distribution would require accuracy and responsibility.",
+            "meaning_ko": "dispense는 '배포하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ justice. (A) dispense (B) dispenses (C) dispensed (D) dispensing",
+            "a": "C",
+            "meaning_ko": "과거형 dispensed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses dispense most appropriately? (A) The dispense ran. (B) He dispensed medicine. (C) She dispense smiled. (D) Dispense is good.",
+            "a": "B",
+            "meaning_ko": "dispense는 타동사로 '배포하다'를 의미하며, dispense + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pantry",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "식료품 저장실, 찬장; 식료품 저장실이나 찬장.",
+        "note": "식료품 저장실이나 찬장을 가리킵니다."
+      },
+      {
+        "definition_ko": "식품 저장소, 식량 창고; 식품 저장소나 식량 창고.",
+        "note": "식품 저장소나 식량 창고를 가리킵니다."
+      }
+    ],
+    "concept": "식료품 저장실이나 찬장인 식료품 저장실, 또는 식품 저장소나 식량 창고.",
+    "etymology": "고대 프랑스어 paneterie(빵 저장소)에서 유래했으며, pain(빵)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '빵 저장소' 의미였고, 현대에는 '식료품 저장실이나 찬장'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, pantry 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 있는 식료품 저장실",
+        "example": "pantry in"
+      }
+    ],
+    "requiredComplements": [
+      "pantry : 식료품 저장실/찬장",
+      "pantry in + 명사 : ~에 있는 식료품 저장실"
+    ],
+    "morphology": "고대 프랑스어 paneterie에서 유래한 단어로, pain(빵)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "pantries",
+        "meaning_ko": "식료품 저장실들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "cupboard",
+        "meaning_ko": "찬장"
+      },
+      {
+        "word": "larder",
+        "meaning_ko": "식료품 저장실"
+      },
+      {
+        "word": "storage",
+        "meaning_ko": "저장소"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cupboard",
+        "meaning_ko": "찬장"
+      },
+      {
+        "word": "larder",
+        "meaning_ko": "식료품 저장실"
+      },
+      {
+        "word": "storage",
+        "meaning_ko": "저장소"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "storeroom",
+        "meaning_ko": "저장실(범위가 더 넓음)"
+      },
+      {
+        "word": "closet",
+        "meaning_ko": "벽장"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "empty space",
+        "meaning_ko": "빈 공간"
+      },
+      {
+        "word": "void",
+        "meaning_ko": "공허"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pantry in",
+            "meaning_ko": "~에 있는 식료품 저장실"
+          },
+          {
+            "phrase": "kitchen pantry",
+            "meaning_ko": "부엌 식료품 저장실"
+          },
+          {
+            "phrase": "well-stocked pantry",
+            "meaning_ko": "잘 채워진 식료품 저장실"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "pantry in the house",
+            "meaning_ko": "그 집에 있는 식료품 저장실"
+          },
+          {
+            "phrase": "walk-in pantry",
+            "meaning_ko": "들어갈 수 있는 식료품 저장실"
+          },
+          {
+            "phrase": "pantry door",
+            "meaning_ko": "식료품 저장실 문"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "pantry in the kitchen",
+            "meaning_ko": "그 부엌에 있는 식료품 저장실"
+          },
+          {
+            "phrase": "custom pantry",
+            "meaning_ko": "맞춤 식료품 저장실"
+          },
+          {
+            "phrase": "pantry organization",
+            "meaning_ko": "식료품 저장실 조직"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She went to the pantry.",
+            "meaning_ko": "그녀는 식료품 저장실로 갔습니다."
+          },
+          {
+            "sentence": "He stocked the pantry.",
+            "meaning_ko": "그는 식료품 저장실을 채웠습니다."
+          },
+          {
+            "sentence": "They organized the pantry.",
+            "meaning_ko": "그들은 식료품 저장실을 정리했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She went to the pantry, with the cupboard and larder creating storage and organization, though the pantry would require maintenance and management.",
+            "meaning_ko": "그녀는 식료품 저장실로 갔고, 그 찬장과 식료품 저장실이 저장과 조직을 만들었지만, 그 식료품 저장실은 유지와 관리를 요구할 것입니다."
+          },
+          {
+            "sentence": "He stocked the pantry, with the storage and storeroom creating supply and preparation, though the pantry would need to be organized and maintained.",
+            "meaning_ko": "그는 식료품 저장실을 채웠고, 그 저장소와 저장실이 공급과 준비를 만들었지만, 그 식료품 저장실은 조직되고 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They organized the pantry, with the closet and storage creating order and efficiency, though the pantry would require regular attention and care.",
+            "meaning_ko": "그들은 식료품 저장실을 정리했고, 그 벽장과 저장소가 질서와 효율을 만들었지만, 그 식료품 저장실은 정기적인 주의와 돌봄을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to organize the pantry in the kitchen that was made in the renovation created opportunities for efficiency and convenience, with the organization enabling better access and management of food supplies, though the pantry would require ongoing maintenance and inventory management to ensure that supplies are well-organized and easily accessible.",
+            "meaning_ko": "그 리노베이션에서 내려졌던 그 부엌에 있는 그 식료품 저장실을 정리하기로 한 그 결정은 효율성과 편의성을 위한 기회를 만들었고, 그 조직이 식품 공급에 대한 더 나은 접근과 관리를 가능하게 했지만, 그 식료품 저장실은 공급이 잘 조직되고 쉽게 접근 가능한 것을 보장하기 위해 지속적인 유지와 재고 관리를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to design a custom pantry that was undertaken in the project created pathways for personalized storage and organization, with the design enabling optimization of space and functionality, though the pantry would need to be planned with consideration of needs and usage patterns to ensure that it serves its purpose effectively and enhances the kitchen experience.",
+            "meaning_ko": "그 프로젝트에서 착수되었던 그 맞춤 식료품 저장실을 설계하기 위한 그 노력은 개인화된 저장과 조직을 위한 경로를 만들었고, 그 디자인이 공간과 기능성의 최적화를 가능하게 했지만, 그 식료품 저장실은 목적을 효과적으로 달성하고 부엌 경험을 향상시키는 것을 보장하기 위해 필요와 사용 패턴을 고려하여 계획될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to maintain the pantry organization that was completed in the system created structure and standards for food storage, with the maintenance enabling efficient access and inventory control, though the pantry would require regular review and adjustment to ensure that organization remains effective and supplies are properly managed and rotated.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 식료품 저장실 조직을 유지하기 위한 그 작업은 식품 저장을 위한 구조와 기준을 만들었고, 그 유지가 효율적인 접근과 재고 통제를 가능하게 했지만, 그 식료품 저장실은 조직이 계속 효과적이고 공급이 적절히 관리되고 순환되는 것을 보장하기 위해 정기적인 검토와 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "pantry는 '식료품 저장실, 찬장' 또는 '식품 저장소, 식량 창고' 의미로, 식료품 저장실이나 찬장을 가리킵니다. cupboard, larder와 비슷하지만 더 일반적 뉘앙스가 있습니다. pantry in ~, kitchen pantry 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: pantry = (A) empty space (B) cupboard or storage (C) void (D) nothing",
+            "a": "B",
+            "meaning_ko": "pantry는 '찬장 또는 저장소' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She went to the _____.",
+            "a": "pantry",
+            "meaning_ko": "pantry는 '식료품 저장실' 의미입니다."
+          },
+          {
+            "q": "Which is related to pantry? (A) cupboard (B) empty space (C) void (D) nothing",
+            "a": "A",
+            "meaning_ko": "cupboard(찬장)가 pantry와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: pantry _____ the house. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "pantry in ~는 '~에 있는 식료품 저장실' 의미입니다."
+          },
+          {
+            "q": "Pick the best related word: pantry = (A) empty space (B) cupboard (C) void (D) nothing",
+            "a": "B",
+            "meaning_ko": "cupboard(찬장)가 가장 관련이 있는 단어입니다."
+          },
+          {
+            "q": "Error check: 'He stocked the pantry at the house.' → Fix the sentence.",
+            "a": "He stocked the pantry.",
+            "meaning_ko": "pantry는 직접 명사로 쓰이므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She went to the pantry.'",
+            "a": "She moved to the cupboard and storage area, with the pantry creating storage and organization, though the space would require maintenance and management.",
+            "meaning_ko": "pantry는 '식료품 저장실' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They organized the _____. (A) pantry (B) pantries (C) pantried (D) pantrying",
+            "a": "A",
+            "meaning_ko": "명사 pantry가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses pantry most appropriately? (A) The pantry ran. (B) She went to the pantry. (C) He pantry smiled. (D) Pantry is good.",
+            "a": "B",
+            "meaning_ko": "pantry는 명사로 '식료품 저장실'을 의미하며, go to the pantry와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

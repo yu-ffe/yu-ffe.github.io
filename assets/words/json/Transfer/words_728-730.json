@@ -1,0 +1,817 @@
+[
+  {
+    "word": "vintage",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "빈티지의, 고급의; 빈티지이거나 고급의.",
+        "note": "빈티지이거나 고급의 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "수확 연도, 빈티지; 수확 연도나 빈티지.",
+        "note": "수확 연도나 빈티지를 가리킵니다."
+      }
+    ],
+    "concept": "빈티지이거나 고급의 상태, 또는 수확 연도나 빈티지.",
+    "etymology": "프랑스어 vendange(포도 수확)에서 유래했으며, 원래는 '포도 수확' 의미였고 현대에는 '빈티지'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '포도 수확' 의미였고, 현대에는 '수확 연도나 빈티지'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 와인과 패션 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be vintage 형태로 자주 사용됩니다. 명사로는 가산명사와 불가산명사로 모두 사용되며, vintage 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사·불가산명사 모두(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 빈티지",
+        "example": "vintage of"
+      }
+    ],
+    "requiredComplements": [
+      "be vintage : 빈티지이다",
+      "vintage + 명사 : 빈티지의 ~",
+      "vintage of + 명사 : ~의 빈티지"
+    ],
+    "morphology": "프랑스어 vendange에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "vintages",
+        "meaning_ko": "빈티지들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "classic",
+        "meaning_ko": "클래식"
+      },
+      {
+        "word": "antique",
+        "meaning_ko": "골동품"
+      },
+      {
+        "word": "retro",
+        "meaning_ko": "레트로"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "classic",
+        "meaning_ko": "클래식"
+      },
+      {
+        "word": "antique",
+        "meaning_ko": "골동품"
+      },
+      {
+        "word": "retro",
+        "meaning_ko": "레트로"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "old",
+        "meaning_ko": "오래된(범위가 더 넓음)"
+      },
+      {
+        "word": "traditional",
+        "meaning_ko": "전통적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "modern",
+        "meaning_ko": "현대의"
+      },
+      {
+        "word": "new",
+        "meaning_ko": "새로운"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "vintage of",
+            "meaning_ko": "~의 빈티지"
+          },
+          {
+            "phrase": "vintage wine",
+            "meaning_ko": "빈티지 와인"
+          },
+          {
+            "phrase": "vintage car",
+            "meaning_ko": "빈티지 자동차"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "vintage clothing",
+            "meaning_ko": "빈티지 의류"
+          },
+          {
+            "phrase": "vintage style",
+            "meaning_ko": "빈티지 스타일"
+          },
+          {
+            "phrase": "vintage year",
+            "meaning_ko": "빈티지 연도"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "vintage collection",
+            "meaning_ko": "빈티지 컬렉션"
+          },
+          {
+            "phrase": "vintage furniture",
+            "meaning_ko": "빈티지 가구"
+          },
+          {
+            "phrase": "vintage quality",
+            "meaning_ko": "빈티지 품질"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They bought vintage wine.",
+            "meaning_ko": "그들은 빈티지 와인을 구매했습니다."
+          },
+          {
+            "sentence": "She wore vintage clothing.",
+            "meaning_ko": "그녀는 빈티지 의류를 입었습니다."
+          },
+          {
+            "sentence": "He collected vintage cars.",
+            "meaning_ko": "그는 빈티지 자동차를 수집했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They bought vintage wine, with their purchase of a specific year's production creating a quality and collectible item, though the vintage would require proper storage and care.",
+            "meaning_ko": "그들은 빈티지 와인을 구매했고, 그들의 특정 연도의 생산물 구매가 품질과 수집 가능한 아이템을 만들었지만, 그 빈티지는 적절한 저장과 관리가 필요할 것입니다."
+          },
+          {
+            "sentence": "She wore vintage clothing, with her classic and retro style creating a unique and fashionable look, though the vintage fashion would require care and maintenance.",
+            "meaning_ko": "그녀는 빈티지 의류를 입었고, 그녀의 클래식하고 레트로 스타일이 독특하고 패셔너블한 외관을 만들었지만, 그 빈티지 패션은 관리와 유지보수가 필요할 것입니다."
+          },
+          {
+            "sentence": "He collected vintage cars, with his collection of classic and antique vehicles creating a valuable and impressive display, though the vintage automobiles would require restoration and maintenance.",
+            "meaning_ko": "그는 빈티지 자동차를 수집했고, 그의 클래식하고 골동품 차량의 수집이 가치 있고 인상적인 전시를 만들었지만, 그 빈티지 자동차는 복원과 유지보수가 필요할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The vintage collection that was assembled in the museum created a display of classic and antique items, with the collection showcasing quality and historical significance, though the vintage pieces would require preservation and curation.",
+            "meaning_ko": "그 박물관에서 모집되었던 그 빈티지 컬렉션은 클래식하고 골동품 아이템의 전시를 만들었고, 그 컬렉션이 품질과 역사적 중요성을 보여주었지만, 그 빈티지 작품들은 보존과 큐레이션이 필요할 것입니다."
+          },
+          {
+            "sentence": "The vintage furniture that was acquired in the estate created a collection of classic and traditional pieces, with the furniture representing quality craftsmanship and design, though the vintage items would require restoration and care.",
+            "meaning_ko": "그 부동산에서 획득되었던 그 빈티지 가구는 클래식하고 전통적인 작품의 컬렉션을 만들었고, 그 가구가 품질 있는 장인정신과 디자인을 나타냈지만, 그 빈티지 아이템들은 복원과 관리가 필요할 것입니다."
+          },
+          {
+            "sentence": "The vintage quality that was recognized in the product created value and appeal, with the classic and traditional characteristics making it desirable and collectible, though the vintage nature would require appreciation and preservation.",
+            "meaning_ko": "그 제품에서 인정되었던 그 빈티지 품질은 가치와 매력을 만들었고, 그 클래식하고 전통적인 특성이 그것을 바람직하고 수집 가능하게 만들었지만, 그 빈티지 성격은 감상과 보존이 필요할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "vintage는 '빈티지의, 고급의' 또는 '수확 연도, 빈티지' 의미로, 빈티지이거나 고급의 상태를 가리킵니다. classic, antique와 비슷하지만 더 와인 관련 뉘앙스가 있습니다. vintage of ~, vintage wine 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "패션",
+      "와인",
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: vintage = (A) modern (B) classic or antique (C) new (D) contemporary",
+            "a": "B",
+            "meaning_ko": "vintage는 '클래식 또는 골동품' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They bought _____ wine.",
+            "a": "vintage",
+            "meaning_ko": "vintage는 '빈티지의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of vintage? (A) classic (B) antique (C) modern (D) retro",
+            "a": "C",
+            "meaning_ko": "modern(현대의)가 vintage의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: vintage _____ year. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "vintage of ~는 '~의 빈티지' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: vintage = (A) modern (B) classic (C) new (D) contemporary",
+            "a": "B",
+            "meaning_ko": "classic(클래식)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She wore vintage at clothing.' → Fix the preposition.",
+            "a": "She wore vintage clothing.",
+            "meaning_ko": "vintage는 직접 명사를 수식하므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They bought vintage wine.'",
+            "a": "They purchased wine from a specific year's production, with the vintage representing quality and collectible value, though the vintage would require proper storage and care.",
+            "meaning_ko": "vintage는 '빈티지의' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He collected _____ cars. (A) vintage (B) vintages (C) vintage's (D) vintaged",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 vintage가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses vintage most appropriately? (A) The vintage ran. (B) They bought vintage wine. (C) She vintage smiled. (D) Vintage is good.",
+            "a": "B",
+            "meaning_ko": "vintage는 형용사로 '빈티지의'를 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "humble",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "겸손한, 검소한; 겸손하거나 검소한.",
+        "note": "겸손하거나 검소한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "낮추다, 겸손하게 하다; 낮추거나 겸손하게 하다.",
+        "note": "낮추거나 겸손하게 하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "겸손하거나 검소한 상태, 또는 낮추거나 겸손하게 하는 것.",
+    "etymology": "라틴어 humilis(낮은)에서 유래했으며, humus(땅)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '낮은' 의미였고, 현대에는 '낮추거나 겸손하게 하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be humble 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, humble + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "before",
+        "meaning_ko": "~ 앞에서 겸손한",
+        "example": "humble before"
+      }
+    ],
+    "requiredComplements": [
+      "be humble : 겸손하다",
+      "humble + 명사 : ~을 낮추다/겸손하게 하다",
+      "humble before + 명사 : ~ 앞에서 겸손한"
+    ],
+    "morphology": "라틴어 humilis에서 유래한 단어로, humus(땅)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "humbled",
+        "meaning_ko": "낮춘(과거분사/형용사)"
+      },
+      {
+        "word": "humbling",
+        "meaning_ko": "낮추는(현재분사/형용사)"
+      },
+      {
+        "word": "humility",
+        "meaning_ko": "겸손"
+      }
+    ],
+    "related": [
+      {
+        "word": "modest",
+        "meaning_ko": "겸손한"
+      },
+      {
+        "word": "meek",
+        "meaning_ko": "온순한"
+      },
+      {
+        "word": "unassuming",
+        "meaning_ko": "겸손한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "modest",
+        "meaning_ko": "겸손한"
+      },
+      {
+        "word": "meek",
+        "meaning_ko": "온순한"
+      },
+      {
+        "word": "unassuming",
+        "meaning_ko": "겸손한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "simple",
+        "meaning_ko": "단순한(범위가 더 넓음)"
+      },
+      {
+        "word": "lowly",
+        "meaning_ko": "낮은"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "proud",
+        "meaning_ko": "자랑스러운"
+      },
+      {
+        "word": "arrogant",
+        "meaning_ko": "오만한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "humble before",
+            "meaning_ko": "~ 앞에서 겸손한"
+          },
+          {
+            "phrase": "humble person",
+            "meaning_ko": "겸손한 사람"
+          },
+          {
+            "phrase": "humble beginning",
+            "meaning_ko": "겸손한 시작"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "humble attitude",
+            "meaning_ko": "겸손한 태도"
+          },
+          {
+            "phrase": "humble origin",
+            "meaning_ko": "겸손한 출신"
+          },
+          {
+            "phrase": "humble background",
+            "meaning_ko": "겸손한 배경"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "humble opinion",
+            "meaning_ko": "겸손한 의견"
+          },
+          {
+            "phrase": "humble request",
+            "meaning_ko": "겸손한 요청"
+          },
+          {
+            "phrase": "humble service",
+            "meaning_ko": "겸손한 봉사"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was a humble person.",
+            "meaning_ko": "그는 겸손한 사람이었습니다."
+          },
+          {
+            "sentence": "She had a humble beginning.",
+            "meaning_ko": "그녀는 겸손한 시작을 가지고 있었습니다."
+          },
+          {
+            "sentence": "They showed a humble attitude.",
+            "meaning_ko": "그들은 겸손한 태도를 보였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was a humble person, with his modesty and unassuming nature creating respect and admiration, though the humility would make him approachable and likable.",
+            "meaning_ko": "그는 겸손한 사람이었고, 그의 겸손함과 겸손한 성격이 존경과 감탄을 만들었지만, 그 겸손함은 그를 접근하기 쉽고 좋아할 만하게 만들 것입니다."
+          },
+          {
+            "sentence": "She had a humble beginning, with her modest and simple start creating a foundation for growth, though the humble origin would inspire others and show what was possible.",
+            "meaning_ko": "그녀는 겸손한 시작을 가지고 있었고, 그녀의 겸손하고 단순한 시작이 성장을 위한 기초를 만들었지만, 그 겸손한 출신은 다른 사람들에게 영감을 주고 무엇이 가능한지 보여줄 것입니다."
+          },
+          {
+            "sentence": "They showed a humble attitude, with their modesty and respect creating a positive impression, though the humility would foster cooperation and understanding.",
+            "meaning_ko": "그들은 겸손한 태도를 보였고, 그들의 겸손함과 존경이 긍정적 인상을 만들었지만, 그 겸손함은 협력과 이해를 촉진할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The humble opinion that was expressed in the discussion created a respectful and considerate contribution, with the modesty allowing for open dialogue and exchange, though the humility would encourage others to share their views as well.",
+            "meaning_ko": "그 논의에서 표현되었던 그 겸손한 의견은 존중하고 배려하는 기여를 만들었고, 그 겸손함이 공개적 대화와 교환을 허용했지만, 그 겸손함은 다른 사람들도 그들의 견해를 공유하도록 장려할 것입니다."
+          },
+          {
+            "sentence": "The humble request that was made in the situation created a respectful and polite approach, with the modesty showing consideration for others, though the humility would make the request more likely to be granted.",
+            "meaning_ko": "그 상황에서 만들어진 그 겸손한 요청은 존중하고 정중한 접근을 만들었고, 그 겸손함이 다른 사람들에 대한 배려를 보여주었지만, 그 겸손함은 그 요청이 더 허용될 가능성을 만들 것입니다."
+          },
+          {
+            "sentence": "The humble service that was provided in the community created a foundation of care and support, with the modesty and dedication making a meaningful impact, though the humility would inspire others to contribute as well.",
+            "meaning_ko": "그 공동체에서 제공되었던 그 겸손한 봉사는 돌봄과 지원의 기초를 만들었고, 그 겸손함과 헌신이 의미 있는 영향을 만들었지만, 그 겸손함은 다른 사람들도 기여하도록 영감을 줄 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "humble는 '겸손한, 검소한' 또는 '낮추다, 겸손하게 하다' 의미로, 겸손하거나 검소한 상태를 가리킵니다. modest, meek와 비슷하지만 더 긍정적 뉘앙스가 있습니다. humble before ~, humble person 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: humble = (A) proud (B) modest or meek (C) arrogant (D) haughty",
+            "a": "B",
+            "meaning_ko": "humble는 '겸손한 또는 온순한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was a _____ person.",
+            "a": "humble",
+            "meaning_ko": "humble는 '겸손한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of humble? (A) modest (B) meek (C) proud (D) unassuming",
+            "a": "C",
+            "meaning_ko": "proud(자랑스러운)가 humble의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: humble _____ authority. (A) before (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "humble before ~는 '~ 앞에서 겸손한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: humble = (A) proud (B) modest (C) arrogant (D) haughty",
+            "a": "B",
+            "meaning_ko": "modest(겸손한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was humble at authority.' → Fix the preposition.",
+            "a": "She was humble before authority.",
+            "meaning_ko": "humble before ~는 '~ 앞에서 겸손한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was a humble person.'",
+            "a": "He was modest and unassuming, with his humility and meekness creating respect and admiration, though the humble nature would make him approachable and likable.",
+            "meaning_ko": "humble는 '겸손한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She had a _____ beginning. (A) humble (B) humbly (C) humility (D) humble's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 humble가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses humble most appropriately? (A) The humble ran. (B) He was a humble person. (C) She humble smiled. (D) Humble is good.",
+            "a": "B",
+            "meaning_ko": "humble는 형용사로 '겸손한'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dominate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "지배하다, 장악하다; 지배하거나 장악하다.",
+        "note": "지배하거나 장악하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "우위를 차지하다, 압도하다; 우위를 차지하거나 압도하다.",
+        "note": "우위를 차지하거나 압도하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "지배하거나 장악하는 것, 또는 우위를 차지하거나 압도하는 것.",
+    "etymology": "라틴어 dominari(지배하다)에서 유래했으며, dominus(주인)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '지배하다' 의미였고, 현대에는 '우위를 차지하거나 압도하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사와 자동사로 모두 사용되며, dominate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "over",
+        "meaning_ko": "~을 지배하다",
+        "example": "dominate over"
+      }
+    ],
+    "requiredComplements": [
+      "dominate : 지배하다/장악하다",
+      "dominate + 명사 : ~을 지배하다/장악하다",
+      "dominate over + 명사 : ~을 지배하다"
+    ],
+    "morphology": "라틴어 dominari에서 유래한 단어로, dominus(주인)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "dominated",
+        "meaning_ko": "지배된(과거분사/형용사)"
+      },
+      {
+        "word": "dominating",
+        "meaning_ko": "지배하는(현재분사/형용사)"
+      },
+      {
+        "word": "domination",
+        "meaning_ko": "지배"
+      }
+    ],
+    "related": [
+      {
+        "word": "control",
+        "meaning_ko": "통제하다"
+      },
+      {
+        "word": "rule",
+        "meaning_ko": "통치하다"
+      },
+      {
+        "word": "govern",
+        "meaning_ko": "지배하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "control",
+        "meaning_ko": "통제하다"
+      },
+      {
+        "word": "rule",
+        "meaning_ko": "통치하다"
+      },
+      {
+        "word": "govern",
+        "meaning_ko": "지배하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "overpower",
+        "meaning_ko": "압도하다(범위가 더 넓음)"
+      },
+      {
+        "word": "overwhelm",
+        "meaning_ko": "압도하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "submit",
+        "meaning_ko": "복종하다"
+      },
+      {
+        "word": "yield",
+        "meaning_ko": "양보하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "dominate over",
+            "meaning_ko": "~을 지배하다"
+          },
+          {
+            "phrase": "dominate the market",
+            "meaning_ko": "시장을 지배하다"
+          },
+          {
+            "phrase": "dominate the game",
+            "meaning_ko": "게임을 지배하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dominate the conversation",
+            "meaning_ko": "대화를 지배하다"
+          },
+          {
+            "phrase": "dominate the field",
+            "meaning_ko": "분야를 지배하다"
+          },
+          {
+            "phrase": "dominate the industry",
+            "meaning_ko": "산업을 지배하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "dominate the landscape",
+            "meaning_ko": "풍경을 지배하다"
+          },
+          {
+            "phrase": "dominate the discussion",
+            "meaning_ko": "논의를 지배하다"
+          },
+          {
+            "phrase": "dominate the competition",
+            "meaning_ko": "경쟁을 지배하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They dominated the market.",
+            "meaning_ko": "그들은 그 시장을 지배했습니다."
+          },
+          {
+            "sentence": "She dominated the conversation.",
+            "meaning_ko": "그녀는 그 대화를 지배했습니다."
+          },
+          {
+            "sentence": "He dominated the game.",
+            "meaning_ko": "그는 그 게임을 지배했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They dominated the market, with their control and influence creating a leading position, though the domination would require maintaining competitive advantage.",
+            "meaning_ko": "그들은 그 시장을 지배했고, 그들의 통제와 영향력이 선도적 위치를 만들었지만, 그 지배는 경쟁 우위를 유지하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "She dominated the conversation, with her control and influence shaping the direction and content, though the domination would require balancing participation from others.",
+            "meaning_ko": "그녀는 그 대화를 지배했고, 그녀의 통제와 영향력이 방향과 내용을 형성했지만, 그 지배는 다른 사람들의 참여 균형을 요구할 것입니다."
+          },
+          {
+            "sentence": "He dominated the game, with his superior performance and skill creating a clear advantage, though the domination would require maintaining focus and effort.",
+            "meaning_ko": "그는 그 게임을 지배했고, 그의 우수한 성능과 기술이 명확한 우위를 만들었지만, 그 지배는 초점과 노력을 유지하는 것을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ability to dominate the landscape that was evident in the architecture created a prominent and influential presence, with the control and influence shaping how the area was perceived, though the domination would require consideration of context and harmony.",
+            "meaning_ko": "그 건축에서 명백했던 그 풍경을 지배하는 능력은 두드러지고 영향력 있는 존재를 만들었고, 그 통제와 영향력이 그 지역이 어떻게 인식되었는지 형성했지만, 그 지배는 맥락과 조화의 고려를 요구할 것입니다."
+          },
+          {
+            "sentence": "The tendency to dominate the discussion that was observed in the meeting created challenges for balanced participation, with the control and influence limiting input from others, though addressing the domination would require awareness and facilitation.",
+            "meaning_ko": "그 회의에서 관찰되었던 그 논의를 지배하는 경향은 균형 잡힌 참여에 대한 도전을 만들었고, 그 통제와 영향력이 다른 사람들의 입력을 제한했지만, 그 지배를 다루는 것은 인식과 촉진을 요구할 것입니다."
+          },
+          {
+            "sentence": "The capacity to dominate the competition that was demonstrated in the industry created a market-leading position, with the control and influence establishing superiority and advantage, though maintaining the domination would require innovation and strategic planning.",
+            "meaning_ko": "그 산업에서 보여졌던 그 경쟁을 지배하는 능력은 시장 선도적 위치를 만들었고, 그 통제와 영향력이 우위와 이점을 확립했지만, 그 지배를 유지하는 것은 혁신과 전략적 계획을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dominate는 '지배하다, 장악하다' 또는 '우위를 차지하다, 압도하다' 의미로, 지배하거나 장악하는 행동을 가리킵니다. control, rule와 비슷하지만 더 강한 뉘앙스가 있습니다. dominate over ~, dominate the market 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: dominate = (A) submit (B) control or rule (C) yield (D) surrender",
+            "a": "B",
+            "meaning_ko": "dominate는 '통제하다 또는 통치하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They _____ the market.",
+            "a": "dominated",
+            "meaning_ko": "dominate는 '지배하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of dominate? (A) control (B) rule (C) submit (D) govern",
+            "a": "C",
+            "meaning_ko": "submit(복종하다)가 dominate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: dominate _____ market. (A) over (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "dominate over ~는 '~을 지배하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: dominate = (A) submit (B) control (C) yield (D) surrender",
+            "a": "B",
+            "meaning_ko": "control(통제하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She dominated the conversation at others.' → Fix the preposition.",
+            "a": "She dominated the conversation over others.",
+            "meaning_ko": "dominate over ~는 '~을 지배하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They dominated the market.'",
+            "a": "They controlled and ruled the market, with their influence and power creating a leading position, though the domination would require maintaining competitive advantage.",
+            "meaning_ko": "dominate는 '지배하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He _____ the game. (A) dominate (B) dominates (C) dominated (D) dominating",
+            "a": "C",
+            "meaning_ko": "과거형 dominated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses dominate most appropriately? (A) The dominate ran. (B) They dominated the market. (C) She dominate smiled. (D) Dominate is good.",
+            "a": "B",
+            "meaning_ko": "dominate는 타동사로 '지배하다'를 의미하며, 목적어와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

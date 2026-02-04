@@ -1,0 +1,816 @@
+[
+  {
+    "word": "compliment",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "칭찬, 찬사; 칭찬이나 찬사.",
+        "note": "칭찬이나 찬사를 가리킵니다."
+      },
+      {
+        "definition_ko": "칭찬하다, 찬사하다; 칭찬하거나 찬사하다.",
+        "note": "칭찬하거나 찬사하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "칭찬이나 찬사인 칭찬, 또는 칭찬하거나 찬사하는 것.",
+    "etymology": "라틴어 complere(채우다)에서 유래했으며, com(함께) + plere(채우다)의 조합입니다.",
+    "semanticExtension": "원래는 '채우다' 의미였고, 현대에는 '칭찬이나 찬사'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사와 동사로 모두 사용되며, compliment + on 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대해 칭찬하다",
+        "example": "compliment on"
+      }
+    ],
+    "requiredComplements": [
+      "compliment : 칭찬/찬사",
+      "compliment + 명사 : ~을 칭찬하다",
+      "compliment on + 명사 : ~에 대해 칭찬하다"
+    ],
+    "morphology": "라틴어 complere에서 유래한 단어로, com(함께) + plere(채우다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "compliments",
+        "meaning_ko": "칭찬들(복수형)"
+      },
+      {
+        "word": "complimented",
+        "meaning_ko": "칭찬한(과거분사/형용사)"
+      },
+      {
+        "word": "complimenting",
+        "meaning_ko": "칭찬하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬"
+      },
+      {
+        "word": "flattery",
+        "meaning_ko": "아첨"
+      },
+      {
+        "word": "admiration",
+        "meaning_ko": "감탄"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬"
+      },
+      {
+        "word": "flattery",
+        "meaning_ko": "아첨"
+      },
+      {
+        "word": "admiration",
+        "meaning_ko": "감탄"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "accolade",
+        "meaning_ko": "칭찬(범위가 더 넓음)"
+      },
+      {
+        "word": "tribute",
+        "meaning_ko": "찬사"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insult",
+        "meaning_ko": "모욕"
+      },
+      {
+        "word": "criticism",
+        "meaning_ko": "비판"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "compliment on",
+            "meaning_ko": "~에 대해 칭찬하다"
+          },
+          {
+            "phrase": "pay a compliment",
+            "meaning_ko": "칭찬하다"
+          },
+          {
+            "phrase": "receive a compliment",
+            "meaning_ko": "칭찬을 받다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "compliment on the work",
+            "meaning_ko": "그 작업에 대해 칭찬하다"
+          },
+          {
+            "phrase": "sincere compliment",
+            "meaning_ko": "진심 어린 칭찬"
+          },
+          {
+            "phrase": "genuine compliment",
+            "meaning_ko": "진정한 칭찬"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "compliment on the achievement",
+            "meaning_ko": "그 성취에 대해 칭찬하다"
+          },
+          {
+            "phrase": "gracious compliment",
+            "meaning_ko": "우아한 칭찬"
+          },
+          {
+            "phrase": "well-deserved compliment",
+            "meaning_ko": "당연한 칭찬"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He gave a compliment.",
+            "meaning_ko": "그는 칭찬을 했습니다."
+          },
+          {
+            "sentence": "She complimented on the work.",
+            "meaning_ko": "그녀는 그 작업에 대해 칭찬했습니다."
+          },
+          {
+            "sentence": "They received a compliment.",
+            "meaning_ko": "그들은 칭찬을 받았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He gave a compliment, with his praise and admiration creating positive feelings and encouragement, though the compliment would require sincerity and authenticity.",
+            "meaning_ko": "그는 칭찬을 했고, 그의 칭찬과 감탄이 긍정적 감정과 격려를 만들었지만, 그 칭찬은 진정성과 진정성을 요구할 것입니다."
+          },
+          {
+            "sentence": "She complimented on the work, with her flattery and accolade creating appreciation and recognition, though the compliment would need to be genuine and meaningful.",
+            "meaning_ko": "그녀는 그 작업에 대해 칭찬했고, 그녀의 아첨과 칭찬이 감사와 인정을 만들었지만, 그 칭찬은 진정하고 의미 있을 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They received a compliment, with the tribute and praise creating confidence and motivation, though the compliment would require acceptance and gratitude.",
+            "meaning_ko": "그들은 칭찬을 받았고, 그 찬사와 칭찬이 자신감과 동기를 만들었지만, 그 칭찬은 수용과 감사를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to compliment on the achievement that was made in the recognition created opportunities for encouragement and motivation, with the praise enabling acknowledgment of effort and success, though the compliment would require genuine expression and appropriate timing to ensure that it is meaningful and contributes to continued growth and development.",
+            "meaning_ko": "그 인정에서 내려졌던 그 성취에 대해 칭찬하기로 한 그 결정은 격려와 동기를 위한 기회를 만들었고, 그 칭찬이 노력과 성공의 인정을 가능하게 했지만, 그 칭찬은 의미 있고 계속된 성장과 발전에 기여하는 것을 보장하기 위해 진정한 표현과 적절한 타이밍을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to give a gracious compliment that was undertaken in the interaction created pathways for positive relationships and connection, with the praise enabling expression of appreciation and respect, though the compliment would need to be delivered with sincerity and thoughtfulness to ensure that it resonates with the recipient and strengthens the relationship.",
+            "meaning_ko": "그 상호작용에서 착수되었던 그 우아한 칭찬을 하기 위한 그 노력은 긍정적 관계와 연결을 위한 경로를 만들었고, 그 칭찬이 감사와 존중의 표현을 가능하게 했지만, 그 칭찬은 수신자와 공명하고 관계를 강화하는 것을 보장하기 위해 진정성과 사려 깊음으로 전달될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to accept a well-deserved compliment that was completed in the practice created confidence and self-worth, with the acceptance enabling recognition of value and achievement, though the compliment would require humility and gratitude to ensure that recognition is appreciated without becoming excessive or leading to arrogance.",
+            "meaning_ko": "그 실천에서 완료되었던 그 당연한 칭찬을 받아들이기 위한 그 작업은 자신감과 자존감을 만들었고, 그 수용이 가치와 성취의 인정을 가능하게 했지만, 그 칭찬은 인정이 과도해지거나 오만으로 이어지지 않고 감사받는 것을 보장하기 위해 겸손과 감사를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "compliment는 '칭찬, 찬사' 또는 '칭찬하다, 찬사하다' 의미로, 칭찬이나 찬사를 가리킵니다. praise, flattery와 비슷하지만 더 일반적 뉘앙스가 있습니다. compliment on ~, pay a compliment 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: compliment = (A) insult (B) praise or flattery (C) criticism (D) attack",
+            "a": "B",
+            "meaning_ko": "compliment는 '칭찬 또는 아첨' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He gave a _____.",
+            "a": "compliment",
+            "meaning_ko": "compliment는 '칭찬' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of compliment? (A) praise (B) flattery (C) insult (D) admiration",
+            "a": "C",
+            "meaning_ko": "insult(모욕)가 compliment의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: compliment _____ the work. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "compliment on ~는 '~에 대해 칭찬하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: compliment = (A) insult (B) praise (C) criticism (D) attack",
+            "a": "B",
+            "meaning_ko": "praise(칭찬)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She complimented at the work.' → Fix the preposition.",
+            "a": "She complimented on the work.",
+            "meaning_ko": "compliment on ~는 '~에 대해 칭찬하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He gave a compliment.'",
+            "a": "He offered praise and admiration, with the compliment creating positive feelings and encouragement, though the praise would require sincerity and authenticity.",
+            "meaning_ko": "compliment는 '칭찬' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They received a _____. (A) compliment (B) compliments (C) complimented (D) complimenting",
+            "a": "A",
+            "meaning_ko": "명사 compliment가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses compliment most appropriately? (A) The compliment ran. (B) He gave a compliment. (C) She compliment smiled. (D) Compliment is good.",
+            "a": "B",
+            "meaning_ko": "compliment는 명사로 '칭찬'을 의미하며, give a compliment와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lackluster",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "밋밋한, 활기 없는; 밋밋하거나 활기 없는.",
+        "note": "밋밋하거나 활기 없는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "따분한, 재미없는; 따분하거나 재미없는.",
+        "note": "따분하거나 재미없는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "밋밋하거나 활기 없는 상태, 또는 따분하거나 재미없는 상태.",
+    "etymology": "lack(부족) + luster(광택)의 조합으로, '광택이 부족한' 의미입니다.",
+    "semanticExtension": "원래는 '광택이 부족한' 의미였고, 현대에는 '밋밋하거나 활기 없는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be lackluster 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 밋밋한",
+        "example": "lackluster in"
+      }
+    ],
+    "requiredComplements": [
+      "be lackluster : 밋밋하다",
+      "lackluster + 명사 : 밋밋한 ~",
+      "lackluster in + 명사 : ~에서 밋밋한"
+    ],
+    "morphology": "lack(부족) + luster(광택)의 조합으로, '광택이 부족한' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "lacklusterly",
+        "meaning_ko": "밋밋하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "dull",
+        "meaning_ko": "따분한"
+      },
+      {
+        "word": "boring",
+        "meaning_ko": "지루한"
+      },
+      {
+        "word": "uninspiring",
+        "meaning_ko": "영감을 주지 않는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "dull",
+        "meaning_ko": "따분한"
+      },
+      {
+        "word": "boring",
+        "meaning_ko": "지루한"
+      },
+      {
+        "word": "uninspiring",
+        "meaning_ko": "영감을 주지 않는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "mediocre",
+        "meaning_ko": "평범한(범위가 더 넓음)"
+      },
+      {
+        "word": "unremarkable",
+        "meaning_ko": "특별하지 않은"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "brilliant",
+        "meaning_ko": "빛나는"
+      },
+      {
+        "word": "sparkling",
+        "meaning_ko": "반짝이는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "lackluster in",
+            "meaning_ko": "~에서 밋밋한"
+          },
+          {
+            "phrase": "lackluster performance",
+            "meaning_ko": "밋밋한 성과"
+          },
+          {
+            "phrase": "lackluster effort",
+            "meaning_ko": "밋밋한 노력"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "lackluster in quality",
+            "meaning_ko": "품질에서 밋밋한"
+          },
+          {
+            "phrase": "lackluster response",
+            "meaning_ko": "밋밋한 응답"
+          },
+          {
+            "phrase": "lackluster result",
+            "meaning_ko": "밋밋한 결과"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "lackluster in execution",
+            "meaning_ko": "실행에서 밋밋한"
+          },
+          {
+            "phrase": "lackluster presentation",
+            "meaning_ko": "밋밋한 발표"
+          },
+          {
+            "phrase": "lackluster achievement",
+            "meaning_ko": "밋밋한 성취"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It was lackluster.",
+            "meaning_ko": "그것은 밋밋했습니다."
+          },
+          {
+            "sentence": "She gave a lackluster performance.",
+            "meaning_ko": "그녀는 밋밋한 성과를 보였습니다."
+          },
+          {
+            "sentence": "They showed lackluster effort.",
+            "meaning_ko": "그들은 밋밋한 노력을 보였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "It was lackluster, with its dull and boring nature creating disappointment and disinterest, though the lackluster would require improvement and enhancement.",
+            "meaning_ko": "그것은 밋밋했고, 그 따분하고 지루한 본질이 실망과 무관심을 만들었지만, 그 밋밋함은 개선과 향상을 요구할 것입니다."
+          },
+          {
+            "sentence": "She gave a lackluster performance, with the uninspiring and mediocre result creating lack of enthusiasm and engagement, though the lackluster would need to be addressed and improved.",
+            "meaning_ko": "그녀는 밋밋한 성과를 보였고, 그 영감을 주지 않고 평범한 결과가 열정과 참여의 부족을 만들었지만, 그 밋밋함은 다뤄지고 개선될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They showed lackluster effort, with the unremarkable and dull attempt creating minimal impact and results, though the lackluster would require motivation and commitment.",
+            "meaning_ko": "그들은 밋밋한 노력을 보였고, 그 특별하지 않고 따분한 시도가 최소한의 영향과 결과를 만들었지만, 그 밋밋함은 동기와 헌신을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address the lackluster in execution that was made in the review created opportunities for improvement and enhancement, with the recognition enabling identification of weaknesses and areas for development, though the lackluster would require comprehensive analysis and strategic planning to ensure that execution is improved and results meet expectations.",
+            "meaning_ko": "그 검토에서 내려졌던 그 실행에서 그 밋밋함을 다루기로 한 그 결정은 개선과 향상을 위한 기회를 만들었고, 그 인정이 약점과 발전 영역의 식별을 가능하게 했지만, 그 밋밋함은 실행이 개선되고 결과가 기대를 충족하는 것을 보장하기 위해 포괄적인 분석과 전략적 계획을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to improve the lackluster presentation that was undertaken in the program created pathways for enhancement and engagement, with the development enabling creation of more compelling and effective communication, though the lackluster would need to be transformed through creativity and preparation to ensure that presentations are engaging and achieve their intended impact.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 밋밋한 발표를 개선하기 위한 그 노력은 향상과 참여를 위한 경로를 만들었고, 그 발전이 더 설득력 있고 효과적인 소통의 창조를 가능하게 했지만, 그 밋밋함은 발표가 참여하고 의도된 영향을 달성하는 것을 보장하기 위해 창의성과 준비를 통해 변화될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to overcome the lackluster achievement that was completed in the project created structure and strategies for improvement, with the effort enabling identification of barriers and solutions, though the lackluster would require ongoing commitment and innovation to ensure that achievements are enhanced and goals are met with excellence.",
+            "meaning_ko": "그 프로젝트에서 완료되었던 그 밋밋한 성취를 극복하기 위한 그 작업은 개선을 위한 구조와 전략을 만들었고, 그 노력이 장벽과 해결책의 식별을 가능하게 했지만, 그 밋밋함은 성취가 향상되고 목표가 우수함으로 달성되는 것을 보장하기 위해 지속적인 헌신과 혁신을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "lackluster는 '밋밋한, 활기 없는' 또는 '따분한, 재미없는' 의미로, 밋밋하거나 활기 없는 상태를 가리킵니다. dull, boring와 비슷하지만 더 문어적 뉘앙스가 있습니다. lackluster in ~, lackluster performance 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: lackluster = (A) brilliant (B) dull or boring (C) sparkling (D) bright",
+            "a": "B",
+            "meaning_ko": "lackluster는 '따분한 또는 지루한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: It was _____.",
+            "a": "lackluster",
+            "meaning_ko": "lackluster는 '밋밋한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of lackluster? (A) dull (B) boring (C) brilliant (D) uninspiring",
+            "a": "C",
+            "meaning_ko": "brilliant(빛나는)가 lackluster의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: lackluster _____ quality. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "lackluster in ~는 '~에서 밋밋한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: lackluster = (A) brilliant (B) dull (C) sparkling (D) bright",
+            "a": "B",
+            "meaning_ko": "dull(따분한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She gave a lackluster performance at quality.' → Fix the sentence.",
+            "a": "She gave a lackluster performance.",
+            "meaning_ko": "lackluster는 직접 형용사로 쓰이므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'It was lackluster.'",
+            "a": "It was dull and boring, with the lackluster nature creating disappointment and disinterest, though the quality would require improvement and enhancement.",
+            "meaning_ko": "lackluster는 '밋밋한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They showed _____ effort. (A) lackluster (B) lacklusterly (C) lacklusterness (D) lackluster's",
+            "a": "A",
+            "meaning_ko": "형용사 lackluster가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses lackluster most appropriately? (A) The lackluster ran. (B) It was lackluster. (C) She lackluster smiled. (D) Lackluster is good.",
+            "a": "B",
+            "meaning_ko": "lackluster는 형용사로 '밋밋한'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fallacy",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "오류, 착오; 오류나 착오.",
+        "note": "오류나 착오를 가리킵니다."
+      },
+      {
+        "definition_ko": "착각, 잘못된 믿음; 착각이나 잘못된 믿음.",
+        "note": "착각이나 잘못된 믿음을 가리킵니다."
+      }
+    ],
+    "concept": "오류나 착오인 오류, 또는 착각이나 잘못된 믿음.",
+    "etymology": "라틴어 fallacia(속임)에서 유래했으며, fallere(속이다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '속임' 의미였고, 현대에는 '오류나 착오'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, fallacy 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 오류",
+        "example": "fallacy of"
+      }
+    ],
+    "requiredComplements": [
+      "fallacy : 오류/착오",
+      "fallacy of + 명사 : ~의 오류"
+    ],
+    "morphology": "라틴어 fallacia에서 유래한 단어로, fallere(속이다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "fallacies",
+        "meaning_ko": "오류들(복수형)"
+      },
+      {
+        "word": "fallacious",
+        "meaning_ko": "오류의"
+      },
+      {
+        "word": "fallaciously",
+        "meaning_ko": "오류로"
+      }
+    ],
+    "related": [
+      {
+        "word": "error",
+        "meaning_ko": "오류"
+      },
+      {
+        "word": "mistake",
+        "meaning_ko": "착오"
+      },
+      {
+        "word": "misconception",
+        "meaning_ko": "착각"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "error",
+        "meaning_ko": "오류"
+      },
+      {
+        "word": "mistake",
+        "meaning_ko": "착오"
+      },
+      {
+        "word": "misconception",
+        "meaning_ko": "착각"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "delusion",
+        "meaning_ko": "망상(범위가 더 넓음)"
+      },
+      {
+        "word": "falsehood",
+        "meaning_ko": "거짓"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "truth",
+        "meaning_ko": "진실"
+      },
+      {
+        "word": "fact",
+        "meaning_ko": "사실"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "fallacy of",
+            "meaning_ko": "~의 오류"
+          },
+          {
+            "phrase": "logical fallacy",
+            "meaning_ko": "논리적 오류"
+          },
+          {
+            "phrase": "common fallacy",
+            "meaning_ko": "일반적인 오류"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "fallacy of reasoning",
+            "meaning_ko": "추론의 오류"
+          },
+          {
+            "phrase": "argumentative fallacy",
+            "meaning_ko": "논증적 오류"
+          },
+          {
+            "phrase": "statistical fallacy",
+            "meaning_ko": "통계적 오류"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "fallacy of composition",
+            "meaning_ko": "구성의 오류"
+          },
+          {
+            "phrase": "cognitive fallacy",
+            "meaning_ko": "인지적 오류"
+          },
+          {
+            "phrase": "systematic fallacy",
+            "meaning_ko": "체계적 오류"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He pointed out a fallacy.",
+            "meaning_ko": "그는 오류를 지적했습니다."
+          },
+          {
+            "sentence": "She identified a logical fallacy.",
+            "meaning_ko": "그녀는 논리적 오류를 식별했습니다."
+          },
+          {
+            "sentence": "They recognized a common fallacy.",
+            "meaning_ko": "그들은 일반적인 오류를 인식했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He pointed out a fallacy, with the error and mistake creating incorrect reasoning and conclusion, though the fallacy would require correction and clarification.",
+            "meaning_ko": "그는 오류를 지적했고, 그 오류와 착오가 잘못된 추론과 결론을 만들었지만, 그 오류는 수정과 명확화를 요구할 것입니다."
+          },
+          {
+            "sentence": "She identified a logical fallacy, with the misconception and delusion creating flawed argument and thinking, though the fallacy would need to be addressed and resolved.",
+            "meaning_ko": "그녀는 논리적 오류를 식별했고, 그 착각과 망상이 결함 있는 논증과 사고를 만들었지만, 그 오류는 다뤄지고 해결될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They recognized a common fallacy, with the falsehood and error creating misunderstanding and confusion, though the fallacy would require education and correction.",
+            "meaning_ko": "그들은 일반적인 오류를 인식했고, 그 거짓과 오류가 오해와 혼란을 만들었지만, 그 오류는 교육과 수정을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to expose the fallacy of composition that was made in the analysis created opportunities for understanding and correction, with the identification enabling recognition of flawed reasoning and incorrect conclusions, though the fallacy would require comprehensive explanation and education to ensure that the error is understood and similar mistakes are avoided in the future.",
+            "meaning_ko": "그 분석에서 내려졌던 그 구성의 그 오류를 폭로하기로 한 그 결정은 이해와 수정을 위한 기회를 만들었고, 그 식별이 결함 있는 추론과 잘못된 결론의 인정을 가능하게 했지만, 그 오류는 오류가 이해되고 유사한 실수가 미래에 피해지는 것을 보장하기 위해 포괄적인 설명과 교육을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to identify cognitive fallacies that was undertaken in the research created pathways for understanding thinking patterns and biases, with the examination enabling recognition of systematic errors and misconceptions, though the fallacies would need to be addressed through education and awareness to ensure that individuals can recognize and avoid these errors in their reasoning.",
+            "meaning_ko": "그 연구에서 착수되었던 그 인지적 오류들을 식별하기 위한 그 노력은 사고 패턴과 편향을 이해하기 위한 경로를 만들었고, 그 검토가 체계적 오류와 착각의 인정을 가능하게 했지만, 그 오류들은 개인이 그들의 추론에서 이러한 오류를 인식하고 피할 수 있도록 교육과 인식을 통해 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to correct systematic fallacies that was completed in the program created structure and standards for accurate reasoning, with the correction enabling improvement of thinking and decision-making, though the fallacies would require ongoing vigilance and critical thinking to ensure that errors are identified and corrected before they lead to incorrect conclusions or harmful decisions.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 체계적 오류들을 수정하기 위한 그 작업은 정확한 추론을 위한 구조와 기준을 만들었고, 그 수정이 사고와 의사결정의 개선을 가능하게 했지만, 그 오류들은 오류가 잘못된 결론이나 해로운 결정으로 이어지기 전에 식별되고 수정되는 것을 보장하기 위해 지속적인 경계와 비판적 사고를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "fallacy는 '오류, 착오' 또는 '착각, 잘못된 믿음' 의미로, 오류나 착오를 가리킵니다. error, mistake와 비슷하지만 더 문어적 뉘앙스가 있습니다. fallacy of ~, logical fallacy 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: fallacy = (A) truth (B) error or mistake (C) fact (D) reality",
+            "a": "B",
+            "meaning_ko": "fallacy는 '오류 또는 착오' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He pointed out a _____.",
+            "a": "fallacy",
+            "meaning_ko": "fallacy는 '오류' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of fallacy? (A) error (B) mistake (C) truth (D) misconception",
+            "a": "C",
+            "meaning_ko": "truth(진실)가 fallacy의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: fallacy _____ reasoning. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "fallacy of ~는 '~의 오류' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: fallacy = (A) truth (B) error (C) fact (D) reality",
+            "a": "B",
+            "meaning_ko": "error(오류)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She identified a logical fallacy at reasoning.' → Fix the sentence.",
+            "a": "She identified a logical fallacy.",
+            "meaning_ko": "fallacy는 직접 명사로 쓰이므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He pointed out a fallacy.'",
+            "a": "He identified an error and mistake, with the fallacy creating incorrect reasoning and conclusion, though the error would require correction and clarification.",
+            "meaning_ko": "fallacy는 '오류' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They recognized a common _____. (A) fallacy (B) fallacies (C) fallacious (D) fallaciously",
+            "a": "A",
+            "meaning_ko": "명사 fallacy가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses fallacy most appropriately? (A) The fallacy ran. (B) He pointed out a fallacy. (C) She fallacy smiled. (D) Fallacy is good.",
+            "a": "B",
+            "meaning_ko": "fallacy는 명사로 '오류'를 의미하며, point out a fallacy와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

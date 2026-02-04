@@ -1,0 +1,821 @@
+[
+  {
+    "word": "pollutant",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "오염 물질, 오염원; 오염 물질이나 오염원.",
+        "note": "오염 물질이나 오염원을 가리킵니다."
+      },
+      {
+        "definition_ko": "공해 물질, 유해 물질; 공해 물질이나 유해 물질.",
+        "note": "공해 물질이나 유해 물질을 가리킵니다."
+      }
+    ],
+    "concept": "오염 물질이나 오염원인 오염 물질, 또는 공해 물질이나 유해 물질.",
+    "etymology": "pollute(오염시키다) + -ant(행위자)의 조합으로, '오염시키는 것' 의미입니다.",
+    "semanticExtension": "원래는 '오염시키는 것' 의미였고, 현대에는 '오염 물질이나 오염원'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 환경 관련 문맥에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, pollutant 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 있는 오염 물질",
+        "example": "pollutant in"
+      }
+    ],
+    "requiredComplements": [
+      "pollutant : 오염 물질/오염원",
+      "pollutant in + 명사 : ~에 있는 오염 물질"
+    ],
+    "morphology": "pollute(오염시키다) + -ant(행위자)의 조합으로, '오염시키는 것' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "pollutants",
+        "meaning_ko": "오염 물질들(복수형)"
+      },
+      {
+        "word": "pollute",
+        "meaning_ko": "오염시키다"
+      },
+      {
+        "word": "pollution",
+        "meaning_ko": "오염"
+      }
+    ],
+    "related": [
+      {
+        "word": "contaminant",
+        "meaning_ko": "오염 물질"
+      },
+      {
+        "word": "toxin",
+        "meaning_ko": "독소"
+      },
+      {
+        "word": "waste",
+        "meaning_ko": "폐기물"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "contaminant",
+        "meaning_ko": "오염 물질"
+      },
+      {
+        "word": "toxin",
+        "meaning_ko": "독소"
+      },
+      {
+        "word": "waste",
+        "meaning_ko": "폐기물"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "impurity",
+        "meaning_ko": "불순물(범위가 더 넓음)"
+      },
+      {
+        "word": "hazard",
+        "meaning_ko": "위험물"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "purifier",
+        "meaning_ko": "정화제"
+      },
+      {
+        "word": "cleaner",
+        "meaning_ko": "청소제"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pollutant in",
+            "meaning_ko": "~에 있는 오염 물질"
+          },
+          {
+            "phrase": "air pollutant",
+            "meaning_ko": "대기 오염 물질"
+          },
+          {
+            "phrase": "water pollutant",
+            "meaning_ko": "수질 오염 물질"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "pollutant in the air",
+            "meaning_ko": "그 공기에 있는 오염 물질"
+          },
+          {
+            "phrase": "environmental pollutant",
+            "meaning_ko": "환경 오염 물질"
+          },
+          {
+            "phrase": "harmful pollutant",
+            "meaning_ko": "유해한 오염 물질"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "pollutant in the water",
+            "meaning_ko": "그 물에 있는 오염 물질"
+          },
+          {
+            "phrase": "toxic pollutant",
+            "meaning_ko": "독성 오염 물질"
+          },
+          {
+            "phrase": "industrial pollutant",
+            "meaning_ko": "산업 오염 물질"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The pollutant was found.",
+            "meaning_ko": "그 오염 물질이 발견되었습니다."
+          },
+          {
+            "sentence": "She studied the air pollutant.",
+            "meaning_ko": "그녀는 그 대기 오염 물질을 연구했습니다."
+          },
+          {
+            "sentence": "They removed the pollutant.",
+            "meaning_ko": "그들은 그 오염 물질을 제거했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The pollutant was found, with the contaminant and toxin creating concern and risk, though the pollutant would require monitoring and control.",
+            "meaning_ko": "그 오염 물질이 발견되었고, 그 오염 물질과 독소가 우려와 위험을 만들었지만, 그 오염 물질은 모니터링과 통제를 요구할 것입니다."
+          },
+          {
+            "sentence": "She studied the air pollutant, with the waste and impurity creating understanding and awareness, though the pollutant would need to be analyzed and managed.",
+            "meaning_ko": "그녀는 그 대기 오염 물질을 연구했고, 그 폐기물과 불순물이 이해와 인식을 만들었지만, 그 오염 물질은 분석되고 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They removed the pollutant, with the hazard and contaminant creating action and response, though the pollutant would require prevention and reduction.",
+            "meaning_ko": "그들은 그 오염 물질을 제거했고, 그 위험물과 오염 물질이 행동과 대응을 만들었지만, 그 오염 물질은 예방과 감소를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to monitor the pollutant in the water that was made in the program created opportunities for protection and safety, with the monitoring enabling detection and assessment of contamination, though the pollutant would require comprehensive analysis and management to ensure that water quality is maintained and health risks are minimized.",
+            "meaning_ko": "그 프로그램에서 내려졌던 그 물에 있는 그 오염 물질을 모니터링하기로 한 그 결정은 보호와 안전을 위한 기회를 만들었고, 그 모니터링이 오염의 탐지와 평가를 가능하게 했지만, 그 오염 물질은 수질이 유지되고 건강 위험이 최소화되는 것을 보장하기 위해 포괄적인 분석과 관리를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to reduce the toxic pollutant that was undertaken in the initiative created pathways for environmental protection and health improvement, with the reduction enabling decrease of harmful substances and risks, though the pollutant would need to be systematically controlled through regulations and technology to ensure that emissions are reduced and environmental impact is minimized.",
+            "meaning_ko": "그 계획에서 착수되었던 그 독성 오염 물질을 감소시키기 위한 그 노력은 환경 보호와 건강 개선을 위한 경로를 만들었고, 그 감소가 유해 물질과 위험의 감소를 가능하게 했지만, 그 오염 물질은 배출이 감소되고 환경 영향이 최소화되는 것을 보장하기 위해 규제와 기술을 통해 체계적으로 통제될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to control the industrial pollutant that was completed in the system created structure and standards for environmental management, with the control enabling regulation of emissions and waste, though the pollutant would require ongoing monitoring and enforcement to ensure that industrial activities are conducted responsibly and environmental standards are maintained.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 산업 오염 물질을 통제하기 위한 그 작업은 환경 관리를 위한 구조와 기준을 만들었고, 그 통제가 배출과 폐기물의 규제를 가능하게 했지만, 그 오염 물질은 산업 활동이 책임감 있게 수행되고 환경 기준이 유지되는 것을 보장하기 위해 지속적인 모니터링과 집행을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "pollutant는 '오염 물질, 오염원' 또는 '공해 물질, 유해 물질' 의미로, 오염 물질이나 오염원을 가리킵니다. contaminant, toxin와 비슷하지만 더 일반적 뉘앙스가 있습니다. pollutant in ~, air pollutant 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: pollutant = (A) purifier (B) contaminant or toxin (C) cleaner (D) filter",
+            "a": "B",
+            "meaning_ko": "pollutant는 '오염 물질 또는 독소' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ was found.",
+            "a": "pollutant",
+            "meaning_ko": "pollutant는 '오염 물질' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of pollutant? (A) contaminant (B) toxin (C) purifier (D) waste",
+            "a": "C",
+            "meaning_ko": "purifier(정화제)가 pollutant의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: pollutant _____ the air. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "pollutant in ~는 '~에 있는 오염 물질' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: pollutant = (A) purifier (B) contaminant (C) cleaner (D) filter",
+            "a": "B",
+            "meaning_ko": "contaminant(오염 물질)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She studied the air pollutant at the air.' → Fix the sentence.",
+            "a": "She studied the air pollutant.",
+            "meaning_ko": "air pollutant는 이미 '대기 오염 물질' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The pollutant was found.'",
+            "a": "The contaminant and toxin were discovered, with the pollutant creating concern and risk, though the substance would require monitoring and control.",
+            "meaning_ko": "pollutant는 '오염 물질' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They removed the _____. (A) pollutant (B) pollutants (C) pollute (D) pollution",
+            "a": "A",
+            "meaning_ko": "명사 pollutant가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses pollutant most appropriately? (A) The pollutant ran. (B) The pollutant was found. (C) She pollutant smiled. (D) Pollutant is good.",
+            "a": "B",
+            "meaning_ko": "pollutant는 명사로 '오염 물질'을 의미하며, 주어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ensnare",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "덫에 걸리게 하다, 함정에 빠뜨리다; 덫에 걸리게 하거나 함정에 빠뜨리다.",
+        "note": "덫에 걸리게 하거나 함정에 빠뜨리는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "속이다, 유혹하다; 속이거나 유혹하다.",
+        "note": "속이거나 유혹하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "덫에 걸리게 하거나 함정에 빠뜨리는 것, 또는 속이거나 유혹하는 것.",
+    "etymology": "en(안으로) + snare(덫)의 조합으로, '덫에 걸리게 하다' 의미입니다.",
+    "semanticExtension": "원래는 '덫에 걸리게 하다' 의미였고, 현대에는 '속이거나 유혹하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 자주 사용되며, ensnare + in 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 빠뜨리다",
+        "example": "ensnare in"
+      }
+    ],
+    "requiredComplements": [
+      "ensnare + 명사 : ~을 덫에 걸리게 하다",
+      "ensnare in + 명사 : ~에 빠뜨리다"
+    ],
+    "morphology": "en(안으로) + snare(덫)의 조합으로, '덫에 걸리게 하다' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "ensnared",
+        "meaning_ko": "덫에 걸리게 한(과거분사/형용사)"
+      },
+      {
+        "word": "ensnaring",
+        "meaning_ko": "덫에 걸리게 하는(현재분사/형용사)"
+      },
+      {
+        "word": "ensnarement",
+        "meaning_ko": "덫에 걸리게 함"
+      }
+    ],
+    "related": [
+      {
+        "word": "trap",
+        "meaning_ko": "덫에 걸리게 하다"
+      },
+      {
+        "word": "catch",
+        "meaning_ko": "잡다"
+      },
+      {
+        "word": "entangle",
+        "meaning_ko": "얽히게 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "trap",
+        "meaning_ko": "덫에 걸리게 하다"
+      },
+      {
+        "word": "catch",
+        "meaning_ko": "잡다"
+      },
+      {
+        "word": "entangle",
+        "meaning_ko": "얽히게 하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "capture",
+        "meaning_ko": "포획하다(범위가 더 넓음)"
+      },
+      {
+        "word": "snare",
+        "meaning_ko": "덫에 걸리게 하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "free",
+        "meaning_ko": "해방하다"
+      },
+      {
+        "word": "release",
+        "meaning_ko": "풀어주다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ensnare in",
+            "meaning_ko": "~에 빠뜨리다"
+          },
+          {
+            "phrase": "ensnare the victim",
+            "meaning_ko": "그 피해자를 덫에 걸리게 하다"
+          },
+          {
+            "phrase": "ensnare the prey",
+            "meaning_ko": "그 먹이를 덫에 걸리게 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ensnare in the trap",
+            "meaning_ko": "그 덫에 빠뜨리다"
+          },
+          {
+            "phrase": "ensnare the animal",
+            "meaning_ko": "그 동물을 덫에 걸리게 하다"
+          },
+          {
+            "phrase": "ensnare the target",
+            "meaning_ko": "그 목표를 덫에 걸리게 하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ensnare in the scheme",
+            "meaning_ko": "그 계획에 빠뜨리다"
+          },
+          {
+            "phrase": "ensnare the suspect",
+            "meaning_ko": "그 용의자를 덫에 걸리게 하다"
+          },
+          {
+            "phrase": "ensnare the enemy",
+            "meaning_ko": "그 적을 덫에 걸리게 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He ensnared the victim.",
+            "meaning_ko": "그는 그 피해자를 덫에 걸리게 했습니다."
+          },
+          {
+            "sentence": "She ensnared in the trap.",
+            "meaning_ko": "그녀는 그 덫에 빠졌습니다."
+          },
+          {
+            "sentence": "They ensnared the prey.",
+            "meaning_ko": "그들은 그 먹이를 덫에 걸리게 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He ensnared the victim, with his trap and catch creating danger and harm, though the ensnarement would require rescue and protection.",
+            "meaning_ko": "그는 그 피해자를 덫에 걸리게 했고, 그의 덫과 잡기가 위험과 해를 만들었지만, 그 덫에 걸리게 함은 구조와 보호를 요구할 것입니다."
+          },
+          {
+            "sentence": "She ensnared in the trap, with the entangle and snare creating difficulty and struggle, though the ensnarement would need to be escaped and resolved.",
+            "meaning_ko": "그녀는 그 덫에 빠졌고, 그 얽히게 함과 덫이 어려움과 투쟁을 만들었지만, 그 덫에 걸리게 함은 탈출되고 해결될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They ensnared the prey, with their capture and trap creating success and achievement, though the ensnarement would require handling and management.",
+            "meaning_ko": "그들은 그 먹이를 덫에 걸리게 했고, 그들의 포획과 덫이 성공과 성취를 만들었지만, 그 덫에 걸리게 함은 처리와 관리를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to ensnare the suspect in the scheme that was made in the investigation created opportunities for capture and justice, with the ensnarement enabling apprehension and prosecution, though the ensnarement would require careful planning and execution to ensure that the suspect is properly captured and legal procedures are followed.",
+            "meaning_ko": "그 조사에서 내려졌던 그 계획에 그 용의자를 빠뜨리기로 한 그 결정은 포획과 정의를 위한 기회를 만들었고, 그 덫에 걸리게 함이 체포와 기소를 가능하게 했지만, 그 덫에 걸리게 함은 용의자가 적절히 포획되고 법적 절차가 따르는 것을 보장하기 위해 신중한 계획과 실행을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to ensnare the enemy that was undertaken in the operation created pathways for victory and security, with the ensnarement enabling neutralization and capture, though the ensnarement would need to be conducted through strategic planning and coordination to ensure that the enemy is effectively captured and threats are eliminated.",
+            "meaning_ko": "그 작전에서 착수되었던 그 적을 덫에 걸리게 하기 위한 그 노력은 승리와 안전을 위한 경로를 만들었고, 그 덫에 걸리게 함이 무력화와 포획을 가능하게 했지만, 그 덫에 걸리게 함은 적이 효과적으로 포획되고 위협이 제거되는 것을 보장하기 위해 전략적 계획과 조정을 통해 수행될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to prevent ensnarement that was completed in the program created structure and methods for protection, with the prevention enabling avoidance of traps and dangers, though the ensnarement would require ongoing vigilance and education to ensure that individuals are aware of risks and can avoid being ensnared.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 덫에 걸리게 함을 방지하기 위한 그 작업은 보호를 위한 구조와 방법을 만들었고, 그 방지가 덫과 위험의 회피를 가능하게 했지만, 그 덫에 걸리게 함은 개인이 위험을 인식하고 덫에 걸리지 않을 수 있는 것을 보장하기 위해 지속적인 경계와 교육을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ensnare는 '덫에 걸리게 하다, 함정에 빠뜨리다' 또는 '속이다, 유혹하다' 의미로, 덫에 걸리게 하거나 함정에 빠뜨리는 행동을 가리킵니다. trap, catch와 비슷하지만 더 문어적 뉘앙스가 있습니다. ensnare in ~, ensnare the victim 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: ensnare = (A) free (B) trap or catch (C) release (D) liberate",
+            "a": "B",
+            "meaning_ko": "ensnare는 '덫에 걸리게 하다 또는 잡다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the victim.",
+            "a": "ensnared",
+            "meaning_ko": "ensnare는 '덫에 걸리게 하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of ensnare? (A) trap (B) catch (C) free (D) entangle",
+            "a": "C",
+            "meaning_ko": "free(해방하다)가 ensnare의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: ensnare _____ the trap. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "ensnare in ~는 '~에 빠뜨리다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: ensnare = (A) free (B) trap (C) release (D) liberate",
+            "a": "B",
+            "meaning_ko": "trap(덫에 걸리게 하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She ensnared at the trap.' → Fix the preposition.",
+            "a": "She was ensnared in the trap.",
+            "meaning_ko": "ensnare in ~는 '~에 빠뜨리다' 의미이며, 수동태일 때는 be ensnared in ~ 형태입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He ensnared the victim.'",
+            "a": "He trapped and caught the person, with the ensnarement creating danger and harm, though the capture would require rescue and protection.",
+            "meaning_ko": "ensnare는 '덫에 걸리게 하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the prey. (A) ensnare (B) ensnares (C) ensnared (D) ensnaring",
+            "a": "C",
+            "meaning_ko": "과거형 ensnared가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses ensnare most appropriately? (A) The ensnare ran. (B) He ensnared the victim. (C) She ensnare smiled. (D) Ensnare is good.",
+            "a": "B",
+            "meaning_ko": "ensnare는 타동사로 '덫에 걸리게 하다'를 의미하며, ensnare + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "skimp",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "인색하게 쓰다, 아끼다; 인색하게 쓰거나 아끼다.",
+        "note": "인색하게 쓰거나 아끼는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "절약하다, 줄이다; 절약하거나 줄이다.",
+        "note": "절약하거나 줄이는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "인색하게 쓰거나 아끼는 것, 또는 절약하거나 줄이는 것.",
+    "etymology": "스코틀랜드어 skimp(인색한)에서 유래했으며, '인색하게 쓰다' 의미입니다.",
+    "semanticExtension": "원래는 '인색한' 의미였고, 현대에는 '인색하게 쓰거나 아끼다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사와 자동사로 모두 사용되며, skimp on 형태로 자주 사용됩니다.",
+    "transitivity": "타동사/자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대해 인색하게 쓰다",
+        "example": "skimp on"
+      }
+    ],
+    "requiredComplements": [
+      "skimp : 인색하게 쓰다",
+      "skimp on + 명사 : ~에 대해 인색하게 쓰다"
+    ],
+    "morphology": "스코틀랜드어 skimp에서 유래한 단어로, '인색한' 의미에서 '인색하게 쓰다' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "skimped",
+        "meaning_ko": "인색하게 쓴(과거분사/형용사)"
+      },
+      {
+        "word": "skimping",
+        "meaning_ko": "인색하게 쓰는(현재분사/형용사)"
+      },
+      {
+        "word": "skimpy",
+        "meaning_ko": "인색한"
+      }
+    ],
+    "related": [
+      {
+        "word": "scrimp",
+        "meaning_ko": "인색하게 쓰다"
+      },
+      {
+        "word": "save",
+        "meaning_ko": "절약하다"
+      },
+      {
+        "word": "economize",
+        "meaning_ko": "절약하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "scrimp",
+        "meaning_ko": "인색하게 쓰다"
+      },
+      {
+        "word": "save",
+        "meaning_ko": "절약하다"
+      },
+      {
+        "word": "economize",
+        "meaning_ko": "절약하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "stint",
+        "meaning_ko": "인색하게 쓰다(범위가 더 넓음)"
+      },
+      {
+        "word": "cut corners",
+        "meaning_ko": "절약하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "splurge",
+        "meaning_ko": "낭비하다"
+      },
+      {
+        "word": "lavish",
+        "meaning_ko": "낭비하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "skimp on",
+            "meaning_ko": "~에 대해 인색하게 쓰다"
+          },
+          {
+            "phrase": "skimp on food",
+            "meaning_ko": "음식에 대해 인색하게 쓰다"
+          },
+          {
+            "phrase": "skimp on quality",
+            "meaning_ko": "품질에 대해 인색하게 쓰다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "skimp on the budget",
+            "meaning_ko": "그 예산에 대해 인색하게 쓰다"
+          },
+          {
+            "phrase": "skimp on materials",
+            "meaning_ko": "재료에 대해 인색하게 쓰다"
+          },
+          {
+            "phrase": "skimp on expenses",
+            "meaning_ko": "비용에 대해 인색하게 쓰다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "skimp on the investment",
+            "meaning_ko": "그 투자에 대해 인색하게 쓰다"
+          },
+          {
+            "phrase": "skimp on resources",
+            "meaning_ko": "자원에 대해 인색하게 쓰다"
+          },
+          {
+            "phrase": "skimp on maintenance",
+            "meaning_ko": "유지에 대해 인색하게 쓰다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He skimped on food.",
+            "meaning_ko": "그는 음식에 대해 인색하게 썼습니다."
+          },
+          {
+            "sentence": "She skimped on quality.",
+            "meaning_ko": "그녀는 품질에 대해 인색하게 썼습니다."
+          },
+          {
+            "sentence": "They skimped on expenses.",
+            "meaning_ko": "그들은 비용에 대해 인색하게 썼습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He skimped on food, with his scrimp and save creating limitation and constraint, though the skimping would require balance and moderation.",
+            "meaning_ko": "그는 음식에 대해 인색하게 썼고, 그의 인색하게 쓰기와 절약하기가 제한과 제약을 만들었지만, 그 인색하게 쓰기는 균형과 절제를 요구할 것입니다."
+          },
+          {
+            "sentence": "She skimped on quality, with her economize and stint creating reduction and compromise, though the skimping would need to be evaluated and adjusted.",
+            "meaning_ko": "그녀는 품질에 대해 인색하게 썼고, 그녀의 절약하기와 인색하게 쓰기가 감소와 타협을 만들었지만, 그 인색하게 쓰기는 평가되고 조정될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They skimped on expenses, with their cut corners and save creating efficiency and savings, though the skimping would require careful consideration and planning.",
+            "meaning_ko": "그들은 비용에 대해 인색하게 썼고, 그들의 절약하기와 절약하기가 효율성과 저축을 만들었지만, 그 인색하게 쓰기는 신중한 고려와 계획을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to skimp on the investment that was made in the budget created opportunities for savings and cost reduction, with the skimping enabling allocation of resources to other priorities, though the skimping would require careful evaluation and risk assessment to ensure that the reduction does not compromise long-term goals and quality.",
+            "meaning_ko": "그 예산에서 내려졌던 그 투자에 대해 인색하게 쓰기로 한 그 결정은 저축과 비용 감소를 위한 기회를 만들었고, 그 인색하게 쓰기가 다른 우선순위에 자원의 할당을 가능하게 했지만, 그 인색하게 쓰기는 감소가 장기 목표와 품질을 훼손하지 않는 것을 보장하기 위해 신중한 평가와 위험 평가를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to skimp on resources that was undertaken in the project created pathways for efficiency and optimization, with the skimping enabling reduction of waste and unnecessary spending, though the skimping would need to be managed through strategic planning and monitoring to ensure that essential needs are met and quality is maintained.",
+            "meaning_ko": "그 프로젝트에서 착수되었던 그 자원에 대해 인색하게 쓰기 위한 그 노력은 효율성과 최적화를 위한 경로를 만들었고, 그 인색하게 쓰기가 낭비와 불필요한 지출의 감소를 가능하게 했지만, 그 인색하게 쓰기는 필수적 필요가 충족되고 품질이 유지되는 것을 보장하기 위해 전략적 계획과 모니터링을 통해 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to avoid skimping on maintenance that was completed in the program created structure and standards for proper care and upkeep, with the commitment enabling prevention of problems and preservation of assets, though the maintenance would require ongoing investment and attention to ensure that systems remain functional and assets retain their value.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 유지에 대해 인색하게 쓰는 것을 피하기 위한 그 작업은 적절한 돌봄과 유지를 위한 구조와 기준을 만들었고, 그 헌신이 문제의 예방과 자산의 보존을 가능하게 했지만, 그 유지는 시스템이 계속 기능하고 자산이 가치를 유지하는 것을 보장하기 위해 지속적인 투자와 주의를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "skimp는 '인색하게 쓰다, 아끼다' 또는 '절약하다, 줄이다' 의미로, 인색하게 쓰거나 아끼는 행동을 가리킵니다. scrimp, save와 비슷하지만 더 부정적 뉘앙스가 있습니다. skimp on ~, skimp on food 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: skimp = (A) splurge (B) scrimp or save (C) lavish (D) waste",
+            "a": "B",
+            "meaning_ko": "skimp는 '인색하게 쓰다 또는 절약하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ on food.",
+            "a": "skimped",
+            "meaning_ko": "skimp는 '인색하게 쓰다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of skimp? (A) scrimp (B) save (C) splurge (D) economize",
+            "a": "C",
+            "meaning_ko": "splurge(낭비하다)가 skimp의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: skimp _____ food. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "skimp on ~는 '~에 대해 인색하게 쓰다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: skimp = (A) splurge (B) scrimp (C) lavish (D) waste",
+            "a": "B",
+            "meaning_ko": "scrimp(인색하게 쓰다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She skimped at food.' → Fix the preposition.",
+            "a": "She skimped on food.",
+            "meaning_ko": "skimp on ~는 '~에 대해 인색하게 쓰다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He skimped on food.'",
+            "a": "He scrimped and saved on meals, with the skimping creating limitation and constraint, though the economizing would require balance and moderation.",
+            "meaning_ko": "skimp는 '인색하게 쓰다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ on expenses. (A) skimp (B) skimps (C) skimped (D) skimping",
+            "a": "C",
+            "meaning_ko": "과거형 skimped가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses skimp most appropriately? (A) The skimp ran. (B) He skimped on food. (C) She skimp smiled. (D) Skimp is good.",
+            "a": "B",
+            "meaning_ko": "skimp는 자동사로 '인색하게 쓰다'를 의미하며, skimp on + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

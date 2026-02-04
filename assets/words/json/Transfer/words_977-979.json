@@ -1,0 +1,807 @@
+[
+  {
+    "word": "atone",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "속죄하다, 보상하다; 속죄하거나 보상하는 것.",
+        "note": "속죄하거나 보상하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "배상하다, 갚다; 배상하거나 갚는 것.",
+        "note": "배상하거나 갚는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "속죄하거나 보상하는 행동, 또는 배상하거나 갚는 행동.",
+    "etymology": "고대 영어 atonien(화해하다)에서 유래했으며, '화해하다' 의미에서 '속죄하다' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '화해하다' 의미였고, 현대에는 '속죄하다' 또는 '보상하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "자동사로 사용되며, atone for 형태로 자주 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대해 속죄하다",
+        "example": "atone for"
+      }
+    ],
+    "requiredComplements": [
+      "atone for + 명사 : ~에 대해 속죄하다/보상하다"
+    ],
+    "morphology": "고대 영어 atonien에서 유래한 단어로, '화해하다' 의미에서 '속죄하다' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "atoned",
+        "meaning_ko": "속죄한(과거분사)"
+      },
+      {
+        "word": "atoning",
+        "meaning_ko": "속죄하는(현재분사)"
+      },
+      {
+        "word": "atonement",
+        "meaning_ko": "속죄"
+      }
+    ],
+    "related": [
+      {
+        "word": "repent",
+        "meaning_ko": "회개하다"
+      },
+      {
+        "word": "compensate",
+        "meaning_ko": "보상하다"
+      },
+      {
+        "word": "redeem",
+        "meaning_ko": "구속하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "repent",
+        "meaning_ko": "회개하다"
+      },
+      {
+        "word": "compensate",
+        "meaning_ko": "보상하다"
+      },
+      {
+        "word": "redeem",
+        "meaning_ko": "구속하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "expiate",
+        "meaning_ko": "속죄하다(범위가 더 넓음)"
+      },
+      {
+        "word": "make amends",
+        "meaning_ko": "보상하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "offend",
+        "meaning_ko": "죄를 짓다"
+      },
+      {
+        "word": "sin",
+        "meaning_ko": "죄를 짓다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "atone for",
+            "meaning_ko": "~에 대해 속죄하다"
+          },
+          {
+            "phrase": "atone for sins",
+            "meaning_ko": "그 죄들에 대해 속죄하다"
+          },
+          {
+            "phrase": "atone for mistakes",
+            "meaning_ko": "그 실수들에 대해 속죄하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "atone for the wrong",
+            "meaning_ko": "그 잘못에 대해 속죄하다"
+          },
+          {
+            "phrase": "atone for the crime",
+            "meaning_ko": "그 범죄에 대해 속죄하다"
+          },
+          {
+            "phrase": "atone for the offense",
+            "meaning_ko": "그 죄에 대해 속죄하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "atone for the transgression",
+            "meaning_ko": "그 위반에 대해 속죄하다"
+          },
+          {
+            "phrase": "atone for the wrongdoing",
+            "meaning_ko": "그 잘못에 대해 속죄하다"
+          },
+          {
+            "phrase": "atone for the violation",
+            "meaning_ko": "그 위반에 대해 속죄하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He atoned for his sins.",
+            "meaning_ko": "그는 그의 죄들에 대해 속죄했습니다."
+          },
+          {
+            "sentence": "She atoned for her mistakes.",
+            "meaning_ko": "그녀는 그녀의 실수들에 대해 속죄했습니다."
+          },
+          {
+            "sentence": "They atoned for the wrong.",
+            "meaning_ko": "그들은 그 잘못에 대해 속죄했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He atoned for his sins, with his repent and compensate creating redemption and forgiveness, though the atonement would require sincerity and action.",
+            "meaning_ko": "그는 그의 죄들에 대해 속죄했고, 그의 회개 그리고 보상이 구속과 용서를 만들었지만, 그 속죄는 진정성과 행동을 요구할 것입니다."
+          },
+          {
+            "sentence": "She atoned for her mistakes, with the redeem and expiate creating compensation and forgiveness, though the atonement would need to be genuine and meaningful.",
+            "meaning_ko": "그녀는 그녀의 실수들에 대해 속죄했고, 그 구속 그리고 속죄가 보상과 용서를 만들었지만, 그 속죄는 진정하고 의미 있을 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They atoned for the wrong, with the make amends and compensate creating redemption and forgiveness, though the atonement would require sincerity and commitment.",
+            "meaning_ko": "그들은 그 잘못에 대해 속죄했고, 그 보상 그리고 보상이 구속과 용서를 만들었지만, 그 속죄는 진정성과 헌신을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to atone for the transgression that was made in the process created opportunities for redemption and forgiveness, with the atoning enabling compensation and repentance, though the atonement would require comprehensive sincerity and action to ensure that transgression is properly atoned for and forgiveness is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 위반에 대해 속죄하기로 한 그 결정은 구속과 용서를 위한 기회를 만들었고, 그 속죄가 보상과 회개를 가능하게 했지만, 그 속죄는 위반이 적절히 속죄되고 용서가 효과적으로 달성되는 것을 보장하기 위해 포괄적인 진정성과 행동을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to atone for the wrongdoing that was undertaken in the initiative created pathways for redemption and forgiveness, with the atoning enabling compensation and repentance, though the atonement would need to be systematically pursued through sincerity and action to ensure that wrongdoing is properly atoned for and forgiveness is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 잘못에 대해 속죄하기 위한 그 노력은 구속과 용서를 위한 경로를 만들었고, 그 속죄가 보상과 회개를 가능하게 했지만, 그 속죄는 잘못이 적절히 속죄되고 용서가 효과적으로 달성되는 것을 보장하기 위해 진정성과 행동을 통해 체계적으로 추구될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to atone for the violation that was completed in the system created structure and methods for redemption and forgiveness, with the atoning enabling compensation and repentance, though the atonement would require ongoing sincerity and action to ensure that violation continues to be atoned for and forgiveness remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 위반에 대해 속죄하기 위한 그 작업은 구속과 용서를 위한 구조와 방법을 만들었고, 그 속죄가 보상과 회개를 가능하게 했지만, 그 속죄는 위반이 계속 속죄되고 용서가 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 진정성과 행동을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "atone는 '속죄하다, 보상하다' 또는 '배상하다, 갚다' 의미로, 속죄하거나 보상하는 행동을 가리킵니다. repent, compensate와 비슷하지만 더 종교적 뉘앙스가 있습니다. atone for ~, atone for sins 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: atone = (A) offend (B) repent or compensate (C) sin (D) commit",
+            "a": "B",
+            "meaning_ko": "atone는 '회개하다 또는 보상하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ for his sins.",
+            "a": "atoned",
+            "meaning_ko": "atone는 '속죄하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of atone? (A) repent (B) compensate (C) offend (D) redeem",
+            "a": "C",
+            "meaning_ko": "offend(죄를 짓다)가 atone의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: atone _____ the wrong. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "atone for ~는 '~에 대해 속죄하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: atone = (A) offend (B) repent (C) sin (D) commit",
+            "a": "B",
+            "meaning_ko": "repent(회개하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She atoned at her mistakes.' → Fix the preposition.",
+            "a": "She atoned for her mistakes.",
+            "meaning_ko": "atone for ~는 '~에 대해 속죄하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He atoned for his sins.'",
+            "a": "He repented and compensated for his wrongdoings, with the atoning creating redemption and forgiveness, though the sins would require sincerity and action.",
+            "meaning_ko": "atone는 '속죄하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ for the wrong. (A) atone (B) atones (C) atoned (D) atoning",
+            "a": "C",
+            "meaning_ko": "과거형 atoned가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses atone most appropriately? (A) The atone ran. (B) He atoned for his sins. (C) She atone smiled. (D) Atone is good.",
+            "a": "B",
+            "meaning_ko": "atone는 동사로 '속죄하다'를 의미하며, atone for ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "global",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "전 세계적인, 세계적인; 전 세계적이거나 세계적인.",
+        "note": "전 세계적이거나 세계적인 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "전체적인, 포괄적인; 전체적이거나 포괄적인.",
+        "note": "전체적이거나 포괄적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "전 세계적이거나 세계적인 상태, 또는 전체적이거나 포괄적인 상태.",
+    "etymology": "라틴어 globus(구)에서 유래했으며, '구' 의미에서 '전 세계적인' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '구' 의미였고, 현대에는 '전 세계적인' 또는 '세계적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be global 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be global : 전 세계적이다",
+      "global + 명사 : 전 세계적인 ~"
+    ],
+    "morphology": "라틴어 globus에서 유래한 단어로, '구' 의미에서 '전 세계적인' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "globally",
+        "meaning_ko": "전 세계적으로"
+      },
+      {
+        "word": "globalize",
+        "meaning_ko": "세계화하다"
+      },
+      {
+        "word": "globalization",
+        "meaning_ko": "세계화"
+      }
+    ],
+    "related": [
+      {
+        "word": "worldwide",
+        "meaning_ko": "전 세계적인"
+      },
+      {
+        "word": "international",
+        "meaning_ko": "국제적인"
+      },
+      {
+        "word": "universal",
+        "meaning_ko": "보편적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "worldwide",
+        "meaning_ko": "전 세계적인"
+      },
+      {
+        "word": "international",
+        "meaning_ko": "국제적인"
+      },
+      {
+        "word": "universal",
+        "meaning_ko": "보편적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "comprehensive",
+        "meaning_ko": "포괄적인(범위가 더 넓음)"
+      },
+      {
+        "word": "all-encompassing",
+        "meaning_ko": "포괄적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "local",
+        "meaning_ko": "지역적인"
+      },
+      {
+        "word": "regional",
+        "meaning_ko": "지역적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "global economy",
+            "meaning_ko": "전 세계적인 경제"
+          },
+          {
+            "phrase": "global market",
+            "meaning_ko": "전 세계적인 시장"
+          },
+          {
+            "phrase": "global warming",
+            "meaning_ko": "지구 온난화"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "global trade",
+            "meaning_ko": "전 세계적인 무역"
+          },
+          {
+            "phrase": "global community",
+            "meaning_ko": "전 세계적인 공동체"
+          },
+          {
+            "phrase": "global perspective",
+            "meaning_ko": "전 세계적인 관점"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "global governance",
+            "meaning_ko": "전 세계적인 거버넌스"
+          },
+          {
+            "phrase": "global integration",
+            "meaning_ko": "전 세계적인 통합"
+          },
+          {
+            "phrase": "global cooperation",
+            "meaning_ko": "전 세계적인 협력"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He studied the global economy.",
+            "meaning_ko": "그는 그 전 세계적인 경제를 공부했습니다."
+          },
+          {
+            "sentence": "She worked in the global market.",
+            "meaning_ko": "그녀는 그 전 세계적인 시장에서 일했습니다."
+          },
+          {
+            "sentence": "They discussed global warming.",
+            "meaning_ko": "그들은 지구 온난화를 논의했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He studied the global economy, with the worldwide and international system creating trade and commerce, though the globalism would require understanding and analysis.",
+            "meaning_ko": "그는 그 전 세계적인 경제를 공부했고, 그 전 세계적이고 국제적인 시스템이 무역과 상업을 만들었지만, 그 세계주의는 이해와 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She worked in the global market, with the universal and comprehensive environment creating opportunity and competition, though the globalism would need to be understood and navigated.",
+            "meaning_ko": "그녀는 그 전 세계적인 시장에서 일했고, 그 보편적이고 포괄적인 환경이 기회와 경쟁을 만들었지만, 그 세계주의는 이해되고 탐색될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They discussed global warming, with the worldwide and international issue creating concern and action, though the globalism would require cooperation and solution.",
+            "meaning_ko": "그들은 지구 온난화를 논의했고, 그 전 세계적이고 국제적인 이슈가 관심과 행동을 만들었지만, 그 세계주의는 협력과 해결을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to analyze global governance that was made in the process created opportunities for understanding and cooperation, with the analysis enabling evaluation of worldwide and international systems, though the globalism would require comprehensive understanding and coordination to ensure that governance is properly analyzed and cooperation is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 전 세계적인 거버넌스를 분석하기로 한 그 결정은 이해와 협력을 위한 기회를 만들었고, 그 분석이 전 세계적이고 국제적인 시스템의 평가를 가능하게 했지만, 그 세계주의는 거버넌스가 적절히 분석되고 협력이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 이해와 조정을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to promote global integration that was undertaken in the initiative created pathways for cooperation and unity, with the promotion enabling development of worldwide and international connections, though the globalism would need to be systematically pursued through cooperation and coordination to ensure that integration is properly promoted and unity is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 전 세계적인 통합을 촉진하기 위한 그 노력은 협력과 통합을 위한 경로를 만들었고, 그 촉진이 전 세계적이고 국제적인 연결의 발전을 가능하게 했지만, 그 세계주의는 통합이 적절히 촉진되고 통합이 효과적으로 달성되는 것을 보장하기 위해 협력과 조정을 통해 체계적으로 추구될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to enhance global cooperation that was completed in the system created structure and methods for unity and collaboration, with the enhancement enabling improvement of worldwide and international relations, though the globalism would require ongoing cooperation and coordination to ensure that cooperation continues to be enhanced and unity remains maintained and strengthened.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 전 세계적인 협력을 향상시키기 위한 그 작업은 통합과 협력을 위한 구조와 방법을 만들었고, 그 향상이 전 세계적이고 국제적인 관계의 개선을 가능하게 했지만, 그 세계주의는 협력이 계속 향상되고 통합이 계속 유지되고 강화되는 것을 보장하기 위해 지속적인 협력과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "global는 '전 세계적인, 세계적인' 또는 '전체적인, 포괄적인' 의미로, 전 세계적이거나 세계적인 상태를 가리킵니다. worldwide, international와 비슷하지만 더 일반적 뉘앙스가 있습니다. global economy, global market 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: global = (A) local (B) worldwide or international (C) regional (D) national",
+            "a": "B",
+            "meaning_ko": "global는 '전 세계적인 또는 국제적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He studied the _____ economy.",
+            "a": "global",
+            "meaning_ko": "global는 '전 세계적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of global? (A) worldwide (B) international (C) local (D) universal",
+            "a": "C",
+            "meaning_ko": "local(지역적인)가 global의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: global _____ economy. (A) (no preposition) (B) of (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "global는 형용사로 명사를 직접 수식합니다."
+          },
+          {
+            "q": "Pick the best synonym: global = (A) local (B) worldwide (C) regional (D) national",
+            "a": "B",
+            "meaning_ko": "worldwide(전 세계적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She worked in the global market of the problem.' → Fix the sentence.",
+            "a": "She worked in the global market.",
+            "meaning_ko": "global market는 이미 '전 세계적인 시장' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He studied the global economy.'",
+            "a": "He analyzed the worldwide and international economic system, with the globalism creating trade and commerce, though the economy would require understanding and analysis.",
+            "meaning_ko": "global는 '전 세계적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They discussed _____ warming. (A) global (B) globally (C) globalize (D) globalization",
+            "a": "A",
+            "meaning_ko": "형용사 global가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses global most appropriately? (A) The global ran. (B) He studied the global economy. (C) She global smiled. (D) Global is good.",
+            "a": "B",
+            "meaning_ko": "global는 형용사로 '전 세계적인'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "falsify",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "위조하다, 조작하다; 위조하거나 조작하는 것.",
+        "note": "위조하거나 조작하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "거짓으로 만들다, 왜곡하다; 거짓으로 만들거나 왜곡하는 것.",
+        "note": "거짓으로 만들거나 왜곡하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "위조하거나 조작하는 행동, 또는 거짓으로 만들거나 왜곡하는 행동.",
+    "etymology": "라틴어 falsificare(거짓으로 만들다)에서 유래했으며, falsus(거짓) + facere(만들다)의 조합입니다.",
+    "semanticExtension": "원래는 '거짓으로 만들다' 의미였고, 현대에는 '위조하다' 또는 '조작하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 사용되며, falsify + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "falsify + 명사 : ~을 위조하다/조작하다"
+    ],
+    "morphology": "라틴어 falsificare에서 유래한 단어로, falsus(거짓) + facere(만들다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "falsified",
+        "meaning_ko": "위조한(과거분사)"
+      },
+      {
+        "word": "falsifying",
+        "meaning_ko": "위조하는(현재분사)"
+      },
+      {
+        "word": "falsification",
+        "meaning_ko": "위조"
+      }
+    ],
+    "related": [
+      {
+        "word": "forge",
+        "meaning_ko": "위조하다"
+      },
+      {
+        "word": "fabricate",
+        "meaning_ko": "꾸며내다"
+      },
+      {
+        "word": "distort",
+        "meaning_ko": "왜곡하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "forge",
+        "meaning_ko": "위조하다"
+      },
+      {
+        "word": "fabricate",
+        "meaning_ko": "꾸며내다"
+      },
+      {
+        "word": "distort",
+        "meaning_ko": "왜곡하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "manipulate",
+        "meaning_ko": "조작하다(범위가 더 넓음)"
+      },
+      {
+        "word": "tamper",
+        "meaning_ko": "조작하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "verify",
+        "meaning_ko": "검증하다"
+      },
+      {
+        "word": "authenticate",
+        "meaning_ko": "인증하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "falsify records",
+            "meaning_ko": "그 기록들을 위조하다"
+          },
+          {
+            "phrase": "falsify documents",
+            "meaning_ko": "그 문서들을 위조하다"
+          },
+          {
+            "phrase": "falsify data",
+            "meaning_ko": "그 데이터를 위조하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "falsify evidence",
+            "meaning_ko": "그 증거를 위조하다"
+          },
+          {
+            "phrase": "falsify information",
+            "meaning_ko": "그 정보를 위조하다"
+          },
+          {
+            "phrase": "falsify results",
+            "meaning_ko": "그 결과를 위조하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "falsify testimony",
+            "meaning_ko": "그 증언을 위조하다"
+          },
+          {
+            "phrase": "falsify accounts",
+            "meaning_ko": "그 계정들을 위조하다"
+          },
+          {
+            "phrase": "falsify reports",
+            "meaning_ko": "그 보고서들을 위조하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He falsified records.",
+            "meaning_ko": "그는 그 기록들을 위조했습니다."
+          },
+          {
+            "sentence": "She falsified documents.",
+            "meaning_ko": "그녀는 그 문서들을 위조했습니다."
+          },
+          {
+            "sentence": "They falsified data.",
+            "meaning_ko": "그들은 그 데이터를 위조했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He falsified records, with his forge and fabricate creating false and manipulated information, though the falsification would require detection and punishment.",
+            "meaning_ko": "그는 그 기록들을 위조했고, 그의 위조 그리고 꾸며내기가 거짓 그리고 조작된 정보를 만들었지만, 그 위조는 탐지와 처벌을 요구할 것입니다."
+          },
+          {
+            "sentence": "She falsified documents, with the distort and manipulate creating false and tampered records, though the falsification would need to be exposed and punished.",
+            "meaning_ko": "그녀는 그 문서들을 위조했고, 그 왜곡 그리고 조작이 거짓 그리고 조작된 기록을 만들었지만, 그 위조는 폭로되고 처벌될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They falsified data, with the tamper and forge creating false and fabricated information, though the falsification would require investigation and punishment.",
+            "meaning_ko": "그들은 그 데이터를 위조했고, 그 조작 그리고 위조가 거짓 그리고 꾸며낸 정보를 만들었지만, 그 위조는 조사와 처벌을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to investigate falsify testimony that was made in the process created opportunities for justice and accountability, with the investigation enabling detection of false and manipulated evidence, though the falsification would require comprehensive investigation and punishment to ensure that testimony is properly investigated and justice is effectively pursued.",
+            "meaning_ko": "그 과정에서 내려졌던 그 증언을 위조하는 것을 조사하기로 한 그 결정은 정의와 책임을 위한 기회를 만들었고, 그 조사가 거짓 그리고 조작된 증거의 탐지를 가능하게 했지만, 그 위조는 증언이 적절히 조사되고 정의가 효과적으로 추구되는 것을 보장하기 위해 포괄적인 조사와 처벌을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to detect falsify accounts that was undertaken in the initiative created pathways for accountability and justice, with the detection enabling identification of false and manipulated records, though the falsification would need to be systematically investigated through audit and examination to ensure that accounts are properly detected and accountability is effectively pursued.",
+            "meaning_ko": "그 계획에서 착수되었던 그 계정들을 위조하는 것을 탐지하기 위한 그 노력은 책임과 정의를 위한 경로를 만들었고, 그 탐지가 거짓 그리고 조작된 기록의 식별을 가능하게 했지만, 그 위조는 계정들이 적절히 탐지되고 책임이 효과적으로 추구되는 것을 보장하기 위해 감사와 검토를 통해 체계적으로 조사될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to prevent falsify reports that was completed in the system created structure and methods for accountability and integrity, with the prevention enabling reduction of false and manipulated information, though the falsification would require ongoing vigilance and enforcement to ensure that reports continue to be protected and integrity remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 보고서들을 위조하는 것을 방지하기 위한 그 작업은 책임과 무결성을 위한 구조와 방법을 만들었고, 그 방지가 거짓 그리고 조작된 정보의 감소를 가능하게 했지만, 그 위조는 보고서들이 계속 보호되고 무결성이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 경계와 집행을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "falsify는 '위조하다, 조작하다' 또는 '거짓으로 만들다, 왜곡하다' 의미로, 위조하거나 조작하는 행동을 가리킵니다. forge, fabricate와 비슷하지만 더 공식적 뉘앙스가 있습니다. falsify records, falsify documents 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: falsify = (A) verify (B) forge or fabricate (C) authenticate (D) confirm",
+            "a": "B",
+            "meaning_ko": "falsify는 '위조하다 또는 꾸며내다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ records.",
+            "a": "falsified",
+            "meaning_ko": "falsify는 '위조하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of falsify? (A) forge (B) fabricate (C) verify (D) distort",
+            "a": "C",
+            "meaning_ko": "verify(검증하다)가 falsify의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: falsify _____ records. (A) (no preposition) (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "falsify는 직접 목적어를 취하며 전치사가 필요 없습니다."
+          },
+          {
+            "q": "Pick the best synonym: falsify = (A) verify (B) forge (C) authenticate (D) confirm",
+            "a": "B",
+            "meaning_ko": "forge(위조하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She falsified documents at the problem.' → Fix the sentence.",
+            "a": "She falsified documents.",
+            "meaning_ko": "falsify는 직접 목적어를 취하며 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He falsified records.'",
+            "a": "He forged and fabricated false information, with the falsification creating manipulated and tampered records, though the records would require detection and punishment.",
+            "meaning_ko": "falsify는 '위조하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ data. (A) falsify (B) falsifies (C) falsified (D) falsifying",
+            "a": "C",
+            "meaning_ko": "과거형 falsified가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses falsify most appropriately? (A) The falsify ran. (B) He falsified records. (C) She falsify smiled. (D) Falsify is good.",
+            "a": "B",
+            "meaning_ko": "falsify는 동사로 '위조하다'를 의미하며, falsify + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

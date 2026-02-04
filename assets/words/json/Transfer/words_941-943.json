@@ -1,0 +1,810 @@
+[
+  {
+    "word": "introduction",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "소개, 도입; 소개나 도입.",
+        "note": "소개나 도입을 가리킵니다."
+      },
+      {
+        "definition_ko": "서론, 머리말; 서론이나 머리말.",
+        "note": "서론이나 머리말을 가리킵니다."
+      }
+    ],
+    "concept": "소개나 도입인 소개, 또는 서론이나 머리말.",
+    "etymology": "라틴어 introducere(들어가게 하다)에서 유래했으며, intro(안으로) + ducere(이끌다)의 조합입니다.",
+    "semanticExtension": "원래는 '들어가게 하다' 의미였고, 현대에는 '소개' 또는 '도입'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, introduction 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 대한 소개",
+        "example": "introduction to"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 도입",
+        "example": "introduction of"
+      }
+    ],
+    "requiredComplements": [
+      "introduction : 소개/도입",
+      "introduction to + 명사 : ~에 대한 소개",
+      "introduction of + 명사 : ~의 도입"
+    ],
+    "morphology": "라틴어 introducere에서 유래한 단어로, intro(안으로) + ducere(이끌다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "introduce",
+        "meaning_ko": "소개하다"
+      },
+      {
+        "word": "introductory",
+        "meaning_ko": "소개의"
+      }
+    ],
+    "related": [
+      {
+        "word": "presentation",
+        "meaning_ko": "소개"
+      },
+      {
+        "word": "preface",
+        "meaning_ko": "서문"
+      },
+      {
+        "word": "prelude",
+        "meaning_ko": "서곡"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "presentation",
+        "meaning_ko": "소개"
+      },
+      {
+        "word": "preface",
+        "meaning_ko": "서문"
+      },
+      {
+        "word": "prelude",
+        "meaning_ko": "서곡"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "opening",
+        "meaning_ko": "시작(범위가 더 넓음)"
+      },
+      {
+        "word": "beginning",
+        "meaning_ko": "시작"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conclusion",
+        "meaning_ko": "결론"
+      },
+      {
+        "word": "ending",
+        "meaning_ko": "끝"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "introduction to",
+            "meaning_ko": "~에 대한 소개"
+          },
+          {
+            "phrase": "introduction of",
+            "meaning_ko": "~의 도입"
+          },
+          {
+            "phrase": "make an introduction",
+            "meaning_ko": "소개를 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "introduction to the topic",
+            "meaning_ko": "그 주제에 대한 소개"
+          },
+          {
+            "phrase": "introduction of the system",
+            "meaning_ko": "그 시스템의 도입"
+          },
+          {
+            "phrase": "brief introduction",
+            "meaning_ko": "간단한 소개"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "introduction to the subject",
+            "meaning_ko": "그 주제에 대한 소개"
+          },
+          {
+            "phrase": "introduction of the policy",
+            "meaning_ko": "그 정책의 도입"
+          },
+          {
+            "phrase": "comprehensive introduction",
+            "meaning_ko": "포괄적인 소개"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He made an introduction.",
+            "meaning_ko": "그는 소개를 했습니다."
+          },
+          {
+            "sentence": "She wrote an introduction to the topic.",
+            "meaning_ko": "그녀는 그 주제에 대한 소개를 썼습니다."
+          },
+          {
+            "sentence": "They planned the introduction of the system.",
+            "meaning_ko": "그들은 그 시스템의 도입을 계획했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He made an introduction, with his presentation and preface creating opening and beginning, though the introduction would require clarity and organization.",
+            "meaning_ko": "그는 소개를 했고, 그의 소개 그리고 서문이 시작과 시작을 만들었지만, 그 소개는 명확성과 조직을 요구할 것입니다."
+          },
+          {
+            "sentence": "She wrote an introduction to the topic, with the prelude and opening creating context and foundation, though the introduction would need to be clear and informative.",
+            "meaning_ko": "그녀는 그 주제에 대한 소개를 썼고, 그 서곡 그리고 시작이 맥락과 기초를 만들었지만, 그 소개는 명확하고 정보를 제공할 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They planned the introduction of the system, with the beginning and opening creating implementation and launch, though the introduction would require preparation and coordination.",
+            "meaning_ko": "그들은 그 시스템의 도입을 계획했고, 그 시작 그리고 시작이 구현과 출시를 만들었지만, 그 도입은 준비와 조정을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to write introduction to the subject that was made in the process created opportunities for clarity and understanding, with the writing enabling establishment of context and foundation, though the introduction would require comprehensive organization and clarity to ensure that subject is properly introduced and context is clearly established.",
+            "meaning_ko": "그 과정에서 내려졌던 그 주제에 대한 그 소개를 쓰기로 한 그 결정은 명확성과 이해를 위한 기회를 만들었고, 그 쓰기가 맥락과 기초의 확립을 가능하게 했지만, 그 소개는 주제가 적절히 소개되고 맥락이 명확히 확립되는 것을 보장하기 위해 포괄적인 조직과 명확성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to plan introduction of the policy that was undertaken in the initiative created pathways for implementation and adoption, with the planning enabling establishment of framework and process, though the introduction would need to be systematically organized through preparation and coordination to ensure that policy is properly introduced and implementation is effectively managed.",
+            "meaning_ko": "그 계획에서 착수되었던 그 정책의 그 도입을 계획하기 위한 그 노력은 구현과 채택을 위한 경로를 만들었고, 그 계획이 프레임워크와 프로세스의 확립을 가능하게 했지만, 그 도입은 정책이 적절히 도입되고 구현이 효과적으로 관리되는 것을 보장하기 위해 준비와 조정을 통해 체계적으로 조직될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to create comprehensive introduction that was completed in the system created structure and methods for clarity and understanding, with the creation enabling establishment of context and foundation, though the introduction would require ongoing refinement and organization to ensure that introduction remains clear and context continues to be effectively established and maintained.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 포괄적인 소개를 창조하기 위한 그 작업은 명확성과 이해를 위한 구조와 방법을 만들었고, 그 창조가 맥락과 기초의 확립을 가능하게 했지만, 그 소개는 소개가 계속 명확하고 맥락이 계속 효과적으로 확립되고 유지되는 것을 보장하기 위해 지속적인 정제와 조직을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "introduction는 '소개, 도입' 또는 '서론, 머리말' 의미로, 소개나 도입을 가리킵니다. presentation, preface와 비슷하지만 더 일반적 뉘앙스가 있습니다. introduction to ~, introduction of ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: introduction = (A) conclusion (B) presentation or preface (C) ending (D) finish",
+            "a": "B",
+            "meaning_ko": "introduction는 '소개 또는 서문' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He made an _____.",
+            "a": "introduction",
+            "meaning_ko": "introduction는 '소개' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of introduction? (A) presentation (B) preface (C) conclusion (D) prelude",
+            "a": "C",
+            "meaning_ko": "conclusion(결론)가 introduction의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: introduction _____ the topic. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "introduction to ~는 '~에 대한 소개' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: introduction = (A) conclusion (B) presentation (C) ending (D) finish",
+            "a": "B",
+            "meaning_ko": "presentation(소개)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She wrote an introduction at the topic.' → Fix the preposition.",
+            "a": "She wrote an introduction to the topic.",
+            "meaning_ko": "introduction to ~는 '~에 대한 소개' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He made an introduction.'",
+            "a": "He created a presentation and preface, with the introduction creating opening and beginning, though the action would require clarity and organization.",
+            "meaning_ko": "introduction는 '소개' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They planned the _____ of the system. (A) introduction (B) introductions (C) introduce (D) introductory",
+            "a": "A",
+            "meaning_ko": "명사 introduction가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses introduction most appropriately? (A) The introduction ran. (B) He made an introduction. (C) She introduction smiled. (D) Introduction is good.",
+            "a": "B",
+            "meaning_ko": "introduction는 명사로 '소개'를 의미하며, make an introduction와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "viable",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "실행 가능한, 실현 가능한; 실행 가능하거나 실현 가능한.",
+        "note": "실행 가능하거나 실현 가능한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "생존 가능한, 지속 가능한; 생존 가능하거나 지속 가능한.",
+        "note": "생존 가능하거나 지속 가능한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "실행 가능하거나 실현 가능한 상태, 또는 생존 가능하거나 지속 가능한 상태.",
+    "etymology": "프랑스어 viable(생존 가능한)에서 유래했으며, '생존 가능한' 의미입니다.",
+    "semanticExtension": "원래는 '생존 가능한' 의미였고, 현대에는 '실행 가능한' 또는 '실현 가능한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be viable 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be viable : 실행 가능하다",
+      "viable + 명사 : 실행 가능한 ~"
+    ],
+    "morphology": "프랑스어 viable에서 유래한 단어로, '생존 가능한' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "viably",
+        "meaning_ko": "실행 가능하게"
+      },
+      {
+        "word": "viability",
+        "meaning_ko": "실행 가능성"
+      }
+    ],
+    "related": [
+      {
+        "word": "feasible",
+        "meaning_ko": "실행 가능한"
+      },
+      {
+        "word": "practicable",
+        "meaning_ko": "실행 가능한"
+      },
+      {
+        "word": "workable",
+        "meaning_ko": "실행 가능한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "feasible",
+        "meaning_ko": "실행 가능한"
+      },
+      {
+        "word": "practicable",
+        "meaning_ko": "실행 가능한"
+      },
+      {
+        "word": "workable",
+        "meaning_ko": "실행 가능한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sustainable",
+        "meaning_ko": "지속 가능한(범위가 더 넓음)"
+      },
+      {
+        "word": "achievable",
+        "meaning_ko": "달성 가능한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unviable",
+        "meaning_ko": "실행 불가능한"
+      },
+      {
+        "word": "impracticable",
+        "meaning_ko": "실행 불가능한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "viable option",
+            "meaning_ko": "실행 가능한 선택지"
+          },
+          {
+            "phrase": "viable solution",
+            "meaning_ko": "실행 가능한 해결책"
+          },
+          {
+            "phrase": "viable alternative",
+            "meaning_ko": "실행 가능한 대안"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "viable plan",
+            "meaning_ko": "실행 가능한 계획"
+          },
+          {
+            "phrase": "viable strategy",
+            "meaning_ko": "실행 가능한 전략"
+          },
+          {
+            "phrase": "viable business",
+            "meaning_ko": "실행 가능한 사업"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "viable approach",
+            "meaning_ko": "실행 가능한 접근"
+          },
+          {
+            "phrase": "viable model",
+            "meaning_ko": "실행 가능한 모델"
+          },
+          {
+            "phrase": "viable proposal",
+            "meaning_ko": "실행 가능한 제안"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He proposed a viable option.",
+            "meaning_ko": "그는 실행 가능한 선택지를 제안했습니다."
+          },
+          {
+            "sentence": "She found a viable solution.",
+            "meaning_ko": "그녀는 실행 가능한 해결책을 찾았습니다."
+          },
+          {
+            "sentence": "They considered a viable alternative.",
+            "meaning_ko": "그들은 실행 가능한 대안을 고려했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He proposed a viable option, with his feasible and practicable choice creating possibility and potential, though the viability would require implementation and testing.",
+            "meaning_ko": "그는 실행 가능한 선택지를 제안했고, 그의 실행 가능하고 실행 가능한 선택이 가능성과 잠재력을 만들었지만, 그 실행 가능성은 구현과 테스트를 요구할 것입니다."
+          },
+          {
+            "sentence": "She found a viable solution, with the workable and sustainable approach creating effectiveness and success, though the viability would need to be evaluated and validated.",
+            "meaning_ko": "그녀는 실행 가능한 해결책을 찾았고, 그 실행 가능하고 지속 가능한 접근이 효과성과 성공을 만들었지만, 그 실행 가능성은 평가되고 검증될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They considered a viable alternative, with the achievable and feasible option creating opportunity and potential, though the viability would require assessment and planning.",
+            "meaning_ko": "그들은 실행 가능한 대안을 고려했고, 그 달성 가능하고 실행 가능한 선택지가 기회와 잠재력을 만들었지만, 그 실행 가능성은 평가와 계획을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to evaluate viable approach that was made in the process created opportunities for implementation and success, with the evaluation enabling identification of feasibility and potential, though the viability would require comprehensive analysis and testing to ensure that approach is properly evaluated and feasibility is accurately assessed.",
+            "meaning_ko": "그 과정에서 내려졌던 그 실행 가능한 접근을 평가하기로 한 그 결정은 구현과 성공을 위한 기회를 만들었고, 그 평가가 실행 가능성과 잠재력의 식별을 가능하게 했지만, 그 실행 가능성은 접근이 적절히 평가되고 실행 가능성이 정확히 평가되는 것을 보장하기 위해 포괄적인 분석과 테스트를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to develop viable model that was undertaken in the initiative created pathways for success and sustainability, with the development enabling creation of workable structure and framework, though the viability would need to be systematically validated through testing and analysis to ensure that model is viable and sustainability is achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 실행 가능한 모델을 발전시키기 위한 그 노력은 성공과 지속가능성을 위한 경로를 만들었고, 그 발전이 실행 가능한 구조와 프레임워크의 창조를 가능하게 했지만, 그 실행 가능성은 모델이 실행 가능하고 지속가능성이 달성되는 것을 보장하기 위해 테스트와 분석을 통해 체계적으로 검증될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to implement viable proposal that was completed in the system created structure and methods for execution and success, with the implementation enabling establishment of workable process and framework, though the viability would require ongoing monitoring and evaluation to ensure that proposal remains viable and success continues to be achieved and maintained.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 실행 가능한 제안을 구현하기 위한 그 작업은 실행과 성공을 위한 구조와 방법을 만들었고, 그 구현이 실행 가능한 프로세스와 프레임워크의 확립을 가능하게 했지만, 그 실행 가능성은 제안이 계속 실행 가능하고 성공이 계속 달성되고 유지되는 것을 보장하기 위해 지속적인 모니터링과 평가를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "viable는 '실행 가능한, 실현 가능한' 또는 '생존 가능한, 지속 가능한' 의미로, 실행 가능하거나 실현 가능한 상태를 가리킵니다. feasible, practicable와 비슷하지만 더 강한 뉘앙스가 있습니다. viable option, viable solution 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: viable = (A) unviable (B) feasible or practicable (C) impracticable (D) impossible",
+            "a": "B",
+            "meaning_ko": "viable는 '실행 가능한 또는 실행 가능한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He proposed a _____ option.",
+            "a": "viable",
+            "meaning_ko": "viable는 '실행 가능한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of viable? (A) feasible (B) practicable (C) unviable (D) workable",
+            "a": "C",
+            "meaning_ko": "unviable(실행 불가능한)가 viable의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: viable _____ option. (A) (no preposition) (B) of (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "viable는 형용사로 명사를 직접 수식합니다."
+          },
+          {
+            "q": "Pick the best synonym: viable = (A) unviable (B) feasible (C) impracticable (D) impossible",
+            "a": "B",
+            "meaning_ko": "feasible(실행 가능한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She found a viable solution of the problem.' → Fix the sentence.",
+            "a": "She found a viable solution to the problem.",
+            "meaning_ko": "solution to ~는 '~에 대한 해결책' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He proposed a viable option.'",
+            "a": "He suggested a feasible and practicable choice, with the viability creating possibility and potential, though the option would require implementation and testing.",
+            "meaning_ko": "viable는 '실행 가능한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They considered a _____ alternative. (A) viable (B) viably (C) viability (D) viable's",
+            "a": "A",
+            "meaning_ko": "형용사 viable가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses viable most appropriately? (A) The viable ran. (B) He proposed a viable option. (C) She viable smiled. (D) Viable is good.",
+            "a": "B",
+            "meaning_ko": "viable는 형용사로 '실행 가능한'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "backfire",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "역효과를 내다, 역효과가 나다; 역효과를 내거나 역효과가 나는 것.",
+        "note": "역효과를 내거나 역효과가 나는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "역화, 역화; 역화나 역화.",
+        "note": "역화나 역화를 가리킵니다."
+      }
+    ],
+    "concept": "역효과를 내거나 역효과가 나는 행동, 또는 역화나 역화.",
+    "etymology": "back(뒤로) + fire(불)의 조합으로, '뒤로 불' 의미에서 '역효과' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '뒤로 불' 의미였고, 현대에는 '역효과를 내다' 또는 '역화'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 자동사로 사용되며, 명사로는 역화나 역화를 가리킵니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에게 역효과를 내다",
+        "example": "backfire on"
+      }
+    ],
+    "requiredComplements": [
+      "backfire : 역효과를 내다",
+      "backfire on + 명사 : ~에게 역효과를 내다"
+    ],
+    "morphology": "back(뒤로) + fire(불)의 조합으로, '뒤로 불' 의미에서 '역효과' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "backfired",
+        "meaning_ko": "역효과를 낸(과거분사)"
+      },
+      {
+        "word": "backfiring",
+        "meaning_ko": "역효과를 내는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "rebound",
+        "meaning_ko": "반동하다"
+      },
+      {
+        "word": "recoil",
+        "meaning_ko": "반동하다"
+      },
+      {
+        "word": "misfire",
+        "meaning_ko": "실패하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rebound",
+        "meaning_ko": "반동하다"
+      },
+      {
+        "word": "recoil",
+        "meaning_ko": "반동하다"
+      },
+      {
+        "word": "misfire",
+        "meaning_ko": "실패하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "boomerang",
+        "meaning_ko": "역효과를 내다(범위가 더 넓음)"
+      },
+      {
+        "word": "fail",
+        "meaning_ko": "실패하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "succeed",
+        "meaning_ko": "성공하다"
+      },
+      {
+        "word": "work",
+        "meaning_ko": "작동하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "backfire on",
+            "meaning_ko": "~에게 역효과를 내다"
+          },
+          {
+            "phrase": "plan backfire",
+            "meaning_ko": "계획이 역효과를 내다"
+          },
+          {
+            "phrase": "strategy backfire",
+            "meaning_ko": "전략이 역효과를 내다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "backfire on the person",
+            "meaning_ko": "그 사람에게 역효과를 내다"
+          },
+          {
+            "phrase": "scheme backfire",
+            "meaning_ko": "계획이 역효과를 내다"
+          },
+          {
+            "phrase": "attempt backfire",
+            "meaning_ko": "시도가 역효과를 내다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "backfire on the initiator",
+            "meaning_ko": "그 시작자에게 역효과를 내다"
+          },
+          {
+            "phrase": "tactic backfire",
+            "meaning_ko": "전술이 역효과를 내다"
+          },
+          {
+            "phrase": "maneuver backfire",
+            "meaning_ko": "기동이 역효과를 내다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The plan backfired.",
+            "meaning_ko": "그 계획이 역효과를 냈습니다."
+          },
+          {
+            "sentence": "She saw the strategy backfire on him.",
+            "meaning_ko": "그녀는 그 전략이 그에게 역효과를 내는 것을 보았습니다."
+          },
+          {
+            "sentence": "They feared the attempt would backfire.",
+            "meaning_ko": "그들은 그 시도가 역효과를 낼까 두려워했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The plan backfired, with the rebound and recoil creating failure and problems, though the backfire would require analysis and correction.",
+            "meaning_ko": "그 계획이 역효과를 냈고, 그 반동 그리고 반동이 실패와 문제를 만들었지만, 그 역효과는 분석과 교정을 요구할 것입니다."
+          },
+          {
+            "sentence": "She saw the strategy backfire on him, with the boomerang and misfire creating harm and failure, though the backfire would need to be addressed and prevented.",
+            "meaning_ko": "그녀는 그 전략이 그에게 역효과를 내는 것을 보았고, 그 역효과 그리고 실패가 해와 실패를 만들었지만, 그 역효과는 다뤄지고 방지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They feared the attempt would backfire, with the fail and recoil creating risk and danger, though the backfire would require caution and planning.",
+            "meaning_ko": "그들은 그 시도가 역효과를 낼까 두려워했고, 그 실패 그리고 반동이 위험과 위험을 만들었지만, 그 역효과는 경계와 계획을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to prevent backfire on the initiator that was made in the process created opportunities for risk management and success, with the prevention enabling reduction of harm and failure, though the backfire would require comprehensive planning and risk assessment to ensure that initiator is protected and success is achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 시작자에게 그 역효과를 방지하기로 한 그 결정은 위험 관리와 성공을 위한 기회를 만들었고, 그 방지가 해와 실패의 감소를 가능하게 했지만, 그 역효과는 시작자가 보호되고 성공이 달성되는 것을 보장하기 위해 포괄적인 계획과 위험 평가를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to analyze tactic backfire that was undertaken in the initiative created pathways for understanding and prevention, with the analysis enabling identification of causes and risks, though the backfire would need to be systematically evaluated through risk assessment and planning to ensure that tactics are properly evaluated and risks are effectively managed.",
+            "meaning_ko": "그 계획에서 착수되었던 그 전술이 그 역효과를 분석하기 위한 그 노력은 이해와 방지를 위한 경로를 만들었고, 그 분석이 원인과 위험의 식별을 가능하게 했지만, 그 역효과는 전술이 적절히 평가되고 위험이 효과적으로 관리되는 것을 보장하기 위해 위험 평가와 계획을 통해 체계적으로 평가될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to manage maneuver backfire that was completed in the system created structure and methods for risk control and success, with the management enabling reduction of harm and failure, though the backfire would require ongoing monitoring and adjustment to ensure that maneuvers are effective and risks are minimized and managed effectively.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 기동이 그 역효과를 관리하기 위한 그 작업은 위험 통제와 성공을 위한 구조와 방법을 만들었고, 그 관리가 해와 실패의 감소를 가능하게 했지만, 그 역효과는 기동이 효과적이고 위험이 최소화되고 효과적으로 관리되는 것을 보장하기 위해 지속적인 모니터링과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "backfire는 '역효과를 내다, 역효과가 나다' 또는 '역화, 역화' 의미로, 역효과를 내거나 역효과가 나는 행동을 가리킵니다. rebound, recoil와 비슷하지만 더 일상적 뉘앙스가 있습니다. backfire on ~, plan backfire 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: backfire = (A) succeed (B) rebound or misfire (C) work (D) achieve",
+            "a": "B",
+            "meaning_ko": "backfire는 '반동하다 또는 실패하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The plan _____.",
+            "a": "backfired",
+            "meaning_ko": "backfire는 '역효과를 내다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of backfire? (A) rebound (B) recoil (C) succeed (D) misfire",
+            "a": "C",
+            "meaning_ko": "succeed(성공하다)가 backfire의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: backfire _____ the person. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "backfire on ~는 '~에게 역효과를 내다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: backfire = (A) succeed (B) rebound (C) work (D) achieve",
+            "a": "B",
+            "meaning_ko": "rebound(반동하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She saw the strategy backfire at him.' → Fix the preposition.",
+            "a": "She saw the strategy backfire on him.",
+            "meaning_ko": "backfire on ~는 '~에게 역효과를 내다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The plan backfired.'",
+            "a": "The plan rebounded and misfired, with the backfire creating failure and problems, though the outcome would require analysis and correction.",
+            "meaning_ko": "backfire는 '역효과를 내다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They feared the attempt would _____. (A) backfire (B) backfires (C) backfired (D) backfiring",
+            "a": "A",
+            "meaning_ko": "동사원형 backfire가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses backfire most appropriately? (A) The backfire ran. (B) The plan backfired. (C) She backfire smiled. (D) Backfire is good.",
+            "a": "B",
+            "meaning_ko": "backfire는 동사로 '역효과를 내다'를 의미하며, 주어 + backfire와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

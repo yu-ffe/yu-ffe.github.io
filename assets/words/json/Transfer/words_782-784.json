@@ -1,0 +1,823 @@
+[
+  {
+    "word": "ogle",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "눈길을 주다, 흘겨보다; 눈길을 주거나 흘겨보다.",
+        "note": "눈길을 주거나 흘겨보는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "호기심 있게 보다, 훔쳐보다; 호기심 있게 보거나 훔쳐보다.",
+        "note": "호기심 있게 보거나 훔쳐보는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "눈길을 주거나 흘겨보는 것, 또는 호기심 있게 보거나 훔쳐보는 것.",
+    "etymology": "독일어 äugeln(눈으로 보다)에서 유래했으며, Auge(눈)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '눈으로 보다' 의미였고, 현대에는 '눈길을 주거나 흘겨보다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 부정적 뉘앙스로 자주 쓰입니다.",
+    "grammarNotes": "타동사와 자동사로 모두 사용되며, ogle + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~을 흘겨보다",
+        "example": "ogle at"
+      }
+    ],
+    "requiredComplements": [
+      "ogle : 눈길을 주다/흘겨보다",
+      "ogle + 명사 : ~을 흘겨보다",
+      "ogle at + 명사 : ~을 흘겨보다"
+    ],
+    "morphology": "독일어 äugeln에서 유래한 단어로, Auge(눈)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "ogled",
+        "meaning_ko": "흘겨본(과거분사/형용사)"
+      },
+      {
+        "word": "ogling",
+        "meaning_ko": "흘겨보는(현재분사/형용사)"
+      },
+      {
+        "word": "ogler",
+        "meaning_ko": "흘겨보는 사람"
+      }
+    ],
+    "related": [
+      {
+        "word": "stare",
+        "meaning_ko": "응시하다"
+      },
+      {
+        "word": "gaze",
+        "meaning_ko": "응시하다"
+      },
+      {
+        "word": "leer",
+        "meaning_ko": "음흉하게 보다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "stare",
+        "meaning_ko": "응시하다"
+      },
+      {
+        "word": "gaze",
+        "meaning_ko": "응시하다"
+      },
+      {
+        "word": "leer",
+        "meaning_ko": "음흉하게 보다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "gawk",
+        "meaning_ko": "멍하니 보다(범위가 더 넓음)"
+      },
+      {
+        "word": "goggle",
+        "meaning_ko": "눈을 휘둥그렇게 뜨고 보다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "avert",
+        "meaning_ko": "피하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ogle at",
+            "meaning_ko": "~을 흘겨보다"
+          },
+          {
+            "phrase": "ogle the woman",
+            "meaning_ko": "그 여자를 흘겨보다"
+          },
+          {
+            "phrase": "ogle the man",
+            "meaning_ko": "그 남자를 흘겨보다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ogle at the person",
+            "meaning_ko": "그 사람을 흘겨보다"
+          },
+          {
+            "phrase": "ogle the stranger",
+            "meaning_ko": "그 낯선 사람을 흘겨보다"
+          },
+          {
+            "phrase": "ogle the passerby",
+            "meaning_ko": "그 행인을 흘겨보다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ogle at the crowd",
+            "meaning_ko": "그 군중을 흘겨보다"
+          },
+          {
+            "phrase": "ogle the object",
+            "meaning_ko": "그 물체를 흘겨보다"
+          },
+          {
+            "phrase": "ogle the scene",
+            "meaning_ko": "그 장면을 흘겨보다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He ogled at the woman.",
+            "meaning_ko": "그는 그 여자를 흘겨봤습니다."
+          },
+          {
+            "sentence": "She noticed him ogling.",
+            "meaning_ko": "그녀는 그가 흘겨보는 것을 알아챘습니다."
+          },
+          {
+            "sentence": "They ogled the stranger.",
+            "meaning_ko": "그들은 그 낯선 사람을 흘겨봤습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He ogled at the woman, with his stare and gaze creating discomfort and offense, though the ogling would require awareness and respect.",
+            "meaning_ko": "그는 그 여자를 흘겨봤고, 그의 응시와 응시가 불편함과 불쾌감을 만들었지만, 그 흘겨봄은 인식과 존경을 요구할 것입니다."
+          },
+          {
+            "sentence": "She noticed him ogling, with his leer and gawk creating inappropriate behavior, though the ogling would need to be addressed and stopped.",
+            "meaning_ko": "그녀는 그가 흘겨보는 것을 알아챘고, 그의 음흉한 시선과 멍하니 보는 것이 부적절한 행동을 만들었지만, 그 흘겨봄은 다뤄지고 멈춰질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They ogled the stranger, with their stare and gaze creating attention and observation, though the ogling would require consideration and boundaries.",
+            "meaning_ko": "그들은 그 낯선 사람을 흘겨봤고, 그들의 응시와 응시가 주의와 관찰을 만들었지만, 그 흘겨봄은 고려와 경계를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The behavior to ogle at the crowd that was displayed in the situation created discomfort and violation of personal space, with the staring and gazing leading to feelings of being objectified and disrespected, though the ogling would require recognizing the importance of respecting others' boundaries and dignity.",
+            "meaning_ko": "그 상황에서 표시되었던 그 군중을 흘겨보는 그 행동은 불편함과 개인 공간의 침해를 만들었고, 그 응시와 응시가 대상화되고 무시받는 감정으로 이어졌지만, 그 흘겨봄은 다른 사람들의 경계와 존엄을 존경하는 것의 중요성을 인식하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The decision to ogle the object that was made in the observation created inappropriate attention and focus, with the staring and gazing leading to discomfort and offense, though the ogling would need to be replaced with respectful observation and appropriate behavior.",
+            "meaning_ko": "그 관찰에서 내려졌던 그 물체를 흘겨보기로 한 그 결정은 부적절한 주의와 집중을 만들었고, 그 응시와 응시가 불편함과 불쾌감으로 이어졌지만, 그 흘겨봄은 존경스러운 관찰과 적절한 행동으로 대체될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The tendency to ogle the scene that was evident in the behavior created patterns of inappropriate observation and attention, with the staring and gazing leading to social discomfort and boundary violations, though the ogling would require developing awareness and self-control to ensure respectful interaction with others.",
+            "meaning_ko": "그 행동에서 명백했던 그 장면을 흘겨보는 그 경향은 부적절한 관찰과 주의의 패턴을 만들었고, 그 응시와 응시가 사회적 불편함과 경계 위반으로 이어졌지만, 그 흘겨봄은 다른 사람들과의 존경스러운 상호작용을 보장하기 위해 인식과 자제력을 발전시키는 것을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ogle은 '눈길을 주다, 흘겨보다' 또는 '호기심 있게 보다, 훔쳐보다' 의미로, 눈길을 주거나 흘겨보는 행동을 가리킵니다. stare, gaze와 비슷하지만 더 부정적 뉘앙스가 있습니다. ogle at ~, ogle the woman 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: ogle = (A) ignore (B) stare or gaze (C) avert (D) avoid",
+            "a": "B",
+            "meaning_ko": "ogle은 '응시하다 또는 응시하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ at the woman.",
+            "a": "ogled",
+            "meaning_ko": "ogle은 '흘겨보다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of ogle? (A) stare (B) gaze (C) ignore (D) leer",
+            "a": "C",
+            "meaning_ko": "ignore(무시하다)가 ogle의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: ogle _____ the person. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "ogle at ~는 '~을 흘겨보다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: ogle = (A) ignore (B) stare (C) avert (D) avoid",
+            "a": "B",
+            "meaning_ko": "stare(응시하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She noticed him ogling on the woman.' → Fix the preposition.",
+            "a": "She noticed him ogling at the woman.",
+            "meaning_ko": "ogle at ~는 '~을 흘겨보다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He ogled at the woman.'",
+            "a": "He stared and gazed at her inappropriately, with the ogling creating discomfort and offense, though the behavior would require awareness and respect.",
+            "meaning_ko": "ogle은 '흘겨보다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the stranger. (A) ogle (B) ogles (C) ogled (D) ogling",
+            "a": "C",
+            "meaning_ko": "과거형 ogled가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses ogle most appropriately? (A) The ogle ran. (B) He ogled at the woman. (C) She ogle smiled. (D) Ogle is good.",
+            "a": "B",
+            "meaning_ko": "ogle은 타동사로 '흘겨보다'를 의미하며, ogle at ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "legend",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "전설, 설화; 전설이나 설화.",
+        "note": "전설이나 설화를 가리킵니다."
+      },
+      {
+        "definition_ko": "범례, 설명; 범례나 설명.",
+        "note": "범례나 설명을 가리킵니다."
+      }
+    ],
+    "concept": "전설이나 설화인 전설, 또는 범례나 설명.",
+    "etymology": "라틴어 legenda(읽어야 할 것)에서 유래했으며, legere(읽다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '읽어야 할 것' 의미였고, 현대에는 '전설이나 설화'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사와 불가산명사로 모두 사용되며, legend 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 전설",
+        "example": "legend of"
+      }
+    ],
+    "requiredComplements": [
+      "legend : 전설/설화",
+      "legend of + 명사 : ~의 전설"
+    ],
+    "morphology": "라틴어 legenda에서 유래한 단어로, legere(읽다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "legends",
+        "meaning_ko": "전설들(복수형)"
+      },
+      {
+        "word": "legendary",
+        "meaning_ko": "전설적인"
+      },
+      {
+        "word": "legendarily",
+        "meaning_ko": "전설적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "myth",
+        "meaning_ko": "신화"
+      },
+      {
+        "word": "tale",
+        "meaning_ko": "이야기"
+      },
+      {
+        "word": "folklore",
+        "meaning_ko": "민속"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "myth",
+        "meaning_ko": "신화"
+      },
+      {
+        "word": "tale",
+        "meaning_ko": "이야기"
+      },
+      {
+        "word": "folklore",
+        "meaning_ko": "민속"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "story",
+        "meaning_ko": "이야기(범위가 더 넓음)"
+      },
+      {
+        "word": "saga",
+        "meaning_ko": "전설"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fact",
+        "meaning_ko": "사실"
+      },
+      {
+        "word": "reality",
+        "meaning_ko": "현실"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "legend of",
+            "meaning_ko": "~의 전설"
+          },
+          {
+            "phrase": "ancient legend",
+            "meaning_ko": "고대 전설"
+          },
+          {
+            "phrase": "local legend",
+            "meaning_ko": "지역 전설"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "legend of the hero",
+            "meaning_ko": "그 영웅의 전설"
+          },
+          {
+            "phrase": "legend of King Arthur",
+            "meaning_ko": "아서 왕의 전설"
+          },
+          {
+            "phrase": "become a legend",
+            "meaning_ko": "전설이 되다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "legend of the city",
+            "meaning_ko": "그 도시의 전설"
+          },
+          {
+            "phrase": "legend of the mountain",
+            "meaning_ko": "그 산의 전설"
+          },
+          {
+            "phrase": "legend status",
+            "meaning_ko": "전설적 지위"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He told the legend of the hero.",
+            "meaning_ko": "그는 그 영웅의 전설을 들려주었습니다."
+          },
+          {
+            "sentence": "She became a legend.",
+            "meaning_ko": "그녀는 전설이 되었습니다."
+          },
+          {
+            "sentence": "They studied the ancient legend.",
+            "meaning_ko": "그들은 그 고대 전설을 연구했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He told the legend of the hero, with the myth and tale creating stories and folklore, though the legend would require interpretation and understanding.",
+            "meaning_ko": "그는 그 영웅의 전설을 들려주었고, 그 신화와 이야기가 이야기와 민속을 만들었지만, 그 전설은 해석과 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "She became a legend, with her achievement and fame creating recognition and status, though the legend would require maintaining excellence and impact.",
+            "meaning_ko": "그녀는 전설이 되었고, 그녀의 성취와 명성이 인정과 지위를 만들었지만, 그 전설은 우수함과 영향력을 유지하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "They studied the ancient legend, with their research and analysis creating understanding of culture and history, though the legend would need to be examined and interpreted.",
+            "meaning_ko": "그들은 그 고대 전설을 연구했고, 그들의 연구와 분석이 문화와 역사에 대한 이해를 만들었지만, 그 전설은 검토되고 해석될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The legend of the city that was passed down through generations created cultural identity and heritage, with the myth and tale providing connection to the past and values, though the legend would require preserving and sharing to maintain cultural continuity.",
+            "meaning_ko": "세대를 통해 전해져 내려온 그 도시의 전설은 문화적 정체성과 유산을 만들었고, 그 신화와 이야기가 과거와 가치에 대한 연결을 제공했지만, 그 전설은 문화적 연속성을 유지하기 위해 보존하고 공유하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The legend of the mountain that was told in the region created mystery and fascination, with the tale and folklore enabling connection with nature and spirituality, though the legend would require understanding the symbolic and cultural significance embedded in the story.",
+            "meaning_ko": "그 지역에서 들려졌던 그 산의 전설은 신비와 매력을 만들었고, 그 이야기와 민속이 자연과 영성과의 연결을 가능하게 했지만, 그 전설은 그 이야기에 내재된 상징적이고 문화적 중요성을 이해하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The legend status that was achieved in the career created recognition and admiration, with the fame and reputation enabling influence and inspiration, though the legend status would require maintaining the qualities and achievements that earned the recognition while continuing to contribute and inspire.",
+            "meaning_ko": "그 경력에서 달성되었던 그 전설적 지위는 인정과 감탄을 만들었고, 그 명성과 평판이 영향력과 영감을 가능하게 했지만, 그 전설적 지위는 계속 기여하고 영감을 주면서 그 인정을 얻었던 자질과 성취를 유지하는 것을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "legend는 '전설, 설화' 또는 '범례, 설명' 의미로, 전설이나 설화를 가리킵니다. myth, tale와 비슷하지만 더 일반적 뉘앙스가 있습니다. legend of ~, ancient legend 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문학",
+      "역사",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: legend = (A) fact (B) myth or tale (C) reality (D) truth",
+            "a": "B",
+            "meaning_ko": "legend는 '신화 또는 이야기' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He told the _____ of the hero.",
+            "a": "legend",
+            "meaning_ko": "legend는 '전설'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of legend? (A) myth (B) tale (C) fact (D) folklore",
+            "a": "C",
+            "meaning_ko": "fact(사실)가 legend의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: legend _____ the hero. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "legend of ~는 '~의 전설' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: legend = (A) fact (B) myth (C) reality (D) truth",
+            "a": "B",
+            "meaning_ko": "myth(신화)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She became a legend at the hero.' → Fix the preposition.",
+            "a": "She became a legend.",
+            "meaning_ko": "become a legend는 직접 쓰이므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He told the legend of the hero.'",
+            "a": "He narrated the myth and tale about the figure, with the legend creating stories and folklore, though the story would require interpretation and understanding.",
+            "meaning_ko": "legend는 '전설'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They studied the ancient _____. (A) legend (B) legends (C) legend's (D) legendary",
+            "a": "A",
+            "meaning_ko": "명사 legend가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses legend most appropriately? (A) The legend ran. (B) He told the legend of the hero. (C) She legend smiled. (D) Legend is good.",
+            "a": "B",
+            "meaning_ko": "legend는 명사로 '전설'을 의미하며, legend of ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "inculcate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "주입하다, 가르치다; 주입하거나 가르치다.",
+        "note": "주입하거나 가르치는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "각인시키다, 심어주다; 각인시키거나 심어주다.",
+        "note": "각인시키거나 심어주는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "주입하거나 가르치는 것, 또는 각인시키거나 심어주는 것.",
+    "etymology": "라틴어 inculcare(밟아 넣다)에서 유래했으며, in(안으로) + calcare(밟다)의 조합입니다.",
+    "semanticExtension": "원래는 '밟아 넣다' 의미였고, 현대에는 '주입하거나 가르치다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 자주 사용되며, inculcate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 주입하다",
+        "example": "inculcate in"
+      }
+    ],
+    "requiredComplements": [
+      "inculcate + 명사 : ~을 주입하다/가르치다",
+      "inculcate + 명사 + in + 명사 : ~을 ~에 주입하다"
+    ],
+    "morphology": "라틴어 inculcare에서 유래한 단어로, in(안으로) + calcare(밟다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "inculcated",
+        "meaning_ko": "주입한(과거분사/형용사)"
+      },
+      {
+        "word": "inculcating",
+        "meaning_ko": "주입하는(현재분사/형용사)"
+      },
+      {
+        "word": "inculcation",
+        "meaning_ko": "주입"
+      }
+    ],
+    "related": [
+      {
+        "word": "instill",
+        "meaning_ko": "주입하다"
+      },
+      {
+        "word": "implant",
+        "meaning_ko": "심어주다"
+      },
+      {
+        "word": "teach",
+        "meaning_ko": "가르치다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "instill",
+        "meaning_ko": "주입하다"
+      },
+      {
+        "word": "implant",
+        "meaning_ko": "심어주다"
+      },
+      {
+        "word": "teach",
+        "meaning_ko": "가르치다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "imbue",
+        "meaning_ko": "스며들게 하다(범위가 더 넓음)"
+      },
+      {
+        "word": "indoctrinate",
+        "meaning_ko": "주입하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "erase",
+        "meaning_ko": "지우다"
+      },
+      {
+        "word": "remove",
+        "meaning_ko": "제거하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "inculcate in",
+            "meaning_ko": "~에 주입하다"
+          },
+          {
+            "phrase": "inculcate values",
+            "meaning_ko": "가치를 주입하다"
+          },
+          {
+            "phrase": "inculcate principles",
+            "meaning_ko": "원칙을 주입하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "inculcate in children",
+            "meaning_ko": "아이들에게 주입하다"
+          },
+          {
+            "phrase": "inculcate discipline",
+            "meaning_ko": "규율을 주입하다"
+          },
+          {
+            "phrase": "inculcate respect",
+            "meaning_ko": "존경을 주입하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "inculcate in students",
+            "meaning_ko": "학생들에게 주입하다"
+          },
+          {
+            "phrase": "inculcate morality",
+            "meaning_ko": "도덕을 주입하다"
+          },
+          {
+            "phrase": "inculcate habits",
+            "meaning_ko": "습관을 주입하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He inculcated values in children.",
+            "meaning_ko": "그는 아이들에게 가치를 주입했습니다."
+          },
+          {
+            "sentence": "She inculcated discipline.",
+            "meaning_ko": "그녀는 규율을 주입했습니다."
+          },
+          {
+            "sentence": "They inculcated respect in students.",
+            "meaning_ko": "그들은 학생들에게 존경을 주입했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He inculcated values in children, with his teaching and instilling creating understanding and behavior, though the inculcation would require consistency and reinforcement.",
+            "meaning_ko": "그는 아이들에게 가치를 주입했고, 그의 가르침과 주입이 이해와 행동을 만들었지만, 그 주입은 일관성과 강화를 요구할 것입니다."
+          },
+          {
+            "sentence": "She inculcated discipline, with her implant and teaching creating structure and order, though the inculcation would require practice and application.",
+            "meaning_ko": "그녀는 규율을 주입했고, 그녀의 심어주기와 가르침이 구조와 질서를 만들었지만, 그 주입은 연습과 적용을 요구할 것입니다."
+          },
+          {
+            "sentence": "They inculcated respect in students, with their instill and teach creating appreciation and behavior, though the inculcation would need to be maintained and reinforced.",
+            "meaning_ko": "그들은 학생들에게 존경을 주입했고, 그들의 주입과 가르침이 감사와 행동을 만들었지만, 그 주입은 유지되고 강화될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The effort to inculcate in students that was undertaken in the education created foundation for learning and development, with the teaching enabling understanding and application of knowledge, though the inculcation would require ongoing reinforcement and practice to ensure lasting impact and integration.",
+            "meaning_ko": "그 교육에서 착수되었던 그 학생들에게 주입하기 위한 그 노력은 학습과 발전을 위한 기초를 만들었고, 그 가르침이 지식의 이해와 적용을 가능하게 했지만, 그 주입은 지속적인 영향과 통합을 보장하기 위해 지속적인 강화와 연습을 요구할 것입니다."
+          },
+          {
+            "sentence": "The work to inculcate morality that was completed in the program created ethical foundation and values, with the teaching enabling development of character and judgment, though the inculcation would require modeling and reinforcement to ensure that moral principles are internalized and practiced.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 도덕을 주입하기 위한 그 작업은 윤리적 기초와 가치를 만들었고, 그 가르침이 성격과 판단의 발전을 가능하게 했지만, 그 주입은 도덕적 원칙이 내면화되고 실천되는 것을 보장하기 위해 모델링과 강화를 요구할 것입니다."
+          },
+          {
+            "sentence": "The decision to inculcate habits that was made in the training created routines and behaviors, with the instilling enabling consistency and effectiveness, though the inculcation would require repetition and reinforcement to ensure that habits become automatic and sustainable.",
+            "meaning_ko": "그 훈련에서 내려졌던 그 습관을 주입하기로 한 그 결정은 일상과 행동을 만들었고, 그 주입이 일관성과 효과를 가능하게 했지만, 그 주입은 습관이 자동적이고 지속 가능하게 되는 것을 보장하기 위해 반복과 강화를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "inculcate는 '주입하다, 가르치다' 또는 '각인시키다, 심어주다' 의미로, 주입하거나 가르치는 행동을 가리킵니다. instill, implant와 비슷하지만 더 문어적 뉘앙스가 있습니다. inculcate in ~, inculcate values 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "교육",
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: inculcate = (A) erase (B) instill or teach (C) remove (D) delete",
+            "a": "B",
+            "meaning_ko": "inculcate는 '주입하다 또는 가르치다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ values in children.",
+            "a": "inculcated",
+            "meaning_ko": "inculcate는 '주입하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of inculcate? (A) instill (B) implant (C) erase (D) teach",
+            "a": "C",
+            "meaning_ko": "erase(지우다)가 inculcate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: inculcate _____ children. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "inculcate in ~는 '~에 주입하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: inculcate = (A) erase (B) instill (C) remove (D) delete",
+            "a": "B",
+            "meaning_ko": "instill(주입하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She inculcated discipline at children.' → Fix the preposition.",
+            "a": "She inculcated discipline in children.",
+            "meaning_ko": "inculcate in ~는 '~에 주입하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He inculcated values in children.'",
+            "a": "He instilled and taught principles to the young, with the inculcation creating understanding and behavior, though the teaching would require consistency and reinforcement.",
+            "meaning_ko": "inculcate는 '주입하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ respect in students. (A) inculcate (B) inculcates (C) inculcated (D) inculcating",
+            "a": "C",
+            "meaning_ko": "과거형 inculcated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses inculcate most appropriately? (A) The inculcate ran. (B) He inculcated values in children. (C) She inculcate smiled. (D) Inculcate is good.",
+            "a": "B",
+            "meaning_ko": "inculcate는 타동사로 '주입하다'를 의미하며, inculcate + 명사 + in ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

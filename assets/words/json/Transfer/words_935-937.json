@@ -1,0 +1,813 @@
+[
+  {
+    "word": "determination",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "결심, 결의; 결심이나 결의.",
+        "note": "결심이나 결의를 가리킵니다."
+      },
+      {
+        "definition_ko": "결정, 판단; 결정이나 판단.",
+        "note": "결정이나 판단을 가리킵니다."
+      }
+    ],
+    "concept": "결심이나 결의인 결심, 또는 결정이나 판단.",
+    "etymology": "라틴어 determinare(결정하다)에서 유래했으며, de(완전히) + terminare(끝내다)의 조합입니다.",
+    "semanticExtension": "원래는 '결정하다' 의미였고, 현대에는 '결심' 또는 '결정'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, determination 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 대한 결심",
+        "example": "determination to"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~의 결정",
+        "example": "determination of"
+      }
+    ],
+    "requiredComplements": [
+      "determination : 결심/결의",
+      "determination to + 동사 : ~하기에 대한 결심",
+      "determination of + 명사 : ~의 결정"
+    ],
+    "morphology": "라틴어 determinare에서 유래한 단어로, de(완전히) + terminare(끝내다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "determine",
+        "meaning_ko": "결정하다"
+      },
+      {
+        "word": "determined",
+        "meaning_ko": "결심한"
+      },
+      {
+        "word": "determining",
+        "meaning_ko": "결정하는"
+      }
+    ],
+    "related": [
+      {
+        "word": "resolve",
+        "meaning_ko": "결심"
+      },
+      {
+        "word": "willpower",
+        "meaning_ko": "의지력"
+      },
+      {
+        "word": "perseverance",
+        "meaning_ko": "인내"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "resolve",
+        "meaning_ko": "결심"
+      },
+      {
+        "word": "willpower",
+        "meaning_ko": "의지력"
+      },
+      {
+        "word": "perseverance",
+        "meaning_ko": "인내"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "tenacity",
+        "meaning_ko": "끈기(범위가 더 넓음)"
+      },
+      {
+        "word": "persistence",
+        "meaning_ko": "지속"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "indecision",
+        "meaning_ko": "우유부단"
+      },
+      {
+        "word": "hesitation",
+        "meaning_ko": "망설임"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "determination to",
+            "meaning_ko": "~하기에 대한 결심"
+          },
+          {
+            "phrase": "determination of",
+            "meaning_ko": "~의 결정"
+          },
+          {
+            "phrase": "show determination",
+            "meaning_ko": "결심을 보이다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "determination to succeed",
+            "meaning_ko": "그 성공하기에 대한 결심"
+          },
+          {
+            "phrase": "determination of the cause",
+            "meaning_ko": "그 원인의 결정"
+          },
+          {
+            "phrase": "strong determination",
+            "meaning_ko": "강한 결심"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "determination to achieve",
+            "meaning_ko": "그 달성하기에 대한 결심"
+          },
+          {
+            "phrase": "determination of the outcome",
+            "meaning_ko": "그 결과의 결정"
+          },
+          {
+            "phrase": "unwavering determination",
+            "meaning_ko": "흔들리지 않는 결심"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He showed determination.",
+            "meaning_ko": "그는 결심을 보였습니다."
+          },
+          {
+            "sentence": "She had determination to succeed.",
+            "meaning_ko": "그녀는 그 성공하기에 대한 결심을 가졌습니다."
+          },
+          {
+            "sentence": "They made a determination of the cause.",
+            "meaning_ko": "그들은 그 원인의 결정을 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He showed determination, with his resolve and willpower creating strength and persistence, though the determination would require action and follow-through.",
+            "meaning_ko": "그는 결심을 보였고, 그의 결심 그리고 의지력이 힘과 지속을 만들었지만, 그 결심은 행동과 추진을 요구할 것입니다."
+          },
+          {
+            "sentence": "She had determination to succeed, with the perseverance and tenacity creating drive and commitment, though the determination would need to be maintained and reinforced.",
+            "meaning_ko": "그녀는 그 성공하기에 대한 결심을 가졌고, 그 인내 그리고 끈기가 추진력과 헌신을 만들었지만, 그 결심은 유지되고 강화될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They made a determination of the cause, with the persistence and resolve creating decision and conclusion, though the determination would require verification and confirmation.",
+            "meaning_ko": "그들은 그 원인의 결정을 했고, 그 지속 그리고 결심이 결정과 결론을 만들었지만, 그 결정은 검증과 확인을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to maintain determination to achieve that was made in the process created opportunities for success and accomplishment, with the maintenance enabling preservation of resolve and commitment, though the determination would require comprehensive support and reinforcement to ensure that achievement is pursued and commitment is maintained.",
+            "meaning_ko": "그 과정에서 내려졌던 그 달성하기에 대한 그 결심을 유지하기로 한 그 결정은 성공과 성취를 위한 기회를 만들었고, 그 유지가 결심과 헌신의 보존을 가능하게 했지만, 그 결심은 성취가 추구되고 헌신이 유지되는 것을 보장하기 위해 포괄적인 지원과 강화를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to verify determination of the outcome that was undertaken in the initiative created pathways for accuracy and reliability, with the verification enabling confirmation of results and conclusions, though the determination would need to be systematically validated through analysis and testing to ensure that outcome is accurately determined and results are reliable.",
+            "meaning_ko": "그 계획에서 착수되었던 그 결과의 그 결정을 검증하기 위한 그 노력은 정확성과 신뢰성을 위한 경로를 만들었고, 그 검증이 결과와 결론의 확인을 가능하게 했지만, 그 결정은 결과가 정확히 결정되고 결과가 신뢰할 수 있는 것을 보장하기 위해 분석과 테스트를 통해 체계적으로 검증될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to strengthen unwavering determination that was completed in the system created structure and methods for persistence and commitment, with the strengthening enabling reinforcement of resolve and willpower, though the determination would require ongoing support and encouragement to ensure that determination remains strong and commitment continues to be maintained and reinforced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 흔들리지 않는 결심을 강화하기 위한 그 작업은 지속과 헌신을 위한 구조와 방법을 만들었고, 그 강화가 결심과 의지력의 강화를 가능하게 했지만, 그 결심은 결심이 계속 강하고 헌신이 계속 유지되고 강화되는 것을 보장하기 위해 지속적인 지원과 격려를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "determination는 '결심, 결의' 또는 '결정, 판단' 의미로, 결심이나 결의를 가리킵니다. resolve, willpower와 비슷하지만 더 일반적 뉘앙스가 있습니다. determination to ~, determination of ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: determination = (A) indecision (B) resolve or willpower (C) hesitation (D) doubt",
+            "a": "B",
+            "meaning_ko": "determination는 '결심 또는 의지력' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He showed _____.",
+            "a": "determination",
+            "meaning_ko": "determination는 '결심' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of determination? (A) resolve (B) willpower (C) indecision (D) perseverance",
+            "a": "C",
+            "meaning_ko": "indecision(우유부단)가 determination의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: determination _____ succeed. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "determination to ~는 '~하기에 대한 결심' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: determination = (A) indecision (B) resolve (C) hesitation (D) doubt",
+            "a": "B",
+            "meaning_ko": "resolve(결심)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She had determination at succeed.' → Fix the preposition.",
+            "a": "She had determination to succeed.",
+            "meaning_ko": "determination to ~는 '~하기에 대한 결심' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He showed determination.'",
+            "a": "He displayed resolve and willpower, with the determination creating strength and persistence, though the resolve would require action and follow-through.",
+            "meaning_ko": "determination는 '결심' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They made a _____ of the cause. (A) determination (B) determinations (C) determine (D) determination's",
+            "a": "A",
+            "meaning_ko": "명사 determination가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses determination most appropriately? (A) The determination ran. (B) He showed determination. (C) She determination smiled. (D) Determination is good.",
+            "a": "B",
+            "meaning_ko": "determination는 명사로 '결심'을 의미하며, show determination와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "accumulate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "축적하다, 쌓다; 축적하거나 쌓는 것.",
+        "note": "축적하거나 쌓는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "모으다, 수집하다; 모으거나 수집하는 것.",
+        "note": "모으거나 수집하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "축적하거나 쌓는 행동, 또는 모으거나 수집하는 행동.",
+    "etymology": "라틴어 accumulare(쌓다)에서 유래했으며, ad(향해) + cumulus(더미)의 조합입니다.",
+    "semanticExtension": "원래는 '쌓다' 의미였고, 현대에는 '축적하다' 또는 '모으다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사와 자동사 모두 가능하며, accumulate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "accumulate : 축적하다/모으다",
+      "accumulate + 명사 : ~을 축적하다/모으다"
+    ],
+    "morphology": "라틴어 accumulare에서 유래한 단어로, ad(향해) + cumulus(더미)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "accumulated",
+        "meaning_ko": "축적한(과거분사)"
+      },
+      {
+        "word": "accumulating",
+        "meaning_ko": "축적하는(현재분사)"
+      },
+      {
+        "word": "accumulation",
+        "meaning_ko": "축적"
+      }
+    ],
+    "related": [
+      {
+        "word": "collect",
+        "meaning_ko": "수집하다"
+      },
+      {
+        "word": "gather",
+        "meaning_ko": "모으다"
+      },
+      {
+        "word": "amass",
+        "meaning_ko": "축적하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "collect",
+        "meaning_ko": "수집하다"
+      },
+      {
+        "word": "gather",
+        "meaning_ko": "모으다"
+      },
+      {
+        "word": "amass",
+        "meaning_ko": "축적하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "pile up",
+        "meaning_ko": "쌓다(범위가 더 넓음)"
+      },
+      {
+        "word": "build up",
+        "meaning_ko": "축적하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disperse",
+        "meaning_ko": "분산시키다"
+      },
+      {
+        "word": "scatter",
+        "meaning_ko": "흩뜨리다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "accumulate wealth",
+            "meaning_ko": "부를 축적하다"
+          },
+          {
+            "phrase": "accumulate knowledge",
+            "meaning_ko": "지식을 축적하다"
+          },
+          {
+            "phrase": "accumulate experience",
+            "meaning_ko": "경험을 축적하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "accumulate resources",
+            "meaning_ko": "자원을 축적하다"
+          },
+          {
+            "phrase": "accumulate evidence",
+            "meaning_ko": "증거를 축적하다"
+          },
+          {
+            "phrase": "accumulate debt",
+            "meaning_ko": "빚을 축적하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "accumulate capital",
+            "meaning_ko": "자본을 축적하다"
+          },
+          {
+            "phrase": "accumulate assets",
+            "meaning_ko": "자산을 축적하다"
+          },
+          {
+            "phrase": "accumulate interest",
+            "meaning_ko": "이자를 축적하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He accumulated wealth.",
+            "meaning_ko": "그는 부를 축적했습니다."
+          },
+          {
+            "sentence": "She accumulated knowledge.",
+            "meaning_ko": "그녀는 지식을 축적했습니다."
+          },
+          {
+            "sentence": "They accumulated experience.",
+            "meaning_ko": "그들은 경험을 축적했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He accumulated wealth, with his collect and amass creating assets and resources, though the accumulation would require management and planning.",
+            "meaning_ko": "그는 부를 축적했고, 그의 수집 그리고 축적이 자산과 자원을 만들었지만, 그 축적은 관리와 계획을 요구할 것입니다."
+          },
+          {
+            "sentence": "She accumulated knowledge, with the gather and build up creating understanding and expertise, though the accumulation would need to be organized and applied.",
+            "meaning_ko": "그녀는 지식을 축적했고, 그 모으기 그리고 축적이 이해와 전문성을 만들었지만, 그 축적은 조직되고 적용될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They accumulated experience, with the pile up and collect creating skills and capability, though the accumulation would require utilization and development.",
+            "meaning_ko": "그들은 경험을 축적했고, 그 쌓기 그리고 수집이 기술과 능력을 만들었지만, 그 축적은 활용과 발전을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to accumulate capital that was made in the process created opportunities for growth and investment, with the accumulation enabling creation of resources and assets, though the accumulation would require comprehensive planning and management to ensure that capital is effectively utilized and growth is achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 자본을 축적하기로 한 그 결정은 성장과 투자를 위한 기회를 만들었고, 그 축적이 자원과 자산의 창조를 가능하게 했지만, 그 축적은 자본이 효과적으로 활용되고 성장이 달성되는 것을 보장하기 위해 포괄적인 계획과 관리를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to accumulate assets that was undertaken in the initiative created pathways for wealth and security, with the accumulation enabling creation of value and resources, though the accumulation would need to be systematically managed through planning and investment to ensure that assets are properly managed and wealth is effectively accumulated.",
+            "meaning_ko": "그 계획에서 착수되었던 그 자산을 축적하기 위한 그 노력은 부와 안보를 위한 경로를 만들었고, 그 축적이 가치와 자원의 창조를 가능하게 했지만, 그 축적은 자산이 적절히 관리되고 부가 효과적으로 축적되는 것을 보장하기 위해 계획과 투자를 통해 체계적으로 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to manage accumulate interest that was completed in the system created structure and methods for financial growth and accumulation, with the management enabling optimization of returns and value, though the accumulation would require ongoing monitoring and adjustment to ensure that interest is effectively accumulated and returns are maximized.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 이자를 그 축적을 관리하기 위한 그 작업은 재정적 성장과 축적을 위한 구조와 방법을 만들었고, 그 관리가 수익과 가치의 최적화를 가능하게 했지만, 그 축적은 이자가 효과적으로 축적되고 수익이 최대화되는 것을 보장하기 위해 지속적인 모니터링과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "accumulate는 '축적하다, 쌓다' 또는 '모으다, 수집하다' 의미로, 축적하거나 쌓는 행동을 가리킵니다. collect, gather와 비슷하지만 더 점진적 뉘앙스가 있습니다. accumulate wealth, accumulate knowledge 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: accumulate = (A) disperse (B) collect or gather (C) scatter (D) spread",
+            "a": "B",
+            "meaning_ko": "accumulate는 '수집하다 또는 모으다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ wealth.",
+            "a": "accumulated",
+            "meaning_ko": "accumulate는 '축적하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of accumulate? (A) collect (B) gather (C) disperse (D) amass",
+            "a": "C",
+            "meaning_ko": "disperse(분산시키다)가 accumulate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: accumulate _____ wealth. (A) (no preposition) (B) of (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "accumulate는 직접 목적어를 취하며 전치사가 필요 없습니다."
+          },
+          {
+            "q": "Pick the best synonym: accumulate = (A) disperse (B) collect (C) scatter (D) spread",
+            "a": "B",
+            "meaning_ko": "collect(수집하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She accumulated knowledge of the subject.' → Fix if needed.",
+            "a": "She accumulated knowledge about the subject.",
+            "meaning_ko": "about the subject는 '그 주제에 대해'를 의미합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He accumulated wealth.'",
+            "a": "He collected and amassed assets, with the accumulation creating resources and value, though the wealth would require management and planning.",
+            "meaning_ko": "accumulate는 '축적하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ experience. (A) accumulate (B) accumulates (C) accumulated (D) accumulating",
+            "a": "C",
+            "meaning_ko": "과거형 accumulated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses accumulate most appropriately? (A) The accumulate ran. (B) He accumulated wealth. (C) She accumulate smiled. (D) Accumulate is good.",
+            "a": "B",
+            "meaning_ko": "accumulate는 동사로 '축적하다'를 의미하며, accumulate + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mien",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "풍채, 태도; 풍채나 태도.",
+        "note": "풍채나 태도를 가리킵니다."
+      },
+      {
+        "definition_ko": "외모, 모습; 외모나 모습.",
+        "note": "외모나 모습을 가리킵니다."
+      }
+    ],
+    "concept": "풍채나 태도인 풍채, 또는 외모나 모습.",
+    "etymology": "프랑스어 mine(표정)에서 유래했으며, '표정' 의미에서 '풍채' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '표정' 의미였고, 현대에는 '풍채' 또는 '태도'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰이며, 고급 어휘입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, mien 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 풍채",
+        "example": "mien of"
+      }
+    ],
+    "requiredComplements": [
+      "mien : 풍채/태도",
+      "mien of + 명사 : ~의 풍채"
+    ],
+    "morphology": "프랑스어 mine에서 유래한 단어로, '표정' 의미에서 '풍채' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "miens",
+        "meaning_ko": "풍채들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "appearance",
+        "meaning_ko": "외모"
+      },
+      {
+        "word": "demeanor",
+        "meaning_ko": "태도"
+      },
+      {
+        "word": "bearing",
+        "meaning_ko": "태도"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "appearance",
+        "meaning_ko": "외모"
+      },
+      {
+        "word": "demeanor",
+        "meaning_ko": "태도"
+      },
+      {
+        "word": "bearing",
+        "meaning_ko": "태도"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "countenance",
+        "meaning_ko": "표정(범위가 더 넓음)"
+      },
+      {
+        "word": "aspect",
+        "meaning_ko": "모습"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "absence",
+        "meaning_ko": "부재"
+      },
+      {
+        "word": "invisibility",
+        "meaning_ko": "보이지 않음"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mien of",
+            "meaning_ko": "~의 풍채"
+          },
+          {
+            "phrase": "dignified mien",
+            "meaning_ko": "위엄 있는 풍채"
+          },
+          {
+            "phrase": "noble mien",
+            "meaning_ko": "고귀한 풍채"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "mien of authority",
+            "meaning_ko": "그 권위의 풍채"
+          },
+          {
+            "phrase": "serious mien",
+            "meaning_ko": "진지한 풍채"
+          },
+          {
+            "phrase": "confident mien",
+            "meaning_ko": "자신감 있는 풍채"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mien of confidence",
+            "meaning_ko": "그 자신감의 풍채"
+          },
+          {
+            "phrase": "commanding mien",
+            "meaning_ko": "지배적인 풍채"
+          },
+          {
+            "phrase": "distinguished mien",
+            "meaning_ko": "저명한 풍채"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He had a dignified mien.",
+            "meaning_ko": "그는 위엄 있는 풍채를 가졌습니다."
+          },
+          {
+            "sentence": "She showed a noble mien.",
+            "meaning_ko": "그녀는 고귀한 풍채를 보였습니다."
+          },
+          {
+            "sentence": "They displayed a serious mien.",
+            "meaning_ko": "그들은 진지한 풍채를 보였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He had a dignified mien, with his appearance and demeanor creating respect and authority, though the mien would require maintenance and consistency.",
+            "meaning_ko": "그는 위엄 있는 풍채를 가졌고, 그의 외모 그리고 태도가 존중과 권위를 만들었지만, 그 풍채는 유지와 일관성을 요구할 것입니다."
+          },
+          {
+            "sentence": "She showed a noble mien, with the bearing and countenance creating elegance and grace, though the mien would need to be preserved and maintained.",
+            "meaning_ko": "그녀는 고귀한 풍채를 보였고, 그 태도 그리고 표정이 우아함과 우아함을 만들었지만, 그 풍채는 보존되고 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They displayed a serious mien, with the aspect and appearance creating gravity and importance, though the mien would require consistency and authenticity.",
+            "meaning_ko": "그들은 진지한 풍채를 보였고, 그 모습 그리고 외모가 중대함과 중요성을 만들었지만, 그 풍채는 일관성과 진정성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to maintain mien of confidence that was made in the process created opportunities for authority and respect, with the maintenance enabling preservation of appearance and demeanor, though the mien would require comprehensive consistency and authenticity to ensure that confidence is maintained and authority is preserved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 자신감의 그 풍채를 유지하기로 한 그 결정은 권위와 존중을 위한 기회를 만들었고, 그 유지가 외모와 태도의 보존을 가능하게 했지만, 그 풍채는 자신감이 유지되고 권위가 보존되는 것을 보장하기 위해 포괄적인 일관성과 진정성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to develop commanding mien that was undertaken in the initiative created pathways for authority and leadership, with the development enabling creation of presence and influence, though the mien would need to be systematically cultivated through practice and self-awareness to ensure that presence is developed and influence is effectively established.",
+            "meaning_ko": "그 계획에서 착수되었던 그 지배적인 풍채를 발전시키기 위한 그 노력은 권위와 리더십을 위한 경로를 만들었고, 그 발전이 존재감과 영향력의 창조를 가능하게 했지만, 그 풍채는 존재감이 발전되고 영향력이 효과적으로 확립되는 것을 보장하기 위해 연습과 자기 인식을 통해 체계적으로 양육될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to preserve distinguished mien that was completed in the system created structure and methods for maintaining appearance and presence, with the preservation enabling continuation of elegance and authority, though the mien would require ongoing attention and cultivation to ensure that appearance remains distinguished and presence continues to be maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 저명한 풍채를 보존하기 위한 그 작업은 외모와 존재감을 유지하기 위한 구조와 방법을 만들었고, 그 보존이 우아함과 권위의 연속을 가능하게 했지만, 그 풍채는 외모가 계속 저명하고 존재감이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 주의와 양육을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "mien는 '풍채, 태도' 또는 '외모, 모습' 의미로, 풍채나 태도를 가리킵니다. appearance, demeanor와 비슷하지만 더 문어적 뉘앙스가 있습니다. mien of ~, dignified mien 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: mien = (A) absence (B) appearance or demeanor (C) invisibility (D) nothing",
+            "a": "B",
+            "meaning_ko": "mien는 '외모 또는 태도' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He had a dignified _____.",
+            "a": "mien",
+            "meaning_ko": "mien는 '풍채' 의미입니다."
+          },
+          {
+            "q": "Which is NOT related to mien? (A) appearance (B) demeanor (C) absence (D) bearing",
+            "a": "C",
+            "meaning_ko": "absence(부재)는 풍채와 관련이 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: mien _____ authority. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "mien of ~는 '~의 풍채' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: mien = (A) absence (B) appearance (C) invisibility (D) nothing",
+            "a": "B",
+            "meaning_ko": "appearance(외모)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She showed a noble mien at authority.' → Fix the sentence.",
+            "a": "She showed a noble mien of authority.",
+            "meaning_ko": "mien of ~는 '~의 풍채' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He had a dignified mien.'",
+            "a": "He possessed an appearance and demeanor of dignity, with the mien creating respect and authority, though the appearance would require maintenance and consistency.",
+            "meaning_ko": "mien는 '풍채' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They displayed a serious _____. (A) mien (B) miens (C) mien's (D) miened",
+            "a": "A",
+            "meaning_ko": "명사 mien가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses mien most appropriately? (A) The mien ran. (B) He had a dignified mien. (C) She mien smiled. (D) Mien is good.",
+            "a": "B",
+            "meaning_ko": "mien는 명사로 '풍채'를 의미하며, have a mien와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

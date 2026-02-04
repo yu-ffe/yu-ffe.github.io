@@ -1,0 +1,824 @@
+[
+  {
+    "word": "sophist",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "궤변가, 궤변론자; 궤변가나 궤변론자.",
+        "note": "궤변가나 궤변론자를 가리킵니다."
+      },
+      {
+        "definition_ko": "궤변을 쓰는 사람, 교묘한 논변가; 궤변을 쓰거나 교묘한 논변가.",
+        "note": "궤변을 쓰거나 교묘한 논변가를 가리킵니다."
+      }
+    ],
+    "concept": "궤변가나 궤변론자인 궤변가, 또는 궤변을 쓰거나 교묘한 논변가.",
+    "etymology": "그리스어 sophistes(현명한 사람)에서 유래했으며, sophos(현명한)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '현명한 사람' 의미였고, 현대에는 '궤변가나 궤변론자'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 철학과 문학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사로 자주 사용되며, sophist 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 궤변가",
+        "example": "sophist of"
+      }
+    ],
+    "requiredComplements": [
+      "sophist : 궤변가/궤변론자",
+      "sophist of + 명사 : ~의 궤변가"
+    ],
+    "morphology": "그리스어 sophistes에서 유래한 단어로, sophos(현명한)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "sophists",
+        "meaning_ko": "궤변가들(복수형)"
+      },
+      {
+        "word": "sophistic",
+        "meaning_ko": "궤변의"
+      },
+      {
+        "word": "sophistry",
+        "meaning_ko": "궤변"
+      }
+    ],
+    "related": [
+      {
+        "word": "casuist",
+        "meaning_ko": "궤변론자"
+      },
+      {
+        "word": "rhetorician",
+        "meaning_ko": "수사학자"
+      },
+      {
+        "word": "deceiver",
+        "meaning_ko": "속이는 사람"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "casuist",
+        "meaning_ko": "궤변론자"
+      },
+      {
+        "word": "rhetorician",
+        "meaning_ko": "수사학자"
+      },
+      {
+        "word": "deceiver",
+        "meaning_ko": "속이는 사람"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "manipulator",
+        "meaning_ko": "조작자(범위가 더 넓음)"
+      },
+      {
+        "word": "trickster",
+        "meaning_ko": "사기꾼"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "philosopher",
+        "meaning_ko": "철학자"
+      },
+      {
+        "word": "truth-seeker",
+        "meaning_ko": "진리 추구자"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sophist of",
+            "meaning_ko": "~의 궤변가"
+          },
+          {
+            "phrase": "ancient sophist",
+            "meaning_ko": "고대 궤변가"
+          },
+          {
+            "phrase": "clever sophist",
+            "meaning_ko": "영리한 궤변가"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sophist of rhetoric",
+            "meaning_ko": "수사학의 궤변가"
+          },
+          {
+            "phrase": "sophist argument",
+            "meaning_ko": "궤변가의 논증"
+          },
+          {
+            "phrase": "sophist teaching",
+            "meaning_ko": "궤변가의 가르침"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sophist of philosophy",
+            "meaning_ko": "철학의 궤변가"
+          },
+          {
+            "phrase": "sophist technique",
+            "meaning_ko": "궤변가의 기법"
+          },
+          {
+            "phrase": "sophist reasoning",
+            "meaning_ko": "궤변가의 추론"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was known as a sophist.",
+            "meaning_ko": "그는 궤변가로 알려져 있었습니다."
+          },
+          {
+            "sentence": "She studied the ancient sophist.",
+            "meaning_ko": "그녀는 그 고대 궤변가를 연구했습니다."
+          },
+          {
+            "sentence": "They criticized the sophist argument.",
+            "meaning_ko": "그들은 그 궤변가의 논증을 비판했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was known as a sophist, with his casuist and rhetorician approach creating clever but deceptive arguments, though the sophistry would require critical examination and analysis.",
+            "meaning_ko": "그는 궤변가로 알려져 있었고, 그의 궤변론자와 수사학자 접근이 영리하지만 속이는 논증을 만들었지만, 그 궤변은 비판적 검토와 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She studied the ancient sophist, with her research and analysis creating understanding of rhetoric and persuasion, though the sophistry would require distinguishing truth from manipulation.",
+            "meaning_ko": "그녀는 그 고대 궤변가를 연구했고, 그녀의 연구와 분석이 수사학과 설득에 대한 이해를 만들었지만, 그 궤변은 조작에서 진리를 구별하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "They criticized the sophist argument, with their analysis and evaluation creating exposure of deception and manipulation, though the sophistry would need to be countered with logic and evidence.",
+            "meaning_ko": "그들은 그 궤변가의 논증을 비판했고, 그들의 분석과 평가가 속임과 조작의 폭로를 만들었지만, 그 궤변은 논리와 증거로 반박될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sophist of philosophy that was identified in the debate created arguments that appeared logical but were fundamentally flawed, with the rhetoric enabling persuasion through manipulation rather than truth, though the sophistry would require careful analysis to expose the fallacies and maintain intellectual integrity.",
+            "meaning_ko": "그 토론에서 확인되었던 그 철학의 궤변가는 논리적으로 보이지만 근본적으로 결함이 있는 논증을 만들었고, 그 수사학이 진리보다 조작을 통해 설득을 가능하게 했지만, 그 궤변은 지적 무결성을 유지하면서 오류를 폭로하기 위해 신중한 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "The sophist technique that was employed in the argument created persuasive but deceptive reasoning, with the method enabling manipulation of facts and logic, though the sophistry would need to be recognized and countered with critical thinking and evidence-based analysis.",
+            "meaning_ko": "그 논증에서 사용되었던 그 궤변가의 기법은 설득력 있지만 속이는 추론을 만들었고, 그 방법이 사실과 논리의 조작을 가능하게 했지만, 그 궤변은 비판적 사고와 증거 기반 분석으로 인식되고 반박될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The sophist reasoning that was presented in the discussion created confusion and misdirection, with the clever arguments leading listeners away from truth, though the sophistry would require education and critical thinking skills to identify and resist manipulation.",
+            "meaning_ko": "그 토론에서 제시되었던 그 궤변가의 추론은 혼란과 잘못된 방향을 만들었고, 그 영리한 논증이 청중을 진리에서 멀어지게 했지만, 그 궤변은 조작을 식별하고 저항하기 위해 교육과 비판적 사고 기술을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sophist는 '궤변가, 궤변론자' 또는 '궤변을 쓰는 사람, 교묘한 논변가' 의미로, 궤변가나 궤변론자를 가리킵니다. casuist, rhetorician와 비슷하지만 더 부정적 뉘앙스가 있습니다. sophist of ~, ancient sophist 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "철학",
+      "문학",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sophist = (A) philosopher (B) casuist or rhetorician (C) truth-seeker (D) wise person",
+            "a": "B",
+            "meaning_ko": "sophist는 '궤변론자 또는 수사학자' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was known as a _____.",
+            "a": "sophist",
+            "meaning_ko": "sophist는 '궤변가'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of sophist? (A) casuist (B) rhetorician (C) philosopher (D) deceiver",
+            "a": "C",
+            "meaning_ko": "philosopher(철학자)가 sophist의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: sophist _____ rhetoric. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "sophist of ~는 '~의 궤변가' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: sophist = (A) philosopher (B) casuist (C) truth-seeker (D) wise person",
+            "a": "B",
+            "meaning_ko": "casuist(궤변론자)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She studied the ancient sophist at rhetoric.' → Fix the preposition.",
+            "a": "She studied the ancient sophist of rhetoric.",
+            "meaning_ko": "sophist of ~는 '~의 궤변가' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was known as a sophist.'",
+            "a": "He was recognized as a casuist and rhetorician who used clever but deceptive arguments, with the sophistry creating persuasion through manipulation, though the reasoning would require critical examination.",
+            "meaning_ko": "sophist는 '궤변가'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They criticized the _____. (A) sophist (B) sophists (C) sophist's (D) sophistic",
+            "a": "A",
+            "meaning_ko": "명사 sophist가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sophist most appropriately? (A) The sophist ran. (B) He was known as a sophist. (C) She sophist smiled. (D) Sophist is good.",
+            "a": "B",
+            "meaning_ko": "sophist는 명사로 '궤변가'를 의미하며, known as와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "rally",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "회복하다, 다시 일어서다; 회복하거나 다시 일어서다.",
+        "note": "회복하거나 다시 일어서는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "집회, 대회; 집회나 대회.",
+        "note": "집회나 대회를 가리킵니다."
+      }
+    ],
+    "concept": "회복하거나 다시 일어서는 것, 또는 집회나 대회.",
+    "etymology": "프랑스어 rallier(다시 모으다)에서 유래했으며, re(다시) + allier(결합하다)의 조합입니다.",
+    "semanticExtension": "원래는 '다시 모으다' 의미였고, 현대에는 '회복하거나 다시 일어서다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사와 명사로 모두 사용되며, rally 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "around",
+        "meaning_ko": "~을 중심으로 모이다",
+        "example": "rally around"
+      },
+      {
+        "prep": "behind",
+        "meaning_ko": "~을 지지하다",
+        "example": "rally behind"
+      }
+    ],
+    "requiredComplements": [
+      "rally : 회복하다/다시 일어서다",
+      "rally around + 명사 : ~을 중심으로 모이다",
+      "rally behind + 명사 : ~을 지지하다",
+      "rally : 집회/대회"
+    ],
+    "morphology": "프랑스어 rallier에서 유래한 단어로, re(다시) + allier(결합하다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "rallies",
+        "meaning_ko": "집회들(복수형)"
+      },
+      {
+        "word": "rallied",
+        "meaning_ko": "회복한(과거분사/형용사)"
+      },
+      {
+        "word": "rallying",
+        "meaning_ko": "회복하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "recover",
+        "meaning_ko": "회복하다"
+      },
+      {
+        "word": "gather",
+        "meaning_ko": "모이다"
+      },
+      {
+        "word": "assembly",
+        "meaning_ko": "집회"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "recover",
+        "meaning_ko": "회복하다"
+      },
+      {
+        "word": "gather",
+        "meaning_ko": "모이다"
+      },
+      {
+        "word": "assembly",
+        "meaning_ko": "집회"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "mobilize",
+        "meaning_ko": "동원하다(범위가 더 넓음)"
+      },
+      {
+        "word": "unite",
+        "meaning_ko": "결합하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "decline",
+        "meaning_ko": "쇠퇴하다"
+      },
+      {
+        "word": "disperse",
+        "meaning_ko": "분산하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "rally around",
+            "meaning_ko": "~을 중심으로 모이다"
+          },
+          {
+            "phrase": "rally behind",
+            "meaning_ko": "~을 지지하다"
+          },
+          {
+            "phrase": "political rally",
+            "meaning_ko": "정치 집회"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "rally around the cause",
+            "meaning_ko": "그 대의를 중심으로 모이다"
+          },
+          {
+            "phrase": "rally behind the leader",
+            "meaning_ko": "그 지도자를 지지하다"
+          },
+          {
+            "phrase": "rally support",
+            "meaning_ko": "지원을 모으다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "rally around the flag",
+            "meaning_ko": "그 깃발을 중심으로 모이다"
+          },
+          {
+            "phrase": "rally behind the movement",
+            "meaning_ko": "그 운동을 지지하다"
+          },
+          {
+            "phrase": "rally the troops",
+            "meaning_ko": "군대를 모으다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He rallied from the setback.",
+            "meaning_ko": "그는 그 좌절에서 회복했습니다."
+          },
+          {
+            "sentence": "She attended a political rally.",
+            "meaning_ko": "그녀는 정치 집회에 참석했습니다."
+          },
+          {
+            "sentence": "They rallied around the cause.",
+            "meaning_ko": "그들은 그 대의를 중심으로 모였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He rallied from the setback, with his recovery and comeback creating strength and determination, though the rally would require effort and resilience.",
+            "meaning_ko": "그는 그 좌절에서 회복했고, 그의 회복과 복귀가 힘과 결심을 만들었지만, 그 회복은 노력과 회복력을 요구할 것입니다."
+          },
+          {
+            "sentence": "She attended a political rally, with the gathering and assembly creating support and enthusiasm, though the rally would require organization and participation.",
+            "meaning_ko": "그녀는 정치 집회에 참석했고, 그 모임과 집회가 지원과 열정을 만들었지만, 그 집회는 조직과 참여를 요구할 것입니다."
+          },
+          {
+            "sentence": "They rallied around the cause, with their gathering and unity creating support and commitment, though the rally would need to be sustained and maintained.",
+            "meaning_ko": "그들은 그 대의를 중심으로 모였고, 그들의 모임과 단결이 지원과 헌신을 만들었지만, 그 집회는 지속되고 유지될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to rally around the flag that was made in the crisis created unity and patriotism, with the gathering enabling collective action and support, though the rally would require maintaining focus and commitment beyond the initial enthusiasm.",
+            "meaning_ko": "그 위기에서 내려졌던 그 깃발을 중심으로 모이기로 한 그 결정은 단결과 애국심을 만들었고, 그 모임이 집단 행동과 지원을 가능하게 했지만, 그 집회는 초기 열정을 넘어서 집중과 헌신을 유지하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to rally behind the movement that was undertaken in the campaign created momentum and support, with the gathering enabling mobilization and action, though the rally would require ongoing engagement and participation to achieve lasting change.",
+            "meaning_ko": "그 캠페인에서 착수되었던 그 운동을 지지하기 위한 그 노력은 추진력과 지원을 만들었고, 그 모임이 동원과 행동을 가능하게 했지만, 그 집회는 지속적인 변화를 달성하기 위해 지속적인 참여와 참여를 요구할 것입니다."
+          },
+          {
+            "sentence": "The work to rally the troops that was completed in the operation created coordination and unity, with the gathering enabling effective action and support, though the rally would require maintaining discipline and focus throughout the mission.",
+            "meaning_ko": "그 작전에서 완료되었던 그 군대를 모으기 위한 그 작업은 조정과 단결을 만들었고, 그 모임이 효과적인 행동과 지원을 가능하게 했지만, 그 집회는 그 임무 전반에 걸쳐 규율과 집중을 유지하는 것을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "rally는 '회복하다, 다시 일어서다' 또는 '집회, 대회' 의미로, 회복하거나 다시 일어서는 행동을 가리킵니다. recover, gather와 비슷하지만 더 일반적 뉘앙스가 있습니다. rally around ~, rally behind ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "정치",
+      "스포츠",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: rally = (A) decline (B) recover or gather (C) disperse (D) scatter",
+            "a": "B",
+            "meaning_ko": "rally는 '회복하다 또는 모이다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ from the setback.",
+            "a": "rallied",
+            "meaning_ko": "rally는 '회복하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of rally? (A) recover (B) gather (C) decline (D) assembly",
+            "a": "C",
+            "meaning_ko": "decline(쇠퇴하다)가 rally의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: rally _____ the cause. (A) around (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "rally around ~는 '~을 중심으로 모이다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: rally = (A) decline (B) recover (C) disperse (D) scatter",
+            "a": "B",
+            "meaning_ko": "recover(회복하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They rallied at the cause.' → Fix the preposition.",
+            "a": "They rallied around the cause.",
+            "meaning_ko": "rally around ~는 '~을 중심으로 모이다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He rallied from the setback.'",
+            "a": "He recovered and came back from the difficulty, with the rally creating strength and determination, though the recovery would require effort and resilience.",
+            "meaning_ko": "rally는 '회복하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She attended a political _____. (A) rally (B) rallies (C) rally's (D) rallied",
+            "a": "A",
+            "meaning_ko": "명사 rally가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses rally most appropriately? (A) The rally ran. (B) He rallied from the setback. (C) She rally smiled. (D) Rally is good.",
+            "a": "B",
+            "meaning_ko": "rally는 자동사로 '회복하다'를 의미하며, rally from ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bout",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "경기, 시합; 경기나 시합.",
+        "note": "경기나 시합을 가리킵니다."
+      },
+      {
+        "definition_ko": "발작, 발병; 발작이나 발병.",
+        "note": "발작이나 발병을 가리킵니다."
+      }
+    ],
+    "concept": "경기나 시합인 경기, 또는 발작이나 발병.",
+    "etymology": "고대 영어 byht(굽힘)에서 유래했으며, 고대 영어에서 파생되었습니다.",
+    "semanticExtension": "원래는 '굽힘' 의미였고, 현대에는 '경기나 시합'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사로 자주 사용되며, bout 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 경기",
+        "example": "bout of"
+      }
+    ],
+    "requiredComplements": [
+      "bout : 경기/시합",
+      "bout of + 명사 : ~의 경기"
+    ],
+    "morphology": "고대 영어 byht에서 유래한 단어로, 고대 영어에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "bouts",
+        "meaning_ko": "경기들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "match",
+        "meaning_ko": "경기"
+      },
+      {
+        "word": "contest",
+        "meaning_ko": "경쟁"
+      },
+      {
+        "word": "episode",
+        "meaning_ko": "발작"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "match",
+        "meaning_ko": "경기"
+      },
+      {
+        "word": "contest",
+        "meaning_ko": "경쟁"
+      },
+      {
+        "word": "episode",
+        "meaning_ko": "발작"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "round",
+        "meaning_ko": "라운드(범위가 더 넓음)"
+      },
+      {
+        "word": "spell",
+        "meaning_ko": "기간"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "continuity",
+        "meaning_ko": "연속성"
+      },
+      {
+        "word": "permanence",
+        "meaning_ko": "영구성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "bout of",
+            "meaning_ko": "~의 경기"
+          },
+          {
+            "phrase": "boxing bout",
+            "meaning_ko": "권투 경기"
+          },
+          {
+            "phrase": "bout of illness",
+            "meaning_ko": "질병의 발작"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "bout of depression",
+            "meaning_ko": "우울증의 발작"
+          },
+          {
+            "phrase": "bout of fever",
+            "meaning_ko": "열의 발작"
+          },
+          {
+            "phrase": "bout of coughing",
+            "meaning_ko": "기침의 발작"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "bout of anxiety",
+            "meaning_ko": "불안의 발작"
+          },
+          {
+            "phrase": "bout of activity",
+            "meaning_ko": "활동의 기간"
+          },
+          {
+            "phrase": "bout of training",
+            "meaning_ko": "훈련의 기간"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He won the boxing bout.",
+            "meaning_ko": "그는 그 권투 경기를 이겼습니다."
+          },
+          {
+            "sentence": "She had a bout of illness.",
+            "meaning_ko": "그녀는 질병의 발작을 겪었습니다."
+          },
+          {
+            "sentence": "They watched the bout.",
+            "meaning_ko": "그들은 그 경기를 봤습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He won the boxing bout, with his match and contest creating victory and achievement, though the bout would require skill and preparation.",
+            "meaning_ko": "그는 그 권투 경기를 이겼고, 그의 경기와 경쟁이 승리와 성취를 만들었지만, 그 경기는 기술과 준비를 요구할 것입니다."
+          },
+          {
+            "sentence": "She had a bout of illness, with her episode and spell creating symptoms and discomfort, though the bout would require treatment and care.",
+            "meaning_ko": "그녀는 질병의 발작을 겪었고, 그녀의 발작과 기간이 증상과 불편을 만들었지만, 그 발작은 치료와 돌봄을 요구할 것입니다."
+          },
+          {
+            "sentence": "They watched the bout, with their viewing and observation creating entertainment and interest, though the bout would need to be analyzed and evaluated.",
+            "meaning_ko": "그들은 그 경기를 봤고, 그들의 시청과 관찰이 오락과 관심을 만들었지만, 그 경기는 분석되고 평가될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The boxing bout that was scheduled in the tournament created anticipation and excitement, with the match providing an opportunity for competition and display of skill, though the bout would require rigorous training and preparation to ensure peak performance.",
+            "meaning_ko": "그 토너먼트에서 예정되었던 그 권투 경기는 기대와 흥분을 만들었고, 그 경기가 경쟁과 기술의 표시를 위한 기회를 제공했지만, 그 경기는 최고 성과를 보장하기 위해 엄격한 훈련과 준비를 요구할 것입니다."
+          },
+          {
+            "sentence": "The bout of depression that was experienced in the period created challenges and difficulties, with the episode requiring support and treatment, though the bout would need to be addressed through therapy and care to promote recovery and well-being.",
+            "meaning_ko": "그 기간 동안 경험되었던 그 우울증의 발작은 도전과 어려움을 만들었고, 그 발작이 지원과 치료를 요구했지만, 그 발작은 회복과 웰빙을 촉진하기 위해 치료와 돌봄을 통해 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The bout of activity that was undertaken in the project created intense periods of work and engagement, with the spell enabling focused effort and productivity, though the bout would require balancing intensity with rest to maintain sustainability and prevent burnout.",
+            "meaning_ko": "그 프로젝트에서 착수되었던 그 활동의 기간은 일과 참여의 강렬한 기간을 만들었고, 그 기간이 집중된 노력과 생산성을 가능하게 했지만, 그 기간은 지속 가능성을 유지하고 번아웃을 방지하기 위해 강도와 휴식의 균형을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "bout는 '경기, 시합' 또는 '발작, 발병' 의미로, 경기나 시합을 가리킵니다. match, contest와 비슷하지만 더 일반적 뉘앙스가 있습니다. bout of ~, boxing bout 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "스포츠",
+      "의학",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: bout = (A) continuity (B) match or episode (C) permanence (D) stability",
+            "a": "B",
+            "meaning_ko": "bout는 '경기 또는 발작' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He won the boxing _____.",
+            "a": "bout",
+            "meaning_ko": "bout는 '경기'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of bout? (A) match (B) contest (C) continuity (D) episode",
+            "a": "C",
+            "meaning_ko": "continuity(연속성)가 bout의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: bout _____ illness. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "bout of ~는 '~의 경기' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: bout = (A) continuity (B) match (C) permanence (D) stability",
+            "a": "B",
+            "meaning_ko": "match(경기)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She had a bout at illness.' → Fix the preposition.",
+            "a": "She had a bout of illness.",
+            "meaning_ko": "bout of ~는 '~의 경기' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He won the boxing bout.'",
+            "a": "He achieved victory in the match and contest, with the bout creating success and recognition, though the competition would require skill and preparation.",
+            "meaning_ko": "bout는 '경기'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They watched the _____. (A) bout (B) bouts (C) bout's (D) bouted",
+            "a": "A",
+            "meaning_ko": "명사 bout가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses bout most appropriately? (A) The bout ran. (B) He won the boxing bout. (C) She bout smiled. (D) Bout is good.",
+            "a": "B",
+            "meaning_ko": "bout는 명사로 '경기'를 의미하며, boxing bout와 같이 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

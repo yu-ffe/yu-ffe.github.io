@@ -1,0 +1,812 @@
+[
+  {
+    "word": "detached",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "분리된, 독립된; 분리되거나 독립된.",
+        "note": "분리되거나 독립된 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "초연한, 무관심한; 초연하거나 무관심한.",
+        "note": "초연하거나 무관심한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "분리되거나 독립된 상태, 또는 초연하거나 무관심한 상태.",
+    "etymology": "프랑스어 détacher(분리하다)에서 유래했으며, '분리된' 의미입니다.",
+    "semanticExtension": "원래는 '분리된' 의미였고, 현대에는 '분리된' 또는 '초연한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be detached 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터 분리된",
+        "example": "detached from"
+      }
+    ],
+    "requiredComplements": [
+      "be detached : 분리되다/초연하다",
+      "detached + 명사 : 분리된 ~",
+      "detached from + 명사 : ~로부터 분리된"
+    ],
+    "morphology": "프랑스어 détacher에서 유래한 단어로, '분리된' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "detach",
+        "meaning_ko": "분리하다"
+      },
+      {
+        "word": "detachment",
+        "meaning_ko": "분리"
+      },
+      {
+        "word": "detachedly",
+        "meaning_ko": "분리되게"
+      }
+    ],
+    "related": [
+      {
+        "word": "separate",
+        "meaning_ko": "분리된"
+      },
+      {
+        "word": "isolated",
+        "meaning_ko": "고립된"
+      },
+      {
+        "word": "aloof",
+        "meaning_ko": "초연한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "separate",
+        "meaning_ko": "분리된"
+      },
+      {
+        "word": "isolated",
+        "meaning_ko": "고립된"
+      },
+      {
+        "word": "aloof",
+        "meaning_ko": "초연한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "disconnected",
+        "meaning_ko": "연결되지 않은(범위가 더 넓음)"
+      },
+      {
+        "word": "uninvolved",
+        "meaning_ko": "관여하지 않은"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "attached",
+        "meaning_ko": "연결된"
+      },
+      {
+        "word": "involved",
+        "meaning_ko": "관여된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "detached from",
+            "meaning_ko": "~로부터 분리된"
+          },
+          {
+            "phrase": "detached house",
+            "meaning_ko": "독립 주택"
+          },
+          {
+            "phrase": "detached attitude",
+            "meaning_ko": "초연한 태도"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "detached from the situation",
+            "meaning_ko": "그 상황으로부터 분리된"
+          },
+          {
+            "phrase": "detached perspective",
+            "meaning_ko": "초연한 관점"
+          },
+          {
+            "phrase": "detached observer",
+            "meaning_ko": "초연한 관찰자"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "detached from the context",
+            "meaning_ko": "그 맥락으로부터 분리된"
+          },
+          {
+            "phrase": "detached analysis",
+            "meaning_ko": "초연한 분석"
+          },
+          {
+            "phrase": "detached evaluation",
+            "meaning_ko": "초연한 평가"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was detached from the situation.",
+            "meaning_ko": "그는 그 상황으로부터 분리되었습니다."
+          },
+          {
+            "sentence": "She had a detached attitude.",
+            "meaning_ko": "그녀는 초연한 태도를 가졌습니다."
+          },
+          {
+            "sentence": "They lived in a detached house.",
+            "meaning_ko": "그들은 독립 주택에 살았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was detached from the situation, with his separate and isolated position creating distance and independence, though the detachment would require understanding and analysis.",
+            "meaning_ko": "그는 그 상황으로부터 분리되었고, 그의 분리된 그리고 고립된 위치가 거리와 독립을 만들었지만, 그 분리는 이해와 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She had a detached attitude, with the aloof and uninvolved perspective creating distance and objectivity, though the detachment would need to be addressed and understood.",
+            "meaning_ko": "그녀는 초연한 태도를 가졌고, 그 초연한 그리고 관여하지 않은 관점이 거리와 객관성을 만들었지만, 그 분리는 다뤄지고 이해될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They lived in a detached house, with the disconnected and separate structure creating independence and privacy, though the detachment would require maintenance and care.",
+            "meaning_ko": "그들은 독립 주택에 살았고, 그 연결되지 않은 그리고 분리된 구조가 독립과 사생활을 만들었지만, 그 분리는 유지와 돌봄을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to remain detached from the context that was made in the process created opportunities for objectivity and analysis, with the detachment enabling distance and independence, though the detachment would require comprehensive understanding and evaluation to ensure that context is properly analyzed and objectivity is effectively maintained.",
+            "meaning_ko": "그 과정에서 내려졌던 그 맥락으로부터 그 분리된 상태를 유지하기로 한 그 결정은 객관성과 분석을 위한 기회를 만들었고, 그 분리가 거리와 독립을 가능하게 했지만, 그 분리는 맥락이 적절히 분석되고 객관성이 효과적으로 유지되는 것을 보장하기 위해 포괄적인 이해와 평가를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to maintain detached analysis that was undertaken in the initiative created pathways for objectivity and evaluation, with the maintenance enabling distance and independence, though the detachment would need to be systematically maintained through understanding and analysis to ensure that analysis remains objective and distance is effectively preserved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 초연한 분석을 유지하기 위한 그 노력은 객관성과 평가를 위한 경로를 만들었고, 그 유지가 거리와 독립을 가능하게 했지만, 그 분리는 분석이 계속 객관적이고 거리가 효과적으로 보존되는 것을 보장하기 위해 이해와 분석을 통해 체계적으로 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to preserve detached evaluation that was completed in the system created structure and methods for objectivity and analysis, with the preservation enabling distance and independence, though the detachment would require ongoing maintenance and understanding to ensure that evaluation continues to be objective and distance remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 초연한 평가를 보존하기 위한 그 작업은 객관성과 분석을 위한 구조와 방법을 만들었고, 그 보존이 거리와 독립을 가능하게 했지만, 그 분리는 평가가 계속 객관적이고 거리가 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 유지와 이해를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "detached는 '분리된, 독립된' 또는 '초연한, 무관심한' 의미로, 분리되거나 독립된 상태를 가리킵니다. separate, isolated와 비슷하지만 더 문어적 뉘앙스가 있습니다. detached from ~, detached house 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: detached = (A) attached (B) separate or aloof (C) involved (D) connected",
+            "a": "B",
+            "meaning_ko": "detached는 '분리된 또는 초연한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was _____ from the situation.",
+            "a": "detached",
+            "meaning_ko": "detached는 '분리된' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of detached? (A) separate (B) isolated (C) attached (D) aloof",
+            "a": "C",
+            "meaning_ko": "attached(연결된)가 detached의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: detached _____ the situation. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "detached from ~는 '~로부터 분리된' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: detached = (A) attached (B) separate (C) involved (D) connected",
+            "a": "B",
+            "meaning_ko": "separate(분리된)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was detached at the situation.' → Fix the preposition.",
+            "a": "She was detached from the situation.",
+            "meaning_ko": "detached from ~는 '~로부터 분리된' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was detached from the situation.'",
+            "a": "He was separate and isolated from the context, with the detachment creating distance and independence, though the position would require understanding and analysis.",
+            "meaning_ko": "detached는 '분리된' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They lived in a _____ house. (A) detached (B) detach (C) detaching (D) detachment",
+            "a": "A",
+            "meaning_ko": "형용사 detached가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses detached most appropriately? (A) The detached ran. (B) He was detached from the situation. (C) She detached smiled. (D) Detached is good.",
+            "a": "B",
+            "meaning_ko": "detached는 형용사로 '분리된'을 의미하며, be detached from ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "incite",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "선동하다, 자극하다; 선동하거나 자극하는 것.",
+        "note": "선동하거나 자극하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "유발하다, 일으키다; 유발하거나 일으키는 것.",
+        "note": "유발하거나 일으키는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "선동하거나 자극하는 행동, 또는 유발하거나 일으키는 행동.",
+    "etymology": "라틴어 incitare(자극하다)에서 유래했으며, '자극하다' 의미입니다.",
+    "semanticExtension": "원래는 '자극하다' 의미였고, 현대에는 '선동하다' 또는 '유발하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 사용되며, incite + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~하도록 선동하다",
+        "example": "incite to"
+      }
+    ],
+    "requiredComplements": [
+      "incite + 명사 : ~을 선동하다/자극하다",
+      "incite + 명사 + to + 명사 : ~을 ~하도록 선동하다"
+    ],
+    "morphology": "라틴어 incitare에서 유래한 단어로, '자극하다' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "incited",
+        "meaning_ko": "선동한(과거분사)"
+      },
+      {
+        "word": "inciting",
+        "meaning_ko": "선동하는(현재분사)"
+      },
+      {
+        "word": "incitement",
+        "meaning_ko": "선동"
+      }
+    ],
+    "related": [
+      {
+        "word": "provoke",
+        "meaning_ko": "자극하다"
+      },
+      {
+        "word": "stimulate",
+        "meaning_ko": "자극하다"
+      },
+      {
+        "word": "instigate",
+        "meaning_ko": "선동하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "provoke",
+        "meaning_ko": "자극하다"
+      },
+      {
+        "word": "stimulate",
+        "meaning_ko": "자극하다"
+      },
+      {
+        "word": "instigate",
+        "meaning_ko": "선동하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "foment",
+        "meaning_ko": "선동하다(범위가 더 넓음)"
+      },
+      {
+        "word": "arouse",
+        "meaning_ko": "일으키다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "calm",
+        "meaning_ko": "진정시키다"
+      },
+      {
+        "word": "pacify",
+        "meaning_ko": "진정시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "incite to",
+            "meaning_ko": "~하도록 선동하다"
+          },
+          {
+            "phrase": "incite violence",
+            "meaning_ko": "폭력을 선동하다"
+          },
+          {
+            "phrase": "incite anger",
+            "meaning_ko": "분노를 선동하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "incite to action",
+            "meaning_ko": "행동하도록 선동하다"
+          },
+          {
+            "phrase": "incite rebellion",
+            "meaning_ko": "반란을 선동하다"
+          },
+          {
+            "phrase": "incite conflict",
+            "meaning_ko": "갈등을 선동하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "incite to violence",
+            "meaning_ko": "폭력하도록 선동하다"
+          },
+          {
+            "phrase": "incite revolution",
+            "meaning_ko": "혁명을 선동하다"
+          },
+          {
+            "phrase": "incite unrest",
+            "meaning_ko": "불안을 선동하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He incited violence.",
+            "meaning_ko": "그는 폭력을 선동했습니다."
+          },
+          {
+            "sentence": "She incited to action.",
+            "meaning_ko": "그녀는 행동하도록 선동했습니다."
+          },
+          {
+            "sentence": "They incited anger.",
+            "meaning_ko": "그들은 분노를 선동했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He incited violence, with his provoke and stimulate creating conflict and unrest, though the incitement would require control and prevention.",
+            "meaning_ko": "그는 폭력을 선동했고, 그의 자극 그리고 자극이 갈등과 불안을 만들었지만, 그 선동은 통제와 방지를 요구할 것입니다."
+          },
+          {
+            "sentence": "She incited to action, with the instigate and foment creating movement and response, though the incitement would need to be managed and controlled.",
+            "meaning_ko": "그녀는 행동하도록 선동했고, 그 선동 그리고 선동이 이동과 반응을 만들었지만, 그 선동은 관리되고 통제될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They incited anger, with the arouse and provoke creating emotion and reaction, though the incitement would require management and control.",
+            "meaning_ko": "그들은 분노를 선동했고, 그 일으키기 그리고 자극이 감정과 반응을 만들었지만, 그 선동은 관리와 통제를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to incite to violence that was made in the process created opportunities for conflict and unrest, with the inciting enabling creation of movement and response, though the incitement would require comprehensive control and prevention to ensure that violence is properly managed and conflict is effectively prevented.",
+            "meaning_ko": "그 과정에서 내려졌던 폭력하도록 선동하기로 한 그 결정은 갈등과 불안을 위한 기회를 만들었고, 그 선동이 이동과 반응의 창조를 가능하게 했지만, 그 선동은 폭력이 적절히 관리되고 갈등이 효과적으로 방지되는 것을 보장하기 위해 포괄적인 통제와 방지를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to incite revolution that was undertaken in the initiative created pathways for change and transformation, with the inciting enabling creation of movement and response, though the incitement would need to be systematically managed through control and prevention to ensure that revolution is properly managed and change is effectively pursued.",
+            "meaning_ko": "그 계획에서 착수되었던 그 혁명을 선동하기 위한 그 노력은 변화와 변형을 위한 경로를 만들었고, 그 선동이 이동과 반응의 창조를 가능하게 했지만, 그 선동은 혁명이 적절히 관리되고 변화가 효과적으로 추구되는 것을 보장하기 위해 통제와 방지를 통해 체계적으로 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to prevent incite unrest that was completed in the system created structure and methods for stability and peace, with the prevention enabling reduction of conflict and violence, though the incitement would require ongoing vigilance and control to ensure that unrest continues to be prevented and stability remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 불안을 선동하는 것을 방지하기 위한 그 작업은 안정성과 평화를 위한 구조와 방법을 만들었고, 그 방지가 갈등과 폭력의 감소를 가능하게 했지만, 그 선동은 불안이 계속 방지되고 안정성이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 경계와 통제를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "incite는 '선동하다, 자극하다' 또는 '유발하다, 일으키다' 의미로, 선동하거나 자극하는 행동을 가리킵니다. provoke, stimulate와 비슷하지만 더 부정적 뉘앙스가 있습니다. incite to ~, incite violence 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: incite = (A) calm (B) provoke or stimulate (C) pacify (D) soothe",
+            "a": "B",
+            "meaning_ko": "incite는 '자극하다 또는 자극하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ violence.",
+            "a": "incited",
+            "meaning_ko": "incite는 '선동하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of incite? (A) provoke (B) stimulate (C) calm (D) instigate",
+            "a": "C",
+            "meaning_ko": "calm(진정시키다)가 incite의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: incite _____ action. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "incite to ~는 '~하도록 선동하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: incite = (A) calm (B) provoke (C) pacify (D) soothe",
+            "a": "B",
+            "meaning_ko": "provoke(자극하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She incited at action.' → Fix the preposition.",
+            "a": "She incited to action.",
+            "meaning_ko": "incite to ~는 '~하도록 선동하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He incited violence.'",
+            "a": "He provoked and stimulated conflict, with the inciting creating movement and response, though the violence would require control and prevention.",
+            "meaning_ko": "incite는 '선동하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ anger. (A) incite (B) incites (C) incited (D) inciting",
+            "a": "C",
+            "meaning_ko": "과거형 incited가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses incite most appropriately? (A) The incite ran. (B) He incited violence. (C) She incite smiled. (D) Incite is good.",
+            "a": "B",
+            "meaning_ko": "incite는 동사로 '선동하다'를 의미하며, incite + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "plaintive",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "슬픈, 애처로운; 슬프거나 애처로운.",
+        "note": "슬프거나 애처로운 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "한탄하는, 비탄하는; 한탄하거나 비탄하는.",
+        "note": "한탄하거나 비탄하는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "슬프거나 애처로운 상태, 또는 한탄하거나 비탄하는 상태.",
+    "etymology": "프랑스어 plaintif(슬픈)에서 유래했으며, '슬픈' 의미입니다.",
+    "semanticExtension": "원래는 '슬픈' 의미였고, 현대에는 '슬픈' 또는 '애처로운'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be plaintive 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be plaintive : 슬프다/애처롭다",
+      "plaintive + 명사 : 슬픈 ~"
+    ],
+    "morphology": "프랑스어 plaintif에서 유래한 단어로, '슬픈' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "plaintively",
+        "meaning_ko": "슬프게"
+      },
+      {
+        "word": "plaintiveness",
+        "meaning_ko": "슬픔"
+      }
+    ],
+    "related": [
+      {
+        "word": "sad",
+        "meaning_ko": "슬픈"
+      },
+      {
+        "word": "melancholy",
+        "meaning_ko": "우울한"
+      },
+      {
+        "word": "mournful",
+        "meaning_ko": "슬픈"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "sad",
+        "meaning_ko": "슬픈"
+      },
+      {
+        "word": "melancholy",
+        "meaning_ko": "우울한"
+      },
+      {
+        "word": "mournful",
+        "meaning_ko": "슬픈"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sorrowful",
+        "meaning_ko": "슬픈(범위가 더 넓음)"
+      },
+      {
+        "word": "lamenting",
+        "meaning_ko": "한탄하는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cheerful",
+        "meaning_ko": "쾌활한"
+      },
+      {
+        "word": "joyful",
+        "meaning_ko": "기쁜"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "plaintive voice",
+            "meaning_ko": "슬픈 목소리"
+          },
+          {
+            "phrase": "plaintive cry",
+            "meaning_ko": "슬픈 울음"
+          },
+          {
+            "phrase": "plaintive tone",
+            "meaning_ko": "슬픈 톤"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "plaintive song",
+            "meaning_ko": "슬픈 노래"
+          },
+          {
+            "phrase": "plaintive melody",
+            "meaning_ko": "슬픈 멜로디"
+          },
+          {
+            "phrase": "plaintive expression",
+            "meaning_ko": "슬픈 표현"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "plaintive lament",
+            "meaning_ko": "슬픈 한탄"
+          },
+          {
+            "phrase": "plaintive elegy",
+            "meaning_ko": "슬픈 애가"
+          },
+          {
+            "phrase": "plaintive requiem",
+            "meaning_ko": "슬픈 진혼곡"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He heard a plaintive voice.",
+            "meaning_ko": "그는 슬픈 목소리를 들었습니다."
+          },
+          {
+            "sentence": "She sang a plaintive song.",
+            "meaning_ko": "그녀는 슬픈 노래를 불렀습니다."
+          },
+          {
+            "sentence": "They played a plaintive melody.",
+            "meaning_ko": "그들은 슬픈 멜로디를 연주했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He heard a plaintive voice, with the sad and melancholy sound creating emotion and feeling, though the plaintiveness would require understanding and empathy.",
+            "meaning_ko": "그는 슬픈 목소리를 들었고, 그 슬프고 우울한 소리가 감정과 느낌을 만들었지만, 그 슬픔은 이해와 공감을 요구할 것입니다."
+          },
+          {
+            "sentence": "She sang a plaintive song, with the mournful and sorrowful melody creating emotion and feeling, though the plaintiveness would need to be expressed and understood.",
+            "meaning_ko": "그녀는 슬픈 노래를 불렀고, 그 슬프고 슬픈 멜로디가 감정과 느낌을 만들었지만, 그 슬픔은 표현되고 이해될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They played a plaintive melody, with the lamenting and sad tune creating emotion and feeling, though the plaintiveness would require expression and understanding.",
+            "meaning_ko": "그들은 슬픈 멜로디를 연주했고, 그 한탄하고 슬픈 곡조가 감정과 느낌을 만들었지만, 그 슬픔은 표현과 이해를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to perform plaintive lament that was made in the process created opportunities for expression and emotion, with the performance enabling communication of sadness and sorrow, though the plaintiveness would require comprehensive understanding and empathy to ensure that lament is properly expressed and emotion is effectively communicated.",
+            "meaning_ko": "그 과정에서 내려졌던 그 슬픈 한탄을 연주하기로 한 그 결정은 표현과 감정을 위한 기회를 만들었고, 그 연주가 슬픔과 슬픔의 소통을 가능하게 했지만, 그 슬픔은 한탄이 적절히 표현되고 감정이 효과적으로 소통되는 것을 보장하기 위해 포괄적인 이해와 공감을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to compose plaintive elegy that was undertaken in the initiative created pathways for expression and emotion, with the composition enabling creation of mournful and sorrowful work, though the plaintiveness would need to be systematically expressed through music and words to ensure that elegy is properly composed and emotion is effectively conveyed.",
+            "meaning_ko": "그 계획에서 착수되었던 그 슬픈 애가를 작곡하기 위한 그 노력은 표현과 감정을 위한 경로를 만들었고, 그 작곡이 슬프고 슬픈 작품의 창조를 가능하게 했지만, 그 슬픔은 애가가 적절히 작곡되고 감정이 효과적으로 전달되는 것을 보장하기 위해 음악과 단어를 통해 체계적으로 표현될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to create plaintive requiem that was completed in the system created structure and methods for expression and emotion, with the creation enabling communication of sadness and sorrow, though the plaintiveness would require ongoing expression and understanding to ensure that requiem continues to be expressive and emotion remains effectively communicated and maintained.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 슬픈 진혼곡을 창조하기 위한 그 작업은 표현과 감정을 위한 구조와 방법을 만들었고, 그 창조가 슬픔과 슬픔의 소통을 가능하게 했지만, 그 슬픔은 진혼곡이 계속 표현적이고 감정이 계속 효과적으로 소통되고 유지되는 것을 보장하기 위해 지속적인 표현과 이해를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "plaintive는 '슬픈, 애처로운' 또는 '한탄하는, 비탄하는' 의미로, 슬프거나 애처로운 상태를 가리킵니다. sad, melancholy와 비슷하지만 더 문어적 뉘앙스가 있습니다. plaintive voice, plaintive song 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: plaintive = (A) cheerful (B) sad or mournful (C) joyful (D) happy",
+            "a": "B",
+            "meaning_ko": "plaintive는 '슬픈 또는 슬픈' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He heard a _____ voice.",
+            "a": "plaintive",
+            "meaning_ko": "plaintive는 '슬픈' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of plaintive? (A) sad (B) melancholy (C) cheerful (D) mournful",
+            "a": "C",
+            "meaning_ko": "cheerful(쾌활한)가 plaintive의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: plaintive _____ voice. (A) (no preposition) (B) of (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "plaintive는 형용사로 명사를 직접 수식합니다."
+          },
+          {
+            "q": "Pick the best synonym: plaintive = (A) cheerful (B) sad (C) joyful (D) happy",
+            "a": "B",
+            "meaning_ko": "sad(슬픈)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She sang a plaintive song of the problem.' → Fix the sentence.",
+            "a": "She sang a plaintive song.",
+            "meaning_ko": "plaintive song는 이미 '슬픈 노래' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He heard a plaintive voice.'",
+            "a": "He perceived a sad and mournful sound, with the plaintiveness creating emotion and feeling, though the voice would require understanding and empathy.",
+            "meaning_ko": "plaintive는 '슬픈' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They played a _____ melody. (A) plaintive (B) plaintively (C) plaintiveness (D) plaintive's",
+            "a": "A",
+            "meaning_ko": "형용사 plaintive가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses plaintive most appropriately? (A) The plaintive ran. (B) He heard a plaintive voice. (C) She plaintive smiled. (D) Plaintive is good.",
+            "a": "B",
+            "meaning_ko": "plaintive는 형용사로 '슬픈'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

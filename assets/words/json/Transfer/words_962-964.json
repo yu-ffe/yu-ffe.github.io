@@ -1,0 +1,812 @@
+[
+  {
+    "word": "recapitulate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "요약하다, 재정리하다; 요약하거나 재정리하는 것.",
+        "note": "요약하거나 재정리하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "반복하다, 되풀이하다; 반복하거나 되풀이하는 것.",
+        "note": "반복하거나 되풀이하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "요약하거나 재정리하는 행동, 또는 반복하거나 되풀이하는 행동.",
+    "etymology": "라틴어 recapitulare(요약하다)에서 유래했으며, re(다시) + capitulum(장)의 조합입니다.",
+    "semanticExtension": "원래는 '다시 장을 정리하다' 의미였고, 현대에는 '요약하다' 또는 '재정리하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 사용되며, recapitulate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "recapitulate + 명사 : ~을 요약하다/재정리하다"
+    ],
+    "morphology": "라틴어 recapitulare에서 유래한 단어로, re(다시) + capitulum(장)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "recapitulated",
+        "meaning_ko": "요약한(과거분사)"
+      },
+      {
+        "word": "recapitulating",
+        "meaning_ko": "요약하는(현재분사)"
+      },
+      {
+        "word": "recapitulation",
+        "meaning_ko": "요약"
+      }
+    ],
+    "related": [
+      {
+        "word": "summarize",
+        "meaning_ko": "요약하다"
+      },
+      {
+        "word": "review",
+        "meaning_ko": "검토하다"
+      },
+      {
+        "word": "repeat",
+        "meaning_ko": "반복하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "summarize",
+        "meaning_ko": "요약하다"
+      },
+      {
+        "word": "review",
+        "meaning_ko": "검토하다"
+      },
+      {
+        "word": "repeat",
+        "meaning_ko": "반복하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "reiterate",
+        "meaning_ko": "반복하다(범위가 더 넓음)"
+      },
+      {
+        "word": "restate",
+        "meaning_ko": "재진술하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "expand",
+        "meaning_ko": "확장하다"
+      },
+      {
+        "word": "elaborate",
+        "meaning_ko": "상세히 설명하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "recapitulate the main points",
+            "meaning_ko": "그 주요 포인트들을 요약하다"
+          },
+          {
+            "phrase": "recapitulate the argument",
+            "meaning_ko": "그 논거를 요약하다"
+          },
+          {
+            "phrase": "recapitulate the discussion",
+            "meaning_ko": "그 논의를 요약하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "recapitulate the findings",
+            "meaning_ko": "그 발견들을 요약하다"
+          },
+          {
+            "phrase": "recapitulate the evidence",
+            "meaning_ko": "그 증거를 요약하다"
+          },
+          {
+            "phrase": "recapitulate the conclusion",
+            "meaning_ko": "그 결론을 요약하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "recapitulate the methodology",
+            "meaning_ko": "그 방법론을 요약하다"
+          },
+          {
+            "phrase": "recapitulate the analysis",
+            "meaning_ko": "그 분석을 요약하다"
+          },
+          {
+            "phrase": "recapitulate the framework",
+            "meaning_ko": "그 프레임워크를 요약하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He recapitulated the main points.",
+            "meaning_ko": "그는 그 주요 포인트들을 요약했습니다."
+          },
+          {
+            "sentence": "She recapitulated the argument.",
+            "meaning_ko": "그녀는 그 논거를 요약했습니다."
+          },
+          {
+            "sentence": "They recapitulated the discussion.",
+            "meaning_ko": "그들은 그 논의를 요약했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He recapitulated the main points, with his summarize and review creating clarity and understanding, though the recapitulation would require accuracy and completeness.",
+            "meaning_ko": "그는 그 주요 포인트들을 요약했고, 그의 요약 그리고 검토가 명확성과 이해를 만들었지만, 그 요약은 정확성과 완전성을 요구할 것입니다."
+          },
+          {
+            "sentence": "She recapitulated the argument, with the repeat and reiterate creating emphasis and clarity, though the recapitulation would need to be clear and comprehensive.",
+            "meaning_ko": "그녀는 그 논거를 요약했고, 그 반복 그리고 반복이 강조와 명확성을 만들었지만, 그 요약은 명확하고 포괄적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They recapitulated the discussion, with the restate and summarize creating review and understanding, though the recapitulation would require organization and clarity.",
+            "meaning_ko": "그들은 그 논의를 요약했고, 그 재진술 그리고 요약이 검토와 이해를 만들었지만, 그 요약은 조직과 명확성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to recapitulate the methodology that was made in the process created opportunities for clarity and understanding, with the recapitulation enabling summary and review, though the recapitulation would require comprehensive organization and accuracy to ensure that methodology is properly summarized and clarity is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 방법론을 요약하기로 한 그 결정은 명확성과 이해를 위한 기회를 만들었고, 그 요약이 요약과 검토를 가능하게 했지만, 그 요약은 방법론이 적절히 요약되고 명확성이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 조직과 정확성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to recapitulate the analysis that was undertaken in the initiative created pathways for review and understanding, with the recapitulation enabling summary and clarification, though the recapitulation would need to be systematically organized through structure and organization to ensure that analysis is properly summarized and understanding is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 분석을 요약하기 위한 그 노력은 검토와 이해를 위한 경로를 만들었고, 그 요약이 요약과 명확화를 가능하게 했지만, 그 요약은 분석이 적절히 요약되고 이해가 효과적으로 달성되는 것을 보장하기 위해 구조와 조직을 통해 체계적으로 조직될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to recapitulate the framework that was completed in the system created structure and methods for summary and review, with the recapitulation enabling clarification and understanding, though the recapitulation would require ongoing refinement and organization to ensure that framework continues to be properly summarized and understanding remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 프레임워크를 요약하기 위한 그 작업은 요약과 검토를 위한 구조와 방법을 만들었고, 그 요약이 명확화와 이해를 가능하게 했지만, 그 요약은 프레임워크가 계속 적절히 요약되고 이해가 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 정제와 조직을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "recapitulate는 '요약하다, 재정리하다' 또는 '반복하다, 되풀이하다' 의미로, 요약하거나 재정리하는 행동을 가리킵니다. summarize, review와 비슷하지만 더 문어적 뉘앙스가 있습니다. recapitulate the main points, recapitulate the argument 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: recapitulate = (A) expand (B) summarize or review (C) elaborate (D) extend",
+            "a": "B",
+            "meaning_ko": "recapitulate는 '요약하다 또는 검토하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the main points.",
+            "a": "recapitulated",
+            "meaning_ko": "recapitulate는 '요약하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of recapitulate? (A) summarize (B) review (C) expand (D) repeat",
+            "a": "C",
+            "meaning_ko": "expand(확장하다)가 recapitulate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: recapitulate _____ the main points. (A) (no preposition) (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "recapitulate는 직접 목적어를 취하며 전치사가 필요 없습니다."
+          },
+          {
+            "q": "Pick the best synonym: recapitulate = (A) expand (B) summarize (C) elaborate (D) extend",
+            "a": "B",
+            "meaning_ko": "summarize(요약하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She recapitulated the argument at the conclusion.' → Fix the sentence.",
+            "a": "She recapitulated the argument.",
+            "meaning_ko": "recapitulate는 직접 목적어를 취하며 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He recapitulated the main points.'",
+            "a": "He summarized and reviewed the key elements, with the recapitulation creating clarity and understanding, though the points would require accuracy and completeness.",
+            "meaning_ko": "recapitulate는 '요약하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the discussion. (A) recapitulate (B) recapitulates (C) recapitulated (D) recapitulating",
+            "a": "C",
+            "meaning_ko": "과거형 recapitulated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses recapitulate most appropriately? (A) The recapitulate ran. (B) He recapitulated the main points. (C) She recapitulate smiled. (D) Recapitulate is good.",
+            "a": "B",
+            "meaning_ko": "recapitulate는 동사로 '요약하다'를 의미하며, recapitulate + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "opium",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "아편, 아편; 아편이나 아편.",
+        "note": "아편이나 아편을 가리킵니다."
+      },
+      {
+        "definition_ko": "마약, 마약; 마약이나 마약.",
+        "note": "마약이나 마약을 가리킵니다."
+      }
+    ],
+    "concept": "아편이나 아편인 아편, 또는 마약이나 마약.",
+    "etymology": "라틴어 opium(아편)에서 유래했으며, '아편' 의미입니다.",
+    "semanticExtension": "원래는 '아편' 의미였고, 현대에는 '아편' 또는 '마약'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 불가산명사로 사용되며, opium 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 아편",
+        "example": "opium of"
+      }
+    ],
+    "requiredComplements": [
+      "opium : 아편/마약",
+      "opium of + 명사 : ~의 아편"
+    ],
+    "morphology": "라틴어 opium에서 유래한 단어로, '아편' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "opium",
+        "meaning_ko": "아편(단수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "drug",
+        "meaning_ko": "마약"
+      },
+      {
+        "word": "narcotic",
+        "meaning_ko": "마약"
+      },
+      {
+        "word": "addiction",
+        "meaning_ko": "중독"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "drug",
+        "meaning_ko": "마약"
+      },
+      {
+        "word": "narcotic",
+        "meaning_ko": "마약"
+      },
+      {
+        "word": "addiction",
+        "meaning_ko": "중독"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "morphine",
+        "meaning_ko": "모르핀(범위가 더 넓음)"
+      },
+      {
+        "word": "heroin",
+        "meaning_ko": "헤로인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "medicine",
+        "meaning_ko": "약"
+      },
+      {
+        "word": "cure",
+        "meaning_ko": "치료"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "opium of",
+            "meaning_ko": "~의 아편"
+          },
+          {
+            "phrase": "opium trade",
+            "meaning_ko": "아편 무역"
+          },
+          {
+            "phrase": "opium addiction",
+            "meaning_ko": "아편 중독"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "opium of the people",
+            "meaning_ko": "그 사람들의 아편"
+          },
+          {
+            "phrase": "opium war",
+            "meaning_ko": "아편 전쟁"
+          },
+          {
+            "phrase": "opium poppy",
+            "meaning_ko": "아편 양귀비"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "opium of the masses",
+            "meaning_ko": "그 대중의 아편"
+          },
+          {
+            "phrase": "opium den",
+            "meaning_ko": "아편굴"
+          },
+          {
+            "phrase": "opium production",
+            "meaning_ko": "아편 생산"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He used opium.",
+            "meaning_ko": "그는 아편을 사용했습니다."
+          },
+          {
+            "sentence": "She saw the opium trade.",
+            "meaning_ko": "그녀는 그 아편 무역을 보았습니다."
+          },
+          {
+            "sentence": "They fought the opium war.",
+            "meaning_ko": "그들은 그 아편 전쟁을 싸웠습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He used opium, with the drug and narcotic creating addiction and dependence, though the opium would require treatment and rehabilitation.",
+            "meaning_ko": "그는 아편을 사용했고, 그 마약 그리고 마약이 중독과 의존을 만들었지만, 그 아편은 치료와 재활을 요구할 것입니다."
+          },
+          {
+            "sentence": "She saw the opium trade, with the morphine and heroin creating commerce and conflict, though the opium would need to be regulated and controlled.",
+            "meaning_ko": "그녀는 그 아편 무역을 보았고, 그 모르핀 그리고 헤로인이 상업과 갈등을 만들었지만, 그 아편은 규제되고 통제될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They fought the opium war, with the drug and narcotic creating conflict and war, though the opium would require regulation and control.",
+            "meaning_ko": "그들은 그 아편 전쟁을 싸웠고, 그 마약 그리고 마약이 갈등과 전쟁을 만들었지만, 그 아편은 규제와 통제를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to regulate opium of the masses that was made in the process created opportunities for control and prevention, with the regulation enabling reduction of addiction and harm, though the opium would require comprehensive regulation and enforcement to ensure that masses are protected and addiction is effectively prevented.",
+            "meaning_ko": "그 과정에서 내려졌던 그 대중의 그 아편을 규제하기로 한 그 결정은 통제와 방지를 위한 기회를 만들었고, 그 규제가 중독과 해의 감소를 가능하게 했지만, 그 아편은 대중이 보호되고 중독이 효과적으로 방지되는 것을 보장하기 위해 포괄적인 규제와 집행을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to control opium production that was undertaken in the initiative created pathways for regulation and prevention, with the control enabling reduction of supply and harm, though the opium would need to be systematically regulated through enforcement and monitoring to ensure that production is controlled and harm is effectively reduced.",
+            "meaning_ko": "그 계획에서 착수되었던 그 아편 생산을 통제하기 위한 그 노력은 규제와 방지를 위한 경로를 만들었고, 그 통제가 공급과 해의 감소를 가능하게 했지만, 그 아편은 생산이 통제되고 해가 효과적으로 감소되는 것을 보장하기 위해 집행과 모니터링을 통해 체계적으로 규제될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to eliminate opium den that was completed in the system created structure and methods for prevention and control, with the elimination enabling reduction of access and harm, though the opium would require ongoing enforcement and monitoring to ensure that den continues to be eliminated and access remains prevented and controlled.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 아편굴을 제거하기 위한 그 작업은 방지와 통제를 위한 구조와 방법을 만들었고, 그 제거가 접근과 해의 감소를 가능하게 했지만, 그 아편은 아편굴이 계속 제거되고 접근이 계속 방지되고 통제되는 것을 보장하기 위해 지속적인 집행과 모니터링을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "opium는 '아편, 아편' 또는 '마약, 마약' 의미로, 아편이나 아편을 가리킵니다. drug, narcotic와 비슷하지만 더 구체적 뉘앙스가 있습니다. opium of ~, opium trade 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: opium = (A) medicine (B) drug or narcotic (C) cure (D) treatment",
+            "a": "B",
+            "meaning_ko": "opium는 '마약 또는 마약' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He used _____.",
+            "a": "opium",
+            "meaning_ko": "opium는 '아편' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of opium? (A) drug (B) narcotic (C) medicine (D) addiction",
+            "a": "C",
+            "meaning_ko": "medicine(약)가 opium의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: opium _____ the people. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "opium of ~는 '~의 아편' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: opium = (A) medicine (B) drug (C) cure (D) treatment",
+            "a": "B",
+            "meaning_ko": "drug(마약)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She saw the opium at the people.' → Fix the preposition.",
+            "a": "She saw the opium of the people.",
+            "meaning_ko": "opium of ~는 '~의 아편' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He used opium.'",
+            "a": "He consumed drug and narcotic, with the opium creating addiction and dependence, though the usage would require treatment and rehabilitation.",
+            "meaning_ko": "opium는 '아편' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They fought the _____ war. (A) opium (B) opiums (C) opiate (D) opiated",
+            "a": "A",
+            "meaning_ko": "명사 opium가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses opium most appropriately? (A) The opium ran. (B) He used opium. (C) She opium smiled. (D) Opium is good.",
+            "a": "B",
+            "meaning_ko": "opium는 명사로 '아편'을 의미하며, use opium와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "meditate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "명상하다, 사색하다; 명상하거나 사색하는 것.",
+        "note": "명상하거나 사색하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "깊이 생각하다, 숙고하다; 깊이 생각하거나 숙고하는 것.",
+        "note": "깊이 생각하거나 숙고하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "명상하거나 사색하는 행동, 또는 깊이 생각하거나 숙고하는 행동.",
+    "etymology": "라틴어 meditari(명상하다)에서 유래했으며, '명상하다' 의미입니다.",
+    "semanticExtension": "원래는 '명상하다' 의미였고, 현대에는 '명상하다' 또는 '사색하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "자동사로 사용되며, meditate 형태로 자주 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대해 명상하다",
+        "example": "meditate on"
+      },
+      {
+        "prep": "upon",
+        "meaning_ko": "~에 대해 명상하다",
+        "example": "meditate upon"
+      }
+    ],
+    "requiredComplements": [
+      "meditate : 명상하다/사색하다",
+      "meditate on + 명사 : ~에 대해 명상하다",
+      "meditate upon + 명사 : ~에 대해 명상하다"
+    ],
+    "morphology": "라틴어 meditari에서 유래한 단어로, '명상하다' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "meditated",
+        "meaning_ko": "명상한(과거분사)"
+      },
+      {
+        "word": "meditating",
+        "meaning_ko": "명상하는(현재분사)"
+      },
+      {
+        "word": "meditation",
+        "meaning_ko": "명상"
+      }
+    ],
+    "related": [
+      {
+        "word": "contemplate",
+        "meaning_ko": "명상하다"
+      },
+      {
+        "word": "reflect",
+        "meaning_ko": "반성하다"
+      },
+      {
+        "word": "think",
+        "meaning_ko": "생각하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "contemplate",
+        "meaning_ko": "명상하다"
+      },
+      {
+        "word": "reflect",
+        "meaning_ko": "반성하다"
+      },
+      {
+        "word": "think",
+        "meaning_ko": "생각하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "ponder",
+        "meaning_ko": "숙고하다(범위가 더 넓음)"
+      },
+      {
+        "word": "ruminate",
+        "meaning_ko": "명상하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "act",
+        "meaning_ko": "행동하다"
+      },
+      {
+        "word": "rush",
+        "meaning_ko": "서두르다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "meditate on",
+            "meaning_ko": "~에 대해 명상하다"
+          },
+          {
+            "phrase": "meditate upon",
+            "meaning_ko": "~에 대해 명상하다"
+          },
+          {
+            "phrase": "meditate daily",
+            "meaning_ko": "매일 명상하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "meditate on the problem",
+            "meaning_ko": "그 문제에 대해 명상하다"
+          },
+          {
+            "phrase": "meditate upon the meaning",
+            "meaning_ko": "그 의미에 대해 명상하다"
+          },
+          {
+            "phrase": "meditate in silence",
+            "meaning_ko": "침묵 속에서 명상하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "meditate on the nature",
+            "meaning_ko": "그 본질에 대해 명상하다"
+          },
+          {
+            "phrase": "meditate upon the truth",
+            "meaning_ko": "그 진리에 대해 명상하다"
+          },
+          {
+            "phrase": "meditate deeply",
+            "meaning_ko": "깊이 명상하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He meditated daily.",
+            "meaning_ko": "그는 매일 명상했습니다."
+          },
+          {
+            "sentence": "She meditated on the problem.",
+            "meaning_ko": "그녀는 그 문제에 대해 명상했습니다."
+          },
+          {
+            "sentence": "They meditated in silence.",
+            "meaning_ko": "그들은 침묵 속에서 명상했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He meditated daily, with his contemplate and reflect creating peace and clarity, though the meditation would require discipline and practice.",
+            "meaning_ko": "그는 매일 명상했고, 그의 명상 그리고 반성이 평화와 명확성을 만들었지만, 그 명상은 훈련과 연습을 요구할 것입니다."
+          },
+          {
+            "sentence": "She meditated on the problem, with the ponder and ruminate creating understanding and insight, though the meditation would need to be focused and deep.",
+            "meaning_ko": "그녀는 그 문제에 대해 명상했고, 그 숙고 그리고 명상이 이해와 통찰을 만들었지만, 그 명상은 집중되고 깊을 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They meditated in silence, with the think and contemplate creating reflection and peace, though the meditation would require quiet and focus.",
+            "meaning_ko": "그들은 침묵 속에서 명상했고, 그 생각 그리고 명상이 반성과 평화를 만들었지만, 그 명상은 조용함과 집중을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to meditate on the nature that was made in the process created opportunities for understanding and insight, with the meditation enabling reflection and contemplation, though the meditation would require comprehensive focus and discipline to ensure that nature is properly contemplated and understanding is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 본질에 대해 명상하기로 한 그 결정은 이해와 통찰을 위한 기회를 만들었고, 그 명상이 반성과 명상을 가능하게 했지만, 그 명상은 본질이 적절히 명상되고 이해가 효과적으로 달성되는 것을 보장하기 위해 포괄적인 집중과 훈련을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to meditate upon the truth that was undertaken in the initiative created pathways for understanding and wisdom, with the meditation enabling contemplation and reflection, though the meditation would need to be systematically practiced through discipline and focus to ensure that truth is properly contemplated and understanding is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 진리에 대해 명상하기 위한 그 노력은 이해와 지혜를 위한 경로를 만들었고, 그 명상이 명상과 반성을 가능하게 했지만, 그 명상은 진리가 적절히 명상되고 이해가 효과적으로 달성되는 것을 보장하기 위해 훈련과 집중을 통해 체계적으로 연습될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to practice meditate deeply that was completed in the system created structure and methods for reflection and understanding, with the practice enabling development of focus and discipline, though the meditation would require ongoing practice and discipline to ensure that meditation continues to be deep and understanding remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 깊이 명상하기를 연습하기 위한 그 작업은 반성과 이해를 위한 구조와 방법을 만들었고, 그 연습이 집중과 훈련의 발전을 가능하게 했지만, 그 명상은 명상이 계속 깊고 이해가 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 연습과 훈련을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "meditate는 '명상하다, 사색하다' 또는 '깊이 생각하다, 숙고하다' 의미로, 명상하거나 사색하는 행동을 가리킵니다. contemplate, reflect와 비슷하지만 더 깊은 뉘앙스가 있습니다. meditate on ~, meditate upon ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: meditate = (A) act (B) contemplate or reflect (C) rush (D) hurry",
+            "a": "B",
+            "meaning_ko": "meditate는 '명상하다 또는 반성하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ daily.",
+            "a": "meditated",
+            "meaning_ko": "meditate는 '명상하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of meditate? (A) contemplate (B) reflect (C) act (D) think",
+            "a": "C",
+            "meaning_ko": "act(행동하다)가 meditate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: meditate _____ the problem. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "meditate on ~는 '~에 대해 명상하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: meditate = (A) act (B) contemplate (C) rush (D) hurry",
+            "a": "B",
+            "meaning_ko": "contemplate(명상하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She meditated at the problem.' → Fix the preposition.",
+            "a": "She meditated on the problem.",
+            "meaning_ko": "meditate on ~는 '~에 대해 명상하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He meditated daily.'",
+            "a": "He practiced contemplation and reflection regularly, with the meditation creating peace and clarity, though the practice would require discipline and focus.",
+            "meaning_ko": "meditate는 '명상하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ in silence. (A) meditate (B) meditates (C) meditated (D) meditating",
+            "a": "C",
+            "meaning_ko": "과거형 meditated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses meditate most appropriately? (A) The meditate ran. (B) He meditated daily. (C) She meditate smiled. (D) Meditate is good.",
+            "a": "B",
+            "meaning_ko": "meditate는 동사로 '명상하다'를 의미하며, meditate와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

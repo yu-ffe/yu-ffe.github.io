@@ -1,0 +1,827 @@
+[
+  {
+    "word": "default",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "기본값, 기본 설정; 기본값이나 기본 설정.",
+        "note": "기본값이나 기본 설정을 가리킵니다."
+      },
+      {
+        "definition_ko": "불이행, 채무 불이행; 불이행이나 채무 불이행.",
+        "note": "불이행이나 채무 불이행을 가리킵니다."
+      },
+      {
+        "definition_ko": "기본값으로 설정하다, 불이행하다; 기본값으로 설정하거나 불이행하다.",
+        "note": "기본값으로 설정하거나 불이행하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "기본값이나 기본 설정인 기본값, 또는 불이행이나 채무 불이행, 또는 기본값으로 설정하거나 불이행하는 것.",
+    "etymology": "고대 프랑스어 defaute(결핍)에서 유래했으며, 라틴어 defallere(실패하다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '결핍' 의미였고, 현대에는 '기본값이나 기본 설정'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사와 동사로 모두 사용되며, default 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 불이행하다",
+        "example": "default on"
+      }
+    ],
+    "requiredComplements": [
+      "default : 기본값/불이행",
+      "default on + 명사 : ~에 불이행하다",
+      "by default : 기본적으로"
+    ],
+    "morphology": "고대 프랑스어 defaute에서 유래한 단어로, 라틴어 defallere(실패하다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "defaults",
+        "meaning_ko": "기본값들(복수형)"
+      },
+      {
+        "word": "defaulted",
+        "meaning_ko": "불이행한(과거분사/형용사)"
+      },
+      {
+        "word": "defaulting",
+        "meaning_ko": "불이행하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "standard",
+        "meaning_ko": "표준"
+      },
+      {
+        "word": "failure",
+        "meaning_ko": "실패"
+      },
+      {
+        "word": "nonpayment",
+        "meaning_ko": "불지급"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "standard",
+        "meaning_ko": "표준"
+      },
+      {
+        "word": "failure",
+        "meaning_ko": "실패"
+      },
+      {
+        "word": "nonpayment",
+        "meaning_ko": "불지급"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "preset",
+        "meaning_ko": "사전 설정(범위가 더 넓음)"
+      },
+      {
+        "word": "norm",
+        "meaning_ko": "표준"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "custom",
+        "meaning_ko": "맞춤"
+      },
+      {
+        "word": "payment",
+        "meaning_ko": "지급"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "default on",
+            "meaning_ko": "~에 불이행하다"
+          },
+          {
+            "phrase": "by default",
+            "meaning_ko": "기본적으로"
+          },
+          {
+            "phrase": "default setting",
+            "meaning_ko": "기본 설정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "default on the loan",
+            "meaning_ko": "그 대출에 불이행하다"
+          },
+          {
+            "phrase": "default option",
+            "meaning_ko": "기본 옵션"
+          },
+          {
+            "phrase": "default value",
+            "meaning_ko": "기본값"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "default on the payment",
+            "meaning_ko": "그 지급에 불이행하다"
+          },
+          {
+            "phrase": "default configuration",
+            "meaning_ko": "기본 구성"
+          },
+          {
+            "phrase": "default behavior",
+            "meaning_ko": "기본 행동"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He used the default setting.",
+            "meaning_ko": "그는 기본 설정을 사용했습니다."
+          },
+          {
+            "sentence": "She defaulted on the loan.",
+            "meaning_ko": "그녀는 그 대출에 불이행했습니다."
+          },
+          {
+            "sentence": "They chose the default option.",
+            "meaning_ko": "그들은 기본 옵션을 선택했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He used the default setting, with the standard and preset configuration creating ease and convenience, though the default would require adjustment and customization.",
+            "meaning_ko": "그는 기본 설정을 사용했고, 그 표준과 사전 설정 구성이 편의와 편리함을 만들었지만, 그 기본값은 조정과 맞춤화를 요구할 것입니다."
+          },
+          {
+            "sentence": "She defaulted on the loan, with the failure and nonpayment creating consequences and problems, though the default would need to be addressed and resolved.",
+            "meaning_ko": "그녀는 그 대출에 불이행했고, 그 실패와 불지급이 결과와 문제를 만들었지만, 그 불이행은 다뤄지고 해결될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They chose the default option, with the norm and standard selection creating simplicity and efficiency, though the default would require consideration and evaluation.",
+            "meaning_ko": "그들은 기본 옵션을 선택했고, 그 표준과 표준 선택이 단순성과 효율성을 만들었지만, 그 기본값은 고려와 평가를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to default on the payment that was made in the situation created serious consequences and legal issues, with the nonpayment leading to penalties and damage to credit, though the default would require immediate attention and resolution to prevent further complications and restore financial standing.",
+            "meaning_ko": "그 상황에서 내려졌던 그 지급에 불이행하기로 한 그 결정은 심각한 결과와 법적 이슈를 만들었고, 그 불지급이 벌금과 신용 손상으로 이어졌지만, 그 불이행은 추가 복잡성을 방지하고 재정적 지위를 회복하기 위해 즉각적인 주의와 해결을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to configure the default behavior that was undertaken in the system created structure and predictability, with the setting enabling consistent operation and user experience, though the default would need to be designed with care and consideration to ensure that it serves users effectively and can be easily adjusted when needed.",
+            "meaning_ko": "그 시스템에서 착수되었던 그 기본 행동을 구성하기 위한 그 노력은 구조와 예측 가능성을 만들었고, 그 설정이 일관된 운영과 사용자 경험을 가능하게 했지만, 그 기본값은 사용자에게 효과적으로 서비스하고 필요할 때 쉽게 조정될 수 있도록 신중과 고려로 설계될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to maintain the default configuration that was completed in the program created stability and consistency, with the standard enabling reliable performance and ease of use, though the default would require ongoing monitoring and updates to ensure that it remains appropriate and effective as needs and technologies evolve.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 기본 구성을 유지하기 위한 그 작업은 안정성과 일관성을 만들었고, 그 표준이 신뢰할 수 있는 성과와 사용 편의성을 가능하게 했지만, 그 기본값은 필요와 기술이 발전함에 따라 계속 적절하고 효과적인 것을 보장하기 위해 지속적인 모니터링과 업데이트를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "default는 '기본값, 기본 설정' 또는 '불이행, 채무 불이행' 또는 '기본값으로 설정하다, 불이행하다' 의미로, 기본값이나 기본 설정을 가리킵니다. standard, failure와 비슷하지만 더 일반적 뉘앙스가 있습니다. default on ~, by default 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: default = (A) custom (B) standard or failure (C) payment (D) success",
+            "a": "B",
+            "meaning_ko": "default는 '표준 또는 실패' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He used the _____ setting.",
+            "a": "default",
+            "meaning_ko": "default는 '기본' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of default? (A) standard (B) failure (C) custom (D) norm",
+            "a": "C",
+            "meaning_ko": "custom(맞춤)가 default의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: default _____ the loan. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "default on ~는 '~에 불이행하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: default = (A) custom (B) standard (C) payment (D) success",
+            "a": "B",
+            "meaning_ko": "standard(표준)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She defaulted at the loan.' → Fix the preposition.",
+            "a": "She defaulted on the loan.",
+            "meaning_ko": "default on ~는 '~에 불이행하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He used the default setting.'",
+            "a": "He utilized the standard and preset configuration, with the default creating ease and convenience, though the setting would require adjustment and customization.",
+            "meaning_ko": "default는 '기본' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They chose the _____ option. (A) default (B) defaults (C) defaulted (D) defaulting",
+            "a": "A",
+            "meaning_ko": "형용사 default가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses default most appropriately? (A) The default ran. (B) He used the default setting. (C) She default smiled. (D) Default is good.",
+            "a": "B",
+            "meaning_ko": "default는 형용사로 '기본'을 의미하며, default setting와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "alienate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "소외시키다, 멀어지게 하다; 소외시키거나 멀어지게 하다.",
+        "note": "소외시키거나 멀어지게 하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "이전하다, 양도하다; 이전하거나 양도하다.",
+        "note": "이전하거나 양도하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "소외시키거나 멀어지게 하는 것, 또는 이전하거나 양도하는 것.",
+    "etymology": "라틴어 alienare(소외시키다)에서 유래했으며, alienus(낯선)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '소외시키다' 의미였고, 현대에는 '이전하거나 양도하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 자주 사용되며, alienate + from 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터 소외시키다",
+        "example": "alienate from"
+      }
+    ],
+    "requiredComplements": [
+      "alienate + 명사 : ~을 소외시키다",
+      "alienate + 명사 + from + 명사 : ~을 ~로부터 소외시키다"
+    ],
+    "morphology": "라틴어 alienare에서 유래한 단어로, alienus(낯선)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "alienated",
+        "meaning_ko": "소외된(과거분사/형용사)"
+      },
+      {
+        "word": "alienating",
+        "meaning_ko": "소외시키는(현재분사/형용사)"
+      },
+      {
+        "word": "alienation",
+        "meaning_ko": "소외"
+      }
+    ],
+    "related": [
+      {
+        "word": "estrange",
+        "meaning_ko": "소외시키다"
+      },
+      {
+        "word": "isolate",
+        "meaning_ko": "고립시키다"
+      },
+      {
+        "word": "distance",
+        "meaning_ko": "멀어지게 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "estrange",
+        "meaning_ko": "소외시키다"
+      },
+      {
+        "word": "isolate",
+        "meaning_ko": "고립시키다"
+      },
+      {
+        "word": "distance",
+        "meaning_ko": "멀어지게 하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "disaffect",
+        "meaning_ko": "불만을 품게 하다(범위가 더 넓음)"
+      },
+      {
+        "word": "disconnect",
+        "meaning_ko": "단절시키다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unite",
+        "meaning_ko": "결합시키다"
+      },
+      {
+        "word": "connect",
+        "meaning_ko": "연결시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "alienate from",
+            "meaning_ko": "~로부터 소외시키다"
+          },
+          {
+            "phrase": "alienate the audience",
+            "meaning_ko": "그 청중을 소외시키다"
+          },
+          {
+            "phrase": "alienate friends",
+            "meaning_ko": "친구들을 소외시키다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "alienate from the group",
+            "meaning_ko": "그 그룹으로부터 소외시키다"
+          },
+          {
+            "phrase": "alienate supporters",
+            "meaning_ko": "지지자들을 소외시키다"
+          },
+          {
+            "phrase": "alienate voters",
+            "meaning_ko": "유권자들을 소외시키다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "alienate from the community",
+            "meaning_ko": "그 공동체로부터 소외시키다"
+          },
+          {
+            "phrase": "alienate constituents",
+            "meaning_ko": "구성원들을 소외시키다"
+          },
+          {
+            "phrase": "alienate stakeholders",
+            "meaning_ko": "이해관계자들을 소외시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He alienated the audience.",
+            "meaning_ko": "그는 그 청중을 소외시켰습니다."
+          },
+          {
+            "sentence": "She alienated from the group.",
+            "meaning_ko": "그녀는 그 그룹으로부터 소외되었습니다."
+          },
+          {
+            "sentence": "They alienated friends.",
+            "meaning_ko": "그들은 친구들을 소외시켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He alienated the audience, with his estrange and isolate creating distance and disconnection, though the alienation would require reconciliation and repair.",
+            "meaning_ko": "그는 그 청중을 소외시켰고, 그의 소외시키기와 고립시키기가 거리와 단절을 만들었지만, 그 소외는 화해와 수리를 요구할 것입니다."
+          },
+          {
+            "sentence": "She alienated from the group, with her disconnect and disaffect creating isolation and separation, though the alienation would need to be addressed and overcome.",
+            "meaning_ko": "그녀는 그 그룹으로부터 소외되었고, 그녀의 단절시키기와 불만을 품게 하기가 고립과 분리를 만들었지만, 그 소외는 다뤄지고 극복될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They alienated friends, with their distance and estrange creating loss and estrangement, though the alienation would require understanding and effort.",
+            "meaning_ko": "그들은 친구들을 소외시켰고, 그들의 멀어지게 하기와 소외시키기가 손실과 소외를 만들었지만, 그 소외는 이해와 노력을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to alienate from the community that was made in the approach created isolation and disconnection, with the separation leading to loss of support and relationships, though the alienation would require comprehensive efforts to rebuild connections and restore trust to ensure that relationships are repaired and the individual can reintegrate.",
+            "meaning_ko": "그 접근에서 내려졌던 그 공동체로부터 소외시키기로 한 그 결정은 고립과 단절을 만들었고, 그 분리가 지원과 관계의 손실로 이어졌지만, 그 소외는 관계가 수리되고 개인이 재통합할 수 있도록 연결을 재구축하고 신뢰를 회복하기 위한 포괄적인 노력을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to avoid alienating constituents that was undertaken in the communication created opportunities for engagement and connection, with the approach enabling maintenance of relationships and support, though the alienation would need to be prevented through careful consideration and responsiveness to ensure that constituents feel valued and remain engaged.",
+            "meaning_ko": "그 소통에서 착수되었던 그 구성원들을 소외시키는 것을 피하기 위한 그 노력은 참여와 연결을 위한 기회를 만들었고, 그 접근이 관계와 지원의 유지를 가능하게 했지만, 그 소외는 구성원들이 가치 있다고 느끼고 계속 참여하는 것을 보장하기 위해 신중한 고려와 반응성을 통해 방지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to address the alienation of stakeholders that was completed in the program created pathways for reconciliation and reconnection, with the effort enabling repair of relationships and restoration of trust, though the alienation would require ongoing attention and commitment to ensure that stakeholders remain engaged and relationships are maintained and strengthened.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 이해관계자들의 그 소외를 다루기 위한 그 작업은 화해와 재연결을 위한 경로를 만들었고, 그 노력이 관계의 수리와 신뢰의 회복을 가능하게 했지만, 그 소외는 이해관계자들이 계속 참여하고 관계가 유지되고 강화되는 것을 보장하기 위해 지속적인 주의와 헌신을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "alienate는 '소외시키다, 멀어지게 하다' 또는 '이전하다, 양도하다' 의미로, 소외시키거나 멀어지게 하는 행동을 가리킵니다. estrange, isolate와 비슷하지만 더 문어적 뉘앙스가 있습니다. alienate from ~, alienate the audience 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: alienate = (A) unite (B) estrange or isolate (C) connect (D) join",
+            "a": "B",
+            "meaning_ko": "alienate는 '소외시키다 또는 고립시키다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the audience.",
+            "a": "alienated",
+            "meaning_ko": "alienate는 '소외시키다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of alienate? (A) estrange (B) isolate (C) unite (D) distance",
+            "a": "C",
+            "meaning_ko": "unite(결합시키다)가 alienate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: alienate _____ the group. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "alienate from ~는 '~로부터 소외시키다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: alienate = (A) unite (B) estrange (C) connect (D) join",
+            "a": "B",
+            "meaning_ko": "estrange(소외시키다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She alienated at the group.' → Fix the preposition.",
+            "a": "She alienated from the group.",
+            "meaning_ko": "alienate from ~는 '~로부터 소외시키다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He alienated the audience.'",
+            "a": "He estranged and isolated the listeners, with the alienation creating distance and disconnection, though the separation would require reconciliation and repair.",
+            "meaning_ko": "alienate는 '소외시키다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ friends. (A) alienate (B) alienates (C) alienated (D) alienating",
+            "a": "C",
+            "meaning_ko": "과거형 alienated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses alienate most appropriately? (A) The alienate ran. (B) He alienated the audience. (C) She alienate smiled. (D) Alienate is good.",
+            "a": "B",
+            "meaning_ko": "alienate는 타동사로 '소외시키다'를 의미하며, alienate + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "megalomania",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "과대망상, 거대한 망상; 과대망상이나 거대한 망상.",
+        "note": "과대망상이나 거대한 망상을 가리킵니다."
+      },
+      {
+        "definition_ko": "과대한 야망, 과도한 권력욕; 과대한 야망이나 과도한 권력욕.",
+        "note": "과대한 야망이나 과도한 권력욕을 가리킵니다."
+      }
+    ],
+    "concept": "과대망상이나 거대한 망상인 과대망상, 또는 과대한 야망이나 과도한 권력욕.",
+    "etymology": "그리스어 megalomania(거대한 망상)에서 유래했으며, megas(거대한) + mania(망상)의 조합입니다.",
+    "semanticExtension": "원래는 '거대한 망상' 의미였고, 현대에는 '과대한 야망이나 과도한 권력욕'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, megalomania 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 과대망상",
+        "example": "megalomania of"
+      }
+    ],
+    "requiredComplements": [
+      "megalomania : 과대망상/거대한 망상",
+      "megalomania of + 명사 : ~의 과대망상"
+    ],
+    "morphology": "그리스어 megalomania에서 유래한 단어로, megas(거대한) + mania(망상)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "megalomanias",
+        "meaning_ko": "과대망상들(복수형)"
+      },
+      {
+        "word": "megalomaniac",
+        "meaning_ko": "과대망상자"
+      },
+      {
+        "word": "megalomaniacal",
+        "meaning_ko": "과대망상의"
+      }
+    ],
+    "related": [
+      {
+        "word": "delusion",
+        "meaning_ko": "망상"
+      },
+      {
+        "word": "grandiosity",
+        "meaning_ko": "과대함"
+      },
+      {
+        "word": "arrogance",
+        "meaning_ko": "오만"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "delusion",
+        "meaning_ko": "망상"
+      },
+      {
+        "word": "grandiosity",
+        "meaning_ko": "과대함"
+      },
+      {
+        "word": "arrogance",
+        "meaning_ko": "오만"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "narcissism",
+        "meaning_ko": "자기애(범위가 더 넓음)"
+      },
+      {
+        "word": "hubris",
+        "meaning_ko": "오만"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "humility",
+        "meaning_ko": "겸손"
+      },
+      {
+        "word": "modesty",
+        "meaning_ko": "겸손"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "megalomania of",
+            "meaning_ko": "~의 과대망상"
+          },
+          {
+            "phrase": "political megalomania",
+            "meaning_ko": "정치적 과대망상"
+          },
+          {
+            "phrase": "dangerous megalomania",
+            "meaning_ko": "위험한 과대망상"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "megalomania of power",
+            "meaning_ko": "권력의 과대망상"
+          },
+          {
+            "phrase": "delusional megalomania",
+            "meaning_ko": "망상적 과대망상"
+          },
+          {
+            "phrase": "pathological megalomania",
+            "meaning_ko": "병리적 과대망상"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "megalomania of the leader",
+            "meaning_ko": "그 지도자의 과대망상"
+          },
+          {
+            "phrase": "clinical megalomania",
+            "meaning_ko": "임상적 과대망상"
+          },
+          {
+            "phrase": "extreme megalomania",
+            "meaning_ko": "극단적 과대망상"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He suffered from megalomania.",
+            "meaning_ko": "그는 과대망상으로 고통받았습니다."
+          },
+          {
+            "sentence": "She showed signs of megalomania.",
+            "meaning_ko": "그녀는 과대망상의 징후를 보였습니다."
+          },
+          {
+            "sentence": "They recognized the megalomania.",
+            "meaning_ko": "그들은 그 과대망상을 인식했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He suffered from megalomania, with his delusion and grandiosity creating false beliefs and arrogance, though the megalomania would require treatment and intervention.",
+            "meaning_ko": "그는 과대망상으로 고통받았고, 그의 망상과 과대함이 거짓된 믿음과 오만을 만들었지만, 그 과대망상은 치료와 개입을 요구할 것입니다."
+          },
+          {
+            "sentence": "She showed signs of megalomania, with her narcissism and hubris creating excessive self-importance and pride, though the megalomania would need to be addressed and managed.",
+            "meaning_ko": "그녀는 과대망상의 징후를 보였고, 그녀의 자기애와 오만이 과도한 자기 중요성과 자부심을 만들었지만, 그 과대망상은 다뤄지고 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They recognized the megalomania, with the pathological and delusional condition creating concern and danger, though the megalomania would require understanding and care.",
+            "meaning_ko": "그들은 그 과대망상을 인식했고, 그 병리적이고 망상적인 조건이 우려와 위험을 만들었지만, 그 과대망상은 이해와 돌봄을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address the megalomania of the leader that was made in the intervention created opportunities for treatment and support, with the recognition enabling identification of delusional patterns and behaviors, though the megalomania would require comprehensive psychological care and management to ensure that the condition is properly treated and does not lead to harmful consequences.",
+            "meaning_ko": "그 개입에서 내려졌던 그 지도자의 그 과대망상을 다루기로 한 그 결정은 치료와 지원을 위한 기회를 만들었고, 그 인정이 망상적 패턴과 행동의 식별을 가능하게 했지만, 그 과대망상은 조건이 적절히 치료되고 해로운 결과로 이어지지 않는 것을 보장하기 위해 포괄적인 심리적 돌봄과 관리를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to understand the clinical megalomania that was undertaken in the study created insights into pathological grandiosity and delusion, with the examination enabling recognition of symptoms and patterns, though the megalomania would need to be systematically addressed through professional treatment and support to ensure that individuals receive appropriate care and can manage their condition effectively.",
+            "meaning_ko": "그 연구에서 착수되었던 그 임상적 과대망상을 이해하기 위한 그 노력은 병리적 과대함과 망상에 대한 통찰을 만들었고, 그 검토가 증상과 패턴의 인식을 가능하게 했지만, 그 과대망상은 개인이 적절한 돌봄을 받고 그들의 조건을 효과적으로 관리할 수 있도록 전문적 치료와 지원을 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to manage the extreme megalomania that was completed in the program created structure and support for treatment and recovery, with the management enabling reduction of delusional thinking and harmful behaviors, though the megalomania would require ongoing monitoring and care to ensure that the condition is controlled and individuals can function effectively in their relationships and responsibilities.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 극단적 과대망상을 관리하기 위한 그 작업은 치료와 회복을 위한 구조와 지원을 만들었고, 그 관리가 망상적 사고와 해로운 행동의 감소를 가능하게 했지만, 그 과대망상은 조건이 통제되고 개인이 그들의 관계와 책임에서 효과적으로 기능할 수 있도록 지속적인 모니터링과 돌봄을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "megalomania는 '과대망상, 거대한 망상' 또는 '과대한 야망, 과도한 권력욕' 의미로, 과대망상이나 거대한 망상을 가리킵니다. delusion, grandiosity와 비슷하지만 더 문어적 뉘앙스가 있습니다. megalomania of ~, political megalomania 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "심리",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: megalomania = (A) humility (B) delusion or grandiosity (C) modesty (D) simplicity",
+            "a": "B",
+            "meaning_ko": "megalomania는 '망상 또는 과대함' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He suffered from _____.",
+            "a": "megalomania",
+            "meaning_ko": "megalomania는 '과대망상' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of megalomania? (A) delusion (B) grandiosity (C) humility (D) arrogance",
+            "a": "C",
+            "meaning_ko": "humility(겸손)가 megalomania의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: megalomania _____ power. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "megalomania of ~는 '~의 과대망상' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: megalomania = (A) humility (B) delusion (C) modesty (D) simplicity",
+            "a": "B",
+            "meaning_ko": "delusion(망상)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She showed signs of megalomania at power.' → Fix the sentence.",
+            "a": "She showed signs of megalomania.",
+            "meaning_ko": "megalomania는 직접 명사로 쓰이므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He suffered from megalomania.'",
+            "a": "He experienced delusion and grandiosity, with the megalomania creating false beliefs and arrogance, though the condition would require treatment and intervention.",
+            "meaning_ko": "megalomania는 '과대망상' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They recognized the _____. (A) megalomania (B) megalomanias (C) megalomaniac (D) megalomaniacal",
+            "a": "A",
+            "meaning_ko": "명사 megalomania가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses megalomania most appropriately? (A) The megalomania ran. (B) He suffered from megalomania. (C) She megalomania smiled. (D) Megalomania is good.",
+            "a": "B",
+            "meaning_ko": "megalomania는 명사로 '과대망상'을 의미하며, suffer from megalomania와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

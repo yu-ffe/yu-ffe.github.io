@@ -1,0 +1,821 @@
+[
+  {
+    "word": "accommodate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "수용하다, 수용하다; 수용하거나 수용하는 것.",
+        "note": "수용하거나 수용하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "적응하다, 맞추다; 적응하거나 맞추는 것.",
+        "note": "적응하거나 맞추는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "수용하거나 수용하는 행동, 또는 적응하거나 맞추는 행동.",
+    "etymology": "라틴어 accommodare(맞추다)에서 유래했으며, '맞추다' 의미입니다.",
+    "semanticExtension": "원래는 '맞추다' 의미였고, 현대에는 '수용하다' 또는 '적응하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 사용되며, accommodate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 적응하다",
+        "example": "accommodate to"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와 맞추다",
+        "example": "accommodate with"
+      }
+    ],
+    "requiredComplements": [
+      "accommodate + 명사 : ~을 수용하다/적응하다",
+      "accommodate to + 명사 : ~에 적응하다",
+      "accommodate with + 명사 : ~와 맞추다"
+    ],
+    "morphology": "라틴어 accommodare에서 유래한 단어로, '맞추다' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "accommodated",
+        "meaning_ko": "수용한(과거분사)"
+      },
+      {
+        "word": "accommodating",
+        "meaning_ko": "수용하는(현재분사)"
+      },
+      {
+        "word": "accommodation",
+        "meaning_ko": "수용"
+      }
+    ],
+    "related": [
+      {
+        "word": "adapt",
+        "meaning_ko": "적응하다"
+      },
+      {
+        "word": "adjust",
+        "meaning_ko": "조정하다"
+      },
+      {
+        "word": "fit",
+        "meaning_ko": "맞추다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "adapt",
+        "meaning_ko": "적응하다"
+      },
+      {
+        "word": "adjust",
+        "meaning_ko": "조정하다"
+      },
+      {
+        "word": "fit",
+        "meaning_ko": "맞추다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "conform",
+        "meaning_ko": "순응하다(범위가 더 넓음)"
+      },
+      {
+        "word": "comply",
+        "meaning_ko": "순응하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reject",
+        "meaning_ko": "거부하다"
+      },
+      {
+        "word": "resist",
+        "meaning_ko": "저항하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "accommodate to",
+            "meaning_ko": "~에 적응하다"
+          },
+          {
+            "phrase": "accommodate with",
+            "meaning_ko": "~와 맞추다"
+          },
+          {
+            "phrase": "accommodate guests",
+            "meaning_ko": "그 손님들을 수용하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "accommodate to the situation",
+            "meaning_ko": "그 상황에 적응하다"
+          },
+          {
+            "phrase": "accommodate with the request",
+            "meaning_ko": "그 요청과 맞추다"
+          },
+          {
+            "phrase": "accommodate needs",
+            "meaning_ko": "그 필요들을 수용하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "accommodate to the change",
+            "meaning_ko": "그 변화에 적응하다"
+          },
+          {
+            "phrase": "accommodate with the requirements",
+            "meaning_ko": "그 요구사항들과 맞추다"
+          },
+          {
+            "phrase": "accommodate preferences",
+            "meaning_ko": "그 선호들을 수용하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He accommodated the guests.",
+            "meaning_ko": "그는 그 손님들을 수용했습니다."
+          },
+          {
+            "sentence": "She accommodated to the situation.",
+            "meaning_ko": "그녀는 그 상황에 적응했습니다."
+          },
+          {
+            "sentence": "They accommodated with the request.",
+            "meaning_ko": "그들은 그 요청과 맞췄습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He accommodated the guests, with his adapt and adjust creating accommodation and fitting, though the accommodating would require space and resources.",
+            "meaning_ko": "그는 그 손님들을 수용했고, 그의 적응 그리고 조정이 수용과 맞춤을 만들었지만, 그 수용은 공간과 자원을 요구할 것입니다."
+          },
+          {
+            "sentence": "She accommodated to the situation, with the conform and comply creating adaptation and adjustment, though the accommodating would need to be flexible and responsive.",
+            "meaning_ko": "그녀는 그 상황에 적응했고, 그 순응 그리고 순응이 적응과 조정을 만들었지만, 그 수용은 유연하고 반응적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They accommodated with the request, with the fit and adjust creating accommodation and compliance, though the accommodating would require flexibility and cooperation.",
+            "meaning_ko": "그들은 그 요청과 맞췄고, 그 맞춤 그리고 조정이 수용과 순응을 만들었지만, 그 수용은 유연성과 협력을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to accommodate to the change that was made in the process created opportunities for adaptation and flexibility, with the accommodating enabling adjustment and fitting, though the accommodation would require comprehensive planning and coordination to ensure that change is properly accommodated and adaptation is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 변화에 적응하기로 한 그 결정은 적응과 유연성을 위한 기회를 만들었고, 그 수용이 조정과 맞춤을 가능하게 했지만, 그 수용은 변화가 적절히 수용되고 적응이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 계획과 조정을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to accommodate with the requirements that was undertaken in the initiative created pathways for compliance and fitting, with the accommodating enabling adjustment and adaptation, though the accommodation would need to be systematically managed through planning and coordination to ensure that requirements are properly accommodated and compliance is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 요구사항들과 맞추기 위한 그 노력은 순응과 맞춤을 위한 경로를 만들었고, 그 수용이 조정과 적응을 가능하게 했지만, 그 수용은 요구사항들이 적절히 수용되고 순응이 효과적으로 달성되는 것을 보장하기 위해 계획과 조정을 통해 체계적으로 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to accommodate preferences that was completed in the system created structure and methods for flexibility and adaptation, with the accommodation enabling adjustment and fitting, though the accommodating would require ongoing planning and coordination to ensure that preferences continue to be accommodated and flexibility remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 선호들을 수용하기 위한 그 작업은 유연성과 적응을 위한 구조와 방법을 만들었고, 그 수용이 조정과 맞춤을 가능하게 했지만, 그 수용은 선호들이 계속 수용되고 유연성이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 계획과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "accommodate는 '수용하다, 수용하다' 또는 '적응하다, 맞추다' 의미로, 수용하거나 수용하는 행동을 가리킵니다. adapt, adjust와 비슷하지만 더 일반적 뉘앙스가 있습니다. accommodate to ~, accommodate with ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: accommodate = (A) reject (B) adapt or adjust (C) resist (D) refuse",
+            "a": "B",
+            "meaning_ko": "accommodate는 '적응하다 또는 조정하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the guests.",
+            "a": "accommodated",
+            "meaning_ko": "accommodate는 '수용하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of accommodate? (A) adapt (B) adjust (C) reject (D) fit",
+            "a": "C",
+            "meaning_ko": "reject(거부하다)가 accommodate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: accommodate _____ the situation. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "accommodate to ~는 '~에 적응하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: accommodate = (A) reject (B) adapt (C) resist (D) refuse",
+            "a": "B",
+            "meaning_ko": "adapt(적응하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She accommodated at the situation.' → Fix the preposition.",
+            "a": "She accommodated to the situation.",
+            "meaning_ko": "accommodate to ~는 '~에 적응하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He accommodated the guests.'",
+            "a": "He adapted and adjusted to provide for the visitors, with the accommodating creating accommodation and fitting, though the guests would require space and resources.",
+            "meaning_ko": "accommodate는 '수용하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ with the request. (A) accommodate (B) accommodates (C) accommodated (D) accommodating",
+            "a": "C",
+            "meaning_ko": "과거형 accommodated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses accommodate most appropriately? (A) The accommodate ran. (B) He accommodated the guests. (C) She accommodate smiled. (D) Accommodate is good.",
+            "a": "B",
+            "meaning_ko": "accommodate는 동사로 '수용하다'를 의미하며, accommodate + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "coffin",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "관, 관; 관이나 관.",
+        "note": "관이나 관을 가리킵니다."
+      },
+      {
+        "definition_ko": "시체함, 시체함; 시체함이나 시체함.",
+        "note": "시체함이나 시체함을 가리킵니다."
+      }
+    ],
+    "concept": "관이나 관인 관, 또는 시체함이나 시체함.",
+    "etymology": "프랑스어 coffre(상자)에서 유래했으며, '상자' 의미에서 '관' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '상자' 의미였고, 현대에는 '관' 또는 '시체함'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, coffin 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "관에서",
+        "example": "in the coffin"
+      }
+    ],
+    "requiredComplements": [
+      "coffin : 관/시체함",
+      "in the coffin : 관에서"
+    ],
+    "morphology": "프랑스어 coffre에서 유래한 단어로, '상자' 의미에서 '관' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "coffin",
+        "meaning_ko": "관(단수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "casket",
+        "meaning_ko": "관"
+      },
+      {
+        "word": "burial",
+        "meaning_ko": "매장"
+      },
+      {
+        "word": "funeral",
+        "meaning_ko": "장례식"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "casket",
+        "meaning_ko": "관"
+      },
+      {
+        "word": "burial",
+        "meaning_ko": "매장"
+      },
+      {
+        "word": "funeral",
+        "meaning_ko": "장례식"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sarcophagus",
+        "meaning_ko": "석관(범위가 더 넓음)"
+      },
+      {
+        "word": "bier",
+        "meaning_ko": "관대"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "birth",
+        "meaning_ko": "탄생"
+      },
+      {
+        "word": "life",
+        "meaning_ko": "생명"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "in the coffin",
+            "meaning_ko": "관에서"
+          },
+          {
+            "phrase": "coffin lid",
+            "meaning_ko": "관 뚜껑"
+          },
+          {
+            "phrase": "wooden coffin",
+            "meaning_ko": "나무 관"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "in the coffin of the deceased",
+            "meaning_ko": "그 고인의 관에서"
+          },
+          {
+            "phrase": "coffin burial",
+            "meaning_ko": "관 매장"
+          },
+          {
+            "phrase": "coffin maker",
+            "meaning_ko": "관 제작자"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "in the coffin of the victim",
+            "meaning_ko": "그 피해자의 관에서"
+          },
+          {
+            "phrase": "coffin interment",
+            "meaning_ko": "관 매장"
+          },
+          {
+            "phrase": "coffin construction",
+            "meaning_ko": "관 제작"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was in the coffin.",
+            "meaning_ko": "그는 그 관에 있었습니다."
+          },
+          {
+            "sentence": "She closed the coffin lid.",
+            "meaning_ko": "그녀는 그 관 뚜껑을 닫았습니다."
+          },
+          {
+            "sentence": "They buried the wooden coffin.",
+            "meaning_ko": "그들은 그 나무 관을 묻었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was in the coffin, with the casket and burial creating funeral and interment, though the coffin would require respect and ceremony.",
+            "meaning_ko": "그는 그 관에 있었고, 그 관 그리고 매장이 장례식과 매장을 만들었지만, 그 관은 존중과 의식을 요구할 것입니다."
+          },
+          {
+            "sentence": "She closed the coffin lid, with the sarcophagus and bier creating burial and funeral, though the coffin would need to be handled with care and respect.",
+            "meaning_ko": "그녀는 그 관 뚜껑을 닫았고, 그 석관 그리고 관대가 매장과 장례식을 만들었지만, 그 관은 돌봄과 존중으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They buried the wooden coffin, with the funeral and burial creating interment and ceremony, though the coffin would require respect and dignity.",
+            "meaning_ko": "그들은 그 나무 관을 묻었고, 그 장례식 그리고 매장이 매장과 의식을 만들었지만, 그 관은 존중과 존엄을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to inter in the coffin of the victim that was made in the process created opportunities for respect and ceremony, with the interment enabling burial and funeral, though the coffin would require comprehensive respect and dignity to ensure that victim is properly honored and ceremony is effectively conducted.",
+            "meaning_ko": "그 과정에서 내려졌던 그 피해자의 그 관에서 매장하기로 한 그 결정은 존중과 의식을 위한 기회를 만들었고, 그 매장이 매장과 장례식을 가능하게 했지만, 그 관은 피해자가 적절히 존중되고 의식이 효과적으로 진행되는 것을 보장하기 위해 포괄적인 존중과 존엄을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to conduct coffin interment that was undertaken in the initiative created pathways for respect and ceremony, with the conducting enabling burial and funeral, though the coffin would need to be systematically handled through respect and dignity to ensure that interment is properly conducted and ceremony is effectively performed.",
+            "meaning_ko": "그 계획에서 착수되었던 그 관 매장을 진행하기 위한 그 노력은 존중과 의식을 위한 경로를 만들었고, 그 진행이 매장과 장례식을 가능하게 했지만, 그 관은 매장이 적절히 진행되고 의식이 효과적으로 수행되는 것을 보장하기 위해 존중과 존엄을 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to complete coffin construction that was completed in the system created structure and methods for respect and ceremony, with the completion enabling creation of burial and funeral container, though the coffin would require ongoing respect and dignity to ensure that construction continues to be completed and respect remains maintained and preserved.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 관 제작을 완료하기 위한 그 작업은 존중과 의식을 위한 구조와 방법을 만들었고, 그 완료가 매장과 장례식 용기의 창조를 가능하게 했지만, 그 관은 제작이 계속 완료되고 존중이 계속 유지되고 보존되는 것을 보장하기 위해 지속적인 존중과 존엄을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "coffin는 '관, 관' 또는 '시체함, 시체함' 의미로, 관이나 관을 가리킵니다. casket, burial와 비슷하지만 더 일반적 뉘앙스가 있습니다. in the coffin, coffin lid 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: coffin = (A) birth (B) casket or burial (C) life (D) beginning",
+            "a": "B",
+            "meaning_ko": "coffin는 '관 또는 매장' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was in the _____.",
+            "a": "coffin",
+            "meaning_ko": "coffin는 '관' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of coffin? (A) casket (B) burial (C) birth (D) funeral",
+            "a": "C",
+            "meaning_ko": "birth(탄생)가 coffin의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: in the _____ coffin. (A) (no preposition) (B) of (C) at (D) by",
+            "a": "A",
+            "meaning_ko": "in the coffin는 '관에서' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: coffin = (A) birth (B) casket (C) life (D) beginning",
+            "a": "B",
+            "meaning_ko": "casket(관)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She closed the coffin lid at the problem.' → Fix the sentence.",
+            "a": "She closed the coffin lid.",
+            "meaning_ko": "coffin lid는 이미 '관 뚜껑' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was in the coffin.'",
+            "a": "He was placed in the casket and burial container, with the coffin creating funeral and interment, though the placement would require respect and ceremony.",
+            "meaning_ko": "coffin는 '관' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They buried the wooden _____. (A) coffin (B) coffins (C) coffined (D) coffining",
+            "a": "A",
+            "meaning_ko": "명사 coffin가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses coffin most appropriately? (A) The coffin ran. (B) He was in the coffin. (C) She coffin smiled. (D) Coffin is good.",
+            "a": "B",
+            "meaning_ko": "coffin는 명사로 '관'을 의미하며, in the coffin와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dissension",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "불일치, 불화; 불일치나 불화.",
+        "note": "불일치나 불화를 가리킵니다."
+      },
+      {
+        "definition_ko": "갈등, 분쟁; 갈등이나 분쟁.",
+        "note": "갈등이나 분쟁을 가리킵니다."
+      }
+    ],
+    "concept": "불일치나 불화인 불일치, 또는 갈등이나 분쟁.",
+    "etymology": "라틴어 dissensio(불일치)에서 유래했으며, '불일치' 의미입니다.",
+    "semanticExtension": "원래는 '불일치' 의미였고, 현대에는 '불일치' 또는 '불화'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 불가산명사로 사용되며, dissension 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "among",
+        "meaning_ko": "~ 사이의 불일치",
+        "example": "dissension among"
+      },
+      {
+        "prep": "within",
+        "meaning_ko": "~ 내의 불일치",
+        "example": "dissension within"
+      }
+    ],
+    "requiredComplements": [
+      "dissension : 불일치/불화",
+      "dissension among + 명사 : ~ 사이의 불일치",
+      "dissension within + 명사 : ~ 내의 불일치"
+    ],
+    "morphology": "라틴어 dissensio에서 유래한 단어로, '불일치' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "dissent",
+        "meaning_ko": "반대하다"
+      },
+      {
+        "word": "dissenting",
+        "meaning_ko": "반대하는"
+      }
+    ],
+    "related": [
+      {
+        "word": "disagreement",
+        "meaning_ko": "불일치"
+      },
+      {
+        "word": "conflict",
+        "meaning_ko": "갈등"
+      },
+      {
+        "word": "discord",
+        "meaning_ko": "불화"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "disagreement",
+        "meaning_ko": "불일치"
+      },
+      {
+        "word": "conflict",
+        "meaning_ko": "갈등"
+      },
+      {
+        "word": "discord",
+        "meaning_ko": "불화"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "strife",
+        "meaning_ko": "갈등(범위가 더 넓음)"
+      },
+      {
+        "word": "friction",
+        "meaning_ko": "마찰"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "agreement",
+        "meaning_ko": "합의"
+      },
+      {
+        "word": "harmony",
+        "meaning_ko": "조화"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "dissension among",
+            "meaning_ko": "~ 사이의 불일치"
+          },
+          {
+            "phrase": "dissension within",
+            "meaning_ko": "~ 내의 불일치"
+          },
+          {
+            "phrase": "create dissension",
+            "meaning_ko": "불일치를 만들다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dissension among members",
+            "meaning_ko": "그 구성원들 사이의 불일치"
+          },
+          {
+            "phrase": "dissension within the group",
+            "meaning_ko": "그 그룹 내의 불일치"
+          },
+          {
+            "phrase": "political dissension",
+            "meaning_ko": "정치적 불일치"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "dissension among factions",
+            "meaning_ko": "그 파벌들 사이의 불일치"
+          },
+          {
+            "phrase": "dissension within the party",
+            "meaning_ko": "그 당 내의 불일치"
+          },
+          {
+            "phrase": "internal dissension",
+            "meaning_ko": "내부 불일치"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He created dissension.",
+            "meaning_ko": "그는 불일치를 만들었습니다."
+          },
+          {
+            "sentence": "She saw dissension among members.",
+            "meaning_ko": "그녀는 그 구성원들 사이의 불일치를 보았습니다."
+          },
+          {
+            "sentence": "They resolved dissension within the group.",
+            "meaning_ko": "그들은 그 그룹 내의 불일치를 해결했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He created dissension, with his disagreement and conflict creating discord and strife, though the dissension would require resolution and reconciliation.",
+            "meaning_ko": "그는 불일치를 만들었고, 그의 불일치 그리고 갈등이 불화와 갈등을 만들었지만, 그 불일치는 해결과 화해를 요구할 것입니다."
+          },
+          {
+            "sentence": "She saw dissension among members, with the friction and strife creating conflict and discord, though the dissension would need to be addressed and resolved.",
+            "meaning_ko": "그녀는 그 구성원들 사이의 불일치를 보았고, 그 마찰 그리고 갈등이 갈등과 불화를 만들었지만, 그 불일치는 다뤄지고 해결될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They resolved dissension within the group, with the disagreement and conflict creating discord and friction, though the dissension would require mediation and reconciliation.",
+            "meaning_ko": "그들은 그 그룹 내의 불일치를 해결했고, 그 불일치 그리고 갈등이 불화와 마찰을 만들었지만, 그 불일치는 중재와 화해를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address dissension among factions that was made in the process created opportunities for resolution and reconciliation, with the addressing enabling reduction of conflict and discord, though the dissension would require comprehensive mediation and negotiation to ensure that factions are properly addressed and resolution is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 파벌들 사이의 그 불일치를 다루기로 한 그 결정은 해결과 화해를 위한 기회를 만들었고, 그 다루기가 갈등과 불화의 감소를 가능하게 했지만, 그 불일치는 파벌들이 적절히 다뤄지고 해결이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 중재와 협상을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to resolve dissension within the party that was undertaken in the initiative created pathways for reconciliation and unity, with the resolution enabling reduction of conflict and discord, though the dissension would need to be systematically addressed through mediation and negotiation to ensure that party is properly unified and reconciliation is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 당 내의 그 불일치를 해결하기 위한 그 노력은 화해와 통합을 위한 경로를 만들었고, 그 해결이 갈등과 불화의 감소를 가능하게 했지만, 그 불일치는 당이 적절히 통합되고 화해가 효과적으로 달성되는 것을 보장하기 위해 중재와 협상을 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to prevent internal dissension that was completed in the system created structure and methods for unity and harmony, with the prevention enabling reduction of conflict and discord, though the dissension would require ongoing mediation and communication to ensure that dissension continues to be prevented and unity remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 내부 불일치를 방지하기 위한 그 작업은 통합과 조화를 위한 구조와 방법을 만들었고, 그 방지가 갈등과 불화의 감소를 가능하게 했지만, 그 불일치는 불일치가 계속 방지되고 통합이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 중재와 소통을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dissension는 '불일치, 불화' 또는 '갈등, 분쟁' 의미로, 불일치나 불화를 가리킵니다. disagreement, conflict와 비슷하지만 더 문어적 뉘앙스가 있습니다. dissension among ~, dissension within ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: dissension = (A) agreement (B) disagreement or conflict (C) harmony (D) unity",
+            "a": "B",
+            "meaning_ko": "dissension는 '불일치 또는 갈등' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He created _____.",
+            "a": "dissension",
+            "meaning_ko": "dissension는 '불일치' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of dissension? (A) disagreement (B) conflict (C) agreement (D) discord",
+            "a": "C",
+            "meaning_ko": "agreement(합의)가 dissension의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: dissension _____ members. (A) among (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "dissension among ~는 '~ 사이의 불일치' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: dissension = (A) agreement (B) disagreement (C) harmony (D) unity",
+            "a": "B",
+            "meaning_ko": "disagreement(불일치)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She saw dissension at members.' → Fix the preposition.",
+            "a": "She saw dissension among members.",
+            "meaning_ko": "dissension among ~는 '~ 사이의 불일치' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He created dissension.'",
+            "a": "He generated disagreement and conflict, with the dissension creating discord and strife, though the creation would require resolution and reconciliation.",
+            "meaning_ko": "dissension는 '불일치' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They resolved _____ within the group. (A) dissension (B) dissensions (C) dissent (D) dissenting",
+            "a": "A",
+            "meaning_ko": "명사 dissension가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses dissension most appropriately? (A) The dissension ran. (B) He created dissension. (C) She dissension smiled. (D) Dissension is good.",
+            "a": "B",
+            "meaning_ko": "dissension는 명사로 '불일치'를 의미하며, create dissension와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

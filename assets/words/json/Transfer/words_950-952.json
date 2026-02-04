@@ -1,0 +1,837 @@
+[
+  {
+    "word": "squeeze",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "짜다, 압착하다; 짜거나 압착하는 것.",
+        "note": "짜거나 압착하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "밀어넣다, 쑤셔넣다; 밀어넣거나 쑤셔넣는 것.",
+        "note": "밀어넣거나 쑤셔넣는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "압착, 압박; 압착이나 압박.",
+        "note": "압착이나 압박을 가리킵니다."
+      }
+    ],
+    "concept": "짜거나 압착하는 행동, 밀어넣거나 쑤셔넣는 행동, 또는 압착이나 압박.",
+    "etymology": "고대 영어 cwysan(짜다)에서 유래했으며, '짜다' 의미입니다.",
+    "semanticExtension": "원래는 '짜다' 의미였고, 현대에는 '짜다' 또는 '밀어넣다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 타동사로 사용되며, squeeze + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~에 밀어넣다",
+        "example": "squeeze into"
+      },
+      {
+        "prep": "out of",
+        "meaning_ko": "~에서 짜내다",
+        "example": "squeeze out of"
+      },
+      {
+        "prep": "through",
+        "meaning_ko": "~을 통해 짜내다",
+        "example": "squeeze through"
+      }
+    ],
+    "requiredComplements": [
+      "squeeze + 명사 : ~을 짜다/압착하다",
+      "squeeze into + 명사 : ~에 밀어넣다",
+      "squeeze out of + 명사 : ~에서 짜내다",
+      "squeeze through + 명사 : ~을 통해 짜내다"
+    ],
+    "morphology": "고대 영어 cwysan에서 유래한 단어로, '짜다' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "squeezed",
+        "meaning_ko": "짠(과거분사)"
+      },
+      {
+        "word": "squeezing",
+        "meaning_ko": "짜는(현재분사)"
+      },
+      {
+        "word": "squeezer",
+        "meaning_ko": "압착기"
+      }
+    ],
+    "related": [
+      {
+        "word": "compress",
+        "meaning_ko": "압축하다"
+      },
+      {
+        "word": "press",
+        "meaning_ko": "누르다"
+      },
+      {
+        "word": "crush",
+        "meaning_ko": "부수다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "compress",
+        "meaning_ko": "압축하다"
+      },
+      {
+        "word": "press",
+        "meaning_ko": "누르다"
+      },
+      {
+        "word": "crush",
+        "meaning_ko": "부수다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "squash",
+        "meaning_ko": "짓누르다(범위가 더 넓음)"
+      },
+      {
+        "word": "pinch",
+        "meaning_ko": "꼬집다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "release",
+        "meaning_ko": "풀어주다"
+      },
+      {
+        "word": "expand",
+        "meaning_ko": "확장하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "squeeze into",
+            "meaning_ko": "~에 밀어넣다"
+          },
+          {
+            "phrase": "squeeze out of",
+            "meaning_ko": "~에서 짜내다"
+          },
+          {
+            "phrase": "squeeze through",
+            "meaning_ko": "~을 통해 짜내다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "squeeze into the room",
+            "meaning_ko": "그 방에 밀어넣다"
+          },
+          {
+            "phrase": "squeeze out of the situation",
+            "meaning_ko": "그 상황에서 짜내다"
+          },
+          {
+            "phrase": "squeeze through the gap",
+            "meaning_ko": "그 틈을 통해 짜내다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "squeeze into the space",
+            "meaning_ko": "그 공간에 밀어넣다"
+          },
+          {
+            "phrase": "squeeze out of the contract",
+            "meaning_ko": "그 계약에서 짜내다"
+          },
+          {
+            "phrase": "squeeze through the opening",
+            "meaning_ko": "그 구멍을 통해 짜내다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He squeezed the lemon.",
+            "meaning_ko": "그는 그 레몬을 짰습니다."
+          },
+          {
+            "sentence": "She squeezed into the room.",
+            "meaning_ko": "그녀는 그 방에 밀어넣었습니다."
+          },
+          {
+            "sentence": "They squeezed out of the situation.",
+            "meaning_ko": "그들은 그 상황에서 짜냈습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He squeezed the lemon, with his compress and press creating juice and extraction, though the squeezing would require force and pressure.",
+            "meaning_ko": "그는 그 레몬을 짰고, 그의 압축 그리고 누르기가 주스와 추출을 만들었지만, 그 짜기는 힘과 압력을 요구할 것입니다."
+          },
+          {
+            "sentence": "She squeezed into the room, with the crush and squash creating compression and pressure, though the squeezing would need to be careful and controlled.",
+            "meaning_ko": "그녀는 그 방에 밀어넣었고, 그 부수기 그리고 짓누르기가 압축과 압력을 만들었지만, 그 밀어넣기는 조심스럽고 통제될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They squeezed out of the situation, with the pinch and press creating extraction and release, though the squeezing would require effort and strategy.",
+            "meaning_ko": "그들은 그 상황에서 짜냈고, 그 꼬집기 그리고 누르기가 추출과 방출을 만들었지만, 그 짜내기는 노력과 전략을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to squeeze into the space that was made in the process created opportunities for accommodation and efficiency, with the squeezing enabling compression and fitting, though the squeezing would require comprehensive planning and coordination to ensure that space is properly utilized and compression is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 공간에 밀어넣기로 한 그 결정은 수용과 효율성을 위한 기회를 만들었고, 그 밀어넣기가 압축과 맞춤을 가능하게 했지만, 그 밀어넣기는 공간이 적절히 활용되고 압축이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 계획과 조정을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to squeeze out of the contract that was undertaken in the initiative created pathways for release and freedom, with the squeezing enabling extraction and escape, though the squeezing would need to be systematically managed through negotiation and strategy to ensure that contract is properly addressed and release is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 계약에서 짜내기 위한 그 노력은 방출과 자유를 위한 경로를 만들었고, 그 짜내기가 추출과 탈출을 가능하게 했지만, 그 짜내기는 계약이 적절히 다뤄지고 방출이 효과적으로 달성되는 것을 보장하기 위해 협상과 전략을 통해 체계적으로 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to squeeze through the opening that was completed in the system created structure and methods for passage and movement, with the squeezing enabling compression and fitting, though the squeezing would require ongoing adjustment and coordination to ensure that opening continues to be navigated and passage remains efficient and effective.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 구멍을 통해 짜내기 위한 그 작업은 통과와 이동을 위한 구조와 방법을 만들었고, 그 짜내기가 압축과 맞춤을 가능하게 했지만, 그 짜내기는 구멍이 계속 탐색되고 통과가 계속 효율적이고 효과적인 것을 보장하기 위해 지속적인 조정과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "squeeze는 '짜다, 압착하다' 또는 '밀어넣다, 쑤셔넣다' 의미로, 짜거나 압착하는 행동을 가리킵니다. compress, press와 비슷하지만 더 일상적 뉘앙스가 있습니다. squeeze into ~, squeeze out of ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: squeeze = (A) release (B) compress or press (C) expand (D) loosen",
+            "a": "B",
+            "meaning_ko": "squeeze는 '압축하다 또는 누르다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the lemon.",
+            "a": "squeezed",
+            "meaning_ko": "squeeze는 '짜다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of squeeze? (A) compress (B) press (C) release (D) crush",
+            "a": "C",
+            "meaning_ko": "release(풀어주다)가 squeeze의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: squeeze _____ the room. (A) into (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "squeeze into ~는 '~에 밀어넣다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: squeeze = (A) release (B) compress (C) expand (D) loosen",
+            "a": "B",
+            "meaning_ko": "compress(압축하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She squeezed at the room.' → Fix the preposition.",
+            "a": "She squeezed into the room.",
+            "meaning_ko": "squeeze into ~는 '~에 밀어넣다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He squeezed the lemon.'",
+            "a": "He compressed and pressed the fruit, with the squeezing creating juice and extraction, though the lemon would require force and pressure.",
+            "meaning_ko": "squeeze는 '짜다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ out of the situation. (A) squeeze (B) squeezes (C) squeezed (D) squeezing",
+            "a": "C",
+            "meaning_ko": "과거형 squeezed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses squeeze most appropriately? (A) The squeeze ran. (B) He squeezed the lemon. (C) She squeeze smiled. (D) Squeeze is good.",
+            "a": "B",
+            "meaning_ko": "squeeze는 동사로 '짜다'를 의미하며, squeeze + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aisle",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "통로, 복도; 통로나 복도.",
+        "note": "통로나 복도를 가리킵니다."
+      },
+      {
+        "definition_ko": "좌석 사이 통로, 좌석 사이 통로; 좌석 사이 통로나 좌석 사이 통로.",
+        "note": "좌석 사이 통로나 좌석 사이 통로를 가리킵니다."
+      }
+    ],
+    "concept": "통로나 복도인 통로, 또는 좌석 사이 통로나 좌석 사이 통로.",
+    "etymology": "프랑스어 aile(날개)에서 유래했으며, '날개' 의미에서 '통로' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '날개' 의미였고, 현대에는 '통로' 또는 '복도'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, aisle 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "통로에서",
+        "example": "in the aisle"
+      },
+      {
+        "prep": "down",
+        "meaning_ko": "통로를 따라",
+        "example": "down the aisle"
+      }
+    ],
+    "requiredComplements": [
+      "aisle : 통로/복도",
+      "in the aisle : 통로에서",
+      "down the aisle : 통로를 따라"
+    ],
+    "morphology": "프랑스어 aile에서 유래한 단어로, '날개' 의미에서 '통로' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "aisle",
+        "meaning_ko": "통로(단수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "passage",
+        "meaning_ko": "통로"
+      },
+      {
+        "word": "corridor",
+        "meaning_ko": "복도"
+      },
+      {
+        "word": "walkway",
+        "meaning_ko": "보행로"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "passage",
+        "meaning_ko": "통로"
+      },
+      {
+        "word": "corridor",
+        "meaning_ko": "복도"
+      },
+      {
+        "word": "walkway",
+        "meaning_ko": "보행로"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "gangway",
+        "meaning_ko": "통로(범위가 더 넓음)"
+      },
+      {
+        "word": "pathway",
+        "meaning_ko": "통로"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "wall",
+        "meaning_ko": "벽"
+      },
+      {
+        "word": "barrier",
+        "meaning_ko": "장벽"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "in the aisle",
+            "meaning_ko": "통로에서"
+          },
+          {
+            "phrase": "down the aisle",
+            "meaning_ko": "통로를 따라"
+          },
+          {
+            "phrase": "walk down the aisle",
+            "meaning_ko": "통로를 따라 걷다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "in the aisle of the store",
+            "meaning_ko": "그 가게의 통로에서"
+          },
+          {
+            "phrase": "down the aisle of the church",
+            "meaning_ko": "그 교회의 통로를 따라"
+          },
+          {
+            "phrase": "narrow aisle",
+            "meaning_ko": "좁은 통로"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "in the aisle of the supermarket",
+            "meaning_ko": "그 슈퍼마켓의 통로에서"
+          },
+          {
+            "phrase": "down the aisle of the theater",
+            "meaning_ko": "그 극장의 통로를 따라"
+          },
+          {
+            "phrase": "wide aisle",
+            "meaning_ko": "넓은 통로"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He walked down the aisle.",
+            "meaning_ko": "그는 그 통로를 따라 걸었습니다."
+          },
+          {
+            "sentence": "She stood in the aisle.",
+            "meaning_ko": "그녀는 그 통로에서 서 있었습니다."
+          },
+          {
+            "sentence": "They moved down the aisle.",
+            "meaning_ko": "그들은 그 통로를 따라 이동했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He walked down the aisle, with the passage and corridor creating movement and access, though the aisle would require space and clearance.",
+            "meaning_ko": "그는 그 통로를 따라 걸었고, 그 통로 그리고 복도가 이동과 접근을 만들었지만, 그 통로는 공간과 여유를 요구할 것입니다."
+          },
+          {
+            "sentence": "She stood in the aisle, with the walkway and pathway creating position and location, though the aisle would need to be clear and accessible.",
+            "meaning_ko": "그녀는 그 통로에서 서 있었고, 그 보행로 그리고 통로가 위치와 장소를 만들었지만, 그 통로는 명확하고 접근 가능할 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They moved down the aisle, with the gangway and passage creating movement and flow, though the aisle would require width and clearance.",
+            "meaning_ko": "그들은 그 통로를 따라 이동했고, 그 통로 그리고 통로가 이동과 흐름을 만들었지만, 그 통로는 너비와 여유를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to walk down the aisle of the supermarket that was made in the process created opportunities for navigation and access, with the walking enabling movement and passage, though the aisle would require comprehensive planning and organization to ensure that supermarket is properly navigated and access is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 슈퍼마켓의 그 통로를 따라 걷기로 한 그 결정은 탐색과 접근을 위한 기회를 만들었고, 그 걷기가 이동과 통과를 가능하게 했지만, 그 통로는 슈퍼마켓이 적절히 탐색되고 접근이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 계획과 조직을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to organize in the aisle of the theater that was undertaken in the initiative created pathways for efficiency and flow, with the organizing enabling arrangement and structure, though the aisle would need to be systematically managed through planning and coordination to ensure that theater is properly organized and flow is effectively maintained.",
+            "meaning_ko": "그 계획에서 착수되었던 그 극장의 그 통로에서 조직하기 위한 그 노력은 효율성과 흐름을 위한 경로를 만들었고, 그 조직이 배치와 구조를 가능하게 했지만, 그 통로는 극장이 적절히 조직되고 흐름이 효과적으로 유지되는 것을 보장하기 위해 계획과 조정을 통해 체계적으로 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to maintain wide aisle that was completed in the system created structure and methods for access and movement, with the maintenance enabling clearance and space, though the aisle would require ongoing management and organization to ensure that access continues to be maintained and movement remains efficient and effective.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 넓은 통로를 유지하기 위한 그 작업은 접근과 이동을 위한 구조와 방법을 만들었고, 그 유지가 여유와 공간을 가능하게 했지만, 그 통로는 접근이 계속 유지되고 이동이 계속 효율적이고 효과적인 것을 보장하기 위해 지속적인 관리와 조직을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "aisle는 '통로, 복도' 또는 '좌석 사이 통로, 좌석 사이 통로' 의미로, 통로나 복도를 가리킵니다. passage, corridor와 비슷하지만 더 구체적 뉘앙스가 있습니다. in the aisle, down the aisle 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: aisle = (A) wall (B) passage or corridor (C) barrier (D) obstacle",
+            "a": "B",
+            "meaning_ko": "aisle는 '통로 또는 복도' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He walked down the _____.",
+            "a": "aisle",
+            "meaning_ko": "aisle는 '통로' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of aisle? (A) passage (B) corridor (C) wall (D) walkway",
+            "a": "C",
+            "meaning_ko": "wall(벽)가 aisle의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: walk down the _____ aisle. (A) (no preposition) (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "down the aisle는 '통로를 따라' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: aisle = (A) wall (B) passage (C) barrier (D) obstacle",
+            "a": "B",
+            "meaning_ko": "passage(통로)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She stood at the aisle.' → Fix the preposition.",
+            "a": "She stood in the aisle.",
+            "meaning_ko": "in the aisle는 '통로에서' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He walked down the aisle.'",
+            "a": "He moved along the passage and corridor, with the walking creating movement and access, though the aisle would require space and clearance.",
+            "meaning_ko": "aisle는 '통로' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They moved down the _____. (A) aisle (B) aisles (C) aisled (D) aisling",
+            "a": "A",
+            "meaning_ko": "명사 aisle가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses aisle most appropriately? (A) The aisle ran. (B) He walked down the aisle. (C) She aisle smiled. (D) Aisle is good.",
+            "a": "B",
+            "meaning_ko": "aisle는 명사로 '통로'를 의미하며, walk down the aisle와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "naive",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "순진한, 단순한; 순진하거나 단순한.",
+        "note": "순진하거나 단순한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "경험이 없는, 미숙한; 경험이 없거나 미숙한.",
+        "note": "경험이 없거나 미숙한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "순진하거나 단순한 상태, 또는 경험이 없거나 미숙한 상태.",
+    "etymology": "프랑스어 naïf(순진한)에서 유래했으며, '순진한' 의미입니다.",
+    "semanticExtension": "원래는 '순진한' 의미였고, 현대에는 '순진한' 또는 '경험이 없는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be naive 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 순진한",
+        "example": "naive about"
+      }
+    ],
+    "requiredComplements": [
+      "be naive : 순진하다",
+      "naive + 명사 : 순진한 ~",
+      "naive about + 명사 : ~에 대해 순진한"
+    ],
+    "morphology": "프랑스어 naïf에서 유래한 단어로, '순진한' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "naively",
+        "meaning_ko": "순진하게"
+      },
+      {
+        "word": "naivety",
+        "meaning_ko": "순진함"
+      },
+      {
+        "word": "naivete",
+        "meaning_ko": "순진함"
+      }
+    ],
+    "related": [
+      {
+        "word": "innocent",
+        "meaning_ko": "순진한"
+      },
+      {
+        "word": "simple",
+        "meaning_ko": "단순한"
+      },
+      {
+        "word": "inexperienced",
+        "meaning_ko": "경험이 없는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "innocent",
+        "meaning_ko": "순진한"
+      },
+      {
+        "word": "simple",
+        "meaning_ko": "단순한"
+      },
+      {
+        "word": "inexperienced",
+        "meaning_ko": "경험이 없는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "gullible",
+        "meaning_ko": "속기 쉬운(범위가 더 넓음)"
+      },
+      {
+        "word": "unsophisticated",
+        "meaning_ko": "세련되지 않은"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sophisticated",
+        "meaning_ko": "세련된"
+      },
+      {
+        "word": "worldly",
+        "meaning_ko": "세련된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "naive about",
+            "meaning_ko": "~에 대해 순진한"
+          },
+          {
+            "phrase": "naive person",
+            "meaning_ko": "순진한 사람"
+          },
+          {
+            "phrase": "naive belief",
+            "meaning_ko": "순진한 믿음"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "naive about the world",
+            "meaning_ko": "그 세상에 대해 순진한"
+          },
+          {
+            "phrase": "naive approach",
+            "meaning_ko": "순진한 접근"
+          },
+          {
+            "phrase": "naive assumption",
+            "meaning_ko": "순진한 가정"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "naive about the situation",
+            "meaning_ko": "그 상황에 대해 순진한"
+          },
+          {
+            "phrase": "naive perspective",
+            "meaning_ko": "순진한 관점"
+          },
+          {
+            "phrase": "naive understanding",
+            "meaning_ko": "순진한 이해"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was naive about the world.",
+            "meaning_ko": "그는 그 세상에 대해 순진했습니다."
+          },
+          {
+            "sentence": "She had a naive belief.",
+            "meaning_ko": "그녀는 순진한 믿음을 가졌습니다."
+          },
+          {
+            "sentence": "They made a naive assumption.",
+            "meaning_ko": "그들은 순진한 가정을 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was naive about the world, with his innocent and simple understanding creating vulnerability and risk, though the naivety would require experience and learning.",
+            "meaning_ko": "그는 그 세상에 대해 순진했고, 그의 순진하고 단순한 이해가 취약성과 위험을 만들었지만, 그 순진함은 경험과 학습을 요구할 것입니다."
+          },
+          {
+            "sentence": "She had a naive belief, with the inexperienced and unsophisticated perspective creating simplicity and vulnerability, though the naivety would need to be addressed and developed.",
+            "meaning_ko": "그녀는 순진한 믿음을 가졌고, 그 경험이 없고 세련되지 않은 관점이 단순성과 취약성을 만들었지만, 그 순진함은 다뤄지고 발전될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They made a naive assumption, with the gullible and simple approach creating risk and vulnerability, though the naivety would require education and experience.",
+            "meaning_ko": "그들은 순진한 가정을 했고, 그 속기 쉬운 그리고 단순한 접근이 위험과 취약성을 만들었지만, 그 순진함은 교육과 경험을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address naive about the situation that was made in the process created opportunities for growth and development, with the addressing enabling education and experience, though the naivety would require comprehensive education and experience to ensure that situation is properly understood and vulnerability is effectively reduced.",
+            "meaning_ko": "그 과정에서 내려졌던 그 상황에 대해 그 순진한 것을 다루기로 한 그 결정은 성장과 발전을 위한 기회를 만들었고, 그 다루기가 교육과 경험을 가능하게 했지만, 그 순진함은 상황이 적절히 이해되고 취약성이 효과적으로 감소되는 것을 보장하기 위해 포괄적인 교육과 경험을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to develop naive perspective that was undertaken in the initiative created pathways for understanding and sophistication, with the development enabling growth and learning, though the naivety would need to be systematically addressed through education and experience to ensure that perspective is properly developed and understanding is effectively enhanced.",
+            "meaning_ko": "그 계획에서 착수되었던 그 순진한 관점을 발전시키기 위한 그 노력은 이해와 세련을 위한 경로를 만들었고, 그 발전이 성장과 학습을 가능하게 했지만, 그 순진함은 관점이 적절히 발전되고 이해가 효과적으로 향상되는 것을 보장하기 위해 교육과 경험을 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to educate naive understanding that was completed in the system created structure and methods for growth and development, with the education enabling enhancement of knowledge and experience, though the naivety would require ongoing learning and experience to ensure that understanding continues to be developed and sophistication remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 순진한 이해를 교육하기 위한 그 작업은 성장과 발전을 위한 구조와 방법을 만들었고, 그 교육이 지식과 경험의 향상을 가능하게 했지만, 그 순진함은 이해가 계속 발전되고 세련이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 학습과 경험을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "naive는 '순진한, 단순한' 또는 '경험이 없는, 미숙한' 의미로, 순진하거나 단순한 상태를 가리킵니다. innocent, simple와 비슷하지만 더 부정적 뉘앙스가 있습니다. naive about ~, naive person 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: naive = (A) sophisticated (B) innocent or simple (C) worldly (D) experienced",
+            "a": "B",
+            "meaning_ko": "naive는 '순진한 또는 단순한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was _____ about the world.",
+            "a": "naive",
+            "meaning_ko": "naive는 '순진한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of naive? (A) innocent (B) simple (C) sophisticated (D) inexperienced",
+            "a": "C",
+            "meaning_ko": "sophisticated(세련된)가 naive의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: naive _____ the world. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "naive about ~는 '~에 대해 순진한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: naive = (A) sophisticated (B) innocent (C) worldly (D) experienced",
+            "a": "B",
+            "meaning_ko": "innocent(순진한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was naive at the world.' → Fix the preposition.",
+            "a": "She was naive about the world.",
+            "meaning_ko": "naive about ~는 '~에 대해 순진한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was naive about the world.'",
+            "a": "He was innocent and simple regarding the situation, with the naivety creating vulnerability and risk, though the understanding would require experience and learning.",
+            "meaning_ko": "naive는 '순진한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They made a _____ assumption. (A) naive (B) naively (C) naivety (D) naivete",
+            "a": "A",
+            "meaning_ko": "형용사 naive가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses naive most appropriately? (A) The naive ran. (B) He was naive about the world. (C) She naive smiled. (D) Naive is good.",
+            "a": "B",
+            "meaning_ko": "naive는 형용사로 '순진한'을 의미하며, be naive about ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

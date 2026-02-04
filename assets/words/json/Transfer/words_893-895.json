@@ -1,0 +1,814 @@
+[
+  {
+    "word": "obtain",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "얻다, 획득하다; 얻거나 획득하는 것.",
+        "note": "얻거나 획득하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "구하다, 찾다; 구하거나 찾는 것.",
+        "note": "구하거나 찾는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "얻거나 획득하는 행동, 또는 구하거나 찾는 행동.",
+    "etymology": "라틴어 obtinere(잡다)에서 유래했으며, ob(앞으로) + tenere(잡다)의 조합입니다.",
+    "semanticExtension": "원래는 '잡다' 의미였고, 현대에는 '얻거나 획득하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 사용되며, obtain + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터 얻다",
+        "example": "obtain from"
+      }
+    ],
+    "requiredComplements": [
+      "obtain + 명사 : ~을 얻다/획득하다",
+      "obtain from + 명사 : ~로부터 얻다"
+    ],
+    "morphology": "라틴어 obtinere에서 유래한 단어로, ob(앞으로) + tenere(잡다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "obtainable",
+        "meaning_ko": "얻을 수 있는"
+      },
+      {
+        "word": "obtainment",
+        "meaning_ko": "획득"
+      },
+      {
+        "word": "obtained",
+        "meaning_ko": "얻은(과거분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "acquire",
+        "meaning_ko": "획득하다"
+      },
+      {
+        "word": "get",
+        "meaning_ko": "얻다"
+      },
+      {
+        "word": "secure",
+        "meaning_ko": "확보하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "acquire",
+        "meaning_ko": "획득하다"
+      },
+      {
+        "word": "get",
+        "meaning_ko": "얻다"
+      },
+      {
+        "word": "secure",
+        "meaning_ko": "확보하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "procure",
+        "meaning_ko": "조달하다(범위가 더 넓음)"
+      },
+      {
+        "word": "attain",
+        "meaning_ko": "달성하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lose",
+        "meaning_ko": "잃다"
+      },
+      {
+        "word": "relinquish",
+        "meaning_ko": "포기하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "obtain from",
+            "meaning_ko": "~로부터 얻다"
+          },
+          {
+            "phrase": "obtain information",
+            "meaning_ko": "정보를 얻다"
+          },
+          {
+            "phrase": "obtain permission",
+            "meaning_ko": "허가를 얻다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "obtain from the source",
+            "meaning_ko": "그 출처로부터 얻다"
+          },
+          {
+            "phrase": "obtain approval",
+            "meaning_ko": "승인을 얻다"
+          },
+          {
+            "phrase": "obtain access",
+            "meaning_ko": "접근을 얻다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "obtain from the authority",
+            "meaning_ko": "그 권위로부터 얻다"
+          },
+          {
+            "phrase": "obtain authorization",
+            "meaning_ko": "권한을 얻다"
+          },
+          {
+            "phrase": "obtain certification",
+            "meaning_ko": "인증을 얻다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He obtained information.",
+            "meaning_ko": "그는 정보를 얻었습니다."
+          },
+          {
+            "sentence": "She obtained permission from the teacher.",
+            "meaning_ko": "그녀는 그 선생님으로부터 허가를 얻었습니다."
+          },
+          {
+            "sentence": "They obtained approval.",
+            "meaning_ko": "그들은 승인을 얻었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He obtained information, with his acquire and get creating knowledge and understanding, though the obtainment would require verification and analysis.",
+            "meaning_ko": "그는 정보를 얻었고, 그의 획득 그리고 얻기가 지식과 이해를 만들었지만, 그 획득은 검증과 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She obtained permission from the teacher, with the secure and procure creating access and opportunity, though the obtainment would need to be used responsibly and appropriately.",
+            "meaning_ko": "그녀는 그 선생님으로부터 허가를 얻었고, 그 확보 그리고 조달이 접근과 기회를 만들었지만, 그 획득은 책임 있게 그리고 적절하게 사용될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They obtained approval, with the attain and acquire creating progress and success, though the obtainment would require implementation and action.",
+            "meaning_ko": "그들은 승인을 얻었고, 그 달성 그리고 획득이 진전과 성공을 만들었지만, 그 획득은 구현과 행동을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to obtain from the authority that was made in the process created opportunities for access and opportunity, with the obtainment enabling acquisition of resources and permissions, though the obtainment would require compliance and adherence to ensure that access is properly used and resources are managed effectively.",
+            "meaning_ko": "그 과정에서 내려졌던 그 권위로부터 얻기로 한 그 결정은 접근과 기회를 위한 기회를 만들었고, 그 획득이 자원과 허가의 획득을 가능하게 했지만, 그 획득은 접근이 적절히 사용되고 자원이 효과적으로 관리되는 것을 보장하기 위해 준수와 준수를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to obtain authorization that was undertaken in the initiative created pathways for access and control, with the obtainment enabling establishment of permissions and rights, though the obtainment would need to be systematically managed through oversight and monitoring to ensure that authorization is properly maintained and access is controlled.",
+            "meaning_ko": "그 계획에서 착수되었던 그 권한을 얻기 위한 그 노력은 접근과 통제를 위한 경로를 만들었고, 그 획득이 허가와 권리의 확립을 가능하게 했지만, 그 획득은 권한이 적절히 유지되고 접근이 통제되는 것을 보장하기 위해 감독과 모니터링을 통해 체계적으로 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to obtain certification that was completed in the system created structure and methods for validation and recognition, with the obtainment enabling establishment of credentials and qualifications, though the obtainment would require ongoing maintenance and renewal to ensure that certification remains valid and credentials are kept up to date.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 인증을 얻기 위한 그 작업은 검증과 인정을 위한 구조와 방법을 만들었고, 그 획득이 자격과 자격의 확립을 가능하게 했지만, 그 획득은 인증이 계속 유효하고 자격이 최신 상태로 유지되는 것을 보장하기 위해 지속적인 유지와 갱신을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "obtain는 '얻다, 획득하다' 또는 '구하다, 찾다' 의미로, 얻거나 획득하는 행동을 가리킵니다. acquire, get와 비슷하지만 더 문어적 뉘앙스가 있습니다. obtain from ~, obtain information 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: obtain = (A) lose (B) get or acquire (C) relinquish (D) give up",
+            "a": "B",
+            "meaning_ko": "obtain는 '얻다 또는 획득하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ information.",
+            "a": "obtained",
+            "meaning_ko": "obtain는 '얻다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of obtain? (A) get (B) acquire (C) lose (D) secure",
+            "a": "C",
+            "meaning_ko": "lose(잃다)가 obtain의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: obtain _____ the source. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "obtain from ~는 '~로부터 얻다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: obtain = (A) lose (B) get (C) relinquish (D) give up",
+            "a": "B",
+            "meaning_ko": "get(얻다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She obtained permission at the teacher.' → Fix the preposition.",
+            "a": "She obtained permission from the teacher.",
+            "meaning_ko": "obtain from ~는 '~로부터 얻다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He obtained information.'",
+            "a": "He acquired and got data, with the obtainment creating knowledge and understanding, though the information would require verification and analysis.",
+            "meaning_ko": "obtain는 '얻다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ approval. (A) obtain (B) obtains (C) obtained (D) obtaining",
+            "a": "C",
+            "meaning_ko": "과거형 obtained가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses obtain most appropriately? (A) The obtain ran. (B) He obtained information. (C) She obtain smiled. (D) Obtain is good.",
+            "a": "B",
+            "meaning_ko": "obtain는 동사로 '얻다'를 의미하며, obtain + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "concave",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "오목한, 움푹 들어간; 오목하거나 움푹 들어간.",
+        "note": "오목하거나 움푹 들어간 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "안으로 굽은, 안쪽으로 휜; 안으로 굽거나 안쪽으로 휜.",
+        "note": "안으로 굽거나 안쪽으로 휜 상태를 가리킵니다."
+      }
+    ],
+    "concept": "오목하거나 움푹 들어간 상태, 또는 안으로 굽거나 안쪽으로 휜 상태.",
+    "etymology": "라틴어 concavus(오목한)에서 유래했으며, con(함께) + cavus(구멍)의 조합입니다.",
+    "semanticExtension": "원래는 '구멍' 의미였고, 현대에는 '오목하거나 움푹 들어간'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 과학이나 수학 관련 문맥에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be concave 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 오목한",
+        "example": "concave in"
+      }
+    ],
+    "requiredComplements": [
+      "be concave : 오목하다",
+      "concave + 명사 : 오목한 ~",
+      "concave in + 명사 : ~에서 오목한"
+    ],
+    "morphology": "라틴어 concavus에서 유래한 단어로, con(함께) + cavus(구멍)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "concavely",
+        "meaning_ko": "오목하게"
+      },
+      {
+        "word": "concavity",
+        "meaning_ko": "오목함"
+      },
+      {
+        "word": "concaveness",
+        "meaning_ko": "오목함"
+      }
+    ],
+    "related": [
+      {
+        "word": "hollow",
+        "meaning_ko": "속이 빈"
+      },
+      {
+        "word": "sunken",
+        "meaning_ko": "움푹 들어간"
+      },
+      {
+        "word": "depressed",
+        "meaning_ko": "움푹 들어간"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "hollow",
+        "meaning_ko": "속이 빈"
+      },
+      {
+        "word": "sunken",
+        "meaning_ko": "움푹 들어간"
+      },
+      {
+        "word": "depressed",
+        "meaning_ko": "움푹 들어간"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "indented",
+        "meaning_ko": "들어간(범위가 더 넓음)"
+      },
+      {
+        "word": "curved",
+        "meaning_ko": "굽은"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "convex",
+        "meaning_ko": "볼록한"
+      },
+      {
+        "word": "protruding",
+        "meaning_ko": "돌출된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "concave in",
+            "meaning_ko": "~에서 오목한"
+          },
+          {
+            "phrase": "concave surface",
+            "meaning_ko": "오목한 표면"
+          },
+          {
+            "phrase": "concave mirror",
+            "meaning_ko": "오목 거울"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "concave in shape",
+            "meaning_ko": "그 모양에서 오목한"
+          },
+          {
+            "phrase": "concave lens",
+            "meaning_ko": "오목 렌즈"
+          },
+          {
+            "phrase": "concave curve",
+            "meaning_ko": "오목 곡선"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "concave in structure",
+            "meaning_ko": "그 구조에서 오목한"
+          },
+          {
+            "phrase": "concave configuration",
+            "meaning_ko": "오목한 구성"
+          },
+          {
+            "phrase": "concave geometry",
+            "meaning_ko": "오목한 기하학"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The surface was concave.",
+            "meaning_ko": "그 표면은 오목했습니다."
+          },
+          {
+            "sentence": "She used a concave mirror.",
+            "meaning_ko": "그녀는 오목 거울을 사용했습니다."
+          },
+          {
+            "sentence": "They studied the concave lens.",
+            "meaning_ko": "그들은 그 오목 렌즈를 연구했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The surface was concave, with the hollow and sunken shape creating depth and curvature, though the concavity would require measurement and analysis.",
+            "meaning_ko": "그 표면은 오목했고, 그 속이 빈 그리고 움푹 들어간 모양이 깊이와 곡률을 만들었지만, 그 오목함은 측정과 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She used a concave mirror, with the depressed and indented surface creating reflection and focus, though the concavity would need to be understood and utilized.",
+            "meaning_ko": "그녀는 오목 거울을 사용했고, 그 움푹 들어간 그리고 들어간 표면이 반사와 초점을 만들었지만, 그 오목함은 이해되고 활용될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They studied the concave lens, with the curved and hollow structure creating refraction and dispersion, though the concavity would require examination and understanding.",
+            "meaning_ko": "그들은 그 오목 렌즈를 연구했고, 그 굽은 그리고 속이 빈 구조가 굴절과 분산을 만들었지만, 그 오목함은 검토와 이해를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to design concave in structure that was made in the project created opportunities for optical performance and functionality, with the concavity enabling control of light and reflection, though the concavity would require precise engineering and calculation to ensure that structure is properly designed and optical properties are optimized.",
+            "meaning_ko": "그 프로젝트에서 내려졌던 그 구조에서 그 오목한 것을 설계하기로 한 그 결정은 광학 성능과 기능성을 위한 기회를 만들었고, 그 오목함이 빛과 반사의 통제를 가능하게 했지만, 그 오목함은 구조가 적절히 설계되고 광학적 특성이 최적화되는 것을 보장하기 위해 정밀한 공학과 계산을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to analyze concave configuration that was undertaken in the research created pathways for understanding optical properties and behavior, with the analysis enabling recognition of curvature and reflection patterns, though the concavity would need to be systematically studied through optical theory and experimentation to ensure that configuration is properly understood and its optical effects are accurately predicted.",
+            "meaning_ko": "그 연구에서 착수되었던 그 오목한 구성을 분석하기 위한 그 노력은 광학적 특성과 행동을 이해하기 위한 경로를 만들었고, 그 분석이 곡률과 반사 패턴의 인정을 가능하게 했지만, 그 오목함은 구성이 적절히 이해되고 그 광학적 효과가 정확히 예측되는 것을 보장하기 위해 광학 이론과 실험을 통해 체계적으로 연구될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to optimize concave geometry that was completed in the system created structure and methods for optical design and performance, with the optimization enabling improvement of optical properties and efficiency, though the concavity would require ongoing refinement and testing to ensure that geometry is optimal and optical performance meets design requirements.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 오목한 기하학을 최적화하기 위한 그 작업은 광학 설계와 성능을 위한 구조와 방법을 만들었고, 그 최적화가 광학적 특성과 효율의 개선을 가능하게 했지만, 그 오목함은 기하학이 최적이고 광학 성능이 설계 요구사항을 충족하는 것을 보장하기 위해 지속적인 정제와 테스트를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "concave는 '오목한, 움푹 들어간' 또는 '안으로 굽은, 안쪽으로 휜' 의미로, 오목하거나 움푹 들어간 상태를 가리킵니다. hollow, sunken와 비슷하지만 더 과학적 뉘앙스가 있습니다. concave in ~, concave mirror 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "과학",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: concave = (A) convex (B) hollow or sunken (C) protruding (D) raised",
+            "a": "B",
+            "meaning_ko": "concave는 '속이 빈 또는 움푹 들어간' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The surface was _____.",
+            "a": "concave",
+            "meaning_ko": "concave는 '오목한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of concave? (A) hollow (B) sunken (C) convex (D) depressed",
+            "a": "C",
+            "meaning_ko": "convex(볼록한)가 concave의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: concave _____ shape. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "concave in ~는 '~에서 오목한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: concave = (A) convex (B) hollow (C) protruding (D) raised",
+            "a": "B",
+            "meaning_ko": "hollow(속이 빈)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She used a concave mirror at shape.' → Fix the sentence.",
+            "a": "She used a concave mirror.",
+            "meaning_ko": "concave mirror는 이미 '오목 거울' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The surface was concave.'",
+            "a": "The surface was hollow and sunken, with the concavity creating depth and curvature, though the shape would require measurement and analysis.",
+            "meaning_ko": "concave는 '오목한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They studied the _____ lens. (A) concave (B) concavely (C) concavity (D) concaveness",
+            "a": "A",
+            "meaning_ko": "형용사 concave가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses concave most appropriately? (A) The concave ran. (B) The surface was concave. (C) She concave smiled. (D) Concave is good.",
+            "a": "B",
+            "meaning_ko": "concave는 형용사로 '오목한'을 의미하며, be concave와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sibling",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "형제, 자매; 형제나 자매.",
+        "note": "형제나 자매를 가리킵니다."
+      },
+      {
+        "definition_ko": "형제자매, 남매; 형제자매나 남매.",
+        "note": "형제자매나 남매를 가리킵니다."
+      }
+    ],
+    "concept": "형제나 자매인 형제, 또는 형제자매나 남매.",
+    "etymology": "고대 영어 sibb(친척)에서 유래했으며, '형제나 자매' 의미입니다.",
+    "semanticExtension": "원래는 '친척' 의미였고, 현대에는 '형제나 자매'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, sibling 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 형제",
+        "example": "sibling of"
+      }
+    ],
+    "requiredComplements": [
+      "sibling : 형제/자매",
+      "sibling of + 명사 : ~의 형제"
+    ],
+    "morphology": "고대 영어 sibb에서 유래한 단어로, '형제나 자매' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "siblings",
+        "meaning_ko": "형제들(복수형)"
+      },
+      {
+        "word": "siblinghood",
+        "meaning_ko": "형제관계"
+      }
+    ],
+    "related": [
+      {
+        "word": "brother",
+        "meaning_ko": "형/오빠"
+      },
+      {
+        "word": "sister",
+        "meaning_ko": "누나/언니"
+      },
+      {
+        "word": "family",
+        "meaning_ko": "가족"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "brother",
+        "meaning_ko": "형/오빠"
+      },
+      {
+        "word": "sister",
+        "meaning_ko": "누나/언니"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "relative",
+        "meaning_ko": "친척(범위가 더 넓음)"
+      },
+      {
+        "word": "kin",
+        "meaning_ko": "친척"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stranger",
+        "meaning_ko": "낯선 사람"
+      },
+      {
+        "word": "non-relative",
+        "meaning_ko": "비친척"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sibling of",
+            "meaning_ko": "~의 형제"
+          },
+          {
+            "phrase": "younger sibling",
+            "meaning_ko": "어린 형제"
+          },
+          {
+            "phrase": "older sibling",
+            "meaning_ko": "나이 많은 형제"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sibling of the family",
+            "meaning_ko": "그 가족의 형제"
+          },
+          {
+            "phrase": "elder sibling",
+            "meaning_ko": "형/누나"
+          },
+          {
+            "phrase": "youngest sibling",
+            "meaning_ko": "막내 형제"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sibling of the same parents",
+            "meaning_ko": "그 같은 부모의 형제"
+          },
+          {
+            "phrase": "biological sibling",
+            "meaning_ko": "생물학적 형제"
+          },
+          {
+            "phrase": "full sibling",
+            "meaning_ko": "완전한 형제"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He has a sibling.",
+            "meaning_ko": "그는 형제가 있습니다."
+          },
+          {
+            "sentence": "She met her younger sibling.",
+            "meaning_ko": "그녀는 그녀의 어린 형제를 만났습니다."
+          },
+          {
+            "sentence": "They visited their older sibling.",
+            "meaning_ko": "그들은 그들의 나이 많은 형제를 방문했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He has a sibling, with his brother and sister creating family bonds and relationships, though the siblinghood would require care and support.",
+            "meaning_ko": "그는 형제가 있고, 그의 형 그리고 자매가 가족 유대와 관계를 만들었지만, 그 형제관계는 돌봄과 지원을 요구할 것입니다."
+          },
+          {
+            "sentence": "She met her younger sibling, with the relative and kin creating connection and understanding, though the siblinghood would need to be nurtured and maintained.",
+            "meaning_ko": "그녀는 그녀의 어린 형제를 만났고, 그 친척 그리고 친척이 연결과 이해를 만들었지만, 그 형제관계는 양육되고 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They visited their older sibling, with the family and relative creating reunion and connection, though the siblinghood would require communication and engagement.",
+            "meaning_ko": "그들은 그들의 나이 많은 형제를 방문했고, 그 가족 그리고 친척이 재회와 연결을 만들었지만, 그 형제관계는 소통과 참여를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to support sibling of the same parents that was made in the family created opportunities for unity and support, with the support enabling maintenance of family bonds and relationships, though the siblinghood would require ongoing communication and care to ensure that relationships are maintained and family unity is preserved.",
+            "meaning_ko": "그 가족에서 내려졌던 그 같은 부모의 그 형제를 지원하기로 한 그 결정은 통합과 지원을 위한 기회를 만들었고, 그 지원이 가족 유대와 관계의 유지를 가능하게 했지만, 그 형제관계는 관계가 유지되고 가족 통합이 보존되는 것을 보장하기 위해 지속적인 소통과 돌봄을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to maintain biological sibling that was undertaken in the relationship created pathways for family connection and understanding, with the maintenance enabling preservation of genetic bonds and shared history, though the siblinghood would need to be systematically nurtured through communication and support to ensure that relationships are strong and family bonds are maintained.",
+            "meaning_ko": "그 관계에서 착수되었던 그 생물학적 형제를 유지하기 위한 그 노력은 가족 연결과 이해를 위한 경로를 만들었고, 그 유지가 유전적 유대와 공유된 역사의 보존을 가능하게 했지만, 그 형제관계는 관계가 강하고 가족 유대가 유지되는 것을 보장하기 위해 소통과 지원을 통해 체계적으로 양육될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to strengthen full sibling that was completed in the family created structure and methods for family unity and support, with the strengthening enabling improvement of relationships and bonds, though the siblinghood would require ongoing engagement and communication to ensure that relationships remain strong and family unity is maintained and enhanced.",
+            "meaning_ko": "그 가족에서 완료되었던 그 완전한 형제를 강화하기 위한 그 작업은 가족 통합과 지원을 위한 구조와 방법을 만들었고, 그 강화가 관계와 유대의 개선을 가능하게 했지만, 그 형제관계는 관계가 계속 강하고 가족 통합이 유지되고 향상되는 것을 보장하기 위해 지속적인 참여와 소통을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sibling는 '형제, 자매' 또는 '형제자매, 남매' 의미로, 형제나 자매를 가리킵니다. brother, sister와 비슷하지만 성별을 구분하지 않는 중립적 표현입니다. sibling of ~, younger sibling 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sibling = (A) stranger (B) brother or sister (C) non-relative (D) outsider",
+            "a": "B",
+            "meaning_ko": "sibling는 '형 또는 자매' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He has a _____.",
+            "a": "sibling",
+            "meaning_ko": "sibling는 '형제' 의미입니다."
+          },
+          {
+            "q": "Which is NOT a sibling? (A) brother (B) sister (C) stranger (D) younger sibling",
+            "a": "C",
+            "meaning_ko": "stranger(낯선 사람)는 형제가 아닙니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: sibling _____ the family. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "sibling of ~는 '~의 형제' 의미입니다."
+          },
+          {
+            "q": "Pick the best related word: sibling = (A) stranger (B) brother (C) non-relative (D) outsider",
+            "a": "B",
+            "meaning_ko": "brother(형)가 가장 관련이 있는 단어입니다."
+          },
+          {
+            "q": "Error check: 'She met her younger sibling at the family.' → Fix the sentence.",
+            "a": "She met her younger sibling.",
+            "meaning_ko": "younger sibling는 이미 '어린 형제' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He has a sibling.'",
+            "a": "He has a brother or sister, with the siblinghood creating family bonds and relationships, though the relationship would require care and support.",
+            "meaning_ko": "sibling는 '형제' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They visited their older _____. (A) sibling (B) siblings (C) siblinghood (D) sibling's",
+            "a": "A",
+            "meaning_ko": "명사 sibling가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sibling most appropriately? (A) The sibling ran. (B) He has a sibling. (C) She sibling smiled. (D) Sibling is good.",
+            "a": "B",
+            "meaning_ko": "sibling는 명사로 '형제'를 의미하며, have a sibling와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

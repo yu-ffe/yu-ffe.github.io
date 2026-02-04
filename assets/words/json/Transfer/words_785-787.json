@@ -1,0 +1,823 @@
+[
+  {
+    "word": "dejected",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "낙담한, 우울한; 낙담하거나 우울한.",
+        "note": "낙담하거나 우울한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "의기소침한, 풀죽은; 의기소침하거나 풀죽은.",
+        "note": "의기소침하거나 풀죽은 상태를 가리킵니다."
+      }
+    ],
+    "concept": "낙담하거나 우울한 상태, 또는 의기소침하거나 풀죽은 상태.",
+    "etymology": "라틴어 deicere(내던지다)에서 유래했으며, de(아래로) + iacere(던지다)의 조합입니다.",
+    "semanticExtension": "원래는 '내던지다' 의미였고, 현대에는 '낙담하거나 우울한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 부정적 뉘앙스로 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be dejected 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 낙담한",
+        "example": "dejected about"
+      }
+    ],
+    "requiredComplements": [
+      "be dejected : 낙담하다",
+      "dejected + 명사 : 낙담한 ~",
+      "dejected about + 명사 : ~에 대해 낙담한"
+    ],
+    "morphology": "라틴어 deicere에서 유래한 단어로, de(아래로) + iacere(던지다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "dejectedly",
+        "meaning_ko": "낙담하여"
+      },
+      {
+        "word": "dejection",
+        "meaning_ko": "낙담"
+      },
+      {
+        "word": "deject",
+        "meaning_ko": "낙담시키다"
+      }
+    ],
+    "related": [
+      {
+        "word": "depressed",
+        "meaning_ko": "우울한"
+      },
+      {
+        "word": "downcast",
+        "meaning_ko": "의기소침한"
+      },
+      {
+        "word": "disheartened",
+        "meaning_ko": "낙담한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "depressed",
+        "meaning_ko": "우울한"
+      },
+      {
+        "word": "downcast",
+        "meaning_ko": "의기소침한"
+      },
+      {
+        "word": "disheartened",
+        "meaning_ko": "낙담한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "despondent",
+        "meaning_ko": "절망적인(범위가 더 넓음)"
+      },
+      {
+        "word": "melancholy",
+        "meaning_ko": "우울한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cheerful",
+        "meaning_ko": "쾌활한"
+      },
+      {
+        "word": "uplifted",
+        "meaning_ko": "고양된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "dejected about",
+            "meaning_ko": "~에 대해 낙담한"
+          },
+          {
+            "phrase": "dejected look",
+            "meaning_ko": "낙담한 표정"
+          },
+          {
+            "phrase": "dejected expression",
+            "meaning_ko": "낙담한 표정"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dejected about the result",
+            "meaning_ko": "그 결과에 대해 낙담한"
+          },
+          {
+            "phrase": "dejected mood",
+            "meaning_ko": "낙담한 기분"
+          },
+          {
+            "phrase": "dejected attitude",
+            "meaning_ko": "낙담한 태도"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "dejected about the failure",
+            "meaning_ko": "그 실패에 대해 낙담한"
+          },
+          {
+            "phrase": "dejected demeanor",
+            "meaning_ko": "낙담한 태도"
+          },
+          {
+            "phrase": "dejected state",
+            "meaning_ko": "낙담한 상태"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He looked dejected.",
+            "meaning_ko": "그는 낙담해 보였습니다."
+          },
+          {
+            "sentence": "She was dejected about the result.",
+            "meaning_ko": "그녀는 그 결과에 대해 낙담했습니다."
+          },
+          {
+            "sentence": "They felt dejected.",
+            "meaning_ko": "그들은 낙담했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He looked dejected, with his depressed and downcast appearance creating sadness and despair, though the dejection would require support and encouragement.",
+            "meaning_ko": "그는 낙담해 보였고, 그의 우울하고 의기소침한 외모가 슬픔과 절망을 만들었지만, 그 낙담은 지원과 격려를 요구할 것입니다."
+          },
+          {
+            "sentence": "She was dejected about the result, with her disheartened and melancholy mood creating disappointment and discouragement, though the dejection would need to be addressed and overcome.",
+            "meaning_ko": "그녀는 그 결과에 대해 낙담했고, 그녀의 낙담하고 우울한 기분이 실망과 낙담을 만들었지만, 그 낙담은 다뤄지고 극복될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They felt dejected, with their depressed and despondent state creating low spirits and lack of motivation, though the dejection would require understanding and help.",
+            "meaning_ko": "그들은 낙담했고, 그들의 우울하고 절망적인 상태가 낮은 기분과 동기 부족을 만들었지만, 그 낙담은 이해와 도움을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The dejected demeanor about the failure that was displayed in the situation created a sense of defeat and hopelessness, with the depressed state leading to decreased motivation and engagement, though the dejection would require support and perspective to help recognize that setbacks are part of growth and learning.",
+            "meaning_ko": "그 상황에서 표시되었던 그 실패에 대한 그 낙담한 태도는 패배와 절망의 감각을 만들었고, 그 우울한 상태가 감소된 동기와 참여로 이어졌지만, 그 낙담은 좌절이 성장과 학습의 일부라는 것을 인식하는 데 도움이 되기 위해 지원과 관점을 요구할 것입니다."
+          },
+          {
+            "sentence": "The dejected state that was experienced in the period created challenges for maintaining positivity and resilience, with the downcast mood leading to withdrawal and disengagement, though the dejection would need to be addressed through support, encouragement, and strategies to rebuild confidence and hope.",
+            "meaning_ko": "그 기간 동안 경험되었던 그 낙담한 상태는 긍정성과 회복력을 유지하는 데 도전을 만들었고, 그 의기소침한 기분이 철회와 비참여로 이어졌지만, 그 낙담은 자신감과 희망을 재구축하기 위한 지원, 격려, 전략을 통해 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The decision to address the dejection that was made in the support created opportunities for recovery and improvement, with the help enabling understanding and coping strategies, though the dejection would require ongoing attention and care to ensure that the individual can move forward and regain motivation.",
+            "meaning_ko": "그 지원에서 내려졌던 그 낙담을 다루기로 한 그 결정은 회복과 개선을 위한 기회를 만들었고, 그 도움이 이해와 대처 전략을 가능하게 했지만, 그 낙담은 개인이 앞으로 나아가고 동기를 회복할 수 있도록 지속적인 주의와 돌봄을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dejected는 '낙담한, 우울한' 또는 '의기소침한, 풀죽은' 의미로, 낙담하거나 우울한 상태를 가리킵니다. depressed, downcast와 비슷하지만 더 문어적 뉘앙스가 있습니다. dejected about ~, dejected look 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "심리",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: dejected = (A) cheerful (B) depressed or downcast (C) uplifted (D) happy",
+            "a": "B",
+            "meaning_ko": "dejected는 '우울한 또는 의기소침한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He looked _____.",
+            "a": "dejected",
+            "meaning_ko": "dejected는 '낙담한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of dejected? (A) depressed (B) downcast (C) cheerful (D) disheartened",
+            "a": "C",
+            "meaning_ko": "cheerful(쾌활한)가 dejected의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: dejected _____ the result. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "dejected about ~는 '~에 대해 낙담한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: dejected = (A) cheerful (B) depressed (C) uplifted (D) happy",
+            "a": "B",
+            "meaning_ko": "depressed(우울한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was dejected at the result.' → Fix the preposition.",
+            "a": "She was dejected about the result.",
+            "meaning_ko": "dejected about ~는 '~에 대해 낙담한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He looked dejected.'",
+            "a": "He appeared depressed and downcast, with the dejected appearance creating sadness and despair, though the dejection would require support and encouragement.",
+            "meaning_ko": "dejected는 '낙담한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They felt _____. (A) dejected (B) dejectedly (C) dejection (D) dejected's",
+            "a": "A",
+            "meaning_ko": "형용사 dejected가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses dejected most appropriately? (A) The dejected ran. (B) He looked dejected. (C) She dejected smiled. (D) Dejected is good.",
+            "a": "B",
+            "meaning_ko": "dejected는 형용사로 '낙담한'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "marvel",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "경이, 놀라운 것; 경이나 놀라운 것.",
+        "note": "경이나 놀라운 것을 가리킵니다."
+      },
+      {
+        "definition_ko": "경탄하다, 놀라다; 경탄하거나 놀라다.",
+        "note": "경탄하거나 놀라는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "경이나 놀라운 것인 경이, 또는 경탄하거나 놀라는 것.",
+    "etymology": "고대 프랑스어 merveille(경이)에서 유래했으며, 라틴어 mirabilia(놀라운 것)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '경이' 의미였고, 현대에는 '경탄하거나 놀라다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사와 동사로 모두 사용되며, marvel 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에 경탄하다",
+        "example": "marvel at"
+      }
+    ],
+    "requiredComplements": [
+      "marvel : 경이/놀라운 것",
+      "marvel at + 명사 : ~에 경탄하다"
+    ],
+    "morphology": "고대 프랑스어 merveille에서 유래한 단어로, 라틴어 mirabilia(놀라운 것)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "marvels",
+        "meaning_ko": "경이들(복수형)"
+      },
+      {
+        "word": "marveled",
+        "meaning_ko": "경탄한(과거분사/형용사)"
+      },
+      {
+        "word": "marveling",
+        "meaning_ko": "경탄하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "wonder",
+        "meaning_ko": "경이"
+      },
+      {
+        "word": "amazement",
+        "meaning_ko": "놀라움"
+      },
+      {
+        "word": "astonishment",
+        "meaning_ko": "놀라움"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "wonder",
+        "meaning_ko": "경이"
+      },
+      {
+        "word": "amazement",
+        "meaning_ko": "놀라움"
+      },
+      {
+        "word": "astonishment",
+        "meaning_ko": "놀라움"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "miracle",
+        "meaning_ko": "기적(범위가 더 넓음)"
+      },
+      {
+        "word": "phenomenon",
+        "meaning_ko": "현상"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "commonplace",
+        "meaning_ko": "평범한 것"
+      },
+      {
+        "word": "ordinary",
+        "meaning_ko": "일반적인 것"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "marvel at",
+            "meaning_ko": "~에 경탄하다"
+          },
+          {
+            "phrase": "natural marvel",
+            "meaning_ko": "자연의 경이"
+          },
+          {
+            "phrase": "technological marvel",
+            "meaning_ko": "기술의 경이"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "marvel at the beauty",
+            "meaning_ko": "그 아름다움에 경탄하다"
+          },
+          {
+            "phrase": "marvel at the sight",
+            "meaning_ko": "그 광경에 경탄하다"
+          },
+          {
+            "phrase": "marvel at the achievement",
+            "meaning_ko": "그 성취에 경탄하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "marvel at the complexity",
+            "meaning_ko": "그 복잡성에 경탄하다"
+          },
+          {
+            "phrase": "marvel at the innovation",
+            "meaning_ko": "그 혁신에 경탄하다"
+          },
+          {
+            "phrase": "marvel at the wonder",
+            "meaning_ko": "그 경이에 경탄하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He marveled at the beauty.",
+            "meaning_ko": "그는 그 아름다움에 경탄했습니다."
+          },
+          {
+            "sentence": "She saw a natural marvel.",
+            "meaning_ko": "그녀는 자연의 경이를 봤습니다."
+          },
+          {
+            "sentence": "They marveled at the sight.",
+            "meaning_ko": "그들은 그 광경에 경탄했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He marveled at the beauty, with his wonder and amazement creating appreciation and admiration, though the marvel would require reflection and understanding.",
+            "meaning_ko": "그는 그 아름다움에 경탄했고, 그의 경이와 놀라움이 감사와 감탄을 만들었지만, 그 경이는 성찰과 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "She saw a natural marvel, with the wonder and phenomenon creating awe and fascination, though the marvel would require observation and study.",
+            "meaning_ko": "그녀는 자연의 경이를 봤고, 그 경이와 현상이 경외와 매력을 만들었지만, 그 경이는 관찰과 연구를 요구할 것입니다."
+          },
+          {
+            "sentence": "They marveled at the sight, with their astonishment and wonder creating excitement and interest, though the marvel would need to be appreciated and preserved.",
+            "meaning_ko": "그들은 그 광경에 경탄했고, 그들의 놀라움과 경이가 흥분과 관심을 만들었지만, 그 경이는 감사받고 보존될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to marvel at the complexity that was made in the observation created appreciation and understanding of intricate systems, with the wonder enabling recognition of sophistication and design, though the marvel would require continued study and exploration to fully comprehend the depth and significance.",
+            "meaning_ko": "그 관찰에서 내려졌던 그 복잡성에 경탄하기로 한 그 결정은 복잡한 시스템에 대한 감사와 이해를 만들었고, 그 경이가 정교함과 설계의 인식을 가능하게 했지만, 그 경이는 깊이와 중요성을 완전히 이해하기 위해 지속적인 연구와 탐구를 요구할 것입니다."
+          },
+          {
+            "sentence": "The marvel at the innovation that was expressed in the response created recognition and admiration for creativity and advancement, with the wonder enabling appreciation of progress and possibility, though the marvel would require understanding the impact and potential of the innovation.",
+            "meaning_ko": "그 응답에서 표현되었던 그 혁신에 대한 그 경이는 창의성과 발전에 대한 인정과 감탄을 만들었고, 그 경이가 진보와 가능성의 감사를 가능하게 했지만, 그 경이는 그 혁신의 영향과 잠재력을 이해하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The work to marvel at the wonder that was undertaken in the exploration created opportunities for discovery and learning, with the amazement enabling connection with the extraordinary and inspiring, though the marvel would require maintaining a sense of wonder and curiosity to continue finding beauty and significance in the world.",
+            "meaning_ko": "그 탐구에서 착수되었던 그 경이에 경탄하기 위한 그 작업은 발견과 학습을 위한 기회를 만들었고, 그 놀라움이 비범하고 영감을 주는 것과의 연결을 가능하게 했지만, 그 경이는 세상에서 아름다움과 중요성을 계속 찾기 위해 경이와 호기심의 감각을 유지하는 것을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "marvel는 '경이, 놀라운 것' 또는 '경탄하다, 놀라다' 의미로, 경이나 놀라운 것을 가리킵니다. wonder, amazement와 비슷하지만 더 일반적 뉘앙스가 있습니다. marvel at ~, natural marvel 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: marvel = (A) commonplace (B) wonder or amazement (C) ordinary (D) normal",
+            "a": "B",
+            "meaning_ko": "marvel는 '경이 또는 놀라움' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ at the beauty.",
+            "a": "marveled",
+            "meaning_ko": "marvel는 '경탄하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of marvel? (A) wonder (B) amazement (C) commonplace (D) astonishment",
+            "a": "C",
+            "meaning_ko": "commonplace(평범한 것)가 marvel의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: marvel _____ the beauty. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "marvel at ~는 '~에 경탄하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: marvel = (A) commonplace (B) wonder (C) ordinary (D) normal",
+            "a": "B",
+            "meaning_ko": "wonder(경이)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She saw a natural marvel on the beauty.' → Fix the preposition.",
+            "a": "She saw a natural marvel.",
+            "meaning_ko": "marvel는 직접 명사로 쓰이므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He marveled at the beauty.'",
+            "a": "He expressed wonder and amazement at the aesthetic quality, with the marvel creating appreciation and admiration, though the wonder would require reflection and understanding.",
+            "meaning_ko": "marvel는 '경탄하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ at the sight. (A) marvel (B) marvels (C) marveled (D) marveling",
+            "a": "C",
+            "meaning_ko": "과거형 marveled가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses marvel most appropriately? (A) The marvel ran. (B) He marveled at the beauty. (C) She marvel smiled. (D) Marvel is good.",
+            "a": "B",
+            "meaning_ko": "marvel는 자동사로 '경탄하다'를 의미하며, marvel at ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "advert",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "언급하다, 말하다; 언급하거나 말하다.",
+        "note": "언급하거나 말하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "주의를 기울이다, 주목하다; 주의를 기울이거나 주목하다.",
+        "note": "주의를 기울이거나 주목하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "언급하거나 말하는 것, 또는 주의를 기울이거나 주목하는 것.",
+    "etymology": "라틴어 advertere(돌리다)에서 유래했으며, ad(향하여) + vertere(돌리다)의 조합입니다.",
+    "semanticExtension": "원래는 '돌리다' 의미였고, 현대에는 '언급하거나 말하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "자동사로 자주 사용되며, advert + to 형태로 자주 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 언급하다",
+        "example": "advert to"
+      }
+    ],
+    "requiredComplements": [
+      "advert : 언급하다/말하다",
+      "advert to + 명사 : ~에 언급하다"
+    ],
+    "morphology": "라틴어 advertere에서 유래한 단어로, ad(향하여) + vertere(돌리다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "adverted",
+        "meaning_ko": "언급한(과거분사/형용사)"
+      },
+      {
+        "word": "adverting",
+        "meaning_ko": "언급하는(현재분사/형용사)"
+      },
+      {
+        "word": "advertence",
+        "meaning_ko": "주의"
+      }
+    ],
+    "related": [
+      {
+        "word": "refer",
+        "meaning_ko": "언급하다"
+      },
+      {
+        "word": "mention",
+        "meaning_ko": "언급하다"
+      },
+      {
+        "word": "allude",
+        "meaning_ko": "암시하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "refer",
+        "meaning_ko": "언급하다"
+      },
+      {
+        "word": "mention",
+        "meaning_ko": "언급하다"
+      },
+      {
+        "word": "allude",
+        "meaning_ko": "암시하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "cite",
+        "meaning_ko": "인용하다(범위가 더 넓음)"
+      },
+      {
+        "word": "note",
+        "meaning_ko": "언급하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "overlook",
+        "meaning_ko": "간과하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "advert to",
+            "meaning_ko": "~에 언급하다"
+          },
+          {
+            "phrase": "advert to the issue",
+            "meaning_ko": "그 문제에 언급하다"
+          },
+          {
+            "phrase": "advert to the point",
+            "meaning_ko": "그 요점에 언급하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "advert to the matter",
+            "meaning_ko": "그 사안에 언급하다"
+          },
+          {
+            "phrase": "advert to the subject",
+            "meaning_ko": "그 주제에 언급하다"
+          },
+          {
+            "phrase": "advert to the fact",
+            "meaning_ko": "그 사실에 언급하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "advert to the problem",
+            "meaning_ko": "그 문제에 언급하다"
+          },
+          {
+            "phrase": "advert to the concern",
+            "meaning_ko": "그 우려에 언급하다"
+          },
+          {
+            "phrase": "advert to the topic",
+            "meaning_ko": "그 주제에 언급하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He adverted to the issue.",
+            "meaning_ko": "그는 그 문제에 언급했습니다."
+          },
+          {
+            "sentence": "She adverted to the point.",
+            "meaning_ko": "그녀는 그 요점에 언급했습니다."
+          },
+          {
+            "sentence": "They adverted to the matter.",
+            "meaning_ko": "그들은 그 사안에 언급했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He adverted to the issue, with his refer and mention creating awareness and attention, though the advertence would require discussion and resolution.",
+            "meaning_ko": "그는 그 문제에 언급했고, 그의 언급과 언급이 인식과 주의를 만들었지만, 그 언급은 토론과 해결을 요구할 것입니다."
+          },
+          {
+            "sentence": "She adverted to the point, with her allude and note creating reference and connection, though the advertence would need to be expanded and explained.",
+            "meaning_ko": "그녀는 그 요점에 언급했고, 그녀의 암시와 언급이 참조와 연결을 만들었지만, 그 언급은 확장되고 설명될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They adverted to the matter, with their refer and cite creating acknowledgment and recognition, though the advertence would require consideration and action.",
+            "meaning_ko": "그들은 그 사안에 언급했고, 그들의 언급과 인용이 승인과 인정을 만들었지만, 그 언급은 고려와 행동을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to advert to the problem that was made in the discussion created awareness and acknowledgment of the issue, with the mention enabling recognition and attention, though the advertence would require thorough analysis and solutions to address the underlying causes and effects.",
+            "meaning_ko": "그 토론에서 내려졌던 그 문제에 언급하기로 한 그 결정은 그 문제에 대한 인식과 승인을 만들었고, 그 언급이 인정과 주의를 가능하게 했지만, 그 언급은 근본 원인과 효과를 다루기 위해 철저한 분석과 해결책을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to advert to the concern that was undertaken in the meeting created visibility and discussion of important issues, with the reference enabling engagement and consideration, though the advertence would need to be followed by action and resolution to ensure that concerns are addressed effectively.",
+            "meaning_ko": "그 회의에서 착수되었던 그 우려에 언급하기 위한 그 노력은 중요한 문제의 가시성과 토론을 만들었고, 그 참조가 참여와 고려를 가능하게 했지만, 그 언급은 우려가 효과적으로 다뤄지는 것을 보장하기 위해 행동과 해결로 이어질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to advert to the topic that was completed in the presentation created connection and context, with the mention enabling understanding and relevance, though the advertence would require elaboration and development to provide comprehensive coverage and insight.",
+            "meaning_ko": "그 발표에서 완료되었던 그 주제에 언급하기 위한 그 작업은 연결과 맥락을 만들었고, 그 언급이 이해와 관련성을 가능하게 했지만, 그 언급은 포괄적인 커버리지와 통찰을 제공하기 위해 정교화와 발전을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "advert는 '언급하다, 말하다' 또는 '주의를 기울이다, 주목하다' 의미로, 언급하거나 말하는 행동을 가리킵니다. refer, mention와 비슷하지만 더 문어적 뉘앙스가 있습니다. advert to ~, advert to the issue 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: advert = (A) ignore (B) refer or mention (C) overlook (D) avoid",
+            "a": "B",
+            "meaning_ko": "advert는 '언급하다 또는 언급하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ to the issue.",
+            "a": "adverted",
+            "meaning_ko": "advert는 '언급하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of advert? (A) refer (B) mention (C) ignore (D) allude",
+            "a": "C",
+            "meaning_ko": "ignore(무시하다)가 advert의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: advert _____ the issue. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "advert to ~는 '~에 언급하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: advert = (A) ignore (B) refer (C) overlook (D) avoid",
+            "a": "B",
+            "meaning_ko": "refer(언급하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She adverted at the point.' → Fix the preposition.",
+            "a": "She adverted to the point.",
+            "meaning_ko": "advert to ~는 '~에 언급하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He adverted to the issue.'",
+            "a": "He referred and mentioned the problem, with the advertence creating awareness and attention, though the mention would require discussion and resolution.",
+            "meaning_ko": "advert는 '언급하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ to the matter. (A) advert (B) adverts (C) adverted (D) adverting",
+            "a": "C",
+            "meaning_ko": "과거형 adverted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses advert most appropriately? (A) The advert ran. (B) He adverted to the issue. (C) She advert smiled. (D) Advert is good.",
+            "a": "B",
+            "meaning_ko": "advert는 자동사로 '언급하다'를 의미하며, advert to ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

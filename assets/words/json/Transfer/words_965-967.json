@@ -1,0 +1,824 @@
+[
+  {
+    "word": "ransom",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "몸값, 몸값; 몸값이나 몸값.",
+        "note": "몸값이나 몸값을 가리킵니다."
+      },
+      {
+        "definition_ko": "몸값을 지불하다, 몸값을 치르다; 몸값을 지불하거나 몸값을 치르는 것.",
+        "note": "몸값을 지불하거나 몸값을 치르는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "몸값이나 몸값인 몸값, 또는 몸값을 지불하거나 몸값을 치르는 행동.",
+    "etymology": "프랑스어 rançon(몸값)에서 유래했으며, '몸값' 의미입니다.",
+    "semanticExtension": "원래는 '몸값' 의미였고, 현대에는 '몸값' 또는 '몸값을 지불하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 주로 단수형으로 사용되며, 동사로는 타동사로 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 몸값",
+        "example": "ransom for"
+      }
+    ],
+    "requiredComplements": [
+      "ransom : 몸값/몸값을 지불하다",
+      "ransom for + 명사 : ~을 위한 몸값",
+      "ransom + 명사 : ~을 몸값으로 구하다"
+    ],
+    "morphology": "프랑스어 rançon에서 유래한 단어로, '몸값' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "ransomed",
+        "meaning_ko": "몸값을 지불한(과거분사)"
+      },
+      {
+        "word": "ransoming",
+        "meaning_ko": "몸값을 지불하는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "payment",
+        "meaning_ko": "지불"
+      },
+      {
+        "word": "release",
+        "meaning_ko": "방출"
+      },
+      {
+        "word": "rescue",
+        "meaning_ko": "구조"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "payment",
+        "meaning_ko": "지불"
+      },
+      {
+        "word": "release",
+        "meaning_ko": "방출"
+      },
+      {
+        "word": "rescue",
+        "meaning_ko": "구조"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "redemption",
+        "meaning_ko": "구속(범위가 더 넓음)"
+      },
+      {
+        "word": "buyback",
+        "meaning_ko": "재매입"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "capture",
+        "meaning_ko": "포획"
+      },
+      {
+        "word": "kidnap",
+        "meaning_ko": "납치"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ransom for",
+            "meaning_ko": "~을 위한 몸값"
+          },
+          {
+            "phrase": "pay ransom",
+            "meaning_ko": "몸값을 지불하다"
+          },
+          {
+            "phrase": "demand ransom",
+            "meaning_ko": "몸값을 요구하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ransom for the hostage",
+            "meaning_ko": "그 인질을 위한 몸값"
+          },
+          {
+            "phrase": "ransom note",
+            "meaning_ko": "몸값 요구서"
+          },
+          {
+            "phrase": "ransom money",
+            "meaning_ko": "몸값"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ransom for the victim",
+            "meaning_ko": "그 피해자를 위한 몸값"
+          },
+          {
+            "phrase": "ransom demand",
+            "meaning_ko": "몸값 요구"
+          },
+          {
+            "phrase": "ransom payment",
+            "meaning_ko": "몸값 지불"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He paid the ransom.",
+            "meaning_ko": "그는 그 몸값을 지불했습니다."
+          },
+          {
+            "sentence": "She demanded ransom for the hostage.",
+            "meaning_ko": "그녀는 그 인질을 위한 몸값을 요구했습니다."
+          },
+          {
+            "sentence": "They received the ransom.",
+            "meaning_ko": "그들은 그 몸값을 받았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He paid the ransom, with his payment and release creating freedom and rescue, though the ransom would require negotiation and agreement.",
+            "meaning_ko": "그는 그 몸값을 지불했고, 그의 지불 그리고 방출이 자유와 구조를 만들었지만, 그 몸값은 협상과 합의를 요구할 것입니다."
+          },
+          {
+            "sentence": "She demanded ransom for the hostage, with the redemption and buyback creating payment and release, though the ransom would need to be negotiated and agreed.",
+            "meaning_ko": "그녀는 그 인질을 위한 몸값을 요구했고, 그 구속 그리고 재매입이 지불과 방출을 만들었지만, 그 몸값은 협상되고 합의될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They received the ransom, with the rescue and payment creating release and freedom, though the ransom would require handling and management.",
+            "meaning_ko": "그들은 그 몸값을 받았고, 그 구조 그리고 지불이 방출과 자유를 만들었지만, 그 몸값은 처리와 관리를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to pay ransom for the victim that was made in the process created opportunities for release and rescue, with the payment enabling freedom and safety, though the ransom would require comprehensive negotiation and agreement to ensure that victim is properly released and safety is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 피해자를 위한 그 몸값을 지불하기로 한 그 결정은 방출과 구조를 위한 기회를 만들었고, 그 지불이 자유와 안전을 가능하게 했지만, 그 몸값은 피해자가 적절히 방출되고 안전이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 협상과 합의를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to negotiate ransom demand that was undertaken in the initiative created pathways for agreement and release, with the negotiation enabling discussion and agreement, though the ransom would need to be systematically negotiated through communication and discussion to ensure that demand is properly addressed and release is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 몸값 요구를 협상하기 위한 그 노력은 합의와 방출을 위한 경로를 만들었고, 그 협상이 논의와 합의를 가능하게 했지만, 그 몸값은 요구가 적절히 다뤄지고 방출이 효과적으로 달성되는 것을 보장하기 위해 소통과 논의를 통해 체계적으로 협상될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to manage ransom payment that was completed in the system created structure and methods for handling and release, with the management enabling coordination and safety, though the ransom would require ongoing monitoring and coordination to ensure that payment continues to be managed and release remains effectively achieved and maintained.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 몸값 지불을 관리하기 위한 그 작업은 처리와 방출을 위한 구조와 방법을 만들었고, 그 관리가 조정과 안전을 가능하게 했지만, 그 몸값은 지불이 계속 관리되고 방출이 계속 효과적으로 달성되고 유지되는 것을 보장하기 위해 지속적인 모니터링과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ransom는 '몸값, 몸값' 또는 '몸값을 지불하다, 몸값을 치르다' 의미로, 몸값이나 몸값을 가리킵니다. payment, release와 비슷하지만 더 구체적 뉘앙스가 있습니다. ransom for ~, pay ransom 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: ransom = (A) capture (B) payment or release (C) kidnap (D) seize",
+            "a": "B",
+            "meaning_ko": "ransom는 '지불 또는 방출' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He paid the _____.",
+            "a": "ransom",
+            "meaning_ko": "ransom는 '몸값' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of ransom? (A) payment (B) release (C) capture (D) rescue",
+            "a": "C",
+            "meaning_ko": "capture(포획)가 ransom의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: ransom _____ the hostage. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "ransom for ~는 '~을 위한 몸값' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: ransom = (A) capture (B) payment (C) kidnap (D) seize",
+            "a": "B",
+            "meaning_ko": "payment(지불)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She demanded ransom at the hostage.' → Fix the preposition.",
+            "a": "She demanded ransom for the hostage.",
+            "meaning_ko": "ransom for ~는 '~을 위한 몸값' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He paid the ransom.'",
+            "a": "He made payment and release, with the ransom creating freedom and rescue, though the payment would require negotiation and agreement.",
+            "meaning_ko": "ransom는 '몸값' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They received the _____. (A) ransom (B) ransoms (C) ransomed (D) ransoming",
+            "a": "A",
+            "meaning_ko": "명사 ransom가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses ransom most appropriately? (A) The ransom ran. (B) He paid the ransom. (C) She ransom smiled. (D) Ransom is good.",
+            "a": "B",
+            "meaning_ko": "ransom는 명사로 '몸값'을 의미하며, pay the ransom와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tantamount",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "동등한, 같은; 동등하거나 같은.",
+        "note": "동등하거나 같은 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "실질적으로 같은, 사실상 같은; 실질적으로 같거나 사실상 같은.",
+        "note": "실질적으로 같거나 사실상 같은 상태를 가리킵니다."
+      }
+    ],
+    "concept": "동등하거나 같은 상태, 또는 실질적으로 같거나 사실상 같은 상태.",
+    "etymology": "프랑스어 tant(그만큼) + amount(양)의 조합으로, '그만큼의 양' 의미에서 '동등한' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '그만큼의 양' 의미였고, 현대에는 '동등한' 또는 '실질적으로 같은'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be tantamount to 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~와 동등한",
+        "example": "tantamount to"
+      }
+    ],
+    "requiredComplements": [
+      "be tantamount to + 명사 : ~와 동등하다/실질적으로 같다"
+    ],
+    "morphology": "프랑스어 tant(그만큼) + amount(양)의 조합으로, '그만큼의 양' 의미에서 '동등한' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "tantamount",
+        "meaning_ko": "동등한(형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "equivalent",
+        "meaning_ko": "동등한"
+      },
+      {
+        "word": "equal",
+        "meaning_ko": "같은"
+      },
+      {
+        "word": "same",
+        "meaning_ko": "같은"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "equivalent",
+        "meaning_ko": "동등한"
+      },
+      {
+        "word": "equal",
+        "meaning_ko": "같은"
+      },
+      {
+        "word": "same",
+        "meaning_ko": "같은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "comparable",
+        "meaning_ko": "비교 가능한(범위가 더 넓음)"
+      },
+      {
+        "word": "identical",
+        "meaning_ko": "동일한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "different",
+        "meaning_ko": "다른"
+      },
+      {
+        "word": "unequal",
+        "meaning_ko": "불평등한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "tantamount to",
+            "meaning_ko": "~와 동등한"
+          },
+          {
+            "phrase": "be tantamount to",
+            "meaning_ko": "~와 동등하다"
+          },
+          {
+            "phrase": "tantamount to admission",
+            "meaning_ko": "인정과 동등한"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "tantamount to confession",
+            "meaning_ko": "고백과 동등한"
+          },
+          {
+            "phrase": "tantamount to surrender",
+            "meaning_ko": "항복과 동등한"
+          },
+          {
+            "phrase": "tantamount to failure",
+            "meaning_ko": "실패와 동등한"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "tantamount to betrayal",
+            "meaning_ko": "배신과 동등한"
+          },
+          {
+            "phrase": "tantamount to treason",
+            "meaning_ko": "반역과 동등한"
+          },
+          {
+            "phrase": "tantamount to acceptance",
+            "meaning_ko": "수용과 동등한"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He said it was tantamount to admission.",
+            "meaning_ko": "그는 그것이 인정과 동등하다고 말했습니다."
+          },
+          {
+            "sentence": "She found it tantamount to confession.",
+            "meaning_ko": "그녀는 그것이 고백과 동등하다고 생각했습니다."
+          },
+          {
+            "sentence": "They considered it tantamount to surrender.",
+            "meaning_ko": "그들은 그것이 항복과 동등하다고 고려했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He said it was tantamount to admission, with the equivalent and equal meaning creating same and identical result, though the tantamount would require understanding and analysis.",
+            "meaning_ko": "그는 그것이 인정과 동등하다고 말했고, 그 동등한 그리고 같은 의미가 같은 그리고 동일한 결과를 만들었지만, 그 동등함은 이해와 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She found it tantamount to confession, with the comparable and identical nature creating equivalent and same meaning, though the tantamount would need to be evaluated and understood.",
+            "meaning_ko": "그녀는 그것이 고백과 동등하다고 생각했고, 그 비교 가능한 그리고 동일한 성격이 동등한 그리고 같은 의미를 만들었지만, 그 동등함은 평가되고 이해될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They considered it tantamount to surrender, with the equal and same meaning creating equivalent and identical result, though the tantamount would require analysis and evaluation.",
+            "meaning_ko": "그들은 그것이 항복과 동등하다고 고려했고, 그 같은 그리고 같은 의미가 동등한 그리고 동일한 결과를 만들었지만, 그 동등함은 분석과 평가를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to evaluate tantamount to betrayal that was made in the process created opportunities for understanding and analysis, with the evaluation enabling identification of equivalent and same meaning, though the tantamount would require comprehensive analysis and understanding to ensure that betrayal is properly identified and meaning is effectively understood.",
+            "meaning_ko": "그 과정에서 내려졌던 그 배신과 동등한 것을 평가하기로 한 그 결정은 이해와 분석을 위한 기회를 만들었고, 그 평가가 동등한 그리고 같은 의미의 식별을 가능하게 했지만, 그 동등함은 배신이 적절히 식별되고 의미가 효과적으로 이해되는 것을 보장하기 위해 포괄적인 분석과 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to analyze tantamount to treason that was undertaken in the initiative created pathways for understanding and evaluation, with the analysis enabling identification of equal and identical nature, though the tantamount would need to be systematically evaluated through analysis and comparison to ensure that treason is properly identified and nature is effectively understood.",
+            "meaning_ko": "그 계획에서 착수되었던 그 반역과 동등한 것을 분석하기 위한 그 노력은 이해와 평가를 위한 경로를 만들었고, 그 분석이 같은 그리고 동일한 성격의 식별을 가능하게 했지만, 그 동등함은 반역이 적절히 식별되고 성격이 효과적으로 이해되는 것을 보장하기 위해 분석과 비교를 통해 체계적으로 평가될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to understand tantamount to acceptance that was completed in the system created structure and methods for analysis and evaluation, with the understanding enabling identification of equivalent and same meaning, though the tantamount would require ongoing analysis and evaluation to ensure that acceptance continues to be properly understood and meaning remains effectively identified and maintained.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 수용과 동등한 것을 이해하기 위한 그 작업은 분석과 평가를 위한 구조와 방법을 만들었고, 그 이해가 동등한 그리고 같은 의미의 식별을 가능하게 했지만, 그 동등함은 수용이 계속 적절히 이해되고 의미가 계속 효과적으로 식별되고 유지되는 것을 보장하기 위해 지속적인 분석과 평가를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "tantamount는 '동등한, 같은' 또는 '실질적으로 같은, 사실상 같은' 의미로, 동등하거나 같은 상태를 가리킵니다. equivalent, equal와 비슷하지만 더 문어적 뉘앙스가 있습니다. be tantamount to ~, tantamount to ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: tantamount = (A) different (B) equivalent or equal (C) unequal (D) distinct",
+            "a": "B",
+            "meaning_ko": "tantamount는 '동등한 또는 같은' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He said it was _____ to admission.",
+            "a": "tantamount",
+            "meaning_ko": "tantamount는 '동등한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of tantamount? (A) equivalent (B) equal (C) different (D) same",
+            "a": "C",
+            "meaning_ko": "different(다른)가 tantamount의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: tantamount _____ admission. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "tantamount to ~는 '~와 동등한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: tantamount = (A) different (B) equivalent (C) unequal (D) distinct",
+            "a": "B",
+            "meaning_ko": "equivalent(동등한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She found it tantamount at confession.' → Fix the preposition.",
+            "a": "She found it tantamount to confession.",
+            "meaning_ko": "tantamount to ~는 '~와 동등한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He said it was tantamount to admission.'",
+            "a": "He stated that it was equivalent and equal to acknowledgment, with the tantamount creating same and identical meaning, though the statement would require understanding and analysis.",
+            "meaning_ko": "tantamount는 '동등한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They considered it _____ to surrender. (A) tantamount (B) tantamounts (C) tantamounted (D) tantamounting",
+            "a": "A",
+            "meaning_ko": "형용사 tantamount가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses tantamount most appropriately? (A) The tantamount ran. (B) He said it was tantamount to admission. (C) She tantamount smiled. (D) Tantamount is good.",
+            "a": "B",
+            "meaning_ko": "tantamount는 형용사로 '동등한'을 의미하며, be tantamount to ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "load",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "짐, 부담; 짐이나 부담.",
+        "note": "짐이나 부담을 가리킵니다."
+      },
+      {
+        "definition_ko": "싣다, 적재하다; 싣거나 적재하는 것.",
+        "note": "싣거나 적재하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "짐이나 부담인 짐, 또는 싣거나 적재하는 행동.",
+    "etymology": "고대 영어 lad(길)에서 유래했으며, '길' 의미에서 '짐' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '길' 의미였고, 현대에는 '짐' 또는 '부담'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 주로 단수형으로 사용되며, 동사로는 타동사로 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 싣다",
+        "example": "load with"
+      },
+      {
+        "prep": "onto",
+        "meaning_ko": "~에 싣다",
+        "example": "load onto"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "~에 싣다",
+        "example": "load into"
+      }
+    ],
+    "requiredComplements": [
+      "load : 짐/부담",
+      "load + 명사 : ~을 싣다/적재하다",
+      "load with + 명사 : ~로 싣다",
+      "load onto + 명사 : ~에 싣다",
+      "load into + 명사 : ~에 싣다"
+    ],
+    "morphology": "고대 영어 lad에서 유래한 단어로, '길' 의미에서 '짐' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "loaded",
+        "meaning_ko": "실은(과거분사)"
+      },
+      {
+        "word": "loading",
+        "meaning_ko": "싣는(현재분사)"
+      },
+      {
+        "word": "loader",
+        "meaning_ko": "적재기"
+      }
+    ],
+    "related": [
+      {
+        "word": "burden",
+        "meaning_ko": "부담"
+      },
+      {
+        "word": "weight",
+        "meaning_ko": "무게"
+      },
+      {
+        "word": "cargo",
+        "meaning_ko": "화물"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "burden",
+        "meaning_ko": "부담"
+      },
+      {
+        "word": "weight",
+        "meaning_ko": "무게"
+      },
+      {
+        "word": "cargo",
+        "meaning_ko": "화물"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "freight",
+        "meaning_ko": "화물(범위가 더 넓음)"
+      },
+      {
+        "word": "payload",
+        "meaning_ko": "적재물"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unload",
+        "meaning_ko": "내리다"
+      },
+      {
+        "word": "empty",
+        "meaning_ko": "비우다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "load with",
+            "meaning_ko": "~로 싣다"
+          },
+          {
+            "phrase": "load onto",
+            "meaning_ko": "~에 싣다"
+          },
+          {
+            "phrase": "load into",
+            "meaning_ko": "~에 싣다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "load with goods",
+            "meaning_ko": "그 상품들로 싣다"
+          },
+          {
+            "phrase": "load onto the truck",
+            "meaning_ko": "그 트럭에 싣다"
+          },
+          {
+            "phrase": "load into the car",
+            "meaning_ko": "그 차에 싣다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "load with cargo",
+            "meaning_ko": "그 화물로 싣다"
+          },
+          {
+            "phrase": "load onto the ship",
+            "meaning_ko": "그 배에 싣다"
+          },
+          {
+            "phrase": "load into the container",
+            "meaning_ko": "그 컨테이너에 싣다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He loaded the truck.",
+            "meaning_ko": "그는 그 트럭을 실었습니다."
+          },
+          {
+            "sentence": "She loaded with goods.",
+            "meaning_ko": "그녀는 그 상품들로 실었습니다."
+          },
+          {
+            "sentence": "They loaded onto the ship.",
+            "meaning_ko": "그들은 그 배에 실었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He loaded the truck, with his burden and weight creating cargo and freight, though the loading would require effort and organization.",
+            "meaning_ko": "그는 그 트럭을 실었고, 그의 부담 그리고 무게가 화물과 화물을 만들었지만, 그 싣기는 노력과 조직을 요구할 것입니다."
+          },
+          {
+            "sentence": "She loaded with goods, with the freight and payload creating cargo and weight, though the loading would need to be organized and efficient.",
+            "meaning_ko": "그녀는 그 상품들로 실었고, 그 화물 그리고 적재물이 화물과 무게를 만들었지만, 그 싣기는 조직되고 효율적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They loaded onto the ship, with the cargo and burden creating weight and freight, though the loading would require planning and coordination.",
+            "meaning_ko": "그들은 그 배에 실었고, 그 화물 그리고 부담이 무게와 화물을 만들었지만, 그 싣기는 계획과 조정을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to load with cargo that was made in the process created opportunities for transportation and efficiency, with the loading enabling placement of goods and freight, though the loading would require comprehensive planning and organization to ensure that cargo is properly loaded and transportation is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 화물로 싣기로 한 그 결정은 운송과 효율성을 위한 기회를 만들었고, 그 싣기가 상품과 화물의 배치를 가능하게 했지만, 그 싣기는 화물이 적절히 실리고 운송이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 계획과 조직을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to load onto the ship that was undertaken in the initiative created pathways for transportation and logistics, with the loading enabling placement of cargo and freight, though the loading would need to be systematically organized through planning and coordination to ensure that ship is properly loaded and transportation is effectively managed.",
+            "meaning_ko": "그 계획에서 착수되었던 그 배에 싣기 위한 그 노력은 운송과 물류를 위한 경로를 만들었고, 그 싣기가 화물과 화물의 배치를 가능하게 했지만, 그 싣기는 배가 적절히 실리고 운송이 효과적으로 관리되는 것을 보장하기 위해 계획과 조정을 통해 체계적으로 조직될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to load into the container that was completed in the system created structure and methods for transportation and efficiency, with the loading enabling placement of cargo and goods, though the loading would require ongoing planning and coordination to ensure that container continues to be properly loaded and transportation remains efficient and effective.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 컨테이너에 싣기 위한 그 작업은 운송과 효율성을 위한 구조와 방법을 만들었고, 그 싣기가 화물과 상품의 배치를 가능하게 했지만, 그 싣기는 컨테이너가 계속 적절히 실리고 운송이 계속 효율적이고 효과적인 것을 보장하기 위해 지속적인 계획과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "load는 '짐, 부담' 또는 '싣다, 적재하다' 의미로, 짐이나 부담을 가리킵니다. burden, weight와 비슷하지만 더 일반적 뉘앙스가 있습니다. load with ~, load onto ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: load = (A) unload (B) burden or cargo (C) empty (D) remove",
+            "a": "B",
+            "meaning_ko": "load는 '부담 또는 화물' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the truck.",
+            "a": "loaded",
+            "meaning_ko": "load는 '싣다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of load? (A) burden (B) weight (C) unload (D) cargo",
+            "a": "C",
+            "meaning_ko": "unload(내리다)가 load의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: load _____ the truck. (A) onto (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "load onto ~는 '~에 싣다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: load = (A) unload (B) burden (C) empty (D) remove",
+            "a": "B",
+            "meaning_ko": "burden(부담)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She loaded at the truck.' → Fix the preposition.",
+            "a": "She loaded onto the truck.",
+            "meaning_ko": "load onto ~는 '~에 싣다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He loaded the truck.'",
+            "a": "He placed burden and cargo onto the vehicle, with the loading creating weight and freight, though the action would require effort and organization.",
+            "meaning_ko": "load는 '싣다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ onto the ship. (A) load (B) loads (C) loaded (D) loading",
+            "a": "C",
+            "meaning_ko": "과거형 loaded가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses load most appropriately? (A) The load ran. (B) He loaded the truck. (C) She load smiled. (D) Load is good.",
+            "a": "B",
+            "meaning_ko": "load는 동사로 '싣다'를 의미하며, load + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

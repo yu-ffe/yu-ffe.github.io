@@ -1,0 +1,819 @@
+[
+  {
+    "word": "relapse",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "재발, 재발작; 재발이나 재발작.",
+        "note": "재발이나 재발작을 가리킵니다."
+      },
+      {
+        "definition_ko": "퇴보, 악화; 퇴보나 악화.",
+        "note": "퇴보나 악화를 가리킵니다."
+      },
+      {
+        "definition_ko": "재발하다, 퇴보하다; 재발하거나 퇴보하는 것.",
+        "note": "재발하거나 퇴보하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "재발이나 재발작인 재발, 또는 퇴보나 악화, 또는 재발하거나 퇴보하는 행동.",
+    "etymology": "라틴어 relabi(다시 미끄러지다)에서 유래했으며, re(다시) + labi(미끄러지다)의 조합입니다.",
+    "semanticExtension": "원래는 '다시 미끄러지다' 의미였고, 현대에는 '재발하다' 또는 '퇴보하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 재발이나 재발작을 가리키며, 동사로는 자동사로 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~로 재발하다",
+        "example": "relapse into"
+      }
+    ],
+    "requiredComplements": [
+      "relapse : 재발/재발작",
+      "relapse into + 명사 : ~로 재발하다"
+    ],
+    "morphology": "라틴어 relabi에서 유래한 단어로, re(다시) + labi(미끄러지다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "relapsed",
+        "meaning_ko": "재발한(과거분사)"
+      },
+      {
+        "word": "relapsing",
+        "meaning_ko": "재발하는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "recurrence",
+        "meaning_ko": "재발"
+      },
+      {
+        "word": "regression",
+        "meaning_ko": "퇴보"
+      },
+      {
+        "word": "deterioration",
+        "meaning_ko": "악화"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "recurrence",
+        "meaning_ko": "재발"
+      },
+      {
+        "word": "regression",
+        "meaning_ko": "퇴보"
+      },
+      {
+        "word": "deterioration",
+        "meaning_ko": "악화"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "reversion",
+        "meaning_ko": "되돌아감(범위가 더 넓음)"
+      },
+      {
+        "word": "backslide",
+        "meaning_ko": "퇴보"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "recovery",
+        "meaning_ko": "회복"
+      },
+      {
+        "word": "improvement",
+        "meaning_ko": "개선"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "relapse into",
+            "meaning_ko": "~로 재발하다"
+          },
+          {
+            "phrase": "disease relapse",
+            "meaning_ko": "질병 재발"
+          },
+          {
+            "phrase": "prevent relapse",
+            "meaning_ko": "재발을 방지하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "relapse into old habits",
+            "meaning_ko": "그 오래된 습관들로 재발하다"
+          },
+          {
+            "phrase": "cancer relapse",
+            "meaning_ko": "암 재발"
+          },
+          {
+            "phrase": "addiction relapse",
+            "meaning_ko": "중독 재발"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "relapse into depression",
+            "meaning_ko": "그 우울증으로 재발하다"
+          },
+          {
+            "phrase": "clinical relapse",
+            "meaning_ko": "임상적 재발"
+          },
+          {
+            "phrase": "symptom relapse",
+            "meaning_ko": "증상 재발"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He suffered a disease relapse.",
+            "meaning_ko": "그는 질병 재발을 겪었습니다."
+          },
+          {
+            "sentence": "She tried to prevent relapse.",
+            "meaning_ko": "그녀는 재발을 방지하려고 했습니다."
+          },
+          {
+            "sentence": "They feared a cancer relapse.",
+            "meaning_ko": "그들은 암 재발을 두려워했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He suffered a disease relapse, with his recurrence and regression creating concern and worry, though the relapse would require treatment and care.",
+            "meaning_ko": "그는 질병 재발을 겪었고, 그의 재발 그리고 퇴보가 우려와 걱정을 만들었지만, 그 재발은 치료와 돌봄을 요구할 것입니다."
+          },
+          {
+            "sentence": "She tried to prevent relapse, with the deterioration and reversion creating risk and concern, though the relapse would need to be monitored and managed.",
+            "meaning_ko": "그녀는 재발을 방지하려고 했고, 그 악화 그리고 되돌아감이 위험과 우려를 만들었지만, 그 재발은 모니터링되고 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They feared a cancer relapse, with the backslide and recurrence creating anxiety and fear, though the relapse would require vigilance and treatment.",
+            "meaning_ko": "그들은 암 재발을 두려워했고, 그 퇴보 그리고 재발이 불안과 두려움을 만들었지만, 그 재발은 경계와 치료를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to monitor relapse into depression that was made in the treatment created opportunities for early intervention and prevention, with the monitoring enabling detection of signs and symptoms, though the relapse would require comprehensive care and support to ensure that depression is properly managed and relapse is prevented.",
+            "meaning_ko": "그 치료에서 내려졌던 그 우울증으로 그 재발을 모니터링하기로 한 그 결정은 조기 개입과 방지를 위한 기회를 만들었고, 그 모니터링이 징후와 증상의 탐지를 가능하게 했지만, 그 재발은 우울증이 적절히 관리되고 재발이 방지되는 것을 보장하기 위해 포괄적인 돌봄과 지원을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to prevent clinical relapse that was undertaken in the program created pathways for treatment and recovery, with the prevention enabling maintenance of health and stability, though the relapse would need to be systematically monitored through regular check-ups and assessment to ensure that health is maintained and relapse is prevented.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 임상적 재발을 방지하기 위한 그 노력은 치료와 회복을 위한 경로를 만들었고, 그 방지가 건강과 안정의 유지를 가능하게 했지만, 그 재발은 건강이 유지되고 재발이 방지되는 것을 보장하기 위해 정기적인 검진과 평가를 통해 체계적으로 모니터링될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to manage symptom relapse that was completed in the system created structure and methods for treatment and care, with the management enabling control of symptoms and prevention of deterioration, though the relapse would require ongoing monitoring and treatment to ensure that symptoms are controlled and relapse is prevented and managed effectively.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 증상 재발을 관리하기 위한 그 작업은 치료와 돌봄을 위한 구조와 방법을 만들었고, 그 관리가 증상의 통제와 악화의 방지를 가능하게 했지만, 그 재발은 증상이 통제되고 재발이 방지되고 효과적으로 관리되는 것을 보장하기 위해 지속적인 모니터링과 치료를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "relapse는 '재발, 재발작' 또는 '퇴보, 악화' 의미로, 재발이나 재발작을 가리킵니다. recurrence, regression와 비슷하지만 더 의학적 뉘앙스가 있습니다. relapse into ~, prevent relapse 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: relapse = (A) recovery (B) recurrence or regression (C) improvement (D) progress",
+            "a": "B",
+            "meaning_ko": "relapse는 '재발 또는 퇴보' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He suffered a disease _____.",
+            "a": "relapse",
+            "meaning_ko": "relapse는 '재발' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of relapse? (A) recurrence (B) regression (C) recovery (D) deterioration",
+            "a": "C",
+            "meaning_ko": "recovery(회복)가 relapse의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: relapse _____ old habits. (A) into (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "relapse into ~는 '~로 재발하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: relapse = (A) recovery (B) recurrence (C) improvement (D) progress",
+            "a": "B",
+            "meaning_ko": "recurrence(재발)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She tried to prevent relapse at old habits.' → Fix the preposition.",
+            "a": "She tried to prevent relapse into old habits.",
+            "meaning_ko": "relapse into ~는 '~로 재발하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He suffered a disease relapse.'",
+            "a": "He experienced a recurrence and regression of the illness, with the relapse creating concern and worry, though the condition would require treatment and care.",
+            "meaning_ko": "relapse는 '재발' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They feared a cancer _____. (A) relapse (B) relapses (C) relapsed (D) relapsing",
+            "a": "A",
+            "meaning_ko": "명사 relapse가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses relapse most appropriately? (A) The relapse ran. (B) He suffered a disease relapse. (C) She relapse smiled. (D) Relapse is good.",
+            "a": "B",
+            "meaning_ko": "relapse는 명사로 '재발'을 의미하며, suffer a relapse와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "manumit",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "해방하다, 석방하다; 해방하거나 석방하는 것.",
+        "note": "해방하거나 석방하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "노예를 해방하다, 노예를 석방하다; 노예를 해방하거나 노예를 석방하는 것.",
+        "note": "노예를 해방하거나 노예를 석방하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "해방하거나 석방하는 행동, 또는 노예를 해방하거나 노예를 석방하는 행동.",
+    "etymology": "라틴어 manumittere(손에서 놓다)에서 유래했으며, manus(손) + mittere(보내다)의 조합입니다.",
+    "semanticExtension": "원래는 '손에서 놓다' 의미였고, 현대에는 '해방하다' 또는 '노예를 해방하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 역사나 법률 관련 문맥에서 자주 쓰이며, 고급 어휘입니다.",
+    "grammarNotes": "타동사로 사용되며, manumit + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터 해방하다",
+        "example": "manumit from"
+      }
+    ],
+    "requiredComplements": [
+      "manumit + 명사 : ~을 해방하다/석방하다",
+      "manumit from + 명사 : ~로부터 해방하다"
+    ],
+    "morphology": "라틴어 manumittere에서 유래한 단어로, manus(손) + mittere(보내다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "manumitted",
+        "meaning_ko": "해방한(과거분사)"
+      },
+      {
+        "word": "manumitting",
+        "meaning_ko": "해방하는(현재분사)"
+      },
+      {
+        "word": "manumission",
+        "meaning_ko": "해방"
+      }
+    ],
+    "related": [
+      {
+        "word": "emancipate",
+        "meaning_ko": "해방하다"
+      },
+      {
+        "word": "free",
+        "meaning_ko": "해방하다"
+      },
+      {
+        "word": "liberate",
+        "meaning_ko": "해방하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "emancipate",
+        "meaning_ko": "해방하다"
+      },
+      {
+        "word": "free",
+        "meaning_ko": "해방하다"
+      },
+      {
+        "word": "liberate",
+        "meaning_ko": "해방하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "release",
+        "meaning_ko": "석방하다(범위가 더 넓음)"
+      },
+      {
+        "word": "set free",
+        "meaning_ko": "해방하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "enslave",
+        "meaning_ko": "노예로 만들다"
+      },
+      {
+        "word": "capture",
+        "meaning_ko": "포획하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "manumit from",
+            "meaning_ko": "~로부터 해방하다"
+          },
+          {
+            "phrase": "manumit slaves",
+            "meaning_ko": "노예들을 해방하다"
+          },
+          {
+            "phrase": "manumit the captive",
+            "meaning_ko": "그 포로를 해방하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "manumit from slavery",
+            "meaning_ko": "그 노예제로부터 해방하다"
+          },
+          {
+            "phrase": "manumit the prisoner",
+            "meaning_ko": "그 죄수를 해방하다"
+          },
+          {
+            "phrase": "manumit the oppressed",
+            "meaning_ko": "그 억압받는 사람들을 해방하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "manumit from bondage",
+            "meaning_ko": "그 속박으로부터 해방하다"
+          },
+          {
+            "phrase": "manumit the enslaved",
+            "meaning_ko": "그 노예화된 사람들을 해방하다"
+          },
+          {
+            "phrase": "manumit the subjugated",
+            "meaning_ko": "그 정복당한 사람들을 해방하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He manumitted the slaves.",
+            "meaning_ko": "그는 그 노예들을 해방했습니다."
+          },
+          {
+            "sentence": "She manumitted the captive.",
+            "meaning_ko": "그녀는 그 포로를 해방했습니다."
+          },
+          {
+            "sentence": "They manumitted the prisoners.",
+            "meaning_ko": "그들은 그 죄수들을 해방했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He manumitted the slaves, with his emancipate and free creating liberty and freedom, though the manumission would require support and protection.",
+            "meaning_ko": "그는 그 노예들을 해방했고, 그의 해방 그리고 해방이 자유와 자유를 만들었지만, 그 해방은 지원과 보호를 요구할 것입니다."
+          },
+          {
+            "sentence": "She manumitted the captive, with the liberate and release creating freedom and independence, though the manumission would need to be recognized and protected.",
+            "meaning_ko": "그녀는 그 포로를 해방했고, 그 해방 그리고 석방이 자유와 독립을 만들었지만, 그 해방은 인정되고 보호될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They manumitted the prisoners, with the set free and emancipate creating liberation and freedom, though the manumission would require legal recognition and support.",
+            "meaning_ko": "그들은 그 죄수들을 해방했고, 그 해방 그리고 해방이 해방과 자유를 만들었지만, 그 해방은 법적 인정과 지원을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to manumit from bondage that was made in the process created opportunities for freedom and liberation, with the manumission enabling establishment of liberty and independence, though the manumission would require comprehensive legal protection and support to ensure that freedom is maintained and individuals are protected.",
+            "meaning_ko": "그 과정에서 내려졌던 그 속박으로부터 해방하기로 한 그 결정은 자유와 해방을 위한 기회를 만들었고, 그 해방이 자유와 독립의 확립을 가능하게 했지만, 그 해방은 자유가 유지되고 개인들이 보호되는 것을 보장하기 위해 포괄적인 법적 보호와 지원을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to manumit the enslaved that was undertaken in the initiative created pathways for freedom and justice, with the manumission enabling liberation and emancipation, though the manumission would need to be systematically supported through legal protection and social programs to ensure that freedom is maintained and individuals are integrated into society.",
+            "meaning_ko": "그 계획에서 착수되었던 그 노예화된 사람들을 해방하기 위한 그 노력은 자유와 정의를 위한 경로를 만들었고, 그 해방이 해방과 해방을 가능하게 했지만, 그 해방은 자유가 유지되고 개인들이 사회에 통합되는 것을 보장하기 위해 법적 보호와 사회 프로그램을 통해 체계적으로 지원될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to manumit the subjugated that was completed in the system created structure and methods for liberation and freedom, with the manumission enabling establishment of independence and rights, though the manumission would require ongoing legal protection and social support to ensure that freedom is maintained and individuals have access to opportunities and resources.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 정복당한 사람들을 해방하기 위한 그 작업은 해방과 자유를 위한 구조와 방법을 만들었고, 그 해방이 독립과 권리의 확립을 가능하게 했지만, 그 해방은 자유가 유지되고 개인들이 기회와 자원에 접근할 수 있는 것을 보장하기 위해 지속적인 법적 보호와 사회적 지원을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "manumit는 '해방하다, 석방하다' 또는 '노예를 해방하다, 노예를 석방하다' 의미로, 해방하거나 석방하는 행동을 가리킵니다. emancipate, free와 비슷하지만 더 역사적 뉘앙스가 있습니다. manumit from ~, manumit slaves 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "역사",
+      "긍정"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: manumit = (A) enslave (B) emancipate or free (C) capture (D) imprison",
+            "a": "B",
+            "meaning_ko": "manumit는 '해방하다 또는 해방하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the slaves.",
+            "a": "manumitted",
+            "meaning_ko": "manumit는 '해방하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of manumit? (A) emancipate (B) free (C) enslave (D) liberate",
+            "a": "C",
+            "meaning_ko": "enslave(노예로 만들다)가 manumit의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: manumit _____ slavery. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "manumit from ~는 '~로부터 해방하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: manumit = (A) enslave (B) emancipate (C) capture (D) imprison",
+            "a": "B",
+            "meaning_ko": "emancipate(해방하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She manumitted the captive at slavery.' → Fix the preposition.",
+            "a": "She manumitted the captive from slavery.",
+            "meaning_ko": "manumit from ~는 '~로부터 해방하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He manumitted the slaves.'",
+            "a": "He emancipated and freed the enslaved people, with the manumission creating liberty and freedom, though the action would require support and protection.",
+            "meaning_ko": "manumit는 '해방하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the prisoners. (A) manumit (B) manumits (C) manumitted (D) manumitting",
+            "a": "C",
+            "meaning_ko": "과거형 manumitted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses manumit most appropriately? (A) The manumit ran. (B) He manumitted the slaves. (C) She manumit smiled. (D) Manumit is good.",
+            "a": "B",
+            "meaning_ko": "manumit는 동사로 '해방하다'를 의미하며, manumit + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "diabolical",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "악마 같은, 악랄한; 악마 같거나 악랄한.",
+        "note": "악마 같거나 악랄한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "극도로 나쁜, 극악한; 극도로 나쁘거나 극악한.",
+        "note": "극도로 나쁘거나 극악한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "악마 같거나 악랄한 상태, 또는 극도로 나쁘거나 극악한 상태.",
+    "etymology": "그리스어 diabolos(악마)에서 유래했으며, '악마' 의미에서 '악마 같은' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '악마' 의미였고, 현대에는 '악마 같은' 또는 '극도로 나쁜'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰이며, 고급 어휘입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be diabolical 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 악마 같은",
+        "example": "diabolical in"
+      }
+    ],
+    "requiredComplements": [
+      "be diabolical : 악마 같다",
+      "diabolical + 명사 : 악마 같은 ~",
+      "diabolical in + 명사 : ~에서 악마 같은"
+    ],
+    "morphology": "그리스어 diabolos에서 유래한 단어로, '악마' 의미에서 '악마 같은' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "diabolically",
+        "meaning_ko": "악마 같이"
+      },
+      {
+        "word": "diabolic",
+        "meaning_ko": "악마 같은"
+      }
+    ],
+    "related": [
+      {
+        "word": "devilish",
+        "meaning_ko": "악마 같은"
+      },
+      {
+        "word": "wicked",
+        "meaning_ko": "사악한"
+      },
+      {
+        "word": "evil",
+        "meaning_ko": "악한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "devilish",
+        "meaning_ko": "악마 같은"
+      },
+      {
+        "word": "wicked",
+        "meaning_ko": "사악한"
+      },
+      {
+        "word": "evil",
+        "meaning_ko": "악한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "fiendish",
+        "meaning_ko": "악마 같은(범위가 더 넓음)"
+      },
+      {
+        "word": "satanic",
+        "meaning_ko": "사탄의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "angelic",
+        "meaning_ko": "천사 같은"
+      },
+      {
+        "word": "virtuous",
+        "meaning_ko": "덕 있는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "diabolical in",
+            "meaning_ko": "~에서 악마 같은"
+          },
+          {
+            "phrase": "diabolical plan",
+            "meaning_ko": "악마 같은 계획"
+          },
+          {
+            "phrase": "diabolical scheme",
+            "meaning_ko": "악마 같은 계획"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "diabolical in nature",
+            "meaning_ko": "그 본성에서 악마 같은"
+          },
+          {
+            "phrase": "diabolical plot",
+            "meaning_ko": "악마 같은 음모"
+          },
+          {
+            "phrase": "diabolical act",
+            "meaning_ko": "악마 같은 행위"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "diabolical in intent",
+            "meaning_ko": "그 의도에서 악마 같은"
+          },
+          {
+            "phrase": "diabolical conspiracy",
+            "meaning_ko": "악마 같은 음모"
+          },
+          {
+            "phrase": "diabolical machination",
+            "meaning_ko": "악마 같은 음모"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He had a diabolical plan.",
+            "meaning_ko": "그는 악마 같은 계획을 가졌습니다."
+          },
+          {
+            "sentence": "She discovered a diabolical scheme.",
+            "meaning_ko": "그녀는 악마 같은 계획을 발견했습니다."
+          },
+          {
+            "sentence": "They uncovered a diabolical plot.",
+            "meaning_ko": "그들은 악마 같은 음모를 밝혔습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He had a diabolical plan, with his devilish and wicked scheme creating harm and destruction, though the diabolical nature would require exposure and prevention.",
+            "meaning_ko": "그는 악마 같은 계획을 가졌고, 그의 악마 같고 사악한 계획이 해와 파괴를 만들었지만, 그 악마 같은 본성은 폭로와 방지를 요구할 것입니다."
+          },
+          {
+            "sentence": "She discovered a diabolical scheme, with the evil and fiendish plot creating danger and threat, though the diabolical nature would need to be identified and stopped.",
+            "meaning_ko": "그녀는 악마 같은 계획을 발견했고, 그 악하고 악마 같은 음모가 위험과 위협을 만들었지만, 그 악마 같은 본성은 식별되고 중지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They uncovered a diabolical plot, with the satanic and devilish conspiracy creating evil and harm, though the diabolical nature would require investigation and prevention.",
+            "meaning_ko": "그들은 악마 같은 음모를 밝혔고, 그 사탄의 그리고 악마 같은 음모가 악과 해를 만들었지만, 그 악마 같은 본성은 조사와 방지를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to expose diabolical in intent that was made in the investigation created opportunities for prevention and protection, with the exposure enabling identification of evil and harm, though the diabolical nature would require comprehensive investigation and legal action to ensure that intent is exposed and harm is prevented.",
+            "meaning_ko": "그 조사에서 내려졌던 그 의도에서 그 악마 같은 것을 폭로하기로 한 그 결정은 방지와 보호를 위한 기회를 만들었고, 그 폭로가 악과 해의 식별을 가능하게 했지만, 그 악마 같은 본성은 의도가 폭로되고 해가 방지되는 것을 보장하기 위해 포괄적인 조사와 법적 조치를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to prevent diabolical conspiracy that was undertaken in the initiative created pathways for protection and justice, with the prevention enabling reduction of harm and evil, though the diabolical nature would need to be systematically investigated through legal processes and evidence gathering to ensure that conspiracy is exposed and harm is prevented.",
+            "meaning_ko": "그 계획에서 착수되었던 그 악마 같은 음모를 방지하기 위한 그 노력은 보호와 정의를 위한 경로를 만들었고, 그 방지가 해와 악의 감소를 가능하게 했지만, 그 악마 같은 본성은 음모가 폭로되고 해가 방지되는 것을 보장하기 위해 법적 프로세스와 증거 수집을 통해 체계적으로 조사될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to investigate diabolical machination that was completed in the system created structure and methods for exposure and prevention, with the investigation enabling identification of evil plots and schemes, though the diabolical nature would require ongoing vigilance and legal action to ensure that machinations are exposed and harm is prevented and justice is served.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 악마 같은 음모를 조사하기 위한 그 작업은 폭로와 방지를 위한 구조와 방법을 만들었고, 그 조사가 악한 음모와 계획의 식별을 가능하게 했지만, 그 악마 같은 본성은 음모가 폭로되고 해가 방지되고 정의가 이루어지는 것을 보장하기 위해 지속적인 경계와 법적 조치를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "diabolical는 '악마 같은, 악랄한' 또는 '극도로 나쁜, 극악한' 의미로, 악마 같거나 악랄한 상태를 가리킵니다. devilish, wicked와 비슷하지만 더 강한 뉘앙스가 있습니다. diabolical in ~, diabolical plan 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: diabolical = (A) angelic (B) devilish or wicked (C) virtuous (D) good",
+            "a": "B",
+            "meaning_ko": "diabolical는 '악마 같은 또는 사악한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He had a _____ plan.",
+            "a": "diabolical",
+            "meaning_ko": "diabolical는 '악마 같은' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of diabolical? (A) devilish (B) wicked (C) angelic (D) evil",
+            "a": "C",
+            "meaning_ko": "angelic(천사 같은)가 diabolical의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: diabolical _____ nature. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "diabolical in ~는 '~에서 악마 같은' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: diabolical = (A) angelic (B) devilish (C) virtuous (D) good",
+            "a": "B",
+            "meaning_ko": "devilish(악마 같은)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She discovered a diabolical scheme at nature.' → Fix the sentence.",
+            "a": "She discovered a diabolical scheme.",
+            "meaning_ko": "diabolical scheme는 이미 '악마 같은 계획' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He had a diabolical plan.'",
+            "a": "He possessed a devilish and wicked scheme, with the diabolical nature creating harm and destruction, though the plan would require exposure and prevention.",
+            "meaning_ko": "diabolical는 '악마 같은' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They uncovered a _____ plot. (A) diabolical (B) diabolically (C) diabolic (D) diabolical's",
+            "a": "A",
+            "meaning_ko": "형용사 diabolical가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses diabolical most appropriately? (A) The diabolical ran. (B) He had a diabolical plan. (C) She diabolical smiled. (D) Diabolical is good.",
+            "a": "B",
+            "meaning_ko": "diabolical는 형용사로 '악마 같은'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,814 @@
+[
+  {
+    "word": "vertex",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "꼭짓점, 정점; 꼭짓점이나 정점.",
+        "note": "꼭짓점이나 정점을 가리킵니다."
+      },
+      {
+        "definition_ko": "최고점, 절정; 최고점이나 절정.",
+        "note": "최고점이나 절정을 가리킵니다."
+      }
+    ],
+    "concept": "꼭짓점이나 정점인 꼭짓점, 또는 최고점이나 절정.",
+    "etymology": "라틴어 vertex(회전점)에서 유래했으며, '회전점' 의미에서 '꼭짓점' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '회전점' 의미였고, 현대에는 '꼭짓점이나 정점'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 수학이나 과학 관련 문맥에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, vertex 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 꼭짓점",
+        "example": "vertex of"
+      }
+    ],
+    "requiredComplements": [
+      "vertex : 꼭짓점/정점",
+      "vertex of + 명사 : ~의 꼭짓점"
+    ],
+    "morphology": "라틴어 vertex에서 유래한 단어로, '회전점' 의미에서 '꼭짓점' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "vertices",
+        "meaning_ko": "꼭짓점들(복수형)"
+      },
+      {
+        "word": "vertexes",
+        "meaning_ko": "꼭짓점들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "apex",
+        "meaning_ko": "정점"
+      },
+      {
+        "word": "peak",
+        "meaning_ko": "정점"
+      },
+      {
+        "word": "summit",
+        "meaning_ko": "정점"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "apex",
+        "meaning_ko": "정점"
+      },
+      {
+        "word": "peak",
+        "meaning_ko": "정점"
+      },
+      {
+        "word": "summit",
+        "meaning_ko": "정점"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "top",
+        "meaning_ko": "꼭대기(범위가 더 넓음)"
+      },
+      {
+        "word": "crown",
+        "meaning_ko": "정점"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "base",
+        "meaning_ko": "밑변"
+      },
+      {
+        "word": "bottom",
+        "meaning_ko": "바닥"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "vertex of",
+            "meaning_ko": "~의 꼭짓점"
+          },
+          {
+            "phrase": "triangle vertex",
+            "meaning_ko": "삼각형 꼭짓점"
+          },
+          {
+            "phrase": "graph vertex",
+            "meaning_ko": "그래프 꼭짓점"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "vertex of the triangle",
+            "meaning_ko": "그 삼각형의 꼭짓점"
+          },
+          {
+            "phrase": "geometric vertex",
+            "meaning_ko": "기하학적 꼭짓점"
+          },
+          {
+            "phrase": "polygon vertex",
+            "meaning_ko": "다각형 꼭짓점"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "vertex of the polygon",
+            "meaning_ko": "그 다각형의 꼭짓점"
+          },
+          {
+            "phrase": "mathematical vertex",
+            "meaning_ko": "수학적 꼭짓점"
+          },
+          {
+            "phrase": "geometric vertex",
+            "meaning_ko": "기하학적 꼭짓점"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He marked the vertex of the triangle.",
+            "meaning_ko": "그는 그 삼각형의 꼭짓점을 표시했습니다."
+          },
+          {
+            "sentence": "She calculated the triangle vertex.",
+            "meaning_ko": "그녀는 그 삼각형 꼭짓점을 계산했습니다."
+          },
+          {
+            "sentence": "They studied the graph vertex.",
+            "meaning_ko": "그들은 그 그래프 꼭짓점을 연구했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He marked the vertex of the triangle, with the apex and peak creating structure and definition, though the vertex would require measurement and analysis.",
+            "meaning_ko": "그는 그 삼각형의 꼭짓점을 표시했고, 그 정점 그리고 정점이 구조와 정의를 만들었지만, 그 꼭짓점은 측정과 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She calculated the triangle vertex, with the summit and top creating geometry and mathematics, though the vertex would need to be understood and applied.",
+            "meaning_ko": "그녀는 그 삼각형 꼭짓점을 계산했고, 그 정점 그리고 꼭대기가 기하학과 수학을 만들었지만, 그 꼭짓점은 이해되고 적용될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They studied the graph vertex, with the crown and apex creating structure and connection, though the vertex would require examination and understanding.",
+            "meaning_ko": "그들은 그 그래프 꼭짓점을 연구했고, 그 정점 그리고 정점이 구조와 연결을 만들었지만, 그 꼭짓점은 검토와 이해를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to analyze vertex of the polygon that was made in the research created opportunities for geometric understanding and calculation, with the analysis enabling identification of structure and relationships, though the vertex would require precise measurement and mathematical analysis to ensure that structure is properly understood and relationships are accurately calculated.",
+            "meaning_ko": "그 연구에서 내려졌던 그 다각형의 그 꼭짓점을 분석하기로 한 그 결정은 기하학적 이해와 계산을 위한 기회를 만들었고, 그 분석이 구조와 관계의 식별을 가능하게 했지만, 그 꼭짓점은 구조가 적절히 이해되고 관계가 정확히 계산되는 것을 보장하기 위해 정밀한 측정과 수학적 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to calculate mathematical vertex that was undertaken in the study created pathways for geometric analysis and understanding, with the calculation enabling determination of coordinates and relationships, though the vertex would need to be systematically analyzed through mathematical methods and geometric principles to ensure that coordinates are accurately determined and relationships are properly understood.",
+            "meaning_ko": "그 연구에서 착수되었던 그 수학적 꼭짓점을 계산하기 위한 그 노력은 기하학적 분석과 이해를 위한 경로를 만들었고, 그 계산이 좌표와 관계의 결정을 가능하게 했지만, 그 꼭짓점은 좌표가 정확히 결정되고 관계가 적절히 이해되는 것을 보장하기 위해 수학적 방법과 기하학적 원리를 통해 체계적으로 분석될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to understand geometric vertex that was completed in the program created structure and methods for geometric analysis and calculation, with the understanding enabling identification of structure and properties, though the vertex would require ongoing study and application to ensure that geometric properties are properly understood and applications are effective and accurate.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 기하학적 꼭짓점을 이해하기 위한 그 작업은 기하학적 분석과 계산을 위한 구조와 방법을 만들었고, 그 이해가 구조와 속성의 식별을 가능하게 했지만, 그 꼭짓점은 기하학적 속성이 적절히 이해되고 응용이 효과적이고 정확한 것을 보장하기 위해 지속적인 연구와 응용을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "vertex는 '꼭짓점, 정점' 또는 '최고점, 절정' 의미로, 꼭짓점이나 정점을 가리킵니다. apex, peak와 비슷하지만 더 수학적 뉘앙스가 있습니다. vertex of ~, triangle vertex 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "과학",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: vertex = (A) base (B) apex or peak (C) bottom (D) foundation",
+            "a": "B",
+            "meaning_ko": "vertex는 '정점 또는 정점' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He marked the _____ of the triangle.",
+            "a": "vertex",
+            "meaning_ko": "vertex는 '꼭짓점' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of vertex? (A) apex (B) peak (C) base (D) summit",
+            "a": "C",
+            "meaning_ko": "base(밑변)가 vertex의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: vertex _____ the triangle. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "vertex of ~는 '~의 꼭짓점' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: vertex = (A) base (B) apex (C) bottom (D) foundation",
+            "a": "B",
+            "meaning_ko": "apex(정점)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She calculated the triangle vertex at the triangle.' → Fix the sentence.",
+            "a": "She calculated the triangle vertex.",
+            "meaning_ko": "triangle vertex는 이미 '삼각형 꼭짓점' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He marked the vertex of the triangle.'",
+            "a": "He identified the apex and peak of the shape, with the vertex creating structure and definition, though the point would require measurement and analysis.",
+            "meaning_ko": "vertex는 '꼭짓점' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They studied the graph _____. (A) vertex (B) vertices (C) vertexes (D) vertex's",
+            "a": "A",
+            "meaning_ko": "명사 vertex가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses vertex most appropriately? (A) The vertex ran. (B) He marked the vertex of the triangle. (C) She vertex smiled. (D) Vertex is good.",
+            "a": "B",
+            "meaning_ko": "vertex는 명사로 '꼭짓점'을 의미하며, vertex of + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aberrant",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "일탈적인, 비정상적인; 일탈적이거나 비정상적인.",
+        "note": "일탈적이거나 비정상적인 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "이상한, 변칙적인; 이상하거나 변칙적인.",
+        "note": "이상하거나 변칙적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "일탈적이거나 비정상적인 상태, 또는 이상하거나 변칙적인 상태.",
+    "etymology": "라틴어 aberrare(일탈하다)에서 유래했으며, ab(떨어져) + errare(헤매다)의 조합입니다.",
+    "semanticExtension": "원래는 '일탈하다' 의미였고, 현대에는 '일탈적이거나 비정상적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰이며, 고급 어휘입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be aberrant 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~에서 일탈적인",
+        "example": "aberrant from"
+      }
+    ],
+    "requiredComplements": [
+      "be aberrant : 일탈적이다",
+      "aberrant + 명사 : 일탈적인 ~",
+      "aberrant from + 명사 : ~에서 일탈적인"
+    ],
+    "morphology": "라틴어 aberrare에서 유래한 단어로, ab(떨어져) + errare(헤매다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "aberrantly",
+        "meaning_ko": "일탈적으로"
+      },
+      {
+        "word": "aberration",
+        "meaning_ko": "일탈"
+      }
+    ],
+    "related": [
+      {
+        "word": "abnormal",
+        "meaning_ko": "비정상적인"
+      },
+      {
+        "word": "deviant",
+        "meaning_ko": "일탈적인"
+      },
+      {
+        "word": "anomalous",
+        "meaning_ko": "이상한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "abnormal",
+        "meaning_ko": "비정상적인"
+      },
+      {
+        "word": "deviant",
+        "meaning_ko": "일탈적인"
+      },
+      {
+        "word": "anomalous",
+        "meaning_ko": "이상한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "irregular",
+        "meaning_ko": "불규칙한(범위가 더 넓음)"
+      },
+      {
+        "word": "unusual",
+        "meaning_ko": "이상한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "normal",
+        "meaning_ko": "정상적인"
+      },
+      {
+        "word": "typical",
+        "meaning_ko": "전형적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "aberrant from",
+            "meaning_ko": "~에서 일탈적인"
+          },
+          {
+            "phrase": "aberrant behavior",
+            "meaning_ko": "일탈적인 행동"
+          },
+          {
+            "phrase": "aberrant pattern",
+            "meaning_ko": "일탈적인 패턴"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "aberrant from the norm",
+            "meaning_ko": "그 규범에서 일탈적인"
+          },
+          {
+            "phrase": "aberrant condition",
+            "meaning_ko": "일탈적인 조건"
+          },
+          {
+            "phrase": "aberrant response",
+            "meaning_ko": "일탈적인 응답"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "aberrant from the standard",
+            "meaning_ko": "그 기준에서 일탈적인"
+          },
+          {
+            "phrase": "aberrant phenomenon",
+            "meaning_ko": "일탈적인 현상"
+          },
+          {
+            "phrase": "aberrant deviation",
+            "meaning_ko": "일탈적인 편차"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He showed aberrant behavior.",
+            "meaning_ko": "그는 일탈적인 행동을 보였습니다."
+          },
+          {
+            "sentence": "She observed an aberrant pattern.",
+            "meaning_ko": "그녀는 일탈적인 패턴을 관찰했습니다."
+          },
+          {
+            "sentence": "They detected an aberrant condition.",
+            "meaning_ko": "그들은 일탈적인 조건을 감지했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He showed aberrant behavior, with his abnormal and deviant actions creating concern and attention, though the aberration would require investigation and understanding.",
+            "meaning_ko": "그는 일탈적인 행동을 보였고, 그의 비정상적이고 일탈적인 행동이 우려와 주의를 만들었지만, 그 일탈은 조사와 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "She observed an aberrant pattern, with the anomalous and irregular structure creating interest and analysis, though the aberration would need to be studied and explained.",
+            "meaning_ko": "그녀는 일탈적인 패턴을 관찰했고, 그 이상하고 불규칙한 구조가 관심과 분석을 만들었지만, 그 일탈은 연구되고 설명될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They detected an aberrant condition, with the unusual and abnormal state creating alert and investigation, though the aberration would require examination and response.",
+            "meaning_ko": "그들은 일탈적인 조건을 감지했고, 그 이상하고 비정상적인 상태가 경고와 조사를 만들었지만, 그 일탈은 검토와 대응을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to investigate aberrant from the standard that was made in the research created opportunities for understanding and analysis, with the investigation enabling identification of deviations and anomalies, though the aberration would require comprehensive study and evaluation to ensure that deviations are properly understood and their implications are recognized.",
+            "meaning_ko": "그 연구에서 내려졌던 그 기준에서 그 일탈적인 것을 조사하기로 한 그 결정은 이해와 분석을 위한 기회를 만들었고, 그 조사가 편차와 이상의 식별을 가능하게 했지만, 그 일탈은 편차가 적절히 이해되고 그 함의가 인정되는 것을 보장하기 위해 포괄적인 연구와 평가를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to analyze aberrant phenomenon that was undertaken in the study created pathways for understanding and explanation, with the analysis enabling identification of causes and effects, though the aberration would need to be systematically studied through research and experimentation to ensure that phenomenon is properly understood and causes are accurately identified.",
+            "meaning_ko": "그 연구에서 착수되었던 그 일탈적인 현상을 분석하기 위한 그 노력은 이해와 설명을 위한 경로를 만들었고, 그 분석이 원인과 효과의 식별을 가능하게 했지만, 그 일탈은 현상이 적절히 이해되고 원인이 정확히 식별되는 것을 보장하기 위해 연구와 실험을 통해 체계적으로 연구될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to understand aberrant deviation that was completed in the program created structure and methods for analysis and evaluation, with the understanding enabling identification of patterns and causes, though the aberration would require ongoing monitoring and study to ensure that deviations are properly understood and their significance is recognized and evaluated.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 일탈적인 편차를 이해하기 위한 그 작업은 분석과 평가를 위한 구조와 방법을 만들었고, 그 이해가 패턴과 원인의 식별을 가능하게 했지만, 그 일탈은 편차가 적절히 이해되고 그 중요성이 인정되고 평가되는 것을 보장하기 위해 지속적인 모니터링과 연구를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "aberrant는 '일탈적인, 비정상적인' 또는 '이상한, 변칙적인' 의미로, 일탈적이거나 비정상적인 상태를 가리킵니다. abnormal, deviant와 비슷하지만 더 학술적 뉘앙스가 있습니다. aberrant from ~, aberrant behavior 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: aberrant = (A) normal (B) abnormal or deviant (C) typical (D) standard",
+            "a": "B",
+            "meaning_ko": "aberrant는 '비정상적인 또는 일탈적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He showed _____ behavior.",
+            "a": "aberrant",
+            "meaning_ko": "aberrant는 '일탈적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of aberrant? (A) abnormal (B) deviant (C) normal (D) anomalous",
+            "a": "C",
+            "meaning_ko": "normal(정상적인)가 aberrant의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: aberrant _____ the norm. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "aberrant from ~는 '~에서 일탈적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: aberrant = (A) normal (B) abnormal (C) typical (D) standard",
+            "a": "B",
+            "meaning_ko": "abnormal(비정상적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She observed an aberrant pattern at the norm.' → Fix the sentence.",
+            "a": "She observed an aberrant pattern.",
+            "meaning_ko": "aberrant pattern는 이미 '일탈적인 패턴' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He showed aberrant behavior.'",
+            "a": "He displayed abnormal and deviant actions, with the aberration creating concern and attention, though the behavior would require investigation and understanding.",
+            "meaning_ko": "aberrant는 '일탈적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They detected an _____ condition. (A) aberrant (B) aberrantly (C) aberration (D) aberrant's",
+            "a": "A",
+            "meaning_ko": "형용사 aberrant가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses aberrant most appropriately? (A) The aberrant ran. (B) He showed aberrant behavior. (C) She aberrant smiled. (D) Aberrant is good.",
+            "a": "B",
+            "meaning_ko": "aberrant는 형용사로 '일탈적인'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "interact",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "상호작용하다, 교류하다; 상호작용하거나 교류하는 것.",
+        "note": "상호작용하거나 교류하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "소통하다, 교류하다; 소통하거나 교류하는 것.",
+        "note": "소통하거나 교류하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "상호작용하거나 교류하는 행동, 또는 소통하거나 교류하는 행동.",
+    "etymology": "라틴어 interagere(서로 작용하다)에서 유래했으며, inter(사이) + agere(작용하다)의 조합입니다.",
+    "semanticExtension": "원래는 '서로 작용하다' 의미였고, 현대에는 '상호작용하거나 교류하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "자동사로 사용되며, interact 형태로 자주 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~와 상호작용하다",
+        "example": "interact with"
+      }
+    ],
+    "requiredComplements": [
+      "interact : 상호작용하다/교류하다",
+      "interact with + 명사 : ~와 상호작용하다"
+    ],
+    "morphology": "라틴어 interagere에서 유래한 단어로, inter(사이) + agere(작용하다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "interacted",
+        "meaning_ko": "상호작용한(과거분사)"
+      },
+      {
+        "word": "interacting",
+        "meaning_ko": "상호작용하는(현재분사)"
+      },
+      {
+        "word": "interaction",
+        "meaning_ko": "상호작용"
+      }
+    ],
+    "related": [
+      {
+        "word": "communicate",
+        "meaning_ko": "소통하다"
+      },
+      {
+        "word": "engage",
+        "meaning_ko": "참여하다"
+      },
+      {
+        "word": "connect",
+        "meaning_ko": "연결하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "communicate",
+        "meaning_ko": "소통하다"
+      },
+      {
+        "word": "engage",
+        "meaning_ko": "참여하다"
+      },
+      {
+        "word": "connect",
+        "meaning_ko": "연결하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "interchange",
+        "meaning_ko": "교환하다(범위가 더 넓음)"
+      },
+      {
+        "word": "interplay",
+        "meaning_ko": "상호작용"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "isolate",
+        "meaning_ko": "고립시키다"
+      },
+      {
+        "word": "separate",
+        "meaning_ko": "분리하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "interact with",
+            "meaning_ko": "~와 상호작용하다"
+          },
+          {
+            "phrase": "interact socially",
+            "meaning_ko": "사회적으로 상호작용하다"
+          },
+          {
+            "phrase": "interact effectively",
+            "meaning_ko": "효과적으로 상호작용하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "interact with others",
+            "meaning_ko": "다른 사람들과 상호작용하다"
+          },
+          {
+            "phrase": "interact positively",
+            "meaning_ko": "긍정적으로 상호작용하다"
+          },
+          {
+            "phrase": "interact regularly",
+            "meaning_ko": "정기적으로 상호작용하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "interact with the system",
+            "meaning_ko": "그 시스템과 상호작용하다"
+          },
+          {
+            "phrase": "interact meaningfully",
+            "meaning_ko": "의미 있게 상호작용하다"
+          },
+          {
+            "phrase": "interact collaboratively",
+            "meaning_ko": "협력적으로 상호작용하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He interacted with others.",
+            "meaning_ko": "그는 다른 사람들과 상호작용했습니다."
+          },
+          {
+            "sentence": "She learned to interact socially.",
+            "meaning_ko": "그녀는 사회적으로 상호작용하는 것을 배웠습니다."
+          },
+          {
+            "sentence": "They interacted effectively.",
+            "meaning_ko": "그들은 효과적으로 상호작용했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He interacted with others, with his communicate and engage creating connection and understanding, though the interaction would require effort and attention.",
+            "meaning_ko": "그는 다른 사람들과 상호작용했고, 그의 소통 그리고 참여가 연결과 이해를 만들었지만, 그 상호작용은 노력과 주의를 요구할 것입니다."
+          },
+          {
+            "sentence": "She learned to interact socially, with the connect and interchange creating relationships and communication, though the interaction would need to be practiced and developed.",
+            "meaning_ko": "그녀는 사회적으로 상호작용하는 것을 배웠고, 그 연결 그리고 교환이 관계와 소통을 만들었지만, 그 상호작용은 연습되고 발전될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They interacted effectively, with the interplay and communicate creating cooperation and success, though the interaction would require coordination and effort.",
+            "meaning_ko": "그들은 효과적으로 상호작용했고, 그 상호작용 그리고 소통이 협력과 성공을 만들었지만, 그 상호작용은 조정과 노력을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to interact with the system that was made in the process created opportunities for engagement and communication, with the interaction enabling exchange of information and feedback, though the interaction would require clear protocols and guidelines to ensure that communication is effective and engagement is meaningful.",
+            "meaning_ko": "그 과정에서 내려졌던 그 시스템과 상호작용하기로 한 그 결정은 참여와 소통을 위한 기회를 만들었고, 그 상호작용이 정보와 피드백의 교환을 가능하게 했지만, 그 상호작용은 소통이 효과적이고 참여가 의미 있는 것을 보장하기 위해 명확한 프로토콜과 가이드라인을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to interact meaningfully that was undertaken in the initiative created pathways for connection and understanding, with the interaction enabling development of relationships and communication, though the interaction would need to be systematically developed through practice and feedback to ensure that connections are strong and communication is effective.",
+            "meaning_ko": "그 계획에서 착수되었던 그 의미 있게 상호작용하기 위한 그 노력은 연결과 이해를 위한 경로를 만들었고, 그 상호작용이 관계와 소통의 발전을 가능하게 했지만, 그 상호작용은 연결이 강하고 소통이 효과적인 것을 보장하기 위해 연습과 피드백을 통해 체계적으로 발전될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to interact collaboratively that was completed in the system created structure and methods for cooperation and teamwork, with the interaction enabling achievement of common goals and shared success, though the interaction would require ongoing communication and coordination to ensure that collaboration is effective and goals are achieved.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 협력적으로 상호작용하기 위한 그 작업은 협력과 팀워크를 위한 구조와 방법을 만들었고, 그 상호작용이 공통 목표와 공유된 성공의 성취를 가능하게 했지만, 그 상호작용은 협력이 효과적이고 목표가 달성되는 것을 보장하기 위해 지속적인 소통과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "interact는 '상호작용하다, 교류하다' 또는 '소통하다, 교류하다' 의미로, 상호작용하거나 교류하는 행동을 가리킵니다. communicate, engage와 비슷하지만 더 상호적 뉘앙스가 있습니다. interact with ~, interact socially 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: interact = (A) isolate (B) communicate or engage (C) separate (D) disconnect",
+            "a": "B",
+            "meaning_ko": "interact는 '소통하다 또는 참여하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ with others.",
+            "a": "interacted",
+            "meaning_ko": "interact는 '상호작용하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of interact? (A) communicate (B) engage (C) isolate (D) connect",
+            "a": "C",
+            "meaning_ko": "isolate(고립시키다)가 interact의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: interact _____ others. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "interact with ~는 '~와 상호작용하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: interact = (A) isolate (B) communicate (C) separate (D) disconnect",
+            "a": "B",
+            "meaning_ko": "communicate(소통하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She learned to interact socially at others.' → Fix the sentence.",
+            "a": "She learned to interact socially with others.",
+            "meaning_ko": "interact with ~는 '~와 상호작용하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He interacted with others.'",
+            "a": "He communicated and engaged with people, with the interaction creating connection and understanding, though the action would require effort and attention.",
+            "meaning_ko": "interact는 '상호작용하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ effectively. (A) interact (B) interacts (C) interacted (D) interacting",
+            "a": "C",
+            "meaning_ko": "과거형 interacted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses interact most appropriately? (A) The interact ran. (B) He interacted with others. (C) She interact smiled. (D) Interact is good.",
+            "a": "B",
+            "meaning_ko": "interact는 동사로 '상호작용하다'를 의미하며, interact with + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

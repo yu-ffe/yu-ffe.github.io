@@ -1,0 +1,811 @@
+[
+  {
+    "word": "implicit",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "암시적인, 함축적인; 암시적이거나 함축적인.",
+        "note": "암시적이거나 함축적인 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "절대적인, 무조건적인; 절대적이거나 무조건적인.",
+        "note": "절대적이거나 무조건적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "암시적이거나 함축적인 상태, 또는 절대적이거나 무조건적인 상태.",
+    "etymology": "라틴어 implicitus(감싸인)에서 유래했으며, implicare(감싸다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '감싸인' 의미였고, 현대에는 '암시적이거나 함축적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be implicit 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 암시적인",
+        "example": "implicit in"
+      }
+    ],
+    "requiredComplements": [
+      "be implicit : 암시적이다",
+      "implicit + 명사 : 암시적인 ~",
+      "implicit in + 명사 : ~에 암시적인"
+    ],
+    "morphology": "라틴어 implicitus에서 유래한 단어로, implicare(감싸다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "implicitly",
+        "meaning_ko": "암시적으로"
+      },
+      {
+        "word": "implicitness",
+        "meaning_ko": "암시적임"
+      },
+      {
+        "word": "imply",
+        "meaning_ko": "암시하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "implied",
+        "meaning_ko": "암시된"
+      },
+      {
+        "word": "suggested",
+        "meaning_ko": "암시된"
+      },
+      {
+        "word": "tacit",
+        "meaning_ko": "암묵적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "implied",
+        "meaning_ko": "암시된"
+      },
+      {
+        "word": "suggested",
+        "meaning_ko": "암시된"
+      },
+      {
+        "word": "tacit",
+        "meaning_ko": "암묵적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "unspoken",
+        "meaning_ko": "말하지 않은(범위가 더 넓음)"
+      },
+      {
+        "word": "inferred",
+        "meaning_ko": "추론된"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "explicit",
+        "meaning_ko": "명시적인"
+      },
+      {
+        "word": "clear",
+        "meaning_ko": "명확한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "implicit in",
+            "meaning_ko": "~에 암시적인"
+          },
+          {
+            "phrase": "implicit meaning",
+            "meaning_ko": "암시적 의미"
+          },
+          {
+            "phrase": "implicit agreement",
+            "meaning_ko": "암시적 합의"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "implicit in the statement",
+            "meaning_ko": "그 발언에 암시적인"
+          },
+          {
+            "phrase": "implicit understanding",
+            "meaning_ko": "암시적 이해"
+          },
+          {
+            "phrase": "implicit assumption",
+            "meaning_ko": "암시적 가정"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "implicit in the contract",
+            "meaning_ko": "그 계약에 암시적인"
+          },
+          {
+            "phrase": "implicit trust",
+            "meaning_ko": "절대적 신뢰"
+          },
+          {
+            "phrase": "implicit bias",
+            "meaning_ko": "암시적 편견"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He made an implicit agreement.",
+            "meaning_ko": "그는 암시적 합의를 했습니다."
+          },
+          {
+            "sentence": "She understood the implicit meaning.",
+            "meaning_ko": "그녀는 그 암시적 의미를 이해했습니다."
+          },
+          {
+            "sentence": "They had implicit trust.",
+            "meaning_ko": "그들은 절대적 신뢰를 가졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He made an implicit agreement, with his implied and suggested understanding creating consensus and cooperation, though the implicitness would require clarification and confirmation.",
+            "meaning_ko": "그는 암시적 합의를 했고, 그의 암시된 그리고 암시된 이해가 합의와 협력을 만들었지만, 그 암시적임은 명확화와 확인을 요구할 것입니다."
+          },
+          {
+            "sentence": "She understood the implicit meaning, with the tacit and unspoken message creating depth and nuance, though the implicitness would need to be interpreted and analyzed.",
+            "meaning_ko": "그녀는 그 암시적 의미를 이해했고, 그 암묵적이고 말하지 않은 메시지가 깊이와 뉘앙스를 만들었지만, 그 암시적임은 해석되고 분석될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They had implicit trust, with the inferred and unspoken confidence creating security and reliability, though the implicitness would require maintenance and reinforcement.",
+            "meaning_ko": "그들은 절대적 신뢰를 가졌고, 그 추론된 그리고 말하지 않은 신뢰가 안전과 신뢰성을 만들었지만, 그 암시적임은 유지와 강화를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to recognize the implicit in the contract that was made in the analysis created opportunities for understanding and interpretation, with the recognition enabling identification of unstated terms and conditions, though the implicitness would require careful legal analysis and interpretation to ensure that implicit terms are properly understood and their legal implications are correctly assessed.",
+            "meaning_ko": "그 분석에서 내려졌던 그 계약에 있는 그 암시적인 것을 인정하기로 한 그 결정은 이해와 해석을 위한 기회를 만들었고, 그 인정이 명시되지 않은 조건과 조항의 식별을 가능하게 했지만, 그 암시적임은 암시적 조건이 적절히 이해되고 그 법적 함의가 정확히 평가되는 것을 보장하기 위해 신중한 법적 분석과 해석을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to address implicit bias that was undertaken in the program created pathways for awareness and change, with the addressing enabling recognition of unconscious prejudices and assumptions, though the implicitness would need to be systematically identified and addressed through education and training to ensure that biases are recognized and their impact is minimized.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 암시적 편견을 다루기 위한 그 노력은 인식과 변화를 위한 경로를 만들었고, 그 다루기가 무의식적 편견과 가정의 인정을 가능하게 했지만, 그 암시적임은 편견이 인정되고 그 영향이 최소화되는 것을 보장하기 위해 교육과 훈련을 통해 체계적으로 식별되고 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to maintain implicit trust that was completed in the relationship created structure and foundation for cooperation, with the trust enabling confidence and reliability, though the implicitness would require ongoing communication and reinforcement to ensure that trust remains strong and relationships are maintained effectively.",
+            "meaning_ko": "그 관계에서 완료되었던 그 절대적 신뢰를 유지하기 위한 그 작업은 협력을 위한 구조와 기초를 만들었고, 그 신뢰가 자신감과 신뢰성을 가능하게 했지만, 그 암시적임은 신뢰가 계속 강하고 관계가 효과적으로 유지되는 것을 보장하기 위해 지속적인 소통과 강화를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "implicit는 '암시적인, 함축적인' 또는 '절대적인, 무조건적인' 의미로, 암시적이거나 함축적인 상태를 가리킵니다. implied, suggested와 비슷하지만 더 문어적 뉘앙스가 있습니다. implicit in ~, implicit meaning 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: implicit = (A) explicit (B) implied or suggested (C) clear (D) obvious",
+            "a": "B",
+            "meaning_ko": "implicit는 '암시된 또는 암시된' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He made an _____ agreement.",
+            "a": "implicit",
+            "meaning_ko": "implicit는 '암시적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of implicit? (A) implied (B) suggested (C) explicit (D) tacit",
+            "a": "C",
+            "meaning_ko": "explicit(명시적인)가 implicit의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: implicit _____ the statement. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "implicit in ~는 '~에 암시적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: implicit = (A) explicit (B) implied (C) clear (D) obvious",
+            "a": "B",
+            "meaning_ko": "implied(암시된)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She understood the implicit meaning at the statement.' → Fix the sentence.",
+            "a": "She understood the implicit meaning in the statement.",
+            "meaning_ko": "implicit in ~는 '~에 암시적인' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He made an implicit agreement.'",
+            "a": "He created an implied and suggested understanding, with the implicitness creating consensus and cooperation, though the agreement would require clarification and confirmation.",
+            "meaning_ko": "implicit는 '암시적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They had _____ trust. (A) implicit (B) implicitly (C) implicitness (D) imply",
+            "a": "A",
+            "meaning_ko": "형용사 implicit가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses implicit most appropriately? (A) The implicit ran. (B) He made an implicit agreement. (C) She implicit smiled. (D) Implicit is good.",
+            "a": "B",
+            "meaning_ko": "implicit는 형용사로 '암시적인'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "misprision",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "오인, 착각; 오인이거나 착각.",
+        "note": "오인이거나 착각을 가리킵니다."
+      },
+      {
+        "definition_ko": "범죄 은폐, 범죄 은닉; 범죄 은폐나 범죄 은닉.",
+        "note": "범죄 은폐나 범죄 은닉을 가리킵니다."
+      }
+    ],
+    "concept": "오인이거나 착각인 오인, 또는 범죄 은폐나 범죄 은닉.",
+    "etymology": "고대 프랑스어 mesprision(오인)에서 유래했으며, mesprendre(잘못 이해하다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '오인' 의미였고, 현대에는 '범죄 은폐나 범죄 은닉'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 법률 관련 문맥에서 자주 쓰이며, 고급 어휘입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, misprision 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 오인",
+        "example": "misprision of"
+      }
+    ],
+    "requiredComplements": [
+      "misprision : 오인/착각",
+      "misprision of + 명사 : ~의 오인"
+    ],
+    "morphology": "고대 프랑스어 mesprision에서 유래한 단어로, mesprendre(잘못 이해하다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "misprisions",
+        "meaning_ko": "오인들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "misunderstanding",
+        "meaning_ko": "오해"
+      },
+      {
+        "word": "misconception",
+        "meaning_ko": "오해"
+      },
+      {
+        "word": "concealment",
+        "meaning_ko": "은폐"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "misunderstanding",
+        "meaning_ko": "오해"
+      },
+      {
+        "word": "misconception",
+        "meaning_ko": "오해"
+      },
+      {
+        "word": "concealment",
+        "meaning_ko": "은폐"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "error",
+        "meaning_ko": "오류(범위가 더 넓음)"
+      },
+      {
+        "word": "mistake",
+        "meaning_ko": "실수"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "understanding",
+        "meaning_ko": "이해"
+      },
+      {
+        "word": "comprehension",
+        "meaning_ko": "이해"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "misprision of",
+            "meaning_ko": "~의 오인"
+          },
+          {
+            "phrase": "misprision of felony",
+            "meaning_ko": "중죄의 오인"
+          },
+          {
+            "phrase": "guilty of misprision",
+            "meaning_ko": "오인에 유죄인"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "misprision of treason",
+            "meaning_ko": "반역의 오인"
+          },
+          {
+            "phrase": "charge of misprision",
+            "meaning_ko": "오인의 기소"
+          },
+          {
+            "phrase": "crime of misprision",
+            "meaning_ko": "오인의 범죄"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "misprision of the facts",
+            "meaning_ko": "그 사실들의 오인"
+          },
+          {
+            "phrase": "legal misprision",
+            "meaning_ko": "법적 오인"
+          },
+          {
+            "phrase": "criminal misprision",
+            "meaning_ko": "형사 오인"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was charged with misprision.",
+            "meaning_ko": "그는 오인으로 기소되었습니다."
+          },
+          {
+            "sentence": "She committed misprision of felony.",
+            "meaning_ko": "그녀는 중죄의 오인을 범했습니다."
+          },
+          {
+            "sentence": "They were guilty of misprision.",
+            "meaning_ko": "그들은 오인에 유죄였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was charged with misprision, with the misunderstanding and misconception creating legal consequences and penalties, though the misprision would require defense and explanation.",
+            "meaning_ko": "그는 오인으로 기소되었고, 그 오해와 오해가 법적 결과와 처벌을 만들었지만, 그 오인은 변호와 설명을 요구할 것입니다."
+          },
+          {
+            "sentence": "She committed misprision of felony, with the concealment and error creating criminal liability and prosecution, though the misprision would need to be proven and established.",
+            "meaning_ko": "그녀는 중죄의 오인을 범했고, 그 은폐와 오류가 형사 책임과 기소를 만들었지만, 그 오인은 입증되고 확립될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They were guilty of misprision, with the mistake and misunderstanding creating legal problems and consequences, though the misprision would require resolution and correction.",
+            "meaning_ko": "그들은 오인에 유죄였고, 그 실수와 오해가 법적 문제와 결과를 만들었지만, 그 오인은 해결과 교정을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to prosecute misprision of the facts that was made in the case created opportunities for justice and accountability, with the prosecution enabling punishment of concealment and failure to report, though the misprision would require thorough investigation and evidence to ensure that the charge is proven and legal standards are met.",
+            "meaning_ko": "그 사건에서 내려졌던 그 사실들의 그 오인을 기소하기로 한 그 결정은 정의와 책임을 위한 기회를 만들었고, 그 기소가 은폐와 보고 실패의 처벌을 가능하게 했지만, 그 오인은 기소가 입증되고 법적 기준이 충족되는 것을 보장하기 위해 철저한 조사와 증거를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to address legal misprision that was undertaken in the system created pathways for legal clarity and enforcement, with the addressing enabling recognition of legal obligations and consequences, though the misprision would need to be systematically defined and prosecuted through proper legal procedures to ensure that misprision is properly understood and legal standards are consistently applied.",
+            "meaning_ko": "그 시스템에서 착수되었던 그 법적 오인을 다루기 위한 그 노력은 법적 명확성과 집행을 위한 경로를 만들었고, 그 다루기가 법적 의무와 결과의 인정을 가능하게 했지만, 그 오인은 오인이 적절히 이해되고 법적 기준이 일관되게 적용되는 것을 보장하기 위해 적절한 법적 절차를 통해 체계적으로 정의되고 기소될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to prevent criminal misprision that was completed in the program created structure and methods for legal compliance, with the prevention enabling education and awareness of legal obligations, though the misprision would require ongoing monitoring and enforcement to ensure that individuals understand their legal duties and misprision is prevented and prosecuted when it occurs.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 형사 오인을 방지하기 위한 그 작업은 법적 준수를 위한 구조와 방법을 만들었고, 그 방지가 법적 의무에 대한 교육과 인식을 가능하게 했지만, 그 오인은 개인이 그들의 법적 의무를 이해하고 오인이 발생할 때 방지되고 기소되는 것을 보장하기 위해 지속적인 모니터링과 집행을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "misprision는 '오인, 착각' 또는 '범죄 은폐, 범죄 은닉' 의미로, 오인이거나 착각을 가리킵니다. misunderstanding, misconception와 비슷하지만 더 법률적 뉘앙스가 있습니다. misprision of ~, guilty of misprision 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: misprision = (A) understanding (B) misunderstanding or concealment (C) comprehension (D) clarity",
+            "a": "B",
+            "meaning_ko": "misprision는 '오해 또는 은폐' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was charged with _____.",
+            "a": "misprision",
+            "meaning_ko": "misprision는 '오인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of misprision? (A) misunderstanding (B) misconception (C) understanding (D) concealment",
+            "a": "C",
+            "meaning_ko": "understanding(이해)가 misprision의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: misprision _____ felony. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "misprision of ~는 '~의 오인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: misprision = (A) understanding (B) misunderstanding (C) comprehension (D) clarity",
+            "a": "B",
+            "meaning_ko": "misunderstanding(오해)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She committed misprision at felony.' → Fix the preposition.",
+            "a": "She committed misprision of felony.",
+            "meaning_ko": "misprision of ~는 '~의 오인' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was charged with misprision.'",
+            "a": "He was accused of misunderstanding and concealment, with the misprision creating legal consequences and penalties, though the charge would require defense and explanation.",
+            "meaning_ko": "misprision는 '오인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They were guilty of _____. (A) misprision (B) misprisions (C) misprisioned (D) misprisioning",
+            "a": "A",
+            "meaning_ko": "명사 misprision가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses misprision most appropriately? (A) The misprision ran. (B) He was charged with misprision. (C) She misprision smiled. (D) Misprision is good.",
+            "a": "B",
+            "meaning_ko": "misprision는 명사로 '오인'을 의미하며, be charged with misprision와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jaundiced",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "편견 있는, 편향된; 편견이 있거나 편향된.",
+        "note": "편견이 있거나 편향된 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "황달의, 황달에 걸린; 황달이거나 황달에 걸린.",
+        "note": "황달이거나 황달에 걸린 상태를 가리킵니다."
+      }
+    ],
+    "concept": "편견이 있거나 편향된 상태, 또는 황달이거나 황달에 걸린 상태.",
+    "etymology": "jaundice(황달)에서 유래했으며, 고대 프랑스어 jaunisse(노란색)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '황달의' 의미였고, 현대에는 '편견이 있거나 편향된'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be jaundiced 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대해 편견 있는",
+        "example": "jaundiced against"
+      }
+    ],
+    "requiredComplements": [
+      "be jaundiced : 편견이 있다",
+      "jaundiced + 명사 : 편견 있는 ~",
+      "jaundiced against + 명사 : ~에 대해 편견 있는"
+    ],
+    "morphology": "jaundice(황달)에서 유래한 단어로, 고대 프랑스어 jaunisse(노란색)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "jaundicedly",
+        "meaning_ko": "편견 있게"
+      },
+      {
+        "word": "jaundice",
+        "meaning_ko": "황달"
+      }
+    ],
+    "related": [
+      {
+        "word": "biased",
+        "meaning_ko": "편견 있는"
+      },
+      {
+        "word": "prejudiced",
+        "meaning_ko": "편견 있는"
+      },
+      {
+        "word": "cynical",
+        "meaning_ko": "냉소적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "biased",
+        "meaning_ko": "편견 있는"
+      },
+      {
+        "word": "prejudiced",
+        "meaning_ko": "편견 있는"
+      },
+      {
+        "word": "cynical",
+        "meaning_ko": "냉소적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "distorted",
+        "meaning_ko": "왜곡된(범위가 더 넓음)"
+      },
+      {
+        "word": "warped",
+        "meaning_ko": "왜곡된"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unbiased",
+        "meaning_ko": "편견 없는"
+      },
+      {
+        "word": "fair",
+        "meaning_ko": "공정한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "jaundiced against",
+            "meaning_ko": "~에 대해 편견 있는"
+          },
+          {
+            "phrase": "jaundiced view",
+            "meaning_ko": "편견 있는 관점"
+          },
+          {
+            "phrase": "jaundiced eye",
+            "meaning_ko": "편견 있는 눈"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "jaundiced against the system",
+            "meaning_ko": "그 시스템에 대해 편견 있는"
+          },
+          {
+            "phrase": "jaundiced opinion",
+            "meaning_ko": "편견 있는 의견"
+          },
+          {
+            "phrase": "jaundiced perspective",
+            "meaning_ko": "편견 있는 관점"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "jaundiced against authority",
+            "meaning_ko": "그 권위에 대해 편견 있는"
+          },
+          {
+            "phrase": "jaundiced outlook",
+            "meaning_ko": "편견 있는 전망"
+          },
+          {
+            "phrase": "jaundiced attitude",
+            "meaning_ko": "편견 있는 태도"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He had a jaundiced view.",
+            "meaning_ko": "그는 편견 있는 관점을 가졌습니다."
+          },
+          {
+            "sentence": "She was jaundiced against the system.",
+            "meaning_ko": "그녀는 그 시스템에 대해 편견이 있었습니다."
+          },
+          {
+            "sentence": "They looked with jaundiced eyes.",
+            "meaning_ko": "그들은 편견 있는 눈으로 봤습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He had a jaundiced view, with his biased and prejudiced perspective creating distortion and unfairness, though the jaundiced attitude would require correction and awareness.",
+            "meaning_ko": "그는 편견 있는 관점을 가졌고, 그의 편견 있는 그리고 편견 있는 관점이 왜곡과 불공정을 만들었지만, 그 편견 있는 태도는 교정과 인식을 요구할 것입니다."
+          },
+          {
+            "sentence": "She was jaundiced against the system, with her cynical and distorted outlook creating negativity and criticism, though the jaundiced view would need to be addressed and balanced.",
+            "meaning_ko": "그녀는 그 시스템에 대해 편견이 있었고, 그녀의 냉소적이고 왜곡된 전망이 부정성과 비판을 만들었지만, 그 편견 있는 관점은 다뤄지고 균형 잡힐 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They looked with jaundiced eyes, with their warped and biased perception creating misunderstanding and prejudice, though the jaundiced perspective would require openness and fairness.",
+            "meaning_ko": "그들은 편견 있는 눈으로 봤고, 그들의 왜곡된 그리고 편견 있는 인식이 오해와 편견을 만들었지만, 그 편견 있는 관점은 개방성과 공정성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address the jaundiced against authority that was made in the analysis created opportunities for fairness and objectivity, with the addressing enabling recognition of biases and prejudices, though the jaundiced view would require systematic examination and correction to ensure that perspectives are balanced and judgments are fair and based on facts rather than prejudice.",
+            "meaning_ko": "그 분석에서 내려졌던 그 권위에 대한 그 편견 있는 것을 다루기로 한 그 결정은 공정성과 객관성을 위한 기회를 만들었고, 그 다루기가 편견과 편견의 인정을 가능하게 했지만, 그 편견 있는 관점은 관점이 균형 잡히고 판단이 편견보다는 사실에 기반하여 공정한 것을 보장하기 위해 체계적인 검토와 교정을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to correct jaundiced outlook that was undertaken in the program created pathways for balanced perspective and understanding, with the correction enabling reduction of bias and distortion, though the jaundiced view would need to be systematically identified and addressed through education and awareness to ensure that perspectives are fair and judgments are objective and based on evidence.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 편견 있는 전망을 교정하기 위한 그 노력은 균형 잡힌 관점과 이해를 위한 경로를 만들었고, 그 교정이 편견과 왜곡의 감소를 가능하게 했지만, 그 편견 있는 관점은 관점이 공정하고 판단이 증거에 기반하여 객관적인 것을 보장하기 위해 교육과 인식을 통해 체계적으로 식별되고 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to prevent jaundiced attitude that was completed in the system created structure and methods for fair evaluation, with the prevention enabling recognition and correction of biases, though the jaundiced view would require ongoing monitoring and education to ensure that attitudes remain fair and evaluations are objective and free from prejudice.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 편견 있는 태도를 방지하기 위한 그 작업은 공정한 평가를 위한 구조와 방법을 만들었고, 그 방지가 편견의 인정과 교정을 가능하게 했지만, 그 편견 있는 관점은 태도가 계속 공정하고 평가가 편견 없이 객관적인 것을 보장하기 위해 지속적인 모니터링과 교육을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "jaundiced는 '편견 있는, 편향된' 또는 '황달의, 황달에 걸린' 의미로, 편견이 있거나 편향된 상태를 가리킵니다. biased, prejudiced와 비슷하지만 더 문어적 뉘앙스가 있습니다. jaundiced against ~, jaundiced view 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: jaundiced = (A) unbiased (B) biased or prejudiced (C) fair (D) objective",
+            "a": "B",
+            "meaning_ko": "jaundiced는 '편견 있는 또는 편견 있는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He had a _____ view.",
+            "a": "jaundiced",
+            "meaning_ko": "jaundiced는 '편견 있는' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of jaundiced? (A) biased (B) prejudiced (C) unbiased (D) cynical",
+            "a": "C",
+            "meaning_ko": "unbiased(편견 없는)가 jaundiced의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: jaundiced _____ the system. (A) against (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "jaundiced against ~는 '~에 대해 편견 있는' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: jaundiced = (A) unbiased (B) biased (C) fair (D) objective",
+            "a": "B",
+            "meaning_ko": "biased(편견 있는)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was jaundiced at the system.' → Fix the preposition.",
+            "a": "She was jaundiced against the system.",
+            "meaning_ko": "jaundiced against ~는 '~에 대해 편견 있는' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He had a jaundiced view.'",
+            "a": "He possessed a biased and prejudiced perspective, with the jaundiced attitude creating distortion and unfairness, though the view would require correction and awareness.",
+            "meaning_ko": "jaundiced는 '편견 있는' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They looked with _____ eyes. (A) jaundiced (B) jaundicedly (C) jaundice (D) jaundiced's",
+            "a": "A",
+            "meaning_ko": "형용사 jaundiced가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses jaundiced most appropriately? (A) The jaundiced ran. (B) He had a jaundiced view. (C) She jaundiced smiled. (D) Jaundiced is good.",
+            "a": "B",
+            "meaning_ko": "jaundiced는 형용사로 '편견 있는'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

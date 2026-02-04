@@ -1,0 +1,818 @@
+[
+  {
+    "word": "empirical",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "경험적인, 실험적인; 경험이나 실험에 기반한.",
+        "note": "경험이나 실험에 기반한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "실증적인, 관찰에 기반한; 실증적이거나 관찰에 기반한.",
+        "note": "실증적이거나 관찰에 기반한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "경험이나 실험에 기반한 상태, 또는 실증적이거나 관찰에 기반한 상태.",
+    "etymology": "그리스어 empeirikos(경험적인)에서 유래했으며, empeiria(경험)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '경험적인' 의미였고, 현대에는 '실증적이거나 관찰에 기반한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 과학이나 연구 관련 문맥에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be empirical 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 경험적인",
+        "example": "empirical in"
+      }
+    ],
+    "requiredComplements": [
+      "be empirical : 경험적이다",
+      "empirical + 명사 : 경험적인 ~",
+      "empirical in + 명사 : ~에서 경험적인"
+    ],
+    "morphology": "그리스어 empeirikos에서 유래한 단어로, empeiria(경험)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "empirically",
+        "meaning_ko": "경험적으로"
+      },
+      {
+        "word": "empiricism",
+        "meaning_ko": "경험주의"
+      },
+      {
+        "word": "empiricist",
+        "meaning_ko": "경험주의자"
+      }
+    ],
+    "related": [
+      {
+        "word": "experimental",
+        "meaning_ko": "실험적인"
+      },
+      {
+        "word": "observational",
+        "meaning_ko": "관찰적인"
+      },
+      {
+        "word": "practical",
+        "meaning_ko": "실용적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "experimental",
+        "meaning_ko": "실험적인"
+      },
+      {
+        "word": "observational",
+        "meaning_ko": "관찰적인"
+      },
+      {
+        "word": "practical",
+        "meaning_ko": "실용적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "evidence-based",
+        "meaning_ko": "증거 기반의(범위가 더 넓음)"
+      },
+      {
+        "word": "data-driven",
+        "meaning_ko": "데이터 기반의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "theoretical",
+        "meaning_ko": "이론적인"
+      },
+      {
+        "word": "speculative",
+        "meaning_ko": "추측적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "empirical in",
+            "meaning_ko": "~에서 경험적인"
+          },
+          {
+            "phrase": "empirical evidence",
+            "meaning_ko": "경험적 증거"
+          },
+          {
+            "phrase": "empirical research",
+            "meaning_ko": "경험적 연구"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "empirical in the study",
+            "meaning_ko": "그 연구에서 경험적인"
+          },
+          {
+            "phrase": "empirical data",
+            "meaning_ko": "경험적 데이터"
+          },
+          {
+            "phrase": "empirical method",
+            "meaning_ko": "경험적 방법"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "empirical in the analysis",
+            "meaning_ko": "그 분석에서 경험적인"
+          },
+          {
+            "phrase": "empirical observation",
+            "meaning_ko": "경험적 관찰"
+          },
+          {
+            "phrase": "empirical study",
+            "meaning_ko": "경험적 연구"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He used empirical evidence.",
+            "meaning_ko": "그는 경험적 증거를 사용했습니다."
+          },
+          {
+            "sentence": "She conducted empirical research.",
+            "meaning_ko": "그녀는 경험적 연구를 수행했습니다."
+          },
+          {
+            "sentence": "They analyzed empirical data.",
+            "meaning_ko": "그들은 경험적 데이터를 분석했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He used empirical evidence, with his experimental and observational approach creating reliability and validity, though the empirical method would require verification and validation.",
+            "meaning_ko": "그는 경험적 증거를 사용했고, 그의 실험적이고 관찰적인 접근이 신뢰성과 타당성을 만들었지만, 그 경험적 방법은 검증과 타당화를 요구할 것입니다."
+          },
+          {
+            "sentence": "She conducted empirical research, with the practical and evidence-based study creating understanding and knowledge, though the empirical research would need to be rigorous and systematic.",
+            "meaning_ko": "그녀는 경험적 연구를 수행했고, 그 실용적이고 증거 기반의 연구가 이해와 지식을 만들었지만, 그 경험적 연구는 엄격하고 체계적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They analyzed empirical data, with the data-driven and observational information creating insights and conclusions, though the empirical analysis would require careful interpretation and evaluation.",
+            "meaning_ko": "그들은 경험적 데이터를 분석했고, 그 데이터 기반의 그리고 관찰적인 정보가 통찰과 결론을 만들었지만, 그 경험적 분석은 신중한 해석과 평가를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to use empirical evidence in the analysis that was made in the study created opportunities for reliability and validity, with the empirical approach enabling evidence-based conclusions and understanding, though the empirical method would require thorough verification and peer review to ensure that evidence is properly evaluated and conclusions are scientifically sound.",
+            "meaning_ko": "그 연구에서 내려졌던 그 분석에서 경험적 증거를 사용하기로 한 그 결정은 신뢰성과 타당성을 위한 기회를 만들었고, 그 경험적 접근이 증거 기반 결론과 이해를 가능하게 했지만, 그 경험적 방법은 증거가 적절히 평가되고 결론이 과학적으로 타당한 것을 보장하기 위해 철저한 검증과 동료 검토를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to conduct empirical research that was undertaken in the program created pathways for scientific understanding and knowledge, with the research enabling systematic observation and data collection, though the empirical research would need to be designed and executed through rigorous methodology and controls to ensure that research is valid and results are reliable and generalizable.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 경험적 연구를 수행하기 위한 그 노력은 과학적 이해와 지식을 위한 경로를 만들었고, 그 연구가 체계적인 관찰과 데이터 수집을 가능하게 했지만, 그 경험적 연구는 연구가 타당하고 결과가 신뢰할 수 있고 일반화 가능한 것을 보장하기 위해 엄격한 방법론과 통제를 통해 설계되고 실행될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to analyze empirical data that was completed in the project created structure and methods for evidence-based analysis, with the analysis enabling interpretation of observations and findings, though the empirical analysis would require ongoing validation and refinement to ensure that data is accurately interpreted and conclusions are supported by evidence and can be replicated.",
+            "meaning_ko": "그 프로젝트에서 완료되었던 그 경험적 데이터를 분석하기 위한 그 작업은 증거 기반 분석을 위한 구조와 방법을 만들었고, 그 분석이 관찰과 발견의 해석을 가능하게 했지만, 그 경험적 분석은 데이터가 정확히 해석되고 결론이 증거에 의해 지지되고 재현 가능한 것을 보장하기 위해 지속적인 타당화와 정제를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "empirical는 '경험적인, 실험적인' 또는 '실증적인, 관찰에 기반한' 의미로, 경험이나 실험에 기반한 상태를 가리킵니다. experimental, observational와 비슷하지만 더 학술적 뉘앙스가 있습니다. empirical evidence, empirical research 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: empirical = (A) theoretical (B) experimental or observational (C) speculative (D) abstract",
+            "a": "B",
+            "meaning_ko": "empirical는 '실험적인 또는 관찰적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He used _____ evidence.",
+            "a": "empirical",
+            "meaning_ko": "empirical는 '경험적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of empirical? (A) experimental (B) observational (C) theoretical (D) practical",
+            "a": "C",
+            "meaning_ko": "theoretical(이론적인)가 empirical의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: empirical _____ the study. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "empirical in ~는 '~에서 경험적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: empirical = (A) theoretical (B) experimental (C) speculative (D) abstract",
+            "a": "B",
+            "meaning_ko": "experimental(실험적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She conducted empirical research at the study.' → Fix the sentence.",
+            "a": "She conducted empirical research.",
+            "meaning_ko": "empirical research는 이미 '경험적 연구' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He used empirical evidence.'",
+            "a": "He employed experimental and observational proof, with the empirical approach creating reliability and validity, though the evidence would require verification and validation.",
+            "meaning_ko": "empirical는 '경험적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They analyzed _____ data. (A) empirical (B) empirically (C) empiricism (D) empiricist",
+            "a": "A",
+            "meaning_ko": "형용사 empirical가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses empirical most appropriately? (A) The empirical ran. (B) He used empirical evidence. (C) She empirical smiled. (D) Empirical is good.",
+            "a": "B",
+            "meaning_ko": "empirical는 형용사로 '경험적인'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "oblation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "제물, 봉헌물; 제물이나 봉헌물.",
+        "note": "제물이나 봉헌물을 가리킵니다."
+      },
+      {
+        "definition_ko": "봉헌, 헌납; 봉헌이나 헌납.",
+        "note": "봉헌이나 헌납을 가리킵니다."
+      }
+    ],
+    "concept": "제물이나 봉헌물인 제물, 또는 봉헌이나 헌납.",
+    "etymology": "라틴어 oblatio(봉헌)에서 유래했으며, offerre(제공하다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '봉헌' 의미였고, 현대에는 '제물이나 봉헌물'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 종교나 문학 관련 문맥에서 자주 쓰이며, 고급 어휘입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, oblation 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게의 제물",
+        "example": "oblation to"
+      }
+    ],
+    "requiredComplements": [
+      "oblation : 제물/봉헌물",
+      "oblation to + 명사 : ~에게의 제물"
+    ],
+    "morphology": "라틴어 oblatio에서 유래한 단어로, offerre(제공하다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "oblations",
+        "meaning_ko": "제물들(복수형)"
+      },
+      {
+        "word": "oblate",
+        "meaning_ko": "봉헌된"
+      }
+    ],
+    "related": [
+      {
+        "word": "offering",
+        "meaning_ko": "제물"
+      },
+      {
+        "word": "sacrifice",
+        "meaning_ko": "제물"
+      },
+      {
+        "word": "gift",
+        "meaning_ko": "선물"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "offering",
+        "meaning_ko": "제물"
+      },
+      {
+        "word": "sacrifice",
+        "meaning_ko": "제물"
+      },
+      {
+        "word": "gift",
+        "meaning_ko": "선물"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "tribute",
+        "meaning_ko": "공물(범위가 더 넓음)"
+      },
+      {
+        "word": "donation",
+        "meaning_ko": "기부"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "taking",
+        "meaning_ko": "가져가기"
+      },
+      {
+        "word": "receiving",
+        "meaning_ko": "받기"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "oblation to",
+            "meaning_ko": "~에게의 제물"
+          },
+          {
+            "phrase": "make an oblation",
+            "meaning_ko": "제물을 만들다"
+          },
+          {
+            "phrase": "sacred oblation",
+            "meaning_ko": "성스러운 제물"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "oblation to the gods",
+            "meaning_ko": "그 신들에게의 제물"
+          },
+          {
+            "phrase": "religious oblation",
+            "meaning_ko": "종교적 제물"
+          },
+          {
+            "phrase": "ceremonial oblation",
+            "meaning_ko": "의식적 제물"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "oblation to the deity",
+            "meaning_ko": "그 신에게의 제물"
+          },
+          {
+            "phrase": "ritual oblation",
+            "meaning_ko": "의식 제물"
+          },
+          {
+            "phrase": "spiritual oblation",
+            "meaning_ko": "영적 제물"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He made an oblation.",
+            "meaning_ko": "그는 제물을 만들었습니다."
+          },
+          {
+            "sentence": "She offered an oblation to the gods.",
+            "meaning_ko": "그녀는 그 신들에게 제물을 바쳤습니다."
+          },
+          {
+            "sentence": "They presented the oblation.",
+            "meaning_ko": "그들은 그 제물을 제시했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He made an oblation, with his offering and sacrifice creating devotion and reverence, though the oblation would require sincerity and respect.",
+            "meaning_ko": "그는 제물을 만들었고, 그의 제물과 제물이 헌신과 경외를 만들었지만, 그 제물은 진정성과 존중을 요구할 것입니다."
+          },
+          {
+            "sentence": "She offered an oblation to the gods, with the gift and tribute creating worship and honor, though the oblation would need to be appropriate and meaningful.",
+            "meaning_ko": "그녀는 그 신들에게 제물을 바쳤고, 그 선물과 공물이 숭배와 명예를 만들었지만, 그 제물은 적절하고 의미 있을 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They presented the oblation, with the donation and offering creating ceremony and tradition, though the oblation would require ritual and observance.",
+            "meaning_ko": "그들은 그 제물을 제시했고, 그 기부와 제물이 의식과 전통을 만들었지만, 그 제물은 의식과 준수를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to make an oblation to the deity that was made in the ceremony created opportunities for devotion and worship, with the oblation enabling expression of faith and reverence, though the oblation would require sincere intention and proper ritual to ensure that the offering is meaningful and the deity is properly honored.",
+            "meaning_ko": "그 의식에서 내려졌던 그 신에게 그 제물을 만들기로 한 그 결정은 헌신과 숭배를 위한 기회를 만들었고, 그 제물이 신앙과 경외의 표현을 가능하게 했지만, 그 제물은 제물이 의미 있고 신이 적절히 존경되는 것을 보장하기 위해 진정한 의도와 적절한 의식을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to preserve ritual oblation that was undertaken in the tradition created pathways for cultural continuity and spiritual practice, with the preservation enabling maintenance of customs and beliefs, though the oblation would need to be conducted through proper ceremonies and understanding to ensure that traditions are respected and spiritual significance is maintained.",
+            "meaning_ko": "그 전통에서 착수되었던 그 의식 제물을 보존하기 위한 그 노력은 문화적 연속성과 영적 실천을 위한 경로를 만들었고, 그 보존이 관습과 신앙의 유지를 가능하게 했지만, 그 제물은 전통이 존중되고 영적 중요성이 유지되는 것을 보장하기 위해 적절한 의식과 이해를 통해 수행될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to study spiritual oblation that was completed in the research created structure and methods for understanding religious practices, with the study enabling analysis of offerings and their significance, though the oblation would require ongoing research and appreciation to ensure that practices are understood and their spiritual and cultural value is recognized.",
+            "meaning_ko": "그 연구에서 완료되었던 그 영적 제물을 연구하기 위한 그 작업은 종교적 관행을 이해하기 위한 구조와 방법을 만들었고, 그 연구가 제물과 그 중요성의 분석을 가능하게 했지만, 그 제물은 관행이 이해되고 그 영적이고 문화적 가치가 인정되는 것을 보장하기 위해 지속적인 연구와 감사를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "oblation는 '제물, 봉헌물' 또는 '봉헌, 헌납' 의미로, 제물이나 봉헌물을 가리킵니다. offering, sacrifice와 비슷하지만 더 고급 어휘입니다. oblation to ~, make an oblation 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: oblation = (A) taking (B) offering or sacrifice (C) receiving (D) keeping",
+            "a": "B",
+            "meaning_ko": "oblation는 '제물 또는 제물' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He made an _____.",
+            "a": "oblation",
+            "meaning_ko": "oblation는 '제물' 의미입니다."
+          },
+          {
+            "q": "Which is related to oblation? (A) offering (B) taking (C) receiving (D) keeping",
+            "a": "A",
+            "meaning_ko": "offering(제물)가 oblation와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: oblation _____ the gods. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "oblation to ~는 '~에게의 제물' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: oblation = (A) taking (B) offering (C) receiving (D) keeping",
+            "a": "B",
+            "meaning_ko": "offering(제물)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She offered an oblation at the gods.' → Fix the preposition.",
+            "a": "She offered an oblation to the gods.",
+            "meaning_ko": "oblation to ~는 '~에게의 제물' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He made an oblation.'",
+            "a": "He created an offering and sacrifice, with the oblation creating devotion and reverence, though the offering would require sincerity and respect.",
+            "meaning_ko": "oblation는 '제물' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They presented the _____. (A) oblation (B) oblations (C) oblate (D) oblation's",
+            "a": "A",
+            "meaning_ko": "명사 oblation가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses oblation most appropriately? (A) The oblation ran. (B) He made an oblation. (C) She oblation smiled. (D) Oblation is good.",
+            "a": "B",
+            "meaning_ko": "oblation는 명사로 '제물'을 의미하며, make an oblation와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "decimate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "대량 살육하다, 대량 파괴하다; 대량 살육하거나 대량 파괴하다.",
+        "note": "대량 살육하거나 대량 파괴하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "크게 줄이다, 대폭 감소시키다; 크게 줄이거나 대폭 감소시키다.",
+        "note": "크게 줄이거나 대폭 감소시키는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "대량 살육하거나 대량 파괴하는 것, 또는 크게 줄이거나 대폭 감소시키는 것.",
+    "etymology": "라틴어 decimare(10분의 1을 죽이다)에서 유래했으며, decem(10)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '10분의 1을 죽이다' 의미였고, 현대에는 '대량 살육하거나 대량 파괴하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 자주 사용되며, decimate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "~만큼 대량 살육하다",
+        "example": "decimate by"
+      }
+    ],
+    "requiredComplements": [
+      "decimate + 명사 : ~을 대량 살육하다",
+      "decimate by + 명사 : ~만큼 대량 살육하다"
+    ],
+    "morphology": "라틴어 decimare에서 유래한 단어로, decem(10)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "decimated",
+        "meaning_ko": "대량 살육한(과거분사/형용사)"
+      },
+      {
+        "word": "decimating",
+        "meaning_ko": "대량 살육하는(현재분사/형용사)"
+      },
+      {
+        "word": "decimation",
+        "meaning_ko": "대량 살육"
+      }
+    ],
+    "related": [
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "devastate",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "annihilate",
+        "meaning_ko": "전멸시키다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "devastate",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "annihilate",
+        "meaning_ko": "전멸시키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "ravage",
+        "meaning_ko": "파괴하다(범위가 더 넓음)"
+      },
+      {
+        "word": "wipe out",
+        "meaning_ko": "전멸시키다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "preserve",
+        "meaning_ko": "보존하다"
+      },
+      {
+        "word": "protect",
+        "meaning_ko": "보호하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "decimate by",
+            "meaning_ko": "~만큼 대량 살육하다"
+          },
+          {
+            "phrase": "decimate the population",
+            "meaning_ko": "그 인구를 대량 살육하다"
+          },
+          {
+            "phrase": "decimate the army",
+            "meaning_ko": "그 군대를 대량 살육하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "decimate by half",
+            "meaning_ko": "절반만큼 대량 살육하다"
+          },
+          {
+            "phrase": "decimate the forest",
+            "meaning_ko": "그 숲을 대량 파괴하다"
+          },
+          {
+            "phrase": "decimate the resources",
+            "meaning_ko": "그 자원을 대량 파괴하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "decimate by disease",
+            "meaning_ko": "질병만큼 대량 살육하다"
+          },
+          {
+            "phrase": "decimate the ecosystem",
+            "meaning_ko": "그 생태계를 대량 파괴하다"
+          },
+          {
+            "phrase": "decimate the economy",
+            "meaning_ko": "그 경제를 대량 파괴하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The disease decimated the population.",
+            "meaning_ko": "그 질병은 그 인구를 대량 살육했습니다."
+          },
+          {
+            "sentence": "They decimated the forest.",
+            "meaning_ko": "그들은 그 숲을 대량 파괴했습니다."
+          },
+          {
+            "sentence": "He decimated the army.",
+            "meaning_ko": "그는 그 군대를 대량 살육했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The disease decimated the population, with its destroy and devastate creating death and destruction, though the decimation would require prevention and treatment.",
+            "meaning_ko": "그 질병은 그 인구를 대량 살육했고, 그 파괴와 파괴가 죽음과 파괴를 만들었지만, 그 대량 살육은 예방과 치료를 요구할 것입니다."
+          },
+          {
+            "sentence": "They decimated the forest, with their annihilate and ravage creating devastation and loss, though the decimation would need to be stopped and reversed.",
+            "meaning_ko": "그들은 그 숲을 대량 파괴했고, 그들의 전멸시키기와 파괴하기가 파괴와 손실을 만들었지만, 그 대량 파괴는 멈춰지고 역전될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "He decimated the army, with his wipe out and destroy creating defeat and loss, though the decimation would require recovery and rebuilding.",
+            "meaning_ko": "그는 그 군대를 대량 살육했고, 그의 전멸시키기와 파괴하기가 패배와 손실을 만들었지만, 그 대량 살육은 회복과 재건을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to prevent decimation by disease that was made in the program created opportunities for protection and health, with the prevention enabling reduction of mortality and suffering, though the decimation would require comprehensive public health measures and medical intervention to ensure that diseases are controlled and populations are protected.",
+            "meaning_ko": "그 프로그램에서 내려졌던 그 질병만큼 그 대량 살육을 방지하기로 한 그 결정은 보호와 건강을 위한 기회를 만들었고, 그 방지가 사망률과 고통의 감소를 가능하게 했지만, 그 대량 살육은 질병이 통제되고 인구가 보호되는 것을 보장하기 위해 포괄적인 공중 보건 조치와 의학적 개입을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to stop decimation of the ecosystem that was undertaken in the initiative created pathways for conservation and restoration, with the protection enabling preservation of biodiversity and habitats, though the decimation would need to be addressed through environmental policies and sustainable practices to ensure that ecosystems are protected and biodiversity is maintained.",
+            "meaning_ko": "그 계획에서 착수되었던 그 생태계의 그 대량 파괴를 멈추기 위한 그 노력은 보존과 복원을 위한 경로를 만들었고, 그 보호가 생물 다양성과 서식지의 보존을 가능하게 했지만, 그 대량 파괴는 생태계가 보호되고 생물 다양성이 유지되는 것을 보장하기 위해 환경 정책과 지속 가능한 관행을 통해 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to recover from decimation of the economy that was completed in the program created structure and methods for economic restoration, with the recovery enabling rebuilding of industries and markets, though the decimation would require ongoing economic policies and support to ensure that economies are restored and economic stability is achieved.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 경제의 그 대량 파괴로부터 회복하기 위한 그 작업은 경제 복원을 위한 구조와 방법을 만들었고, 그 회복이 산업과 시장의 재건을 가능하게 했지만, 그 대량 파괴는 경제가 복원되고 경제적 안정이 달성되는 것을 보장하기 위해 지속적인 경제 정책과 지원을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "decimate는 '대량 살육하다, 대량 파괴하다' 또는 '크게 줄이다, 대폭 감소시키다' 의미로, 대량 살육하거나 대량 파괴하는 행동을 가리킵니다. destroy, devastate와 비슷하지만 더 강한 뉘앙스가 있습니다. decimate by ~, decimate the population 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: decimate = (A) preserve (B) destroy or devastate (C) protect (D) save",
+            "a": "B",
+            "meaning_ko": "decimate는 '파괴하다 또는 파괴하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The disease _____ the population.",
+            "a": "decimated",
+            "meaning_ko": "decimate는 '대량 살육하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of decimate? (A) destroy (B) devastate (C) preserve (D) annihilate",
+            "a": "C",
+            "meaning_ko": "preserve(보존하다)가 decimate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: decimate _____ half. (A) by (B) at (C) on (D) in",
+            "a": "A",
+            "meaning_ko": "decimate by ~는 '~만큼 대량 살육하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: decimate = (A) preserve (B) destroy (C) protect (D) save",
+            "a": "B",
+            "meaning_ko": "destroy(파괴하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They decimated the forest at half.' → Fix the preposition.",
+            "a": "They decimated the forest by half.",
+            "meaning_ko": "decimate by ~는 '~만큼 대량 살육하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The disease decimated the population.'",
+            "a": "The disease destroyed and devastated the people, with the decimation creating death and destruction, though the devastation would require prevention and treatment.",
+            "meaning_ko": "decimate는 '대량 살육하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the forest. (A) decimate (B) decimates (C) decimated (D) decimating",
+            "a": "C",
+            "meaning_ko": "과거형 decimated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses decimate most appropriately? (A) The decimate ran. (B) The disease decimated the population. (C) She decimate smiled. (D) Decimate is good.",
+            "a": "B",
+            "meaning_ko": "decimate는 타동사로 '대량 살육하다'를 의미하며, decimate + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

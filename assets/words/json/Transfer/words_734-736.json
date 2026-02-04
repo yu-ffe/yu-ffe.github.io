@@ -1,0 +1,812 @@
+[
+  {
+    "word": "imperil",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "위험에 빠뜨리다, 위협하다; 위험에 빠뜨리거나 위협하다.",
+        "note": "위험에 빠뜨리거나 위협하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "위태롭게 하다, 위험하게 만들다; 위태롭게 하거나 위험하게 만드는 행동을 가리킵니다.",
+        "note": "위태롭게 하거나 위험하게 만드는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "위험에 빠뜨리거나 위협하는 것, 또는 위태롭게 하거나 위험하게 만드는 것.",
+    "etymology": "im(안에) + peril(위험)의 조합으로, '위험에 빠뜨리다' 의미입니다.",
+    "semanticExtension": "원래는 '위험에 빠뜨리다' 의미였고, 현대에는 '위태롭게 하거나 위험하게 만들다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 부정적 뉘앙스로 자주 쓰입니다.",
+    "grammarNotes": "타동사로 자주 사용되며, imperil + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "~로 위험에 빠뜨리다",
+        "example": "imperil by"
+      }
+    ],
+    "requiredComplements": [
+      "imperil + 명사 : ~을 위험에 빠뜨리다/위협하다",
+      "imperil by + 명사 : ~로 위험에 빠뜨리다"
+    ],
+    "morphology": "im(안에) + peril(위험)의 조합으로, '위험에 빠뜨리다' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "imperiled",
+        "meaning_ko": "위험에 빠진(과거분사/형용사)"
+      },
+      {
+        "word": "imperiling",
+        "meaning_ko": "위험에 빠뜨리는(현재분사/형용사)"
+      },
+      {
+        "word": "peril",
+        "meaning_ko": "위험"
+      }
+    ],
+    "related": [
+      {
+        "word": "endanger",
+        "meaning_ko": "위험에 빠뜨리다"
+      },
+      {
+        "word": "threaten",
+        "meaning_ko": "위협하다"
+      },
+      {
+        "word": "jeopardize",
+        "meaning_ko": "위험에 빠뜨리다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "endanger",
+        "meaning_ko": "위험에 빠뜨리다"
+      },
+      {
+        "word": "threaten",
+        "meaning_ko": "위협하다"
+      },
+      {
+        "word": "jeopardize",
+        "meaning_ko": "위험에 빠뜨리다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "risk",
+        "meaning_ko": "위험을 감수하다(범위가 더 넓음)"
+      },
+      {
+        "word": "compromise",
+        "meaning_ko": "위태롭게 하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "protect",
+        "meaning_ko": "보호하다"
+      },
+      {
+        "word": "safeguard",
+        "meaning_ko": "보호하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "imperil by",
+            "meaning_ko": "~로 위험에 빠뜨리다"
+          },
+          {
+            "phrase": "imperil lives",
+            "meaning_ko": "생명을 위험에 빠뜨리다"
+          },
+          {
+            "phrase": "imperil safety",
+            "meaning_ko": "안전을 위험에 빠뜨리다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "imperil security",
+            "meaning_ko": "보안을 위험에 빠뜨리다"
+          },
+          {
+            "phrase": "imperil future",
+            "meaning_ko": "미래를 위험에 빠뜨리다"
+          },
+          {
+            "phrase": "imperil mission",
+            "meaning_ko": "임무를 위험에 빠뜨리다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "imperil stability",
+            "meaning_ko": "안정을 위험에 빠뜨리다"
+          },
+          {
+            "phrase": "imperil reputation",
+            "meaning_ko": "명성을 위험에 빠뜨리다"
+          },
+          {
+            "phrase": "imperil relationship",
+            "meaning_ko": "관계를 위험에 빠뜨리다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They imperiled the mission.",
+            "meaning_ko": "그들은 그 임무를 위험에 빠뜨렸습니다."
+          },
+          {
+            "sentence": "She imperiled her safety.",
+            "meaning_ko": "그녀는 그녀의 안전을 위험에 빠뜨렸습니다."
+          },
+          {
+            "sentence": "He imperiled the relationship.",
+            "meaning_ko": "그는 그 관계를 위험에 빠뜨렸습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They imperiled the mission, with their actions creating danger and risk, though the imperiling would require immediate attention and correction.",
+            "meaning_ko": "그들은 그 임무를 위험에 빠뜨렸고, 그들의 행동이 위험과 위험을 만들었지만, 그 위험에 빠뜨림은 즉각적인 주의와 수정을 요구할 것입니다."
+          },
+          {
+            "sentence": "She imperiled her safety, with her behavior creating risk and danger, though the imperiling would require protective measures and caution.",
+            "meaning_ko": "그녀는 그녀의 안전을 위험에 빠뜨렸고, 그녀의 행동이 위험과 위험을 만들었지만, 그 위험에 빠뜨림은 보호 조치와 주의를 요구할 것입니다."
+          },
+          {
+            "sentence": "He imperiled the relationship, with his actions creating threat and risk, though the imperiling would require repair and reconciliation.",
+            "meaning_ko": "그는 그 관계를 위험에 빠뜨렸고, 그의 행동이 위협과 위험을 만들었지만, 그 위험에 빠뜨림은 수리와 화해를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to imperil stability that was made in the policy created risks for the system and its functioning, with the actions threatening the foundation and balance, though addressing the imperiling would require careful consideration and corrective measures.",
+            "meaning_ko": "그 정책에서 내려졌던 그 안정을 위험에 빠뜨리기로 한 그 결정은 그 체제와 그 기능에 대한 위험을 만들었고, 그 행동이 그 기초와 균형을 위협했지만, 그 위험에 빠뜨림을 다루는 것은 신중한 고려와 수정 조치를 요구할 것입니다."
+          },
+          {
+            "sentence": "The action to imperil reputation that was taken in the situation created threats to credibility and standing, with the behavior risking damage and loss, though addressing the imperiling would require damage control and restoration.",
+            "meaning_ko": "그 상황에서 취해졌던 그 명성을 위험에 빠뜨리기 위한 그 행동은 신뢰성과 지위에 대한 위협을 만들었고, 그 행동이 손상과 손실을 위험에 빠뜨렸지만, 그 위험에 빠뜨림을 다루는 것은 손상 통제와 복원을 요구할 것입니다."
+          },
+          {
+            "sentence": "The behavior to imperil relationship that was displayed in the interaction created risks for connection and trust, with the actions threatening the bond and understanding, though addressing the imperiling would require communication and repair.",
+            "meaning_ko": "그 상호작용에서 표시되었던 그 관계를 위험에 빠뜨리기 위한 그 행동은 연결과 신뢰에 대한 위험을 만들었고, 그 행동이 그 유대와 이해를 위협했지만, 그 위험에 빠뜨림을 다루는 것은 소통과 수리를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "imperil는 '위험에 빠뜨리다, 위협하다' 또는 '위태롭게 하다, 위험하게 만들다' 의미로, 위험에 빠뜨리거나 위협하는 행동을 가리킵니다. endanger, threaten와 비슷하지만 더 공식적 뉘앙스가 있습니다. imperil by ~, imperil lives 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: imperil = (A) protect (B) endanger or threaten (C) safeguard (D) secure",
+            "a": "B",
+            "meaning_ko": "imperil는 '위험에 빠뜨리다 또는 위협하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They _____ the mission.",
+            "a": "imperiled",
+            "meaning_ko": "imperil는 '위험에 빠뜨리다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of imperil? (A) endanger (B) threaten (C) protect (D) jeopardize",
+            "a": "C",
+            "meaning_ko": "protect(보호하다)가 imperil의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: imperil _____ action. (A) by (B) at (C) on (D) with",
+            "a": "A",
+            "meaning_ko": "imperil by ~는 '~로 위험에 빠뜨리다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: imperil = (A) protect (B) endanger (C) safeguard (D) secure",
+            "a": "B",
+            "meaning_ko": "endanger(위험에 빠뜨리다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She imperiled her safety at action.' → Fix the preposition.",
+            "a": "She imperiled her safety by action.",
+            "meaning_ko": "imperil by ~는 '~로 위험에 빠뜨리다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They imperiled the mission.'",
+            "a": "They endangered and threatened the operation, with their actions creating danger and risk, though the imperiling would require immediate attention and correction.",
+            "meaning_ko": "imperil는 '위험에 빠뜨리다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He _____ the relationship. (A) imperil (B) imperils (C) imperiled (D) imperiling",
+            "a": "C",
+            "meaning_ko": "과거형 imperiled가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses imperil most appropriately? (A) The imperil ran. (B) They imperiled the mission. (C) She imperil smiled. (D) Imperil is good.",
+            "a": "B",
+            "meaning_ko": "imperil는 타동사로 '위험에 빠뜨리다'를 의미하며, 목적어와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "backwater",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "후진 지역, 벽촌; 후진 지역이나 벽촌.",
+        "note": "후진 지역이나 벽촌을 가리킵니다."
+      },
+      {
+        "definition_ko": "역류, 후류; 역류나 후류.",
+        "note": "역류나 후류를 가리킵니다."
+      }
+    ],
+    "concept": "후진 지역이나 벽촌인 후진 지역, 또는 역류나 후류.",
+    "etymology": "back(뒤) + water(물)의 조합으로, '역류' 의미입니다.",
+    "semanticExtension": "원래는 '역류' 의미였고, 현대에는 '후진 지역이나 벽촌'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 부정적 뉘앙스로 자주 쓰입니다.",
+    "grammarNotes": "가산명사와 불가산명사로 모두 사용되며, backwater 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 후진 지역",
+        "example": "backwater of"
+      }
+    ],
+    "requiredComplements": [
+      "backwater : 후진 지역/역류",
+      "backwater of + 명사 : ~의 후진 지역"
+    ],
+    "morphology": "back(뒤) + water(물)의 조합으로, '역류' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "backwaters",
+        "meaning_ko": "후진 지역들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "hinterland",
+        "meaning_ko": "내륙"
+      },
+      {
+        "word": "outback",
+        "meaning_ko": "오지"
+      },
+      {
+        "word": "boondocks",
+        "meaning_ko": "벽촌"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "hinterland",
+        "meaning_ko": "내륙"
+      },
+      {
+        "word": "outback",
+        "meaning_ko": "오지"
+      },
+      {
+        "word": "boondocks",
+        "meaning_ko": "벽촌"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "remote area",
+        "meaning_ko": "외진 지역(범위가 더 넓음)"
+      },
+      {
+        "word": "isolated place",
+        "meaning_ko": "고립된 장소"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "metropolis",
+        "meaning_ko": "대도시"
+      },
+      {
+        "word": "center",
+        "meaning_ko": "중심지"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "backwater of",
+            "meaning_ko": "~의 후진 지역"
+          },
+          {
+            "phrase": "rural backwater",
+            "meaning_ko": "농촌 후진 지역"
+          },
+          {
+            "phrase": "small backwater",
+            "meaning_ko": "작은 후진 지역"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "backwater of country",
+            "meaning_ko": "나라의 후진 지역"
+          },
+          {
+            "phrase": "backwater town",
+            "meaning_ko": "후진 지역 마을"
+          },
+          {
+            "phrase": "backwater region",
+            "meaning_ko": "후진 지역"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "backwater of province",
+            "meaning_ko": "지방의 후진 지역"
+          },
+          {
+            "phrase": "backwater community",
+            "meaning_ko": "후진 지역 공동체"
+          },
+          {
+            "phrase": "backwater area",
+            "meaning_ko": "후진 지역"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They lived in a backwater.",
+            "meaning_ko": "그들은 후진 지역에 살았습니다."
+          },
+          {
+            "sentence": "She came from a backwater.",
+            "meaning_ko": "그녀는 후진 지역에서 왔습니다."
+          },
+          {
+            "sentence": "He left the backwater.",
+            "meaning_ko": "그는 그 후진 지역을 떠났습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They lived in a backwater, with their remote and isolated location creating limited opportunities, though the backwater would offer a quiet and simple life.",
+            "meaning_ko": "그들은 후진 지역에 살았고, 그들의 외진이고 고립된 위치가 제한된 기회를 만들었지만, 그 후진 지역은 조용하고 단순한 삶을 제공할 것입니다."
+          },
+          {
+            "sentence": "She came from a backwater, with her rural and remote background creating challenges for advancement, though the backwater would have shaped her character and values.",
+            "meaning_ko": "그녀는 후진 지역에서 왔고, 그녀의 농촌이고 외진 배경이 발전에 대한 도전을 만들었지만, 그 후진 지역은 그녀의 성격과 가치를 형성했을 것입니다."
+          },
+          {
+            "sentence": "He left the backwater, with his departure seeking opportunities and advancement, though the backwater would remain a part of his identity and memories.",
+            "meaning_ko": "그는 그 후진 지역을 떠났고, 그의 출발이 기회와 발전을 추구했지만, 그 후진 지역은 그의 정체성과 기억의 일부로 남을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The backwater of province that was located in the region created an isolated and remote area with limited development, with the location offering a quiet and traditional way of life, though the backwater would require investment and infrastructure to improve conditions.",
+            "meaning_ko": "그 지역에 위치했던 그 지방의 후진 지역은 제한된 발전을 가진 고립되고 외진 지역을 만들었고, 그 위치가 조용하고 전통적인 생활 방식을 제공했지만, 그 후진 지역은 조건을 개선하기 위해 투자와 인프라를 요구할 것입니다."
+          },
+          {
+            "sentence": "The backwater community that was established in the area created a close-knit and traditional society, with the isolation fostering strong local bonds and customs, though the backwater would face challenges in keeping up with modern developments.",
+            "meaning_ko": "그 지역에서 확립되었던 그 후진 지역 공동체는 긴밀하고 전통적인 사회를 만들었고, 그 고립이 강한 지역 유대와 관습을 육성했지만, 그 후진 지역은 현대적 발전을 따라잡는 데 도전에 직면할 것입니다."
+          },
+          {
+            "sentence": "The backwater area that was characterized by its remoteness created a place with limited access and opportunities, with the isolation affecting economic and social development, though the backwater would have its own unique character and value.",
+            "meaning_ko": "그 외진 특성으로 특징지어졌던 그 후진 지역은 제한된 접근과 기회를 가진 장소를 만들었고, 그 고립이 경제적이고 사회적 발전에 영향을 주었지만, 그 후진 지역은 그 자체의 독특한 성격과 가치를 가질 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "backwater는 '후진 지역, 벽촌' 또는 '역류, 후류' 의미로, 후진 지역이나 벽촌을 가리킵니다. hinterland, outback와 비슷하지만 더 부정적 뉘앙스가 있습니다. backwater of ~, rural backwater 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "지리",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: backwater = (A) metropolis (B) remote area or hinterland (C) center (D) city",
+            "a": "B",
+            "meaning_ko": "backwater는 '외진 지역 또는 내륙' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They lived in a _____.",
+            "a": "backwater",
+            "meaning_ko": "backwater는 '후진 지역'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of backwater? (A) hinterland (B) outback (C) metropolis (D) boondocks",
+            "a": "C",
+            "meaning_ko": "metropolis(대도시)가 backwater의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: backwater _____ country. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "backwater of ~는 '~의 후진 지역' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: backwater = (A) metropolis (B) hinterland (C) center (D) city",
+            "a": "B",
+            "meaning_ko": "hinterland(내륙)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She came from a backwater at country.' → Fix the preposition.",
+            "a": "She came from a backwater of country.",
+            "meaning_ko": "backwater of ~는 '~의 후진 지역' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They lived in a backwater.'",
+            "a": "They lived in a remote and isolated area, with their location in a hinterland or outback creating limited opportunities, though the backwater would offer a quiet and simple life.",
+            "meaning_ko": "backwater는 '후진 지역'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: He left the _____. (A) backwater (B) backwaters (C) backwater's (D) backwatered",
+            "a": "A",
+            "meaning_ko": "명사 backwater가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses backwater most appropriately? (A) The backwater ran. (B) They lived in a backwater. (C) She backwater smiled. (D) Backwater is good.",
+            "a": "B",
+            "meaning_ko": "backwater는 명사로 '후진 지역'을 의미하며, live in과 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adapt",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "적응하다, 적합하게 하다; 적응하거나 적합하게 하다.",
+        "note": "적응하거나 적합하게 하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "각색하다, 개조하다; 각색하거나 개조하다.",
+        "note": "각색하거나 개조하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "적응하거나 적합하게 하는 것, 또는 각색하거나 개조하는 것.",
+    "etymology": "라틴어 adaptare(적합하게 하다)에서 유래했으며, ad(향하여) + aptare(맞추다)의 조합입니다.",
+    "semanticExtension": "원래는 '맞추다' 의미였고, 현대에는 '각색하거나 개조하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사와 자동사로 모두 사용되며, adapt + 명사 형태로 자주 사용됩니다. adapt to + 명사 형태로도 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 적응하다",
+        "example": "adapt to"
+      }
+    ],
+    "requiredComplements": [
+      "adapt : 적응하다/적합하게 하다",
+      "adapt + 명사 : ~을 적응시키다/각색하다",
+      "adapt to + 명사 : ~에 적응하다"
+    ],
+    "morphology": "라틴어 adaptare에서 유래한 단어로, ad(향하여) + aptare(맞추다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "adapted",
+        "meaning_ko": "적응한(과거분사/형용사)"
+      },
+      {
+        "word": "adapting",
+        "meaning_ko": "적응하는(현재분사/형용사)"
+      },
+      {
+        "word": "adaptation",
+        "meaning_ko": "적응"
+      }
+    ],
+    "related": [
+      {
+        "word": "adjust",
+        "meaning_ko": "조정하다"
+      },
+      {
+        "word": "modify",
+        "meaning_ko": "수정하다"
+      },
+      {
+        "word": "accommodate",
+        "meaning_ko": "적응시키다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "adjust",
+        "meaning_ko": "조정하다"
+      },
+      {
+        "word": "modify",
+        "meaning_ko": "수정하다"
+      },
+      {
+        "word": "accommodate",
+        "meaning_ko": "적응시키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "change",
+        "meaning_ko": "변화하다(범위가 더 넓음)"
+      },
+      {
+        "word": "alter",
+        "meaning_ko": "변경하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "resist",
+        "meaning_ko": "저항하다"
+      },
+      {
+        "word": "reject",
+        "meaning_ko": "거부하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "adapt to",
+            "meaning_ko": "~에 적응하다"
+          },
+          {
+            "phrase": "adapt to change",
+            "meaning_ko": "변화에 적응하다"
+          },
+          {
+            "phrase": "adapt to environment",
+            "meaning_ko": "환경에 적응하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "adapt to situation",
+            "meaning_ko": "상황에 적응하다"
+          },
+          {
+            "phrase": "adapt to conditions",
+            "meaning_ko": "조건에 적응하다"
+          },
+          {
+            "phrase": "adapt to circumstances",
+            "meaning_ko": "상황에 적응하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "adapt to climate",
+            "meaning_ko": "기후에 적응하다"
+          },
+          {
+            "phrase": "adapt to culture",
+            "meaning_ko": "문화에 적응하다"
+          },
+          {
+            "phrase": "adapt to technology",
+            "meaning_ko": "기술에 적응하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They adapted to the change.",
+            "meaning_ko": "그들은 그 변화에 적응했습니다."
+          },
+          {
+            "sentence": "She adapted the story.",
+            "meaning_ko": "그녀는 그 이야기를 각색했습니다."
+          },
+          {
+            "sentence": "He adapted to the environment.",
+            "meaning_ko": "그는 그 환경에 적응했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They adapted to the change, with their adjustment and modification creating ability to function in new circumstances, though the adaptation would require time and effort.",
+            "meaning_ko": "그들은 그 변화에 적응했고, 그들의 조정과 수정이 새로운 상황에서 기능하는 능력을 만들었지만, 그 적응은 시간과 노력을 요구할 것입니다."
+          },
+          {
+            "sentence": "She adapted the story, with her modification and alteration creating a version suitable for different medium, though the adaptation would require creative interpretation.",
+            "meaning_ko": "그녀는 그 이야기를 각색했고, 그녀의 수정과 변경이 다른 매체에 적합한 버전을 만들었지만, 그 각색은 창의적 해석을 요구할 것입니다."
+          },
+          {
+            "sentence": "He adapted to the environment, with his adjustment and accommodation creating ability to survive and thrive, though the adaptation would require learning and flexibility.",
+            "meaning_ko": "그는 그 환경에 적응했고, 그의 조정과 적응이 생존하고 번성하는 능력을 만들었지만, 그 적응은 학습과 유연성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ability to adapt to climate that was demonstrated in the species created survival advantages in changing conditions, with the adaptation enabling the organism to function in different environments, though the adaptation would require evolutionary processes and time.",
+            "meaning_ko": "그 종에서 보여졌던 그 기후에 적응하는 능력은 변화하는 조건에서 생존 이점을 만들었고, 그 적응이 그 유기체가 다른 환경에서 기능하는 것을 가능하게 했지만, 그 적응은 진화 과정과 시간을 요구할 것입니다."
+          },
+          {
+            "sentence": "The process to adapt to culture that was undertaken in the transition created understanding and integration, with the adaptation enabling individuals to function in new social contexts, though the adaptation would require openness and learning.",
+            "meaning_ko": "그 전환에서 착수되었던 그 문화에 적응하는 과정은 이해와 통합을 만들었고, 그 적응이 개인들이 새로운 사회적 맥락에서 기능하는 것을 가능하게 했지만, 그 적응은 개방성과 학습을 요구할 것입니다."
+          },
+          {
+            "sentence": "The need to adapt to technology that was evident in the industry created requirements for learning and updating skills, with the adaptation enabling workers to remain relevant and effective, though the adaptation would require ongoing education and flexibility.",
+            "meaning_ko": "그 산업에서 명백했던 그 기술에 적응할 필요는 학습과 기술 업데이트에 대한 요구를 만들었고, 그 적응이 근로자들이 관련 있고 효과적으로 남아있는 것을 가능하게 했지만, 그 적응은 지속적인 교육과 유연성을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "adapt는 '적응하다, 적합하게 하다' 또는 '각색하다, 개조하다' 의미로, 적응하거나 적합하게 하는 행동을 가리킵니다. adjust, modify와 비슷하지만 더 장기적 뉘앙스가 있습니다. adapt to ~, adapt to change 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: adapt = (A) resist (B) adjust or modify (C) reject (D) refuse",
+            "a": "B",
+            "meaning_ko": "adapt는 '조정하다 또는 수정하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They _____ to the change.",
+            "a": "adapted",
+            "meaning_ko": "adapt는 '적응하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of adapt? (A) adjust (B) modify (C) resist (D) accommodate",
+            "a": "C",
+            "meaning_ko": "resist(저항하다)가 adapt의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: adapt _____ change. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "adapt to ~는 '~에 적응하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: adapt = (A) resist (B) adjust (C) reject (D) refuse",
+            "a": "B",
+            "meaning_ko": "adjust(조정하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She adapted at the change.' → Fix the preposition.",
+            "a": "She adapted to the change.",
+            "meaning_ko": "adapt to ~는 '~에 적응하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They adapted to the change.'",
+            "a": "They adjusted and modified their behavior to fit the new circumstances, with their adaptation creating ability to function in changed conditions, though the adaptation would require time and effort.",
+            "meaning_ko": "adapt는 '적응하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He _____ to the environment. (A) adapt (B) adapts (C) adapted (D) adapting",
+            "a": "C",
+            "meaning_ko": "과거형 adapted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses adapt most appropriately? (A) The adapt ran. (B) They adapted to the change. (C) She adapt smiled. (D) Adapt is good.",
+            "a": "B",
+            "meaning_ko": "adapt는 자동사로 '적응하다'를 의미하며, to와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
