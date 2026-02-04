@@ -1,0 +1,798 @@
+[
+  {
+    "word": "via",
+    "partOfSpeech": [
+      "preposition"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "~을 통해, ~을 경유하여; 어떤 경로나 수단을 통해.",
+        "note": "어떤 경로나 수단을 통해를 가리킵니다."
+      },
+      {
+        "definition_ko": "~에 의해, ~로 인해; 어떤 방법이나 수단에 의해.",
+        "note": "어떤 방법이나 수단에 의해를 가리킵니다."
+      }
+    ],
+    "concept": "어떤 경로나 수단을 통해를 나타내는 전치사, 또는 어떤 방법이나 수단에 의해를 나타내는 전치사.",
+    "etymology": "라틴어 via(길)에서 유래했으며, 원래는 '길' 의미였으나 현대에는 '~을 통해'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '길' 의미였으나, 현대에는 '~을 통해' 또는 '~에 의해'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "전치사로 쓰이며, via + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "via + 명사 : ~을 통해/~에 의해"
+    ],
+    "morphology": "라틴어 via에서 유래한 단어로, 현대 영어에서는 전치사로 사용됩니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "through",
+        "meaning_ko": "~을 통해"
+      },
+      {
+        "word": "by",
+        "meaning_ko": "~에 의해"
+      },
+      {
+        "word": "through",
+        "meaning_ko": "~을 통해"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "through",
+        "meaning_ko": "~을 통해"
+      },
+      {
+        "word": "by",
+        "meaning_ko": "~에 의해"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "by means of",
+        "meaning_ko": "~의 수단으로(범위가 더 넓음)"
+      },
+      {
+        "word": "through",
+        "meaning_ko": "~을 통해"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "via email",
+            "meaning_ko": "이메일을 통해"
+          },
+          {
+            "phrase": "via phone",
+            "meaning_ko": "전화를 통해"
+          },
+          {
+            "phrase": "via train",
+            "meaning_ko": "기차를 통해"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "via internet",
+            "meaning_ko": "인터넷을 통해"
+          },
+          {
+            "phrase": "via route",
+            "meaning_ko": "경로를 통해"
+          },
+          {
+            "phrase": "via method",
+            "meaning_ko": "방법을 통해"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "via channel",
+            "meaning_ko": "채널을 통해"
+          },
+          {
+            "phrase": "via mechanism",
+            "meaning_ko": "메커니즘을 통해"
+          },
+          {
+            "phrase": "via pathway",
+            "meaning_ko": "경로를 통해"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She sent the message via email.",
+            "meaning_ko": "그녀는 그 메시지를 이메일을 통해 보냈습니다."
+          },
+          {
+            "sentence": "He traveled via train.",
+            "meaning_ko": "그는 기차를 통해 여행했습니다."
+          },
+          {
+            "sentence": "They communicated via phone.",
+            "meaning_ko": "그들은 전화를 통해 소통했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She sent the message via email, using the electronic communication system to deliver the information quickly and efficiently, allowing for immediate receipt and response without the delays associated with traditional mail.",
+            "meaning_ko": "그녀는 그 메시지를 이메일을 통해 보냈고, 전자 통신 시스템을 사용하여 정보를 빠르고 효율적으로 전달했으며, 전통적 우편과 관련된 지연 없이 즉각적인 수신과 응답을 허용했습니다."
+          },
+          {
+            "sentence": "He traveled via train, choosing the railway system as his mode of transportation, which provided a comfortable and scenic journey while also being more environmentally friendly than other options.",
+            "meaning_ko": "그는 기차를 통해 여행했고, 철도 시스템을 그의 교통 수단으로 선택했으며, 이것은 다른 옵션보다 더 환경 친화적이면서도 편안하고 경치 좋은 여행을 제공했습니다."
+          },
+          {
+            "sentence": "They communicated via phone, using the telephone network to have a real-time conversation despite being in different locations, enabling immediate exchange of information and personal connection.",
+            "meaning_ko": "그들은 전화를 통해 소통했고, 전화 네트워크를 사용하여 다른 위치에 있음에도 불구하고 실시간 대화를 했으며, 즉각적인 정보 교환과 개인적 연결을 가능하게 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The data was transmitted via secure channel, with encryption protocols ensuring that sensitive information remained protected during the transfer process, maintaining confidentiality and preventing unauthorized access to the content.",
+            "meaning_ko": "그 데이터는 안전한 채널을 통해 전송되었고, 암호화 프로토콜이 전송 과정 동안 민감한 정보가 보호된 상태로 유지되도록 보장했으며, 기밀성을 유지하고 콘텐츠에 대한 무단 접근을 방지했습니다."
+          },
+          {
+            "sentence": "The signal was processed via complex mechanism, with advanced algorithms analyzing and transforming the input through multiple stages, each step designed to extract specific information and prepare the data for further analysis or application.",
+            "meaning_ko": "그 신호는 복잡한 메커니즘을 통해 처리되었고, 고급 알고리즘이 여러 단계를 통해 입력을 분석하고 변환했으며, 각 단계는 특정 정보를 추출하고 추가 분석이나 응용을 위해 데이터를 준비하도록 설계되었습니다."
+          },
+          {
+            "sentence": "The information reached the destination via multiple pathway, with the system routing the data through various networks and nodes to ensure reliability and redundancy, creating a robust communication infrastructure that could adapt to changing conditions and maintain connectivity even if individual routes failed.",
+            "meaning_ko": "그 정보는 여러 경로를 통해 목적지에 도달했고, 그 시스템이 데이터를 다양한 네트워크와 노드를 통해 라우팅하여 신뢰성과 중복을 보장했으며, 개별 경로가 실패하더라도 변화하는 조건에 적응하고 연결성을 유지할 수 있는 견고한 통신 인프라를 만들었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "via는 '~을 통해, ~을 경유하여' 또는 '~에 의해, ~로 인해' 의미로, 어떤 경로나 수단을 통해를 가리킵니다. through, by와 비슷하지만 더 간결한 표현입니다. via email, via phone 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: via = (A) against (B) through or by (C) without (D) despite",
+            "a": "B",
+            "meaning_ko": "via는 '~을 통해 또는 ~에 의해' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She sent the message _____ email.",
+            "a": "via",
+            "meaning_ko": "via는 '~을 통해' 의미입니다."
+          },
+          {
+            "q": "Which is similar to via? (A) against (B) through (C) without (D) despite",
+            "a": "B",
+            "meaning_ko": "through(~을 통해)가 via와 유사합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: He traveled _____ train. (A) via (B) vias (C) via's (D) viaed",
+            "a": "A",
+            "meaning_ko": "전치사 via가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: via = (A) against (B) through (C) without (D) despite",
+            "a": "B",
+            "meaning_ko": "through(~을 통해)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She sent the message vias email.' → Fix the sentence.",
+            "a": "She sent the message via email.",
+            "meaning_ko": "via는 전치사로 형태 변화가 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She sent the message via email.'",
+            "a": "She delivered the message through the email system, using electronic mail as the method of transmission to send the information from one location to another, allowing for quick and efficient communication.",
+            "meaning_ko": "via는 '~을 통해' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They communicated _____ phone. (A) via (B) vias (C) via's (D) viaed",
+            "a": "A",
+            "meaning_ko": "전치사 via가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses via most appropriately? (A) The via ran. (B) She sent the message via email. (C) She via smiled. (D) Via is good.",
+            "a": "B",
+            "meaning_ko": "via는 전치사로 '~을 통해'를 의미하며, 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "shield",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "방패, 보호막; 공격이나 위험으로부터 보호하는 물체.",
+        "note": "공격이나 위험으로부터 보호하는 물체를 가리킵니다."
+      },
+      {
+        "definition_ko": "보호하다, 막다; 공격이나 위험으로부터 보호하거나 막다.",
+        "note": "공격이나 위험으로부터 보호하거나 막는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "공격이나 위험으로부터 보호하는 방패, 또는 공격이나 위험으로부터 보호하거나 막는 것.",
+    "etymology": "고대 영어 scield(방패)에서 유래했으며, 원래는 '방패' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래는 '방패' 의미였고, 현대에는 '보호하다, 막다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로 자주 사용되며, shield 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, shield + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터 보호하다",
+        "example": "shield from danger"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대항하여 보호하다",
+        "example": "shield against attack"
+      }
+    ],
+    "requiredComplements": [
+      "shield : 방패/보호막",
+      "shield + 명사 : ~을 보호하다",
+      "shield from + 명사 : ~로부터 보호하다",
+      "shield against + 명사 : ~에 대항하여 보호하다"
+    ],
+    "morphology": "고대 영어 scield에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "shielded",
+        "meaning_ko": "보호된(과거분사/형용사)"
+      },
+      {
+        "word": "shielding",
+        "meaning_ko": "보호하는(현재분사/형용사)"
+      },
+      {
+        "word": "shielder",
+        "meaning_ko": "보호자"
+      }
+    ],
+    "related": [
+      {
+        "word": "protect",
+        "meaning_ko": "보호하다"
+      },
+      {
+        "word": "defend",
+        "meaning_ko": "방어하다"
+      },
+      {
+        "word": "guard",
+        "meaning_ko": "지키다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "protect",
+        "meaning_ko": "보호하다"
+      },
+      {
+        "word": "defend",
+        "meaning_ko": "방어하다"
+      },
+      {
+        "word": "guard",
+        "meaning_ko": "지키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "shelter",
+        "meaning_ko": "피난처(범위가 더 넓음)"
+      },
+      {
+        "word": "cover",
+        "meaning_ko": "덮다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "expose",
+        "meaning_ko": "노출시키다"
+      },
+      {
+        "word": "reveal",
+        "meaning_ko": "드러내다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "shield from",
+            "meaning_ko": "~로부터 보호하다"
+          },
+          {
+            "phrase": "shield against",
+            "meaning_ko": "~에 대항하여 보호하다"
+          },
+          {
+            "phrase": "protective shield",
+            "meaning_ko": "보호막"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "shield from danger",
+            "meaning_ko": "위험으로부터 보호하다"
+          },
+          {
+            "phrase": "shield against attack",
+            "meaning_ko": "공격에 대항하여 보호하다"
+          },
+          {
+            "phrase": "human shield",
+            "meaning_ko": "인간 방패"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "shield mechanism",
+            "meaning_ko": "보호 메커니즘"
+          },
+          {
+            "phrase": "shield system",
+            "meaning_ko": "보호 시스템"
+          },
+          {
+            "phrase": "shield technology",
+            "meaning_ko": "보호 기술"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He used a shield for protection.",
+            "meaning_ko": "그는 보호를 위해 방패를 사용했습니다."
+          },
+          {
+            "sentence": "She shielded him from danger.",
+            "meaning_ko": "그녀는 그를 위험으로부터 보호했습니다."
+          },
+          {
+            "sentence": "The shield blocked the attack.",
+            "meaning_ko": "그 방패는 그 공격을 막았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He used a shield for protection, holding the defensive equipment to block incoming attacks and provide a barrier between himself and potential threats, demonstrating the importance of defensive tools in combat situations.",
+            "meaning_ko": "그는 보호를 위해 방패를 사용했고, 그 방어 장비를 잡아 들어오는 공격을 막고 자신과 잠재적 위협 사이에 장벽을 제공했으며, 전투 상황에서 방어 도구의 중요성을 보여주었습니다."
+          },
+          {
+            "sentence": "She shielded him from danger, positioning herself between him and the threat to absorb or deflect harm, putting her own safety at risk to ensure his protection and demonstrating selfless courage.",
+            "meaning_ko": "그녀는 그를 위험으로부터 보호했고, 자신을 그와 그 위협 사이에 배치하여 해를 흡수하거나 빗나가게 했으며, 그의 보호를 보장하고 이타적인 용기를 보여주기 위해 자신의 안전을 위험에 빠뜨렸습니다."
+          },
+          {
+            "sentence": "The shield blocked the attack, with the defensive barrier absorbing the impact and preventing damage, though the force of the strike tested the shield's durability and effectiveness.",
+            "meaning_ko": "그 방패는 그 공격을 막았고, 그 방어 장벽이 그 충격을 흡수하고 피해를 방지했지만, 그 타격의 힘이 그 방패의 내구성과 효과를 시험했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The shield mechanism activated automatically when threats were detected, with sensors identifying potential dangers and deploying protective barriers that could absorb or deflect various types of attacks, creating a comprehensive defense system that operated without human intervention.",
+            "meaning_ko": "그 보호 메커니즘이 위협이 감지되었을 때 자동으로 활성화되었고, 센서가 잠재적 위험을 식별하고 다양한 유형의 공격을 흡수하거나 빗나가게 할 수 있는 보호 장벽을 배치했으며, 인간 개입 없이 작동하는 포괄적 방어 시스템을 만들었습니다."
+          },
+          {
+            "sentence": "The shield system integrated multiple layers of protection, with each component designed to address specific types of threats, creating a comprehensive defense network that could adapt to changing conditions and provide reliable coverage against various forms of attack.",
+            "meaning_ko": "그 보호 시스템은 여러 층의 보호를 통합했고, 각 구성 요소가 특정 유형의 위협을 다루도록 설계되었으며, 변화하는 조건에 적응하고 다양한 형태의 공격에 대해 신뢰할 수 있는 커버리지를 제공할 수 있는 포괄적 방어 네트워크를 만들었습니다."
+          },
+          {
+            "sentence": "The shield technology represented a breakthrough in defensive capabilities, with advanced materials and engineering creating barriers that could withstand extreme forces while remaining lightweight and practical, revolutionizing how protection was provided in both military and civilian applications.",
+            "meaning_ko": "그 보호 기술은 방어 능력에서 돌파구를 나타냈고, 고급 재료와 공학이 가볍고 실용적인 상태로 남아있으면서 극단적인 힘을 견딜 수 있는 장벽을 만들었으며, 군사 및 민간 응용에서 보호가 제공되는 방식을 혁신했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "shield는 '방패, 보호막' 또는 '보호하다, 막다' 의미로, 공격이나 위험으로부터 보호하는 물체를 가리킵니다. protect, defend와 비슷하지만 더 물리적 뉘앙스가 있습니다. shield from ~, shield against ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "방어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: shield = (A) expose (B) protect or defend (C) reveal (D) uncover",
+            "a": "B",
+            "meaning_ko": "shield는 '보호하다 또는 방어하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He used a _____ for protection.",
+            "a": "shield",
+            "meaning_ko": "shield는 '방패'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of shield? (A) protect (B) defend (C) expose (D) guard",
+            "a": "C",
+            "meaning_ko": "expose(노출시키다)가 shield의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: shield _____ danger. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "shield from ~는 '~로부터 보호하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: shield = (A) expose (B) protect (C) reveal (D) uncover",
+            "a": "B",
+            "meaning_ko": "protect(보호하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She shielded him at danger.' → Fix the preposition.",
+            "a": "She shielded him from danger.",
+            "meaning_ko": "shield from ~는 '~로부터 보호하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She shielded him from danger.'",
+            "a": "She protected him from harm, positioning herself or using protective measures to create a barrier between him and potential threats, ensuring his safety by absorbing or deflecting danger.",
+            "meaning_ko": "shield는 '보호하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ blocked the attack. (A) shield (B) shields (C) shield's (D) shielded",
+            "a": "A",
+            "meaning_ko": "명사 shield가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses shield most appropriately? (A) The shield ran. (B) She shielded him from danger. (C) She shield smiled. (D) Shield is good.",
+            "a": "B",
+            "meaning_ko": "shield는 동사로 '보호하다'를 의미하며, from과 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "intermission",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "막간, 중간 휴식; 공연이나 활동 사이의 휴식 시간.",
+        "note": "공연이나 활동 사이의 휴식 시간을 가리킵니다."
+      },
+      {
+        "definition_ko": "중단, 일시 중지; 일시적으로 중단되거나 멈추는 것.",
+        "note": "일시적으로 중단되거나 멈추는 것을 가리킵니다."
+      }
+    ],
+    "concept": "공연이나 활동 사이의 휴식 시간인 막간, 또는 일시적으로 중단되거나 멈추는 중단.",
+    "etymology": "라틴어 intermissio(중단)에서 유래했으며, inter-(사이) + mittere(보내다)의 조합입니다.",
+    "semanticExtension": "원래는 '중단' 의미였고, 현대에는 '공연이나 활동 사이의 휴식 시간'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 공연과 엔터테인먼트 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사로 쓰이며, intermission 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "during",
+        "meaning_ko": "막간 동안",
+        "example": "during intermission"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "막간에",
+        "example": "at intermission"
+      }
+    ],
+    "requiredComplements": [
+      "intermission : 막간/중단",
+      "during intermission : 막간 동안",
+      "at intermission : 막간에"
+    ],
+    "morphology": "inter-(사이) + mission(보내기)의 조합으로, '사이에 보내는 것' 즉 '중단' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "intermit",
+        "meaning_ko": "중단하다"
+      },
+      {
+        "word": "intermittent",
+        "meaning_ko": "간헐적인"
+      }
+    ],
+    "related": [
+      {
+        "word": "break",
+        "meaning_ko": "휴식"
+      },
+      {
+        "word": "pause",
+        "meaning_ko": "일시 정지"
+      },
+      {
+        "word": "interval",
+        "meaning_ko": "간격"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "break",
+        "meaning_ko": "휴식"
+      },
+      {
+        "word": "pause",
+        "meaning_ko": "일시 정지"
+      },
+      {
+        "word": "interval",
+        "meaning_ko": "간격"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "recess",
+        "meaning_ko": "휴식(범위가 더 넓음)"
+      },
+      {
+        "word": "respite",
+        "meaning_ko": "휴식"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "continuation",
+        "meaning_ko": "계속"
+      },
+      {
+        "word": "resumption",
+        "meaning_ko": "재개"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "during intermission",
+            "meaning_ko": "막간 동안"
+          },
+          {
+            "phrase": "at intermission",
+            "meaning_ko": "막간에"
+          },
+          {
+            "phrase": "intermission break",
+            "meaning_ko": "막간 휴식"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "theater intermission",
+            "meaning_ko": "극장 막간"
+          },
+          {
+            "phrase": "intermission period",
+            "meaning_ko": "막간 기간"
+          },
+          {
+            "phrase": "brief intermission",
+            "meaning_ko": "짧은 막간"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "intermission activities",
+            "meaning_ko": "막간 활동"
+          },
+          {
+            "phrase": "intermission duration",
+            "meaning_ko": "막간 지속 시간"
+          },
+          {
+            "phrase": "intermission schedule",
+            "meaning_ko": "막간 일정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "There was an intermission during the play.",
+            "meaning_ko": "그 연극 중에 막간이 있었습니다."
+          },
+          {
+            "sentence": "They returned after the intermission.",
+            "meaning_ko": "그들은 막간 후에 돌아왔습니다."
+          },
+          {
+            "sentence": "The intermission lasted fifteen minutes.",
+            "meaning_ko": "그 막간은 15분 동안 지속되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "There was an intermission during the play, with the break allowing audience members to stretch their legs, use restrooms, and discuss the performance, creating a natural pause in the theatrical experience.",
+            "meaning_ko": "그 연극 중에 막간이 있었고, 그 휴식이 관객들이 다리를 펴고, 화장실을 사용하고, 그 공연에 대해 논의할 수 있게 했으며, 그 연극적 경험에서 자연스러운 일시 정지를 만들었습니다."
+          },
+          {
+            "sentence": "They returned after the intermission, resuming their seats and preparing for the second act, with the break having refreshed them and renewed their attention for the remainder of the performance.",
+            "meaning_ko": "그들은 막간 후에 돌아왔고, 그들의 좌석으로 돌아가고 두 번째 막을 위해 준비했으며, 그 휴식이 그들을 새롭게 하고 나머지 공연에 대한 그들의 주의를 새롭게 했습니다."
+          },
+          {
+            "sentence": "The intermission lasted fifteen minutes, providing sufficient time for necessary activities while also maintaining the flow of the performance, with the duration carefully planned to balance audience needs with artistic pacing.",
+            "meaning_ko": "그 막간은 15분 동안 지속되었고, 공연의 흐름을 유지하면서도 필요한 활동을 위한 충분한 시간을 제공했으며, 그 지속 시간이 관객의 필요와 예술적 속도 조절을 균형 있게 하기 위해 신중하게 계획되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The intermission activities included refreshment sales and restroom access, with the theater management organizing the break to maximize convenience for patrons while also generating revenue and ensuring smooth transitions between acts.",
+            "meaning_ko": "그 막간 활동은 간식 판매와 화장실 접근을 포함했고, 그 극장 관리가 그 휴식을 조직하여 단원들 사이의 원활한 전환을 보장하면서도 수익을 창출하고 후원자들에게 편의를 극대화했습니다."
+          },
+          {
+            "sentence": "The intermission duration was carefully calculated to allow for audience needs without disrupting the dramatic tension, with the timing balancing the practical requirements of theatergoers with the artistic integrity of the production.",
+            "meaning_ko": "그 막간 지속 시간은 극적 긴장을 방해하지 않고 관객의 필요를 허용하기 위해 신중하게 계산되었고, 그 타이밍이 그 제작의 예술적 무결성과 함께 극장 관객의 실용적 요구를 균형 있게 했습니다."
+          },
+          {
+            "sentence": "The intermission schedule was coordinated with the overall performance timing, with the break strategically placed to provide natural pauses in the narrative while also accommodating the technical needs of stage changes and equipment adjustments.",
+            "meaning_ko": "그 막간 일정은 전체 공연 타이밍과 조정되었고, 그 휴식이 무대 변경과 장비 조정의 기술적 필요를 수용하면서도 그 서사에서 자연스러운 일시 정지를 제공하기 위해 전략적으로 배치되었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "intermission는 '막간, 중간 휴식' 또는 '중단, 일시 중지' 의미로, 공연이나 활동 사이의 휴식 시간을 가리킵니다. break, pause와 비슷하지만 더 공식적 뉘앙스가 있습니다. during intermission, at intermission 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "공연",
+      "엔터테인먼트",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: intermission = (A) continuation (B) break or pause (C) resumption (D) continuation",
+            "a": "B",
+            "meaning_ko": "intermission는 '휴식 또는 일시 정지' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: There was an _____ during the play.",
+            "a": "intermission",
+            "meaning_ko": "intermission는 '막간'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of intermission? (A) break (B) pause (C) continuation (D) interval",
+            "a": "C",
+            "meaning_ko": "continuation(계속)이 intermission의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: _____ intermission. (A) during (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "during intermission는 '막간 동안' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: intermission = (A) continuation (B) break (C) resumption (D) continuation",
+            "a": "B",
+            "meaning_ko": "break(휴식)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They returned after the intermissions.' → Fix the sentence if needed.",
+            "a": "They returned after the intermission.",
+            "meaning_ko": "단수형 intermission가 더 자연스럽습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'There was an intermission during the play.'",
+            "a": "A break occurred in the middle of the performance, providing a pause in the theatrical presentation that allowed audience members to rest, refresh themselves, and prepare for the continuation of the show.",
+            "meaning_ko": "intermission는 '막간'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ lasted fifteen minutes. (A) intermission (B) intermissions (C) intermission's (D) intermissive",
+            "a": "A",
+            "meaning_ko": "명사 intermission가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses intermission most appropriately? (A) The intermission ran. (B) There was an intermission during the play. (C) She intermission smiled. (D) Intermission is good.",
+            "a": "B",
+            "meaning_ko": "intermission는 명사로 '막간'을 의미하며, 공연 중 휴식을 나타낼 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

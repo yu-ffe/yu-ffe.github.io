@@ -1,0 +1,779 @@
+[
+  {
+    "word": "enact",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "제정하다, 법률로 만들다; 법률이나 규정을 제정하거나 법률로 만들다.",
+        "note": "법률이나 규정을 제정하거나 법률로 만드는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "연기하다, 상연하다; 연극이나 장면을 연기하거나 상연하다.",
+        "note": "연극이나 장면을 연기하거나 상연하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "법률이나 규정을 제정하거나 법률로 만드는 것, 또는 연극이나 장면을 연기하거나 상연하는 것.",
+    "etymology": "라틴어 inactare(행동하다)에서 유래했으며, 원래는 '행동하다' 의미였으나 현대에는 '제정하다' 또는 '연기하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '행동하다' 의미였으나, 현대에는 '법률이나 규정을 제정하다' 또는 '연극이나 장면을 연기하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 쓰이며, enact + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "enact + 명사 : ~을 제정하다/연기하다"
+    ],
+    "morphology": "라틴어 inactare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "enactment",
+        "meaning_ko": "제정"
+      },
+      {
+        "word": "enacted",
+        "meaning_ko": "제정된(과거분사/형용사)"
+      },
+      {
+        "word": "enacting",
+        "meaning_ko": "제정하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "pass",
+        "meaning_ko": "통과시키다"
+      },
+      {
+        "word": "establish",
+        "meaning_ko": "설립하다"
+      },
+      {
+        "word": "perform",
+        "meaning_ko": "연기하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "pass",
+        "meaning_ko": "통과시키다"
+      },
+      {
+        "word": "establish",
+        "meaning_ko": "설립하다"
+      },
+      {
+        "word": "perform",
+        "meaning_ko": "연기하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "create",
+        "meaning_ko": "만들다(범위가 더 넓음)"
+      },
+      {
+        "word": "implement",
+        "meaning_ko": "구현하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "repeal",
+        "meaning_ko": "폐지하다"
+      },
+      {
+        "word": "abolish",
+        "meaning_ko": "폐지하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "enact a law",
+            "meaning_ko": "법률을 제정하다"
+          },
+          {
+            "phrase": "enact legislation",
+            "meaning_ko": "법률을 제정하다"
+          },
+          {
+            "phrase": "enact a scene",
+            "meaning_ko": "장면을 연기하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "enact a policy",
+            "meaning_ko": "정책을 제정하다"
+          },
+          {
+            "phrase": "enact reforms",
+            "meaning_ko": "개혁을 제정하다"
+          },
+          {
+            "phrase": "enact regulations",
+            "meaning_ko": "규정을 제정하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "enact measures",
+            "meaning_ko": "조치를 제정하다"
+          },
+          {
+            "phrase": "enact changes",
+            "meaning_ko": "변화를 제정하다"
+          },
+          {
+            "phrase": "enact provisions",
+            "meaning_ko": "조항을 제정하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The government enacted a new law.",
+            "meaning_ko": "그 정부는 새로운 법률을 제정했습니다."
+          },
+          {
+            "sentence": "They enacted legislation to protect the environment.",
+            "meaning_ko": "그들은 환경을 보호하기 위해 법률을 제정했습니다."
+          },
+          {
+            "sentence": "The actors enacted the scene beautifully.",
+            "meaning_ko": "그 배우들은 그 장면을 아름답게 연기했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The government enacted a new law to address the growing concerns about data privacy, establishing regulations that would protect consumers and hold companies accountable for how they handle personal information.",
+            "meaning_ko": "그 정부는 데이터 프라이버시에 대한 증가하는 우려를 다루기 위해 새로운 법률을 제정했고, 소비자를 보호하고 회사들이 개인 정보를 처리하는 방식에 대해 책임을 지도록 하는 규정을 수립했습니다."
+          },
+          {
+            "sentence": "They enacted legislation to protect the environment, creating comprehensive policies that addressed pollution, conservation, and sustainable development, though implementation would require cooperation from multiple sectors.",
+            "meaning_ko": "그들은 환경을 보호하기 위해 법률을 제정했고, 오염, 보존, 지속 가능한 개발을 다루는 포괄적 정책을 만들었지만, 구현은 여러 부문의 협력이 필요할 것입니다."
+          },
+          {
+            "sentence": "The actors enacted the scene beautifully, bringing the characters to life with emotional depth and authenticity that resonated with the audience and demonstrated their skill in dramatic interpretation.",
+            "meaning_ko": "그 배우들은 그 장면을 아름답게 연기했고, 관중과 공명하고 극적 해석에서 그들의 기술을 보여준 감정적 깊이와 진정성으로 캐릭터를 생생하게 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The legislature enacted measures to address the economic crisis, implementing a series of policies designed to stimulate growth, support vulnerable populations, and stabilize financial markets, though the effectiveness of these interventions would be subject to ongoing evaluation.",
+            "meaning_ko": "그 입법부는 그 경제 위기를 다루기 위해 조치를 제정했고, 성장을 자극하고, 취약한 인구를 지원하고, 금융 시장을 안정화하도록 설계된 일련의 정책을 구현했지만, 이러한 개입의 효과는 지속적인 평가의 대상이 될 것입니다."
+          },
+          {
+            "sentence": "The parliament enacted changes to the electoral system after extensive debate and consultation, with the reforms intended to increase transparency, reduce corruption, and ensure fair representation, though critics argued that the changes did not go far enough.",
+            "meaning_ko": "그 의회는 광범위한 논쟁과 협의 후에 선거 시스템에 대한 변화를 제정했고, 그 개혁이 투명성을 증가시키고, 부패를 줄이고, 공정한 대표를 보장하기 위한 것이었지만, 비평가들은 그 변화가 충분하지 않다고 주장했습니다."
+          },
+          {
+            "sentence": "The regulatory body enacted provisions to strengthen oversight of financial institutions, responding to concerns about systemic risks and the need for greater accountability in the banking sector, with the new rules requiring more rigorous reporting and compliance standards.",
+            "meaning_ko": "그 규제 기관은 금융 기관의 감독을 강화하기 위해 조항을 제정했고, 체계적 위험에 대한 우려와 은행 부문에서 더 큰 책임의 필요성에 대응했고, 새로운 규칙이 더 엄격한 보고와 규정 준수 기준을 요구했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "enact는 '제정하다, 법률로 만들다' 또는 '연기하다, 상연하다' 의미로, 법률이나 규정을 제정하거나 법률로 만드는 행동을 가리킵니다. pass, establish와 비슷하지만 더 공식적 뉘앙스가 있습니다. enact a law, enact legislation 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "법률",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: enact = (A) repeal (B) pass or establish a law (C) abolish (D) cancel",
+            "a": "B",
+            "meaning_ko": "enact는 '법률을 통과시키거나 수립하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The government _____ a new law.",
+            "a": "enacted",
+            "meaning_ko": "enact는 '제정하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of enact (meaning to pass a law)? (A) pass (B) establish (C) repeal (D) perform",
+            "a": "C",
+            "meaning_ko": "repeal(폐지하다)가 enact(제정하다)의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They _____ legislation to protect the environment. (A) enact (B) enacts (C) enacting (D) enacted",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 enact가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: enact = (A) repeal (B) pass (C) abolish (D) cancel",
+            "a": "B",
+            "meaning_ko": "pass(통과시키다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They enacts legislation to protect the environment.' → Fix the sentence.",
+            "a": "They enact legislation to protect the environment.",
+            "meaning_ko": "복수 주어에서 동사 원형 enact가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The government enacted a new law.'",
+            "a": "The governing body officially passed and established a new piece of legislation, making it legally binding and enforceable, following the proper legislative process and procedures.",
+            "meaning_ko": "enact a law는 '법률을 제정하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The government _____ a new law. (A) enact (B) enacts (C) enacting (D) enacted",
+            "a": "B",
+            "meaning_ko": "단수 주어에서 동사 3인칭 단수형 enacts가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses enact most appropriately? (A) The enact ran. (B) The government enacted a new law. (C) She enact smiled. (D) Enact is good.",
+            "a": "B",
+            "meaning_ko": "enact는 타동사로 '~을 제정하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "middle-of-the-road",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "중도적인, 중립적인; 극단을 피하고 중도적인 입장을 취하는.",
+        "note": "극단을 피하고 중도적인 입장을 취하는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "극단을 피하고 중도적인 입장을 취하는 중도적인 상태.",
+    "etymology": "middle(중간) + of + the + road(도로)의 결합으로, 원래는 '도로의 중간' 의미였으나 현대에는 '중도적인'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '도로의 중간' 의미였으나, 현대에는 '극단을 피하고 중도적인 입장을 취하는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be middle-of-the-road 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be middle-of-the-road : 중도적이다",
+      "middle-of-the-road + 명사 : 중도적인 ~"
+    ],
+    "morphology": "middle(중간) + of + the + road(도로)의 결합으로, '도로의 중간'에서 '중도적인'으로 확장되었습니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "moderate",
+        "meaning_ko": "중도적인"
+      },
+      {
+        "word": "centrist",
+        "meaning_ko": "중도주의자"
+      },
+      {
+        "word": "neutral",
+        "meaning_ko": "중립적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "moderate",
+        "meaning_ko": "중도적인"
+      },
+      {
+        "word": "centrist",
+        "meaning_ko": "중도주의자"
+      },
+      {
+        "word": "neutral",
+        "meaning_ko": "중립적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "balanced",
+        "meaning_ko": "균형 잡힌(범위가 더 넓음)"
+      },
+      {
+        "word": "compromising",
+        "meaning_ko": "타협하는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "extreme",
+        "meaning_ko": "극단적인"
+      },
+      {
+        "word": "radical",
+        "meaning_ko": "급진적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "middle-of-the-road approach",
+            "meaning_ko": "중도적인 접근"
+          },
+          {
+            "phrase": "middle-of-the-road policy",
+            "meaning_ko": "중도적인 정책"
+          },
+          {
+            "phrase": "middle-of-the-road position",
+            "meaning_ko": "중도적인 입장"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "middle-of-the-road candidate",
+            "meaning_ko": "중도적인 후보"
+          },
+          {
+            "phrase": "middle-of-the-road solution",
+            "meaning_ko": "중도적인 해결책"
+          },
+          {
+            "phrase": "middle-of-the-road stance",
+            "meaning_ko": "중도적인 입장"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "middle-of-the-road strategy",
+            "meaning_ko": "중도적인 전략"
+          },
+          {
+            "phrase": "middle-of-the-road perspective",
+            "meaning_ko": "중도적인 관점"
+          },
+          {
+            "phrase": "middle-of-the-road compromise",
+            "meaning_ko": "중도적인 타협"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He took a middle-of-the-road approach to the issue.",
+            "meaning_ko": "그는 그 문제에 대해 중도적인 접근을 취했습니다."
+          },
+          {
+            "sentence": "The candidate had a middle-of-the-road position.",
+            "meaning_ko": "그 후보는 중도적인 입장을 가지고 있었습니다."
+          },
+          {
+            "sentence": "They preferred a middle-of-the-road solution.",
+            "meaning_ko": "그들은 중도적인 해결책을 선호했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He took a middle-of-the-road approach to the issue, avoiding extreme positions and seeking a balanced solution that could appeal to different groups while maintaining core principles.",
+            "meaning_ko": "그는 그 문제에 대해 중도적인 접근을 취했고, 극단적 입장을 피하고 핵심 원칙을 유지하면서 다른 그룹에 어필할 수 있는 균형 잡힌 해결책을 추구했습니다."
+          },
+          {
+            "sentence": "The candidate had a middle-of-the-road position, which appealed to voters who were tired of partisan politics and wanted pragmatic solutions that addressed real problems without ideological extremes.",
+            "meaning_ko": "그 후보는 중도적인 입장을 가지고 있었고, 이것은 당파적 정치에 지친 유권자들과 이데올로기적 극단 없이 실제 문제를 다루는 실용적 해결책을 원하는 유권자들에게 어필했습니다."
+          },
+          {
+            "sentence": "They preferred a middle-of-the-road solution, believing that compromise and moderation would be more effective than taking rigid positions that could alienate potential supporters.",
+            "meaning_ko": "그들은 중도적인 해결책을 선호했고, 타협과 절제가 잠재적 지지자들을 소외시킬 수 있는 경직된 입장을 취하는 것보다 더 효과적일 것이라고 믿었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The party's middle-of-the-road strategy was designed to broaden its appeal beyond traditional bases, positioning itself as a pragmatic alternative that could work with different factions and find common ground on divisive issues.",
+            "meaning_ko": "그 당의 중도적인 전략은 전통적 기반을 넘어 그 어필을 넓히도록 설계되었고, 다른 파벌과 협력할 수 있고 분열적인 문제에서 공통점을 찾을 수 있는 실용적 대안으로 자신을 위치시켰습니다."
+          },
+          {
+            "sentence": "The diplomat's middle-of-the-road perspective enabled successful negotiations, as her ability to understand and respect different viewpoints while maintaining core objectives helped bridge gaps between conflicting parties.",
+            "meaning_ko": "그 외교관의 중도적인 관점은 성공적인 협상을 가능하게 했고, 그녀가 핵심 목표를 유지하면서 다른 관점을 이해하고 존중하는 능력이 충돌하는 당사자들 사이의 격차를 메우는 데 도움이 되었기 때문입니다."
+          },
+          {
+            "sentence": "The committee reached a middle-of-the-road compromise that satisfied neither side completely but provided a workable solution that all parties could accept, demonstrating the value of moderation in resolving complex disputes.",
+            "meaning_ko": "그 위원회는 양쪽을 완전히 만족시키지는 않았지만 모든 당사자가 수용할 수 있는 실행 가능한 해결책을 제공한 중도적인 타협에 도달했고, 복잡한 분쟁을 해결하는 데 절제의 가치를 보여줬습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "middle-of-the-road는 '중도적인, 중립적인' 의미로, 극단을 피하고 중도적인 입장을 취하는 상태를 가리킵니다. moderate, centrist와 비슷하지만 더 일상적 표현입니다. middle-of-the-road approach, middle-of-the-road position 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "정치",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: middle-of-the-road = (A) extreme (B) moderate or centrist (C) radical (D) partisan",
+            "a": "B",
+            "meaning_ko": "middle-of-the-road는 '중도적인 또는 중도주의자의' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He took a _____ approach to the issue.",
+            "a": "middle-of-the-road",
+            "meaning_ko": "middle-of-the-road는 '중도적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of middle-of-the-road? (A) moderate (B) centrist (C) extreme (D) neutral",
+            "a": "C",
+            "meaning_ko": "extreme(극단적인)가 middle-of-the-road의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The candidate had a _____ position. (A) middle-of-the-road (B) middle-of-the-roads (C) middle-of-the-roading (D) middle-of-the-roaded",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 middle-of-the-road가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: middle-of-the-road = (A) extreme (B) moderate (C) radical (D) partisan",
+            "a": "B",
+            "meaning_ko": "moderate(중도적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The candidate had a middle-of-the-roads position.' → Fix the sentence.",
+            "a": "The candidate had a middle-of-the-road position.",
+            "meaning_ko": "명사를 수식하는 형용사 middle-of-the-road가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He took a middle-of-the-road approach to the issue.'",
+            "a": "He adopted a moderate and balanced position that avoided extreme viewpoints, seeking a compromise solution that could accommodate different perspectives while maintaining a centrist stance that appealed to a broad range of stakeholders.",
+            "meaning_ko": "middle-of-the-road approach는 '중도적인 접근'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They preferred a _____ solution. (A) middle-of-the-road (B) middle-of-the-roads (C) middle-of-the-roading (D) middle-of-the-roaded",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 middle-of-the-road가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses middle-of-the-road most appropriately? (A) The middle-of-the-road ran. (B) He took a middle-of-the-road approach. (C) She middle-of-the-road smiled. (D) Middle-of-the-road is good.",
+            "a": "B",
+            "meaning_ko": "middle-of-the-road는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "outcast",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "추방자, 버림받은 사람; 사회나 그룹에서 추방되거나 버림받은 사람.",
+        "note": "사회나 그룹에서 추방되거나 버림받은 사람을 가리킵니다."
+      },
+      {
+        "definition_ko": "추방된, 버림받은; 사회나 그룹에서 추방되거나 버림받은.",
+        "note": "사회나 그룹에서 추방되거나 버림받은 상태를 가리킵니다."
+      }
+    ],
+    "concept": "사회나 그룹에서 추방되거나 버림받은 사람, 또는 사회나 그룹에서 추방되거나 버림받은 상태.",
+    "etymology": "out(밖으로) + cast(던진)의 결합으로, 원래는 '밖으로 던진' 의미였으나 현대에는 '추방자'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '밖으로 던진' 의미였으나, 현대에는 '사회나 그룹에서 추방되거나 버림받은 사람'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로, 형용사로는 명사를 수식하거나 서술어로 쓰이며, an outcast, outcasts 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~에서 추방된",
+        "example": "outcast from society"
+      }
+    ],
+    "requiredComplements": [
+      "outcast from + 명사 : ~에서 추방된 사람",
+      "an outcast : 추방자"
+    ],
+    "morphology": "out(밖으로) + cast(던진)의 결합으로, '밖으로 던진'에서 '추방자'로 확장되었습니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "exile",
+        "meaning_ko": "추방자"
+      },
+      {
+        "word": "pariah",
+        "meaning_ko": "추방자"
+      },
+      {
+        "word": "reject",
+        "meaning_ko": "거부된 사람"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "exile",
+        "meaning_ko": "추방자"
+      },
+      {
+        "word": "pariah",
+        "meaning_ko": "추방자"
+      },
+      {
+        "word": "reject",
+        "meaning_ko": "거부된 사람"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "outsider",
+        "meaning_ko": "외부인(범위가 더 넓음)"
+      },
+      {
+        "word": "misfit",
+        "meaning_ko": "부적응자"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insider",
+        "meaning_ko": "내부인"
+      },
+      {
+        "word": "member",
+        "meaning_ko": "구성원"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "outcast from",
+            "meaning_ko": "~에서 추방된 사람"
+          },
+          {
+            "phrase": "social outcast",
+            "meaning_ko": "사회적 추방자"
+          },
+          {
+            "phrase": "become an outcast",
+            "meaning_ko": "추방자가 되다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "outcast from society",
+            "meaning_ko": "사회에서 추방된 사람"
+          },
+          {
+            "phrase": "outcast from the group",
+            "meaning_ko": "그룹에서 추방된 사람"
+          },
+          {
+            "phrase": "feel like an outcast",
+            "meaning_ko": "추방자처럼 느끼다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "outcast from the community",
+            "meaning_ko": "커뮤니티에서 추방된 사람"
+          },
+          {
+            "phrase": "outcast status",
+            "meaning_ko": "추방자 지위"
+          },
+          {
+            "phrase": "outcast existence",
+            "meaning_ko": "추방자 존재"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He became an outcast from society.",
+            "meaning_ko": "그는 사회에서 추방자가 되었습니다."
+          },
+          {
+            "sentence": "She felt like an outcast at school.",
+            "meaning_ko": "그녀는 학교에서 추방자처럼 느꼈습니다."
+          },
+          {
+            "sentence": "The outcast was shunned by everyone.",
+            "meaning_ko": "그 추방자는 모든 사람에게 외면당했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He became an outcast from society after his actions violated social norms, finding himself isolated and rejected by the community that had once accepted him.",
+            "meaning_ko": "그는 그의 행동이 사회적 규범을 위반한 후 사회에서 추방자가 되었고, 한때 그를 받아들였던 커뮤니티에 의해 고립되고 거부된 자신을 발견했습니다."
+          },
+          {
+            "sentence": "She felt like an outcast at school, struggling to fit in with her peers and experiencing loneliness and exclusion that made her question her sense of belonging and self-worth.",
+            "meaning_ko": "그녀는 학교에서 추방자처럼 느꼈고, 그녀의 동료들과 어울리는 데 고군분투했고 그녀의 소속감과 자존감에 의문을 제기하게 만든 고독과 배제를 경험했습니다."
+          },
+          {
+            "sentence": "The outcast was shunned by everyone, the social rejection creating a cycle of isolation and marginalization that made it increasingly difficult to reintegrate into the community.",
+            "meaning_ko": "그 추방자는 모든 사람에게 외면당했고, 그 사회적 거부가 고립과 주변화의 순환을 만들어 커뮤니티로 재통합하는 것을 점점 더 어렵게 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The outcast from the community struggled to rebuild his life, facing not only social isolation but also economic challenges and psychological trauma that resulted from years of rejection and marginalization.",
+            "meaning_ko": "그 커뮤니티에서 추방된 사람은 그의 삶을 재건하는 데 고군분투했고, 사회적 고립뿐만 아니라 수년간의 거부와 주변화로 인한 경제적 도전과 심리적 외상에 직면했습니다."
+          },
+          {
+            "sentence": "Her outcast status in the organization was the result of whistleblowing activities that exposed wrongdoing, leading to retaliation that isolated her professionally while she maintained her commitment to ethical principles.",
+            "meaning_ko": "그 조직에서 그녀의 추방자 지위는 부정 행위를 폭로한 내부고발 활동의 결과였고, 그녀가 윤리적 원칙에 대한 그녀의 헌신을 유지하면서 전문적으로 그녀를 고립시킨 보복으로 이어졌습니다."
+          },
+          {
+            "sentence": "The outcast existence of those who had been rejected by mainstream society highlighted systemic issues of discrimination and exclusion, prompting calls for social reform and greater acceptance of diversity and difference.",
+            "meaning_ko": "주류 사회에 의해 거부된 사람들의 그 추방자 존재는 차별과 배제의 체계적 문제를 강조했고, 사회 개혁과 다양성과 차이에 대한 더 큰 수용에 대한 요구를 촉진했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "outcast는 '추방자, 버림받은 사람' 또는 '추방된, 버림받은' 의미로, 사회나 그룹에서 추방되거나 버림받은 사람을 가리킵니다. exile, pariah와 비슷하지만 더 일반적 표현입니다. outcast from ~, become an outcast 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "사회",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: outcast = (A) insider (B) exile or rejected person (C) member (D) accepted person",
+            "a": "B",
+            "meaning_ko": "outcast는 '추방자 또는 거부된 사람' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He became an _____ from society.",
+            "a": "outcast",
+            "meaning_ko": "outcast는 '추방자'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of outcast? (A) exile (B) pariah (C) insider (D) reject",
+            "a": "C",
+            "meaning_ko": "insider(내부인)가 outcast의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: outcast _____ society. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "outcast from ~는 '~에서 추방된 사람' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: outcast = (A) insider (B) exile (C) member (D) accepted person",
+            "a": "B",
+            "meaning_ko": "exile(추방자)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He became an outcast on society.' → Fix the preposition.",
+            "a": "He became an outcast from society.",
+            "meaning_ko": "outcast from ~는 '~에서 추방된 사람' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He became an outcast from society.'",
+            "a": "He was rejected and excluded from the social community, losing his place and acceptance among others, which resulted in isolation and marginalization that separated him from normal social interaction and support.",
+            "meaning_ko": "outcast from ~는 '~에서 추방된 사람'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: She felt like an _____ at school. (A) outcast (B) outcasts (C) outcasting (D) outcasted",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 outcast가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses outcast most appropriately? (A) The outcast ran. (B) He became an outcast from society. (C) She outcast smiled. (D) Outcast is good.",
+            "a": "B",
+            "meaning_ko": "outcast는 명사로 '추방자'를 의미하며, from과 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

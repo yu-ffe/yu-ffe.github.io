@@ -1,0 +1,821 @@
+[
+  {
+    "word": "anecdote",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "일화, 짧은 이야기; 흥미롭거나 재미있는 실제 사건에 대한 짧은 이야기.",
+        "note": "보통 재미있거나 교훈적인 짧은 실제 이야기를 가리킵니다."
+      }
+    ],
+    "concept": "흥미롭거나 재미있는 실제 사건에 대한 짧은 이야기.",
+    "etymology": "그리스어 anekdota(공개되지 않은 것)에서 유래했으며, 원래는 '비공개 기록' 의미였으나 현대에는 '일화'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '비공개 기록' 의미였으나, 현대에는 '재미있는 짧은 실제 이야기'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사로 a/an anecdote, anecdotes 형태로 쓰입니다. 주제는 보통 about/from + 명사로 붙습니다(anecdote about someone).",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대한 일화",
+        "example": "anecdote about someone"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~에서 온 일화",
+        "example": "anecdote from history"
+      }
+    ],
+    "requiredComplements": [
+      "anecdote about/from + 명사 : ~에 대한/에서 온 일화"
+    ],
+    "morphology": "an-(없는) + ekdota(공개된 것) 계열로, 원래는 '비공개 기록' 의미였으나 현대에는 '일화'로 굳어졌습니다.",
+    "derivatives": [
+      {
+        "word": "anecdotal",
+        "meaning_ko": "일화적인"
+      },
+      {
+        "word": "anecdotally",
+        "meaning_ko": "일화적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "story",
+        "meaning_ko": "이야기"
+      },
+      {
+        "word": "tale",
+        "meaning_ko": "이야기"
+      },
+      {
+        "word": "narrative",
+        "meaning_ko": "서사"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "story",
+        "meaning_ko": "이야기"
+      },
+      {
+        "word": "tale",
+        "meaning_ko": "이야기"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "narrative",
+        "meaning_ko": "서사(범위가 더 넓음)"
+      },
+      {
+        "word": "account",
+        "meaning_ko": "기술"
+      },
+      {
+        "word": "reminiscence",
+        "meaning_ko": "회상"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fact",
+        "meaning_ko": "사실"
+      },
+      {
+        "word": "data",
+        "meaning_ko": "데이터"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "tell an anecdote",
+            "meaning_ko": "일화를 말하다"
+          },
+          {
+            "phrase": "share an anecdote",
+            "meaning_ko": "일화를 공유하다"
+          },
+          {
+            "phrase": "anecdote about",
+            "meaning_ko": "~에 대한 일화"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "personal anecdote",
+            "meaning_ko": "개인적 일화"
+          },
+          {
+            "phrase": "amusing anecdote",
+            "meaning_ko": "재미있는 일화"
+          },
+          {
+            "phrase": "historical anecdote",
+            "meaning_ko": "역사적 일화"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "anecdotal evidence",
+            "meaning_ko": "일화적 증거"
+          },
+          {
+            "phrase": "anecdote from history",
+            "meaning_ko": "역사에서 온 일화"
+          },
+          {
+            "phrase": "colorful anecdote",
+            "meaning_ko": "생생한 일화"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He told an amusing anecdote about his trip.",
+            "meaning_ko": "그는 자신의 여행에 대한 재미있는 일화를 들려줬습니다."
+          },
+          {
+            "sentence": "She shared a personal anecdote with the audience.",
+            "meaning_ko": "그녀는 청중과 개인적 일화를 공유했습니다."
+          },
+          {
+            "sentence": "The book contains many anecdotes about famous people.",
+            "meaning_ko": "그 책은 유명인들에 대한 많은 일화를 포함하고 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The speaker began with a personal anecdote to engage the audience.",
+            "meaning_ko": "연사는 청중을 끌어들이기 위해 개인적 일화로 시작했습니다."
+          },
+          {
+            "sentence": "The biography is filled with amusing anecdotes from the author's life.",
+            "meaning_ko": "그 전기는 작가의 삶에서 온 재미있는 일화로 가득합니다."
+          },
+          {
+            "sentence": "Historical anecdotes often reveal insights into past cultures.",
+            "meaning_ko": "역사적 일화는 종종 과거 문화에 대한 통찰을 드러냅니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "While anecdotal evidence can be compelling, it should be supported by systematic research.",
+            "meaning_ko": "일화적 증거는 설득력이 있을 수 있지만, 체계적인 연구로 뒷받침되어야 합니다."
+          },
+          {
+            "sentence": "The memoir weaves together colorful anecdotes from the author's travels across continents.",
+            "meaning_ko": "그 회고록은 작가가 대륙을 가로질러 여행한 생생한 일화들을 엮어냅니다."
+          },
+          {
+            "sentence": "Anecdotes from history often serve as windows into the social dynamics of bygone eras.",
+            "meaning_ko": "역사에서 온 일화는 종종 지나간 시대의 사회적 역학을 들여다보는 창이 됩니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "anecdote은 '일화, 짧은 이야기' 의미로, 재미있거나 교훈적인 실제 이야기를 가리킵니다. story, tale과 비슷하지만 더 짧고 실제 사건에 기반한 이야기라는 뉘앙스가 있습니다. anecdotal evidence(일화적 증거)는 학술 지문에서 자주 나오므로 함께 외우면 좋습니다.",
+    "tags": [
+      "이야기",
+      "일상 회화",
+      "문학",
+      "역사",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: anecdote = (A) long novel (B) short interesting story (C) poem (D) song",
+            "a": "B",
+            "meaning_ko": "anecdote은 '짧은 재미있는 이야기' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He told an amusing _____ about his trip.",
+            "a": "anecdote",
+            "meaning_ko": "anecdote은 '일화'를 의미합니다."
+          },
+          {
+            "q": "Which word is related to anecdote? (A) story (B) data (C) fact (D) number",
+            "a": "A",
+            "meaning_ko": "story(이야기)가 anecdote과 관련된 단어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: an anecdote _____ someone. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "anecdote about ~는 '~에 대한 일화' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: anecdote = (A) data (B) story (C) fact (D) number",
+            "a": "B",
+            "meaning_ko": "story(이야기)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She told anecdote about her trip.' → Fix the sentence.",
+            "a": "She told an anecdote about her trip.",
+            "meaning_ko": "anecdote은 가산명사이므로 관사 an이 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Anecdotal evidence can be compelling but needs support.'",
+            "a": "Evidence based on personal stories can be persuasive but should be backed by systematic research.",
+            "meaning_ko": "anecdotal evidence는 '일화적 증거'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The book contains many _____ about famous people. (A) anecdote (B) anecdotes (C) anecdotally (D) anecdotal",
+            "a": "B",
+            "meaning_ko": "여러 일화를 의미하므로 복수형 anecdotes가 적절합니다."
+          },
+          {
+            "q": "Which sentence uses anecdote most appropriately? (A) The anecdote ran. (B) She shared an anecdote. (C) He anecdote smiled. (D) Anecdote is good.",
+            "a": "B",
+            "meaning_ko": "anecdote은 명사로 '일화'를 의미하며, share와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sloppy",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "엉성한, 부주의한; 지저분하거나 정돈되지 않은.",
+        "note": "작업이나 외모가 부주의하고 정돈되지 않은 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "감상적인, 과도하게 감정적인.",
+        "note": "감정이 과도하게 드러나는 것을 가리킵니다."
+      }
+    ],
+    "concept": "부주의하고 정돈되지 않은 상태, 또는 과도하게 감정적인 상태.",
+    "etymology": "slop(흘리다, 더럽히다)에서 유래했으며, '흘러내린' 의미에서 '엉성한'으로 확장되었습니다.",
+    "semanticExtension": "원래는 '흘러내린' 의미였으나, 현대에는 '엉성한, 부주의한' 또는 '감상적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "구어에서 주로 쓰이며, 부정적 뉘앙스가 강합니다.",
+    "grammarNotes": "형용사로 명사를 수식하거나 서술어로 쓰입니다. 비교급은 sloppier, 최상급은 sloppiest입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "sloppy + 명사 : 엉성한 ~"
+    ],
+    "morphology": "slop-(흘리다) + -y(형용사화)로, '흘러내린' 의미에서 '엉성한'으로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "sloppily",
+        "meaning_ko": "엉성하게"
+      },
+      {
+        "word": "sloppiness",
+        "meaning_ko": "엉성함"
+      }
+    ],
+    "related": [
+      {
+        "word": "messy",
+        "meaning_ko": "지저분한"
+      },
+      {
+        "word": "careless",
+        "meaning_ko": "부주의한"
+      },
+      {
+        "word": "untidy",
+        "meaning_ko": "정돈되지 않은"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "messy",
+        "meaning_ko": "지저분한"
+      },
+      {
+        "word": "careless",
+        "meaning_ko": "부주의한"
+      },
+      {
+        "word": "untidy",
+        "meaning_ko": "정돈되지 않은"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "disorganized",
+        "meaning_ko": "체계적이지 않은"
+      },
+      {
+        "word": "slovenly",
+        "meaning_ko": "단정치 못한"
+      },
+      {
+        "word": "sentimental",
+        "meaning_ko": "감상적인(감정 의미에서)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "neat",
+        "meaning_ko": "깔끔한"
+      },
+      {
+        "word": "tidy",
+        "meaning_ko": "정돈된"
+      },
+      {
+        "word": "careful",
+        "meaning_ko": "신중한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sloppy work",
+            "meaning_ko": "엉성한 작업"
+          },
+          {
+            "phrase": "sloppy handwriting",
+            "meaning_ko": "엉성한 필기"
+          },
+          {
+            "phrase": "sloppy appearance",
+            "meaning_ko": "단정치 못한 외모"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sloppy writing",
+            "meaning_ko": "엉성한 글쓰기"
+          },
+          {
+            "phrase": "sloppy research",
+            "meaning_ko": "부주의한 연구"
+          },
+          {
+            "phrase": "sloppy kiss",
+            "meaning_ko": "과도하게 감정적인 키스"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sloppy methodology",
+            "meaning_ko": "엉성한 방법론"
+          },
+          {
+            "phrase": "sloppy sentimentality",
+            "meaning_ko": "과도한 감상주의"
+          },
+          {
+            "phrase": "sloppy execution",
+            "meaning_ko": "부주의한 실행"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His sloppy handwriting was hard to read.",
+            "meaning_ko": "그의 엉성한 필기는 읽기 어려웠습니다."
+          },
+          {
+            "sentence": "She was criticized for her sloppy work.",
+            "meaning_ko": "그녀는 엉성한 작업 때문에 비판받았습니다."
+          },
+          {
+            "sentence": "The room looked sloppy and untidy.",
+            "meaning_ko": "방은 엉성하고 정돈되지 않아 보였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The sloppy writing contained many errors.",
+            "meaning_ko": "엉성한 글쓰기에는 많은 오류가 포함되어 있었습니다."
+          },
+          {
+            "sentence": "The researcher was criticized for sloppy methodology.",
+            "meaning_ko": "그 연구자는 엉성한 방법론 때문에 비판받았습니다."
+          },
+          {
+            "sentence": "The movie was criticized for its sloppy sentimentality.",
+            "meaning_ko": "그 영화는 과도한 감상주의 때문에 비판받았습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sloppy execution of the project led to significant delays and cost overruns.",
+            "meaning_ko": "프로젝트의 부주의한 실행은 상당한 지연과 비용 초과로 이어졌습니다."
+          },
+          {
+            "sentence": "Critics dismissed the study as sloppy research with methodological flaws.",
+            "meaning_ko": "비평가들은 그 연구를 방법론적 결함이 있는 엉성한 연구로 치부했습니다."
+          },
+          {
+            "sentence": "The sloppy sentimentality of the novel undermined its literary merit.",
+            "meaning_ko": "그 소설의 과도한 감상주의는 그 문학적 가치를 훼손했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sloppy은 '엉성한, 부주의한' 의미로, 작업이나 외모가 정돈되지 않은 상태를 가리킵니다. messy, careless와 비슷하지만 더 구어적 표현입니다. '감상적인' 의미도 있으므로 문맥에 따라 해석이 달라집니다. 부정적 뉘앙스가 강하므로 비판하는 문맥에서 자주 나옵니다.",
+    "tags": [
+      "부정",
+      "구어",
+      "일상 회화",
+      "비판",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sloppy = (A) neat (B) careless and messy (C) careful (D) tidy",
+            "a": "B",
+            "meaning_ko": "sloppy은 '부주의하고 지저분한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: His _____ handwriting was hard to read.",
+            "a": "sloppy",
+            "meaning_ko": "sloppy은 '엉성한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of sloppy? (A) messy (B) neat (C) careless (D) untidy",
+            "a": "B",
+            "meaning_ko": "neat(깔끔한)이 sloppy의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ work contained many errors. (A) sloppy (B) sloppily (C) sloppiness (D) slop",
+            "a": "A",
+            "meaning_ko": "work를 수식하는 형용사 sloppy가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: sloppy = (A) neat (B) messy (C) careful (D) tidy",
+            "a": "B",
+            "meaning_ko": "messy(지저분한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The work is sloppy.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "sloppy은 형용사로 서술어로 쓰일 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The sloppy execution led to delays.'",
+            "a": "The careless and disorganized execution caused delays.",
+            "meaning_ko": "sloppy execution은 '부주의한 실행'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ methodology was criticized. (A) sloppy (B) sloppily (C) sloppiness (D) slop",
+            "a": "A",
+            "meaning_ko": "methodology를 수식하는 형용사 sloppy가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sloppy most appropriately? (A) The sloppy ran. (B) The sloppy work was criticized. (C) She sloppy smiled. (D) Sloppy is good.",
+            "a": "B",
+            "meaning_ko": "sloppy은 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "witness",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "목격자, 증인; 어떤 사건을 직접 보거나 경험한 사람.",
+        "note": "명사로는 '목격자/증인', 동사로는 '목격하다/증언하다' 의미입니다."
+      },
+      {
+        "definition_ko": "목격하다, 증언하다; 어떤 사건을 직접 보거나 경험하다.",
+        "note": "법정에서 증언하거나 사건을 직접 목격하는 의미입니다."
+      }
+    ],
+    "concept": "어떤 사건을 직접 보거나 경험한 사람, 또는 그런 사건을 목격하거나 증언하는 행위.",
+    "etymology": "고대 영어 witnes(지식, 증거)에서 유래했으며, wit(알다) + -ness(명사화) 계열과 연결됩니다.",
+    "semanticExtension": "원래는 '지식/증거' 의미였으나, 현대에는 '목격자' 또는 '목격하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 법률 용어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사이며, 동사로는 타동사로 목적어를 바로 취합니다(witness + 명사). 수동태도 가능합니다(be witnessed).",
+    "transitivity": "타동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 대한 증인",
+        "example": "witness to the crime"
+      }
+    ],
+    "requiredComplements": [
+      "witness + 명사 : ~을 목격하다",
+      "witness to + 명사 : ~에 대한 증인"
+    ],
+    "morphology": "wit-(알다) + -ness(명사화)로, '지식/증거' 의미에서 '목격자'로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "witnessed",
+        "meaning_ko": "목격된(과거분사/형용사)"
+      },
+      {
+        "word": "witnessing",
+        "meaning_ko": "목격하는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "observe",
+        "meaning_ko": "관찰하다"
+      },
+      {
+        "word": "testify",
+        "meaning_ko": "증언하다"
+      },
+      {
+        "word": "see",
+        "meaning_ko": "보다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "observe",
+        "meaning_ko": "관찰하다"
+      },
+      {
+        "word": "see",
+        "meaning_ko": "보다"
+      },
+      {
+        "word": "testify",
+        "meaning_ko": "증언하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "watch",
+        "meaning_ko": "지켜보다"
+      },
+      {
+        "word": "view",
+        "meaning_ko": "보다"
+      },
+      {
+        "word": "eyewitness",
+        "meaning_ko": "목격자(더 구체적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "miss",
+        "meaning_ko": "놓치다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "witness the event",
+            "meaning_ko": "사건을 목격하다"
+          },
+          {
+            "phrase": "eye witness",
+            "meaning_ko": "목격자"
+          },
+          {
+            "phrase": "witness stand",
+            "meaning_ko": "증인석"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "witness to the crime",
+            "meaning_ko": "범죄의 목격자"
+          },
+          {
+            "phrase": "witness the accident",
+            "meaning_ko": "사고를 목격하다"
+          },
+          {
+            "phrase": "call a witness",
+            "meaning_ko": "증인을 부르다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "witness the transformation",
+            "meaning_ko": "변화를 목격하다"
+          },
+          {
+            "phrase": "expert witness",
+            "meaning_ko": "전문 증인"
+          },
+          {
+            "phrase": "witness protection",
+            "meaning_ko": "증인 보호"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She was a witness to the accident.",
+            "meaning_ko": "그녀는 그 사고의 목격자였습니다."
+          },
+          {
+            "sentence": "He witnessed the crime.",
+            "meaning_ko": "그는 그 범죄를 목격했습니다."
+          },
+          {
+            "sentence": "The witness testified in court.",
+            "meaning_ko": "그 증인은 법정에서 증언했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The witness to the crime provided crucial evidence.",
+            "meaning_ko": "그 범죄의 목격자는 중요한 증거를 제공했습니다."
+          },
+          {
+            "sentence": "Many people witnessed the accident on the highway.",
+            "meaning_ko": "많은 사람들이 고속도로에서 그 사고를 목격했습니다."
+          },
+          {
+            "sentence": "The court called an expert witness to testify.",
+            "meaning_ko": "법정은 증언하기 위해 전문 증인을 불렀습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The city witnessed a dramatic transformation over the past decade.",
+            "meaning_ko": "그 도시는 지난 10년 동안 극적인 변화를 목격했습니다."
+          },
+          {
+            "sentence": "The witness protection program ensured the safety of those who testified against organized crime.",
+            "meaning_ko": "증인 보호 프로그램은 조직 범죄에 대해 증언한 사람들의 안전을 보장했습니다."
+          },
+          {
+            "sentence": "Historians witnessed the fall of the empire through careful documentation of events.",
+            "meaning_ko": "역사가들은 사건을 주의 깊게 기록함으로써 제국의 몰락을 목격했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "witness는 명사와 동사 모두로 쓰이며, '목격자' 또는 '목격하다' 의미입니다. 법률 지문에서 자주 나오므로, 이런 문맥에서 '증인/목격하다'와 연결되면 witness로 해석하면 됩니다. '변화를 목격하다'처럼 비유적 의미로도 쓰이므로 문맥에 주의하세요.",
+    "tags": [
+      "법률",
+      "목격",
+      "증언",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: witness (verb) = (A) ignore (B) see or observe (C) forget (D) destroy",
+            "a": "B",
+            "meaning_ko": "witness(동사)는 '목격하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She was a _____ to the accident.",
+            "a": "witness",
+            "meaning_ko": "witness(명사)는 '목격자'를 의미합니다."
+          },
+          {
+            "q": "Which is related to witness? (A) ignore (B) testify (C) forget (D) destroy",
+            "a": "B",
+            "meaning_ko": "testify(증언하다)가 witness와 관련된 단어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: a witness _____ the crime. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "witness to ~는 '~에 대한 목격자' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: witness (verb) = (A) ignore (B) observe (C) forget (D) destroy",
+            "a": "B",
+            "meaning_ko": "observe(관찰하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He witnessed the crime.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "witness는 타동사로 목적어를 받을 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The city witnessed a transformation.'",
+            "a": "The city experienced and observed a significant change.",
+            "meaning_ko": "witness는 '목격하다/경험하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ testified in court. (A) witness (B) witnesses (C) witnessed (D) witnessing",
+            "a": "A",
+            "meaning_ko": "명사 witness가 주어로 필요합니다."
+          },
+          {
+            "q": "Which sentence uses witness most appropriately? (A) The witness ran. (B) He witnessed the event. (C) She witness smiled. (D) Witness is good.",
+            "a": "B",
+            "meaning_ko": "witness는 타동사로 '~을 목격하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

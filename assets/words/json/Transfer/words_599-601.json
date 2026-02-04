@@ -1,0 +1,788 @@
+[
+  {
+    "word": "barren",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "불모의, 메마른; 식물이 자라지 않거나 생산력이 없는.",
+        "note": "식물이 자라지 않거나 생산력이 없는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "결실 없는, 무익한; 결과나 성과가 없는.",
+        "note": "결과나 성과가 없는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "식물이 자라지 않거나 생산력이 없는 불모의 상태, 또는 결과나 성과가 없는 결실 없는 상태.",
+    "etymology": "고대 영어 berean(비어 있는)에서 유래했으며, 원래는 '비어 있는' 의미였으나 현대에는 '불모의'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '비어 있는' 의미였으나, 현대에는 '식물이 자라지 않거나 생산력이 없는' 또는 '결과나 성과가 없는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be barren 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~이 없는",
+        "example": "barren of vegetation"
+      }
+    ],
+    "requiredComplements": [
+      "be barren : 불모이다",
+      "barren of + 명사 : ~이 없는",
+      "barren + 명사 : 불모의 ~"
+    ],
+    "morphology": "고대 영어 berean에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "barrenness",
+        "meaning_ko": "불모"
+      },
+      {
+        "word": "barrenly",
+        "meaning_ko": "불모하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "infertile",
+        "meaning_ko": "불모의"
+      },
+      {
+        "word": "sterile",
+        "meaning_ko": "불모의"
+      },
+      {
+        "word": "unproductive",
+        "meaning_ko": "비생산적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "infertile",
+        "meaning_ko": "불모의"
+      },
+      {
+        "word": "sterile",
+        "meaning_ko": "불모의"
+      },
+      {
+        "word": "unproductive",
+        "meaning_ko": "비생산적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "desolate",
+        "meaning_ko": "황량한(범위가 더 넓음)"
+      },
+      {
+        "word": "arid",
+        "meaning_ko": "건조한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fertile",
+        "meaning_ko": "비옥한"
+      },
+      {
+        "word": "productive",
+        "meaning_ko": "생산적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "barren land",
+            "meaning_ko": "불모의 땅"
+          },
+          {
+            "phrase": "barren of",
+            "meaning_ko": "~이 없는"
+          },
+          {
+            "phrase": "barren desert",
+            "meaning_ko": "불모의 사막"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "barren of vegetation",
+            "meaning_ko": "식물이 없는"
+          },
+          {
+            "phrase": "barren landscape",
+            "meaning_ko": "불모의 경관"
+          },
+          {
+            "phrase": "barren soil",
+            "meaning_ko": "불모의 토양"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "barren of results",
+            "meaning_ko": "결과가 없는"
+          },
+          {
+            "phrase": "barren wasteland",
+            "meaning_ko": "불모의 황무지"
+          },
+          {
+            "phrase": "barren discussion",
+            "meaning_ko": "결실 없는 토론"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The barren land could not support crops.",
+            "meaning_ko": "그 불모의 땅은 작물을 지원할 수 없었습니다."
+          },
+          {
+            "sentence": "The desert was barren of vegetation.",
+            "meaning_ko": "그 사막은 식물이 없었습니다."
+          },
+          {
+            "sentence": "Their efforts were barren of results.",
+            "meaning_ko": "그들의 노력은 결과가 없었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The barren land could not support crops, lacking the nutrients and water necessary for agriculture, which forced farmers to seek alternative methods or relocate to more fertile areas.",
+            "meaning_ko": "그 불모의 땅은 작물을 지원할 수 없었고, 농업에 필요한 영양소와 물이 부족했으며, 이것은 농부들이 대안적 방법을 찾거나 더 비옥한 지역으로 이주하도록 강요했습니다."
+          },
+          {
+            "sentence": "The desert was barren of vegetation, with only the hardiest plants able to survive in the harsh conditions of extreme heat, limited water, and poor soil quality.",
+            "meaning_ko": "그 사막은 식물이 없었고, 극도의 열, 제한된 물, 나쁜 토양 품질의 가혹한 조건에서 가장 강인한 식물만이 생존할 수 있었습니다."
+          },
+          {
+            "sentence": "Their efforts were barren of results, despite significant investment of time and resources, leading to frustration and questions about the effectiveness of the approach they had taken.",
+            "meaning_ko": "그들의 노력은 결과가 없었고, 상당한 시간과 자원의 투자에도 불구하고, 그들이 취한 접근의 효과에 대한 좌절과 질문으로 이어졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The barren wasteland stretched for miles, a testament to environmental degradation and the consequences of unsustainable practices that had stripped the area of its natural fertility and biodiversity.",
+            "meaning_ko": "그 불모의 황무지는 몇 마일에 걸쳐 뻗었고, 환경적 훼손과 그 지역의 자연적 비옥함과 생물 다양성을 제거한 지속 불가능한 관행의 결과에 대한 증거였습니다."
+          },
+          {
+            "sentence": "The negotiations proved to be a barren discussion, with participants unable to find common ground or reach meaningful agreements, despite hours of dialogue and attempts to bridge differences.",
+            "meaning_ko": "그 협상은 결실 없는 토론으로 판명되었고, 참가자들이 몇 시간의 대화와 차이를 메우려는 시도에도 불구하고 공통점을 찾거나 의미 있는 합의에 도달할 수 없었습니다."
+          },
+          {
+            "sentence": "The research project was barren of results after years of investigation, with the team unable to produce the expected findings or validate the hypotheses that had guided their work, prompting a reassessment of methodology and objectives.",
+            "meaning_ko": "그 연구 프로젝트는 수년간의 조사 후에 결과가 없었고, 팀이 예상된 발견을 생산하거나 그들의 작업을 안내했던 가설을 검증할 수 없었고, 방법론과 목표의 재평가를 촉진했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "barren는 '불모의, 메마른' 또는 '결실 없는, 무익한' 의미로, 식물이 자라지 않거나 생산력이 없는 상태를 가리킵니다. infertile, sterile와 비슷하지만 더 강한 뉘앙스가 있습니다. barren land, barren of ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "지리",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: barren = (A) fertile (B) infertile or unproductive (C) productive (D) fruitful",
+            "a": "B",
+            "meaning_ko": "barren는 '불모의 또는 비생산적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ land could not support crops.",
+            "a": "barren",
+            "meaning_ko": "barren는 '불모의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of barren? (A) infertile (B) sterile (C) fertile (D) unproductive",
+            "a": "C",
+            "meaning_ko": "fertile(비옥한)가 barren의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: barren _____ vegetation. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "barren of ~는 '~이 없는' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: barren = (A) fertile (B) infertile (C) productive (D) fruitful",
+            "a": "B",
+            "meaning_ko": "infertile(불모의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The desert was barren on vegetation.' → Fix the preposition.",
+            "a": "The desert was barren of vegetation.",
+            "meaning_ko": "barren of ~는 '~이 없는' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The barren land could not support crops.'",
+            "a": "The infertile and unproductive terrain lacked the necessary conditions for agriculture, being unable to sustain plant growth or yield harvests due to poor soil quality, lack of nutrients, or insufficient water.",
+            "meaning_ko": "barren land는 '불모의 땅'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: Their efforts were _____ of results. (A) barren (B) barrenly (C) barrenness (D) barrens",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 barren가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses barren most appropriately? (A) The barren ran. (B) The barren land could not support crops. (C) She barren smiled. (D) Barren is good.",
+            "a": "B",
+            "meaning_ko": "barren는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pragmatism",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "실용주의, 현실주의; 실용적이고 현실적인 접근 방식.",
+        "note": "실용적이고 현실적인 접근 방식을 가리킵니다."
+      }
+    ],
+    "concept": "실용적이고 현실적인 접근 방식인 실용주의.",
+    "etymology": "그리스어 pragma(행동)에서 유래했으며, 원래는 '행동' 의미였으나 현대에는 '실용주의'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '행동' 의미였으나, 현대에는 '실용적이고 현실적인 접근 방식'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 철학과 정치 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "불가산명사로 자주 사용되며, pragmatism 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "그리스어 pragma에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "pragmatic",
+        "meaning_ko": "실용적인"
+      },
+      {
+        "word": "pragmatist",
+        "meaning_ko": "실용주의자"
+      },
+      {
+        "word": "pragmatically",
+        "meaning_ko": "실용적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "practicality",
+        "meaning_ko": "실용성"
+      },
+      {
+        "word": "realism",
+        "meaning_ko": "현실주의"
+      },
+      {
+        "word": "practical approach",
+        "meaning_ko": "실용적 접근"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "practicality",
+        "meaning_ko": "실용성"
+      },
+      {
+        "word": "realism",
+        "meaning_ko": "현실주의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "practical sense",
+        "meaning_ko": "실용적 감각(범위가 더 넓음)"
+      },
+      {
+        "word": "common sense",
+        "meaning_ko": "상식"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "idealism",
+        "meaning_ko": "이상주의"
+      },
+      {
+        "word": "theoretical",
+        "meaning_ko": "이론적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "political pragmatism",
+            "meaning_ko": "정치적 실용주의"
+          },
+          {
+            "phrase": "pragmatism over",
+            "meaning_ko": "~보다 실용주의"
+          },
+          {
+            "phrase": "show pragmatism",
+            "meaning_ko": "실용주의를 보이다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "pragmatism in policy",
+            "meaning_ko": "정책에서의 실용주의"
+          },
+          {
+            "phrase": "pragmatism over ideology",
+            "meaning_ko": "이데올로기보다 실용주의"
+          },
+          {
+            "phrase": "philosophical pragmatism",
+            "meaning_ko": "철학적 실용주의"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "pragmatism in decision-making",
+            "meaning_ko": "의사 결정에서의 실용주의"
+          },
+          {
+            "phrase": "pragmatism versus idealism",
+            "meaning_ko": "실용주의 대 이상주의"
+          },
+          {
+            "phrase": "pragmatism in governance",
+            "meaning_ko": "통치에서의 실용주의"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His pragmatism helped solve the problem.",
+            "meaning_ko": "그의 실용주의는 그 문제를 해결하는 데 도움이 되었습니다."
+          },
+          {
+            "sentence": "They chose pragmatism over ideology.",
+            "meaning_ko": "그들은 이데올로기보다 실용주의를 선택했습니다."
+          },
+          {
+            "sentence": "The policy showed pragmatism.",
+            "meaning_ko": "그 정책은 실용주의를 보였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "His pragmatism helped solve the problem, as he focused on practical solutions that could be implemented immediately rather than pursuing idealistic approaches that might take years to develop.",
+            "meaning_ko": "그의 실용주의는 그 문제를 해결하는 데 도움이 되었고, 그는 개발하는 데 몇 년이 걸릴 수 있는 이상적 접근을 추구하기보다는 즉시 구현할 수 있는 실용적 해결책에 집중했기 때문입니다."
+          },
+          {
+            "sentence": "They chose pragmatism over ideology, prioritizing practical outcomes and workable solutions that addressed immediate needs, even if it meant compromising on some of their core beliefs.",
+            "meaning_ko": "그들은 이데올로기보다 실용주의를 선택했고, 그것이 그들의 핵심 신념 중 일부를 타협하는 것을 의미하더라도 즉각적인 필요를 다루는 실용적 결과와 실행 가능한 해결책을 우선시했습니다."
+          },
+          {
+            "sentence": "The policy showed pragmatism, balancing competing interests and finding solutions that, while not perfect, could be implemented effectively and produce tangible benefits for the majority of stakeholders.",
+            "meaning_ko": "그 정책은 실용주의를 보였고, 경쟁하는 이익을 균형 잡고 완벽하지는 않지만 효과적으로 구현될 수 있고 대다수 이해관계자들에게 실질적 이점을 생산할 수 있는 해결책을 찾았습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The leader's pragmatism in decision-making was evident throughout the crisis, as she balanced competing priorities and made choices based on practical considerations rather than rigid adherence to ideological principles, which enabled the organization to adapt quickly to changing circumstances.",
+            "meaning_ko": "그 지도자의 의사 결정에서의 실용주의는 그 위기 전반에 걸쳐 명백했고, 그녀가 경쟁하는 우선순위를 균형 잡고 이데올로기적 원칙에 대한 경직된 준수보다는 실용적 고려에 기반하여 선택을 했기 때문이며, 이것은 그 조직이 변화하는 상황에 빠르게 적응할 수 있게 했습니다."
+          },
+          {
+            "sentence": "The debate between pragmatism versus idealism in governance reflected deeper questions about the role of principles versus practical outcomes, with some arguing that compromise undermined core values while others maintained that flexibility was necessary for effective leadership.",
+            "meaning_ko": "통치에서 실용주의 대 이상주의 사이의 논쟁은 원칙 대 실용적 결과의 역할에 대한 더 깊은 질문을 반영했고, 일부는 타협이 핵심 가치를 훼손한다고 주장했지만 다른 사람들은 유연성이 효과적인 리더십에 필요하다고 유지했습니다."
+          },
+          {
+            "sentence": "The pragmatism in governance that characterized the administration's approach was both praised and criticized, with supporters highlighting its effectiveness in achieving results while critics argued that it lacked vision and long-term strategic thinking.",
+            "meaning_ko": "그 행정부의 접근을 특징지은 통치에서의 실용주의는 칭찬받기도 하고 비판받기도 했고, 지지자들은 결과 달성에서의 효과를 강조했지만 비평가들은 그것이 비전과 장기 전략적 사고가 부족하다고 주장했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "pragmatism는 '실용주의, 현실주의' 의미로, 실용적이고 현실적인 접근 방식을 가리킵니다. practicality, realism와 비슷하지만 더 철학적 뉘앙스가 있습니다. political pragmatism, pragmatism over ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "철학",
+      "정치",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: pragmatism = (A) idealism (B) practical approach or realism (C) theoretical (D) abstract",
+            "a": "B",
+            "meaning_ko": "pragmatism는 '실용적 접근 또는 현실주의' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: His _____ helped solve the problem.",
+            "a": "pragmatism",
+            "meaning_ko": "pragmatism는 '실용주의'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of pragmatism? (A) practicality (B) realism (C) idealism (D) practical approach",
+            "a": "C",
+            "meaning_ko": "idealism(이상주의)가 pragmatism의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They chose _____ over ideology. (A) pragmatism (B) pragmatisms (C) pragmatic (D) pragmatically",
+            "a": "A",
+            "meaning_ko": "명사로 불가산명사 pragmatism가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: pragmatism = (A) idealism (B) practicality (C) theoretical (D) abstract",
+            "a": "B",
+            "meaning_ko": "practicality(실용성)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They chose pragmatisms over ideology.' → Fix the sentence.",
+            "a": "They chose pragmatism over ideology.",
+            "meaning_ko": "명사로 불가산명사 pragmatism가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'His pragmatism helped solve the problem.'",
+            "a": "His practical and realistic approach to addressing issues, which prioritized workable solutions and tangible outcomes over theoretical or idealistic considerations, contributed to successfully resolving the challenge.",
+            "meaning_ko": "pragmatism는 '실용주의'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The policy showed _____. (A) pragmatism (B) pragmatisms (C) pragmatic (D) pragmatically",
+            "a": "A",
+            "meaning_ko": "명사로 불가산명사 pragmatism가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses pragmatism most appropriately? (A) The pragmatism ran. (B) His pragmatism helped solve the problem. (C) She pragmatism smiled. (D) Pragmatism is good.",
+            "a": "B",
+            "meaning_ko": "pragmatism는 명사로 '실용주의'를 의미하며, 주어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "scarce",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "부족한, 드문; 충분하지 않거나 드문.",
+        "note": "충분하지 않거나 드문 상태를 가리킵니다."
+      }
+    ],
+    "concept": "충분하지 않거나 드문 부족한 상태.",
+    "etymology": "라틴어 excarpere(선택하다)에서 유래했으며, 원래는 '선택하다' 의미였으나 현대에는 '부족한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '선택하다' 의미였으나, 현대에는 '충분하지 않거나 드문'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be scarce 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be scarce : 부족하다",
+      "scarce + 명사 : 부족한 ~"
+    ],
+    "morphology": "라틴어 excarpere에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "scarcely",
+        "meaning_ko": "거의 ~하지 않게"
+      },
+      {
+        "word": "scarcity",
+        "meaning_ko": "부족"
+      }
+    ],
+    "related": [
+      {
+        "word": "rare",
+        "meaning_ko": "드문"
+      },
+      {
+        "word": "limited",
+        "meaning_ko": "제한된"
+      },
+      {
+        "word": "insufficient",
+        "meaning_ko": "불충분한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rare",
+        "meaning_ko": "드문"
+      },
+      {
+        "word": "limited",
+        "meaning_ko": "제한된"
+      },
+      {
+        "word": "insufficient",
+        "meaning_ko": "불충분한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "uncommon",
+        "meaning_ko": "흔하지 않은(범위가 더 넓음)"
+      },
+      {
+        "word": "sparse",
+        "meaning_ko": "드문"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "abundant",
+        "meaning_ko": "풍부한"
+      },
+      {
+        "word": "plentiful",
+        "meaning_ko": "풍부한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "scarce resources",
+            "meaning_ko": "부족한 자원"
+          },
+          {
+            "phrase": "scarce water",
+            "meaning_ko": "부족한 물"
+          },
+          {
+            "phrase": "make scarce",
+            "meaning_ko": "부족하게 만들다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "scarce commodities",
+            "meaning_ko": "부족한 상품"
+          },
+          {
+            "phrase": "scarce opportunities",
+            "meaning_ko": "드문 기회"
+          },
+          {
+            "phrase": "scarce materials",
+            "meaning_ko": "부족한 재료"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "scarce funding",
+            "meaning_ko": "부족한 자금"
+          },
+          {
+            "phrase": "scarce talent",
+            "meaning_ko": "드문 인재"
+          },
+          {
+            "phrase": "scarce information",
+            "meaning_ko": "부족한 정보"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Water is scarce in the desert.",
+            "meaning_ko": "사막에서는 물이 부족합니다."
+          },
+          {
+            "sentence": "Jobs are scarce in this area.",
+            "meaning_ko": "이 지역에서는 일자리가 부족합니다."
+          },
+          {
+            "sentence": "The resources were scarce.",
+            "meaning_ko": "그 자원들은 부족했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Water is scarce in the desert, making it a precious resource that must be carefully managed and conserved, with communities developing strategies to maximize efficiency and minimize waste.",
+            "meaning_ko": "사막에서는 물이 부족하고, 그것을 신중하게 관리하고 보존해야 하는 귀중한 자원으로 만들며, 커뮤니티가 효율성을 최대화하고 낭비를 최소화하는 전략을 개발합니다."
+          },
+          {
+            "sentence": "Jobs are scarce in this area, with high unemployment rates and limited opportunities for employment, which has led to economic challenges and prompted many residents to seek work elsewhere.",
+            "meaning_ko": "이 지역에서는 일자리가 부족하고, 높은 실업률과 제한된 고용 기회가 있으며, 이것은 경제적 도전으로 이어졌고 많은 주민들이 다른 곳에서 일을 찾도록 촉진했습니다."
+          },
+          {
+            "sentence": "The resources were scarce, requiring careful allocation and prioritization to ensure that the most critical needs were met, though the limited availability created tensions and competition among those seeking access.",
+            "meaning_ko": "그 자원들은 부족했고, 가장 중요한 필요가 충족되도록 신중한 할당과 우선순위화를 요구했지만, 제한된 가용성이 접근을 추구하는 사람들 사이에서 긴장과 경쟁을 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The scarce funding for the research project forced the team to make difficult decisions about priorities, with some promising areas of investigation having to be deferred or abandoned due to financial constraints.",
+            "meaning_ko": "그 연구 프로젝트에 대한 부족한 자금은 그 팀이 우선순위에 대해 어려운 결정을 내리도록 강요했고, 재정적 제약으로 인해 일부 유망한 조사 영역이 연기되거나 포기되어야 했습니다."
+          },
+          {
+            "sentence": "The organization struggled to recruit qualified candidates due to scarce talent in the field, with the limited pool of skilled professionals creating intense competition among employers and driving up compensation expectations.",
+            "meaning_ko": "그 조직은 그 분야에서 드문 인재로 인해 자격 있는 후보를 채용하는 데 고군분투했고, 숙련된 전문가의 제한된 풀이 고용주들 사이에서 강한 경쟁을 만들고 보상 기대를 높였습니다."
+          },
+          {
+            "sentence": "The investigation was hampered by scarce information, as key documents were missing and witnesses were reluctant to come forward, creating challenges for law enforcement officials trying to piece together what had happened.",
+            "meaning_ko": "그 조사는 부족한 정보로 인해 방해를 받았고, 주요 문서가 누락되었고 증인들이 나오기를 꺼렸으며, 무슨 일이 일어났는지 조각을 맞추려는 법 집행 공무원들에게 도전을 만들었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "scarce는 '부족한, 드문' 의미로, 충분하지 않거나 드문 상태를 가리킵니다. rare, limited와 비슷하지만 더 일반적 표현입니다. scarce resources, make scarce 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "정도",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: scarce = (A) abundant (B) rare or insufficient (C) plentiful (D) sufficient",
+            "a": "B",
+            "meaning_ko": "scarce는 '드문 또는 불충분한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Water is _____ in the desert.",
+            "a": "scarce",
+            "meaning_ko": "scarce는 '부족한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of scarce? (A) rare (B) limited (C) abundant (D) insufficient",
+            "a": "C",
+            "meaning_ko": "abundant(풍부한)가 scarce의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: Jobs are _____ in this area. (A) scarce (B) scarcely (C) scarcity (D) scarceness",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 scarce가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: scarce = (A) abundant (B) rare (C) plentiful (D) sufficient",
+            "a": "B",
+            "meaning_ko": "rare(드문)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'Jobs are scarcely in this area.' → Fix the sentence.",
+            "a": "Jobs are scarce in this area.",
+            "meaning_ko": "서술어로 형용사 scarce가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Water is scarce in the desert.'",
+            "a": "Water is in short supply and not readily available in the desert environment, making it a limited and valuable resource that requires careful management and conservation.",
+            "meaning_ko": "scarce는 '부족한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The resources were _____. (A) scarce (B) scarcely (C) scarcity (D) scarceness",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 scarce가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses scarce most appropriately? (A) The scarce ran. (B) Water is scarce in the desert. (C) She scarce smiled. (D) Scarce is good.",
+            "a": "B",
+            "meaning_ko": "scarce는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

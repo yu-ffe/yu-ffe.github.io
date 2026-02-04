@@ -1,0 +1,817 @@
+[
+  {
+    "word": "pacify",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "진정시키다, 달래다; 화나거나 불안한 상태를 진정시키거나 달래다.",
+        "note": "화나거나 불안한 상태를 진정시키거나 달래는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "평화롭게 하다, 평정시키다; 평화롭게 하거나 평정시키다.",
+        "note": "평화롭게 하거나 평정시키는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "화나거나 불안한 상태를 진정시키거나 달래는 진정, 또는 평화롭게 하거나 평정시키는 것.",
+    "etymology": "라틴어 pacificare(평화롭게 하다)에서 유래했으며, pax(평화) + facere(만들다)의 조합입니다.",
+    "semanticExtension": "원래는 '평화롭게 하다' 의미였고, 현대에는 '진정시키다' 또는 '평정시키다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 쓰이며, pacify + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "pacify + 명사 : ~을 진정시키다/평정시키다"
+    ],
+    "morphology": "pax(평화) + facere(만들다)의 조합으로, '평화를 만들다' 즉 '평화롭게 하다' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "pacified",
+        "meaning_ko": "진정된/평정된(과거분사/형용사)"
+      },
+      {
+        "word": "pacifying",
+        "meaning_ko": "진정시키는/평정시키는(현재분사/형용사)"
+      },
+      {
+        "word": "pacification",
+        "meaning_ko": "진정"
+      }
+    ],
+    "related": [
+      {
+        "word": "calm",
+        "meaning_ko": "진정시키다"
+      },
+      {
+        "word": "soothe",
+        "meaning_ko": "달래다"
+      },
+      {
+        "word": "appease",
+        "meaning_ko": "달래다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "calm",
+        "meaning_ko": "진정시키다"
+      },
+      {
+        "word": "soothe",
+        "meaning_ko": "달래다"
+      },
+      {
+        "word": "appease",
+        "meaning_ko": "달래다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "placate",
+        "meaning_ko": "달래다(범위가 더 넓음)"
+      },
+      {
+        "word": "mollify",
+        "meaning_ko": "달래다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "agitate",
+        "meaning_ko": "동요시키다"
+      },
+      {
+        "word": "provoke",
+        "meaning_ko": "자극하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pacify crowd",
+            "meaning_ko": "군중을 진정시키다"
+          },
+          {
+            "phrase": "pacify baby",
+            "meaning_ko": "아기를 달래다"
+          },
+          {
+            "phrase": "pacify anger",
+            "meaning_ko": "분노를 진정시키다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "pacify region",
+            "meaning_ko": "지역을 평정시키다"
+          },
+          {
+            "phrase": "pacify opposition",
+            "meaning_ko": "반대를 달래다"
+          },
+          {
+            "phrase": "pacify concerns",
+            "meaning_ko": "우려를 달래다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "pacify unrest",
+            "meaning_ko": "불안을 평정시키다"
+          },
+          {
+            "phrase": "pacify tensions",
+            "meaning_ko": "긴장을 완화시키다"
+          },
+          {
+            "phrase": "pacify conflict",
+            "meaning_ko": "갈등을 평정시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She pacified the baby.",
+            "meaning_ko": "그녀는 그 아기를 달랐습니다."
+          },
+          {
+            "sentence": "They pacified the crowd.",
+            "meaning_ko": "그들은 그 군중을 진정시켰습니다."
+          },
+          {
+            "sentence": "He tried to pacify her anger.",
+            "meaning_ko": "그는 그녀의 분노를 진정시키려고 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She pacified the baby, with her gentle care and soothing words calming the child, though the comfort would need to be maintained to keep the infant content.",
+            "meaning_ko": "그녀는 그 아기를 달랐고, 그녀의 부드러운 돌봄과 달래는 말이 그 아이를 진정시켰지만, 그 편안함은 그 유아를 만족하게 유지하기 위해 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They pacified the crowd, with their efforts to calm and reassure the people helping to restore order, though maintaining peace would require addressing underlying concerns.",
+            "meaning_ko": "그들은 그 군중을 진정시켰고, 사람들을 진정시키고 안심시키려는 그들의 노력이 질서를 복원하는 데 도움이 되었지만, 평화를 유지하는 것은 근본적인 우려를 다루는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "He tried to pacify her anger, with his attempts to calm and soothe her helping to reduce the intensity of her emotions, though the underlying issues would need to be addressed for lasting resolution.",
+            "meaning_ko": "그는 그녀의 분노를 진정시키려고 했고, 그녀를 진정시키고 달래려는 그의 시도가 그녀의 감정의 강도를 줄이는 데 도움이 되었지만, 지속적인 해결을 위해 근본적인 문제가 다루어질 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The authorities worked to pacify the unrest that had spread through the region, with their efforts to calm tensions and address grievances helping to restore stability, though the underlying causes would need to be addressed to prevent future conflicts.",
+            "meaning_ko": "그 당국은 그 지역을 통해 퍼진 그 불안을 평정시키기 위해 일했고, 긴장을 진정시키고 불만을 다루려는 그들의 노력이 안정을 복원하는 데 도움이 되었지만, 근본 원인은 미래 갈등을 방지하기 위해 다루어질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The diplomatic efforts to pacify tensions between the nations required careful negotiation and compromise, with the process involving discussions and agreements that would address concerns and create a foundation for peaceful relations, though the success would depend on continued commitment from all parties.",
+            "meaning_ko": "그 국가들 사이의 긴장을 완화시키기 위한 그 외교적 노력은 신중한 협상과 타협을 요구했고, 그 과정이 우려를 다루고 평화로운 관계를 위한 기초를 만들 논의와 합의를 포함했지만, 그 성공은 모든 당사자로부터 지속적인 헌신에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The strategy to pacify the conflict involved multiple approaches, with efforts to address root causes, provide security, and create opportunities for dialogue, though the complexity of the situation would require sustained commitment and coordination among various stakeholders.",
+            "meaning_ko": "그 갈등을 평정시키기 위한 그 전략은 여러 접근을 포함했고, 근본 원인을 다루고, 보안을 제공하고, 대화를 위한 기회를 만들려는 노력이 있었지만, 그 상황의 복잡성은 다양한 이해 관계자들 사이의 지속적인 헌신과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "pacify는 '진정시키다, 달래다' 또는 '평화롭게 하다, 평정시키다' 의미로, 화나거나 불안한 상태를 진정시키거나 달래는 행동을 가리킵니다. calm, soothe와 비슷하지만 더 공식적 뉘앙스가 있습니다. pacify crowd, pacify baby 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: pacify = (A) agitate (B) calm or soothe (C) provoke (D) disturb",
+            "a": "B",
+            "meaning_ko": "pacify는 '진정시키다 또는 달래다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She _____ the baby.",
+            "a": "pacified",
+            "meaning_ko": "pacify는 '달래다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of pacify? (A) calm (B) soothe (C) agitate (D) appease",
+            "a": "C",
+            "meaning_ko": "agitate(동요시키다)가 pacify의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They _____ the crowd. (A) pacify (B) pacified (C) pacifying (D) pacifies",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 pacified가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: pacify = (A) agitate (B) calm (C) provoke (D) disturb",
+            "a": "B",
+            "meaning_ko": "calm(진정시키다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She pacify the baby.' → Fix the sentence.",
+            "a": "She pacified the baby.",
+            "meaning_ko": "과거 시제에서 과거형 pacified가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She pacified the baby.'",
+            "a": "She calmed and soothed the infant, with her gentle care and comforting actions helping to reduce distress and create a sense of security, though the comfort would need to be maintained to keep the child content.",
+            "meaning_ko": "pacify는 '달래다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He tried to _____ her anger. (A) pacify (B) pacified (C) pacifying (D) pacifies",
+            "a": "A",
+            "meaning_ko": "try to 뒤에는 동사 원형 pacify가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses pacify most appropriately? (A) The pacify ran. (B) She pacified the baby. (C) She pacify smiled. (D) Pacify is good.",
+            "a": "B",
+            "meaning_ko": "pacify는 동사로 '달래다'를 의미하며, 타동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "cacophony",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "불협화음, 시끄러운 소리; 불쾌하거나 시끄러운 소리의 혼합.",
+        "note": "불쾌하거나 시끄러운 소리의 혼합을 가리킵니다."
+      },
+      {
+        "definition_ko": "혼란스러운 소음, 소란; 혼란스럽거나 소란스러운 소음.",
+        "note": "혼란스럽거나 소란스러운 소음을 가리킵니다."
+      }
+    ],
+    "concept": "불쾌하거나 시끄러운 소리의 혼합인 불협화음, 또는 혼란스럽거나 소란스러운 소음인 혼란스러운 소음.",
+    "etymology": "그리스어 kakophonia(나쁜 소리)에서 유래했으며, kakos(나쁜) + phone(소리)의 조합입니다.",
+    "semanticExtension": "원래는 '나쁜 소리' 의미였고, 현대에는 '불쾌하거나 시끄러운 소리의 혼합' 또는 '혼란스럽거나 소란스러운 소음'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학과 학문 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "불가산명사로 자주 사용되며, cacophony 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 불협화음",
+        "example": "cacophony of sounds"
+      }
+    ],
+    "requiredComplements": [
+      "cacophony : 불협화음/혼란스러운 소음",
+      "cacophony of + 명사 : ~의 불협화음"
+    ],
+    "morphology": "kakos(나쁜) + phone(소리)의 조합으로, '나쁜 소리' 즉 '불협화음' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "cacophonous",
+        "meaning_ko": "불협화음의"
+      },
+      {
+        "word": "cacophonously",
+        "meaning_ko": "불협화음으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "noise",
+        "meaning_ko": "소음"
+      },
+      {
+        "word": "discord",
+        "meaning_ko": "불협화음"
+      },
+      {
+        "word": "din",
+        "meaning_ko": "소음"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "noise",
+        "meaning_ko": "소음"
+      },
+      {
+        "word": "discord",
+        "meaning_ko": "불협화음"
+      },
+      {
+        "word": "din",
+        "meaning_ko": "소음"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "clamor",
+        "meaning_ko": "소란(범위가 더 넓음)"
+      },
+      {
+        "word": "racket",
+        "meaning_ko": "소음"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "harmony",
+        "meaning_ko": "조화"
+      },
+      {
+        "word": "melody",
+        "meaning_ko": "선율"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "cacophony of",
+            "meaning_ko": "~의 불협화음"
+          },
+          {
+            "phrase": "cacophony of sounds",
+            "meaning_ko": "소리의 불협화음"
+          },
+          {
+            "phrase": "deafening cacophony",
+            "meaning_ko": "귀를 멍하게 하는 불협화음"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "cacophony of voices",
+            "meaning_ko": "목소리의 불협화음"
+          },
+          {
+            "phrase": "cacophony of noise",
+            "meaning_ko": "소음의 불협화음"
+          },
+          {
+            "phrase": "urban cacophony",
+            "meaning_ko": "도시의 불협화음"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "cacophony of opinions",
+            "meaning_ko": "의견의 불협화음"
+          },
+          {
+            "phrase": "cacophony of voices",
+            "meaning_ko": "목소리의 불협화음"
+          },
+          {
+            "phrase": "cacophony of information",
+            "meaning_ko": "정보의 불협화음"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "There was a cacophony of sounds.",
+            "meaning_ko": "소리의 불협화음이 있었습니다."
+          },
+          {
+            "sentence": "The cacophony was deafening.",
+            "meaning_ko": "그 불협화음은 귀를 멍하게 했습니다."
+          },
+          {
+            "sentence": "She heard a cacophony.",
+            "meaning_ko": "그녀는 불협화음을 들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "There was a cacophony of sounds, with the unpleasant and discordant mixture creating a jarring experience, though the noise would eventually subside or be managed.",
+            "meaning_ko": "소리의 불협화음이 있었고, 불쾌하고 불협화음의 혼합이 불쾌한 경험을 만들었지만, 그 소음은 결국 가라앉거나 관리될 것입니다."
+          },
+          {
+            "sentence": "The cacophony was deafening, with the loud and discordant sounds overwhelming the senses and making it difficult to focus, though the noise would need to be addressed to restore a sense of calm.",
+            "meaning_ko": "그 불협화음은 귀를 멍하게 했고, 크고 불협화음의 소리가 감각을 압도하고 집중하는 것을 어렵게 만들었지만, 그 소음은 평온의 감각을 복원하기 위해 다루어질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "She heard a cacophony, with the chaotic and unpleasant mixture of sounds creating confusion and discomfort, though the experience would eventually end or she could move to a quieter location.",
+            "meaning_ko": "그녀는 불협화음을 들었고, 그 혼란스럽고 불쾌한 소리의 혼합이 혼란과 불편을 만들었지만, 그 경험은 결국 끝나거나 그녀는 더 조용한 위치로 이동할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The cacophony of opinions that emerged during the debate created confusion and made it difficult to identify clear positions, with the discordant voices and conflicting perspectives contributing to a sense of chaos, though the discussion would need structure and moderation to be productive.",
+            "meaning_ko": "그 논의 중에 나타난 그 의견의 불협화음은 혼란을 만들고 명확한 입장을 식별하는 것을 어렵게 만들었고, 그 불협화음의 목소리와 충돌하는 관점이 혼란의 감각에 기여했지만, 그 논의는 생산적이기 위해 구조와 조정이 필요할 것입니다."
+          },
+          {
+            "sentence": "The cacophony of voices in the crowded space made communication challenging, with the overlapping sounds and competing noise creating an environment where it was difficult to hear or be heard, though the situation would require strategies to manage the acoustic environment.",
+            "meaning_ko": "그 혼잡한 공간에서 그 목소리의 불협화음은 의사 소통을 도전적으로 만들었고, 그 겹치는 소리와 경쟁하는 소음이 듣거나 들리는 것이 어려운 환경을 만들었지만, 그 상황은 음향 환경을 관리하기 위한 전략을 요구할 것입니다."
+          },
+          {
+            "sentence": "The cacophony of information available online created challenges for users seeking reliable sources, with the overwhelming and often conflicting data making it difficult to distinguish truth from misinformation, though critical thinking and fact-checking would be essential for navigating the noise.",
+            "meaning_ko": "온라인에서 사용 가능한 그 정보의 불협화음은 신뢰할 수 있는 소스를 찾는 사용자들에게 도전을 만들었고, 그 압도적이고 종종 충돌하는 데이터가 오정보에서 진실을 구별하는 것을 어렵게 만들었지만, 비판적 사고와 사실 확인이 그 소음을 탐색하는 데 필수적일 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "cacophony는 '불협화음, 시끄러운 소리' 또는 '혼란스러운 소음, 소란' 의미로, 불쾌하거나 시끄러운 소리의 혼합을 가리킵니다. noise, discord와 비슷하지만 더 문학적 뉘앙스가 있습니다. cacophony of ~, deafening cacophony 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문학",
+      "학문",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: cacophony = (A) harmony (B) noise or discord (C) melody (D) music",
+            "a": "B",
+            "meaning_ko": "cacophony는 '소음 또는 불협화음' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: There was a _____ of sounds.",
+            "a": "cacophony",
+            "meaning_ko": "cacophony는 '불협화음'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of cacophony? (A) noise (B) discord (C) harmony (D) din",
+            "a": "C",
+            "meaning_ko": "harmony(조화)가 cacophony의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: cacophony _____ sounds. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "cacophony of ~는 '~의 불협화음' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: cacophony = (A) harmony (B) noise (C) melody (D) music",
+            "a": "B",
+            "meaning_ko": "noise(소음)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'There was a cacophony at sounds.' → Fix the preposition.",
+            "a": "There was a cacophony of sounds.",
+            "meaning_ko": "cacophony of ~는 '~의 불협화음' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'There was a cacophony of sounds.'",
+            "a": "There was an unpleasant and discordant mixture of sounds, with the chaotic and jarring noise creating a sense of confusion and discomfort, though the cacophony would eventually subside or be managed.",
+            "meaning_ko": "cacophony는 '불협화음'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ was deafening. (A) cacophony (B) cacophonies (C) cacophony's (D) cacophonous",
+            "a": "A",
+            "meaning_ko": "명사 cacophony가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses cacophony most appropriately? (A) The cacophony ran. (B) There was a cacophony of sounds. (C) She cacophony smiled. (D) Cacophony is good.",
+            "a": "B",
+            "meaning_ko": "cacophony는 명사로 '불협화음'을 의미하며, of와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "disguise",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "변장, 위장; 자신의 정체를 숨기기 위한 변장이나 위장.",
+        "note": "자신의 정체를 숨기기 위한 변장이나 위장을 가리킵니다."
+      },
+      {
+        "definition_ko": "변장하다, 위장하다; 자신의 정체를 숨기기 위해 변장하거나 위장하다.",
+        "note": "자신의 정체를 숨기기 위해 변장하거나 위장하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "숨기다, 감추다; 사실이나 본질을 숨기거나 감추다.",
+        "note": "사실이나 본질을 숨기거나 감추는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "자신의 정체를 숨기기 위한 변장이나 위장인 변장, 또는 자신의 정체를 숨기기 위해 변장하거나 위장하는 것, 또는 사실이나 본질을 숨기거나 감추는 것.",
+    "etymology": "프랑스어 desguiser(변장하다)에서 유래했으며, des-(떨어져) + guise(외관)의 조합입니다.",
+    "semanticExtension": "원래는 '변장하다' 의미였고, 현대에는 '사실이나 본질을 숨기다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로 자주 사용되며, disguise 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, disguise + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "as",
+        "meaning_ko": "~로 변장하다",
+        "example": "disguise as"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~로 변장하다",
+        "example": "disguise in"
+      }
+    ],
+    "requiredComplements": [
+      "disguise : 변장/위장",
+      "disguise + 명사 : ~을 변장하다/숨기다",
+      "disguise as + 명사 : ~로 변장하다",
+      "disguise in + 명사 : ~로 변장하다"
+    ],
+    "morphology": "des-(떨어져) + guise(외관)의 조합으로, '외관에서 떨어져' 즉 '변장하다' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "disguised",
+        "meaning_ko": "변장한/숨긴(과거분사/형용사)"
+      },
+      {
+        "word": "disguising",
+        "meaning_ko": "변장하는/숨기는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "mask",
+        "meaning_ko": "가면"
+      },
+      {
+        "word": "conceal",
+        "meaning_ko": "숨기다"
+      },
+      {
+        "word": "hide",
+        "meaning_ko": "숨기다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "mask",
+        "meaning_ko": "가면"
+      },
+      {
+        "word": "conceal",
+        "meaning_ko": "숨기다"
+      },
+      {
+        "word": "hide",
+        "meaning_ko": "숨기다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "camouflage",
+        "meaning_ko": "위장(범위가 더 넓음)"
+      },
+      {
+        "word": "cover",
+        "meaning_ko": "덮다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reveal",
+        "meaning_ko": "드러내다"
+      },
+      {
+        "word": "expose",
+        "meaning_ko": "노출시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "disguise as",
+            "meaning_ko": "~로 변장하다"
+          },
+          {
+            "phrase": "in disguise",
+            "meaning_ko": "변장하여"
+          },
+          {
+            "phrase": "wear disguise",
+            "meaning_ko": "변장을 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "disguise as someone",
+            "meaning_ko": "누군가로 변장하다"
+          },
+          {
+            "phrase": "disguise identity",
+            "meaning_ko": "정체를 숨기다"
+          },
+          {
+            "phrase": "disguise appearance",
+            "meaning_ko": "외관을 변장하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "disguise intention",
+            "meaning_ko": "의도를 숨기다"
+          },
+          {
+            "phrase": "disguise purpose",
+            "meaning_ko": "목적을 숨기다"
+          },
+          {
+            "phrase": "disguise truth",
+            "meaning_ko": "진실을 숨기다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He wore a disguise.",
+            "meaning_ko": "그는 변장을 했습니다."
+          },
+          {
+            "sentence": "She disguised herself as a man.",
+            "meaning_ko": "그녀는 남자로 변장했습니다."
+          },
+          {
+            "sentence": "They tried to disguise the truth.",
+            "meaning_ko": "그들은 그 진실을 숨기려고 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He wore a disguise, with the costume and makeup concealing his true identity, though the effectiveness would depend on how well the transformation was executed and whether anyone recognized him.",
+            "meaning_ko": "그는 변장을 했고, 그 의상과 화장이 그의 진정한 정체를 숨겼지만, 그 효과는 그 변환이 얼마나 잘 실행되었는지와 누군가가 그를 알아봤는지에 달려있을 것입니다."
+          },
+          {
+            "sentence": "She disguised herself as a man, with the transformation involving changes to appearance and behavior, though the deception would need to be maintained consistently to avoid detection.",
+            "meaning_ko": "그녀는 남자로 변장했고, 그 변환이 외관과 행동의 변경을 포함했지만, 그 기만은 탐지를 피하기 위해 일관되게 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They tried to disguise the truth, with their efforts to conceal and mislead creating a false impression, though the deception would eventually be discovered and the real facts would come to light.",
+            "meaning_ko": "그들은 그 진실을 숨기려고 했고, 그들의 숨기고 오도하려는 노력이 거짓 인상을 만들었지만, 그 기만은 결국 발견될 것이고 실제 사실이 밝혀질 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The elaborate disguise that concealed his identity required careful planning and execution, with the transformation involving multiple elements that worked together to create a convincing appearance, though maintaining the deception would require constant vigilance and attention to detail.",
+            "meaning_ko": "그의 정체를 숨긴 그 정교한 변장은 신중한 계획과 실행을 요구했고, 그 변환이 설득력 있는 외관을 만들기 위해 함께 작동한 여러 요소를 포함했지만, 그 기만을 유지하는 것은 지속적인 경계와 세부 사항에 대한 주의를 요구할 것입니다."
+          },
+          {
+            "sentence": "The attempt to disguise the purpose of the operation involved creating a false narrative, with the deception designed to mislead observers and prevent discovery of the true intentions, though the cover story would need to be consistent and believable to be effective.",
+            "meaning_ko": "그 작전의 목적을 숨기려는 그 시도는 거짓 서사를 만드는 것을 포함했고, 그 기만이 관찰자를 오도하고 진정한 의도의 발견을 방지하도록 설계되었지만, 그 표지 이야기는 효과적이기 위해 일관되고 믿을 수 있어야 할 것입니다."
+          },
+          {
+            "sentence": "The strategy to disguise the truth required sophisticated techniques, with the efforts to conceal and mislead involving careful manipulation of information and presentation, though the deception would eventually be exposed through investigation and evidence.",
+            "meaning_ko": "그 진실을 숨기기 위한 그 전략은 정교한 기술을 요구했고, 그들의 숨기고 오도하려는 노력이 정보와 제시의 신중한 조작을 포함했지만, 그 기만은 결국 조사와 증거를 통해 노출될 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "disguise는 '변장, 위장' 또는 '변장하다, 위장하다' 또는 '숨기다, 감추다' 의미로, 자신의 정체를 숨기기 위한 변장이나 위장을 가리킵니다. mask, conceal와 비슷하지만 더 물리적 뉘앙스가 있습니다. disguise as ~, in disguise 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: disguise = (A) reveal (B) mask or conceal (C) expose (D) show",
+            "a": "B",
+            "meaning_ko": "disguise는 '가면 또는 숨기다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He wore a _____.",
+            "a": "disguise",
+            "meaning_ko": "disguise는 '변장'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of disguise? (A) mask (B) conceal (C) reveal (D) hide",
+            "a": "C",
+            "meaning_ko": "reveal(드러내다)가 disguise의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: disguise _____ a man. (A) as (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "disguise as ~는 '~로 변장하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: disguise = (A) reveal (B) mask (C) expose (D) show",
+            "a": "B",
+            "meaning_ko": "mask(가면)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She disguised herself at a man.' → Fix the preposition.",
+            "a": "She disguised herself as a man.",
+            "meaning_ko": "disguise as ~는 '~로 변장하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He wore a disguise.'",
+            "a": "He used a costume or makeup to conceal his true identity, with the transformation designed to prevent recognition and allow him to appear as someone else, though the effectiveness would depend on how well the disguise was executed.",
+            "meaning_ko": "disguise는 '변장'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They tried to _____ the truth. (A) disguise (B) disguised (C) disguising (D) disguises",
+            "a": "A",
+            "meaning_ko": "try to 뒤에는 동사 원형 disguise가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses disguise most appropriately? (A) The disguise ran. (B) He wore a disguise. (C) She disguise smiled. (D) Disguise is good.",
+            "a": "B",
+            "meaning_ko": "disguise는 명사로 '변장'을 의미하며, wear와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

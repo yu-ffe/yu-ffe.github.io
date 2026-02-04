@@ -1,0 +1,801 @@
+[
+  {
+    "word": "heave",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "들어올리다, 들어 올리다; 무거운 것을 힘들여 들어올리다.",
+        "note": "무거운 것을 힘들여 들어올리는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "내뱉다, 토하다; 구역질이나 토하는 행동을 가리킵니다.",
+        "note": "구역질이나 토하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "들어올림, 들어 올림; 무거운 것을 들어올리는 행동.",
+        "note": "무거운 것을 들어올리는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "무거운 것을 힘들여 들어올리는 것, 또는 구역질이나 토하는 것.",
+    "etymology": "고대 영어 hebban(들어올리다)에서 유래했으며, 원래는 '들어올리다' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '들어올리다' 의미였으나, 현대에는 '내뱉다, 토하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 타동사와 자동사 모두로 쓰이며, 명사로는 가산명사로 쓰입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~을 향해 들어올리다",
+        "example": "heave at the rope"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~을 당기다",
+        "example": "heave on the rope"
+      }
+    ],
+    "requiredComplements": [
+      "heave + 명사 : ~을 들어올리다",
+      "heave at/on + 명사 : ~을 향해 들어올리다/당기다"
+    ],
+    "morphology": "고대 영어 hebban에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "lift",
+        "meaning_ko": "들어올리다"
+      },
+      {
+        "word": "hoist",
+        "meaning_ko": "들어올리다"
+      },
+      {
+        "word": "throw",
+        "meaning_ko": "던지다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "lift",
+        "meaning_ko": "들어올리다"
+      },
+      {
+        "word": "hoist",
+        "meaning_ko": "들어올리다"
+      },
+      {
+        "word": "raise",
+        "meaning_ko": "들어올리다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "pull",
+        "meaning_ko": "당기다(범위가 더 넓음)"
+      },
+      {
+        "word": "tug",
+        "meaning_ko": "당기다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lower",
+        "meaning_ko": "내리다"
+      },
+      {
+        "word": "drop",
+        "meaning_ko": "떨어뜨리다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "heave a sigh",
+            "meaning_ko": "한숨을 쉬다"
+          },
+          {
+            "phrase": "heave at",
+            "meaning_ko": "~을 향해 들어올리다"
+          },
+          {
+            "phrase": "heave on",
+            "meaning_ko": "~을 당기다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "heave the anchor",
+            "meaning_ko": "닻을 들어올리다"
+          },
+          {
+            "phrase": "heave the rope",
+            "meaning_ko": "로프를 당기다"
+          },
+          {
+            "phrase": "heave a sigh of relief",
+            "meaning_ko": "안도의 한숨을 쉬다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "heave into view",
+            "meaning_ko": "시야에 들어오다"
+          },
+          {
+            "phrase": "heave the burden",
+            "meaning_ko": "부담을 들어올리다"
+          },
+          {
+            "phrase": "heave the weight",
+            "meaning_ko": "무게를 들어올리다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They heaved the heavy box onto the truck.",
+            "meaning_ko": "그들은 그 무거운 상자를 트럭 위로 들어올렸습니다."
+          },
+          {
+            "sentence": "He heaved a sigh of relief.",
+            "meaning_ko": "그는 안도의 한숨을 쉬었습니다."
+          },
+          {
+            "sentence": "The sailors heaved at the rope.",
+            "meaning_ko": "그 선원들은 그 로프를 당겼습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The crew worked together to heave the anchor from the seabed, requiring coordinated effort and physical strength.",
+            "meaning_ko": "그 승무원들은 해저에서 닻을 들어올리기 위해 함께 일했고, 조화된 노력과 신체적 힘을 요구했습니다."
+          },
+          {
+            "sentence": "She heaved a sigh of relief when she received the news that her application had been accepted, ending weeks of anxiety.",
+            "meaning_ko": "그녀는 그녀의 신청이 승인되었다는 소식을 받았을 때 안도의 한숨을 쉬었고, 몇 주간의 불안을 끝냈습니다."
+          },
+          {
+            "sentence": "The workers heaved on the rope to move the heavy equipment, demonstrating the importance of teamwork in completing the task.",
+            "meaning_ko": "그 노동자들은 그 무거운 장비를 옮기기 위해 그 로프를 당겼고, 그 작업을 완료하는 데 팀워크의 중요성을 보여줬습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ship heaved into view as it emerged from the fog, its massive silhouette gradually becoming clearer against the horizon.",
+            "meaning_ko": "그 배는 안개에서 나타나면서 시야에 들어왔고, 그 거대한 실루엣이 수평선을 배경으로 점점 더 명확해졌습니다."
+          },
+          {
+            "sentence": "The team had to heave the burden of responsibility onto their shoulders, accepting the challenge of completing the project under difficult circumstances.",
+            "meaning_ko": "그 팀은 어려운 상황에서 프로젝트를 완료하는 도전을 받아들이면서 책임의 부담을 자신들의 어깨에 들어올려야 했습니다."
+          },
+          {
+            "sentence": "The weight of the decision heave heavily on her mind, requiring careful consideration of all potential consequences before making a final choice.",
+            "meaning_ko": "그 결정의 무게는 그녀의 마음에 무겁게 들어올려졌고, 최종 선택을 하기 전에 모든 잠재적 결과를 신중하게 고려할 것을 요구했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "heave는 '들어올리다' 또는 '내뱉다' 의미로, 무거운 것을 힘들여 들어올리는 행동을 가리킵니다. lift, hoist와 비슷하지만 더 힘들여 하는 뉘앙스가 있습니다. heave a sigh, heave at/on ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "동작",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: heave = (A) lower (B) lift or hoist (C) drop (D) fall",
+            "a": "B",
+            "meaning_ko": "heave는 '들어올리거나 들어올리다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They _____ the heavy box onto the truck.",
+            "a": "heaved",
+            "meaning_ko": "heave는 '들어올리다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of heave? (A) lift (B) hoist (C) lower (D) raise",
+            "a": "C",
+            "meaning_ko": "lower(내리다)가 heave의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: heave _____ the rope. (A) at (B) in (C) on (D) both A and C",
+            "a": "D",
+            "meaning_ko": "heave at/on ~는 모두 '~을 향해 들어올리다/당기다' 의미로 사용 가능합니다."
+          },
+          {
+            "q": "Pick the best synonym: heave = (A) lower (B) lift (C) drop (D) fall",
+            "a": "B",
+            "meaning_ko": "lift(들어올리다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He heaved a sigh of relief.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "heave a sigh는 '한숨을 쉬다' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The crew heaved the anchor from the seabed.'",
+            "a": "The team of workers lifted and pulled the heavy metal device used to anchor the ship from the bottom of the ocean, requiring significant physical effort.",
+            "meaning_ko": "heave the anchor는 '닻을 들어올리다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ on the rope. (A) heave (B) heaves (C) heaving (D) heaved",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 heave가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses heave most appropriately? (A) The heave ran. (B) They heaved the box. (C) She heave smiled. (D) Heave is good.",
+            "a": "B",
+            "meaning_ko": "heave는 타동사로 '~을 들어올리다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "gaiety",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "환락, 즐거움; 즐겁고 활기찬 분위기나 상태.",
+        "note": "즐겁고 활기찬 분위기나 상태를 가리킵니다."
+      }
+    ],
+    "concept": "즐겁고 활기찬 분위기나 상태의 환락.",
+    "etymology": "프랑스어 gaieté(즐거움)에서 유래했으며, 원래는 '즐거움' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '즐거움' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, gaiety 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "gaiety of + 명사 : ~의 즐거움",
+      "with gaiety : 즐거움으로"
+    ],
+    "morphology": "프랑스어 gaieté에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "gay",
+        "meaning_ko": "즐거운"
+      },
+      {
+        "word": "gaily",
+        "meaning_ko": "즐겁게"
+      }
+    ],
+    "related": [
+      {
+        "word": "joy",
+        "meaning_ko": "기쁨"
+      },
+      {
+        "word": "cheerfulness",
+        "meaning_ko": "쾌활함"
+      },
+      {
+        "word": "merriment",
+        "meaning_ko": "환락"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "joy",
+        "meaning_ko": "기쁨"
+      },
+      {
+        "word": "cheerfulness",
+        "meaning_ko": "쾌활함"
+      },
+      {
+        "word": "merriment",
+        "meaning_ko": "환락"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "happiness",
+        "meaning_ko": "행복(범위가 더 넓음)"
+      },
+      {
+        "word": "jollity",
+        "meaning_ko": "환락"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sadness",
+        "meaning_ko": "슬픔"
+      },
+      {
+        "word": "gloom",
+        "meaning_ko": "우울"
+      },
+      {
+        "word": "melancholy",
+        "meaning_ko": "우울"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "gaiety of",
+            "meaning_ko": "~의 즐거움"
+          },
+          {
+            "phrase": "with gaiety",
+            "meaning_ko": "즐거움으로"
+          },
+          {
+            "phrase": "air of gaiety",
+            "meaning_ko": "즐거운 분위기"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "gaiety of the party",
+            "meaning_ko": "파티의 즐거움"
+          },
+          {
+            "phrase": "gaiety of the celebration",
+            "meaning_ko": "축하의 즐거움"
+          },
+          {
+            "phrase": "spirit of gaiety",
+            "meaning_ko": "즐거운 정신"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "gaiety of the occasion",
+            "meaning_ko": "그 행사의 즐거움"
+          },
+          {
+            "phrase": "gaiety of the festival",
+            "meaning_ko": "축제의 즐거움"
+          },
+          {
+            "phrase": "gaiety of the gathering",
+            "meaning_ko": "모임의 즐거움"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The gaiety of the party was infectious.",
+            "meaning_ko": "그 파티의 즐거움은 전염성이 있었습니다."
+          },
+          {
+            "sentence": "They celebrated with gaiety and laughter.",
+            "meaning_ko": "그들은 즐거움과 웃음으로 축하했습니다."
+          },
+          {
+            "sentence": "The air of gaiety filled the room.",
+            "meaning_ko": "즐거운 분위기가 그 방을 채웠습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The gaiety of the party was infectious, spreading joy and laughter throughout the gathering as guests enjoyed the festive atmosphere.",
+            "meaning_ko": "그 파티의 즐거움은 전염성이 있었고, 손님들이 축제 분위기를 즐기면서 모임 전반에 기쁨과 웃음을 퍼뜨렸습니다."
+          },
+          {
+            "sentence": "They celebrated with gaiety and laughter, marking the special occasion with enthusiasm and shared happiness that brought everyone together.",
+            "meaning_ko": "그들은 즐거움과 웃음으로 축하했고, 모든 사람을 함께 모이게 한 열정과 공유된 행복으로 그 특별한 행사를 기념했습니다."
+          },
+          {
+            "sentence": "The spirit of gaiety that characterized the celebration reflected the community's ability to come together and find joy even in challenging times.",
+            "meaning_ko": "그 축하를 특징짓는 즐거운 정신은 그 지역 사회가 함께 모이고 도전적인 시기에도 기쁨을 찾는 능력을 반영했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The gaiety of the occasion, enhanced by music, dancing, and shared stories, created a memorable experience that strengthened bonds between family members and friends.",
+            "meaning_ko": "음악, 춤, 공유된 이야기로 향상된 그 행사의 즐거움은 가족 구성원들과 친구들 사이의 유대를 강화한 기억에 남는 경험을 만들었습니다."
+          },
+          {
+            "sentence": "The gaiety of the festival, with its vibrant colors, lively performances, and enthusiastic participants, demonstrated the community's rich cultural traditions and collective spirit.",
+            "meaning_ko": "그 생생한 색상, 활기찬 공연, 열정적인 참가자들과 함께 한 그 축제의 즐거움은 그 지역 사회의 풍부한 문화적 전통과 집단적 정신을 보여줬습니다."
+          },
+          {
+            "sentence": "The gaiety of the gathering, despite the underlying concerns about the future, showed the human capacity to find moments of joy and connection even in uncertain circumstances.",
+            "meaning_ko": "미래에 대한 근본적인 우려에도 불구하고 그 모임의 즐거움은 불확실한 상황에서도 기쁨과 연결의 순간을 찾는 인간의 능력을 보여줬습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "gaiety는 '환락, 즐거움' 의미로, 즐겁고 활기찬 분위기나 상태를 가리킵니다. 매우 격식 있고 드문 단어로, joy, merriment와 비슷하지만 더 문학적 뉘앙스가 있습니다. gaiety of ~, with gaiety 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "감정",
+      "격식",
+      "문어",
+      "드문",
+      "긍정"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: gaiety = (A) sadness (B) joy or cheerfulness (C) gloom (D) melancholy",
+            "a": "B",
+            "meaning_ko": "gaiety는 '기쁨 또는 쾌활함' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ of the party was infectious.",
+            "a": "gaiety",
+            "meaning_ko": "gaiety는 '즐거움'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of gaiety? (A) joy (B) cheerfulness (C) sadness (D) merriment",
+            "a": "C",
+            "meaning_ko": "sadness(슬픔)가 gaiety의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ of the celebration was evident. (A) gaiety (B) gaieties (C) gaily (D) gay",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 gaiety가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: gaiety = (A) sadness (B) joy (C) gloom (D) melancholy",
+            "a": "B",
+            "meaning_ko": "joy(기쁨)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The gaieties of the party were evident.' → Fix the sentence.",
+            "a": "The gaiety of the party was evident.",
+            "meaning_ko": "gaiety는 불가산명사이므로 복수형이 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The gaiety of the party was infectious.'",
+            "a": "The joyful and cheerful atmosphere of the celebration spread easily to others, creating a positive and uplifting mood that affected everyone present.",
+            "meaning_ko": "gaiety of the party는 '파티의 즐거움'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of the occasion created memories. (A) gaiety (B) gaieties (C) gaily (D) gay",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 gaiety가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses gaiety most appropriately? (A) The gaiety ran. (B) The gaiety of the party was evident. (C) She gaiety smiled. (D) Gaiety is good.",
+            "a": "B",
+            "meaning_ko": "gaiety는 명사로 '즐거움'을 의미하며, of와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "colloquial",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "구어의, 일상 회화의; 일상 대화에서 쓰이는 비격식적인.",
+        "note": "일상 대화에서 쓰이는 비격식적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "일상 대화에서 쓰이는 비격식적인 구어의 상태.",
+    "etymology": "라틴어 colloquium(대화)에서 유래했으며, 원래는 '대화' 의미였으나 현대에는 '구어의'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '대화' 의미였으나, 현대에는 '일상 대화에서 쓰이는 비격식적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be colloquial 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be colloquial : 구어적이다",
+      "colloquial + 명사 : 구어의 ~"
+    ],
+    "morphology": "라틴어 colloquium에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "colloquially",
+        "meaning_ko": "구어적으로"
+      },
+      {
+        "word": "colloquialism",
+        "meaning_ko": "구어 표현"
+      }
+    ],
+    "related": [
+      {
+        "word": "informal",
+        "meaning_ko": "비격식적인"
+      },
+      {
+        "word": "conversational",
+        "meaning_ko": "대화의"
+      },
+      {
+        "word": "casual",
+        "meaning_ko": "캐주얼한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "informal",
+        "meaning_ko": "비격식적인"
+      },
+      {
+        "word": "conversational",
+        "meaning_ko": "대화의"
+      },
+      {
+        "word": "casual",
+        "meaning_ko": "캐주얼한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "slang",
+        "meaning_ko": "속어(범위가 더 넓음)"
+      },
+      {
+        "word": "vernacular",
+        "meaning_ko": "구어"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "formal",
+        "meaning_ko": "격식 있는"
+      },
+      {
+        "word": "literary",
+        "meaning_ko": "문학적인"
+      },
+      {
+        "word": "academic",
+        "meaning_ko": "학술적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "colloquial expression",
+            "meaning_ko": "구어 표현"
+          },
+          {
+            "phrase": "colloquial language",
+            "meaning_ko": "구어"
+          },
+          {
+            "phrase": "colloquial speech",
+            "meaning_ko": "구어"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "colloquial usage",
+            "meaning_ko": "구어 사용"
+          },
+          {
+            "phrase": "colloquial style",
+            "meaning_ko": "구어 스타일"
+          },
+          {
+            "phrase": "colloquial term",
+            "meaning_ko": "구어 용어"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "colloquial register",
+            "meaning_ko": "구어 레지스터"
+          },
+          {
+            "phrase": "colloquial vocabulary",
+            "meaning_ko": "구어 어휘"
+          },
+          {
+            "phrase": "colloquial dialect",
+            "meaning_ko": "구어 방언"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The word is used in colloquial speech.",
+            "meaning_ko": "그 단어는 구어에서 사용됩니다."
+          },
+          {
+            "sentence": "This is a colloquial expression.",
+            "meaning_ko": "이것은 구어 표현입니다."
+          },
+          {
+            "sentence": "The colloquial language was easy to understand.",
+            "meaning_ko": "그 구어는 이해하기 쉬웠습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The word is used in colloquial speech but avoided in formal writing, reflecting the distinction between spoken and written language registers.",
+            "meaning_ko": "그 단어는 구어에서 사용되지만 격식 있는 글에서는 피해지며, 말과 글의 언어 레지스터 사이의 구분을 반영합니다."
+          },
+          {
+            "sentence": "This is a colloquial expression that native speakers use naturally in everyday conversation, though it might seem inappropriate in academic or professional contexts.",
+            "meaning_ko": "이것은 원어민들이 일상 대화에서 자연스럽게 사용하는 구어 표현이지만, 학술적이거나 전문적인 맥락에서는 부적절해 보일 수 있습니다."
+          },
+          {
+            "sentence": "The colloquial language used in the dialogue made the characters more relatable and authentic, helping readers connect with the story on a personal level.",
+            "meaning_ko": "그 대화에서 사용된 구어는 그 인물들을 더 공감할 수 있고 진정성 있게 만들었고, 독자들이 개인적 수준에서 그 이야기와 연결하는 데 도움을 줬습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The study of colloquial register in linguistics examines how speakers adapt their language use to informal contexts, revealing patterns of social interaction and communication norms.",
+            "meaning_ko": "언어학에서 구어 레지스터에 대한 연구는 화자들이 비격식적 맥락에 자신들의 언어 사용을 어떻게 적응시키는지 조사하며, 사회적 상호작용과 소통 규범의 패턴을 드러냅니다."
+          },
+          {
+            "sentence": "The author's use of colloquial vocabulary throughout the novel created an authentic voice that reflected the cultural and social background of the characters, enhancing the narrative's realism.",
+            "meaning_ko": "그 소설 전반에 걸쳐 작가의 구어 어휘 사용은 그 인물들의 문화적이고 사회적인 배경을 반영하는 진정성 있는 목소리를 만들었고, 서사의 사실성을 향상시켰습니다."
+          },
+          {
+            "sentence": "The transition from colloquial dialect in dialogue to formal language in narration demonstrated the writer's skill in manipulating linguistic registers to create different effects and maintain narrative coherence.",
+            "meaning_ko": "대화에서 구어 방언에서 서술에서 격식 있는 언어로의 전환은 다른 효과를 만들고 서사적 일관성을 유지하기 위해 언어적 레지스터를 조작하는 그 작가의 기술을 보여줬습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "colloquial는 '구어의, 일상 회화의' 의미로, 일상 대화에서 쓰이는 비격식적인 상태를 가리킵니다. informal, conversational과 비슷하지만 더 학술적 뉘앙스가 있습니다. colloquial expression, colloquial language 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "언어",
+      "격식",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: colloquial = (A) formal (B) informal or conversational (C) literary (D) academic",
+            "a": "B",
+            "meaning_ko": "colloquial는 '비격식적이거나 대화의' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: This is a _____ expression.",
+            "a": "colloquial",
+            "meaning_ko": "colloquial는 '구어의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of colloquial? (A) informal (B) conversational (C) formal (D) casual",
+            "a": "C",
+            "meaning_ko": "formal(격식 있는)가 colloquial의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ language was easy. (A) colloquial (B) colloquially (C) colloquialism (D) colloquialisms",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 colloquial가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: colloquial = (A) formal (B) informal (C) literary (D) academic",
+            "a": "B",
+            "meaning_ko": "informal(비격식적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The expression was colloquially.' → Fix the sentence.",
+            "a": "The expression was colloquial.",
+            "meaning_ko": "be 동사 뒤에는 형용사 colloquial가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The colloquial expression was natural.'",
+            "a": "The informal and conversational phrase used in everyday speech sounded authentic and appropriate for casual communication contexts.",
+            "meaning_ko": "colloquial expression는 '구어 표현'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ register was studied. (A) colloquial (B) colloquially (C) colloquialism (D) colloquialisms",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 colloquial가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses colloquial most appropriately? (A) The colloquial ran. (B) The colloquial expression was used. (C) She colloquial smiled. (D) Colloquial is good.",
+            "a": "B",
+            "meaning_ko": "colloquial는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

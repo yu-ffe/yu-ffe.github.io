@@ -1,0 +1,800 @@
+[
+  {
+    "word": "standstill",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "정지, 중단; 움직임이나 진행이 완전히 멈춘 상태.",
+        "note": "움직임이나 진행이 완전히 멈춘 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "교착 상태, 막힘; 진행이 막히거나 교착된 상태.",
+        "note": "진행이 막히거나 교착된 상태를 가리킵니다."
+      }
+    ],
+    "concept": "움직임이나 진행이 완전히 멈춘 상태인 정지, 또는 진행이 막히거나 교착된 상태인 교착 상태.",
+    "etymology": "stand(서다) + still(정지)의 조합으로, '서서 정지하다' 즉 '정지' 의미를 나타냅니다.",
+    "semanticExtension": "원래는 '정지' 의미였고, 현대에는 '교착 상태'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "불가산명사로 자주 사용되며, standstill 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "정지 상태에",
+        "example": "at a standstill"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "정지 상태로",
+        "example": "come to a standstill"
+      }
+    ],
+    "requiredComplements": [
+      "standstill : 정지/교착 상태",
+      "at a standstill : 정지 상태에",
+      "come to a standstill : 정지 상태로 이르다"
+    ],
+    "morphology": "stand(서다) + still(정지)의 조합으로, '서서 정지하다' 즉 '정지' 의미를 나타냅니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "halt",
+        "meaning_ko": "정지"
+      },
+      {
+        "word": "stop",
+        "meaning_ko": "정지"
+      },
+      {
+        "word": "stagnation",
+        "meaning_ko": "정체"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "halt",
+        "meaning_ko": "정지"
+      },
+      {
+        "word": "stop",
+        "meaning_ko": "정지"
+      },
+      {
+        "word": "stagnation",
+        "meaning_ko": "정체"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "deadlock",
+        "meaning_ko": "교착 상태(범위가 더 넓음)"
+      },
+      {
+        "word": "impasse",
+        "meaning_ko": "막힘"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "progress",
+        "meaning_ko": "진행"
+      },
+      {
+        "word": "movement",
+        "meaning_ko": "움직임"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "at a standstill",
+            "meaning_ko": "정지 상태에"
+          },
+          {
+            "phrase": "come to a standstill",
+            "meaning_ko": "정지 상태로 이르다"
+          },
+          {
+            "phrase": "bring to a standstill",
+            "meaning_ko": "정지 상태로 만들다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "traffic standstill",
+            "meaning_ko": "교통 정지"
+          },
+          {
+            "phrase": "negotiation standstill",
+            "meaning_ko": "협상 교착"
+          },
+          {
+            "phrase": "economic standstill",
+            "meaning_ko": "경제 정체"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "standstill situation",
+            "meaning_ko": "정지 상황"
+          },
+          {
+            "phrase": "standstill condition",
+            "meaning_ko": "정지 조건"
+          },
+          {
+            "phrase": "standstill period",
+            "meaning_ko": "정지 기간"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The traffic came to a standstill.",
+            "meaning_ko": "그 교통은 정지 상태로 이르렀습니다."
+          },
+          {
+            "sentence": "The negotiations were at a standstill.",
+            "meaning_ko": "그 협상은 정지 상태에 있었습니다."
+          },
+          {
+            "sentence": "The work came to a standstill.",
+            "meaning_ko": "그 작업은 정지 상태로 이르렀습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The traffic came to a standstill, with vehicles completely stopped and unable to move, though the situation would eventually be resolved as obstacles were cleared or conditions improved.",
+            "meaning_ko": "그 교통은 정지 상태로 이르렀고, 차량이 완전히 멈추고 움직일 수 없었지만, 장애물이 제거되거나 조건이 개선되면서 그 상황은 결국 해결될 것입니다."
+          },
+          {
+            "sentence": "The negotiations were at a standstill, with no progress being made and both sides unable to reach an agreement, though the deadlock would require compromise or new approaches to break.",
+            "meaning_ko": "그 협상은 정지 상태에 있었고, 진행이 이루어지지 않고 양쪽 모두 합의에 도달할 수 없었지만, 그 교착 상태는 깨기 위해 타협이나 새로운 접근을 요구할 것입니다."
+          },
+          {
+            "sentence": "The work came to a standstill, with all activity ceasing and no progress being made, though the stoppage would need to be addressed to resume operations and complete the project.",
+            "meaning_ko": "그 작업은 정지 상태로 이르렀고, 모든 활동이 중단되고 진행이 이루어지지 않았지만, 그 중단은 운영을 재개하고 프로젝트를 완료하기 위해 다루어질 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The standstill situation created significant challenges for the organization, with the complete halt in operations affecting productivity and creating delays, though resolving the issue would require identifying the root cause and implementing appropriate solutions.",
+            "meaning_ko": "그 정지 상황은 그 조직에 대한 중요한 도전을 만들었고, 운영의 완전한 중단이 생산성에 영향을 미치고 지연을 만들었지만, 그 문제를 해결하는 것은 근본 원인을 식별하고 적절한 해결책을 구현하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The standstill condition persisted despite efforts to resolve it, with the deadlock creating frustration and uncertainty, though breaking the impasse would require creative solutions and willingness to compromise from all parties involved.",
+            "meaning_ko": "그 정지 조건은 그것을 해결하려는 노력에도 불구하고 지속되었고, 그 교착 상태가 좌절과 불확실성을 만들었지만, 그 막힘을 깨는 것은 창의적 해결책과 관련된 모든 당사자로부터 타협할 의지를 요구할 것입니다."
+          },
+          {
+            "sentence": "The standstill period lasted longer than expected, with the extended halt creating economic and social impacts, though the duration would depend on the complexity of the issues and the effectiveness of measures taken to address them.",
+            "meaning_ko": "그 정지 기간은 예상보다 오래 지속되었고, 그 연장된 중단이 경제적이고 사회적 영향을 만들었지만, 그 지속 시간은 그 문제의 복잡성과 그것들을 다루기 위해 취해진 조치의 효과에 달려있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "standstill는 '정지, 중단' 또는 '교착 상태, 막힘' 의미로, 움직임이나 진행이 완전히 멈춘 상태를 가리킵니다. halt, stop와 비슷하지만 더 강한 뉘앙스가 있습니다. at a standstill, come to a standstill 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: standstill = (A) progress (B) halt or stop (C) movement (D) advance",
+            "a": "B",
+            "meaning_ko": "standstill는 '정지 또는 중단' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The traffic came to a _____.",
+            "a": "standstill",
+            "meaning_ko": "standstill는 '정지'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of standstill? (A) halt (B) stop (C) progress (D) stagnation",
+            "a": "C",
+            "meaning_ko": "progress(진행)가 standstill의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: _____ a standstill. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "at a standstill는 '정지 상태에' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: standstill = (A) progress (B) halt (C) movement (D) advance",
+            "a": "B",
+            "meaning_ko": "halt(정지)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The negotiations were on a standstill.' → Fix the preposition.",
+            "a": "The negotiations were at a standstill.",
+            "meaning_ko": "at a standstill는 '정지 상태에' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The traffic came to a standstill.'",
+            "a": "The traffic completely stopped, with vehicles unable to move and all progress ceasing, though the situation would eventually be resolved as obstacles were cleared or conditions improved.",
+            "meaning_ko": "standstill는 '정지'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The work came to a _____. (A) standstill (B) standstills (C) standstill's (D) standstilled",
+            "a": "A",
+            "meaning_ko": "명사 standstill가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses standstill most appropriately? (A) The standstill ran. (B) The traffic came to a standstill. (C) She standstill smiled. (D) Standstill is good.",
+            "a": "B",
+            "meaning_ko": "standstill는 명사로 '정지'를 의미하며, come to와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "redoutable",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "무서운, 두려운; 두려움을 주거나 무서운.",
+        "note": "두려움을 주거나 무서운 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "강력한, 위협적인; 강력하거나 위협적인.",
+        "note": "강력하거나 위협적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "두려움을 주거나 무서운 무서운 상태, 또는 강력하거나 위협적인 강력한 상태.",
+    "etymology": "프랑스어 redoutable(두려운)에서 유래했으며, 원래는 '두려운' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래는 '두려운' 의미였고, 현대에는 '강력하거나 위협적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학과 학문 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be redoutable 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be redoutable : 무섭다/강력하다",
+      "redoutable + 명사 : 무서운/강력한 ~"
+    ],
+    "morphology": "프랑스어 redoutable에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "redoutably",
+        "meaning_ko": "무섭게/강력하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "formidable",
+        "meaning_ko": "무서운"
+      },
+      {
+        "word": "fearsome",
+        "meaning_ko": "무서운"
+      },
+      {
+        "word": "intimidating",
+        "meaning_ko": "위협적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "formidable",
+        "meaning_ko": "무서운"
+      },
+      {
+        "word": "fearsome",
+        "meaning_ko": "무서운"
+      },
+      {
+        "word": "intimidating",
+        "meaning_ko": "위협적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "daunting",
+        "meaning_ko": "위협적인(범위가 더 넓음)"
+      },
+      {
+        "word": "threatening",
+        "meaning_ko": "위협적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "harmless",
+        "meaning_ko": "해롭지 않은"
+      },
+      {
+        "word": "weak",
+        "meaning_ko": "약한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "redoutable opponent",
+            "meaning_ko": "무서운 상대"
+          },
+          {
+            "phrase": "redoutable enemy",
+            "meaning_ko": "무서운 적"
+          },
+          {
+            "phrase": "redoutable warrior",
+            "meaning_ko": "무서운 전사"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "redoutable force",
+            "meaning_ko": "강력한 힘"
+          },
+          {
+            "phrase": "redoutable reputation",
+            "meaning_ko": "무서운 명성"
+          },
+          {
+            "phrase": "redoutable challenge",
+            "meaning_ko": "강력한 도전"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "redoutable adversary",
+            "meaning_ko": "무서운 적수"
+          },
+          {
+            "phrase": "redoutable presence",
+            "meaning_ko": "무서운 존재"
+          },
+          {
+            "phrase": "redoutable character",
+            "meaning_ko": "강력한 성격"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was a redoutable opponent.",
+            "meaning_ko": "그는 무서운 상대였습니다."
+          },
+          {
+            "sentence": "She faced a redoutable enemy.",
+            "meaning_ko": "그녀는 무서운 적에 직면했습니다."
+          },
+          {
+            "sentence": "The warrior was redoutable.",
+            "meaning_ko": "그 전사는 무서웠습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was a redoutable opponent, with his formidable skills and intimidating presence creating fear and respect, though facing him would require courage and strategic planning.",
+            "meaning_ko": "그는 무서운 상대였고, 그의 무서운 기술과 위협적인 존재가 두려움과 존경을 만들었지만, 그를 직면하는 것은 용기와 전략적 계획을 요구할 것입니다."
+          },
+          {
+            "sentence": "She faced a redoutable enemy, with the formidable opponent presenting a serious threat that would require all her resources and determination to overcome, though the challenge would test her abilities to the limit.",
+            "meaning_ko": "그녀는 무서운 적에 직면했고, 그 무서운 상대가 그녀의 모든 자원과 결심을 요구할 심각한 위협을 제시했지만, 그 도전은 그녀의 능력을 한계까지 시험할 것입니다."
+          },
+          {
+            "sentence": "The warrior was redoutable, with his fearsome reputation and formidable combat skills making him a figure to be feared and respected, though his strength would be tested in battle.",
+            "meaning_ko": "그 전사는 무서웠고, 그의 무서운 명성과 무서운 전투 기술이 그를 두려워하고 존경받을 인물로 만들었지만, 그의 힘은 전투에서 시험될 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The redoutable adversary that stood against them represented a significant challenge, with the formidable opponent's reputation and capabilities creating a sense of urgency and the need for careful preparation, though the confrontation would determine the outcome of the conflict.",
+            "meaning_ko": "그들에 맞서 선 그 무서운 적수는 중요한 도전을 나타냈고, 그 무서운 상대의 명성과 능력이 긴급성의 감각과 신중한 준비의 필요를 만들었지만, 그 대면은 그 갈등의 결과를 결정할 것입니다."
+          },
+          {
+            "sentence": "The redoutable presence of the leader commanded respect and fear, with the formidable character and intimidating demeanor creating an atmosphere of authority and power, though the influence would depend on how effectively it was wielded.",
+            "meaning_ko": "그 리더의 그 무서운 존재는 존경과 두려움을 명령했고, 그 무서운 성격과 위협적인 태도가 권위와 권력의 분위기를 만들었지만, 그 영향은 그것이 얼마나 효과적으로 행사되었는지에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The redoutable character of the organization made it a force to be reckoned with, with the formidable reputation and capabilities creating challenges for competitors, though maintaining this status would require continued excellence and strategic advantage.",
+            "meaning_ko": "그 조직의 그 강력한 성격은 그것을 고려해야 할 힘으로 만들었고, 그 무서운 명성과 능력이 경쟁자들에게 도전을 만들었지만, 이 지위를 유지하는 것은 지속적인 우수성과 전략적 이점을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "redoutable는 '무서운, 두려운' 또는 '강력한, 위협적인' 의미로, 두려움을 주거나 무서운 상태를 가리킵니다. formidable, fearsome와 비슷하지만 더 문학적 뉘앙스가 있습니다. redoutable opponent, redoutable enemy 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문학",
+      "학문",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 9,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: redoutable = (A) harmless (B) formidable or fearsome (C) weak (D) gentle",
+            "a": "B",
+            "meaning_ko": "redoutable는 '무서운 또는 두려운' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was a _____ opponent.",
+            "a": "redoutable",
+            "meaning_ko": "redoutable는 '무서운' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of redoutable? (A) formidable (B) fearsome (C) harmless (D) intimidating",
+            "a": "C",
+            "meaning_ko": "harmless(해롭지 않은)가 redoutable의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She faced a _____ enemy. (A) redoutable (B) redoutably (C) redoutability (D) redoutable's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 redoutable가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: redoutable = (A) harmless (B) formidable (C) weak (D) gentle",
+            "a": "B",
+            "meaning_ko": "formidable(무서운)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He was redoutably opponent.' → Fix the sentence.",
+            "a": "He was a redoutable opponent.",
+            "meaning_ko": "명사를 수식하는 형용사 redoutable가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was a redoutable opponent.'",
+            "a": "He was a formidable and fearsome opponent, with his intimidating presence and powerful capabilities creating fear and respect, though facing him would require courage and strategic planning.",
+            "meaning_ko": "redoutable는 '무서운' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The warrior was _____. (A) redoutable (B) redoutably (C) redoutability (D) redoutable's",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 redoutable가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses redoutable most appropriately? (A) The redoutable ran. (B) He was a redoutable opponent. (C) She redoutable smiled. (D) Redoutable is good.",
+            "a": "B",
+            "meaning_ko": "redoutable는 형용사로 명사를 수식하거나 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "mobile",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "이동 가능한, 움직일 수 있는; 쉽게 움직이거나 이동할 수 있는.",
+        "note": "쉽게 움직이거나 이동할 수 있는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "휴대용의, 모바일; 휴대하거나 이동할 수 있는.",
+        "note": "휴대하거나 이동할 수 있는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "모바일, 휴대 전화; 휴대 전화나 모바일 기기.",
+        "note": "휴대 전화나 모바일 기기를 가리킵니다."
+      }
+    ],
+    "concept": "쉽게 움직이거나 이동할 수 있는 이동 가능한 상태, 또는 휴대하거나 이동할 수 있는 휴대용의 상태, 또는 휴대 전화나 모바일 기기.",
+    "etymology": "라틴어 mobilis(움직일 수 있는)에서 유래했으며, movere(움직이다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '움직일 수 있는' 의미였고, 현대에는 '휴대용의' 또는 '휴대 전화'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 주로 명사를 수식하거나 서술어로 쓰이며, be mobile 형태로 자주 사용됩니다. 명사로는 가산명사로 자주 사용되며, mobile 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be mobile : 이동 가능하다",
+      "mobile + 명사 : 이동 가능한/휴대용의 ~",
+      "mobile : 모바일/휴대 전화"
+    ],
+    "morphology": "라틴어 mobilis에서 유래한 단어로, movere(움직이다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "mobility",
+        "meaning_ko": "이동성"
+      },
+      {
+        "word": "mobilize",
+        "meaning_ko": "동원하다"
+      },
+      {
+        "word": "mobilization",
+        "meaning_ko": "동원"
+      }
+    ],
+    "related": [
+      {
+        "word": "portable",
+        "meaning_ko": "휴대용의"
+      },
+      {
+        "word": "movable",
+        "meaning_ko": "이동 가능한"
+      },
+      {
+        "word": "flexible",
+        "meaning_ko": "유연한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "portable",
+        "meaning_ko": "휴대용의"
+      },
+      {
+        "word": "movable",
+        "meaning_ko": "이동 가능한"
+      },
+      {
+        "word": "flexible",
+        "meaning_ko": "유연한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "transportable",
+        "meaning_ko": "운반 가능한(범위가 더 넓음)"
+      },
+      {
+        "word": "nomadic",
+        "meaning_ko": "유목의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fixed",
+        "meaning_ko": "고정된"
+      },
+      {
+        "word": "stationary",
+        "meaning_ko": "정지한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mobile phone",
+            "meaning_ko": "휴대 전화"
+          },
+          {
+            "phrase": "mobile device",
+            "meaning_ko": "모바일 기기"
+          },
+          {
+            "phrase": "mobile unit",
+            "meaning_ko": "이동 단위"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "mobile application",
+            "meaning_ko": "모바일 애플리케이션"
+          },
+          {
+            "phrase": "mobile technology",
+            "meaning_ko": "모바일 기술"
+          },
+          {
+            "phrase": "mobile workforce",
+            "meaning_ko": "이동 노동력"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mobile platform",
+            "meaning_ko": "모바일 플랫폼"
+          },
+          {
+            "phrase": "mobile infrastructure",
+            "meaning_ko": "모바일 인프라"
+          },
+          {
+            "phrase": "mobile ecosystem",
+            "meaning_ko": "모바일 생태계"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She has a mobile phone.",
+            "meaning_ko": "그녀는 휴대 전화를 가지고 있습니다."
+          },
+          {
+            "sentence": "The unit is mobile.",
+            "meaning_ko": "그 단위는 이동 가능합니다."
+          },
+          {
+            "sentence": "He uses a mobile.",
+            "meaning_ko": "그는 모바일을 사용합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She has a mobile phone, with the portable device allowing her to communicate and access information from anywhere, though the convenience comes with responsibilities for managing usage and privacy.",
+            "meaning_ko": "그녀는 휴대 전화를 가지고 있고, 그 휴대용 기기가 그녀가 어디서나 의사 소통하고 정보에 접근할 수 있게 했지만, 그 편의는 사용과 사생활 관리를 위한 책임과 함께 옵니다."
+          },
+          {
+            "sentence": "The unit is mobile, with the ability to move and relocate providing flexibility and adaptability, though the mobility would require proper planning and logistics to be effective.",
+            "meaning_ko": "그 단위는 이동 가능하고, 이동하고 재배치할 수 있는 능력이 유연성과 적응성을 제공했지만, 그 이동성은 효과적이기 위해 적절한 계획과 물류를 요구할 것입니다."
+          },
+          {
+            "sentence": "He uses a mobile, with the device providing access to communication and information, though the technology would need to be used responsibly and in accordance with guidelines.",
+            "meaning_ko": "그는 모바일을 사용하고, 그 기기가 의사 소통과 정보에 대한 접근을 제공했지만, 그 기술은 책임 있게 그리고 지침에 따라 사용될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The mobile platform developed by the company created new opportunities for innovation, with the technology enabling applications and services that could reach users anywhere, though the platform would need to address security, privacy, and accessibility concerns.",
+            "meaning_ko": "그 회사가 개발한 그 모바일 플랫폼은 혁신을 위한 새로운 기회를 만들었고, 그 기술이 어디서나 사용자에게 도달할 수 있는 애플리케이션과 서비스를 가능하게 했지만, 그 플랫폼은 보안, 사생활, 그리고 접근성 우려를 다루어야 할 것입니다."
+          },
+          {
+            "sentence": "The mobile infrastructure supported widespread connectivity, with the network and systems enabling communication and data transfer across vast distances, though maintaining and expanding the infrastructure would require ongoing investment and technological advancement.",
+            "meaning_ko": "그 모바일 인프라는 광범위한 연결성을 지원했고, 그 네트워크와 시스템이 광대한 거리에 걸쳐 의사 소통과 데이터 전송을 가능하게 했지만, 그 인프라를 유지하고 확장하는 것은 지속적인 투자와 기술적 진보를 요구할 것입니다."
+          },
+          {
+            "sentence": "The mobile ecosystem encompassed devices, applications, and services, with the interconnected network creating opportunities for innovation and commerce, though the ecosystem would need to balance growth with regulation and user protection.",
+            "meaning_ko": "그 모바일 생태계는 기기, 애플리케이션, 그리고 서비스를 포함했고, 그 상호 연결된 네트워크가 혁신과 상업을 위한 기회를 만들었지만, 그 생태계는 성장과 규제 및 사용자 보호 사이의 균형을 맞춰야 할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "mobile는 '이동 가능한, 움직일 수 있는' 또는 '휴대용의, 모바일' 또는 '모바일, 휴대 전화' 의미로, 쉽게 움직이거나 이동할 수 있는 상태를 가리킵니다. portable, movable와 비슷하지만 더 일반적 표현입니다. mobile phone, mobile device 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "기술",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: mobile = (A) fixed (B) portable or movable (C) stationary (D) immobile",
+            "a": "B",
+            "meaning_ko": "mobile는 '휴대용의 또는 이동 가능한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She has a _____ phone.",
+            "a": "mobile",
+            "meaning_ko": "mobile는 '휴대용의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of mobile? (A) portable (B) movable (C) fixed (D) flexible",
+            "a": "C",
+            "meaning_ko": "fixed(고정된)가 mobile의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The unit is _____. (A) mobile (B) mobily (C) mobility (D) mobile's",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 mobile가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: mobile = (A) fixed (B) portable (C) stationary (D) immobile",
+            "a": "B",
+            "meaning_ko": "portable(휴대용의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The unit is mobily.' → Fix the sentence.",
+            "a": "The unit is mobile.",
+            "meaning_ko": "서술어로 형용사 mobile가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She has a mobile phone.'",
+            "a": "She possesses a portable communication device that can be carried and used from various locations, with the technology enabling connectivity and access to information, though the device would need to be managed responsibly.",
+            "meaning_ko": "mobile는 '휴대용의' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He uses a _____. (A) mobile (B) mobiles (C) mobile's (D) mobiled",
+            "a": "A",
+            "meaning_ko": "명사 mobile가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses mobile most appropriately? (A) The mobile ran. (B) She has a mobile phone. (C) She mobile smiled. (D) Mobile is good.",
+            "a": "B",
+            "meaning_ko": "mobile는 형용사로 명사를 수식하거나 명사로 '모바일'을 의미할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

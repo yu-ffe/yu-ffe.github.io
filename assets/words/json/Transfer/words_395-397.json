@@ -1,0 +1,791 @@
+[
+  {
+    "word": "taboo",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "금기, 금지사항; 사회적 또는 문화적 관습에 의해 금지되거나 피하는 것.",
+        "note": "명사로는 '금기/금지사항', 형용사로는 '금기인/금지된' 의미입니다."
+      }
+    ],
+    "concept": "사회적·문화적 관습에 의해 금지되거나 피해야 하는 것.",
+    "etymology": "폴리네시아어 tabu(금지된)에서 유래했으며, 원래는 종교적 금기를 의미했으나 현대에는 일반적인 사회적 금기로 확장되었습니다.",
+    "semanticExtension": "원래는 종교적 금기였으나, 현대에는 사회적·문화적 금기('taboo subject/topic')로도 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·인류학·사회학 용어로, 일상에서도 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 'a taboo' 또는 'taboos'로 사용되며, 형용사로는 'taboo + 명사' 패턴이 가능합니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대한 금기",
+        "example": "taboo on discussing"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대한 금기",
+        "example": "taboo against"
+      }
+    ],
+    "requiredComplements": [
+      "taboo on/against + 명사 (…에 대한 금기)",
+      "taboo + 명사 (금기인 …)"
+    ],
+    "morphology": "폴리네시아어 tabu에서 유래했으며, 현대 영어에서는 '금기'의 의미로 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "taboos",
+        "meaning_ko": "금기들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "prohibition",
+        "meaning_ko": "금지"
+      },
+      {
+        "word": "forbidden",
+        "meaning_ko": "금지된"
+      },
+      {
+        "word": "restriction",
+        "meaning_ko": "제한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "prohibition",
+        "meaning_ko": "금지"
+      },
+      {
+        "word": "ban",
+        "meaning_ko": "금지"
+      },
+      {
+        "word": "forbidden",
+        "meaning_ko": "금지된"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "restriction",
+        "meaning_ko": "제한(범위가 더 넓음)"
+      },
+      {
+        "word": "prohibition",
+        "meaning_ko": "금지(법적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "acceptable",
+        "meaning_ko": "용납 가능한"
+      },
+      {
+        "word": "permitted",
+        "meaning_ko": "허용된"
+      },
+      {
+        "word": "allowed",
+        "meaning_ko": "허락된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "taboo subject",
+            "meaning_ko": "금기 주제"
+          },
+          {
+            "phrase": "taboo topic",
+            "meaning_ko": "금기 주제"
+          },
+          {
+            "phrase": "break a taboo",
+            "meaning_ko": "금기를 깨다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "taboo on discussing",
+            "meaning_ko": "논의에 대한 금기"
+          },
+          {
+            "phrase": "cultural taboo",
+            "meaning_ko": "문화적 금기"
+          },
+          {
+            "phrase": "social taboo",
+            "meaning_ko": "사회적 금기"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "taboo against mentioning",
+            "meaning_ko": "언급에 대한 금기"
+          },
+          {
+            "phrase": "religious taboo",
+            "meaning_ko": "종교적 금기"
+          },
+          {
+            "phrase": "taboo surrounding death",
+            "meaning_ko": "죽음에 대한 금기"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Death is a taboo subject in many cultures.",
+            "meaning_ko": "죽음은 많은 문화에서 금기 주제입니다."
+          },
+          {
+            "sentence": "They broke a taboo by discussing politics at dinner.",
+            "meaning_ko": "그들은 저녁 식사에서 정치를 논의함으로써 금기를 깼습니다."
+          },
+          {
+            "sentence": "It's taboo to talk about money in public.",
+            "meaning_ko": "공개적으로 돈에 대해 이야기하는 것은 금기입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "There is a cultural taboo on discussing mental health openly.",
+            "meaning_ko": "정신 건강을 공개적으로 논의하는 것에 대한 문화적 금기가 있습니다."
+          },
+          {
+            "sentence": "The social taboo against interracial marriage has weakened over time.",
+            "meaning_ko": "인종 간 결혼에 대한 사회적 금기는 시간이 지나면서 약해졌습니다."
+          },
+          {
+            "sentence": "Breaking religious taboos can lead to social ostracism.",
+            "meaning_ko": "종교적 금기를 깨는 것은 사회적 배척으로 이어질 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The taboo surrounding death in Western societies has been challenged by modern discourse on end-of-life care.",
+            "meaning_ko": "서구 사회에서 죽음에 대한 금기는 임종 간호에 대한 현대적 담론에 의해 도전받고 있습니다."
+          },
+          {
+            "sentence": "Anthropologists study how taboos function as mechanisms of social control in different cultures.",
+            "meaning_ko": "인류학자들은 금기가 다양한 문화에서 사회 통제 메커니즘으로 어떻게 작동하는지 연구합니다."
+          },
+          {
+            "sentence": "The taboo against mentioning the former leader's name gradually faded as the political climate changed.",
+            "meaning_ko": "전 지도자의 이름을 언급하는 것에 대한 금기는 정치적 분위기가 변하면서 점차 사라졌습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "taboo는 명사와 형용사 모두로 쓰이며, '사회적·문화적 금기'라는 의미가 핵심입니다. prohibition, ban과 비슷하지만 '관습에 의한 금지'라는 뉘앙스가 더 강합니다. 인류학·사회학 지문에서 자주 나오므로, 이런 문맥에서 '금기'로 해석하면 됩니다.",
+    "tags": [
+      "사회",
+      "문화",
+      "인류학",
+      "금지",
+      "격식"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: taboo = (A) allowed (B) forbidden by custom (C) happy (D) easy",
+            "a": "B",
+            "meaning_ko": "taboo는 '관습에 의해 금지된' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Death is a _____ subject in many cultures.",
+            "a": "taboo",
+            "meaning_ko": "taboo subject는 '금기 주제'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of taboo? (A) forbidden (B) acceptable (C) banned (D) prohibited",
+            "a": "B",
+            "meaning_ko": "acceptable(용납 가능한)가 taboo의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: There is a taboo _____ discussing that topic. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "taboo on ~는 '~에 대한 금기' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: taboo = (A) allowed (B) prohibition (C) happy (D) easy",
+            "a": "B",
+            "meaning_ko": "prohibition(금지)이 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'It taboo to talk about that.' → Fix the sentence.",
+            "a": "It is taboo to talk about that.",
+            "meaning_ko": "형용사로 쓰려면 be 동사가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The taboo surrounding death has weakened.'",
+            "a": "The social prohibition against discussing death has become less strict.",
+            "meaning_ko": "taboo는 '사회적 금기'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: Breaking cultural _____ can lead to ostracism. (A) taboo (B) taboos (C) taboed (D) taboing",
+            "a": "B",
+            "meaning_ko": "여러 금기를 의미하므로 복수형 taboos가 적절합니다."
+          },
+          {
+            "q": "Which sentence uses taboo most appropriately? (A) The taboo ran. (B) The taboo subject was avoided. (C) She taboo smiled. (D) Taboo is good.",
+            "a": "B",
+            "meaning_ko": "taboo는 명사나 형용사로 쓰이며, '금기 주제'와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "saline",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "소금기가 있는, 염분이 있는; 생리 식염수.",
+        "note": "형용사로는 '소금기가 있는', 명사로는 '생리 식염수'를 의미합니다."
+      }
+    ],
+    "concept": "소금이나 염분이 포함된 상태, 또는 의학에서 사용하는 생리 식염수.",
+    "etymology": "라틴어 salinus(소금의)에서 유래했으며, sal(소금) 계열과 연결됩니다.",
+    "semanticExtension": "원래는 '소금의' 의미였으나, 현대에는 '염분이 있는' 또는 '생리 식염수'로 확장되었습니다.",
+    "nuanceRegister": "의학·과학 용어로, 일상에서도 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 명사를 수식하거나 서술어로 쓰이며, 명사로는 불가산명사로 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사(명사일 때)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "saline + 명사 (염분이 있는 ~)",
+      "saline (생리 식염수)"
+    ],
+    "morphology": "sal-(소금) + -ine(형용사화)로, '소금의' 의미가 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "salinity",
+        "meaning_ko": "염분도, 염도"
+      },
+      {
+        "word": "salinization",
+        "meaning_ko": "염화(토양 등)"
+      }
+    ],
+    "related": [
+      {
+        "word": "salt",
+        "meaning_ko": "소금"
+      },
+      {
+        "word": "saltwater",
+        "meaning_ko": "염수"
+      },
+      {
+        "word": "brine",
+        "meaning_ko": "소금물"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "salty",
+        "meaning_ko": "소금기가 있는"
+      },
+      {
+        "word": "saltwater",
+        "meaning_ko": "염수의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "briny",
+        "meaning_ko": "소금기가 많은"
+      },
+      {
+        "word": "brackish",
+        "meaning_ko": "기수(담수와 해수의 혼합)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fresh",
+        "meaning_ko": "민물의, 신선한"
+      },
+      {
+        "word": "unsalted",
+        "meaning_ko": "소금이 없는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "saline solution",
+            "meaning_ko": "생리 식염수"
+          },
+          {
+            "phrase": "saline water",
+            "meaning_ko": "염수"
+          },
+          {
+            "phrase": "saline soil",
+            "meaning_ko": "염분 토양"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "intravenous saline",
+            "meaning_ko": "정맥 주사용 생리 식염수"
+          },
+          {
+            "phrase": "saline environment",
+            "meaning_ko": "염분 환경"
+          },
+          {
+            "phrase": "saline concentration",
+            "meaning_ko": "염분 농도"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "saline irrigation",
+            "meaning_ko": "생리 식염수 세척"
+          },
+          {
+            "phrase": "saline intrusion",
+            "meaning_ko": "염수 침입"
+          },
+          {
+            "phrase": "saline tolerance",
+            "meaning_ko": "염분 내성"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The doctor used saline solution to clean the wound.",
+            "meaning_ko": "의사는 상처를 청소하기 위해 생리 식염수를 사용했습니다."
+          },
+          {
+            "sentence": "The lake has saline water.",
+            "meaning_ko": "그 호수는 염수가 있습니다."
+          },
+          {
+            "sentence": "Saline soil is not suitable for most crops.",
+            "meaning_ko": "염분 토양은 대부분의 작물에 적합하지 않습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The patient received intravenous saline to maintain hydration.",
+            "meaning_ko": "환자는 수분을 유지하기 위해 정맥 주사용 생리 식염수를 받았습니다."
+          },
+          {
+            "sentence": "The saline environment of the salt marsh supports unique plant species.",
+            "meaning_ko": "소금 습지의 염분 환경은 독특한 식물 종을 지지합니다."
+          },
+          {
+            "sentence": "High saline concentration in the soil can damage plant roots.",
+            "meaning_ko": "토양의 높은 염분 농도는 식물 뿌리를 손상시킬 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Saline irrigation is commonly used in medical procedures to flush wounds and prevent infection.",
+            "meaning_ko": "생리 식염수 세척은 의료 절차에서 상처를 씻어내고 감염을 예방하기 위해 흔히 사용됩니다."
+          },
+          {
+            "sentence": "Rising sea levels have caused saline intrusion into coastal aquifers, threatening freshwater supplies.",
+            "meaning_ko": "해수면 상승으로 인해 연안 대수층에 염수 침입이 발생하여 민물 공급이 위협받고 있습니다."
+          },
+          {
+            "sentence": "Researchers are developing crops with increased saline tolerance to address food security in arid regions.",
+            "meaning_ko": "연구자들은 건조 지역의 식량 안보를 해결하기 위해 염분 내성이 증가한 작물을 개발하고 있습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "saline은 '소금기가 있는' 또는 '생리 식염수'를 의미합니다. 의학·과학 지문에서 자주 나오므로, 이런 문맥에서 '염분'과 연결되면 saline으로 해석하면 됩니다. salt, salty와 함께 묶어서 외우면 기억이 오래갑니다.",
+    "tags": [
+      "의학",
+      "과학",
+      "염분",
+      "일상",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: saline = (A) fresh (B) containing salt (C) sweet (D) sour",
+            "a": "B",
+            "meaning_ko": "saline은 '소금기가 있는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The doctor used _____ solution to clean the wound.",
+            "a": "saline",
+            "meaning_ko": "saline solution는 '생리 식염수'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of saline? (A) salty (B) fresh (C) water (D) solution",
+            "a": "B",
+            "meaning_ko": "fresh(민물의)가 saline의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The patient received _____ to maintain hydration. (A) saline (B) salines (C) salined (D) salining",
+            "a": "A",
+            "meaning_ko": "생리 식염수는 불가산명사이므로 단수형 saline이 적절합니다."
+          },
+          {
+            "q": "Pick the best synonym: saline = (A) fresh (B) salty (C) sweet (D) sour",
+            "a": "B",
+            "meaning_ko": "salty가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The water is saline.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "saline은 형용사로 서술어로 쓰일 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Saline intrusion threatens freshwater supplies.'",
+            "a": "The entry of saltwater into freshwater sources endangers the water supply.",
+            "meaning_ko": "saline intrusion는 '염수 침입'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: High _____ concentration damages crops. (A) saline (B) salines (C) salined (D) salining",
+            "a": "A",
+            "meaning_ko": "concentration을 수식하는 형용사 saline이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses saline most appropriately? (A) The saline ran. (B) The saline solution was used. (C) She saline smiled. (D) Saline is good.",
+            "a": "B",
+            "meaning_ko": "saline solution는 '생리 식염수'로 의학 문맥에서 자연스럽게 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "palliative",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "완화하는, 증상을 완화하는; 완화 요법.",
+        "note": "형용사로는 '완화하는', 명사로는 '완화 요법'을 의미합니다."
+      }
+    ],
+    "concept": "병이나 증상을 완전히 고치지는 못하지만 완화시키는 것.",
+    "etymology": "라틴어 palliare(덮다, 완화하다)에서 유래했으며, pallium(망토) 계열과 연결됩니다.",
+    "semanticExtension": "원래는 '덮다' 의미였으나, 현대에는 '증상을 완화하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "의학 용어로, 격식 있는 문어에서 주로 사용됩니다.",
+    "grammarNotes": "형용사로는 명사를 수식하거나 서술어로 쓰이며, 명사로는 가산명사로 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "palliative + 명사 (완화하는 ~)",
+      "palliative care (완화 치료)"
+    ],
+    "morphology": "palli-(덮다) + -ative(형용사화)로, '증상을 덮다/완화하다' 의미가 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "palliate",
+        "meaning_ko": "완화하다"
+      },
+      {
+        "word": "palliation",
+        "meaning_ko": "완화"
+      }
+    ],
+    "related": [
+      {
+        "word": "relief",
+        "meaning_ko": "완화, 경감"
+      },
+      {
+        "word": "alleviate",
+        "meaning_ko": "완화하다"
+      },
+      {
+        "word": "soothe",
+        "meaning_ko": "진정시키다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "soothing",
+        "meaning_ko": "진정시키는"
+      },
+      {
+        "word": "alleviating",
+        "meaning_ko": "완화하는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "relieving",
+        "meaning_ko": "완화하는"
+      },
+      {
+        "word": "mitigating",
+        "meaning_ko": "완화하는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "aggravating",
+        "meaning_ko": "악화시키는"
+      },
+      {
+        "word": "worsening",
+        "meaning_ko": "악화시키는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "palliative care",
+            "meaning_ko": "완화 치료"
+          },
+          {
+            "phrase": "palliative treatment",
+            "meaning_ko": "완화 치료"
+          },
+          {
+            "phrase": "palliative medicine",
+            "meaning_ko": "완화 의학"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "palliative measures",
+            "meaning_ko": "완화 조치"
+          },
+          {
+            "phrase": "palliative therapy",
+            "meaning_ko": "완화 요법"
+          },
+          {
+            "phrase": "palliative approach",
+            "meaning_ko": "완화 접근법"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "palliative intervention",
+            "meaning_ko": "완화 개입"
+          },
+          {
+            "phrase": "palliative sedation",
+            "meaning_ko": "완화 진정"
+          },
+          {
+            "phrase": "palliative care team",
+            "meaning_ko": "완화 치료 팀"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The patient received palliative care to manage pain.",
+            "meaning_ko": "환자는 통증을 관리하기 위해 완화 치료를 받았습니다."
+          },
+          {
+            "sentence": "Palliative treatment can improve quality of life.",
+            "meaning_ko": "완화 치료는 삶의 질을 향상시킬 수 있습니다."
+          },
+          {
+            "sentence": "The doctor prescribed palliative medicine.",
+            "meaning_ko": "의사는 완화 의학을 처방했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Palliative measures were taken to alleviate the patient's suffering.",
+            "meaning_ko": "환자의 고통을 완화하기 위해 완화 조치가 취해졌습니다."
+          },
+          {
+            "sentence": "The palliative therapy focused on symptom management rather than cure.",
+            "meaning_ko": "완화 요법은 치료보다는 증상 관리에 초점을 맞췄습니다."
+          },
+          {
+            "sentence": "A palliative approach was adopted for the terminal patient.",
+            "meaning_ko": "말기 환자에게 완화 접근법이 채택되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Palliative intervention aims to improve comfort and quality of life for patients with serious illnesses.",
+            "meaning_ko": "완화 개입은 심각한 질병을 가진 환자들의 편안함과 삶의 질을 향상시키는 것을 목표로 합니다."
+          },
+          {
+            "sentence": "Palliative sedation may be considered when other pain management strategies fail.",
+            "meaning_ko": "완화 진정은 다른 통증 관리 전략이 실패했을 때 고려될 수 있습니다."
+          },
+          {
+            "sentence": "The palliative care team coordinates medical, emotional, and spiritual support for patients and their families.",
+            "meaning_ko": "완화 치료 팀은 환자와 그 가족들을 위한 의료적, 정서적, 영적 지원을 조정합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "palliative은 '완화하는' 의미로, 의학 지문에서 자주 나옵니다. '완전히 고치지는 못하지만 증상을 완화시키는' 뉘앙스가 있으므로, 치료보다는 증상 관리와 연결되면 palliative로 해석하면 됩니다. palliative care(완화 치료)는 고정 결합으로 자주 나오므로 함께 외우면 좋습니다.",
+    "tags": [
+      "의학",
+      "완화",
+      "치료",
+      "격식",
+      "문어"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: palliative = (A) curing (B) relieving symptoms (C) causing pain (D) preventing",
+            "a": "B",
+            "meaning_ko": "palliative은 '증상을 완화하는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The patient received _____ care to manage pain.",
+            "a": "palliative",
+            "meaning_ko": "palliative care는 '완화 치료'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of palliative? (A) soothing (B) aggravating (C) relieving (D) alleviating",
+            "a": "B",
+            "meaning_ko": "aggravating(악화시키는)이 palliative의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: _____ measures were taken to alleviate suffering. (A) Palliative (B) Palliatives (C) Palliated (D) Palliating",
+            "a": "A",
+            "meaning_ko": "measures를 수식하는 형용사 palliative가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: palliative = (A) aggravating (B) alleviating (C) causing (D) preventing",
+            "a": "B",
+            "meaning_ko": "alleviating(완화하는)이 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The treatment is palliative.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "palliative은 형용사로 서술어로 쓰일 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Palliative intervention aims to improve comfort.'",
+            "a": "Treatment that relieves symptoms rather than cures aims to enhance patient comfort.",
+            "meaning_ko": "palliative intervention은 '증상을 완화하는 개입'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ care team coordinates support. (A) palliative (B) palliatives (C) palliated (D) palliating",
+            "a": "A",
+            "meaning_ko": "care를 수식하는 형용사 palliative가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses palliative most appropriately? (A) The palliative ran. (B) Palliative care improves quality of life. (C) She palliative smiled. (D) Palliative is good.",
+            "a": "B",
+            "meaning_ko": "palliative care는 '완화 치료'로 의학 문맥에서 자연스럽게 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

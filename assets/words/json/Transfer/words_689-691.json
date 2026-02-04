@@ -1,0 +1,819 @@
+[
+  {
+    "word": "periodic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "주기적인, 정기적인; 일정한 간격으로 반복되는.",
+        "note": "일정한 간격으로 반복되는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "간헐적인, 때때로 일어나는; 간헐적으로 또는 때때로 일어나는.",
+        "note": "간헐적으로 또는 때때로 일어나는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "일정한 간격으로 반복되는 주기적인 상태, 또는 간헐적으로 또는 때때로 일어나는 간헐적인 상태.",
+    "etymology": "그리스어 periodikos(주기적인)에서 유래했으며, periodos(주기)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '주기적인' 의미였고, 현대에는 '간헐적으로 또는 때때로 일어나는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용되며, 특히 과학과 수학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be periodic 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 주기적인",
+        "example": "periodic in"
+      }
+    ],
+    "requiredComplements": [
+      "be periodic : 주기적이다",
+      "periodic + 명사 : 주기적인 ~",
+      "periodic in + 명사 : ~에서 주기적인"
+    ],
+    "morphology": "그리스어 periodikos에서 유래한 단어로, periodos(주기)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "periodically",
+        "meaning_ko": "주기적으로"
+      },
+      {
+        "word": "periodicity",
+        "meaning_ko": "주기성"
+      },
+      {
+        "word": "period",
+        "meaning_ko": "주기"
+      }
+    ],
+    "related": [
+      {
+        "word": "regular",
+        "meaning_ko": "정기적인"
+      },
+      {
+        "word": "recurring",
+        "meaning_ko": "반복되는"
+      },
+      {
+        "word": "intermittent",
+        "meaning_ko": "간헐적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "regular",
+        "meaning_ko": "정기적인"
+      },
+      {
+        "word": "recurring",
+        "meaning_ko": "반복되는"
+      },
+      {
+        "word": "intermittent",
+        "meaning_ko": "간헐적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "cyclical",
+        "meaning_ko": "순환적인(범위가 더 넓음)"
+      },
+      {
+        "word": "seasonal",
+        "meaning_ko": "계절적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "irregular",
+        "meaning_ko": "불규칙한"
+      },
+      {
+        "word": "random",
+        "meaning_ko": "무작위의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "periodic in",
+            "meaning_ko": "~에서 주기적인"
+          },
+          {
+            "phrase": "periodic check",
+            "meaning_ko": "정기 점검"
+          },
+          {
+            "phrase": "periodic review",
+            "meaning_ko": "정기 검토"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "periodic table",
+            "meaning_ko": "주기율표"
+          },
+          {
+            "phrase": "periodic function",
+            "meaning_ko": "주기 함수"
+          },
+          {
+            "phrase": "periodic maintenance",
+            "meaning_ko": "정기 유지보수"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "periodic oscillation",
+            "meaning_ko": "주기 진동"
+          },
+          {
+            "phrase": "periodic pattern",
+            "meaning_ko": "주기 패턴"
+          },
+          {
+            "phrase": "periodic motion",
+            "meaning_ko": "주기 운동"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The check was periodic.",
+            "meaning_ko": "그 점검은 주기적이었습니다."
+          },
+          {
+            "sentence": "She made periodic visits.",
+            "meaning_ko": "그녀는 정기적인 방문을 했습니다."
+          },
+          {
+            "sentence": "They conducted periodic reviews.",
+            "meaning_ko": "그들은 정기적인 검토를 실시했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The check was periodic, with the regular schedule ensuring consistent monitoring and maintenance, though the frequency would depend on the specific requirements and conditions.",
+            "meaning_ko": "그 점검은 주기적이었고, 그 정기적인 일정이 일관된 모니터링과 유지보수를 보장했지만, 그 빈도는 특정 요구 사항과 조건에 달려있을 것입니다."
+          },
+          {
+            "sentence": "She made periodic visits, with her regular schedule allowing consistent contact and communication, though the timing would need to accommodate various commitments and priorities.",
+            "meaning_ko": "그녀는 정기적인 방문을 했고, 그녀의 정기적인 일정이 일관된 접촉과 소통을 허용했지만, 그 타이밍은 다양한 약속과 우선순위를 수용해야 할 것입니다."
+          },
+          {
+            "sentence": "They conducted periodic reviews, with the regular assessments providing opportunities for evaluation and improvement, though the process would require careful planning and systematic approach.",
+            "meaning_ko": "그들은 정기적인 검토를 실시했고, 그 정기적인 평가가 평가와 개선을 위한 기회를 제공했지만, 그 과정은 신중한 계획과 체계적 접근을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The periodic oscillation that characterized the system demonstrated consistent patterns of movement and change, with the regular cycles creating predictable behavior and enabling analysis, though the stability would depend on external factors and internal dynamics.",
+            "meaning_ko": "그 시스템을 특징지었던 그 주기 진동은 일관된 움직임과 변화의 패턴을 보여주었고, 그 정기적인 주기가 예측 가능한 행동을 만들고 분석을 가능하게 했지만, 그 안정성은 외부 요인과 내부 역학에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The periodic pattern that emerged in the data revealed underlying structures and relationships, with the regular sequences enabling prediction and understanding, though the interpretation would require careful analysis and consideration of various factors.",
+            "meaning_ko": "그 데이터에서 나타났던 그 주기 패턴은 근본적인 구조와 관계를 드러냈고, 그 정기적인 순서가 예측과 이해를 가능하게 했지만, 그 해석은 신중한 분석과 다양한 요인의 고려를 요구할 것입니다."
+          },
+          {
+            "sentence": "The periodic motion that was observed in the experiment demonstrated fundamental principles of physics, with the regular cycles providing insights into natural phenomena and enabling theoretical understanding, though the application would require precise measurement and careful observation.",
+            "meaning_ko": "그 실험에서 관찰되었던 그 주기 운동은 물리학의 기본 원리를 보여주었고, 그 정기적인 주기가 자연 현상에 대한 통찰을 제공하고 이론적 이해를 가능하게 했지만, 그 적용은 정밀한 측정과 신중한 관찰을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "periodic는 '주기적인, 정기적인' 또는 '간헐적인, 때때로 일어나는' 의미로, 일정한 간격으로 반복되는 상태를 가리킵니다. regular, recurring와 비슷하지만 더 과학적 뉘앙스가 있습니다. periodic in ~, periodic check 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "과학",
+      "수학",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: periodic = (A) irregular (B) regular or recurring (C) random (D) chaotic",
+            "a": "B",
+            "meaning_ko": "periodic는 '정기적인 또는 반복되는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The check was _____.",
+            "a": "periodic",
+            "meaning_ko": "periodic는 '주기적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of periodic? (A) regular (B) recurring (C) irregular (D) intermittent",
+            "a": "C",
+            "meaning_ko": "irregular(불규칙한)가 periodic의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: periodic _____ schedule. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "periodic in ~는 '~에서 주기적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: periodic = (A) irregular (B) regular (C) random (D) chaotic",
+            "a": "B",
+            "meaning_ko": "regular(정기적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The review was periodic at schedule.' → Fix the preposition.",
+            "a": "The review was periodic in schedule.",
+            "meaning_ko": "periodic in ~는 '~에서 주기적인' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The check was periodic.'",
+            "a": "The check occurred at regular intervals, with the recurring schedule ensuring consistent monitoring and maintenance, though the frequency would depend on the specific requirements and conditions.",
+            "meaning_ko": "periodic는 '주기적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She made _____ visits. (A) periodic (B) periodically (C) periodicity (D) period",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 periodic가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses periodic most appropriately? (A) The periodic ran. (B) The check was periodic. (C) She periodic smiled. (D) Periodic is good.",
+            "a": "B",
+            "meaning_ko": "periodic는 형용사로 '주기적인'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dank",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "축축한, 습한; 습기가 많거나 축축한.",
+        "note": "습기가 많거나 축축한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "촉촉한, 습기가 있는; 촉촉하거나 습기가 있는.",
+        "note": "촉촉하거나 습기가 있는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "습기가 많거나 축축한 축축한 상태, 또는 촉촉하거나 습기가 있는 촉촉한 상태.",
+    "etymology": "중세 영어 dank에서 유래했으며, 원래는 '축축한' 의미였습니다.",
+    "semanticExtension": "원래는 '축축한' 의미였고, 현대에는 '촉촉하거나 습기가 있는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 지하실이나 동굴 같은 공간을 묘사할 때 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be dank 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 축축한",
+        "example": "dank with"
+      }
+    ],
+    "requiredComplements": [
+      "be dank : 축축하다",
+      "dank + 명사 : 축축한 ~",
+      "dank with + 명사 : ~로 축축한"
+    ],
+    "morphology": "중세 영어 dank에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "dankly",
+        "meaning_ko": "축축하게"
+      },
+      {
+        "word": "dankness",
+        "meaning_ko": "축축함"
+      }
+    ],
+    "related": [
+      {
+        "word": "moist",
+        "meaning_ko": "습한"
+      },
+      {
+        "word": "humid",
+        "meaning_ko": "습한"
+      },
+      {
+        "word": "damp",
+        "meaning_ko": "축축한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "moist",
+        "meaning_ko": "습한"
+      },
+      {
+        "word": "humid",
+        "meaning_ko": "습한"
+      },
+      {
+        "word": "damp",
+        "meaning_ko": "축축한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "wet",
+        "meaning_ko": "젖은(범위가 더 넓음)"
+      },
+      {
+        "word": "soggy",
+        "meaning_ko": "흠뻑 젖은"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dry",
+        "meaning_ko": "마른"
+      },
+      {
+        "word": "arid",
+        "meaning_ko": "건조한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "dank with",
+            "meaning_ko": "~로 축축한"
+          },
+          {
+            "phrase": "dank air",
+            "meaning_ko": "축축한 공기"
+          },
+          {
+            "phrase": "dank cellar",
+            "meaning_ko": "축축한 지하실"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dank cave",
+            "meaning_ko": "축축한 동굴"
+          },
+          {
+            "phrase": "dank atmosphere",
+            "meaning_ko": "축축한 분위기"
+          },
+          {
+            "phrase": "dank basement",
+            "meaning_ko": "축축한 지하실"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "dank dungeon",
+            "meaning_ko": "축축한 지하 감옥"
+          },
+          {
+            "phrase": "dank environment",
+            "meaning_ko": "축축한 환경"
+          },
+          {
+            "phrase": "dank conditions",
+            "meaning_ko": "축축한 조건"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The air was dank.",
+            "meaning_ko": "그 공기는 축축했습니다."
+          },
+          {
+            "sentence": "She entered the dank cellar.",
+            "meaning_ko": "그녀는 그 축축한 지하실에 들어갔습니다."
+          },
+          {
+            "sentence": "They felt the dank atmosphere.",
+            "meaning_ko": "그들은 그 축축한 분위기를 느꼈습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The air was dank, with the moisture creating an uncomfortable and oppressive feeling, though the humidity would make the space feel colder and more unpleasant.",
+            "meaning_ko": "그 공기는 축축했고, 그 습기가 불편하고 압박적인 느낌을 만들었지만, 그 습도는 그 공간을 더 차갑고 불쾌하게 느끼게 만들 것입니다."
+          },
+          {
+            "sentence": "She entered the dank cellar, with the dampness and darkness creating an eerie and unwelcoming atmosphere, though the conditions would make it difficult to stay for long.",
+            "meaning_ko": "그녀는 그 축축한 지하실에 들어갔고, 그 축축함과 어둠이 섬뜩하고 환영하지 않는 분위기를 만들었지만, 그 조건은 오래 머물기 어렵게 만들 것입니다."
+          },
+          {
+            "sentence": "They felt the dank atmosphere, with the moisture and humidity creating a sense of discomfort and unease, though the environment would affect their mood and well-being.",
+            "meaning_ko": "그들은 그 축축한 분위기를 느꼈고, 그 습기와 습도가 불편함과 불안감을 만들었지만, 그 환경은 그들의 기분과 웰빙에 영향을 줄 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The dank dungeon that had been used for centuries retained moisture and cold, with the damp conditions creating an inhospitable environment that affected both physical comfort and mental state, though the historical significance would add to the atmosphere's weight.",
+            "meaning_ko": "수세기 동안 사용되었던 그 축축한 지하 감옥은 습기와 추위를 유지했고, 그 축축한 조건이 신체적 편안함과 정신 상태 모두에 영향을 준 불친절한 환경을 만들었지만, 그 역사적 중요성은 그 분위기의 무게감을 더할 것입니다."
+          },
+          {
+            "sentence": "The dank environment that characterized the underground space created challenges for preservation and comfort, with the moisture affecting materials and creating conditions that required special care, though managing the humidity would be essential for maintaining the space.",
+            "meaning_ko": "그 지하 공간을 특징지었던 그 축축한 환경은 보존과 편안함에 대한 도전을 만들었고, 그 습기가 재료에 영향을 주고 특별한 관리가 필요한 조건을 만들었지만, 그 습도를 관리하는 것은 그 공간을 유지하는 데 필수적일 것입니다."
+          },
+          {
+            "sentence": "The dank conditions that persisted in the area created health and comfort concerns, with the moisture and humidity affecting air quality and creating an environment that required ventilation and dehumidification, though addressing these issues would improve the overall quality of the space.",
+            "meaning_ko": "그 지역에서 지속되었던 그 축축한 조건은 건강과 편안함에 대한 우려를 만들었고, 그 습기와 습도가 공기 질에 영향을 주고 환기와 제습이 필요한 환경을 만들었지만, 이러한 문제를 해결하는 것은 그 공간의 전반적인 품질을 개선할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dank는 '축축한, 습한' 또는 '촉촉한, 습기가 있는' 의미로, 습기가 많거나 축축한 상태를 가리킵니다. moist, damp와 비슷하지만 더 부정적 뉘앙스가 있습니다. dank with ~, dank air 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "환경",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: dank = (A) dry (B) moist or damp (C) arid (D) parched",
+            "a": "B",
+            "meaning_ko": "dank는 '습한 또는 축축한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The air was _____.",
+            "a": "dank",
+            "meaning_ko": "dank는 '축축한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of dank? (A) moist (B) damp (C) dry (D) humid",
+            "a": "C",
+            "meaning_ko": "dry(마른)가 dank의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: dank _____ moisture. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "dank with ~는 '~로 축축한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: dank = (A) dry (B) moist (C) arid (D) parched",
+            "a": "B",
+            "meaning_ko": "moist(습한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The cellar was dank at moisture.' → Fix the preposition.",
+            "a": "The cellar was dank with moisture.",
+            "meaning_ko": "dank with ~는 '~로 축축한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The air was dank.'",
+            "a": "The air was moist and damp, with the humidity creating an uncomfortable and oppressive feeling, though the moisture would make the space feel colder and more unpleasant.",
+            "meaning_ko": "dank는 '축축한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She entered the _____ cellar. (A) dank (B) dankly (C) dankness (D) dank's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 dank가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses dank most appropriately? (A) The dank ran. (B) The air was dank. (C) She dank smiled. (D) Dank is good.",
+            "a": "B",
+            "meaning_ko": "dank는 형용사로 '축축한'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "obey",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "따르다, 복종하다; 명령이나 규칙을 따르거나 복종하다.",
+        "note": "명령이나 규칙을 따르거나 복종하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "순응하다, 준수하다; 규칙이나 법을 순응하거나 준수하다.",
+        "note": "규칙이나 법을 순응하거나 준수하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "명령이나 규칙을 따르거나 복종하는 것, 또는 규칙이나 법을 순응하거나 준수하는 것.",
+    "etymology": "라틴어 oboedire(듣다, 따르다)에서 유래했으며, ob(앞에) + audire(듣다)의 조합입니다.",
+    "semanticExtension": "원래는 '듣다' 의미였고, 현대에는 '규칙이나 법을 순응하거나 준수하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 자주 사용되며, obey + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "without",
+        "meaning_ko": "~ 없이 따르다",
+        "example": "obey without"
+      }
+    ],
+    "requiredComplements": [
+      "obey + 명사 : ~을 따르다/복종하다",
+      "obey without + 명사 : ~ 없이 따르다"
+    ],
+    "morphology": "라틴어 oboedire에서 유래한 단어로, ob(앞에) + audire(듣다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "obedient",
+        "meaning_ko": "순종하는"
+      },
+      {
+        "word": "obedience",
+        "meaning_ko": "순종"
+      },
+      {
+        "word": "disobey",
+        "meaning_ko": "불복종하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "comply",
+        "meaning_ko": "준수하다"
+      },
+      {
+        "word": "follow",
+        "meaning_ko": "따르다"
+      },
+      {
+        "word": "submit",
+        "meaning_ko": "복종하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "comply",
+        "meaning_ko": "준수하다"
+      },
+      {
+        "word": "follow",
+        "meaning_ko": "따르다"
+      },
+      {
+        "word": "submit",
+        "meaning_ko": "복종하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "adhere",
+        "meaning_ko": "고수하다(범위가 더 넓음)"
+      },
+      {
+        "word": "conform",
+        "meaning_ko": "순응하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disobey",
+        "meaning_ko": "불복종하다"
+      },
+      {
+        "word": "defy",
+        "meaning_ko": "거역하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "obey without",
+            "meaning_ko": "~ 없이 따르다"
+          },
+          {
+            "phrase": "obey orders",
+            "meaning_ko": "명령을 따르다"
+          },
+          {
+            "phrase": "obey rules",
+            "meaning_ko": "규칙을 따르다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "obey commands",
+            "meaning_ko": "명령을 따르다"
+          },
+          {
+            "phrase": "obey laws",
+            "meaning_ko": "법을 준수하다"
+          },
+          {
+            "phrase": "obey authority",
+            "meaning_ko": "권위에 복종하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "obey instructions",
+            "meaning_ko": "지시를 따르다"
+          },
+          {
+            "phrase": "obey regulations",
+            "meaning_ko": "규정을 준수하다"
+          },
+          {
+            "phrase": "obey without question",
+            "meaning_ko": "의문 없이 따르다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They obeyed the rules.",
+            "meaning_ko": "그들은 그 규칙을 따랐습니다."
+          },
+          {
+            "sentence": "She obeyed her parents.",
+            "meaning_ko": "그녀는 그녀의 부모를 따랐습니다."
+          },
+          {
+            "sentence": "He obeyed the command.",
+            "meaning_ko": "그는 그 명령을 따랐습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They obeyed the rules, with their compliance ensuring order and structure, though following all regulations would require understanding and commitment.",
+            "meaning_ko": "그들은 그 규칙을 따랐고, 그들의 준수가 질서와 구조를 보장했지만, 모든 규정을 따르는 것은 이해와 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "She obeyed her parents, with her respect and compliance showing consideration for their guidance, though the relationship would involve mutual understanding and communication.",
+            "meaning_ko": "그녀는 그녀의 부모를 따랐고, 그녀의 존경과 준수가 그들의 지도에 대한 배려를 보여주었지만, 그 관계는 상호 이해와 소통을 포함할 것입니다."
+          },
+          {
+            "sentence": "He obeyed the command, with his compliance following the instructions and carrying out the task, though the execution would depend on his understanding and ability.",
+            "meaning_ko": "그는 그 명령을 따랐고, 그의 준수가 그 지시를 따르고 그 작업을 수행했지만, 그 실행은 그의 이해와 능력에 달려있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to obey instructions without question demonstrated discipline and trust, with the compliance ensuring that tasks were carried out as directed, though the effectiveness would depend on the quality of the instructions and the understanding of those following them.",
+            "meaning_ko": "의문 없이 지시를 따르기로 한 그 결정은 규율과 신뢰를 보여주었고, 그 준수가 작업이 지시된 대로 수행되도록 보장했지만, 그 효과는 그 지시의 품질과 그것을 따르는 사람들의 이해에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The commitment to obey regulations that governed the organization created a framework for consistent behavior and accountability, with the compliance ensuring that standards were maintained and expectations met, though the implementation would require ongoing monitoring and reinforcement.",
+            "meaning_ko": "그 조직을 지배했던 규정을 준수하기로 한 그 헌신은 일관된 행동과 책임에 대한 틀을 만들었고, 그 준수가 기준이 유지되고 기대가 충족되도록 보장했지만, 그 실행은 지속적인 모니터링과 강화를 요구할 것입니다."
+          },
+          {
+            "sentence": "The willingness to obey without question that characterized the group created efficiency and coordination, with the compliance enabling quick response and unified action, though the approach would require careful consideration of when such obedience was appropriate and beneficial.",
+            "meaning_ko": "그 그룹을 특징지었던 의문 없이 따르려는 그 의지는 효율성과 조정을 만들었고, 그 준수가 빠른 대응과 통일된 행동을 가능하게 했지만, 그 접근은 그러한 순종이 적절하고 유익한 때를 신중하게 고려하는 것을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "obey는 '따르다, 복종하다' 또는 '순응하다, 준수하다' 의미로, 명령이나 규칙을 따르거나 복종하는 행동을 가리킵니다. comply, follow와 비슷하지만 더 직접적 뉘앙스가 있습니다. obey + 명사, obey orders 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: obey = (A) disobey (B) follow or comply (C) defy (D) resist",
+            "a": "B",
+            "meaning_ko": "obey는 '따르다 또는 준수하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They _____ the rules.",
+            "a": "obeyed",
+            "meaning_ko": "obey는 '따르다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of obey? (A) follow (B) comply (C) disobey (D) submit",
+            "a": "C",
+            "meaning_ko": "disobey(불복종하다)가 obey의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: They _____ the orders. (A) obey (B) obeys (C) obeyed (D) obeying",
+            "a": "C",
+            "meaning_ko": "과거형 obeyed가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: obey = (A) disobey (B) comply (C) defy (D) resist",
+            "a": "B",
+            "meaning_ko": "comply(준수하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She obey the command.' → Fix the verb form.",
+            "a": "She obeys the command.",
+            "meaning_ko": "3인칭 단수 주어에는 obeys가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They obeyed the rules.'",
+            "a": "They followed and complied with the regulations, with their adherence ensuring order and structure, though following all regulations would require understanding and commitment.",
+            "meaning_ko": "obey는 '따르다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He _____ the command. (A) obey (B) obeys (C) obeyed (D) obeying",
+            "a": "C",
+            "meaning_ko": "과거형 obeyed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses obey most appropriately? (A) The obey ran. (B) They obeyed the rules. (C) She obey smiled. (D) Obey is good.",
+            "a": "B",
+            "meaning_ko": "obey는 타동사로 '따르다'를 의미하며, 목적어와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

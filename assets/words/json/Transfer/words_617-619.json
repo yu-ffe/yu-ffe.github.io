@@ -1,0 +1,816 @@
+[
+  {
+    "word": "nebulous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "모호한, 불명확한; 명확하지 않거나 모호한.",
+        "note": "명확하지 않거나 모호한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "성운 같은, 흐릿한; 성운처럼 흐릿하거나 불분명한.",
+        "note": "성운처럼 흐릿하거나 불분명한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "명확하지 않거나 모호한 모호한 상태, 또는 성운처럼 흐릿하거나 불분명한 성운 같은 상태.",
+    "etymology": "라틴어 nebula(구름)에서 유래했으며, 원래는 '구름 같은' 의미였으나 현대에는 '모호한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '구름 같은' 의미였으나, 현대에는 '명확하지 않거나 모호한' 또는 '성운처럼 흐릿하거나 불분명한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 학문과 문학적 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be nebulous 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be nebulous : 모호하다",
+      "nebulous + 명사 : 모호한 ~"
+    ],
+    "morphology": "라틴어 nebula에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "nebulously",
+        "meaning_ko": "모호하게"
+      },
+      {
+        "word": "nebulousness",
+        "meaning_ko": "모호함"
+      }
+    ],
+    "related": [
+      {
+        "word": "vague",
+        "meaning_ko": "모호한"
+      },
+      {
+        "word": "unclear",
+        "meaning_ko": "불명확한"
+      },
+      {
+        "word": "ambiguous",
+        "meaning_ko": "모호한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "vague",
+        "meaning_ko": "모호한"
+      },
+      {
+        "word": "unclear",
+        "meaning_ko": "불명확한"
+      },
+      {
+        "word": "ambiguous",
+        "meaning_ko": "모호한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "indistinct",
+        "meaning_ko": "불분명한(범위가 더 넓음)"
+      },
+      {
+        "word": "hazy",
+        "meaning_ko": "흐릿한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clear",
+        "meaning_ko": "명확한"
+      },
+      {
+        "word": "precise",
+        "meaning_ko": "정확한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "nebulous concept",
+            "meaning_ko": "모호한 개념"
+          },
+          {
+            "phrase": "nebulous idea",
+            "meaning_ko": "모호한 아이디어"
+          },
+          {
+            "phrase": "nebulous definition",
+            "meaning_ko": "모호한 정의"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "nebulous boundaries",
+            "meaning_ko": "모호한 경계"
+          },
+          {
+            "phrase": "nebulous nature",
+            "meaning_ko": "모호한 성격"
+          },
+          {
+            "phrase": "nebulous relationship",
+            "meaning_ko": "모호한 관계"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "nebulous distinction",
+            "meaning_ko": "모호한 구분"
+          },
+          {
+            "phrase": "nebulous framework",
+            "meaning_ko": "모호한 프레임워크"
+          },
+          {
+            "phrase": "nebulous criteria",
+            "meaning_ko": "모호한 기준"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The concept was nebulous.",
+            "meaning_ko": "그 개념은 모호했습니다."
+          },
+          {
+            "sentence": "She had a nebulous idea about the project.",
+            "meaning_ko": "그녀는 그 프로젝트에 대해 모호한 아이디어를 가지고 있었습니다."
+          },
+          {
+            "sentence": "The definition remained nebulous.",
+            "meaning_ko": "그 정의는 모호하게 남아있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The concept was nebulous, lacking clear boundaries or precise definition, which made it difficult to apply in practice or discuss meaningfully without first establishing what exactly was being referred to.",
+            "meaning_ko": "그 개념은 모호했고, 명확한 경계나 정확한 정의가 부족했으며, 이것은 실제로 적용하거나 정확히 무엇을 가리키는지 먼저 확립하지 않고 의미 있게 논의하는 것을 어렵게 만들었습니다."
+          },
+          {
+            "sentence": "She had a nebulous idea about the project, with only a vague sense of what she wanted to achieve, requiring further development and clarification before it could be transformed into a concrete plan of action.",
+            "meaning_ko": "그녀는 그 프로젝트에 대해 모호한 아이디어를 가지고 있었고, 그녀가 달성하고 싶은 것에 대한 막연한 감각만 있었으며, 그것이 구체적인 행동 계획으로 변환되기 전에 추가 개발과 명확화를 요구했습니다."
+          },
+          {
+            "sentence": "The definition remained nebulous, with different interpretations possible and no consensus on what the term actually meant, creating confusion and making it challenging to use the word accurately in communication.",
+            "meaning_ko": "그 정의는 모호하게 남아있었고, 다른 해석이 가능했고 그 용어가 실제로 무엇을 의미하는지에 대한 합의가 없었으며, 혼란을 만들고 의사 소통에서 그 단어를 정확하게 사용하는 것을 도전적으로 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The nebulous distinction between the two categories created significant challenges for classification, as the lack of clear criteria made it difficult to determine which items belonged where, leading to inconsistent categorization and potential errors in analysis.",
+            "meaning_ko": "그 두 범주 사이의 그 모호한 구분은 분류에 대한 중요한 도전을 만들었고, 명확한 기준의 부족이 어떤 항목이 어디에 속하는지 결정하는 것을 어렵게 만들었으며, 일관되지 않은 분류와 분석에서 잠재적 오류로 이어졌습니다."
+          },
+          {
+            "sentence": "The nebulous framework for understanding the phenomenon left researchers struggling to establish a coherent theoretical approach, with the vague boundaries and unclear relationships between concepts making it difficult to develop testable hypotheses or meaningful research questions.",
+            "meaning_ko": "그 현상을 이해하기 위한 그 모호한 프레임워크는 연구자들이 일관된 이론적 접근을 확립하는 데 고군분투하게 만들었고, 개념들 사이의 모호한 경계와 불명확한 관계가 검증 가능한 가설이나 의미 있는 연구 질문을 개발하는 것을 어렵게 만들었습니다."
+          },
+          {
+            "sentence": "The nebulous criteria for evaluation made it nearly impossible to assess performance objectively, as the lack of specific standards and clear benchmarks created room for subjective interpretation and potential bias in judgment.",
+            "meaning_ko": "평가에 대한 그 모호한 기준은 성과를 객관적으로 평가하는 것을 거의 불가능하게 만들었고, 구체적 기준과 명확한 벤치마크의 부족이 주관적 해석과 판단에서 잠재적 편향을 위한 공간을 만들었기 때문입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "nebulous는 '모호한, 불명확한' 또는 '성운 같은, 흐릿한' 의미로, 명확하지 않거나 모호한 상태를 가리킵니다. vague, unclear와 비슷하지만 더 문학적 뉘앙스가 있습니다. nebulous concept, nebulous idea 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "학문",
+      "문학",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: nebulous = (A) clear (B) vague or unclear (C) precise (D) definite",
+            "a": "B",
+            "meaning_ko": "nebulous는 '모호한 또는 불명확한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The concept was _____.",
+            "a": "nebulous",
+            "meaning_ko": "nebulous는 '모호한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of nebulous? (A) vague (B) unclear (C) clear (D) ambiguous",
+            "a": "C",
+            "meaning_ko": "clear(명확한)가 nebulous의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She had a _____ idea about the project. (A) nebulous (B) nebulously (C) nebulousness (D) nebulous's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 nebulous가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: nebulous = (A) clear (B) vague (C) precise (D) definite",
+            "a": "B",
+            "meaning_ko": "vague(모호한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She had a nebulously idea about the project.' → Fix the sentence.",
+            "a": "She had a nebulous idea about the project.",
+            "meaning_ko": "명사를 수식하는 형용사 nebulous가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The concept was nebulous.'",
+            "a": "The concept was vague, unclear, and lacking precise definition, with indistinct boundaries that made it difficult to understand or apply, resembling a cloud or nebula in its lack of clear form or structure.",
+            "meaning_ko": "nebulous는 '모호한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The definition remained _____. (A) nebulous (B) nebulously (C) nebulousness (D) nebulous's",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 nebulous가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses nebulous most appropriately? (A) The nebulous ran. (B) The concept was nebulous. (C) She nebulous smiled. (D) Nebulous is good.",
+            "a": "B",
+            "meaning_ko": "nebulous는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dull",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "둔한, 무딘; 날카롭지 않거나 예리하지 않은.",
+        "note": "날카롭지 않거나 예리하지 않은 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "지루한, 따분한; 흥미롭지 않거나 지루한.",
+        "note": "흥미롭지 않거나 지루한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "둔하게 만들다, 무디게 하다; 날카롭지 않게 하거나 둔하게 만들다.",
+        "note": "날카롭지 않게 하거나 둔하게 만드는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "날카롭지 않거나 예리하지 않은 둔한 상태, 또는 흥미롭지 않거나 지루한 지루한 상태, 또는 날카롭지 않게 하거나 둔하게 만드는 것.",
+    "etymology": "고대 영어 dol(어리석은)에서 유래했으며, 원래는 '어리석은' 의미였으나 현대에는 '둔한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '어리석은' 의미였으나, 현대에는 '날카롭지 않거나 예리하지 않은' 또는 '흥미롭지 않거나 지루한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 주로 명사를 수식하거나 서술어로 쓰이며, be dull 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, dull + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be dull : 둔하다/지루하다",
+      "dull + 명사 : 둔한/지루한 ~",
+      "dull + 명사 : ~을 둔하게 만들다"
+    ],
+    "morphology": "고대 영어 dol에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "dullness",
+        "meaning_ko": "둔함/지루함"
+      },
+      {
+        "word": "dully",
+        "meaning_ko": "둔하게/지루하게"
+      },
+      {
+        "word": "dulled",
+        "meaning_ko": "둔해진(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "blunt",
+        "meaning_ko": "둔한"
+      },
+      {
+        "word": "boring",
+        "meaning_ko": "지루한"
+      },
+      {
+        "word": "tedious",
+        "meaning_ko": "지루한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "blunt",
+        "meaning_ko": "둔한"
+      },
+      {
+        "word": "boring",
+        "meaning_ko": "지루한"
+      },
+      {
+        "word": "tedious",
+        "meaning_ko": "지루한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "uninteresting",
+        "meaning_ko": "흥미롭지 않은(범위가 더 넓음)"
+      },
+      {
+        "word": "monotonous",
+        "meaning_ko": "단조로운"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sharp",
+        "meaning_ko": "날카로운"
+      },
+      {
+        "word": "interesting",
+        "meaning_ko": "흥미로운"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "dull knife",
+            "meaning_ko": "둔한 칼"
+          },
+          {
+            "phrase": "dull pain",
+            "meaning_ko": "둔한 통증"
+          },
+          {
+            "phrase": "dull lecture",
+            "meaning_ko": "지루한 강의"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dull ache",
+            "meaning_ko": "둔한 아픔"
+          },
+          {
+            "phrase": "dull conversation",
+            "meaning_ko": "지루한 대화"
+          },
+          {
+            "phrase": "dull weather",
+            "meaning_ko": "흐린 날씨"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "dull sensation",
+            "meaning_ko": "둔한 감각"
+          },
+          {
+            "phrase": "dull presentation",
+            "meaning_ko": "지루한 발표"
+          },
+          {
+            "phrase": "dull response",
+            "meaning_ko": "둔한 반응"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The knife was dull.",
+            "meaning_ko": "그 칼은 둔했습니다."
+          },
+          {
+            "sentence": "The lecture was dull.",
+            "meaning_ko": "그 강의는 지루했습니다."
+          },
+          {
+            "sentence": "The pain was dull.",
+            "meaning_ko": "그 통증은 둔했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The knife was dull, making it difficult to cut through the tough material, as the blade had lost its sharpness and required sharpening to restore its effectiveness.",
+            "meaning_ko": "그 칼은 둔했고, 단단한 재료를 자르는 것을 어렵게 만들었으며, 그 칼날이 그 날카로움을 잃었고 그 효과를 복원하기 위해 날을 세워야 했기 때문입니다."
+          },
+          {
+            "sentence": "The lecture was dull, with the professor speaking in a monotone and presenting information in a way that failed to engage the students, leading many to lose focus and struggle to stay awake.",
+            "meaning_ko": "그 강의는 지루했고, 그 교수가 단조로운 톤으로 말하고 학생들을 참여시키지 못하는 방식으로 정보를 제시했으며, 많은 사람들이 집중을 잃고 깨어 있기 위해 고군분투하게 만들었습니다."
+          },
+          {
+            "sentence": "The pain was dull, a persistent ache that lacked the sharp intensity of acute pain but was nonetheless uncomfortable and distracting, making it difficult to concentrate on other tasks.",
+            "meaning_ko": "그 통증은 둔했고, 급성 통증의 날카로운 강도는 부족했지만 그럼에도 불구하고 불편하고 산만하게 만드는 지속적인 아픔이었으며, 다른 작업에 집중하는 것을 어렵게 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The dull sensation in his arm indicated nerve damage, with the reduced sensitivity and lack of sharp feeling suggesting that medical attention was needed to address the underlying condition and prevent further deterioration.",
+            "meaning_ko": "그의 팔에 있는 그 둔한 감각은 신경 손상을 나타냈고, 감소된 감도와 날카로운 느낌의 부족이 근본적 상태를 다루고 추가 악화를 방지하기 위해 의료적 주의가 필요함을 제안했습니다."
+          },
+          {
+            "sentence": "The dull presentation failed to capture the audience's attention, as the speaker's lack of enthusiasm and poor delivery made it difficult for listeners to stay engaged, despite the potentially interesting content that was being discussed.",
+            "meaning_ko": "그 지루한 발표는 청중의 주의를 포착하지 못했고, 그 연사가 열정 부족과 나쁜 전달이 청취자가 참여를 유지하는 것을 어렵게 만들었으며, 논의되고 있던 잠재적으로 흥미로운 내용에도 불구하고."
+          },
+          {
+            "sentence": "The dull response to the marketing campaign revealed that the message had failed to resonate with the target audience, requiring a complete redesign of the strategy to create more engaging and compelling content that would capture attention and drive action.",
+            "meaning_ko": "그 마케팅 캠페인에 대한 그 둔한 반응은 그 메시지가 타겟 청중과 공명하지 못했음을 드러냈고, 주의를 포착하고 행동을 촉진할 더 매력적이고 설득력 있는 콘텐츠를 만들기 위해 전략의 완전한 재설계를 요구했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dull는 '둔한, 무딘' 또는 '지루한, 따분한' 또는 '둔하게 만들다' 의미로, 날카롭지 않거나 예리하지 않은 상태를 가리킵니다. blunt, boring와 비슷하지만 더 일반적 표현입니다. dull knife, dull lecture 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: dull = (A) sharp (B) blunt or boring (C) interesting (D) exciting",
+            "a": "B",
+            "meaning_ko": "dull는 '둔한 또는 지루한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The knife was _____.",
+            "a": "dull",
+            "meaning_ko": "dull는 '둔한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of dull (meaning not sharp)? (A) blunt (B) boring (C) sharp (D) tedious",
+            "a": "C",
+            "meaning_ko": "sharp(날카로운)가 dull의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The lecture was _____. (A) dull (B) dulls (C) dullly (D) dullness",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 dull가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: dull = (A) sharp (B) blunt (C) interesting (D) exciting",
+            "a": "B",
+            "meaning_ko": "blunt(둔한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The lecture was dulls.' → Fix the sentence.",
+            "a": "The lecture was dull.",
+            "meaning_ko": "서술어로 형용사 dull가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The knife was dull.'",
+            "a": "The knife lacked sharpness and cutting ability, with the blade being blunt and unable to cut effectively, requiring sharpening to restore its functionality and make it useful again.",
+            "meaning_ko": "dull는 '둔한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The pain was _____. (A) dull (B) dulls (C) dullly (D) dullness",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 dull가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses dull most appropriately? (A) The dull ran. (B) The knife was dull. (C) She dull smiled. (D) Dull is good.",
+            "a": "B",
+            "meaning_ko": "dull는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "censure",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "비난, 견책; 강하게 비난하거나 견책하는 것.",
+        "note": "강하게 비난하거나 견책하는 것을 가리킵니다."
+      },
+      {
+        "definition_ko": "비난하다, 견책하다; 강하게 비난하거나 견책하다.",
+        "note": "강하게 비난하거나 견책하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "강하게 비난하거나 견책하는 비난, 또는 강하게 비난하거나 견책하는 것.",
+    "etymology": "라틴어 censura(비난)에서 유래했으며, 원래는 '비난' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래는 '비난' 의미였고, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 정치와 법률 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "명사로는 불가산명사로 자주 사용되며, censure 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, censure + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "불가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대해 비난하다",
+        "example": "censure for misconduct"
+      },
+      {
+        "prep": "by",
+        "meaning_ko": "~에 의해 비난받다",
+        "example": "censure by the committee"
+      }
+    ],
+    "requiredComplements": [
+      "censure for + 명사 : ~에 대해 비난하다",
+      "censure by + 명사 : ~에 의해 비난받다",
+      "censure + 명사 : ~을 비난하다",
+      "censure : 비난"
+    ],
+    "morphology": "라틴어 censura에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "censured",
+        "meaning_ko": "비난받은(과거분사/형용사)"
+      },
+      {
+        "word": "censuring",
+        "meaning_ko": "비난하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "criticize",
+        "meaning_ko": "비판하다"
+      },
+      {
+        "word": "condemn",
+        "meaning_ko": "비난하다"
+      },
+      {
+        "word": "rebuke",
+        "meaning_ko": "견책하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "criticize",
+        "meaning_ko": "비판하다"
+      },
+      {
+        "word": "condemn",
+        "meaning_ko": "비난하다"
+      },
+      {
+        "word": "rebuke",
+        "meaning_ko": "견책하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "reprimand",
+        "meaning_ko": "견책하다(범위가 더 넓음)"
+      },
+      {
+        "word": "reproach",
+        "meaning_ko": "비난하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      },
+      {
+        "word": "commend",
+        "meaning_ko": "칭찬하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "censure for",
+            "meaning_ko": "~에 대해 비난하다"
+          },
+          {
+            "phrase": "censure by",
+            "meaning_ko": "~에 의해 비난받다"
+          },
+          {
+            "phrase": "face censure",
+            "meaning_ko": "비난을 받다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "censure for misconduct",
+            "meaning_ko": "부정 행위에 대해 비난하다"
+          },
+          {
+            "phrase": "censure by the committee",
+            "meaning_ko": "위원회에 의해 비난받다"
+          },
+          {
+            "phrase": "official censure",
+            "meaning_ko": "공식 비난"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "censure resolution",
+            "meaning_ko": "비난 결의안"
+          },
+          {
+            "phrase": "censure motion",
+            "meaning_ko": "비난 동의안"
+          },
+          {
+            "phrase": "censure proceedings",
+            "meaning_ko": "비난 절차"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He faced censure for his actions.",
+            "meaning_ko": "그는 그의 행동에 대해 비난을 받았습니다."
+          },
+          {
+            "sentence": "The committee censured the official.",
+            "meaning_ko": "그 위원회는 그 공무원을 비난했습니다."
+          },
+          {
+            "sentence": "She received censure from her peers.",
+            "meaning_ko": "그녀는 그녀의 동료들로부터 비난을 받았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He faced censure for his actions, with the formal criticism reflecting the seriousness of his misconduct and the need for accountability, which could have significant consequences for his career and reputation.",
+            "meaning_ko": "그는 그의 행동에 대해 비난을 받았고, 그 공식적 비판이 그의 부정 행위의 심각성과 책임의 필요성을 반영했으며, 이것은 그의 경력과 명성에 중요한 결과를 가질 수 있었습니다."
+          },
+          {
+            "sentence": "The committee censured the official, issuing a formal statement of disapproval that condemned the behavior and called for corrective action, though the censure did not result in removal from office.",
+            "meaning_ko": "그 위원회는 그 공무원을 비난했고, 그 행동을 비난하고 시정 조치를 요구하는 공식적 불승인 성명을 발표했지만, 그 비난은 공직에서 제거로 이어지지 않았습니다."
+          },
+          {
+            "sentence": "She received censure from her peers, with colleagues expressing strong disapproval of her decisions and questioning her judgment, which created tension in the workplace and damaged professional relationships.",
+            "meaning_ko": "그녀는 그녀의 동료들로부터 비난을 받았고, 동료들이 그녀의 결정에 대한 강한 불승인을 표현하고 그녀의 판단에 의문을 제기했으며, 이것은 직장에서 긴장을 만들고 전문적 관계를 손상시켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The censure resolution passed by the legislative body represented a formal condemnation of the official's conduct, with the vote reflecting widespread dissatisfaction and the need for accountability, though the measure stopped short of removal from office.",
+            "meaning_ko": "그 입법 기관이 통과시킨 그 비난 결의안은 그 공무원의 행동에 대한 공식적 비난을 나타냈고, 그 투표가 광범위한 불만족과 책임의 필요성을 반영했지만, 그 조치는 공직에서 제거에 이르지 않았습니다."
+          },
+          {
+            "sentence": "The censure motion introduced by the opposition party sought to hold the administration accountable for policy failures, with the formal criticism intended to highlight shortcomings and pressure the government to address the issues that had been raised.",
+            "meaning_ko": "그 야당이 도입한 그 비난 동의안은 정책 실패에 대해 그 행정부를 책임지게 하려고 했고, 그 공식적 비판이 단점을 강조하고 제기된 문제를 다루도록 정부에 압력을 가하려는 의도였습니다."
+          },
+          {
+            "sentence": "The censure proceedings conducted by the ethics committee involved a thorough investigation of the allegations, with formal hearings and evidence review leading to a determination that the official had violated established standards, resulting in the censure and recommendations for disciplinary action.",
+            "meaning_ko": "그 윤리 위원회가 수행한 그 비난 절차는 그 주장에 대한 철저한 조사를 포함했고, 공식 청문회와 증거 검토가 그 공무원이 확립된 기준을 위반했다는 결정으로 이어졌으며, 그 비난과 징계 조치에 대한 권장 사항으로 이어졌습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "censure는 '비난, 견책' 또는 '비난하다, 견책하다' 의미로, 강하게 비난하거나 견책하는 것을 가리킵니다. criticize, condemn와 비슷하지만 더 공식적 뉘앙스가 있습니다. censure for ~, face censure 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "정치",
+      "법률",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: censure = (A) praise (B) criticize or condemn (C) commend (D) approve",
+            "a": "B",
+            "meaning_ko": "censure는 '비판하다 또는 비난하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He faced _____ for his actions.",
+            "a": "censure",
+            "meaning_ko": "censure는 '비난'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of censure? (A) criticize (B) condemn (C) praise (D) rebuke",
+            "a": "C",
+            "meaning_ko": "praise(칭찬하다)가 censure의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: censure _____ misconduct. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "censure for ~는 '~에 대해 비난하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: censure = (A) praise (B) criticize (C) commend (D) approve",
+            "a": "B",
+            "meaning_ko": "criticize(비판하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He faced censure at his actions.' → Fix the preposition.",
+            "a": "He faced censure for his actions.",
+            "meaning_ko": "censure for ~는 '~에 대해 비난하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He faced censure for his actions.'",
+            "a": "He encountered formal criticism and condemnation for his behavior, with the censure representing official disapproval and the need for accountability, which could have serious consequences for his position and reputation.",
+            "meaning_ko": "censure는 '비난'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The committee _____ the official. (A) censure (B) censures (C) censuring (D) censured",
+            "a": "D",
+            "meaning_ko": "과거 시제에서 과거형 censured가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses censure most appropriately? (A) The censure ran. (B) He faced censure for his actions. (C) She censure smiled. (D) Censure is good.",
+            "a": "B",
+            "meaning_ko": "censure는 명사로 '비난'을 의미하며, for와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

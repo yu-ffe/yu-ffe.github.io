@@ -1,0 +1,805 @@
+[
+  {
+    "word": "contiguous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "인접한, 접해 있는; 서로 닿아 있거나 바로 옆에 있는.",
+        "note": "서로 닿아 있거나 바로 옆에 있는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "연속적인, 이어지는; 끊어지지 않고 이어지는.",
+        "note": "끊어지지 않고 이어지는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "서로 닿아 있거나 바로 옆에 있는 인접한 상태, 또는 끊어지지 않고 이어지는 연속적인 상태.",
+    "etymology": "라틴어 contiguus(접해 있는)에서 유래했으며, con-(함께) + tangere(닿다)의 조합입니다.",
+    "semanticExtension": "원래는 '접해 있는' 의미였고, 현대에는 '연속적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 지리와 법률 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be contiguous 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~와 인접한",
+        "example": "contiguous with"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에 인접한",
+        "example": "contiguous to"
+      }
+    ],
+    "requiredComplements": [
+      "be contiguous : 인접하다",
+      "contiguous + 명사 : 인접한 ~",
+      "contiguous with + 명사 : ~와 인접한",
+      "contiguous to + 명사 : ~에 인접한"
+    ],
+    "morphology": "con-(함께) + tangere(닿다)의 조합으로, '함께 닿는' 즉 '인접한' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "contiguously",
+        "meaning_ko": "인접하게"
+      },
+      {
+        "word": "contiguity",
+        "meaning_ko": "인접"
+      }
+    ],
+    "related": [
+      {
+        "word": "adjacent",
+        "meaning_ko": "인접한"
+      },
+      {
+        "word": "adjoining",
+        "meaning_ko": "인접한"
+      },
+      {
+        "word": "neighboring",
+        "meaning_ko": "인접한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "adjacent",
+        "meaning_ko": "인접한"
+      },
+      {
+        "word": "adjoining",
+        "meaning_ko": "인접한"
+      },
+      {
+        "word": "neighboring",
+        "meaning_ko": "인접한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "bordering",
+        "meaning_ko": "경계를 이루는(범위가 더 넓음)"
+      },
+      {
+        "word": "abutting",
+        "meaning_ko": "접해 있는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "distant",
+        "meaning_ko": "먼"
+      },
+      {
+        "word": "separated",
+        "meaning_ko": "분리된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "contiguous with",
+            "meaning_ko": "~와 인접한"
+          },
+          {
+            "phrase": "contiguous to",
+            "meaning_ko": "~에 인접한"
+          },
+          {
+            "phrase": "contiguous area",
+            "meaning_ko": "인접한 지역"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "contiguous territory",
+            "meaning_ko": "인접한 영토"
+          },
+          {
+            "phrase": "contiguous states",
+            "meaning_ko": "인접한 주"
+          },
+          {
+            "phrase": "contiguous property",
+            "meaning_ko": "인접한 부동산"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "contiguous boundary",
+            "meaning_ko": "인접한 경계"
+          },
+          {
+            "phrase": "contiguous region",
+            "meaning_ko": "인접한 지역"
+          },
+          {
+            "phrase": "contiguous zone",
+            "meaning_ko": "인접한 구역"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The two states are contiguous.",
+            "meaning_ko": "그 두 주는 인접합니다."
+          },
+          {
+            "sentence": "She owned contiguous properties.",
+            "meaning_ko": "그녀는 인접한 부동산을 소유했습니다."
+          },
+          {
+            "sentence": "The areas were contiguous.",
+            "meaning_ko": "그 지역들은 인접했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The two states are contiguous, sharing a common border that allows for easy movement and interaction between the regions, with the geographical connection facilitating trade and cultural exchange.",
+            "meaning_ko": "그 두 주는 인접하고, 그 지역들 사이의 쉬운 이동과 상호 작용을 허용하는 공통 경계를 공유했으며, 그 지리적 연결이 무역과 문화 교환을 촉진했습니다."
+          },
+          {
+            "sentence": "She owned contiguous properties, with the adjacent parcels of land creating a larger unified estate that offered advantages for development and management, though the combined area required careful planning and coordination.",
+            "meaning_ko": "그녀는 인접한 부동산을 소유했고, 인접한 토지 구획이 개발과 관리에 이점을 제공하는 더 큰 통합 부동산을 만들었지만, 결합된 지역은 신중한 계획과 조정을 요구했습니다."
+          },
+          {
+            "sentence": "The areas were contiguous, with the neighboring regions sharing boundaries and creating a continuous zone that allowed for integrated planning and coordinated development efforts across the connected territories.",
+            "meaning_ko": "그 지역들은 인접했고, 인접한 지역들이 경계를 공유하고 연결된 영토 전반에 걸쳐 통합 계획과 조정된 개발 노력을 허용하는 연속적인 구역을 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The contiguous boundary between the two nations required careful diplomatic management, with the shared border creating both opportunities for cooperation and potential sources of conflict that needed ongoing attention and negotiation.",
+            "meaning_ko": "그 두 국가 사이의 그 인접한 경계는 신중한 외교적 관리가 필요했고, 그 공유 경계가 협력의 기회와 지속적인 주의와 협상을 필요로 하는 잠재적 갈등의 원인을 모두 만들었습니다."
+          },
+          {
+            "sentence": "The contiguous region spanned multiple administrative districts, with the connected areas requiring coordinated governance and integrated policy approaches that could address shared challenges while respecting local autonomy and specific needs.",
+            "meaning_ko": "그 인접한 지역은 여러 행정 구역에 걸쳐 있었고, 연결된 지역들이 지역 자치와 특정 필요를 존중하면서 공유된 도전을 다룰 수 있는 조정된 거버넌스와 통합 정책 접근을 요구했습니다."
+          },
+          {
+            "sentence": "The contiguous zone designation had legal and economic implications, with the classification affecting jurisdiction, resource management, and regulatory frameworks that governed activities in the area and determined how the connected territories would be administered.",
+            "meaning_ko": "그 인접한 구역 지정은 법적이고 경제적 함의를 가졌고, 그 분류가 그 지역의 활동을 규제하고 연결된 영토가 어떻게 관리될지 결정하는 관할권, 자원 관리, 규제 프레임워크에 영향을 미쳤습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "contiguous는 '인접한, 접해 있는' 또는 '연속적인, 이어지는' 의미로, 서로 닿아 있거나 바로 옆에 있는 상태를 가리킵니다. adjacent, adjoining와 비슷하지만 더 공식적 뉘앙스가 있습니다. contiguous with ~, contiguous to ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "지리",
+      "법률",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: contiguous = (A) distant (B) adjacent or adjoining (C) separated (D) isolated",
+            "a": "B",
+            "meaning_ko": "contiguous는 '인접한 또는 접해 있는' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The two states are _____.",
+            "a": "contiguous",
+            "meaning_ko": "contiguous는 '인접한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of contiguous? (A) adjacent (B) adjoining (C) distant (D) neighboring",
+            "a": "C",
+            "meaning_ko": "distant(먼)이 contiguous의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: contiguous _____ the border. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "contiguous with ~는 '~와 인접한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: contiguous = (A) distant (B) adjacent (C) separated (D) isolated",
+            "a": "B",
+            "meaning_ko": "adjacent(인접한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The two states are contiguous at each other.' → Fix the preposition.",
+            "a": "The two states are contiguous with each other.",
+            "meaning_ko": "contiguous with ~는 '~와 인접한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The two states are contiguous.'",
+            "a": "The two states share a common border and are directly adjacent to each other, with their territories touching and creating a continuous connection that allows for easy movement and interaction between the regions.",
+            "meaning_ko": "contiguous는 '인접한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She owned _____ properties. (A) contiguous (B) contiguously (C) contiguity (D) contiguous's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 contiguous가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses contiguous most appropriately? (A) The contiguous ran. (B) The two states are contiguous. (C) She contiguous smiled. (D) Contiguous is good.",
+            "a": "B",
+            "meaning_ko": "contiguous는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "indict",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "기소하다, 고발하다; 법적으로 기소하거나 고발하다.",
+        "note": "법적으로 기소하거나 고발하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "법적으로 기소하거나 고발하는 기소.",
+    "etymology": "라틴어 indicere(고발하다)에서 유래했으며, in-(안으로) + dicere(말하다)의 조합입니다.",
+    "semanticExtension": "원래는 '고발하다' 의미였고, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 법률과 법정 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 쓰이며, indict + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~로 기소하다",
+        "example": "indict for murder"
+      },
+      {
+        "prep": "on",
+        "meaning_ko": "~로 기소하다",
+        "example": "indict on charges"
+      }
+    ],
+    "requiredComplements": [
+      "indict + 명사 : ~을 기소하다",
+      "indict for + 명사 : ~로 기소하다",
+      "indict on + 명사 : ~로 기소하다"
+    ],
+    "morphology": "in-(안으로) + dicere(말하다)의 조합으로, '안으로 말하다' 즉 '고발하다' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "indicted",
+        "meaning_ko": "기소된(과거분사/형용사)"
+      },
+      {
+        "word": "indicting",
+        "meaning_ko": "기소하는(현재분사/형용사)"
+      },
+      {
+        "word": "indictment",
+        "meaning_ko": "기소"
+      }
+    ],
+    "related": [
+      {
+        "word": "charge",
+        "meaning_ko": "기소하다"
+      },
+      {
+        "word": "accuse",
+        "meaning_ko": "고발하다"
+      },
+      {
+        "word": "prosecute",
+        "meaning_ko": "기소하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "charge",
+        "meaning_ko": "기소하다"
+      },
+      {
+        "word": "accuse",
+        "meaning_ko": "고발하다"
+      },
+      {
+        "word": "prosecute",
+        "meaning_ko": "기소하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "arraign",
+        "meaning_ko": "기소하다(범위가 더 넓음)"
+      },
+      {
+        "word": "impeach",
+        "meaning_ko": "탄핵하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "acquit",
+        "meaning_ko": "무죄로 판결하다"
+      },
+      {
+        "word": "exonerate",
+        "meaning_ko": "무죄로 판결하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "indict for",
+            "meaning_ko": "~로 기소하다"
+          },
+          {
+            "phrase": "indict on",
+            "meaning_ko": "~로 기소하다"
+          },
+          {
+            "phrase": "grand jury indict",
+            "meaning_ko": "대배심이 기소하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "indict for murder",
+            "meaning_ko": "살인으로 기소하다"
+          },
+          {
+            "phrase": "indict on charges",
+            "meaning_ko": "혐의로 기소하다"
+          },
+          {
+            "phrase": "federal indict",
+            "meaning_ko": "연방 기소"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "indict for conspiracy",
+            "meaning_ko": "음모로 기소하다"
+          },
+          {
+            "phrase": "indict on multiple counts",
+            "meaning_ko": "여러 혐의로 기소하다"
+          },
+          {
+            "phrase": "indict for fraud",
+            "meaning_ko": "사기로 기소하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The grand jury indicted him.",
+            "meaning_ko": "그 대배심은 그를 기소했습니다."
+          },
+          {
+            "sentence": "She was indicted for fraud.",
+            "meaning_ko": "그녀는 사기로 기소되었습니다."
+          },
+          {
+            "sentence": "They indicted the suspect.",
+            "meaning_ko": "그들은 그 용의자를 기소했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The grand jury indicted him, with the panel determining that there was sufficient evidence to proceed with formal charges, initiating a legal process that would lead to a trial and potential conviction.",
+            "meaning_ko": "그 대배심은 그를 기소했고, 그 패널이 공식 기소를 진행하기에 충분한 증거가 있다고 결정했으며, 재판과 잠재적 유죄 판결로 이어질 법적 과정을 시작했습니다."
+          },
+          {
+            "sentence": "She was indicted for fraud, with the charges alleging that she had engaged in deceptive practices to obtain financial gain, though she would have the opportunity to defend herself in court and challenge the accusations.",
+            "meaning_ko": "그녀는 사기로 기소되었고, 그 기소가 그녀가 재정적 이득을 얻기 위해 기만적 관행에 참여했다고 주장했지만, 그녀는 법정에서 자신을 변호하고 그 주장에 도전할 기회를 가질 것입니다."
+          },
+          {
+            "sentence": "They indicted the suspect, with the formal charges marking a significant step in the legal process, as the case would now move forward to trial where evidence would be presented and a verdict would be reached.",
+            "meaning_ko": "그들은 그 용의자를 기소했고, 그 공식 기소가 법적 과정에서 중요한 단계를 표시했으며, 사건이 이제 증거가 제시되고 판결이 내려질 재판으로 진행될 것이기 때문입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The grand jury indicted him for conspiracy, with the charges alleging that he had participated in a coordinated effort to commit illegal acts, requiring the prosecution to prove the elements of the crime and demonstrate his involvement in the scheme.",
+            "meaning_ko": "그 대배심은 그를 음모로 기소했고, 그 기소가 그가 불법 행위를 저지르기 위한 조정된 노력에 참여했다고 주장했으며, 검찰이 그 범죄의 요소를 증명하고 그 계획에서의 그의 관여를 입증하는 것을 요구했습니다."
+          },
+          {
+            "sentence": "She was indicted on multiple counts, with the various charges reflecting the complexity of the case and the range of alleged offenses, creating a situation where the defense would need to address each count separately and the prosecution would need to prove each element beyond a reasonable doubt.",
+            "meaning_ko": "그녀는 여러 혐의로 기소되었고, 다양한 기소가 그 사건의 복잡성과 주장된 범죄의 범위를 반영했으며, 방어가 각 혐의를 별도로 다루고 검찰이 합리적 의심을 넘어서 각 요소를 증명해야 하는 상황을 만들었습니다."
+          },
+          {
+            "sentence": "The federal authorities indicted the organization for fraud, with the charges targeting the systematic deception and financial misconduct that had allegedly occurred over an extended period, requiring extensive investigation and the presentation of complex evidence to support the case.",
+            "meaning_ko": "그 연방 당국은 그 조직을 사기로 기소했고, 그 기소가 장기간에 걸쳐 발생했다고 주장된 체계적 기만과 재정적 부정 행위를 목표로 했으며, 그 사건을 지지하기 위해 광범위한 조사와 복잡한 증거의 제시를 요구했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "indict는 '기소하다, 고발하다' 의미로, 법적으로 기소하거나 고발하는 행동을 가리킵니다. charge, accuse와 비슷하지만 더 공식적 뉘앙스가 있습니다. indict for ~, indict on ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "법률",
+      "법정",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: indict = (A) acquit (B) charge or accuse (C) exonerate (D) clear",
+            "a": "B",
+            "meaning_ko": "indict는 '기소하다 또는 고발하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The grand jury _____ him.",
+            "a": "indicted",
+            "meaning_ko": "indict는 '기소하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of indict? (A) charge (B) accuse (C) acquit (D) prosecute",
+            "a": "C",
+            "meaning_ko": "acquit(무죄로 판결하다)가 indict의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: indict _____ fraud. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "indict for ~는 '~로 기소하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: indict = (A) acquit (B) charge (C) exonerate (D) clear",
+            "a": "B",
+            "meaning_ko": "charge(기소하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was indicted at fraud.' → Fix the preposition.",
+            "a": "She was indicted for fraud.",
+            "meaning_ko": "indict for ~는 '~로 기소하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The grand jury indicted him.'",
+            "a": "The grand jury formally charged him with a crime, determining that there was sufficient evidence to proceed with prosecution, initiating a legal process that would lead to a trial where the charges would be examined and a verdict would be reached.",
+            "meaning_ko": "indict는 '기소하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the suspect. (A) indict (B) indicted (C) indicting (D) indicts",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 indicted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses indict most appropriately? (A) The indict ran. (B) The grand jury indicted him. (C) She indict smiled. (D) Indict is good.",
+            "a": "B",
+            "meaning_ko": "indict는 동사로 '기소하다'를 의미하며, 타동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "apothecary",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "약사, 약제사; 약을 조제하거나 판매하는 사람.",
+        "note": "약을 조제하거나 판매하는 사람을 가리킵니다."
+      },
+      {
+        "definition_ko": "약국, 약방; 약을 조제하거나 판매하는 장소.",
+        "note": "약을 조제하거나 판매하는 장소를 가리킵니다."
+      }
+    ],
+    "concept": "약을 조제하거나 판매하는 사람인 약사, 또는 약을 조제하거나 판매하는 장소인 약국.",
+    "etymology": "그리스어 apotheke(저장소)에서 유래했으며, 원래는 '저장소' 의미였으나 현대에는 '약사'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '저장소' 의미였으나, 현대에는 '약을 조제하거나 판매하는 사람' 또는 '약을 조제하거나 판매하는 장소'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 역사와 의학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사로 쓰이며, apothecary 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "apothecary : 약사/약국"
+    ],
+    "morphology": "그리스어 apotheke에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "apothecaries",
+        "meaning_ko": "약사들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "pharmacist",
+        "meaning_ko": "약사"
+      },
+      {
+        "word": "druggist",
+        "meaning_ko": "약사"
+      },
+      {
+        "word": "chemist",
+        "meaning_ko": "약사"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "pharmacist",
+        "meaning_ko": "약사"
+      },
+      {
+        "word": "druggist",
+        "meaning_ko": "약사"
+      },
+      {
+        "word": "chemist",
+        "meaning_ko": "약사"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "pharmacy",
+        "meaning_ko": "약국(범위가 더 넓음)"
+      },
+      {
+        "word": "drugstore",
+        "meaning_ko": "약국"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "village apothecary",
+            "meaning_ko": "마을 약사"
+          },
+          {
+            "phrase": "local apothecary",
+            "meaning_ko": "지역 약사"
+          },
+          {
+            "phrase": "apothecary shop",
+            "meaning_ko": "약국"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "apothecary practice",
+            "meaning_ko": "약사 실습"
+          },
+          {
+            "phrase": "apothecary trade",
+            "meaning_ko": "약사 직업"
+          },
+          {
+            "phrase": "apothecary jar",
+            "meaning_ko": "약병"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "apothecary system",
+            "meaning_ko": "약사 제도"
+          },
+          {
+            "phrase": "apothecary weight",
+            "meaning_ko": "약사 무게"
+          },
+          {
+            "phrase": "apothecary measurement",
+            "meaning_ko": "약사 측정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The apothecary prepared the medicine.",
+            "meaning_ko": "그 약사는 그 약을 준비했습니다."
+          },
+          {
+            "sentence": "She visited the apothecary.",
+            "meaning_ko": "그녀는 그 약국을 방문했습니다."
+          },
+          {
+            "sentence": "The apothecary sold herbs.",
+            "meaning_ko": "그 약사는 약초를 판매했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The apothecary prepared the medicine, carefully measuring and mixing ingredients according to the prescription, using traditional methods and knowledge passed down through generations to create remedies for various ailments.",
+            "meaning_ko": "그 약사는 그 약을 준비했고, 처방에 따라 성분을 신중하게 측정하고 혼합했으며, 세대를 통해 전달된 전통적 방법과 지식을 사용하여 다양한 질병에 대한 치료법을 만들었습니다."
+          },
+          {
+            "sentence": "She visited the apothecary, seeking remedies for her illness and consulting with the pharmacist about the best treatments available, relying on the expertise and knowledge of the medical professional.",
+            "meaning_ko": "그녀는 그 약국을 방문했고, 그녀의 질병에 대한 치료법을 찾고 사용 가능한 최상의 치료에 대해 그 약사와 상담했으며, 그 의료 전문가의 전문성과 지식에 의존했습니다."
+          },
+          {
+            "sentence": "The apothecary sold herbs, with the shop offering a wide variety of medicinal plants and natural remedies, serving as a resource for those seeking alternative treatments and traditional medicine.",
+            "meaning_ko": "그 약사는 약초를 판매했고, 그 상점이 다양한 약용 식물과 자연 치료법을 제공했으며, 대체 치료와 전통 의학을 찾는 사람들을 위한 자원으로 작용했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The apothecary system represented an important historical development in medicine, with the profession serving as a bridge between traditional herbal knowledge and emerging scientific understanding, playing a crucial role in healthcare before the establishment of modern pharmacies and pharmaceutical regulations.",
+            "meaning_ko": "그 약사 제도는 의학에서 중요한 역사적 발전을 나타냈고, 그 직업이 전통적 약초 지식과 등장하는 과학적 이해 사이의 다리로 작용했으며, 현대 약국과 제약 규정의 확립 전에 의료에서 중요한 역할을 했습니다."
+          },
+          {
+            "sentence": "The apothecary weight system was used for precise measurement of medicinal ingredients, with the specialized units allowing for accurate compounding of prescriptions and ensuring that dosages were correct, though the system has been largely replaced by metric measurements in modern practice.",
+            "meaning_ko": "그 약사 무게 제도는 약용 성분의 정확한 측정에 사용되었고, 그 전문 단위가 처방의 정확한 조제를 허용하고 용량이 정확했음을 보장했지만, 그 제도는 현대 실습에서 대부분 미터법 측정으로 대체되었습니다."
+          },
+          {
+            "sentence": "The apothecary measurement standards were essential for consistency in pharmaceutical preparation, with the established units providing a framework for accurate dosing and quality control that ensured patient safety and treatment effectiveness.",
+            "meaning_ko": "그 약사 측정 기준은 제약 준비에서 일관성에 필수적이었고, 확립된 단위가 환자 안전과 치료 효과를 보장하는 정확한 투약과 품질 관리에 대한 프레임워크를 제공했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "apothecary는 '약사, 약제사' 또는 '약국, 약방' 의미로, 약을 조제하거나 판매하는 사람을 가리킵니다. pharmacist, druggist와 비슷하지만 더 역사적 뉘앙스가 있습니다. village apothecary, apothecary shop 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "역사",
+      "의학",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: apothecary = (A) doctor (B) pharmacist or druggist (C) nurse (D) patient",
+            "a": "B",
+            "meaning_ko": "apothecary는 '약사 또는 약제사' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ prepared the medicine.",
+            "a": "apothecary",
+            "meaning_ko": "apothecary는 '약사'를 의미합니다."
+          },
+          {
+            "q": "Which is similar to apothecary? (A) doctor (B) pharmacist (C) nurse (D) patient",
+            "a": "B",
+            "meaning_ko": "pharmacist(약사)가 apothecary와 유사합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She visited the _____. (A) apothecary (B) apothecaries (C) apothecary's (D) apothecaryed",
+            "a": "A",
+            "meaning_ko": "명사 apothecary가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: apothecary = (A) doctor (B) pharmacist (C) nurse (D) patient",
+            "a": "B",
+            "meaning_ko": "pharmacist(약사)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The apothecary prepared the medicines.' → Is this correct?",
+            "a": "Yes, this is correct. 'medicines' (plural) is acceptable.",
+            "meaning_ko": "medicines(복수형)는 허용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The apothecary prepared the medicine.'",
+            "a": "The pharmacist or druggist compounded the medication, carefully measuring and mixing ingredients according to the prescription, using traditional methods and pharmaceutical knowledge to create the remedy.",
+            "meaning_ko": "apothecary는 '약사'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ sold herbs. (A) apothecary (B) apothecaries (C) apothecary's (D) apothecaryed",
+            "a": "A",
+            "meaning_ko": "명사 apothecary가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses apothecary most appropriately? (A) The apothecary ran. (B) The apothecary prepared the medicine. (C) She apothecary smiled. (D) Apothecary is good.",
+            "a": "B",
+            "meaning_ko": "apothecary는 명사로 '약사'를 의미하며, 약을 준비하는 사람을 나타낼 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

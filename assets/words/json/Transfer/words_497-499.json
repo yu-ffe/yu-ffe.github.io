@@ -1,0 +1,821 @@
+[
+  {
+    "word": "expenditure",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "지출, 비용; 돈이나 자원을 사용하거나 소비하는 것.",
+        "note": "돈이나 자원을 사용하거나 소비하는 것을 가리킵니다."
+      }
+    ],
+    "concept": "돈이나 자원을 사용하거나 소비하는 지출.",
+    "etymology": "라틴어 expendere(지출하다)에서 유래했으며, 원래는 '지출하다' 의미였으나 현대에는 '지출'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '지출하다' 의미였으나, 현대에는 '지출'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 경제·재정 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사와 불가산명사 모두로 쓰이며, an expenditure, expenditures 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대한 지출",
+        "example": "expenditure on education"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 지출",
+        "example": "expenditure for equipment"
+      }
+    ],
+    "requiredComplements": [
+      "expenditure on + 명사 : ~에 대한 지출",
+      "expenditure for + 명사 : ~을 위한 지출"
+    ],
+    "morphology": "라틴어 expendere에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "expend",
+        "meaning_ko": "지출하다"
+      },
+      {
+        "word": "expendable",
+        "meaning_ko": "지출 가능한"
+      }
+    ],
+    "related": [
+      {
+        "word": "expense",
+        "meaning_ko": "비용"
+      },
+      {
+        "word": "cost",
+        "meaning_ko": "비용"
+      },
+      {
+        "word": "spending",
+        "meaning_ko": "지출"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "expense",
+        "meaning_ko": "비용"
+      },
+      {
+        "word": "cost",
+        "meaning_ko": "비용"
+      },
+      {
+        "word": "spending",
+        "meaning_ko": "지출"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "outlay",
+        "meaning_ko": "지출(격식)"
+      },
+      {
+        "word": "disbursement",
+        "meaning_ko": "지출(격식)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "income",
+        "meaning_ko": "수입"
+      },
+      {
+        "word": "revenue",
+        "meaning_ko": "수익"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "government expenditure",
+            "meaning_ko": "정부 지출"
+          },
+          {
+            "phrase": "expenditure on education",
+            "meaning_ko": "교육에 대한 지출"
+          },
+          {
+            "phrase": "total expenditure",
+            "meaning_ko": "총 지출"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "expenditure for equipment",
+            "meaning_ko": "장비를 위한 지출"
+          },
+          {
+            "phrase": "capital expenditure",
+            "meaning_ko": "자본 지출"
+          },
+          {
+            "phrase": "public expenditure",
+            "meaning_ko": "공공 지출"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "expenditure on infrastructure",
+            "meaning_ko": "인프라에 대한 지출"
+          },
+          {
+            "phrase": "expenditure for research",
+            "meaning_ko": "연구를 위한 지출"
+          },
+          {
+            "phrase": "defense expenditure",
+            "meaning_ko": "국방 지출"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The government increased expenditure on education.",
+            "meaning_ko": "정부는 교육에 대한 지출을 증가시켰습니다."
+          },
+          {
+            "sentence": "Total expenditure exceeded the budget.",
+            "meaning_ko": "총 지출이 예산을 초과했습니다."
+          },
+          {
+            "sentence": "We need to reduce our expenditure.",
+            "meaning_ko": "우리는 지출을 줄여야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company's capital expenditure for new equipment was approved by the board of directors.",
+            "meaning_ko": "그 회사의 새 장비를 위한 자본 지출은 이사회에 의해 승인되었습니다."
+          },
+          {
+            "sentence": "Public expenditure on healthcare has been steadily increasing over the past decade.",
+            "meaning_ko": "보건에 대한 공공 지출은 지난 10년 동안 꾸준히 증가했습니다."
+          },
+          {
+            "sentence": "The government's expenditure for research and development was allocated to various scientific institutions.",
+            "meaning_ko": "정부의 연구 개발을 위한 지출은 다양한 과학 기관에 배정되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The defense expenditure on military infrastructure and personnel training represented a significant portion of the national budget.",
+            "meaning_ko": "군사 인프라와 인력 훈련에 대한 국방 지출은 국가 예산의 상당 부분을 차지했습니다."
+          },
+          {
+            "sentence": "The expenditure for research in renewable energy technologies was justified by the long-term environmental benefits.",
+            "meaning_ko": "재생 가능 에너지 기술에 대한 연구를 위한 지출은 장기적 환경적 이점에 의해 정당화되었습니다."
+          },
+          {
+            "sentence": "The analysis of expenditure on infrastructure projects revealed inefficiencies in resource allocation and project management.",
+            "meaning_ko": "인프라 프로젝트에 대한 지출 분석은 자원 배정과 프로젝트 관리에서 비효율성을 드러냈습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "expenditure는 '지출, 비용' 의미로, 돈이나 자원을 사용하거나 소비하는 것을 가리킵니다. expense, cost와 비슷하지만 더 격식 있고 공식적인 뉘앙스가 있습니다. expenditure on/for ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "경제",
+      "재정",
+      "일상 회화",
+      "격식",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: expenditure = (A) income (B) expense or spending (C) revenue (D) profit",
+            "a": "B",
+            "meaning_ko": "expenditure는 '비용 또는 지출' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The government increased _____ on education.",
+            "a": "expenditure",
+            "meaning_ko": "expenditure는 '지출'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of expenditure? (A) expense (B) cost (C) income (D) spending",
+            "a": "C",
+            "meaning_ko": "income(수입)가 expenditure의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: expenditure _____ education. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "expenditure on ~는 '~에 대한 지출' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: expenditure = (A) income (B) expense (C) revenue (D) profit",
+            "a": "B",
+            "meaning_ko": "expense(비용)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The expenditure for equipment was high.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "expenditure for ~는 '~을 위한 지출' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The capital expenditure was approved.'",
+            "a": "The spending of money on long-term assets and investments was given official permission and authorization.",
+            "meaning_ko": "capital expenditure는 '자본 지출'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ on infrastructure was high. (A) expenditure (B) expenditures (C) expend (D) expends",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 expenditure가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses expenditure most appropriately? (A) The expenditure ran. (B) The expenditure on education increased. (C) She expenditure smiled. (D) Expenditure is good.",
+            "a": "B",
+            "meaning_ko": "expenditure는 명사로 '지출'을 의미하며, on과 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "impart",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "전달하다, 알려주다; 지식이나 정보를 전달하거나 알려주다.",
+        "note": "지식이나 정보를 전달하거나 알려주는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "부여하다, 주다; 특정한 성질이나 특성을 부여하거나 주다.",
+        "note": "특정한 성질이나 특성을 부여하거나 주는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "지식이나 정보를 전달하거나 알려주는 것, 또는 특정한 성질이나 특성을 부여하거나 주는 것.",
+    "etymology": "라틴어 impartire(나누어 주다)에서 유래했으며, 원래는 '나누어 주다' 의미였으나 현대에는 '전달하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '나누어 주다' 의미였으나, 현대에는 '지식이나 정보를 전달하다' 또는 '특정한 성질이나 특성을 부여하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "타동사로 impart + 명사 + to + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 전달하다",
+        "example": "impart knowledge to students"
+      }
+    ],
+    "requiredComplements": [
+      "impart + 명사 + to + 명사 : ~에게 ~을 전달하다",
+      "impart + 명사 : ~을 전달하다"
+    ],
+    "morphology": "라틴어 impartire에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "convey",
+        "meaning_ko": "전달하다"
+      },
+      {
+        "word": "communicate",
+        "meaning_ko": "전달하다"
+      },
+      {
+        "word": "transmit",
+        "meaning_ko": "전달하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "convey",
+        "meaning_ko": "전달하다"
+      },
+      {
+        "word": "communicate",
+        "meaning_ko": "전달하다"
+      },
+      {
+        "word": "transmit",
+        "meaning_ko": "전달하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "tell",
+        "meaning_ko": "말하다(범위가 더 넓음)"
+      },
+      {
+        "word": "share",
+        "meaning_ko": "공유하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "withhold",
+        "meaning_ko": "보류하다"
+      },
+      {
+        "word": "conceal",
+        "meaning_ko": "숨기다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "impart knowledge",
+            "meaning_ko": "지식을 전달하다"
+          },
+          {
+            "phrase": "impart information",
+            "meaning_ko": "정보를 전달하다"
+          },
+          {
+            "phrase": "impart to",
+            "meaning_ko": "~에게 전달하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "impart wisdom",
+            "meaning_ko": "지혜를 전달하다"
+          },
+          {
+            "phrase": "impart skills",
+            "meaning_ko": "기술을 전달하다"
+          },
+          {
+            "phrase": "impart flavor",
+            "meaning_ko": "맛을 부여하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "impart understanding",
+            "meaning_ko": "이해를 전달하다"
+          },
+          {
+            "phrase": "impart meaning",
+            "meaning_ko": "의미를 부여하다"
+          },
+          {
+            "phrase": "impart significance",
+            "meaning_ko": "중요성을 부여하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The teacher tried to impart knowledge to her students.",
+            "meaning_ko": "그 교사는 학생들에게 지식을 전달하려고 노력했습니다."
+          },
+          {
+            "sentence": "He imparted important information to the team.",
+            "meaning_ko": "그는 팀에게 중요한 정보를 전달했습니다."
+          },
+          {
+            "sentence": "The spices impart flavor to the dish.",
+            "meaning_ko": "그 향신료는 그 요리에 맛을 부여합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The mentor sought to impart wisdom and life lessons to the young professionals through years of guidance.",
+            "meaning_ko": "그 멘토는 수년간의 지도를 통해 젊은 전문가들에게 지혜와 인생 교훈을 전달하려고 했습니다."
+          },
+          {
+            "sentence": "The training program was designed to impart essential skills to new employees, ensuring they were well-prepared for their roles.",
+            "meaning_ko": "그 훈련 프로그램은 신입 직원들에게 필수 기술을 전달하도록 설계되었고, 그들이 자신의 역할에 잘 준비되도록 보장했습니다."
+          },
+          {
+            "sentence": "The aging process imparts a unique flavor to the wine, enhancing its complexity and depth.",
+            "meaning_ko": "그 숙성 과정은 그 와인에 독특한 맛을 부여하여, 그 복잡성과 깊이를 향상시킵니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The professor's lectures aimed to impart a deep understanding of the philosophical concepts, encouraging students to engage critically with the material.",
+            "meaning_ko": "그 교수의 강의는 철학적 개념에 대한 깊은 이해를 전달하는 것을 목표로 했고, 학생들이 그 자료를 비판적으로 다루도록 장려했습니다."
+          },
+          {
+            "sentence": "The cultural context imparts meaning to the ancient texts, revealing layers of interpretation that would otherwise remain hidden.",
+            "meaning_ko": "그 문화적 맥락은 고대 텍스트에 의미를 부여하여, 그렇지 않으면 숨겨진 채로 남을 해석의 층을 드러냅니다."
+          },
+          {
+            "sentence": "The historical significance imparted to the monument by its association with key events made it a symbol of national identity.",
+            "meaning_ko": "주요 사건들과의 연관성에 의해 그 기념비에 부여된 역사적 중요성은 그것을 국가 정체성의 상징으로 만들었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "impart는 '전달하다, 알려주다' 또는 '부여하다' 의미로, 지식이나 정보를 전달하거나 알려주는 행동을 가리킵니다. 매우 격식 있는 단어로, convey, communicate와 비슷하지만 더 문학적 뉘앙스가 있습니다. impart + 명사 + to + 명사 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "교육",
+      "전달",
+      "격식",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: impart = (A) withhold (B) convey or communicate (C) conceal (D) hide",
+            "a": "B",
+            "meaning_ko": "impart는 '전달하거나 소통하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The teacher tried to _____ knowledge to her students.",
+            "a": "impart",
+            "meaning_ko": "impart는 '전달하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of impart? (A) convey (B) communicate (C) withhold (D) transmit",
+            "a": "C",
+            "meaning_ko": "withhold(보류하다)가 impart의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: impart knowledge _____ students. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "impart + 명사 + to ~는 '~에게 ~을 전달하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: impart = (A) withhold (B) convey (C) conceal (D) hide",
+            "a": "B",
+            "meaning_ko": "convey(전달하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The teacher imparted knowledge for students.' → Fix the preposition.",
+            "a": "The teacher imparted knowledge to students.",
+            "meaning_ko": "impart + 명사 + to ~는 '~에게 ~을 전달하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The mentor imparted wisdom to the students.'",
+            "a": "The experienced guide communicated and shared valuable life lessons and knowledge with the learners.",
+            "meaning_ko": "impart wisdom는 '지혜를 전달하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The spices _____ flavor. (A) impart (B) imparts (C) imparting (D) imparted",
+            "a": "A",
+            "meaning_ko": "3인칭 복수 주어에서 동사 원형 impart가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses impart most appropriately? (A) The impart ran. (B) The teacher imparted knowledge. (C) She impart smiled. (D) Impart is good.",
+            "a": "B",
+            "meaning_ko": "impart는 타동사로 '~을 전달하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "furious",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "격노한, 매우 화가 난; 매우 강한 분노를 느끼는.",
+        "note": "매우 강한 분노를 느끼는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "격렬한, 맹렬한; 매우 강하고 격렬한.",
+        "note": "매우 강하고 격렬한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "매우 강한 분노를 느끼는 격노한 상태, 또는 매우 강하고 격렬한 상태.",
+    "etymology": "라틴어 furiosus(격노한)에서 유래했으며, 원래는 '격노한' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '격노한' 의미였으나, 현대에는 '격렬한, 맹렬한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be furious 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에 대해 격노한",
+        "example": "furious at the decision"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~에게 격노한",
+        "example": "furious with him"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 격노한",
+        "example": "furious about the situation"
+      }
+    ],
+    "requiredComplements": [
+      "be furious at + 명사 : ~에 대해 격노한",
+      "be furious with + 명사 : ~에게 격노한",
+      "be furious about + 명사 : ~에 대해 격노한"
+    ],
+    "morphology": "라틴어 furiosus에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "furiously",
+        "meaning_ko": "격노하게, 격렬하게"
+      },
+      {
+        "word": "fury",
+        "meaning_ko": "격노"
+      }
+    ],
+    "related": [
+      {
+        "word": "angry",
+        "meaning_ko": "화가 난"
+      },
+      {
+        "word": "enraged",
+        "meaning_ko": "격노한"
+      },
+      {
+        "word": "violent",
+        "meaning_ko": "격렬한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "enraged",
+        "meaning_ko": "격노한"
+      },
+      {
+        "word": "infuriated",
+        "meaning_ko": "격노한"
+      },
+      {
+        "word": "livid",
+        "meaning_ko": "격노한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "angry",
+        "meaning_ko": "화가 난(강도가 더 약함)"
+      },
+      {
+        "word": "irate",
+        "meaning_ko": "격노한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "calm",
+        "meaning_ko": "차분한"
+      },
+      {
+        "word": "peaceful",
+        "meaning_ko": "평화로운"
+      },
+      {
+        "word": "tranquil",
+        "meaning_ko": "평온한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "furious at",
+            "meaning_ko": "~에 대해 격노한"
+          },
+          {
+            "phrase": "furious with",
+            "meaning_ko": "~에게 격노한"
+          },
+          {
+            "phrase": "furious argument",
+            "meaning_ko": "격렬한 논쟁"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "furious about",
+            "meaning_ko": "~에 대해 격노한"
+          },
+          {
+            "phrase": "furious storm",
+            "meaning_ko": "격렬한 폭풍"
+          },
+          {
+            "phrase": "furious attack",
+            "meaning_ko": "맹렬한 공격"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "furious debate",
+            "meaning_ko": "격렬한 토론"
+          },
+          {
+            "phrase": "furious pace",
+            "meaning_ko": "격렬한 속도"
+          },
+          {
+            "phrase": "furious response",
+            "meaning_ko": "격렬한 반응"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She was furious at the decision.",
+            "meaning_ko": "그녀는 그 결정에 대해 격노했습니다."
+          },
+          {
+            "sentence": "He was furious with his friend.",
+            "meaning_ko": "그는 그의 친구에게 격노했습니다."
+          },
+          {
+            "sentence": "The furious storm damaged many houses.",
+            "meaning_ko": "그 격렬한 폭풍은 많은 집을 파괴했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The manager was furious about the delay in the project, which had caused significant financial losses.",
+            "meaning_ko": "그 매니저는 프로젝트의 지연에 대해 격노했고, 그것은 상당한 재정적 손실을 초래했습니다."
+          },
+          {
+            "sentence": "The furious storm that hit the coast caused widespread destruction and forced thousands of residents to evacuate.",
+            "meaning_ko": "해안을 강타한 그 격렬한 폭풍은 광범위한 파괴를 초래했고 수천 명의 주민들을 대피시켰습니다."
+          },
+          {
+            "sentence": "The furious attack launched by the opposition party caught the government off guard and led to heated debates in parliament.",
+            "meaning_ko": "야당이 시작한 그 맹렬한 공격은 정부를 방심하게 만들었고 의회에서 격렬한 토론으로 이어졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The furious debate over the proposed legislation revealed deep divisions within the political party regarding fundamental policy directions.",
+            "meaning_ko": "제안된 법안에 대한 그 격렬한 토론은 근본적인 정책 방향에 관한 정당 내 깊은 분열을 드러냈습니다."
+          },
+          {
+            "sentence": "The furious pace of technological innovation in the industry required companies to continuously adapt their strategies to remain competitive.",
+            "meaning_ko": "그 산업에서 기술 혁신의 격렬한 속도는 회사들이 경쟁력을 유지하기 위해 자신들의 전략을 지속적으로 적응시켜야 했습니다."
+          },
+          {
+            "sentence": "The furious response from the public to the controversial policy announcement forced the administration to reconsider its approach.",
+            "meaning_ko": "논란의 여지가 있는 정책 발표에 대한 대중의 격렬한 반응은 행정부가 자신들의 접근 방식을 재고하도록 강요했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "furious는 '격노한, 매우 화가 난' 또는 '격렬한' 의미로, 매우 강한 분노를 느끼는 상태를 가리킵니다. angry보다 훨씬 강한 표현으로, enraged, infuriated와 비슷합니다. be furious at/with/about ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "감정",
+      "일상 회화",
+      "부정",
+      "강도"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: furious = (A) calm (B) very angry or enraged (C) peaceful (D) tranquil",
+            "a": "B",
+            "meaning_ko": "furious는 '매우 화가 나거나 격노한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She was _____ at the decision.",
+            "a": "furious",
+            "meaning_ko": "furious는 '격노한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of furious? (A) enraged (B) infuriated (C) calm (D) livid",
+            "a": "C",
+            "meaning_ko": "calm(차분한)가 furious의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: furious _____ the decision. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "furious at ~는 '~에 대해 격노한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: furious = (A) calm (B) enraged (C) peaceful (D) tranquil",
+            "a": "B",
+            "meaning_ko": "enraged(격노한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was furious on the decision.' → Fix the preposition.",
+            "a": "She was furious at the decision.",
+            "meaning_ko": "furious at ~는 '~에 대해 격노한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The manager was furious about the delay.'",
+            "a": "The supervisor was extremely angry and enraged regarding the postponement or lateness of the project.",
+            "meaning_ko": "furious about ~는 '~에 대해 격노한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ storm caused damage. (A) furious (B) furiously (C) fury (D) furies",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 furious가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses furious most appropriately? (A) The furious ran. (B) She was furious at the decision. (C) She furious smiled. (D) Furious is good.",
+            "a": "B",
+            "meaning_ko": "furious는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

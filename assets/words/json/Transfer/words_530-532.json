@@ -1,0 +1,782 @@
+[
+  {
+    "word": "jargon",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "전문 용어, 은어; 특정 분야나 그룹에서만 사용하는 전문적인 용어나 은어.",
+        "note": "특정 분야나 그룹에서만 사용하는 전문적인 용어나 은어를 가리킵니다."
+      }
+    ],
+    "concept": "특정 분야나 그룹에서만 사용하는 전문적인 용어나 은어.",
+    "etymology": "프랑스어 jargon(지저분한 말)에서 유래했으며, 원래는 '지저분한 말' 의미였으나 현대에는 '전문 용어'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '지저분한 말' 의미였으나, 현대에는 '특정 분야나 그룹에서만 사용하는 전문적인 용어'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, jargon 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "jargon of + 명사 : ~의 전문 용어",
+      "technical jargon : 기술 전문 용어"
+    ],
+    "morphology": "프랑스어 jargon에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "terminology",
+        "meaning_ko": "용어"
+      },
+      {
+        "word": "slang",
+        "meaning_ko": "속어"
+      },
+      {
+        "word": "argot",
+        "meaning_ko": "은어"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "terminology",
+        "meaning_ko": "용어"
+      },
+      {
+        "word": "slang",
+        "meaning_ko": "속어"
+      },
+      {
+        "word": "argot",
+        "meaning_ko": "은어"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "lingo",
+        "meaning_ko": "은어(구어)"
+      },
+      {
+        "word": "vernacular",
+        "meaning_ko": "구어"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "technical jargon",
+            "meaning_ko": "기술 전문 용어"
+          },
+          {
+            "phrase": "jargon of",
+            "meaning_ko": "~의 전문 용어"
+          },
+          {
+            "phrase": "medical jargon",
+            "meaning_ko": "의학 전문 용어"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "legal jargon",
+            "meaning_ko": "법률 전문 용어"
+          },
+          {
+            "phrase": "business jargon",
+            "meaning_ko": "비즈니스 전문 용어"
+          },
+          {
+            "phrase": "scientific jargon",
+            "meaning_ko": "과학 전문 용어"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "jargon of the profession",
+            "meaning_ko": "그 직업의 전문 용어"
+          },
+          {
+            "phrase": "specialized jargon",
+            "meaning_ko": "전문적인 용어"
+          },
+          {
+            "phrase": "professional jargon",
+            "meaning_ko": "전문 용어"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The technical jargon was difficult to understand.",
+            "meaning_ko": "그 기술 전문 용어는 이해하기 어려웠습니다."
+          },
+          {
+            "sentence": "He used a lot of medical jargon.",
+            "meaning_ko": "그는 많은 의학 전문 용어를 사용했습니다."
+          },
+          {
+            "sentence": "The jargon of lawyers can be confusing.",
+            "meaning_ko": "변호사들의 전문 용어는 혼란스러울 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The technical jargon used in the engineering report was difficult to understand for those without specialized training, requiring explanation for general audiences.",
+            "meaning_ko": "그 공학 보고서에서 사용된 기술 전문 용어는 전문 훈련을 받지 않은 사람들에게 이해하기 어려웠고, 일반 청중을 위한 설명을 요구했습니다."
+          },
+          {
+            "sentence": "He used a lot of medical jargon during the consultation, assuming the patient would understand terms that were actually unfamiliar to most people.",
+            "meaning_ko": "그는 그 상담 중 많은 의학 전문 용어를 사용했고, 대부분의 사람들에게 실제로 익숙하지 않은 용어를 그 환자가 이해할 것이라고 가정했습니다."
+          },
+          {
+            "sentence": "The jargon of lawyers can be confusing for clients, as legal terminology often differs significantly from everyday language and requires explanation.",
+            "meaning_ko": "변호사들의 전문 용어는 고객들에게 혼란스러울 수 있고, 법률 용어는 종종 일상 언어와 크게 다르며 설명을 요구하기 때문입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The jargon of the profession, while efficient for communication among experts, created barriers for newcomers trying to enter the field and understand its practices.",
+            "meaning_ko": "그 직업의 전문 용어는 전문가들 사이의 소통에 효율적이지만, 그 분야에 들어가고 그 관행을 이해하려고 하는 신참자들에게 장벽을 만들었습니다."
+          },
+          {
+            "sentence": "The specialized jargon used in academic research papers serves to communicate precise concepts efficiently, though it can exclude readers who lack the necessary background knowledge.",
+            "meaning_ko": "학술 연구 논문에서 사용된 전문적인 용어는 정확한 개념을 효율적으로 소통하는 데 도움을 주지만, 필요한 배경 지식이 부족한 독자들을 배제할 수 있습니다."
+          },
+          {
+            "sentence": "The professional jargon in the industry has evolved over time, reflecting changes in technology, practices, and the need for precise communication among practitioners.",
+            "meaning_ko": "그 산업에서의 전문 용어는 시간이 지남에 따라 발전했고, 기술, 관행의 변화, 실무자들 사이의 정확한 소통의 필요성을 반영했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "jargon는 '전문 용어, 은어' 의미로, 특정 분야나 그룹에서만 사용하는 전문적인 용어나 은어를 가리킵니다. terminology, slang와 비슷하지만 더 전문적이고 배타적인 뉘앙스가 있습니다. technical jargon, jargon of ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "언어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: jargon = (A) simple language (B) specialized terminology or slang (C) common words (D) everyday speech",
+            "a": "B",
+            "meaning_ko": "jargon는 '전문 용어 또는 속어' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The technical _____ was difficult to understand.",
+            "a": "jargon",
+            "meaning_ko": "jargon는 '전문 용어'를 의미합니다."
+          },
+          {
+            "q": "Which word is related to jargon? (A) terminology (B) simple (C) common (D) everyday",
+            "a": "A",
+            "meaning_ko": "terminology(용어)가 jargon와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ of lawyers can be confusing. (A) jargon (B) jargons (C) jargoned (D) jargoning",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 jargon가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: jargon = (A) simple (B) terminology (C) common (D) everyday",
+            "a": "B",
+            "meaning_ko": "terminology(용어)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The jargons of lawyers can be confusing.' → Fix the sentence.",
+            "a": "The jargon of lawyers can be confusing.",
+            "meaning_ko": "jargon는 불가산명사이므로 복수형이 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The technical jargon was difficult to understand.'",
+            "a": "The specialized and professional terminology used in the field of technology was challenging for people to comprehend, as it required specific knowledge and training.",
+            "meaning_ko": "technical jargon는 '기술 전문 용어'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of the profession created barriers. (A) jargon (B) jargons (C) jargoned (D) jargoning",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 jargon가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses jargon most appropriately? (A) The jargon ran. (B) The technical jargon was confusing. (C) She jargon smiled. (D) Jargon is good.",
+            "a": "B",
+            "meaning_ko": "jargon는 명사로 '전문 용어'를 의미하며, technical과 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "arrogate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "독점하다, 찬탈하다; 권리나 권한을 부당하게 차지하거나 찬탈하다.",
+        "note": "권리나 권한을 부당하게 차지하거나 찬탈하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "권리나 권한을 부당하게 차지하거나 찬탈하는 것.",
+    "etymology": "라틴어 arrogare(요구하다)에서 유래했으며, 원래는 '요구하다' 의미였으나 현대에는 '독점하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '요구하다' 의미였으나, 현대에는 '권리나 권한을 부당하게 차지하거나 찬탈하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "타동사로 arrogate + 명사 + to + 명사 형태로 자주 쓰이며, arrogate + 명사 형태도 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 독점하다",
+        "example": "arrogate power to oneself"
+      }
+    ],
+    "requiredComplements": [
+      "arrogate + 명사 : ~을 독점하다",
+      "arrogate + 명사 + to + 명사 : ~에게 ~을 독점하다"
+    ],
+    "morphology": "라틴어 arrogare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "arrogation",
+        "meaning_ko": "독점"
+      },
+      {
+        "word": "arrogated",
+        "meaning_ko": "독점된(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "usurp",
+        "meaning_ko": "찬탈하다"
+      },
+      {
+        "word": "seize",
+        "meaning_ko": "잡다"
+      },
+      {
+        "word": "claim",
+        "meaning_ko": "주장하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "usurp",
+        "meaning_ko": "찬탈하다"
+      },
+      {
+        "word": "seize",
+        "meaning_ko": "잡다"
+      },
+      {
+        "word": "claim",
+        "meaning_ko": "주장하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "appropriate",
+        "meaning_ko": "차지하다(범위가 더 넓음)"
+      },
+      {
+        "word": "assume",
+        "meaning_ko": "가정하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "relinquish",
+        "meaning_ko": "포기하다"
+      },
+      {
+        "word": "surrender",
+        "meaning_ko": "항복하다"
+      },
+      {
+        "word": "yield",
+        "meaning_ko": "양보하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "arrogate to",
+            "meaning_ko": "~에게 독점하다"
+          },
+          {
+            "phrase": "arrogate power",
+            "meaning_ko": "권력을 독점하다"
+          },
+          {
+            "phrase": "arrogate authority",
+            "meaning_ko": "권한을 독점하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "arrogate to oneself",
+            "meaning_ko": "자신에게 독점하다"
+          },
+          {
+            "phrase": "arrogate rights",
+            "meaning_ko": "권리를 독점하다"
+          },
+          {
+            "phrase": "arrogate control",
+            "meaning_ko": "통제를 독점하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "arrogate responsibility",
+            "meaning_ko": "책임을 독점하다"
+          },
+          {
+            "phrase": "arrogate decision-making",
+            "meaning_ko": "의사 결정을 독점하다"
+          },
+          {
+            "phrase": "arrogate jurisdiction",
+            "meaning_ko": "관할권을 독점하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He arrogated power to himself.",
+            "meaning_ko": "그는 자신에게 권력을 독점했습니다."
+          },
+          {
+            "sentence": "The leader arrogated authority without permission.",
+            "meaning_ko": "그 지도자는 허가 없이 권한을 독점했습니다."
+          },
+          {
+            "sentence": "They tried to arrogate control of the company.",
+            "meaning_ko": "그들은 그 회사의 통제를 독점하려고 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He arrogated power to himself during the crisis, bypassing the usual democratic processes and making decisions unilaterally.",
+            "meaning_ko": "그는 그 위기 동안 자신에게 권력을 독점했고, 일반적인 민주적 과정을 우회하고 일방적으로 결정을 내렸습니다."
+          },
+          {
+            "sentence": "The leader arrogated authority without permission from the board, leading to conflicts and questions about the legitimacy of his actions.",
+            "meaning_ko": "그 지도자는 이사회의 허가 없이 권한을 독점했고, 갈등과 그의 행동의 정당성에 대한 질문으로 이어졌습니다."
+          },
+          {
+            "sentence": "They tried to arrogate control of the company through a hostile takeover, attempting to gain majority ownership and decision-making power.",
+            "meaning_ko": "그들은 적대적 인수를 통해 그 회사의 통제를 독점하려고 했고, 다수 지분과 의사 결정권을 얻으려고 시도했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The executive's attempt to arrogate responsibility for all major decisions undermined the collaborative structure of the organization, creating resentment among team members who felt excluded from the process.",
+            "meaning_ko": "모든 주요 결정에 대한 책임을 독점하려는 그 임원의 시도는 그 조직의 협력적 구조를 훼손했고, 그 과정에서 배제되었다고 느낀 팀 구성원들 사이에 불만을 만들었습니다."
+          },
+          {
+            "sentence": "The government's decision to arrogate decision-making authority in matters that were traditionally handled by local administrations raised constitutional questions about the balance of power.",
+            "meaning_ko": "전통적으로 지방 행정부가 처리했던 사안에서 의사 결정 권한을 독점하기로 한 정부의 결정은 권력 균형에 대한 헌법적 질문을 제기했습니다."
+          },
+          {
+            "sentence": "The court's ruling that the agency had attempted to arrogate jurisdiction over cases that belonged to other courts established important precedents for maintaining the separation of powers.",
+            "meaning_ko": "그 기관이 다른 법원에 속한 사건들에 대한 관할권을 독점하려고 시도했다는 법원의 판결은 권력 분리의 유지를 위한 중요한 선례를 확립했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "arrogate는 '독점하다, 찬탈하다' 의미로, 권리나 권한을 부당하게 차지하거나 찬탈하는 행동을 가리킵니다. 매우 격식 있고 드문 단어로, usurp, seize와 비슷하지만 더 부정적 뉘앙스가 있습니다. arrogate to oneself, arrogate power 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "권력",
+      "격식",
+      "문어",
+      "드문",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: arrogate = (A) relinquish (B) usurp or seize (C) surrender (D) yield",
+            "a": "B",
+            "meaning_ko": "arrogate는 '찬탈하거나 잡다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ power to himself.",
+            "a": "arrogated",
+            "meaning_ko": "arrogate는 '독점하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of arrogate? (A) usurp (B) seize (C) relinquish (D) claim",
+            "a": "C",
+            "meaning_ko": "relinquish(포기하다)가 arrogate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: arrogate power _____ oneself. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "arrogate + 명사 + to ~는 '~에게 ~을 독점하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: arrogate = (A) relinquish (B) usurp (C) surrender (D) yield",
+            "a": "B",
+            "meaning_ko": "usurp(찬탈하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He arrogated power for himself.' → Fix the preposition.",
+            "a": "He arrogated power to himself.",
+            "meaning_ko": "arrogate + 명사 + to ~는 '~에게 ~을 독점하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He arrogated power to himself during the crisis.'",
+            "a": "He took and claimed authority and control for himself without proper authorization during the emergency situation, assuming powers that did not rightfully belong to him.",
+            "meaning_ko": "arrogate power to oneself는 '자신에게 권력을 독점하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ control of the company. (A) arrogate (B) arrogates (C) arrogating (D) arrogated",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 arrogate가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses arrogate most appropriately? (A) The arrogate ran. (B) He arrogated power. (C) She arrogate smiled. (D) Arrogate is good.",
+            "a": "B",
+            "meaning_ko": "arrogate는 타동사로 '~을 독점하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "manufacture",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "제조하다, 만들다; 기계나 공장에서 상품을 제조하거나 만들다.",
+        "note": "기계나 공장에서 상품을 제조하거나 만드는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "제조, 제작; 상품을 제조하거나 만드는 것.",
+        "note": "상품을 제조하거나 만드는 것을 가리킵니다."
+      }
+    ],
+    "concept": "기계나 공장에서 상품을 제조하거나 만드는 것, 또는 상품을 제조하거나 만드는 것.",
+    "etymology": "라틴어 manu factura(손으로 만든)에서 유래했으며, 원래는 '손으로 만든' 의미였으나 현대에는 '제조하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '손으로 만든' 의미였으나, 현대에는 '기계나 공장에서 제조하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 타동사로, 명사로는 가산명사와 불가산명사 모두로 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "가산·불가산 모두(명사)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "manufacture + 명사 : ~을 제조하다",
+      "manufacture of + 명사 : ~의 제조"
+    ],
+    "morphology": "라틴어 manu factura에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "manufacturing",
+        "meaning_ko": "제조하는(현재분사/형용사)"
+      },
+      {
+        "word": "manufacturer",
+        "meaning_ko": "제조업자"
+      },
+      {
+        "word": "manufactured",
+        "meaning_ko": "제조된(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "produce",
+        "meaning_ko": "생산하다"
+      },
+      {
+        "word": "make",
+        "meaning_ko": "만들다"
+      },
+      {
+        "word": "create",
+        "meaning_ko": "만들다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "produce",
+        "meaning_ko": "생산하다"
+      },
+      {
+        "word": "make",
+        "meaning_ko": "만들다"
+      },
+      {
+        "word": "create",
+        "meaning_ko": "만들다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "fabricate",
+        "meaning_ko": "제조하다(더 구체적)"
+      },
+      {
+        "word": "assemble",
+        "meaning_ko": "조립하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "dismantle",
+        "meaning_ko": "해체하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "manufacture goods",
+            "meaning_ko": "상품을 제조하다"
+          },
+          {
+            "phrase": "manufacture products",
+            "meaning_ko": "제품을 제조하다"
+          },
+          {
+            "phrase": "manufacture of",
+            "meaning_ko": "~의 제조"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "manufacture equipment",
+            "meaning_ko": "장비를 제조하다"
+          },
+          {
+            "phrase": "manufacture vehicles",
+            "meaning_ko": "차량을 제조하다"
+          },
+          {
+            "phrase": "manufacturing process",
+            "meaning_ko": "제조 과정"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "manufacture components",
+            "meaning_ko": "부품을 제조하다"
+          },
+          {
+            "phrase": "manufacture pharmaceuticals",
+            "meaning_ko": "의약품을 제조하다"
+          },
+          {
+            "phrase": "manufacturing industry",
+            "meaning_ko": "제조업"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The company manufactures electronic devices.",
+            "meaning_ko": "그 회사는 전자 기기를 제조합니다."
+          },
+          {
+            "sentence": "The manufacture of cars requires many parts.",
+            "meaning_ko": "자동차의 제조는 많은 부품을 요구합니다."
+          },
+          {
+            "sentence": "They manufacture products in large quantities.",
+            "meaning_ko": "그들은 대량으로 제품을 제조합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company manufactures electronic devices using advanced technology and automated production lines to ensure quality and efficiency.",
+            "meaning_ko": "그 회사는 품질과 효율성을 보장하기 위해 첨단 기술과 자동화된 생산 라인을 사용하여 전자 기기를 제조합니다."
+          },
+          {
+            "sentence": "The manufacture of cars requires many parts from various suppliers, creating a complex supply chain that must be carefully coordinated.",
+            "meaning_ko": "자동차의 제조는 다양한 공급업체로부터 많은 부품을 요구하며, 신중하게 조정되어야 하는 복잡한 공급망을 만듭니다."
+          },
+          {
+            "sentence": "They manufacture products in large quantities to meet market demand, utilizing economies of scale to reduce costs and increase profitability.",
+            "meaning_ko": "그들은 시장 수요를 충족하기 위해 대량으로 제품을 제조하며, 규모의 경제를 활용하여 비용을 줄이고 수익성을 높입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The company's decision to manufacture components locally rather than importing them reflected a strategic shift toward reducing supply chain risks and supporting domestic industries.",
+            "meaning_ko": "그 회사의 부품을 수입하는 대신 현지에서 제조하기로 한 결정은 공급망 위험을 줄이고 국내 산업을 지원하는 것으로의 전략적 변화를 반영했습니다."
+          },
+          {
+            "sentence": "The manufacture of pharmaceuticals requires strict adherence to regulatory standards and quality control measures to ensure safety and efficacy of the medications.",
+            "meaning_ko": "의약품의 제조는 약물의 안전성과 효능을 보장하기 위해 규제 기준과 품질 관리 조치를 엄격하게 준수할 것을 요구합니다."
+          },
+          {
+            "sentence": "The manufacturing industry has undergone significant transformation with the adoption of automation, robotics, and digital technologies, changing how products are designed, produced, and distributed.",
+            "meaning_ko": "그 제조업은 자동화, 로봇 공학, 디지털 기술의 채택으로 상당한 변화를 겪었고, 제품이 설계되고, 생산되고, 유통되는 방식을 변화시켰습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "manufacture는 '제조하다, 만들다' 또는 '제조' 의미로, 기계나 공장에서 상품을 제조하거나 만드는 행동을 가리킵니다. produce, make와 비슷하지만 더 공식적이고 산업적 뉘앙스가 있습니다. manufacture goods, manufacture of ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "산업",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: manufacture = (A) destroy (B) produce or make (C) dismantle (D) break",
+            "a": "B",
+            "meaning_ko": "manufacture는 '생산하거나 만들다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The company _____ electronic devices.",
+            "a": "manufactures",
+            "meaning_ko": "manufacture는 '제조하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of manufacture? (A) produce (B) make (C) destroy (D) create",
+            "a": "C",
+            "meaning_ko": "destroy(파괴하다)가 manufacture의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ of cars requires many parts. (A) manufacture (B) manufactures (C) manufacturing (D) manufactured",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 manufacture가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: manufacture = (A) destroy (B) produce (C) dismantle (D) break",
+            "a": "B",
+            "meaning_ko": "produce(생산하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The company manufacture products.' → Fix the sentence.",
+            "a": "The company manufactures products.",
+            "meaning_ko": "3인칭 단수 주어에서 manufactures가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The company manufactures electronic devices.'",
+            "a": "The organization produces and creates electronic equipment and gadgets using industrial processes, machinery, and production methods.",
+            "meaning_ko": "manufacture electronic devices는 '전자 기기를 제조하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ products in large quantities. (A) manufacture (B) manufactures (C) manufacturing (D) manufactured",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 manufacture가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses manufacture most appropriately? (A) The manufacture ran. (B) The company manufactures products. (C) She manufacture smiled. (D) Manufacture is good.",
+            "a": "B",
+            "meaning_ko": "manufacture는 타동사로 '~을 제조하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,784 @@
+[
+  {
+    "word": "undercover",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "비밀의, 잠복의; 신분을 숨기고 비밀리에 활동하는.",
+        "note": "신분을 숨기고 비밀리에 활동하는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "신분을 숨기고 비밀리에 활동하는 비밀의 상태.",
+    "etymology": "under(아래) + cover(덮개)의 결합으로, '덮개 아래'에서 '비밀의'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '덮개 아래' 의미였으나, 현대에는 '신분을 숨기고 비밀리에 활동하는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 경찰·스파이 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "형용사와 부사로 모두 쓰이며, undercover + 명사 또는 동사 + undercover 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "undercover + 명사 : 비밀의 ~",
+      "work undercover : 비밀리에 일하다"
+    ],
+    "morphology": "under(아래) + cover(덮개)의 결합으로, '덮개 아래'에서 '비밀의'로 확장되었습니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "secret",
+        "meaning_ko": "비밀의"
+      },
+      {
+        "word": "covert",
+        "meaning_ko": "비밀의"
+      },
+      {
+        "word": "clandestine",
+        "meaning_ko": "비밀의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "covert",
+        "meaning_ko": "비밀의"
+      },
+      {
+        "word": "clandestine",
+        "meaning_ko": "비밀의"
+      },
+      {
+        "word": "secret",
+        "meaning_ko": "비밀의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "hidden",
+        "meaning_ko": "숨겨진(범위가 더 넓음)"
+      },
+      {
+        "word": "disguised",
+        "meaning_ko": "변장한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "overt",
+        "meaning_ko": "공개적인"
+      },
+      {
+        "word": "open",
+        "meaning_ko": "공개적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "undercover agent",
+            "meaning_ko": "비밀 요원"
+          },
+          {
+            "phrase": "undercover operation",
+            "meaning_ko": "비밀 작전"
+          },
+          {
+            "phrase": "work undercover",
+            "meaning_ko": "비밀리에 일하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "undercover investigation",
+            "meaning_ko": "비밀 수사"
+          },
+          {
+            "phrase": "undercover police",
+            "meaning_ko": "비밀 경찰"
+          },
+          {
+            "phrase": "undercover mission",
+            "meaning_ko": "비밀 임무"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "undercover assignment",
+            "meaning_ko": "비밀 임무"
+          },
+          {
+            "phrase": "undercover surveillance",
+            "meaning_ko": "비밀 감시"
+          },
+          {
+            "phrase": "undercover infiltration",
+            "meaning_ko": "비밀 침투"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The undercover agent infiltrated the criminal organization.",
+            "meaning_ko": "그 비밀 요원은 그 범죄 조직에 침투했습니다."
+          },
+          {
+            "sentence": "The police conducted an undercover operation.",
+            "meaning_ko": "그 경찰은 비밀 작전을 수행했습니다."
+          },
+          {
+            "sentence": "He worked undercover for three years.",
+            "meaning_ko": "그는 3년 동안 비밀리에 일했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The undercover investigation revealed extensive corruption within the government agency, leading to multiple arrests and policy reforms.",
+            "meaning_ko": "그 비밀 수사는 그 정부 기관 내 광범위한 부패를 드러냈고, 여러 체포와 정책 개혁으로 이어졌습니다."
+          },
+          {
+            "sentence": "The undercover police officer successfully gathered evidence against the drug trafficking ring by posing as a buyer in the illegal market.",
+            "meaning_ko": "그 비밀 경찰관은 불법 시장에서 구매자로 위장하여 마약 밀매 조직에 대한 증거를 성공적으로 수집했습니다."
+          },
+          {
+            "sentence": "The undercover mission required the agent to maintain a false identity for months, risking exposure at any moment.",
+            "meaning_ko": "그 비밀 임무는 그 요원이 몇 달 동안 거짓 신원을 유지해야 했고, 언제든지 발각될 위험을 감수해야 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The undercover assignment involved infiltrating a terrorist network, requiring the agent to demonstrate exceptional skill in deception and information gathering while maintaining operational security.",
+            "meaning_ko": "그 비밀 임무는 테러리스트 네트워크에 침투하는 것을 포함했고, 작전 보안을 유지하면서 속임수와 정보 수집에서 탁월한 기술을 보여줄 것을 그 요원에게 요구했습니다."
+          },
+          {
+            "sentence": "The undercover surveillance operation, which lasted over a year, provided crucial intelligence that led to the dismantling of an international crime syndicate.",
+            "meaning_ko": "1년 이상 지속된 그 비밀 감시 작전은 국제 범죄 조직의 해체로 이어진 중요한 정보를 제공했습니다."
+          },
+          {
+            "sentence": "The success of the undercover infiltration depended on the agent's ability to gain the trust of key figures within the organization while carefully avoiding detection by sophisticated counter-surveillance measures.",
+            "meaning_ko": "그 비밀 침투의 성공은 정교한 역감시 조치에 의해 탐지를 신중하게 피하면서 조직 내 핵심 인물들의 신뢰를 얻는 그 요원의 능력에 달려있었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "undercover는 '비밀의, 잠복의' 의미로, 신분을 숨기고 비밀리에 활동하는 상태를 가리킵니다. covert, clandestine과 비슷하지만 더 일상적 표현입니다. undercover agent, work undercover 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "경찰",
+      "비밀",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: undercover = (A) overt (B) secret or covert (C) open (D) public",
+            "a": "B",
+            "meaning_ko": "undercover는 '비밀의 또는 비밀의' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ agent infiltrated the organization.",
+            "a": "undercover",
+            "meaning_ko": "undercover는 '비밀의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of undercover? (A) secret (B) covert (C) overt (D) clandestine",
+            "a": "C",
+            "meaning_ko": "overt(공개적인)가 undercover의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ operation was successful. (A) undercover (B) undercovers (C) undercoverly (D) undercoverage",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 undercover가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: undercover = (A) overt (B) covert (C) open (D) public",
+            "a": "B",
+            "meaning_ko": "covert(비밀의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He worked undercoverly for years.' → Fix the sentence.",
+            "a": "He worked undercover for years.",
+            "meaning_ko": "work undercover는 '비밀리에 일하다' 의미로 부사로 쓰입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The undercover investigation revealed corruption.'",
+            "a": "The secret and covert inquiry conducted by agents who concealed their true identities uncovered and exposed dishonest and illegal practices within the organization.",
+            "meaning_ko": "undercover investigation는 '비밀 수사'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ mission required skill. (A) undercover (B) undercovers (C) undercoverly (D) undercoverage",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 undercover가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses undercover most appropriately? (A) The undercover ran. (B) The undercover agent worked. (C) She undercover smiled. (D) Undercover is good.",
+            "a": "B",
+            "meaning_ko": "undercover는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "physiognomy",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "관상, 얼굴 생김새; 얼굴의 생김새나 특징.",
+        "note": "얼굴의 생김새나 특징을 가리킵니다."
+      },
+      {
+        "definition_ko": "관상학; 얼굴 생김새로 성격이나 운명을 판단하는 학문.",
+        "note": "얼굴 생김새로 성격이나 운명을 판단하는 학문을 가리킵니다."
+      }
+    ],
+    "concept": "얼굴의 생김새나 특징, 또는 얼굴 생김새로 성격이나 운명을 판단하는 관상학.",
+    "etymology": "그리스어 physis(자연) + gnomon(판단자)의 결합으로, '자연 판단'에서 '관상'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '자연 판단' 의미였으나, 현대에는 '얼굴의 생김새' 또는 '관상학'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, physiognomy 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "physiognomy of + 명사 : ~의 관상",
+      "physiognomy suggests : 관상이 시사하다"
+    ],
+    "morphology": "그리스어 physis(자연) + gnomon(판단자)의 결합으로, '자연 판단'에서 '관상'으로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "physiognomic",
+        "meaning_ko": "관상의"
+      },
+      {
+        "word": "physiognomist",
+        "meaning_ko": "관상가"
+      }
+    ],
+    "related": [
+      {
+        "word": "face",
+        "meaning_ko": "얼굴"
+      },
+      {
+        "word": "appearance",
+        "meaning_ko": "외모"
+      },
+      {
+        "word": "features",
+        "meaning_ko": "얼굴 생김새"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "face",
+        "meaning_ko": "얼굴"
+      },
+      {
+        "word": "appearance",
+        "meaning_ko": "외모"
+      },
+      {
+        "word": "features",
+        "meaning_ko": "얼굴 생김새"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "countenance",
+        "meaning_ko": "얼굴(격식)"
+      },
+      {
+        "word": "visage",
+        "meaning_ko": "얼굴(격식)"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "physiognomy of",
+            "meaning_ko": "~의 관상"
+          },
+          {
+            "phrase": "facial physiognomy",
+            "meaning_ko": "얼굴 관상"
+          },
+          {
+            "phrase": "read physiognomy",
+            "meaning_ko": "관상을 보다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "physiognomy suggests",
+            "meaning_ko": "관상이 시사하다"
+          },
+          {
+            "phrase": "physiognomy reveals",
+            "meaning_ko": "관상이 드러내다"
+          },
+          {
+            "phrase": "study physiognomy",
+            "meaning_ko": "관상학을 공부하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "physiognomy of character",
+            "meaning_ko": "성격의 관상"
+          },
+          {
+            "phrase": "physiognomy analysis",
+            "meaning_ko": "관상 분석"
+          },
+          {
+            "phrase": "physiognomy interpretation",
+            "meaning_ko": "관상 해석"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The physiognomy of the suspect was described in detail.",
+            "meaning_ko": "그 용의자의 관상은 자세히 묘사되었습니다."
+          },
+          {
+            "sentence": "She studied physiognomy to understand personality.",
+            "meaning_ko": "그녀는 성격을 이해하기 위해 관상학을 공부했습니다."
+          },
+          {
+            "sentence": "His physiognomy suggested intelligence.",
+            "meaning_ko": "그의 관상은 지능을 시사했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The physiognomy of the historical figure, preserved in portraits and descriptions, provided insights into how people of that era interpreted character through facial features.",
+            "meaning_ko": "초상화와 묘사에 보존된 그 역사적 인물의 관상은 그 시대의 사람들이 얼굴 생김새를 통해 성격을 해석하는 방법에 대한 통찰을 제공했습니다."
+          },
+          {
+            "sentence": "The physiognomy reveals subtle expressions that can indicate emotional states, though modern science questions the reliability of such interpretations.",
+            "meaning_ko": "그 관상은 감정 상태를 나타낼 수 있는 미묘한 표현을 드러내지만, 현대 과학은 그러한 해석의 신뢰성에 의문을 제기합니다."
+          },
+          {
+            "sentence": "She studied physiognomy as part of her research into historical methods of character assessment, examining how past cultures used facial analysis.",
+            "meaning_ko": "그녀는 성격 평가의 역사적 방법에 대한 그녀의 연구의 일부로 관상학을 공부했고, 과거 문화들이 얼굴 분석을 어떻게 사용했는지 조사했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The physiognomy of character, as interpreted by practitioners of the art, claimed to reveal personality traits through the analysis of facial structure, bone structure, and expression patterns, though such methods lack scientific validation.",
+            "meaning_ko": "그 예술의 실천자들에 의해 해석된 성격의 관상은 얼굴 구조, 골격 구조, 표현 패턴의 분석을 통해 성격 특성을 드러낸다고 주장했지만, 그러한 방법들은 과학적 검증이 부족합니다."
+          },
+          {
+            "sentence": "The physiognomy analysis conducted by the researcher examined historical texts and artistic representations to understand how different cultures associated facial features with character traits and social status.",
+            "meaning_ko": "그 연구자가 수행한 관상 분석은 다른 문화들이 얼굴 생김새를 성격 특성과 사회적 지위와 어떻게 연관시켰는지 이해하기 위해 역사적 텍스트와 예술적 표현을 조사했습니다."
+          },
+          {
+            "sentence": "The physiognomy interpretation in the novel reflected the author's interest in how physical appearance was once believed to indicate moral character and intellectual capacity, revealing historical attitudes toward human nature.",
+            "meaning_ko": "그 소설에서의 관상 해석은 신체적 외모가 한때 도덕적 성격과 지적 능력을 나타낸다고 믿어졌던 방식에 대한 작가의 관심을 반영했고, 인간 본성에 대한 역사적 태도를 드러냈습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "physiognomy는 '관상, 얼굴 생김새' 또는 '관상학' 의미로, 얼굴의 생김새나 특징을 가리킵니다. 매우 격식 있고 드문 단어로, face, appearance와 비슷하지만 더 학술적 뉘앙스가 있습니다. physiognomy of ~, study physiognomy 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "학문",
+      "격식",
+      "문어",
+      "드문",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 9,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: physiognomy = (A) body (B) facial features or face reading (C) hand (D) foot",
+            "a": "B",
+            "meaning_ko": "physiognomy는 '얼굴 생김새 또는 관상' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ of the suspect was described.",
+            "a": "physiognomy",
+            "meaning_ko": "physiognomy는 '관상'을 의미합니다."
+          },
+          {
+            "q": "Which word is related to physiognomy? (A) face (B) hand (C) foot (D) body",
+            "a": "A",
+            "meaning_ko": "face(얼굴)가 physiognomy와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ suggests intelligence. (A) physiognomy (B) physiognomies (C) physiognomic (D) physiognomist",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 physiognomy가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: physiognomy = (A) body (B) face (C) hand (D) foot",
+            "a": "B",
+            "meaning_ko": "face(얼굴)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The physiognomies of the suspect were described.' → Fix the sentence.",
+            "a": "The physiognomy of the suspect was described.",
+            "meaning_ko": "physiognomy는 불가산명사이므로 복수형이 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The physiognomy of the figure provided insights.'",
+            "a": "The facial features and appearance of the person gave valuable understanding and information about how people interpreted character through physical characteristics.",
+            "meaning_ko": "physiognomy of ~는 '~의 관상'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ analysis examined texts. (A) physiognomy (B) physiognomies (C) physiognomic (D) physiognomist",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 physiognomy가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses physiognomy most appropriately? (A) The physiognomy ran. (B) The physiognomy was described. (C) She physiognomy smiled. (D) Physiognomy is good.",
+            "a": "B",
+            "meaning_ko": "physiognomy는 명사로 '관상'을 의미하며, be described와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "demote",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "강등하다, 좌천하다; 직위나 등급을 낮추다.",
+        "note": "직위나 등급을 낮추는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "직위나 등급을 낮추는 강등.",
+    "etymology": "de-(아래로) + promote(승진시키다)의 결합으로, '승진의 반대'에서 '강등하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '승진의 반대' 의미였으며, 현대에는 '직위나 등급을 낮추다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 demote + 명사 형태로 자주 쓰이며, demote from + 명사 + to + 명사 형태도 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~에서 강등하다",
+        "example": "demote from manager"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~로 강등하다",
+        "example": "demote to assistant"
+      }
+    ],
+    "requiredComplements": [
+      "demote + 명사 : ~을 강등하다",
+      "demote + 명사 + from + 명사 + to + 명사 : ~을 ~에서 ~로 강등하다"
+    ],
+    "morphology": "de-(아래로) + promote(승진시키다)의 결합으로, '승진의 반대'에서 '강등하다'로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "demotion",
+        "meaning_ko": "강등"
+      },
+      {
+        "word": "demoted",
+        "meaning_ko": "강등된(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "downgrade",
+        "meaning_ko": "강등하다"
+      },
+      {
+        "word": "reduce",
+        "meaning_ko": "낮추다"
+      },
+      {
+        "word": "lower",
+        "meaning_ko": "낮추다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "downgrade",
+        "meaning_ko": "강등하다"
+      },
+      {
+        "word": "reduce",
+        "meaning_ko": "낮추다"
+      },
+      {
+        "word": "lower",
+        "meaning_ko": "낮추다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "relegate",
+        "meaning_ko": "강등하다(격식)"
+      },
+      {
+        "word": "degrade",
+        "meaning_ko": "강등하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "promote",
+        "meaning_ko": "승진시키다"
+      },
+      {
+        "word": "advance",
+        "meaning_ko": "승진시키다"
+      },
+      {
+        "word": "upgrade",
+        "meaning_ko": "승진시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "demote from",
+            "meaning_ko": "~에서 강등하다"
+          },
+          {
+            "phrase": "demote to",
+            "meaning_ko": "~로 강등하다"
+          },
+          {
+            "phrase": "demote employee",
+            "meaning_ko": "직원을 강등하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "demote from manager",
+            "meaning_ko": "매니저에서 강등하다"
+          },
+          {
+            "phrase": "demote to assistant",
+            "meaning_ko": "보조로 강등하다"
+          },
+          {
+            "phrase": "demote for",
+            "meaning_ko": "~로 인해 강등하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "demote from position",
+            "meaning_ko": "직위에서 강등하다"
+          },
+          {
+            "phrase": "demote due to",
+            "meaning_ko": "~로 인해 강등하다"
+          },
+          {
+            "phrase": "demote as punishment",
+            "meaning_ko": "처벌로 강등하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The company decided to demote the employee.",
+            "meaning_ko": "그 회사는 그 직원을 강등하기로 결정했습니다."
+          },
+          {
+            "sentence": "He was demoted from manager to assistant.",
+            "meaning_ko": "그는 매니저에서 보조로 강등되었습니다."
+          },
+          {
+            "sentence": "They demoted him for poor performance.",
+            "meaning_ko": "그들은 낮은 성과로 인해 그를 강등했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company decided to demote the employee from manager to assistant due to repeated performance issues and failure to meet targets.",
+            "meaning_ko": "그 회사는 반복된 성과 문제와 목표 달성 실패로 인해 그 직원을 매니저에서 보조로 강등하기로 결정했습니다."
+          },
+          {
+            "sentence": "He was demoted from his position as department head after the investigation revealed mismanagement and policy violations.",
+            "meaning_ko": "그 조사가 관리 부실과 정책 위반을 드러낸 후, 그는 부서장 직위에서 강등되었습니다."
+          },
+          {
+            "sentence": "The organization chose to demote the officer as punishment for misconduct, rather than terminating employment immediately.",
+            "meaning_ko": "그 조직은 즉시 고용을 종료하는 대신 부정 행위에 대한 처벌로 그 직원을 강등하기로 선택했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The board's decision to demote the executive from his senior position due to ethical violations sent a clear message about the company's commitment to maintaining high standards of conduct.",
+            "meaning_ko": "윤리적 위반으로 인해 그 임원을 고위 직위에서 강등하기로 한 이사회의 결정은 행동의 높은 기준을 유지하는 데 대한 그 회사의 헌신에 대한 명확한 메시지를 보냈습니다."
+          },
+          {
+            "sentence": "The demotion process, which involved demoting the manager from his leadership role to a lower position, required careful handling of employee relations and communication to minimize negative impact on morale.",
+            "meaning_ko": "그 매니저를 리더십 역할에서 낮은 직위로 강등하는 것을 포함한 그 강등 과정은 사기에 대한 부정적 영향을 최소화하기 위해 직원 관계와 소통의 신중한 처리를 요구했습니다."
+          },
+          {
+            "sentence": "The decision to demote the officer as punishment for the security breach, rather than pursuing more severe disciplinary action, reflected the organization's approach to progressive discipline and employee development.",
+            "meaning_ko": "보안 위반에 대한 처벌로 그 직원을 강등하기로 한 결정은 더 심각한 징계 조치를 추구하는 대신, 그 조직의 점진적 징계와 직원 개발에 대한 접근을 반영했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "demote는 '강등하다, 좌천하다' 의미로, 직위나 등급을 낮추는 행동을 가리킵니다. promote의 반의어로, downgrade, reduce와 비슷합니다. demote from ~ to ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "직장",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: demote = (A) promote (B) downgrade or reduce in rank (C) advance (D) upgrade",
+            "a": "B",
+            "meaning_ko": "demote는 '강등하거나 등급을 낮추다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The company decided to _____ the employee.",
+            "a": "demote",
+            "meaning_ko": "demote는 '강등하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of demote? (A) downgrade (B) reduce (C) promote (D) lower",
+            "a": "C",
+            "meaning_ko": "promote(승진시키다)가 demote의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct prepositions: demote _____ manager _____ assistant. (A) from, to (B) to, from (C) at, on (D) in, at",
+            "a": "A",
+            "meaning_ko": "demote from ~ to ~는 '~에서 ~로 강등하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: demote = (A) promote (B) downgrade (C) advance (D) upgrade",
+            "a": "B",
+            "meaning_ko": "downgrade(강등하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He was demote from manager.' → Fix the sentence.",
+            "a": "He was demoted from manager.",
+            "meaning_ko": "수동태에서 과거분사 demoted가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The company decided to demote the employee from manager to assistant.'",
+            "a": "The organization made a decision to reduce the worker's job position and rank, moving them from a management role to a lower-level support position.",
+            "meaning_ko": "demote from ~ to ~는 '~에서 ~로 강등하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ him for poor performance. (A) demote (B) demotes (C) demoting (D) demoted",
+            "a": "D",
+            "meaning_ko": "과거 시제에서 타동사 demoted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses demote most appropriately? (A) The demote ran. (B) They demoted the employee. (C) She demote smiled. (D) Demote is good.",
+            "a": "B",
+            "meaning_ko": "demote는 타동사로 '~을 강등하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

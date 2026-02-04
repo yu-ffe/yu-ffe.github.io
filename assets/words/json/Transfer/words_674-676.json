@@ -1,0 +1,800 @@
+[
+  {
+    "word": "seismic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "지진의, 지진 관련의; 지진과 관련되거나 지진에 의한.",
+        "note": "지진과 관련되거나 지진에 의한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "큰 변화의, 혁명적인; 매우 큰 변화나 혁명적인.",
+        "note": "매우 큰 변화나 혁명적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "지진과 관련되거나 지진에 의한 지진의 상태, 또는 매우 큰 변화나 혁명적인 큰 변화의 상태.",
+    "etymology": "그리스어 seismos(지진)에서 유래했으며, 원래는 '지진의' 의미였으나 현대에는 '큰 변화의'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '지진의' 의미였으나, 현대에는 '매우 큰 변화나 혁명적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 과학과 학문 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be seismic 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be seismic : 지진의이다",
+      "seismic + 명사 : 지진의/큰 변화의 ~"
+    ],
+    "morphology": "그리스어 seismos에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "seismically",
+        "meaning_ko": "지진으로"
+      },
+      {
+        "word": "seismology",
+        "meaning_ko": "지진학"
+      },
+      {
+        "word": "seismograph",
+        "meaning_ko": "지진계"
+      }
+    ],
+    "related": [
+      {
+        "word": "earthquake",
+        "meaning_ko": "지진"
+      },
+      {
+        "word": "tremor",
+        "meaning_ko": "진동"
+      },
+      {
+        "word": "revolutionary",
+        "meaning_ko": "혁명적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "earthquake",
+        "meaning_ko": "지진"
+      },
+      {
+        "word": "tremor",
+        "meaning_ko": "진동"
+      },
+      {
+        "word": "revolutionary",
+        "meaning_ko": "혁명적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "cataclysmic",
+        "meaning_ko": "대변화의(범위가 더 넓음)"
+      },
+      {
+        "word": "tectonic",
+        "meaning_ko": "지각 변동의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stable",
+        "meaning_ko": "안정적인"
+      },
+      {
+        "word": "calm",
+        "meaning_ko": "평온한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "seismic activity",
+            "meaning_ko": "지진 활동"
+          },
+          {
+            "phrase": "seismic wave",
+            "meaning_ko": "지진파"
+          },
+          {
+            "phrase": "seismic event",
+            "meaning_ko": "지진 사건"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "seismic shift",
+            "meaning_ko": "큰 변화"
+          },
+          {
+            "phrase": "seismic change",
+            "meaning_ko": "혁명적 변화"
+          },
+          {
+            "phrase": "seismic zone",
+            "meaning_ko": "지진대"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "seismic impact",
+            "meaning_ko": "지진 영향"
+          },
+          {
+            "phrase": "seismic movement",
+            "meaning_ko": "지진 움직임"
+          },
+          {
+            "phrase": "seismic transformation",
+            "meaning_ko": "혁명적 변환"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The region has seismic activity.",
+            "meaning_ko": "그 지역은 지진 활동이 있습니다."
+          },
+          {
+            "sentence": "She studied seismic waves.",
+            "meaning_ko": "그녀는 지진파를 공부했습니다."
+          },
+          {
+            "sentence": "The change was seismic.",
+            "meaning_ko": "그 변화는 혁명적이었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The region has seismic activity, with earthquakes occurring regularly due to tectonic movements, though monitoring and preparation would help to mitigate the risks associated with these events.",
+            "meaning_ko": "그 지역은 지진 활동이 있고, 지각 변동으로 인해 지진이 정기적으로 발생하지만, 모니터링과 준비가 이러한 사건과 관련된 위험을 완화하는 데 도움이 될 것입니다."
+          },
+          {
+            "sentence": "She studied seismic waves, examining how earthquakes generate vibrations that travel through the Earth, though understanding these patterns would require knowledge of geology and physics.",
+            "meaning_ko": "그녀는 지진파를 공부했고, 지진이 어떻게 지구를 통해 이동하는 진동을 생성하는지 조사했지만, 이러한 패턴을 이해하는 것은 지질학과 물리학의 지식을 요구할 것입니다."
+          },
+          {
+            "sentence": "The change was seismic, with the transformation creating fundamental shifts in how things operated, though the impact would be far-reaching and require adaptation from all involved.",
+            "meaning_ko": "그 변화는 혁명적이었고, 그 변환이 사물이 작동하는 방식에서 근본적 변화를 만들었지만, 그 영향은 광범위할 것이고 관련된 모든 사람으로부터 적응을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The seismic impact of the policy change created widespread consequences, with the fundamental shift affecting multiple sectors and requiring comprehensive adaptation, though the full extent of the changes would become apparent over time.",
+            "meaning_ko": "그 정책 변경의 그 지진 영향은 광범위한 결과를 만들었고, 그 근본적 변화가 여러 부문에 영향을 미치고 포괄적 적응을 요구했지만, 그 변경의 전체 범위는 시간이 지나면서 명백해질 것입니다."
+          },
+          {
+            "sentence": "The seismic movement detected by monitoring systems indicated potential earthquake activity, with the vibrations suggesting tectonic shifts that could lead to significant events, though the data would need careful analysis to assess the level of risk.",
+            "meaning_ko": "모니터링 시스템에 의해 감지된 그 지진 움직임은 잠재적 지진 활동을 나타냈고, 그 진동이 중요한 사건으로 이어질 수 있는 지각 변동을 제안했지만, 그 데이터는 위험 수준을 평가하기 위해 신중한 분석을 필요로 할 것입니다."
+          },
+          {
+            "sentence": "The seismic transformation in the industry reshaped the competitive landscape, with the revolutionary changes creating new opportunities and challenges, though adapting to the new environment would require innovation and strategic thinking.",
+            "meaning_ko": "그 산업에서 그 혁명적 변환은 경쟁 환경을 재구성했고, 그 혁명적 변화가 새로운 기회와 도전을 만들었지만, 새로운 환경에 적응하는 것은 혁신과 전략적 사고를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "seismic는 '지진의, 지진 관련의' 또는 '큰 변화의, 혁명적인' 의미로, 지진과 관련되거나 지진에 의한 상태를 가리킵니다. earthquake, revolutionary와 비슷하지만 더 과학적 뉘앙스가 있습니다. seismic activity, seismic shift 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "과학",
+      "학문",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: seismic = (A) stable (B) earthquake-related or revolutionary (C) calm (D) peaceful",
+            "a": "B",
+            "meaning_ko": "seismic는 '지진 관련의 또는 혁명적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The region has _____ activity.",
+            "a": "seismic",
+            "meaning_ko": "seismic는 '지진의' 의미입니다."
+          },
+          {
+            "q": "Which is similar to seismic (meaning revolutionary)? (A) stable (B) revolutionary (C) calm (D) peaceful",
+            "a": "B",
+            "meaning_ko": "revolutionary(혁명적인)가 seismic와 유사합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The change was _____. (A) seismic (B) seismically (C) seismology (D) seismic's",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 seismic가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: seismic = (A) stable (B) revolutionary (C) calm (D) peaceful",
+            "a": "B",
+            "meaning_ko": "revolutionary(혁명적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The change was seismically.' → Fix the sentence.",
+            "a": "The change was seismic.",
+            "meaning_ko": "서술어로 형용사 seismic가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The change was seismic.'",
+            "a": "The transformation was revolutionary and fundamental, with the shift creating major changes in how things operated, though the impact would be far-reaching and require adaptation from all involved.",
+            "meaning_ko": "seismic는 '혁명적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She studied _____ waves. (A) seismic (B) seismically (C) seismology (D) seismic's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 seismic가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses seismic most appropriately? (A) The seismic ran. (B) The region has seismic activity. (C) She seismic smiled. (D) Seismic is good.",
+            "a": "B",
+            "meaning_ko": "seismic는 형용사로 명사를 수식하거나 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "favorable",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "유리한, 호의적인; 도움이 되거나 유리한.",
+        "note": "도움이 되거나 유리한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "긍정적인, 찬성하는; 긍정적이거나 찬성하는.",
+        "note": "긍정적이거나 찬성하는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "도움이 되거나 유리한 유리한 상태, 또는 긍정적이거나 찬성하는 긍정적인 상태.",
+    "etymology": "라틴어 favorabilis(호의적인)에서 유래했으며, favor(호의)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '호의적인' 의미였고, 현대에는 '도움이 되거나 유리한' 또는 '긍정적이거나 찬성하는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be favorable 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 유리한",
+        "example": "favorable to"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에 유리한",
+        "example": "favorable for"
+      }
+    ],
+    "requiredComplements": [
+      "be favorable : 유리하다",
+      "favorable + 명사 : 유리한 ~",
+      "favorable to + 명사 : ~에 유리한",
+      "favorable for + 명사 : ~에 유리한"
+    ],
+    "morphology": "라틴어 favorabilis에서 유래한 단어로, favor(호의)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "favorably",
+        "meaning_ko": "유리하게"
+      },
+      {
+        "word": "favor",
+        "meaning_ko": "호의"
+      }
+    ],
+    "related": [
+      {
+        "word": "advantageous",
+        "meaning_ko": "유리한"
+      },
+      {
+        "word": "beneficial",
+        "meaning_ko": "유익한"
+      },
+      {
+        "word": "positive",
+        "meaning_ko": "긍정적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "advantageous",
+        "meaning_ko": "유리한"
+      },
+      {
+        "word": "beneficial",
+        "meaning_ko": "유익한"
+      },
+      {
+        "word": "positive",
+        "meaning_ko": "긍정적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "helpful",
+        "meaning_ko": "도움이 되는(범위가 더 넓음)"
+      },
+      {
+        "word": "supportive",
+        "meaning_ko": "지지하는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unfavorable",
+        "meaning_ko": "불리한"
+      },
+      {
+        "word": "negative",
+        "meaning_ko": "부정적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "favorable to",
+            "meaning_ko": "~에 유리한"
+          },
+          {
+            "phrase": "favorable for",
+            "meaning_ko": "~에 유리한"
+          },
+          {
+            "phrase": "favorable condition",
+            "meaning_ko": "유리한 조건"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "favorable to success",
+            "meaning_ko": "성공에 유리한"
+          },
+          {
+            "phrase": "favorable for growth",
+            "meaning_ko": "성장에 유리한"
+          },
+          {
+            "phrase": "favorable response",
+            "meaning_ko": "긍정적 응답"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "favorable outcome",
+            "meaning_ko": "유리한 결과"
+          },
+          {
+            "phrase": "favorable environment",
+            "meaning_ko": "유리한 환경"
+          },
+          {
+            "phrase": "favorable circumstance",
+            "meaning_ko": "유리한 상황"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The conditions were favorable.",
+            "meaning_ko": "그 조건은 유리했습니다."
+          },
+          {
+            "sentence": "She received a favorable response.",
+            "meaning_ko": "그녀는 긍정적 응답을 받았습니다."
+          },
+          {
+            "sentence": "The weather was favorable.",
+            "meaning_ko": "그 날씨는 유리했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The conditions were favorable, with the circumstances providing advantages and opportunities for success, though taking advantage of these conditions would require effort and planning.",
+            "meaning_ko": "그 조건은 유리했고, 그 상황이 성공을 위한 이점과 기회를 제공했지만, 이러한 조건을 활용하는 것은 노력과 계획을 요구할 것입니다."
+          },
+          {
+            "sentence": "She received a favorable response, with the positive feedback and approval creating encouragement and support, though the response would need to be followed up with action to achieve results.",
+            "meaning_ko": "그녀는 긍정적 응답을 받았고, 그 긍정적 피드백과 승인이 격려와 지원을 만들었지만, 그 응답은 결과를 달성하기 위해 행동으로 후속 조치가 필요할 것입니다."
+          },
+          {
+            "sentence": "The weather was favorable, with the conditions providing ideal circumstances for the planned activities, though the favorable conditions would need to be utilized effectively to maximize benefits.",
+            "meaning_ko": "그 날씨는 유리했고, 그 조건이 계획된 활동을 위한 이상적인 상황을 제공했지만, 그 유리한 조건은 이점을 극대화하기 위해 효과적으로 활용될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The favorable outcome of the negotiation reflected successful diplomacy, with the positive results creating opportunities for further cooperation and development, though maintaining the favorable conditions would require ongoing effort and commitment.",
+            "meaning_ko": "그 협상의 그 유리한 결과는 성공적인 외교를 반영했고, 그 긍정적 결과가 추가 협력과 발전을 위한 기회를 만들었지만, 그 유리한 조건을 유지하는 것은 지속적인 노력과 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "The favorable environment created by the policies supported economic growth, with the conditions providing incentives and opportunities for development, though the benefits would need to be distributed fairly and managed sustainably.",
+            "meaning_ko": "그 정책에 의해 만들어진 그 유리한 환경은 경제 성장을 지원했고, 그 조건이 발전을 위한 인센티브와 기회를 제공했지만, 그 이점은 공정하게 분배되고 지속 가능하게 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The favorable circumstance that presented itself created an opportunity for advancement, with the advantageous conditions providing a foundation for progress, though seizing the opportunity would require decisive action and strategic planning.",
+            "meaning_ko": "그 자체로 나타난 그 유리한 상황은 발전을 위한 기회를 만들었고, 그 유리한 조건이 진행을 위한 기초를 제공했지만, 그 기회를 잡는 것은 결정적인 행동과 전략적 계획을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "favorable는 '유리한, 호의적인' 또는 '긍정적인, 찬성하는' 의미로, 도움이 되거나 유리한 상태를 가리킵니다. advantageous, beneficial와 비슷하지만 더 일반적 표현입니다. favorable to ~, favorable for ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: favorable = (A) unfavorable (B) advantageous or positive (C) negative (D) harmful",
+            "a": "B",
+            "meaning_ko": "favorable는 '유리한 또는 긍정적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The conditions were _____.",
+            "a": "favorable",
+            "meaning_ko": "favorable는 '유리한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of favorable? (A) advantageous (B) beneficial (C) unfavorable (D) positive",
+            "a": "C",
+            "meaning_ko": "unfavorable(불리한)가 favorable의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: favorable _____ success. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "favorable to ~는 '~에 유리한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: favorable = (A) unfavorable (B) advantageous (C) negative (D) harmful",
+            "a": "B",
+            "meaning_ko": "advantageous(유리한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The conditions were favorable at success.' → Fix the preposition.",
+            "a": "The conditions were favorable to success.",
+            "meaning_ko": "favorable to ~는 '~에 유리한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The conditions were favorable.'",
+            "a": "The circumstances were advantageous and positive, with the conditions providing benefits and opportunities for success, though taking advantage of these conditions would require effort and planning.",
+            "meaning_ko": "favorable는 '유리한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She received a _____ response. (A) favorable (B) favorably (C) favor (D) favorable's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 favorable가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses favorable most appropriately? (A) The favorable ran. (B) The conditions were favorable. (C) She favorable smiled. (D) Favorable is good.",
+            "a": "B",
+            "meaning_ko": "favorable는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "herculean",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "헤라클레스 같은, 매우 힘든; 매우 힘들거나 어려운.",
+        "note": "매우 힘들거나 어려운 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "거대한, 엄청난; 매우 크거나 엄청난.",
+        "note": "매우 크거나 엄청난 상태를 가리킵니다."
+      }
+    ],
+    "concept": "매우 힘들거나 어려운 헤라클레스 같은 상태, 또는 매우 크거나 엄청난 거대한 상태.",
+    "etymology": "그리스 신화의 헤라클레스(Hercules)에서 유래했으며, 원래는 '헤라클레스 같은' 의미였고 현대에는 '매우 힘든'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '헤라클레스 같은' 의미였고, 현대에는 '매우 힘들거나 어려운' 또는 '매우 크거나 엄청난'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학과 학문 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be herculean 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be herculean : 헤라클레스 같다",
+      "herculean + 명사 : 헤라클레스 같은/거대한 ~"
+    ],
+    "morphology": "그리스 신화의 헤라클레스에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "difficult",
+        "meaning_ko": "어려운"
+      },
+      {
+        "word": "enormous",
+        "meaning_ko": "거대한"
+      },
+      {
+        "word": "immense",
+        "meaning_ko": "엄청난"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "difficult",
+        "meaning_ko": "어려운"
+      },
+      {
+        "word": "enormous",
+        "meaning_ko": "거대한"
+      },
+      {
+        "word": "immense",
+        "meaning_ko": "엄청난"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "gargantuan",
+        "meaning_ko": "거대한(범위가 더 넓음)"
+      },
+      {
+        "word": "titanic",
+        "meaning_ko": "거대한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "easy",
+        "meaning_ko": "쉬운"
+      },
+      {
+        "word": "small",
+        "meaning_ko": "작은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "herculean effort",
+            "meaning_ko": "거대한 노력"
+          },
+          {
+            "phrase": "herculean task",
+            "meaning_ko": "거대한 작업"
+          },
+          {
+            "phrase": "herculean strength",
+            "meaning_ko": "거대한 힘"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "herculean labor",
+            "meaning_ko": "거대한 노동"
+          },
+          {
+            "phrase": "herculean challenge",
+            "meaning_ko": "거대한 도전"
+          },
+          {
+            "phrase": "herculean undertaking",
+            "meaning_ko": "거대한 사업"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "herculean achievement",
+            "meaning_ko": "거대한 성취"
+          },
+          {
+            "phrase": "herculean struggle",
+            "meaning_ko": "거대한 투쟁"
+          },
+          {
+            "phrase": "herculean proportions",
+            "meaning_ko": "거대한 규모"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It was a herculean effort.",
+            "meaning_ko": "그것은 거대한 노력이었습니다."
+          },
+          {
+            "sentence": "She faced a herculean task.",
+            "meaning_ko": "그녀는 거대한 작업에 직면했습니다."
+          },
+          {
+            "sentence": "The challenge was herculean.",
+            "meaning_ko": "그 도전은 거대했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "It was a herculean effort, with the enormous amount of work and dedication required creating a sense of the magnitude of the undertaking, though the achievement would be significant if accomplished.",
+            "meaning_ko": "그것은 거대한 노력이었고, 요구된 엄청난 양의 작업과 헌신이 그 사업의 규모의 감각을 만들었지만, 그 성취는 달성되면 중요할 것입니다."
+          },
+          {
+            "sentence": "She faced a herculean task, with the enormous challenge requiring tremendous effort and determination, though the difficulty would test her abilities and commitment to the fullest.",
+            "meaning_ko": "그녀는 거대한 작업에 직면했고, 그 엄청난 도전이 엄청난 노력과 결심을 요구했지만, 그 어려움은 그녀의 능력과 헌신을 최대한으로 시험할 것입니다."
+          },
+          {
+            "sentence": "The challenge was herculean, with the enormous difficulty and scope creating a situation that would require exceptional effort and resources, though overcoming it would bring significant rewards.",
+            "meaning_ko": "그 도전은 거대했고, 그 엄청난 어려움과 범위가 예외적 노력과 자원을 요구할 상황을 만들었지만, 그것을 극복하는 것은 중요한 보상을 가져올 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The herculean achievement that resulted from years of work represented a milestone in the field, with the enormous accomplishment demonstrating what could be achieved through dedication and perseverance, though the success would inspire others and set new standards.",
+            "meaning_ko": "수년의 작업에서 나온 그 거대한 성취는 그 분야에서 이정표를 나타냈고, 그 엄청난 성취가 헌신과 인내를 통해 달성될 수 있는 것을 보여주었지만, 그 성공은 다른 사람들에게 영감을 주고 새로운 기준을 설정할 것입니다."
+          },
+          {
+            "sentence": "The herculean struggle that characterized the conflict required immense resources and determination, with the enormous challenges creating a situation where success would depend on sustained effort and strategic planning, though the outcome would have far-reaching consequences.",
+            "meaning_ko": "그 갈등을 특징지었던 그 거대한 투쟁은 엄청난 자원과 결심을 요구했고, 그 엄청난 도전이 성공이 지속적인 노력과 전략적 계획에 달려있을 상황을 만들었지만, 그 결과는 광범위한 결과를 가질 것입니다."
+          },
+          {
+            "sentence": "The herculean proportions of the project created challenges that seemed insurmountable, with the enormous scale and complexity requiring coordination of multiple resources and expertise, though the successful completion would represent a significant accomplishment.",
+            "meaning_ko": "그 프로젝트의 그 거대한 규모는 극복할 수 없어 보이는 도전을 만들었고, 그 엄청난 규모와 복잡성이 여러 자원과 전문성의 조정을 요구했지만, 성공적인 완료는 중요한 성취를 나타낼 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "herculean는 '헤라클레스 같은, 매우 힘든' 또는 '거대한, 엄청난' 의미로, 매우 힘들거나 어려운 상태를 가리킵니다. difficult, enormous와 비슷하지만 더 문학적 뉘앙스가 있습니다. herculean effort, herculean task 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문학",
+      "학문",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: herculean = (A) easy (B) difficult or enormous (C) small (D) simple",
+            "a": "B",
+            "meaning_ko": "herculean는 '어려운 또는 거대한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: It was a _____ effort.",
+            "a": "herculean",
+            "meaning_ko": "herculean는 '거대한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of herculean? (A) difficult (B) enormous (C) easy (D) immense",
+            "a": "C",
+            "meaning_ko": "easy(쉬운)가 herculean의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She faced a _____ task. (A) herculean (B) herculeanly (C) herculeanism (D) herculean's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 herculean가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: herculean = (A) easy (B) difficult (C) small (D) simple",
+            "a": "B",
+            "meaning_ko": "difficult(어려운)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'It was herculeanly effort.' → Fix the sentence.",
+            "a": "It was a herculean effort.",
+            "meaning_ko": "명사를 수식하는 형용사 herculean가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'It was a herculean effort.'",
+            "a": "It was an enormous and extremely difficult undertaking, with the task requiring tremendous effort and determination, though the achievement would be significant if accomplished.",
+            "meaning_ko": "herculean는 '거대한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The challenge was _____. (A) herculean (B) herculeanly (C) herculeanism (D) herculean's",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 herculean가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses herculean most appropriately? (A) The herculean ran. (B) It was a herculean effort. (C) She herculean smiled. (D) Herculean is good.",
+            "a": "B",
+            "meaning_ko": "herculean는 형용사로 명사를 수식하거나 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

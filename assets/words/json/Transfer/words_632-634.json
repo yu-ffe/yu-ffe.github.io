@@ -1,0 +1,827 @@
+[
+  {
+    "word": "assume",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "가정하다, 추정하다; 사실로 받아들이거나 추정하다.",
+        "note": "사실로 받아들이거나 추정하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "맡다, 차지하다; 책임이나 역할을 맡거나 차지하다.",
+        "note": "책임이나 역할을 맡거나 차지하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "가정하다, 취하다; 특정 형태나 특성을 취하다.",
+        "note": "특정 형태나 특성을 취하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "사실로 받아들이거나 추정하는 가정, 또는 책임이나 역할을 맡거나 차지하는 것, 또는 특정 형태나 특성을 취하는 것.",
+    "etymology": "라틴어 assumere(맡다)에서 유래했으며, ad-(향하여) + sumere(취하다)의 조합입니다.",
+    "semanticExtension": "원래는 '맡다' 의미였고, 현대에는 '가정하다, 추정하다' 또는 '책임이나 역할을 맡다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 쓰이며, assume + 명사 형태로 자주 사용됩니다. that절을 목적어로 취할 수 있습니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "assume + 명사 : ~을 가정하다/맡다",
+      "assume that + S V : ~라고 가정하다",
+      "assume + 명사 + to be + 명사/형용사 : ~을 ~라고 가정하다"
+    ],
+    "morphology": "ad-(향하여) + sumere(취하다)의 조합으로, '향하여 취하다' 즉 '맡다' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "assumed",
+        "meaning_ko": "가정된(과거분사/형용사)"
+      },
+      {
+        "word": "assuming",
+        "meaning_ko": "가정하는(현재분사/형용사)"
+      },
+      {
+        "word": "assumption",
+        "meaning_ko": "가정"
+      }
+    ],
+    "related": [
+      {
+        "word": "presume",
+        "meaning_ko": "추정하다"
+      },
+      {
+        "word": "suppose",
+        "meaning_ko": "가정하다"
+      },
+      {
+        "word": "take",
+        "meaning_ko": "맡다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "presume",
+        "meaning_ko": "추정하다"
+      },
+      {
+        "word": "suppose",
+        "meaning_ko": "가정하다"
+      },
+      {
+        "word": "take",
+        "meaning_ko": "맡다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "believe",
+        "meaning_ko": "믿다(범위가 더 넓음)"
+      },
+      {
+        "word": "accept",
+        "meaning_ko": "받아들이다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reject",
+        "meaning_ko": "거부하다"
+      },
+      {
+        "word": "doubt",
+        "meaning_ko": "의심하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "assume that",
+            "meaning_ko": "~라고 가정하다"
+          },
+          {
+            "phrase": "assume responsibility",
+            "meaning_ko": "책임을 맡다"
+          },
+          {
+            "phrase": "assume control",
+            "meaning_ko": "통제를 맡다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "assume role",
+            "meaning_ko": "역할을 맡다"
+          },
+          {
+            "phrase": "assume position",
+            "meaning_ko": "위치를 맡다"
+          },
+          {
+            "phrase": "assume power",
+            "meaning_ko": "권력을 맡다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "assume leadership",
+            "meaning_ko": "리더십을 맡다"
+          },
+          {
+            "phrase": "assume command",
+            "meaning_ko": "지휘를 맡다"
+          },
+          {
+            "phrase": "assume obligation",
+            "meaning_ko": "의무를 맡다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "I assume you're ready.",
+            "meaning_ko": "당신이 준비되었다고 가정합니다."
+          },
+          {
+            "sentence": "She assumed responsibility.",
+            "meaning_ko": "그녀는 책임을 맡았습니다."
+          },
+          {
+            "sentence": "They assumed control.",
+            "meaning_ko": "그들은 통제를 맡았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "I assume you're ready, taking it for granted that you have completed the necessary preparations and are prepared to proceed, though I should verify this to be certain.",
+            "meaning_ko": "당신이 준비되었다고 가정하고, 당신이 필요한 준비를 완료했고 진행할 준비가 되어 있다는 것을 당연한 것으로 받아들이지만, 확실히 하기 위해 이것을 확인해야 합니다."
+          },
+          {
+            "sentence": "She assumed responsibility, taking on the duties and obligations associated with the position, demonstrating her willingness to accept challenges and lead the project to completion.",
+            "meaning_ko": "그녀는 책임을 맡았고, 그 위치와 관련된 의무와 책임을 떠맡았으며, 도전을 받아들이고 그 프로젝트를 완료로 이끌 의지를 보여주었습니다."
+          },
+          {
+            "sentence": "They assumed control, taking charge of the situation and making decisions that would guide the organization's direction, though the transition required careful management and clear communication.",
+            "meaning_ko": "그들은 통제를 맡았고, 그 상황을 책임지고 그 조직의 방향을 안내할 결정을 내렸지만, 그 전환은 신중한 관리와 명확한 의사 소통을 요구했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The new leader assumed leadership under challenging circumstances, taking on the responsibilities of guiding the organization through a period of transition while also addressing existing problems and setting a course for future success.",
+            "meaning_ko": "그 새로운 리더는 도전적인 상황에서 리더십을 맡았고, 기존 문제를 다루고 미래 성공을 위한 과정을 설정하면서 전환 기간 동안 그 조직을 안내하는 책임을 떠맡았습니다."
+          },
+          {
+            "sentence": "The officer assumed command of the operation, taking control of the mission and coordinating the efforts of multiple teams, with the responsibility of making critical decisions that would determine the success or failure of the endeavor.",
+            "meaning_ko": "그 장교는 그 작전의 지휘를 맡았고, 그 임무를 통제하고 여러 팀의 노력을 조정했으며, 그 노력의 성공 또는 실패를 결정할 중요한 결정을 내리는 책임을 가졌습니다."
+          },
+          {
+            "sentence": "The company assumed obligation for the environmental impact of its operations, accepting responsibility for the consequences and committing to measures that would mitigate harm and contribute to sustainable practices.",
+            "meaning_ko": "그 회사는 그 운영의 환경적 영향에 대한 의무를 맡았고, 그 결과에 대한 책임을 받아들이고 피해를 완화하고 지속 가능한 관행에 기여할 조치에 헌신했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "assume는 '가정하다, 추정하다' 또는 '맡다, 차지하다' 의미로, 사실로 받아들이거나 추정하는 행동을 가리킵니다. presume, suppose와 비슷하지만 더 강한 뉘앙스가 있습니다. assume that ~, assume responsibility 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: assume = (A) reject (B) suppose or take (C) doubt (D) refuse",
+            "a": "B",
+            "meaning_ko": "assume는 '가정하다 또는 맡다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: I _____ you're ready.",
+            "a": "assume",
+            "meaning_ko": "assume는 '가정하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of assume (meaning to suppose)? (A) suppose (B) presume (C) doubt (D) take",
+            "a": "C",
+            "meaning_ko": "doubt(의심하다)가 assume의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She _____ responsibility. (A) assume (B) assumes (C) assuming (D) assumed",
+            "a": "D",
+            "meaning_ko": "과거 시제에서 과거형 assumed가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: assume = (A) reject (B) suppose (C) doubt (D) refuse",
+            "a": "B",
+            "meaning_ko": "suppose(가정하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'I assume you is ready.' → Fix the sentence.",
+            "a": "I assume you're ready.",
+            "meaning_ko": "assume that 절에서 주어와 동사가 일치해야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'I assume you're ready.'",
+            "a": "I take it for granted that you are prepared, accepting this as true without verification, though I should confirm this to be certain of your actual readiness.",
+            "meaning_ko": "assume는 '가정하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ control. (A) assume (B) assumes (C) assuming (D) assumed",
+            "a": "D",
+            "meaning_ko": "과거 시제에서 과거형 assumed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses assume most appropriately? (A) The assume ran. (B) I assume you're ready. (C) She assume smiled. (D) Assume is good.",
+            "a": "B",
+            "meaning_ko": "assume는 동사로 '가정하다'를 의미하며, that 절과 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "filibuster",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "필리버스터, 장시간 연설; 의회에서 법안 통과를 막기 위한 장시간 연설.",
+        "note": "의회에서 법안 통과를 막기 위한 장시간 연설을 가리킵니다."
+      },
+      {
+        "definition_ko": "필리버스터하다, 장시간 연설하다; 의회에서 법안 통과를 막기 위해 장시간 연설하다.",
+        "note": "의회에서 법안 통과를 막기 위해 장시간 연설하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "의회에서 법안 통과를 막기 위한 장시간 연설인 필리버스터, 또는 의회에서 법안 통과를 막기 위해 장시간 연설하는 것.",
+    "etymology": "스페인어 filibustero(해적)에서 유래했으며, 원래는 '해적' 의미였으나 현대에는 '필리버스터'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '해적' 의미였으나, 현대에는 '의회에서 법안 통과를 막기 위한 장시간 연설'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 정치와 법률 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "명사로는 가산명사로 자주 사용되며, filibuster 형태로 자주 사용됩니다. 동사로는 자동사·타동사 모두로 쓰이며, filibuster 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "filibuster : 필리버스터",
+      "filibuster : 필리버스터하다",
+      "filibuster + 명사 : ~에 대해 필리버스터하다"
+    ],
+    "morphology": "스페인어 filibustero에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "filibustered",
+        "meaning_ko": "필리버스터한(과거분사/형용사)"
+      },
+      {
+        "word": "filibustering",
+        "meaning_ko": "필리버스터하는(현재분사/형용사)"
+      },
+      {
+        "word": "filibusterer",
+        "meaning_ko": "필리버스터하는 사람"
+      }
+    ],
+    "related": [
+      {
+        "word": "obstruction",
+        "meaning_ko": "방해"
+      },
+      {
+        "word": "delay",
+        "meaning_ko": "지연"
+      },
+      {
+        "word": "stall",
+        "meaning_ko": "지연시키다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "obstruction",
+        "meaning_ko": "방해"
+      },
+      {
+        "word": "delay",
+        "meaning_ko": "지연"
+      },
+      {
+        "word": "stall",
+        "meaning_ko": "지연시키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "block",
+        "meaning_ko": "막다(범위가 더 넓음)"
+      },
+      {
+        "word": "hinder",
+        "meaning_ko": "방해하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "expedite",
+        "meaning_ko": "촉진하다"
+      },
+      {
+        "word": "facilitate",
+        "meaning_ko": "촉진하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "filibuster bill",
+            "meaning_ko": "법안에 대해 필리버스터하다"
+          },
+          {
+            "phrase": "long filibuster",
+            "meaning_ko": "긴 필리버스터"
+          },
+          {
+            "phrase": "end filibuster",
+            "meaning_ko": "필리버스터를 끝내다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "filibuster legislation",
+            "meaning_ko": "법률에 대해 필리버스터하다"
+          },
+          {
+            "phrase": "filibuster attempt",
+            "meaning_ko": "필리버스터 시도"
+          },
+          {
+            "phrase": "break filibuster",
+            "meaning_ko": "필리버스터를 깨다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "filibuster procedure",
+            "meaning_ko": "필리버스터 절차"
+          },
+          {
+            "phrase": "filibuster rule",
+            "meaning_ko": "필리버스터 규칙"
+          },
+          {
+            "phrase": "filibuster reform",
+            "meaning_ko": "필리버스터 개혁"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The senator began a filibuster.",
+            "meaning_ko": "그 상원의원은 필리버스터를 시작했습니다."
+          },
+          {
+            "sentence": "They filibustered the bill.",
+            "meaning_ko": "그들은 그 법안에 대해 필리버스터했습니다."
+          },
+          {
+            "sentence": "The filibuster lasted for hours.",
+            "meaning_ko": "그 필리버스터는 몇 시간 동안 지속되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The senator began a filibuster, speaking for an extended period to prevent the bill from coming to a vote, using parliamentary procedure to delay the legislative process and block the measure from advancing.",
+            "meaning_ko": "그 상원의원은 필리버스터를 시작했고, 그 법안이 표결에 오는 것을 막기 위해 장시간 동안 말했으며, 의회 절차를 사용하여 입법 과정을 지연시키고 그 조치가 진행되는 것을 막았습니다."
+          },
+          {
+            "sentence": "They filibustered the bill, engaging in prolonged debate and discussion to prevent its passage, with the tactic serving as a tool to block legislation that they opposed and force negotiations or compromises.",
+            "meaning_ko": "그들은 그 법안에 대해 필리버스터했고, 그 통과를 막기 위해 장시간 토론과 논의에 참여했으며, 그 전략이 그들이 반대한 법률을 막고 협상이나 타협을 강제하는 도구로 작용했습니다."
+          },
+          {
+            "sentence": "The filibuster lasted for hours, with the senator continuing to speak without interruption, using the parliamentary tactic to delay proceedings and prevent the vote from taking place, though eventually the session would need to conclude.",
+            "meaning_ko": "그 필리버스터는 몇 시간 동안 지속되었고, 그 상원의원이 중단 없이 계속 말했으며, 의회 전략을 사용하여 절차를 지연시키고 그 투표가 일어나는 것을 막았지만, 결국 그 회의는 결론을 내려야 할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The filibuster procedure was invoked to block the controversial legislation, with the senator using parliamentary rules to engage in extended debate that would prevent the bill from reaching a vote, effectively stalling the legislative process and requiring either compromise or the accumulation of sufficient votes to overcome the obstruction.",
+            "meaning_ko": "그 필리버스터 절차가 그 논란의 여지가 있는 법률을 막기 위해 호출되었고, 그 상원의원이 의회 규칙을 사용하여 그 법안이 표결에 도달하는 것을 막을 장시간 토론에 참여했으며, 효과적으로 그 입법 과정을 지연시키고 타협이나 그 방해를 극복하기에 충분한 표의 축적을 요구했습니다."
+          },
+          {
+            "sentence": "The filibuster rule allowed for extended debate as a means of legislative obstruction, with the parliamentary mechanism providing a tool for minority parties to block majority-supported bills, though the practice has been subject to reform efforts aimed at balancing democratic representation with legislative efficiency.",
+            "meaning_ko": "그 필리버스터 규칙이 입법적 방해의 수단으로서 장시간 토론을 허용했고, 그 의회 메커니즘이 소수당이 다수가 지지한 법안을 막을 도구를 제공했지만, 그 관행은 입법적 효율성과 함께 민주적 대표를 균형 있게 하려는 개혁 노력의 대상이 되었습니다."
+          },
+          {
+            "sentence": "The filibuster reform proposal sought to modify the rules governing extended debate, with advocates arguing that changes were needed to prevent abuse of the procedure while opponents maintained that the existing system provided important protections for minority viewpoints and ensured thorough consideration of legislation.",
+            "meaning_ko": "그 필리버스터 개혁 제안은 장시간 토론을 규제하는 규칙을 수정하려고 했고, 옹호자들이 그 절차의 남용을 방지하기 위해 변경이 필요하다고 주장했지만 반대자들은 기존 시스템이 소수 의견에 대한 중요한 보호를 제공하고 법률의 철저한 고려를 보장한다고 유지했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "filibuster는 '필리버스터, 장시간 연설' 또는 '필리버스터하다, 장시간 연설하다' 의미로, 의회에서 법안 통과를 막기 위한 장시간 연설을 가리킵니다. obstruction, delay와 비슷하지만 더 정치적 뉘앙스가 있습니다. filibuster bill, long filibuster 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "정치",
+      "법률",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: filibuster = (A) expedite (B) obstruction or delay (C) facilitate (D) accelerate",
+            "a": "B",
+            "meaning_ko": "filibuster는 '방해 또는 지연' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The senator began a _____.",
+            "a": "filibuster",
+            "meaning_ko": "filibuster는 '필리버스터'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of filibuster? (A) obstruction (B) delay (C) expedite (D) stall",
+            "a": "C",
+            "meaning_ko": "expedite(촉진하다)가 filibuster의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They _____ the bill. (A) filibuster (B) filibusters (C) filibustering (D) filibustered",
+            "a": "D",
+            "meaning_ko": "과거 시제에서 과거형 filibustered가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: filibuster = (A) expedite (B) obstruction (C) facilitate (D) accelerate",
+            "a": "B",
+            "meaning_ko": "obstruction(방해)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The senator began filibuster.' → Fix the article.",
+            "a": "The senator began a filibuster.",
+            "meaning_ko": "가산명사이므로 관사 a가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The senator began a filibuster.'",
+            "a": "The senator initiated an extended speech designed to prevent a bill from coming to a vote, using parliamentary procedure to delay the legislative process and block the measure from advancing through prolonged debate.",
+            "meaning_ko": "filibuster는 '필리버스터'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ lasted for hours. (A) filibuster (B) filibusters (C) filibuster's (D) filibustered",
+            "a": "A",
+            "meaning_ko": "명사 filibuster가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses filibuster most appropriately? (A) The filibuster ran. (B) The senator began a filibuster. (C) She filibuster smiled. (D) Filibuster is good.",
+            "a": "B",
+            "meaning_ko": "filibuster는 명사로 '필리버스터'를 의미하며, 의회 절차를 나타낼 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "blot",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "얼룩, 오점; 더럽거나 불명예스러운 표시.",
+        "note": "더럽거나 불명예스러운 표시를 가리킵니다."
+      },
+      {
+        "definition_ko": "얼룩지게 하다, 더럽히다; 얼룩이나 오점을 만들다.",
+        "note": "얼룩이나 오점을 만드는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "닦아내다, 흡수하다; 얼룩이나 액체를 닦아내거나 흡수하다.",
+        "note": "얼룩이나 액체를 닦아내거나 흡수하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "더럽거나 불명예스러운 표시인 얼룩, 또는 얼룩이나 오점을 만드는 것, 또는 얼룩이나 액체를 닦아내거나 흡수하는 것.",
+    "etymology": "고대 영어 blott(얼룩)에서 유래했으며, 원래는 '얼룩' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래는 '얼룩' 의미였고, 현대에는 '얼룩지게 하다' 또는 '닦아내다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로 자주 사용되며, blot 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, blot + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 얼룩을 만들다",
+        "example": "blot on reputation"
+      },
+      {
+        "prep": "out",
+        "meaning_ko": "닦아내다",
+        "example": "blot out"
+      }
+    ],
+    "requiredComplements": [
+      "blot : 얼룩/오점",
+      "blot + 명사 : ~을 얼룩지게 하다/닦아내다",
+      "blot on + 명사 : ~에 얼룩",
+      "blot out : 닦아내다"
+    ],
+    "morphology": "고대 영어 blott에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "blotted",
+        "meaning_ko": "얼룩진/닦아낸(과거분사/형용사)"
+      },
+      {
+        "word": "blotting",
+        "meaning_ko": "얼룩지게 하는/닦아내는(현재분사/형용사)"
+      },
+      {
+        "word": "blotter",
+        "meaning_ko": "흡수지"
+      }
+    ],
+    "related": [
+      {
+        "word": "stain",
+        "meaning_ko": "얼룩"
+      },
+      {
+        "word": "spot",
+        "meaning_ko": "점"
+      },
+      {
+        "word": "mark",
+        "meaning_ko": "표시"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "stain",
+        "meaning_ko": "얼룩"
+      },
+      {
+        "word": "spot",
+        "meaning_ko": "점"
+      },
+      {
+        "word": "mark",
+        "meaning_ko": "표시"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "blemish",
+        "meaning_ko": "흠(범위가 더 넓음)"
+      },
+      {
+        "word": "smudge",
+        "meaning_ko": "얼룩"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clean",
+        "meaning_ko": "깨끗한"
+      },
+      {
+        "word": "purify",
+        "meaning_ko": "정화하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "blot on",
+            "meaning_ko": "~에 얼룩"
+          },
+          {
+            "phrase": "blot out",
+            "meaning_ko": "닦아내다"
+          },
+          {
+            "phrase": "ink blot",
+            "meaning_ko": "잉크 얼룩"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "blot on reputation",
+            "meaning_ko": "명성에 오점"
+          },
+          {
+            "phrase": "blot paper",
+            "meaning_ko": "흡수지"
+          },
+          {
+            "phrase": "blot stain",
+            "meaning_ko": "얼룩"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "blot record",
+            "meaning_ko": "기록에 오점"
+          },
+          {
+            "phrase": "blot character",
+            "meaning_ko": "성격에 오점"
+          },
+          {
+            "phrase": "blot memory",
+            "meaning_ko": "기억을 닦아내다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "There was a blot on the paper.",
+            "meaning_ko": "그 종이에 얼룩이 있었습니다."
+          },
+          {
+            "sentence": "She blotted the ink.",
+            "meaning_ko": "그녀는 그 잉크를 닦아냈습니다."
+          },
+          {
+            "sentence": "The scandal was a blot on his reputation.",
+            "meaning_ko": "그 스캔들은 그의 명성에 오점이었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "There was a blot on the paper, with an ink stain marring the otherwise clean surface, creating an unsightly mark that detracted from the document's appearance and professionalism.",
+            "meaning_ko": "그 종이에 얼룩이 있었고, 잉크 얼룩이 그렇지 않으면 깨끗한 표면을 손상시켰으며, 그 문서의 외관과 전문성을 떨어뜨리는 보기 흉한 표시를 만들었습니다."
+          },
+          {
+            "sentence": "She blotted the ink, using absorbent paper to remove the excess liquid and prevent it from spreading, carefully managing the spill to minimize damage and maintain the quality of the document.",
+            "meaning_ko": "그녀는 그 잉크를 닦아냈고, 흡수성 종이를 사용하여 과도한 액체를 제거하고 그것이 퍼지는 것을 방지했으며, 피해를 최소화하고 그 문서의 품질을 유지하기 위해 그 유출을 신중하게 관리했습니다."
+          },
+          {
+            "sentence": "The scandal was a blot on his reputation, with the incident creating a stain on his character that would be difficult to remove, damaging his standing and credibility in ways that could have lasting consequences.",
+            "meaning_ko": "그 스캔들은 그의 명성에 오점이었고, 그 사건이 제거하기 어려운 그의 성격에 얼룩을 만들었으며, 지속적인 결과를 가질 수 있는 방식으로 그의 지위와 신뢰성을 손상시켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The blot record revealed a pattern of misconduct that had been previously overlooked, with the documentation exposing flaws in the system and raising questions about accountability and oversight that would require investigation and reform.",
+            "meaning_ko": "그 기록의 오점은 이전에 간과되었던 부정 행위의 패턴을 드러냈고, 그 문서화가 그 시스템의 결함을 노출하고 조사와 개혁을 요구할 책임과 감독에 대한 질문을 제기했습니다."
+          },
+          {
+            "sentence": "The blot character assessment highlighted significant weaknesses in the individual's moral framework, with the evaluation revealing ethical lapses and behavioral issues that would need to be addressed through counseling, training, or other corrective measures.",
+            "meaning_ko": "그 성격의 오점 평가는 그 개인의 도덕적 프레임워크에서 중요한 약점을 강조했고, 그 평가가 상담, 훈련, 또는 다른 시정 조치를 통해 다루어야 할 윤리적 실수와 행동 문제를 드러냈습니다."
+          },
+          {
+            "sentence": "The attempt to blot memory of the traumatic event proved unsuccessful, with the psychological impact of the experience remaining despite efforts to suppress or forget it, demonstrating the complexity of memory and the challenges of dealing with difficult past experiences.",
+            "meaning_ko": "그 외상적 사건의 기억을 닦아내려는 시도는 성공하지 못했고, 그것을 억제하거나 잊으려는 노력에도 불구하고 그 경험의 심리적 영향이 남아있었으며, 기억의 복잡성과 어려운 과거 경험을 다루는 도전을 보여주었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "blot는 '얼룩, 오점' 또는 '얼룩지게 하다, 더럽히다' 또는 '닦아내다, 흡수하다' 의미로, 더럽거나 불명예스러운 표시를 가리킵니다. stain, spot와 비슷하지만 더 부정적 뉘앙스가 있습니다. blot on ~, blot out 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: blot = (A) clean (B) stain or spot (C) purify (D) clear",
+            "a": "B",
+            "meaning_ko": "blot는 '얼룩 또는 점' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: There was a _____ on the paper.",
+            "a": "blot",
+            "meaning_ko": "blot는 '얼룩'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of blot? (A) stain (B) spot (C) clean (D) mark",
+            "a": "C",
+            "meaning_ko": "clean(깨끗한)이 blot의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: blot _____ reputation. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "blot on ~는 '~에 얼룩' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: blot = (A) clean (B) stain (C) purify (D) clear",
+            "a": "B",
+            "meaning_ko": "stain(얼룩)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The scandal was a blot at his reputation.' → Fix the preposition.",
+            "a": "The scandal was a blot on his reputation.",
+            "meaning_ko": "blot on ~는 '~에 얼룩' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'There was a blot on the paper.'",
+            "a": "A stain or mark appeared on the paper, with an ink spot or other blemish marring the surface and creating an unsightly mark that detracted from the document's appearance.",
+            "meaning_ko": "blot는 '얼룩'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: She _____ the ink. (A) blot (B) blots (C) blotting (D) blotted",
+            "a": "D",
+            "meaning_ko": "과거 시제에서 과거형 blotted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses blot most appropriately? (A) The blot ran. (B) There was a blot on the paper. (C) She blot smiled. (D) Blot is good.",
+            "a": "B",
+            "meaning_ko": "blot는 명사로 '얼룩'을 의미하며, on과 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,837 @@
+[
+  {
+    "word": "bare",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "벗은, 맨; 옷이나 덮개가 없는.",
+        "note": "형용사로는 '벗은', 동사로는 '벗기다' 의미입니다."
+      },
+      {
+        "definition_ko": "빈, 비어 있는; 아무것도 없는.",
+        "note": "형용사로는 '빈' 의미입니다."
+      },
+      {
+        "definition_ko": "벗기다, 드러내다; 옷이나 덮개를 제거하다.",
+        "note": "동사로는 '벗기다' 의미입니다."
+      }
+    ],
+    "concept": "옷이나 덮개가 없어 벗은 상태, 또는 아무것도 없는 빈 상태.",
+    "etymology": "고대 영어 bær(벗은)에서 유래했으며, 원래는 '벗은' 의미였으나 현대에는 '빈'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '벗은' 의미였으나, 현대에는 '아무것도 없는, 빈'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 명사를 수식하거나 서술어로 쓰이며, 동사로는 타동사로 bare + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "bare + 명사 : 벗은/빈 ~",
+      "bare + 명사 : ~을 벗기다"
+    ],
+    "morphology": "고대 영어 bær에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "barely",
+        "meaning_ko": "거의 ~않게"
+      },
+      {
+        "word": "bareness",
+        "meaning_ko": "벗음, 빈 상태"
+      }
+    ],
+    "related": [
+      {
+        "word": "naked",
+        "meaning_ko": "벗은"
+      },
+      {
+        "word": "empty",
+        "meaning_ko": "빈"
+      },
+      {
+        "word": "expose",
+        "meaning_ko": "드러내다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "naked",
+        "meaning_ko": "벗은(형용사 의미에서)"
+      },
+      {
+        "word": "empty",
+        "meaning_ko": "빈"
+      },
+      {
+        "word": "expose",
+        "meaning_ko": "드러내다(동사 의미에서)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "uncovered",
+        "meaning_ko": "덮개 없는(범위가 더 넓음)"
+      },
+      {
+        "word": "stripped",
+        "meaning_ko": "벗겨진"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "covered",
+        "meaning_ko": "덮인"
+      },
+      {
+        "word": "clothed",
+        "meaning_ko": "옷을 입은"
+      },
+      {
+        "word": "full",
+        "meaning_ko": "가득한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "bare feet",
+            "meaning_ko": "맨발"
+          },
+          {
+            "phrase": "bare hands",
+            "meaning_ko": "맨손"
+          },
+          {
+            "phrase": "bare minimum",
+            "meaning_ko": "최소한"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "bare facts",
+            "meaning_ko": "사실 그대로"
+          },
+          {
+            "phrase": "bare essentials",
+            "meaning_ko": "필수품"
+          },
+          {
+            "phrase": "bare room",
+            "meaning_ko": "빈 방"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "bare necessities",
+            "meaning_ko": "필수품"
+          },
+          {
+            "phrase": "bare truth",
+            "meaning_ko": "사실 그대로의 진실"
+          },
+          {
+            "phrase": "bare bones",
+            "meaning_ko": "핵심만"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She walked barefoot on the beach.",
+            "meaning_ko": "그녀는 해변에서 맨발로 걸었습니다."
+          },
+          {
+            "sentence": "The room was bare except for a bed.",
+            "meaning_ko": "그 방은 침대 하나를 제외하고는 비어 있었습니다."
+          },
+          {
+            "sentence": "He used his bare hands to open the jar.",
+            "meaning_ko": "그는 맨손으로 병을 열었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The report presented the bare facts without any interpretation.",
+            "meaning_ko": "그 보고서는 어떤 해석도 없이 사실 그대로를 제시했습니다."
+          },
+          {
+            "sentence": "They survived with only the bare essentials during the emergency.",
+            "meaning_ko": "그들은 응급 상황 동안 필수품만으로 생존했습니다."
+          },
+          {
+            "sentence": "The bare room reflected his minimalist lifestyle.",
+            "meaning_ko": "그 빈 방은 그의 미니멀한 생활 방식을 반영했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The investigation revealed the bare truth about the incident, stripping away all the layers of deception.",
+            "meaning_ko": "그 수사는 사건에 대한 사실 그대로의 진실을 드러냈고, 모든 속임의 층을 벗겨냈습니다."
+          },
+          {
+            "sentence": "The refugees arrived with only the bare necessities, having lost everything in the conflict.",
+            "meaning_ko": "그 난민들은 분쟁에서 모든 것을 잃고 필수품만 가지고 도착했습니다."
+          },
+          {
+            "sentence": "The presentation provided the bare bones of the proposal, leaving detailed discussion for later meetings.",
+            "meaning_ko": "그 발표는 제안의 핵심만 제공했고, 상세한 논의는 나중 회의로 남겨두었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "bare은 '벗은, 빈' 또는 '벗기다' 의미로, 형용사와 동사 모두로 쓰입니다. 형용사로는 '벗은, 빈', 동사로는 '벗기다' 의미입니다. bare feet, bare hands, bare minimum 같은 고정 결합을 함께 외우면 좋습니다. barely는 '거의 ~않게' 의미로 자주 쓰이므로 함께 외우면 좋습니다.",
+    "tags": [
+      "상태",
+      "일상 회화",
+      "중립",
+      "신체"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: bare (adj) = (A) covered (B) naked or empty (C) full (D) clothed",
+            "a": "B",
+            "meaning_ko": "bare(형용사)는 '벗은 또는 빈' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She walked _____foot on the beach.",
+            "a": "bare",
+            "meaning_ko": "barefoot는 '맨발로' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of bare? (A) naked (B) empty (C) covered (D) exposed",
+            "a": "C",
+            "meaning_ko": "covered(덮인)가 bare의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The room was _____. (A) bare (B) barely (C) bareness (D) bares",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 bare가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: bare (adj, empty) = (A) covered (B) empty (C) full (D) clothed",
+            "a": "B",
+            "meaning_ko": "empty(빈)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The report presented bare facts.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "bare facts는 '사실 그대로' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The investigation revealed the bare truth.'",
+            "a": "The inquiry exposed the unadorned and straightforward facts without any embellishment.",
+            "meaning_ko": "bare truth는 '사실 그대로의 진실'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They arrived with _____ necessities. (A) bare (B) barely (C) bareness (D) bares",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 bare가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses bare most appropriately? (A) The bare ran. (B) The room was bare. (C) She bare smiled. (D) Bare is good.",
+            "a": "B",
+            "meaning_ko": "bare은 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "skim",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "훑어보다, 대충 읽다; 빠르게 읽어서 요점만 파악하다.",
+        "note": "동사로는 '훑어보다', 명사로는 '훑어보기' 의미입니다."
+      },
+      {
+        "definition_ko": "걷다, 스치다; 표면을 가볍게 스치며 지나가다.",
+        "note": "동사로는 '스치다' 의미입니다."
+      },
+      {
+        "definition_ko": "걷기, 훑어보기; 표면을 가볍게 스치는 것 또는 빠르게 읽는 것.",
+        "note": "명사로는 '걷기, 훑어보기'를 의미합니다."
+      }
+    ],
+    "concept": "빠르게 읽어서 요점만 파악하거나 표면을 가볍게 스치는 것.",
+    "etymology": "고대 영어 scimian(걷다)에서 유래했으며, 원래는 '걷다' 의미였으나 현대에는 '훑어보다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '걷다' 의미였으나, 현대에는 '빠르게 읽어서 요점만 파악하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 타동사와 자동사 모두 가능하며, skim through/over + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "불가산명사(명사일 때)",
+    "prepositionPatterns": [
+      {
+        "prep": "through",
+        "meaning_ko": "~을 훑어보다",
+        "example": "skim through the book"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~을 대충 읽다",
+        "example": "skim over the report"
+      }
+    ],
+    "requiredComplements": [
+      "skim through/over + 명사 : ~을 훑어보다",
+      "skim + 명사 : ~을 훑어보다"
+    ],
+    "morphology": "고대 영어 scimian에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "skimming",
+        "meaning_ko": "훑어보는(현재분사)"
+      },
+      {
+        "word": "skimmed",
+        "meaning_ko": "훑어본(과거분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "scan",
+        "meaning_ko": "훑어보다"
+      },
+      {
+        "word": "glance",
+        "meaning_ko": "흘끗 보다"
+      },
+      {
+        "word": "browse",
+        "meaning_ko": "훑어보다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "scan",
+        "meaning_ko": "훑어보다"
+      },
+      {
+        "word": "glance",
+        "meaning_ko": "흘끗 보다"
+      },
+      {
+        "word": "browse",
+        "meaning_ko": "훑어보다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "read",
+        "meaning_ko": "읽다(범위가 더 넓음)"
+      },
+      {
+        "word": "peruse",
+        "meaning_ko": "자세히 읽다(반대 의미)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "study",
+        "meaning_ko": "공부하다"
+      },
+      {
+        "word": "examine",
+        "meaning_ko": "자세히 살펴보다"
+      },
+      {
+        "word": "scrutinize",
+        "meaning_ko": "자세히 검토하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "skim through",
+            "meaning_ko": "훑어보다"
+          },
+          {
+            "phrase": "skim over",
+            "meaning_ko": "대충 읽다"
+          },
+          {
+            "phrase": "skim the surface",
+            "meaning_ko": "표면을 스치다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "skim the book",
+            "meaning_ko": "책을 훑어보다"
+          },
+          {
+            "phrase": "skim the article",
+            "meaning_ko": "기사를 훑어보다"
+          },
+          {
+            "phrase": "skim the report",
+            "meaning_ko": "보고서를 훑어보다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "skim the document",
+            "meaning_ko": "문서를 훑어보다"
+          },
+          {
+            "phrase": "skim the text",
+            "meaning_ko": "텍스트를 훑어보다"
+          },
+          {
+            "phrase": "skim reading",
+            "meaning_ko": "훑어 읽기"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She skimmed through the book quickly.",
+            "meaning_ko": "그녀는 책을 빠르게 훑어봤습니다."
+          },
+          {
+            "sentence": "He skimmed over the report before the meeting.",
+            "meaning_ko": "그는 회의 전에 보고서를 대충 읽었습니다."
+          },
+          {
+            "sentence": "The stone skimmed across the water.",
+            "meaning_ko": "돌이 물 위를 스치며 지나갔습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The student skimmed the article to find the main points before writing the summary.",
+            "meaning_ko": "그 학생은 요약을 쓰기 전에 주요 포인트를 찾기 위해 기사를 훑어봤습니다."
+          },
+          {
+            "sentence": "I only had time to skim the document, so I'll need to read it more carefully later.",
+            "meaning_ko": "나는 문서를 훑어볼 시간만 있었으므로, 나중에 더 자세히 읽어야 합니다."
+          },
+          {
+            "sentence": "The manager skimmed through the proposals to identify the most promising ones.",
+            "meaning_ko": "그 관리자는 가장 유망한 것들을 식별하기 위해 제안서들을 훑어봤습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The researcher developed a technique for skim reading that allowed her to process large volumes of academic literature efficiently.",
+            "meaning_ko": "그 연구자는 대량의 학술 문헌을 효율적으로 처리할 수 있게 해주는 훑어 읽기 기법을 개발했습니다."
+          },
+          {
+            "sentence": "The lawyer skimmed the legal document, identifying key clauses that required detailed examination.",
+            "meaning_ko": "그 변호사는 법률 문서를 훑어보며 자세한 검토가 필요한 주요 조항들을 식별했습니다."
+          },
+          {
+            "sentence": "The editor's ability to skim through manuscripts quickly enabled her to evaluate numerous submissions in a short time.",
+            "meaning_ko": "그 편집자의 원고를 빠르게 훑어보는 능력은 그녀가 짧은 시간에 수많은 제출물을 평가할 수 있게 했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "skim은 '훑어보다, 대충 읽다' 또는 '스치다' 의미로, 동사와 명사 모두로 쓰입니다. scan, glance, browse와 비슷하지만 더 빠르게 읽어서 요점만 파악하는 뉘앙스가 있습니다. skim through/over ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "읽기",
+      "행동",
+      "일상 회화",
+      "학습",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: skim (verb) = (A) study carefully (B) read quickly or glance over (C) examine thoroughly (D) scrutinize",
+            "a": "B",
+            "meaning_ko": "skim(동사)는 '빠르게 읽거나 훑어보다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She _____ through the book quickly.",
+            "a": "skimmed",
+            "meaning_ko": "skim은 '훑어보다' 의미입니다."
+          },
+          {
+            "q": "Which phrase means 'read quickly'? (A) skim through (B) study carefully (C) examine thoroughly (D) scrutinize",
+            "a": "A",
+            "meaning_ko": "skim through는 '훑어보다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: skim _____ the report. (A) through (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "skim through ~는 '~을 훑어보다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: skim = (A) study (B) scan (C) examine (D) scrutinize",
+            "a": "B",
+            "meaning_ko": "scan(훑어보다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He skimmed the report before the meeting.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "skim은 타동사로 직접 목적어를 취할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The researcher developed a technique for skim reading.'",
+            "a": "The scholar created a method for reading quickly to grasp main points without detailed study.",
+            "meaning_ko": "skim reading는 '훑어 읽기'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The editor _____ through manuscripts. (A) skim (B) skimmed (C) skimming (D) skims",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 타동사 skimmed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses skim most appropriately? (A) The skim ran. (B) She skimmed the article. (C) He skim smiled. (D) Skim is good.",
+            "a": "B",
+            "meaning_ko": "skim은 타동사로 '~을 훑어보다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "efficient",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "효율적인, 능률적인; 시간이나 자원을 잘 활용하여 효과적으로 일하는.",
+        "note": "시간이나 자원을 잘 활용하여 효과적으로 일하는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "시간이나 자원을 잘 활용하여 효과적으로 일하는 효율적인 상태.",
+    "etymology": "라틴어 efficere(만들어내다)에서 유래했으며, 원래는 '만들어내다' 의미였으나 현대에는 '효율적인'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '만들어내다' 의미였으나, 현대에는 '시간이나 자원을 잘 활용하여 효과적으로 일하는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be efficient, efficient + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에 효율적인",
+        "example": "efficient at doing"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 효율적인",
+        "example": "efficient in use"
+      }
+    ],
+    "requiredComplements": [
+      "be efficient : 효율적이다",
+      "efficient + 명사 : 효율적인 ~",
+      "be efficient at/in + 명사/동명사 : ~에/~에서 효율적이다"
+    ],
+    "morphology": "라틴어 efficere에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "efficiently",
+        "meaning_ko": "효율적으로"
+      },
+      {
+        "word": "efficiency",
+        "meaning_ko": "효율성"
+      },
+      {
+        "word": "inefficient",
+        "meaning_ko": "비효율적인"
+      }
+    ],
+    "related": [
+      {
+        "word": "effective",
+        "meaning_ko": "효과적인"
+      },
+      {
+        "word": "productive",
+        "meaning_ko": "생산적인"
+      },
+      {
+        "word": "competent",
+        "meaning_ko": "유능한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "effective",
+        "meaning_ko": "효과적인"
+      },
+      {
+        "word": "productive",
+        "meaning_ko": "생산적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "competent",
+        "meaning_ko": "유능한(범위가 더 넓음)"
+      },
+      {
+        "word": "capable",
+        "meaning_ko": "능력 있는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "inefficient",
+        "meaning_ko": "비효율적인"
+      },
+      {
+        "word": "wasteful",
+        "meaning_ko": "낭비적인"
+      },
+      {
+        "word": "ineffective",
+        "meaning_ko": "비효과적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "efficient method",
+            "meaning_ko": "효율적인 방법"
+          },
+          {
+            "phrase": "efficient system",
+            "meaning_ko": "효율적인 시스템"
+          },
+          {
+            "phrase": "be efficient",
+            "meaning_ko": "효율적이다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "efficient use",
+            "meaning_ko": "효율적인 사용"
+          },
+          {
+            "phrase": "efficient process",
+            "meaning_ko": "효율적인 과정"
+          },
+          {
+            "phrase": "efficient management",
+            "meaning_ko": "효율적인 관리"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "efficient allocation",
+            "meaning_ko": "효율적인 배분"
+          },
+          {
+            "phrase": "efficient utilization",
+            "meaning_ko": "효율적인 활용"
+          },
+          {
+            "phrase": "cost-efficient",
+            "meaning_ko": "비용 효율적인"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The new system is more efficient than the old one.",
+            "meaning_ko": "새 시스템은 기존 것보다 더 효율적입니다."
+          },
+          {
+            "sentence": "She is very efficient at her job.",
+            "meaning_ko": "그녀는 자신의 일에 매우 효율적입니다."
+          },
+          {
+            "sentence": "We need to find a more efficient method.",
+            "meaning_ko": "우리는 더 효율적인 방법을 찾아야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company improved its efficient use of resources by implementing new technologies.",
+            "meaning_ko": "그 회사는 새 기술을 도입하여 자원의 효율적인 사용을 개선했습니다."
+          },
+          {
+            "sentence": "The efficient process reduced production time by half.",
+            "meaning_ko": "그 효율적인 과정은 생산 시간을 절반으로 줄였습니다."
+          },
+          {
+            "sentence": "Good efficient management is essential for the success of any organization.",
+            "meaning_ko": "좋은 효율적인 관리는 어떤 조직의 성공에 필수적입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The efficient allocation of resources across different departments maximized the organization's overall productivity.",
+            "meaning_ko": "다양한 부서에 걸친 자원의 효율적인 배분은 조직의 전체 생산성을 극대화했습니다."
+          },
+          {
+            "sentence": "The research focused on developing more efficient utilization of renewable energy sources to reduce environmental impact.",
+            "meaning_ko": "그 연구는 환경 영향을 줄이기 위해 재생 가능 에너지원의 더 효율적인 활용을 개발하는 데 집중했습니다."
+          },
+          {
+            "sentence": "The cost-efficient solution not only saved money but also improved the quality of service provided to customers.",
+            "meaning_ko": "그 비용 효율적인 해결책은 돈을 절약할 뿐만 아니라 고객에게 제공되는 서비스의 품질도 개선했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "efficient은 '효율적인, 능률적인' 의미로, 시간이나 자원을 잘 활용하여 효과적으로 일하는 상태를 가리킵니다. effective(효과적인)와 비슷하지만, efficient은 '낭비 없이 잘 활용하는' 뉘앙스가 더 강합니다. inefficient(비효율적인)와 대비해서 외우면 기억이 오래갑니다.",
+    "tags": [
+      "효율",
+      "비즈니스",
+      "일상 회화",
+      "긍정",
+      "성과"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: efficient = (A) wasteful (B) effective and productive (C) inefficient (D) ineffective",
+            "a": "B",
+            "meaning_ko": "efficient은 '효과적이고 생산적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The new system is more _____ than the old one.",
+            "a": "efficient",
+            "meaning_ko": "efficient은 '효율적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of efficient? (A) effective (B) productive (C) inefficient (D) competent",
+            "a": "C",
+            "meaning_ko": "inefficient(비효율적인)가 efficient의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: efficient _____ her job. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "efficient at ~는 '~에 효율적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: efficient = (A) wasteful (B) effective (C) inefficient (D) ineffective",
+            "a": "B",
+            "meaning_ko": "effective(효과적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She is very efficiently at her job.' → Fix the sentence.",
+            "a": "She is very efficient at her job.",
+            "meaning_ko": "be 동사 뒤에는 형용사 efficient이 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The efficient allocation maximized productivity.'",
+            "a": "The effective and productive distribution of resources reached the highest level of output.",
+            "meaning_ko": "efficient allocation는 '효율적인 배분'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ use improved results. (A) efficient (B) efficiently (C) efficiency (D) efficiencies",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 efficient이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses efficient most appropriately? (A) The efficient ran. (B) The system is efficient. (C) She efficient smiled. (D) Efficient is good.",
+            "a": "B",
+            "meaning_ko": "efficient은 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

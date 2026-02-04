@@ -1,0 +1,797 @@
+[
+  {
+    "word": "elongate",
+    "partOfSpeech": [
+      "verb",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "길게 하다, 연장하다; 길이를 늘리거나 연장하다.",
+        "note": "길이를 늘리거나 연장하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "길쭉한, 긴; 길이가 길거나 길쭉한.",
+        "note": "길이가 길거나 길쭉한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "길이를 늘리거나 연장하는 길게 하기, 또는 길이가 길거나 길쭉한 길쭉한 상태.",
+    "etymology": "라틴어 elongare(길게 하다)에서 유래했으며, e-(밖으로) + longus(긴)의 조합입니다.",
+    "semanticExtension": "원래는 '길게 하다' 의미였고, 현대에는 '길이가 길거나 길쭉한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 과학과 기술 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "동사로는 타동사로 쓰이며, elongate + 명사 형태로 자주 사용됩니다. 형용사로는 주로 명사를 수식하거나 서술어로 쓰이며, be elongate 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "elongate + 명사 : ~을 길게 하다",
+      "be elongate : 길쭉하다",
+      "elongate + 명사 : 길쭉한 ~"
+    ],
+    "morphology": "e-(밖으로) + longus(긴)의 조합으로, '밖으로 긴' 즉 '길게 하다' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "elongated",
+        "meaning_ko": "길게 한/길쭉한(과거분사/형용사)"
+      },
+      {
+        "word": "elongating",
+        "meaning_ko": "길게 하는(현재분사/형용사)"
+      },
+      {
+        "word": "elongation",
+        "meaning_ko": "연장"
+      }
+    ],
+    "related": [
+      {
+        "word": "lengthen",
+        "meaning_ko": "길게 하다"
+      },
+      {
+        "word": "extend",
+        "meaning_ko": "연장하다"
+      },
+      {
+        "word": "stretch",
+        "meaning_ko": "늘리다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "lengthen",
+        "meaning_ko": "길게 하다"
+      },
+      {
+        "word": "extend",
+        "meaning_ko": "연장하다"
+      },
+      {
+        "word": "stretch",
+        "meaning_ko": "늘리다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "prolong",
+        "meaning_ko": "연장하다(범위가 더 넓음)"
+      },
+      {
+        "word": "expand",
+        "meaning_ko": "확장하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "shorten",
+        "meaning_ko": "짧게 하다"
+      },
+      {
+        "word": "contract",
+        "meaning_ko": "수축하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "elongate shape",
+            "meaning_ko": "길쭉한 형태"
+          },
+          {
+            "phrase": "elongate body",
+            "meaning_ko": "길쭉한 몸"
+          },
+          {
+            "phrase": "elongate structure",
+            "meaning_ko": "길쭉한 구조"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "elongate object",
+            "meaning_ko": "길쭉한 물체"
+          },
+          {
+            "phrase": "elongate form",
+            "meaning_ko": "길쭉한 형태"
+          },
+          {
+            "phrase": "elongate process",
+            "meaning_ko": "연장 과정"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "elongate cell",
+            "meaning_ko": "길쭉한 세포"
+          },
+          {
+            "phrase": "elongate fiber",
+            "meaning_ko": "길쭉한 섬유"
+          },
+          {
+            "phrase": "elongate pattern",
+            "meaning_ko": "길쭉한 패턴"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The shape was elongated.",
+            "meaning_ko": "그 형태는 길쭉했습니다."
+          },
+          {
+            "sentence": "She elongated the rope.",
+            "meaning_ko": "그녀는 그 밧줄을 길게 했습니다."
+          },
+          {
+            "sentence": "The body was elongate.",
+            "meaning_ko": "그 몸은 길쭉했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The shape was elongated, with the form stretched to create a longer appearance, though the elongation would need to be maintained to preserve the extended dimensions.",
+            "meaning_ko": "그 형태는 길쭉했고, 그 형태가 더 긴 외관을 만들기 위해 늘어났지만, 그 연장은 확장된 치수를 보존하기 위해 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "She elongated the rope, stretching it to increase its length, though the extension would need to be secured to prevent it from returning to its original size.",
+            "meaning_ko": "그녀는 그 밧줄을 길게 했고, 그 길이를 증가시키기 위해 그것을 늘렸지만, 그 연장은 그것이 원래 크기로 돌아가는 것을 방지하기 위해 고정될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The body was elongate, with the structure having an extended form that was longer than it was wide, though this shape provided advantages for movement and function in certain environments.",
+            "meaning_ko": "그 몸은 길쭉했고, 그 구조가 그것이 넓은 것보다 더 긴 확장된 형태를 가지고 있었지만, 이 형태는 특정 환경에서 움직임과 기능에 이점을 제공했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The elongate cell structure provided advantages for nutrient transport, with the extended form creating a larger surface area that facilitated the movement of materials, though the shape also required adaptations to maintain structural integrity.",
+            "meaning_ko": "그 길쭉한 세포 구조는 영양소 운송에 이점을 제공했고, 그 확장된 형태가 재료의 이동을 촉진하는 더 큰 표면적을 만들었지만, 그 형태는 또한 구조적 무결성을 유지하기 위한 적응을 요구했습니다."
+          },
+          {
+            "sentence": "The elongate fiber arrangement created strength and flexibility, with the extended structure distributing forces effectively and allowing for movement, though the configuration required careful design to optimize performance.",
+            "meaning_ko": "그 길쭉한 섬유 배열은 강도와 유연성을 만들었고, 그 확장된 구조가 힘을 효과적으로 분산시키고 움직임을 허용했지만, 그 구성은 성능을 최적화하기 위해 신중한 설계를 요구했습니다."
+          },
+          {
+            "sentence": "The elongate pattern in the design created visual interest, with the extended forms creating a sense of movement and direction, though the pattern would need to be balanced with other elements to achieve aesthetic harmony.",
+            "meaning_ko": "그 디자인에서 그 길쭉한 패턴은 시각적 흥미를 만들었고, 그 확장된 형태가 움직임과 방향의 감각을 만들었지만, 그 패턴은 미적 조화를 달성하기 위해 다른 요소들과 균형을 맞춰야 할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "elongate는 '길게 하다, 연장하다' 또는 '길쭉한, 긴' 의미로, 길이를 늘리거나 연장하는 행동을 가리킵니다. lengthen, extend와 비슷하지만 더 과학적 뉘앙스가 있습니다. elongate shape, elongate body 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "과학",
+      "기술",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: elongate = (A) shorten (B) lengthen or extend (C) contract (D) reduce",
+            "a": "B",
+            "meaning_ko": "elongate는 '길게 하다 또는 연장하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The shape was _____.",
+            "a": "elongated",
+            "meaning_ko": "elongate는 '길게 하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of elongate? (A) lengthen (B) extend (C) shorten (D) stretch",
+            "a": "C",
+            "meaning_ko": "shorten(짧게 하다)가 elongate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She _____ the rope. (A) elongate (B) elongated (C) elongating (D) elongates",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 elongated가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: elongate = (A) shorten (B) lengthen (C) contract (D) reduce",
+            "a": "B",
+            "meaning_ko": "lengthen(길게 하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She elongate the rope.' → Fix the sentence.",
+            "a": "She elongated the rope.",
+            "meaning_ko": "과거 시제에서 과거형 elongated가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The shape was elongated.'",
+            "a": "The form was stretched to create a longer appearance, with the extension increasing the length and creating an extended dimension, though the elongation would need to be maintained to preserve the extended shape.",
+            "meaning_ko": "elongate는 '길게 하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The body was _____. (A) elongate (B) elongated (C) elongating (D) elongates",
+            "a": "A",
+            "meaning_ko": "형용사 elongate가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses elongate most appropriately? (A) The elongate ran. (B) The shape was elongated. (C) She elongate smiled. (D) Elongate is good.",
+            "a": "B",
+            "meaning_ko": "elongate는 동사로 '길게 하다'를 의미하며, 수동태로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "inchoate",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "초기의, 미완성의; 아직 완성되지 않았거나 초기 단계의.",
+        "note": "아직 완성되지 않았거나 초기 단계의 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "미발달한, 미성숙한; 아직 발달하지 않았거나 성숙하지 않은.",
+        "note": "아직 발달하지 않았거나 성숙하지 않은 상태를 가리킵니다."
+      }
+    ],
+    "concept": "아직 완성되지 않았거나 초기 단계의 초기의 상태, 또는 아직 발달하지 않았거나 성숙하지 않은 미발달한 상태.",
+    "etymology": "라틴어 inchoatus(시작된)에서 유래했으며, in-(안으로) + cohors(마당)의 조합입니다.",
+    "semanticExtension": "원래는 '시작된' 의미였고, 현대에는 '아직 완성되지 않았거나 초기 단계의' 또는 '아직 발달하지 않았거나 성숙하지 않은'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 학문과 문학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be inchoate 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be inchoate : 초기 단계이다",
+      "inchoate + 명사 : 초기의/미완성의 ~"
+    ],
+    "morphology": "in-(안으로) + cohors(마당)의 조합으로, '안으로 마당' 즉 '시작된' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "inchoately",
+        "meaning_ko": "초기적으로"
+      },
+      {
+        "word": "inchoateness",
+        "meaning_ko": "초기성"
+      }
+    ],
+    "related": [
+      {
+        "word": "incipient",
+        "meaning_ko": "초기의"
+      },
+      {
+        "word": "rudimentary",
+        "meaning_ko": "초보적인"
+      },
+      {
+        "word": "nascent",
+        "meaning_ko": "초기의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "incipient",
+        "meaning_ko": "초기의"
+      },
+      {
+        "word": "rudimentary",
+        "meaning_ko": "초보적인"
+      },
+      {
+        "word": "nascent",
+        "meaning_ko": "초기의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "embryonic",
+        "meaning_ko": "초기의(범위가 더 넓음)"
+      },
+      {
+        "word": "undeveloped",
+        "meaning_ko": "미발달한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "complete",
+        "meaning_ko": "완성된"
+      },
+      {
+        "word": "mature",
+        "meaning_ko": "성숙한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "inchoate idea",
+            "meaning_ko": "초기 아이디어"
+          },
+          {
+            "phrase": "inchoate plan",
+            "meaning_ko": "초기 계획"
+          },
+          {
+            "phrase": "inchoate stage",
+            "meaning_ko": "초기 단계"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "inchoate concept",
+            "meaning_ko": "초기 개념"
+          },
+          {
+            "phrase": "inchoate theory",
+            "meaning_ko": "초기 이론"
+          },
+          {
+            "phrase": "inchoate development",
+            "meaning_ko": "초기 발전"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "inchoate formation",
+            "meaning_ko": "초기 형성"
+          },
+          {
+            "phrase": "inchoate structure",
+            "meaning_ko": "초기 구조"
+          },
+          {
+            "phrase": "inchoate process",
+            "meaning_ko": "초기 과정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The idea was inchoate.",
+            "meaning_ko": "그 아이디어는 초기 단계였습니다."
+          },
+          {
+            "sentence": "She had an inchoate plan.",
+            "meaning_ko": "그녀는 초기 계획을 가지고 있었습니다."
+          },
+          {
+            "sentence": "The concept remained inchoate.",
+            "meaning_ko": "그 개념은 초기 단계로 남아있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The idea was inchoate, with the concept still in its early stages and requiring further development to become fully formed, though the initial thoughts provided a foundation for future work.",
+            "meaning_ko": "그 아이디어는 초기 단계였고, 그 개념이 여전히 초기 단계에 있고 완전히 형성되기 위해 추가 개발을 요구했지만, 초기 생각이 미래 작업을 위한 기초를 제공했습니다."
+          },
+          {
+            "sentence": "She had an inchoate plan, with the strategy still being developed and not yet fully formed, though the preliminary outline provided a starting point for more detailed planning.",
+            "meaning_ko": "그녀는 초기 계획을 가지고 있었고, 그 전략이 여전히 개발되고 있고 아직 완전히 형성되지 않았지만, 예비 개요가 더 상세한 계획을 위한 시작점을 제공했습니다."
+          },
+          {
+            "sentence": "The concept remained inchoate, with the idea still in its formative stages and requiring additional work to reach maturity, though the early development showed promise for future advancement.",
+            "meaning_ko": "그 개념은 초기 단계로 남아있었고, 그 아이디어가 여전히 형성 단계에 있고 성숙에 도달하기 위해 추가 작업을 요구했지만, 초기 개발이 미래 발전에 대한 약속을 보여주었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The inchoate formation of the organization required careful nurturing, with the early structure needing support and development to reach full maturity, though the initial framework provided a basis for growth and expansion.",
+            "meaning_ko": "그 조직의 그 초기 형성은 신중한 육성이 필요했고, 그 초기 구조가 완전한 성숙에 도달하기 위해 지원과 개발을 필요로 했지만, 그 초기 프레임워크가 성장과 확장을 위한 기초를 제공했습니다."
+          },
+          {
+            "sentence": "The inchoate structure of the theory needed further elaboration, with the early framework requiring additional development and refinement to become a complete and coherent system, though the initial concepts showed potential for significant contributions.",
+            "meaning_ko": "그 이론의 그 초기 구조는 추가 설명이 필요했고, 그 초기 프레임워크가 완전하고 일관된 시스템이 되기 위해 추가 개발과 정제를 요구했지만, 초기 개념이 중요한 기여에 대한 잠재력을 보여주었습니다."
+          },
+          {
+            "sentence": "The inchoate process of development required ongoing attention, with the early stages needing careful management and support to ensure proper progression, though the initial phases showed signs of potential success if properly guided.",
+            "meaning_ko": "그 발전의 그 초기 과정은 지속적인 주의를 요구했고, 그 초기 단계가 적절한 진행을 보장하기 위해 신중한 관리와 지원을 필요로 했지만, 초기 단계는 적절히 안내되면 잠재적 성공의 징후를 보여주었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "inchoate는 '초기의, 미완성의' 또는 '미발달한, 미성숙한' 의미로, 아직 완성되지 않았거나 초기 단계의 상태를 가리킵니다. incipient, rudimentary와 비슷하지만 더 학문적 뉘앙스가 있습니다. inchoate idea, inchoate plan 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "학문",
+      "문학",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 9,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: inchoate = (A) complete (B) incipient or undeveloped (C) mature (D) finished",
+            "a": "B",
+            "meaning_ko": "inchoate는 '초기의 또는 미발달한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The idea was _____.",
+            "a": "inchoate",
+            "meaning_ko": "inchoate는 '초기의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of inchoate? (A) incipient (B) rudimentary (C) complete (D) nascent",
+            "a": "C",
+            "meaning_ko": "complete(완성된)가 inchoate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She had an _____ plan. (A) inchoate (B) inchoately (C) inchoateness (D) inchoate's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 inchoate가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: inchoate = (A) complete (B) incipient (C) mature (D) finished",
+            "a": "B",
+            "meaning_ko": "incipient(초기의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The idea was inchoately.' → Fix the sentence.",
+            "a": "The idea was inchoate.",
+            "meaning_ko": "서술어로 형용사 inchoate가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The idea was inchoate.'",
+            "a": "The concept was still in its early stages and not yet fully formed, with the idea requiring further development to reach maturity, though the initial thoughts provided a foundation for future work.",
+            "meaning_ko": "inchoate는 '초기의' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The concept remained _____. (A) inchoate (B) inchoately (C) inchoateness (D) inchoate's",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 inchoate가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses inchoate most appropriately? (A) The inchoate ran. (B) The idea was inchoate. (C) She inchoate smiled. (D) Inchoate is good.",
+            "a": "B",
+            "meaning_ko": "inchoate는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "charlatan",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "사기꾼, 속임수꾼; 전문 지식이나 능력이 없으면서 전문가인 척하는 사람.",
+        "note": "전문 지식이나 능력이 없으면서 전문가인 척하는 사람을 가리킵니다."
+      },
+      {
+        "definition_ko": "돌팔이, 허풍쟁이; 허위 주장을 하거나 사기를 치는 사람.",
+        "note": "허위 주장을 하거나 사기를 치는 사람을 가리킵니다."
+      }
+    ],
+    "concept": "전문 지식이나 능력이 없으면서 전문가인 척하는 사기꾼, 또는 허위 주장을 하거나 사기를 치는 돌팔이.",
+    "etymology": "이탈리아어 ciarlatano(사기꾼)에서 유래했으며, 원래는 '사기꾼' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래는 '사기꾼' 의미였고, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 비판적 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사로 쓰이며, charlatan 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "charlatan : 사기꾼/돌팔이"
+    ],
+    "morphology": "이탈리아어 ciarlatano에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "charlatanism",
+        "meaning_ko": "사기꾼 행위"
+      },
+      {
+        "word": "charlatanry",
+        "meaning_ko": "사기꾼 행위"
+      }
+    ],
+    "related": [
+      {
+        "word": "fraud",
+        "meaning_ko": "사기꾼"
+      },
+      {
+        "word": "impostor",
+        "meaning_ko": "사기꾼"
+      },
+      {
+        "word": "quack",
+        "meaning_ko": "돌팔이"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "fraud",
+        "meaning_ko": "사기꾼"
+      },
+      {
+        "word": "impostor",
+        "meaning_ko": "사기꾼"
+      },
+      {
+        "word": "quack",
+        "meaning_ko": "돌팔이"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "swindler",
+        "meaning_ko": "사기꾼(범위가 더 넓음)"
+      },
+      {
+        "word": "deceiver",
+        "meaning_ko": "속임수꾼"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "expert",
+        "meaning_ko": "전문가"
+      },
+      {
+        "word": "professional",
+        "meaning_ko": "전문가"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "medical charlatan",
+            "meaning_ko": "의료 사기꾼"
+          },
+          {
+            "phrase": "charlatan doctor",
+            "meaning_ko": "돌팔이 의사"
+          },
+          {
+            "phrase": "expose charlatan",
+            "meaning_ko": "사기꾼을 폭로하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "charlatan healer",
+            "meaning_ko": "돌팔이 치료사"
+          },
+          {
+            "phrase": "charlatan practitioner",
+            "meaning_ko": "돌팔이 실무자"
+          },
+          {
+            "phrase": "charlatan scheme",
+            "meaning_ko": "사기꾼 계획"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "charlatan deception",
+            "meaning_ko": "사기꾼 기만"
+          },
+          {
+            "phrase": "charlatan fraud",
+            "meaning_ko": "사기꾼 사기"
+          },
+          {
+            "phrase": "charlatan pretension",
+            "meaning_ko": "사기꾼 허위 주장"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was exposed as a charlatan.",
+            "meaning_ko": "그는 사기꾼으로 폭로되었습니다."
+          },
+          {
+            "sentence": "The charlatan deceived many people.",
+            "meaning_ko": "그 사기꾼은 많은 사람들을 속였습니다."
+          },
+          {
+            "sentence": "She recognized the charlatan.",
+            "meaning_ko": "그녀는 그 사기꾼을 알아봤습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was exposed as a charlatan, with his false claims and lack of genuine expertise being revealed, though the deception had already caused harm to those who had trusted him.",
+            "meaning_ko": "그는 사기꾼으로 폭로되었고, 그의 허위 주장과 진정한 전문성의 부족이 드러났지만, 그 기만은 이미 그를 신뢰했던 사람들에게 피해를 일으켰습니다."
+          },
+          {
+            "sentence": "The charlatan deceived many people, with his false pretensions and fraudulent practices leading to financial loss and disappointment, though eventually his true nature would be discovered.",
+            "meaning_ko": "그 사기꾼은 많은 사람들을 속였고, 그의 허위 주장과 사기 관행이 재정적 손실과 실망으로 이어졌지만, 결국 그의 진정한 본성이 발견될 것입니다."
+          },
+          {
+            "sentence": "She recognized the charlatan, with her knowledge and experience allowing her to see through the false claims and identify the lack of genuine expertise, though others might still be deceived.",
+            "meaning_ko": "그녀는 그 사기꾼을 알아봤고, 그녀의 지식과 경험이 그녀가 허위 주장을 간파하고 진정한 전문성의 부족을 식별할 수 있게 했지만, 다른 사람들은 여전히 속임을 당할 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The charlatan deception was carefully orchestrated, with the fraudster using sophisticated techniques to create an appearance of expertise and credibility, though the elaborate scheme would eventually be uncovered through investigation and the presentation of evidence.",
+            "meaning_ko": "그 사기꾼 기만은 신중하게 조직되었고, 그 사기꾼이 전문성과 신뢰성의 외관을 만들기 위해 정교한 기술을 사용했지만, 그 정교한 계획은 결국 조사와 증거의 제시를 통해 발견될 것입니다."
+          },
+          {
+            "sentence": "The charlatan fraud targeted vulnerable individuals, with the scammer exploiting trust and desperation to extract money and resources, though the illegal activities would eventually lead to legal consequences and prosecution.",
+            "meaning_ko": "그 사기꾼 사기는 취약한 개인들을 목표로 했고, 그 사기꾼이 신뢰와 절망을 악용하여 돈과 자원을 추출했지만, 그 불법 활동은 결국 법적 결과와 기소로 이어질 것입니다."
+          },
+          {
+            "sentence": "The charlatan pretension of expertise was maintained through elaborate deception, with the fraudster creating false credentials and using persuasive techniques to convince others of their qualifications, though the lack of genuine knowledge would eventually be exposed.",
+            "meaning_ko": "전문성에 대한 그 사기꾼 허위 주장은 정교한 기만을 통해 유지되었고, 그 사기꾼이 허위 자격을 만들고 설득적 기술을 사용하여 다른 사람들에게 그들의 자격을 확신시켰지만, 진정한 지식의 부족은 결국 폭로될 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "charlatan는 '사기꾼, 속임수꾼' 또는 '돌팔이, 허풍쟁이' 의미로, 전문 지식이나 능력이 없으면서 전문가인 척하는 사람을 가리킵니다. fraud, impostor와 비슷하지만 더 강한 뉘앙스가 있습니다. medical charlatan, expose charlatan 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: charlatan = (A) expert (B) fraud or impostor (C) professional (D) specialist",
+            "a": "B",
+            "meaning_ko": "charlatan는 '사기꾼 또는 속임수꾼' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was exposed as a _____.",
+            "a": "charlatan",
+            "meaning_ko": "charlatan는 '사기꾼'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of charlatan? (A) fraud (B) impostor (C) expert (D) quack",
+            "a": "C",
+            "meaning_ko": "expert(전문가)가 charlatan의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ deceived many people. (A) charlatan (B) charlatans (C) charlatan's (D) charlataned",
+            "a": "A",
+            "meaning_ko": "명사 charlatan가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: charlatan = (A) expert (B) fraud (C) professional (D) specialist",
+            "a": "B",
+            "meaning_ko": "fraud(사기꾼)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He was exposed as charlatan.' → Fix the article.",
+            "a": "He was exposed as a charlatan.",
+            "meaning_ko": "가산명사이므로 관사 a가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was exposed as a charlatan.'",
+            "a": "His true nature as a fraud was revealed, with his false claims and lack of genuine expertise being uncovered, though the deception had already caused harm to those who had trusted him.",
+            "meaning_ko": "charlatan는 '사기꾼'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: She recognized the _____. (A) charlatan (B) charlatans (C) charlatan's (D) charlataned",
+            "a": "A",
+            "meaning_ko": "명사 charlatan가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses charlatan most appropriately? (A) The charlatan ran. (B) He was exposed as a charlatan. (C) She charlatan smiled. (D) Charlatan is good.",
+            "a": "B",
+            "meaning_ko": "charlatan는 명사로 '사기꾼'을 의미하며, 사람을 나타낼 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

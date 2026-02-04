@@ -1,0 +1,824 @@
+[
+  {
+    "word": "bliss",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "극도의 행복, 천국 같은 기쁨; 완벽한 행복과 기쁨의 상태.",
+        "note": "완벽한 행복과 기쁨의 상태를 가리킵니다."
+      }
+    ],
+    "concept": "완벽한 행복과 기쁨의 극도의 상태.",
+    "etymology": "고대 영어 blis(기쁨)에서 유래했으며, 원래는 '기쁨' 의미였으나 현대에는 '극도의 행복'으로 의미가 강화되었습니다.",
+    "semanticExtension": "원래는 '기쁨' 의미였으나, 현대에는 '완벽한 행복, 천국 같은 기쁨'으로 의미가 강화되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학적 뉘앙스가 있습니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, a bliss, blisses 형태는 드뭅니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "in bliss : 행복한 상태에서",
+      "bliss of + 명사 : ~의 행복"
+    ],
+    "morphology": "고대 영어 blis에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "blissful",
+        "meaning_ko": "행복한"
+      },
+      {
+        "word": "blissfully",
+        "meaning_ko": "행복하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "happiness",
+        "meaning_ko": "행복"
+      },
+      {
+        "word": "joy",
+        "meaning_ko": "기쁨"
+      },
+      {
+        "word": "ecstasy",
+        "meaning_ko": "황홀"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ecstasy",
+        "meaning_ko": "황홀"
+      },
+      {
+        "word": "rapture",
+        "meaning_ko": "황홀"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "happiness",
+        "meaning_ko": "행복(범위가 더 넓음)"
+      },
+      {
+        "word": "joy",
+        "meaning_ko": "기쁨(강도가 덜함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "misery",
+        "meaning_ko": "고통"
+      },
+      {
+        "word": "suffering",
+        "meaning_ko": "고통"
+      },
+      {
+        "word": "anguish",
+        "meaning_ko": "고뇌"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pure bliss",
+            "meaning_ko": "순수한 행복"
+          },
+          {
+            "phrase": "in bliss",
+            "meaning_ko": "행복한 상태에서"
+          },
+          {
+            "phrase": "bliss of love",
+            "meaning_ko": "사랑의 행복"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "domestic bliss",
+            "meaning_ko": "가정의 행복"
+          },
+          {
+            "phrase": "wedded bliss",
+            "meaning_ko": "결혼의 행복"
+          },
+          {
+            "phrase": "ignorant bliss",
+            "meaning_ko": "무지의 행복"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "perfect bliss",
+            "meaning_ko": "완벽한 행복"
+          },
+          {
+            "phrase": "spiritual bliss",
+            "meaning_ko": "영적 행복"
+          },
+          {
+            "phrase": "bliss of ignorance",
+            "meaning_ko": "무지의 행복"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They lived in bliss for many years.",
+            "meaning_ko": "그들은 수년간 행복하게 살았습니다."
+          },
+          {
+            "sentence": "The vacation was pure bliss.",
+            "meaning_ko": "그 휴가는 순수한 행복이었습니다."
+          },
+          {
+            "sentence": "She found bliss in her new job.",
+            "meaning_ko": "그녀는 새 직장에서 행복을 찾았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The couple enjoyed years of domestic bliss after their marriage.",
+            "meaning_ko": "그 부부는 결혼 후 수년간 가정의 행복을 누렸습니다."
+          },
+          {
+            "sentence": "Some people prefer the ignorant bliss of not knowing the truth.",
+            "meaning_ko": "일부 사람들은 진실을 모르는 무지의 행복을 선호합니다."
+          },
+          {
+            "sentence": "The artist found bliss in the creative process.",
+            "meaning_ko": "그 예술가는 창작 과정에서 행복을 찾았습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The philosopher argued that perfect bliss is unattainable in the material world, existing only in the realm of pure thought.",
+            "meaning_ko": "그 철학자는 완벽한 행복은 물질 세계에서는 달성 불가능하며, 순수한 사고의 영역에만 존재한다고 주장했습니다."
+          },
+          {
+            "sentence": "Through meditation, the practitioner sought to achieve spiritual bliss that transcended ordinary human experience.",
+            "meaning_ko": "명상을 통해 그 수행자는 평범한 인간 경험을 초월한 영적 행복을 달성하려고 했습니다."
+          },
+          {
+            "sentence": "The bliss of ignorance, while comforting, prevents individuals from confronting difficult truths about themselves and the world.",
+            "meaning_ko": "무지의 행복은 편안하지만, 개인들이 자신과 세계에 대한 어려운 진실을 직면하는 것을 막습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "bliss는 '극도의 행복, 천국 같은 기쁨' 의미로, 완벽한 행복 상태를 가리킵니다. happiness, joy보다 강한 뉘앙스이며, 문학적 표현에서 자주 쓰입니다. pure bliss, domestic bliss 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "감정",
+      "행복",
+      "문학",
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: bliss = (A) sadness (B) extreme happiness (C) anger (D) fear",
+            "a": "B",
+            "meaning_ko": "bliss는 '극도의 행복' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They lived in _____ for many years.",
+            "a": "bliss",
+            "meaning_ko": "bliss는 '행복'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of bliss? (A) happiness (B) joy (C) misery (D) ecstasy",
+            "a": "C",
+            "meaning_ko": "misery(고통)가 bliss의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The vacation was pure _____. (A) bliss (B) blissful (C) blissfully (D) blisses",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 bliss가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: bliss = (A) sadness (B) ecstasy (C) anger (D) fear",
+            "a": "B",
+            "meaning_ko": "ecstasy(황홀)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They lived in blisses.' → Fix the sentence.",
+            "a": "They lived in bliss.",
+            "meaning_ko": "bliss는 불가산명사이므로 복수형을 쓰지 않습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They enjoyed years of domestic bliss.'",
+            "a": "They experienced many years of perfect happiness in their home life.",
+            "meaning_ko": "domestic bliss는 '가정의 행복'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of ignorance prevents truth. (A) bliss (B) blissful (C) blissfully (D) blisses",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 bliss가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses bliss most appropriately? (A) The bliss ran. (B) They lived in bliss. (C) She bliss smiled. (D) Bliss is good.",
+            "a": "B",
+            "meaning_ko": "bliss는 명사로 '행복한 상태'를 의미하며, in과 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "prompt",
+    "partOfSpeech": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "즉각적인, 신속한; 지연 없이 바로 행동하는.",
+        "note": "형용사로는 '즉각적인', 동사로는 '촉진하다/제시하다', 명사로는 '프롬프트' 의미입니다."
+      },
+      {
+        "definition_ko": "촉진하다, 유도하다; 어떤 행동이나 반응을 유도하다.",
+        "note": "동사로는 '촉진하다' 의미입니다."
+      },
+      {
+        "definition_ko": "제시하다, 프롬프트하다; 대화나 행동을 이끌어내기 위해 제시하다.",
+        "note": "동사로는 '제시하다' 의미입니다."
+      },
+      {
+        "definition_ko": "프롬프트, 지시문; 대화나 행동을 이끌어내기 위해 제시하는 지시문.",
+        "note": "명사로는 '프롬프트'를 의미합니다."
+      }
+    ],
+    "concept": "지연 없이 바로 행동하는 즉각적인 상태, 또는 어떤 행동이나 반응을 유도하는 것.",
+    "etymology": "라틴어 promptus(앞으로 나온, 준비된)에서 유래했으며, 원래는 '준비된' 의미였으나 현대에는 '즉각적인'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '준비된' 의미였으나, 현대에는 '즉각적인' 또는 '촉진하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 명사를 수식하거나 서술어로 쓰이며, 동사로는 타동사로 prompt + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~하도록 유도하다",
+        "example": "prompt someone to do"
+      }
+    ],
+    "requiredComplements": [
+      "prompt + 명사 : ~을 촉진하다",
+      "prompt + 명사 + to + 동사 : ~에게 ~하도록 유도하다"
+    ],
+    "morphology": "라틴어 promptus에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "promptly",
+        "meaning_ko": "즉각적으로"
+      },
+      {
+        "word": "promptness",
+        "meaning_ko": "신속함"
+      }
+    ],
+    "related": [
+      {
+        "word": "quick",
+        "meaning_ko": "빠른"
+      },
+      {
+        "word": "immediate",
+        "meaning_ko": "즉각적인"
+      },
+      {
+        "word": "urge",
+        "meaning_ko": "촉구하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "immediate",
+        "meaning_ko": "즉각적인(형용사 의미에서)"
+      },
+      {
+        "word": "quick",
+        "meaning_ko": "빠른"
+      },
+      {
+        "word": "urge",
+        "meaning_ko": "촉구하다(동사 의미에서)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "fast",
+        "meaning_ko": "빠른(범위가 더 넓음)"
+      },
+      {
+        "word": "encourage",
+        "meaning_ko": "격려하다(강도가 덜함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "delayed",
+        "meaning_ko": "지연된"
+      },
+      {
+        "word": "slow",
+        "meaning_ko": "느린"
+      },
+      {
+        "word": "tardy",
+        "meaning_ko": "느린"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "prompt response",
+            "meaning_ko": "즉각적인 응답"
+          },
+          {
+            "phrase": "prompt action",
+            "meaning_ko": "즉각적인 행동"
+          },
+          {
+            "phrase": "prompt someone to do",
+            "meaning_ko": "누군가에게 ~하도록 유도하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "prompt payment",
+            "meaning_ko": "즉각적인 지불"
+          },
+          {
+            "phrase": "prompt attention",
+            "meaning_ko": "즉각적인 주의"
+          },
+          {
+            "phrase": "prompt decision",
+            "meaning_ko": "즉각적인 결정"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "prompt intervention",
+            "meaning_ko": "즉각적인 개입"
+          },
+          {
+            "phrase": "prompt delivery",
+            "meaning_ko": "즉각적인 배송"
+          },
+          {
+            "phrase": "prompt investigation",
+            "meaning_ko": "즉각적인 조사"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She gave a prompt response to the question.",
+            "meaning_ko": "그녀는 그 질문에 즉각적으로 응답했습니다."
+          },
+          {
+            "sentence": "The situation required prompt action.",
+            "meaning_ko": "그 상황은 즉각적인 행동을 요구했습니다."
+          },
+          {
+            "sentence": "His words prompted her to leave.",
+            "meaning_ko": "그의 말이 그녀가 떠나도록 유도했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company expects prompt payment from all customers.",
+            "meaning_ko": "그 회사는 모든 고객으로부터 즉각적인 지불을 기대합니다."
+          },
+          {
+            "sentence": "The emergency required prompt attention from medical staff.",
+            "meaning_ko": "그 응급 상황은 의료진의 즉각적인 주의를 요구했습니다."
+          },
+          {
+            "sentence": "The incident prompted a prompt decision from the management.",
+            "meaning_ko": "그 사건은 경영진의 즉각적인 결정을 촉진했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The crisis demanded prompt intervention from international organizations to prevent further escalation.",
+            "meaning_ko": "그 위기는 추가 확산을 막기 위해 국제 기구의 즉각적인 개입을 요구했습니다."
+          },
+          {
+            "sentence": "The new policy prompted widespread discussion among stakeholders about its potential implications.",
+            "meaning_ko": "새 정책은 잠재적 함의에 대해 이해관계자들 사이에서 광범위한 논의를 촉진했습니다."
+          },
+          {
+            "sentence": "The research findings prompted a prompt investigation into the safety protocols of the industry.",
+            "meaning_ko": "그 연구 결과는 산업의 안전 프로토콜에 대한 즉각적인 조사를 촉진했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "prompt은 '즉각적인' 또는 '촉진하다' 의미로, 형용사·동사·명사 모두로 쓰입니다. 형용사로는 '즉각적인', 동사로는 '촉진하다', 명사로는 '프롬프트' 의미입니다. prompt response, prompt action 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "시간",
+      "행동",
+      "일상 회화",
+      "비즈니스",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: prompt (adj) = (A) slow (B) immediate and quick (C) delayed (D) tardy",
+            "a": "B",
+            "meaning_ko": "prompt(형용사)는 '즉각적이고 빠른' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She gave a _____ response to the question.",
+            "a": "prompt",
+            "meaning_ko": "prompt은 '즉각적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of prompt? (A) quick (B) immediate (C) slow (D) fast",
+            "a": "C",
+            "meaning_ko": "slow(느린)가 prompt의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: The situation required _____ action. (A) prompt (B) promptly (C) promptness (D) prompts",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 prompt가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: prompt (adj) = (A) slow (B) immediate (C) delayed (D) tardy",
+            "a": "B",
+            "meaning_ko": "immediate(즉각적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'His words prompted her leave.' → Fix the sentence.",
+            "a": "His words prompted her to leave.",
+            "meaning_ko": "prompt someone to do ~ 패턴을 사용해야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The crisis demanded prompt intervention.'",
+            "a": "The emergency situation required immediate action from relevant parties.",
+            "meaning_ko": "prompt intervention은 '즉각적인 개입'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The findings _____ discussion. (A) prompt (B) prompted (C) prompting (D) prompts",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 타동사 prompted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses prompt most appropriately? (A) The prompt ran. (B) The response was prompt. (C) She prompt smiled. (D) Prompt is good.",
+            "a": "B",
+            "meaning_ko": "prompt은 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "harmful",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "해로운, 유해한; 피해를 주거나 나쁜 영향을 미치는.",
+        "note": "피해를 주거나 나쁜 영향을 미치는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "피해를 주거나 나쁜 영향을 미치는 해로운 상태.",
+    "etymology": "harm(해) + -ful(가득한)의 결합으로, '해가 가득한'에서 '해로운'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '해가 가득한' 의미였으나, 현대에는 '해로운, 유해한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be harmful to/for + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 해로운",
+        "example": "harmful to health"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~에게 해로운",
+        "example": "harmful for children"
+      }
+    ],
+    "requiredComplements": [
+      "be harmful to/for + 명사 : ~에게 해로운",
+      "harmful + 명사 : 해로운 ~"
+    ],
+    "morphology": "harm(해) + -ful(가득한)의 결합으로, '해가 가득한'에서 '해로운'으로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "harmfully",
+        "meaning_ko": "해롭게"
+      },
+      {
+        "word": "harmfulness",
+        "meaning_ko": "해로움"
+      }
+    ],
+    "related": [
+      {
+        "word": "damaging",
+        "meaning_ko": "손상시키는"
+      },
+      {
+        "word": "dangerous",
+        "meaning_ko": "위험한"
+      },
+      {
+        "word": "toxic",
+        "meaning_ko": "독성의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "damaging",
+        "meaning_ko": "손상시키는"
+      },
+      {
+        "word": "detrimental",
+        "meaning_ko": "해로운"
+      },
+      {
+        "word": "injurious",
+        "meaning_ko": "해로운"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "dangerous",
+        "meaning_ko": "위험한(범위가 더 넓음)"
+      },
+      {
+        "word": "toxic",
+        "meaning_ko": "독성의(강도가 더 강함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "harmless",
+        "meaning_ko": "해롭지 않은"
+      },
+      {
+        "word": "beneficial",
+        "meaning_ko": "유익한"
+      },
+      {
+        "word": "helpful",
+        "meaning_ko": "도움이 되는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "harmful effects",
+            "meaning_ko": "해로운 효과"
+          },
+          {
+            "phrase": "harmful to health",
+            "meaning_ko": "건강에 해로운"
+          },
+          {
+            "phrase": "harmful substance",
+            "meaning_ko": "유해 물질"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "harmful chemicals",
+            "meaning_ko": "유해 화학물질"
+          },
+          {
+            "phrase": "harmful impact",
+            "meaning_ko": "해로운 영향"
+          },
+          {
+            "phrase": "harmful behavior",
+            "meaning_ko": "해로운 행동"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "harmful consequences",
+            "meaning_ko": "해로운 결과"
+          },
+          {
+            "phrase": "harmful radiation",
+            "meaning_ko": "유해 방사선"
+          },
+          {
+            "phrase": "potentially harmful",
+            "meaning_ko": "잠재적으로 해로운"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Smoking is harmful to your health.",
+            "meaning_ko": "흡연은 건강에 해롭습니다."
+          },
+          {
+            "sentence": "The chemical has harmful effects.",
+            "meaning_ko": "그 화학물질은 해로운 효과가 있습니다."
+          },
+          {
+            "sentence": "This substance is harmful for children.",
+            "meaning_ko": "이 물질은 아이들에게 해롭습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The factory released harmful chemicals into the environment.",
+            "meaning_ko": "그 공장은 환경에 유해 화학물질을 배출했습니다."
+          },
+          {
+            "sentence": "The study revealed the harmful impact of excessive screen time on children's development.",
+            "meaning_ko": "그 연구는 과도한 화면 시간이 아이들의 발달에 미치는 해로운 영향을 밝혔습니다."
+          },
+          {
+            "sentence": "Parents should monitor their children's online activities to prevent harmful behavior.",
+            "meaning_ko": "부모는 해로운 행동을 방지하기 위해 아이들의 온라인 활동을 모니터링해야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The research documented the harmful consequences of long-term exposure to environmental pollutants on public health.",
+            "meaning_ko": "그 연구는 환경 오염물질에 장기간 노출되는 것이 공중 보건에 미치는 해로운 결과를 문서화했습니다."
+          },
+          {
+            "sentence": "Regulatory agencies work to identify and mitigate potentially harmful radiation levels in consumer products.",
+            "meaning_ko": "규제 기관은 소비자 제품의 잠재적으로 해로운 방사선 수준을 식별하고 완화하기 위해 노력합니다."
+          },
+          {
+            "sentence": "The policy aims to reduce harmful emissions from industrial sources through stricter environmental standards.",
+            "meaning_ko": "그 정책은 더 엄격한 환경 기준을 통해 산업원에서 나오는 유해 배출을 줄이는 것을 목표로 합니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "harmful은 '해로운, 유해한' 의미로, 피해를 주거나 나쁜 영향을 미치는 상태를 가리킵니다. harmless(해롭지 않은)와 대비해서 외우면 기억이 오래갑니다. be harmful to/for ~ 패턴을 함께 외우면 실전에서 바로 활용할 수 있습니다.",
+    "tags": [
+      "건강",
+      "환경",
+      "일상 회화",
+      "과학",
+      "부정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: harmful = (A) helpful (B) damaging or dangerous (C) beneficial (D) safe",
+            "a": "B",
+            "meaning_ko": "harmful은 '손상시키거나 위험한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Smoking is _____ to your health.",
+            "a": "harmful",
+            "meaning_ko": "harmful은 '해로운' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of harmful? (A) damaging (B) dangerous (C) harmless (D) toxic",
+            "a": "C",
+            "meaning_ko": "harmless(해롭지 않은)가 harmful의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: harmful _____ health. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "harmful to ~는 '~에게 해로운' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: harmful = (A) helpful (B) damaging (C) beneficial (D) safe",
+            "a": "B",
+            "meaning_ko": "damaging(손상시키는)이 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The substance is harmful for children.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "harmful for ~는 '~에게 해로운' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The chemical has harmful effects.'",
+            "a": "The substance causes damaging or dangerous consequences.",
+            "meaning_ko": "harmful effects는 '해로운 효과'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The radiation is potentially _____. (A) harmful (B) harmfully (C) harmfulness (D) harms",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 harmful이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses harmful most appropriately? (A) The harmful ran. (B) The effects are harmful. (C) She harmful smiled. (D) Harmful is good.",
+            "a": "B",
+            "meaning_ko": "harmful은 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

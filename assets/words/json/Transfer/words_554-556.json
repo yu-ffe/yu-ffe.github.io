@@ -1,0 +1,796 @@
+[
+  {
+    "word": "raft",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "뗏목, 래프트; 통나무나 판자를 묶어 만든 뗏목.",
+        "note": "통나무나 판자를 묶어 만든 뗏목을 가리킵니다."
+      },
+      {
+        "definition_ko": "대량, 다수; 많은 양이나 수.",
+        "note": "많은 양이나 수를 가리킵니다."
+      },
+      {
+        "definition_ko": "뗏목으로 운반하다; 뗏목을 사용하여 운반하다.",
+        "note": "뗏목을 사용하여 운반하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "통나무나 판자를 묶어 만든 뗏목, 또는 많은 양이나 수, 또는 뗏목을 사용하여 운반하는 것.",
+    "etymology": "고대 노르웨이어 raptr(통나무)에서 유래했으며, 원래는 '통나무' 의미였으나 현대에는 '뗏목'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '통나무' 의미였으나, 현대에는 '뗏목' 또는 '많은 양'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로, 동사로는 타동사로 쓰이며, a raft of + 명사 형태도 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 대량",
+        "example": "a raft of problems"
+      }
+    ],
+    "requiredComplements": [
+      "raft + 명사 : ~을 뗏목으로 운반하다",
+      "a raft of + 명사 : ~의 대량"
+    ],
+    "morphology": "고대 노르웨이어 raptr에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "rafting",
+        "meaning_ko": "래프팅(현재분사/명사)"
+      },
+      {
+        "word": "rafted",
+        "meaning_ko": "뗏목으로 운반된(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "boat",
+        "meaning_ko": "보트"
+      },
+      {
+        "word": "float",
+        "meaning_ko": "떠다니다"
+      },
+      {
+        "word": "abundance",
+        "meaning_ko": "풍부"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "float",
+        "meaning_ko": "떠다니다"
+      },
+      {
+        "word": "abundance",
+        "meaning_ko": "풍부"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "boat",
+        "meaning_ko": "보트(범위가 더 넓음)"
+      },
+      {
+        "word": "plethora",
+        "meaning_ko": "과다"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a raft of",
+            "meaning_ko": "~의 대량"
+          },
+          {
+            "phrase": "life raft",
+            "meaning_ko": "구명 뗏목"
+          },
+          {
+            "phrase": "rubber raft",
+            "meaning_ko": "고무 뗏목"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "a raft of problems",
+            "meaning_ko": "문제의 대량"
+          },
+          {
+            "phrase": "a raft of issues",
+            "meaning_ko": "이슈의 대량"
+          },
+          {
+            "phrase": "raft down the river",
+            "meaning_ko": "강을 따라 뗏목으로 내려가다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "a raft of proposals",
+            "meaning_ko": "제안의 대량"
+          },
+          {
+            "phrase": "a raft of regulations",
+            "meaning_ko": "규정의 대량"
+          },
+          {
+            "phrase": "raft the logs",
+            "meaning_ko": "통나무를 뗏목으로 운반하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They built a raft to cross the river.",
+            "meaning_ko": "그들은 강을 건너기 위해 뗏목을 만들었습니다."
+          },
+          {
+            "sentence": "There was a raft of problems to solve.",
+            "meaning_ko": "해결해야 할 문제가 많았습니다."
+          },
+          {
+            "sentence": "The life raft saved them.",
+            "meaning_ko": "그 구명 뗏목이 그들을 구했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They built a raft to cross the river, using logs and rope to create a simple but effective means of transportation across the waterway.",
+            "meaning_ko": "그들은 강을 건너기 위해 뗏목을 만들었고, 통나무와 밧줄을 사용하여 그 수로를 건너는 간단하지만 효과적인 수송 수단을 만들었습니다."
+          },
+          {
+            "sentence": "There was a raft of problems to solve, ranging from technical issues to organizational challenges that required immediate attention and careful planning.",
+            "meaning_ko": "해결해야 할 문제가 많았고, 즉각적인 주의와 신중한 계획을 요구하는 기술적 문제부터 조직적 도전까지 다양했습니다."
+          },
+          {
+            "sentence": "The life raft saved them from drowning, providing a crucial lifeline when their boat capsized in the stormy waters.",
+            "meaning_ko": "그 구명 뗏목이 그들을 익사로부터 구했습니다. 그들의 보트가 폭풍우가 치는 물에서 전복되었을 때 중요한 생명선을 제공했기 때문입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The committee faced a raft of proposals from various stakeholders, each requiring careful evaluation to determine which would best serve the organization's long-term objectives.",
+            "meaning_ko": "그 위원회는 다양한 이해관계자들로부터 제안의 대량에 직면했고, 각각이 조직의 장기 목표에 가장 잘 봉사할 것인지 결정하기 위해 신중한 평가를 요구했습니다."
+          },
+          {
+            "sentence": "The new legislation introduced a raft of regulations designed to address environmental concerns, though critics argued that the complexity might create compliance challenges for businesses.",
+            "meaning_ko": "그 새로운 법률은 환경적 우려를 다루도록 설계된 규정의 대량을 도입했지만, 비평가들은 그 복잡성이 기업들에게 규정 준수 도전을 만들 수 있다고 주장했습니다."
+          },
+          {
+            "sentence": "The logging company used to raft the logs down the river to the processing facility, a method that was both cost-effective and environmentally less disruptive than road transport.",
+            "meaning_ko": "그 벌목 회사는 통나무를 강을 따라 가공 시설로 뗏목으로 운반하는 데 사용했고, 이것은 도로 운송보다 비용 효율적이고 환경적으로 덜 파괴적인 방법이었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "raft는 '뗏목' 또는 '대량' 의미로, 통나무나 판자를 묶어 만든 뗏목을 가리킵니다. a raft of ~는 '~의 대량' 의미로 자주 쓰입니다. boat, float와 비슷하지만 더 구체적 표현입니다. a raft of problems 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "교통",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: raft = (A) boat made of logs (B) small amount (C) single item (D) empty",
+            "a": "A",
+            "meaning_ko": "raft는 '통나무로 만든 보트' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: There was a _____ of problems to solve.",
+            "a": "raft",
+            "meaning_ko": "a raft of ~는 '~의 대량' 의미입니다."
+          },
+          {
+            "q": "Which phrase means 'a large number'? (A) a raft of (B) a single of (C) an empty of (D) a small of",
+            "a": "A",
+            "meaning_ko": "a raft of ~는 '~의 대량' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: a raft _____ problems. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "a raft of ~는 '~의 대량' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: raft = (A) boat (B) single (C) empty (D) small",
+            "a": "A",
+            "meaning_ko": "boat(보트)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'There was a raft on problems.' → Fix the preposition.",
+            "a": "There was a raft of problems.",
+            "meaning_ko": "a raft of ~는 '~의 대량' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'There was a raft of problems to solve.'",
+            "a": "There existed a large number or multitude of issues and challenges that needed to be addressed and resolved, indicating a significant volume of work ahead.",
+            "meaning_ko": "a raft of problems는 '문제의 대량'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They built a _____ to cross the river. (A) raft (B) rafts (C) rafting (D) rafted",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 raft가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses raft most appropriately? (A) The raft ran. (B) They built a raft to cross the river. (C) She raft smiled. (D) Raft is good.",
+            "a": "B",
+            "meaning_ko": "raft는 명사로 '뗏목'을 의미하며, build와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "eligible",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "자격이 있는, 적격인; 조건을 만족하여 자격이 있는.",
+        "note": "조건을 만족하여 자격이 있는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "조건을 만족하여 자격이 있는 적격인 상태.",
+    "etymology": "라틴어 eligere(선택하다)에서 유래했으며, 원래는 '선택할 수 있는' 의미였으나 현대에는 '자격이 있는'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '선택할 수 있는' 의미였으나, 현대에는 '조건을 만족하여 자격이 있는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be eligible for/to + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대한 자격이 있는",
+        "example": "eligible for benefits"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~할 자격이 있는",
+        "example": "eligible to vote"
+      }
+    ],
+    "requiredComplements": [
+      "be eligible for + 명사 : ~에 대한 자격이 있다",
+      "be eligible to + 동사 : ~할 자격이 있다"
+    ],
+    "morphology": "라틴어 eligere에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "eligibility",
+        "meaning_ko": "자격"
+      },
+      {
+        "word": "ineligible",
+        "meaning_ko": "자격이 없는"
+      }
+    ],
+    "related": [
+      {
+        "word": "qualified",
+        "meaning_ko": "자격이 있는"
+      },
+      {
+        "word": "suitable",
+        "meaning_ko": "적합한"
+      },
+      {
+        "word": "entitled",
+        "meaning_ko": "자격이 있는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "qualified",
+        "meaning_ko": "자격이 있는"
+      },
+      {
+        "word": "suitable",
+        "meaning_ko": "적합한"
+      },
+      {
+        "word": "entitled",
+        "meaning_ko": "자격이 있는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "fit",
+        "meaning_ko": "적합한(범위가 더 넓음)"
+      },
+      {
+        "word": "worthy",
+        "meaning_ko": "가치 있는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ineligible",
+        "meaning_ko": "자격이 없는"
+      },
+      {
+        "word": "unqualified",
+        "meaning_ko": "자격이 없는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "eligible for",
+            "meaning_ko": "~에 대한 자격이 있는"
+          },
+          {
+            "phrase": "eligible to",
+            "meaning_ko": "~할 자격이 있는"
+          },
+          {
+            "phrase": "eligible candidate",
+            "meaning_ko": "적격 후보"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "eligible for benefits",
+            "meaning_ko": "혜택에 대한 자격이 있는"
+          },
+          {
+            "phrase": "eligible to vote",
+            "meaning_ko": "투표할 자격이 있는"
+          },
+          {
+            "phrase": "eligible applicant",
+            "meaning_ko": "적격 지원자"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "eligible for scholarship",
+            "meaning_ko": "장학금에 대한 자격이 있는"
+          },
+          {
+            "phrase": "eligible for promotion",
+            "meaning_ko": "승진에 대한 자격이 있는"
+          },
+          {
+            "phrase": "eligible for membership",
+            "meaning_ko": "회원 자격이 있는"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She is eligible for the scholarship.",
+            "meaning_ko": "그녀는 그 장학금에 대한 자격이 있습니다."
+          },
+          {
+            "sentence": "He is eligible to vote.",
+            "meaning_ko": "그는 투표할 자격이 있습니다."
+          },
+          {
+            "sentence": "They are eligible candidates.",
+            "meaning_ko": "그들은 적격 후보입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She is eligible for the scholarship, having met all the academic requirements and demonstrated financial need through the application process.",
+            "meaning_ko": "그녀는 그 장학금에 대한 자격이 있고, 모든 학업 요구사항을 충족했고 신청 과정을 통해 재정적 필요를 입증했습니다."
+          },
+          {
+            "sentence": "He is eligible to vote in the upcoming election, having reached the legal age and completed the voter registration process in his district.",
+            "meaning_ko": "그는 다가오는 선거에서 투표할 자격이 있고, 법적 연령에 도달했고 그의 지역에서 유권자 등록 과정을 완료했습니다."
+          },
+          {
+            "sentence": "They are eligible candidates for the position, possessing the necessary qualifications, experience, and skills that match the job requirements.",
+            "meaning_ko": "그들은 그 직위에 대한 적격 후보이고, 그 직무 요구사항과 일치하는 필요한 자격, 경험, 기술을 보유하고 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The committee determined that she was eligible for the scholarship after reviewing her academic achievements, financial circumstances, and personal statement, recognizing her potential to succeed despite economic challenges.",
+            "meaning_ko": "그 위원회는 그녀의 학업 성취, 재정 상황, 개인 진술을 검토한 후 그녀가 그 장학금에 대한 자격이 있다고 결정했고, 경제적 도전에도 불구하고 성공할 그녀의 잠재력을 인정했습니다."
+          },
+          {
+            "sentence": "The human resources department confirmed that he was eligible for promotion, having completed the required training programs and demonstrated consistent performance that exceeded expectations in his current role.",
+            "meaning_ko": "그 인사 부서는 그가 승진에 대한 자격이 있다고 확인했고, 필요한 훈련 프로그램을 완료했고 현재 역할에서 기대를 초과하는 일관된 성과를 입증했습니다."
+          },
+          {
+            "sentence": "The organization's membership committee reviewed applications to determine who was eligible for membership, considering factors such as professional qualifications, commitment to the organization's values, and potential contributions to the community.",
+            "meaning_ko": "그 조직의 회원 위원회는 회원 자격이 있는 사람을 결정하기 위해 신청서를 검토했고, 전문 자격, 조직의 가치에 대한 헌신, 커뮤니티에 대한 잠재적 기여와 같은 요소를 고려했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "eligible는 '자격이 있는, 적격인' 의미로, 조건을 만족하여 자격이 있는 상태를 가리킵니다. qualified, suitable와 비슷하지만 더 공식적 뉘앙스가 있습니다. eligible for/to ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "자격",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: eligible = (A) unqualified (B) qualified or suitable (C) ineligible (D) unfit",
+            "a": "B",
+            "meaning_ko": "eligible는 '자격이 있거나 적합한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She is _____ for the scholarship.",
+            "a": "eligible",
+            "meaning_ko": "eligible는 '자격이 있는' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of eligible? (A) qualified (B) suitable (C) ineligible (D) entitled",
+            "a": "C",
+            "meaning_ko": "ineligible(자격이 없는)가 eligible의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: eligible _____ benefits. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "eligible for ~는 '~에 대한 자격이 있는' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: eligible = (A) unqualified (B) qualified (C) ineligible (D) unfit",
+            "a": "B",
+            "meaning_ko": "qualified(자격이 있는)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He is eligible on vote.' → Fix the preposition.",
+            "a": "He is eligible to vote.",
+            "meaning_ko": "eligible to + 동사는 '~할 자격이 있는' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She is eligible for the scholarship.'",
+            "a": "She meets the necessary requirements and qualifications to receive the financial aid, having satisfied the conditions set forth by the scholarship program.",
+            "meaning_ko": "eligible for ~는 '~에 대한 자격이 있는' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They are _____ candidates. (A) eligible (B) eligibly (C) eligibility (D) eligibilities",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 eligible가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses eligible most appropriately? (A) The eligible ran. (B) She is eligible for the scholarship. (C) She eligible smiled. (D) Eligible is good.",
+            "a": "B",
+            "meaning_ko": "eligible는 형용사로 명사를 수식하거나 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sacrilege",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "신성 모독, 불경; 신성한 것을 모독하거나 불경하게 대하는 행위.",
+        "note": "신성한 것을 모독하거나 불경하게 대하는 행위를 가리킵니다."
+      }
+    ],
+    "concept": "신성한 것을 모독하거나 불경하게 대하는 신성 모독 행위.",
+    "etymology": "라틴어 sacrilegium(신성한 것을 훔치는 것)에서 유래했으며, 원래는 '신성한 것을 훔치는 것' 의미였으나 현대에는 '신성 모독'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '신성한 것을 훔치는 것' 의미였으나, 현대에는 '신성한 것을 모독하거나 불경하게 대하는 행위'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "가산명사와 불가산명사 모두로 쓰이며, a sacrilege, sacrileges 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대한 신성 모독",
+        "example": "sacrilege against the church"
+      }
+    ],
+    "requiredComplements": [
+      "sacrilege against + 명사 : ~에 대한 신성 모독",
+      "commit sacrilege : 신성 모독을 저지르다"
+    ],
+    "morphology": "라틴어 sacrilegium에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "sacrilegious",
+        "meaning_ko": "신성 모독적인"
+      }
+    ],
+    "related": [
+      {
+        "word": "blasphemy",
+        "meaning_ko": "신성 모독"
+      },
+      {
+        "word": "profanity",
+        "meaning_ko": "불경"
+      },
+      {
+        "word": "desecration",
+        "meaning_ko": "신성 모독"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "blasphemy",
+        "meaning_ko": "신성 모독"
+      },
+      {
+        "word": "profanity",
+        "meaning_ko": "불경"
+      },
+      {
+        "word": "desecration",
+        "meaning_ko": "신성 모독"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "violation",
+        "meaning_ko": "위반(범위가 더 넓음)"
+      },
+      {
+        "word": "offense",
+        "meaning_ko": "모독"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reverence",
+        "meaning_ko": "경건"
+      },
+      {
+        "word": "piety",
+        "meaning_ko": "경건"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "commit sacrilege",
+            "meaning_ko": "신성 모독을 저지르다"
+          },
+          {
+            "phrase": "sacrilege against",
+            "meaning_ko": "~에 대한 신성 모독"
+          },
+          {
+            "phrase": "a sacrilege",
+            "meaning_ko": "신성 모독"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sacrilege against the church",
+            "meaning_ko": "교회에 대한 신성 모독"
+          },
+          {
+            "phrase": "commit sacrilege",
+            "meaning_ko": "신성 모독을 저지르다"
+          },
+          {
+            "phrase": "religious sacrilege",
+            "meaning_ko": "종교적 신성 모독"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sacrilege against sacred traditions",
+            "meaning_ko": "신성한 전통에 대한 신성 모독"
+          },
+          {
+            "phrase": "commit sacrilege against",
+            "meaning_ko": "~에 대한 신성 모독을 저지르다"
+          },
+          {
+            "phrase": "cultural sacrilege",
+            "meaning_ko": "문화적 신성 모독"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It was a sacrilege to destroy the temple.",
+            "meaning_ko": "그 사원을 파괴하는 것은 신성 모독이었습니다."
+          },
+          {
+            "sentence": "They committed sacrilege against the church.",
+            "meaning_ko": "그들은 교회에 대한 신성 모독을 저질렀습니다."
+          },
+          {
+            "sentence": "The act was considered sacrilege.",
+            "meaning_ko": "그 행위는 신성 모독으로 간주되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "It was a sacrilege to destroy the temple, as the ancient structure held deep religious significance for the community and represented centuries of spiritual tradition.",
+            "meaning_ko": "그 사원을 파괴하는 것은 신성 모독이었고, 그 고대 구조물이 그 커뮤니티에게 깊은 종교적 중요성을 지녔고 수세기의 영적 전통을 나타냈기 때문입니다."
+          },
+          {
+            "sentence": "They committed sacrilege against the church by vandalizing the sacred artifacts and desecrating the holy space, actions that deeply offended the religious community.",
+            "meaning_ko": "그들은 신성한 유물을 파괴하고 신성한 공간을 모독함으로써 교회에 대한 신성 모독을 저질렀고, 종교 공동체를 깊이 모욕한 행동이었습니다."
+          },
+          {
+            "sentence": "The act was considered sacrilege by the faithful, who viewed the disrespectful treatment of religious symbols as an attack on their core beliefs and values.",
+            "meaning_ko": "그 행위는 신자들에 의해 신성 모독으로 간주되었고, 그들은 종교적 상징에 대한 무례한 대우를 자신들의 핵심 신념과 가치에 대한 공격으로 보았습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to demolish the historic cathedral was viewed as sacrilege against sacred traditions, sparking widespread protests from religious leaders and preservationists who argued that the building represented irreplaceable cultural and spiritual heritage.",
+            "meaning_ko": "그 역사적인 대성당을 철거하기로 한 결정은 신성한 전통에 대한 신성 모독으로 보였고, 그 건물이 대체 불가능한 문화적이고 영적인 유산을 나타낸다고 주장한 종교 지도자들과 보존주의자들로부터 광범위한 항의를 촉발했습니다."
+          },
+          {
+            "sentence": "The artist's controversial work was accused of committing sacrilege against religious iconography, with critics arguing that the reinterpretation of sacred images crossed the line between artistic expression and disrespect for deeply held beliefs.",
+            "meaning_ko": "그 예술가의 논란의 여지가 있는 작품은 종교적 상징에 대한 신성 모독을 저지른 것으로 비난받았고, 비평가들이 신성한 이미지의 재해석이 예술적 표현과 깊이 간직된 신념에 대한 무례 사이의 선을 넘었다고 주장했습니다."
+          },
+          {
+            "sentence": "The act of removing the ancient religious texts from their traditional context was seen as cultural sacrilege, as it severed the connection between the sacred writings and the community that had preserved and interpreted them for generations.",
+            "meaning_ko": "그 고대 종교 텍스트를 그들의 전통적 맥락에서 제거하는 행위는 문화적 신성 모독으로 보였고, 그것이 신성한 글과 그것들을 수세기 동안 보존하고 해석해온 커뮤니티 사이의 연결을 끊었기 때문입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sacrilege는 '신성 모독, 불경' 의미로, 신성한 것을 모독하거나 불경하게 대하는 행위를 가리킵니다. 매우 격식 있고 드문 단어로, blasphemy, profanity와 비슷하지만 더 강한 뉘앙스가 있습니다. commit sacrilege, sacrilege against ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "종교",
+      "격식",
+      "문어",
+      "드문",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sacrilege = (A) reverence (B) blasphemy or desecration (C) piety (D) respect",
+            "a": "B",
+            "meaning_ko": "sacrilege는 '신성 모독 또는 불경' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: It was a _____ to destroy the temple.",
+            "a": "sacrilege",
+            "meaning_ko": "sacrilege는 '신성 모독'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of sacrilege? (A) blasphemy (B) profanity (C) reverence (D) desecration",
+            "a": "C",
+            "meaning_ko": "reverence(경건)가 sacrilege의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: sacrilege _____ the church. (A) against (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "sacrilege against ~는 '~에 대한 신성 모독' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: sacrilege = (A) reverence (B) blasphemy (C) piety (D) respect",
+            "a": "B",
+            "meaning_ko": "blasphemy(신성 모독)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They committed sacrilege on the church.' → Fix the preposition.",
+            "a": "They committed sacrilege against the church.",
+            "meaning_ko": "sacrilege against ~는 '~에 대한 신성 모독' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They committed sacrilege against the church.'",
+            "a": "They engaged in acts of blasphemy and desecration that violated and disrespected the sacred nature and traditions of the religious institution, showing profound disrespect for what the faithful hold as holy.",
+            "meaning_ko": "sacrilege against ~는 '~에 대한 신성 모독'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: It was a _____ to destroy the temple. (A) sacrilege (B) sacrileges (C) sacrilegious (D) sacrilegiously",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 sacrilege가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sacrilege most appropriately? (A) The sacrilege ran. (B) It was a sacrilege to destroy the temple. (C) She sacrilege smiled. (D) Sacrilege is good.",
+            "a": "B",
+            "meaning_ko": "sacrilege는 명사로 '신성 모독'을 의미하며, it was ~ to 형태와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,801 @@
+[
+  {
+    "word": "backbone",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "척추, 등뼈; 몸의 중심을 이루는 뼈 구조.",
+        "note": "몸의 중심을 이루는 뼈 구조를 가리킵니다."
+      },
+      {
+        "definition_ko": "핵심, 중추; 조직이나 시스템의 핵심이나 중추.",
+        "note": "조직이나 시스템의 핵심이나 중추를 가리킵니다."
+      },
+      {
+        "definition_ko": "용기, 의지력; 어려움을 견디는 용기나 의지력.",
+        "note": "어려움을 견디는 용기나 의지력을 가리킵니다."
+      }
+    ],
+    "concept": "몸의 중심을 이루는 뼈 구조, 또는 조직이나 시스템의 핵심이나 중추, 또는 어려움을 견디는 용기나 의지력.",
+    "etymology": "back(등) + bone(뼈)의 결합으로, 원래는 '등뼈' 의미였으나 현대에는 '핵심' 또는 '용기'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '등뼈' 의미였으나, 현대에는 '조직이나 시스템의 핵심' 또는 '어려움을 견디는 용기'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사와 불가산명사 모두로 쓰이며, a backbone, backbones 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산·불가산 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 핵심",
+        "example": "backbone of the organization"
+      }
+    ],
+    "requiredComplements": [
+      "backbone of + 명사 : ~의 핵심",
+      "have backbone : 용기가 있다"
+    ],
+    "morphology": "back(등) + bone(뼈)의 결합으로, '등뼈'에서 '핵심' 또는 '용기'로 확장되었습니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "spine",
+        "meaning_ko": "척추"
+      },
+      {
+        "word": "core",
+        "meaning_ko": "핵심"
+      },
+      {
+        "word": "courage",
+        "meaning_ko": "용기"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "spine",
+        "meaning_ko": "척추"
+      },
+      {
+        "word": "core",
+        "meaning_ko": "핵심"
+      },
+      {
+        "word": "courage",
+        "meaning_ko": "용기"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "foundation",
+        "meaning_ko": "기초(범위가 더 넓음)"
+      },
+      {
+        "word": "strength",
+        "meaning_ko": "힘"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "weakness",
+        "meaning_ko": "약함"
+      },
+      {
+        "word": "cowardice",
+        "meaning_ko": "비겁함"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "backbone of",
+            "meaning_ko": "~의 핵심"
+          },
+          {
+            "phrase": "have backbone",
+            "meaning_ko": "용기가 있다"
+          },
+          {
+            "phrase": "show backbone",
+            "meaning_ko": "용기를 보이다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "backbone of the organization",
+            "meaning_ko": "조직의 핵심"
+          },
+          {
+            "phrase": "backbone of the system",
+            "meaning_ko": "시스템의 핵심"
+          },
+          {
+            "phrase": "lack backbone",
+            "meaning_ko": "용기가 없다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "backbone of the economy",
+            "meaning_ko": "경제의 핵심"
+          },
+          {
+            "phrase": "backbone infrastructure",
+            "meaning_ko": "핵심 인프라"
+          },
+          {
+            "phrase": "moral backbone",
+            "meaning_ko": "도덕적 용기"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Small businesses are the backbone of the economy.",
+            "meaning_ko": "소규모 기업들은 경제의 핵심입니다."
+          },
+          {
+            "sentence": "He showed backbone in the face of adversity.",
+            "meaning_ko": "그는 역경에 직면했을 때 용기를 보였습니다."
+          },
+          {
+            "sentence": "The backbone of the system is its infrastructure.",
+            "meaning_ko": "그 시스템의 핵심은 그 인프라입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Small businesses are the backbone of the economy, providing employment opportunities and driving innovation, though they often face challenges in accessing capital and competing with larger corporations.",
+            "meaning_ko": "소규모 기업들은 경제의 핵심이고, 고용 기회를 제공하고 혁신을 주도하지만, 자본에 접근하고 더 큰 기업들과 경쟁하는 데 종종 도전에 직면합니다."
+          },
+          {
+            "sentence": "He showed backbone in the face of adversity, refusing to give up despite numerous setbacks and demonstrating the determination and courage needed to overcome obstacles.",
+            "meaning_ko": "그는 역경에 직면했을 때 용기를 보였고, 수많은 좌절에도 불구하고 포기하는 것을 거부했고 장애물을 극복하는 데 필요한 결단력과 용기를 보여줬습니다."
+          },
+          {
+            "sentence": "The backbone of the system is its infrastructure, the fundamental network and technology that enables all other components to function and ensures reliability and performance.",
+            "meaning_ko": "그 시스템의 핵심은 그 인프라이고, 모든 다른 구성 요소가 작동하도록 하고 신뢰성과 성능을 보장하는 기본 네트워크와 기술입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The manufacturing sector serves as the backbone of the economy, providing stable employment and contributing significantly to GDP, though it faces challenges from automation and global competition that require adaptation and innovation.",
+            "meaning_ko": "그 제조업 부문은 경제의 핵심으로 작용하고, 안정적인 고용을 제공하고 GDP에 상당히 기여하지만, 적응과 혁신을 요구하는 자동화와 글로벌 경쟁으로부터 도전에 직면합니다."
+          },
+          {
+            "sentence": "The backbone infrastructure of the telecommunications network required extensive investment and careful planning, as it needed to support increasing data demands while maintaining reliability and security for millions of users.",
+            "meaning_ko": "그 통신 네트워크의 핵심 인프라는 광범위한 투자와 신중한 계획을 요구했고, 수백만 사용자에 대한 신뢰성과 보안을 유지하면서 증가하는 데이터 수요를 지원해야 했기 때문입니다."
+          },
+          {
+            "sentence": "Her moral backbone was tested during the crisis, as she faced pressure to compromise her principles but maintained her integrity and ethical standards, even when doing so came at personal cost.",
+            "meaning_ko": "그녀의 도덕적 용기는 그 위기 동안 시험을 받았고, 그녀가 자신의 원칙을 타협하라는 압력에 직면했지만 개인적 비용이 들었을 때조차 자신의 무결성과 윤리적 기준을 유지했기 때문입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "backbone는 '척추, 등뼈' 또는 '핵심, 중추' 또는 '용기, 의지력' 의미로, 몸의 중심을 이루는 뼈 구조를 가리킵니다. spine, core와 비슷하지만 더 비유적 표현입니다. backbone of ~, have backbone 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "신체",
+      "비유",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: backbone = (A) weakness (B) spine or core (C) cowardice (D) fear",
+            "a": "B",
+            "meaning_ko": "backbone는 '척추 또는 핵심' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Small businesses are the _____ of the economy.",
+            "a": "backbone",
+            "meaning_ko": "backbone는 '핵심'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of backbone (meaning courage)? (A) spine (B) core (C) cowardice (D) courage",
+            "a": "C",
+            "meaning_ko": "cowardice(비겁함)가 backbone(용기)의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: backbone _____ the organization. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "backbone of ~는 '~의 핵심' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: backbone = (A) weakness (B) spine (C) cowardice (D) fear",
+            "a": "B",
+            "meaning_ko": "spine(척추)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'Small businesses are the backbone on the economy.' → Fix the preposition.",
+            "a": "Small businesses are the backbone of the economy.",
+            "meaning_ko": "backbone of ~는 '~의 핵심' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Small businesses are the backbone of the economy.'",
+            "a": "Small businesses serve as the fundamental core and essential foundation of the economic system, providing critical support and playing a central role in driving growth, employment, and stability.",
+            "meaning_ko": "backbone of ~는 '~의 핵심'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: He showed _____ in the face of adversity. (A) backbone (B) backbones (C) backboning (D) backboned",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 backbone가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses backbone most appropriately? (A) The backbone ran. (B) Small businesses are the backbone of the economy. (C) She backbone smiled. (D) Backbone is good.",
+            "a": "B",
+            "meaning_ko": "backbone는 명사로 '핵심'을 의미하며, of와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "haphazard",
+    "partOfSpeech": [
+      "adjective",
+      "adverb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "무계획적인, 무작위의; 계획이나 질서 없이 무작위로 하는.",
+        "note": "계획이나 질서 없이 무작위로 하는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "무계획적으로, 무작위로; 계획이나 질서 없이 무작위로.",
+        "note": "계획이나 질서 없이 무작위로 하는 방식을 가리킵니다."
+      }
+    ],
+    "concept": "계획이나 질서 없이 무작위로 하는 무계획적인 상태, 또는 계획이나 질서 없이 무작위로 하는 방식.",
+    "etymology": "hap(우연) + hazard(위험)의 결합으로, 원래는 '우연한 위험' 의미였으나 현대에는 '무계획적인'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '우연한 위험' 의미였으나, 현대에는 '계획이나 질서 없이 무작위로 하는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 명사를 수식하거나 서술어로, 부사로는 동사를 수식하며, haphazard + 명사 또는 haphazard 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "haphazard + 명사 : 무계획적인 ~",
+      "haphazard : 무계획적으로"
+    ],
+    "morphology": "hap(우연) + hazard(위험)의 결합으로, '우연한 위험'에서 '무계획적인'으로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "haphazardly",
+        "meaning_ko": "무계획적으로"
+      },
+      {
+        "word": "haphazardness",
+        "meaning_ko": "무계획성"
+      }
+    ],
+    "related": [
+      {
+        "word": "random",
+        "meaning_ko": "무작위의"
+      },
+      {
+        "word": "disorganized",
+        "meaning_ko": "무질서한"
+      },
+      {
+        "word": "chaotic",
+        "meaning_ko": "혼란스러운"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "random",
+        "meaning_ko": "무작위의"
+      },
+      {
+        "word": "disorganized",
+        "meaning_ko": "무질서한"
+      },
+      {
+        "word": "chaotic",
+        "meaning_ko": "혼란스러운"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "careless",
+        "meaning_ko": "부주의한(범위가 더 넓음)"
+      },
+      {
+        "word": "slipshod",
+        "meaning_ko": "부주의한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "systematic",
+        "meaning_ko": "체계적인"
+      },
+      {
+        "word": "organized",
+        "meaning_ko": "조직된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "haphazard approach",
+            "meaning_ko": "무계획적인 접근"
+          },
+          {
+            "phrase": "haphazard manner",
+            "meaning_ko": "무계획적인 방식"
+          },
+          {
+            "phrase": "haphazard planning",
+            "meaning_ko": "무계획적인 계획"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "haphazard development",
+            "meaning_ko": "무계획적인 개발"
+          },
+          {
+            "phrase": "haphazard arrangement",
+            "meaning_ko": "무계획적인 배치"
+          },
+          {
+            "phrase": "haphazard growth",
+            "meaning_ko": "무계획적인 성장"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "haphazard implementation",
+            "meaning_ko": "무계획적인 구현"
+          },
+          {
+            "phrase": "haphazard expansion",
+            "meaning_ko": "무계획적인 확장"
+          },
+          {
+            "phrase": "haphazard distribution",
+            "meaning_ko": "무계획적인 분배"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The haphazard approach led to problems.",
+            "meaning_ko": "그 무계획적인 접근은 문제로 이어졌습니다."
+          },
+          {
+            "sentence": "They arranged the items haphazardly.",
+            "meaning_ko": "그들은 그 항목들을 무계획적으로 배치했습니다."
+          },
+          {
+            "sentence": "The haphazard planning caused confusion.",
+            "meaning_ko": "그 무계획적인 계획은 혼란을 일으켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The haphazard approach led to problems, as the lack of systematic planning and organization resulted in inefficiencies and errors that could have been avoided with proper preparation.",
+            "meaning_ko": "그 무계획적인 접근은 문제로 이어졌고, 체계적 계획과 조직의 부족이 적절한 준비로 피할 수 있었던 비효율성과 오류를 초래했기 때문입니다."
+          },
+          {
+            "sentence": "They arranged the items haphazardly, without any clear system or order, which made it difficult to find things later and created a sense of disorganization.",
+            "meaning_ko": "그들은 그 항목들을 무계획적으로 배치했고, 명확한 시스템이나 순서 없이, 이것은 나중에 물건을 찾는 것을 어렵게 만들었고 무질서의 감각을 만들었습니다."
+          },
+          {
+            "sentence": "The haphazard planning caused confusion, as team members received conflicting information and unclear instructions, leading to misunderstandings and delays in the project timeline.",
+            "meaning_ko": "그 무계획적인 계획은 혼란을 일으켰고, 팀 구성원들이 상충하는 정보와 불명확한 지시를 받았고, 프로젝트 일정에서 오해와 지연으로 이어졌기 때문입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The haphazard implementation of the new policy created significant challenges, as different departments interpreted and applied the guidelines in inconsistent ways, leading to confusion and requiring extensive clarification and retraining.",
+            "meaning_ko": "그 새로운 정책의 무계획적인 구현은 상당한 도전을 만들었고, 다른 부서들이 일관되지 않은 방식으로 가이드라인을 해석하고 적용했고, 혼란으로 이어졌고 광범위한 명확화와 재훈련을 요구했기 때문입니다."
+          },
+          {
+            "sentence": "The city's haphazard expansion into surrounding areas lacked comprehensive planning, resulting in infrastructure problems, traffic congestion, and environmental concerns that could have been mitigated with better coordination and foresight.",
+            "meaning_ko": "그 도시의 주변 지역으로의 무계획적인 확장은 포괄적 계획이 부족했고, 더 나은 조정과 선견지명으로 완화될 수 있었던 인프라 문제, 교통 혼잡, 환경적 우려를 초래했습니다."
+          },
+          {
+            "sentence": "The haphazard distribution of resources led to inequities, as some areas received more support than others without clear rationale, creating resentment and undermining the effectiveness of the aid program.",
+            "meaning_ko": "그 자원의 무계획적인 분배는 불평등으로 이어졌고, 일부 지역이 명확한 근거 없이 다른 지역보다 더 많은 지원을 받았고, 원한을 만들고 그 원조 프로그램의 효과를 훼손했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "haphazard는 '무계획적인, 무작위의' 또는 '무계획적으로, 무작위로' 의미로, 계획이나 질서 없이 무작위로 하는 상태를 가리킵니다. random, disorganized와 비슷하지만 더 부정적 뉘앙스가 있습니다. haphazard approach, haphazardly 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "방식",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: haphazard = (A) systematic (B) random or disorganized (C) organized (D) planned",
+            "a": "B",
+            "meaning_ko": "haphazard는 '무작위의 또는 무질서한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ approach led to problems.",
+            "a": "haphazard",
+            "meaning_ko": "haphazard는 '무계획적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of haphazard? (A) random (B) disorganized (C) systematic (D) chaotic",
+            "a": "C",
+            "meaning_ko": "systematic(체계적인)가 haphazard의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They arranged the items _____. (A) haphazard (B) haphazardly (C) haphazardness (D) haphazards",
+            "a": "B",
+            "meaning_ko": "동사를 수식하는 부사 haphazardly가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: haphazard = (A) systematic (B) random (C) organized (D) planned",
+            "a": "B",
+            "meaning_ko": "random(무작위의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They arranged the items haphazard.' → Fix the sentence.",
+            "a": "They arranged the items haphazardly.",
+            "meaning_ko": "동사를 수식하는 부사 haphazardly가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The haphazard approach led to problems.'",
+            "a": "The method that lacked systematic planning, organization, and careful consideration resulted in difficulties and complications that could have been avoided with proper preparation and structured implementation.",
+            "meaning_ko": "haphazard approach는 '무계획적인 접근'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ planning caused confusion. (A) haphazard (B) haphazardly (C) haphazardness (D) haphazards",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 haphazard가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses haphazard most appropriately? (A) The haphazard ran. (B) The haphazard approach led to problems. (C) She haphazard smiled. (D) Haphazard is good.",
+            "a": "B",
+            "meaning_ko": "haphazard는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "complicit",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "공모한, 연루된; 불법적이거나 부적절한 행위에 공모하거나 연루된.",
+        "note": "불법적이거나 부적절한 행위에 공모하거나 연루된 상태를 가리킵니다."
+      }
+    ],
+    "concept": "불법적이거나 부적절한 행위에 공모하거나 연루된 공모한 상태.",
+    "etymology": "라틴어 complicare(엮다)에서 유래했으며, 원래는 '엮다' 의미였으나 현대에는 '공모하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '엮다' 의미였으나, 현대에는 '불법적이거나 부적절한 행위에 공모하거나 연루되다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be complicit in/with + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 공모한",
+        "example": "complicit in the crime"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와 공모한",
+        "example": "complicit with the criminals"
+      }
+    ],
+    "requiredComplements": [
+      "be complicit in + 명사 : ~에 공모하다",
+      "be complicit with + 명사 : ~와 공모하다"
+    ],
+    "morphology": "라틴어 complicare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "complicity",
+        "meaning_ko": "공모"
+      },
+      {
+        "word": "complicitly",
+        "meaning_ko": "공모하여"
+      }
+    ],
+    "related": [
+      {
+        "word": "involved",
+        "meaning_ko": "연루된"
+      },
+      {
+        "word": "accomplice",
+        "meaning_ko": "공범"
+      },
+      {
+        "word": "conspirator",
+        "meaning_ko": "공모자"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "involved",
+        "meaning_ko": "연루된"
+      },
+      {
+        "word": "accomplice",
+        "meaning_ko": "공범"
+      },
+      {
+        "word": "conspirator",
+        "meaning_ko": "공모자"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "collaborative",
+        "meaning_ko": "협력적인(범위가 더 넓음)"
+      },
+      {
+        "word": "conniving",
+        "meaning_ko": "공모하는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "innocent",
+        "meaning_ko": "무죄한"
+      },
+      {
+        "word": "uninvolved",
+        "meaning_ko": "연루되지 않은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "complicit in",
+            "meaning_ko": "~에 공모한"
+          },
+          {
+            "phrase": "complicit with",
+            "meaning_ko": "~와 공모한"
+          },
+          {
+            "phrase": "be complicit",
+            "meaning_ko": "공모하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "complicit in the crime",
+            "meaning_ko": "그 범죄에 공모한"
+          },
+          {
+            "phrase": "complicit with the criminals",
+            "meaning_ko": "그 범죄자들과 공모한"
+          },
+          {
+            "phrase": "complicit in wrongdoing",
+            "meaning_ko": "부정 행위에 공모한"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "complicit in the cover-up",
+            "meaning_ko": "그 은폐에 공모한"
+          },
+          {
+            "phrase": "complicit in the scheme",
+            "meaning_ko": "그 계획에 공모한"
+          },
+          {
+            "phrase": "complicit in the fraud",
+            "meaning_ko": "그 사기에 공모한"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was complicit in the crime.",
+            "meaning_ko": "그는 그 범죄에 공모했습니다."
+          },
+          {
+            "sentence": "They were complicit with the criminals.",
+            "meaning_ko": "그들은 그 범죄자들과 공모했습니다."
+          },
+          {
+            "sentence": "She was found complicit in the fraud.",
+            "meaning_ko": "그녀는 그 사기에 공모한 것으로 밝혀졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was complicit in the crime, having knowledge of the illegal activities and failing to report them, which made him legally responsible for his role in the wrongdoing.",
+            "meaning_ko": "그는 그 범죄에 공모했고, 불법 활동에 대한 지식을 가지고 있었고 그것들을 보고하지 않았으며, 이것은 그를 그 부정 행위에서 그의 역할에 대해 법적으로 책임 있게 만들었습니다."
+          },
+          {
+            "sentence": "They were complicit with the criminals, providing assistance and support that enabled the illegal operations to continue, though they claimed they were unaware of the full extent of the activities.",
+            "meaning_ko": "그들은 그 범죄자들과 공모했고, 불법 운영이 계속되도록 하는 원조와 지원을 제공했지만, 그들은 그 활동의 전체 범위를 알지 못했다고 주장했습니다."
+          },
+          {
+            "sentence": "She was found complicit in the fraud, as evidence showed she had participated in the scheme and benefited from the illegal gains, leading to criminal charges and legal consequences.",
+            "meaning_ko": "그녀는 그 사기에 공모한 것으로 밝혀졌고, 증거가 그녀가 그 계획에 참여했고 불법 이득으로부터 이익을 얻었다는 것을 보여줬고, 이것은 형사 기소와 법적 결과로 이어졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The investigation revealed that several officials were complicit in the cover-up, having actively worked to conceal evidence and mislead investigators, which undermined public trust and led to calls for accountability and reform.",
+            "meaning_ko": "그 조사는 여러 공무원들이 그 은폐에 공모했다는 것을 드러냈고, 증거를 숨기고 조사관들을 오도하기 위해 적극적으로 일했으며, 이것은 공공 신뢰를 훼손했고 책임과 개혁에 대한 요구로 이어졌습니다."
+          },
+          {
+            "sentence": "The executives were found complicit in the scheme to manipulate financial markets, with internal documents showing their awareness and participation in activities that violated securities regulations and harmed investors.",
+            "meaning_ko": "그 임원들은 금융 시장을 조작하는 그 계획에 공모한 것으로 밝혀졌고, 내부 문서가 증권 규정을 위반하고 투자자들에게 해를 끼친 활동에 대한 그들의 인식과 참여를 보여줬습니다."
+          },
+          {
+            "sentence": "The organization's leadership was complicit in the fraud, having created a culture that encouraged unethical behavior and failed to implement proper oversight, resulting in widespread misconduct that damaged the institution's reputation and financial stability.",
+            "meaning_ko": "그 조직의 리더십은 그 사기에 공모했고, 비윤리적 행동을 장려하고 적절한 감독을 구현하는 데 실패한 문화를 만들었고, 그 기관의 명성과 재정적 안정을 손상시킨 광범위한 부정 행위를 초래했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "complicit는 '공모한, 연루된' 의미로, 불법적이거나 부적절한 행위에 공모하거나 연루된 상태를 가리킵니다. involved, accomplice와 비슷하지만 더 강한 부정적 뉘앙스가 있습니다. complicit in/with ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "법률",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: complicit = (A) innocent (B) involved in wrongdoing (C) uninvolved (D) clean",
+            "a": "B",
+            "meaning_ko": "complicit는 '부정 행위에 연루된' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was _____ in the crime.",
+            "a": "complicit",
+            "meaning_ko": "complicit는 '공모한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of complicit? (A) involved (B) accomplice (C) innocent (D) conspirator",
+            "a": "C",
+            "meaning_ko": "innocent(무죄한)가 complicit의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: complicit _____ the crime. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "complicit in ~는 '~에 공모한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: complicit = (A) innocent (B) involved (C) uninvolved (D) clean",
+            "a": "B",
+            "meaning_ko": "involved(연루된)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He was complicit on the crime.' → Fix the preposition.",
+            "a": "He was complicit in the crime.",
+            "meaning_ko": "complicit in ~는 '~에 공모한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was complicit in the crime.'",
+            "a": "He was involved in and participated in the illegal activity, either through direct action or by failing to prevent or report the wrongdoing, making him legally and morally responsible for his role in the criminal act.",
+            "meaning_ko": "complicit in ~는 '~에 공모한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They were _____ with the criminals. (A) complicit (B) complicity (C) complicitly (D) complicits",
+            "a": "A",
+            "meaning_ko": "서술어로 형용사 complicit가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses complicit most appropriately? (A) The complicit ran. (B) He was complicit in the crime. (C) She complicit smiled. (D) Complicit is good.",
+            "a": "B",
+            "meaning_ko": "complicit는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

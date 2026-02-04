@@ -1,0 +1,804 @@
+[
+  {
+    "word": "renovate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "수리하다, 개조하다; 낡은 건물이나 방을 새롭게 만들다.",
+        "note": "건물이나 공간을 수리하고 개선하는 의미입니다."
+      }
+    ],
+    "concept": "낡은 건물이나 공간을 수리하고 개선하여 새롭게 만들다.",
+    "etymology": "라틴어 renovare(새롭게 하다)에서 유래했으며, re-(다시) + novare(새롭게 하다) 계열과 연결됩니다.",
+    "semanticExtension": "원래는 '새롭게 하다' 의미였으나, 현대에는 주로 건물이나 공간을 수리하고 개선하는 의미로 굳어졌습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 목적어를 바로 취합니다(renovate + 명사). 수동태도 가능합니다(be renovated).",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "renovate + 명사 : ~을 수리하다/개조하다"
+    ],
+    "morphology": "re-(다시) + nov-(새로운) + -ate(동사화)로, '다시 새롭게 하다' 의미가 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "renovation",
+        "meaning_ko": "수리, 개조"
+      },
+      {
+        "word": "renovated",
+        "meaning_ko": "수리된(과거분사/형용사)"
+      },
+      {
+        "word": "renovator",
+        "meaning_ko": "수리공, 개조자"
+      }
+    ],
+    "related": [
+      {
+        "word": "repair",
+        "meaning_ko": "수리하다"
+      },
+      {
+        "word": "restore",
+        "meaning_ko": "복원하다"
+      },
+      {
+        "word": "refurbish",
+        "meaning_ko": "수리하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "refurbish",
+        "meaning_ko": "수리하다"
+      },
+      {
+        "word": "restore",
+        "meaning_ko": "복원하다"
+      },
+      {
+        "word": "remodel",
+        "meaning_ko": "개조하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "repair",
+        "meaning_ko": "수리하다(범위가 더 넓음)"
+      },
+      {
+        "word": "upgrade",
+        "meaning_ko": "개선하다"
+      },
+      {
+        "word": "modernize",
+        "meaning_ko": "현대화하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "demolish",
+        "meaning_ko": "철거하다"
+      },
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "neglect",
+        "meaning_ko": "방치하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "renovate a house",
+            "meaning_ko": "집을 수리하다"
+          },
+          {
+            "phrase": "renovate a building",
+            "meaning_ko": "건물을 수리하다"
+          },
+          {
+            "phrase": "renovate a room",
+            "meaning_ko": "방을 개조하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "renovate the kitchen",
+            "meaning_ko": "부엌을 개조하다"
+          },
+          {
+            "phrase": "renovate the office",
+            "meaning_ko": "사무실을 수리하다"
+          },
+          {
+            "phrase": "renovate the property",
+            "meaning_ko": "부동산을 수리하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "renovate historical buildings",
+            "meaning_ko": "역사적 건물을 복원하다"
+          },
+          {
+            "phrase": "renovate infrastructure",
+            "meaning_ko": "인프라를 개선하다"
+          },
+          {
+            "phrase": "renovate to modern standards",
+            "meaning_ko": "현대적 기준으로 수리하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They decided to renovate their old house.",
+            "meaning_ko": "그들은 낡은 집을 수리하기로 결정했습니다."
+          },
+          {
+            "sentence": "The building was renovated last year.",
+            "meaning_ko": "그 건물은 작년에 수리되었습니다."
+          },
+          {
+            "sentence": "We need to renovate the kitchen.",
+            "meaning_ko": "우리는 부엌을 개조해야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The company renovated the office to create a more modern workspace.",
+            "meaning_ko": "회사는 더 현대적인 작업 공간을 만들기 위해 사무실을 수리했습니다."
+          },
+          {
+            "sentence": "They renovated the property to increase its value.",
+            "meaning_ko": "그들은 가치를 높이기 위해 부동산을 수리했습니다."
+          },
+          {
+            "sentence": "The renovation project took six months to complete.",
+            "meaning_ko": "수리 프로젝트는 완료하는 데 6개월이 걸렸습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The city council approved funds to renovate historical buildings while preserving their architectural integrity.",
+            "meaning_ko": "시의회는 건축적 무결성을 보존하면서 역사적 건물을 복원하기 위한 자금을 승인했습니다."
+          },
+          {
+            "sentence": "The government launched a program to renovate infrastructure to meet modern safety and efficiency standards.",
+            "meaning_ko": "정부는 현대적 안전 및 효율 기준을 충족하기 위해 인프라를 개선하는 프로그램을 시작했습니다."
+          },
+          {
+            "sentence": "The building was renovated to modern standards, incorporating energy-efficient systems and accessible design.",
+            "meaning_ko": "그 건물은 에너지 효율 시스템과 접근 가능한 디자인을 통합하여 현대적 기준으로 수리되었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "renovate은 '수리하다, 개조하다' 의미로, 건물이나 공간을 새롭게 만드는 것을 가리킵니다. refurbish, restore와 비슷하지만 '새롭게 만들다'는 뉘앙스가 더 강합니다. 부동산이나 건축 관련 지문에서 자주 나오므로, 이런 문맥에서 '수리/개조'와 연결되면 renovate로 해석하면 됩니다.",
+    "tags": [
+      "건축",
+      "부동산",
+      "수리",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: renovate = (A) destroy (B) repair and improve (C) neglect (D) abandon",
+            "a": "B",
+            "meaning_ko": "renovate은 '수리하고 개선하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They decided to _____ their old house.",
+            "a": "renovate",
+            "meaning_ko": "renovate은 '수리하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of renovate? (A) repair (B) demolish (C) restore (D) refurbish",
+            "a": "B",
+            "meaning_ko": "demolish(철거하다)가 renovate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The building was _____ last year. (A) renovate (B) renovated (C) renovating (D) renovation",
+            "a": "B",
+            "meaning_ko": "수동태를 쓰려면 과거분사 renovated가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: renovate = (A) destroy (B) refurbish (C) neglect (D) abandon",
+            "a": "B",
+            "meaning_ko": "refurbish(수리하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They renovate the house.' → Fix the sentence.",
+            "a": "They renovated the house.",
+            "meaning_ko": "과거 시제를 쓰려면 renovated가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The building was renovated to modern standards.'",
+            "a": "The building was repaired and improved to meet contemporary requirements.",
+            "meaning_ko": "renovate은 '수리하고 개선하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ project took months. (A) renovate (B) renovated (C) renovating (D) renovation",
+            "a": "D",
+            "meaning_ko": "명사형 renovation이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses renovate most appropriately? (A) The renovate ran. (B) They renovated the building. (C) She renovate smiled. (D) Renovate is good.",
+            "a": "B",
+            "meaning_ko": "renovate은 타동사로 '~을 수리하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "memento",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "기념품, 추억의 물건; 기억을 남기기 위해 간직하는 물건.",
+        "note": "특별한 사건이나 사람을 기억하기 위해 간직하는 물건을 가리킵니다."
+      }
+    ],
+    "concept": "특별한 사건이나 사람을 기억하기 위해 간직하는 기념품이나 추억의 물건.",
+    "etymology": "라틴어 memento(기억하라)에서 유래했으며, meminisse(기억하다) 계열과 연결됩니다.",
+    "semanticExtension": "원래는 '기억하라'는 명령형이었으나, 현대에는 '기억을 남기는 물건'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어에서 주로 쓰이며, 일상 회화에서는 덜 흔합니다.",
+    "grammarNotes": "가산명사로 a memento, mementos/mementoes 형태로 쓰입니다. 주제는 보통 of/from + 명사로 붙습니다(memento of the trip).",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 기념품",
+        "example": "memento of the trip"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~에서 온 기념품",
+        "example": "memento from Paris"
+      }
+    ],
+    "requiredComplements": [
+      "memento of/from + 명사 : ~의/에서 온 기념품"
+    ],
+    "morphology": "mem-(기억하다) + -ento(명사화)로, '기억하라'에서 '기억을 남기는 물건'으로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "mementos",
+        "meaning_ko": "기념품들(복수형)"
+      },
+      {
+        "word": "mementoes",
+        "meaning_ko": "기념품들(복수형, 대체형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "souvenir",
+        "meaning_ko": "기념품"
+      },
+      {
+        "word": "keepsake",
+        "meaning_ko": "기념품"
+      },
+      {
+        "word": "reminder",
+        "meaning_ko": "상기시키는 것"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "souvenir",
+        "meaning_ko": "기념품"
+      },
+      {
+        "word": "keepsake",
+        "meaning_ko": "기념품"
+      },
+      {
+        "word": "reminder",
+        "meaning_ko": "상기시키는 것"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "token",
+        "meaning_ko": "표시(범위가 더 넓음)"
+      },
+      {
+        "word": "memorial",
+        "meaning_ko": "기념물"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "memento of the trip",
+            "meaning_ko": "여행의 기념품"
+          },
+          {
+            "phrase": "keep as a memento",
+            "meaning_ko": "기념품으로 간직하다"
+          },
+          {
+            "phrase": "memento from",
+            "meaning_ko": "~에서 온 기념품"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "memento of the past",
+            "meaning_ko": "과거의 기념품"
+          },
+          {
+            "phrase": "cherished memento",
+            "meaning_ko": "소중한 기념품"
+          },
+          {
+            "phrase": "family memento",
+            "meaning_ko": "가족 기념품"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "memento mori",
+            "meaning_ko": "죽음을 상기시키는 물건"
+          },
+          {
+            "phrase": "historical memento",
+            "meaning_ko": "역사적 기념품"
+          },
+          {
+            "phrase": "memento of a lost era",
+            "meaning_ko": "잃어버린 시대의 기념품"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She kept the photo as a memento of her trip.",
+            "meaning_ko": "그녀는 여행의 기념품으로 그 사진을 간직했습니다."
+          },
+          {
+            "sentence": "The ring was a memento from her grandmother.",
+            "meaning_ko": "그 반지는 할머니에게서 온 기념품이었습니다."
+          },
+          {
+            "sentence": "He gave her a memento of their friendship.",
+            "meaning_ko": "그는 그들의 우정의 기념품을 그녀에게 주었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The old letters served as a memento of the past.",
+            "meaning_ko": "그 낡은 편지들은 과거의 기념품 역할을 했습니다."
+          },
+          {
+            "sentence": "She treasured the cherished memento from her childhood.",
+            "meaning_ko": "그녀는 어린 시절의 소중한 기념품을 소중히 여겼습니다."
+          },
+          {
+            "sentence": "The family memento was passed down through generations.",
+            "meaning_ko": "그 가족 기념품은 여러 세대를 거쳐 전해졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The museum displayed historical mementos that captured the essence of a bygone era.",
+            "meaning_ko": "그 박물관은 지나간 시대의 본질을 담은 역사적 기념품들을 전시했습니다."
+          },
+          {
+            "sentence": "The memento mori served as a reminder of life's transience and the importance of living fully.",
+            "meaning_ko": "그 죽음을 상기시키는 물건은 삶의 덧없음과 충실하게 사는 것의 중요성을 상기시켰습니다."
+          },
+          {
+            "sentence": "The collection of mementos from a lost era provided insights into the cultural practices of the past.",
+            "meaning_ko": "잃어버린 시대의 기념품 컬렉션은 과거의 문화적 관행에 대한 통찰을 제공했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "memento은 '기념품, 추억의 물건' 의미로, 특별한 사건이나 사람을 기억하기 위해 간직하는 물건을 가리킵니다. souvenir, keepsake와 비슷하지만 더 격식 있는 표현입니다. 문학이나 회고록 지문에서 자주 나오므로, 이런 문맥에서 '기념품'과 연결되면 memento로 해석하면 됩니다.",
+    "tags": [
+      "기념품",
+      "추억",
+      "문학",
+      "격식",
+      "문어"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: memento = (A) gift (B) souvenir to remember (C) trash (D) food",
+            "a": "B",
+            "meaning_ko": "memento은 '기억하기 위한 기념품' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She kept the photo as a _____ of her trip.",
+            "a": "memento",
+            "meaning_ko": "memento은 '기념품'을 의미합니다."
+          },
+          {
+            "q": "Which word is related to memento? (A) souvenir (B) trash (C) food (D) enemy",
+            "a": "A",
+            "meaning_ko": "souvenir(기념품)가 memento와 관련된 단어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: a memento _____ the trip. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "memento of ~는 '~의 기념품' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: memento = (A) trash (B) souvenir (C) food (D) enemy",
+            "a": "B",
+            "meaning_ko": "souvenir(기념품)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She kept memento of the trip.' → Fix the sentence.",
+            "a": "She kept a memento of the trip.",
+            "meaning_ko": "memento은 가산명사이므로 관사 a가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The memento served as a reminder of the past.'",
+            "a": "The keepsake helped recall memories of earlier times.",
+            "meaning_ko": "memento은 '기념품'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ were passed down through generations. (A) memento (B) mementos (C) mementoed (D) mementoing",
+            "a": "B",
+            "meaning_ko": "여러 기념품을 의미하므로 복수형 mementos가 적절합니다."
+          },
+          {
+            "q": "Which sentence uses memento most appropriately? (A) The memento ran. (B) She kept a memento. (C) He memento smiled. (D) Memento is good.",
+            "a": "B",
+            "meaning_ko": "memento은 명사로 '기념품'을 의미하며, keep과 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "negligible",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "무시할 수 있는, 하찮은; 너무 작아서 중요하지 않은.",
+        "note": "양이나 영향이 너무 작아서 고려할 필요가 없는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "양이나 영향이 너무 작아서 무시할 수 있고 중요하지 않은 상태.",
+    "etymology": "라틴어 negligere(무시하다)에서 유래했으며, neg-(아닌) + legere(모으다) 계열과 연결됩니다.",
+    "semanticExtension": "원래는 '무시하다' 의미였으나, 현대에는 '무시할 수 있는' 형용사로 굳어졌습니다.",
+    "nuanceRegister": "격식 있는 문어·학술·과학 용어로, 일상 회화에서는 덜 흔합니다.",
+    "grammarNotes": "형용사로 명사를 수식하거나 서술어로 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "negligible + 명사 : 무시할 수 있는 ~"
+    ],
+    "morphology": "neglig-(무시하다) + -ible(가능한)로, '무시할 수 있는' 의미가 직관적입니다.",
+    "derivatives": [
+      {
+        "word": "negligibly",
+        "meaning_ko": "무시할 수 있게"
+      },
+      {
+        "word": "neglect",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "negligence",
+        "meaning_ko": "무시, 과실"
+      }
+    ],
+    "related": [
+      {
+        "word": "insignificant",
+        "meaning_ko": "중요하지 않은"
+      },
+      {
+        "word": "trivial",
+        "meaning_ko": "하찮은"
+      },
+      {
+        "word": "minimal",
+        "meaning_ko": "최소한의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "insignificant",
+        "meaning_ko": "중요하지 않은"
+      },
+      {
+        "word": "trivial",
+        "meaning_ko": "하찮은"
+      },
+      {
+        "word": "minimal",
+        "meaning_ko": "최소한의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "inconsequential",
+        "meaning_ko": "중요하지 않은"
+      },
+      {
+        "word": "negligible",
+        "meaning_ko": "무시할 수 있는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "significant",
+        "meaning_ko": "중요한"
+      },
+      {
+        "word": "substantial",
+        "meaning_ko": "상당한"
+      },
+      {
+        "word": "considerable",
+        "meaning_ko": "상당한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "negligible amount",
+            "meaning_ko": "무시할 수 있는 양"
+          },
+          {
+            "phrase": "negligible effect",
+            "meaning_ko": "무시할 수 있는 효과"
+          },
+          {
+            "phrase": "negligible difference",
+            "meaning_ko": "무시할 수 있는 차이"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "negligible impact",
+            "meaning_ko": "무시할 수 있는 영향"
+          },
+          {
+            "phrase": "negligible risk",
+            "meaning_ko": "무시할 수 있는 위험"
+          },
+          {
+            "phrase": "negligible cost",
+            "meaning_ko": "무시할 수 있는 비용"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "negligible probability",
+            "meaning_ko": "무시할 수 있는 확률"
+          },
+          {
+            "phrase": "negligible contribution",
+            "meaning_ko": "무시할 수 있는 기여"
+          },
+          {
+            "phrase": "statistically negligible",
+            "meaning_ko": "통계적으로 무시할 수 있는"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The difference in price was negligible.",
+            "meaning_ko": "가격 차이는 무시할 수 있었습니다."
+          },
+          {
+            "sentence": "The effect on the environment was negligible.",
+            "meaning_ko": "환경에 미치는 영향은 무시할 수 있었습니다."
+          },
+          {
+            "sentence": "The amount of money was negligible.",
+            "meaning_ko": "그 돈의 양은 무시할 수 있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The impact of the policy change was negligible.",
+            "meaning_ko": "정책 변화의 영향은 무시할 수 있었습니다."
+          },
+          {
+            "sentence": "The risk of side effects is negligible.",
+            "meaning_ko": "부작용의 위험은 무시할 수 있습니다."
+          },
+          {
+            "sentence": "The cost difference between the two options was negligible.",
+            "meaning_ko": "두 옵션 사이의 비용 차이는 무시할 수 있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The probability of such an event occurring is statistically negligible.",
+            "meaning_ko": "그런 사건이 발생할 확률은 통계적으로 무시할 수 있습니다."
+          },
+          {
+            "sentence": "The contribution of this factor to the overall result was negligible compared to other variables.",
+            "meaning_ko": "이 요인의 전체 결과에 대한 기여는 다른 변수들과 비교할 때 무시할 수 있었습니다."
+          },
+          {
+            "sentence": "Researchers concluded that the measurement error was negligible and did not affect the study's validity.",
+            "meaning_ko": "연구자들은 측정 오차가 무시할 수 있고 연구의 타당성에 영향을 미치지 않는다고 결론지었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "negligible은 '무시할 수 있는' 의미로, 양이나 영향이 너무 작아서 중요하지 않은 상태를 가리킵니다. insignificant, trivial과 비슷하지만 더 격식 있는 표현입니다. 학술·과학 지문에서 자주 나오므로, 이런 문맥에서 '무시할 수 있는'과 연결되면 negligible로 해석하면 됩니다.",
+    "tags": [
+      "학술",
+      "과학",
+      "양",
+      "격식",
+      "문어"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: negligible = (A) significant (B) too small to matter (C) large (D) important",
+            "a": "B",
+            "meaning_ko": "negligible은 '너무 작아서 중요하지 않은' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The difference was _____.",
+            "a": "negligible",
+            "meaning_ko": "negligible은 '무시할 수 있는' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of negligible? (A) trivial (B) significant (C) minimal (D) small",
+            "a": "B",
+            "meaning_ko": "significant(중요한)가 negligible의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The impact was _____. (A) negligible (B) negligibly (C) negligibleness (D) neglect",
+            "a": "A",
+            "meaning_ko": "impact를 수식하는 형용사 negligible이 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: negligible = (A) significant (B) insignificant (C) large (D) important",
+            "a": "B",
+            "meaning_ko": "insignificant(중요하지 않은)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The effect is negligible.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "negligible은 형용사로 서술어로 쓰일 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The probability is statistically negligible.'",
+            "a": "The likelihood is so small that it can be ignored in statistical analysis.",
+            "meaning_ko": "negligible은 '무시할 수 있는' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ contribution did not affect results. (A) negligible (B) negligibly (C) negligibleness (D) neglect",
+            "a": "A",
+            "meaning_ko": "contribution을 수식하는 형용사 negligible이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses negligible most appropriately? (A) The negligible ran. (B) The effect was negligible. (C) She negligible smiled. (D) Negligible is good.",
+            "a": "B",
+            "meaning_ko": "negligible은 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

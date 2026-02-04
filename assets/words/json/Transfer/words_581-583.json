@@ -1,0 +1,825 @@
+[
+  {
+    "word": "freeze",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "얼다, 얼리다; 액체가 고체로 변하거나 고체로 만들다.",
+        "note": "액체가 고체로 변하거나 고체로 만드는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "얼어붙다, 멈추다; 움직임이나 활동이 멈추다.",
+        "note": "움직임이나 활동이 멈추는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "동결, 얼음; 액체가 고체로 변한 상태.",
+        "note": "액체가 고체로 변한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "액체가 고체로 변하거나 고체로 만드는 것, 또는 움직임이나 활동이 멈추는 것, 또는 액체가 고체로 변한 상태.",
+    "etymology": "고대 영어 frēosan(얼다)에서 유래했으며, 원래는 '얼다' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '얼다' 의미였으며, 현대에는 '움직임이나 활동이 멈추다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사와 불가산명사 모두로, 동사로는 타동사와 자동사 모두로 쓰이며, freeze + 명사 또는 freeze 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산·불가산 모두(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "over",
+        "meaning_ko": "~에 얼다",
+        "example": "freeze over"
+      },
+      {
+        "prep": "up",
+        "meaning_ko": "완전히 얼다",
+        "example": "freeze up"
+      }
+    ],
+    "requiredComplements": [
+      "freeze + 명사 : ~을 얼리다",
+      "freeze : 얼다",
+      "freeze over/up : ~에 얼다/완전히 얼다"
+    ],
+    "morphology": "고대 영어 frēosan에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "frozen",
+        "meaning_ko": "얼은(과거분사/형용사)"
+      },
+      {
+        "word": "freezing",
+        "meaning_ko": "얼고 있는(현재분사/형용사)"
+      },
+      {
+        "word": "freezer",
+        "meaning_ko": "냉동고"
+      }
+    ],
+    "related": [
+      {
+        "word": "solidify",
+        "meaning_ko": "고체화하다"
+      },
+      {
+        "word": "stop",
+        "meaning_ko": "멈추다"
+      },
+      {
+        "word": "halt",
+        "meaning_ko": "정지하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "solidify",
+        "meaning_ko": "고체화하다"
+      },
+      {
+        "word": "stop",
+        "meaning_ko": "멈추다"
+      },
+      {
+        "word": "halt",
+        "meaning_ko": "정지하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "ice",
+        "meaning_ko": "얼다(범위가 더 넓음)"
+      },
+      {
+        "word": "pause",
+        "meaning_ko": "일시 정지하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "melt",
+        "meaning_ko": "녹다"
+      },
+      {
+        "word": "thaw",
+        "meaning_ko": "녹다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "freeze over",
+            "meaning_ko": "~에 얼다"
+          },
+          {
+            "phrase": "freeze up",
+            "meaning_ko": "완전히 얼다"
+          },
+          {
+            "phrase": "freeze to death",
+            "meaning_ko": "얼어 죽다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "freeze the assets",
+            "meaning_ko": "자산을 동결하다"
+          },
+          {
+            "phrase": "freeze in place",
+            "meaning_ko": "제자리에 멈추다"
+          },
+          {
+            "phrase": "freeze frame",
+            "meaning_ko": "정지 화면"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "freeze the prices",
+            "meaning_ko": "가격을 동결하다"
+          },
+          {
+            "phrase": "freeze in fear",
+            "meaning_ko": "공포로 멈추다"
+          },
+          {
+            "phrase": "freeze the account",
+            "meaning_ko": "계좌를 동결하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The water will freeze in winter.",
+            "meaning_ko": "그 물은 겨울에 얼 것입니다."
+          },
+          {
+            "sentence": "She froze when she saw the snake.",
+            "meaning_ko": "그녀는 그 뱀을 봤을 때 멈췄습니다."
+          },
+          {
+            "sentence": "They decided to freeze the prices.",
+            "meaning_ko": "그들은 그 가격을 동결하기로 결정했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The water will freeze in winter, creating ice that can be dangerous for travelers and requiring precautions to ensure safety on roads and walkways.",
+            "meaning_ko": "그 물은 겨울에 얼 것이고, 여행자들에게 위험할 수 있는 얼음을 만들고 도로와 보행로에서 안전을 보장하기 위한 예방 조치를 요구합니다."
+          },
+          {
+            "sentence": "She froze when she saw the snake, her body's automatic response to fear causing her to stop moving completely, though she knew she should back away slowly.",
+            "meaning_ko": "그녀는 그 뱀을 봤을 때 멈췄고, 그녀의 몸의 공포에 대한 자동 반응이 그녀를 완전히 움직임을 멈추게 만들었지만, 그녀는 천천히 뒤로 물러서야 한다는 것을 알고 있었습니다."
+          },
+          {
+            "sentence": "They decided to freeze the prices temporarily to help consumers during the economic crisis, though this measure would need to be reviewed as market conditions changed.",
+            "meaning_ko": "그들은 그 경제 위기 동안 소비자들을 돕기 위해 가격을 일시적으로 동결하기로 결정했지만, 이 조치는 시장 조건이 변함에 따라 검토될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The government's decision to freeze the prices of essential goods was intended to provide relief to struggling families, though economists warned that such price controls could lead to shortages and market distortions in the long term.",
+            "meaning_ko": "정부가 필수 상품의 가격을 동결하기로 한 결정은 어려움을 겪는 가족들에게 구제를 제공하기 위한 것이었지만, 경제학자들은 그러한 가격 통제가 장기적으로 부족과 시장 왜곡으로 이어질 수 있다고 경고했습니다."
+          },
+          {
+            "sentence": "The witness froze in fear when confronted by the suspect, the overwhelming terror causing a complete physical and mental paralysis that prevented any response or action.",
+            "meaning_ko": "그 증인은 그 용의자에 의해 직면되었을 때 공포로 멈췄고, 압도적인 공포가 어떤 반응이나 행동도 방지하는 완전한 신체적이고 정신적 마비를 일으켰습니다."
+          },
+          {
+            "sentence": "The bank was ordered to freeze the account pending investigation, preventing any transactions until authorities could determine whether the funds were connected to illegal activities.",
+            "meaning_ko": "그 은행은 조사가 진행되는 동안 그 계좌를 동결하라는 명령을 받았고, 당국이 그 자금이 불법 활동과 연결되어 있는지 결정할 때까지 어떤 거래도 방지했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "freeze는 '얼다, 얼리다' 또는 '얼어붙다, 멈추다' 또는 '동결, 얼음' 의미로, 액체가 고체로 변하거나 고체로 만드는 행동을 가리킵니다. solidify, stop와 비슷하지만 더 일반적 표현입니다. freeze over/up, freeze the assets 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "상태",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: freeze = (A) melt (B) solidify or stop (C) thaw (D) warm",
+            "a": "B",
+            "meaning_ko": "freeze는 '고체화하거나 멈추다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The water will _____ in winter.",
+            "a": "freeze",
+            "meaning_ko": "freeze는 '얼다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of freeze? (A) solidify (B) stop (C) melt (D) halt",
+            "a": "C",
+            "meaning_ko": "melt(녹다)가 freeze의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: freeze _____ the assets. (A) over (B) up (C) at (D) on",
+            "a": "A",
+            "meaning_ko": "freeze + 명사는 '~을 동결하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: freeze = (A) melt (B) solidify (C) thaw (D) warm",
+            "a": "B",
+            "meaning_ko": "solidify(고체화하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They decided to freeze on the prices.' → Fix the sentence.",
+            "a": "They decided to freeze the prices.",
+            "meaning_ko": "freeze + 명사는 '~을 동결하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They decided to freeze the prices.'",
+            "a": "They made a decision to maintain prices at their current level and prevent any increases or decreases, implementing a price control measure that would keep costs stable for a specified period.",
+            "meaning_ko": "freeze the prices는 '가격을 동결하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She _____ when she saw the snake. (A) freeze (B) freezes (C) freezing (D) froze",
+            "a": "D",
+            "meaning_ko": "과거 시제에서 과거형 froze가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses freeze most appropriately? (A) The freeze ran. (B) She froze when she saw the snake. (C) She freeze smiled. (D) Freeze is good.",
+            "a": "B",
+            "meaning_ko": "freeze는 자동사로 '멈추다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lecherous",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "음란한, 호색적인; 성적 욕구가 과도하고 부적절한.",
+        "note": "성적 욕구가 과도하고 부적절한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "성적 욕구가 과도하고 부적절한 음란한 상태.",
+    "etymology": "고대 영어 leccor(음란한 사람)에서 유래했으며, 원래는 '음란한 사람' 의미였으나 현대에는 '음란한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '음란한 사람' 의미였으나, 현대에는 '성적 욕구가 과도하고 부적절한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 매우 부정적 뉘앙스가 있습니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be lecherous 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be lecherous : 음란하다",
+      "lecherous + 명사 : 음란한 ~"
+    ],
+    "morphology": "고대 영어 leccor에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "lecherously",
+        "meaning_ko": "음란하게"
+      },
+      {
+        "word": "lecherousness",
+        "meaning_ko": "음란함"
+      },
+      {
+        "word": "lecher",
+        "meaning_ko": "음란한 사람"
+      }
+    ],
+    "related": [
+      {
+        "word": "lustful",
+        "meaning_ko": "욕정에 사로잡힌"
+      },
+      {
+        "word": "lewd",
+        "meaning_ko": "음란한"
+      },
+      {
+        "word": "licentious",
+        "meaning_ko": "방종한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "lustful",
+        "meaning_ko": "욕정에 사로잡힌"
+      },
+      {
+        "word": "lewd",
+        "meaning_ko": "음란한"
+      },
+      {
+        "word": "licentious",
+        "meaning_ko": "방종한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "promiscuous",
+        "meaning_ko": "난잡한(범위가 더 넓음)"
+      },
+      {
+        "word": "wanton",
+        "meaning_ko": "방종한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "chaste",
+        "meaning_ko": "순결한"
+      },
+      {
+        "word": "modest",
+        "meaning_ko": "겸손한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "lecherous behavior",
+            "meaning_ko": "음란한 행동"
+          },
+          {
+            "phrase": "lecherous look",
+            "meaning_ko": "음란한 시선"
+          },
+          {
+            "phrase": "lecherous man",
+            "meaning_ko": "음란한 남자"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "lecherous comments",
+            "meaning_ko": "음란한 코멘트"
+          },
+          {
+            "phrase": "lecherous advances",
+            "meaning_ko": "음란한 접근"
+          },
+          {
+            "phrase": "lecherous attitude",
+            "meaning_ko": "음란한 태도"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "lecherous intentions",
+            "meaning_ko": "음란한 의도"
+          },
+          {
+            "phrase": "lecherous conduct",
+            "meaning_ko": "음란한 행위"
+          },
+          {
+            "phrase": "lecherous remarks",
+            "meaning_ko": "음란한 발언"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was known for his lecherous behavior.",
+            "meaning_ko": "그는 그의 음란한 행동으로 알려져 있었습니다."
+          },
+          {
+            "sentence": "She felt uncomfortable with his lecherous look.",
+            "meaning_ko": "그녀는 그의 음란한 시선에 불편함을 느꼈습니다."
+          },
+          {
+            "sentence": "The lecherous comments were inappropriate.",
+            "meaning_ko": "그 음란한 코멘트들은 부적절했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was known for his lecherous behavior, which made many people uncomfortable and led to complaints about his inappropriate conduct in professional and social settings.",
+            "meaning_ko": "그는 그의 음란한 행동으로 알려져 있었고, 이것은 많은 사람들을 불편하게 만들었고 전문적이고 사회적 환경에서 그의 부적절한 행위에 대한 불만으로 이어졌습니다."
+          },
+          {
+            "sentence": "She felt uncomfortable with his lecherous look, the inappropriate and sexualized gaze making her feel objectified and prompting her to remove herself from the situation.",
+            "meaning_ko": "그녀는 그의 음란한 시선에 불편함을 느꼈고, 부적절하고 성적화된 응시가 그녀를 대상화된 느낌을 받게 만들었고 그 상황에서 자신을 제거하도록 촉진했습니다."
+          },
+          {
+            "sentence": "The lecherous comments were inappropriate for the workplace, violating professional boundaries and creating a hostile environment that required intervention from human resources.",
+            "meaning_ko": "그 음란한 코멘트들은 직장에 부적절했고, 전문적 경계를 위반했고 인사 부서의 개입이 필요한 적대적 환경을 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The investigation revealed a pattern of lecherous conduct that had persisted for years, with multiple victims coming forward to report inappropriate behavior that had been ignored or dismissed by those in positions of authority.",
+            "meaning_ko": "그 조사는 몇 년 동안 지속되었던 음란한 행위의 패턴을 드러냈고, 여러 피해자들이 권위 있는 위치에 있는 사람들에 의해 무시되거나 기각되었던 부적절한 행동을 보고하기 위해 나왔습니다."
+          },
+          {
+            "sentence": "The lecherous remarks made during the meeting were documented and reported, leading to disciplinary action and highlighting the need for better training on appropriate workplace communication and respect for colleagues.",
+            "meaning_ko": "그 회의 중에 만들어진 그 음란한 발언은 문서화되고 보고되었고, 징계 조치로 이어졌고 적절한 직장 커뮤니케이션과 동료에 대한 존중에 대한 더 나은 훈련의 필요성을 강조했습니다."
+          },
+          {
+            "sentence": "The character's lecherous intentions in the novel served as a critique of power dynamics and sexual exploitation, using the narrative to explore themes of consent, agency, and the consequences of inappropriate behavior.",
+            "meaning_ko": "그 소설에서 그 캐릭터의 음란한 의도는 권력 역학과 성적 착취에 대한 비판으로 작용했고, 서사를 사용하여 동의, 주체성, 부적절한 행동의 결과에 대한 주제를 탐구했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "lecherous는 '음란한, 호색적인' 의미로, 성적 욕구가 과도하고 부적절한 상태를 가리킵니다. 매우 부정적 단어로, lustful, lewd와 비슷하지만 더 강한 뉘앙스가 있습니다. lecherous behavior, lecherous look 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "성격",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: lecherous = (A) chaste (B) lustful or lewd (C) modest (D) pure",
+            "a": "B",
+            "meaning_ko": "lecherous는 '욕정에 사로잡힌 또는 음란한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was known for his _____ behavior.",
+            "a": "lecherous",
+            "meaning_ko": "lecherous는 '음란한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of lecherous? (A) lustful (B) lewd (C) chaste (D) licentious",
+            "a": "C",
+            "meaning_ko": "chaste(순결한)가 lecherous의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ comments were inappropriate. (A) lecherous (B) lecherously (C) lecherousness (D) lecher",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 lecherous가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: lecherous = (A) chaste (B) lustful (C) modest (D) pure",
+            "a": "B",
+            "meaning_ko": "lustful(욕정에 사로잡힌)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He was known for his lecherously behavior.' → Fix the sentence.",
+            "a": "He was known for his lecherous behavior.",
+            "meaning_ko": "명사를 수식하는 형용사 lecherous가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was known for his lecherous behavior.'",
+            "a": "He had a reputation for engaging in inappropriate and excessive sexual behavior, displaying lustful and lewd conduct that made others uncomfortable and violated social norms regarding appropriate interaction.",
+            "meaning_ko": "lecherous behavior는 '음란한 행동'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: She felt uncomfortable with his _____ look. (A) lecherous (B) lecherously (C) lecherousness (D) lecher",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 lecherous가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses lecherous most appropriately? (A) The lecherous ran. (B) He was known for his lecherous behavior. (C) She lecherous smiled. (D) Lecherous is good.",
+            "a": "B",
+            "meaning_ko": "lecherous는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sprawl",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "무질서하게 뻗다, 널브러지다; 팔다리를 벌리고 무질서하게 뻗거나 널브러지다.",
+        "note": "팔다리를 벌리고 무질서하게 뻗거나 널브러지는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "무질서한 확장, 산재; 도시나 건물의 무질서한 확장이나 산재.",
+        "note": "도시나 건물의 무질서한 확장이나 산재를 가리킵니다."
+      }
+    ],
+    "concept": "팔다리를 벌리고 무질서하게 뻗거나 널브러지는 것, 또는 도시나 건물의 무질서한 확장이나 산재.",
+    "etymology": "고대 영어 sprēawlian(뻗다)에서 유래했으며, 원래는 '뻗다' 의미였으나 현대에는 '무질서하게 뻗다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '뻗다' 의미였으나, 현대에는 '팔다리를 벌리고 무질서하게 뻗다' 또는 '도시나 건물의 무질서한 확장'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 불가산명사로, 동사로는 자동사와 타동사 모두로 쓰이며, sprawl + 명사 또는 sprawl 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "불가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "out",
+        "meaning_ko": "널브러지다",
+        "example": "sprawl out"
+      },
+      {
+        "prep": "across",
+        "meaning_ko": "~에 걸쳐 뻗다",
+        "example": "sprawl across the floor"
+      }
+    ],
+    "requiredComplements": [
+      "sprawl + 명사 : ~을 무질서하게 뻗다",
+      "sprawl out/across : 널브러지다/~에 걸쳐 뻗다"
+    ],
+    "morphology": "고대 영어 sprēawlian에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "sprawled",
+        "meaning_ko": "널브러진(과거분사/형용사)"
+      },
+      {
+        "word": "sprawling",
+        "meaning_ko": "널브러지는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "spread",
+        "meaning_ko": "퍼지다"
+      },
+      {
+        "word": "stretch",
+        "meaning_ko": "뻗다"
+      },
+      {
+        "word": "extend",
+        "meaning_ko": "확장하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "spread",
+        "meaning_ko": "퍼지다"
+      },
+      {
+        "word": "stretch",
+        "meaning_ko": "뻗다"
+      },
+      {
+        "word": "extend",
+        "meaning_ko": "확장하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "expand",
+        "meaning_ko": "확장하다(범위가 더 넓음)"
+      },
+      {
+        "word": "sprawl",
+        "meaning_ko": "널브러지다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "compact",
+        "meaning_ko": "압축하다"
+      },
+      {
+        "word": "contract",
+        "meaning_ko": "수축하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sprawl out",
+            "meaning_ko": "널브러지다"
+          },
+          {
+            "phrase": "sprawl across",
+            "meaning_ko": "~에 걸쳐 뻗다"
+          },
+          {
+            "phrase": "urban sprawl",
+            "meaning_ko": "도시 확장"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sprawl across the floor",
+            "meaning_ko": "바닥에 걸쳐 널브러지다"
+          },
+          {
+            "phrase": "sprawl on the couch",
+            "meaning_ko": "소파에 널브러지다"
+          },
+          {
+            "phrase": "suburban sprawl",
+            "meaning_ko": "교외 확장"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sprawl uncontrollably",
+            "meaning_ko": "통제 불가능하게 확장하다"
+          },
+          {
+            "phrase": "sprawl into",
+            "meaning_ko": "~로 확장하다"
+          },
+          {
+            "phrase": "sprawl of development",
+            "meaning_ko": "개발의 확장"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He sprawled on the couch.",
+            "meaning_ko": "그는 그 소파에 널브러졌습니다."
+          },
+          {
+            "sentence": "The city sprawl extended for miles.",
+            "meaning_ko": "그 도시 확장은 몇 마일에 걸쳐 확장되었습니다."
+          },
+          {
+            "sentence": "She sprawled across the bed.",
+            "meaning_ko": "그녀는 그 침대에 걸쳐 널브러졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He sprawled on the couch after a long day, his body relaxed and limbs spread out in a comfortable position that showed his exhaustion.",
+            "meaning_ko": "그는 긴 하루 후에 그 소파에 널브러졌고, 그의 몸은 편안했고 팔다리는 그의 피로를 보여주는 편안한 위치에 펼쳐졌습니다."
+          },
+          {
+            "sentence": "The city sprawl extended for miles, with residential and commercial developments spreading outward in an unplanned manner that consumed agricultural land and created transportation challenges.",
+            "meaning_ko": "그 도시 확장은 몇 마일에 걸쳐 확장되었고, 주거 및 상업 개발이 계획되지 않은 방식으로 외부로 퍼져 농지를 소비하고 교통 도전을 만들었습니다."
+          },
+          {
+            "sentence": "She sprawled across the bed, taking up most of the space with her relaxed posture, which made it difficult for others to find room to sleep.",
+            "meaning_ko": "그녀는 그 침대에 걸쳐 널브러졌고, 그녀의 편안한 자세로 대부분의 공간을 차지했고, 이것은 다른 사람들이 잠을 잘 공간을 찾는 것을 어렵게 만들었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The urban sprawl extended uncontrollably into the surrounding countryside, with developers building housing complexes and shopping centers that transformed rural landscapes and raised concerns about environmental impact and sustainable growth.",
+            "meaning_ko": "그 도시 확장은 통제 불가능하게 주변 시골로 확장되었고, 개발자들이 농촌 경관을 변형하고 환경적 영향과 지속 가능한 성장에 대한 우려를 제기한 주거 단지와 쇼핑 센터를 건설했습니다."
+          },
+          {
+            "sentence": "The sprawl of development into previously undeveloped areas prompted debates about land use policies, as planners and environmentalists argued over the balance between economic growth and preservation of natural spaces.",
+            "meaning_ko": "이전에 개발되지 않은 지역으로의 개발의 확장은 토지 사용 정책에 대한 논쟁을 촉발했고, 계획자들과 환경론자들이 경제 성장과 자연 공간 보존 사이의 균형에 대해 논쟁했기 때문입니다."
+          },
+          {
+            "sentence": "The metropolitan area's sprawl into neighboring regions created challenges for infrastructure planning, as transportation networks, utilities, and public services struggled to keep pace with the rapid and uncoordinated expansion.",
+            "meaning_ko": "그 대도시 지역의 인접 지역으로의 확장은 인프라 계획에 대한 도전을 만들었고, 교통 네트워크, 공공 시설, 공공 서비스가 빠르고 조정되지 않은 확장에 맞춰 나아가는 데 고군분투했기 때문입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sprawl는 '무질서하게 뻗다, 널브러지다' 또는 '무질서한 확장, 산재' 의미로, 팔다리를 벌리고 무질서하게 뻗거나 널브러지는 행동을 가리킵니다. spread, stretch와 비슷하지만 더 무질서한 뉘앙스가 있습니다. sprawl out/across, urban sprawl 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "행동",
+      "지리",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sprawl = (A) compact (B) spread out or extend (C) contract (D) shrink",
+            "a": "B",
+            "meaning_ko": "sprawl는 '퍼지거나 확장하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ on the couch.",
+            "a": "sprawled",
+            "meaning_ko": "sprawl는 '널브러지다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of sprawl? (A) spread (B) stretch (C) compact (D) extend",
+            "a": "C",
+            "meaning_ko": "compact(압축하다)가 sprawl의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: sprawl _____ the floor. (A) across (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "sprawl across ~는 '~에 걸쳐 뻗다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: sprawl = (A) compact (B) spread (C) contract (D) shrink",
+            "a": "B",
+            "meaning_ko": "spread(퍼지다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He sprawled on the couch.' → This is correct, but if you want to emphasize 'across', use:",
+            "a": "He sprawled across the couch.",
+            "meaning_ko": "sprawl across ~는 '~에 걸쳐 뻗다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The city sprawl extended for miles.'",
+            "a": "The uncontrolled and unplanned expansion of the urban area spread outward across many miles, with development extending in a disorganized manner that consumed surrounding land and created challenges for infrastructure and planning.",
+            "meaning_ko": "city sprawl는 '도시 확장'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: She _____ across the bed. (A) sprawl (B) sprawls (C) sprawling (D) sprawled",
+            "a": "B",
+            "meaning_ko": "단수 주어에서 동사 3인칭 단수형 sprawls가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sprawl most appropriately? (A) The sprawl ran. (B) He sprawled on the couch. (C) She sprawl smiled. (D) Sprawl is good.",
+            "a": "B",
+            "meaning_ko": "sprawl는 자동사로 '널브러지다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

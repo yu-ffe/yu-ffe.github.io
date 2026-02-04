@@ -1,0 +1,762 @@
+[
+  {
+    "word": "equation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "방정식; 수학에서 등호로 연결된 식.",
+        "note": "수학에서 등호로 연결된 식을 가리킵니다."
+      },
+      {
+        "definition_ko": "균형, 등식; 두 가지 요소가 같거나 균형을 이루는 상태.",
+        "note": "두 가지 요소가 같거나 균형을 이루는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "수학에서 등호로 연결된 식인 방정식, 또는 두 가지 요소가 같거나 균형을 이루는 상태.",
+    "etymology": "라틴어 aequatio(같게 하기)에서 유래했으며, 원래는 '같게 하기' 의미였으나 현대에는 '방정식'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '같게 하기' 의미였으나, 현대에는 '등호로 연결된 식' 또는 '균형'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 수학·과학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사로 an equation, equations 형태로 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "equation of + 명사 : ~의 방정식",
+      "solve an equation : 방정식을 풀다"
+    ],
+    "morphology": "라틴어 aequatio에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "equate",
+        "meaning_ko": "같게 하다"
+      },
+      {
+        "word": "equational",
+        "meaning_ko": "방정식의"
+      }
+    ],
+    "related": [
+      {
+        "word": "formula",
+        "meaning_ko": "공식"
+      },
+      {
+        "word": "expression",
+        "meaning_ko": "식"
+      },
+      {
+        "word": "balance",
+        "meaning_ko": "균형"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "formula",
+        "meaning_ko": "공식"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "expression",
+        "meaning_ko": "식(범위가 더 넓음)"
+      },
+      {
+        "word": "balance",
+        "meaning_ko": "균형(비유적 의미)"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "solve an equation",
+            "meaning_ko": "방정식을 풀다"
+          },
+          {
+            "phrase": "quadratic equation",
+            "meaning_ko": "이차 방정식"
+          },
+          {
+            "phrase": "linear equation",
+            "meaning_ko": "일차 방정식"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "differential equation",
+            "meaning_ko": "미분 방정식"
+          },
+          {
+            "phrase": "equation of motion",
+            "meaning_ko": "운동 방정식"
+          },
+          {
+            "phrase": "balance equation",
+            "meaning_ko": "균형 방정식"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "partial differential equation",
+            "meaning_ko": "편미분 방정식"
+          },
+          {
+            "phrase": "equation of state",
+            "meaning_ko": "상태 방정식"
+          },
+          {
+            "phrase": "master equation",
+            "meaning_ko": "마스터 방정식"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The student solved the equation correctly.",
+            "meaning_ko": "그 학생은 방정식을 올바르게 풀었습니다."
+          },
+          {
+            "sentence": "We learned about quadratic equations in math class.",
+            "meaning_ko": "우리는 수학 수업에서 이차 방정식에 대해 배웠습니다."
+          },
+          {
+            "sentence": "The linear equation was easy to solve.",
+            "meaning_ko": "그 일차 방정식은 풀기 쉬웠습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The differential equation described the behavior of the system over time.",
+            "meaning_ko": "그 미분 방정식은 시간에 따른 시스템의 행동을 설명했습니다."
+          },
+          {
+            "sentence": "The equation of motion helped physicists predict the trajectory of the particle.",
+            "meaning_ko": "그 운동 방정식은 물리학자들이 입자의 궤적을 예측하는 데 도움이 되었습니다."
+          },
+          {
+            "sentence": "The balance equation ensured that all inputs equaled the outputs in the system.",
+            "meaning_ko": "그 균형 방정식은 시스템에서 모든 입력이 출력과 같도록 보장했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The partial differential equation required advanced mathematical techniques to solve, involving complex boundary conditions.",
+            "meaning_ko": "그 편미분 방정식은 복잡한 경계 조건을 포함하여 해결하기 위해 고급 수학 기법이 필요했습니다."
+          },
+          {
+            "sentence": "The equation of state for the gas described the relationship between pressure, volume, and temperature under various conditions.",
+            "meaning_ko": "그 기체의 상태 방정식은 다양한 조건에서 압력, 부피, 온도 간의 관계를 설명했습니다."
+          },
+          {
+            "sentence": "The master equation in statistical mechanics provided a framework for understanding the evolution of probability distributions.",
+            "meaning_ko": "통계 역학의 마스터 방정식은 확률 분포의 진화를 이해하기 위한 프레임워크를 제공했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "equation은 '방정식' 의미로, 수학에서 등호로 연결된 식을 가리킵니다. formula(공식)와 비슷하지만, equation은 등호가 있는 식을 의미합니다. solve an equation, quadratic equation 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "수학",
+      "과학",
+      "일상 회화",
+      "학습",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: equation = (A) problem (B) mathematical statement with equals sign (C) question (D) answer",
+            "a": "B",
+            "meaning_ko": "equation은 '등호가 있는 수학적 식' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The student solved the _____ correctly.",
+            "a": "equation",
+            "meaning_ko": "equation은 '방정식'을 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'find the solution'? (A) solve an equation (B) write an equation (C) read an equation (D) copy an equation",
+            "a": "A",
+            "meaning_ko": "solve an equation는 '방정식을 풀다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: We learned about quadratic _____. (A) equation (B) equations (C) equational (D) equate",
+            "a": "B",
+            "meaning_ko": "복수형 equations가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: equation = (A) problem (B) formula (C) question (D) answer",
+            "a": "B",
+            "meaning_ko": "formula(공식)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The equation was solve.' → Fix the sentence.",
+            "a": "The equation was solved.",
+            "meaning_ko": "수동태에서 과거분사 solved가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The differential equation described the system behavior.'",
+            "a": "The mathematical statement with derivatives that shows how quantities change explained how the system operates.",
+            "meaning_ko": "differential equation는 '미분 방정식'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of motion predicted trajectory. (A) equation (B) equations (C) equational (D) equate",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 equation이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses equation most appropriately? (A) The equation ran. (B) They solved the equation. (C) She equation smiled. (D) Equation is good.",
+            "a": "B",
+            "meaning_ko": "equation은 명사로 '방정식'을 의미하며, solve와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "debilitate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "약화시키다, 쇠약하게 하다; 힘이나 능력을 약하게 만들다.",
+        "note": "힘이나 능력을 약하게 만드는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "힘이나 능력을 약하게 만드는 것.",
+    "etymology": "라틴어 debilitare(약화시키다)에서 유래했으며, 원래는 '약화시키다' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '약화시키다' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 격식 있는 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 debilitate + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "debilitate + 명사 : ~을 약화시키다"
+    ],
+    "morphology": "라틴어 debilitare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "debilitating",
+        "meaning_ko": "약화시키는(현재분사/형용사)"
+      },
+      {
+        "word": "debilitation",
+        "meaning_ko": "약화"
+      },
+      {
+        "word": "debilitated",
+        "meaning_ko": "약화된(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "weaken",
+        "meaning_ko": "약화시키다"
+      },
+      {
+        "word": "enfeeble",
+        "meaning_ko": "약화시키다"
+      },
+      {
+        "word": "sap",
+        "meaning_ko": "약화시키다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "weaken",
+        "meaning_ko": "약화시키다"
+      },
+      {
+        "word": "enfeeble",
+        "meaning_ko": "약화시키다"
+      },
+      {
+        "word": "sap",
+        "meaning_ko": "약화시키다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "undermine",
+        "meaning_ko": "약화시키다(범위가 더 넓음)"
+      },
+      {
+        "word": "cripple",
+        "meaning_ko": "무력화시키다(강도가 더 강함)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "strengthen",
+        "meaning_ko": "강화시키다"
+      },
+      {
+        "word": "fortify",
+        "meaning_ko": "강화시키다"
+      },
+      {
+        "word": "energize",
+        "meaning_ko": "활력을 주다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "debilitate the body",
+            "meaning_ko": "몸을 약화시키다"
+          },
+          {
+            "phrase": "debilitate the economy",
+            "meaning_ko": "경제를 약화시키다"
+          },
+          {
+            "phrase": "debilitate someone",
+            "meaning_ko": "누군가를 약화시키다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "debilitate the system",
+            "meaning_ko": "시스템을 약화시키다"
+          },
+          {
+            "phrase": "debilitate the organization",
+            "meaning_ko": "조직을 약화시키다"
+          },
+          {
+            "phrase": "debilitate the immune system",
+            "meaning_ko": "면역 체계를 약화시키다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "debilitate the infrastructure",
+            "meaning_ko": "인프라를 약화시키다"
+          },
+          {
+            "phrase": "debilitate the workforce",
+            "meaning_ko": "노동력을 약화시키다"
+          },
+          {
+            "phrase": "debilitate the capacity",
+            "meaning_ko": "능력을 약화시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The illness debilitated his body.",
+            "meaning_ko": "그 질병은 그의 몸을 약화시켰습니다."
+          },
+          {
+            "sentence": "The economic crisis debilitated the country's economy.",
+            "meaning_ko": "그 경제 위기는 그 나라의 경제를 약화시켰습니다."
+          },
+          {
+            "sentence": "The disease can debilitate patients for months.",
+            "meaning_ko": "그 질병은 환자들을 수개월 동안 약화시킬 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The prolonged conflict debilitated the system's ability to function effectively.",
+            "meaning_ko": "그 장기간의 갈등은 시스템이 효과적으로 작동하는 능력을 약화시켰습니다."
+          },
+          {
+            "sentence": "The scandal debilitated the organization's reputation and credibility.",
+            "meaning_ko": "그 스캔들은 조직의 명성과 신뢰성을 약화시켰습니다."
+          },
+          {
+            "sentence": "Chronic stress can debilitate the immune system, making individuals more susceptible to infections.",
+            "meaning_ko": "만성 스트레스는 면역 체계를 약화시켜 개인들을 감염에 더 취약하게 만들 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The natural disaster debilitated the infrastructure, requiring years of reconstruction to restore full functionality.",
+            "meaning_ko": "그 자연 재해는 인프라를 약화시켰고, 완전한 기능을 복원하기 위해 수년간의 재건이 필요했습니다."
+          },
+          {
+            "sentence": "The economic policies debilitated the workforce by reducing job security and access to healthcare.",
+            "meaning_ko": "그 경제 정책은 직업 안정성과 의료 접근을 줄여 노동력을 약화시켰습니다."
+          },
+          {
+            "sentence": "The systemic corruption debilitated the capacity of government institutions to serve the public effectively.",
+            "meaning_ko": "그 체계적 부패는 정부 기관이 대중에게 효과적으로 봉사하는 능력을 약화시켰습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "debilitate은 '약화시키다, 쇠약하게 하다' 의미로, 힘이나 능력을 약하게 만드는 행동을 가리킵니다. weaken, enfeeble과 비슷하지만 더 격식 있고 강한 뉘앙스가 있습니다. strengthen(강화시키다)와 대비해서 외우면 기억이 오래갑니다.",
+    "tags": [
+      "약화",
+      "건강",
+      "일상 회화",
+      "비즈니스",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: debilitate = (A) strengthen (B) weaken or enfeeble (C) fortify (D) energize",
+            "a": "B",
+            "meaning_ko": "debilitate은 '약화시키다 또는 쇠약하게 하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The illness _____ his body.",
+            "a": "debilitated",
+            "meaning_ko": "debilitate은 '약화시키다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of debilitate? (A) weaken (B) enfeeble (C) strengthen (D) sap",
+            "a": "C",
+            "meaning_ko": "strengthen(강화시키다)가 debilitate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The crisis _____ the economy. (A) debilitate (B) debilitated (C) debilitating (D) debilitates",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 타동사 debilitated가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: debilitate = (A) strengthen (B) weaken (C) fortify (D) energize",
+            "a": "B",
+            "meaning_ko": "weaken(약화시키다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The disease can debilitate patients.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "debilitate + 명사는 '~을 약화시키다' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The conflict debilitated the system's ability.'",
+            "a": "The dispute weakened or reduced the system's capacity to function effectively.",
+            "meaning_ko": "debilitate은 '약화시키다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The policies _____ the workforce. (A) debilitate (B) debilitated (C) debilitating (D) debilitates",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 타동사 debilitated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses debilitate most appropriately? (A) The debilitate ran. (B) The disease debilitated patients. (C) She debilitate smiled. (D) Debilitate is good.",
+            "a": "B",
+            "meaning_ko": "debilitate은 타동사로 '~을 약화시키다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ambience",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "분위기, 환경; 장소나 상황의 전체적인 느낌이나 분위기.",
+        "note": "장소나 상황의 전체적인 느낌이나 분위기를 가리킵니다."
+      }
+    ],
+    "concept": "장소나 상황의 전체적인 느낌이나 분위기.",
+    "etymology": "프랑스어 ambiance(환경)에서 유래했으며, 원래는 '환경' 의미였으나 현대에는 '분위기'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '환경' 의미였으나, 현대에는 '장소나 상황의 전체적인 느낌이나 분위기'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 격식 있는 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, an ambience, ambiences 형태는 드뭅니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "ambience of + 명사 : ~의 분위기",
+      "create an ambience : 분위기를 만들다"
+    ],
+    "morphology": "프랑스어 ambiance에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "ambient",
+        "meaning_ko": "주변의, 분위기의"
+      }
+    ],
+    "related": [
+      {
+        "word": "atmosphere",
+        "meaning_ko": "분위기"
+      },
+      {
+        "word": "mood",
+        "meaning_ko": "분위기"
+      },
+      {
+        "word": "environment",
+        "meaning_ko": "환경"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "atmosphere",
+        "meaning_ko": "분위기"
+      },
+      {
+        "word": "mood",
+        "meaning_ko": "분위기"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "environment",
+        "meaning_ko": "환경(범위가 더 넓음)"
+      },
+      {
+        "word": "vibe",
+        "meaning_ko": "분위기(구어)"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pleasant ambience",
+            "meaning_ko": "쾌적한 분위기"
+          },
+          {
+            "phrase": "romantic ambience",
+            "meaning_ko": "로맨틱한 분위기"
+          },
+          {
+            "phrase": "create an ambience",
+            "meaning_ko": "분위기를 만들다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "relaxing ambience",
+            "meaning_ko": "편안한 분위기"
+          },
+          {
+            "phrase": "ambience of the place",
+            "meaning_ko": "그 장소의 분위기"
+          },
+          {
+            "phrase": "intimate ambience",
+            "meaning_ko": "친밀한 분위기"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sophisticated ambience",
+            "meaning_ko": "세련된 분위기"
+          },
+          {
+            "phrase": "ambience of elegance",
+            "meaning_ko": "우아함의 분위기"
+          },
+          {
+            "phrase": "ambience of tranquility",
+            "meaning_ko": "평온함의 분위기"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The restaurant has a pleasant ambience.",
+            "meaning_ko": "그 레스토랑은 쾌적한 분위기를 가지고 있습니다."
+          },
+          {
+            "sentence": "The candlelight created a romantic ambience.",
+            "meaning_ko": "촛불이 로맨틱한 분위기를 만들었습니다."
+          },
+          {
+            "sentence": "The music added to the ambience of the room.",
+            "meaning_ko": "음악이 방의 분위기에 더했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The hotel's relaxing ambience made guests feel at home immediately.",
+            "meaning_ko": "그 호텔의 편안한 분위기는 손님들이 즉시 편안함을 느끼게 했습니다."
+          },
+          {
+            "sentence": "The ambience of the place reflected its rich cultural heritage.",
+            "meaning_ko": "그 장소의 분위기는 그곳의 풍부한 문화적 유산을 반영했습니다."
+          },
+          {
+            "sentence": "The intimate ambience of the café attracted couples looking for a quiet place to talk.",
+            "meaning_ko": "그 카페의 친밀한 분위기는 조용히 이야기할 장소를 찾는 커플들을 끌어들였습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sophisticated ambience of the gallery, with its carefully curated lighting and minimalist design, enhanced the visitors' appreciation of the artwork.",
+            "meaning_ko": "신중하게 큐레이션된 조명과 미니멀한 디자인을 가진 그 갤러리의 세련된 분위기는 방문자들의 작품 감상을 향상시켰습니다."
+          },
+          {
+            "sentence": "The ambience of elegance in the ballroom, created through classical music and refined decorations, transported guests to a bygone era.",
+            "meaning_ko": "클래식 음악과 세련된 장식으로 만들어진 그 무도장의 우아함의 분위기는 손님들을 과거의 시대로 데려갔습니다."
+          },
+          {
+            "sentence": "The ambience of tranquility in the meditation center, achieved through soft lighting and natural sounds, facilitated deep relaxation and mindfulness.",
+            "meaning_ko": "부드러운 조명과 자연의 소리로 달성된 그 명상 센터의 평온함의 분위기는 깊은 휴식과 마음챙김을 촉진했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ambience은 '분위기, 환경' 의미로, 장소나 상황의 전체적인 느낌이나 분위기를 가리킵니다. atmosphere, mood와 비슷하지만 더 격식 있고 세련된 뉘앙스가 있습니다. pleasant ambience, romantic ambience 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "분위기",
+      "환경",
+      "일상 회화",
+      "문학",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: ambience = (A) noise (B) atmosphere or mood (C) silence (D) chaos",
+            "a": "B",
+            "meaning_ko": "ambience은 '분위기 또는 기분' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The restaurant has a pleasant _____.",
+            "a": "ambience",
+            "meaning_ko": "ambience은 '분위기'를 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'create atmosphere'? (A) create an ambience (B) destroy an ambience (C) ignore an ambience (D) avoid an ambience",
+            "a": "A",
+            "meaning_ko": "create an ambience는 '분위기를 만들다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ of the place was relaxing. (A) ambience (B) ambiences (C) ambient (D) ambients",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 ambience이 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: ambience = (A) noise (B) atmosphere (C) silence (D) chaos",
+            "a": "B",
+            "meaning_ko": "atmosphere(분위기)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The restaurant has pleasant ambiences.' → Fix the sentence.",
+            "a": "The restaurant has a pleasant ambience.",
+            "meaning_ko": "ambience은 불가산명사이므로 단수형을 사용합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The sophisticated ambience enhanced appreciation.'",
+            "a": "The refined and elegant atmosphere improved the visitors' understanding and enjoyment of the experience.",
+            "meaning_ko": "sophisticated ambience는 '세련된 분위기'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of elegance was created. (A) ambience (B) ambiences (C) ambient (D) ambients",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 ambience이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses ambience most appropriately? (A) The ambience ran. (B) The place has a pleasant ambience. (C) She ambience smiled. (D) Ambience is good.",
+            "a": "B",
+            "meaning_ko": "ambience은 명사로 '분위기'를 의미하며, have와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  }
+]

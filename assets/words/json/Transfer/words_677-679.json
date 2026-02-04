@@ -1,0 +1,792 @@
+[
+  {
+    "word": "ventilate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "환기시키다, 통풍시키다; 공기를 순환시키거나 통풍시키다.",
+        "note": "공기를 순환시키거나 통풍시키는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "표현하다, 토론하다; 의견이나 문제를 표현하거나 토론하다.",
+        "note": "의견이나 문제를 표현하거나 토론하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "공기를 순환시키거나 통풍시키는 환기, 또는 의견이나 문제를 표현하거나 토론하는 것.",
+    "etymology": "라틴어 ventilare(바람을 일으키다)에서 유래했으며, ventus(바람)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '바람을 일으키다' 의미였고, 현대에는 '의견이나 문제를 표현하거나 토론하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 쓰이며, ventilate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "ventilate + 명사 : ~을 환기시키다/표현하다"
+    ],
+    "morphology": "라틴어 ventilare에서 유래한 단어로, ventus(바람)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "ventilated",
+        "meaning_ko": "환기된/표현된(과거분사/형용사)"
+      },
+      {
+        "word": "ventilating",
+        "meaning_ko": "환기시키는/표현하는(현재분사/형용사)"
+      },
+      {
+        "word": "ventilation",
+        "meaning_ko": "환기"
+      }
+    ],
+    "related": [
+      {
+        "word": "air",
+        "meaning_ko": "공기"
+      },
+      {
+        "word": "express",
+        "meaning_ko": "표현하다"
+      },
+      {
+        "word": "discuss",
+        "meaning_ko": "토론하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "air",
+        "meaning_ko": "공기"
+      },
+      {
+        "word": "express",
+        "meaning_ko": "표현하다"
+      },
+      {
+        "word": "discuss",
+        "meaning_ko": "토론하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "circulate",
+        "meaning_ko": "순환시키다(범위가 더 넓음)"
+      },
+      {
+        "word": "debate",
+        "meaning_ko": "토론하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "stifle",
+        "meaning_ko": "억압하다"
+      },
+      {
+        "word": "suppress",
+        "meaning_ko": "억압하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ventilate room",
+            "meaning_ko": "방을 환기시키다"
+          },
+          {
+            "phrase": "ventilate air",
+            "meaning_ko": "공기를 환기시키다"
+          },
+          {
+            "phrase": "ventilate opinion",
+            "meaning_ko": "의견을 표현하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ventilate space",
+            "meaning_ko": "공간을 환기시키다"
+          },
+          {
+            "phrase": "ventilate concern",
+            "meaning_ko": "우려를 표현하다"
+          },
+          {
+            "phrase": "ventilate issue",
+            "meaning_ko": "문제를 토론하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ventilate grievance",
+            "meaning_ko": "불만을 표현하다"
+          },
+          {
+            "phrase": "ventilate complaint",
+            "meaning_ko": "불만을 표현하다"
+          },
+          {
+            "phrase": "ventilate frustration",
+            "meaning_ko": "좌절을 표현하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She ventilated the room.",
+            "meaning_ko": "그녀는 그 방을 환기시켰습니다."
+          },
+          {
+            "sentence": "They ventilated their concerns.",
+            "meaning_ko": "그들은 그들의 우려를 표현했습니다."
+          },
+          {
+            "sentence": "He tried to ventilate the issue.",
+            "meaning_ko": "그는 그 문제를 토론하려고 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She ventilated the room, with the fresh air circulation helping to improve air quality and remove stale odors, though maintaining good ventilation would require regular attention.",
+            "meaning_ko": "그녀는 그 방을 환기시켰고, 그 신선한 공기 순환이 공기 질을 개선하고 썩은 냄새를 제거하는 데 도움이 되었지만, 좋은 환기를 유지하는 것은 정기적인 주의를 요구할 것입니다."
+          },
+          {
+            "sentence": "They ventilated their concerns, with the open discussion allowing them to express worries and seek solutions, though addressing the issues would require follow-up action.",
+            "meaning_ko": "그들은 그들의 우려를 표현했고, 그 공개 논의가 그들이 걱정을 표현하고 해결책을 찾는 것을 허용했지만, 그 문제를 다루는 것은 후속 조치를 요구할 것입니다."
+          },
+          {
+            "sentence": "He tried to ventilate the issue, with his efforts to discuss and explore the problem helping to bring it to attention, though resolving it would require cooperation and commitment.",
+            "meaning_ko": "그는 그 문제를 토론하려고 했고, 그 문제를 논의하고 탐구하려는 그의 노력이 그것을 주의로 가져오는 데 도움이 되었지만, 그것을 해결하는 것은 협력과 헌신을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to ventilate the grievance through formal channels created an opportunity for resolution, with the open expression of concerns allowing for structured discussion and potential solutions, though the process would require patience and commitment from all parties.",
+            "meaning_ko": "공식 채널을 통해 그 불만을 표현하기로 한 그 결정은 해결을 위한 기회를 만들었고, 그 우려의 공개 표현이 구조화된 논의와 잠재적 해결책을 허용했지만, 그 과정은 모든 당사자로부터 인내와 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to ventilate the complaint in a constructive manner required careful communication, with the process involving expressing concerns while seeking understanding and solutions, though the success would depend on the willingness of all involved to engage in dialogue.",
+            "meaning_ko": "건설적인 방식으로 그 불만을 표현하려는 그 노력은 신중한 의사 소통을 요구했고, 그 과정이 이해와 해결책을 찾으면서 우려를 표현하는 것을 포함했지만, 그 성공은 관련된 모든 사람이 대화에 참여하려는 의지에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The strategy to ventilate frustration through appropriate channels helped to address underlying issues, with the open expression of concerns creating opportunities for discussion and resolution, though the effectiveness would depend on how well the concerns were heard and addressed.",
+            "meaning_ko": "적절한 채널을 통해 그 좌절을 표현하기 위한 그 전략은 근본적인 문제를 다루는 데 도움이 되었고, 그 우려의 공개 표현이 논의와 해결을 위한 기회를 만들었지만, 그 효과는 그 우려가 얼마나 잘 들리고 다루어졌는지에 달려있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ventilate는 '환기시키다, 통풍시키다' 또는 '표현하다, 토론하다' 의미로, 공기를 순환시키거나 통풍시키는 행동을 가리킵니다. air, express와 비슷하지만 더 전문적 뉘앙스가 있습니다. ventilate room, ventilate concern 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: ventilate = (A) stifle (B) air or express (C) suppress (D) hide",
+            "a": "B",
+            "meaning_ko": "ventilate는 '공기 또는 표현하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She _____ the room.",
+            "a": "ventilated",
+            "meaning_ko": "ventilate는 '환기시키다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of ventilate? (A) air (B) express (C) stifle (D) discuss",
+            "a": "C",
+            "meaning_ko": "stifle(억압하다)가 ventilate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They _____ their concerns. (A) ventilate (B) ventilated (C) ventilating (D) ventilates",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 ventilated가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: ventilate = (A) stifle (B) express (C) suppress (D) hide",
+            "a": "B",
+            "meaning_ko": "express(표현하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She ventilate the room.' → Fix the sentence.",
+            "a": "She ventilated the room.",
+            "meaning_ko": "과거 시제에서 과거형 ventilated가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She ventilated the room.'",
+            "a": "She circulated fresh air through the space, with the ventilation helping to improve air quality and remove stale odors, though maintaining good air circulation would require regular attention.",
+            "meaning_ko": "ventilate는 '환기시키다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He tried to _____ the issue. (A) ventilate (B) ventilated (C) ventilating (D) ventilates",
+            "a": "A",
+            "meaning_ko": "try to 뒤에는 동사 원형 ventilate가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses ventilate most appropriately? (A) The ventilate ran. (B) She ventilated the room. (C) She ventilate smiled. (D) Ventilate is good.",
+            "a": "B",
+            "meaning_ko": "ventilate는 동사로 '환기시키다'를 의미하며, 타동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fortress",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "요새, 성채; 방어를 위한 요새나 성채.",
+        "note": "방어를 위한 요새나 성채를 가리킵니다."
+      },
+      {
+        "definition_ko": "보루, 안전한 곳; 안전이나 보호를 제공하는 보루나 안전한 곳.",
+        "note": "안전이나 보호를 제공하는 보루나 안전한 곳을 가리킵니다."
+      }
+    ],
+    "concept": "방어를 위한 요새나 성채인 요새, 또는 안전이나 보호를 제공하는 보루나 안전한 곳.",
+    "etymology": "라틴어 fortis(강한)에서 유래했으며, 원래는 '강한 곳' 의미였고 현대에는 '요새'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '강한 곳' 의미였고, 현대에는 '안전이나 보호를 제공하는 보루나 안전한 곳'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 역사와 문학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사로 자주 사용되며, fortress 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 요새",
+        "example": "fortress of"
+      }
+    ],
+    "requiredComplements": [
+      "fortress : 요새/보루",
+      "fortress of + 명사 : ~의 요새"
+    ],
+    "morphology": "라틴어 fortis(강한)에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "castle",
+        "meaning_ko": "성"
+      },
+      {
+        "word": "stronghold",
+        "meaning_ko": "요새"
+      },
+      {
+        "word": "fort",
+        "meaning_ko": "요새"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "castle",
+        "meaning_ko": "성"
+      },
+      {
+        "word": "stronghold",
+        "meaning_ko": "요새"
+      },
+      {
+        "word": "fort",
+        "meaning_ko": "요새"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "citadel",
+        "meaning_ko": "성채(범위가 더 넓음)"
+      },
+      {
+        "word": "bastion",
+        "meaning_ko": "보루"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "weakness",
+        "meaning_ko": "약점"
+      },
+      {
+        "word": "vulnerability",
+        "meaning_ko": "취약점"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "fortress of",
+            "meaning_ko": "~의 요새"
+          },
+          {
+            "phrase": "ancient fortress",
+            "meaning_ko": "고대 요새"
+          },
+          {
+            "phrase": "impregnable fortress",
+            "meaning_ko": "난공불락의 요새"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "fortress wall",
+            "meaning_ko": "요새 벽"
+          },
+          {
+            "phrase": "fortress gate",
+            "meaning_ko": "요새 문"
+          },
+          {
+            "phrase": "medieval fortress",
+            "meaning_ko": "중세 요새"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "fortress of defense",
+            "meaning_ko": "방어의 요새"
+          },
+          {
+            "phrase": "fortress of security",
+            "meaning_ko": "안전의 요새"
+          },
+          {
+            "phrase": "fortress of strength",
+            "meaning_ko": "힘의 요새"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The fortress was ancient.",
+            "meaning_ko": "그 요새는 고대 것이었습니다."
+          },
+          {
+            "sentence": "She visited the fortress.",
+            "meaning_ko": "그녀는 그 요새를 방문했습니다."
+          },
+          {
+            "sentence": "They defended the fortress.",
+            "meaning_ko": "그들은 그 요새를 방어했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The fortress was ancient, with the structure serving as a defensive stronghold for centuries, though the passage of time had left it in need of restoration and preservation.",
+            "meaning_ko": "그 요새는 고대 것이었고, 그 구조가 수세기 동안 방어 요새로 기능했지만, 시간의 경과가 그것을 복원과 보존이 필요한 상태로 남겼습니다."
+          },
+          {
+            "sentence": "She visited the fortress, with the historic site offering insights into past military strategies and architecture, though understanding its significance would require knowledge of history and context.",
+            "meaning_ko": "그녀는 그 요새를 방문했고, 그 역사적 장소가 과거 군사 전략과 건축에 대한 통찰을 제공했지만, 그 중요성을 이해하는 것은 역사와 맥락의 지식을 요구할 것입니다."
+          },
+          {
+            "sentence": "They defended the fortress, with their efforts to protect the stronghold requiring strategy and determination, though the defense would be tested by the strength of the attackers.",
+            "meaning_ko": "그들은 그 요새를 방어했고, 그 요새를 보호하려는 그들의 노력이 전략과 결심을 요구했지만, 그 방어는 공격자들의 힘에 의해 시험될 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The fortress of defense that had protected the region for generations represented a symbol of strength and resilience, with the structure serving as both a physical barrier and a psychological deterrent, though its effectiveness would depend on the commitment of those who maintained it.",
+            "meaning_ko": "수세대 동안 그 지역을 보호했던 그 방어의 요새는 힘과 회복력의 상징을 나타냈고, 그 구조가 물리적 장벽과 심리적 억제력 모두로 기능했지만, 그 효과는 그것을 유지한 사람들의 헌신에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The fortress of security that provided refuge for those in need created a sense of safety and protection, with the stronghold offering shelter and defense against threats, though maintaining the security would require constant vigilance and resources.",
+            "meaning_ko": "필요한 사람들에게 피난처를 제공했던 그 안전의 요새는 안전과 보호의 감각을 만들었고, 그 요새가 위협에 대항하는 피난처와 방어를 제공했지만, 그 안전을 유지하는 것은 지속적인 경계와 자원을 요구할 것입니다."
+          },
+          {
+            "sentence": "The fortress of strength that stood as a testament to human determination required careful planning and construction, with the structure designed to withstand attacks and provide protection, though the true strength would come from the unity and resolve of those who defended it.",
+            "meaning_ko": "인간의 결심의 증거로 서 있었던 그 힘의 요새는 신중한 계획과 건설을 요구했고, 그 구조가 공격을 견디고 보호를 제공하도록 설계되었지만, 진정한 힘은 그것을 방어한 사람들의 단결과 결심에서 올 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "fortress는 '요새, 성채' 또는 '보루, 안전한 곳' 의미로, 방어를 위한 요새나 성채를 가리킵니다. castle, stronghold와 비슷하지만 더 방어적 뉘앙스가 있습니다. fortress of ~, ancient fortress 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "역사",
+      "문학",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: fortress = (A) weakness (B) castle or stronghold (C) vulnerability (D) danger",
+            "a": "B",
+            "meaning_ko": "fortress는 '성 또는 요새' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ was ancient.",
+            "a": "fortress",
+            "meaning_ko": "fortress는 '요새'를 의미합니다."
+          },
+          {
+            "q": "Which is similar to fortress? (A) weakness (B) castle (C) vulnerability (D) danger",
+            "a": "B",
+            "meaning_ko": "castle(성)가 fortress와 유사합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: fortress _____ defense. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "fortress of ~는 '~의 요새' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: fortress = (A) weakness (B) castle (C) vulnerability (D) danger",
+            "a": "B",
+            "meaning_ko": "castle(성)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The fortress at defense was strong.' → Fix the preposition.",
+            "a": "The fortress of defense was strong.",
+            "meaning_ko": "fortress of ~는 '~의 요새' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The fortress was ancient.'",
+            "a": "The defensive stronghold was very old, with the structure having served as a protective barrier for centuries, though the passage of time had left it in need of restoration.",
+            "meaning_ko": "fortress는 '요새'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: She visited the _____. (A) fortress (B) fortresses (C) fortress's (D) fortressed",
+            "a": "A",
+            "meaning_ko": "명사 fortress가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses fortress most appropriately? (A) The fortress ran. (B) The fortress was ancient. (C) She fortress smiled. (D) Fortress is good.",
+            "a": "B",
+            "meaning_ko": "fortress는 명사로 '요새'를 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pharisaic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "바리새인 같은, 위선적인; 외면적으로는 종교적이거나 도덕적이지만 실제로는 위선적인.",
+        "note": "외면적으로는 종교적이거나 도덕적이지만 실제로는 위선적인 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "형식적인, 겉치레의; 형식에만 치우치거나 겉치레만 하는.",
+        "note": "형식에만 치우치거나 겉치레만 하는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "외면적으로는 종교적이거나 도덕적이지만 실제로는 위선적인 바리새인 같은 상태, 또는 형식에만 치우치거나 겉치레만 하는 형식적인 상태.",
+    "etymology": "바리새인(Pharisee)에서 유래했으며, 원래는 '바리새인 같은' 의미였고 현대에는 '위선적인'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '바리새인 같은' 의미였고, 현대에는 '형식에만 치우치거나 겉치레만 하는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 종교와 학문 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be pharisaic 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be pharisaic : 바리새인 같다",
+      "pharisaic + 명사 : 바리새인 같은/위선적인 ~"
+    ],
+    "morphology": "바리새인(Pharisee)에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "pharisaically",
+        "meaning_ko": "바리새인처럼"
+      },
+      {
+        "word": "pharisaism",
+        "meaning_ko": "바리새인주의"
+      }
+    ],
+    "related": [
+      {
+        "word": "hypocritical",
+        "meaning_ko": "위선적인"
+      },
+      {
+        "word": "sanctimonious",
+        "meaning_ko": "위선적으로 경건한"
+      },
+      {
+        "word": "self-righteous",
+        "meaning_ko": "자기 의로움"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "hypocritical",
+        "meaning_ko": "위선적인"
+      },
+      {
+        "word": "sanctimonious",
+        "meaning_ko": "위선적으로 경건한"
+      },
+      {
+        "word": "self-righteous",
+        "meaning_ko": "자기 의로움"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "pious",
+        "meaning_ko": "경건한(범위가 더 넓음)"
+      },
+      {
+        "word": "pretentious",
+        "meaning_ko": "거만한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "sincere",
+        "meaning_ko": "진실한"
+      },
+      {
+        "word": "genuine",
+        "meaning_ko": "진정한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "pharisaic attitude",
+            "meaning_ko": "바리새인 같은 태도"
+          },
+          {
+            "phrase": "pharisaic behavior",
+            "meaning_ko": "위선적 행동"
+          },
+          {
+            "phrase": "pharisaic approach",
+            "meaning_ko": "형식적 접근"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "pharisaic piety",
+            "meaning_ko": "위선적 경건"
+          },
+          {
+            "phrase": "pharisaic morality",
+            "meaning_ko": "형식적 도덕"
+          },
+          {
+            "phrase": "pharisaic righteousness",
+            "meaning_ko": "위선적 의로움"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "pharisaic hypocrisy",
+            "meaning_ko": "바리새인 같은 위선"
+          },
+          {
+            "phrase": "pharisaic sanctimony",
+            "meaning_ko": "위선적 경건"
+          },
+          {
+            "phrase": "pharisaic formalism",
+            "meaning_ko": "형식주의"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "His attitude was pharisaic.",
+            "meaning_ko": "그의 태도는 바리새인 같았습니다."
+          },
+          {
+            "sentence": "She criticized the pharisaic behavior.",
+            "meaning_ko": "그녀는 그 위선적 행동을 비판했습니다."
+          },
+          {
+            "sentence": "They rejected the pharisaic approach.",
+            "meaning_ko": "그들은 그 형식적 접근을 거부했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "His attitude was pharisaic, with the outward appearance of righteousness masking inner hypocrisy, though the true nature of his character would eventually be revealed.",
+            "meaning_ko": "그의 태도는 바리새인 같았고, 그 의로움의 외면적 외관이 내면의 위선을 가리고 있었지만, 그의 성격의 진정한 본질은 결국 드러날 것입니다."
+          },
+          {
+            "sentence": "She criticized the pharisaic behavior, with the hypocritical actions creating a false impression of morality, though the criticism would highlight the need for genuine sincerity.",
+            "meaning_ko": "그녀는 그 위선적 행동을 비판했고, 그 위선적 행동이 도덕의 거짓 인상을 만들었지만, 그 비판은 진정한 진실성의 필요성을 강조할 것입니다."
+          },
+          {
+            "sentence": "They rejected the pharisaic approach, with the formalistic method lacking genuine substance and meaning, though finding an alternative would require a commitment to authenticity.",
+            "meaning_ko": "그들은 그 형식적 접근을 거부했고, 그 형식주의적 방법이 진정한 실질과 의미를 결여했지만, 대안을 찾는 것은 진정성에 대한 헌신을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The pharisaic hypocrisy that characterized the institution created a culture of false piety, with the outward displays of righteousness masking internal contradictions and moral failings, though addressing the issue would require fundamental changes in values and practices.",
+            "meaning_ko": "그 기관을 특징지었던 그 바리새인 같은 위선은 거짓 경건의 문화를 만들었고, 그 의로움의 외면적 표시가 내부 모순과 도덕적 실패를 가리고 있었지만, 그 문제를 다루는 것은 가치와 관행에서 근본적 변경을 요구할 것입니다."
+          },
+          {
+            "sentence": "The pharisaic sanctimony that pervaded the community created barriers to genuine spiritual growth, with the self-righteous attitudes preventing authentic connection and understanding, though overcoming these barriers would require humility and openness.",
+            "meaning_ko": "그 공동체를 퍼뜨렸던 그 위선적 경건은 진정한 영적 성장에 대한 장벽을 만들었고, 그 자기 의로운 태도가 진정한 연결과 이해를 방지했지만, 이러한 장벽을 극복하는 것은 겸손과 개방성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The pharisaic formalism that dominated the approach to ethics created a system focused on rules rather than principles, with the emphasis on external compliance overshadowing internal transformation, though reforming the system would require a shift toward genuine moral understanding.",
+            "meaning_ko": "윤리에 대한 접근을 지배했던 그 형식주의는 원칙보다 규칙에 초점을 맞춘 시스템을 만들었고, 외부 준수에 대한 강조가 내부 변환을 가리고 있었지만, 그 시스템을 개혁하는 것은 진정한 도덕적 이해로의 전환을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "pharisaic는 '바리새인 같은, 위선적인' 또는 '형식적인, 겉치레의' 의미로, 외면적으로는 종교적이거나 도덕적이지만 실제로는 위선적인 상태를 가리킵니다. hypocritical, sanctimonious와 비슷하지만 더 종교적 뉘앙스가 있습니다. pharisaic attitude, pharisaic behavior 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "종교",
+      "학문",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: pharisaic = (A) sincere (B) hypocritical or formalistic (C) genuine (D) authentic",
+            "a": "B",
+            "meaning_ko": "pharisaic는 '위선적인 또는 형식적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: His attitude was _____.",
+            "a": "pharisaic",
+            "meaning_ko": "pharisaic는 '바리새인 같은' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of pharisaic? (A) hypocritical (B) sanctimonious (C) sincere (D) self-righteous",
+            "a": "C",
+            "meaning_ko": "sincere(진실한)가 pharisaic의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She criticized the _____ behavior. (A) pharisaic (B) pharisaically (C) pharisaism (D) pharisaic's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 pharisaic가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: pharisaic = (A) sincere (B) hypocritical (C) genuine (D) authentic",
+            "a": "B",
+            "meaning_ko": "hypocritical(위선적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'His attitude was pharisaically.' → Fix the sentence.",
+            "a": "His attitude was pharisaic.",
+            "meaning_ko": "서술어로 형용사 pharisaic가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'His attitude was pharisaic.'",
+            "a": "His behavior was hypocritical and self-righteous, with the outward appearance of righteousness masking inner hypocrisy, though the true nature of his character would eventually be revealed.",
+            "meaning_ko": "pharisaic는 '바리새인 같은' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They rejected the _____ approach. (A) pharisaic (B) pharisaically (C) pharisaism (D) pharisaic's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 pharisaic가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses pharisaic most appropriately? (A) The pharisaic ran. (B) His attitude was pharisaic. (C) She pharisaic smiled. (D) Pharisaic is good.",
+            "a": "B",
+            "meaning_ko": "pharisaic는 형용사로 '바리새인 같은'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

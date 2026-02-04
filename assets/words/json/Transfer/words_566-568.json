@@ -1,0 +1,782 @@
+[
+  {
+    "word": "translate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "번역하다; 한 언어에서 다른 언어로 옮기다.",
+        "note": "한 언어에서 다른 언어로 옮기는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "변환하다, 전환하다; 한 형태나 상태에서 다른 형태나 상태로 변환하거나 전환하다.",
+        "note": "한 형태나 상태에서 다른 형태나 상태로 변환하거나 전환하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "한 언어에서 다른 언어로 옮기는 것, 또는 한 형태나 상태에서 다른 형태나 상태로 변환하거나 전환하는 것.",
+    "etymology": "라틴어 translatus(옮겨진)에서 유래했으며, 원래는 '옮기다' 의미였으나 현대에는 '번역하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '옮기다' 의미였으나, 현대에는 '한 언어에서 다른 언어로 옮기다' 또는 '변환하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사와 자동사 모두로 쓰이며, translate + 명사, translate + 명사 + into + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~로 번역하다",
+        "example": "translate into English"
+      },
+      {
+        "prep": "from",
+        "meaning_ko": "~에서 번역하다",
+        "example": "translate from French"
+      }
+    ],
+    "requiredComplements": [
+      "translate + 명사 : ~을 번역하다",
+      "translate + 명사 + into + 명사 : ~을 ~로 번역하다",
+      "translate from + 명사 : ~에서 번역하다"
+    ],
+    "morphology": "라틴어 translatus에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "translation",
+        "meaning_ko": "번역"
+      },
+      {
+        "word": "translator",
+        "meaning_ko": "번역가"
+      },
+      {
+        "word": "translated",
+        "meaning_ko": "번역된(과거분사/형용사)"
+      },
+      {
+        "word": "translating",
+        "meaning_ko": "번역하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "interpret",
+        "meaning_ko": "통역하다"
+      },
+      {
+        "word": "convert",
+        "meaning_ko": "변환하다"
+      },
+      {
+        "word": "transform",
+        "meaning_ko": "변환하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "interpret",
+        "meaning_ko": "통역하다"
+      },
+      {
+        "word": "convert",
+        "meaning_ko": "변환하다"
+      },
+      {
+        "word": "transform",
+        "meaning_ko": "변환하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "render",
+        "meaning_ko": "번역하다(범위가 더 넓음)"
+      },
+      {
+        "word": "transcribe",
+        "meaning_ko": "전사하다"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "translate into",
+            "meaning_ko": "~로 번역하다"
+          },
+          {
+            "phrase": "translate from",
+            "meaning_ko": "~에서 번역하다"
+          },
+          {
+            "phrase": "translate a text",
+            "meaning_ko": "텍스트를 번역하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "translate into English",
+            "meaning_ko": "영어로 번역하다"
+          },
+          {
+            "phrase": "translate from French",
+            "meaning_ko": "프랑스어에서 번역하다"
+          },
+          {
+            "phrase": "translate accurately",
+            "meaning_ko": "정확하게 번역하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "translate literally",
+            "meaning_ko": "직역하다"
+          },
+          {
+            "phrase": "translate figuratively",
+            "meaning_ko": "의역하다"
+          },
+          {
+            "phrase": "translate seamlessly",
+            "meaning_ko": "완벽하게 번역하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She can translate from French to English.",
+            "meaning_ko": "그녀는 프랑스어에서 영어로 번역할 수 있습니다."
+          },
+          {
+            "sentence": "The book was translated into many languages.",
+            "meaning_ko": "그 책은 많은 언어로 번역되었습니다."
+          },
+          {
+            "sentence": "He translates documents for the company.",
+            "meaning_ko": "그는 그 회사를 위해 문서를 번역합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She can translate from French to English, having studied both languages extensively and developed the cultural understanding necessary for accurate interpretation.",
+            "meaning_ko": "그녀는 프랑스어에서 영어로 번역할 수 있고, 두 언어를 광범위하게 공부했고 정확한 해석에 필요한 문화적 이해를 개발했습니다."
+          },
+          {
+            "sentence": "The book was translated into many languages, making it accessible to readers worldwide and contributing to its international success and recognition.",
+            "meaning_ko": "그 책은 많은 언어로 번역되었고, 전 세계 독자들에게 접근 가능하게 만들었고 그 국제적 성공과 인정에 기여했습니다."
+          },
+          {
+            "sentence": "He translates documents for the company, ensuring that technical materials and business communications are accurately conveyed across different language barriers.",
+            "meaning_ko": "그는 그 회사를 위해 문서를 번역하고, 기술 자료와 비즈니스 커뮤니케이션이 다른 언어 장벽을 넘어 정확하게 전달되도록 보장합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The literary work required careful translation to preserve not only the literal meaning but also the author's style, cultural nuances, and the emotional resonance that made the original text powerful.",
+            "meaning_ko": "그 문학 작품은 문자적 의미뿐만 아니라 작가의 스타일, 문화적 뉘앙스, 원본 텍스트를 강력하게 만든 감정적 공명을 보존하기 위해 신중한 번역을 요구했습니다."
+          },
+          {
+            "sentence": "The technical manual was translated from Japanese into multiple languages, with translators working closely with subject matter experts to ensure that specialized terminology and complex concepts were accurately conveyed.",
+            "meaning_ko": "그 기술 매뉴얼은 일본어에서 여러 언어로 번역되었고, 번역가들이 전문 용어와 복잡한 개념이 정확하게 전달되도록 보장하기 위해 주제 전문가들과 밀접하게 협력했습니다."
+          },
+          {
+            "sentence": "The legal document required precise translation, as even minor errors could have significant consequences, necessitating the involvement of certified translators with expertise in both legal systems and languages.",
+            "meaning_ko": "그 법률 문서는 정확한 번역을 요구했고, 작은 오류조차도 상당한 결과를 가질 수 있었기 때문에 두 법률 체계와 언어 모두에 전문성을 가진 인증된 번역가의 참여가 필요했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "translate는 '번역하다' 또는 '변환하다' 의미로, 한 언어에서 다른 언어로 옮기는 행동을 가리킵니다. interpret, convert와 비슷하지만 더 일반적 표현입니다. translate into/from ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "언어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: translate = (A) speak (B) convert from one language to another (C) write (D) read",
+            "a": "B",
+            "meaning_ko": "translate는 '한 언어에서 다른 언어로 변환하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She can _____ from French to English.",
+            "a": "translate",
+            "meaning_ko": "translate는 '번역하다' 의미입니다."
+          },
+          {
+            "q": "Which phrase means 'translate to'? (A) translate into (B) translate at (C) translate on (D) translate by",
+            "a": "A",
+            "meaning_ko": "translate into ~는 '~로 번역하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: translate _____ English. (A) into (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "translate into ~는 '~로 번역하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: translate = (A) speak (B) interpret (C) write (D) read",
+            "a": "B",
+            "meaning_ko": "interpret(통역하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She can translate on French to English.' → Fix the preposition.",
+            "a": "She can translate from French to English.",
+            "meaning_ko": "translate from ~ to ~는 '~에서 ~로 번역하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The book was translated into many languages.'",
+            "a": "The literary work was converted and rendered from its original language into numerous other languages, making it accessible to readers across different linguistic and cultural backgrounds.",
+            "meaning_ko": "translate into ~는 '~로 번역하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He _____ documents for the company. (A) translate (B) translates (C) translating (D) translated",
+            "a": "B",
+            "meaning_ko": "단수 주어에서 동사 3인칭 단수형 translates가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses translate most appropriately? (A) The translate ran. (B) She can translate from French to English. (C) She translate smiled. (D) Translate is good.",
+            "a": "B",
+            "meaning_ko": "translate는 타동사로 '~을 번역하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "wirepuller",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "배후 조종자, 실세; 배후에서 조종하거나 영향력을 행사하는 사람.",
+        "note": "배후에서 조종하거나 영향력을 행사하는 사람을 가리킵니다."
+      }
+    ],
+    "concept": "배후에서 조종하거나 영향력을 행사하는 배후 조종자.",
+    "etymology": "wire(철사) + puller(당기는 사람)의 결합으로, 원래는 '철사를 당기는 사람' 의미였으나 현대에는 '배후 조종자'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '철사를 당기는 사람' 의미였으나, 현대에는 '배후에서 조종하거나 영향력을 행사하는 사람'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "가산명사로 a wirepuller, wirepullers 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [],
+    "morphology": "wire(철사) + puller(당기는 사람)의 결합으로, '철사를 당기는 사람'에서 '배후 조종자'로 확장되었습니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "puppet master",
+        "meaning_ko": "인형 조종자"
+      },
+      {
+        "word": "manipulator",
+        "meaning_ko": "조종자"
+      },
+      {
+        "word": "influencer",
+        "meaning_ko": "영향력 있는 사람"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "puppet master",
+        "meaning_ko": "인형 조종자"
+      },
+      {
+        "word": "manipulator",
+        "meaning_ko": "조종자"
+      },
+      {
+        "word": "influencer",
+        "meaning_ko": "영향력 있는 사람"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "controller",
+        "meaning_ko": "통제자(범위가 더 넓음)"
+      },
+      {
+        "word": "power broker",
+        "meaning_ko": "권력 중개인"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "a wirepuller",
+            "meaning_ko": "배후 조종자"
+          },
+          {
+            "phrase": "political wirepuller",
+            "meaning_ko": "정치적 배후 조종자"
+          },
+          {
+            "phrase": "behind-the-scenes wirepuller",
+            "meaning_ko": "배후의 조종자"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "influential wirepuller",
+            "meaning_ko": "영향력 있는 배후 조종자"
+          },
+          {
+            "phrase": "wirepuller in politics",
+            "meaning_ko": "정치에서의 배후 조종자"
+          },
+          {
+            "phrase": "wirepuller's influence",
+            "meaning_ko": "배후 조종자의 영향력"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "wirepuller's manipulation",
+            "meaning_ko": "배후 조종자의 조작"
+          },
+          {
+            "phrase": "wirepuller's control",
+            "meaning_ko": "배후 조종자의 통제"
+          },
+          {
+            "phrase": "wirepuller's power",
+            "meaning_ko": "배후 조종자의 권력"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was known as a wirepuller in politics.",
+            "meaning_ko": "그는 정치에서 배후 조종자로 알려져 있었습니다."
+          },
+          {
+            "sentence": "The wirepuller controlled the decisions.",
+            "meaning_ko": "그 배후 조종자는 그 결정들을 통제했습니다."
+          },
+          {
+            "sentence": "They suspected a wirepuller behind the scenes.",
+            "meaning_ko": "그들은 배후에 배후 조종자가 있다고 의심했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was known as a wirepuller in politics, using his connections and influence to shape policy decisions from behind the scenes without holding any official position.",
+            "meaning_ko": "그는 정치에서 배후 조종자로 알려져 있었고, 공식 직위를 맡지 않고 배후에서 정책 결정을 형성하기 위해 자신의 연결과 영향력을 사용했습니다."
+          },
+          {
+            "sentence": "The wirepuller controlled the decisions, manipulating key stakeholders and using strategic influence to ensure outcomes that served his interests rather than the public good.",
+            "meaning_ko": "그 배후 조종자는 그 결정들을 통제했고, 주요 이해관계자들을 조작하고 공공의 이익보다 자신의 이익에 봉사하는 결과를 보장하기 위해 전략적 영향력을 사용했습니다."
+          },
+          {
+            "sentence": "They suspected a wirepuller behind the scenes, someone who was pulling strings and orchestrating events in ways that benefited certain parties while remaining invisible to the public eye.",
+            "meaning_ko": "그들은 배후에 배후 조종자가 있다고 의심했고, 공개적으로 보이지 않으면서 특정 당사자들에게 이익이 되는 방식으로 사건을 조종하고 조율하는 누군가가 있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The investigation revealed the extent of the wirepuller's manipulation, showing how a single individual had orchestrated complex political maneuvers that influenced elections, policy formation, and public opinion over several years.",
+            "meaning_ko": "그 조사는 그 배후 조종자의 조작의 범위를 드러냈고, 단일 개인이 몇 년에 걸쳐 선거, 정책 형성, 여론에 영향을 미친 복잡한 정치적 기동을 어떻게 조율했는지 보여줬습니다."
+          },
+          {
+            "sentence": "The wirepuller's control extended beyond immediate political circles, reaching into business, media, and social institutions, creating a network of influence that operated largely outside public scrutiny and democratic accountability.",
+            "meaning_ko": "그 배후 조종자의 통제는 즉각적인 정치적 서클을 넘어 비즈니스, 미디어, 사회 기관에까지 확장되었고, 대부분 공개 검토와 민주적 책임에서 벗어나 작동하는 영향력의 네트워크를 만들었습니다."
+          },
+          {
+            "sentence": "The exposure of the wirepuller's power raised fundamental questions about transparency in governance, as it became clear that significant decisions were being made by unelected individuals operating outside the formal structures of democratic representation.",
+            "meaning_ko": "그 배후 조종자의 권력의 폭로는 통치에서 투명성에 대한 근본적인 질문을 제기했고, 민주적 대표의 공식 구조 밖에서 작동하는 선출되지 않은 개인들에 의해 중요한 결정이 내려지고 있다는 것이 명확해졌기 때문입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "wirepuller는 '배후 조종자, 실세' 의미로, 배후에서 조종하거나 영향력을 행사하는 사람을 가리킵니다. 매우 격식 있고 드문 단어로, puppet master, manipulator와 비슷하지만 더 비유적 표현입니다. political wirepuller, behind-the-scenes wirepuller 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "정치",
+      "격식",
+      "문어",
+      "드문",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: wirepuller = (A) puppet master or manipulator (B) follower (C) subordinate (D) public figure",
+            "a": "A",
+            "meaning_ko": "wirepuller는 '인형 조종자 또는 조종자' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was known as a _____ in politics.",
+            "a": "wirepuller",
+            "meaning_ko": "wirepuller는 '배후 조종자'를 의미합니다."
+          },
+          {
+            "q": "Which word is related to wirepuller? (A) follower (B) manipulator (C) subordinate (D) public figure",
+            "a": "B",
+            "meaning_ko": "manipulator(조종자)가 wirepuller와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ controlled the decisions. (A) wirepuller (B) wirepullers (C) wirepulling (D) wirepulled",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 wirepuller가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: wirepuller = (A) follower (B) puppet master (C) subordinate (D) public figure",
+            "a": "B",
+            "meaning_ko": "puppet master(인형 조종자)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He was known as wirepullers in politics.' → Fix the sentence.",
+            "a": "He was known as a wirepuller in politics.",
+            "meaning_ko": "명사로 단수형 wirepuller가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was known as a wirepuller in politics.'",
+            "a": "He had a reputation as someone who exercised significant behind-the-scenes influence and control in political matters, manipulating events and decisions without holding formal positions of power.",
+            "meaning_ko": "wirepuller in politics는 '정치에서의 배후 조종자'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ controlled the decisions. (A) wirepuller (B) wirepullers (C) wirepulling (D) wirepulled",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 wirepuller가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses wirepuller most appropriately? (A) The wirepuller ran. (B) He was known as a wirepuller in politics. (C) She wirepuller smiled. (D) Wirepuller is good.",
+            "a": "B",
+            "meaning_ko": "wirepuller는 명사로 '배후 조종자'를 의미하며, as와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "inspect",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "검사하다, 조사하다; 자세히 살펴보거나 검사하다.",
+        "note": "자세히 살펴보거나 검사하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "자세히 살펴보거나 검사하는 것.",
+    "etymology": "라틴어 inspicere(들여다보다)에서 유래했으며, 원래는 '들여다보다' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '들여다보다' 의미였으며, 현대에는 '자세히 살펴보거나 검사하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 쓰이며, inspect + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "inspect + 명사 : ~을 검사하다"
+    ],
+    "morphology": "라틴어 inspicere에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "inspection",
+        "meaning_ko": "검사"
+      },
+      {
+        "word": "inspector",
+        "meaning_ko": "검사관"
+      },
+      {
+        "word": "inspected",
+        "meaning_ko": "검사된(과거분사/형용사)"
+      },
+      {
+        "word": "inspecting",
+        "meaning_ko": "검사하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "examine",
+        "meaning_ko": "조사하다"
+      },
+      {
+        "word": "check",
+        "meaning_ko": "확인하다"
+      },
+      {
+        "word": "review",
+        "meaning_ko": "검토하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "examine",
+        "meaning_ko": "조사하다"
+      },
+      {
+        "word": "check",
+        "meaning_ko": "확인하다"
+      },
+      {
+        "word": "review",
+        "meaning_ko": "검토하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "scrutinize",
+        "meaning_ko": "면밀히 검토하다(범위가 더 넓음)"
+      },
+      {
+        "word": "investigate",
+        "meaning_ko": "조사하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "overlook",
+        "meaning_ko": "간과하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "inspect the building",
+            "meaning_ko": "건물을 검사하다"
+          },
+          {
+            "phrase": "inspect the equipment",
+            "meaning_ko": "장비를 검사하다"
+          },
+          {
+            "phrase": "inspect carefully",
+            "meaning_ko": "신중하게 검사하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "inspect the premises",
+            "meaning_ko": "구내를 검사하다"
+          },
+          {
+            "phrase": "inspect the documents",
+            "meaning_ko": "문서를 검사하다"
+          },
+          {
+            "phrase": "inspect for defects",
+            "meaning_ko": "결함을 검사하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "inspect the facility",
+            "meaning_ko": "시설을 검사하다"
+          },
+          {
+            "phrase": "inspect compliance",
+            "meaning_ko": "준수를 검사하다"
+          },
+          {
+            "phrase": "inspect thoroughly",
+            "meaning_ko": "철저하게 검사하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The inspector inspected the building.",
+            "meaning_ko": "그 검사관은 그 건물을 검사했습니다."
+          },
+          {
+            "sentence": "They need to inspect the equipment regularly.",
+            "meaning_ko": "그들은 그 장비를 정기적으로 검사해야 합니다."
+          },
+          {
+            "sentence": "She inspected the documents carefully.",
+            "meaning_ko": "그녀는 그 문서를 신중하게 검사했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The inspector inspected the building for safety violations, checking structural integrity, fire safety systems, and compliance with building codes.",
+            "meaning_ko": "그 검사관은 안전 위반에 대해 그 건물을 검사했고, 구조적 무결성, 화재 안전 시스템, 건물 코드 준수를 확인했습니다."
+          },
+          {
+            "sentence": "They need to inspect the equipment regularly to ensure it functions properly and meets safety standards, preventing potential accidents and maintaining operational efficiency.",
+            "meaning_ko": "그들은 그 장비가 제대로 작동하고 안전 기준을 충족하는지 보장하기 위해 정기적으로 검사해야 하고, 잠재적 사고를 예방하고 운영 효율을 유지합니다."
+          },
+          {
+            "sentence": "She inspected the documents carefully, looking for errors, inconsistencies, and any signs of fraud that might indicate problems requiring further investigation.",
+            "meaning_ko": "그녀는 그 문서를 신중하게 검사했고, 오류, 불일치, 추가 조사가 필요한 문제를 나타낼 수 있는 사기의 징후를 찾았습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The regulatory agency conducted a comprehensive inspection of the facility, examining not only physical infrastructure but also operational procedures, environmental compliance, and worker safety protocols.",
+            "meaning_ko": "그 규제 기관은 그 시설에 대한 포괄적인 검사를 수행했고, 물리적 인프라뿐만 아니라 운영 절차, 환경 준수, 근로자 안전 프로토콜도 검토했습니다."
+          },
+          {
+            "sentence": "The audit team inspected compliance with financial regulations, reviewing transaction records, internal controls, and reporting mechanisms to identify any violations or areas requiring corrective action.",
+            "meaning_ko": "그 감사 팀은 금융 규정 준수를 검사했고, 거래 기록, 내부 통제, 보고 메커니즘을 검토하여 위반이나 수정 조치가 필요한 영역을 식별했습니다."
+          },
+          {
+            "sentence": "The quality control department inspected the products thoroughly before shipment, using advanced testing methods and detailed protocols to ensure that every item met the highest standards of quality and safety.",
+            "meaning_ko": "그 품질 관리 부서는 선적 전에 제품을 철저하게 검사했고, 고급 테스트 방법과 자세한 프로토콜을 사용하여 모든 항목이 최고 수준의 품질과 안전 기준을 충족하도록 보장했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "inspect는 '검사하다, 조사하다' 의미로, 자세히 살펴보거나 검사하는 행동을 가리킵니다. examine, check와 비슷하지만 더 공식적 뉘앙스가 있습니다. inspect the building, inspect carefully 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "검사",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: inspect = (A) ignore (B) examine or check (C) overlook (D) neglect",
+            "a": "B",
+            "meaning_ko": "inspect는 '조사하거나 확인하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The inspector _____ the building.",
+            "a": "inspected",
+            "meaning_ko": "inspect는 '검사하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of inspect? (A) examine (B) check (C) ignore (D) review",
+            "a": "C",
+            "meaning_ko": "ignore(무시하다)가 inspect의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They need to _____ the equipment regularly. (A) inspect (B) inspects (C) inspecting (D) inspected",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 inspect가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: inspect = (A) ignore (B) examine (C) overlook (D) neglect",
+            "a": "B",
+            "meaning_ko": "examine(조사하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They need to inspects the equipment.' → Fix the sentence.",
+            "a": "They need to inspect the equipment.",
+            "meaning_ko": "복수 주어에서 동사 원형 inspect가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The inspector inspected the building.'",
+            "a": "The official examiner conducted a detailed and systematic review of the structure, checking for compliance with regulations, safety standards, and identifying any issues that required attention or correction.",
+            "meaning_ko": "inspect the building는 '건물을 검사하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She _____ the documents carefully. (A) inspect (B) inspects (C) inspecting (D) inspected",
+            "a": "B",
+            "meaning_ko": "단수 주어에서 동사 3인칭 단수형 inspects가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses inspect most appropriately? (A) The inspect ran. (B) The inspector inspected the building. (C) She inspect smiled. (D) Inspect is good.",
+            "a": "B",
+            "meaning_ko": "inspect는 타동사로 '~을 검사하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

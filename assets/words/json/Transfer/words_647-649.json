@@ -1,0 +1,808 @@
+[
+  {
+    "word": "impugn",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "반박하다, 의문을 제기하다; 주장이나 진실성을 공격하거나 의문을 제기하다.",
+        "note": "주장이나 진실성을 공격하거나 의문을 제기하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "비난하다, 공격하다; 비난하거나 공격하다.",
+        "note": "비난하거나 공격하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "주장이나 진실성을 공격하거나 의문을 제기하는 반박, 또는 비난하거나 공격하는 것.",
+    "etymology": "라틴어 impugnare(공격하다)에서 유래했으며, in-(안으로) + pugnare(싸우다)의 조합입니다.",
+    "semanticExtension": "원래는 '공격하다' 의미였고, 현대에는 '주장이나 진실성을 공격하거나 의문을 제기하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 법률과 학문 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 쓰이며, impugn + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "impugn + 명사 : ~을 반박하다/비난하다"
+    ],
+    "morphology": "in-(안으로) + pugnare(싸우다)의 조합으로, '안으로 싸우다' 즉 '공격하다' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "impugned",
+        "meaning_ko": "반박된/비난된(과거분사/형용사)"
+      },
+      {
+        "word": "impugning",
+        "meaning_ko": "반박하는/비난하는(현재분사/형용사)"
+      },
+      {
+        "word": "impugnable",
+        "meaning_ko": "반박 가능한"
+      }
+    ],
+    "related": [
+      {
+        "word": "challenge",
+        "meaning_ko": "도전하다"
+      },
+      {
+        "word": "question",
+        "meaning_ko": "의문을 제기하다"
+      },
+      {
+        "word": "attack",
+        "meaning_ko": "공격하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "challenge",
+        "meaning_ko": "도전하다"
+      },
+      {
+        "word": "question",
+        "meaning_ko": "의문을 제기하다"
+      },
+      {
+        "word": "attack",
+        "meaning_ko": "공격하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "dispute",
+        "meaning_ko": "논쟁하다(범위가 더 넓음)"
+      },
+      {
+        "word": "contradict",
+        "meaning_ko": "반박하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "support",
+        "meaning_ko": "지지하다"
+      },
+      {
+        "word": "defend",
+        "meaning_ko": "방어하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "impugn integrity",
+            "meaning_ko": "정직성을 반박하다"
+          },
+          {
+            "phrase": "impugn character",
+            "meaning_ko": "성격을 반박하다"
+          },
+          {
+            "phrase": "impugn credibility",
+            "meaning_ko": "신뢰성을 반박하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "impugn reputation",
+            "meaning_ko": "명성을 반박하다"
+          },
+          {
+            "phrase": "impugn testimony",
+            "meaning_ko": "증언을 반박하다"
+          },
+          {
+            "phrase": "impugn validity",
+            "meaning_ko": "유효성을 반박하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "impugn authenticity",
+            "meaning_ko": "진정성을 반박하다"
+          },
+          {
+            "phrase": "impugn legitimacy",
+            "meaning_ko": "정당성을 반박하다"
+          },
+          {
+            "phrase": "impugn authority",
+            "meaning_ko": "권위를 반박하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He impugned her integrity.",
+            "meaning_ko": "그는 그녀의 정직성을 반박했습니다."
+          },
+          {
+            "sentence": "They impugned the testimony.",
+            "meaning_ko": "그들은 그 증언을 반박했습니다."
+          },
+          {
+            "sentence": "She impugned his character.",
+            "meaning_ko": "그녀는 그의 성격을 반박했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He impugned her integrity, questioning her honesty and challenging the credibility of her statements, though the accusations would need to be supported by evidence to be taken seriously.",
+            "meaning_ko": "그는 그녀의 정직성을 반박했고, 그녀의 정직성에 의문을 제기하고 그녀의 진술의 신뢰성에 도전했지만, 그 주장은 진지하게 받아들여지기 위해 증거에 의해 지지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They impugned the testimony, challenging the validity and accuracy of the witness's statements, with the attack on credibility requiring the presentation of contradictory evidence or alternative explanations.",
+            "meaning_ko": "그들은 그 증언을 반박했고, 그 증인의 진술의 유효성과 정확성에 도전했으며, 신뢰성에 대한 그 공격이 모순되는 증거나 대안적 설명의 제시를 요구했습니다."
+          },
+          {
+            "sentence": "She impugned his character, attacking his reputation and questioning his moral standing, though such accusations would need to be substantiated with proof to have a meaningful impact.",
+            "meaning_ko": "그녀는 그의 성격을 반박했고, 그의 명성을 공격하고 그의 도덕적 지위에 의문을 제기했지만, 그러한 주장은 의미 있는 영향을 미치기 위해 증거로 입증될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The defense attorney impugned the authenticity of the evidence, with the challenge requiring careful examination of the materials and presentation of arguments that would cast doubt on their origin and reliability, though the prosecution would need to respond with supporting documentation.",
+            "meaning_ko": "그 변호사는 그 증거의 진정성을 반박했고, 그 도전이 그 자료의 신중한 검토와 그들의 기원과 신뢰성에 의문을 제기할 논증의 제시를 요구했지만, 검찰은 지지 문서로 응답할 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The opposition party impugned the legitimacy of the election results, with the challenge questioning the validity of the voting process and raising concerns about potential irregularities, though such serious accusations would require thorough investigation and evidence to be credible.",
+            "meaning_ko": "그 야당은 그 선거 결과의 정당성을 반박했고, 그 도전이 투표 과정의 유효성에 의문을 제기하고 잠재적 부정에 대한 우려를 제기했지만, 그러한 심각한 주장은 신뢰할 수 있기 위해 철저한 조사와 증거를 요구할 것입니다."
+          },
+          {
+            "sentence": "The critic impugned the authority of the expert's opinion, with the challenge questioning the basis for the conclusions and suggesting that alternative interpretations were possible, though the expert would need to defend their position with additional evidence and reasoning.",
+            "meaning_ko": "그 비평가는 그 전문가의 의견의 권위를 반박했고, 그 도전이 그 결론의 기초에 의문을 제기하고 대안적 해석이 가능하다고 제안했지만, 그 전문가는 추가 증거와 추론으로 그들의 입장을 방어할 필요가 있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "impugn는 '반박하다, 의문을 제기하다' 또는 '비난하다, 공격하다' 의미로, 주장이나 진실성을 공격하거나 의문을 제기하는 행동을 가리킵니다. challenge, question와 비슷하지만 더 공식적 뉘앙스가 있습니다. impugn integrity, impugn credibility 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "법률",
+      "학문",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: impugn = (A) support (B) challenge or attack (C) defend (D) protect",
+            "a": "B",
+            "meaning_ko": "impugn는 '도전하다 또는 공격하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ her integrity.",
+            "a": "impugned",
+            "meaning_ko": "impugn는 '반박하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of impugn? (A) challenge (B) question (C) support (D) attack",
+            "a": "C",
+            "meaning_ko": "support(지지하다)가 impugn의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They _____ the testimony. (A) impugn (B) impugned (C) impugning (D) impugns",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 impugned가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: impugn = (A) support (B) challenge (C) defend (D) protect",
+            "a": "B",
+            "meaning_ko": "challenge(도전하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He impugn her integrity.' → Fix the sentence.",
+            "a": "He impugned her integrity.",
+            "meaning_ko": "과거 시제에서 과거형 impugned가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He impugned her integrity.'",
+            "a": "He challenged her honesty and questioned the credibility of her statements, attacking her character and raising doubts about her moral standing, though such accusations would need to be supported by evidence to be taken seriously.",
+            "meaning_ko": "impugn는 '반박하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She _____ his character. (A) impugn (B) impugned (C) impugning (D) impugns",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 impugned가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses impugn most appropriately? (A) The impugn ran. (B) He impugned her integrity. (C) She impugn smiled. (D) Impugn is good.",
+            "a": "B",
+            "meaning_ko": "impugn는 동사로 '반박하다'를 의미하며, 타동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "optimistic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "낙관적인, 긍정적인; 미래에 대해 긍정적이거나 낙관적인.",
+        "note": "미래에 대해 긍정적이거나 낙관적인 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "희망적인, 낙천적인; 희망적이거나 낙천적인.",
+        "note": "희망적이거나 낙천적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "미래에 대해 긍정적이거나 낙관적인 낙관적인 상태, 또는 희망적이거나 낙천적인 희망적인 상태.",
+    "etymology": "라틴어 optimus(최고의)에서 유래했으며, 원래는 '최고의' 의미였으나 현대에는 '낙관적인'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '최고의' 의미였으나, 현대에는 '미래에 대해 긍정적이거나 낙관적인' 또는 '희망적이거나 낙천적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be optimistic 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 낙관적인",
+        "example": "optimistic about the future"
+      }
+    ],
+    "requiredComplements": [
+      "be optimistic : 낙관적이다",
+      "optimistic + 명사 : 낙관적인 ~",
+      "optimistic about + 명사 : ~에 대해 낙관적인"
+    ],
+    "morphology": "라틴어 optimus에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "optimistically",
+        "meaning_ko": "낙관적으로"
+      },
+      {
+        "word": "optimism",
+        "meaning_ko": "낙관주의"
+      },
+      {
+        "word": "optimist",
+        "meaning_ko": "낙관주의자"
+      }
+    ],
+    "related": [
+      {
+        "word": "hopeful",
+        "meaning_ko": "희망적인"
+      },
+      {
+        "word": "positive",
+        "meaning_ko": "긍정적인"
+      },
+      {
+        "word": "confident",
+        "meaning_ko": "자신 있는"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "hopeful",
+        "meaning_ko": "희망적인"
+      },
+      {
+        "word": "positive",
+        "meaning_ko": "긍정적인"
+      },
+      {
+        "word": "confident",
+        "meaning_ko": "자신 있는"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "upbeat",
+        "meaning_ko": "낙천적인(범위가 더 넓음)"
+      },
+      {
+        "word": "sanguine",
+        "meaning_ko": "낙관적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "pessimistic",
+        "meaning_ko": "비관적인"
+      },
+      {
+        "word": "gloomy",
+        "meaning_ko": "우울한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "optimistic about",
+            "meaning_ko": "~에 대해 낙관적인"
+          },
+          {
+            "phrase": "optimistic outlook",
+            "meaning_ko": "낙관적인 전망"
+          },
+          {
+            "phrase": "optimistic attitude",
+            "meaning_ko": "낙관적인 태도"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "optimistic about the future",
+            "meaning_ko": "미래에 대해 낙관적인"
+          },
+          {
+            "phrase": "optimistic view",
+            "meaning_ko": "낙관적인 견해"
+          },
+          {
+            "phrase": "optimistic forecast",
+            "meaning_ko": "낙관적인 예측"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "optimistic perspective",
+            "meaning_ko": "낙관적인 관점"
+          },
+          {
+            "phrase": "optimistic assessment",
+            "meaning_ko": "낙관적인 평가"
+          },
+          {
+            "phrase": "optimistic expectation",
+            "meaning_ko": "낙관적인 기대"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She was optimistic about the future.",
+            "meaning_ko": "그녀는 미래에 대해 낙관적이었습니다."
+          },
+          {
+            "sentence": "He had an optimistic outlook.",
+            "meaning_ko": "그는 낙관적인 전망을 가지고 있었습니다."
+          },
+          {
+            "sentence": "They remained optimistic.",
+            "meaning_ko": "그들은 낙관적으로 남아있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She was optimistic about the future, with her positive outlook and hopeful attitude creating confidence that things would improve, though maintaining this perspective would require focusing on opportunities rather than obstacles.",
+            "meaning_ko": "그녀는 미래에 대해 낙관적이었고, 그녀의 긍정적 전망과 희망적인 태도가 상황이 개선될 것이라는 자신감을 만들었지만, 이 관점을 유지하는 것은 장애물보다는 기회에 초점을 맞추는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "He had an optimistic outlook, with his positive perspective and confident expectations creating a sense of hope and possibility, though this attitude would need to be balanced with realistic assessment of challenges.",
+            "meaning_ko": "그는 낙관적인 전망을 가지고 있었고, 그의 긍정적 관점과 자신 있는 기대가 희망과 가능성의 감각을 만들었지만, 이 태도는 도전에 대한 현실적 평가와 균형을 맞춰야 할 것입니다."
+          },
+          {
+            "sentence": "They remained optimistic, with their positive attitude and hopeful perspective helping them to persevere through difficulties, though maintaining this outlook would require resilience and the ability to see opportunities in challenges.",
+            "meaning_ko": "그들은 낙관적으로 남아있었고, 그들의 긍정적 태도와 희망적인 관점이 그들이 어려움을 통해 인내하도록 도왔지만, 이 전망을 유지하는 것은 회복력과 도전에서 기회를 보는 능력을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The optimistic perspective adopted by the team created a positive work environment, with the hopeful outlook and confident expectations fostering creativity and collaboration, though this attitude would need to be grounded in realistic assessment of capabilities and resources to be effective.",
+            "meaning_ko": "그 팀이 채택한 그 낙관적 관점은 긍정적인 작업 환경을 만들었고, 그 희망적인 전망과 자신 있는 기대가 창의성과 협력을 촉진했지만, 이 태도는 효과적이기 위해 능력과 자원에 대한 현실적 평가에 근거를 두어야 할 것입니다."
+          },
+          {
+            "sentence": "The optimistic assessment of the situation provided a foundation for action, with the positive evaluation and hopeful expectations creating motivation to pursue goals, though the assessment would need to be balanced with awareness of potential obstacles and challenges.",
+            "meaning_ko": "그 상황에 대한 그 낙관적 평가는 행동을 위한 기초를 제공했고, 그 긍정적 평가와 희망적인 기대가 목표를 추구하려는 동기를 만들었지만, 그 평가는 잠재적 장애물과 도전에 대한 인식과 균형을 맞춰야 할 것입니다."
+          },
+          {
+            "sentence": "The optimistic expectation that the project would succeed drove the team forward, with the positive outlook and confident predictions creating momentum and motivation, though the expectations would need to be managed to avoid disappointment if outcomes did not match the initial projections.",
+            "meaning_ko": "그 프로젝트가 성공할 것이라는 그 낙관적 기대가 그 팀을 앞으로 추진했고, 그 긍정적 전망과 자신 있는 예측이 추진력과 동기를 만들었지만, 그 기대는 결과가 초기 예측과 일치하지 않을 경우 실망을 피하기 위해 관리될 필요가 있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "optimistic는 '낙관적인, 긍정적인' 또는 '희망적인, 낙천적인' 의미로, 미래에 대해 긍정적이거나 낙관적인 상태를 가리킵니다. hopeful, positive와 비슷하지만 더 강한 뉘앙스가 있습니다. optimistic about ~, optimistic outlook 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: optimistic = (A) pessimistic (B) hopeful or positive (C) gloomy (D) negative",
+            "a": "B",
+            "meaning_ko": "optimistic는 '희망적인 또는 긍정적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She was _____ about the future.",
+            "a": "optimistic",
+            "meaning_ko": "optimistic는 '낙관적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of optimistic? (A) hopeful (B) positive (C) pessimistic (D) confident",
+            "a": "C",
+            "meaning_ko": "pessimistic(비관적인)가 optimistic의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: optimistic _____ the future. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "optimistic about ~는 '~에 대해 낙관적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: optimistic = (A) pessimistic (B) hopeful (C) gloomy (D) negative",
+            "a": "B",
+            "meaning_ko": "hopeful(희망적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was optimistic at the future.' → Fix the preposition.",
+            "a": "She was optimistic about the future.",
+            "meaning_ko": "optimistic about ~는 '~에 대해 낙관적인' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She was optimistic about the future.'",
+            "a": "She had a positive and hopeful outlook on what was to come, with her confident expectations and positive attitude creating a sense of possibility and opportunity, though maintaining this perspective would require focusing on opportunities rather than obstacles.",
+            "meaning_ko": "optimistic는 '낙관적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He had an _____ outlook. (A) optimistic (B) optimistically (C) optimism (D) optimistic's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 optimistic가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses optimistic most appropriately? (A) The optimistic ran. (B) She was optimistic about the future. (C) She optimistic smiled. (D) Optimistic is good.",
+            "a": "B",
+            "meaning_ko": "optimistic는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spleen",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "비장, 지라; 복부에 있는 장기.",
+        "note": "복부에 있는 장기를 가리킵니다."
+      },
+      {
+        "definition_ko": "분노, 악의; 분노하거나 악의적인 감정.",
+        "note": "분노하거나 악의적인 감정을 가리킵니다."
+      }
+    ],
+    "concept": "복부에 있는 장기인 비장, 또는 분노하거나 악의적인 감정인 분노.",
+    "etymology": "그리스어 splen(비장)에서 유래했으며, 원래는 '비장' 의미였고 현대에는 '분노'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '비장' 의미였고, 현대에는 '분노하거나 악의적인 감정'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 의학과 문학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사로 쓰이며, spleen 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대한 분노",
+        "example": "spleen against"
+      }
+    ],
+    "requiredComplements": [
+      "spleen : 비장/분노",
+      "spleen against + 명사 : ~에 대한 분노"
+    ],
+    "morphology": "그리스어 splen에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "splenetic",
+        "meaning_ko": "비장의/분노한"
+      }
+    ],
+    "related": [
+      {
+        "word": "anger",
+        "meaning_ko": "분노"
+      },
+      {
+        "word": "rage",
+        "meaning_ko": "분노"
+      },
+      {
+        "word": "resentment",
+        "meaning_ko": "분노"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "anger",
+        "meaning_ko": "분노"
+      },
+      {
+        "word": "rage",
+        "meaning_ko": "분노"
+      },
+      {
+        "word": "resentment",
+        "meaning_ko": "분노"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "malice",
+        "meaning_ko": "악의(범위가 더 넓음)"
+      },
+      {
+        "word": "spite",
+        "meaning_ko": "악의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "calm",
+        "meaning_ko": "평온"
+      },
+      {
+        "word": "peace",
+        "meaning_ko": "평화"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "spleen against",
+            "meaning_ko": "~에 대한 분노"
+          },
+          {
+            "phrase": "vent spleen",
+            "meaning_ko": "분노를 터뜨리다"
+          },
+          {
+            "phrase": "enlarged spleen",
+            "meaning_ko": "비대한 비장"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "spleen against authority",
+            "meaning_ko": "권위에 대한 분노"
+          },
+          {
+            "phrase": "spleen removal",
+            "meaning_ko": "비장 제거"
+          },
+          {
+            "phrase": "spleen function",
+            "meaning_ko": "비장 기능"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "spleen disorder",
+            "meaning_ko": "비장 장애"
+          },
+          {
+            "phrase": "spleen injury",
+            "meaning_ko": "비장 손상"
+          },
+          {
+            "phrase": "spleen surgery",
+            "meaning_ko": "비장 수술"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He vented his spleen.",
+            "meaning_ko": "그는 그의 분노를 터뜨렸습니다."
+          },
+          {
+            "sentence": "The spleen was enlarged.",
+            "meaning_ko": "그 비장은 비대했습니다."
+          },
+          {
+            "sentence": "She felt spleen against him.",
+            "meaning_ko": "그녀는 그에 대한 분노를 느꼈습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He vented his spleen, expressing his anger and frustration in a forceful manner, though the outburst might have been better handled through more constructive communication.",
+            "meaning_ko": "그는 그의 분노를 터뜨렸고, 강력한 방식으로 그의 분노와 좌절을 표현했지만, 그 폭발은 더 건설적인 의사 소통을 통해 더 잘 처리되었을 수 있습니다."
+          },
+          {
+            "sentence": "The spleen was enlarged, with the medical condition indicating a potential health problem that would require examination and possibly treatment, though the cause would need to be determined through diagnostic tests.",
+            "meaning_ko": "그 비장은 비대했고, 그 의학적 상태가 검사와 가능한 치료를 요구할 잠재적 건강 문제를 나타냈지만, 그 원인은 진단 검사를 통해 결정될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "She felt spleen against him, with her anger and resentment creating tension in their relationship, though addressing these feelings would require open communication and possibly mediation to resolve the conflict.",
+            "meaning_ko": "그녀는 그에 대한 분노를 느꼈고, 그녀의 분노와 원한이 그들의 관계에서 긴장을 만들었지만, 이 감정을 다루는 것은 갈등을 해결하기 위해 개방적 의사 소통과 가능한 중재를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The spleen disorder required careful medical management, with the condition affecting the organ's function and potentially impacting overall health, though treatment would depend on the specific diagnosis and severity of the problem.",
+            "meaning_ko": "그 비장 장애는 신중한 의학적 관리가 필요했고, 그 상태가 그 장기의 기능에 영향을 미치고 잠재적으로 전체 건강에 영향을 미쳤지만, 치료는 특정 진단과 그 문제의 심각성에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The spleen injury sustained in the accident necessitated immediate medical attention, with the trauma potentially causing internal bleeding and requiring surgical intervention to prevent further complications and ensure proper healing.",
+            "meaning_ko": "그 사고에서 입은 그 비장 손상은 즉각적인 의료적 주의를 필요로 했고, 그 외상이 잠재적으로 내부 출혈을 일으키고 추가 합병증을 방지하고 적절한 치유를 보장하기 위해 외과적 개입을 요구했습니다."
+          },
+          {
+            "sentence": "The spleen surgery was performed to address the medical condition, with the procedure requiring careful planning and skilled execution to ensure successful removal or repair of the organ while minimizing risks and supporting recovery.",
+            "meaning_ko": "그 비장 수술은 그 의학적 상태를 다루기 위해 수행되었고, 그 절차가 위험을 최소화하고 회복을 지원하면서 그 장기의 성공적인 제거나 수리를 보장하기 위해 신중한 계획과 숙련된 실행을 요구했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "spleen는 '비장, 지라' 또는 '분노, 악의' 의미로, 복부에 있는 장기를 가리킵니다. anger, rage와 비슷하지만 더 문학적 뉘앙스가 있습니다. vent spleen, spleen against ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "의학",
+      "문학",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: spleen = (A) calm (B) anger or organ (C) peace (D) tranquility",
+            "a": "B",
+            "meaning_ko": "spleen는 '분노 또는 장기' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He vented his _____.",
+            "a": "spleen",
+            "meaning_ko": "spleen는 '분노'를 의미합니다."
+          },
+          {
+            "q": "Which is similar to spleen (meaning anger)? (A) calm (B) anger (C) peace (D) tranquility",
+            "a": "B",
+            "meaning_ko": "anger(분노)가 spleen와 유사합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: spleen _____ authority. (A) against (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "spleen against ~는 '~에 대한 분노' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: spleen = (A) calm (B) anger (C) peace (D) tranquility",
+            "a": "B",
+            "meaning_ko": "anger(분노)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She felt spleen at him.' → Fix the preposition.",
+            "a": "She felt spleen against him.",
+            "meaning_ko": "spleen against ~는 '~에 대한 분노' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He vented his spleen.'",
+            "a": "He expressed his anger and frustration in a forceful manner, releasing pent-up emotions and resentment, though the outburst might have been better handled through more constructive communication.",
+            "meaning_ko": "spleen는 '분노'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ was enlarged. (A) spleen (B) spleens (C) spleen's (D) splenic",
+            "a": "A",
+            "meaning_ko": "명사 spleen가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses spleen most appropriately? (A) The spleen ran. (B) He vented his spleen. (C) She spleen smiled. (D) Spleen is good.",
+            "a": "B",
+            "meaning_ko": "spleen는 명사로 '분노'를 의미하며, vent와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

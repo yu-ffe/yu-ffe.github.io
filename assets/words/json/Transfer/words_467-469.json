@@ -1,0 +1,797 @@
+[
+  {
+    "word": "bleach",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "표백하다, 색을 빼다; 표백제를 사용하여 색을 제거하거나 밝게 만들다.",
+        "note": "동사로는 '표백하다', 명사로는 '표백제' 의미입니다."
+      },
+      {
+        "definition_ko": "표백제; 색을 제거하거나 밝게 만드는 화학 물질.",
+        "note": "명사로는 '표백제'를 의미합니다."
+      }
+    ],
+    "concept": "표백제를 사용하여 색을 제거하거나 밝게 만드는 것, 또는 그 표백제.",
+    "etymology": "고대 영어 blæcan(밝게 하다)에서 유래했으며, 원래는 '밝게 하다' 의미였으나 현대에는 '표백하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '밝게 하다' 의미였으나, 현대에는 '표백제를 사용하여 색을 제거하거나 밝게 만들다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 타동사로 bleach + 명사 형태로 자주 쓰이며, 명사로는 불가산명사입니다.",
+    "transitivity": "타동사",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "bleach + 명사 : ~을 표백하다"
+    ],
+    "morphology": "고대 영어 blæcan에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "bleached",
+        "meaning_ko": "표백된(과거분사/형용사)"
+      },
+      {
+        "word": "bleaching",
+        "meaning_ko": "표백하는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "whiten",
+        "meaning_ko": "하얗게 하다"
+      },
+      {
+        "word": "fade",
+        "meaning_ko": "바래다"
+      },
+      {
+        "word": "lighten",
+        "meaning_ko": "밝게 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "whiten",
+        "meaning_ko": "하얗게 하다"
+      },
+      {
+        "word": "fade",
+        "meaning_ko": "바래다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "lighten",
+        "meaning_ko": "밝게 하다(범위가 더 넓음)"
+      },
+      {
+        "word": "decolorize",
+        "meaning_ko": "탈색하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "dye",
+        "meaning_ko": "염색하다"
+      },
+      {
+        "word": "color",
+        "meaning_ko": "색칠하다"
+      },
+      {
+        "word": "stain",
+        "meaning_ko": "얼룩지게 하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "bleach clothes",
+            "meaning_ko": "옷을 표백하다"
+          },
+          {
+            "phrase": "bleach hair",
+            "meaning_ko": "머리를 표백하다"
+          },
+          {
+            "phrase": "use bleach",
+            "meaning_ko": "표백제를 사용하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "bleach fabric",
+            "meaning_ko": "직물을 표백하다"
+          },
+          {
+            "phrase": "bleach paper",
+            "meaning_ko": "종이를 표백하다"
+          },
+          {
+            "phrase": "household bleach",
+            "meaning_ko": "가정용 표백제"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "bleach the coral",
+            "meaning_ko": "산호를 표백하다"
+          },
+          {
+            "phrase": "chlorine bleach",
+            "meaning_ko": "염소 표백제"
+          },
+          {
+            "phrase": "bleach solution",
+            "meaning_ko": "표백 용액"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She bleached her hair blonde.",
+            "meaning_ko": "그녀는 머리를 금발로 표백했습니다."
+          },
+          {
+            "sentence": "We need to bleach the white clothes to keep them bright.",
+            "meaning_ko": "우리는 흰 옷을 밝게 유지하기 위해 표백해야 합니다."
+          },
+          {
+            "sentence": "The cleaner used bleach to remove the stain.",
+            "meaning_ko": "청소부는 얼룩을 제거하기 위해 표백제를 사용했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The factory bleached the fabric to achieve the desired whiteness before dyeing.",
+            "meaning_ko": "그 공장은 염색 전에 원하는 흰색을 얻기 위해 직물을 표백했습니다."
+          },
+          {
+            "sentence": "The paper industry uses chemicals to bleach paper, making it suitable for printing.",
+            "meaning_ko": "종이 산업은 종이를 표백하기 위해 화학 물질을 사용하여 인쇄에 적합하게 만듭니다."
+          },
+          {
+            "sentence": "Household bleach is effective for cleaning and disinfecting surfaces in the home.",
+            "meaning_ko": "가정용 표백제는 집 안의 표면을 청소하고 소독하는 데 효과적입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "Rising ocean temperatures have caused coral reefs to bleach, losing their vibrant colors and threatening marine ecosystems.",
+            "meaning_ko": "상승하는 해양 온도는 산호초를 표백시켜 생생한 색을 잃고 해양 생태계를 위협하고 있습니다."
+          },
+          {
+            "sentence": "The textile manufacturer developed an eco-friendly method to bleach cotton without using harmful chlorine bleach.",
+            "meaning_ko": "그 직물 제조업체는 유해한 염소 표백제를 사용하지 않고 면을 표백하는 친환경 방법을 개발했습니다."
+          },
+          {
+            "sentence": "The laboratory used a bleach solution to sterilize equipment and prevent contamination during experiments.",
+            "meaning_ko": "그 실험실은 표백 용액을 사용하여 장비를 살균하고 실험 중 오염을 방지했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "bleach은 '표백하다' 또는 '표백제' 의미로, 동사와 명사 모두로 쓰입니다. 동사로는 '표백제를 사용하여 색을 제거하거나 밝게 만들다', 명사로는 '표백제' 의미입니다. bleach clothes, bleach hair 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "청소",
+      "화학",
+      "일상 회화",
+      "과학",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: bleach (verb) = (A) dye (B) whiten or remove color (C) color (D) stain",
+            "a": "B",
+            "meaning_ko": "bleach(동사)는 '하얗게 하거나 색을 제거하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She _____ her hair blonde.",
+            "a": "bleached",
+            "meaning_ko": "bleach은 '표백하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of bleach? (A) whiten (B) fade (C) dye (D) lighten",
+            "a": "C",
+            "meaning_ko": "dye(염색하다)가 bleach의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: We need to _____ the clothes. (A) bleach (B) bleached (C) bleaching (D) bleaches",
+            "a": "A",
+            "meaning_ko": "현재 시제에서 타동사 bleach가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: bleach (verb) = (A) dye (B) whiten (C) color (D) stain",
+            "a": "B",
+            "meaning_ko": "whiten(하얗게 하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The cleaner used bleach to remove stain.' → Fix the sentence.",
+            "a": "The cleaner used bleach to remove the stain.",
+            "meaning_ko": "stain은 가산명사이므로 관사 the가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Rising temperatures caused coral to bleach.'",
+            "a": "Increasing ocean temperatures made coral lose their color and become white.",
+            "meaning_ko": "bleach은 '표백하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The factory _____ the fabric. (A) bleach (B) bleached (C) bleaching (D) bleaches",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 타동사 bleached가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses bleach most appropriately? (A) The bleach ran. (B) She bleached her hair. (C) He bleach smiled. (D) Bleach is good.",
+            "a": "B",
+            "meaning_ko": "bleach은 타동사로 '~을 표백하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "quest",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "탐구, 추구; 목표를 달성하기 위한 긴 여정이나 노력.",
+        "note": "명사로는 '탐구', 동사로는 '탐구하다' 의미입니다."
+      },
+      {
+        "definition_ko": "탐구하다, 찾다; 목표를 달성하기 위해 노력하다.",
+        "note": "동사로는 '탐구하다' 의미입니다."
+      }
+    ],
+    "concept": "목표를 달성하기 위한 긴 여정이나 노력인 탐구, 또는 그런 노력을 하는 것.",
+    "etymology": "고대 프랑스어 queste(찾기)에서 유래했으며, 원래는 '찾기' 의미였으나 현대에는 '탐구'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '찾기' 의미였으나, 현대에는 '목표를 달성하기 위한 긴 여정이나 노력'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학적 뉘앙스가 있습니다.",
+    "grammarNotes": "명사로는 가산명사이며, 동사로는 자동사로 quest for + 명사 형태로 자주 쓰입니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 찾는 탐구",
+        "example": "quest for knowledge"
+      }
+    ],
+    "requiredComplements": [
+      "quest for + 명사 : ~을 찾는 탐구",
+      "on a quest : 탐구 중에"
+    ],
+    "morphology": "고대 프랑스어 queste에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "questing",
+        "meaning_ko": "탐구하는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "search",
+        "meaning_ko": "찾기"
+      },
+      {
+        "word": "journey",
+        "meaning_ko": "여정"
+      },
+      {
+        "word": "pursuit",
+        "meaning_ko": "추구"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "search",
+        "meaning_ko": "찾기"
+      },
+      {
+        "word": "journey",
+        "meaning_ko": "여정"
+      },
+      {
+        "word": "pursuit",
+        "meaning_ko": "추구"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "adventure",
+        "meaning_ko": "모험(범위가 더 넓음)"
+      },
+      {
+        "word": "expedition",
+        "meaning_ko": "탐험"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "quest for knowledge",
+            "meaning_ko": "지식을 찾는 탐구"
+          },
+          {
+            "phrase": "quest for truth",
+            "meaning_ko": "진실을 찾는 탐구"
+          },
+          {
+            "phrase": "on a quest",
+            "meaning_ko": "탐구 중에"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "quest for justice",
+            "meaning_ko": "정의를 찾는 탐구"
+          },
+          {
+            "phrase": "quest for meaning",
+            "meaning_ko": "의미를 찾는 탐구"
+          },
+          {
+            "phrase": "heroic quest",
+            "meaning_ko": "영웅적인 탐구"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "quest for enlightenment",
+            "meaning_ko": "깨달음을 찾는 탐구"
+          },
+          {
+            "phrase": "spiritual quest",
+            "meaning_ko": "영적 탐구"
+          },
+          {
+            "phrase": "quest for perfection",
+            "meaning_ko": "완벽을 찾는 탐구"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She embarked on a quest for knowledge.",
+            "meaning_ko": "그녀는 지식을 찾는 탐구를 시작했습니다."
+          },
+          {
+            "sentence": "The hero's quest took him to many lands.",
+            "meaning_ko": "그 영웅의 탐구는 그를 많은 땅으로 데려갔습니다."
+          },
+          {
+            "sentence": "They are on a quest to find the truth.",
+            "meaning_ko": "그들은 진실을 찾는 탐구 중에 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The organization's quest for justice led to significant legal reforms.",
+            "meaning_ko": "그 조직의 정의를 찾는 탐구는 중요한 법률 개혁으로 이어졌습니다."
+          },
+          {
+            "sentence": "The philosopher's quest for meaning in life inspired generations of thinkers.",
+            "meaning_ko": "그 철학자의 삶의 의미를 찾는 탐구는 여러 세대의 사상가들을 고무시켰습니다."
+          },
+          {
+            "sentence": "The knight's heroic quest to save the kingdom became the stuff of legends.",
+            "meaning_ko": "그 기사의 왕국을 구하기 위한 영웅적인 탐구는 전설이 되었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The monk's quest for enlightenment required years of meditation and self-reflection in isolation.",
+            "meaning_ko": "그 수도사의 깨달음을 찾는 탐구는 고립된 상태에서 수년간의 명상과 자기 성찰이 필요했습니다."
+          },
+          {
+            "sentence": "The artist's spiritual quest to understand the nature of beauty transcended traditional artistic boundaries.",
+            "meaning_ko": "그 예술가의 아름다움의 본질을 이해하려는 영적 탐구는 전통적인 예술적 경계를 초월했습니다."
+          },
+          {
+            "sentence": "The scientist's quest for perfection in her research methodology drove her to develop innovative experimental techniques.",
+            "meaning_ko": "그 과학자의 연구 방법론에서 완벽을 찾는 탐구는 그녀가 혁신적인 실험 기법을 개발하도록 이끌었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "quest는 '탐구, 추구' 또는 '탐구하다' 의미로, 명사와 동사 모두로 쓰입니다. 명사로는 '목표를 달성하기 위한 긴 여정이나 노력', 동사로는 '탐구하다' 의미입니다. quest for ~, on a quest 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "탐구",
+      "목표",
+      "일상 회화",
+      "문학",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: quest (noun) = (A) answer (B) search or journey for a goal (C) solution (D) result",
+            "a": "B",
+            "meaning_ko": "quest(명사)는 '목표를 위한 찾기 또는 여정' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She embarked on a _____ for knowledge.",
+            "a": "quest",
+            "meaning_ko": "quest는 '탐구'를 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'searching for'? (A) quest for (B) quest at (C) quest on (D) quest by",
+            "a": "A",
+            "meaning_ko": "quest for ~는 '~을 찾는 탐구' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: quest _____ truth. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "quest for ~는 '~을 찾는 탐구' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: quest = (A) answer (B) search (C) solution (D) result",
+            "a": "B",
+            "meaning_ko": "search(찾기)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They are on quest to find truth.' → Fix the sentence.",
+            "a": "They are on a quest to find the truth.",
+            "meaning_ko": "quest는 가산명사이므로 관사 a가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The philosopher's quest for meaning inspired thinkers.'",
+            "a": "The scholar's long search or journey to find purpose in life motivated and encouraged other intellectuals.",
+            "meaning_ko": "quest for meaning는 '의미를 찾는 탐구'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ for enlightenment required years. (A) quest (B) quests (C) questing (D) quested",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 quest가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses quest most appropriately? (A) The quest ran. (B) They embarked on a quest. (C) She quest smiled. (D) Quest is good.",
+            "a": "B",
+            "meaning_ko": "quest는 명사로 '탐구'를 의미하며, embark on과 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "infest",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "침입하다, 들끓다; 해로운 동물이나 곤충이 대량으로 침입하거나 들끓다.",
+        "note": "해로운 동물이나 곤충이 대량으로 침입하거나 들끓는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "해로운 동물이나 곤충이 대량으로 침입하거나 들끓는 것.",
+    "etymology": "라틴어 infestare(공격하다)에서 유래했으며, 원래는 '공격하다' 의미였으나 현대에는 '침입하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '공격하다' 의미였으나, 현대에는 '해로운 동물이나 곤충이 대량으로 침입하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 infest + 명사 형태로 자주 쓰이며, 수동태로 be infested with + 명사 형태도 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~으로 침입당한",
+        "example": "infested with pests"
+      }
+    ],
+    "requiredComplements": [
+      "infest + 명사 : ~을 침입하다",
+      "be infested with + 명사 : ~으로 침입당한"
+    ],
+    "morphology": "라틴어 infestare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "infestation",
+        "meaning_ko": "침입"
+      },
+      {
+        "word": "infested",
+        "meaning_ko": "침입당한(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "invade",
+        "meaning_ko": "침입하다"
+      },
+      {
+        "word": "overrun",
+        "meaning_ko": "침입하다"
+      },
+      {
+        "word": "plague",
+        "meaning_ko": "괴롭히다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "invade",
+        "meaning_ko": "침입하다"
+      },
+      {
+        "word": "overrun",
+        "meaning_ko": "침입하다"
+      },
+      {
+        "word": "plague",
+        "meaning_ko": "괴롭히다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "swarm",
+        "meaning_ko": "떼를 지어 모이다(범위가 더 넓음)"
+      },
+      {
+        "word": "invade",
+        "meaning_ko": "침입하다(일반적)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clear",
+        "meaning_ko": "제거하다"
+      },
+      {
+        "word": "clean",
+        "meaning_ko": "청소하다"
+      },
+      {
+        "word": "eradicate",
+        "meaning_ko": "근절하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "infest with pests",
+            "meaning_ko": "해충으로 침입당한"
+          },
+          {
+            "phrase": "infest the house",
+            "meaning_ko": "집을 침입하다"
+          },
+          {
+            "phrase": "be infested with",
+            "meaning_ko": "~으로 침입당한"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "infest with insects",
+            "meaning_ko": "곤충으로 침입당한"
+          },
+          {
+            "phrase": "infest the area",
+            "meaning_ko": "지역을 침입하다"
+          },
+          {
+            "phrase": "infest with rodents",
+            "meaning_ko": "설치류로 침입당한"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "infest with parasites",
+            "meaning_ko": "기생충으로 침입당한"
+          },
+          {
+            "phrase": "infest the crop",
+            "meaning_ko": "작물을 침입하다"
+          },
+          {
+            "phrase": "infest with vermin",
+            "meaning_ko": "해충으로 침입당한"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The house was infested with pests.",
+            "meaning_ko": "그 집은 해충으로 침입당했습니다."
+          },
+          {
+            "sentence": "Rats infested the old building.",
+            "meaning_ko": "쥐들이 그 오래된 건물을 침입했습니다."
+          },
+          {
+            "sentence": "The kitchen was infested with ants.",
+            "meaning_ko": "부엌은 개미로 침입당했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The warehouse was infested with insects, requiring immediate pest control measures.",
+            "meaning_ko": "그 창고는 곤충으로 침입당했고, 즉각적인 해충 방제 조치가 필요했습니다."
+          },
+          {
+            "sentence": "The abandoned area had become infested with rodents, creating health concerns for nearby residents.",
+            "meaning_ko": "그 버려진 지역은 설치류로 침입당했고, 인근 주민들에게 건강 우려를 만들었습니다."
+          },
+          {
+            "sentence": "The old furniture was infested with termites, causing significant damage to the structure.",
+            "meaning_ko": "그 오래된 가구는 흰개미로 침입당했고, 구조에 상당한 손상을 일으켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The agricultural fields were infested with parasites, threatening the entire crop yield and requiring comprehensive treatment.",
+            "meaning_ko": "그 농경지는 기생충으로 침입당했고, 전체 작물 수확을 위협하며 포괄적인 처리가 필요했습니다."
+          },
+          {
+            "sentence": "The research facility discovered that the laboratory animals were infested with vermin, compromising the validity of ongoing experiments.",
+            "meaning_ko": "그 연구 시설은 실험 동물이 해충으로 침입당했다는 것을 발견했고, 진행 중인 실험의 타당성을 훼손했습니다."
+          },
+          {
+            "sentence": "The historical archive, infested with bookworms and other pests, required extensive restoration to preserve the valuable documents.",
+            "meaning_ko": "책벌레와 다른 해충으로 침입당한 그 역사적 기록 보관소는 귀중한 문서를 보존하기 위해 광범위한 복원이 필요했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "infest은 '침입하다, 들끓다' 의미로, 해로운 동물이나 곤충이 대량으로 침입하거나 들끓는 행동을 가리킵니다. invade, overrun과 비슷하지만 더 해로운 동물이나 곤충에 특화된 뉘앙스가 있습니다. be infested with ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "해충",
+      "생물",
+      "일상 회화",
+      "과학",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: infest = (A) clean (B) invade in large numbers (C) clear (D) eradicate",
+            "a": "B",
+            "meaning_ko": "infest은 '대량으로 침입하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The house was _____ with pests.",
+            "a": "infested",
+            "meaning_ko": "infest은 '침입하다' 의미입니다."
+          },
+          {
+            "q": "Which phrase means 'invaded by pests'? (A) infested with pests (B) cleaned with pests (C) cleared with pests (D) eradicated with pests",
+            "a": "A",
+            "meaning_ko": "infested with pests는 '해충으로 침입당한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: infested _____ insects. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "infested with ~는 '~으로 침입당한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: infest = (A) clean (B) invade (C) clear (D) eradicate",
+            "a": "B",
+            "meaning_ko": "invade(침입하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'Rats infested the building.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "infest + 명사는 '~을 침입하다' 의미로 사용 가능합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The fields were infested with parasites.'",
+            "a": "The agricultural areas were invaded in large numbers by harmful organisms that live on or in other living things.",
+            "meaning_ko": "infested with parasites는 '기생충으로 침입당한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The area _____ with rodents. (A) infest (B) infested (C) infesting (D) infests",
+            "a": "B",
+            "meaning_ko": "과거분사형 infested가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses infest most appropriately? (A) The infest ran. (B) Rats infested the building. (C) She infest smiled. (D) Infest is good.",
+            "a": "B",
+            "meaning_ko": "infest은 타동사로 '~을 침입하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]

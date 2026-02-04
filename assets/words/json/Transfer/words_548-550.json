@@ -1,0 +1,795 @@
+[
+  {
+    "word": "adjourn",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "휴회하다, 연기하다; 회의나 법정을 일시적으로 중단하거나 연기하다.",
+        "note": "회의나 법정을 일시적으로 중단하거나 연기하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "회의나 법정을 일시적으로 중단하거나 연기하는 것.",
+    "etymology": "프랑스어 ajourner(연기하다)에서 유래했으며, 원래는 '연기하다' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '연기하다' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 법률·의회 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "타동사와 자동사 모두로 쓰이며, adjourn + 명사 또는 adjourn 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~로 연기하다",
+        "example": "adjourn to another date"
+      },
+      {
+        "prep": "until",
+        "meaning_ko": "~까지 연기하다",
+        "example": "adjourn until tomorrow"
+      }
+    ],
+    "requiredComplements": [
+      "adjourn + 명사 : ~을 휴회하다",
+      "adjourn to/until + 명사 : ~로/까지 연기하다"
+    ],
+    "morphology": "프랑스어 ajourner에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "adjournment",
+        "meaning_ko": "휴회"
+      },
+      {
+        "word": "adjourned",
+        "meaning_ko": "휴회된(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "postpone",
+        "meaning_ko": "연기하다"
+      },
+      {
+        "word": "suspend",
+        "meaning_ko": "중단하다"
+      },
+      {
+        "word": "recess",
+        "meaning_ko": "휴회하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "postpone",
+        "meaning_ko": "연기하다"
+      },
+      {
+        "word": "suspend",
+        "meaning_ko": "중단하다"
+      },
+      {
+        "word": "recess",
+        "meaning_ko": "휴회하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "delay",
+        "meaning_ko": "지연시키다(범위가 더 넓음)"
+      },
+      {
+        "word": "defer",
+        "meaning_ko": "연기하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "convene",
+        "meaning_ko": "소집하다"
+      },
+      {
+        "word": "resume",
+        "meaning_ko": "재개하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "adjourn the meeting",
+            "meaning_ko": "회의를 휴회하다"
+          },
+          {
+            "phrase": "adjourn to",
+            "meaning_ko": "~로 연기하다"
+          },
+          {
+            "phrase": "adjourn until",
+            "meaning_ko": "~까지 연기하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "adjourn the court",
+            "meaning_ko": "법정을 휴회하다"
+          },
+          {
+            "phrase": "adjourn the session",
+            "meaning_ko": "회기를 휴회하다"
+          },
+          {
+            "phrase": "adjourn the hearing",
+            "meaning_ko": "청문회를 휴회하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "adjourn the proceedings",
+            "meaning_ko": "절차를 휴회하다"
+          },
+          {
+            "phrase": "adjourn the debate",
+            "meaning_ko": "토론을 휴회하다"
+          },
+          {
+            "phrase": "adjourn sine die",
+            "meaning_ko": "무기한 휴회하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The meeting was adjourned until tomorrow.",
+            "meaning_ko": "그 회의는 내일까지 휴회되었습니다."
+          },
+          {
+            "sentence": "The judge adjourned the court.",
+            "meaning_ko": "그 판사는 법정을 휴회했습니다."
+          },
+          {
+            "sentence": "They decided to adjourn the session.",
+            "meaning_ko": "그들은 그 회기를 휴회하기로 결정했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The meeting was adjourned until tomorrow to allow time for additional research and preparation before making a final decision on the proposal.",
+            "meaning_ko": "그 회의는 그 제안에 대한 최종 결정을 내리기 전에 추가 연구와 준비를 위한 시간을 허용하기 위해 내일까지 휴회되었습니다."
+          },
+          {
+            "sentence": "The judge adjourned the court after hearing all the evidence, scheduling the next session to allow both parties time to prepare their closing arguments.",
+            "meaning_ko": "그 판사는 모든 증거를 듣은 후 법정을 휴회했고, 양쪽 당사자들이 자신들의 최종 변론을 준비할 시간을 허용하기 위해 다음 회기를 예정했습니다."
+          },
+          {
+            "sentence": "They decided to adjourn the session when it became clear that more information was needed before proceeding with the vote on the controversial legislation.",
+            "meaning_ko": "그들은 논란의 여지가 있는 법안에 대한 투표를 진행하기 전에 더 많은 정보가 필요하다는 것이 명확해졌을 때 그 회기를 휴회하기로 결정했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The committee voted to adjourn the proceedings sine die, effectively ending the investigation without setting a date for resumption, which raised questions about the thoroughness of the inquiry.",
+            "meaning_ko": "그 위원회는 절차를 무기한 휴회하기로 투표했고, 재개 날짜를 정하지 않고 효과적으로 그 조사를 종료했으며, 이것은 그 조사의 철저성에 대한 질문을 제기했습니다."
+          },
+          {
+            "sentence": "The decision to adjourn the debate came after hours of discussion failed to produce consensus, with members agreeing that further reflection and consultation were necessary before reaching a resolution.",
+            "meaning_ko": "그 토론을 휴회하기로 한 결정은 몇 시간의 논의가 합의를 만들어내지 못한 후에 왔고, 구성원들이 해결책에 도달하기 전에 추가 반성과 협의가 필요하다는 것에 동의했기 때문입니다."
+          },
+          {
+            "sentence": "The motion to adjourn the session was passed by a narrow margin, reflecting the divided opinions within the assembly about whether sufficient progress had been made to justify continuing the deliberations.",
+            "meaning_ko": "그 회기를 휴회하기로 한 동의는 좁은 차이로 통과되었고, 심의를 계속할 것을 정당화할 만큼 충분한 진전이 있었는지에 대한 의회 내 분열된 의견을 반영했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "adjourn는 '휴회하다, 연기하다' 의미로, 회의나 법정을 일시적으로 중단하거나 연기하는 행동을 가리킵니다. postpone, suspend와 비슷하지만 더 공식적이고 법률·의회 맥락에서 자주 쓰입니다. adjourn the meeting, adjourn until ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "법률",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: adjourn = (A) convene (B) postpone or suspend (C) resume (D) continue",
+            "a": "B",
+            "meaning_ko": "adjourn는 '연기하거나 중단하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The meeting was _____ until tomorrow.",
+            "a": "adjourned",
+            "meaning_ko": "adjourn는 '휴회하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of adjourn? (A) postpone (B) suspend (C) convene (D) recess",
+            "a": "C",
+            "meaning_ko": "convene(소집하다)가 adjourn의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: adjourn _____ tomorrow. (A) until (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "adjourn until ~는 '~까지 연기하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: adjourn = (A) convene (B) postpone (C) resume (D) continue",
+            "a": "B",
+            "meaning_ko": "postpone(연기하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The meeting was adjourned on tomorrow.' → Fix the preposition.",
+            "a": "The meeting was adjourned until tomorrow.",
+            "meaning_ko": "adjourn until ~는 '~까지 연기하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The judge adjourned the court after hearing the evidence.'",
+            "a": "The judicial officer temporarily suspended and postponed the legal proceedings, ending the current session after all testimony and proof had been presented, with plans to resume at a later date.",
+            "meaning_ko": "adjourn the court는 '법정을 휴회하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the session. (A) adjourn (B) adjourns (C) adjourning (D) adjourned",
+            "a": "A",
+            "meaning_ko": "복수 주어에서 동사 원형 adjourn가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses adjourn most appropriately? (A) The adjourn ran. (B) The meeting was adjourned. (C) She adjourn smiled. (D) Adjourn is good.",
+            "a": "B",
+            "meaning_ko": "adjourn는 타동사로 '~을 휴회하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "emissary",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "사절, 특사; 정부나 조직의 대표로 파견되는 사람.",
+        "note": "정부나 조직의 대표로 파견되는 사람을 가리킵니다."
+      }
+    ],
+    "concept": "정부나 조직의 대표로 파견되는 사절.",
+    "etymology": "라틴어 emissarius(파견된 사람)에서 유래했으며, 원래는 '파견된 사람' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래부터 '파견된 사람' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "가산명사로 an emissary, emissaries 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터 온 사절",
+        "example": "emissary from the government"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 파견된 사절",
+        "example": "emissary to the country"
+      }
+    ],
+    "requiredComplements": [
+      "emissary from + 명사 : ~로부터 온 사절",
+      "emissary to + 명사 : ~에게 파견된 사절"
+    ],
+    "morphology": "라틴어 emissarius에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "envoy",
+        "meaning_ko": "사절"
+      },
+      {
+        "word": "ambassador",
+        "meaning_ko": "대사"
+      },
+      {
+        "word": "delegate",
+        "meaning_ko": "대표"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "envoy",
+        "meaning_ko": "사절"
+      },
+      {
+        "word": "ambassador",
+        "meaning_ko": "대사"
+      },
+      {
+        "word": "delegate",
+        "meaning_ko": "대표"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "representative",
+        "meaning_ko": "대표(범위가 더 넓음)"
+      },
+      {
+        "word": "messenger",
+        "meaning_ko": "전령"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "emissary from",
+            "meaning_ko": "~로부터 온 사절"
+          },
+          {
+            "phrase": "emissary to",
+            "meaning_ko": "~에게 파견된 사절"
+          },
+          {
+            "phrase": "peace emissary",
+            "meaning_ko": "평화 사절"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "emissary from the government",
+            "meaning_ko": "정부로부터 온 사절"
+          },
+          {
+            "phrase": "emissary to the country",
+            "meaning_ko": "그 나라에게 파견된 사절"
+          },
+          {
+            "phrase": "diplomatic emissary",
+            "meaning_ko": "외교 사절"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "emissary of peace",
+            "meaning_ko": "평화의 사절"
+          },
+          {
+            "phrase": "special emissary",
+            "meaning_ko": "특별 사절"
+          },
+          {
+            "phrase": "royal emissary",
+            "meaning_ko": "왕실 사절"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The emissary from the government arrived yesterday.",
+            "meaning_ko": "정부로부터 온 사절은 어제 도착했습니다."
+          },
+          {
+            "sentence": "They sent an emissary to negotiate peace.",
+            "meaning_ko": "그들은 평화를 협상하기 위해 사절을 보냈습니다."
+          },
+          {
+            "sentence": "The peace emissary met with the leaders.",
+            "meaning_ko": "그 평화 사절은 지도자들을 만났습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The emissary from the government arrived yesterday to discuss the terms of the trade agreement, representing the interests of his country in the negotiations.",
+            "meaning_ko": "정부로부터 온 사절은 어제 무역 협정의 조건을 논의하기 위해 도착했고, 그 협상에서 그의 국가의 이익을 대표했습니다."
+          },
+          {
+            "sentence": "They sent an emissary to negotiate peace between the warring factions, hoping that diplomatic dialogue could resolve the conflict that had persisted for years.",
+            "meaning_ko": "그들은 싸우는 파벌들 사이의 평화를 협상하기 위해 사절을 보냈고, 외교적 대화가 몇 년 동안 지속되었던 그 갈등을 해결할 수 있기를 희망했습니다."
+          },
+          {
+            "sentence": "The peace emissary met with the leaders of both sides, facilitating communication and working to find common ground that could lead to a sustainable resolution of the dispute.",
+            "meaning_ko": "그 평화 사절은 양쪽의 지도자들을 만났고, 소통을 용이하게 하고 그 분쟁의 지속 가능한 해결로 이어질 수 있는 공통점을 찾기 위해 노력했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The special emissary of peace appointed by the international organization was tasked with mediating between the conflicting parties, using diplomatic skills and cultural understanding to bridge differences and build trust.",
+            "meaning_ko": "그 국제 기관이 임명한 평화의 특별 사절은 충돌하는 당사자들 사이에서 중재하는 임무를 맡았고, 외교적 기술과 문화적 이해를 사용하여 차이를 메우고 신뢰를 구축했습니다."
+          },
+          {
+            "sentence": "The royal emissary dispatched to the neighboring kingdom carried messages of goodwill and proposals for strengthening economic and political ties between the two nations.",
+            "meaning_ko": "그 인접 왕국에 파견된 그 왕실 사절은 두 국가 사이의 경제적이고 정치적인 유대를 강화하기 위한 선의의 메시지와 제안을 전달했습니다."
+          },
+          {
+            "sentence": "The diplomatic emissary's mission involved not only delivering official communications but also gathering intelligence about the political climate and potential opportunities for cooperation in the region.",
+            "meaning_ko": "그 외교 사절의 임무는 공식 통신을 전달하는 것뿐만 아니라 그 지역에서 정치적 기후와 협력의 잠재적 기회에 대한 정보를 수집하는 것을 포함했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "emissary는 '사절, 특사' 의미로, 정부나 조직의 대표로 파견되는 사람을 가리킵니다. 매우 격식 있고 드문 단어로, envoy, ambassador와 비슷하지만 더 비공식적 뉘앙스가 있습니다. emissary from/to ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "외교",
+      "격식",
+      "문어",
+      "드문",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: emissary = (A) enemy (B) envoy or representative (C) opponent (D) rival",
+            "a": "B",
+            "meaning_ko": "emissary는 '사절 또는 대표' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ from the government arrived yesterday.",
+            "a": "emissary",
+            "meaning_ko": "emissary는 '사절'을 의미합니다."
+          },
+          {
+            "q": "Which word is related to emissary? (A) envoy (B) enemy (C) opponent (D) rival",
+            "a": "A",
+            "meaning_ko": "envoy(사절)가 emissary와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: emissary _____ the government. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "emissary from ~는 '~로부터 온 사절' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: emissary = (A) enemy (B) envoy (C) opponent (D) rival",
+            "a": "B",
+            "meaning_ko": "envoy(사절)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The emissary on the government arrived.' → Fix the preposition.",
+            "a": "The emissary from the government arrived.",
+            "meaning_ko": "emissary from ~는 '~로부터 온 사절' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They sent an emissary to negotiate peace.'",
+            "a": "They dispatched a diplomatic representative and messenger to engage in discussions and talks aimed at establishing peace and resolving conflicts between the parties involved.",
+            "meaning_ko": "emissary to negotiate는 '협상하기 위해 사절'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ from the government arrived. (A) emissary (B) emissaries (C) emissarys (D) emissaryes",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 emissary가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses emissary most appropriately? (A) The emissary ran. (B) The emissary from the government arrived. (C) She emissary smiled. (D) Emissary is good.",
+            "a": "B",
+            "meaning_ko": "emissary는 명사로 '사절'을 의미하며, from과 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "merciless",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "무자비한, 냉혹한; 자비나 동정이 없고 냉혹한.",
+        "note": "자비나 동정이 없고 냉혹한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "자비나 동정이 없고 냉혹한 무자비한 상태.",
+    "etymology": "mercy(자비) + -less(없는)의 결합으로, '자비가 없는'에서 '무자비한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '자비가 없는' 의미였으며, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be merciless 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "toward",
+        "meaning_ko": "~에 대해 무자비한",
+        "example": "merciless toward enemies"
+      }
+    ],
+    "requiredComplements": [
+      "be merciless : 무자비하다",
+      "be merciless toward + 명사 : ~에 대해 무자비한"
+    ],
+    "morphology": "mercy(자비) + -less(없는)의 결합으로, '자비가 없는'에서 '무자비한'으로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "mercilessly",
+        "meaning_ko": "무자비하게"
+      },
+      {
+        "word": "mercilessness",
+        "meaning_ko": "무자비함"
+      }
+    ],
+    "related": [
+      {
+        "word": "ruthless",
+        "meaning_ko": "무자비한"
+      },
+      {
+        "word": "cruel",
+        "meaning_ko": "잔혹한"
+      },
+      {
+        "word": "pitiless",
+        "meaning_ko": "무자비한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ruthless",
+        "meaning_ko": "무자비한"
+      },
+      {
+        "word": "cruel",
+        "meaning_ko": "잔혹한"
+      },
+      {
+        "word": "pitiless",
+        "meaning_ko": "무자비한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "heartless",
+        "meaning_ko": "무정한(범위가 더 넓음)"
+      },
+      {
+        "word": "brutal",
+        "meaning_ko": "잔혹한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "merciful",
+        "meaning_ko": "자비로운"
+      },
+      {
+        "word": "compassionate",
+        "meaning_ko": "동정적인"
+      },
+      {
+        "word": "kind",
+        "meaning_ko": "친절한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "merciless toward",
+            "meaning_ko": "~에 대해 무자비한"
+          },
+          {
+            "phrase": "merciless attack",
+            "meaning_ko": "무자비한 공격"
+          },
+          {
+            "phrase": "merciless criticism",
+            "meaning_ko": "무자비한 비판"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "merciless toward enemies",
+            "meaning_ko": "적에 대해 무자비한"
+          },
+          {
+            "phrase": "merciless treatment",
+            "meaning_ko": "무자비한 대우"
+          },
+          {
+            "phrase": "merciless pursuit",
+            "meaning_ko": "무자비한 추적"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "merciless destruction",
+            "meaning_ko": "무자비한 파괴"
+          },
+          {
+            "phrase": "merciless exploitation",
+            "meaning_ko": "무자비한 착취"
+          },
+          {
+            "phrase": "merciless competition",
+            "meaning_ko": "무자비한 경쟁"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The merciless attack left many casualties.",
+            "meaning_ko": "그 무자비한 공격은 많은 사상자를 남겼습니다."
+          },
+          {
+            "sentence": "He was merciless toward his enemies.",
+            "meaning_ko": "그는 그의 적들에 대해 무자비했습니다."
+          },
+          {
+            "sentence": "The merciless criticism hurt her feelings.",
+            "meaning_ko": "그 무자비한 비판은 그녀의 감정을 상하게 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The merciless attack left many casualties, as the assailants showed no regard for civilian lives and targeted both military and non-combatant populations.",
+            "meaning_ko": "그 무자비한 공격은 많은 사상자를 남겼고, 가해자들이 민간인 생명에 대한 고려를 보이지 않았고 군인과 비전투원 인구 모두를 표적으로 했기 때문입니다."
+          },
+          {
+            "sentence": "He was merciless toward his enemies, pursuing them with determination and refusing to show any leniency or compassion, even when they were in vulnerable positions.",
+            "meaning_ko": "그는 그의 적들에 대해 무자비했고, 그들을 결단력 있게 추적했고, 그들이 취약한 위치에 있을 때조차 어떤 관대함이나 동정도 보여주는 것을 거부했습니다."
+          },
+          {
+            "sentence": "The merciless criticism hurt her feelings, as the harsh words and personal attacks went far beyond constructive feedback and seemed designed to undermine her confidence.",
+            "meaning_ko": "그 무자비한 비판은 그녀의 감정을 상하게 했고, 가혹한 말과 개인적 공격이 건설적 피드백을 훨씬 넘어섰고 그녀의 자신감을 훼손하도록 설계된 것처럼 보였기 때문입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The merciless destruction of the ancient city by the invading forces erased centuries of cultural heritage, leaving behind only ruins and memories of what had once been a thriving civilization.",
+            "meaning_ko": "그 침략군에 의한 그 고대 도시의 무자비한 파괴는 수세기의 문화적 유산을 지웠고, 한때 번성했던 문명이었던 것의 유적과 기억만을 남겼습니다."
+          },
+          {
+            "sentence": "The merciless exploitation of workers in the factory revealed systemic issues of labor rights violations, prompting investigations and calls for reform from human rights organizations.",
+            "meaning_ko": "그 공장에서 노동자들의 무자비한 착취는 노동권 위반의 체계적 문제를 드러냈고, 인권 기관들로부터 조사와 개혁에 대한 요구를 촉진했습니다."
+          },
+          {
+            "sentence": "The merciless competition in the market drove smaller companies out of business, as larger corporations used their resources and market power to eliminate rivals without regard for the social consequences.",
+            "meaning_ko": "그 시장에서의 무자비한 경쟁은 작은 회사들을 사업에서 몰아냈고, 더 큰 기업들이 자신들의 자원과 시장 권력을 사용하여 사회적 결과에 대한 고려 없이 경쟁자들을 제거했기 때문입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "merciless는 '무자비한, 냉혹한' 의미로, 자비나 동정이 없고 냉혹한 상태를 가리킵니다. ruthless, cruel과 비슷하지만 더 강한 뉘앙스가 있습니다. merciless toward ~, merciless attack 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "성격",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: merciless = (A) merciful (B) ruthless or cruel (C) compassionate (D) kind",
+            "a": "B",
+            "meaning_ko": "merciless는 '무자비하거나 잔혹한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ attack left many casualties.",
+            "a": "merciless",
+            "meaning_ko": "merciless는 '무자비한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of merciless? (A) ruthless (B) cruel (C) merciful (D) pitiless",
+            "a": "C",
+            "meaning_ko": "merciful(자비로운)가 merciless의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: merciless _____ enemies. (A) toward (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "merciless toward ~는 '~에 대해 무자비한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: merciless = (A) merciful (B) ruthless (C) compassionate (D) kind",
+            "a": "B",
+            "meaning_ko": "ruthless(무자비한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He was merciless on his enemies.' → Fix the preposition.",
+            "a": "He was merciless toward his enemies.",
+            "meaning_ko": "merciless toward ~는 '~에 대해 무자비한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was merciless toward his enemies.'",
+            "a": "He showed no mercy, compassion, or leniency when dealing with those who opposed him, treating them harshly and without any consideration for their suffering or vulnerability.",
+            "meaning_ko": "merciless toward ~는 '~에 대해 무자비한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ attack left casualties. (A) merciless (B) mercilessly (C) mercilessness (D) mercilesses",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 merciless가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses merciless most appropriately? (A) The merciless ran. (B) The merciless attack left casualties. (C) She merciless smiled. (D) Merciless is good.",
+            "a": "B",
+            "meaning_ko": "merciless는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

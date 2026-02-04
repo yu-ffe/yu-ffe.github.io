@@ -1,0 +1,785 @@
+[
+  {
+    "word": "coerce",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "강요하다, 강제하다; 힘이나 위협을 사용하여 누군가에게 무언가를 하게 하다.",
+        "note": "힘이나 위협을 사용하여 누군가에게 무언가를 하게 하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "힘이나 위협을 사용하여 누군가에게 무언가를 하게 강제하는 것.",
+    "etymology": "라틴어 coercere(억제하다)에서 유래했으며, 원래는 '억제하다' 의미였으나 현대에는 '강요하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '억제하다' 의미였으나, 현대에는 '힘이나 위협을 사용하여 강제하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 격식 있는 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 coerce + 명사 + into + 동명사 형태로 자주 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~하도록 강요하다",
+        "example": "coerce someone into doing"
+      }
+    ],
+    "requiredComplements": [
+      "coerce + 명사 + into + 동명사 : ~에게 ~하도록 강요하다"
+    ],
+    "morphology": "라틴어 coercere에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "coercion",
+        "meaning_ko": "강요"
+      },
+      {
+        "word": "coercive",
+        "meaning_ko": "강제적인"
+      }
+    ],
+    "related": [
+      {
+        "word": "force",
+        "meaning_ko": "강제하다"
+      },
+      {
+        "word": "compel",
+        "meaning_ko": "강요하다"
+      },
+      {
+        "word": "pressure",
+        "meaning_ko": "압력을 가하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "force",
+        "meaning_ko": "강제하다"
+      },
+      {
+        "word": "compel",
+        "meaning_ko": "강요하다"
+      },
+      {
+        "word": "pressure",
+        "meaning_ko": "압력을 가하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "intimidate",
+        "meaning_ko": "위협하다(범위가 더 넓음)"
+      },
+      {
+        "word": "threaten",
+        "meaning_ko": "위협하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "persuade",
+        "meaning_ko": "설득하다"
+      },
+      {
+        "word": "convince",
+        "meaning_ko": "설득하다"
+      },
+      {
+        "word": "encourage",
+        "meaning_ko": "격려하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "coerce someone into",
+            "meaning_ko": "누군가에게 ~하도록 강요하다"
+          },
+          {
+            "phrase": "coerce by force",
+            "meaning_ko": "힘으로 강요하다"
+          },
+          {
+            "phrase": "coerce compliance",
+            "meaning_ko": "복종을 강요하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "coerce into submission",
+            "meaning_ko": "복종하도록 강요하다"
+          },
+          {
+            "phrase": "coerce through threats",
+            "meaning_ko": "위협으로 강요하다"
+          },
+          {
+            "phrase": "coerce agreement",
+            "meaning_ko": "동의를 강요하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "coerce into cooperation",
+            "meaning_ko": "협력을 강요하다"
+          },
+          {
+            "phrase": "coerce through intimidation",
+            "meaning_ko": "위협으로 강요하다"
+          },
+          {
+            "phrase": "coerce compliance with",
+            "meaning_ko": "~에 대한 복종을 강요하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They tried to coerce him into signing the contract.",
+            "meaning_ko": "그들은 그에게 계약서에 서명하도록 강요하려고 했습니다."
+          },
+          {
+            "sentence": "The government cannot coerce citizens by force.",
+            "meaning_ko": "정부는 힘으로 시민들을 강요할 수 없습니다."
+          },
+          {
+            "sentence": "She refused to be coerced into making a decision.",
+            "meaning_ko": "그녀는 결정을 내리도록 강요받는 것을 거부했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The organization attempted to coerce employees into submission by threatening their job security.",
+            "meaning_ko": "그 조직은 직원들의 직업 안정성을 위협하여 복종하도록 강요하려고 했습니다."
+          },
+          {
+            "sentence": "The regime used various tactics to coerce agreement from the opposition through threats and intimidation.",
+            "meaning_ko": "그 정권은 위협과 협박을 통해 반대파로부터 동의를 강요하기 위해 다양한 전술을 사용했습니다."
+          },
+          {
+            "sentence": "The company was accused of trying to coerce compliance with unfair policies.",
+            "meaning_ko": "그 회사는 불공정한 정책에 대한 복종을 강요하려고 했다는 비난을 받았습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The international community condemned the government's attempts to coerce into cooperation through economic sanctions and diplomatic pressure.",
+            "meaning_ko": "국제 사회는 그 정부가 경제 제재와 외교적 압력을 통해 협력을 강요하려는 시도를 비난했습니다."
+          },
+          {
+            "sentence": "The investigation revealed that the organization had systematically coerced through intimidation, creating a climate of fear among its members.",
+            "meaning_ko": "그 수사는 그 조직이 체계적으로 위협을 통해 강요하여 구성원들 사이에 공포의 분위기를 만들었다는 것을 드러냈습니다."
+          },
+          {
+            "sentence": "The legal framework was designed to prevent authorities from being able to coerce compliance with regulations that violated individual rights.",
+            "meaning_ko": "그 법률 프레임워크는 당국이 개인의 권리를 침해하는 규정에 대한 복종을 강요할 수 없도록 설계되었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "coerce은 '강요하다, 강제하다' 의미로, 힘이나 위협을 사용하여 누군가에게 무언가를 하게 강제하는 행동을 가리킵니다. force, compel과 비슷하지만 더 격식 있고 법적 뉘앙스가 있습니다. coerce someone into doing ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "강제",
+      "법률",
+      "일상 회화",
+      "정치",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: coerce = (A) persuade (B) force or compel (C) convince (D) encourage",
+            "a": "B",
+            "meaning_ko": "coerce은 '강제하거나 강요하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They tried to _____ him into signing.",
+            "a": "coerce",
+            "meaning_ko": "coerce은 '강요하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of coerce? (A) force (B) compel (C) persuade (D) pressure",
+            "a": "C",
+            "meaning_ko": "persuade(설득하다)가 coerce의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: coerce someone _____ doing. (A) into (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "coerce someone into ~는 '누군가에게 ~하도록 강요하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: coerce = (A) persuade (B) force (C) convince (D) encourage",
+            "a": "B",
+            "meaning_ko": "force(강제하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They coerced him to sign.' → Fix the sentence.",
+            "a": "They coerced him into signing.",
+            "meaning_ko": "coerce someone into doing ~ 패턴을 사용해야 합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The organization coerced employees into submission.'",
+            "a": "The institution forced or compelled workers to accept authority through threats or pressure.",
+            "meaning_ko": "coerce into submission는 '복종하도록 강요하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The regime _____ agreement. (A) coerce (B) coerced (C) coercing (D) coerces",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 타동사 coerced가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses coerce most appropriately? (A) The coerce ran. (B) They coerced him into signing. (C) She coerce smiled. (D) Coerce is good.",
+            "a": "B",
+            "meaning_ko": "coerce은 타동사로 '누군가에게 ~하도록 강요하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "retinue",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "시종, 수행원; 중요 인물을 따라다니는 수행원들의 그룹.",
+        "note": "중요 인물을 따라다니는 수행원들의 그룹을 가리킵니다."
+      }
+    ],
+    "concept": "중요 인물을 따라다니는 수행원들의 그룹.",
+    "etymology": "고대 프랑스어 retenue(유지된 사람들)에서 유래했으며, 원래는 '유지된 사람들' 의미였으나 현대에는 '시종'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '유지된 사람들' 의미였으나, 현대에는 '중요 인물을 따라다니는 수행원들'로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "가산명사로 a retinue, retinues 형태로 쓰이며, 주로 단수형으로 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 시종",
+        "example": "retinue of servants"
+      }
+    ],
+    "requiredComplements": [
+      "retinue of + 명사 : ~의 시종",
+      "accompanied by a retinue : 시종을 대동하고"
+    ],
+    "morphology": "고대 프랑스어 retenue에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "entourage",
+        "meaning_ko": "시종"
+      },
+      {
+        "word": "attendants",
+        "meaning_ko": "시종"
+      },
+      {
+        "word": "followers",
+        "meaning_ko": "추종자"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "entourage",
+        "meaning_ko": "시종"
+      },
+      {
+        "word": "attendants",
+        "meaning_ko": "시종"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "followers",
+        "meaning_ko": "추종자(범위가 더 넓음)"
+      },
+      {
+        "word": "escort",
+        "meaning_ko": "호위"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "royal retinue",
+            "meaning_ko": "왕실 시종"
+          },
+          {
+            "phrase": "retinue of servants",
+            "meaning_ko": "하인들의 시종"
+          },
+          {
+            "phrase": "accompanied by a retinue",
+            "meaning_ko": "시종을 대동하고"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "retinue of attendants",
+            "meaning_ko": "시종들의 그룹"
+          },
+          {
+            "phrase": "retinue of advisors",
+            "meaning_ko": "고문들의 시종"
+          },
+          {
+            "phrase": "large retinue",
+            "meaning_ko": "큰 시종"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "retinue of courtiers",
+            "meaning_ko": "궁정인들의 시종"
+          },
+          {
+            "phrase": "retinue of bodyguards",
+            "meaning_ko": "경호원들의 시종"
+          },
+          {
+            "phrase": "retinue of officials",
+            "meaning_ko": "관리들의 시종"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The king traveled with his royal retinue.",
+            "meaning_ko": "그 왕은 왕실 시종과 함께 여행했습니다."
+          },
+          {
+            "sentence": "She arrived accompanied by a retinue of servants.",
+            "meaning_ko": "그녀는 하인들의 시종을 대동하고 도착했습니다."
+          },
+          {
+            "sentence": "The celebrity had a large retinue of assistants.",
+            "meaning_ko": "그 유명인은 많은 조수들의 시종을 가지고 있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The diplomat's retinue of advisors provided counsel during the negotiations.",
+            "meaning_ko": "그 외교관의 고문들의 시종은 협상 중에 조언을 제공했습니다."
+          },
+          {
+            "sentence": "The emperor's retinue of attendants ensured that all his needs were met during the journey.",
+            "meaning_ko": "그 황제의 시종들의 그룹은 여행 중 그의 모든 필요가 충족되도록 보장했습니다."
+          },
+          {
+            "sentence": "The business magnate traveled with a large retinue, including personal assistants and security personnel.",
+            "meaning_ko": "그 사업 거물은 개인 조수와 보안 요원을 포함한 큰 시종과 함께 여행했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The monarch's retinue of courtiers, carefully selected for their loyalty and expertise, accompanied him on all official state visits.",
+            "meaning_ko": "그 군주의 궁정인들의 시종은 충성심과 전문성을 위해 신중하게 선택되어 모든 공식 국빈 방문에 그를 동행했습니다."
+          },
+          {
+            "sentence": "The president's retinue of bodyguards and officials maintained constant vigilance during the international summit.",
+            "meaning_ko": "그 대통령의 경호원들과 관리들의 시종은 국제 정상회의 동안 지속적인 경계를 유지했습니다."
+          },
+          {
+            "sentence": "The ambassador's retinue of officials, each specializing in different aspects of foreign policy, provided comprehensive support during the diplomatic mission.",
+            "meaning_ko": "그 대사의 관리들의 시종은 각각 외교 정책의 다른 측면을 전문으로 하여 외교 임무 중 포괄적인 지원을 제공했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "retinue는 '시종, 수행원' 의미로, 중요 인물을 따라다니는 수행원들의 그룹을 가리킵니다. 매우 격식 있고 드문 단어로, 역사나 문학 지문에서 가끔 나옵니다. entourage, attendants와 비슷하지만 더 격식 있고 고전적 뉘앙스가 있습니다.",
+    "tags": [
+      "인물",
+      "격식",
+      "문학",
+      "드문",
+      "중립"
+    ],
+    "frequency": "하",
+    "difficulty": 9,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: retinue = (A) enemy (B) group of attendants or followers (C) opponent (D) rival",
+            "a": "B",
+            "meaning_ko": "retinue는 '시종이나 추종자들의 그룹' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The king traveled with his royal _____.",
+            "a": "retinue",
+            "meaning_ko": "retinue는 '시종'을 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'group of servants'? (A) retinue of servants (B) retinue of enemies (C) retinue of opponents (D) retinue of rivals",
+            "a": "A",
+            "meaning_ko": "retinue of servants는 '하인들의 시종' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: She arrived with a _____ of advisors. (A) retinue (B) retinues (C) retinual (D) retinuely",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 retinue가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: retinue = (A) enemy (B) entourage (C) opponent (D) rival",
+            "a": "B",
+            "meaning_ko": "entourage(시종)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The king traveled with retinue.' → Fix the sentence.",
+            "a": "The king traveled with his retinue.",
+            "meaning_ko": "retinue는 가산명사이므로 관사나 소유격이 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The monarch's retinue of courtiers accompanied him.'",
+            "a": "The ruler's group of attendants and followers who served at court went with him.",
+            "meaning_ko": "retinue of courtiers는 '궁정인들의 시종'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of officials provided support. (A) retinue (B) retinues (C) retinual (D) retinuely",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 retinue가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses retinue most appropriately? (A) The retinue ran. (B) The king traveled with his retinue. (C) She retinue smiled. (D) Retinue is good.",
+            "a": "B",
+            "meaning_ko": "retinue는 명사로 '시종'을 의미하며, with와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "undaunted",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "굴복하지 않는, 용감한; 두려움이나 어려움에 굴복하지 않는.",
+        "note": "두려움이나 어려움에 굴복하지 않는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "두려움이나 어려움에 굴복하지 않는 용감한 상태.",
+    "etymology": "un-(아닌) + daunt(겁주다)의 결합으로, '겁주지 않은'에서 '굴복하지 않는'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '겁주지 않은' 의미였으나, 현대에는 '두려움이나 어려움에 굴복하지 않는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어로, 일상 회화에서는 거의 쓰이지 않습니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be undaunted 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "~에 굴복하지 않는",
+        "example": "undaunted by failure"
+      }
+    ],
+    "requiredComplements": [
+      "be undaunted : 굴복하지 않다",
+      "undaunted + 명사 : 굴복하지 않는 ~",
+      "be undaunted by + 명사 : ~에 굴복하지 않다"
+    ],
+    "morphology": "un-(아닌) + daunt(겁주다)의 결합으로, '겁주지 않은'에서 '굴복하지 않는'으로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "undauntedly",
+        "meaning_ko": "굴복하지 않게"
+      }
+    ],
+    "related": [
+      {
+        "word": "fearless",
+        "meaning_ko": "겁 없는"
+      },
+      {
+        "word": "brave",
+        "meaning_ko": "용감한"
+      },
+      {
+        "word": "courageous",
+        "meaning_ko": "용감한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "fearless",
+        "meaning_ko": "겁 없는"
+      },
+      {
+        "word": "brave",
+        "meaning_ko": "용감한"
+      },
+      {
+        "word": "courageous",
+        "meaning_ko": "용감한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "resolute",
+        "meaning_ko": "단호한(범위가 더 넓음)"
+      },
+      {
+        "word": "determined",
+        "meaning_ko": "결심한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "daunted",
+        "meaning_ko": "겁먹은"
+      },
+      {
+        "word": "intimidated",
+        "meaning_ko": "위협받은"
+      },
+      {
+        "word": "discouraged",
+        "meaning_ko": "낙담한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "undaunted by failure",
+            "meaning_ko": "실패에 굴복하지 않는"
+          },
+          {
+            "phrase": "undaunted spirit",
+            "meaning_ko": "굴복하지 않는 정신"
+          },
+          {
+            "phrase": "remain undaunted",
+            "meaning_ko": "굴복하지 않고 있다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "undaunted by challenges",
+            "meaning_ko": "도전에 굴복하지 않는"
+          },
+          {
+            "phrase": "undaunted courage",
+            "meaning_ko": "굴복하지 않는 용기"
+          },
+          {
+            "phrase": "undaunted determination",
+            "meaning_ko": "굴복하지 않는 결심"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "undaunted by adversity",
+            "meaning_ko": "역경에 굴복하지 않는"
+          },
+          {
+            "phrase": "undaunted resolve",
+            "meaning_ko": "굴복하지 않는 결심"
+          },
+          {
+            "phrase": "undaunted perseverance",
+            "meaning_ko": "굴복하지 않는 인내"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She remained undaunted by failure.",
+            "meaning_ko": "그녀는 실패에 굴복하지 않고 있었습니다."
+          },
+          {
+            "sentence": "His undaunted spirit inspired others.",
+            "meaning_ko": "그의 굴복하지 않는 정신은 다른 사람들을 고무시켰습니다."
+          },
+          {
+            "sentence": "The team was undaunted by the difficult task.",
+            "meaning_ko": "그 팀은 어려운 작업에 굴복하지 않았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The explorer's undaunted courage in facing unknown territories earned him recognition worldwide.",
+            "meaning_ko": "그 탐험가의 미지의 영역에 직면하는 굴복하지 않는 용기는 전 세계적으로 인정을 받았습니다."
+          },
+          {
+            "sentence": "Despite numerous setbacks, she remained undaunted by challenges, continuing to pursue her goals with determination.",
+            "meaning_ko": "수많은 좌절에도 불구하고, 그녀는 도전에 굴복하지 않고 결심을 가지고 목표를 계속 추구했습니다."
+          },
+          {
+            "sentence": "The organization's undaunted determination to achieve its mission inspired confidence among its members.",
+            "meaning_ko": "그 조직의 그 임무를 달성하려는 굴복하지 않는 결심은 구성원들 사이에 자신감을 고무시켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The leader's undaunted resolve in the face of political opposition demonstrated an unwavering commitment to democratic principles.",
+            "meaning_ko": "그 지도자의 정치적 반대에 직면한 굴복하지 않는 결심은 민주적 원칙에 대한 흔들림 없는 헌신을 보여주었습니다."
+          },
+          {
+            "sentence": "The scientist's undaunted perseverance through years of failed experiments eventually led to a breakthrough discovery.",
+            "meaning_ko": "그 과학자의 수년간의 실패한 실험을 통한 굴복하지 않는 인내는 결국 획기적인 발견으로 이어졌습니다."
+          },
+          {
+            "sentence": "The community's undaunted response to the natural disaster, rebuilding despite overwhelming destruction, became a symbol of resilience.",
+            "meaning_ko": "그 지역 사회의 자연 재해에 대한 굴복하지 않는 대응은 압도적인 파괴에도 불구하고 재건하여 회복력의 상징이 되었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "undaunted은 '굴복하지 않는, 용감한' 의미로, 두려움이나 어려움에 굴복하지 않는 상태를 가리킵니다. 매우 격식 있고 드문 단어로, 문학이나 격식 있는 글에서 가끔 나옵니다. fearless, brave와 비슷하지만 더 격식 있고 강한 뉘앙스가 있습니다. undaunted by ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "성격",
+      "격식",
+      "문학",
+      "드문",
+      "긍정"
+    ],
+    "frequency": "하",
+    "difficulty": 9,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: undaunted = (A) daunted (B) fearless and brave (C) intimidated (D) discouraged",
+            "a": "B",
+            "meaning_ko": "undaunted은 '겁 없고 용감한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She remained _____ by failure.",
+            "a": "undaunted",
+            "meaning_ko": "undaunted은 '굴복하지 않는' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of undaunted? (A) fearless (B) brave (C) daunted (D) courageous",
+            "a": "C",
+            "meaning_ko": "daunted(겁먹은)가 undaunted의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: undaunted _____ challenges. (A) by (B) at (C) on (D) in",
+            "a": "A",
+            "meaning_ko": "undaunted by ~는 '~에 굴복하지 않는' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: undaunted = (A) daunted (B) fearless (C) intimidated (D) discouraged",
+            "a": "B",
+            "meaning_ko": "fearless(겁 없는)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was undauntedly by failure.' → Fix the sentence.",
+            "a": "She was undaunted by failure.",
+            "meaning_ko": "be 동사 뒤에는 형용사 undaunted이 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The leader's undaunted resolve demonstrated commitment.'",
+            "a": "The leader's fearless and unwavering determination showed a strong dedication to the cause.",
+            "meaning_ko": "undaunted resolve는 '굴복하지 않는 결심'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ spirit inspired others. (A) undaunted (B) undauntedly (C) undaunt (D) undaunts",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 undaunted이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses undaunted most appropriately? (A) The undaunted ran. (B) She remained undaunted. (C) He undaunted smiled. (D) Undaunted is good.",
+            "a": "B",
+            "meaning_ko": "undaunted은 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

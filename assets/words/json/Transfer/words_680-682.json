@@ -1,0 +1,827 @@
+[
+  {
+    "word": "sphere",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "구, 구체; 완전히 둥근 형태의 구나 구체.",
+        "note": "완전히 둥근 형태의 구나 구체를 가리킵니다."
+      },
+      {
+        "definition_ko": "영역, 범위; 활동이나 관심의 영역이나 범위.",
+        "note": "활동이나 관심의 영역이나 범위를 가리킵니다."
+      }
+    ],
+    "concept": "완전히 둥근 형태의 구나 구체인 구, 또는 활동이나 관심의 영역이나 범위.",
+    "etymology": "그리스어 sphaira(공)에서 유래했으며, 원래는 '공' 의미였고 현대에는 '영역'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '공' 의미였고, 현대에는 '활동이나 관심의 영역이나 범위'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사로 자주 사용되며, sphere 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 영역",
+        "example": "sphere of"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 영역",
+        "example": "sphere in"
+      }
+    ],
+    "requiredComplements": [
+      "sphere : 구/영역",
+      "sphere of + 명사 : ~의 영역",
+      "sphere in + 명사 : ~에서의 영역"
+    ],
+    "morphology": "그리스어 sphaira에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "spherical",
+        "meaning_ko": "구형의"
+      },
+      {
+        "word": "spherically",
+        "meaning_ko": "구형으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "circle",
+        "meaning_ko": "원"
+      },
+      {
+        "word": "realm",
+        "meaning_ko": "영역"
+      },
+      {
+        "word": "domain",
+        "meaning_ko": "영역"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "circle",
+        "meaning_ko": "원"
+      },
+      {
+        "word": "realm",
+        "meaning_ko": "영역"
+      },
+      {
+        "word": "domain",
+        "meaning_ko": "영역"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "field",
+        "meaning_ko": "분야(범위가 더 넓음)"
+      },
+      {
+        "word": "area",
+        "meaning_ko": "영역"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cube",
+        "meaning_ko": "정육면체"
+      },
+      {
+        "word": "square",
+        "meaning_ko": "정사각형"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sphere of",
+            "meaning_ko": "~의 영역"
+          },
+          {
+            "phrase": "perfect sphere",
+            "meaning_ko": "완벽한 구"
+          },
+          {
+            "phrase": "public sphere",
+            "meaning_ko": "공공 영역"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sphere of influence",
+            "meaning_ko": "영향권"
+          },
+          {
+            "phrase": "sphere of activity",
+            "meaning_ko": "활동 영역"
+          },
+          {
+            "phrase": "private sphere",
+            "meaning_ko": "사적 영역"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sphere of knowledge",
+            "meaning_ko": "지식 영역"
+          },
+          {
+            "phrase": "sphere of authority",
+            "meaning_ko": "권한 영역"
+          },
+          {
+            "phrase": "sphere of expertise",
+            "meaning_ko": "전문 영역"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The sphere was perfect.",
+            "meaning_ko": "그 구는 완벽했습니다."
+          },
+          {
+            "sentence": "She worked in the public sphere.",
+            "meaning_ko": "그녀는 공공 영역에서 일했습니다."
+          },
+          {
+            "sentence": "They discussed the sphere of influence.",
+            "meaning_ko": "그들은 그 영향권을 논의했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The sphere was perfect, with the completely round shape demonstrating geometric precision, though creating such perfection would require careful craftsmanship and attention to detail.",
+            "meaning_ko": "그 구는 완벽했고, 그 완전히 둥근 형태가 기하학적 정밀도를 보여주었지만, 그러한 완벽을 만드는 것은 신중한 장인 정신과 세부 사항에 대한 주의를 요구할 것입니다."
+          },
+          {
+            "sentence": "She worked in the public sphere, with her activities focused on issues affecting society as a whole, though making an impact would require dedication and understanding of complex social dynamics.",
+            "meaning_ko": "그녀는 공공 영역에서 일했고, 그녀의 활동이 사회 전체에 영향을 미치는 문제에 초점을 맞췄지만, 영향을 미치는 것은 헌신과 복잡한 사회 역학에 대한 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "They discussed the sphere of influence, with the conversation exploring the extent of power and control in various contexts, though understanding these dynamics would require analysis of relationships and interactions.",
+            "meaning_ko": "그들은 그 영향권을 논의했고, 그 대화가 다양한 맥락에서 권력과 통제의 범위를 탐구했지만, 이러한 역학을 이해하는 것은 관계와 상호 작용의 분석을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sphere of knowledge that encompassed the field represented a comprehensive understanding of the subject, with the domain including various aspects and perspectives, though expanding this sphere would require continued learning and exploration.",
+            "meaning_ko": "그 분야를 포함했던 그 지식 영역은 그 주제에 대한 포괄적 이해를 나타냈고, 그 영역이 다양한 측면과 관점을 포함했지만, 이 영역을 확장하는 것은 지속적인 학습과 탐구를 요구할 것입니다."
+          },
+          {
+            "sentence": "The sphere of authority that defined the organization's jurisdiction created clear boundaries for decision-making, with the scope of power determining what could be addressed within that domain, though navigating these boundaries would require understanding of legal and institutional frameworks.",
+            "meaning_ko": "그 조직의 관할권을 정의했던 그 권한 영역은 의사 결정을 위한 명확한 경계를 만들었고, 그 권력의 범위가 그 영역 내에서 다룰 수 있는 것을 결정했지만, 이러한 경계를 탐색하는 것은 법적 및 제도적 프레임워크에 대한 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "The sphere of expertise that characterized the professional's specialization demonstrated deep knowledge in a particular area, with the domain of competence allowing for effective problem-solving and innovation, though maintaining expertise would require ongoing education and adaptation to new developments.",
+            "meaning_ko": "그 전문가의 전문 분야를 특징지었던 그 전문 영역은 특정 영역에서 깊은 지식을 보여주었고, 그 능력의 영역이 효과적인 문제 해결과 혁신을 허용했지만, 전문성을 유지하는 것은 지속적인 교육과 새로운 발전에 대한 적응을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sphere는 '구, 구체' 또는 '영역, 범위' 의미로, 완전히 둥근 형태의 구나 구체를 가리킵니다. circle, realm와 비슷하지만 더 포괄적 뉘앙스가 있습니다. sphere of ~, public sphere 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "수학",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sphere = (A) cube (B) circle or realm (C) square (D) triangle",
+            "a": "B",
+            "meaning_ko": "sphere는 '원 또는 영역' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ was perfect.",
+            "a": "sphere",
+            "meaning_ko": "sphere는 '구'를 의미합니다."
+          },
+          {
+            "q": "Which is similar to sphere (meaning realm)? (A) cube (B) realm (C) square (D) triangle",
+            "a": "B",
+            "meaning_ko": "realm(영역)가 sphere와 유사합니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: sphere _____ influence. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "sphere of ~는 '~의 영역' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: sphere = (A) cube (B) realm (C) square (D) triangle",
+            "a": "B",
+            "meaning_ko": "realm(영역)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The sphere at influence was large.' → Fix the preposition.",
+            "a": "The sphere of influence was large.",
+            "meaning_ko": "sphere of ~는 '~의 영역' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She worked in the public sphere.'",
+            "a": "She engaged in activities within the public domain, with her work focused on issues affecting society as a whole, though making an impact would require dedication and understanding of complex social dynamics.",
+            "meaning_ko": "sphere는 '영역'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They discussed the _____ of influence. (A) sphere (B) spheres (C) sphere's (D) sphered",
+            "a": "A",
+            "meaning_ko": "명사 sphere가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sphere most appropriately? (A) The sphere ran. (B) She worked in the public sphere. (C) She sphere smiled. (D) Sphere is good.",
+            "a": "B",
+            "meaning_ko": "sphere는 명사로 '영역'을 의미하며, in과 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "brag",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "자랑하다, 뽐내다; 자신의 성취나 능력을 과시하거나 자랑하다.",
+        "note": "자신의 성취나 능력을 과시하거나 자랑하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "자랑, 뽐냄; 자신의 성취나 능력을 과시하거나 자랑하는 것.",
+        "note": "자신의 성취나 능력을 과시하거나 자랑하는 것을 가리킵니다."
+      }
+    ],
+    "concept": "자신의 성취나 능력을 과시하거나 자랑하는 자랑, 또는 자신의 성취나 능력을 과시하거나 자랑하는 것.",
+    "etymology": "중세 영어 braggen(자랑하다)에서 유래했으며, 원래는 '자랑하다' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래는 '자랑하다' 의미였고, 현대에도 같은 의미로 사용되며 주요 비유적 확장 없음.",
+    "nuanceRegister": "일상 회화에서 매우 자연스럽게 사용되며, 특히 비격식 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "동사로는 자동사와 타동사 모두로 쓰이며, brag about + 명사 형태로 자주 사용됩니다. 명사로는 가산명사로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 자랑하다",
+        "example": "brag about"
+      },
+      {
+        "prep": "of",
+        "meaning_ko": "~에 대해 자랑하다",
+        "example": "brag of"
+      }
+    ],
+    "requiredComplements": [
+      "brag : 자랑하다",
+      "brag about + 명사 : ~에 대해 자랑하다",
+      "brag of + 명사 : ~에 대해 자랑하다",
+      "brag : 자랑"
+    ],
+    "morphology": "중세 영어 braggen에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "bragged",
+        "meaning_ko": "자랑한(과거분사/형용사)"
+      },
+      {
+        "word": "bragging",
+        "meaning_ko": "자랑하는(현재분사/형용사)"
+      },
+      {
+        "word": "braggart",
+        "meaning_ko": "자랑쟁이"
+      }
+    ],
+    "related": [
+      {
+        "word": "boast",
+        "meaning_ko": "자랑하다"
+      },
+      {
+        "word": "show off",
+        "meaning_ko": "뽐내다"
+      },
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "boast",
+        "meaning_ko": "자랑하다"
+      },
+      {
+        "word": "show off",
+        "meaning_ko": "뽐내다"
+      },
+      {
+        "word": "praise",
+        "meaning_ko": "칭찬하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "gloat",
+        "meaning_ko": "뽐내다(범위가 더 넓음)"
+      },
+      {
+        "word": "flaunt",
+        "meaning_ko": "뽐내다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "humble",
+        "meaning_ko": "겸손한"
+      },
+      {
+        "word": "modest",
+        "meaning_ko": "겸손한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "brag about",
+            "meaning_ko": "~에 대해 자랑하다"
+          },
+          {
+            "phrase": "brag to",
+            "meaning_ko": "~에게 자랑하다"
+          },
+          {
+            "phrase": "stop bragging",
+            "meaning_ko": "자랑 그만하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "brag about success",
+            "meaning_ko": "성공에 대해 자랑하다"
+          },
+          {
+            "phrase": "brag about achievement",
+            "meaning_ko": "성취에 대해 자랑하다"
+          },
+          {
+            "phrase": "brag about ability",
+            "meaning_ko": "능력에 대해 자랑하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "brag about accomplishment",
+            "meaning_ko": "성취에 대해 자랑하다"
+          },
+          {
+            "phrase": "brag about victory",
+            "meaning_ko": "승리에 대해 자랑하다"
+          },
+          {
+            "phrase": "brag about talent",
+            "meaning_ko": "재능에 대해 자랑하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He bragged about his success.",
+            "meaning_ko": "그는 그의 성공에 대해 자랑했습니다."
+          },
+          {
+            "sentence": "She stopped bragging.",
+            "meaning_ko": "그녀는 자랑을 그만뒀습니다."
+          },
+          {
+            "sentence": "They bragged to their friends.",
+            "meaning_ko": "그들은 그들의 친구들에게 자랑했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He bragged about his success, with his boasting creating a sense of pride and accomplishment, though excessive bragging could become annoying to others.",
+            "meaning_ko": "그는 그의 성공에 대해 자랑했고, 그의 자랑이 자부심과 성취의 감각을 만들었지만, 과도한 자랑은 다른 사람들에게 짜증스러울 수 있습니다."
+          },
+          {
+            "sentence": "She stopped bragging, with her decision to be more modest helping to improve relationships, though finding a balance between confidence and humility would be important.",
+            "meaning_ko": "그녀는 자랑을 그만뒀고, 더 겸손하기로 한 그녀의 결정이 관계를 개선하는 데 도움이 되었지만, 자신감과 겸손 사이의 균형을 찾는 것이 중요할 것입니다."
+          },
+          {
+            "sentence": "They bragged to their friends, with their sharing of achievements creating excitement and celebration, though the tone and frequency of bragging would affect how it was received.",
+            "meaning_ko": "그들은 그들의 친구들에게 자랑했고, 그들의 성취 공유가 흥분과 축하를 만들었지만, 자랑의 톤과 빈도가 그것이 어떻게 받아들여졌는지에 영향을 미칠 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The tendency to brag about accomplishments that characterized his behavior created mixed reactions from others, with some appreciating his confidence while others found it off-putting, though understanding social dynamics would help him navigate these interactions more effectively.",
+            "meaning_ko": "그의 행동을 특징지었던 그 성취에 대해 자랑하는 경향은 다른 사람들로부터 혼합된 반응을 만들었고, 일부는 그의 자신감을 감사했지만 다른 사람들은 그것을 불쾌하게 느꼈지만, 사회 역학을 이해하는 것이 그가 이러한 상호 작용을 더 효과적으로 탐색하는 데 도움이 될 것입니다."
+          },
+          {
+            "sentence": "The decision to stop bragging about victories reflected a shift toward greater humility, with the change in behavior creating more positive relationships and interactions, though maintaining confidence while being modest would require self-awareness and balance.",
+            "meaning_ko": "승리에 대해 자랑하는 것을 그만두기로 한 그 결정은 더 큰 겸손으로의 전환을 반영했고, 그 행동의 변경이 더 긍정적인 관계와 상호 작용을 만들었지만, 겸손하면서 자신감을 유지하는 것은 자기 인식과 균형을 요구할 것입니다."
+          },
+          {
+            "sentence": "The way they bragged about talent in social settings created opportunities for connection but also potential for alienation, with the sharing of abilities allowing for recognition while excessive boasting could create distance, though finding the right balance would enhance social interactions.",
+            "meaning_ko": "그들이 사회적 환경에서 재능에 대해 자랑하는 방식은 연결을 위한 기회를 만들었지만 또한 소외의 잠재력도 만들었고, 능력의 공유가 인정을 허용했지만 과도한 자랑은 거리를 만들 수 있었지만, 올바른 균형을 찾는 것이 사회적 상호 작용을 향상시킬 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "brag는 '자랑하다, 뽐내다' 또는 '자랑, 뽐냄' 의미로, 자신의 성취나 능력을 과시하거나 자랑하는 행동을 가리킵니다. boast, show off와 비슷하지만 더 비격식 뉘앙스가 있습니다. brag about ~, stop bragging 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: brag = (A) humble (B) boast or show off (C) modest (D) quiet",
+            "a": "B",
+            "meaning_ko": "brag는 '자랑하다 또는 뽐내다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ about his success.",
+            "a": "bragged",
+            "meaning_ko": "brag는 '자랑하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of brag? (A) boast (B) show off (C) humble (D) praise",
+            "a": "C",
+            "meaning_ko": "humble(겸손한)가 brag의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: brag _____ success. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "brag about ~는 '~에 대해 자랑하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: brag = (A) humble (B) boast (C) modest (D) quiet",
+            "a": "B",
+            "meaning_ko": "boast(자랑하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He bragged at his success.' → Fix the preposition.",
+            "a": "He bragged about his success.",
+            "meaning_ko": "brag about ~는 '~에 대해 자랑하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He bragged about his success.'",
+            "a": "He boasted and showed off about his achievements, with his bragging creating a sense of pride and accomplishment, though excessive bragging could become annoying to others.",
+            "meaning_ko": "brag는 '자랑하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She stopped _____. (A) brag (B) bragged (C) bragging (D) brags",
+            "a": "C",
+            "meaning_ko": "stop 뒤에는 동명사 bragging이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses brag most appropriately? (A) The brag ran. (B) He bragged about his success. (C) She brag smiled. (D) Brag is good.",
+            "a": "B",
+            "meaning_ko": "brag는 동사로 '자랑하다'를 의미하며, about와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "dole",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "실업 수당, 구호금; 실업자나 빈곤층에게 주는 정부 보조금이나 구호금.",
+        "note": "실업자나 빈곤층에게 주는 정부 보조금이나 구호금을 가리킵니다."
+      },
+      {
+        "definition_ko": "나누어 주다, 배분하다; 작은 양씩 나누어 주거나 배분하다.",
+        "note": "작은 양씩 나누어 주거나 배분하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "실업자나 빈곤층에게 주는 정부 보조금이나 구호금인 실업 수당, 또는 작은 양씩 나누어 주거나 배분하는 것.",
+    "etymology": "고대 영어 dal(부분)에서 유래했으며, 원래는 '부분' 의미였고 현대에는 '실업 수당'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '부분' 의미였고, 현대에는 '작은 양씩 나누어 주거나 배분하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 영국 영어에서 자주 쓰입니다.",
+    "grammarNotes": "명사로는 불가산명사로 자주 사용되며, dole 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, dole out + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "불가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "out",
+        "meaning_ko": "~을 나누어 주다",
+        "example": "dole out"
+      }
+    ],
+    "requiredComplements": [
+      "dole : 실업 수당/구호금",
+      "dole out + 명사 : ~을 나누어 주다"
+    ],
+    "morphology": "고대 영어 dal에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "doled",
+        "meaning_ko": "나누어 준(과거분사/형용사)"
+      },
+      {
+        "word": "doling",
+        "meaning_ko": "나누어 주는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "welfare",
+        "meaning_ko": "복지"
+      },
+      {
+        "word": "benefit",
+        "meaning_ko": "수당"
+      },
+      {
+        "word": "distribute",
+        "meaning_ko": "배분하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "welfare",
+        "meaning_ko": "복지"
+      },
+      {
+        "word": "benefit",
+        "meaning_ko": "수당"
+      },
+      {
+        "word": "distribute",
+        "meaning_ko": "배분하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "allotment",
+        "meaning_ko": "배당(범위가 더 넓음)"
+      },
+      {
+        "word": "allocation",
+        "meaning_ko": "배분"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "earn",
+        "meaning_ko": "벌다"
+      },
+      {
+        "word": "work",
+        "meaning_ko": "일하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "dole out",
+            "meaning_ko": "나누어 주다"
+          },
+          {
+            "phrase": "on the dole",
+            "meaning_ko": "실업 수당을 받는"
+          },
+          {
+            "phrase": "unemployment dole",
+            "meaning_ko": "실업 수당"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "dole out money",
+            "meaning_ko": "돈을 나누어 주다"
+          },
+          {
+            "phrase": "dole out food",
+            "meaning_ko": "음식을 나누어 주다"
+          },
+          {
+            "phrase": "claim dole",
+            "meaning_ko": "실업 수당을 신청하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "dole out resources",
+            "meaning_ko": "자원을 나누어 주다"
+          },
+          {
+            "phrase": "dole out assistance",
+            "meaning_ko": "도움을 나누어 주다"
+          },
+          {
+            "phrase": "dole out punishment",
+            "meaning_ko": "처벌을 내리다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was on the dole.",
+            "meaning_ko": "그는 실업 수당을 받고 있었습니다."
+          },
+          {
+            "sentence": "She doled out the food.",
+            "meaning_ko": "그녀는 그 음식을 나누어 줬습니다."
+          },
+          {
+            "sentence": "They claimed the dole.",
+            "meaning_ko": "그들은 그 실업 수당을 신청했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was on the dole, with the unemployment benefits providing financial support during his job search, though finding employment would be important for long-term stability.",
+            "meaning_ko": "그는 실업 수당을 받고 있었고, 그 실업 수당이 그의 구직 중에 재정적 지원을 제공했지만, 고용을 찾는 것은 장기적 안정을 위해 중요할 것입니다."
+          },
+          {
+            "sentence": "She doled out the food, with the distribution ensuring that everyone received a fair share, though the process would need to be organized to avoid waste and ensure efficiency.",
+            "meaning_ko": "그녀는 그 음식을 나누어 줬고, 그 배분이 모든 사람이 공정한 몫을 받도록 보장했지만, 그 과정은 낭비를 피하고 효율성을 보장하기 위해 조직될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They claimed the dole, with the application process requiring documentation and verification, though receiving the benefits would provide temporary support while they sought employment.",
+            "meaning_ko": "그들은 그 실업 수당을 신청했고, 그 신청 과정이 문서와 확인을 요구했지만, 그 수당을 받는 것은 그들이 고용을 찾는 동안 임시 지원을 제공할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The system of being on the dole that provided support for unemployed individuals created a safety net during difficult times, with the benefits helping to meet basic needs while job searching, though the long-term goal would be to transition back into employment.",
+            "meaning_ko": "실업자들에게 지원을 제공했던 그 실업 수당을 받는 시스템은 어려운 시기에 안전망을 만들었고, 그 수당이 구직 중에 기본적 필요를 충족하는 데 도움이 되었지만, 장기적 목표는 다시 고용으로 전환하는 것입니다."
+          },
+          {
+            "sentence": "The process to dole out resources in a fair and efficient manner required careful planning and coordination, with the distribution ensuring that assistance reached those who needed it most, though managing the allocation would require ongoing monitoring and adjustment.",
+            "meaning_ko": "공정하고 효율적인 방식으로 자원을 나누어 주는 그 과정은 신중한 계획과 조정을 요구했고, 그 배분이 도움이 가장 필요한 사람들에게 도달하도록 보장했지만, 그 배당을 관리하는 것은 지속적인 모니터링과 조정을 요구할 것입니다."
+          },
+          {
+            "sentence": "The decision to dole out assistance based on need created a system that prioritized those in greatest difficulty, with the allocation process designed to ensure fairness and effectiveness, though the success would depend on accurate assessment of needs and available resources.",
+            "meaning_ko": "필요에 따라 도움을 나누어 주기로 한 그 결정은 가장 큰 어려움에 있는 사람들을 우선시하는 시스템을 만들었고, 그 배당 과정이 공정성과 효과성을 보장하도록 설계되었지만, 그 성공은 필요와 사용 가능한 자원의 정확한 평가에 달려있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "dole는 '실업 수당, 구호금' 또는 '나누어 주다, 배분하다' 의미로, 실업자나 빈곤층에게 주는 정부 보조금이나 구호금을 가리킵니다. welfare, benefit와 비슷하지만 더 영국 영어 뉘앙스가 있습니다. dole out ~, on the dole 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "경제",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: dole = (A) earn (B) welfare or distribute (C) work (D) save",
+            "a": "B",
+            "meaning_ko": "dole는 '복지 또는 배분하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was on the _____.",
+            "a": "dole",
+            "meaning_ko": "dole는 '실업 수당'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of dole (meaning benefit)? (A) welfare (B) benefit (C) earn (D) distribute",
+            "a": "C",
+            "meaning_ko": "earn(벌다)가 dole의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: dole _____ food. (A) out (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "dole out ~는 '~을 나누어 주다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: dole = (A) earn (B) welfare (C) work (D) save",
+            "a": "B",
+            "meaning_ko": "welfare(복지)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She doled at the food.' → Fix the preposition.",
+            "a": "She doled out the food.",
+            "meaning_ko": "dole out ~는 '~을 나누어 주다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was on the dole.'",
+            "a": "He was receiving unemployment benefits, with the financial support providing assistance during his job search, though finding employment would be important for long-term stability.",
+            "meaning_ko": "dole는 '실업 수당'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: She _____ out the food. (A) dole (B) doled (C) doling (D) doles",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 doled가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses dole most appropriately? (A) The dole ran. (B) He was on the dole. (C) She dole smiled. (D) Dole is good.",
+            "a": "B",
+            "meaning_ko": "dole는 명사로 '실업 수당'을 의미하며, on the dole 형태로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

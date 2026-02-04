@@ -1,0 +1,822 @@
+[
+  {
+    "word": "linger",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "머무르다, 남아있다; 오래 머무르거나 남아있다.",
+        "note": "오래 머무르거나 남아있는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "남아있다, 지속되다; 냄새나 기억 등이 오래 남아있거나 지속되다.",
+        "note": "냄새나 기억 등이 오래 남아있거나 지속되는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "오래 머무르거나 남아있는 것, 또는 냄새나 기억 등이 오래 남아있거나 지속되는 것.",
+    "etymology": "고대 영어 lengan(지연시키다)에서 유래했으며, 원래는 '지연시키다' 의미였으나 현대에는 '머무르다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '지연시키다' 의미였으나, 현대에는 '오래 머무르다' 또는 '지속되다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "자동사로 linger + 부사/전치사 형태로 자주 쓰이며, linger on/over 형태도 자주 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 머무르다",
+        "example": "linger on the subject"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~에 머무르다",
+        "example": "linger over coffee"
+      }
+    ],
+    "requiredComplements": [
+      "linger + 부사 : ~에 머무르다",
+      "linger on/over + 명사 : ~에 머무르다"
+    ],
+    "morphology": "고대 영어 lengan에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "lingering",
+        "meaning_ko": "머무는(현재분사/형용사)"
+      },
+      {
+        "word": "lingered",
+        "meaning_ko": "머문(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "stay",
+        "meaning_ko": "머무르다"
+      },
+      {
+        "word": "remain",
+        "meaning_ko": "남아있다"
+      },
+      {
+        "word": "persist",
+        "meaning_ko": "지속되다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "stay",
+        "meaning_ko": "머무르다"
+      },
+      {
+        "word": "remain",
+        "meaning_ko": "남아있다"
+      },
+      {
+        "word": "persist",
+        "meaning_ko": "지속되다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "dwell",
+        "meaning_ko": "거주하다(범위가 더 넓음)"
+      },
+      {
+        "word": "tarry",
+        "meaning_ko": "머무르다(격식)"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "leave",
+        "meaning_ko": "떠나다"
+      },
+      {
+        "word": "depart",
+        "meaning_ko": "출발하다"
+      },
+      {
+        "word": "hurry",
+        "meaning_ko": "서두르다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "linger on",
+            "meaning_ko": "계속 머무르다"
+          },
+          {
+            "phrase": "linger over",
+            "meaning_ko": "~에 머무르다"
+          },
+          {
+            "phrase": "linger in",
+            "meaning_ko": "~에 머무르다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "linger in memory",
+            "meaning_ko": "기억에 남아있다"
+          },
+          {
+            "phrase": "linger on the subject",
+            "meaning_ko": "그 주제에 머무르다"
+          },
+          {
+            "phrase": "linger over coffee",
+            "meaning_ko": "커피를 마시며 머무르다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "linger in the air",
+            "meaning_ko": "공기 중에 남아있다"
+          },
+          {
+            "phrase": "linger in the mind",
+            "meaning_ko": "마음에 남아있다"
+          },
+          {
+            "phrase": "linger on the horizon",
+            "meaning_ko": "수평선에 머무르다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The smell lingered in the room.",
+            "meaning_ko": "그 냄새는 그 방에 남아있었습니다."
+          },
+          {
+            "sentence": "She lingered over her coffee.",
+            "meaning_ko": "그녀는 그녀의 커피를 마시며 머물렀습니다."
+          },
+          {
+            "sentence": "The memory lingered in his mind.",
+            "meaning_ko": "그 기억은 그의 마음에 남아있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The smell lingered in the room long after the source had been removed, requiring ventilation to eliminate the persistent odor.",
+            "meaning_ko": "그 냄새는 그 원인이 제거된 후에도 오랫동안 그 방에 남아있었고, 지속적인 냄새를 제거하기 위해 환기가 필요했습니다."
+          },
+          {
+            "sentence": "She lingered over her coffee, enjoying the peaceful morning atmosphere and taking time to reflect on the day ahead.",
+            "meaning_ko": "그녀는 그녀의 커피를 마시며 머물렀고, 평화로운 아침 분위기를 즐기며 앞으로의 하루를 반성할 시간을 가졌습니다."
+          },
+          {
+            "sentence": "The memory lingered in his mind for years, affecting his decisions and shaping his perspective on similar situations he encountered later.",
+            "meaning_ko": "그 기억은 몇 년 동안 그의 마음에 남아있었고, 그의 결정에 영향을 미치고 그가 나중에 만난 유사한 상황에 대한 그의 관점을 형성했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The fragrance lingered in the air long after the flowers had been removed, creating a subtle reminder of the beautiful arrangement that had once occupied the space.",
+            "meaning_ko": "그 향기는 꽃들이 제거된 후에도 오랫동안 공기 중에 남아있었고, 한때 그 공간을 차지했던 아름다운 배치의 미묘한 상기시켜주는 것을 만들었습니다."
+          },
+          {
+            "sentence": "The question lingered in the mind of the researcher, prompting further investigation and leading to discoveries that had not been anticipated in the initial study design.",
+            "meaning_ko": "그 질문은 그 연구자의 마음에 남아있었고, 추가 조사를 촉진하고 초기 연구 설계에서 예상되지 않았던 발견으로 이어졌습니다."
+          },
+          {
+            "sentence": "The threat of economic instability lingered on the horizon, influencing policy decisions and creating uncertainty among investors who were monitoring the situation closely.",
+            "meaning_ko": "경제적 불안정의 위협은 수평선에 머물렀고, 정책 결정에 영향을 미치고 상황을 면밀히 모니터링하고 있던 투자자들 사이에 불확실성을 만들었습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "linger는 '머무르다, 남아있다' 또는 '지속되다' 의미로, 오래 머무르거나 남아있는 행동을 가리킵니다. stay, remain과 비슷하지만 더 느리고 의도적인 뉘앙스가 있습니다. linger on/over ~, linger in ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "동작",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: linger = (A) leave (B) stay or remain (C) depart (D) hurry",
+            "a": "B",
+            "meaning_ko": "linger는 '머무르거나 남아있다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The smell _____ in the room.",
+            "a": "lingered",
+            "meaning_ko": "linger는 '남아있다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of linger? (A) stay (B) remain (C) leave (D) persist",
+            "a": "C",
+            "meaning_ko": "leave(떠나다)가 linger의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: linger _____ coffee. (A) over (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "linger over ~는 '~에 머무르다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: linger = (A) leave (B) stay (C) depart (D) hurry",
+            "a": "B",
+            "meaning_ko": "stay(머무르다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She lingered on her coffee.' → Fix the preposition.",
+            "a": "She lingered over her coffee.",
+            "meaning_ko": "linger over ~는 '~에 머무르다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The memory lingered in his mind for years.'",
+            "a": "The recollection remained and persisted in his thoughts and consciousness over an extended period of time, continuing to have an influence on his thinking and behavior.",
+            "meaning_ko": "linger in the mind는 '마음에 남아있다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The smell _____ in the air. (A) linger (B) lingers (C) lingering (D) lingered",
+            "a": "B",
+            "meaning_ko": "3인칭 단수 주어에서 lingers가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses linger most appropriately? (A) The linger ran. (B) The smell lingered. (C) She linger smiled. (D) Linger is good.",
+            "a": "B",
+            "meaning_ko": "linger는 자동사로 '남아있다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "austerity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "절약, 검소함; 엄격한 절약이나 검소함.",
+        "note": "엄격한 절약이나 검소함을 가리킵니다."
+      },
+      {
+        "definition_ko": "긴축, 절감; 정부의 지출 절감 정책.",
+        "note": "정부의 지출 절감 정책을 가리킵니다."
+      }
+    ],
+    "concept": "엄격한 절약이나 검소함, 또는 정부의 지출 절감 정책.",
+    "etymology": "라틴어 austerus(엄격한)에서 유래했으며, 원래는 '엄격한' 의미였으나 현대에는 '절약'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '엄격한' 의미였으나, 현대에는 '엄격한 절약' 또는 '정부의 지출 절감 정책'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 경제·정치 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "불가산명사로 주로 사용되며, austerity 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "austerity measures : 긴축 조치",
+      "austerity program : 긴축 프로그램"
+    ],
+    "morphology": "라틴어 austerus에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "austere",
+        "meaning_ko": "엄격한"
+      },
+      {
+        "word": "austerely",
+        "meaning_ko": "엄격하게"
+      }
+    ],
+    "related": [
+      {
+        "word": "frugality",
+        "meaning_ko": "검소함"
+      },
+      {
+        "word": "severity",
+        "meaning_ko": "엄격함"
+      },
+      {
+        "word": "restraint",
+        "meaning_ko": "절제"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "frugality",
+        "meaning_ko": "검소함"
+      },
+      {
+        "word": "severity",
+        "meaning_ko": "엄격함"
+      },
+      {
+        "word": "restraint",
+        "meaning_ko": "절제"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "simplicity",
+        "meaning_ko": "단순함(범위가 더 넓음)"
+      },
+      {
+        "word": "rigor",
+        "meaning_ko": "엄격함"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "luxury",
+        "meaning_ko": "사치"
+      },
+      {
+        "word": "extravagance",
+        "meaning_ko": "낭비"
+      },
+      {
+        "word": "indulgence",
+        "meaning_ko": "방종"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "austerity measures",
+            "meaning_ko": "긴축 조치"
+          },
+          {
+            "phrase": "austerity program",
+            "meaning_ko": "긴축 프로그램"
+          },
+          {
+            "phrase": "economic austerity",
+            "meaning_ko": "경제 긴축"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "austerity budget",
+            "meaning_ko": "긴축 예산"
+          },
+          {
+            "phrase": "austerity policy",
+            "meaning_ko": "긴축 정책"
+          },
+          {
+            "phrase": "austerity measures",
+            "meaning_ko": "긴축 조치"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "austerity package",
+            "meaning_ko": "긴축 패키지"
+          },
+          {
+            "phrase": "austerity reforms",
+            "meaning_ko": "긴축 개혁"
+          },
+          {
+            "phrase": "austerity drive",
+            "meaning_ko": "긴축 추진"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The government introduced austerity measures.",
+            "meaning_ko": "정부는 긴축 조치를 도입했습니다."
+          },
+          {
+            "sentence": "The austerity program reduced spending.",
+            "meaning_ko": "그 긴축 프로그램은 지출을 줄였습니다."
+          },
+          {
+            "sentence": "Economic austerity affected many people.",
+            "meaning_ko": "경제 긴축은 많은 사람들에게 영향을 미쳤습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The government introduced austerity measures to address the budget deficit, cutting public spending and increasing taxes to restore fiscal stability.",
+            "meaning_ko": "정부는 예산 적자를 해결하기 위해 긴축 조치를 도입했고, 재정 안정을 회복하기 위해 공공 지출을 줄이고 세금을 증가시켰습니다."
+          },
+          {
+            "sentence": "The austerity program reduced spending across multiple sectors, affecting education, healthcare, and social services, which led to public protests and political opposition.",
+            "meaning_ko": "그 긴축 프로그램은 여러 부문에 걸쳐 지출을 줄였고, 교육, 보건, 사회 서비스에 영향을 미쳤으며, 이것은 공개 시위와 정치적 반대로 이어졌습니다."
+          },
+          {
+            "sentence": "Economic austerity affected many people, particularly those in lower income brackets who relied on government assistance and public services that were now being reduced.",
+            "meaning_ko": "경제 긴축은 많은 사람들에게 영향을 미쳤고, 특히 이제 줄어들고 있는 정부 지원과 공공 서비스에 의존했던 낮은 소득 계층의 사람들에게 영향을 미쳤습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The austerity package implemented by the administration included comprehensive spending cuts and tax increases, designed to reduce the national debt but also sparking debates about the social costs of such measures.",
+            "meaning_ko": "그 행정부가 시행한 그 긴축 패키지는 포괄적인 지출 절감과 세금 증가를 포함했고, 국가 부채를 줄이도록 설계되었지만 그러한 조치의 사회적 비용에 대한 논쟁도 촉발했습니다."
+          },
+          {
+            "sentence": "The austerity reforms required by international financial institutions as conditions for loans created tensions between the government and its citizens, who felt the burden of reduced public services and increased economic hardship.",
+            "meaning_ko": "대출 조건으로 국제 금융 기관이 요구한 그 긴축 개혁은 정부와 그 시민들 사이에 긴장을 만들었고, 시민들은 줄어든 공공 서비스와 증가한 경제적 어려움의 부담을 느꼈습니다."
+          },
+          {
+            "sentence": "The austerity drive launched in response to the economic crisis involved significant reductions in government expenditure, affecting infrastructure projects, social welfare programs, and public sector employment.",
+            "meaning_ko": "그 경제 위기에 대응하여 시작된 그 긴축 추진은 정부 지출의 상당한 감소를 포함했고, 인프라 프로젝트, 사회 복지 프로그램, 공공 부문 고용에 영향을 미쳤습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "austerity는 '절약, 검소함' 또는 '긴축' 의미로, 엄격한 절약이나 검소함을 가리킵니다. frugality, severity와 비슷하지만 더 경제적·정치적 뉘앙스가 있습니다. austerity measures, austerity program 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "경제",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: austerity = (A) luxury (B) frugality or spending cuts (C) extravagance (D) indulgence",
+            "a": "B",
+            "meaning_ko": "austerity는 '검소함 또는 지출 절감' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The government introduced _____ measures.",
+            "a": "austerity",
+            "meaning_ko": "austerity는 '긴축'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of austerity? (A) frugality (B) severity (C) luxury (D) restraint",
+            "a": "C",
+            "meaning_ko": "luxury(사치)가 austerity의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ program reduced spending. (A) austerity (B) austerities (C) austere (D) austerely",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 austerity가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: austerity = (A) luxury (B) frugality (C) extravagance (D) indulgence",
+            "a": "B",
+            "meaning_ko": "frugality(검소함)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The austerities program reduced spending.' → Fix the sentence.",
+            "a": "The austerity program reduced spending.",
+            "meaning_ko": "austerity는 불가산명사이므로 복수형이 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The government introduced austerity measures to address the deficit.'",
+            "a": "The administration implemented policies and actions designed to reduce spending and increase fiscal discipline in order to deal with and resolve the budget shortfall.",
+            "meaning_ko": "austerity measures는 '긴축 조치'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ package included spending cuts. (A) austerity (B) austerities (C) austere (D) austerely",
+            "a": "A",
+            "meaning_ko": "명사로 단수형 austerity가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses austerity most appropriately? (A) The austerity ran. (B) The government introduced austerity measures. (C) She austerity smiled. (D) Austerity is good.",
+            "a": "B",
+            "meaning_ko": "austerity는 명사로 '긴축'을 의미하며, measures와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "spare",
+    "partOfSpeech": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "여유 있는, 여분의; 필요 이상으로 여유 있거나 여분의.",
+        "note": "필요 이상으로 여유 있거나 여분의 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "아끼다, 용서하다; 시간이나 돈을 아끼거나 용서하다.",
+        "note": "시간이나 돈을 아끼거나 용서하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "여분, 예비품; 필요할 때 사용할 수 있는 여분이나 예비품.",
+        "note": "필요할 때 사용할 수 있는 여분이나 예비품을 가리킵니다."
+      }
+    ],
+    "concept": "필요 이상으로 여유 있거나 여분의 상태, 또는 시간이나 돈을 아끼거나 용서하는 것.",
+    "etymology": "고대 영어 sparian(아끼다)에서 유래했으며, 원래는 '아끼다' 의미였으나 현대에는 '여유 있는'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '아끼다' 의미였으나, 현대에는 '여유 있는' 또는 '용서하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 명사를 수식하거나 서술어로, 동사로는 타동사로, 명사로는 가산명사로 쓰입니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터 아끼다",
+        "example": "spare from punishment"
+      }
+    ],
+    "requiredComplements": [
+      "spare + 명사 : ~을 아끼다/용서하다",
+      "spare + 명사 + from + 명사 : ~로부터 ~을 아끼다"
+    ],
+    "morphology": "고대 영어 sparian에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "sparing",
+        "meaning_ko": "아끼는(현재분사/형용사)"
+      },
+      {
+        "word": "spared",
+        "meaning_ko": "아낀/용서한(과거분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "extra",
+        "meaning_ko": "추가의"
+      },
+      {
+        "word": "surplus",
+        "meaning_ko": "여유"
+      },
+      {
+        "word": "save",
+        "meaning_ko": "아끼다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "extra",
+        "meaning_ko": "추가의"
+      },
+      {
+        "word": "surplus",
+        "meaning_ko": "여유"
+      },
+      {
+        "word": "save",
+        "meaning_ko": "아끼다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "additional",
+        "meaning_ko": "추가의(범위가 더 넓음)"
+      },
+      {
+        "word": "reserve",
+        "meaning_ko": "예비의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "necessary",
+        "meaning_ko": "필요한"
+      },
+      {
+        "word": "essential",
+        "meaning_ko": "필수적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "spare time",
+            "meaning_ko": "여가 시간"
+          },
+          {
+            "phrase": "spare change",
+            "meaning_ko": "잔돈"
+          },
+          {
+            "phrase": "spare tire",
+            "meaning_ko": "예비 타이어"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "spare room",
+            "meaning_ko": "여유 방"
+          },
+          {
+            "phrase": "spare key",
+            "meaning_ko": "예비 열쇠"
+          },
+          {
+            "phrase": "spare from",
+            "meaning_ko": "~로부터 아끼다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "spare capacity",
+            "meaning_ko": "여유 용량"
+          },
+          {
+            "phrase": "spare resources",
+            "meaning_ko": "여유 자원"
+          },
+          {
+            "phrase": "spare no effort",
+            "meaning_ko": "노력을 아끼지 않다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "Do you have any spare time?",
+            "meaning_ko": "여가 시간이 있으신가요?"
+          },
+          {
+            "sentence": "Can you spare a moment?",
+            "meaning_ko": "잠깐 시간을 내주실 수 있나요?"
+          },
+          {
+            "sentence": "We have a spare room for guests.",
+            "meaning_ko": "우리는 손님을 위한 여유 방이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "Do you have any spare time to help with the project? I know you're busy, but even a few hours would be valuable.",
+            "meaning_ko": "그 프로젝트를 돕기 위한 여가 시간이 있으신가요? 바쁘시다는 것을 알고 있지만, 몇 시간이라도 소중할 것입니다."
+          },
+          {
+            "sentence": "Can you spare a moment to review this document? I need your feedback before the meeting this afternoon.",
+            "meaning_ko": "이 문서를 검토할 시간을 내주실 수 있나요? 오늘 오후 회의 전에 당신의 피드백이 필요합니다."
+          },
+          {
+            "sentence": "We have a spare room for guests, which we use when family members visit or when we host friends from out of town.",
+            "meaning_ko": "우리는 손님을 위한 여유 방이 있고, 가족 구성원들이 방문하거나 다른 도시에서 온 친구들을 초대할 때 사용합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The company had spare capacity in its manufacturing facilities, allowing it to take on additional orders without requiring new investments in infrastructure.",
+            "meaning_ko": "그 회사는 그 제조 시설에서 여유 용량을 가지고 있었고, 인프라에 대한 새로운 투자 없이 추가 주문을 받을 수 있게 했습니다."
+          },
+          {
+            "sentence": "The organization allocated spare resources to support the emergency relief effort, demonstrating its commitment to social responsibility during times of crisis.",
+            "meaning_ko": "그 조직은 비상 구호 노력을 지원하기 위해 여유 자원을 배정했고, 위기 시 사회적 책임에 대한 그 헌신을 보여줬습니다."
+          },
+          {
+            "sentence": "The team decided to spare no effort in completing the project on time, working extended hours and mobilizing all available resources to meet the deadline.",
+            "meaning_ko": "그 팀은 시간 내에 프로젝트를 완료하는 데 노력을 아끼지 않기로 결정했고, 마감을 맞추기 위해 연장 근무를 하고 모든 이용 가능한 자원을 동원했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "spare는 '여유 있는, 여분의' 또는 '아끼다' 의미로, 필요 이상으로 여유 있거나 여분의 상태를 가리킵니다. extra, surplus와 비슷하지만 더 일상적 표현입니다. spare time, spare from ~ 패턴을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: spare = (A) necessary (B) extra or save (C) essential (D) required",
+            "a": "B",
+            "meaning_ko": "spare는 '추가의 또는 아끼다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: Do you have any _____ time?",
+            "a": "spare",
+            "meaning_ko": "spare는 '여유 있는' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of spare? (A) extra (B) surplus (C) necessary (D) save",
+            "a": "C",
+            "meaning_ko": "necessary(필요한)가 spare의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: Can you _____ a moment? (A) spare (B) spares (C) sparing (D) spared",
+            "a": "A",
+            "meaning_ko": "동사 원형 spare가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: spare = (A) necessary (B) extra (C) essential (D) required",
+            "a": "B",
+            "meaning_ko": "extra(추가의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'Do you have any spares time?' → Fix the sentence.",
+            "a": "Do you have any spare time?",
+            "meaning_ko": "spare는 형용사로 복수형이 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'Can you spare a moment to help?'",
+            "a": "Are you able to set aside or make available a small amount of time to provide assistance, even though you might be busy with other tasks?",
+            "meaning_ko": "spare a moment는 '시간을 내다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: We have a _____ room. (A) spare (B) spares (C) sparing (D) spared",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 spare가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses spare most appropriately? (A) The spare ran. (B) Do you have spare time? (C) She spare smiled. (D) Spare is good.",
+            "a": "B",
+            "meaning_ko": "spare는 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

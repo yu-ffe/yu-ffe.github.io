@@ -1,0 +1,827 @@
+[
+  {
+    "word": "ravage",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "파괴, 황폐화; 심각한 파괴나 황폐화.",
+        "note": "심각한 파괴나 황폐화를 가리킵니다."
+      },
+      {
+        "definition_ko": "파괴하다, 황폐화시키다; 심각하게 파괴하거나 황폐화시키다.",
+        "note": "심각하게 파괴하거나 황폐화시키는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "심각한 파괴나 황폐화인 파괴, 또는 심각하게 파괴하거나 황폐화시키는 것.",
+    "etymology": "프랑스어 ravager(파괴하다)에서 유래했으며, 원래는 '파괴하다' 의미였고 현대에도 같은 의미로 사용됩니다.",
+    "semanticExtension": "원래는 '파괴하다' 의미였고, 현대에도 같은 의미로 사용됩니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문학과 학문 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "명사로는 불가산명사로 자주 사용되며, ravage 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, ravage + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "불가산명사(명사)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "ravage : 파괴/황폐화",
+      "ravage + 명사 : ~을 파괴하다/황폐화시키다"
+    ],
+    "morphology": "프랑스어 ravager에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "ravaged",
+        "meaning_ko": "파괴된/황폐화된(과거분사/형용사)"
+      },
+      {
+        "word": "ravaging",
+        "meaning_ko": "파괴하는/황폐화시키는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "devastate",
+        "meaning_ko": "황폐화시키다"
+      },
+      {
+        "word": "ruin",
+        "meaning_ko": "파괴하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "destroy",
+        "meaning_ko": "파괴하다"
+      },
+      {
+        "word": "devastate",
+        "meaning_ko": "황폐화시키다"
+      },
+      {
+        "word": "ruin",
+        "meaning_ko": "파괴하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "wreck",
+        "meaning_ko": "파괴하다(범위가 더 넓음)"
+      },
+      {
+        "word": "demolish",
+        "meaning_ko": "파괴하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "preserve",
+        "meaning_ko": "보존하다"
+      },
+      {
+        "word": "protect",
+        "meaning_ko": "보호하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ravage country",
+            "meaning_ko": "나라를 파괴하다"
+          },
+          {
+            "phrase": "ravage city",
+            "meaning_ko": "도시를 파괴하다"
+          },
+          {
+            "phrase": "ravage land",
+            "meaning_ko": "땅을 황폐화시키다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ravage by war",
+            "meaning_ko": "전쟁으로 파괴되다"
+          },
+          {
+            "phrase": "ravage of disease",
+            "meaning_ko": "질병의 파괴"
+          },
+          {
+            "phrase": "ravage region",
+            "meaning_ko": "지역을 파괴하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ravage infrastructure",
+            "meaning_ko": "인프라를 파괴하다"
+          },
+          {
+            "phrase": "ravage economy",
+            "meaning_ko": "경제를 파괴하다"
+          },
+          {
+            "phrase": "ravage environment",
+            "meaning_ko": "환경을 황폐화시키다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "War ravaged the country.",
+            "meaning_ko": "전쟁은 그 나라를 파괴했습니다."
+          },
+          {
+            "sentence": "The disease caused ravage.",
+            "meaning_ko": "그 질병은 파괴를 일으켰습니다."
+          },
+          {
+            "sentence": "They ravaged the city.",
+            "meaning_ko": "그들은 그 도시를 파괴했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "War ravaged the country, with the conflict causing widespread destruction and devastation, though the long-term impact would require extensive reconstruction and recovery efforts.",
+            "meaning_ko": "전쟁은 그 나라를 파괴했고, 그 갈등이 광범위한 파괴와 황폐화를 일으켰지만, 장기적 영향은 광범위한 재건과 회복 노력을 요구할 것입니다."
+          },
+          {
+            "sentence": "The disease caused ravage, with the illness spreading and creating widespread suffering and destruction, though medical efforts would be needed to contain the outbreak and support recovery.",
+            "meaning_ko": "그 질병은 파괴를 일으켰고, 그 질병이 퍼지고 광범위한 고통과 파괴를 만들었지만, 그 발생을 억제하고 회복을 지원하기 위해 의료 노력이 필요할 것입니다."
+          },
+          {
+            "sentence": "They ravaged the city, with the attack causing severe damage and destruction, though the devastation would require significant resources and time to repair and rebuild.",
+            "meaning_ko": "그들은 그 도시를 파괴했고, 그 공격이 심각한 피해와 파괴를 일으켰지만, 그 황폐화는 수리하고 재건하기 위해 중요한 자원과 시간을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The conflict ravaged the infrastructure of the region, with the destruction of essential systems creating long-term challenges for recovery and development, though rebuilding would require coordinated efforts and substantial investment.",
+            "meaning_ko": "그 갈등은 그 지역의 인프라를 파괴했고, 필수 시스템의 파괴가 회복과 발전을 위한 장기적 도전을 만들었지만, 재건은 조정된 노력과 상당한 투자를 요구할 것입니다."
+          },
+          {
+            "sentence": "The economic crisis ravaged the economy, with the financial collapse creating widespread hardship and disrupting normal operations, though recovery would require comprehensive reforms and strategic interventions.",
+            "meaning_ko": "그 경제 위기는 그 경제를 파괴했고, 그 재정적 붕괴가 광범위한 어려움을 만들고 정상 운영을 방해했지만, 회복은 포괄적 개혁과 전략적 개입을 요구할 것입니다."
+          },
+          {
+            "sentence": "The industrial activity ravaged the environment, with pollution and resource depletion creating long-term damage to ecosystems, though addressing the impact would require environmental protection measures and sustainable practices.",
+            "meaning_ko": "그 산업 활동은 그 환경을 황폐화시켰고, 오염과 자원 고갈이 생태계에 장기적 피해를 만들었지만, 그 영향을 다루는 것은 환경 보호 조치와 지속 가능한 관행을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ravage는 '파괴, 황폐화' 또는 '파괴하다, 황폐화시키다' 의미로, 심각한 파괴나 황폐화를 가리킵니다. destroy, devastate와 비슷하지만 더 문학적 뉘앙스가 있습니다. ravage country, ravage by war 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문학",
+      "학문",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 7,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: ravage = (A) preserve (B) destroy or devastate (C) protect (D) save",
+            "a": "B",
+            "meaning_ko": "ravage는 '파괴하다 또는 황폐화시키다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: War _____ the country.",
+            "a": "ravaged",
+            "meaning_ko": "ravage는 '파괴하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of ravage? (A) destroy (B) devastate (C) preserve (D) ruin",
+            "a": "C",
+            "meaning_ko": "preserve(보존하다)가 ravage의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: They _____ the city. (A) ravage (B) ravaged (C) ravaging (D) ravages",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 과거형 ravaged가 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: ravage = (A) preserve (B) destroy (C) protect (D) save",
+            "a": "B",
+            "meaning_ko": "destroy(파괴하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'War ravage the country.' → Fix the sentence.",
+            "a": "War ravaged the country.",
+            "meaning_ko": "과거 시제에서 과거형 ravaged가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'War ravaged the country.'",
+            "a": "The conflict caused widespread destruction and devastation throughout the nation, with the war creating severe damage that would require extensive reconstruction and recovery efforts to address.",
+            "meaning_ko": "ravage는 '파괴하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The disease caused _____. (A) ravage (B) ravages (C) ravaging (D) ravaged",
+            "a": "A",
+            "meaning_ko": "명사 ravage가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses ravage most appropriately? (A) The ravage ran. (B) War ravaged the country. (C) She ravage smiled. (D) Ravage is good.",
+            "a": "B",
+            "meaning_ko": "ravage는 동사로 '파괴하다'를 의미하며, 타동사로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "embargo",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "금수 조치, 무역 금지; 국가 간 무역을 금지하거나 제한하는 조치.",
+        "note": "국가 간 무역을 금지하거나 제한하는 조치를 가리킵니다."
+      },
+      {
+        "definition_ko": "금수 조치를 취하다, 무역 금지를 하다; 무역을 금지하거나 제한하는 조치를 취하다.",
+        "note": "무역을 금지하거나 제한하는 조치를 취하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "국가 간 무역을 금지하거나 제한하는 조치인 금수 조치, 또는 무역을 금지하거나 제한하는 조치를 취하는 것.",
+    "etymology": "스페인어 embargo(금지)에서 유래했으며, 원래는 '금지' 의미였고 현대에는 '무역 금지'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '금지' 의미였고, 현대에는 '국가 간 무역을 금지하거나 제한하는 조치'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 정치와 경제 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "명사로는 가산명사로 자주 사용되며, embargo 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, embargo + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대한 금수 조치",
+        "example": "embargo on trade"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대한 금수 조치",
+        "example": "embargo against"
+      }
+    ],
+    "requiredComplements": [
+      "embargo : 금수 조치/무역 금지",
+      "embargo + 명사 : ~에 금수 조치를 취하다",
+      "embargo on + 명사 : ~에 대한 금수 조치",
+      "embargo against + 명사 : ~에 대한 금수 조치"
+    ],
+    "morphology": "스페인어 embargo에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "embargoed",
+        "meaning_ko": "금수 조치를 받은(과거분사/형용사)"
+      },
+      {
+        "word": "embargoing",
+        "meaning_ko": "금수 조치를 취하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "ban",
+        "meaning_ko": "금지"
+      },
+      {
+        "word": "prohibition",
+        "meaning_ko": "금지"
+      },
+      {
+        "word": "sanction",
+        "meaning_ko": "제재"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "ban",
+        "meaning_ko": "금지"
+      },
+      {
+        "word": "prohibition",
+        "meaning_ko": "금지"
+      },
+      {
+        "word": "sanction",
+        "meaning_ko": "제재"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "blockade",
+        "meaning_ko": "봉쇄(범위가 더 넓음)"
+      },
+      {
+        "word": "restriction",
+        "meaning_ko": "제한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "trade",
+        "meaning_ko": "무역"
+      },
+      {
+        "word": "commerce",
+        "meaning_ko": "상업"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "embargo on",
+            "meaning_ko": "~에 대한 금수 조치"
+          },
+          {
+            "phrase": "embargo against",
+            "meaning_ko": "~에 대한 금수 조치"
+          },
+          {
+            "phrase": "trade embargo",
+            "meaning_ko": "무역 금수 조치"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "embargo on trade",
+            "meaning_ko": "무역에 대한 금수 조치"
+          },
+          {
+            "phrase": "embargo against country",
+            "meaning_ko": "나라에 대한 금수 조치"
+          },
+          {
+            "phrase": "lift embargo",
+            "meaning_ko": "금수 조치를 해제하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "embargo policy",
+            "meaning_ko": "금수 조치 정책"
+          },
+          {
+            "phrase": "embargo enforcement",
+            "meaning_ko": "금수 조치 집행"
+          },
+          {
+            "phrase": "embargo violation",
+            "meaning_ko": "금수 조치 위반"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They imposed an embargo.",
+            "meaning_ko": "그들은 금수 조치를 부과했습니다."
+          },
+          {
+            "sentence": "The embargo was lifted.",
+            "meaning_ko": "그 금수 조치는 해제되었습니다."
+          },
+          {
+            "sentence": "She discussed the embargo.",
+            "meaning_ko": "그녀는 그 금수 조치에 대해 논의했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They imposed an embargo, with the trade restriction being implemented to pressure the country and achieve political objectives, though the measure would have economic consequences for both sides.",
+            "meaning_ko": "그들은 금수 조치를 부과했고, 그 무역 제한이 그 나라에 압력을 가하고 정치적 목표를 달성하기 위해 시행되었지만, 그 조치는 양쪽 모두에 경제적 결과를 가질 것입니다."
+          },
+          {
+            "sentence": "The embargo was lifted, with the removal of trade restrictions allowing commerce to resume, though the decision would require careful consideration of the political and economic implications.",
+            "meaning_ko": "그 금수 조치는 해제되었고, 무역 제한의 제거가 상업이 재개되도록 허용했지만, 그 결정은 정치적이고 경제적 함의의 신중한 고려를 요구할 것입니다."
+          },
+          {
+            "sentence": "She discussed the embargo, analyzing the impact of the trade restriction and its implications for international relations, though the full effects would depend on how long the measure remained in place.",
+            "meaning_ko": "그녀는 그 금수 조치에 대해 논의했고, 그 무역 제한의 영향과 국제 관계에 대한 그 함의를 분석했지만, 전체 효과는 그 조치가 얼마나 오래 유지되는지에 달려있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The embargo policy was designed to achieve diplomatic objectives, with the trade restrictions serving as a tool for political pressure, though the effectiveness would depend on international cooperation and the target country's ability to find alternative sources.",
+            "meaning_ko": "그 금수 조치 정책은 외교적 목표를 달성하기 위해 설계되었고, 그 무역 제한이 정치적 압력을 위한 도구로 작용했지만, 그 효과는 국제 협력과 목표 국가가 대안적 원천을 찾는 능력에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The embargo enforcement required coordination among multiple agencies, with the restrictions needing to be monitored and violations addressed, though the complexity of international trade made complete enforcement challenging.",
+            "meaning_ko": "그 금수 조치 집행은 여러 기관 간의 조정을 요구했고, 그 제한이 모니터링되고 위반이 다루어질 필요가 있었지만, 국제 무역의 복잡성이 완전한 집행을 도전적으로 만들었습니다."
+          },
+          {
+            "sentence": "The embargo violation resulted in penalties, with the breach of trade restrictions leading to legal consequences and potential escalation of tensions, though the response would need to be proportional and consider broader diplomatic implications.",
+            "meaning_ko": "그 금수 조치 위반은 처벌로 이어졌고, 무역 제한의 위반이 법적 결과와 잠재적 긴장의 확대로 이어졌지만, 그 대응은 비례적이어야 하고 더 넓은 외교적 함의를 고려해야 할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "embargo는 '금수 조치, 무역 금지' 또는 '금수 조치를 취하다, 무역 금지를 하다' 의미로, 국가 간 무역을 금지하거나 제한하는 조치를 가리킵니다. ban, prohibition와 비슷하지만 더 정치적 뉘앙스가 있습니다. embargo on ~, trade embargo 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "정치",
+      "경제",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: embargo = (A) trade (B) ban or prohibition (C) commerce (D) exchange",
+            "a": "B",
+            "meaning_ko": "embargo는 '금지 또는 금수 조치' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They imposed an _____.",
+            "a": "embargo",
+            "meaning_ko": "embargo는 '금수 조치'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of embargo? (A) ban (B) prohibition (C) trade (D) sanction",
+            "a": "C",
+            "meaning_ko": "trade(무역)가 embargo의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: embargo _____ trade. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "embargo on ~는 '~에 대한 금수 조치' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: embargo = (A) trade (B) ban (C) commerce (D) exchange",
+            "a": "B",
+            "meaning_ko": "ban(금지)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They imposed embargo at trade.' → Fix the preposition.",
+            "a": "They imposed an embargo on trade.",
+            "meaning_ko": "embargo on ~는 '~에 대한 금수 조치' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They imposed an embargo.'",
+            "a": "They implemented a trade restriction, with the ban on commerce being used as a tool for political pressure, though the measure would have economic consequences for both sides.",
+            "meaning_ko": "embargo는 '금수 조치'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ was lifted. (A) embargo (B) embargos (C) embargo's (D) embargoed",
+            "a": "A",
+            "meaning_ko": "명사 embargo가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses embargo most appropriately? (A) The embargo ran. (B) They imposed an embargo. (C) She embargo smiled. (D) Embargo is good.",
+            "a": "B",
+            "meaning_ko": "embargo는 명사로 '금수 조치'를 의미하며, impose와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sober",
+    "partOfSpeech": [
+      "adjective",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "술에 취하지 않은, 냉정한; 술에 취하지 않거나 냉정한.",
+        "note": "술에 취하지 않거나 냉정한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "진지한, 차분한; 진지하거나 차분한.",
+        "note": "진지하거나 차분한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "술깨다, 냉정해지다; 술에서 깨거나 냉정해지다.",
+        "note": "술에서 깨거나 냉정해지는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "술에 취하지 않거나 냉정한 술에 취하지 않은 상태, 또는 진지하거나 차분한 진지한 상태, 또는 술에서 깨거나 냉정해지는 것.",
+    "etymology": "라틴어 sobrius(술에 취하지 않은)에서 유래했으며, se-(떨어져) + ebrius(술취한)의 조합입니다.",
+    "semanticExtension": "원래는 '술에 취하지 않은' 의미였고, 현대에는 '진지하거나 차분한' 또는 '술에서 깨다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 주로 명사를 수식하거나 서술어로 쓰이며, be sober 형태로 자주 사용됩니다. 동사로는 자동사·타동사 모두로 쓰이며, sober up 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두(동사)",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "up",
+        "meaning_ko": "술깨다",
+        "example": "sober up"
+      }
+    ],
+    "requiredComplements": [
+      "be sober : 술에 취하지 않다/냉정하다",
+      "sober + 명사 : 술에 취하지 않은/냉정한 ~",
+      "sober up : 술깨다"
+    ],
+    "morphology": "se-(떨어져) + ebrius(술취한)의 조합으로, '술취함에서 떨어져' 즉 '술에 취하지 않은' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "sobered",
+        "meaning_ko": "술깬/냉정해진(과거분사/형용사)"
+      },
+      {
+        "word": "sobering",
+        "meaning_ko": "술깨는/냉정해지는(현재분사/형용사)"
+      },
+      {
+        "word": "soberly",
+        "meaning_ko": "냉정하게"
+      },
+      {
+        "word": "sobriety",
+        "meaning_ko": "냉정"
+      }
+    ],
+    "related": [
+      {
+        "word": "serious",
+        "meaning_ko": "진지한"
+      },
+      {
+        "word": "calm",
+        "meaning_ko": "차분한"
+      },
+      {
+        "word": "clear-headed",
+        "meaning_ko": "냉정한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "serious",
+        "meaning_ko": "진지한"
+      },
+      {
+        "word": "calm",
+        "meaning_ko": "차분한"
+      },
+      {
+        "word": "clear-headed",
+        "meaning_ko": "냉정한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "composed",
+        "meaning_ko": "차분한(범위가 더 넓음)"
+      },
+      {
+        "word": "sedate",
+        "meaning_ko": "차분한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "drunk",
+        "meaning_ko": "술취한"
+      },
+      {
+        "word": "intoxicated",
+        "meaning_ko": "술취한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sober up",
+            "meaning_ko": "술깨다"
+          },
+          {
+            "phrase": "stay sober",
+            "meaning_ko": "술에 취하지 않게 지내다"
+          },
+          {
+            "phrase": "sober person",
+            "meaning_ko": "냉정한 사람"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sober judgment",
+            "meaning_ko": "냉정한 판단"
+          },
+          {
+            "phrase": "sober assessment",
+            "meaning_ko": "냉정한 평가"
+          },
+          {
+            "phrase": "sober reality",
+            "meaning_ko": "냉정한 현실"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sober reflection",
+            "meaning_ko": "냉정한 성찰"
+          },
+          {
+            "phrase": "sober analysis",
+            "meaning_ko": "냉정한 분석"
+          },
+          {
+            "phrase": "sober perspective",
+            "meaning_ko": "냉정한 관점"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was sober.",
+            "meaning_ko": "그는 술에 취하지 않았습니다."
+          },
+          {
+            "sentence": "She made a sober decision.",
+            "meaning_ko": "그녀는 냉정한 결정을 했습니다."
+          },
+          {
+            "sentence": "They sobered up.",
+            "meaning_ko": "그들은 술에서 깼습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was sober, with his clear-headed state allowing him to make rational decisions, though maintaining sobriety would require discipline and self-control.",
+            "meaning_ko": "그는 술에 취하지 않았고, 그의 냉정한 상태가 그가 합리적인 결정을 내릴 수 있게 했지만, 냉정을 유지하는 것은 규율과 자제력을 요구할 것입니다."
+          },
+          {
+            "sentence": "She made a sober decision, with her clear-minded assessment and rational thinking leading to a choice that was well-considered, though the decision would have significant consequences.",
+            "meaning_ko": "그녀는 냉정한 결정을 했고, 그녀의 명확한 평가와 합리적 사고가 신중하게 고려된 선택으로 이어졌지만, 그 결정은 중요한 결과를 가질 것입니다."
+          },
+          {
+            "sentence": "They sobered up, with the effects of alcohol wearing off and their mental clarity returning, though the process would take time and they would need to wait before making important decisions.",
+            "meaning_ko": "그들은 술에서 깼고, 알코올의 효과가 사라지고 그들의 정신적 명확성이 돌아왔지만, 그 과정은 시간이 걸릴 것이고 그들은 중요한 결정을 내리기 전에 기다려야 할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sober reflection on the situation provided clarity and perspective, with the clear-minded analysis helping to understand the complexities and make informed decisions, though the process required setting aside emotions and focusing on facts.",
+            "meaning_ko": "그 상황에 대한 그 냉정한 성찰은 명확성과 관점을 제공했고, 그 명확한 분석이 복잡성을 이해하고 정보에 입각한 결정을 내리는 데 도움이 되었지만, 그 과정은 감정을 제쳐두고 사실에 초점을 맞추는 것을 요구했습니다."
+          },
+          {
+            "sentence": "The sober analysis of the data revealed important patterns and trends, with the clear-headed examination providing insights that would inform strategy and decision-making, though the findings would need to be communicated effectively to stakeholders.",
+            "meaning_ko": "그 데이터에 대한 그 냉정한 분석은 중요한 패턴과 추세를 드러냈고, 그 명확한 검토가 전략과 의사 결정에 정보를 제공할 통찰을 제공했지만, 그 발견은 이해 관계자에게 효과적으로 전달될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The sober perspective adopted by the team helped to navigate challenges, with the clear-minded approach enabling rational problem-solving and strategic thinking, though maintaining this perspective would require discipline and focus.",
+            "meaning_ko": "그 팀이 채택한 그 냉정한 관점은 도전을 탐색하는 데 도움이 되었고, 그 명확한 접근이 합리적 문제 해결과 전략적 사고를 가능하게 했지만, 이 관점을 유지하는 것은 규율과 집중을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sober는 '술에 취하지 않은, 냉정한' 또는 '진지한, 차분한' 또는 '술깨다, 냉정해지다' 의미로, 술에 취하지 않거나 냉정한 상태를 가리킵니다. serious, calm와 비슷하지만 더 강한 뉘앙스가 있습니다. sober up, stay sober 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sober = (A) drunk (B) clear-headed or serious (C) intoxicated (D) inebriated",
+            "a": "B",
+            "meaning_ko": "sober는 '냉정한 또는 진지한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was _____.",
+            "a": "sober",
+            "meaning_ko": "sober는 '술에 취하지 않은' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of sober? (A) serious (B) calm (C) drunk (D) clear-headed",
+            "a": "C",
+            "meaning_ko": "drunk(술취한)가 sober의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: sober _____. (A) up (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "sober up는 '술깨다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: sober = (A) drunk (B) serious (C) intoxicated (D) inebriated",
+            "a": "B",
+            "meaning_ko": "serious(진지한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They sobered at.' → Fix the sentence.",
+            "a": "They sobered up.",
+            "meaning_ko": "sober up는 '술깨다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was sober.'",
+            "a": "He was clear-headed and not under the influence of alcohol, with his rational state allowing him to make sound decisions, though maintaining sobriety would require discipline and self-control.",
+            "meaning_ko": "sober는 '술에 취하지 않은' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She made a _____ decision. (A) sober (B) soberly (C) sobriety (D) sober's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 sober가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sober most appropriately? (A) The sober ran. (B) He was sober. (C) She sober smiled. (D) Sober is good.",
+            "a": "B",
+            "meaning_ko": "sober는 형용사로 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

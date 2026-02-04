@@ -1,0 +1,815 @@
+[
+  {
+    "word": "lopsided",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "한쪽으로 기울어진, 불균형한; 한쪽으로 기울어지거나 불균형한.",
+        "note": "한쪽으로 기울어지거나 불균형한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "비대칭적인, 균형이 맞지 않는; 비대칭적이거나 균형이 맞지 않는.",
+        "note": "비대칭적이거나 균형이 맞지 않는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "한쪽으로 기울어지거나 불균형한 상태, 또는 비대칭적이거나 균형이 맞지 않는 상태.",
+    "etymology": "lop(기울다) + sided(측면이 있는)의 조합으로, '한쪽으로 기울어진' 의미입니다.",
+    "semanticExtension": "원래는 '한쪽으로 기울어진' 의미였고, 현대에는 '비대칭적이거나 균형이 맞지 않는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be lopsided 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "toward",
+        "meaning_ko": "~쪽으로 기울어진",
+        "example": "lopsided toward"
+      }
+    ],
+    "requiredComplements": [
+      "be lopsided : 한쪽으로 기울어지다",
+      "lopsided + 명사 : 한쪽으로 기울어진 ~",
+      "lopsided toward + 명사 : ~쪽으로 기울어진"
+    ],
+    "morphology": "lop(기울다) + sided(측면이 있는)의 조합으로, '한쪽으로 기울어진' 의미를 나타냅니다.",
+    "derivatives": [
+      {
+        "word": "lopsidedly",
+        "meaning_ko": "한쪽으로 기울어져서"
+      },
+      {
+        "word": "lopsidedness",
+        "meaning_ko": "한쪽으로 기울어짐"
+      }
+    ],
+    "related": [
+      {
+        "word": "uneven",
+        "meaning_ko": "고르지 않은"
+      },
+      {
+        "word": "asymmetric",
+        "meaning_ko": "비대칭적인"
+      },
+      {
+        "word": "unbalanced",
+        "meaning_ko": "불균형한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "uneven",
+        "meaning_ko": "고르지 않은"
+      },
+      {
+        "word": "asymmetric",
+        "meaning_ko": "비대칭적인"
+      },
+      {
+        "word": "unbalanced",
+        "meaning_ko": "불균형한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "crooked",
+        "meaning_ko": "구부러진(범위가 더 넓음)"
+      },
+      {
+        "word": "skewed",
+        "meaning_ko": "비뚤어진"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "balanced",
+        "meaning_ko": "균형 잡힌"
+      },
+      {
+        "word": "symmetrical",
+        "meaning_ko": "대칭적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "lopsided toward",
+            "meaning_ko": "~쪽으로 기울어진"
+          },
+          {
+            "phrase": "lopsided smile",
+            "meaning_ko": "한쪽으로 기울어진 미소"
+          },
+          {
+            "phrase": "lopsided game",
+            "meaning_ko": "불균형한 게임"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "lopsided victory",
+            "meaning_ko": "일방적인 승리"
+          },
+          {
+            "phrase": "lopsided distribution",
+            "meaning_ko": "불균형한 분배"
+          },
+          {
+            "phrase": "lopsided competition",
+            "meaning_ko": "불균형한 경쟁"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "lopsided agreement",
+            "meaning_ko": "불균형한 협정"
+          },
+          {
+            "phrase": "lopsided relationship",
+            "meaning_ko": "불균형한 관계"
+          },
+          {
+            "phrase": "lopsided structure",
+            "meaning_ko": "불균형한 구조"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The table was lopsided.",
+            "meaning_ko": "그 테이블은 한쪽으로 기울어져 있었습니다."
+          },
+          {
+            "sentence": "She had a lopsided smile.",
+            "meaning_ko": "그녀는 한쪽으로 기울어진 미소를 지었습니다."
+          },
+          {
+            "sentence": "They won a lopsided victory.",
+            "meaning_ko": "그들은 일방적인 승리를 거두었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The table was lopsided, with one leg shorter than the others creating an unstable surface, though fixing the imbalance would require adjusting or replacing the leg.",
+            "meaning_ko": "그 테이블은 한쪽으로 기울어져 있었고, 한 다리가 다른 다리보다 짧아서 불안정한 표면을 만들었지만, 그 불균형을 고치는 것은 그 다리를 조정하거나 교체하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "She had a lopsided smile, with one side of her mouth curving more than the other creating an asymmetric expression, though the uneven smile would add character to her face.",
+            "meaning_ko": "그녀는 한쪽으로 기울어진 미소를 지었고, 그녀의 입 한쪽이 다른 쪽보다 더 많이 구부러져서 비대칭적인 표정을 만들었지만, 그 고르지 않은 미소는 그녀의 얼굴에 개성을 더할 것입니다."
+          },
+          {
+            "sentence": "They won a lopsided victory, with the score showing a significant difference between the teams, though the uneven match would raise questions about fairness and competition.",
+            "meaning_ko": "그들은 일방적인 승리를 거두었고, 그 점수가 그 팀들 사이의 상당한 차이를 보여주었지만, 그 고르지 않은 경기는 공정성과 경쟁에 대한 질문을 제기할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The lopsided agreement that was negotiated between the parties created an imbalance in benefits and obligations, with one side gaining significantly more than the other, though the asymmetric terms would require careful consideration of long-term implications.",
+            "meaning_ko": "그 당사자들 사이에서 협상되었던 그 불균형한 협정은 이익과 의무에서 불균형을 만들었고, 한쪽이 다른 쪽보다 상당히 더 많이 얻었지만, 그 비대칭적인 조건은 장기적 함의를 신중하게 고려하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The lopsided relationship that developed between the partners created power imbalances and dependency issues, with one side having more influence and control than the other, though addressing the asymmetry would require open communication and mutual respect.",
+            "meaning_ko": "그 파트너들 사이에서 발전했던 그 불균형한 관계는 권력 불균형과 의존성 문제를 만들었고, 한쪽이 다른 쪽보다 더 많은 영향력과 통제를 가지고 있었지만, 그 비대칭성을 다루는 것은 공개적인 소통과 상호 존중을 요구할 것입니다."
+          },
+          {
+            "sentence": "The lopsided structure that characterized the organization created challenges for fairness and equity, with the uneven distribution of resources and opportunities affecting various groups differently, though rebalancing would require systemic changes and commitment to equality.",
+            "meaning_ko": "그 조직을 특징지었던 그 불균형한 구조는 공정성과 형평성에 대한 도전을 만들었고, 그 자원과 기회의 고르지 않은 분배가 다양한 그룹에 다르게 영향을 주었지만, 재균형화는 체계적 변화와 평등에 대한 헌신을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "lopsided는 '한쪽으로 기울어진, 불균형한' 또는 '비대칭적인, 균형이 맞지 않는' 의미로, 한쪽으로 기울어지거나 불균형한 상태를 가리킵니다. uneven, unbalanced와 비슷하지만 더 구체적 뉘앙스가 있습니다. lopsided toward ~, lopsided smile 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: lopsided = (A) balanced (B) uneven or unbalanced (C) symmetrical (D) equal",
+            "a": "B",
+            "meaning_ko": "lopsided는 '고르지 않은 또는 불균형한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The table was _____.",
+            "a": "lopsided",
+            "meaning_ko": "lopsided는 '한쪽으로 기울어진' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of lopsided? (A) uneven (B) unbalanced (C) balanced (D) asymmetric",
+            "a": "C",
+            "meaning_ko": "balanced(균형 잡힌)가 lopsided의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: lopsided _____ one side. (A) toward (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "lopsided toward ~는 '~쪽으로 기울어진' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: lopsided = (A) balanced (B) uneven (C) symmetrical (D) equal",
+            "a": "B",
+            "meaning_ko": "uneven(고르지 않은)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The structure was lopsided at one side.' → Fix the preposition.",
+            "a": "The structure was lopsided toward one side.",
+            "meaning_ko": "lopsided toward ~는 '~쪽으로 기울어진' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The table was lopsided.'",
+            "a": "The table was uneven and unbalanced, with one side higher or lower than the other creating an unstable surface, though fixing the imbalance would require adjusting or replacing the leg.",
+            "meaning_ko": "lopsided는 '한쪽으로 기울어진' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She had a _____ smile. (A) lopsided (B) lopsidedly (C) lopsidedness (D) lopsided's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 lopsided가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses lopsided most appropriately? (A) The lopsided ran. (B) The table was lopsided. (C) She lopsided smiled. (D) Lopsided is good.",
+            "a": "B",
+            "meaning_ko": "lopsided는 형용사로 '한쪽으로 기울어진'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "jaunty",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "쾌활한, 경쾌한; 쾌활하거나 경쾌한.",
+        "note": "쾌활하거나 경쾌한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "기운찬, 활기찬; 기운차거나 활기찬.",
+        "note": "기운차거나 활기찬 상태를 가리킵니다."
+      }
+    ],
+    "concept": "쾌활하거나 경쾌한 상태, 또는 기운차거나 활기찬 상태.",
+    "etymology": "프랑스어 gentil(우아한)에서 유래했으며, 원래는 '우아한' 의미였고 현대에는 '쾌활한'으로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '우아한' 의미였고, 현대에는 '기운차거나 활기찬'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 긍정적이고 경쾌한 분위기를 묘사할 때 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be jaunty 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 쾌활한",
+        "example": "jaunty in"
+      }
+    ],
+    "requiredComplements": [
+      "be jaunty : 쾌활하다",
+      "jaunty + 명사 : 쾌활한 ~",
+      "jaunty in + 명사 : ~에서 쾌활한"
+    ],
+    "morphology": "프랑스어 gentil에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "jauntily",
+        "meaning_ko": "쾌활하게"
+      },
+      {
+        "word": "jauntiness",
+        "meaning_ko": "쾌활함"
+      }
+    ],
+    "related": [
+      {
+        "word": "cheerful",
+        "meaning_ko": "쾌활한"
+      },
+      {
+        "word": "lively",
+        "meaning_ko": "활기찬"
+      },
+      {
+        "word": "sprightly",
+        "meaning_ko": "활기찬"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "cheerful",
+        "meaning_ko": "쾌활한"
+      },
+      {
+        "word": "lively",
+        "meaning_ko": "활기찬"
+      },
+      {
+        "word": "sprightly",
+        "meaning_ko": "활기찬"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "merry",
+        "meaning_ko": "즐거운(범위가 더 넓음)"
+      },
+      {
+        "word": "buoyant",
+        "meaning_ko": "밝은"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "gloomy",
+        "meaning_ko": "우울한"
+      },
+      {
+        "word": "melancholy",
+        "meaning_ko": "우울한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "jaunty in",
+            "meaning_ko": "~에서 쾌활한"
+          },
+          {
+            "phrase": "jaunty walk",
+            "meaning_ko": "경쾌한 걸음"
+          },
+          {
+            "phrase": "jaunty tune",
+            "meaning_ko": "경쾌한 곡조"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "jaunty manner",
+            "meaning_ko": "쾌활한 태도"
+          },
+          {
+            "phrase": "jaunty step",
+            "meaning_ko": "경쾌한 걸음걸이"
+          },
+          {
+            "phrase": "jaunty hat",
+            "meaning_ko": "경쾌한 모자"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "jaunty spirit",
+            "meaning_ko": "쾌활한 정신"
+          },
+          {
+            "phrase": "jaunty attitude",
+            "meaning_ko": "쾌활한 태도"
+          },
+          {
+            "phrase": "jaunty confidence",
+            "meaning_ko": "쾌활한 자신감"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He walked with a jaunty step.",
+            "meaning_ko": "그는 경쾌한 걸음으로 걸었습니다."
+          },
+          {
+            "sentence": "She wore a jaunty hat.",
+            "meaning_ko": "그녀는 경쾌한 모자를 썼습니다."
+          },
+          {
+            "sentence": "They played a jaunty tune.",
+            "meaning_ko": "그들은 경쾌한 곡조를 연주했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He walked with a jaunty step, with his cheerful and confident stride creating a positive and energetic impression, though the lively movement would reflect his optimistic mood.",
+            "meaning_ko": "그는 경쾌한 걸음으로 걸었고, 그의 쾌활하고 자신감 있는 보행이 긍정적이고 활기찬 인상을 만들었지만, 그 활기찬 움직임은 그의 낙관적인 기분을 반영할 것입니다."
+          },
+          {
+            "sentence": "She wore a jaunty hat, with the stylish and cheerful accessory adding a touch of liveliness to her appearance, though the sprightly fashion choice would enhance her overall look.",
+            "meaning_ko": "그녀는 경쾌한 모자를 썼고, 그 세련되고 쾌활한 액세서리가 그녀의 외모에 활기찬 느낌을 더했지만, 그 경쾌한 패션 선택은 그녀의 전반적인 모습을 향상시킬 것입니다."
+          },
+          {
+            "sentence": "They played a jaunty tune, with the cheerful and upbeat melody creating a festive and joyful atmosphere, though the lively music would lift everyone's spirits and encourage movement.",
+            "meaning_ko": "그들은 경쾌한 곡조를 연주했고, 그 쾌활하고 경쾌한 멜로디가 축제적이고 즐거운 분위기를 만들었지만, 그 활기찬 음악은 모든 사람의 기분을 북돋우고 움직임을 장려할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The jaunty spirit that characterized the celebration created an atmosphere of joy and optimism, with the cheerful and lively energy encouraging participation and enjoyment, though maintaining such enthusiasm would require ongoing engagement and positive interaction.",
+            "meaning_ko": "그 축하를 특징지었던 그 쾌활한 정신은 기쁨과 낙관주의의 분위기를 만들었고, 그 쾌활하고 활기찬 에너지가 참여와 즐거움을 장려했지만, 그러한 열정을 유지하는 것은 지속적인 참여와 긍정적 상호작용을 요구할 것입니다."
+          },
+          {
+            "sentence": "The jaunty attitude that was displayed throughout the event demonstrated confidence and cheerfulness, with the sprightly and optimistic approach creating a welcoming and positive environment, though the impact would depend on how well the energy was sustained and shared.",
+            "meaning_ko": "그 이벤트 전반에 걸쳐 표시되었던 그 쾌활한 태도는 자신감과 쾌활함을 보여주었고, 그 경쾌하고 낙관적인 접근이 환영하고 긍정적인 환경을 만들었지만, 그 영향은 그 에너지가 얼마나 잘 유지되고 공유되었는지에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The jaunty confidence that was evident in the performance created a sense of ease and enjoyment, with the cheerful and lively presentation engaging the audience and creating a memorable experience, though the success would depend on the authenticity and naturalness of the expression.",
+            "meaning_ko": "그 공연에서 명백했던 그 쾌활한 자신감은 편안함과 즐거움의 감각을 만들었고, 그 쾌활하고 활기찬 표현이 관객을 참여시키고 기억에 남는 경험을 만들었지만, 그 성공은 그 표현의 진정성과 자연스러움에 달려있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "jaunty는 '쾌활한, 경쾌한' 또는 '기운찬, 활기찬' 의미로, 쾌활하거나 경쾌한 상태를 가리킵니다. cheerful, lively와 비슷하지만 더 경쾌하고 자신감 있는 뉘앙스가 있습니다. jaunty in ~, jaunty walk 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: jaunty = (A) gloomy (B) cheerful or lively (C) melancholy (D) sad",
+            "a": "B",
+            "meaning_ko": "jaunty는 '쾌활한 또는 활기찬' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He walked with a _____ step.",
+            "a": "jaunty",
+            "meaning_ko": "jaunty는 '경쾌한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of jaunty? (A) cheerful (B) lively (C) gloomy (D) sprightly",
+            "a": "C",
+            "meaning_ko": "gloomy(우울한)가 jaunty의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: jaunty _____ spirit. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "jaunty in ~는 '~에서 쾌활한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: jaunty = (A) gloomy (B) cheerful (C) melancholy (D) sad",
+            "a": "B",
+            "meaning_ko": "cheerful(쾌활한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was jaunty at mood.' → Fix the preposition.",
+            "a": "She was jaunty in mood.",
+            "meaning_ko": "jaunty in ~는 '~에서 쾌활한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He walked with a jaunty step.'",
+            "a": "He walked with a cheerful and confident stride, with his lively and optimistic movement creating a positive and energetic impression, though the sprightly walk would reflect his cheerful mood.",
+            "meaning_ko": "jaunty는 '경쾌한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She wore a _____ hat. (A) jaunty (B) jauntily (C) jauntiness (D) jaunty's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 jaunty가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses jaunty most appropriately? (A) The jaunty ran. (B) He walked with a jaunty step. (C) She jaunty smiled. (D) Jaunty is good.",
+            "a": "B",
+            "meaning_ko": "jaunty는 형용사로 '경쾌한'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "abnormal",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "비정상적인, 이상한; 정상이 아니거나 이상한.",
+        "note": "정상이 아니거나 이상한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "변칙적인, 규칙에 맞지 않는; 변칙적이거나 규칙에 맞지 않는.",
+        "note": "변칙적이거나 규칙에 맞지 않는 상태를 가리킵니다."
+      }
+    ],
+    "concept": "정상이 아니거나 이상한 비정상적인 상태, 또는 변칙적이거나 규칙에 맞지 않는 상태.",
+    "etymology": "라틴어 abnormis(비정상적인)에서 유래했으며, ab(떨어져) + norma(규칙)의 조합입니다.",
+    "semanticExtension": "원래는 '규칙에서 벗어난' 의미였고, 현대에는 '변칙적이거나 규칙에 맞지 않는'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용되며, 특히 의학과 과학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be abnormal 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 비정상적인",
+        "example": "abnormal for"
+      }
+    ],
+    "requiredComplements": [
+      "be abnormal : 비정상적이다",
+      "abnormal + 명사 : 비정상적인 ~",
+      "abnormal for + 명사 : ~에 비정상적인"
+    ],
+    "morphology": "라틴어 abnormis에서 유래한 단어로, ab(떨어져) + norma(규칙)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "abnormally",
+        "meaning_ko": "비정상적으로"
+      },
+      {
+        "word": "abnormality",
+        "meaning_ko": "비정상"
+      },
+      {
+        "word": "normal",
+        "meaning_ko": "정상적인"
+      }
+    ],
+    "related": [
+      {
+        "word": "irregular",
+        "meaning_ko": "불규칙한"
+      },
+      {
+        "word": "unusual",
+        "meaning_ko": "이상한"
+      },
+      {
+        "word": "atypical",
+        "meaning_ko": "비전형적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "irregular",
+        "meaning_ko": "불규칙한"
+      },
+      {
+        "word": "unusual",
+        "meaning_ko": "이상한"
+      },
+      {
+        "word": "atypical",
+        "meaning_ko": "비전형적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "deviant",
+        "meaning_ko": "일탈적인(범위가 더 넓음)"
+      },
+      {
+        "word": "anomalous",
+        "meaning_ko": "변칙적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "normal",
+        "meaning_ko": "정상적인"
+      },
+      {
+        "word": "typical",
+        "meaning_ko": "전형적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "abnormal for",
+            "meaning_ko": "~에 비정상적인"
+          },
+          {
+            "phrase": "abnormal behavior",
+            "meaning_ko": "비정상적인 행동"
+          },
+          {
+            "phrase": "abnormal condition",
+            "meaning_ko": "비정상적인 상태"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "abnormal growth",
+            "meaning_ko": "비정상적인 성장"
+          },
+          {
+            "phrase": "abnormal pattern",
+            "meaning_ko": "비정상적인 패턴"
+          },
+          {
+            "phrase": "abnormal result",
+            "meaning_ko": "비정상적인 결과"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "abnormal psychology",
+            "meaning_ko": "비정상 심리학"
+          },
+          {
+            "phrase": "abnormal development",
+            "meaning_ko": "비정상적인 발달"
+          },
+          {
+            "phrase": "abnormal function",
+            "meaning_ko": "비정상적인 기능"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The behavior was abnormal.",
+            "meaning_ko": "그 행동은 비정상적이었습니다."
+          },
+          {
+            "sentence": "She showed abnormal symptoms.",
+            "meaning_ko": "그녀는 비정상적인 증상을 보였습니다."
+          },
+          {
+            "sentence": "They found abnormal results.",
+            "meaning_ko": "그들은 비정상적인 결과를 발견했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The behavior was abnormal, with the unusual actions deviating from expected patterns and norms, though understanding the cause would require careful observation and analysis.",
+            "meaning_ko": "그 행동은 비정상적이었고, 그 이상한 행동이 예상된 패턴과 규범에서 벗어났지만, 그 원인을 이해하는 것은 신중한 관찰과 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She showed abnormal symptoms, with the atypical signs indicating potential health issues, though diagnosing the condition would require medical examination and evaluation.",
+            "meaning_ko": "그녀는 비정상적인 증상을 보였고, 그 비전형적인 징후가 잠재적 건강 문제를 나타냈지만, 그 상태를 진단하는 것은 의학적 검사와 평가를 요구할 것입니다."
+          },
+          {
+            "sentence": "They found abnormal results, with the irregular findings suggesting deviations from the norm, though interpreting the data would require comparison with standard values and further investigation.",
+            "meaning_ko": "그들은 비정상적인 결과를 발견했고, 그 불규칙한 발견이 규범에서의 편차를 시사했지만, 그 데이터를 해석하는 것은 표준 값과의 비교와 추가 조사를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The abnormal psychology that was studied in the research examined behaviors and patterns that deviated from typical mental functioning, with the investigation focusing on understanding conditions that fell outside normal parameters, though the field would require careful definition of what constituted normal versus abnormal.",
+            "meaning_ko": "그 연구에서 연구되었던 그 비정상 심리학은 전형적인 정신 기능에서 벗어난 행동과 패턴을 검사했고, 그 조사가 정상 범위 밖에 있는 상태를 이해하는 데 초점을 맞췄지만, 그 분야는 정상 대 비정상을 구성하는 것을 신중하게 정의하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The abnormal development that was observed in the study revealed patterns that differed from expected growth trajectories, with the atypical progression indicating potential issues that required intervention, though addressing these concerns would depend on early detection and appropriate support.",
+            "meaning_ko": "그 연구에서 관찰되었던 그 비정상적인 발달은 예상된 성장 궤적과 다른 패턴을 드러냈고, 그 비전형적인 진행이 개입이 필요한 잠재적 문제를 나타냈지만, 이러한 우려를 다루는 것은 조기 발견과 적절한 지원에 달려있을 것입니다."
+          },
+          {
+            "sentence": "The abnormal function that was identified in the system indicated a malfunction or deviation from expected operation, with the irregular performance creating concerns about reliability and effectiveness, though resolving the issue would require diagnosis and corrective measures.",
+            "meaning_ko": "그 시스템에서 확인되었던 그 비정상적인 기능은 예상된 작동에서의 오작동이나 편차를 나타냈고, 그 불규칙한 성능이 신뢰성과 효과에 대한 우려를 만들었지만, 그 문제를 해결하는 것은 진단과 수정 조치를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "abnormal는 '비정상적인, 이상한' 또는 '변칙적인, 규칙에 맞지 않는' 의미로, 정상이 아니거나 이상한 상태를 가리킵니다. irregular, unusual와 비슷하지만 더 의학적 뉘앙스가 있습니다. abnormal for ~, abnormal behavior 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "의학",
+      "과학",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: abnormal = (A) normal (B) irregular or unusual (C) typical (D) standard",
+            "a": "B",
+            "meaning_ko": "abnormal는 '불규칙한 또는 이상한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The behavior was _____.",
+            "a": "abnormal",
+            "meaning_ko": "abnormal는 '비정상적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of abnormal? (A) irregular (B) unusual (C) normal (D) atypical",
+            "a": "C",
+            "meaning_ko": "normal(정상적인)가 abnormal의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: abnormal _____ age. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "abnormal for ~는 '~에 비정상적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: abnormal = (A) normal (B) irregular (C) typical (D) standard",
+            "a": "B",
+            "meaning_ko": "irregular(불규칙한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The result was abnormal at age.' → Fix the preposition.",
+            "a": "The result was abnormal for age.",
+            "meaning_ko": "abnormal for ~는 '~에 비정상적인' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The behavior was abnormal.'",
+            "a": "The behavior was irregular and unusual, with the atypical actions deviating from expected patterns and norms, though understanding the cause would require careful observation and analysis.",
+            "meaning_ko": "abnormal는 '비정상적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She showed _____ symptoms. (A) abnormal (B) abnormally (C) abnormality (D) abnormal's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 abnormal가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses abnormal most appropriately? (A) The abnormal ran. (B) The behavior was abnormal. (C) She abnormal smiled. (D) Abnormal is good.",
+            "a": "B",
+            "meaning_ko": "abnormal는 형용사로 '비정상적인'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

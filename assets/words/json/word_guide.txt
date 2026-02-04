@@ -1,0 +1,105 @@
+{
+  "word": "",                              // 단어 표제어, 내가 직접 입력할 기본 형태(lemma), 소문자 영어로 1개만 작성
+  "partOfSpeech": [],                      // 가지는 "모든" 품사 정보 배열 (string[]); 예: ["noun","verb"]; 반드시 영어 소문자 품사명만 사용, 중복 없이)
+
+  "meanings": [                            // "모든" 단어 뜻 목록, 중요도 높은 의미가 앞에 오도록 정렬, 최소 1개 이상
+    {
+      "definition_ko": "",                 // 한국어 정의(직역 + 자연스러운 뜻풀이, 단어 뜻)
+      "note": ""                           // 간단한 한국어 보조 설명(뉘앙스/용법/주의점 등, 필요 없으면 ""로 비워두기)
+    }
+  ],
+
+  "concept": "",                           // 핵심 개념 한 줄 요약(한국어 한 문장, 이 단어를 직관적으로 설명하는 문장)
+  "etymology": "",                         // 어원·역사적 변천(한국어, 어떤 언어/어근에서 왔는지·어떻게 의미가 변했는지; 모르면 "자세한 어원 정보 없음" 등으로 명시)
+  "semanticExtension": "",                 // 의미 확장·비유적 쓰임(한국어, 직의 → 비유·추상적 의미로 어떻게 확장되었는지; 없으면 "주요 비유적 확장 없음" 등)
+  "nuanceRegister": "",                    // 뉘앙스·레지스터(격식/구어/문어/문학적/전문용어/슬랭 등 사용 분위기, 한국어로 간단히 정리)
+  "grammarNotes": "",                      // 문법적 특징(한국어, 자동사/타동사, 3인칭 단수 -s, 전치사 동반, 수일치, 자주 쓰이는 구문 등; 핵심 정보만)
+
+  "transitivity": "",                      // 자동사/타동사 여부(예: "자동사", "타동사", "자동사·타동사 모두", 형용사·명사 등 해당 없으면 "해당 없음"이라고 명시)
+
+  "countability": "",                      // 가산/불가산 여부(예: "가산명사", "불가산명사", "가산·불가산 모두", 동사·형용사 등 해당 없으면 "해당 없음"이라고 명시)
+
+  "prepositionPatterns": [                 // 단어가 전치사와 함께 자주 쓰이는 "모든" 패턴 목록(명사/동사/형용사에 한해 작성, 없으면 빈 배열 [])
+    {
+      "prep": "",                          // 전치사 (예: "in", "on", "at", "to" 등, 영어 소문자)
+      "meaning_ko": "",                    // 해당 전치사와 함께 쓸 때의 한국어 의미·뉘앙스(짧게)
+      "example": ""                        // 짧은 예시 구문(문장 전체가 아니라 패턴 중심; 예: "arrive at the harbor")
+    }
+  ],
+
+  "requiredComplements": [],               // "모든" 필수 보어·뒤따르는 패턴(예: "harbor + feeling", "depend on + 명사", "insist that + S V" 등, 영문 패턴 + 한국어 설명을 함께 작성)
+
+  "morphology": "",                        // 형태론 정보(접두사·어근·접미사 분석, 각 구성 요소 의미를 한국어로 설명; 정보 부족 시 추측 대신 "간단한 구성 설명" 정도로만)
+
+  "derivatives": [                         // 파생어 목록, 최대 5개 정도(어근이 같은 대표 단어들; 없으면 빈 배열 [])
+    { "word": "", "meaning_ko": "" }       // 파생어(영어 단어)와 그 한국어 뜻(핵심 의미 한 줄)
+  ],
+
+  "related": [                             // 관련 단어(의미·주제상 연관된 어휘), 최대 5개(동의어가 아니어도 됨; 없으면 빈 배열 [])
+    { "word": "", "meaning_ko": "" }       // 단어(영어) + 한국어 뜻
+  ],
+
+  "synonyms": [                            // 동의어(의미가 거의 같은 단어), 최대 5개(없으면 빈 배열 [])
+    { "word": "", "meaning_ko": "" }       // 단어(영어) + 한국어 뜻
+  ],
+
+  "nearSynonyms": [                        // 유사어(완전 동의는 아니지만 비슷한 느낌의 단어), 최대 5개(없으면 빈 배열 [])
+    { "word": "", "meaning_ko": "" }       // 단어(영어) + 한국어 뜻
+  ],
+
+  "antonyms": [                            // 반의어(의미가 반대인 단어), 최대 5개(없으면 빈 배열 [])
+    { "word": "", "meaning_ko": "" }       // 단어(영어) + 한국어 뜻
+  ],
+
+  "collocations": [                        // 연어(자주 함께 쓰이는 표현). 가능하면 "상"/"중"/"하" 3개 레벨 모두 넣기. 각 레벨마다 3개 이상을 목표로 하되, 부족하면 가능한 만큼 작성
+    {
+      "level": "",                         // 난이도: 반드시 "상" / "중" / "하" 중 하나만 사용
+      "items": [
+        { "phrase": "", "meaning_ko": "" } // 실제 자주 쓰이는 구(phrase, 영어) + 한국어 의미. 너무 긴 문장 대신 짧은 표현 위주
+      ]
+    }
+  ],
+
+  "examples": [                            // 예문 목록. 가능하면 "상"/"중"/"하" 3개 레벨 모두 포함, 각 레벨마다 3문장을 목표로 작성(부족하면 가능한 만큼)
+    {
+      "level": "",                         // 난이도: 반드시 "상" / "중" / "하" 중 하나
+      "items": [
+        {
+          "sentence": "",                  // 예문(자연스러운 실제 영어 문장; 시험·실전에서 쓸 수 있는 표현 위주)
+          "meaning_ko": ""                 // 예문의 자연스러운 한국어 번역(직역 + 자연스러운 의역 느낌)
+        }
+      ]
+    }
+  ],
+
+  "studyTips": "",                         // 학습 팁(한국어. 혼동되는 단어 비교, 기억법, 시험 포인트, 자주 출제되는 패턴 등 구체적으로 2~3문장 이상)
+
+  "tags": [],                              // 태그/분야 분류(예: ["항구","지리","해양","일상 회화"] 처럼 한국어 명사·구 형태로, 의미·용도 기준으로 자유롭게 분류)
+
+  "frequency": "",                         // 사용 빈도: "상" / "중" / "하" 중 하나만 사용(일상 노출·코퍼스 빈도를 감으로 분류; 혼용 없이 일정하게 유지)
+
+  "difficulty": "",                        // 난이도: 1~10 사이 정수로만 작성(1 = 매우 쉬움, 10 = 매우 어려움; 한자/한글 등 다른 형식 사용 금지)
+
+  "quiz": [                                // 난이도별 퀴즈, 가능하면 상/중/하 각각 3개 이상(QA 형식). 어휘, 문법, 배열, 삽입, 독해, 빈칸, 문장, 오류, 듣기, 작문, 논리 등 다양하게 출제
+    {
+      "level": "",                         // 난이도: 반드시 "상" / "중" / "하" 중 하나
+      "items": [
+        {
+          "q": "",                         // 질문(영어로 출제. 객관식이면 보기까지, 빈칸 문제면 빈칸 포함 문장 작성)
+          "a": "",                         // 정답(단어/구/문장 등 영어로 작성)
+          "meaning_ko": ""                 // 질문 또는 정답에 대한 한국어 해석·설명(왜 이게 정답인지 간단히)
+        }
+      ]
+    }
+  ]
+}
+
+단어 리스트에 대해서 다음으로 넘어갈떄마다 답변 퀄리티가 낮아지는 현상이 있는데, 절대로 그러면 안됨. 주의
+단어를 3개씩 끊어서 json으로 만들기
+
+generous, rampant, accentuate, elegy, magnificent, henceforth, taboo, saline, palliative, cajole, edible, scrutinize, anecdote, sloppy, witness, identity, bigoted, sentient, renovate, memento, negligible, dazzle, quadruple, plead, cronyism, implore, feature, thorny, border, specify, debris, endue, lethargic, obesity, incandescent, fundamental, solecism, abash, charity, discreet, vitiate, utility, ascetic, drawback, lodge, coherent, placebo, mulct, bliss, prompt, harmful, sanctuary, ebullient, peccadillo, abut, dilettante, ransack, palpable, callow, embrace, nadir, martinet, pinpoint, bare, skim, efficient, lack, tentative, mitigate, sensible, drizzle, impeccable, equation, debilitate, ambience, coerce, retinue, undaunted, bleach, quest, infest, satisfaction, appellation, officiate, ingredient, snowball, comodity, abruptly, plethora, specious, fragrant, genocide, vehement, ordeal, confidential, morale, topple, hiatus, laboratory, blur, 
+bizarre, trailblazer, messy, calibrate, pandemonium, rancid, sequester, opponent, expenditure, impart, furious, bode, plastic, motley, taciturn, embellish, scutpture, distraught, reside, laity, sluggish, pensive, active, chivalry, everlasting, sangfroid, undercover, physiognomy, demote, heave, gaiety colloquial, withhold, allowance, immense, snap, brim, dilatory, cozy, investigation, verbal, jargon, arrogate, manufacture, duel, vengeful, fidelity, linger, austerity, spare, temporary, abode, recalcitrant, counterfeit, galvanize, onslaught, impending, delinquent, majesty, adjourn, emissary, merciless, utmost, panacea, channel, raft, eligible, sacrilege, facetious, pediatrician, boost, analogous, scare, excoriate, phenomenal, neologism, social, translate, wirepuller, inspect, slipshod, heckle, vacuous, mutiny, debar, keen, shudder, carnage, poise, intermingle, annoyance, drowsy, freeze, lecherous, sprawl, backbone, haphazard, complicit, disquisition, applaud,
+aboriginal, recourse, ubiquitous, taint, lassitude, perpendicular, serpentine, enact, middle-of-the-road, outcast, barren, pragmatism, scarce, rubicund, decipher, comparison, eclectic, paralyze, monopoly, somber, aggrandize, diametric, howl, alert, puny, segment, estate, quake, nebulous, dull, censure, immutable, ferment, spew, opportune, tenement, liquidate, dynasty, gild, collision, via, shield, intermission, assume, filibuster, blot, contiguous, indict, apothecary, stash, complacent, abduct, metaphysics, excessive, satiate, yen, plague, deciduous, impugn, optimistic, spleen, elongate, inchoate, charlatan, whine, terse, comment, maladroit, deform, hub, garrulous, prose, idyllic, ravage, embargo, sober, tickle, niche, annihilate, standstill, redoutable, mobile, pacify, cacophony, disguise, seismic, favorable, herculean, ventilate, fortress, pharisaic, sphere, brag, dole, appraise, urgent, local, benefactor, abundant, decoy, 
+periodic, dank, obey, lopsided, jaunty, abnormal, sanctity, miserly, electrify, noblesse oblige, shrink, circumscribe, whimsical, tactless, confide, plutocracy, blanch, seamless, egregious, glitch, mete, internal, aim, creed, oppressive, slay, career, incipient, mammal, disingenuous, preserve, specimen, annotate, ensemble, torture, bulk, reciprocal, deity, furnish, vintage, humble, dominate, libertine, despot, feeble, imperil, backwater, adapt, script, ramble, harness, impetuous, manifesto, rehearse, commotion, numerouse, sequel, distinguish, partisan, additives, qualify, generic, sanguine, elixir, abound, underdog, tedious, bequeath, entry, laudatory, soil, pittance, venerate, thesis, discipline, posthumous, shed, hirsute, instinct, condescend, apathetic, perjury, stealthy, excel, depredation, contemn, vendor, faithful, asseverate, candid, sophist, rally, bout, ogle, legend, inculcate, dejected, marvel, advert, miserable, 
+weird, impede, deleterious, rate, sardonic, throe, moral, gnaw, regimen, slack, complicated, neophyte, old-fashioned, dirge, permeate, identical, spate, bother, fiesta, effete, possess, indignation, acquaint, pliant, stiff, haul, courteous, emanate, ken, maudlin, roosen, solstice, authentic, behemoth, abstract, germane, vaccination, tantalize, default, alienate, megalomania, compliment, lackluster, fallacy, cavernous, essential, shrill, anthem, dispense, pantry, clarify, metaphor, irate, vague, recount, stud, pollutant, ensnare, skimp, heathen, factor, salient, malicious, pose, referendum, diction, acquit, subsidy, empirical, oblation, decimate, implicit, misprision, jaundiced, rob, argument, bigotry, lament, connotation, insert, fecund, demonstrate, necrology, arbitrary, gear, unanimous, telepath, condense, dementia, scrupulous, behoove, latitude, tranquil, omniscient, avenge, eerie, paradigm., cantankerous, painstaking, hedonism, 
+quaint, epicure, autocratic, proponent, obtain, concave, sibling, rapacious, intervene, bombastic, decline, impertinent, scatter, vertex, aberrant, interact, sly, casuistry, torment, tegitimate, second-hand, percussion, relapse, manumit, diabolical, spillover, gainsay, barrack, sapient, pillage, desolate, various, flatter, economical, tavern, assure, colossal, nepotism, weld, adversity, mandatory, high-end, emulate, logomachy, cheat, parochial, determination, accumulate, mien, far-fetched, clumsy, decry, introduction, viable, backfire, underpinning, tender, scapegoat, doublespeak, quantify, perigee, squeeze, aisle, naive, detached, incite, plaintive, hemorrhage, snatch, affable, massacre, poll, effulgent, recapitulate, opium, meditate, ransom, tantamount, load, concoct, skeptical, formula, hazardous, saunter, monotheism, elucidate, passionate, choreography, atone, global, falsify, bivouac, odd, somersault, ethos, immediate, thread, accommodate, coffin, dissension.

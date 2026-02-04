@@ -1,0 +1,812 @@
+[
+  {
+    "word": "ascetic",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "금욕적인, 고행의; 쾌락을 피하고 엄격한 생활을 하는.",
+        "note": "형용사로는 '금욕적인', 명사로는 '금욕주의자' 의미입니다."
+      },
+      {
+        "definition_ko": "금욕주의자, 고행자; 쾌락을 피하고 엄격한 생활을 하는 사람.",
+        "note": "명사로는 '금욕주의자'를 의미합니다."
+      }
+    ],
+    "concept": "쾌락을 피하고 엄격한 생활을 하는 금욕적인 상태, 또는 그런 사람.",
+    "etymology": "그리스어 asketes(수행자, 고행자)에서 유래했으며, 원래는 '수행자' 의미였으나 현대에는 '금욕주의자'로 확장되었습니다.",
+    "semanticExtension": "원래는 '수행자' 의미였으나, 현대에는 '쾌락을 피하고 엄격한 생활을 하는 사람'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "격식 있는 문어·철학·종교 용어로, 일상 회화에서는 덜 흔합니다.",
+    "grammarNotes": "형용사로는 명사를 수식하거나 서술어로 쓰이며, 명사로는 가산명사로 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사일 때)",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "ascetic + 명사 : 금욕적인 ~",
+      "ascetic lifestyle : 금욕적 생활"
+    ],
+    "morphology": "그리스어 asketes에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "ascetically",
+        "meaning_ko": "금욕적으로"
+      },
+      {
+        "word": "asceticism",
+        "meaning_ko": "금욕주의"
+      }
+    ],
+    "related": [
+      {
+        "word": "austere",
+        "meaning_ko": "엄격한"
+      },
+      {
+        "word": "self-denying",
+        "meaning_ko": "자기 부정의"
+      },
+      {
+        "word": "monastic",
+        "meaning_ko": "수도원의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "austere",
+        "meaning_ko": "엄격한"
+      },
+      {
+        "word": "self-denying",
+        "meaning_ko": "자기 부정의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "monastic",
+        "meaning_ko": "수도원의(범위가 더 넓음)"
+      },
+      {
+        "word": "spartan",
+        "meaning_ko": "스파르타식의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "indulgent",
+        "meaning_ko": "방종한"
+      },
+      {
+        "word": "luxurious",
+        "meaning_ko": "사치스러운"
+      },
+      {
+        "word": "hedonistic",
+        "meaning_ko": "쾌락주의의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ascetic lifestyle",
+            "meaning_ko": "금욕적 생활"
+          },
+          {
+            "phrase": "ascetic life",
+            "meaning_ko": "금욕적 삶"
+          },
+          {
+            "phrase": "ascetic practices",
+            "meaning_ko": "금욕적 실천"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ascetic discipline",
+            "meaning_ko": "금욕적 훈련"
+          },
+          {
+            "phrase": "ascetic tradition",
+            "meaning_ko": "금욕적 전통"
+          },
+          {
+            "phrase": "ascetic monk",
+            "meaning_ko": "금욕적 수도사"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ascetic philosophy",
+            "meaning_ko": "금욕 철학"
+          },
+          {
+            "phrase": "ascetic renunciation",
+            "meaning_ko": "금욕적 포기"
+          },
+          {
+            "phrase": "ascetic meditation",
+            "meaning_ko": "금욕적 명상"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He lived an ascetic lifestyle.",
+            "meaning_ko": "그는 금욕적 생활을 했습니다."
+          },
+          {
+            "sentence": "The ascetic monk renounced worldly pleasures.",
+            "meaning_ko": "그 금욕적 수도사는 세속적 쾌락을 포기했습니다."
+          },
+          {
+            "sentence": "She followed ascetic practices.",
+            "meaning_ko": "그녀는 금욕적 실천을 따랐습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The ascetic discipline required great self-control.",
+            "meaning_ko": "그 금욕적 훈련은 큰 자제력을 요구했습니다."
+          },
+          {
+            "sentence": "The ascetic tradition has been practiced for centuries.",
+            "meaning_ko": "그 금욕적 전통은 수세기 동안 실천되어 왔습니다."
+          },
+          {
+            "sentence": "The philosopher advocated an ascetic approach to life.",
+            "meaning_ko": "그 철학자는 금욕적 삶의 접근을 주장했습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ascetic philosophy emphasizes renunciation of material desires as a path to spiritual enlightenment.",
+            "meaning_ko": "그 금욕 철학은 영적 깨달음의 길로서 물질적 욕망의 포기를 강조합니다."
+          },
+          {
+            "sentence": "The ascetic renunciation of comfort and luxury was seen as a means of achieving inner peace.",
+            "meaning_ko": "편안함과 사치의 금욕적 포기는 내적 평화를 달성하는 수단으로 여겨졌습니다."
+          },
+          {
+            "sentence": "Through ascetic meditation and self-discipline, the practitioner sought to transcend physical limitations.",
+            "meaning_ko": "금욕적 명상과 자기 훈련을 통해 수행자는 물리적 한계를 초월하려고 했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ascetic은 '금욕적인' 또는 '금욕주의자' 의미로, 쾌락을 피하고 엄격한 생활을 하는 것을 가리킵니다. austere, self-denying과 비슷하지만 더 격식 있고 종교적 뉘앙스가 있습니다. 철학이나 종교 지문에서 자주 나오므로, 이런 문맥에서 '금욕적'과 연결되면 ascetic으로 해석하면 됩니다.",
+    "tags": [
+      "철학",
+      "종교",
+      "금욕",
+      "격식",
+      "문어"
+    ],
+    "frequency": "하",
+    "difficulty": 8,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: ascetic = (A) luxurious (B) self-denying and austere (C) indulgent (D) hedonistic",
+            "a": "B",
+            "meaning_ko": "ascetic은 '자기 부정적이고 엄격한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He lived an _____ lifestyle.",
+            "a": "ascetic",
+            "meaning_ko": "ascetic은 '금욕적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of ascetic? (A) austere (B) indulgent (C) self-denying (D) monastic",
+            "a": "B",
+            "meaning_ko": "indulgent(방종한)가 ascetic의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the best completion: The _____ monk renounced pleasures. (A) ascetic (B) ascetically (C) asceticism (D) ascetics",
+            "a": "A",
+            "meaning_ko": "monk를 수식하는 형용사 ascetic이 필요합니다."
+          },
+          {
+            "q": "Pick the best synonym: ascetic = (A) luxurious (B) austere (C) indulgent (D) hedonistic",
+            "a": "B",
+            "meaning_ko": "austere(엄격한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The lifestyle is ascetic.' → Is this correct?",
+            "a": "Yes, this is correct.",
+            "meaning_ko": "ascetic은 형용사로 서술어로 쓰일 수 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The ascetic philosophy emphasizes renunciation.'",
+            "a": "The self-denying and austere philosophy stresses giving up material desires.",
+            "meaning_ko": "ascetic philosophy는 '금욕 철학'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ tradition has been practiced. (A) ascetic (B) ascetically (C) asceticism (D) ascetics",
+            "a": "A",
+            "meaning_ko": "tradition을 수식하는 형용사 ascetic이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses ascetic most appropriately? (A) The ascetic ran. (B) He lived an ascetic life. (C) She ascetic smiled. (D) Ascetic is good.",
+            "a": "B",
+            "meaning_ko": "ascetic은 형용사로 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "drawback",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "단점, 불리한 점; 어떤 것의 부정적 측면이나 문제점.",
+        "note": "어떤 것의 단점이나 불리한 점을 가리킵니다."
+      }
+    ],
+    "concept": "어떤 것의 부정적 측면이나 문제점인 단점.",
+    "etymology": "draw(끌다) + back(뒤로)의 결합으로, '뒤로 끌다'에서 '방해하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '뒤로 끌다' 의미였으나, 현대에는 '단점, 불리한 점'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "가산명사로 a drawback, drawbacks 형태로 쓰입니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 단점",
+        "example": "drawback of the plan"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에 대한 단점",
+        "example": "drawback to using"
+      }
+    ],
+    "requiredComplements": [
+      "drawback of/to + 명사 : ~의/~에 대한 단점"
+    ],
+    "morphology": "draw(끌다) + back(뒤로)의 결합으로, '뒤로 끌다'에서 '방해하다'로 확장되었습니다.",
+    "derivatives": [],
+    "related": [
+      {
+        "word": "disadvantage",
+        "meaning_ko": "불리한 점"
+      },
+      {
+        "word": "flaw",
+        "meaning_ko": "결함"
+      },
+      {
+        "word": "weakness",
+        "meaning_ko": "약점"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "disadvantage",
+        "meaning_ko": "불리한 점"
+      },
+      {
+        "word": "flaw",
+        "meaning_ko": "결함"
+      },
+      {
+        "word": "weakness",
+        "meaning_ko": "약점"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "problem",
+        "meaning_ko": "문제(범위가 더 넓음)"
+      },
+      {
+        "word": "limitation",
+        "meaning_ko": "제한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "advantage",
+        "meaning_ko": "장점"
+      },
+      {
+        "word": "benefit",
+        "meaning_ko": "이점"
+      },
+      {
+        "word": "strength",
+        "meaning_ko": "강점"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "main drawback",
+            "meaning_ko": "주요 단점"
+          },
+          {
+            "phrase": "major drawback",
+            "meaning_ko": "큰 단점"
+          },
+          {
+            "phrase": "drawback of the plan",
+            "meaning_ko": "계획의 단점"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "drawback to using",
+            "meaning_ko": "사용에 대한 단점"
+          },
+          {
+            "phrase": "significant drawback",
+            "meaning_ko": "중요한 단점"
+          },
+          {
+            "phrase": "overcome drawbacks",
+            "meaning_ko": "단점을 극복하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "drawback outweighs benefits",
+            "meaning_ko": "단점이 이점을 능가하다"
+          },
+          {
+            "phrase": "inherent drawback",
+            "meaning_ko": "고유한 단점"
+          },
+          {
+            "phrase": "drawback of the methodology",
+            "meaning_ko": "방법론의 단점"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The main drawback of the plan is its cost.",
+            "meaning_ko": "그 계획의 주요 단점은 비용입니다."
+          },
+          {
+            "sentence": "One drawback to using this method is the time it takes.",
+            "meaning_ko": "이 방법을 사용하는 것의 한 단점은 걸리는 시간입니다."
+          },
+          {
+            "sentence": "The major drawback was the lack of support.",
+            "meaning_ko": "큰 단점은 지원 부족이었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The significant drawback of the new system is its complexity.",
+            "meaning_ko": "새 시스템의 중요한 단점은 그 복잡성입니다."
+          },
+          {
+            "sentence": "They tried to overcome the drawbacks of the original design.",
+            "meaning_ko": "그들은 원래 디자인의 단점을 극복하려고 했습니다."
+          },
+          {
+            "sentence": "The drawback to relying on this approach is its unpredictability.",
+            "meaning_ko": "이 접근법에 의존하는 것의 단점은 그 예측 불가능성입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The inherent drawback of the methodology limits its applicability across different contexts.",
+            "meaning_ko": "그 방법론의 고유한 단점은 다양한 맥락에서의 적용 가능성을 제한합니다."
+          },
+          {
+            "sentence": "Critics argue that the drawback outweighs the benefits, making the proposal unviable.",
+            "meaning_ko": "비평가들은 단점이 이점을 능가하여 제안을 실행 불가능하게 만든다고 주장합니다."
+          },
+          {
+            "sentence": "The research identified several drawbacks of the current framework that need to be addressed in future iterations.",
+            "meaning_ko": "그 연구는 향후 반복 작업에서 해결해야 할 현재 프레임워크의 여러 단점을 확인했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "drawback은 '단점, 불리한 점' 의미로, 매우 자주 쓰이는 단어입니다. disadvantage, flaw와 비슷하지만 더 일상적 표현입니다. advantage(장점)와 대비해서 외우면 기억이 오래갑니다. drawback of/to ~ 패턴을 함께 외우면 실전에서 바로 활용할 수 있습니다.",
+    "tags": [
+      "단점",
+      "평가",
+      "일상 회화",
+      "비즈니스",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: drawback = (A) advantage (B) disadvantage or flaw (C) benefit (D) strength",
+            "a": "B",
+            "meaning_ko": "drawback은 '불리한 점 또는 결함' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The main _____ of the plan is its cost.",
+            "a": "drawback",
+            "meaning_ko": "drawback은 '단점'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of drawback? (A) disadvantage (B) advantage (C) flaw (D) weakness",
+            "a": "B",
+            "meaning_ko": "advantage(장점)가 drawback의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: drawback _____ the plan. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "drawback of ~는 '~의 단점' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: drawback = (A) advantage (B) disadvantage (C) benefit (D) strength",
+            "a": "B",
+            "meaning_ko": "disadvantage(불리한 점)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The drawback of plan is cost.' → Fix the sentence.",
+            "a": "The drawback of the plan is cost.",
+            "meaning_ko": "plan에 관사 the가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The drawback outweighs the benefits.'",
+            "a": "The disadvantage is more significant than the advantages, making it unfavorable.",
+            "meaning_ko": "drawback outweighs benefits는 '단점이 이점을 능가하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The _____ of the methodology limits applicability. (A) drawback (B) drawbacks (C) drawbacked (D) drawbacking",
+            "a": "A",
+            "meaning_ko": "단점 하나를 의미하므로 단수형 drawback이 적절합니다."
+          },
+          {
+            "q": "Which sentence uses drawback most appropriately? (A) The drawback ran. (B) The plan has drawbacks. (C) She drawback smiled. (D) Drawback is good.",
+            "a": "B",
+            "meaning_ko": "drawback은 명사로 '단점'을 의미하며, have와 자연스럽게 연결됩니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "lodge",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "숙소, 오두막; 산이나 숲에 있는 작은 집이나 숙박 시설.",
+        "note": "명사로는 '숙소', 동사로는 '숙박시키다/제기하다' 의미입니다."
+      },
+      {
+        "definition_ko": "숙박시키다, 머물게 하다; 누군가를 숙소에 머물게 하다.",
+        "note": "동사로는 '숙박시키다' 의미입니다."
+      },
+      {
+        "definition_ko": "제기하다, 제출하다; 불만이나 항의를 공식적으로 제기하다.",
+        "note": "동사로는 '제기하다' 의미입니다."
+      }
+    ],
+    "concept": "산이나 숲에 있는 작은 집이나 숙박 시설, 또는 누군가를 숙박시키거나 불만을 제기하는 것.",
+    "etymology": "고대 프랑스어 loge(오두막)에서 유래했으며, 원래는 '오두막' 의미였으나 현대에는 '숙소' 또는 '제기하다'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '오두막' 의미였으나, 현대에는 '숙소' 또는 '불만을 제기하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사이며, 동사로는 타동사와 자동사 모두 가능합니다(lodge + 명사 / lodge at/in + 명사).",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에 숙박하다",
+        "example": "lodge at a hotel"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에 머물다",
+        "example": "lodge in the memory"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~에게 제기하다",
+        "example": "lodge a complaint with"
+      }
+    ],
+    "requiredComplements": [
+      "lodge + 명사 : ~을 숙박시키다/제기하다",
+      "lodge at/in + 명사 : ~에 숙박하다/머물다",
+      "lodge + 명사 + with + 명사 : ~에게 ~을 제기하다"
+    ],
+    "morphology": "고대 프랑스어 loge에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "lodging",
+        "meaning_ko": "숙박"
+      },
+      {
+        "word": "lodged",
+        "meaning_ko": "숙박한/제기된(과거분사/형용사)"
+      },
+      {
+        "word": "lodger",
+        "meaning_ko": "하숙인"
+      }
+    ],
+    "related": [
+      {
+        "word": "accommodate",
+        "meaning_ko": "숙박시키다"
+      },
+      {
+        "word": "file",
+        "meaning_ko": "제출하다"
+      },
+      {
+        "word": "submit",
+        "meaning_ko": "제출하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "accommodate",
+        "meaning_ko": "숙박시키다(동사 의미에서)"
+      },
+      {
+        "word": "file",
+        "meaning_ko": "제출하다(동사 의미에서)"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "cabin",
+        "meaning_ko": "오두막(명사 의미에서)"
+      },
+      {
+        "word": "submit",
+        "meaning_ko": "제출하다(범위가 더 넓음)"
+      }
+    ],
+    "antonyms": [],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "hunting lodge",
+            "meaning_ko": "사냥 오두막"
+          },
+          {
+            "phrase": "lodge a complaint",
+            "meaning_ko": "불만을 제기하다"
+          },
+          {
+            "phrase": "lodge at a hotel",
+            "meaning_ko": "호텔에 숙박하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ski lodge",
+            "meaning_ko": "스키 오두막"
+          },
+          {
+            "phrase": "lodge an appeal",
+            "meaning_ko": "항소를 제기하다"
+          },
+          {
+            "phrase": "lodge in memory",
+            "meaning_ko": "기억에 남다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "lodge a formal protest",
+            "meaning_ko": "공식 항의를 제기하다"
+          },
+          {
+            "phrase": "lodge with authorities",
+            "meaning_ko": "당국에 제기하다"
+          },
+          {
+            "phrase": "lodge in the mind",
+            "meaning_ko": "마음에 깊이 박히다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They stayed at a hunting lodge in the mountains.",
+            "meaning_ko": "그들은 산에 있는 사냥 오두막에 머물렀습니다."
+          },
+          {
+            "sentence": "She lodged a complaint with the manager.",
+            "meaning_ko": "그녀는 관리자에게 불만을 제기했습니다."
+          },
+          {
+            "sentence": "We lodged at a small hotel.",
+            "meaning_ko": "우리는 작은 호텔에 숙박했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The ski lodge provided comfortable accommodation for winter visitors.",
+            "meaning_ko": "그 스키 오두막은 겨울 방문객들에게 편안한 숙박을 제공했습니다."
+          },
+          {
+            "sentence": "The defendant lodged an appeal against the court's decision.",
+            "meaning_ko": "피고인은 법원의 결정에 대해 항소를 제기했습니다."
+          },
+          {
+            "sentence": "The memory of that day lodged in her mind for years.",
+            "meaning_ko": "그날의 기억이 수년간 그녀의 마음에 남아있었습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The organization lodged a formal protest with the authorities regarding the policy change.",
+            "meaning_ko": "그 조직은 정책 변화에 대해 당국에 공식 항의를 제기했습니다."
+          },
+          {
+            "sentence": "The traumatic experience lodged in the patient's mind, affecting their behavior for decades.",
+            "meaning_ko": "그 외상적 경험이 환자의 마음에 깊이 박혀 수십 년간 그들의 행동에 영향을 미쳤습니다."
+          },
+          {
+            "sentence": "Citizens lodged multiple complaints with the regulatory body, demanding action on environmental violations.",
+            "meaning_ko": "시민들은 환경 위반에 대한 조치를 요구하며 규제 기관에 여러 불만을 제기했습니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "lodge은 '숙소' 또는 '숙박시키다/제기하다' 의미로, 명사와 동사 모두로 쓰입니다. 명사로는 '산이나 숲에 있는 작은 집', 동사로는 '숙박시키다' 또는 '불만을 제기하다' 의미입니다. lodge a complaint(불만 제기) 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "숙박",
+      "법률",
+      "일상 회화",
+      "여행",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: lodge (verb) = (A) leave (B) stay or file a complaint (C) forget (D) ignore",
+            "a": "B",
+            "meaning_ko": "lodge(동사)는 '숙박하다 또는 불만을 제기하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They stayed at a hunting _____.",
+            "a": "lodge",
+            "meaning_ko": "lodge(명사)는 '오두막'을 의미합니다."
+          },
+          {
+            "q": "Which phrase means 'file a complaint'? (A) lodge a complaint (B) lodge at hotel (C) lodge in memory (D) lodge with friend",
+            "a": "A",
+            "meaning_ko": "lodge a complaint는 '불만을 제기하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: lodge _____ a hotel. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "lodge at ~는 '~에 숙박하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: lodge (verb, stay) = (A) leave (B) accommodate (C) forget (D) ignore",
+            "a": "B",
+            "meaning_ko": "accommodate(숙박시키다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She lodged complaint with the manager.' → Fix the sentence.",
+            "a": "She lodged a complaint with the manager.",
+            "meaning_ko": "complaint는 가산명사이므로 관사 a가 필요합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They lodged a formal protest with authorities.'",
+            "a": "They submitted an official complaint to the regulatory body.",
+            "meaning_ko": "lodge a protest with ~는 '~에게 공식 항의를 제기하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: The memory _____ in her mind. (A) lodge (B) lodged (C) lodging (D) lodges",
+            "a": "B",
+            "meaning_ko": "과거 시제에서 타동사 lodged가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses lodge most appropriately? (A) The lodge ran. (B) They lodged at a hotel. (C) She lodge smiled. (D) Lodge is good.",
+            "a": "B",
+            "meaning_ko": "lodge은 자동사로 '~에 숙박하다' 의미로 쓰입니다."
+          }
+        ]
+      }
+    ]
+  }
+]
