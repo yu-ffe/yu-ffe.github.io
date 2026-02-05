@@ -1,0 +1,797 @@
+[
+  {
+    "word": "mandatory",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "의무적인, 필수의; 의무적이거나 필수의.",
+        "note": "의무적이거나 필수의 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "강제적인, 필수적인; 강제적이거나 필수적인.",
+        "note": "강제적이거나 필수적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "의무적이거나 필수의 상태, 또는 강제적이거나 필수적인 상태.",
+    "etymology": "라틴어 mandare(명령하다)에서 유래했으며, '명령하다' 의미에서 '의무적인' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '명령하다' 의미였고, 현대에는 '의무적인' 또는 '필수의'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be mandatory 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에게 의무적인",
+        "example": "mandatory for"
+      }
+    ],
+    "requiredComplements": [
+      "be mandatory : 의무적이다",
+      "mandatory + 명사 : 의무적인 ~",
+      "mandatory for + 명사 : ~에게 의무적인"
+    ],
+    "morphology": "라틴어 mandare에서 유래한 단어로, '명령하다' 의미에서 '의무적인' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "mandatorily",
+        "meaning_ko": "의무적으로"
+      },
+      {
+        "word": "mandate",
+        "meaning_ko": "명령"
+      }
+    ],
+    "related": [
+      {
+        "word": "required",
+        "meaning_ko": "필수의"
+      },
+      {
+        "word": "compulsory",
+        "meaning_ko": "의무적인"
+      },
+      {
+        "word": "obligatory",
+        "meaning_ko": "의무적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "required",
+        "meaning_ko": "필수의"
+      },
+      {
+        "word": "compulsory",
+        "meaning_ko": "의무적인"
+      },
+      {
+        "word": "obligatory",
+        "meaning_ko": "의무적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "essential",
+        "meaning_ko": "필수적인(범위가 더 넓음)"
+      },
+      {
+        "word": "necessary",
+        "meaning_ko": "필수의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "optional",
+        "meaning_ko": "선택적인"
+      },
+      {
+        "word": "voluntary",
+        "meaning_ko": "자발적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "mandatory for",
+            "meaning_ko": "~에게 의무적인"
+          },
+          {
+            "phrase": "mandatory requirement",
+            "meaning_ko": "의무적인 요구사항"
+          },
+          {
+            "phrase": "mandatory training",
+            "meaning_ko": "의무적인 훈련"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "mandatory for employees",
+            "meaning_ko": "그 직원들에게 의무적인"
+          },
+          {
+            "phrase": "mandatory course",
+            "meaning_ko": "의무적인 과정"
+          },
+          {
+            "phrase": "mandatory attendance",
+            "meaning_ko": "의무적인 출석"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "mandatory for participation",
+            "meaning_ko": "그 참여에 대해 의무적인"
+          },
+          {
+            "phrase": "mandatory compliance",
+            "meaning_ko": "의무적인 준수"
+          },
+          {
+            "phrase": "mandatory regulation",
+            "meaning_ko": "의무적인 규제"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He completed mandatory training.",
+            "meaning_ko": "그는 의무적인 훈련을 완료했습니다."
+          },
+          {
+            "sentence": "She attended the mandatory course.",
+            "meaning_ko": "그녀는 그 의무적인 과정에 참석했습니다."
+          },
+          {
+            "sentence": "They met the mandatory requirement.",
+            "meaning_ko": "그들은 그 의무적인 요구사항을 충족했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He completed mandatory training, with his required and compulsory education creating compliance and qualification, though the mandatory nature would require completion and verification.",
+            "meaning_ko": "그는 의무적인 훈련을 완료했고, 그의 필수 그리고 의무적인 교육이 준수와 자격을 만들었지만, 그 의무적 본성은 완료와 검증을 요구할 것입니다."
+          },
+          {
+            "sentence": "She attended the mandatory course, with the obligatory and essential program creating knowledge and skills, though the mandatory nature would need to be fulfilled and documented.",
+            "meaning_ko": "그녀는 그 의무적인 과정에 참석했고, 그 의무적이고 필수적인 프로그램이 지식과 기술을 만들었지만, 그 의무적 본성은 충족되고 문서화될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They met the mandatory requirement, with the necessary and compulsory standard creating compliance and eligibility, though the mandatory nature would require adherence and verification.",
+            "meaning_ko": "그들은 그 의무적인 요구사항을 충족했고, 그 필수 그리고 의무적인 기준이 준수와 자격을 만들었지만, 그 의무적 본성은 준수와 검증을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to enforce mandatory for participation that was made in the process created opportunities for compliance and standardization, with the enforcement enabling establishment of requirements and standards, though the mandatory nature would require comprehensive monitoring and verification to ensure that participation meets requirements and standards are maintained.",
+            "meaning_ko": "그 과정에서 내려졌던 그 참여에 대해 그 의무적인 것을 강제하기로 한 그 결정은 준수와 표준화를 위한 기회를 만들었고, 그 강제가 요구사항과 기준의 확립을 가능하게 했지만, 그 의무적 본성은 참여가 요구사항을 충족하고 기준이 유지되는 것을 보장하기 위해 포괄적인 모니터링과 검증을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to maintain mandatory compliance that was undertaken in the initiative created pathways for regulation and accountability, with the maintenance enabling preservation of standards and requirements, though the mandatory nature would need to be systematically monitored through oversight and verification to ensure that compliance is maintained and standards are consistently met.",
+            "meaning_ko": "그 계획에서 착수되었던 그 의무적인 준수를 유지하기 위한 그 노력은 규제와 책임을 위한 경로를 만들었고, 그 유지가 기준과 요구사항의 보존을 가능하게 했지만, 그 의무적 본성은 준수가 유지되고 기준이 일관되게 충족되는 것을 보장하기 위해 감독과 검증을 통해 체계적으로 모니터링될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to implement mandatory regulation that was completed in the system created structure and methods for compliance and enforcement, with the implementation enabling establishment of rules and standards, though the mandatory nature would require ongoing oversight and enforcement to ensure that regulations are followed and compliance is maintained and enforced effectively.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 의무적인 규제를 구현하기 위한 그 작업은 준수와 집행을 위한 구조와 방법을 만들었고, 그 구현이 규칙과 기준의 확립을 가능하게 했지만, 그 의무적 본성은 규제가 따르고 준수가 유지되고 효과적으로 집행되는 것을 보장하기 위해 지속적인 감독과 집행을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "mandatory는 '의무적인, 필수의' 또는 '강제적인, 필수적인' 의미로, 의무적이거나 필수의 상태를 가리킵니다. required, compulsory와 비슷하지만 더 강한 뉘앙스가 있습니다. mandatory for ~, mandatory requirement 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: mandatory = (A) optional (B) required or compulsory (C) voluntary (D) elective",
+            "a": "B",
+            "meaning_ko": "mandatory는 '필수의 또는 의무적인' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He completed _____ training.",
+            "a": "mandatory",
+            "meaning_ko": "mandatory는 '의무적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of mandatory? (A) required (B) compulsory (C) optional (D) obligatory",
+            "a": "C",
+            "meaning_ko": "optional(선택적인)가 mandatory의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: mandatory _____ employees. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "mandatory for ~는 '~에게 의무적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: mandatory = (A) optional (B) required (C) voluntary (D) elective",
+            "a": "B",
+            "meaning_ko": "required(필수의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She attended the mandatory course at employees.' → Fix the sentence.",
+            "a": "She attended the mandatory course.",
+            "meaning_ko": "mandatory course는 이미 '의무적인 과정' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He completed mandatory training.'",
+            "a": "He finished required and compulsory education, with the mandatory nature creating compliance and qualification, though the training would require completion and verification.",
+            "meaning_ko": "mandatory는 '의무적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They met the _____ requirement. (A) mandatory (B) mandatorily (C) mandate (D) mandatory's",
+            "a": "A",
+            "meaning_ko": "형용사 mandatory가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses mandatory most appropriately? (A) The mandatory ran. (B) He completed mandatory training. (C) She mandatory smiled. (D) Mandatory is good.",
+            "a": "B",
+            "meaning_ko": "mandatory는 형용사로 '의무적인'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "high-end",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "고급의, 고품질의; 고급이거나 고품질의.",
+        "note": "고급이거나 고품질의 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "프리미엄의, 최고급의; 프리미엄이거나 최고급의.",
+        "note": "프리미엄이거나 최고급의 상태를 가리킵니다."
+      }
+    ],
+    "concept": "고급이거나 고품질의 상태, 또는 프리미엄이거나 최고급의 상태.",
+    "etymology": "high(높은) + end(끝)의 조합으로, '높은 끝' 의미에서 '고급의' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '높은 끝' 의미였고, 현대에는 '고급의' 또는 '프리미엄의'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be high-end 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be high-end : 고급이다",
+      "high-end + 명사 : 고급의 ~"
+    ],
+    "morphology": "high(높은) + end(끝)의 조합으로, '높은 끝' 의미에서 '고급의' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "high-end",
+        "meaning_ko": "고급의(하이픈 포함)"
+      }
+    ],
+    "related": [
+      {
+        "word": "luxury",
+        "meaning_ko": "사치품의"
+      },
+      {
+        "word": "premium",
+        "meaning_ko": "프리미엄의"
+      },
+      {
+        "word": "upscale",
+        "meaning_ko": "고급의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "luxury",
+        "meaning_ko": "사치품의"
+      },
+      {
+        "word": "premium",
+        "meaning_ko": "프리미엄의"
+      },
+      {
+        "word": "upscale",
+        "meaning_ko": "고급의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "exclusive",
+        "meaning_ko": "독점적인(범위가 더 넓음)"
+      },
+      {
+        "word": "top-tier",
+        "meaning_ko": "최고급의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "low-end",
+        "meaning_ko": "저가의"
+      },
+      {
+        "word": "budget",
+        "meaning_ko": "예산의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "high-end product",
+            "meaning_ko": "고급 제품"
+          },
+          {
+            "phrase": "high-end brand",
+            "meaning_ko": "고급 브랜드"
+          },
+          {
+            "phrase": "high-end market",
+            "meaning_ko": "고급 시장"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "high-end restaurant",
+            "meaning_ko": "고급 레스토랑"
+          },
+          {
+            "phrase": "high-end technology",
+            "meaning_ko": "고급 기술"
+          },
+          {
+            "phrase": "high-end service",
+            "meaning_ko": "고급 서비스"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "high-end establishment",
+            "meaning_ko": "고급 시설"
+          },
+          {
+            "phrase": "high-end equipment",
+            "meaning_ko": "고급 장비"
+          },
+          {
+            "phrase": "high-end experience",
+            "meaning_ko": "고급 경험"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He bought a high-end product.",
+            "meaning_ko": "그는 고급 제품을 샀습니다."
+          },
+          {
+            "sentence": "She visited a high-end restaurant.",
+            "meaning_ko": "그녀는 고급 레스토랑을 방문했습니다."
+          },
+          {
+            "sentence": "They used high-end technology.",
+            "meaning_ko": "그들은 고급 기술을 사용했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He bought a high-end product, with his luxury and premium purchase creating quality and value, though the high-end nature would require investment and consideration.",
+            "meaning_ko": "그는 고급 제품을 샀고, 그의 사치품 그리고 프리미엄 구매가 품질과 가치를 만들었지만, 그 고급 본성은 투자와 고려를 요구할 것입니다."
+          },
+          {
+            "sentence": "She visited a high-end restaurant, with the upscale and exclusive establishment creating experience and quality, though the high-end nature would need to be appreciated and valued.",
+            "meaning_ko": "그녀는 고급 레스토랑을 방문했고, 그 고급 그리고 독점적인 시설이 경험과 품질을 만들었지만, 그 고급 본성은 감사되고 가치 있게 여겨질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They used high-end technology, with the top-tier and premium equipment creating performance and capability, though the high-end nature would require maintenance and support.",
+            "meaning_ko": "그들은 고급 기술을 사용했고, 그 최고급 그리고 프리미엄 장비가 성능과 능력을 만들었지만, 그 고급 본성은 유지와 지원을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to invest in high-end establishment that was made in the process created opportunities for quality and prestige, with the investment enabling creation of premium experience and value, though the high-end nature would require comprehensive planning and resources to ensure that establishment meets high standards and experience is exceptional.",
+            "meaning_ko": "그 과정에서 내려졌던 그 고급 시설에 투자하기로 한 그 결정은 품질과 명성을 위한 기회를 만들었고, 그 투자가 프리미엄 경험과 가치의 창조를 가능하게 했지만, 그 고급 본성은 시설이 높은 기준을 충족하고 경험이 탁월한 것을 보장하기 위해 포괄적인 계획과 자원을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to develop high-end equipment that was undertaken in the initiative created pathways for performance and capability, with the development enabling creation of premium technology and features, though the high-end nature would need to be systematically maintained through quality control and support to ensure that equipment performs at high levels and features meet premium standards.",
+            "meaning_ko": "그 계획에서 착수되었던 그 고급 장비를 발전시키기 위한 그 노력은 성능과 능력을 위한 경로를 만들었고, 그 발전이 프리미엄 기술과 기능의 창조를 가능하게 했지만, 그 고급 본성은 장비가 높은 수준에서 작동하고 기능이 프리미엄 기준을 충족하는 것을 보장하기 위해 품질 관리와 지원을 통해 체계적으로 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to create high-end experience that was completed in the system created structure and methods for quality and excellence, with the creation enabling establishment of premium service and value, though the high-end nature would require ongoing attention and refinement to ensure that experience remains exceptional and quality continues to meet high standards.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 고급 경험을 창조하기 위한 그 작업은 품질과 탁월함을 위한 구조와 방법을 만들었고, 그 창조가 프리미엄 서비스와 가치의 확립을 가능하게 했지만, 그 고급 본성은 경험이 계속 탁월하고 품질이 계속 높은 기준을 충족하는 것을 보장하기 위해 지속적인 주의와 정제를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "high-end는 '고급의, 고품질의' 또는 '프리미엄의, 최고급의' 의미로, 고급이거나 고품질의 상태를 가리킵니다. luxury, premium와 비슷하지만 더 일상적 뉘앙스가 있습니다. high-end product, high-end restaurant 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: high-end = (A) low-end (B) luxury or premium (C) budget (D) cheap",
+            "a": "B",
+            "meaning_ko": "high-end는 '사치품의 또는 프리미엄의' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He bought a _____ product.",
+            "a": "high-end",
+            "meaning_ko": "high-end는 '고급의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of high-end? (A) luxury (B) premium (C) low-end (D) upscale",
+            "a": "C",
+            "meaning_ko": "low-end(저가의)가 high-end의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: high-end _____ product. (A) (no preposition) (B) of (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "high-end는 형용사로 명사를 직접 수식합니다."
+          },
+          {
+            "q": "Pick the best synonym: high-end = (A) low-end (B) luxury (C) budget (D) cheap",
+            "a": "B",
+            "meaning_ko": "luxury(사치품의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She visited a high-end restaurant of the city.' → Fix the sentence.",
+            "a": "She visited a high-end restaurant in the city.",
+            "meaning_ko": "in the city는 '그 도시에서'를 의미합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He bought a high-end product.'",
+            "a": "He purchased a luxury and premium item, with the high-end nature creating quality and value, though the product would require investment and consideration.",
+            "meaning_ko": "high-end는 '고급의' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They used _____ technology. (A) high-end (B) high end (C) high-end's (D) high-ends",
+            "a": "A",
+            "meaning_ko": "하이픈이 있는 high-end가 표준입니다."
+          },
+          {
+            "q": "Which sentence uses high-end most appropriately? (A) The high-end ran. (B) He bought a high-end product. (C) She high-end smiled. (D) High-end is good.",
+            "a": "B",
+            "meaning_ko": "high-end는 형용사로 '고급의'를 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "emulate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "모방하다, 따라하다; 모방하거나 따라하는 것.",
+        "note": "모방하거나 따라하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "경쟁하다, 맞서다; 경쟁하거나 맞서는 것.",
+        "note": "경쟁하거나 맞서는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "모방하거나 따라하는 행동, 또는 경쟁하거나 맞서는 행동.",
+    "etymology": "라틴어 aemulari(경쟁하다)에서 유래했으며, '경쟁하다' 의미에서 '모방하다' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '경쟁하다' 의미였고, 현대에는 '모방하다' 또는 '따라하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 사용되며, emulate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "emulate + 명사 : ~을 모방하다/따라하다"
+    ],
+    "morphology": "라틴어 aemulari에서 유래한 단어로, '경쟁하다' 의미에서 '모방하다' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "emulated",
+        "meaning_ko": "모방한(과거분사)"
+      },
+      {
+        "word": "emulating",
+        "meaning_ko": "모방하는(현재분사)"
+      },
+      {
+        "word": "emulation",
+        "meaning_ko": "모방"
+      }
+    ],
+    "related": [
+      {
+        "word": "imitate",
+        "meaning_ko": "모방하다"
+      },
+      {
+        "word": "copy",
+        "meaning_ko": "따라하다"
+      },
+      {
+        "word": "mimic",
+        "meaning_ko": "모방하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "imitate",
+        "meaning_ko": "모방하다"
+      },
+      {
+        "word": "copy",
+        "meaning_ko": "따라하다"
+      },
+      {
+        "word": "mimic",
+        "meaning_ko": "모방하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "match",
+        "meaning_ko": "맞추다(범위가 더 넓음)"
+      },
+      {
+        "word": "rival",
+        "meaning_ko": "경쟁하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "meaning_ko": "무시하다"
+      },
+      {
+        "word": "disregard",
+        "meaning_ko": "무시하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "emulate someone",
+            "meaning_ko": "누군가를 모방하다"
+          },
+          {
+            "phrase": "emulate the success",
+            "meaning_ko": "그 성공을 모방하다"
+          },
+          {
+            "phrase": "emulate the style",
+            "meaning_ko": "그 스타일을 모방하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "emulate the leader",
+            "meaning_ko": "그 지도자를 모방하다"
+          },
+          {
+            "phrase": "emulate the model",
+            "meaning_ko": "그 모델을 모방하다"
+          },
+          {
+            "phrase": "emulate the approach",
+            "meaning_ko": "그 접근을 모방하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "emulate the performance",
+            "meaning_ko": "그 성능을 모방하다"
+          },
+          {
+            "phrase": "emulate the achievement",
+            "meaning_ko": "그 성취를 모방하다"
+          },
+          {
+            "phrase": "emulate the standard",
+            "meaning_ko": "그 기준을 모방하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He tried to emulate the leader.",
+            "meaning_ko": "그는 그 지도자를 모방하려고 했습니다."
+          },
+          {
+            "sentence": "She emulated the success.",
+            "meaning_ko": "그녀는 그 성공을 모방했습니다."
+          },
+          {
+            "sentence": "They emulated the style.",
+            "meaning_ko": "그들은 그 스타일을 모방했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He tried to emulate the leader, with his imitate and copy creating similarity and resemblance, though the emulation would require understanding and adaptation.",
+            "meaning_ko": "그는 그 지도자를 모방하려고 했고, 그의 모방 그리고 따라하기가 유사성과 닮음을 만들었지만, 그 모방은 이해와 적응을 요구할 것입니다."
+          },
+          {
+            "sentence": "She emulated the success, with the mimic and match creating achievement and performance, though the emulation would need to be adapted and customized.",
+            "meaning_ko": "그녀는 그 성공을 모방했고, 그 모방 그리고 맞추기가 성취와 성능을 만들었지만, 그 모방은 적응되고 맞춤화될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They emulated the style, with the rival and copy creating competition and similarity, though the emulation would require creativity and originality.",
+            "meaning_ko": "그들은 그 스타일을 모방했고, 그 경쟁 그리고 따라하기가 경쟁과 유사성을 만들었지만, 그 모방은 창의성과 독창성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to emulate the performance that was made in the process created opportunities for improvement and achievement, with the emulation enabling development of skills and capabilities, though the emulation would require comprehensive analysis and adaptation to ensure that performance is properly understood and skills are effectively developed.",
+            "meaning_ko": "그 과정에서 내려졌던 그 성능을 모방하기로 한 그 결정은 개선과 성취를 위한 기회를 만들었고, 그 모방이 기술과 능력의 발전을 가능하게 했지만, 그 모방은 성능이 적절히 이해되고 기술이 효과적으로 발전되는 것을 보장하기 위해 포괄적인 분석과 적응을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to emulate the achievement that was undertaken in the initiative created pathways for success and excellence, with the emulation enabling development of capabilities and results, though the emulation would need to be systematically adapted through learning and practice to ensure that achievement is properly understood and capabilities are effectively developed.",
+            "meaning_ko": "그 계획에서 착수되었던 그 성취를 모방하기 위한 그 노력은 성공과 탁월함을 위한 경로를 만들었고, 그 모방이 능력과 결과의 발전을 가능하게 했지만, 그 모방은 성취가 적절히 이해되고 능력이 효과적으로 발전되는 것을 보장하기 위해 학습과 연습을 통해 체계적으로 적응될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to emulate the standard that was completed in the system created structure and methods for quality and excellence, with the emulation enabling development of capabilities and performance, though the emulation would require ongoing learning and adaptation to ensure that standard is properly understood and capabilities continue to develop and meet high standards.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 기준을 모방하기 위한 그 작업은 품질과 탁월함을 위한 구조와 방법을 만들었고, 그 모방이 능력과 성능의 발전을 가능하게 했지만, 그 모방은 기준이 적절히 이해되고 능력이 계속 발전하고 높은 기준을 충족하는 것을 보장하기 위해 지속적인 학습과 적응을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "emulate는 '모방하다, 따라하다' 또는 '경쟁하다, 맞서다' 의미로, 모방하거나 따라하는 행동을 가리킵니다. imitate, copy와 비슷하지만 더 긍정적 뉘앙스가 있습니다. emulate someone, emulate the success 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: emulate = (A) ignore (B) imitate or copy (C) disregard (D) neglect",
+            "a": "B",
+            "meaning_ko": "emulate는 '모방하다 또는 따라하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He tried to _____ the leader.",
+            "a": "emulate",
+            "meaning_ko": "emulate는 '모방하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of emulate? (A) imitate (B) copy (C) ignore (D) mimic",
+            "a": "C",
+            "meaning_ko": "ignore(무시하다)가 emulate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: emulate _____ the leader. (A) (no preposition) (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "emulate는 직접 목적어를 취하며 전치사가 필요 없습니다."
+          },
+          {
+            "q": "Pick the best synonym: emulate = (A) ignore (B) imitate (C) disregard (D) neglect",
+            "a": "B",
+            "meaning_ko": "imitate(모방하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She emulated the success at the leader.' → Fix the sentence.",
+            "a": "She emulated the success.",
+            "meaning_ko": "emulate는 직접 목적어를 취하며 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He tried to emulate the leader.'",
+            "a": "He attempted to imitate and copy the person, with the emulation creating similarity and resemblance, though the action would require understanding and adaptation.",
+            "meaning_ko": "emulate는 '모방하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the style. (A) emulate (B) emulates (C) emulated (D) emulating",
+            "a": "C",
+            "meaning_ko": "과거형 emulated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses emulate most appropriately? (A) The emulate ran. (B) He tried to emulate the leader. (C) She emulate smiled. (D) Emulate is good.",
+            "a": "B",
+            "meaning_ko": "emulate는 동사로 '모방하다'를 의미하며, emulate + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

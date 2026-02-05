@@ -1,0 +1,843 @@
+[
+  {
+    "word": "rob",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "강탈하다, 약탈하다; 강탈하거나 약탈하다.",
+        "note": "강탈하거나 약탈하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "빼앗다, 박탈하다; 빼앗거나 박탈하다.",
+        "note": "빼앗거나 박탈하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "강탈하거나 약탈하는 것, 또는 빼앗거나 박탈하는 것.",
+    "etymology": "고대 영어 reafian(강탈하다)에서 유래했으며, '강탈하다' 의미입니다.",
+    "semanticExtension": "원래는 '강탈하다' 의미였고, 현대에는 '빼앗거나 박탈하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 자주 사용되며, rob + of 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~을 빼앗다",
+        "example": "rob of"
+      }
+    ],
+    "requiredComplements": [
+      "rob + 명사 : ~을 강탈하다",
+      "rob + 명사 + of + 명사 : ~에게서 ~을 빼앗다"
+    ],
+    "morphology": "고대 영어 reafian에서 유래한 단어로, '강탈하다' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "robbed",
+        "meaning_ko": "강탈한(과거분사/형용사)"
+      },
+      {
+        "word": "robbing",
+        "meaning_ko": "강탈하는(현재분사/형용사)"
+      },
+      {
+        "word": "robber",
+        "meaning_ko": "강도"
+      },
+      {
+        "word": "robbery",
+        "meaning_ko": "강도"
+      }
+    ],
+    "related": [
+      {
+        "word": "steal",
+        "meaning_ko": "훔치다"
+      },
+      {
+        "word": "plunder",
+        "meaning_ko": "약탈하다"
+      },
+      {
+        "word": "deprive",
+        "meaning_ko": "박탈하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "steal",
+        "meaning_ko": "훔치다"
+      },
+      {
+        "word": "plunder",
+        "meaning_ko": "약탈하다"
+      },
+      {
+        "word": "deprive",
+        "meaning_ko": "박탈하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "loot",
+        "meaning_ko": "약탈하다(범위가 더 넓음)"
+      },
+      {
+        "word": "ransack",
+        "meaning_ko": "약탈하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "give",
+        "meaning_ko": "주다"
+      },
+      {
+        "word": "return",
+        "meaning_ko": "돌려주다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "rob of",
+            "meaning_ko": "~을 빼앗다"
+          },
+          {
+            "phrase": "rob a bank",
+            "meaning_ko": "은행을 강탈하다"
+          },
+          {
+            "phrase": "rob someone",
+            "meaning_ko": "누군가를 강탈하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "rob of the opportunity",
+            "meaning_ko": "그 기회를 빼앗다"
+          },
+          {
+            "phrase": "rob the store",
+            "meaning_ko": "그 가게를 강탈하다"
+          },
+          {
+            "phrase": "rob the victim",
+            "meaning_ko": "그 피해자를 강탈하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "rob of the rights",
+            "meaning_ko": "그 권리를 빼앗다"
+          },
+          {
+            "phrase": "rob the institution",
+            "meaning_ko": "그 기관을 강탈하다"
+          },
+          {
+            "phrase": "rob the treasury",
+            "meaning_ko": "그 국고를 강탈하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He robbed the bank.",
+            "meaning_ko": "그는 그 은행을 강탈했습니다."
+          },
+          {
+            "sentence": "She was robbed of her money.",
+            "meaning_ko": "그녀는 그녀의 돈을 빼앗겼습니다."
+          },
+          {
+            "sentence": "They robbed the store.",
+            "meaning_ko": "그들은 그 가게를 강탈했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He robbed the bank, with his steal and plunder creating crime and loss, though the robbery would require investigation and prosecution.",
+            "meaning_ko": "그는 그 은행을 강탈했고, 그의 훔치기와 약탈하기가 범죄와 손실을 만들었지만, 그 강도는 조사와 기소를 요구할 것입니다."
+          },
+          {
+            "sentence": "She was robbed of her money, with the deprive and loot creating loss and harm, though the robbery would need to be reported and addressed.",
+            "meaning_ko": "그녀는 그녀의 돈을 빼앗겼고, 그 박탈하기와 약탈하기가 손실과 해를 만들었지만, 그 강도는 보고되고 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They robbed the store, with their ransack and steal creating damage and theft, though the robbery would require security and prevention.",
+            "meaning_ko": "그들은 그 가게를 강탈했고, 그들의 약탈하기와 훔치기가 손상과 도둑질을 만들었지만, 그 강도는 보안과 예방을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to investigate the rob of the rights that was made in the case created opportunities for justice and protection, with the investigation enabling identification of perpetrators and recovery of rights, though the robbery would require thorough legal action and enforcement to ensure that rights are restored and perpetrators are held accountable.",
+            "meaning_ko": "그 사건에서 내려졌던 그 권리의 그 강탈을 조사하기로 한 그 결정은 정의와 보호를 위한 기회를 만들었고, 그 조사가 가해자의 식별과 권리의 회복을 가능하게 했지만, 그 강도는 권리가 복원되고 가해자가 책임을 지는 것을 보장하기 위해 철저한 법적 조치와 집행을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to prevent rob of the institution that was undertaken in the program created pathways for security and protection, with the prevention enabling safeguarding of assets and resources, though the robbery would need to be systematically addressed through security measures and monitoring to ensure that institutions are protected and robberies are prevented.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 기관의 그 강탈을 방지하기 위한 그 노력은 보안과 보호를 위한 경로를 만들었고, 그 방지가 자산과 자원의 보호를 가능하게 했지만, 그 강도는 기관이 보호되고 강도가 방지되는 것을 보장하기 위해 보안 조치와 모니터링을 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to recover from rob of the treasury that was completed in the system created structure and methods for financial security, with the recovery enabling restoration of funds and accountability, though the robbery would require ongoing monitoring and enforcement to ensure that financial systems are secure and robberies are prevented and prosecuted.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 국고의 그 강탈로부터 회복하기 위한 그 작업은 재정 보안을 위한 구조와 방법을 만들었고, 그 회복이 자금의 복원과 책임을 가능하게 했지만, 그 강도는 재정 시스템이 안전하고 강도가 방지되고 기소되는 것을 보장하기 위해 지속적인 모니터링과 집행을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "rob는 '강탈하다, 약탈하다' 또는 '빼앗다, 박탈하다' 의미로, 강탈하거나 약탈하는 행동을 가리킵니다. steal, plunder와 비슷하지만 더 일반적 뉘앙스가 있습니다. rob of ~, rob a bank 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "부정"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: rob = (A) give (B) steal or plunder (C) return (D) restore",
+            "a": "B",
+            "meaning_ko": "rob는 '훔치다 또는 약탈하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the bank.",
+            "a": "robbed",
+            "meaning_ko": "rob는 '강탈하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of rob? (A) steal (B) plunder (C) give (D) deprive",
+            "a": "C",
+            "meaning_ko": "give(주다)가 rob의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: rob _____ the opportunity. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "rob of ~는 '~을 빼앗다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: rob = (A) give (B) steal (C) return (D) restore",
+            "a": "B",
+            "meaning_ko": "steal(훔치다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was robbed at her money.' → Fix the preposition.",
+            "a": "She was robbed of her money.",
+            "meaning_ko": "rob of ~는 '~을 빼앗다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He robbed the bank.'",
+            "a": "He stole and plundered from the financial institution, with the robbery creating crime and loss, though the theft would require investigation and prosecution.",
+            "meaning_ko": "rob는 '강탈하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the store. (A) rob (B) robs (C) robbed (D) robbing",
+            "a": "C",
+            "meaning_ko": "과거형 robbed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses rob most appropriately? (A) The rob ran. (B) He robbed the bank. (C) She rob smiled. (D) Rob is good.",
+            "a": "B",
+            "meaning_ko": "rob는 타동사로 '강탈하다'를 의미하며, rob + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "argument",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "논쟁, 논의; 논쟁이나 논의.",
+        "note": "논쟁이나 논의를 가리킵니다."
+      },
+      {
+        "definition_ko": "논거, 근거; 논거나 근거.",
+        "note": "논거나 근거를 가리킵니다."
+      }
+    ],
+    "concept": "논쟁이나 논의인 논쟁, 또는 논거나 근거.",
+    "etymology": "라틴어 argumentum(논거)에서 유래했으며, arguere(증명하다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '논거' 의미였고, 현대에는 '논쟁이나 논의'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, argument 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 논거",
+        "example": "argument for"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 반대하는 논거",
+        "example": "argument against"
+      },
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대한 논쟁",
+        "example": "argument about"
+      }
+    ],
+    "requiredComplements": [
+      "argument : 논쟁/논의",
+      "argument for/against/about + 명사 : ~을 위한/반대하는/에 대한 논거"
+    ],
+    "morphology": "라틴어 argumentum에서 유래한 단어로, arguere(증명하다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "arguments",
+        "meaning_ko": "논쟁들(복수형)"
+      },
+      {
+        "word": "argue",
+        "meaning_ko": "논쟁하다"
+      },
+      {
+        "word": "argumentative",
+        "meaning_ko": "논쟁적인"
+      }
+    ],
+    "related": [
+      {
+        "word": "debate",
+        "meaning_ko": "논쟁"
+      },
+      {
+        "word": "dispute",
+        "meaning_ko": "논쟁"
+      },
+      {
+        "word": "reason",
+        "meaning_ko": "이유"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "debate",
+        "meaning_ko": "논쟁"
+      },
+      {
+        "word": "dispute",
+        "meaning_ko": "논쟁"
+      },
+      {
+        "word": "reason",
+        "meaning_ko": "이유"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "quarrel",
+        "meaning_ko": "말다툼(범위가 더 넓음)"
+      },
+      {
+        "word": "contention",
+        "meaning_ko": "논쟁"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "agreement",
+        "meaning_ko": "합의"
+      },
+      {
+        "word": "consensus",
+        "meaning_ko": "합의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "argument for",
+            "meaning_ko": "~을 위한 논거"
+          },
+          {
+            "phrase": "argument against",
+            "meaning_ko": "~에 반대하는 논거"
+          },
+          {
+            "phrase": "argument about",
+            "meaning_ko": "~에 대한 논쟁"
+          },
+          {
+            "phrase": "have an argument",
+            "meaning_ko": "논쟁을 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "argument for the proposal",
+            "meaning_ko": "그 제안을 위한 논거"
+          },
+          {
+            "phrase": "argument against the plan",
+            "meaning_ko": "그 계획에 반대하는 논거"
+          },
+          {
+            "phrase": "argument about the issue",
+            "meaning_ko": "그 이슈에 대한 논쟁"
+          },
+          {
+            "phrase": "strong argument",
+            "meaning_ko": "강한 논거"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "argument for the policy",
+            "meaning_ko": "그 정책을 위한 논거"
+          },
+          {
+            "phrase": "argument against the decision",
+            "meaning_ko": "그 결정에 반대하는 논거"
+          },
+          {
+            "phrase": "argument about the matter",
+            "meaning_ko": "그 문제에 대한 논쟁"
+          },
+          {
+            "phrase": "compelling argument",
+            "meaning_ko": "설득력 있는 논거"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He made an argument.",
+            "meaning_ko": "그는 논거를 만들었습니다."
+          },
+          {
+            "sentence": "She had an argument about the issue.",
+            "meaning_ko": "그녀는 그 이슈에 대한 논쟁을 했습니다."
+          },
+          {
+            "sentence": "They presented an argument for the proposal.",
+            "meaning_ko": "그들은 그 제안을 위한 논거를 제시했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He made an argument, with his debate and dispute creating discussion and disagreement, though the argument would require evidence and reasoning.",
+            "meaning_ko": "그는 논거를 만들었고, 그의 논쟁과 논쟁이 토론과 불일치를 만들었지만, 그 논거는 증거와 추론을 요구할 것입니다."
+          },
+          {
+            "sentence": "She had an argument about the issue, with the quarrel and contention creating conflict and tension, though the argument would need to be resolved and addressed.",
+            "meaning_ko": "그녀는 그 이슈에 대한 논쟁을 했고, 그 말다툼과 논쟁이 갈등과 긴장을 만들었지만, 그 논쟁은 해결되고 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They presented an argument for the proposal, with the reason and debate creating support and justification, though the argument would require validation and acceptance.",
+            "meaning_ko": "그들은 그 제안을 위한 논거를 제시했고, 그 이유와 논쟁이 지지와 정당화를 만들었지만, 그 논거는 타당화와 수용을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to present an argument for the policy that was made in the discussion created opportunities for persuasion and influence, with the argument enabling presentation of reasons and evidence, though the argument would require thorough preparation and logical structure to ensure that the argument is compelling and effectively supports the policy.",
+            "meaning_ko": "그 토론에서 내려졌던 그 정책을 위한 그 논거를 제시하기로 한 그 결정은 설득과 영향력을 위한 기회를 만들었고, 그 논거가 이유와 증거의 발표를 가능하게 했지만, 그 논거는 논거가 설득력 있고 정책을 효과적으로 지지하는 것을 보장하기 위해 철저한 준비와 논리적 구조를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to address an argument against the decision that was undertaken in the analysis created pathways for evaluation and reconsideration, with the addressing enabling examination of objections and concerns, though the argument would need to be systematically evaluated and responded to through evidence and reasoning to ensure that concerns are properly addressed and decisions are well-informed.",
+            "meaning_ko": "그 분석에서 착수되었던 그 결정에 반대하는 그 논거를 다루기 위한 그 노력은 평가와 재고려를 위한 경로를 만들었고, 그 다루기가 반대와 우려의 검토를 가능하게 했지만, 그 논거는 우려가 적절히 다뤄지고 결정이 잘 알려진 것을 보장하기 위해 증거와 추론을 통해 체계적으로 평가되고 응답될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to resolve an argument about the matter that was completed in the mediation created structure and methods for conflict resolution, with the resolution enabling finding of common ground and agreement, though the argument would require ongoing dialogue and compromise to ensure that conflicts are resolved and relationships are maintained.",
+            "meaning_ko": "그 중재에서 완료되었던 그 문제에 대한 그 논쟁을 해결하기 위한 그 작업은 갈등 해결을 위한 구조와 방법을 만들었고, 그 해결이 공통점과 합의의 발견을 가능하게 했지만, 그 논쟁은 갈등이 해결되고 관계가 유지되는 것을 보장하기 위해 지속적인 대화와 타협을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "argument는 '논쟁, 논의' 또는 '논거, 근거' 의미로, 논쟁이나 논의를 가리킵니다. debate, dispute와 비슷하지만 더 일반적 뉘앙스가 있습니다. argument for/against/about ~, have an argument 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: argument = (A) agreement (B) debate or reason (C) consensus (D) harmony",
+            "a": "B",
+            "meaning_ko": "argument는 '논쟁 또는 이유' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He made an _____.",
+            "a": "argument",
+            "meaning_ko": "argument는 '논거' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of argument? (A) debate (B) dispute (C) agreement (D) reason",
+            "a": "C",
+            "meaning_ko": "agreement(합의)가 argument의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: argument _____ the proposal. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "argument for ~는 '~을 위한 논거' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: argument = (A) agreement (B) debate (C) consensus (D) harmony",
+            "a": "B",
+            "meaning_ko": "debate(논쟁)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She had an argument at the issue.' → Fix the preposition.",
+            "a": "She had an argument about the issue.",
+            "meaning_ko": "argument about ~는 '~에 대한 논쟁' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He made an argument.'",
+            "a": "He created a debate and reason, with the argument creating discussion and disagreement, though the reasoning would require evidence and validation.",
+            "meaning_ko": "argument는 '논거' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They presented an _____ for the proposal. (A) argument (B) arguments (C) argue (D) argumentative",
+            "a": "A",
+            "meaning_ko": "명사 argument가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses argument most appropriately? (A) The argument ran. (B) He made an argument. (C) She argument smiled. (D) Argument is good.",
+            "a": "B",
+            "meaning_ko": "argument는 명사로 '논거'를 의미하며, make an argument와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "bigotry",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "편견, 고집; 편견이나 고집.",
+        "note": "편견이나 고집을 가리킵니다."
+      },
+      {
+        "definition_ko": "고집스러움, 완고함; 고집스러움이나 완고함.",
+        "note": "고집스러움이나 완고함을 가리킵니다."
+      }
+    ],
+    "concept": "편견이나 고집인 편견, 또는 고집스러움이나 완고함.",
+    "etymology": "프랑스어 bigoterie(종교적 편견)에서 유래했으며, bigot(고집쟁이)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '종교적 편견' 의미였고, 현대에는 '편견이나 고집'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, bigotry 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대한 편견",
+        "example": "bigotry against"
+      }
+    ],
+    "requiredComplements": [
+      "bigotry : 편견/고집",
+      "bigotry against + 명사 : ~에 대한 편견"
+    ],
+    "morphology": "프랑스어 bigoterie에서 유래한 단어로, bigot(고집쟁이)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "bigot",
+        "meaning_ko": "고집쟁이"
+      },
+      {
+        "word": "bigoted",
+        "meaning_ko": "편견 있는"
+      }
+    ],
+    "related": [
+      {
+        "word": "prejudice",
+        "meaning_ko": "편견"
+      },
+      {
+        "word": "intolerance",
+        "meaning_ko": "불관용"
+      },
+      {
+        "word": "narrow-mindedness",
+        "meaning_ko": "편협함"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "prejudice",
+        "meaning_ko": "편견"
+      },
+      {
+        "word": "intolerance",
+        "meaning_ko": "불관용"
+      },
+      {
+        "word": "narrow-mindedness",
+        "meaning_ko": "편협함"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "discrimination",
+        "meaning_ko": "차별(범위가 더 넓음)"
+      },
+      {
+        "word": "bias",
+        "meaning_ko": "편견"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tolerance",
+        "meaning_ko": "관용"
+      },
+      {
+        "word": "open-mindedness",
+        "meaning_ko": "개방성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "bigotry against",
+            "meaning_ko": "~에 대한 편견"
+          },
+          {
+            "phrase": "religious bigotry",
+            "meaning_ko": "종교적 편견"
+          },
+          {
+            "phrase": "racial bigotry",
+            "meaning_ko": "인종적 편견"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "bigotry against minorities",
+            "meaning_ko": "소수자들에 대한 편견"
+          },
+          {
+            "phrase": "cultural bigotry",
+            "meaning_ko": "문화적 편견"
+          },
+          {
+            "phrase": "social bigotry",
+            "meaning_ko": "사회적 편견"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "bigotry against the group",
+            "meaning_ko": "그 그룹에 대한 편견"
+          },
+          {
+            "phrase": "systemic bigotry",
+            "meaning_ko": "체계적 편견"
+          },
+          {
+            "phrase": "institutional bigotry",
+            "meaning_ko": "제도적 편견"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He showed bigotry.",
+            "meaning_ko": "그는 편견을 보였습니다."
+          },
+          {
+            "sentence": "She faced bigotry against minorities.",
+            "meaning_ko": "그녀는 소수자들에 대한 편견에 직면했습니다."
+          },
+          {
+            "sentence": "They fought against bigotry.",
+            "meaning_ko": "그들은 편견에 맞서 싸웠습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He showed bigotry, with his prejudice and intolerance creating division and conflict, though the bigotry would require education and awareness.",
+            "meaning_ko": "그는 편견을 보였고, 그의 편견과 불관용이 분열과 갈등을 만들었지만, 그 편견은 교육과 인식을 요구할 것입니다."
+          },
+          {
+            "sentence": "She faced bigotry against minorities, with the discrimination and bias creating harm and injustice, though the bigotry would need to be addressed and eliminated.",
+            "meaning_ko": "그녀는 소수자들에 대한 편견에 직면했고, 그 차별과 편견이 해와 불공정을 만들었지만, 그 편견은 다뤄지고 제거될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They fought against bigotry, with their narrow-mindedness and prejudice creating resistance and opposition, though the bigotry would require tolerance and understanding.",
+            "meaning_ko": "그들은 편견에 맞서 싸웠고, 그들의 편협함과 편견이 저항과 반대를 만들었지만, 그 편견은 관용과 이해를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address bigotry against the group that was made in the program created opportunities for equality and justice, with the addressing enabling recognition and elimination of prejudices, though the bigotry would require comprehensive education and policy changes to ensure that prejudices are eliminated and equality is achieved.",
+            "meaning_ko": "그 프로그램에서 내려졌던 그 그룹에 대한 그 편견을 다루기로 한 그 결정은 평등과 정의를 위한 기회를 만들었고, 그 다루기가 편견의 인정과 제거를 가능하게 했지만, 그 편견은 편견이 제거되고 평등이 달성되는 것을 보장하기 위해 포괄적인 교육과 정책 변화를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to eliminate systemic bigotry that was undertaken in the initiative created pathways for institutional change and reform, with the elimination enabling removal of discriminatory practices and policies, though the bigotry would need to be systematically identified and addressed through policy changes and education to ensure that systems are fair and inclusive.",
+            "meaning_ko": "그 계획에서 착수되었던 그 체계적 편견을 제거하기 위한 그 노력은 제도적 변화와 개혁을 위한 경로를 만들었고, 그 제거가 차별적 관행과 정책의 제거를 가능하게 했지만, 그 편견은 시스템이 공정하고 포용적인 것을 보장하기 위해 정책 변화와 교육을 통해 체계적으로 식별되고 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to combat institutional bigotry that was completed in the system created structure and methods for promoting tolerance and inclusion, with the combat enabling reduction of prejudices and discrimination, though the bigotry would require ongoing monitoring and enforcement to ensure that institutions remain free from prejudice and all individuals are treated fairly and with respect.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 제도적 편견을 퇴치하기 위한 그 작업은 관용과 포용을 촉진하기 위한 구조와 방법을 만들었고, 그 퇴치가 편견과 차별의 감소를 가능하게 했지만, 그 편견은 기관이 편견 없이 유지되고 모든 개인이 공정하고 존중으로 대우받는 것을 보장하기 위해 지속적인 모니터링과 집행을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "bigotry는 '편견, 고집' 또는 '고집스러움, 완고함' 의미로, 편견이나 고집을 가리킵니다. prejudice, intolerance와 비슷하지만 더 강한 뉘앙스가 있습니다. bigotry against ~, religious bigotry 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: bigotry = (A) tolerance (B) prejudice or intolerance (C) open-mindedness (D) acceptance",
+            "a": "B",
+            "meaning_ko": "bigotry는 '편견 또는 불관용' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He showed _____.",
+            "a": "bigotry",
+            "meaning_ko": "bigotry는 '편견' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of bigotry? (A) prejudice (B) intolerance (C) tolerance (D) narrow-mindedness",
+            "a": "C",
+            "meaning_ko": "tolerance(관용)가 bigotry의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: bigotry _____ minorities. (A) against (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "bigotry against ~는 '~에 대한 편견' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: bigotry = (A) tolerance (B) prejudice (C) open-mindedness (D) acceptance",
+            "a": "B",
+            "meaning_ko": "prejudice(편견)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She faced bigotry at minorities.' → Fix the preposition.",
+            "a": "She faced bigotry against minorities.",
+            "meaning_ko": "bigotry against ~는 '~에 대한 편견' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He showed bigotry.'",
+            "a": "He displayed prejudice and intolerance, with the bigotry creating division and conflict, though the prejudice would require education and awareness.",
+            "meaning_ko": "bigotry는 '편견' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They fought against _____. (A) bigotry (B) bigotries (C) bigot (D) bigoted",
+            "a": "A",
+            "meaning_ko": "명사 bigotry가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses bigotry most appropriately? (A) The bigotry ran. (B) He showed bigotry. (C) She bigotry smiled. (D) Bigotry is good.",
+            "a": "B",
+            "meaning_ko": "bigotry는 명사로 '편견'을 의미하며, show bigotry와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,817 @@
+[
+  {
+    "word": "elucidate",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "명확히 하다, 설명하다; 명확히 하거나 설명하는 것.",
+        "note": "명확히 하거나 설명하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "해명하다, 밝히다; 해명하거나 밝히는 것.",
+        "note": "해명하거나 밝히는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "명확히 하거나 설명하는 행동, 또는 해명하거나 밝히는 행동.",
+    "etymology": "라틴어 elucidare(밝히다)에서 유래했으며, e(밖으로) + lucidus(밝은)의 조합입니다.",
+    "semanticExtension": "원래는 '밝히다' 의미였고, 현대에는 '명확히 하다' 또는 '설명하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 사용되며, elucidate + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "elucidate + 명사 : ~을 명확히 하다/설명하다"
+    ],
+    "morphology": "라틴어 elucidare에서 유래한 단어로, e(밖으로) + lucidus(밝은)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "elucidated",
+        "meaning_ko": "명확히 한(과거분사)"
+      },
+      {
+        "word": "elucidating",
+        "meaning_ko": "명확히 하는(현재분사)"
+      },
+      {
+        "word": "elucidation",
+        "meaning_ko": "명확화"
+      }
+    ],
+    "related": [
+      {
+        "word": "explain",
+        "meaning_ko": "설명하다"
+      },
+      {
+        "word": "clarify",
+        "meaning_ko": "명확히 하다"
+      },
+      {
+        "word": "illuminate",
+        "meaning_ko": "밝히다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "explain",
+        "meaning_ko": "설명하다"
+      },
+      {
+        "word": "clarify",
+        "meaning_ko": "명확히 하다"
+      },
+      {
+        "word": "illuminate",
+        "meaning_ko": "밝히다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "expound",
+        "meaning_ko": "상세히 설명하다(범위가 더 넓음)"
+      },
+      {
+        "word": "explicate",
+        "meaning_ko": "해명하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "obscure",
+        "meaning_ko": "모호하게 하다"
+      },
+      {
+        "word": "confuse",
+        "meaning_ko": "혼란시키다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "elucidate the point",
+            "meaning_ko": "그 포인트를 명확히 하다"
+          },
+          {
+            "phrase": "elucidate the meaning",
+            "meaning_ko": "그 의미를 명확히 하다"
+          },
+          {
+            "phrase": "elucidate the concept",
+            "meaning_ko": "그 개념을 명확히 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "elucidate the issue",
+            "meaning_ko": "그 이슈를 명확히 하다"
+          },
+          {
+            "phrase": "elucidate the problem",
+            "meaning_ko": "그 문제를 명확히 하다"
+          },
+          {
+            "phrase": "elucidate the theory",
+            "meaning_ko": "그 이론을 명확히 하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "elucidate the argument",
+            "meaning_ko": "그 논거를 명확히 하다"
+          },
+          {
+            "phrase": "elucidate the principle",
+            "meaning_ko": "그 원리를 명확히 하다"
+          },
+          {
+            "phrase": "elucidate the mechanism",
+            "meaning_ko": "그 메커니즘을 명확히 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He elucidated the point.",
+            "meaning_ko": "그는 그 포인트를 명확히 했습니다."
+          },
+          {
+            "sentence": "She elucidated the meaning.",
+            "meaning_ko": "그녀는 그 의미를 명확히 했습니다."
+          },
+          {
+            "sentence": "They elucidated the concept.",
+            "meaning_ko": "그들은 그 개념을 명확히 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He elucidated the point, with his explain and clarify creating understanding and clarity, though the elucidation would require detail and precision.",
+            "meaning_ko": "그는 그 포인트를 명확히 했고, 그의 설명 그리고 명확히 하기가 이해와 명확성을 만들었지만, 그 명확화는 세부사항과 정밀도를 요구할 것입니다."
+          },
+          {
+            "sentence": "She elucidated the meaning, with the illuminate and expound creating clarity and understanding, though the elucidation would need to be clear and comprehensive.",
+            "meaning_ko": "그녀는 그 의미를 명확히 했고, 그 밝히기 그리고 상세히 설명하기가 명확성과 이해를 만들었지만, 그 명확화는 명확하고 포괄적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They elucidated the concept, with the explicate and clarify creating understanding and clarity, though the elucidation would require explanation and detail.",
+            "meaning_ko": "그들은 그 개념을 명확히 했고, 그 해명 그리고 명확히 하기가 이해와 명확성을 만들었지만, 그 명확화는 설명과 세부사항을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to elucidate the argument that was made in the process created opportunities for clarity and understanding, with the elucidation enabling explanation and clarification, though the elucidation would require comprehensive detail and precision to ensure that argument is properly elucidated and clarity is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 논거를 명확히 하기로 한 그 결정은 명확성과 이해를 위한 기회를 만들었고, 그 명확화가 설명과 명확화를 가능하게 했지만, 그 명확화는 논거가 적절히 명확히 되고 명확성이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 세부사항과 정밀도를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to elucidate the principle that was undertaken in the initiative created pathways for understanding and clarity, with the elucidation enabling explanation and illumination, though the elucidation would need to be systematically developed through detail and explanation to ensure that principle is properly elucidated and understanding is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 원리를 명확히 하기 위한 그 노력은 이해와 명확성을 위한 경로를 만들었고, 그 명확화가 설명과 밝히기를 가능하게 했지만, 그 명확화는 원리가 적절히 명확히 되고 이해가 효과적으로 달성되는 것을 보장하기 위해 세부사항과 설명을 통해 체계적으로 발전될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to elucidate the mechanism that was completed in the system created structure and methods for clarity and understanding, with the elucidation enabling explanation and clarification, though the elucidation would require ongoing refinement and detail to ensure that mechanism continues to be elucidated and clarity remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 메커니즘을 명확히 하기 위한 그 작업은 명확성과 이해를 위한 구조와 방법을 만들었고, 그 명확화가 설명과 명확화를 가능하게 했지만, 그 명확화는 메커니즘이 계속 명확히 되고 명확성이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 정제와 세부사항을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "elucidate는 '명확히 하다, 설명하다' 또는 '해명하다, 밝히다' 의미로, 명확히 하거나 설명하는 행동을 가리킵니다. explain, clarify와 비슷하지만 더 문어적 뉘앙스가 있습니다. elucidate the point, elucidate the meaning 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: elucidate = (A) obscure (B) explain or clarify (C) confuse (D) complicate",
+            "a": "B",
+            "meaning_ko": "elucidate는 '설명하다 또는 명확히 하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the point.",
+            "a": "elucidated",
+            "meaning_ko": "elucidate는 '명확히 하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of elucidate? (A) explain (B) clarify (C) obscure (D) illuminate",
+            "a": "C",
+            "meaning_ko": "obscure(모호하게 하다)가 elucidate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: elucidate _____ the point. (A) (no preposition) (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "elucidate는 직접 목적어를 취하며 전치사가 필요 없습니다."
+          },
+          {
+            "q": "Pick the best synonym: elucidate = (A) obscure (B) explain (C) confuse (D) complicate",
+            "a": "B",
+            "meaning_ko": "explain(설명하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She elucidated the meaning at the problem.' → Fix the sentence.",
+            "a": "She elucidated the meaning.",
+            "meaning_ko": "elucidate는 직접 목적어를 취하며 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He elucidated the point.'",
+            "a": "He explained and clarified the issue, with the elucidation creating understanding and clarity, though the point would require detail and precision.",
+            "meaning_ko": "elucidate는 '명확히 하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the concept. (A) elucidate (B) elucidates (C) elucidated (D) elucidating",
+            "a": "C",
+            "meaning_ko": "과거형 elucidated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses elucidate most appropriately? (A) The elucidate ran. (B) He elucidated the point. (C) She elucidate smiled. (D) Elucidate is good.",
+            "a": "B",
+            "meaning_ko": "elucidate는 동사로 '명확히 하다'를 의미하며, elucidate + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "passionate",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "열정적인, 열렬한; 열정적이거나 열렬한.",
+        "note": "열정적이거나 열렬한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "강렬한, 격렬한; 강렬하거나 격렬한.",
+        "note": "강렬하거나 격렬한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "열정적이거나 열렬한 상태, 또는 강렬하거나 격렬한 상태.",
+    "etymology": "라틴어 passio(고통)에서 유래했으며, '고통' 의미에서 '열정적인' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '고통' 의미였고, 현대에는 '열정적인' 또는 '열렬한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be passionate 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 열정적인",
+        "example": "passionate about"
+      }
+    ],
+    "requiredComplements": [
+      "be passionate : 열정적이다",
+      "passionate + 명사 : 열정적인 ~",
+      "passionate about + 명사 : ~에 대해 열정적인"
+    ],
+    "morphology": "라틴어 passio에서 유래한 단어로, '고통' 의미에서 '열정적인' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "passionately",
+        "meaning_ko": "열정적으로"
+      },
+      {
+        "word": "passion",
+        "meaning_ko": "열정"
+      }
+    ],
+    "related": [
+      {
+        "word": "enthusiastic",
+        "meaning_ko": "열정적인"
+      },
+      {
+        "word": "ardent",
+        "meaning_ko": "열렬한"
+      },
+      {
+        "word": "fervent",
+        "meaning_ko": "열렬한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "enthusiastic",
+        "meaning_ko": "열정적인"
+      },
+      {
+        "word": "ardent",
+        "meaning_ko": "열렬한"
+      },
+      {
+        "word": "fervent",
+        "meaning_ko": "열렬한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "zealous",
+        "meaning_ko": "열렬한(범위가 더 넓음)"
+      },
+      {
+        "word": "intense",
+        "meaning_ko": "강렬한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "apathetic",
+        "meaning_ko": "무관심한"
+      },
+      {
+        "word": "indifferent",
+        "meaning_ko": "무관심한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "passionate about",
+            "meaning_ko": "~에 대해 열정적인"
+          },
+          {
+            "phrase": "passionate person",
+            "meaning_ko": "열정적인 사람"
+          },
+          {
+            "phrase": "passionate speech",
+            "meaning_ko": "열정적인 연설"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "passionate about music",
+            "meaning_ko": "그 음악에 대해 열정적인"
+          },
+          {
+            "phrase": "passionate advocate",
+            "meaning_ko": "열정적인 옹호자"
+          },
+          {
+            "phrase": "passionate love",
+            "meaning_ko": "열정적인 사랑"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "passionate about the cause",
+            "meaning_ko": "그 대의에 대해 열정적인"
+          },
+          {
+            "phrase": "passionate commitment",
+            "meaning_ko": "열정적인 헌신"
+          },
+          {
+            "phrase": "passionate dedication",
+            "meaning_ko": "열정적인 헌신"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was passionate about music.",
+            "meaning_ko": "그는 그 음악에 대해 열정적이었습니다."
+          },
+          {
+            "sentence": "She gave a passionate speech.",
+            "meaning_ko": "그녀는 열정적인 연설을 했습니다."
+          },
+          {
+            "sentence": "They had passionate love.",
+            "meaning_ko": "그들은 열정적인 사랑을 가졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was passionate about music, with his enthusiastic and ardent interest creating dedication and commitment, though the passion would require expression and action.",
+            "meaning_ko": "그는 그 음악에 대해 열정적이었고, 그의 열정적이고 열렬한 관심이 헌신과 헌신을 만들었지만, 그 열정은 표현과 행동을 요구할 것입니다."
+          },
+          {
+            "sentence": "She gave a passionate speech, with the fervent and zealous delivery creating intensity and emotion, though the passion would need to be conveyed and expressed.",
+            "meaning_ko": "그녀는 열정적인 연설을 했고, 그 열렬하고 열렬한 전달이 강렬함과 감정을 만들었지만, 그 열정은 전달되고 표현될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They had passionate love, with the intense and ardent emotion creating connection and commitment, though the passion would require expression and nurturing.",
+            "meaning_ko": "그들은 열정적인 사랑을 가졌고, 그 강렬하고 열렬한 감정이 연결과 헌신을 만들었지만, 그 열정은 표현과 양육을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to be passionate about the cause that was made in the process created opportunities for commitment and action, with the passion enabling dedication and involvement, though the passion would require comprehensive expression and action to ensure that cause is properly supported and commitment is effectively demonstrated.",
+            "meaning_ko": "그 과정에서 내려졌던 그 대의에 대해 열정적이기로 한 그 결정은 헌신과 행동을 위한 기회를 만들었고, 그 열정이 헌신과 참여를 가능하게 했지만, 그 열정은 대의가 적절히 지원되고 헌신이 효과적으로 입증되는 것을 보장하기 위해 포괄적인 표현과 행동을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to demonstrate passionate commitment that was undertaken in the initiative created pathways for dedication and action, with the demonstration enabling expression of intensity and emotion, though the passion would need to be systematically expressed through action and involvement to ensure that commitment is properly demonstrated and dedication is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 열정적인 헌신을 입증하기 위한 그 노력은 헌신과 행동을 위한 경로를 만들었고, 그 입증이 강렬함과 감정의 표현을 가능하게 했지만, 그 열정은 헌신이 적절히 입증되고 헌신이 효과적으로 달성되는 것을 보장하기 위해 행동과 참여를 통해 체계적으로 표현될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to maintain passionate dedication that was completed in the system created structure and methods for commitment and action, with the maintenance enabling preservation of intensity and emotion, though the passion would require ongoing expression and involvement to ensure that dedication continues to be passionate and commitment remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 열정적인 헌신을 유지하기 위한 그 작업은 헌신과 행동을 위한 구조와 방법을 만들었고, 그 유지가 강렬함과 감정의 보존을 가능하게 했지만, 그 열정은 헌신이 계속 열정적이고 헌신이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 표현과 참여를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "passionate는 '열정적인, 열렬한' 또는 '강렬한, 격렬한' 의미로, 열정적이거나 열렬한 상태를 가리킵니다. enthusiastic, ardent와 비슷하지만 더 강한 뉘앙스가 있습니다. passionate about ~, passionate speech 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: passionate = (A) apathetic (B) enthusiastic or ardent (C) indifferent (D) cold",
+            "a": "B",
+            "meaning_ko": "passionate는 '열정적인 또는 열렬한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was _____ about music.",
+            "a": "passionate",
+            "meaning_ko": "passionate는 '열정적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of passionate? (A) enthusiastic (B) ardent (C) apathetic (D) fervent",
+            "a": "C",
+            "meaning_ko": "apathetic(무관심한)가 passionate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: passionate _____ music. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "passionate about ~는 '~에 대해 열정적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: passionate = (A) apathetic (B) enthusiastic (C) indifferent (D) cold",
+            "a": "B",
+            "meaning_ko": "enthusiastic(열정적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was passionate at music.' → Fix the preposition.",
+            "a": "She was passionate about music.",
+            "meaning_ko": "passionate about ~는 '~에 대해 열정적인' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was passionate about music.'",
+            "a": "He was enthusiastic and ardent regarding the art, with the passion creating dedication and commitment, though the interest would require expression and action.",
+            "meaning_ko": "passionate는 '열정적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They had _____ love. (A) passionate (B) passionately (C) passion (D) passion's",
+            "a": "A",
+            "meaning_ko": "형용사 passionate가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses passionate most appropriately? (A) The passionate ran. (B) He was passionate about music. (C) She passionate smiled. (D) Passionate is good.",
+            "a": "B",
+            "meaning_ko": "passionate는 형용사로 '열정적인'을 의미하며, be passionate about ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "choreography",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "안무, 무용 구성; 안무나 무용 구성.",
+        "note": "안무나 무용 구성을 가리킵니다."
+      },
+      {
+        "definition_ko": "무용술, 무용술; 무용술이나 무용술.",
+        "note": "무용술이나 무용술을 가리킵니다."
+      }
+    ],
+    "concept": "안무나 무용 구성인 안무, 또는 무용술이나 무용술.",
+    "etymology": "그리스어 choreia(춤) + graphia(쓰기)의 조합으로, '춤 쓰기' 의미입니다.",
+    "semanticExtension": "원래는 '춤 쓰기' 의미였고, 현대에는 '안무' 또는 '무용 구성'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 불가산명사로 사용되며, choreography 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 안무",
+        "example": "choreography of"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 안무",
+        "example": "choreography for"
+      }
+    ],
+    "requiredComplements": [
+      "choreography : 안무/무용 구성",
+      "choreography of + 명사 : ~의 안무",
+      "choreography for + 명사 : ~을 위한 안무"
+    ],
+    "morphology": "그리스어 choreia(춤) + graphia(쓰기)의 조합으로, '춤 쓰기' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "choreograph",
+        "meaning_ko": "안무하다"
+      },
+      {
+        "word": "choreographer",
+        "meaning_ko": "안무가"
+      },
+      {
+        "word": "choreographic",
+        "meaning_ko": "안무의"
+      }
+    ],
+    "related": [
+      {
+        "word": "dance",
+        "meaning_ko": "춤"
+      },
+      {
+        "word": "movement",
+        "meaning_ko": "움직임"
+      },
+      {
+        "word": "performance",
+        "meaning_ko": "공연"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "dance",
+        "meaning_ko": "춤"
+      },
+      {
+        "word": "movement",
+        "meaning_ko": "움직임"
+      },
+      {
+        "word": "performance",
+        "meaning_ko": "공연"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "composition",
+        "meaning_ko": "구성(범위가 더 넓음)"
+      },
+      {
+        "word": "arrangement",
+        "meaning_ko": "배치"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "improvisation",
+        "meaning_ko": "즉흥"
+      },
+      {
+        "word": "spontaneity",
+        "meaning_ko": "자발성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "choreography of",
+            "meaning_ko": "~의 안무"
+          },
+          {
+            "phrase": "choreography for",
+            "meaning_ko": "~을 위한 안무"
+          },
+          {
+            "phrase": "create choreography",
+            "meaning_ko": "안무를 만들다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "choreography of the dance",
+            "meaning_ko": "그 춤의 안무"
+          },
+          {
+            "phrase": "choreography for the show",
+            "meaning_ko": "그 쇼를 위한 안무"
+          },
+          {
+            "phrase": "dance choreography",
+            "meaning_ko": "춤 안무"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "choreography of the performance",
+            "meaning_ko": "그 공연의 안무"
+          },
+          {
+            "phrase": "choreography for the production",
+            "meaning_ko": "그 제작을 위한 안무"
+          },
+          {
+            "phrase": "theatrical choreography",
+            "meaning_ko": "연극적 안무"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He created the choreography.",
+            "meaning_ko": "그는 그 안무를 만들었습니다."
+          },
+          {
+            "sentence": "She studied the choreography of the dance.",
+            "meaning_ko": "그녀는 그 춤의 안무를 공부했습니다."
+          },
+          {
+            "sentence": "They performed the choreography for the show.",
+            "meaning_ko": "그들은 그 쇼를 위한 안무를 공연했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He created the choreography, with his dance and movement creating performance and composition, though the choreography would require practice and precision.",
+            "meaning_ko": "그는 그 안무를 만들었고, 그의 춤 그리고 움직임이 공연과 구성을 만들었지만, 그 안무는 연습과 정밀도를 요구할 것입니다."
+          },
+          {
+            "sentence": "She studied the choreography of the dance, with the arrangement and composition creating structure and movement, though the choreography would need to be learned and practiced.",
+            "meaning_ko": "그녀는 그 춤의 안무를 공부했고, 그 배치 그리고 구성이 구조와 움직임을 만들었지만, 그 안무는 학습되고 연습될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They performed the choreography for the show, with the performance and movement creating dance and expression, though the choreography would require execution and skill.",
+            "meaning_ko": "그들은 그 쇼를 위한 안무를 공연했고, 그 공연 그리고 움직임이 춤과 표현을 만들었지만, 그 안무는 실행과 기술을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to develop choreography of the performance that was made in the process created opportunities for creativity and expression, with the development enabling creation of movement and composition, though the choreography would require comprehensive planning and practice to ensure that performance is properly choreographed and expression is effectively achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 공연의 그 안무를 발전시키기로 한 그 결정은 창의성과 표현을 위한 기회를 만들었고, 그 발전이 움직임과 구성의 창조를 가능하게 했지만, 그 안무는 공연이 적절히 안무되고 표현이 효과적으로 달성되는 것을 보장하기 위해 포괄적인 계획과 연습을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to create choreography for the production that was undertaken in the initiative created pathways for creativity and performance, with the creation enabling development of movement and arrangement, though the choreography would need to be systematically developed through planning and practice to ensure that production is properly choreographed and creativity is effectively expressed.",
+            "meaning_ko": "그 계획에서 착수되었던 그 제작을 위한 그 안무를 창조하기 위한 그 노력은 창의성과 공연을 위한 경로를 만들었고, 그 창조가 움직임과 배치의 발전을 가능하게 했지만, 그 안무는 제작이 적절히 안무되고 창의성이 효과적으로 표현되는 것을 보장하기 위해 계획과 연습을 통해 체계적으로 발전될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to refine theatrical choreography that was completed in the system created structure and methods for creativity and expression, with the refinement enabling enhancement of movement and composition, though the choreography would require ongoing practice and development to ensure that choreography continues to be refined and expression remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 연극적 안무를 정제하기 위한 그 작업은 창의성과 표현을 위한 구조와 방법을 만들었고, 그 정제가 움직임과 구성의 향상을 가능하게 했지만, 그 안무는 안무가 계속 정제되고 표현이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 연습과 발전을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "choreography는 '안무, 무용 구성' 또는 '무용술, 무용술' 의미로, 안무나 무용 구성을 가리킵니다. dance, movement와 비슷하지만 더 전문적 뉘앙스가 있습니다. choreography of ~, choreography for ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: choreography = (A) improvisation (B) dance or movement (C) spontaneity (D) chaos",
+            "a": "B",
+            "meaning_ko": "choreography는 '춤 또는 움직임' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He created the _____.",
+            "a": "choreography",
+            "meaning_ko": "choreography는 '안무' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of choreography? (A) dance (B) movement (C) improvisation (D) performance",
+            "a": "C",
+            "meaning_ko": "improvisation(즉흥)가 choreography의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: choreography _____ the dance. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "choreography of ~는 '~의 안무' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: choreography = (A) improvisation (B) dance (C) spontaneity (D) chaos",
+            "a": "B",
+            "meaning_ko": "dance(춤)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She studied the choreography at the dance.' → Fix the preposition.",
+            "a": "She studied the choreography of the dance.",
+            "meaning_ko": "choreography of ~는 '~의 안무' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He created the choreography.'",
+            "a": "He developed dance and movement composition, with the choreography creating performance and expression, though the creation would require practice and precision.",
+            "meaning_ko": "choreography는 '안무' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They performed the _____ for the show. (A) choreography (B) choreographies (C) choreograph (D) choreographer",
+            "a": "A",
+            "meaning_ko": "명사 choreography가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses choreography most appropriately? (A) The choreography ran. (B) He created the choreography. (C) She choreography smiled. (D) Choreography is good.",
+            "a": "B",
+            "meaning_ko": "choreography는 명사로 '안무'를 의미하며, create the choreography와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

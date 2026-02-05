@@ -1,0 +1,821 @@
+[
+  {
+    "word": "regimen",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "규칙, 체계; 규칙이나 체계.",
+        "note": "규칙이나 체계를 가리킵니다."
+      },
+      {
+        "definition_ko": "요법, 치료법; 요법이나 치료법.",
+        "note": "요법이나 치료법을 가리킵니다."
+      }
+    ],
+    "concept": "규칙이나 체계인 규칙, 또는 요법이나 치료법.",
+    "etymology": "라틴어 regimen(통치)에서 유래했으며, regere(통치하다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '통치' 의미였고, 현대에는 '규칙이나 체계'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, regimen 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 규칙",
+        "example": "regimen of"
+      }
+    ],
+    "requiredComplements": [
+      "regimen : 규칙/체계",
+      "regimen of + 명사 : ~의 규칙"
+    ],
+    "morphology": "라틴어 regimen에서 유래한 단어로, regere(통치하다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "regimens",
+        "meaning_ko": "규칙들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "routine",
+        "meaning_ko": "규칙"
+      },
+      {
+        "word": "system",
+        "meaning_ko": "체계"
+      },
+      {
+        "word": "program",
+        "meaning_ko": "프로그램"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "routine",
+        "meaning_ko": "규칙"
+      },
+      {
+        "word": "system",
+        "meaning_ko": "체계"
+      },
+      {
+        "word": "program",
+        "meaning_ko": "프로그램"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "schedule",
+        "meaning_ko": "일정(범위가 더 넓음)"
+      },
+      {
+        "word": "plan",
+        "meaning_ko": "계획"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "chaos",
+        "meaning_ko": "혼란"
+      },
+      {
+        "word": "disorder",
+        "meaning_ko": "무질서"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "regimen of",
+            "meaning_ko": "~의 규칙"
+          },
+          {
+            "phrase": "daily regimen",
+            "meaning_ko": "일일 규칙"
+          },
+          {
+            "phrase": "exercise regimen",
+            "meaning_ko": "운동 규칙"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "regimen of treatment",
+            "meaning_ko": "치료의 규칙"
+          },
+          {
+            "phrase": "strict regimen",
+            "meaning_ko": "엄격한 규칙"
+          },
+          {
+            "phrase": "health regimen",
+            "meaning_ko": "건강 규칙"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "regimen of care",
+            "meaning_ko": "돌봄의 규칙"
+          },
+          {
+            "phrase": "comprehensive regimen",
+            "meaning_ko": "포괄적인 규칙"
+          },
+          {
+            "phrase": "therapeutic regimen",
+            "meaning_ko": "치료 규칙"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He followed a daily regimen.",
+            "meaning_ko": "그는 일일 규칙을 따랐습니다."
+          },
+          {
+            "sentence": "She started an exercise regimen.",
+            "meaning_ko": "그녀는 운동 규칙을 시작했습니다."
+          },
+          {
+            "sentence": "They maintained a strict regimen.",
+            "meaning_ko": "그들은 엄격한 규칙을 유지했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He followed a daily regimen, with his routine and system creating structure and discipline, though the regimen would require commitment and consistency.",
+            "meaning_ko": "그는 일일 규칙을 따랐고, 그의 규칙과 체계가 구조와 훈련을 만들었지만, 그 규칙은 헌신과 일관성을 요구할 것입니다."
+          },
+          {
+            "sentence": "She started an exercise regimen, with her program and schedule creating fitness and health, though the regimen would need to be maintained and adjusted.",
+            "meaning_ko": "그녀는 운동 규칙을 시작했고, 그녀의 프로그램과 일정이 건강과 건강을 만들었지만, 그 규칙은 유지되고 조정될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They maintained a strict regimen, with their routine and plan creating order and efficiency, though the regimen would require dedication and effort.",
+            "meaning_ko": "그들은 엄격한 규칙을 유지했고, 그들의 규칙과 계획이 질서와 효율을 만들었지만, 그 규칙은 헌신과 노력을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to follow a comprehensive regimen of care that was made in the treatment created a structured approach to health and wellness, with the system enabling consistency and effectiveness, though the regimen would require ongoing adherence and monitoring to ensure that the therapeutic goals are achieved and maintained.",
+            "meaning_ko": "그 치료에서 내려졌던 그 돌봄의 포괄적인 규칙을 따르기로 한 그 결정은 건강과 웰빙에 대한 구조화된 접근을 만들었고, 그 체계가 일관성과 효과성을 가능하게 했지만, 그 규칙은 치료 목표가 달성되고 유지되는 것을 보장하기 위해 지속적인 준수와 모니터링을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to develop a therapeutic regimen that was undertaken in the program created opportunities for recovery and improvement, with the plan enabling systematic treatment and care, though the regimen would need to be personalized and adapted to ensure that individual needs are met and outcomes are optimized.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 치료 규칙을 발전시키기 위한 그 노력은 회복과 개선을 위한 기회를 만들었고, 그 계획이 체계적인 치료와 돌봄을 가능하게 했지만, 그 규칙은 개인적 필요가 충족되고 결과가 최적화되는 것을 보장하기 위해 개인화되고 적응될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to maintain the health regimen that was completed in the practice created stability and progress in wellness, with the routine enabling consistency and habit formation, though the regimen would require continuous commitment and adjustment to respond to changing needs and ensure long-term success.",
+            "meaning_ko": "그 실천에서 완료되었던 그 건강 규칙을 유지하기 위한 그 작업은 웰빙에서 안정성과 진행을 만들었고, 그 규칙이 일관성과 습관 형성을 가능하게 했지만, 그 규칙은 변화하는 필요에 대응하고 장기적 성공을 보장하기 위해 지속적인 헌신과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "regimen는 '규칙, 체계' 또는 '요법, 치료법' 의미로, 규칙이나 체계를 가리킵니다. routine, system와 비슷하지만 더 문어적 뉘앙스가 있습니다. regimen of ~, daily regimen 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: regimen = (A) chaos (B) routine or system (C) disorder (D) confusion",
+            "a": "B",
+            "meaning_ko": "regimen는 '규칙 또는 체계' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He followed a daily _____.",
+            "a": "regimen",
+            "meaning_ko": "regimen는 '규칙' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of regimen? (A) routine (B) system (C) chaos (D) program",
+            "a": "C",
+            "meaning_ko": "chaos(혼란)가 regimen의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: regimen _____ treatment. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "regimen of ~는 '~의 규칙' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: regimen = (A) chaos (B) routine (C) disorder (D) confusion",
+            "a": "B",
+            "meaning_ko": "routine(규칙)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She started an exercise regimen at treatment.' → Fix the sentence.",
+            "a": "She started an exercise regimen.",
+            "meaning_ko": "regimen는 직접 명사로 쓰이므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He followed a daily regimen.'",
+            "a": "He adhered to a routine and system on a daily basis, with the regimen creating structure and discipline, though the routine would require commitment and consistency.",
+            "meaning_ko": "regimen는 '규칙' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They maintained a strict _____. (A) regimen (B) regimens (C) regimened (D) regimening",
+            "a": "A",
+            "meaning_ko": "명사 regimen가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses regimen most appropriately? (A) The regimen ran. (B) He followed a daily regimen. (C) She regimen smiled. (D) Regimen is good.",
+            "a": "B",
+            "meaning_ko": "regimen는 명사로 '규칙'을 의미하며, follow a regimen와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "slack",
+    "partOfSpeech": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "느슨한, 느슨해진; 느슨하거나 느슨해진.",
+        "note": "느슨하거나 느슨해진 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "느슨한 부분, 여유; 느슨한 부분이나 여유.",
+        "note": "느슨한 부분이나 여유를 가리킵니다."
+      },
+      {
+        "definition_ko": "느슨하게 하다, 느슨해지다; 느슨하게 하거나 느슨해지다.",
+        "note": "느슨하게 하거나 느슨해지는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "느슨하거나 느슨해진 상태, 또는 느슨한 부분이나 여유, 또는 느슨하게 하거나 느슨해지는 것.",
+    "etymology": "고대 영어 slæc(느슨한)에서 유래했으며, 현대에는 '느슨한' 의미로 사용됩니다.",
+    "semanticExtension": "원래는 '느슨한' 의미였고, 현대에는 '느슨한 부분이나 여유'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사, 명사, 동사로 모두 사용되며, slack 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "off",
+        "meaning_ko": "~을 느슨하게 하다",
+        "example": "slack off"
+      }
+    ],
+    "requiredComplements": [
+      "slack : 느슨한/느슨한 부분",
+      "slack + 명사 : 느슨한 ~",
+      "slack off : 느슨해지다"
+    ],
+    "morphology": "고대 영어 slæc에서 유래한 단어로, 현대에는 '느슨한' 의미로 사용됩니다.",
+    "derivatives": [
+      {
+        "word": "slacks",
+        "meaning_ko": "느슨한 부분들(복수형)"
+      },
+      {
+        "word": "slacked",
+        "meaning_ko": "느슨하게 한(과거분사/형용사)"
+      },
+      {
+        "word": "slacking",
+        "meaning_ko": "느슨하게 하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "loose",
+        "meaning_ko": "느슨한"
+      },
+      {
+        "word": "relaxed",
+        "meaning_ko": "느슨한"
+      },
+      {
+        "word": "lax",
+        "meaning_ko": "느슨한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "loose",
+        "meaning_ko": "느슨한"
+      },
+      {
+        "word": "relaxed",
+        "meaning_ko": "느슨한"
+      },
+      {
+        "word": "lax",
+        "meaning_ko": "느슨한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sluggish",
+        "meaning_ko": "느린(범위가 더 넓음)"
+      },
+      {
+        "word": "slow",
+        "meaning_ko": "느린"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tight",
+        "meaning_ko": "단단한"
+      },
+      {
+        "word": "taut",
+        "meaning_ko": "팽팽한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "slack off",
+            "meaning_ko": "느슨해지다"
+          },
+          {
+            "phrase": "slack rope",
+            "meaning_ko": "느슨한 밧줄"
+          },
+          {
+            "phrase": "slack pace",
+            "meaning_ko": "느슨한 속도"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "slack off work",
+            "meaning_ko": "일을 느슨하게 하다"
+          },
+          {
+            "phrase": "slack demand",
+            "meaning_ko": "느슨한 수요"
+          },
+          {
+            "phrase": "slack season",
+            "meaning_ko": "느슨한 계절"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "slack off effort",
+            "meaning_ko": "노력을 느슨하게 하다"
+          },
+          {
+            "phrase": "slack performance",
+            "meaning_ko": "느슨한 성과"
+          },
+          {
+            "phrase": "slack discipline",
+            "meaning_ko": "느슨한 훈련"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He slacked off.",
+            "meaning_ko": "그는 느슨해졌습니다."
+          },
+          {
+            "sentence": "She had a slack rope.",
+            "meaning_ko": "그녀는 느슨한 밧줄을 가졌습니다."
+          },
+          {
+            "sentence": "They worked at a slack pace.",
+            "meaning_ko": "그들은 느슨한 속도로 일했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He slacked off, with his relaxed and lax attitude creating inefficiency and delay, though the slacking would require attention and correction.",
+            "meaning_ko": "그는 느슨해졌고, 그의 느슨하고 느슨한 태도가 비효율과 지연을 만들었지만, 그 느슨해짐은 주의와 수정을 요구할 것입니다."
+          },
+          {
+            "sentence": "She had a slack rope, with the loose and relaxed condition creating danger and risk, though the slack would need to be tightened and secured.",
+            "meaning_ko": "그녀는 느슨한 밧줄을 가졌고, 그 느슨하고 느슨한 조건이 위험과 위험을 만들었지만, 그 느슨함은 조여지고 고정될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They worked at a slack pace, with their slow and sluggish speed creating inefficiency and problems, though the slack would require improvement and acceleration.",
+            "meaning_ko": "그들은 느슨한 속도로 일했고, 그들의 느리고 느린 속도가 비효율과 문제를 만들었지만, 그 느슨함은 개선과 가속을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address the slacking off effort that was made in the management created awareness and action to improve performance, with the recognition enabling correction and improvement, though the slack would require systematic monitoring and intervention to ensure that standards are maintained and productivity is restored.",
+            "meaning_ko": "그 관리에서 내려졌던 그 노력을 느슨하게 하는 것을 다루기로 한 그 결정은 성과를 개선하기 위한 인식과 행동을 만들었고, 그 인정이 수정과 개선을 가능하게 했지만, 그 느슨함은 기준이 유지되고 생산성이 회복되는 것을 보장하기 위해 체계적인 모니터링과 개입을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to tighten the slack performance that was undertaken in the review created opportunities for improvement and correction, with the analysis enabling identification of issues and solutions, though the slack would need to be addressed through comprehensive strategies to ensure that performance meets expectations and quality is maintained.",
+            "meaning_ko": "그 검토에서 착수되었던 그 느슨한 성과를 조이기 위한 그 노력은 개선과 수정을 위한 기회를 만들었고, 그 분석이 이슈와 해결책의 식별을 가능하게 했지만, 그 느슨함은 성과가 기대를 충족하고 품질이 유지되는 것을 보장하기 위해 포괄적인 전략을 통해 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to improve the slack discipline that was completed in the program created structure and accountability, with the measures enabling enforcement and compliance, though the slack would require ongoing attention and reinforcement to ensure that discipline is maintained and standards are upheld.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 느슨한 훈련을 개선하기 위한 그 작업은 구조와 책임을 만들었고, 그 조치가 강제와 준수를 가능하게 했지만, 그 느슨함은 훈련이 유지되고 기준이 유지되는 것을 보장하기 위해 지속적인 주의와 강화를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "slack는 '느슨한, 느슨해진' 또는 '느슨한 부분, 여유' 또는 '느슨하게 하다, 느슨해지다' 의미로, 느슨하거나 느슨해진 상태를 가리킵니다. loose, relaxed와 비슷하지만 더 일반적 뉘앙스가 있습니다. slack off ~, slack rope 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: slack = (A) tight (B) loose or relaxed (C) taut (D) firm",
+            "a": "B",
+            "meaning_ko": "slack는 '느슨한 또는 느슨한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ off.",
+            "a": "slacked",
+            "meaning_ko": "slack는 '느슨해지다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of slack? (A) loose (B) relaxed (C) tight (D) lax",
+            "a": "C",
+            "meaning_ko": "tight(단단한)가 slack의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: slack _____ work. (A) off (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "slack off ~는 '~을 느슨하게 하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: slack = (A) tight (B) loose (C) taut (D) firm",
+            "a": "B",
+            "meaning_ko": "loose(느슨한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She had a slack rope at work.' → Fix the sentence.",
+            "a": "She had a slack rope.",
+            "meaning_ko": "slack는 직접 형용사로 쓰이므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He slacked off.'",
+            "a": "He became relaxed and lax in his effort, with the slacking creating inefficiency and delay, though the slack would require attention and correction.",
+            "meaning_ko": "slack는 '느슨해지다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They worked at a _____ pace. (A) slack (B) slacks (C) slacked (D) slacking",
+            "a": "A",
+            "meaning_ko": "형용사 slack가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses slack most appropriately? (A) The slack ran. (B) He slacked off. (C) She slack smiled. (D) Slack is good.",
+            "a": "B",
+            "meaning_ko": "slack는 자동사로 '느슨해지다'를 의미하며, slack off와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "complicated",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "복잡한, 복잡해진; 복잡하거나 복잡해진.",
+        "note": "복잡하거나 복잡해진 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "어려운, 까다로운; 어렵거나 까다로운.",
+        "note": "어렵거나 까다로운 상태를 가리킵니다."
+      }
+    ],
+    "concept": "복잡하거나 복잡해진 상태, 또는 어렵거나 까다로운 상태.",
+    "etymology": "라틴어 complicare(접다)에서 유래했으며, com(함께) + plicare(접다)의 조합입니다.",
+    "semanticExtension": "원래는 '접다' 의미였고, 현대에는 '복잡하거나 복잡해진'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be complicated 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "by",
+        "meaning_ko": "~에 의해 복잡한",
+        "example": "complicated by"
+      }
+    ],
+    "requiredComplements": [
+      "be complicated : 복잡하다",
+      "complicated + 명사 : 복잡한 ~",
+      "complicated by + 명사 : ~에 의해 복잡한"
+    ],
+    "morphology": "라틴어 complicare에서 유래한 단어로, com(함께) + plicare(접다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "complicatedly",
+        "meaning_ko": "복잡하게"
+      },
+      {
+        "word": "complicate",
+        "meaning_ko": "복잡하게 하다"
+      },
+      {
+        "word": "complication",
+        "meaning_ko": "복잡함"
+      }
+    ],
+    "related": [
+      {
+        "word": "complex",
+        "meaning_ko": "복잡한"
+      },
+      {
+        "word": "intricate",
+        "meaning_ko": "복잡한"
+      },
+      {
+        "word": "difficult",
+        "meaning_ko": "어려운"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "complex",
+        "meaning_ko": "복잡한"
+      },
+      {
+        "word": "intricate",
+        "meaning_ko": "복잡한"
+      },
+      {
+        "word": "difficult",
+        "meaning_ko": "어려운"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "sophisticated",
+        "meaning_ko": "정교한(범위가 더 넓음)"
+      },
+      {
+        "word": "elaborate",
+        "meaning_ko": "정교한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "simple",
+        "meaning_ko": "단순한"
+      },
+      {
+        "word": "easy",
+        "meaning_ko": "쉬운"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "complicated by",
+            "meaning_ko": "~에 의해 복잡한"
+          },
+          {
+            "phrase": "complicated situation",
+            "meaning_ko": "복잡한 상황"
+          },
+          {
+            "phrase": "complicated problem",
+            "meaning_ko": "복잡한 문제"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "complicated by factors",
+            "meaning_ko": "요인에 의해 복잡한"
+          },
+          {
+            "phrase": "complicated process",
+            "meaning_ko": "복잡한 과정"
+          },
+          {
+            "phrase": "complicated issue",
+            "meaning_ko": "복잡한 이슈"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "complicated by circumstances",
+            "meaning_ko": "상황에 의해 복잡한"
+          },
+          {
+            "phrase": "complicated relationship",
+            "meaning_ko": "복잡한 관계"
+          },
+          {
+            "phrase": "complicated matter",
+            "meaning_ko": "복잡한 사안"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It was complicated.",
+            "meaning_ko": "그것은 복잡했습니다."
+          },
+          {
+            "sentence": "She found the situation complicated.",
+            "meaning_ko": "그녀는 그 상황이 복잡하다고 발견했습니다."
+          },
+          {
+            "sentence": "They faced a complicated problem.",
+            "meaning_ko": "그들은 복잡한 문제에 직면했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "It was complicated, with the complex and intricate nature creating difficulty and challenge, though the complication would require analysis and understanding.",
+            "meaning_ko": "그것은 복잡했고, 그 복잡하고 복잡한 본질이 어려움과 도전을 만들었지만, 그 복잡함은 분석과 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "She found the situation complicated, with the difficult and sophisticated condition creating confusion and uncertainty, though the complication would need to be addressed and resolved.",
+            "meaning_ko": "그녀는 그 상황이 복잡하다고 발견했고, 그 어렵고 정교한 조건이 혼란과 불확실성을 만들었지만, 그 복잡함은 다뤄지고 해결될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They faced a complicated problem, with the elaborate and complex issue creating obstacles and challenges, though the complication would require careful examination and solution.",
+            "meaning_ko": "그들은 복잡한 문제에 직면했고, 그 정교하고 복잡한 이슈가 장애와 도전을 만들었지만, 그 복잡함은 신중한 검토와 해결책을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address the complicated relationship that was made in the counseling created opportunities for understanding and resolution, with the analysis enabling identification of issues and dynamics, though the complication would require ongoing communication and effort to ensure that the relationship is improved and conflicts are resolved.",
+            "meaning_ko": "그 상담에서 내려졌던 그 복잡한 관계를 다루기로 한 그 결정은 이해와 해결을 위한 기회를 만들었고, 그 분석이 이슈와 역학의 식별을 가능하게 했지만, 그 복잡함은 관계가 개선되고 갈등이 해결되는 것을 보장하기 위해 지속적인 소통과 노력을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to understand the complicated matter that was undertaken in the investigation created pathways for clarity and solution, with the examination enabling recognition of factors and relationships, though the complication would need to be systematically analyzed through comprehensive approaches to ensure that all aspects are considered and effective solutions are developed.",
+            "meaning_ko": "그 조사에서 착수되었던 그 복잡한 사안을 이해하기 위한 그 노력은 명확성과 해결책을 위한 경로를 만들었고, 그 검토가 요인과 관계의 인식을 가능하게 했지만, 그 복잡함은 모든 측면이 고려되고 효과적인 해결책이 개발되는 것을 보장하기 위해 포괄적인 접근을 통해 체계적으로 분석될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to resolve the complicated issue that was completed in the program created progress and improvement, with the solution enabling clarity and resolution, though the complication would require continuous monitoring and adjustment to ensure that the resolution is maintained and new complications do not arise.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 복잡한 이슈를 해결하기 위한 그 작업은 진행과 개선을 만들었고, 그 해결책이 명확성과 해결을 가능하게 했지만, 그 복잡함은 해결이 유지되고 새로운 복잡함이 발생하지 않도록 지속적인 모니터링과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "complicated는 '복잡한, 복잡해진' 또는 '어려운, 까다로운' 의미로, 복잡하거나 복잡해진 상태를 가리킵니다. complex, intricate와 비슷하지만 더 일반적 뉘앙스가 있습니다. complicated by ~, complicated situation 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: complicated = (A) simple (B) complex or difficult (C) easy (D) basic",
+            "a": "B",
+            "meaning_ko": "complicated는 '복잡한 또는 어려운' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: It was _____.",
+            "a": "complicated",
+            "meaning_ko": "complicated는 '복잡한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of complicated? (A) complex (B) intricate (C) simple (D) difficult",
+            "a": "C",
+            "meaning_ko": "simple(단순한)가 complicated의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: complicated _____ factors. (A) by (B) at (C) on (D) in",
+            "a": "A",
+            "meaning_ko": "complicated by ~는 '~에 의해 복잡한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: complicated = (A) simple (B) complex (C) easy (D) basic",
+            "a": "B",
+            "meaning_ko": "complex(복잡한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She found the situation complicated at factors.' → Fix the sentence.",
+            "a": "She found the situation complicated by factors.",
+            "meaning_ko": "complicated by ~는 '~에 의해 복잡한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'It was complicated.'",
+            "a": "It was complex and intricate in nature, with the complicated condition creating difficulty and challenge, though the complication would require analysis and understanding.",
+            "meaning_ko": "complicated는 '복잡한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They faced a _____ problem. (A) complicated (B) complicatedly (C) complication (D) complicate",
+            "a": "A",
+            "meaning_ko": "형용사 complicated가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses complicated most appropriately? (A) The complicated ran. (B) It was complicated. (C) She complicated smiled. (D) Complicated is good.",
+            "a": "B",
+            "meaning_ko": "complicated는 형용사로 '복잡한'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

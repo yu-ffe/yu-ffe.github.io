@@ -1,0 +1,849 @@
+[
+  {
+    "word": "lament",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "슬퍼하다, 애도하다; 슬퍼하거나 애도하다.",
+        "note": "슬퍼하거나 애도하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "한탄하다, 비탄하다; 한탄하거나 비탄하다.",
+        "note": "한탄하거나 비탄하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "비탄, 애도; 비탄이나 애도.",
+        "note": "비탄이나 애도를 가리킵니다."
+      }
+    ],
+    "concept": "슬퍼하거나 애도하는 것, 또는 한탄하거나 비탄하는 것, 또는 비탄이나 애도.",
+    "etymology": "라틴어 lamentari(슬퍼하다)에서 유래했으며, '슬퍼하다' 의미입니다.",
+    "semanticExtension": "원래는 '슬퍼하다' 의미였고, 현대에는 '한탄하거나 비탄하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "동사와 명사로 모두 사용되며, lament 형태로 자주 사용됩니다.",
+    "transitivity": "타동사/자동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "over",
+        "meaning_ko": "~에 대해 슬퍼하다",
+        "example": "lament over"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위해 슬퍼하다",
+        "example": "lament for"
+      }
+    ],
+    "requiredComplements": [
+      "lament : 슬퍼하다",
+      "lament over/for + 명사 : ~에 대해/을 위해 슬퍼하다"
+    ],
+    "morphology": "라틴어 lamentari에서 유래한 단어로, '슬퍼하다' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "lamented",
+        "meaning_ko": "슬퍼한(과거분사/형용사)"
+      },
+      {
+        "word": "lamenting",
+        "meaning_ko": "슬퍼하는(현재분사/형용사)"
+      },
+      {
+        "word": "lamentation",
+        "meaning_ko": "비탄"
+      },
+      {
+        "word": "lamentations",
+        "meaning_ko": "비탄들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "mourn",
+        "meaning_ko": "슬퍼하다"
+      },
+      {
+        "word": "grieve",
+        "meaning_ko": "슬퍼하다"
+      },
+      {
+        "word": "bemoan",
+        "meaning_ko": "한탄하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "mourn",
+        "meaning_ko": "슬퍼하다"
+      },
+      {
+        "word": "grieve",
+        "meaning_ko": "슬퍼하다"
+      },
+      {
+        "word": "bemoan",
+        "meaning_ko": "한탄하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "bewail",
+        "meaning_ko": "한탄하다(범위가 더 넓음)"
+      },
+      {
+        "word": "deplore",
+        "meaning_ko": "한탄하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "rejoice",
+        "meaning_ko": "기뻐하다"
+      },
+      {
+        "word": "celebrate",
+        "meaning_ko": "축하하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "lament over",
+            "meaning_ko": "~에 대해 슬퍼하다"
+          },
+          {
+            "phrase": "lament for",
+            "meaning_ko": "~을 위해 슬퍼하다"
+          },
+          {
+            "phrase": "lament the loss",
+            "meaning_ko": "그 손실을 슬퍼하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "lament over the death",
+            "meaning_ko": "그 죽음에 대해 슬퍼하다"
+          },
+          {
+            "phrase": "lament for the victim",
+            "meaning_ko": "그 피해자를 위해 슬퍼하다"
+          },
+          {
+            "phrase": "lament the tragedy",
+            "meaning_ko": "그 비극을 슬퍼하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "lament over the situation",
+            "meaning_ko": "그 상황에 대해 슬퍼하다"
+          },
+          {
+            "phrase": "lament for the fallen",
+            "meaning_ko": "그 전사자들을 위해 슬퍼하다"
+          },
+          {
+            "phrase": "lament the decline",
+            "meaning_ko": "그 쇠퇴를 슬퍼하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He lamented the loss.",
+            "meaning_ko": "그는 그 손실을 슬퍼했습니다."
+          },
+          {
+            "sentence": "She lamented over the death.",
+            "meaning_ko": "그녀는 그 죽음에 대해 슬퍼했습니다."
+          },
+          {
+            "sentence": "They lamented for the victim.",
+            "meaning_ko": "그들은 그 피해자를 위해 슬퍼했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He lamented the loss, with his mourn and grieve creating sorrow and sadness, though the lamentation would require time and healing.",
+            "meaning_ko": "그는 그 손실을 슬퍼했고, 그의 슬퍼하기와 슬퍼하기가 슬픔과 슬픔을 만들었지만, 그 비탄은 시간과 치유를 요구할 것입니다."
+          },
+          {
+            "sentence": "She lamented over the death, with her bemoan and bewail creating grief and mourning, though the lamentation would need to be processed and accepted.",
+            "meaning_ko": "그녀는 그 죽음에 대해 슬퍼했고, 그녀의 한탄하기와 한탄하기가 슬픔과 애도를 만들었지만, 그 비탄은 처리되고 수용될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They lamented for the victim, with their deplore and grieve creating sympathy and compassion, though the lamentation would require support and understanding.",
+            "meaning_ko": "그들은 그 피해자를 위해 슬퍼했고, 그들의 한탄하기와 슬퍼하기가 동정과 연민을 만들었지만, 그 비탄은 지원과 이해를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to lament over the situation that was made in the response created opportunities for expression and processing of grief, with the lamentation enabling acknowledgment of loss and suffering, though the lament would require time and support to ensure that grief is properly processed and healing can occur.",
+            "meaning_ko": "그 응답에서 내려졌던 그 상황에 대해 슬퍼하기로 한 그 결정은 슬픔의 표현과 처리를 위한 기회를 만들었고, 그 비탄이 손실과 고통의 인정을 가능하게 했지만, 그 슬퍼하기는 슬픔이 적절히 처리되고 치유가 일어날 수 있는 것을 보장하기 위해 시간과 지원을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to lament for the fallen that was undertaken in the ceremony created pathways for remembrance and honor, with the lamentation enabling recognition of sacrifice and loss, though the lament would need to be conducted with respect and dignity to ensure that the fallen are properly honored and their sacrifice is remembered.",
+            "meaning_ko": "그 의식에서 착수되었던 그 전사자들을 위해 슬퍼하기 위한 그 노력은 기억과 명예를 위한 경로를 만들었고, 그 비탄이 희생과 손실의 인정을 가능하게 했지만, 그 슬퍼하기는 전사자들이 적절히 존경되고 그들의 희생이 기억되는 것을 보장하기 위해 존중과 품위로 수행될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to lament the decline that was completed in the analysis created structure and methods for understanding loss and change, with the lamentation enabling recognition of what has been lost and what needs to be addressed, though the lament would require ongoing reflection and action to ensure that decline is understood and appropriate responses are developed.",
+            "meaning_ko": "그 분석에서 완료되었던 그 쇠퇴를 슬퍼하기 위한 그 작업은 손실과 변화를 이해하기 위한 구조와 방법을 만들었고, 그 비탄이 무엇이 잃어졌는지와 무엇이 다뤄져야 하는지의 인정을 가능하게 했지만, 그 슬퍼하기는 쇠퇴가 이해되고 적절한 대응이 발전되는 것을 보장하기 위해 지속적인 성찰과 행동을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "lament는 '슬퍼하다, 애도하다' 또는 '한탄하다, 비탄하다' 의미로, 슬퍼하거나 애도하는 행동을 가리킵니다. mourn, grieve와 비슷하지만 더 문어적 뉘앙스가 있습니다. lament over/for ~, lament the loss 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: lament = (A) rejoice (B) mourn or grieve (C) celebrate (D) cheer",
+            "a": "B",
+            "meaning_ko": "lament는 '슬퍼하다 또는 슬퍼하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the loss.",
+            "a": "lamented",
+            "meaning_ko": "lament는 '슬퍼하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of lament? (A) mourn (B) grieve (C) rejoice (D) bemoan",
+            "a": "C",
+            "meaning_ko": "rejoice(기뻐하다)가 lament의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: lament _____ the death. (A) over (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "lament over ~는 '~에 대해 슬퍼하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: lament = (A) rejoice (B) mourn (C) celebrate (D) cheer",
+            "a": "B",
+            "meaning_ko": "mourn(슬퍼하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She lamented at the death.' → Fix the preposition.",
+            "a": "She lamented over the death.",
+            "meaning_ko": "lament over ~는 '~에 대해 슬퍼하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He lamented the loss.'",
+            "a": "He mourned and grieved the absence, with the lamentation creating sorrow and sadness, though the grief would require time and healing.",
+            "meaning_ko": "lament는 '슬퍼하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ for the victim. (A) lament (B) laments (C) lamented (D) lamenting",
+            "a": "C",
+            "meaning_ko": "과거형 lamented가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses lament most appropriately? (A) The lament ran. (B) He lamented the loss. (C) She lament smiled. (D) Lament is good.",
+            "a": "B",
+            "meaning_ko": "lament는 타동사로 '슬퍼하다'를 의미하며, lament + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "connotation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "함축적 의미, 내포적 의미; 함축적 의미나 내포적 의미.",
+        "note": "함축적 의미나 내포적 의미를 가리킵니다."
+      },
+      {
+        "definition_ko": "연상, 암시; 연상이나 암시.",
+        "note": "연상이나 암시를 가리킵니다."
+      }
+    ],
+    "concept": "함축적 의미나 내포적 의미인 함축적 의미, 또는 연상이나 암시.",
+    "etymology": "라틴어 connotatio(함축)에서 유래했으며, con(함께) + notare(표시하다)의 조합입니다.",
+    "semanticExtension": "원래는 '함축' 의미였고, 현대에는 '함축적 의미나 내포적 의미'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 언어학이나 문학 관련 문맥에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, connotation 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 함축적 의미",
+        "example": "connotation of"
+      }
+    ],
+    "requiredComplements": [
+      "connotation : 함축적 의미/내포적 의미",
+      "connotation of + 명사 : ~의 함축적 의미"
+    ],
+    "morphology": "라틴어 connotatio에서 유래한 단어로, con(함께) + notare(표시하다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "connotations",
+        "meaning_ko": "함축적 의미들(복수형)"
+      },
+      {
+        "word": "connotative",
+        "meaning_ko": "함축적인"
+      },
+      {
+        "word": "connote",
+        "meaning_ko": "함축하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "implication",
+        "meaning_ko": "함축"
+      },
+      {
+        "word": "suggestion",
+        "meaning_ko": "암시"
+      },
+      {
+        "word": "association",
+        "meaning_ko": "연상"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "implication",
+        "meaning_ko": "함축"
+      },
+      {
+        "word": "suggestion",
+        "meaning_ko": "암시"
+      },
+      {
+        "word": "association",
+        "meaning_ko": "연상"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "nuance",
+        "meaning_ko": "뉘앙스(범위가 더 넓음)"
+      },
+      {
+        "word": "undertone",
+        "meaning_ko": "암시"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "denotation",
+        "meaning_ko": "직시적 의미"
+      },
+      {
+        "word": "literal meaning",
+        "meaning_ko": "문자 그대로의 의미"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "connotation of",
+            "meaning_ko": "~의 함축적 의미"
+          },
+          {
+            "phrase": "negative connotation",
+            "meaning_ko": "부정적 함축적 의미"
+          },
+          {
+            "phrase": "positive connotation",
+            "meaning_ko": "긍정적 함축적 의미"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "connotation of the word",
+            "meaning_ko": "그 단어의 함축적 의미"
+          },
+          {
+            "phrase": "cultural connotation",
+            "meaning_ko": "문화적 함축적 의미"
+          },
+          {
+            "phrase": "social connotation",
+            "meaning_ko": "사회적 함축적 의미"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "connotation of the term",
+            "meaning_ko": "그 용어의 함축적 의미"
+          },
+          {
+            "phrase": "historical connotation",
+            "meaning_ko": "역사적 함축적 의미"
+          },
+          {
+            "phrase": "emotional connotation",
+            "meaning_ko": "감정적 함축적 의미"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He understood the connotation.",
+            "meaning_ko": "그는 그 함축적 의미를 이해했습니다."
+          },
+          {
+            "sentence": "She analyzed the connotation of the word.",
+            "meaning_ko": "그녀는 그 단어의 함축적 의미를 분석했습니다."
+          },
+          {
+            "sentence": "They discussed the negative connotation.",
+            "meaning_ko": "그들은 그 부정적 함축적 의미를 논의했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He understood the connotation, with the implication and suggestion creating depth and meaning, though the connotation would require interpretation and analysis.",
+            "meaning_ko": "그는 그 함축적 의미를 이해했고, 그 함축과 암시가 깊이와 의미를 만들었지만, 그 함축적 의미는 해석과 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "She analyzed the connotation of the word, with the association and nuance creating understanding and insight, though the connotation would need to be appreciated and considered.",
+            "meaning_ko": "그녀는 그 단어의 함축적 의미를 분석했고, 그 연상과 뉘앙스가 이해와 통찰을 만들었지만, 그 함축적 의미는 감사되고 고려될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They discussed the negative connotation, with the undertone and implication creating concern and awareness, though the connotation would require attention and sensitivity.",
+            "meaning_ko": "그들은 그 부정적 함축적 의미를 논의했고, 그 암시와 함축이 우려와 인식을 만들었지만, 그 함축적 의미는 주의와 감수성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to analyze the connotation of the term that was made in the study created opportunities for understanding and interpretation, with the analysis enabling recognition of implied meanings and associations, though the connotation would require thorough linguistic and cultural analysis to ensure that meanings are accurately understood and their implications are properly assessed.",
+            "meaning_ko": "그 연구에서 내려졌던 그 용어의 그 함축적 의미를 분석하기로 한 그 결정은 이해와 해석을 위한 기회를 만들었고, 그 분석이 암시된 의미와 연상의 인정을 가능하게 했지만, 그 함축적 의미는 의미가 정확히 이해되고 그 함의가 적절히 평가되는 것을 보장하기 위해 철저한 언어학적이고 문화적 분석을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to understand historical connotation that was undertaken in the research created pathways for cultural and linguistic insight, with the understanding enabling recognition of how meanings evolve and change, though the connotation would need to be systematically studied through historical and cultural analysis to ensure that historical contexts are properly understood and meanings are accurately interpreted.",
+            "meaning_ko": "그 연구에서 착수되었던 그 역사적 함축적 의미를 이해하기 위한 그 노력은 문화적이고 언어학적 통찰을 위한 경로를 만들었고, 그 이해가 의미가 어떻게 진화하고 변화하는지의 인정을 가능하게 했지만, 그 함축적 의미는 역사적 맥락이 적절히 이해되고 의미가 정확히 해석되는 것을 보장하기 위해 역사적이고 문화적 분석을 통해 체계적으로 연구될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to examine emotional connotation that was completed in the analysis created structure and methods for understanding affective meanings, with the examination enabling recognition of emotional associations and responses, though the connotation would require ongoing research and sensitivity to ensure that emotional meanings are properly understood and their impact on communication is recognized.",
+            "meaning_ko": "그 분석에서 완료되었던 그 감정적 함축적 의미를 검토하기 위한 그 작업은 감정적 의미를 이해하기 위한 구조와 방법을 만들었고, 그 검토가 감정적 연상과 반응의 인정을 가능하게 했지만, 그 함축적 의미는 감정적 의미가 적절히 이해되고 소통에 대한 그 영향이 인정되는 것을 보장하기 위해 지속적인 연구와 감수성을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "connotation는 '함축적 의미, 내포적 의미' 또는 '연상, 암시' 의미로, 함축적 의미나 내포적 의미를 가리킵니다. implication, suggestion와 비슷하지만 더 언어학적 뉘앙스가 있습니다. connotation of ~, negative connotation 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: connotation = (A) denotation (B) implication or suggestion (C) literal meaning (D) exact meaning",
+            "a": "B",
+            "meaning_ko": "connotation는 '함축 또는 암시' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He understood the _____.",
+            "a": "connotation",
+            "meaning_ko": "connotation는 '함축적 의미' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of connotation? (A) implication (B) suggestion (C) denotation (D) association",
+            "a": "C",
+            "meaning_ko": "denotation(직시적 의미)가 connotation의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: connotation _____ the word. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "connotation of ~는 '~의 함축적 의미' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: connotation = (A) denotation (B) implication (C) literal meaning (D) exact meaning",
+            "a": "B",
+            "meaning_ko": "implication(함축)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She analyzed the connotation at the word.' → Fix the preposition.",
+            "a": "She analyzed the connotation of the word.",
+            "meaning_ko": "connotation of ~는 '~의 함축적 의미' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He understood the connotation.'",
+            "a": "He comprehended the implication and suggestion, with the connotation creating depth and meaning, though the understanding would require interpretation and analysis.",
+            "meaning_ko": "connotation는 '함축적 의미' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They discussed the negative _____. (A) connotation (B) connotations (C) connotative (D) connote",
+            "a": "A",
+            "meaning_ko": "명사 connotation가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses connotation most appropriately? (A) The connotation ran. (B) He understood the connotation. (C) She connotation smiled. (D) Connotation is good.",
+            "a": "B",
+            "meaning_ko": "connotation는 명사로 '함축적 의미'를 의미하며, understand the connotation와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "insert",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "삽입하다, 넣다; 삽입하거나 넣다.",
+        "note": "삽입하거나 넣는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "끼워넣다, 삽입하다; 끼워넣거나 삽입하다.",
+        "note": "끼워넣거나 삽입하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "삽입물, 끼워넣은 것; 삽입물이나 끼워넣은 것.",
+        "note": "삽입물이나 끼워넣은 것을 가리킵니다."
+      }
+    ],
+    "concept": "삽입하거나 넣는 것, 또는 끼워넣거나 삽입하는 것, 또는 삽입물이나 끼워넣은 것.",
+    "etymology": "라틴어 inserere(삽입하다)에서 유래했으며, in(안으로) + serere(연결하다)의 조합입니다.",
+    "semanticExtension": "원래는 '삽입하다' 의미였고, 현대에는 '끼워넣거나 삽입하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사와 명사로 모두 사용되며, insert 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "into",
+        "meaning_ko": "~에 삽입하다",
+        "example": "insert into"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에 삽입하다",
+        "example": "insert in"
+      }
+    ],
+    "requiredComplements": [
+      "insert + 명사 : ~을 삽입하다",
+      "insert into/in + 명사 : ~에 삽입하다"
+    ],
+    "morphology": "라틴어 inserere에서 유래한 단어로, in(안으로) + serere(연결하다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "inserted",
+        "meaning_ko": "삽입한(과거분사/형용사)"
+      },
+      {
+        "word": "inserting",
+        "meaning_ko": "삽입하는(현재분사/형용사)"
+      },
+      {
+        "word": "insertion",
+        "meaning_ko": "삽입"
+      },
+      {
+        "word": "inserts",
+        "meaning_ko": "삽입물들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "place",
+        "meaning_ko": "놓다"
+      },
+      {
+        "word": "put",
+        "meaning_ko": "넣다"
+      },
+      {
+        "word": "introduce",
+        "meaning_ko": "도입하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "place",
+        "meaning_ko": "놓다"
+      },
+      {
+        "word": "put",
+        "meaning_ko": "넣다"
+      },
+      {
+        "word": "introduce",
+        "meaning_ko": "도입하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "embed",
+        "meaning_ko": "삽입하다(범위가 더 넓음)"
+      },
+      {
+        "word": "implant",
+        "meaning_ko": "삽입하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "remove",
+        "meaning_ko": "제거하다"
+      },
+      {
+        "word": "extract",
+        "meaning_ko": "빼내다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "insert into",
+            "meaning_ko": "~에 삽입하다"
+          },
+          {
+            "phrase": "insert in",
+            "meaning_ko": "~에 삽입하다"
+          },
+          {
+            "phrase": "insert the key",
+            "meaning_ko": "그 열쇠를 삽입하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "insert into the document",
+            "meaning_ko": "그 문서에 삽입하다"
+          },
+          {
+            "phrase": "insert in the text",
+            "meaning_ko": "그 텍스트에 삽입하다"
+          },
+          {
+            "phrase": "insert the data",
+            "meaning_ko": "그 데이터를 삽입하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "insert into the database",
+            "meaning_ko": "그 데이터베이스에 삽입하다"
+          },
+          {
+            "phrase": "insert in the system",
+            "meaning_ko": "그 시스템에 삽입하다"
+          },
+          {
+            "phrase": "insert the code",
+            "meaning_ko": "그 코드를 삽입하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He inserted the key.",
+            "meaning_ko": "그는 그 열쇠를 삽입했습니다."
+          },
+          {
+            "sentence": "She inserted into the document.",
+            "meaning_ko": "그녀는 그 문서에 삽입했습니다."
+          },
+          {
+            "sentence": "They inserted the data.",
+            "meaning_ko": "그들은 그 데이터를 삽입했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He inserted the key, with his place and put creating access and entry, though the insertion would require proper positioning and alignment.",
+            "meaning_ko": "그는 그 열쇠를 삽입했고, 그의 놓기와 넣기가 접근과 진입을 만들었지만, 그 삽입은 적절한 위치와 정렬을 요구할 것입니다."
+          },
+          {
+            "sentence": "She inserted into the document, with her introduce and embed creating addition and integration, though the insertion would need to be done carefully and accurately.",
+            "meaning_ko": "그녀는 그 문서에 삽입했고, 그녀의 도입하기와 삽입하기가 추가와 통합을 만들었지만, 그 삽입은 신중하고 정확하게 행해질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They inserted the data, with their implant and place creating storage and organization, though the insertion would require verification and validation.",
+            "meaning_ko": "그들은 그 데이터를 삽입했고, 그들의 삽입하기와 놓기가 저장과 조직을 만들었지만, 그 삽입은 검증과 타당화를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to insert into the database that was made in the process created opportunities for data management and organization, with the insertion enabling addition of information and records, though the insertion would require careful validation and verification to ensure that data is accurately entered and database integrity is maintained.",
+            "meaning_ko": "그 과정에서 내려졌던 그 데이터베이스에 삽입하기로 한 그 결정은 데이터 관리와 조직을 위한 기회를 만들었고, 그 삽입이 정보와 기록의 추가를 가능하게 했지만, 그 삽입은 데이터가 정확히 입력되고 데이터베이스 무결성이 유지되는 것을 보장하기 위해 신중한 타당화와 검증을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to insert in the system that was undertaken in the program created pathways for integration and functionality, with the insertion enabling addition of components and features, though the insertion would need to be systematically tested and validated through quality assurance and monitoring to ensure that components are properly integrated and systems function correctly.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 시스템에 삽입하기 위한 그 노력은 통합과 기능성을 위한 경로를 만들었고, 그 삽입이 구성 요소와 기능의 추가를 가능하게 했지만, 그 삽입은 구성 요소가 적절히 통합되고 시스템이 올바르게 기능하는 것을 보장하기 위해 품질 보증과 모니터링을 통해 체계적으로 테스트되고 타당화될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to insert the code that was completed in the development created structure and methods for software integration, with the insertion enabling addition of functionality and features, though the insertion would require ongoing testing and maintenance to ensure that code is properly integrated and software remains functional and secure.",
+            "meaning_ko": "그 개발에서 완료되었던 그 코드를 삽입하기 위한 그 작업은 소프트웨어 통합을 위한 구조와 방법을 만들었고, 그 삽입이 기능성과 기능의 추가를 가능하게 했지만, 그 삽입은 코드가 적절히 통합되고 소프트웨어가 계속 기능하고 안전한 것을 보장하기 위해 지속적인 테스트와 유지를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "insert는 '삽입하다, 넣다' 또는 '끼워넣다, 삽입하다' 의미로, 삽입하거나 넣는 행동을 가리킵니다. place, put와 비슷하지만 더 정확한 뉘앙스가 있습니다. insert into/in ~, insert the key 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: insert = (A) remove (B) place or put (C) extract (D) delete",
+            "a": "B",
+            "meaning_ko": "insert는 '놓다 또는 넣다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the key.",
+            "a": "inserted",
+            "meaning_ko": "insert는 '삽입하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of insert? (A) place (B) put (C) remove (D) introduce",
+            "a": "C",
+            "meaning_ko": "remove(제거하다)가 insert의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: insert _____ the document. (A) into (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "insert into ~는 '~에 삽입하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: insert = (A) remove (B) place (C) extract (D) delete",
+            "a": "B",
+            "meaning_ko": "place(놓다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She inserted at the document.' → Fix the preposition.",
+            "a": "She inserted into the document.",
+            "meaning_ko": "insert into ~는 '~에 삽입하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He inserted the key.'",
+            "a": "He placed and put the key, with the insertion creating access and entry, though the placement would require proper positioning and alignment.",
+            "meaning_ko": "insert는 '삽입하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the data. (A) insert (B) inserts (C) inserted (D) inserting",
+            "a": "C",
+            "meaning_ko": "과거형 inserted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses insert most appropriately? (A) The insert ran. (B) He inserted the key. (C) She insert smiled. (D) Insert is good.",
+            "a": "B",
+            "meaning_ko": "insert는 타동사로 '삽입하다'를 의미하며, insert + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

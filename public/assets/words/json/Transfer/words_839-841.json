@@ -1,0 +1,823 @@
+[
+  {
+    "word": "clarify",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "명확히 하다, 설명하다; 명확히 하거나 설명하다.",
+        "note": "명확히 하거나 설명하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "정화하다, 맑게 하다; 정화하거나 맑게 하다.",
+        "note": "정화하거나 맑게 하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "명확히 하거나 설명하는 것, 또는 정화하거나 맑게 하는 것.",
+    "etymology": "라틴어 clarificare(명확히 하다)에서 유래했으며, clarus(명확한) + facere(만들다)의 조합입니다.",
+    "semanticExtension": "원래는 '명확히 만들다' 의미였고, 현대에는 '정화하거나 맑게 하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 자주 사용되며, clarify + for 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위해 명확히 하다",
+        "example": "clarify for"
+      }
+    ],
+    "requiredComplements": [
+      "clarify + 명사 : ~을 명확히 하다",
+      "clarify for + 명사 : ~을 위해 명확히 하다"
+    ],
+    "morphology": "라틴어 clarificare에서 유래한 단어로, clarus(명확한) + facere(만들다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "clarified",
+        "meaning_ko": "명확히 한(과거분사/형용사)"
+      },
+      {
+        "word": "clarifying",
+        "meaning_ko": "명확히 하는(현재분사/형용사)"
+      },
+      {
+        "word": "clarification",
+        "meaning_ko": "명확화"
+      }
+    ],
+    "related": [
+      {
+        "word": "explain",
+        "meaning_ko": "설명하다"
+      },
+      {
+        "word": "elucidate",
+        "meaning_ko": "명확히 하다"
+      },
+      {
+        "word": "illuminate",
+        "meaning_ko": "명확히 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "explain",
+        "meaning_ko": "설명하다"
+      },
+      {
+        "word": "elucidate",
+        "meaning_ko": "명확히 하다"
+      },
+      {
+        "word": "illuminate",
+        "meaning_ko": "명확히 하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "expound",
+        "meaning_ko": "설명하다(범위가 더 넓음)"
+      },
+      {
+        "word": "explicate",
+        "meaning_ko": "명확히 하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "confuse",
+        "meaning_ko": "혼란시키다"
+      },
+      {
+        "word": "obscure",
+        "meaning_ko": "모호하게 하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "clarify for",
+            "meaning_ko": "~을 위해 명확히 하다"
+          },
+          {
+            "phrase": "clarify the issue",
+            "meaning_ko": "그 이슈를 명확히 하다"
+          },
+          {
+            "phrase": "clarify the point",
+            "meaning_ko": "그 요점을 명확히 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "clarify for the audience",
+            "meaning_ko": "그 청중을 위해 명확히 하다"
+          },
+          {
+            "phrase": "clarify the situation",
+            "meaning_ko": "그 상황을 명확히 하다"
+          },
+          {
+            "phrase": "clarify the meaning",
+            "meaning_ko": "그 의미를 명확히 하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "clarify for understanding",
+            "meaning_ko": "이해를 위해 명확히 하다"
+          },
+          {
+            "phrase": "clarify the position",
+            "meaning_ko": "그 입장을 명확히 하다"
+          },
+          {
+            "phrase": "clarify the statement",
+            "meaning_ko": "그 발언을 명확히 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He clarified the issue.",
+            "meaning_ko": "그는 그 이슈를 명확히 했습니다."
+          },
+          {
+            "sentence": "She clarified for the audience.",
+            "meaning_ko": "그녀는 그 청중을 위해 명확히 했습니다."
+          },
+          {
+            "sentence": "They clarified the point.",
+            "meaning_ko": "그들은 그 요점을 명확히 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He clarified the issue, with his explain and elucidate creating understanding and clarity, though the clarification would require verification and confirmation.",
+            "meaning_ko": "그는 그 이슈를 명확히 했고, 그의 설명과 명확히 하기가 이해와 명확성을 만들었지만, 그 명확화는 검증과 확인을 요구할 것입니다."
+          },
+          {
+            "sentence": "She clarified for the audience, with her illuminate and expound creating comprehension and insight, though the clarification would need to be comprehensive and accurate.",
+            "meaning_ko": "그녀는 그 청중을 위해 명확히 했고, 그녀의 명확히 하기와 설명하기가 이해와 통찰을 만들었지만, 그 명확화는 포괄적이고 정확할 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They clarified the point, with their explicate and explain creating clarity and understanding, though the clarification would require attention and consideration.",
+            "meaning_ko": "그들은 그 요점을 명확히 했고, 그들의 명확히 하기와 설명하기가 명확성과 이해를 만들었지만, 그 명확화는 주의와 고려를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to clarify the position for understanding that was made in the communication created opportunities for transparency and comprehension, with the explanation enabling recognition of intentions and perspectives, though the clarification would require thorough presentation and verification to ensure that the position is accurately understood and does not lead to misinterpretation.",
+            "meaning_ko": "그 소통에서 내려졌던 그 이해를 위해 그 입장을 명확히 하기로 한 그 결정은 투명성과 이해를 위한 기회를 만들었고, 그 설명이 의도와 관점의 인정을 가능하게 했지만, 그 명확화는 입장이 정확히 이해되고 오해로 이어지지 않는 것을 보장하기 위해 철저한 발표와 검증을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to clarify the statement that was undertaken in the response created pathways for accurate interpretation and understanding, with the elucidation enabling correction of misunderstandings and confusion, though the clarification would need to be delivered clearly and comprehensively to ensure that the statement is properly understood and its intended meaning is conveyed.",
+            "meaning_ko": "그 응답에서 착수되었던 그 발언을 명확히 하기 위한 그 노력은 정확한 해석과 이해를 위한 경로를 만들었고, 그 명확화가 오해와 혼란의 수정을 가능하게 했지만, 그 명확화는 발언이 적절히 이해되고 의도된 의미가 전달되는 것을 보장하기 위해 명확하고 포괄적으로 전달될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to provide clarification that was completed in the program created structure and standards for clear communication, with the explanation enabling reduction of confusion and misunderstanding, though the clarification would require ongoing attention and refinement to ensure that communication remains clear and effective and misunderstandings are minimized.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 명확화를 제공하기 위한 그 작업은 명확한 소통을 위한 구조와 기준을 만들었고, 그 설명이 혼란과 오해의 감소를 가능하게 했지만, 그 명확화는 소통이 계속 명확하고 효과적이고 오해가 최소화되는 것을 보장하기 위해 지속적인 주의와 정제를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "clarify는 '명확히 하다, 설명하다' 또는 '정화하다, 맑게 하다' 의미로, 명확히 하거나 설명하는 행동을 가리킵니다. explain, elucidate와 비슷하지만 더 일반적 뉘앙스가 있습니다. clarify for ~, clarify the issue 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: clarify = (A) confuse (B) explain or elucidate (C) obscure (D) complicate",
+            "a": "B",
+            "meaning_ko": "clarify는 '설명하다 또는 명확히 하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the issue.",
+            "a": "clarified",
+            "meaning_ko": "clarify는 '명확히 하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of clarify? (A) explain (B) elucidate (C) confuse (D) illuminate",
+            "a": "C",
+            "meaning_ko": "confuse(혼란시키다)가 clarify의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: clarify _____ the audience. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "clarify for ~는 '~을 위해 명확히 하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: clarify = (A) confuse (B) explain (C) obscure (D) complicate",
+            "a": "B",
+            "meaning_ko": "explain(설명하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She clarified at the audience.' → Fix the preposition.",
+            "a": "She clarified for the audience.",
+            "meaning_ko": "clarify for ~는 '~을 위해 명확히 하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He clarified the issue.'",
+            "a": "He explained and elucidated the problem, with the clarification creating understanding and clarity, though the explanation would require verification and confirmation.",
+            "meaning_ko": "clarify는 '명확히 하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the point. (A) clarify (B) clarifies (C) clarified (D) clarifying",
+            "a": "C",
+            "meaning_ko": "과거형 clarified가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses clarify most appropriately? (A) The clarify ran. (B) He clarified the issue. (C) She clarify smiled. (D) Clarify is good.",
+            "a": "B",
+            "meaning_ko": "clarify는 타동사로 '명확히 하다'를 의미하며, clarify + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "metaphor",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "은유, 비유; 은유나 비유.",
+        "note": "은유나 비유를 가리킵니다."
+      },
+      {
+        "definition_ko": "비유적 표현, 상징; 비유적 표현이나 상징.",
+        "note": "비유적 표현이나 상징을 가리킵니다."
+      }
+    ],
+    "concept": "은유나 비유인 은유, 또는 비유적 표현이나 상징.",
+    "etymology": "그리스어 metaphora(전이)에서 유래했으며, meta(넘어서) + pherein(나르다)의 조합입니다.",
+    "semanticExtension": "원래는 '전이' 의미였고, 현대에는 '은유나 비유'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, metaphor 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~에 대한 은유",
+        "example": "metaphor for"
+      }
+    ],
+    "requiredComplements": [
+      "metaphor : 은유/비유",
+      "metaphor for + 명사 : ~에 대한 은유"
+    ],
+    "morphology": "그리스어 metaphora에서 유래한 단어로, meta(넘어서) + pherein(나르다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "metaphors",
+        "meaning_ko": "은유들(복수형)"
+      },
+      {
+        "word": "metaphorical",
+        "meaning_ko": "은유적인"
+      },
+      {
+        "word": "metaphorically",
+        "meaning_ko": "은유적으로"
+      }
+    ],
+    "related": [
+      {
+        "word": "simile",
+        "meaning_ko": "직유"
+      },
+      {
+        "word": "analogy",
+        "meaning_ko": "비유"
+      },
+      {
+        "word": "symbol",
+        "meaning_ko": "상징"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "simile",
+        "meaning_ko": "직유"
+      },
+      {
+        "word": "analogy",
+        "meaning_ko": "비유"
+      },
+      {
+        "word": "symbol",
+        "meaning_ko": "상징"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "figure of speech",
+        "meaning_ko": "수사법(범위가 더 넓음)"
+      },
+      {
+        "word": "imagery",
+        "meaning_ko": "이미지"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "literal",
+        "meaning_ko": "문자 그대로의"
+      },
+      {
+        "word": "direct",
+        "meaning_ko": "직접적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "metaphor for",
+            "meaning_ko": "~에 대한 은유"
+          },
+          {
+            "phrase": "use a metaphor",
+            "meaning_ko": "은유를 사용하다"
+          },
+          {
+            "phrase": "extended metaphor",
+            "meaning_ko": "확장된 은유"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "metaphor for life",
+            "meaning_ko": "삶에 대한 은유"
+          },
+          {
+            "phrase": "poetic metaphor",
+            "meaning_ko": "시적 은유"
+          },
+          {
+            "phrase": "literary metaphor",
+            "meaning_ko": "문학적 은유"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "metaphor for the journey",
+            "meaning_ko": "그 여정에 대한 은유"
+          },
+          {
+            "phrase": "conceptual metaphor",
+            "meaning_ko": "개념적 은유"
+          },
+          {
+            "phrase": "visual metaphor",
+            "meaning_ko": "시각적 은유"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He used a metaphor.",
+            "meaning_ko": "그는 은유를 사용했습니다."
+          },
+          {
+            "sentence": "She created a metaphor for life.",
+            "meaning_ko": "그녀는 삶에 대한 은유를 만들었습니다."
+          },
+          {
+            "sentence": "They understood the metaphor.",
+            "meaning_ko": "그들은 그 은유를 이해했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He used a metaphor, with his simile and analogy creating imagery and meaning, though the metaphor would require interpretation and understanding.",
+            "meaning_ko": "그는 은유를 사용했고, 그의 직유와 비유가 이미지와 의미를 만들었지만, 그 은유는 해석과 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "She created a metaphor for life, with the symbol and figure of speech creating depth and insight, though the metaphor would need to be appreciated and analyzed.",
+            "meaning_ko": "그녀는 삶에 대한 은유를 만들었고, 그 상징과 수사법이 깊이와 통찰을 만들었지만, 그 은유는 감사되고 분석될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They understood the metaphor, with the imagery and symbol creating connection and comprehension, though the metaphor would require reflection and consideration.",
+            "meaning_ko": "그들은 그 은유를 이해했고, 그 이미지와 상징이 연결과 이해를 만들었지만, 그 은유는 성찰과 고려를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to use a metaphor for the journey that was made in the writing created opportunities for expression and understanding, with the imagery enabling conveyance of complex ideas and emotions, though the metaphor would require careful crafting and interpretation to ensure that it effectively communicates the intended meaning and resonates with readers.",
+            "meaning_ko": "그 글쓰기에서 내려졌던 그 여정에 대한 은유를 사용하기로 한 그 결정은 표현과 이해를 위한 기회를 만들었고, 그 이미지가 복잡한 아이디어와 감정의 전달을 가능하게 했지만, 그 은유는 의도된 의미를 효과적으로 소통하고 독자와 공명하는 것을 보장하기 위해 신중한 제작과 해석을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to develop a conceptual metaphor that was undertaken in the research created pathways for understanding abstract ideas and relationships, with the metaphor enabling connection between concepts and experiences, though the metaphor would need to be refined and validated through analysis and application to ensure that it accurately represents the concepts and enhances understanding.",
+            "meaning_ko": "그 연구에서 착수되었던 그 개념적 은유를 발전시키기 위한 그 노력은 추상적 아이디어와 관계를 이해하기 위한 경로를 만들었고, 그 은유가 개념과 경험 사이의 연결을 가능하게 했지만, 그 은유는 개념을 정확히 나타내고 이해를 향상시키는 것을 보장하기 위해 분석과 적용을 통해 정제되고 검증될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to create a visual metaphor that was completed in the design created opportunities for communication and engagement, with the imagery enabling expression of ideas through visual representation, though the metaphor would require ongoing refinement and testing to ensure that it effectively conveys meaning and creates the intended impact on viewers.",
+            "meaning_ko": "그 디자인에서 완료되었던 그 시각적 은유를 만들기 위한 그 작업은 소통과 참여를 위한 기회를 만들었고, 그 이미지가 시각적 표현을 통해 아이디어의 표현을 가능하게 했지만, 그 은유는 의미를 효과적으로 전달하고 시청자에게 의도된 영향을 만드는 것을 보장하기 위해 지속적인 정제와 테스트를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "metaphor는 '은유, 비유' 또는 '비유적 표현, 상징' 의미로, 은유나 비유를 가리킵니다. simile, analogy와 비슷하지만 더 일반적 뉘앙스가 있습니다. metaphor for ~, use a metaphor 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: metaphor = (A) literal (B) simile or analogy (C) direct (D) exact",
+            "a": "B",
+            "meaning_ko": "metaphor는 '직유 또는 비유' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He used a _____.",
+            "a": "metaphor",
+            "meaning_ko": "metaphor는 '은유' 의미입니다."
+          },
+          {
+            "q": "Which is related to metaphor? (A) simile (B) literal (C) direct (D) exact",
+            "a": "A",
+            "meaning_ko": "simile(직유)가 metaphor와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: metaphor _____ life. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "metaphor for ~는 '~에 대한 은유' 의미입니다."
+          },
+          {
+            "q": "Pick the best related word: metaphor = (A) literal (B) simile (C) direct (D) exact",
+            "a": "B",
+            "meaning_ko": "simile(직유)가 가장 관련이 있는 단어입니다."
+          },
+          {
+            "q": "Error check: 'She created a metaphor at life.' → Fix the preposition.",
+            "a": "She created a metaphor for life.",
+            "meaning_ko": "metaphor for ~는 '~에 대한 은유' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He used a metaphor.'",
+            "a": "He employed a simile and analogy, with the metaphor creating imagery and meaning, though the figure of speech would require interpretation and understanding.",
+            "meaning_ko": "metaphor는 '은유' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They understood the _____. (A) metaphor (B) metaphors (C) metaphorical (D) metaphorically",
+            "a": "A",
+            "meaning_ko": "명사 metaphor가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses metaphor most appropriately? (A) The metaphor ran. (B) He used a metaphor. (C) She metaphor smiled. (D) Metaphor is good.",
+            "a": "B",
+            "meaning_ko": "metaphor는 명사로 '은유'를 의미하며, use a metaphor와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "irate",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "격노한, 화가 난; 격노하거나 화가 난.",
+        "note": "격노하거나 화가 난 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "분노한, 격분한; 분노하거나 격분한.",
+        "note": "분노하거나 격분한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "격노하거나 화가 난 상태, 또는 분노하거나 격분한 상태.",
+    "etymology": "라틴어 iratus(화가 난)에서 유래했으며, ira(분노)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '화가 난' 의미였고, 현대에는 '격노하거나 화가 난'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be irate 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 격노한",
+        "example": "irate about"
+      },
+      {
+        "prep": "at",
+        "meaning_ko": "~에 대해 격노한",
+        "example": "irate at"
+      }
+    ],
+    "requiredComplements": [
+      "be irate : 격노하다",
+      "irate + 명사 : 격노한 ~",
+      "irate about/at + 명사 : ~에 대해 격노한"
+    ],
+    "morphology": "라틴어 iratus에서 유래한 단어로, ira(분노)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "irately",
+        "meaning_ko": "격노하여"
+      },
+      {
+        "word": "irateness",
+        "meaning_ko": "격노함"
+      }
+    ],
+    "related": [
+      {
+        "word": "angry",
+        "meaning_ko": "화가 난"
+      },
+      {
+        "word": "furious",
+        "meaning_ko": "격노한"
+      },
+      {
+        "word": "enraged",
+        "meaning_ko": "격노한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "angry",
+        "meaning_ko": "화가 난"
+      },
+      {
+        "word": "furious",
+        "meaning_ko": "격노한"
+      },
+      {
+        "word": "enraged",
+        "meaning_ko": "격노한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "incensed",
+        "meaning_ko": "격노한(범위가 더 넓음)"
+      },
+      {
+        "word": "livid",
+        "meaning_ko": "격노한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "calm",
+        "meaning_ko": "평온한"
+      },
+      {
+        "word": "peaceful",
+        "meaning_ko": "평화로운"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "irate about",
+            "meaning_ko": "~에 대해 격노한"
+          },
+          {
+            "phrase": "irate at",
+            "meaning_ko": "~에 대해 격노한"
+          },
+          {
+            "phrase": "irate customer",
+            "meaning_ko": "격노한 고객"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "irate about the service",
+            "meaning_ko": "그 서비스에 대해 격노한"
+          },
+          {
+            "phrase": "irate at the delay",
+            "meaning_ko": "그 지연에 대해 격노한"
+          },
+          {
+            "phrase": "irate response",
+            "meaning_ko": "격노한 응답"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "irate about the treatment",
+            "meaning_ko": "그 대우에 대해 격노한"
+          },
+          {
+            "phrase": "irate at the decision",
+            "meaning_ko": "그 결정에 대해 격노한"
+          },
+          {
+            "phrase": "irate complaint",
+            "meaning_ko": "격노한 불만"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was irate.",
+            "meaning_ko": "그는 격노했습니다."
+          },
+          {
+            "sentence": "She was irate about the service.",
+            "meaning_ko": "그녀는 그 서비스에 대해 격노했습니다."
+          },
+          {
+            "sentence": "They became irate at the delay.",
+            "meaning_ko": "그들은 그 지연에 대해 격노했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was irate, with his angry and furious state creating tension and conflict, though the irateness would require calm and resolution.",
+            "meaning_ko": "그는 격노했고, 그의 화가 난 그리고 격노한 상태가 긴장과 갈등을 만들었지만, 그 격노함은 평온과 해결을 요구할 것입니다."
+          },
+          {
+            "sentence": "She was irate about the service, with her enraged and incensed reaction creating protest and demand, though the irateness would need to be addressed and resolved.",
+            "meaning_ko": "그녀는 그 서비스에 대해 격노했고, 그녀의 격노하고 격노한 반응이 항의와 요구를 만들었지만, 그 격노함은 다뤄지고 해결될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They became irate at the delay, with their livid and furious response creating anger and frustration, though the irateness would require understanding and action.",
+            "meaning_ko": "그들은 그 지연에 대해 격노했고, 그들의 격노하고 격노한 응답이 분노와 좌절을 만들었지만, 그 격노함은 이해와 행동을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address the irate about the treatment that was made in the response created opportunities for resolution and improvement, with the recognition enabling understanding of concerns and grievances, though the irateness would require comprehensive response and action to ensure that the anger is resolved and trust is restored.",
+            "meaning_ko": "그 응답에서 내려졌던 그 대우에 대한 그 격노한 것을 다루기로 한 그 결정은 해결과 개선을 위한 기회를 만들었고, 그 인정이 우려와 불만에 대한 이해를 가능하게 했지만, 그 격노함은 분노가 해결되고 신뢰가 회복되는 것을 보장하기 위해 포괄적인 대응과 행동을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to understand the irate at the decision that was undertaken in the analysis created pathways for dialogue and resolution, with the examination enabling recognition of causes and concerns, though the irateness would need to be systematically addressed through transparent communication and corrective measures to ensure that the anger is resolved and similar issues are prevented.",
+            "meaning_ko": "그 분석에서 착수되었던 그 결정에 대한 그 격노한 것을 이해하기 위한 그 노력은 대화와 해결을 위한 경로를 만들었고, 그 검토가 원인과 우려의 인정을 가능하게 했지만, 그 격노함은 분노가 해결되고 유사한 이슈가 방지되는 것을 보장하기 위해 투명한 소통과 시정 조치를 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to respond to the irate complaint that was completed in the program created structure and processes for handling grievances, with the response enabling acknowledgment and resolution, though the irateness would require ongoing attention and improvement to ensure that complaints are addressed effectively and customer satisfaction is restored.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 격노한 불만에 대응하기 위한 그 작업은 불만을 처리하기 위한 구조와 프로세스를 만들었고, 그 대응이 인정과 해결을 가능하게 했지만, 그 격노함은 불만이 효과적으로 다뤄지고 고객 만족이 회복되는 것을 보장하기 위해 지속적인 주의와 개선을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "irate는 '격노한, 화가 난' 또는 '분노한, 격분한' 의미로, 격노하거나 화가 난 상태를 가리킵니다. angry, furious와 비슷하지만 더 문어적 뉘앙스가 있습니다. irate about ~, irate at ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: irate = (A) calm (B) angry or furious (C) peaceful (D) tranquil",
+            "a": "B",
+            "meaning_ko": "irate는 '화가 난 또는 격노한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was _____.",
+            "a": "irate",
+            "meaning_ko": "irate는 '격노한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of irate? (A) angry (B) furious (C) calm (D) enraged",
+            "a": "C",
+            "meaning_ko": "calm(평온한)가 irate의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: irate _____ the service. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "irate about ~는 '~에 대해 격노한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: irate = (A) calm (B) angry (C) peaceful (D) tranquil",
+            "a": "B",
+            "meaning_ko": "angry(화가 난)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was irate at the service.' → Fix the sentence.",
+            "a": "She was irate about the service.",
+            "meaning_ko": "irate about ~는 '~에 대해 격노한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was irate.'",
+            "a": "He was angry and furious, with the irateness creating tension and conflict, though the anger would require calm and resolution.",
+            "meaning_ko": "irate는 '격노한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They became _____ at the delay. (A) irate (B) irately (C) irateness (D) irate's",
+            "a": "A",
+            "meaning_ko": "형용사 irate가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses irate most appropriately? (A) The irate ran. (B) He was irate. (C) She irate smiled. (D) Irate is good.",
+            "a": "B",
+            "meaning_ko": "irate는 형용사로 '격노한'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,819 @@
+[
+  {
+    "word": "script",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "대본, 각본; 대본이나 각본.",
+        "note": "대본이나 각본을 가리킵니다."
+      },
+      {
+        "definition_ko": "대본을 쓰다, 각본을 작성하다; 대본을 쓰거나 각본을 작성하다.",
+        "note": "대본을 쓰거나 각본을 작성하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "대본이나 각본인 대본, 또는 대본을 쓰거나 각본을 작성하는 것.",
+    "etymology": "라틴어 scriptum(쓴 것)에서 유래했으며, scribere(쓰다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '쓴 것' 의미였고, 현대에는 '대본을 쓰거나 각본을 작성하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사와 불가산명사로 모두 사용되며, script 형태로 자주 사용됩니다. 동사로는 타동사로 쓰이며, script + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "가산명사·불가산명사 모두(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 대본",
+        "example": "script for"
+      }
+    ],
+    "requiredComplements": [
+      "script : 대본/대본을 쓰다",
+      "script for + 명사 : ~을 위한 대본"
+    ],
+    "morphology": "라틴어 scriptum에서 유래한 단어로, scribere(쓰다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "scripted",
+        "meaning_ko": "대본이 있는(과거분사/형용사)"
+      },
+      {
+        "word": "scripting",
+        "meaning_ko": "대본을 쓰는(현재분사/형용사)"
+      },
+      {
+        "word": "scriptwriter",
+        "meaning_ko": "각본가"
+      }
+    ],
+    "related": [
+      {
+        "word": "screenplay",
+        "meaning_ko": "시나리오"
+      },
+      {
+        "word": "dialogue",
+        "meaning_ko": "대화"
+      },
+      {
+        "word": "manuscript",
+        "meaning_ko": "원고"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "screenplay",
+        "meaning_ko": "시나리오"
+      },
+      {
+        "word": "dialogue",
+        "meaning_ko": "대화"
+      },
+      {
+        "word": "manuscript",
+        "meaning_ko": "원고"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "text",
+        "meaning_ko": "텍스트(범위가 더 넓음)"
+      },
+      {
+        "word": "writing",
+        "meaning_ko": "글"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "improvisation",
+        "meaning_ko": "즉흥 연기"
+      },
+      {
+        "word": "ad-lib",
+        "meaning_ko": "즉흥 연기"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "script for",
+            "meaning_ko": "~을 위한 대본"
+          },
+          {
+            "phrase": "movie script",
+            "meaning_ko": "영화 대본"
+          },
+          {
+            "phrase": "play script",
+            "meaning_ko": "연극 대본"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "script for film",
+            "meaning_ko": "영화를 위한 대본"
+          },
+          {
+            "phrase": "script for play",
+            "meaning_ko": "연극을 위한 대본"
+          },
+          {
+            "phrase": "script writing",
+            "meaning_ko": "대본 작성"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "script for production",
+            "meaning_ko": "제작을 위한 대본"
+          },
+          {
+            "phrase": "script development",
+            "meaning_ko": "대본 개발"
+          },
+          {
+            "phrase": "script revision",
+            "meaning_ko": "대본 수정"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "She wrote the script.",
+            "meaning_ko": "그녀는 그 대본을 썼습니다."
+          },
+          {
+            "sentence": "He read the script.",
+            "meaning_ko": "그는 그 대본을 읽었습니다."
+          },
+          {
+            "sentence": "They followed the script.",
+            "meaning_ko": "그들은 그 대본을 따랐습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "She wrote the script, with her screenplay and dialogue creating a foundation for the production, though the script would require revision and development.",
+            "meaning_ko": "그녀는 그 대본을 썼고, 그녀의 시나리오와 대화가 그 제작을 위한 기초를 만들었지만, 그 대본은 수정과 개발을 요구할 것입니다."
+          },
+          {
+            "sentence": "He read the script, with his review of the screenplay and dialogue providing understanding of the story, though the script would need to be analyzed and interpreted.",
+            "meaning_ko": "그는 그 대본을 읽었고, 그의 시나리오와 대화 검토가 그 이야기에 대한 이해를 제공했지만, 그 대본은 분석과 해석이 필요할 것입니다."
+          },
+          {
+            "sentence": "They followed the script, with their adherence to the screenplay and dialogue creating a structured performance, though the script would require interpretation and execution.",
+            "meaning_ko": "그들은 그 대본을 따랐고, 그들의 시나리오와 대화에 대한 고수함이 구조화된 공연을 만들었지만, 그 대본은 해석과 실행을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The script for production that was developed in the project created a comprehensive blueprint for the film or play, with the screenplay providing dialogue, action, and structure, though the script would require collaboration and refinement.",
+            "meaning_ko": "그 프로젝트에서 개발되었던 그 제작을 위한 대본은 그 영화나 연극을 위한 포괄적인 청사진을 만들었고, 그 시나리오가 대화, 행동, 구조를 제공했지만, 그 대본은 협력과 정제를 요구할 것입니다."
+          },
+          {
+            "sentence": "The script development that was undertaken in the process created multiple drafts and revisions, with the writing evolving through feedback and collaboration, though the script development would require time and creative input.",
+            "meaning_ko": "그 과정에서 착수되었던 그 대본 개발은 여러 초안과 수정을 만들었고, 그 글쓰기가 피드백과 협력을 통해 발전했지만, 그 대본 개발은 시간과 창의적 입력을 요구할 것입니다."
+          },
+          {
+            "sentence": "The script revision that was completed in the work created improvements and refinements to the screenplay, with the editing enhancing dialogue and structure, though the script revision would require careful consideration and creative judgment.",
+            "meaning_ko": "그 작업에서 완료되었던 그 대본 수정은 그 시나리오에 대한 개선과 정제를 만들었고, 그 편집이 대화와 구조를 향상시켰지만, 그 대본 수정은 신중한 고려와 창의적 판단을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "script는 '대본, 각본' 또는 '대본을 쓰다, 각본을 작성하다' 의미로, 대본이나 각본을 가리킵니다. screenplay, dialogue와 비슷하지만 더 일반적 표현입니다. script for ~, movie script 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "연극",
+      "영화",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: script = (A) improvisation (B) screenplay or dialogue (C) ad-lib (D) spontaneity",
+            "a": "B",
+            "meaning_ko": "script는 '시나리오 또는 대화' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: She wrote the _____.",
+            "a": "script",
+            "meaning_ko": "script는 '대본'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of script? (A) screenplay (B) dialogue (C) improvisation (D) manuscript",
+            "a": "C",
+            "meaning_ko": "improvisation(즉흥 연기)가 script의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: script _____ film. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "script for ~는 '~을 위한 대본' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: script = (A) improvisation (B) screenplay (C) ad-lib (D) spontaneity",
+            "a": "B",
+            "meaning_ko": "screenplay(시나리오)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'He read the script at film.' → Fix the preposition.",
+            "a": "He read the script for film.",
+            "meaning_ko": "script for ~는 '~을 위한 대본' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'She wrote the script.'",
+            "a": "She created the screenplay and dialogue, with her writing providing a foundation for the production, though the script would require revision and development.",
+            "meaning_ko": "script는 '대본'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They followed the _____. (A) script (B) scripts (C) script's (D) scripted",
+            "a": "A",
+            "meaning_ko": "명사 script가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses script most appropriately? (A) The script ran. (B) She wrote the script. (C) He script smiled. (D) Script is good.",
+            "a": "B",
+            "meaning_ko": "script는 명사로 '대본'을 의미하며, write와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "ramble",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "어슬렁거리다, 산책하다; 어슬렁거리거나 산책하다.",
+        "note": "어슬렁거리거나 산책하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "횡설수설하다, 장황하게 말하다; 횡설수설하거나 장황하게 말하다.",
+        "note": "횡설수설하거나 장황하게 말하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "어슬렁거리거나 산책하는 것, 또는 횡설수설하거나 장황하게 말하는 것.",
+    "etymology": "중세 영어 ramblen(어슬렁거리다)에서 유래했으며, 원래는 '어슬렁거리다' 의미였습니다.",
+    "semanticExtension": "원래는 '어슬렁거리다' 의미였고, 현대에는 '횡설수설하거나 장황하게 말하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "자동사로 자주 사용되며, ramble 형태로 자주 사용됩니다. 명사로는 가산명사로 자주 사용되며, ramble 형태로 자주 사용됩니다.",
+    "transitivity": "자동사(동사)",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "on",
+        "meaning_ko": "~에 대해 횡설수설하다",
+        "example": "ramble on"
+      }
+    ],
+    "requiredComplements": [
+      "ramble : 어슬렁거리다/횡설수설하다",
+      "ramble on + 명사 : ~에 대해 횡설수설하다"
+    ],
+    "morphology": "중세 영어 ramblen에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "rambled",
+        "meaning_ko": "어슬렁거린(과거분사/형용사)"
+      },
+      {
+        "word": "rambling",
+        "meaning_ko": "어슬렁거리는(현재분사/형용사)"
+      },
+      {
+        "word": "rambler",
+        "meaning_ko": "산책하는 사람"
+      }
+    ],
+    "related": [
+      {
+        "word": "wander",
+        "meaning_ko": "어슬렁거리다"
+      },
+      {
+        "word": "stroll",
+        "meaning_ko": "산책하다"
+      },
+      {
+        "word": "digress",
+        "meaning_ko": "빗나가다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "wander",
+        "meaning_ko": "어슬렁거리다"
+      },
+      {
+        "word": "stroll",
+        "meaning_ko": "산책하다"
+      },
+      {
+        "word": "digress",
+        "meaning_ko": "빗나가다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "roam",
+        "meaning_ko": "어슬렁거리다(범위가 더 넓음)"
+      },
+      {
+        "word": "meander",
+        "meaning_ko": "어슬렁거리다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "focus",
+        "meaning_ko": "집중하다"
+      },
+      {
+        "word": "stay on topic",
+        "meaning_ko": "주제에 집중하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "ramble on",
+            "meaning_ko": "~에 대해 횡설수설하다"
+          },
+          {
+            "phrase": "ramble through",
+            "meaning_ko": "~을 통해 어슬렁거리다"
+          },
+          {
+            "phrase": "go for a ramble",
+            "meaning_ko": "산책을 가다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "ramble on about",
+            "meaning_ko": "~에 대해 횡설수설하다"
+          },
+          {
+            "phrase": "ramble through woods",
+            "meaning_ko": "숲을 통해 어슬렁거리다"
+          },
+          {
+            "phrase": "ramble in speech",
+            "meaning_ko": "연설에서 횡설수설하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "ramble on topic",
+            "meaning_ko": "주제에 대해 횡설수설하다"
+          },
+          {
+            "phrase": "ramble through countryside",
+            "meaning_ko": "시골을 통해 어슬렁거리다"
+          },
+          {
+            "phrase": "ramble in conversation",
+            "meaning_ko": "대화에서 횡설수설하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They went for a ramble.",
+            "meaning_ko": "그들은 산책을 갔습니다."
+          },
+          {
+            "sentence": "She rambled on about the topic.",
+            "meaning_ko": "그녀는 그 주제에 대해 횡설수설했습니다."
+          },
+          {
+            "sentence": "He rambled through the woods.",
+            "meaning_ko": "그는 그 숲을 통해 어슬렁거렸습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They went for a ramble, with their leisurely walk creating relaxation and enjoyment, though the ramble would provide exercise and fresh air.",
+            "meaning_ko": "그들은 산책을 갔고, 그들의 여유로운 걸음이 휴식과 즐거움을 만들었지만, 그 산책은 운동과 신선한 공기를 제공할 것입니다."
+          },
+          {
+            "sentence": "She rambled on about the topic, with her digressive and wandering speech creating confusion and loss of focus, though the rambling would require getting back on track.",
+            "meaning_ko": "그녀는 그 주제에 대해 횡설수설했고, 그녀의 빗나가고 어슬렁거리는 말이 혼란과 초점 상실을 만들었지만, 그 횡설수설은 다시 궤도로 돌아오는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "He rambled through the woods, with his wandering and meandering walk creating exploration and discovery, though the ramble would provide exercise and connection with nature.",
+            "meaning_ko": "그는 그 숲을 통해 어슬렁거렸고, 그의 어슬렁거리고 구불구불한 걸음이 탐험과 발견을 만들었지만, 그 산책은 운동과 자연과의 연결을 제공할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The tendency to ramble on topic that was evident in the speech created challenges for clarity and focus, with the digressive and wandering approach making it difficult to follow the main point, though addressing the rambling would require structure and discipline.",
+            "meaning_ko": "그 연설에서 명백했던 그 주제에 대해 횡설수설하는 경향은 명확성과 초점에 대한 도전을 만들었고, 그 빗나가고 어슬렁거리는 접근이 주요 포인트를 따르는 것을 어렵게 만들었지만, 그 횡설수설을 다루는 것은 구조와 규율을 요구할 것입니다."
+          },
+          {
+            "sentence": "The decision to ramble through countryside that was made in the journey created opportunities for exploration and discovery, with the wandering and meandering path allowing for unexpected encounters and experiences, though the ramble would require time and energy.",
+            "meaning_ko": "그 여행에서 내려졌던 그 시골을 통해 어슬렁거리기로 한 그 결정은 탐험과 발견을 위한 기회를 만들었고, 그 어슬렁거리고 구불구불한 길이 예상치 못한 만남과 경험을 허용했지만, 그 산책은 시간과 에너지를 요구할 것입니다."
+          },
+          {
+            "sentence": "The habit to ramble in conversation that was observed in the individual created challenges for effective communication, with the digressive and wandering speech making it difficult to maintain focus and clarity, though addressing the rambling would require awareness and practice.",
+            "meaning_ko": "그 개인에서 관찰되었던 그 대화에서 횡설수설하는 습관은 효과적인 소통에 대한 도전을 만들었고, 그 빗나가고 어슬렁거리는 말이 초점과 명확성을 유지하는 것을 어렵게 만들었지만, 그 횡설수설을 다루는 것은 인식과 연습을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "ramble는 '어슬렁거리다, 산책하다' 또는 '횡설수설하다, 장황하게 말하다' 의미로, 어슬렁거리거나 산책하는 행동을 가리킵니다. wander, stroll와 비슷하지만 더 구어적 뉘앙스가 있습니다. ramble on ~, go for a ramble 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: ramble = (A) focus (B) wander or digress (C) stay on topic (D) concentrate",
+            "a": "B",
+            "meaning_ko": "ramble는 '어슬렁거리다 또는 빗나가다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They went for a _____.",
+            "a": "ramble",
+            "meaning_ko": "ramble는 '산책'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of ramble? (A) wander (B) stroll (C) focus (D) digress",
+            "a": "C",
+            "meaning_ko": "focus(집중하다)가 ramble의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: ramble _____ topic. (A) on (B) at (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "ramble on ~는 '~에 대해 횡설수설하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: ramble = (A) focus (B) wander (C) stay on topic (D) concentrate",
+            "a": "B",
+            "meaning_ko": "wander(어슬렁거리다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She rambled at the topic.' → Fix the preposition.",
+            "a": "She rambled on about the topic.",
+            "meaning_ko": "ramble on about ~는 '~에 대해 횡설수설하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They went for a ramble.'",
+            "a": "They went for a leisurely walk and wander, with their ramble creating relaxation and enjoyment, though the ramble would provide exercise and fresh air.",
+            "meaning_ko": "ramble는 '산책'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: He _____ through the woods. (A) ramble (B) rambles (C) rambled (D) rambling",
+            "a": "C",
+            "meaning_ko": "과거형 rambled가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses ramble most appropriately? (A) The ramble ran. (B) They went for a ramble. (C) She ramble smiled. (D) Ramble is good.",
+            "a": "B",
+            "meaning_ko": "ramble는 명사로 '산책'을 의미하며, go for와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "harness",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "마구, 고삐; 말이나 동물을 제어하는 마구나 고삐.",
+        "note": "말이나 동물을 제어하는 마구나 고삐를 가리킵니다."
+      },
+      {
+        "definition_ko": "활용하다, 이용하다; 활용하거나 이용하다.",
+        "note": "활용하거나 이용하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "말이나 동물을 제어하는 마구나 고삐인 마구, 또는 활용하거나 이용하는 것.",
+    "etymology": "고대 영어 harnes(장비)에서 유래했으며, 원래는 '장비' 의미였습니다.",
+    "semanticExtension": "원래는 '장비' 의미였고, 현대에는 '활용하거나 이용하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 자주 사용되며, harness + 명사 형태로 자주 사용됩니다. 명사로는 가산명사로 자주 사용되며, harness 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사)",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 활용하다",
+        "example": "harness to"
+      }
+    ],
+    "requiredComplements": [
+      "harness + 명사 : ~을 활용하다/이용하다",
+      "harness to + 명사 : ~에 활용하다"
+    ],
+    "morphology": "고대 영어 harnes에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "harnessed",
+        "meaning_ko": "활용한(과거분사/형용사)"
+      },
+      {
+        "word": "harnessing",
+        "meaning_ko": "활용하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "utilize",
+        "meaning_ko": "활용하다"
+      },
+      {
+        "word": "control",
+        "meaning_ko": "통제하다"
+      },
+      {
+        "word": "channel",
+        "meaning_ko": "채널화하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "utilize",
+        "meaning_ko": "활용하다"
+      },
+      {
+        "word": "control",
+        "meaning_ko": "통제하다"
+      },
+      {
+        "word": "channel",
+        "meaning_ko": "채널화하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "use",
+        "meaning_ko": "사용하다(범위가 더 넓음)"
+      },
+      {
+        "word": "exploit",
+        "meaning_ko": "활용하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "waste",
+        "meaning_ko": "낭비하다"
+      },
+      {
+        "word": "squander",
+        "meaning_ko": "낭비하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "harness to",
+            "meaning_ko": "~에 활용하다"
+          },
+          {
+            "phrase": "harness energy",
+            "meaning_ko": "에너지를 활용하다"
+          },
+          {
+            "phrase": "harness power",
+            "meaning_ko": "힘을 활용하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "harness technology",
+            "meaning_ko": "기술을 활용하다"
+          },
+          {
+            "phrase": "harness resources",
+            "meaning_ko": "자원을 활용하다"
+          },
+          {
+            "phrase": "harness potential",
+            "meaning_ko": "잠재력을 활용하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "harness innovation",
+            "meaning_ko": "혁신을 활용하다"
+          },
+          {
+            "phrase": "harness creativity",
+            "meaning_ko": "창의성을 활용하다"
+          },
+          {
+            "phrase": "harness opportunity",
+            "meaning_ko": "기회를 활용하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They harnessed the energy.",
+            "meaning_ko": "그들은 그 에너지를 활용했습니다."
+          },
+          {
+            "sentence": "She harnessed the power.",
+            "meaning_ko": "그녀는 그 힘을 활용했습니다."
+          },
+          {
+            "sentence": "He harnessed the technology.",
+            "meaning_ko": "그는 그 기술을 활용했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They harnessed the energy, with their utilization and control creating efficient use of resources, though the harnessing would require technology and infrastructure.",
+            "meaning_ko": "그들은 그 에너지를 활용했고, 그들의 활용과 통제가 자원의 효율적 사용을 만들었지만, 그 활용은 기술과 인프라를 요구할 것입니다."
+          },
+          {
+            "sentence": "She harnessed the power, with her utilization and channeling creating effective application, though the harnessing would require skill and management.",
+            "meaning_ko": "그녀는 그 힘을 활용했고, 그녀의 활용과 채널화가 효과적인 적용을 만들었지만, 그 활용은 기술과 관리가 필요할 것입니다."
+          },
+          {
+            "sentence": "He harnessed the technology, with his utilization and application creating innovation and progress, though the harnessing would require understanding and expertise.",
+            "meaning_ko": "그는 그 기술을 활용했고, 그의 활용과 적용이 혁신과 진보를 만들었지만, 그 활용은 이해와 전문성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The ability to harness innovation that was demonstrated in the organization created competitive advantages and growth, with the utilization of creative ideas enabling development and progress, though the harnessing would require culture and systems that support innovation.",
+            "meaning_ko": "그 조직에서 보여졌던 그 혁신을 활용하는 능력은 경쟁 우위와 성장을 만들었고, 창의적 아이디어의 활용이 발전과 진보를 가능하게 했지만, 그 활용은 혁신을 지원하는 문화와 체제를 요구할 것입니다."
+          },
+          {
+            "sentence": "The capacity to harness creativity that was evident in the team created opportunities for unique solutions and approaches, with the utilization of creative thinking enabling innovation and excellence, though the harnessing would require environment and support that encourage creativity.",
+            "meaning_ko": "그 팀에서 명백했던 그 창의성을 활용하는 능력은 독특한 해결책과 접근을 위한 기회를 만들었고, 창의적 사고의 활용이 혁신과 우수성을 가능하게 했지만, 그 활용은 창의성을 장려하는 환경과 지원을 요구할 것입니다."
+          },
+          {
+            "sentence": "The opportunity to harness opportunity that was recognized in the situation created potential for growth and success, with the utilization of chances enabling advancement and achievement, though the harnessing would require awareness and action to capitalize on possibilities.",
+            "meaning_ko": "그 상황에서 인정되었던 그 기회를 활용할 기회는 성장과 성공을 위한 잠재력을 만들었고, 기회의 활용이 발전과 성취를 가능하게 했지만, 그 활용은 가능성을 활용하기 위한 인식과 행동을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "harness는 '마구, 고삐' 또는 '활용하다, 이용하다' 의미로, 말이나 동물을 제어하는 마구나 고삐를 가리킵니다. utilize, control와 비슷하지만 더 제어적 뉘앙스가 있습니다. harness to ~, harness energy 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: harness = (A) waste (B) utilize or control (C) squander (D) discard",
+            "a": "B",
+            "meaning_ko": "harness는 '활용하다 또는 통제하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They _____ the energy.",
+            "a": "harnessed",
+            "meaning_ko": "harness는 '활용하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of harness? (A) utilize (B) control (C) waste (D) channel",
+            "a": "C",
+            "meaning_ko": "waste(낭비하다)가 harness의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: harness _____ purpose. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "harness to ~는 '~에 활용하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: harness = (A) waste (B) utilize (C) squander (D) discard",
+            "a": "B",
+            "meaning_ko": "utilize(활용하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She harnessed the power at purpose.' → Fix the preposition.",
+            "a": "She harnessed the power to purpose.",
+            "meaning_ko": "harness to ~는 '~에 활용하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They harnessed the energy.'",
+            "a": "They utilized and controlled the power, with their harnessing creating efficient use of resources, though the utilization would require technology and infrastructure.",
+            "meaning_ko": "harness는 '활용하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He _____ the technology. (A) harness (B) harnesses (C) harnessed (D) harnessing",
+            "a": "C",
+            "meaning_ko": "과거형 harnessed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses harness most appropriately? (A) The harness ran. (B) They harnessed the energy. (C) She harness smiled. (D) Harness is good.",
+            "a": "B",
+            "meaning_ko": "harness는 타동사로 '활용하다'를 의미하며, 목적어와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,812 @@
+[
+  {
+    "word": "tavern",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "선술집, 주점; 선술집이나 주점.",
+        "note": "선술집이나 주점을 가리킵니다."
+      },
+      {
+        "definition_ko": "여관, 여인숙; 여관이나 여인숙.",
+        "note": "여관이나 여인숙을 가리킵니다."
+      }
+    ],
+    "concept": "선술집이나 주점인 선술집, 또는 여관이나 여인숙.",
+    "etymology": "라틴어 taberna(가게)에서 유래했으며, '가게' 의미에서 '선술집' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '가게' 의미였고, 현대에는 '선술집' 또는 '여관'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, tavern 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에서 선술집",
+        "example": "at tavern"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 선술집",
+        "example": "in tavern"
+      }
+    ],
+    "requiredComplements": [
+      "tavern : 선술집/주점",
+      "at/in + tavern : 선술집에서"
+    ],
+    "morphology": "라틴어 taberna에서 유래한 단어로, '가게' 의미에서 '선술집' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "taverns",
+        "meaning_ko": "선술집들(복수형)"
+      },
+      {
+        "word": "tavernkeeper",
+        "meaning_ko": "선술집 주인"
+      }
+    ],
+    "related": [
+      {
+        "word": "pub",
+        "meaning_ko": "펍"
+      },
+      {
+        "word": "bar",
+        "meaning_ko": "바"
+      },
+      {
+        "word": "inn",
+        "meaning_ko": "여관"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "pub",
+        "meaning_ko": "펍"
+      },
+      {
+        "word": "bar",
+        "meaning_ko": "바"
+      },
+      {
+        "word": "inn",
+        "meaning_ko": "여관"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "alehouse",
+        "meaning_ko": "맥주집(범위가 더 넓음)"
+      },
+      {
+        "word": "saloon",
+        "meaning_ko": "주점"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "home",
+        "meaning_ko": "집"
+      },
+      {
+        "word": "residence",
+        "meaning_ko": "거주지"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "at tavern",
+            "meaning_ko": "선술집에서"
+          },
+          {
+            "phrase": "in tavern",
+            "meaning_ko": "선술집에서"
+          },
+          {
+            "phrase": "local tavern",
+            "meaning_ko": "지역 선술집"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "at the tavern",
+            "meaning_ko": "그 선술집에서"
+          },
+          {
+            "phrase": "village tavern",
+            "meaning_ko": "마을 선술집"
+          },
+          {
+            "phrase": "old tavern",
+            "meaning_ko": "오래된 선술집"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "at the local tavern",
+            "meaning_ko": "그 지역 선술집에서"
+          },
+          {
+            "phrase": "historic tavern",
+            "meaning_ko": "역사적인 선술집"
+          },
+          {
+            "phrase": "traditional tavern",
+            "meaning_ko": "전통적인 선술집"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He visited the tavern.",
+            "meaning_ko": "그는 그 선술집을 방문했습니다."
+          },
+          {
+            "sentence": "She met him at the tavern.",
+            "meaning_ko": "그녀는 그를 그 선술집에서 만났습니다."
+          },
+          {
+            "sentence": "They drank at the local tavern.",
+            "meaning_ko": "그들은 그 지역 선술집에서 술을 마셨습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He visited the tavern, with his pub and bar creating social gathering and entertainment, though the tavern would require moderation and responsibility.",
+            "meaning_ko": "그는 그 선술집을 방문했고, 그의 펍 그리고 바가 사회적 모임과 오락을 만들었지만, 그 선술집은 절제와 책임을 요구할 것입니다."
+          },
+          {
+            "sentence": "She met him at the tavern, with the inn and alehouse creating meeting place and social interaction, though the tavern would need to be used appropriately and safely.",
+            "meaning_ko": "그녀는 그를 그 선술집에서 만났고, 그 여관 그리고 맥주집이 만남 장소와 사회적 상호작용을 만들었지만, 그 선술집은 적절하게 그리고 안전하게 사용될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They drank at the local tavern, with the saloon and pub creating community gathering and socializing, though the tavern would require moderation and awareness.",
+            "meaning_ko": "그들은 그 지역 선술집에서 술을 마셨고, 그 주점 그리고 펍이 지역 사회 모임과 사교를 만들었지만, 그 선술집은 절제와 인식을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to gather at the local tavern that was made in the community created opportunities for social interaction and community building, with the gathering enabling connection and relationship development, though the tavern would require responsible use and moderation to ensure that social interaction is positive and community building is effective.",
+            "meaning_ko": "그 지역 사회에서 내려졌던 그 지역 선술집에서 모이기로 한 그 결정은 사회적 상호작용과 지역 사회 구축을 위한 기회를 만들었고, 그 모임이 연결과 관계 발전을 가능하게 했지만, 그 선술집은 사회적 상호작용이 긍정적이고 지역 사회 구축이 효과적인 것을 보장하기 위해 책임 있는 사용과 절제를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to preserve historic tavern that was undertaken in the initiative created pathways for cultural heritage and tourism, with the preservation enabling maintenance of historical significance and community value, though the tavern would need to be systematically maintained through restoration and management to ensure that heritage is preserved and value is maintained.",
+            "meaning_ko": "그 계획에서 착수되었던 그 역사적인 선술집을 보존하기 위한 그 노력은 문화 유산과 관광을 위한 경로를 만들었고, 그 보존이 역사적 중요성과 지역 사회 가치의 유지를 가능하게 했지만, 그 선술집은 유산이 보존되고 가치가 유지되는 것을 보장하기 위해 복원과 관리를 통해 체계적으로 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to maintain traditional tavern that was completed in the system created structure and methods for cultural preservation and community gathering, with the maintenance enabling continuation of traditions and social connections, though the tavern would require ongoing support and management to ensure that traditions are preserved and community connections are maintained and strengthened.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 전통적인 선술집을 유지하기 위한 그 작업은 문화 보존과 지역 사회 모임을 위한 구조와 방법을 만들었고, 그 유지가 전통과 사회적 연결의 연속을 가능하게 했지만, 그 선술집은 전통이 보존되고 지역 사회 연결이 유지되고 강화되는 것을 보장하기 위해 지속적인 지원과 관리를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "tavern는 '선술집, 주점' 또는 '여관, 여인숙' 의미로, 선술집이나 주점을 가리킵니다. pub, bar와 비슷하지만 더 전통적 뉘앙스가 있습니다. at the tavern, local tavern 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: tavern = (A) home (B) pub or bar (C) residence (D) house",
+            "a": "B",
+            "meaning_ko": "tavern는 '펍 또는 바' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He visited the _____.",
+            "a": "tavern",
+            "meaning_ko": "tavern는 '선술집' 의미입니다."
+          },
+          {
+            "q": "Which is NOT a tavern? (A) pub (B) bar (C) home (D) inn",
+            "a": "C",
+            "meaning_ko": "home(집)는 선술집이 아닙니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: meet _____ the tavern. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "at the tavern는 '그 선술집에서' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: tavern = (A) home (B) pub (C) residence (D) house",
+            "a": "B",
+            "meaning_ko": "pub(펍)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She met him on the tavern.' → Fix the preposition.",
+            "a": "She met him at the tavern.",
+            "meaning_ko": "at the tavern는 '그 선술집에서' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He visited the tavern.'",
+            "a": "He went to a pub and bar, with the tavern creating social gathering and entertainment, though the visit would require moderation and responsibility.",
+            "meaning_ko": "tavern는 '선술집' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They drank at the local _____. (A) tavern (B) taverns (C) tavernkeeper (D) tavern's",
+            "a": "A",
+            "meaning_ko": "명사 tavern가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses tavern most appropriately? (A) The tavern ran. (B) He visited the tavern. (C) She tavern smiled. (D) Tavern is good.",
+            "a": "B",
+            "meaning_ko": "tavern는 명사로 '선술집'을 의미하며, visit the tavern와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "assure",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "확신시키다, 보장하다; 확신시키거나 보장하는 것.",
+        "note": "확신시키거나 보장하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "확약하다, 약속하다; 확약하거나 약속하는 것.",
+        "note": "확약하거나 약속하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "확신시키거나 보장하는 행동, 또는 확약하거나 약속하는 행동.",
+    "etymology": "라틴어 assecurare(확신시키다)에서 유래했으며, ad(향해) + securus(안전한)의 조합입니다.",
+    "semanticExtension": "원래는 '확신시키다' 의미였고, 현대에는 '확신시키다' 또는 '보장하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 사용되며, assure + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~에 대해 확신시키다",
+        "example": "assure of"
+      }
+    ],
+    "requiredComplements": [
+      "assure + 명사 : ~을 확신시키다/보장하다",
+      "assure + 명사 + of + 명사 : ~에게 ~에 대해 확신시키다"
+    ],
+    "morphology": "라틴어 assecurare에서 유래한 단어로, ad(향해) + securus(안전한)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "assured",
+        "meaning_ko": "확신한(과거분사)"
+      },
+      {
+        "word": "assuring",
+        "meaning_ko": "확신시키는(현재분사)"
+      },
+      {
+        "word": "assurance",
+        "meaning_ko": "확신"
+      }
+    ],
+    "related": [
+      {
+        "word": "guarantee",
+        "meaning_ko": "보장하다"
+      },
+      {
+        "word": "promise",
+        "meaning_ko": "약속하다"
+      },
+      {
+        "word": "ensure",
+        "meaning_ko": "확실히 하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "guarantee",
+        "meaning_ko": "보장하다"
+      },
+      {
+        "word": "promise",
+        "meaning_ko": "약속하다"
+      },
+      {
+        "word": "ensure",
+        "meaning_ko": "확실히 하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "reassure",
+        "meaning_ko": "안심시키다(범위가 더 넓음)"
+      },
+      {
+        "word": "confirm",
+        "meaning_ko": "확인하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "doubt",
+        "meaning_ko": "의심하다"
+      },
+      {
+        "word": "question",
+        "meaning_ko": "의문을 제기하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "assure of",
+            "meaning_ko": "~에 대해 확신시키다"
+          },
+          {
+            "phrase": "assure someone",
+            "meaning_ko": "누군가를 확신시키다"
+          },
+          {
+            "phrase": "assure the quality",
+            "meaning_ko": "그 품질을 보장하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "assure of success",
+            "meaning_ko": "그 성공에 대해 확신시키다"
+          },
+          {
+            "phrase": "assure the customer",
+            "meaning_ko": "그 고객을 확신시키다"
+          },
+          {
+            "phrase": "assure the outcome",
+            "meaning_ko": "그 결과를 보장하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "assure of compliance",
+            "meaning_ko": "그 준수에 대해 확신시키다"
+          },
+          {
+            "phrase": "assure the stakeholder",
+            "meaning_ko": "그 이해관계자를 확신시키다"
+          },
+          {
+            "phrase": "assure the standard",
+            "meaning_ko": "그 기준을 보장하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He assured the customer.",
+            "meaning_ko": "그는 그 고객을 확신시켰습니다."
+          },
+          {
+            "sentence": "She assured him of success.",
+            "meaning_ko": "그녀는 그에게 그 성공에 대해 확신시켰습니다."
+          },
+          {
+            "sentence": "They assured the quality.",
+            "meaning_ko": "그들은 그 품질을 보장했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He assured the customer, with his guarantee and promise creating confidence and trust, though the assurance would require fulfillment and delivery.",
+            "meaning_ko": "그는 그 고객을 확신시켰고, 그의 보장 그리고 약속이 자신감과 신뢰를 만들었지만, 그 확신은 이행과 전달을 요구할 것입니다."
+          },
+          {
+            "sentence": "She assured him of success, with the ensure and confirm creating certainty and confidence, though the assurance would need to be supported and validated.",
+            "meaning_ko": "그녀는 그에게 그 성공에 대해 확신시켰고, 그 확실히 하기 그리고 확인이 확실성과 자신감을 만들었지만, 그 확신은 지원되고 검증될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They assured the quality, with the guarantee and reassure creating confidence and trust, though the assurance would require monitoring and verification.",
+            "meaning_ko": "그들은 그 품질을 보장했고, 그 보장 그리고 안심시키기가 자신감과 신뢰를 만들었지만, 그 확신은 모니터링과 검증을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to assure of compliance that was made in the process created opportunities for confidence and trust, with the assurance enabling establishment of certainty and reliability, though the assurance would require comprehensive verification and monitoring to ensure that compliance is maintained and confidence is justified.",
+            "meaning_ko": "그 과정에서 내려졌던 그 준수에 대해 확신시키기로 한 그 결정은 자신감과 신뢰를 위한 기회를 만들었고, 그 확신이 확실성과 신뢰성의 확립을 가능하게 했지만, 그 확신은 준수가 유지되고 자신감이 정당화되는 것을 보장하기 위해 포괄적인 검증과 모니터링을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to assure the stakeholder that was undertaken in the initiative created pathways for confidence and relationship building, with the assurance enabling establishment of trust and reliability, though the assurance would need to be systematically validated through verification and follow-up to ensure that stakeholder confidence is maintained and trust is justified.",
+            "meaning_ko": "그 계획에서 착수되었던 그 이해관계자를 확신시키기 위한 그 노력은 자신감과 관계 구축을 위한 경로를 만들었고, 그 확신이 신뢰와 신뢰성의 확립을 가능하게 했지만, 그 확신은 이해관계자 자신감이 유지되고 신뢰가 정당화되는 것을 보장하기 위해 검증과 후속 조치를 통해 체계적으로 검증될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to assure the standard that was completed in the system created structure and methods for quality assurance and reliability, with the assurance enabling maintenance of standards and confidence, though the assurance would require ongoing monitoring and verification to ensure that standards are maintained and confidence is justified and sustained.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 기준을 보장하기 위한 그 작업은 품질 보증과 신뢰성을 위한 구조와 방법을 만들었고, 그 확신이 기준과 자신감의 유지를 가능하게 했지만, 그 확신은 기준이 유지되고 자신감이 정당화되고 지속되는 것을 보장하기 위해 지속적인 모니터링과 검증을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "assure는 '확신시키다, 보장하다' 또는 '확약하다, 약속하다' 의미로, 확신시키거나 보장하는 행동을 가리킵니다. guarantee, promise와 비슷하지만 더 강한 뉘앙스가 있습니다. assure of ~, assure someone 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: assure = (A) doubt (B) guarantee or promise (C) question (D) suspect",
+            "a": "B",
+            "meaning_ko": "assure는 '보장하다 또는 약속하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the customer.",
+            "a": "assured",
+            "meaning_ko": "assure는 '확신시키다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of assure? (A) guarantee (B) promise (C) doubt (D) ensure",
+            "a": "C",
+            "meaning_ko": "doubt(의심하다)가 assure의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: assure _____ success. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "assure of ~는 '~에 대해 확신시키다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: assure = (A) doubt (B) guarantee (C) question (D) suspect",
+            "a": "B",
+            "meaning_ko": "guarantee(보장하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She assured him at success.' → Fix the preposition.",
+            "a": "She assured him of success.",
+            "meaning_ko": "assure of ~는 '~에 대해 확신시키다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He assured the customer.'",
+            "a": "He guaranteed and promised to the client, with the assurance creating confidence and trust, though the action would require fulfillment and delivery.",
+            "meaning_ko": "assure는 '확신시키다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the quality. (A) assure (B) assures (C) assured (D) assuring",
+            "a": "C",
+            "meaning_ko": "과거형 assured가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses assure most appropriately? (A) The assure ran. (B) He assured the customer. (C) She assure smiled. (D) Assure is good.",
+            "a": "B",
+            "meaning_ko": "assure는 동사로 '확신시키다'를 의미하며, assure + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "colossal",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "거대한, 엄청난; 거대하거나 엄청난.",
+        "note": "거대하거나 엄청난 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "막대한, 엄청난; 막대하거나 엄청난.",
+        "note": "막대하거나 엄청난 상태를 가리킵니다."
+      }
+    ],
+    "concept": "거대하거나 엄청난 상태, 또는 막대하거나 엄청난 상태.",
+    "etymology": "그리스어 kolossos(거대한 상)에서 유래했으며, '거대한 상' 의미에서 '거대한' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '거대한 상' 의미였고, 현대에는 '거대한' 또는 '엄청난'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be colossal 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "be colossal : 거대하다",
+      "colossal + 명사 : 거대한 ~"
+    ],
+    "morphology": "그리스어 kolossos에서 유래한 단어로, '거대한 상' 의미에서 '거대한' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "colossally",
+        "meaning_ko": "거대하게"
+      },
+      {
+        "word": "colossus",
+        "meaning_ko": "거대한 것"
+      }
+    ],
+    "related": [
+      {
+        "word": "huge",
+        "meaning_ko": "거대한"
+      },
+      {
+        "word": "enormous",
+        "meaning_ko": "엄청난"
+      },
+      {
+        "word": "gigantic",
+        "meaning_ko": "거대한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "huge",
+        "meaning_ko": "거대한"
+      },
+      {
+        "word": "enormous",
+        "meaning_ko": "엄청난"
+      },
+      {
+        "word": "gigantic",
+        "meaning_ko": "거대한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "immense",
+        "meaning_ko": "막대한(범위가 더 넓음)"
+      },
+      {
+        "word": "massive",
+        "meaning_ko": "거대한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tiny",
+        "meaning_ko": "작은"
+      },
+      {
+        "word": "minute",
+        "meaning_ko": "아주 작은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "colossal size",
+            "meaning_ko": "거대한 크기"
+          },
+          {
+            "phrase": "colossal amount",
+            "meaning_ko": "거대한 양"
+          },
+          {
+            "phrase": "colossal failure",
+            "meaning_ko": "엄청난 실패"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "colossal structure",
+            "meaning_ko": "거대한 구조"
+          },
+          {
+            "phrase": "colossal scale",
+            "meaning_ko": "거대한 규모"
+          },
+          {
+            "phrase": "colossal mistake",
+            "meaning_ko": "엄청난 실수"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "colossal undertaking",
+            "meaning_ko": "거대한 사업"
+          },
+          {
+            "phrase": "colossal achievement",
+            "meaning_ko": "거대한 성취"
+          },
+          {
+            "phrase": "colossal impact",
+            "meaning_ko": "거대한 영향"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He saw a colossal structure.",
+            "meaning_ko": "그는 거대한 구조를 보았습니다."
+          },
+          {
+            "sentence": "She made a colossal mistake.",
+            "meaning_ko": "그녀는 엄청난 실수를 했습니다."
+          },
+          {
+            "sentence": "They faced a colossal challenge.",
+            "meaning_ko": "그들은 거대한 도전에 직면했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He saw a colossal structure, with the huge and enormous building creating awe and wonder, though the colossus would require maintenance and management.",
+            "meaning_ko": "그는 거대한 구조를 보았고, 그 거대하고 엄청난 건물이 경외와 경이를 만들었지만, 그 거대한 것은 유지와 관리를 요구할 것입니다."
+          },
+          {
+            "sentence": "She made a colossal mistake, with the gigantic and massive error creating consequences and problems, though the colossus would need to be addressed and corrected.",
+            "meaning_ko": "그녀는 엄청난 실수를 했고, 그 거대하고 거대한 오류가 결과와 문제를 만들었지만, 그 거대한 것은 다뤄지고 교정될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They faced a colossal challenge, with the immense and massive difficulty creating obstacles and demands, though the colossus would require effort and determination.",
+            "meaning_ko": "그들은 거대한 도전에 직면했고, 그 막대하고 거대한 어려움이 장애물과 요구를 만들었지만, 그 거대한 것은 노력과 결심을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to undertake colossal undertaking that was made in the process created opportunities for achievement and impact, with the undertaking enabling creation of significant results and influence, though the colossus would require comprehensive planning and resources to ensure that undertaking is successful and impact is maximized.",
+            "meaning_ko": "그 과정에서 내려졌던 그 거대한 사업을 착수하기로 한 그 결정은 성취와 영향력을 위한 기회를 만들었고, 그 사업이 중요한 결과와 영향의 창조를 가능하게 했지만, 그 거대한 것은 사업이 성공적이고 영향력이 최대화되는 것을 보장하기 위해 포괄적인 계획과 자원을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to achieve colossal achievement that was undertaken in the initiative created pathways for success and recognition, with the achievement enabling creation of significant impact and legacy, though the colossus would need to be systematically pursued through dedication and effort to ensure that achievement is realized and impact is significant.",
+            "meaning_ko": "그 계획에서 착수되었던 그 거대한 성취를 달성하기 위한 그 노력은 성공과 인정을 위한 경로를 만들었고, 그 성취가 중요한 영향력과 유산의 창조를 가능하게 했지만, 그 거대한 것은 성취가 실현되고 영향력이 중요한 것을 보장하기 위해 헌신과 노력을 통해 체계적으로 추구될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to create colossal impact that was completed in the system created structure and methods for influence and change, with the impact enabling creation of significant effects and transformation, though the colossus would require ongoing effort and commitment to ensure that impact is maintained and effects continue to be significant and transformative.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 거대한 영향력을 창조하기 위한 그 작업은 영향력과 변화를 위한 구조와 방법을 만들었고, 그 영향력이 중요한 효과와 변환의 창조를 가능하게 했지만, 그 거대한 것은 영향력이 유지되고 효과가 계속 중요하고 변환적인 것을 보장하기 위해 지속적인 노력과 헌신을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "colossal는 '거대한, 엄청난' 또는 '막대한, 엄청난' 의미로, 거대하거나 엄청난 상태를 가리킵니다. huge, enormous와 비슷하지만 더 강한 뉘앙스가 있습니다. colossal size, colossal amount 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: colossal = (A) tiny (B) huge or enormous (C) minute (D) small",
+            "a": "B",
+            "meaning_ko": "colossal는 '거대한 또는 엄청난' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He saw a _____ structure.",
+            "a": "colossal",
+            "meaning_ko": "colossal는 '거대한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of colossal? (A) huge (B) enormous (C) tiny (D) gigantic",
+            "a": "C",
+            "meaning_ko": "tiny(작은)가 colossal의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: colossal _____ size. (A) (no preposition) (B) of (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "colossal는 형용사로 명사를 직접 수식합니다."
+          },
+          {
+            "q": "Pick the best synonym: colossal = (A) tiny (B) huge (C) minute (D) small",
+            "a": "B",
+            "meaning_ko": "huge(거대한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She made a colossal mistake of the problem.' → Fix the sentence.",
+            "a": "She made a colossal mistake.",
+            "meaning_ko": "colossal mistake는 이미 '엄청난 실수' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He saw a colossal structure.'",
+            "a": "He observed a huge and enormous building, with the colossus creating awe and wonder, though the structure would require maintenance and management.",
+            "meaning_ko": "colossal는 '거대한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They faced a _____ challenge. (A) colossal (B) colossally (C) colossus (D) colossal's",
+            "a": "A",
+            "meaning_ko": "형용사 colossal가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses colossal most appropriately? (A) The colossal ran. (B) He saw a colossal structure. (C) She colossal smiled. (D) Colossal is good.",
+            "a": "B",
+            "meaning_ko": "colossal는 형용사로 '거대한'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

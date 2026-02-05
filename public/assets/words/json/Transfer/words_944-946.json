@@ -1,0 +1,835 @@
+[
+  {
+    "word": "underpinning",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "기초, 토대; 기초나 토대.",
+        "note": "기초나 토대를 가리킵니다."
+      },
+      {
+        "definition_ko": "지지, 지지; 지지나 지지.",
+        "note": "지지나 지지를 가리킵니다."
+      }
+    ],
+    "concept": "기초나 토대인 기초, 또는 지지나 지지.",
+    "etymology": "under(아래) + pinning(고정)의 조합으로, '아래 고정' 의미에서 '기초' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '아래 고정' 의미였고, 현대에는 '기초' 또는 '토대'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형 또는 복수형으로 사용되며, underpinning 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 기초",
+        "example": "underpinning of"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위한 기초",
+        "example": "underpinning for"
+      }
+    ],
+    "requiredComplements": [
+      "underpinning : 기초/토대",
+      "underpinning of + 명사 : ~의 기초",
+      "underpinning for + 명사 : ~을 위한 기초"
+    ],
+    "morphology": "under(아래) + pinning(고정)의 조합으로, '아래 고정' 의미에서 '기초' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "underpin",
+        "meaning_ko": "기초를 제공하다"
+      },
+      {
+        "word": "underpinned",
+        "meaning_ko": "기초를 제공한(과거분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "foundation",
+        "meaning_ko": "기초"
+      },
+      {
+        "word": "basis",
+        "meaning_ko": "기초"
+      },
+      {
+        "word": "support",
+        "meaning_ko": "지지"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "foundation",
+        "meaning_ko": "기초"
+      },
+      {
+        "word": "basis",
+        "meaning_ko": "기초"
+      },
+      {
+        "word": "support",
+        "meaning_ko": "지지"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "base",
+        "meaning_ko": "기초(범위가 더 넓음)"
+      },
+      {
+        "word": "groundwork",
+        "meaning_ko": "기초 작업"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "destruction",
+        "meaning_ko": "파괴"
+      },
+      {
+        "word": "demolition",
+        "meaning_ko": "파괴"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "underpinning of",
+            "meaning_ko": "~의 기초"
+          },
+          {
+            "phrase": "underpinning for",
+            "meaning_ko": "~을 위한 기초"
+          },
+          {
+            "phrase": "provide underpinning",
+            "meaning_ko": "기초를 제공하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "underpinning of the theory",
+            "meaning_ko": "그 이론의 기초"
+          },
+          {
+            "phrase": "underpinning for the system",
+            "meaning_ko": "그 시스템을 위한 기초"
+          },
+          {
+            "phrase": "theoretical underpinning",
+            "meaning_ko": "이론적 기초"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "underpinning of the argument",
+            "meaning_ko": "그 논거의 기초"
+          },
+          {
+            "phrase": "underpinning for the framework",
+            "meaning_ko": "그 프레임워크를 위한 기초"
+          },
+          {
+            "phrase": "conceptual underpinning",
+            "meaning_ko": "개념적 기초"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He provided the underpinning.",
+            "meaning_ko": "그는 그 기초를 제공했습니다."
+          },
+          {
+            "sentence": "She explained the underpinning of the theory.",
+            "meaning_ko": "그녀는 그 이론의 기초를 설명했습니다."
+          },
+          {
+            "sentence": "They built the underpinning for the system.",
+            "meaning_ko": "그들은 그 시스템을 위한 기초를 구축했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He provided the underpinning, with his foundation and basis creating support and structure, though the underpinning would require strength and stability.",
+            "meaning_ko": "그는 그 기초를 제공했고, 그의 기초 그리고 기초가 지지와 구조를 만들었지만, 그 기초는 강도와 안정성을 요구할 것입니다."
+          },
+          {
+            "sentence": "She explained the underpinning of the theory, with the base and groundwork creating framework and foundation, though the underpinning would need to be clear and comprehensive.",
+            "meaning_ko": "그녀는 그 이론의 기초를 설명했고, 그 기초 그리고 기초 작업이 프레임워크와 기초를 만들었지만, 그 기초는 명확하고 포괄적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They built the underpinning for the system, with the support and foundation creating stability and structure, though the underpinning would require durability and reliability.",
+            "meaning_ko": "그들은 그 시스템을 위한 기초를 구축했고, 그 지지 그리고 기초가 안정성과 구조를 만들었지만, 그 기초는 내구성과 신뢰성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to establish underpinning of the argument that was made in the process created opportunities for clarity and strength, with the establishment enabling creation of foundation and framework, though the underpinning would require comprehensive analysis and validation to ensure that argument is properly supported and foundation is solidly established.",
+            "meaning_ko": "그 과정에서 내려졌던 그 논거의 그 기초를 확립하기로 한 그 결정은 명확성과 강도를 위한 기회를 만들었고, 그 확립이 기초와 프레임워크의 창조를 가능하게 했지만, 그 기초는 논거가 적절히 지원되고 기초가 견고하게 확립되는 것을 보장하기 위해 포괄적인 분석과 검증을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to develop underpinning for the framework that was undertaken in the initiative created pathways for stability and effectiveness, with the development enabling creation of base and structure, though the underpinning would need to be systematically validated through analysis and testing to ensure that framework is properly supported and stability is achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 프레임워크를 위한 그 기초를 발전시키기 위한 그 노력은 안정성과 효과성을 위한 경로를 만들었고, 그 발전이 기초와 구조의 창조를 가능하게 했지만, 그 기초는 프레임워크가 적절히 지원되고 안정성이 달성되는 것을 보장하기 위해 분석과 테스트를 통해 체계적으로 검증될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to strengthen conceptual underpinning that was completed in the system created structure and methods for clarity and reliability, with the strengthening enabling enhancement of foundation and framework, though the underpinning would require ongoing validation and refinement to ensure that conceptual foundation remains strong and reliability continues to be maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 개념적 기초를 강화하기 위한 그 작업은 명확성과 신뢰성을 위한 구조와 방법을 만들었고, 그 강화가 기초와 프레임워크의 향상을 가능하게 했지만, 그 기초는 개념적 기초가 계속 강하고 신뢰성이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 검증과 정제를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "underpinning는 '기초, 토대' 또는 '지지, 지지' 의미로, 기초나 토대를 가리킵니다. foundation, basis와 비슷하지만 더 문어적 뉘앙스가 있습니다. underpinning of ~, underpinning for ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: underpinning = (A) destruction (B) foundation or basis (C) demolition (D) ruin",
+            "a": "B",
+            "meaning_ko": "underpinning는 '기초 또는 기초' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He provided the _____.",
+            "a": "underpinning",
+            "meaning_ko": "underpinning는 '기초' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of underpinning? (A) foundation (B) basis (C) destruction (D) support",
+            "a": "C",
+            "meaning_ko": "destruction(파괴)가 underpinning의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: underpinning _____ the theory. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "underpinning of ~는 '~의 기초' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: underpinning = (A) destruction (B) foundation (C) demolition (D) ruin",
+            "a": "B",
+            "meaning_ko": "foundation(기초)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She explained the underpinning at the theory.' → Fix the preposition.",
+            "a": "She explained the underpinning of the theory.",
+            "meaning_ko": "underpinning of ~는 '~의 기초' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He provided the underpinning.'",
+            "a": "He supplied the foundation and basis, with the underpinning creating support and structure, though the foundation would require strength and stability.",
+            "meaning_ko": "underpinning는 '기초' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They built the _____ for the system. (A) underpinning (B) underpinnings (C) underpin (D) underpinned",
+            "a": "A",
+            "meaning_ko": "명사 underpinning가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses underpinning most appropriately? (A) The underpinning ran. (B) He provided the underpinning. (C) She underpinning smiled. (D) Underpinning is good.",
+            "a": "B",
+            "meaning_ko": "underpinning는 명사로 '기초'를 의미하며, provide the underpinning와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "tender",
+    "partOfSpeech": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "부드러운, 연한; 부드럽거나 연한.",
+        "note": "부드럽거나 연한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "제안하다, 입찰하다; 제안하거나 입찰하는 것.",
+        "note": "제안하거나 입찰하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "제안, 입찰; 제안이나 입찰.",
+        "note": "제안이나 입찰을 가리킵니다."
+      }
+    ],
+    "concept": "부드럽거나 연한 상태, 제안하거나 입찰하는 행동, 또는 제안이나 입찰.",
+    "etymology": "라틴어 tener(부드러운)에서 유래했으며, '부드러운' 의미입니다.",
+    "semanticExtension": "원래는 '부드러운' 의미였고, 현대에는 '부드러운' 또는 '제안하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "형용사로는 명사를 수식하거나 서술어로 쓰이며, 동사로는 타동사로 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 제안하다",
+        "example": "tender to"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위해 제안하다",
+        "example": "tender for"
+      }
+    ],
+    "requiredComplements": [
+      "be tender : 부드럽다",
+      "tender + 명사 : 부드러운 ~",
+      "tender + 명사 : ~을 제안하다",
+      "tender to + 명사 : ~에게 제안하다",
+      "tender for + 명사 : ~을 위해 제안하다"
+    ],
+    "morphology": "라틴어 tener에서 유래한 단어로, '부드러운' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "tenderly",
+        "meaning_ko": "부드럽게"
+      },
+      {
+        "word": "tenderness",
+        "meaning_ko": "부드러움"
+      },
+      {
+        "word": "tendered",
+        "meaning_ko": "제안한(과거분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "soft",
+        "meaning_ko": "부드러운"
+      },
+      {
+        "word": "gentle",
+        "meaning_ko": "부드러운"
+      },
+      {
+        "word": "offer",
+        "meaning_ko": "제안하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "soft",
+        "meaning_ko": "부드러운"
+      },
+      {
+        "word": "gentle",
+        "meaning_ko": "부드러운"
+      },
+      {
+        "word": "offer",
+        "meaning_ko": "제안하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "delicate",
+        "meaning_ko": "섬세한(범위가 더 넓음)"
+      },
+      {
+        "word": "submit",
+        "meaning_ko": "제출하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "tough",
+        "meaning_ko": "거친"
+      },
+      {
+        "word": "hard",
+        "meaning_ko": "단단한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "tender to",
+            "meaning_ko": "~에게 제안하다"
+          },
+          {
+            "phrase": "tender for",
+            "meaning_ko": "~을 위해 제안하다"
+          },
+          {
+            "phrase": "tender meat",
+            "meaning_ko": "부드러운 고기"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "tender to the company",
+            "meaning_ko": "그 회사에게 제안하다"
+          },
+          {
+            "phrase": "tender for the contract",
+            "meaning_ko": "그 계약을 위해 제안하다"
+          },
+          {
+            "phrase": "tender care",
+            "meaning_ko": "부드러운 돌봄"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "tender to the authority",
+            "meaning_ko": "그 당국에게 제안하다"
+          },
+          {
+            "phrase": "tender for the project",
+            "meaning_ko": "그 프로젝트를 위해 제안하다"
+          },
+          {
+            "phrase": "tender moment",
+            "meaning_ko": "부드러운 순간"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He cooked tender meat.",
+            "meaning_ko": "그는 부드러운 고기를 요리했습니다."
+          },
+          {
+            "sentence": "She tendered to the company.",
+            "meaning_ko": "그녀는 그 회사에게 제안했습니다."
+          },
+          {
+            "sentence": "They tendered for the contract.",
+            "meaning_ko": "그들은 그 계약을 위해 제안했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He cooked tender meat, with the soft and gentle texture creating quality and appeal, though the tenderness would require proper cooking and care.",
+            "meaning_ko": "그는 부드러운 고기를 요리했고, 그 부드럽고 부드러운 질감이 품질과 매력을 만들었지만, 그 부드러움은 적절한 요리와 돌봄을 요구할 것입니다."
+          },
+          {
+            "sentence": "She tendered to the company, with the offer and submit creating opportunity and potential, though the tendering would need to be competitive and attractive.",
+            "meaning_ko": "그녀는 그 회사에게 제안했고, 그 제안 그리고 제출이 기회와 잠재력을 만들었지만, 그 제안은 경쟁력 있고 매력적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They tendered for the contract, with the delicate and soft approach creating appeal and interest, though the tendering would require preparation and strategy.",
+            "meaning_ko": "그들은 그 계약을 위해 제안했고, 그 섬세하고 부드러운 접근이 매력과 관심을 만들었지만, 그 제안은 준비와 전략을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to tender to the authority that was made in the process created opportunities for business and success, with the tendering enabling submission of proposal and offer, though the tender would require comprehensive preparation and competitive strategy to ensure that authority receives proper proposal and business is effectively pursued.",
+            "meaning_ko": "그 과정에서 내려졌던 그 당국에게 제안하기로 한 그 결정은 사업과 성공을 위한 기회를 만들었고, 그 제안이 제안과 제안의 제출을 가능하게 했지만, 그 제안은 당국이 적절한 제안을 받고 사업이 효과적으로 추구되는 것을 보장하기 위해 포괄적인 준비와 경쟁적 전략을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to tender for the project that was undertaken in the initiative created pathways for opportunity and success, with the tendering enabling submission of competitive proposal and offer, though the tender would need to be systematically prepared through research and strategy to ensure that project is properly addressed and opportunity is effectively pursued.",
+            "meaning_ko": "그 계획에서 착수되었던 그 프로젝트를 위해 제안하기 위한 그 노력은 기회와 성공을 위한 경로를 만들었고, 그 제안이 경쟁적 제안과 제안의 제출을 가능하게 했지만, 그 제안은 프로젝트가 적절히 다뤄지고 기회가 효과적으로 추구되는 것을 보장하기 위해 연구와 전략을 통해 체계적으로 준비될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to create tender moment that was completed in the system created structure and methods for connection and emotion, with the creation enabling establishment of gentle and soft atmosphere, though the tenderness would require ongoing care and attention to ensure that moment remains tender and connection continues to be maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 부드러운 순간을 창조하기 위한 그 작업은 연결과 감정을 위한 구조와 방법을 만들었고, 그 창조가 부드럽고 부드러운 분위기의 확립을 가능하게 했지만, 그 부드러움은 순간이 계속 부드럽고 연결이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 돌봄과 주의를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "tender는 '부드러운, 연한' 또는 '제안하다, 입찰하다' 의미로, 부드럽거나 연한 상태를 가리킵니다. soft, gentle와 비슷하지만 더 섬세한 뉘앙스가 있습니다. tender to ~, tender for ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: tender = (A) tough (B) soft or gentle (C) hard (D) rough",
+            "a": "B",
+            "meaning_ko": "tender는 '부드러운 또는 부드러운' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He cooked _____ meat.",
+            "a": "tender",
+            "meaning_ko": "tender는 '부드러운' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of tender? (A) soft (B) gentle (C) tough (D) delicate",
+            "a": "C",
+            "meaning_ko": "tough(거친)가 tender의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: tender _____ the company. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "tender to ~는 '~에게 제안하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: tender = (A) tough (B) soft (C) hard (D) rough",
+            "a": "B",
+            "meaning_ko": "soft(부드러운)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She tendered at the company.' → Fix the preposition.",
+            "a": "She tendered to the company.",
+            "meaning_ko": "tender to ~는 '~에게 제안하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He cooked tender meat.'",
+            "a": "He prepared soft and gentle meat, with the tenderness creating quality and appeal, though the meat would require proper cooking and care.",
+            "meaning_ko": "tender는 '부드러운' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ for the contract. (A) tender (B) tenders (C) tendered (D) tendering",
+            "a": "C",
+            "meaning_ko": "과거형 tendered가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses tender most appropriately? (A) The tender ran. (B) He cooked tender meat. (C) She tender smiled. (D) Tender is good.",
+            "a": "B",
+            "meaning_ko": "tender는 형용사로 '부드러운'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "scapegoat",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "희생양, 대리 희생; 희생양이나 대리 희생.",
+        "note": "희생양이나 대리 희생을 가리킵니다."
+      },
+      {
+        "definition_ko": "희생양으로 삼다, 희생양으로 만들다; 희생양으로 삼거나 희생양으로 만드는 것.",
+        "note": "희생양으로 삼거나 희생양으로 만드는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "희생양이나 대리 희생인 희생양, 또는 희생양으로 삼거나 희생양으로 만드는 행동.",
+    "etymology": "scape(도망) + goat(염소)의 조합으로, '도망가는 염소' 의미에서 '희생양' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '도망가는 염소' 의미였고, 현대에는 '희생양' 또는 '대리 희생'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 주로 단수형으로 사용되며, 동사로는 타동사로 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~의 희생양",
+        "example": "scapegoat for"
+      }
+    ],
+    "requiredComplements": [
+      "scapegoat : 희생양",
+      "scapegoat for + 명사 : ~의 희생양",
+      "scapegoat + 명사 : ~을 희생양으로 삼다"
+    ],
+    "morphology": "scape(도망) + goat(염소)의 조합으로, '도망가는 염소' 의미에서 '희생양' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "scapegoated",
+        "meaning_ko": "희생양으로 삼은(과거분사)"
+      },
+      {
+        "word": "scapegoating",
+        "meaning_ko": "희생양으로 삼는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "victim",
+        "meaning_ko": "희생자"
+      },
+      {
+        "word": "sacrifice",
+        "meaning_ko": "희생"
+      },
+      {
+        "word": "blame",
+        "meaning_ko": "비난"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "victim",
+        "meaning_ko": "희생자"
+      },
+      {
+        "word": "sacrifice",
+        "meaning_ko": "희생"
+      },
+      {
+        "word": "blame",
+        "meaning_ko": "비난"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "fall guy",
+        "meaning_ko": "대리 희생(범위가 더 넓음)"
+      },
+      {
+        "word": "patsy",
+        "meaning_ko": "희생양"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hero",
+        "meaning_ko": "영웅"
+      },
+      {
+        "word": "champion",
+        "meaning_ko": "챔피언"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "scapegoat for",
+            "meaning_ko": "~의 희생양"
+          },
+          {
+            "phrase": "make a scapegoat",
+            "meaning_ko": "희생양을 만들다"
+          },
+          {
+            "phrase": "become a scapegoat",
+            "meaning_ko": "희생양이 되다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "scapegoat for the problem",
+            "meaning_ko": "그 문제의 희생양"
+          },
+          {
+            "phrase": "scapegoat for the failure",
+            "meaning_ko": "그 실패의 희생양"
+          },
+          {
+            "phrase": "use as scapegoat",
+            "meaning_ko": "희생양으로 사용하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "scapegoat for the crisis",
+            "meaning_ko": "그 위기의 희생양"
+          },
+          {
+            "phrase": "scapegoat for the mistake",
+            "meaning_ko": "그 실수의 희생양"
+          },
+          {
+            "phrase": "scapegoat mechanism",
+            "meaning_ko": "희생양 메커니즘"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He became a scapegoat.",
+            "meaning_ko": "그는 희생양이 되었습니다."
+          },
+          {
+            "sentence": "She made him a scapegoat for the problem.",
+            "meaning_ko": "그녀는 그를 그 문제의 희생양으로 만들었습니다."
+          },
+          {
+            "sentence": "They used him as a scapegoat.",
+            "meaning_ko": "그들은 그를 희생양으로 사용했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He became a scapegoat, with the victim and sacrifice creating blame and responsibility, though the scapegoating would require analysis and understanding.",
+            "meaning_ko": "그는 희생양이 되었고, 그 희생자 그리고 희생이 비난과 책임을 만들었지만, 그 희생양으로 삼기는 분석과 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "She made him a scapegoat for the problem, with the fall guy and patsy creating blame and responsibility, though the scapegoating would need to be addressed and prevented.",
+            "meaning_ko": "그녀는 그를 그 문제의 희생양으로 만들었고, 그 대리 희생 그리고 희생양이 비난과 책임을 만들었지만, 그 희생양으로 삼기는 다뤄지고 방지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They used him as a scapegoat, with the blame and victim creating responsibility and fault, though the scapegoating would require examination and correction.",
+            "meaning_ko": "그들은 그를 희생양으로 사용했고, 그 비난 그리고 희생자가 책임과 잘못을 만들었지만, 그 희생양으로 삼기는 검토와 교정을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to prevent scapegoat for the crisis that was made in the process created opportunities for fairness and justice, with the prevention enabling reduction of blame and responsibility, though the scapegoating would require comprehensive analysis and understanding to ensure that crisis is properly addressed and blame is fairly distributed.",
+            "meaning_ko": "그 과정에서 내려졌던 그 위기에 대한 그 희생양을 방지하기로 한 그 결정은 공정성과 정의를 위한 기회를 만들었고, 그 방지가 비난과 책임의 감소를 가능하게 했지만, 그 희생양으로 삼기는 위기가 적절히 다뤄지고 비난이 공정하게 분배되는 것을 보장하기 위해 포괄적인 분석과 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to address scapegoat for the mistake that was undertaken in the initiative created pathways for accountability and fairness, with the addressing enabling proper distribution of responsibility and blame, though the scapegoating would need to be systematically examined through analysis and evaluation to ensure that mistake is properly addressed and responsibility is fairly assigned.",
+            "meaning_ko": "그 계획에서 착수되었던 그 실수에 대한 그 희생양을 다루기 위한 그 노력은 책임과 공정성을 위한 경로를 만들었고, 그 다루기가 책임과 비난의 적절한 분배를 가능하게 했지만, 그 희생양으로 삼기는 실수가 적절히 다뤄지고 책임이 공정하게 할당되는 것을 보장하기 위해 분석과 평가를 통해 체계적으로 검토될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to eliminate scapegoat mechanism that was completed in the system created structure and methods for fairness and justice, with the elimination enabling reduction of blame and responsibility, though the scapegoating would require ongoing vigilance and action to ensure that mechanism is eliminated and fairness continues to be maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 희생양 메커니즘을 제거하기 위한 그 작업은 공정성과 정의를 위한 구조와 방법을 만들었고, 그 제거가 비난과 책임의 감소를 가능하게 했지만, 그 희생양으로 삼기는 메커니즘이 제거되고 공정성이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 경계와 행동을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "scapegoat는 '희생양, 대리 희생' 또는 '희생양으로 삼다, 희생양으로 만들다' 의미로, 희생양이나 대리 희생을 가리킵니다. victim, sacrifice와 비슷하지만 더 구체적 뉘앙스가 있습니다. scapegoat for ~, make a scapegoat 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: scapegoat = (A) hero (B) victim or sacrifice (C) champion (D) winner",
+            "a": "B",
+            "meaning_ko": "scapegoat는 '희생자 또는 희생' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He became a _____.",
+            "a": "scapegoat",
+            "meaning_ko": "scapegoat는 '희생양' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of scapegoat? (A) victim (B) sacrifice (C) hero (D) blame",
+            "a": "C",
+            "meaning_ko": "hero(영웅)가 scapegoat의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: scapegoat _____ the problem. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "scapegoat for ~는 '~의 희생양' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: scapegoat = (A) hero (B) victim (C) champion (D) winner",
+            "a": "B",
+            "meaning_ko": "victim(희생자)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She made him a scapegoat at the problem.' → Fix the preposition.",
+            "a": "She made him a scapegoat for the problem.",
+            "meaning_ko": "scapegoat for ~는 '~의 희생양' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He became a scapegoat.'",
+            "a": "He became a victim and sacrifice, with the scapegoating creating blame and responsibility, though the situation would require analysis and understanding.",
+            "meaning_ko": "scapegoat는 '희생양' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They used him as a _____. (A) scapegoat (B) scapegoats (C) scapegoated (D) scapegoating",
+            "a": "A",
+            "meaning_ko": "명사 scapegoat가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses scapegoat most appropriately? (A) The scapegoat ran. (B) He became a scapegoat. (C) She scapegoat smiled. (D) Scapegoat is good.",
+            "a": "B",
+            "meaning_ko": "scapegoat는 명사로 '희생양'을 의미하며, become a scapegoat와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

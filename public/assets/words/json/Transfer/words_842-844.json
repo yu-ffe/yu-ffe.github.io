@@ -1,0 +1,828 @@
+[
+  {
+    "word": "vague",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "모호한, 불명확한; 모호하거나 불명확한.",
+        "note": "모호하거나 불명확한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "애매한, 흐릿한; 애매하거나 흐릿한.",
+        "note": "애매하거나 흐릿한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "모호하거나 불명확한 상태, 또는 애매하거나 흐릿한 상태.",
+    "etymology": "라틴어 vagus(떠돌아다니는)에서 유래했으며, '불명확한' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '떠돌아다니는' 의미였고, 현대에는 '모호하거나 불명확한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be vague 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 모호한",
+        "example": "vague about"
+      }
+    ],
+    "requiredComplements": [
+      "be vague : 모호하다",
+      "vague + 명사 : 모호한 ~",
+      "vague about + 명사 : ~에 대해 모호한"
+    ],
+    "morphology": "라틴어 vagus에서 유래한 단어로, '떠돌아다니는' 의미에서 '불명확한' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "vaguely",
+        "meaning_ko": "모호하게"
+      },
+      {
+        "word": "vagueness",
+        "meaning_ko": "모호함"
+      }
+    ],
+    "related": [
+      {
+        "word": "unclear",
+        "meaning_ko": "불명확한"
+      },
+      {
+        "word": "ambiguous",
+        "meaning_ko": "애매한"
+      },
+      {
+        "word": "indistinct",
+        "meaning_ko": "불명확한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "unclear",
+        "meaning_ko": "불명확한"
+      },
+      {
+        "word": "ambiguous",
+        "meaning_ko": "애매한"
+      },
+      {
+        "word": "indistinct",
+        "meaning_ko": "불명확한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "obscure",
+        "meaning_ko": "모호한(범위가 더 넓음)"
+      },
+      {
+        "word": "nebulous",
+        "meaning_ko": "애매한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clear",
+        "meaning_ko": "명확한"
+      },
+      {
+        "word": "precise",
+        "meaning_ko": "정확한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "vague about",
+            "meaning_ko": "~에 대해 모호한"
+          },
+          {
+            "phrase": "vague idea",
+            "meaning_ko": "모호한 아이디어"
+          },
+          {
+            "phrase": "vague memory",
+            "meaning_ko": "모호한 기억"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "vague about the details",
+            "meaning_ko": "그 세부사항에 대해 모호한"
+          },
+          {
+            "phrase": "vague description",
+            "meaning_ko": "모호한 설명"
+          },
+          {
+            "phrase": "vague answer",
+            "meaning_ko": "모호한 답변"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "vague about the plan",
+            "meaning_ko": "그 계획에 대해 모호한"
+          },
+          {
+            "phrase": "vague recollection",
+            "meaning_ko": "모호한 회상"
+          },
+          {
+            "phrase": "vague impression",
+            "meaning_ko": "모호한 인상"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was vague.",
+            "meaning_ko": "그는 모호했습니다."
+          },
+          {
+            "sentence": "She was vague about the details.",
+            "meaning_ko": "그녀는 그 세부사항에 대해 모호했습니다."
+          },
+          {
+            "sentence": "They gave a vague answer.",
+            "meaning_ko": "그들은 모호한 답변을 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was vague, with his unclear and ambiguous statement creating confusion and uncertainty, though the vagueness would require clarification and precision.",
+            "meaning_ko": "그는 모호했고, 그의 불명확하고 애매한 발언이 혼란과 불확실성을 만들었지만, 그 모호함은 명확화와 정확성을 요구할 것입니다."
+          },
+          {
+            "sentence": "She was vague about the details, with her indistinct and obscure explanation creating misunderstanding and doubt, though the vagueness would need to be addressed and resolved.",
+            "meaning_ko": "그녀는 그 세부사항에 대해 모호했고, 그녀의 불명확하고 모호한 설명이 오해와 의심을 만들었지만, 그 모호함은 다뤄지고 해결될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They gave a vague answer, with their nebulous and unclear response creating ambiguity and confusion, though the vagueness would require explanation and detail.",
+            "meaning_ko": "그들은 모호한 답변을 했고, 그들의 애매하고 불명확한 응답이 애매함과 혼란을 만들었지만, 그 모호함은 설명과 세부사항을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to be vague about the plan that was made in the communication created opportunities for flexibility and ambiguity, with the vagueness enabling room for interpretation and adjustment, though the vagueness would require eventual clarification and precision to ensure that the plan is understood and implemented correctly.",
+            "meaning_ko": "그 소통에서 내려졌던 그 계획에 대해 모호하기로 한 그 결정은 유연성과 애매함을 위한 기회를 만들었고, 그 모호함이 해석과 조정을 위한 여지를 가능하게 했지만, 그 모호함은 계획이 이해되고 올바르게 실행되는 것을 보장하기 위해 결국 명확화와 정확성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to clarify the vague recollection that was undertaken in the investigation created pathways for understanding and verification, with the clarification enabling reconstruction of events and details, though the vagueness would need to be systematically addressed through careful questioning and evidence gathering to ensure that the recollection is accurately understood and verified.",
+            "meaning_ko": "그 조사에서 착수되었던 그 모호한 회상을 명확히 하기 위한 그 노력은 이해와 검증을 위한 경로를 만들었고, 그 명확화가 사건과 세부사항의 재구성을 가능하게 했지만, 그 모호함은 회상이 정확히 이해되고 검증되는 것을 보장하기 위해 신중한 질문과 증거 수집을 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to address the vague impression that was completed in the analysis created structure and methods for clarification, with the examination enabling identification of sources and causes, though the vagueness would require ongoing investigation and refinement to ensure that impressions are accurately understood and their significance is properly evaluated.",
+            "meaning_ko": "그 분석에서 완료되었던 그 모호한 인상을 다루기 위한 그 작업은 명확화를 위한 구조와 방법을 만들었고, 그 검토가 원인과 원천의 식별을 가능하게 했지만, 그 모호함은 인상이 정확히 이해되고 그 중요성이 적절히 평가되는 것을 보장하기 위해 지속적인 조사와 정제를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "vague는 '모호한, 불명확한' 또는 '애매한, 흐릿한' 의미로, 모호하거나 불명확한 상태를 가리킵니다. unclear, ambiguous와 비슷하지만 더 일반적 뉘앙스가 있습니다. vague about ~, vague idea 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: vague = (A) clear (B) unclear or ambiguous (C) precise (D) exact",
+            "a": "B",
+            "meaning_ko": "vague는 '불명확한 또는 애매한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was _____.",
+            "a": "vague",
+            "meaning_ko": "vague는 '모호한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of vague? (A) unclear (B) ambiguous (C) clear (D) indistinct",
+            "a": "C",
+            "meaning_ko": "clear(명확한)가 vague의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: vague _____ the details. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "vague about ~는 '~에 대해 모호한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: vague = (A) clear (B) unclear (C) precise (D) exact",
+            "a": "B",
+            "meaning_ko": "unclear(불명확한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was vague at the details.' → Fix the preposition.",
+            "a": "She was vague about the details.",
+            "meaning_ko": "vague about ~는 '~에 대해 모호한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was vague.'",
+            "a": "He was unclear and ambiguous, with the vagueness creating confusion and uncertainty, though the lack of clarity would require clarification and precision.",
+            "meaning_ko": "vague는 '모호한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They gave a _____ answer. (A) vague (B) vaguely (C) vagueness (D) vague's",
+            "a": "A",
+            "meaning_ko": "형용사 vague가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses vague most appropriately? (A) The vague ran. (B) He was vague. (C) She vague smiled. (D) Vague is good.",
+            "a": "B",
+            "meaning_ko": "vague는 형용사로 '모호한'을 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "recount",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "다시 세다, 재계산하다; 다시 세거나 재계산하다.",
+        "note": "다시 세거나 재계산하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "이야기하다, 서술하다; 이야기하거나 서술하다.",
+        "note": "이야기하거나 서술하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "다시 세거나 재계산하는 것, 또는 이야기하거나 서술하는 것.",
+    "etymology": "re(다시) + count(세다)의 조합으로, '다시 세다' 또는 '이야기하다' 의미입니다.",
+    "semanticExtension": "원래는 '다시 세다' 의미였고, 현대에는 '이야기하거나 서술하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 자주 사용되며, recount + to 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 이야기하다",
+        "example": "recount to"
+      }
+    ],
+    "requiredComplements": [
+      "recount + 명사 : ~을 다시 세다/이야기하다",
+      "recount to + 명사 : ~에게 이야기하다"
+    ],
+    "morphology": "re(다시) + count(세다)의 조합으로, '다시 세다' 또는 '이야기하다' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "recounted",
+        "meaning_ko": "다시 센/이야기한(과거분사/형용사)"
+      },
+      {
+        "word": "recounting",
+        "meaning_ko": "다시 세는/이야기하는(현재분사/형용사)"
+      },
+      {
+        "word": "recount",
+        "meaning_ko": "재계산(명사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "tell",
+        "meaning_ko": "이야기하다"
+      },
+      {
+        "word": "narrate",
+        "meaning_ko": "서술하다"
+      },
+      {
+        "word": "describe",
+        "meaning_ko": "설명하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "tell",
+        "meaning_ko": "이야기하다"
+      },
+      {
+        "word": "narrate",
+        "meaning_ko": "서술하다"
+      },
+      {
+        "word": "describe",
+        "meaning_ko": "설명하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "relate",
+        "meaning_ko": "이야기하다(범위가 더 넓음)"
+      },
+      {
+        "word": "recite",
+        "meaning_ko": "암송하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conceal",
+        "meaning_ko": "숨기다"
+      },
+      {
+        "word": "hide",
+        "meaning_ko": "숨기다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "recount to",
+            "meaning_ko": "~에게 이야기하다"
+          },
+          {
+            "phrase": "recount the story",
+            "meaning_ko": "그 이야기를 이야기하다"
+          },
+          {
+            "phrase": "recount the events",
+            "meaning_ko": "그 사건들을 이야기하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "recount to the audience",
+            "meaning_ko": "그 청중에게 이야기하다"
+          },
+          {
+            "phrase": "recount the experience",
+            "meaning_ko": "그 경험을 이야기하다"
+          },
+          {
+            "phrase": "recount the details",
+            "meaning_ko": "그 세부사항을 이야기하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "recount to the court",
+            "meaning_ko": "그 법정에게 이야기하다"
+          },
+          {
+            "phrase": "recount the incident",
+            "meaning_ko": "그 사건을 이야기하다"
+          },
+          {
+            "phrase": "recount the history",
+            "meaning_ko": "그 역사를 이야기하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He recounted the story.",
+            "meaning_ko": "그는 그 이야기를 이야기했습니다."
+          },
+          {
+            "sentence": "She recounted to the audience.",
+            "meaning_ko": "그녀는 그 청중에게 이야기했습니다."
+          },
+          {
+            "sentence": "They recounted the events.",
+            "meaning_ko": "그들은 그 사건들을 이야기했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He recounted the story, with his tell and narrate creating understanding and engagement, though the recounting would require accuracy and detail.",
+            "meaning_ko": "그는 그 이야기를 이야기했고, 그의 이야기하기와 서술하기가 이해와 참여를 만들었지만, 그 이야기하기는 정확성과 세부사항을 요구할 것입니다."
+          },
+          {
+            "sentence": "She recounted to the audience, with her describe and relate creating connection and interest, though the recounting would need to be clear and compelling.",
+            "meaning_ko": "그녀는 그 청중에게 이야기했고, 그녀의 설명하기와 이야기하기가 연결과 관심을 만들었지만, 그 이야기하기는 명확하고 설득력 있을 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They recounted the events, with their recite and narrate creating memory and understanding, though the recounting would require thoroughness and completeness.",
+            "meaning_ko": "그들은 그 사건들을 이야기했고, 그들의 암송하기와 서술하기가 기억과 이해를 만들었지만, 그 이야기하기는 철저함과 완전성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to recount the incident to the court that was made in the testimony created opportunities for clarity and understanding, with the narration enabling presentation of facts and details, though the recounting would require accuracy and veracity to ensure that the incident is accurately represented and understood.",
+            "meaning_ko": "그 증언에서 내려졌던 그 법정에게 그 사건을 이야기하기로 한 그 결정은 명확성과 이해를 위한 기회를 만들었고, 그 서술이 사실과 세부사항의 발표를 가능하게 했지만, 그 이야기하기는 사건이 정확히 나타나고 이해되는 것을 보장하기 위해 정확성과 진실성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to recount the history that was undertaken in the research created pathways for understanding and documentation, with the narration enabling preservation of events and experiences, though the recounting would need to be systematically verified and cross-referenced to ensure that the history is accurately recorded and its significance is properly understood.",
+            "meaning_ko": "그 연구에서 착수되었던 그 역사를 이야기하기 위한 그 노력은 이해와 문서화를 위한 경로를 만들었고, 그 서술이 사건과 경험의 보존을 가능하게 했지만, 그 이야기하기는 역사가 정확히 기록되고 그 중요성이 적절히 이해되는 것을 보장하기 위해 체계적으로 검증되고 상호 참조될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to recount the experience that was completed in the program created structure and methods for storytelling, with the narration enabling sharing of perspectives and insights, though the recounting would require ongoing refinement and validation to ensure that experiences are accurately represented and their lessons are effectively communicated.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 경험을 이야기하기 위한 그 작업은 스토리텔링을 위한 구조와 방법을 만들었고, 그 서술이 관점과 통찰의 공유를 가능하게 했지만, 그 이야기하기는 경험이 정확히 나타나고 그 교훈이 효과적으로 소통되는 것을 보장하기 위해 지속적인 정제와 검증을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "recount는 '다시 세다, 재계산하다' 또는 '이야기하다, 서술하다' 의미로, 다시 세거나 재계산하는 행동을 가리킵니다. tell, narrate와 비슷하지만 더 문어적 뉘앙스가 있습니다. recount to ~, recount the story 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: recount = (A) conceal (B) tell or narrate (C) hide (D) suppress",
+            "a": "B",
+            "meaning_ko": "recount는 '이야기하다 또는 서술하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the story.",
+            "a": "recounted",
+            "meaning_ko": "recount는 '이야기하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of recount? (A) tell (B) narrate (C) conceal (D) describe",
+            "a": "C",
+            "meaning_ko": "conceal(숨기다)가 recount의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: recount _____ the audience. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "recount to ~는 '~에게 이야기하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: recount = (A) conceal (B) tell (C) hide (D) suppress",
+            "a": "B",
+            "meaning_ko": "tell(이야기하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She recounted at the audience.' → Fix the preposition.",
+            "a": "She recounted to the audience.",
+            "meaning_ko": "recount to ~는 '~에게 이야기하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He recounted the story.'",
+            "a": "He told and narrated the tale, with the recounting creating understanding and engagement, though the narration would require accuracy and detail.",
+            "meaning_ko": "recount는 '이야기하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the events. (A) recount (B) recounts (C) recounted (D) recounting",
+            "a": "C",
+            "meaning_ko": "과거형 recounted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses recount most appropriately? (A) The recount ran. (B) He recounted the story. (C) She recount smiled. (D) Recount is good.",
+            "a": "B",
+            "meaning_ko": "recount는 타동사로 '이야기하다'를 의미하며, recount + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "stud",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "못, 스터드; 못이나 스터드.",
+        "note": "못이나 스터드를 가리킵니다."
+      },
+      {
+        "definition_ko": "종마, 번식용 수컷; 종마나 번식용 수컷.",
+        "note": "종마나 번식용 수컷을 가리킵니다."
+      },
+      {
+        "definition_ko": "장식 못, 단추; 장식 못이나 단추.",
+        "note": "장식 못이나 단추를 가리킵니다."
+      },
+      {
+        "definition_ko": "~에 못을 박다, 장식하다; ~에 못을 박거나 장식하다.",
+        "note": "~에 못을 박거나 장식하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "못이나 스터드인 못, 또는 종마나 번식용 수컷, 또는 장식 못이나 단추, 또는 ~에 못을 박거나 장식하는 것.",
+    "etymology": "고대 영어 studu(기둥)에서 유래했으며, '못' 또는 '종마' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '기둥' 의미였고, 현대에는 '못' 또는 '종마'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사와 동사로 모두 사용되며, stud 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사일 때)",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 장식하다",
+        "example": "stud with"
+      }
+    ],
+    "requiredComplements": [
+      "stud : 못/스터드",
+      "stud + 명사 : ~에 못을 박다",
+      "stud with + 명사 : ~로 장식하다"
+    ],
+    "morphology": "고대 영어 studu에서 유래한 단어로, '기둥' 의미에서 '못' 또는 '종마' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "studs",
+        "meaning_ko": "못들(복수형)"
+      },
+      {
+        "word": "studded",
+        "meaning_ko": "못을 박은(과거분사/형용사)"
+      },
+      {
+        "word": "studding",
+        "meaning_ko": "못을 박는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "nail",
+        "meaning_ko": "못"
+      },
+      {
+        "word": "pin",
+        "meaning_ko": "핀"
+      },
+      {
+        "word": "stallion",
+        "meaning_ko": "종마"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "nail",
+        "meaning_ko": "못"
+      },
+      {
+        "word": "pin",
+        "meaning_ko": "핀"
+      },
+      {
+        "word": "stallion",
+        "meaning_ko": "종마"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "fastener",
+        "meaning_ko": "고정재(범위가 더 넓음)"
+      },
+      {
+        "word": "peg",
+        "meaning_ko": "못"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "remove",
+        "meaning_ko": "제거하다"
+      },
+      {
+        "word": "extract",
+        "meaning_ko": "빼내다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "stud with",
+            "meaning_ko": "~로 장식하다"
+          },
+          {
+            "phrase": "stud farm",
+            "meaning_ko": "종마 농장"
+          },
+          {
+            "phrase": "stud horse",
+            "meaning_ko": "종마"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "stud with diamonds",
+            "meaning_ko": "다이아몬드로 장식하다"
+          },
+          {
+            "phrase": "studded belt",
+            "meaning_ko": "못을 박은 벨트"
+          },
+          {
+            "phrase": "studded tire",
+            "meaning_ko": "못을 박은 타이어"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "stud with jewels",
+            "meaning_ko": "보석으로 장식하다"
+          },
+          {
+            "phrase": "studded leather",
+            "meaning_ko": "못을 박은 가죽"
+          },
+          {
+            "phrase": "stud breeding",
+            "meaning_ko": "종마 번식"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He used a stud.",
+            "meaning_ko": "그는 못을 사용했습니다."
+          },
+          {
+            "sentence": "She saw the stud horse.",
+            "meaning_ko": "그녀는 그 종마를 봤습니다."
+          },
+          {
+            "sentence": "They studded the belt.",
+            "meaning_ko": "그들은 그 벨트에 못을 박았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He used a stud, with the nail and pin creating fastening and attachment, though the stud would require proper placement and security.",
+            "meaning_ko": "그는 못을 사용했고, 그 못과 핀이 고정과 부착을 만들었지만, 그 못은 적절한 배치와 안전을 요구할 것입니다."
+          },
+          {
+            "sentence": "She saw the stud horse, with the stallion and breeding animal creating strength and quality, though the stud would require care and management.",
+            "meaning_ko": "그녀는 그 종마를 봤고, 그 종마와 번식 동물이 힘과 품질을 만들었지만, 그 종마는 돌봄과 관리를 요구할 것입니다."
+          },
+          {
+            "sentence": "They studded the belt, with the fastener and peg creating decoration and style, though the studding would need to be done carefully and securely.",
+            "meaning_ko": "그들은 그 벨트에 못을 박았고, 그 고정재와 못이 장식과 스타일을 만들었지만, 그 못 박기는 신중하고 안전하게 행해질 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to stud the leather with jewels that was made in the design created opportunities for decoration and style, with the studding enabling enhancement of appearance and value, though the studding would require careful placement and craftsmanship to ensure that the jewels are securely attached and the design is aesthetically pleasing.",
+            "meaning_ko": "그 디자인에서 내려졌던 그 보석으로 그 가죽에 못을 박기로 한 그 결정은 장식과 스타일을 위한 기회를 만들었고, 그 못 박기가 외관과 가치의 향상을 가능하게 했지만, 그 못 박기는 보석이 안전하게 부착되고 디자인이 미적으로 만족스러운 것을 보장하기 위해 신중한 배치와 장인정신을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to manage the stud breeding that was undertaken in the program created pathways for quality and improvement, with the breeding enabling development of superior traits and characteristics, though the stud breeding would need to be conducted through careful selection and genetic management to ensure that the breeding produces healthy and desirable offspring.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 종마 번식을 관리하기 위한 그 노력은 품질과 개선을 위한 경로를 만들었고, 그 번식이 우수한 특성과 특징의 발전을 가능하게 했지만, 그 종마 번식은 번식이 건강하고 바람직한 자손을 생산하는 것을 보장하기 위해 신중한 선택과 유전자 관리를 통해 수행될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to create studded leather that was completed in the production created structure and techniques for decoration, with the studding enabling addition of decorative elements and enhancement of durability, though the studding would require ongoing quality control and maintenance to ensure that the studs remain secure and the leather maintains its appearance and functionality.",
+            "meaning_ko": "그 생산에서 완료되었던 그 못을 박은 가죽을 만들기 위한 그 작업은 장식을 위한 구조와 기술을 만들었고, 그 못 박기가 장식 요소의 추가와 내구성의 향상을 가능하게 했지만, 그 못 박기는 못이 계속 안전하고 가죽이 외관과 기능성을 유지하는 것을 보장하기 위해 지속적인 품질 관리와 유지를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "stud는 '못, 스터드' 또는 '종마, 번식용 수컷' 또는 '장식 못, 단추' 의미로, 못이나 스터드를 가리킵니다. nail, pin와 비슷하지만 더 특수한 뉘앙스가 있습니다. stud with ~, stud farm 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: stud = (A) remove (B) nail or pin (C) extract (D) eliminate",
+            "a": "B",
+            "meaning_ko": "stud는 '못 또는 핀' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He used a _____.",
+            "a": "stud",
+            "meaning_ko": "stud는 '못' 의미입니다."
+          },
+          {
+            "q": "Which is related to stud? (A) nail (B) remove (C) extract (D) eliminate",
+            "a": "A",
+            "meaning_ko": "nail(못)가 stud와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: stud _____ diamonds. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "stud with ~는 '~로 장식하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best related word: stud = (A) remove (B) nail (C) extract (D) eliminate",
+            "a": "B",
+            "meaning_ko": "nail(못)가 가장 관련이 있는 단어입니다."
+          },
+          {
+            "q": "Error check: 'She studded the belt at diamonds.' → Fix the preposition.",
+            "a": "She studded the belt with diamonds.",
+            "meaning_ko": "stud with ~는 '~로 장식하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He used a stud.'",
+            "a": "He employed a nail and pin, with the stud creating fastening and attachment, though the fastener would require proper placement and security.",
+            "meaning_ko": "stud는 '못' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the belt. (A) stud (B) studs (C) studded (D) studding",
+            "a": "C",
+            "meaning_ko": "과거형 studded가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses stud most appropriately? (A) The stud ran. (B) He used a stud. (C) She stud smiled. (D) Stud is good.",
+            "a": "B",
+            "meaning_ko": "stud는 명사로 '못'을 의미하며, use a stud와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

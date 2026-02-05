@@ -1,0 +1,835 @@
+[
+  {
+    "word": "heathen",
+    "partOfSpeech": [
+      "noun",
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "이교도, 무신론자; 이교도나 무신론자.",
+        "note": "이교도나 무신론자를 가리킵니다."
+      },
+      {
+        "definition_ko": "야만인, 미개인; 야만인이거나 미개인.",
+        "note": "야만인이거나 미개인을 가리킵니다."
+      },
+      {
+        "definition_ko": "이교도의, 무신론의; 이교도이거나 무신론의.",
+        "note": "이교도이거나 무신론의 상태를 가리킵니다."
+      }
+    ],
+    "concept": "이교도나 무신론자인 이교도, 또는 야만인이거나 미개인, 또는 이교도이거나 무신론의 상태.",
+    "etymology": "고대 영어 hæthen(이교도)에서 유래했으며, '이교도' 의미입니다.",
+    "semanticExtension": "원래는 '이교도' 의미였고, 현대에는 '야만인이거나 미개인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 오래된 표현이며 때로는 부정적 뉘앙스가 있습니다.",
+    "grammarNotes": "명사와 형용사로 모두 사용되며, heathen 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "among",
+        "meaning_ko": "~ 중의 이교도",
+        "example": "heathen among"
+      }
+    ],
+    "requiredComplements": [
+      "heathen : 이교도/무신론자",
+      "heathen + 명사 : 이교도의 ~",
+      "heathen among + 명사 : ~ 중의 이교도"
+    ],
+    "morphology": "고대 영어 hæthen에서 유래한 단어로, '이교도' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "heathens",
+        "meaning_ko": "이교도들(복수형)"
+      },
+      {
+        "word": "heathenish",
+        "meaning_ko": "이교도 같은"
+      },
+      {
+        "word": "heathenism",
+        "meaning_ko": "이교도주의"
+      }
+    ],
+    "related": [
+      {
+        "word": "pagan",
+        "meaning_ko": "이교도"
+      },
+      {
+        "word": "infidel",
+        "meaning_ko": "무신론자"
+      },
+      {
+        "word": "barbarian",
+        "meaning_ko": "야만인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "pagan",
+        "meaning_ko": "이교도"
+      },
+      {
+        "word": "infidel",
+        "meaning_ko": "무신론자"
+      },
+      {
+        "word": "barbarian",
+        "meaning_ko": "야만인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "savage",
+        "meaning_ko": "야만인(범위가 더 넓음)"
+      },
+      {
+        "word": "uncivilized",
+        "meaning_ko": "미개한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "believer",
+        "meaning_ko": "신앙인"
+      },
+      {
+        "word": "civilized",
+        "meaning_ko": "문명화된"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "heathen among",
+            "meaning_ko": "~ 중의 이교도"
+          },
+          {
+            "phrase": "heathen people",
+            "meaning_ko": "이교도 사람들"
+          },
+          {
+            "phrase": "heathen practices",
+            "meaning_ko": "이교도 관행"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "heathen among the tribes",
+            "meaning_ko": "그 부족들 중의 이교도"
+          },
+          {
+            "phrase": "heathen culture",
+            "meaning_ko": "이교도 문화"
+          },
+          {
+            "phrase": "heathen beliefs",
+            "meaning_ko": "이교도 신앙"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "heathen among the population",
+            "meaning_ko": "그 인구 중의 이교도"
+          },
+          {
+            "phrase": "heathen traditions",
+            "meaning_ko": "이교도 전통"
+          },
+          {
+            "phrase": "heathen rituals",
+            "meaning_ko": "이교도 의식"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was called a heathen.",
+            "meaning_ko": "그는 이교도라고 불렸습니다."
+          },
+          {
+            "sentence": "She studied heathen practices.",
+            "meaning_ko": "그녀는 이교도 관행을 연구했습니다."
+          },
+          {
+            "sentence": "They converted the heathen.",
+            "meaning_ko": "그들은 그 이교도를 개종시켰습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was called a heathen, with the pagan and infidel label creating division and conflict, though the heathen would require understanding and respect.",
+            "meaning_ko": "그는 이교도라고 불렸고, 그 이교도와 무신론자 라벨이 분열과 갈등을 만들었지만, 그 이교도는 이해와 존중을 요구할 것입니다."
+          },
+          {
+            "sentence": "She studied heathen practices, with the barbarian and savage customs creating interest and curiosity, though the heathen practices would need to be understood and appreciated.",
+            "meaning_ko": "그녀는 이교도 관행을 연구했고, 그 야만인과 야만인 관습이 관심과 호기심을 만들었지만, 그 이교도 관행은 이해되고 감사될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They converted the heathen, with the uncivilized and pagan people creating mission and purpose, though the heathen would require education and acceptance.",
+            "meaning_ko": "그들은 그 이교도를 개종시켰고, 그 미개한 그리고 이교도 사람들이 선교와 목적을 만들었지만, 그 이교도는 교육과 수용을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to understand the heathen among the population that was made in the study created opportunities for tolerance and respect, with the understanding enabling recognition of diversity and different beliefs, though the heathen would require respectful treatment and acceptance to ensure that cultural differences are appreciated and conflicts are avoided.",
+            "meaning_ko": "그 연구에서 내려졌던 그 인구 중의 그 이교도를 이해하기로 한 그 결정은 관용과 존중을 위한 기회를 만들었고, 그 이해가 다양성과 다른 신앙의 인정을 가능하게 했지만, 그 이교도는 문화적 차이가 감사되고 갈등이 피하는 것을 보장하기 위해 존중하는 대우와 수용을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to preserve heathen traditions that was undertaken in the program created pathways for cultural preservation and understanding, with the preservation enabling maintenance of heritage and identity, though the heathen traditions would need to be documented and respected through careful study and appreciation to ensure that traditions are preserved and their significance is recognized.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 이교도 전통을 보존하기 위한 그 노력은 문화 보존과 이해를 위한 경로를 만들었고, 그 보존이 유산과 정체성의 유지를 가능하게 했지만, 그 이교도 전통은 전통이 보존되고 그 중요성이 인정되는 것을 보장하기 위해 신중한 연구와 감사를 통해 문서화되고 존중될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to study heathen rituals that was completed in the research created structure and methods for cultural analysis, with the study enabling understanding of practices and beliefs, though the heathen rituals would require ongoing research and respectful engagement to ensure that rituals are accurately understood and their cultural context is properly appreciated.",
+            "meaning_ko": "그 연구에서 완료되었던 그 이교도 의식을 연구하기 위한 그 작업은 문화 분석을 위한 구조와 방법을 만들었고, 그 연구가 관행과 신앙에 대한 이해를 가능하게 했지만, 그 이교도 의식은 의식이 정확히 이해되고 그 문화적 맥락이 적절히 감사되는 것을 보장하기 위해 지속적인 연구와 존중하는 참여를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "heathen는 '이교도, 무신론자' 또는 '야만인, 미개인' 의미로, 이교도나 무신론자를 가리킵니다. pagan, infidel와 비슷하지만 더 오래된 표현입니다. heathen among ~, heathen people 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: heathen = (A) believer (B) pagan or infidel (C) civilized (D) faithful",
+            "a": "B",
+            "meaning_ko": "heathen는 '이교도 또는 무신론자' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was called a _____.",
+            "a": "heathen",
+            "meaning_ko": "heathen는 '이교도' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of heathen? (A) pagan (B) infidel (C) believer (D) barbarian",
+            "a": "C",
+            "meaning_ko": "believer(신앙인)가 heathen의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: heathen _____ the tribes. (A) among (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "heathen among ~는 '~ 중의 이교도' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: heathen = (A) believer (B) pagan (C) civilized (D) faithful",
+            "a": "B",
+            "meaning_ko": "pagan(이교도)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She studied heathen practices at the tribes.' → Fix the sentence.",
+            "a": "She studied heathen practices among the tribes.",
+            "meaning_ko": "heathen among ~는 '~ 중의 이교도' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was called a heathen.'",
+            "a": "He was labeled a pagan and infidel, with the heathen designation creating division and conflict, though the person would require understanding and respect.",
+            "meaning_ko": "heathen는 '이교도' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They converted the _____. (A) heathen (B) heathens (C) heathenish (D) heathenism",
+            "a": "A",
+            "meaning_ko": "명사 heathen가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses heathen most appropriately? (A) The heathen ran. (B) He was called a heathen. (C) She heathen smiled. (D) Heathen is good.",
+            "a": "B",
+            "meaning_ko": "heathen는 명사로 '이교도'를 의미하며, be called a heathen와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "factor",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "요인, 요소; 요인이거나 요소.",
+        "note": "요인이거나 요소를 가리킵니다."
+      },
+      {
+        "definition_ko": "인수, 약수; 인수나 약수.",
+        "note": "인수나 약수를 가리킵니다."
+      },
+      {
+        "definition_ko": "~을 고려하다, 포함시키다; ~을 고려하거나 포함시키다.",
+        "note": "~을 고려하거나 포함시키는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "요인이거나 요소인 요인, 또는 인수나 약수, 또는 ~을 고려하거나 포함시키는 것.",
+    "etymology": "라틴어 factor(만드는 사람)에서 유래했으며, facere(만들다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '만드는 사람' 의미였고, 현대에는 '요인이거나 요소'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사와 동사로 모두 사용되며, factor 형태로 자주 사용됩니다.",
+    "transitivity": "타동사(동사일 때)",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에 있는 요인",
+        "example": "factor in"
+      },
+      {
+        "prep": "into",
+        "meaning_ko": "~에 고려하다",
+        "example": "factor into"
+      }
+    ],
+    "requiredComplements": [
+      "factor : 요인/요소",
+      "factor in + 명사 : ~에 있는 요인",
+      "factor into + 명사 : ~에 고려하다"
+    ],
+    "morphology": "라틴어 factor에서 유래한 단어로, facere(만들다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "factors",
+        "meaning_ko": "요인들(복수형)"
+      },
+      {
+        "word": "factored",
+        "meaning_ko": "고려한(과거분사/형용사)"
+      },
+      {
+        "word": "factoring",
+        "meaning_ko": "고려하는(현재분사/형용사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "element",
+        "meaning_ko": "요소"
+      },
+      {
+        "word": "component",
+        "meaning_ko": "구성 요소"
+      },
+      {
+        "word": "cause",
+        "meaning_ko": "원인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "element",
+        "meaning_ko": "요소"
+      },
+      {
+        "word": "component",
+        "meaning_ko": "구성 요소"
+      },
+      {
+        "word": "cause",
+        "meaning_ko": "원인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "aspect",
+        "meaning_ko": "측면(범위가 더 넓음)"
+      },
+      {
+        "word": "variable",
+        "meaning_ko": "변수"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "result",
+        "meaning_ko": "결과"
+      },
+      {
+        "word": "outcome",
+        "meaning_ko": "결과"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "factor in",
+            "meaning_ko": "~에 있는 요인"
+          },
+          {
+            "phrase": "factor into",
+            "meaning_ko": "~에 고려하다"
+          },
+          {
+            "phrase": "important factor",
+            "meaning_ko": "중요한 요인"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "factor in the decision",
+            "meaning_ko": "그 결정에 있는 요인"
+          },
+          {
+            "phrase": "factor into the equation",
+            "meaning_ko": "그 방정식에 고려하다"
+          },
+          {
+            "phrase": "key factor",
+            "meaning_ko": "핵심 요인"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "factor in the success",
+            "meaning_ko": "그 성공에 있는 요인"
+          },
+          {
+            "phrase": "factor into the analysis",
+            "meaning_ko": "그 분석에 고려하다"
+          },
+          {
+            "phrase": "contributing factor",
+            "meaning_ko": "기여하는 요인"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He considered the factor.",
+            "meaning_ko": "그는 그 요인을 고려했습니다."
+          },
+          {
+            "sentence": "She factored it into the decision.",
+            "meaning_ko": "그녀는 그것을 그 결정에 고려했습니다."
+          },
+          {
+            "sentence": "They identified the key factor.",
+            "meaning_ko": "그들은 그 핵심 요인을 식별했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He considered the factor, with the element and component creating understanding and analysis, though the factor would require evaluation and assessment.",
+            "meaning_ko": "그는 그 요인을 고려했고, 그 요소와 구성 요소가 이해와 분석을 만들었지만, 그 요인은 평가와 평가를 요구할 것입니다."
+          },
+          {
+            "sentence": "She factored it into the decision, with the cause and aspect creating consideration and influence, though the factoring would need to be accurate and comprehensive.",
+            "meaning_ko": "그녀는 그것을 그 결정에 고려했고, 그 원인과 측면이 고려와 영향력을 만들었지만, 그 고려하기는 정확하고 포괄적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They identified the key factor, with the variable and element creating recognition and importance, though the factor would require attention and management.",
+            "meaning_ko": "그들은 그 핵심 요인을 식별했고, 그 변수와 요소가 인정과 중요성을 만들었지만, 그 요인은 주의와 관리를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to factor the variable into the analysis that was made in the study created opportunities for comprehensive understanding and accurate assessment, with the factoring enabling inclusion of all relevant elements and influences, though the factor would require careful evaluation and validation to ensure that the variable is properly considered and its impact is accurately measured.",
+            "meaning_ko": "그 연구에서 내려졌던 그 분석에 그 변수를 고려하기로 한 그 결정은 포괄적인 이해와 정확한 평가를 위한 기회를 만들었고, 그 고려하기가 모든 관련 요소와 영향의 포함을 가능하게 했지만, 그 요인은 변수가 적절히 고려되고 그 영향이 정확히 측정되는 것을 보장하기 위해 신중한 평가와 검증을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to identify the contributing factor in the success that was undertaken in the research created pathways for understanding and improvement, with the identification enabling recognition of causes and influences, though the factor would need to be systematically analyzed and verified through data and evidence to ensure that the factor is accurately identified and its contribution is properly understood.",
+            "meaning_ko": "그 연구에서 착수되었던 그 성공에 있는 그 기여하는 요인을 식별하기 위한 그 노력은 이해와 개선을 위한 경로를 만들었고, 그 식별이 원인과 영향의 인정을 가능하게 했지만, 그 요인은 요인이 정확히 식별되고 그 기여가 적절히 이해되는 것을 보장하기 위해 데이터와 증거를 통해 체계적으로 분석되고 검증될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to evaluate all factors that was completed in the program created structure and methods for comprehensive analysis, with the evaluation enabling assessment of elements and components, though the factors would require ongoing monitoring and adjustment to ensure that all relevant factors are considered and their interactions are properly understood.",
+            "meaning_ko": "그 프로그램에서 완료되었던 모든 요인을 평가하기 위한 그 작업은 포괄적인 분석을 위한 구조와 방법을 만들었고, 그 평가가 요소와 구성 요소의 평가를 가능하게 했지만, 그 요인들은 모든 관련 요인이 고려되고 그 상호작용이 적절히 이해되는 것을 보장하기 위해 지속적인 모니터링과 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "factor는 '요인, 요소' 또는 '인수, 약수' 의미로, 요인이거나 요소를 가리킵니다. element, component와 비슷하지만 더 일반적 뉘앙스가 있습니다. factor in ~, factor into ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: factor = (A) result (B) element or component (C) outcome (D) consequence",
+            "a": "B",
+            "meaning_ko": "factor는 '요소 또는 구성 요소' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He considered the _____.",
+            "a": "factor",
+            "meaning_ko": "factor는 '요인' 의미입니다."
+          },
+          {
+            "q": "Which is related to factor? (A) element (B) result (C) outcome (D) consequence",
+            "a": "A",
+            "meaning_ko": "element(요소)가 factor와 관련이 있습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: factor _____ the decision. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "factor in ~는 '~에 있는 요인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: factor = (A) result (B) element (C) outcome (D) consequence",
+            "a": "B",
+            "meaning_ko": "element(요소)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She factored it at the decision.' → Fix the preposition.",
+            "a": "She factored it into the decision.",
+            "meaning_ko": "factor into ~는 '~에 고려하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He considered the factor.'",
+            "a": "He evaluated the element and component, with the factor creating understanding and analysis, though the consideration would require assessment and evaluation.",
+            "meaning_ko": "factor는 '요인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They identified the key _____. (A) factor (B) factors (C) factored (D) factoring",
+            "a": "A",
+            "meaning_ko": "명사 factor가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses factor most appropriately? (A) The factor ran. (B) He considered the factor. (C) She factor smiled. (D) Factor is good.",
+            "a": "B",
+            "meaning_ko": "factor는 명사로 '요인'을 의미하며, consider the factor와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "salient",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "현저한, 두드러진; 현저하거나 두드러진.",
+        "note": "현저하거나 두드러진 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "중요한, 핵심적인; 중요하거나 핵심적인.",
+        "note": "중요하거나 핵심적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "현저하거나 두드러진 상태, 또는 중요하거나 핵심적인 상태.",
+    "etymology": "라틴어 saliens(뛰어오르는)에서 유래했으며, salire(뛰다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '뛰어오르는' 의미였고, 현대에는 '현저하거나 두드러진'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be salient 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 현저한",
+        "example": "salient to"
+      }
+    ],
+    "requiredComplements": [
+      "be salient : 현저하다",
+      "salient + 명사 : 현저한 ~",
+      "salient to + 명사 : ~에게 현저한"
+    ],
+    "morphology": "라틴어 saliens에서 유래한 단어로, salire(뛰다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "saliently",
+        "meaning_ko": "현저하게"
+      },
+      {
+        "word": "salience",
+        "meaning_ko": "현저함"
+      }
+    ],
+    "related": [
+      {
+        "word": "prominent",
+        "meaning_ko": "현저한"
+      },
+      {
+        "word": "notable",
+        "meaning_ko": "현저한"
+      },
+      {
+        "word": "important",
+        "meaning_ko": "중요한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "prominent",
+        "meaning_ko": "현저한"
+      },
+      {
+        "word": "notable",
+        "meaning_ko": "현저한"
+      },
+      {
+        "word": "important",
+        "meaning_ko": "중요한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "conspicuous",
+        "meaning_ko": "현저한(범위가 더 넓음)"
+      },
+      {
+        "word": "significant",
+        "meaning_ko": "중요한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "insignificant",
+        "meaning_ko": "중요하지 않은"
+      },
+      {
+        "word": "unimportant",
+        "meaning_ko": "중요하지 않은"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "salient to",
+            "meaning_ko": "~에게 현저한"
+          },
+          {
+            "phrase": "salient feature",
+            "meaning_ko": "현저한 특징"
+          },
+          {
+            "phrase": "salient point",
+            "meaning_ko": "현저한 요점"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "salient to the discussion",
+            "meaning_ko": "그 토론에게 현저한"
+          },
+          {
+            "phrase": "salient characteristic",
+            "meaning_ko": "현저한 특성"
+          },
+          {
+            "phrase": "salient aspect",
+            "meaning_ko": "현저한 측면"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "salient to the issue",
+            "meaning_ko": "그 이슈에게 현저한"
+          },
+          {
+            "phrase": "salient factor",
+            "meaning_ko": "현저한 요인"
+          },
+          {
+            "phrase": "salient detail",
+            "meaning_ko": "현저한 세부사항"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He noted the salient feature.",
+            "meaning_ko": "그는 그 현저한 특징을 주목했습니다."
+          },
+          {
+            "sentence": "She identified the salient point.",
+            "meaning_ko": "그녀는 그 현저한 요점을 식별했습니다."
+          },
+          {
+            "sentence": "They discussed the salient aspect.",
+            "meaning_ko": "그들은 그 현저한 측면을 논의했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He noted the salient feature, with the prominent and notable characteristic creating attention and interest, though the salience would require explanation and detail.",
+            "meaning_ko": "그는 그 현저한 특징을 주목했고, 그 현저한 그리고 현저한 특성이 주의와 관심을 만들었지만, 그 현저함은 설명과 세부사항을 요구할 것입니다."
+          },
+          {
+            "sentence": "She identified the salient point, with the important and significant aspect creating focus and emphasis, though the salience would need to be understood and appreciated.",
+            "meaning_ko": "그녀는 그 현저한 요점을 식별했고, 그 중요한 그리고 중요한 측면이 초점과 강조를 만들었지만, 그 현저함은 이해되고 감사될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They discussed the salient aspect, with the conspicuous and notable feature creating recognition and importance, though the salience would require consideration and analysis.",
+            "meaning_ko": "그들은 그 현저한 측면을 논의했고, 그 현저한 그리고 현저한 특징이 인정과 중요성을 만들었지만, 그 현저함은 고려와 분석을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to highlight the salient factor to the issue that was made in the analysis created opportunities for clarity and understanding, with the emphasis enabling recognition of important elements and influences, though the salience would require thorough explanation and validation to ensure that the factor is properly understood and its significance is accurately assessed.",
+            "meaning_ko": "그 분석에서 내려졌던 그 이슈에게 그 현저한 요인을 강조하기로 한 그 결정은 명확성과 이해를 위한 기회를 만들었고, 그 강조가 중요한 요소와 영향의 인정을 가능하게 했지만, 그 현저함은 요인이 적절히 이해되고 그 중요성이 정확히 평가되는 것을 보장하기 위해 철저한 설명과 검증을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to identify the salient detail that was undertaken in the research created pathways for precision and accuracy, with the identification enabling recognition of key information and characteristics, though the salience would need to be systematically verified and documented through careful analysis and evidence to ensure that the detail is accurately identified and its relevance is properly established.",
+            "meaning_ko": "그 연구에서 착수되었던 그 현저한 세부사항을 식별하기 위한 그 노력은 정밀성과 정확성을 위한 경로를 만들었고, 그 식별이 핵심 정보와 특성의 인정을 가능하게 했지만, 그 현저함은 세부사항이 정확히 식별되고 그 관련성이 적절히 확립되는 것을 보장하기 위해 신중한 분석과 증거를 통해 체계적으로 검증되고 문서화될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to analyze the salient characteristics that was completed in the program created structure and methods for comprehensive evaluation, with the analysis enabling understanding of important features and qualities, though the salience would require ongoing assessment and refinement to ensure that characteristics are accurately identified and their importance is properly recognized and understood.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 현저한 특성들을 분석하기 위한 그 작업은 포괄적인 평가를 위한 구조와 방법을 만들었고, 그 분석이 중요한 특징과 품질에 대한 이해를 가능하게 했지만, 그 현저함은 특성들이 정확히 식별되고 그 중요성이 적절히 인정되고 이해되는 것을 보장하기 위해 지속적인 평가와 정제를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "salient는 '현저한, 두드러진' 또는 '중요한, 핵심적인' 의미로, 현저하거나 두드러진 상태를 가리킵니다. prominent, notable와 비슷하지만 더 문어적 뉘앙스가 있습니다. salient to ~, salient feature 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: salient = (A) insignificant (B) prominent or notable (C) unimportant (D) trivial",
+            "a": "B",
+            "meaning_ko": "salient는 '현저한 또는 현저한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He noted the _____ feature.",
+            "a": "salient",
+            "meaning_ko": "salient는 '현저한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of salient? (A) prominent (B) notable (C) insignificant (D) important",
+            "a": "C",
+            "meaning_ko": "insignificant(중요하지 않은)가 salient의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: salient _____ the discussion. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "salient to ~는 '~에게 현저한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: salient = (A) insignificant (B) prominent (C) unimportant (D) trivial",
+            "a": "B",
+            "meaning_ko": "prominent(현저한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She identified the salient point at the discussion.' → Fix the preposition.",
+            "a": "She identified the salient point to the discussion.",
+            "meaning_ko": "salient to ~는 '~에게 현저한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He noted the salient feature.'",
+            "a": "He observed the prominent and notable characteristic, with the salience creating attention and interest, though the feature would require explanation and detail.",
+            "meaning_ko": "salient는 '현저한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They discussed the _____ aspect. (A) salient (B) saliently (C) salience (D) salient's",
+            "a": "A",
+            "meaning_ko": "형용사 salient가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses salient most appropriately? (A) The salient ran. (B) He noted the salient feature. (C) She salient smiled. (D) Salient is good.",
+            "a": "B",
+            "meaning_ko": "salient는 형용사로 '현저한'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

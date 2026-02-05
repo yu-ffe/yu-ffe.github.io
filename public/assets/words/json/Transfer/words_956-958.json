@@ -1,0 +1,822 @@
+[
+  {
+    "word": "hemorrhage",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "출혈, 출혈; 출혈이나 출혈.",
+        "note": "출혈이나 출혈을 가리킵니다."
+      },
+      {
+        "definition_ko": "출혈하다, 출혈하다; 출혈하거나 출혈하는 것.",
+        "note": "출혈하거나 출혈하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "출혈이나 출혈인 출혈, 또는 출혈하거나 출혈하는 행동.",
+    "etymology": "그리스어 haimorrhagia(출혈)에서 유래했으며, haima(피) + rhagia(흐름)의 조합입니다.",
+    "semanticExtension": "원래는 '피 흐름' 의미였고, 현대에는 '출혈' 또는 '출혈하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "명사로는 주로 단수형으로 사용되며, 동사로는 자동사로 사용됩니다.",
+    "transitivity": "자동사",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [],
+    "requiredComplements": [
+      "hemorrhage : 출혈/출혈하다",
+      "hemorrhage from + 명사 : ~에서 출혈하다"
+    ],
+    "morphology": "그리스어 haimorrhagia에서 유래한 단어로, haima(피) + rhagia(흐름)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "hemorrhaged",
+        "meaning_ko": "출혈한(과거분사)"
+      },
+      {
+        "word": "hemorrhaging",
+        "meaning_ko": "출혈하는(현재분사)"
+      },
+      {
+        "word": "hemorrhagic",
+        "meaning_ko": "출혈의"
+      }
+    ],
+    "related": [
+      {
+        "word": "bleeding",
+        "meaning_ko": "출혈"
+      },
+      {
+        "word": "blood loss",
+        "meaning_ko": "출혈"
+      },
+      {
+        "word": "bleed",
+        "meaning_ko": "출혈하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "bleeding",
+        "meaning_ko": "출혈"
+      },
+      {
+        "word": "blood loss",
+        "meaning_ko": "출혈"
+      },
+      {
+        "word": "bleed",
+        "meaning_ko": "출혈하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "exsanguination",
+        "meaning_ko": "대량 출혈(범위가 더 넓음)"
+      },
+      {
+        "word": "bloodletting",
+        "meaning_ko": "출혈"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "clotting",
+        "meaning_ko": "응고"
+      },
+      {
+        "word": "coagulation",
+        "meaning_ko": "응고"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "hemorrhage from",
+            "meaning_ko": "~에서 출혈하다"
+          },
+          {
+            "phrase": "severe hemorrhage",
+            "meaning_ko": "심한 출혈"
+          },
+          {
+            "phrase": "stop hemorrhage",
+            "meaning_ko": "출혈을 멈추다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "hemorrhage from the wound",
+            "meaning_ko": "그 상처에서 출혈하다"
+          },
+          {
+            "phrase": "internal hemorrhage",
+            "meaning_ko": "내부 출혈"
+          },
+          {
+            "phrase": "control hemorrhage",
+            "meaning_ko": "출혈을 통제하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "hemorrhage from the artery",
+            "meaning_ko": "그 동맥에서 출혈하다"
+          },
+          {
+            "phrase": "cerebral hemorrhage",
+            "meaning_ko": "뇌출혈"
+          },
+          {
+            "phrase": "manage hemorrhage",
+            "meaning_ko": "출혈을 관리하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He had a hemorrhage.",
+            "meaning_ko": "그는 출혈이 있었습니다."
+          },
+          {
+            "sentence": "She hemorrhaged from the wound.",
+            "meaning_ko": "그녀는 그 상처에서 출혈했습니다."
+          },
+          {
+            "sentence": "They stopped the hemorrhage.",
+            "meaning_ko": "그들은 그 출혈을 멈췄습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He had a hemorrhage, with the bleeding and blood loss creating danger and risk, though the hemorrhage would require treatment and control.",
+            "meaning_ko": "그는 출혈이 있었고, 그 출혈 그리고 출혈이 위험과 위험을 만들었지만, 그 출혈은 치료와 통제를 요구할 것입니다."
+          },
+          {
+            "sentence": "She hemorrhaged from the wound, with the bleed and exsanguination creating blood loss and danger, though the hemorrhage would need to be stopped and controlled.",
+            "meaning_ko": "그녀는 그 상처에서 출혈했고, 그 출혈 그리고 대량 출혈이 출혈과 위험을 만들었지만, 그 출혈은 멈춰지고 통제될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They stopped the hemorrhage, with the bloodletting and bleeding creating risk and danger, though the hemorrhage would require monitoring and care.",
+            "meaning_ko": "그들은 그 출혈을 멈췄고, 그 출혈 그리고 출혈이 위험과 위험을 만들었지만, 그 출혈은 모니터링과 돌봄을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to control hemorrhage from the artery that was made in the process created opportunities for treatment and safety, with the control enabling reduction of blood loss and danger, though the hemorrhage would require comprehensive treatment and monitoring to ensure that artery is properly treated and blood loss is effectively controlled.",
+            "meaning_ko": "그 과정에서 내려졌던 그 동맥에서 그 출혈을 통제하기로 한 그 결정은 치료와 안전을 위한 기회를 만들었고, 그 통제가 출혈과 위험의 감소를 가능하게 했지만, 그 출혈은 동맥이 적절히 치료되고 출혈이 효과적으로 통제되는 것을 보장하기 위해 포괄적인 치료와 모니터링을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to manage cerebral hemorrhage that was undertaken in the initiative created pathways for treatment and recovery, with the management enabling control of bleeding and blood loss, though the hemorrhage would need to be systematically treated through medical intervention and monitoring to ensure that hemorrhage is properly managed and recovery is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 뇌출혈을 관리하기 위한 그 노력은 치료와 회복을 위한 경로를 만들었고, 그 관리가 출혈과 출혈의 통제를 가능하게 했지만, 그 출혈은 출혈이 적절히 관리되고 회복이 효과적으로 달성되는 것을 보장하기 위해 의학적 개입과 모니터링을 통해 체계적으로 치료될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to treat internal hemorrhage that was completed in the system created structure and methods for control and recovery, with the treatment enabling reduction of blood loss and danger, though the hemorrhage would require ongoing monitoring and care to ensure that hemorrhage continues to be controlled and recovery remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 내부 출혈을 치료하기 위한 그 작업은 통제와 회복을 위한 구조와 방법을 만들었고, 그 치료가 출혈과 위험의 감소를 가능하게 했지만, 그 출혈은 출혈이 계속 통제되고 회복이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 모니터링과 돌봄을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "hemorrhage는 '출혈, 출혈' 또는 '출혈하다, 출혈하다' 의미로, 출혈이나 출혈을 가리킵니다. bleeding, blood loss와 비슷하지만 더 전문적 뉘앙스가 있습니다. hemorrhage from ~, severe hemorrhage 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "전문 용어",
+      "부정"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: hemorrhage = (A) clotting (B) bleeding or blood loss (C) coagulation (D) healing",
+            "a": "B",
+            "meaning_ko": "hemorrhage는 '출혈 또는 출혈' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He had a _____.",
+            "a": "hemorrhage",
+            "meaning_ko": "hemorrhage는 '출혈' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of hemorrhage? (A) bleeding (B) blood loss (C) clotting (D) bleed",
+            "a": "C",
+            "meaning_ko": "clotting(응고)가 hemorrhage의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: hemorrhage _____ the wound. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "hemorrhage from ~는 '~에서 출혈하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: hemorrhage = (A) clotting (B) bleeding (C) coagulation (D) healing",
+            "a": "B",
+            "meaning_ko": "bleeding(출혈)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She hemorrhaged at the wound.' → Fix the preposition.",
+            "a": "She hemorrhaged from the wound.",
+            "meaning_ko": "hemorrhage from ~는 '~에서 출혈하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He had a hemorrhage.'",
+            "a": "He experienced bleeding and blood loss, with the hemorrhage creating danger and risk, though the condition would require treatment and control.",
+            "meaning_ko": "hemorrhage는 '출혈' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They stopped the _____. (A) hemorrhage (B) hemorrhages (C) hemorrhaged (D) hemorrhaging",
+            "a": "A",
+            "meaning_ko": "명사 hemorrhage가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses hemorrhage most appropriately? (A) The hemorrhage ran. (B) He had a hemorrhage. (C) She hemorrhage smiled. (D) Hemorrhage is good.",
+            "a": "B",
+            "meaning_ko": "hemorrhage는 명사로 '출혈'을 의미하며, have a hemorrhage와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "snatch",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "잡아채다, 낚아채다; 잡아채거나 낚아채는 것.",
+        "note": "잡아채거나 낚아채는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "잡아채기, 낚아채기; 잡아채기나 낚아채기.",
+        "note": "잡아채기나 낚아채기를 가리킵니다."
+      }
+    ],
+    "concept": "잡아채거나 낚아채는 행동, 또는 잡아채기나 낚아채기.",
+    "etymology": "고대 영어 snæcan(잡다)에서 유래했으며, '잡다' 의미입니다.",
+    "semanticExtension": "원래는 '잡다' 의미였고, 현대에는 '잡아채다' 또는 '낚아채다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 타동사로 사용되며, snatch + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "from",
+        "meaning_ko": "~로부터 잡아채다",
+        "example": "snatch from"
+      },
+      {
+        "prep": "away",
+        "meaning_ko": "잡아채다",
+        "example": "snatch away"
+      }
+    ],
+    "requiredComplements": [
+      "snatch + 명사 : ~을 잡아채다/낚아채다",
+      "snatch from + 명사 : ~로부터 잡아채다",
+      "snatch away : 잡아채다"
+    ],
+    "morphology": "고대 영어 snæcan에서 유래한 단어로, '잡다' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "snatched",
+        "meaning_ko": "잡아챈(과거분사)"
+      },
+      {
+        "word": "snatching",
+        "meaning_ko": "잡아채는(현재분사)"
+      }
+    ],
+    "related": [
+      {
+        "word": "grab",
+        "meaning_ko": "잡다"
+      },
+      {
+        "word": "seize",
+        "meaning_ko": "잡다"
+      },
+      {
+        "word": "take",
+        "meaning_ko": "가져가다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "grab",
+        "meaning_ko": "잡다"
+      },
+      {
+        "word": "seize",
+        "meaning_ko": "잡다"
+      },
+      {
+        "word": "take",
+        "meaning_ko": "가져가다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "wrench",
+        "meaning_ko": "잡아채다(범위가 더 넓음)"
+      },
+      {
+        "word": "yank",
+        "meaning_ko": "잡아채다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "release",
+        "meaning_ko": "놓아주다"
+      },
+      {
+        "word": "give",
+        "meaning_ko": "주다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "snatch from",
+            "meaning_ko": "~로부터 잡아채다"
+          },
+          {
+            "phrase": "snatch away",
+            "meaning_ko": "잡아채다"
+          },
+          {
+            "phrase": "snatch the bag",
+            "meaning_ko": "그 가방을 잡아채다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "snatch from the hand",
+            "meaning_ko": "그 손으로부터 잡아채다"
+          },
+          {
+            "phrase": "snatch the opportunity",
+            "meaning_ko": "그 기회를 잡아채다"
+          },
+          {
+            "phrase": "snatch victory",
+            "meaning_ko": "승리를 잡아채다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "snatch from the grasp",
+            "meaning_ko": "그 손아귀로부터 잡아채다"
+          },
+          {
+            "phrase": "snatch the moment",
+            "meaning_ko": "그 순간을 잡아채다"
+          },
+          {
+            "phrase": "snatch defeat from victory",
+            "meaning_ko": "승리에서 패배를 잡아채다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He snatched the bag.",
+            "meaning_ko": "그는 그 가방을 잡아챘습니다."
+          },
+          {
+            "sentence": "She snatched from the hand.",
+            "meaning_ko": "그녀는 그 손으로부터 잡아챘습니다."
+          },
+          {
+            "sentence": "They snatched away the opportunity.",
+            "meaning_ko": "그들은 그 기회를 잡아챘습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He snatched the bag, with his grab and seize creating quick action and movement, though the snatching would require speed and agility.",
+            "meaning_ko": "그는 그 가방을 잡아챘고, 그의 잡기 그리고 잡기가 빠른 행동과 이동을 만들었지만, 그 잡아채기는 속도와 민첩성을 요구할 것입니다."
+          },
+          {
+            "sentence": "She snatched from the hand, with the wrench and yank creating quick movement and action, though the snatching would need to be fast and decisive.",
+            "meaning_ko": "그녀는 그 손으로부터 잡아챘고, 그 잡아채기 그리고 잡아채기가 빠른 이동과 행동을 만들었지만, 그 잡아채기는 빠르고 결정적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They snatched away the opportunity, with the take and grab creating quick action and success, though the snatching would require timing and speed.",
+            "meaning_ko": "그들은 그 기회를 잡아챘고, 그 가져가기 그리고 잡기가 빠른 행동과 성공을 만들었지만, 그 잡아채기는 타이밍과 속도를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to snatch from the grasp that was made in the process created opportunities for quick action and success, with the snatching enabling rapid movement and acquisition, though the snatching would require comprehensive planning and timing to ensure that grasp is properly addressed and action is effectively executed.",
+            "meaning_ko": "그 과정에서 내려졌던 그 손아귀로부터 잡아채기로 한 그 결정은 빠른 행동과 성공을 위한 기회를 만들었고, 그 잡아채기가 빠른 이동과 획득을 가능하게 했지만, 그 잡아채기는 손아귀가 적절히 다뤄지고 행동이 효과적으로 실행되는 것을 보장하기 위해 포괄적인 계획과 타이밍을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to snatch the moment that was undertaken in the initiative created pathways for opportunity and success, with the snatching enabling quick action and acquisition, though the snatching would need to be systematically executed through timing and speed to ensure that moment is properly seized and opportunity is effectively captured.",
+            "meaning_ko": "그 계획에서 착수되었던 그 순간을 잡아채기 위한 그 노력은 기회와 성공을 위한 경로를 만들었고, 그 잡아채기가 빠른 행동과 획득을 가능하게 했지만, 그 잡아채기는 순간이 적절히 잡히고 기회가 효과적으로 포착되는 것을 보장하기 위해 타이밍과 속도를 통해 체계적으로 실행될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to snatch defeat from victory that was completed in the system created structure and methods for action and outcome, with the snatching enabling rapid change and reversal, though the snatching would require ongoing vigilance and action to ensure that victory continues to be protected and defeat remains prevented and avoided.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 승리에서 패배를 잡아채기 위한 그 작업은 행동과 결과를 위한 구조와 방법을 만들었고, 그 잡아채기가 빠른 변화와 역전을 가능하게 했지만, 그 잡아채기는 승리가 계속 보호되고 패배가 계속 방지되고 피하는 것을 보장하기 위해 지속적인 경계와 행동을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "snatch는 '잡아채다, 낚아채다' 또는 '잡아채기, 낚아채기' 의미로, 잡아채거나 낚아채는 행동을 가리킵니다. grab, seize와 비슷하지만 더 급작스러운 뉘앙스가 있습니다. snatch from ~, snatch away 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: snatch = (A) release (B) grab or seize (C) give (D) return",
+            "a": "B",
+            "meaning_ko": "snatch는 '잡다 또는 잡다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the bag.",
+            "a": "snatched",
+            "meaning_ko": "snatch는 '잡아채다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of snatch? (A) grab (B) seize (C) release (D) take",
+            "a": "C",
+            "meaning_ko": "release(놓아주다)가 snatch의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: snatch _____ the hand. (A) from (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "snatch from ~는 '~로부터 잡아채다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: snatch = (A) release (B) grab (C) give (D) return",
+            "a": "B",
+            "meaning_ko": "grab(잡다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She snatched at the hand.' → Fix the preposition.",
+            "a": "She snatched from the hand.",
+            "meaning_ko": "snatch from ~는 '~로부터 잡아채다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He snatched the bag.'",
+            "a": "He grabbed and seized the item quickly, with the snatching creating rapid action and movement, though the action would require speed and agility.",
+            "meaning_ko": "snatch는 '잡아채다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ away the opportunity. (A) snatch (B) snatches (C) snatched (D) snatching",
+            "a": "C",
+            "meaning_ko": "과거형 snatched가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses snatch most appropriately? (A) The snatch ran. (B) He snatched the bag. (C) She snatch smiled. (D) Snatch is good.",
+            "a": "B",
+            "meaning_ko": "snatch는 동사로 '잡아채다'를 의미하며, snatch + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "affable",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "상냥한, 친근한; 상냥하거나 친근한.",
+        "note": "상냥하거나 친근한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "다정한, 온화한; 다정하거나 온화한.",
+        "note": "다정하거나 온화한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "상냥하거나 친근한 상태, 또는 다정하거나 온화한 상태.",
+    "etymology": "라틴어 affabilis(말하기 쉬운)에서 유래했으며, '말하기 쉬운' 의미에서 '상냥한' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '말하기 쉬운' 의미였고, 현대에는 '상냥한' 또는 '친근한'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be affable 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 상냥한",
+        "example": "affable to"
+      },
+      {
+        "prep": "with",
+        "meaning_ko": "~와 상냥한",
+        "example": "affable with"
+      }
+    ],
+    "requiredComplements": [
+      "be affable : 상냥하다",
+      "affable + 명사 : 상냥한 ~",
+      "affable to + 명사 : ~에게 상냥한",
+      "affable with + 명사 : ~와 상냥한"
+    ],
+    "morphology": "라틴어 affabilis에서 유래한 단어로, '말하기 쉬운' 의미에서 '상냥한' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "affably",
+        "meaning_ko": "상냥하게"
+      },
+      {
+        "word": "affability",
+        "meaning_ko": "상냥함"
+      }
+    ],
+    "related": [
+      {
+        "word": "friendly",
+        "meaning_ko": "친근한"
+      },
+      {
+        "word": "amiable",
+        "meaning_ko": "상냥한"
+      },
+      {
+        "word": "genial",
+        "meaning_ko": "상냥한"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "friendly",
+        "meaning_ko": "친근한"
+      },
+      {
+        "word": "amiable",
+        "meaning_ko": "상냥한"
+      },
+      {
+        "word": "genial",
+        "meaning_ko": "상냥한"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "cordial",
+        "meaning_ko": "다정한(범위가 더 넓음)"
+      },
+      {
+        "word": "gracious",
+        "meaning_ko": "상냥한"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "unfriendly",
+        "meaning_ko": "불친절한"
+      },
+      {
+        "word": "hostile",
+        "meaning_ko": "적대적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "affable to",
+            "meaning_ko": "~에게 상냥한"
+          },
+          {
+            "phrase": "affable with",
+            "meaning_ko": "~와 상냥한"
+          },
+          {
+            "phrase": "affable person",
+            "meaning_ko": "상냥한 사람"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "affable to everyone",
+            "meaning_ko": "모든 사람에게 상냥한"
+          },
+          {
+            "phrase": "affable with colleagues",
+            "meaning_ko": "그 동료들과 상냥한"
+          },
+          {
+            "phrase": "affable manner",
+            "meaning_ko": "상냥한 태도"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "affable to the guests",
+            "meaning_ko": "그 손님들에게 상냥한"
+          },
+          {
+            "phrase": "affable with the team",
+            "meaning_ko": "그 팀과 상냥한"
+          },
+          {
+            "phrase": "affable disposition",
+            "meaning_ko": "상냥한 성향"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was affable to everyone.",
+            "meaning_ko": "그는 모든 사람에게 상냥했습니다."
+          },
+          {
+            "sentence": "She had an affable manner.",
+            "meaning_ko": "그녀는 상냥한 태도를 가졌습니다."
+          },
+          {
+            "sentence": "They were affable with colleagues.",
+            "meaning_ko": "그들은 그 동료들과 상냥했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was affable to everyone, with his friendly and amiable nature creating warmth and connection, though the affability would require consistency and sincerity.",
+            "meaning_ko": "그는 모든 사람에게 상냥했고, 그의 친근하고 상냥한 성격이 따뜻함과 연결을 만들었지만, 그 상냥함은 일관성과 진정성을 요구할 것입니다."
+          },
+          {
+            "sentence": "She had an affable manner, with the genial and cordial approach creating friendliness and warmth, though the affability would need to be genuine and consistent.",
+            "meaning_ko": "그녀는 상냥한 태도를 가졌고, 그 상냥하고 다정한 접근이 친근함과 따뜻함을 만들었지만, 그 상냥함은 진정하고 일관적일 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They were affable with colleagues, with the gracious and friendly behavior creating connection and harmony, though the affability would require respect and consideration.",
+            "meaning_ko": "그들은 그 동료들과 상냥했고, 그 상냥하고 친근한 행동이 연결과 조화를 만들었지만, 그 상냥함은 존중과 배려를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to be affable to the guests that was made in the process created opportunities for connection and harmony, with the affability enabling creation of warmth and friendliness, though the affability would require comprehensive sincerity and consistency to ensure that guests feel welcomed and connection is effectively established.",
+            "meaning_ko": "그 과정에서 내려졌던 그 손님들에게 상냥하기로 한 그 결정은 연결과 조화를 위한 기회를 만들었고, 그 상냥함이 따뜻함과 친근함의 창조를 가능하게 했지만, 그 상냥함은 손님들이 환영받는다고 느끼고 연결이 효과적으로 확립되는 것을 보장하기 위해 포괄적인 진정성과 일관성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to maintain affable with the team that was undertaken in the initiative created pathways for cooperation and harmony, with the maintenance enabling preservation of friendliness and warmth, though the affability would need to be systematically maintained through respect and consideration to ensure that team feels valued and cooperation is effectively achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 팀과 그 상냥한 상태를 유지하기 위한 그 노력은 협력과 조화를 위한 경로를 만들었고, 그 유지가 친근함과 따뜻함의 보존을 가능하게 했지만, 그 상냥함은 팀이 가치 있다고 느끼고 협력이 효과적으로 달성되는 것을 보장하기 위해 존중과 배려를 통해 체계적으로 유지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to cultivate affable disposition that was completed in the system created structure and methods for connection and harmony, with the cultivation enabling development of friendliness and warmth, though the affability would require ongoing sincerity and consistency to ensure that disposition continues to be affable and connection remains maintained and enhanced.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 상냥한 성향을 기르기 위한 그 작업은 연결과 조화를 위한 구조와 방법을 만들었고, 그 기르기가 친근함과 따뜻함의 발전을 가능하게 했지만, 그 상냥함은 성향이 계속 상냥하고 연결이 계속 유지되고 향상되는 것을 보장하기 위해 지속적인 진정성과 일관성을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "affable는 '상냥한, 친근한' 또는 '다정한, 온화한' 의미로, 상냥하거나 친근한 상태를 가리킵니다. friendly, amiable와 비슷하지만 더 문어적 뉘앙스가 있습니다. affable to ~, affable with ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: affable = (A) unfriendly (B) friendly or amiable (C) hostile (D) cold",
+            "a": "B",
+            "meaning_ko": "affable는 '친근한 또는 상냥한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was _____ to everyone.",
+            "a": "affable",
+            "meaning_ko": "affable는 '상냥한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of affable? (A) friendly (B) amiable (C) unfriendly (D) genial",
+            "a": "C",
+            "meaning_ko": "unfriendly(불친절한)가 affable의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: affable _____ everyone. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "affable to ~는 '~에게 상냥한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: affable = (A) unfriendly (B) friendly (C) hostile (D) cold",
+            "a": "B",
+            "meaning_ko": "friendly(친근한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was affable at everyone.' → Fix the preposition.",
+            "a": "She was affable to everyone.",
+            "meaning_ko": "affable to ~는 '~에게 상냥한' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was affable to everyone.'",
+            "a": "He was friendly and amiable toward all people, with the affability creating warmth and connection, though the nature would require consistency and sincerity.",
+            "meaning_ko": "affable는 '상냥한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They were _____ with colleagues. (A) affable (B) affably (C) affability (D) affable's",
+            "a": "A",
+            "meaning_ko": "형용사 affable가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses affable most appropriately? (A) The affable ran. (B) He was affable to everyone. (C) She affable smiled. (D) Affable is good.",
+            "a": "B",
+            "meaning_ko": "affable는 형용사로 '상냥한'을 의미하며, be affable to ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

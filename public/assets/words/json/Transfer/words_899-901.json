@@ -1,0 +1,837 @@
+[
+  {
+    "word": "decline",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "거절하다, 거부하다; 거절하거나 거부하는 것.",
+        "note": "거절하거나 거부하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "쇠퇴하다, 감소하다; 쇠퇴하거나 감소하는 것.",
+        "note": "쇠퇴하거나 감소하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "쇠퇴, 감소; 쇠퇴나 감소.",
+        "note": "쇠퇴나 감소를 가리킵니다."
+      }
+    ],
+    "concept": "거절하거나 거부하는 행동, 또는 쇠퇴하거나 감소하는 행동, 또는 쇠퇴나 감소.",
+    "etymology": "라틴어 declinare(기울이다)에서 유래했으며, de(아래로) + clinare(기울이다)의 조합입니다.",
+    "semanticExtension": "원래는 '기울이다' 의미였고, 현대에는 '거절하다' 또는 '쇠퇴하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 타동사와 자동사 모두 가능하며, 명사로는 쇠퇴나 감소를 가리킵니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~로 쇠퇴하다",
+        "example": "decline to"
+      },
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 쇠퇴하다",
+        "example": "decline in"
+      }
+    ],
+    "requiredComplements": [
+      "decline : 거절하다/쇠퇴하다",
+      "decline + 명사 : ~을 거절하다",
+      "decline to + 동사 : ~하기를 거절하다",
+      "decline in + 명사 : ~에서 쇠퇴하다"
+    ],
+    "morphology": "라틴어 declinare에서 유래한 단어로, de(아래로) + clinare(기울이다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "declined",
+        "meaning_ko": "거절한/쇠퇴한(과거분사)"
+      },
+      {
+        "word": "declining",
+        "meaning_ko": "거절하는/쇠퇴하는(현재분사)"
+      },
+      {
+        "word": "declination",
+        "meaning_ko": "쇠퇴"
+      }
+    ],
+    "related": [
+      {
+        "word": "refuse",
+        "meaning_ko": "거절하다"
+      },
+      {
+        "word": "reject",
+        "meaning_ko": "거부하다"
+      },
+      {
+        "word": "decrease",
+        "meaning_ko": "감소하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "refuse",
+        "meaning_ko": "거절하다"
+      },
+      {
+        "word": "reject",
+        "meaning_ko": "거부하다"
+      },
+      {
+        "word": "decrease",
+        "meaning_ko": "감소하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "deteriorate",
+        "meaning_ko": "악화되다(범위가 더 넓음)"
+      },
+      {
+        "word": "diminish",
+        "meaning_ko": "감소하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "accept",
+        "meaning_ko": "수락하다"
+      },
+      {
+        "word": "increase",
+        "meaning_ko": "증가하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "decline to",
+            "meaning_ko": "~하기를 거절하다"
+          },
+          {
+            "phrase": "decline in",
+            "meaning_ko": "~에서 쇠퇴하다"
+          },
+          {
+            "phrase": "decline an offer",
+            "meaning_ko": "제안을 거절하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "decline to comment",
+            "meaning_ko": "논평하기를 거절하다"
+          },
+          {
+            "phrase": "decline in quality",
+            "meaning_ko": "그 품질에서 쇠퇴하다"
+          },
+          {
+            "phrase": "decline the invitation",
+            "meaning_ko": "초대를 거절하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "decline to participate",
+            "meaning_ko": "참여하기를 거절하다"
+          },
+          {
+            "phrase": "decline in performance",
+            "meaning_ko": "그 성능에서 쇠퇴하다"
+          },
+          {
+            "phrase": "decline the proposal",
+            "meaning_ko": "제안을 거절하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He declined the offer.",
+            "meaning_ko": "그는 그 제안을 거절했습니다."
+          },
+          {
+            "sentence": "She declined to comment.",
+            "meaning_ko": "그녀는 논평하기를 거절했습니다."
+          },
+          {
+            "sentence": "They saw a decline in quality.",
+            "meaning_ko": "그들은 그 품질에서 쇠퇴를 보았습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He declined the offer, with his refuse and reject creating distance and separation, though the decline would require explanation and understanding.",
+            "meaning_ko": "그는 그 제안을 거절했고, 그의 거절 그리고 거부가 거리와 분리를 만들었지만, 그 거절은 설명과 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "She declined to comment, with the reject and refuse creating silence and avoidance, though the decline would need to be respected and accepted.",
+            "meaning_ko": "그녀는 논평하기를 거절했고, 그 거부 그리고 거절이 침묵과 회피를 만들었지만, 그 거절은 존중되고 수락될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They saw a decline in quality, with the decrease and diminish creating concern and worry, though the decline would require attention and action.",
+            "meaning_ko": "그들은 그 품질에서 쇠퇴를 보았고, 그 감소 그리고 감소가 우려와 걱정을 만들었지만, 그 쇠퇴는 주의와 행동을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to decline to participate that was made in the process created opportunities for alternative approaches and solutions, with the decline enabling avoidance of conflict and commitment, though the decline would require clear communication and explanation to ensure that participation is properly declined and relationships are maintained.",
+            "meaning_ko": "그 과정에서 내려졌던 그 참여하기를 거절하기로 한 그 결정은 대안적 접근과 해결책을 위한 기회를 만들었고, 그 거절이 갈등과 약속의 회피를 가능하게 했지만, 그 거절은 참여가 적절히 거절되고 관계가 유지되는 것을 보장하기 위해 명확한 소통과 설명을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to address decline in performance that was undertaken in the initiative created pathways for improvement and recovery, with the addressing enabling identification of issues and solutions, though the decline would need to be systematically analyzed through assessment and evaluation to ensure that performance issues are identified and improvement strategies are developed.",
+            "meaning_ko": "그 계획에서 착수되었던 그 성능에서 그 쇠퇴를 다루기 위한 그 노력은 개선과 회복을 위한 경로를 만들었고, 그 다루기가 문제와 해결책의 식별을 가능하게 했지만, 그 쇠퇴는 성능 문제가 식별되고 개선 전략이 발전되는 것을 보장하기 위해 평가와 평가를 통해 체계적으로 분석될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to prevent decline the proposal that was completed in the system created structure and methods for decision-making and communication, with the prevention enabling maintenance of relationships and opportunities, though the decline would require ongoing evaluation and consideration to ensure that proposals are properly evaluated and decisions are made with full understanding of implications.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 제안을 그 쇠퇴를 방지하기 위한 그 작업은 의사결정과 소통을 위한 구조와 방법을 만들었고, 그 방지가 관계와 기회의 유지를 가능하게 했지만, 그 쇠퇴는 제안이 적절히 평가되고 결정이 함의에 대한 완전한 이해와 함께 내려지는 것을 보장하기 위해 지속적인 평가와 고려를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "decline는 '거절하다, 거부하다' 또는 '쇠퇴하다, 감소하다' 의미로, 거절하거나 거부하는 행동을 가리킵니다. refuse, reject와 비슷하지만 더 정중한 뉘앙스가 있습니다. decline to ~, decline in ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: decline = (A) accept (B) refuse or decrease (C) increase (D) approve",
+            "a": "B",
+            "meaning_ko": "decline는 '거절하다 또는 감소하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the offer.",
+            "a": "declined",
+            "meaning_ko": "decline는 '거절하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of decline? (A) refuse (B) reject (C) accept (D) decrease",
+            "a": "C",
+            "meaning_ko": "accept(수락하다)가 decline의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: decline _____ comment. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "decline to ~는 '~하기를 거절하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: decline = (A) accept (B) refuse (C) increase (D) approve",
+            "a": "B",
+            "meaning_ko": "refuse(거절하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She declined at comment.' → Fix the preposition.",
+            "a": "She declined to comment.",
+            "meaning_ko": "decline to ~는 '~하기를 거절하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He declined the offer.'",
+            "a": "He refused and rejected the proposal, with the decline creating distance and separation, though the action would require explanation and understanding.",
+            "meaning_ko": "decline는 '거절하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They saw a _____ in quality. (A) decline (B) declines (C) declined (D) declining",
+            "a": "A",
+            "meaning_ko": "명사 decline가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses decline most appropriately? (A) The decline ran. (B) He declined the offer. (C) She decline smiled. (D) Decline is good.",
+            "a": "B",
+            "meaning_ko": "decline는 동사로 '거절하다'를 의미하며, decline + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "impertinent",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "무례한, 건방진; 무례하거나 건방진.",
+        "note": "무례하거나 건방진 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "관련 없는, 무관한; 관련 없거나 무관한.",
+        "note": "관련 없거나 무관한 상태를 가리킵니다."
+      }
+    ],
+    "concept": "무례하거나 건방진 상태, 또는 관련 없거나 무관한 상태.",
+    "etymology": "라틴어 impertinens(관련 없는)에서 유래했으며, im(아닌) + pertinens(관련 있는)의 조합입니다.",
+    "semanticExtension": "원래는 '관련 없는' 의미였고, 현대에는 '무례하거나 건방진'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be impertinent 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에게 무례한",
+        "example": "impertinent to"
+      }
+    ],
+    "requiredComplements": [
+      "be impertinent : 무례하다",
+      "impertinent + 명사 : 무례한 ~",
+      "impertinent to + 명사 : ~에게 무례한"
+    ],
+    "morphology": "라틴어 impertinens에서 유래한 단어로, im(아닌) + pertinens(관련 있는)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "impertinently",
+        "meaning_ko": "무례하게"
+      },
+      {
+        "word": "impertinence",
+        "meaning_ko": "무례함"
+      }
+    ],
+    "related": [
+      {
+        "word": "rude",
+        "meaning_ko": "무례한"
+      },
+      {
+        "word": "impolite",
+        "meaning_ko": "무례한"
+      },
+      {
+        "word": "insolent",
+        "meaning_ko": "건방진"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "rude",
+        "meaning_ko": "무례한"
+      },
+      {
+        "word": "impolite",
+        "meaning_ko": "무례한"
+      },
+      {
+        "word": "insolent",
+        "meaning_ko": "건방진"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "disrespectful",
+        "meaning_ko": "무례한(범위가 더 넓음)"
+      },
+      {
+        "word": "cheeky",
+        "meaning_ko": "건방진"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "polite",
+        "meaning_ko": "정중한"
+      },
+      {
+        "word": "respectful",
+        "meaning_ko": "존중하는"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "impertinent to",
+            "meaning_ko": "~에게 무례한"
+          },
+          {
+            "phrase": "impertinent behavior",
+            "meaning_ko": "무례한 행동"
+          },
+          {
+            "phrase": "impertinent question",
+            "meaning_ko": "무례한 질문"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "impertinent to the teacher",
+            "meaning_ko": "그 선생님에게 무례한"
+          },
+          {
+            "phrase": "impertinent remark",
+            "meaning_ko": "무례한 발언"
+          },
+          {
+            "phrase": "impertinent attitude",
+            "meaning_ko": "무례한 태도"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "impertinent to the authority",
+            "meaning_ko": "그 권위에게 무례한"
+          },
+          {
+            "phrase": "impertinent comment",
+            "meaning_ko": "무례한 코멘트"
+          },
+          {
+            "phrase": "impertinent response",
+            "meaning_ko": "무례한 응답"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He showed impertinent behavior.",
+            "meaning_ko": "그는 무례한 행동을 보였습니다."
+          },
+          {
+            "sentence": "She asked an impertinent question.",
+            "meaning_ko": "그녀는 무례한 질문을 했습니다."
+          },
+          {
+            "sentence": "They displayed an impertinent attitude.",
+            "meaning_ko": "그들은 무례한 태도를 보였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He showed impertinent behavior, with his rude and impolite actions creating offense and disrespect, though the impertinence would require correction and education.",
+            "meaning_ko": "그는 무례한 행동을 보였고, 그의 무례하고 무례한 행동이 불쾌함과 무례함을 만들었지만, 그 무례함은 교정과 교육을 요구할 것입니다."
+          },
+          {
+            "sentence": "She asked an impertinent question, with the insolent and disrespectful inquiry creating discomfort and offense, though the impertinence would need to be addressed and corrected.",
+            "meaning_ko": "그녀는 무례한 질문을 했고, 그 건방지고 무례한 질문이 불편함과 불쾌함을 만들었지만, 그 무례함은 다뤄지고 교정될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They displayed an impertinent attitude, with the cheeky and rude manner creating conflict and tension, though the impertinence would require discipline and guidance.",
+            "meaning_ko": "그들은 무례한 태도를 보였고, 그 건방지고 무례한 태도가 갈등과 긴장을 만들었지만, 그 무례함은 훈육과 지도를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address impertinent to the authority that was made in the process created opportunities for correction and education, with the addressing enabling improvement of behavior and respect, though the impertinence would require comprehensive approach and guidance to ensure that behavior is corrected and respect is maintained.",
+            "meaning_ko": "그 과정에서 내려졌던 그 권위에게 그 무례한 것을 다루기로 한 그 결정은 교정과 교육을 위한 기회를 만들었고, 그 다루기가 행동과 존중의 개선을 가능하게 했지만, 그 무례함은 행동이 교정되고 존중이 유지되는 것을 보장하기 위해 포괄적인 접근과 지도를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to correct impertinent comment that was undertaken in the initiative created pathways for improvement and respect, with the correction enabling development of appropriate communication and behavior, though the impertinence would need to be systematically addressed through education and guidance to ensure that comments are appropriate and communication is respectful.",
+            "meaning_ko": "그 계획에서 착수되었던 그 무례한 코멘트를 교정하기 위한 그 노력은 개선과 존중을 위한 경로를 만들었고, 그 교정이 적절한 소통과 행동의 발전을 가능하게 했지만, 그 무례함은 코멘트가 적절하고 소통이 존중하는 것을 보장하기 위해 교육과 지도를 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to prevent impertinent response that was completed in the system created structure and methods for respectful communication and behavior, with the prevention enabling maintenance of decorum and respect, though the impertinence would require ongoing education and reinforcement to ensure that responses are respectful and communication maintains appropriate standards.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 무례한 응답을 방지하기 위한 그 작업은 존중하는 소통과 행동을 위한 구조와 방법을 만들었고, 그 방지가 예의와 존중의 유지를 가능하게 했지만, 그 무례함은 응답이 존중하고 소통이 적절한 기준을 유지하는 것을 보장하기 위해 지속적인 교육과 강화를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "impertinent는 '무례한, 건방진' 또는 '관련 없는, 무관한' 의미로, 무례하거나 건방진 상태를 가리킵니다. rude, impolite와 비슷하지만 더 문어적 뉘앙스가 있습니다. impertinent to ~, impertinent behavior 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: impertinent = (A) polite (B) rude or impolite (C) respectful (D) courteous",
+            "a": "B",
+            "meaning_ko": "impertinent는 '무례한 또는 무례한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He showed _____ behavior.",
+            "a": "impertinent",
+            "meaning_ko": "impertinent는 '무례한' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of impertinent? (A) rude (B) impolite (C) polite (D) insolent",
+            "a": "C",
+            "meaning_ko": "polite(정중한)가 impertinent의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: impertinent _____ the teacher. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "impertinent to ~는 '~에게 무례한' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: impertinent = (A) polite (B) rude (C) respectful (D) courteous",
+            "a": "B",
+            "meaning_ko": "rude(무례한)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She asked an impertinent question at the teacher.' → Fix the sentence.",
+            "a": "She asked an impertinent question.",
+            "meaning_ko": "impertinent question는 이미 '무례한 질문' 의미이므로 추가 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He showed impertinent behavior.'",
+            "a": "He displayed rude and impolite actions, with the impertinence creating offense and disrespect, though the behavior would require correction and education.",
+            "meaning_ko": "impertinent는 '무례한' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They displayed an _____ attitude. (A) impertinent (B) impertinently (C) impertinence (D) impertinent's",
+            "a": "A",
+            "meaning_ko": "형용사 impertinent가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses impertinent most appropriately? (A) The impertinent ran. (B) He showed impertinent behavior. (C) She impertinent smiled. (D) Impertinent is good.",
+            "a": "B",
+            "meaning_ko": "impertinent는 형용사로 '무례한'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "scatter",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "흩뜨리다, 뿌리다; 흩뜨리거나 뿌리는 것.",
+        "note": "흩뜨리거나 뿌리는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "흩어지다, 분산되다; 흩어지거나 분산되는 것.",
+        "note": "흩어지거나 분산되는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "흩뜨리거나 뿌리는 행동, 또는 흩어지거나 분산되는 행동.",
+    "etymology": "고대 영어 scaterian(흩뜨리다)에서 유래했으며, '흩뜨리다' 의미입니다.",
+    "semanticExtension": "원래는 '흩뜨리다' 의미였고, 현대에는 '흩뜨리다' 또는 '흩어지다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사와 자동사 모두 가능하며, scatter + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "across",
+        "meaning_ko": "~에 걸쳐 흩뜨리다",
+        "example": "scatter across"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~ 위에 흩뜨리다",
+        "example": "scatter over"
+      }
+    ],
+    "requiredComplements": [
+      "scatter : 흩뜨리다/흩어지다",
+      "scatter + 명사 : ~을 흩뜨리다",
+      "scatter across + 명사 : ~에 걸쳐 흩뜨리다",
+      "scatter over + 명사 : ~ 위에 흩뜨리다"
+    ],
+    "morphology": "고대 영어 scaterian에서 유래한 단어로, '흩뜨리다' 의미입니다.",
+    "derivatives": [
+      {
+        "word": "scattered",
+        "meaning_ko": "흩어진(과거분사)"
+      },
+      {
+        "word": "scattering",
+        "meaning_ko": "흩뜨리는(현재분사)"
+      },
+      {
+        "word": "scatterer",
+        "meaning_ko": "흩뜨리는 사람"
+      }
+    ],
+    "related": [
+      {
+        "word": "spread",
+        "meaning_ko": "퍼뜨리다"
+      },
+      {
+        "word": "disperse",
+        "meaning_ko": "분산시키다"
+      },
+      {
+        "word": "distribute",
+        "meaning_ko": "분배하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "spread",
+        "meaning_ko": "퍼뜨리다"
+      },
+      {
+        "word": "disperse",
+        "meaning_ko": "분산시키다"
+      },
+      {
+        "word": "distribute",
+        "meaning_ko": "분배하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "strew",
+        "meaning_ko": "뿌리다(범위가 더 넓음)"
+      },
+      {
+        "word": "sprinkle",
+        "meaning_ko": "뿌리다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "gather",
+        "meaning_ko": "모으다"
+      },
+      {
+        "word": "collect",
+        "meaning_ko": "수집하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "scatter across",
+            "meaning_ko": "~에 걸쳐 흩뜨리다"
+          },
+          {
+            "phrase": "scatter over",
+            "meaning_ko": "~ 위에 흩뜨리다"
+          },
+          {
+            "phrase": "scatter seeds",
+            "meaning_ko": "씨를 흩뜨리다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "scatter across the field",
+            "meaning_ko": "그 들판에 걸쳐 흩뜨리다"
+          },
+          {
+            "phrase": "scatter over the surface",
+            "meaning_ko": "그 표면 위에 흩뜨리다"
+          },
+          {
+            "phrase": "scatter the papers",
+            "meaning_ko": "그 종이들을 흩뜨리다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "scatter across the area",
+            "meaning_ko": "그 지역에 걸쳐 흩뜨리다"
+          },
+          {
+            "phrase": "scatter over the ground",
+            "meaning_ko": "그 땅 위에 흩뜨리다"
+          },
+          {
+            "phrase": "scatter the debris",
+            "meaning_ko": "그 파편들을 흩뜨리다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He scattered seeds.",
+            "meaning_ko": "그는 씨를 흩뜨렸습니다."
+          },
+          {
+            "sentence": "She scattered the papers across the table.",
+            "meaning_ko": "그녀는 그 종이들을 그 테이블에 걸쳐 흩뜨렸습니다."
+          },
+          {
+            "sentence": "They scattered over the field.",
+            "meaning_ko": "그들은 그 들판에 걸쳐 흩어졌습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He scattered seeds, with his spread and disperse creating distribution and coverage, though the scattering would require care and attention.",
+            "meaning_ko": "그는 씨를 흩뜨렸고, 그의 퍼뜨리기 그리고 분산시키기가 분배와 커버리지를 만들었지만, 그 흩뜨리기는 돌봄과 주의를 요구할 것입니다."
+          },
+          {
+            "sentence": "She scattered the papers across the table, with the distribute and strew creating spread and coverage, though the scattering would need to be organized and managed.",
+            "meaning_ko": "그녀는 그 종이들을 그 테이블에 걸쳐 흩뜨렸고, 그 분배 그리고 뿌리기가 퍼뜨리기와 커버리지를 만들었지만, 그 흩뜨리기는 조직되고 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They scattered over the field, with the disperse and spread creating movement and distribution, though the scattering would require coordination and direction.",
+            "meaning_ko": "그들은 그 들판에 걸쳐 흩어졌고, 그 분산시키기 그리고 퍼뜨리기가 움직임과 분배를 만들었지만, 그 흩뜨리기는 조정과 방향을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to scatter across the area that was made in the process created opportunities for distribution and coverage, with the scattering enabling spread of materials and resources, though the scattering would require careful planning and coordination to ensure that distribution is even and coverage is comprehensive.",
+            "meaning_ko": "그 과정에서 내려졌던 그 지역에 걸쳐 흩뜨리기로 한 그 결정은 분배와 커버리지를 위한 기회를 만들었고, 그 흩뜨리기가 재료와 자원의 퍼뜨리기를 가능하게 했지만, 그 흩뜨리기는 분배가 균등하고 커버리지가 포괄적인 것을 보장하기 위해 신중한 계획과 조정을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to scatter over the ground that was undertaken in the initiative created pathways for distribution and spread, with the scattering enabling coverage of area and materials, though the scattering would need to be systematically managed through planning and coordination to ensure that distribution is effective and coverage meets requirements.",
+            "meaning_ko": "그 계획에서 착수되었던 그 땅 위에 흩뜨리기 위한 그 노력은 분배와 퍼뜨리기를 위한 경로를 만들었고, 그 흩뜨리기가 지역과 재료의 커버리지를 가능하게 했지만, 그 흩뜨리기는 분배가 효과적이고 커버리지가 요구사항을 충족하는 것을 보장하기 위해 계획과 조정을 통해 체계적으로 관리될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to scatter the debris that was completed in the system created structure and methods for distribution and cleanup, with the scattering enabling spread of materials and organization, though the scattering would require ongoing management and coordination to ensure that debris is properly distributed and cleanup is effective and efficient.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 파편들을 흩뜨리기 위한 그 작업은 분배와 정리를 위한 구조와 방법을 만들었고, 그 흩뜨리기가 재료와 조직의 퍼뜨리기를 가능하게 했지만, 그 흩뜨리기는 파편이 적절히 분배되고 정리가 효과적이고 효율적인 것을 보장하기 위해 지속적인 관리와 조정을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "scatter는 '흩뜨리다, 뿌리다' 또는 '흩어지다, 분산되다' 의미로, 흩뜨리거나 뿌리는 행동을 가리킵니다. spread, disperse와 비슷하지만 더 무작위적 뉘앙스가 있습니다. scatter across ~, scatter over ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: scatter = (A) gather (B) spread or disperse (C) collect (D) assemble",
+            "a": "B",
+            "meaning_ko": "scatter는 '퍼뜨리다 또는 분산시키다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ seeds.",
+            "a": "scattered",
+            "meaning_ko": "scatter는 '흩뜨리다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of scatter? (A) spread (B) disperse (C) gather (D) distribute",
+            "a": "C",
+            "meaning_ko": "gather(모으다)가 scatter의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: scatter _____ the field. (A) across (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "scatter across ~는 '~에 걸쳐 흩뜨리다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: scatter = (A) gather (B) spread (C) collect (D) assemble",
+            "a": "B",
+            "meaning_ko": "spread(퍼뜨리다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She scattered the papers at the table.' → Fix the preposition.",
+            "a": "She scattered the papers across the table.",
+            "meaning_ko": "scatter across ~는 '~에 걸쳐 흩뜨리다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He scattered seeds.'",
+            "a": "He spread and dispersed the seeds, with the scattering creating distribution and coverage, though the action would require care and attention.",
+            "meaning_ko": "scatter는 '흩뜨리다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ over the field. (A) scatter (B) scatters (C) scattered (D) scattering",
+            "a": "C",
+            "meaning_ko": "과거형 scattered가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses scatter most appropriately? (A) The scatter ran. (B) He scattered seeds. (C) She scatter smiled. (D) Scatter is good.",
+            "a": "B",
+            "meaning_ko": "scatter는 동사로 '흩뜨리다'를 의미하며, scatter + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

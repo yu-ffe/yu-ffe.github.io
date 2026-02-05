@@ -1,0 +1,824 @@
+[
+  {
+    "word": "reciprocal",
+    "partOfSpeech": [
+      "adjective",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "상호의, 서로의; 상호적이거나 서로의.",
+        "note": "상호적이거나 서로의 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "역수, 상호 관계; 역수나 상호 관계.",
+        "note": "역수나 상호 관계를 가리킵니다."
+      }
+    ],
+    "concept": "상호적이거나 서로의 상태, 또는 역수나 상호 관계.",
+    "etymology": "라틴어 reciprocus(상호의)에서 유래했으며, re(뒤로) + pro(앞으로)의 조합입니다.",
+    "semanticExtension": "원래는 '상호의' 의미였고, 현대에는 '역수나 상호 관계'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 수학과 사회 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be reciprocal 형태로 자주 사용됩니다. 명사로는 가산명사로 자주 사용되며, reciprocal 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 상호",
+        "example": "reciprocal of"
+      }
+    ],
+    "requiredComplements": [
+      "be reciprocal : 상호적이다",
+      "reciprocal + 명사 : 상호의 ~",
+      "reciprocal of + 명사 : ~의 상호"
+    ],
+    "morphology": "라틴어 reciprocus에서 유래한 단어로, re(뒤로) + pro(앞으로)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "reciprocally",
+        "meaning_ko": "상호적으로"
+      },
+      {
+        "word": "reciprocity",
+        "meaning_ko": "상호성"
+      },
+      {
+        "word": "reciprocate",
+        "meaning_ko": "상호 교환하다"
+      }
+    ],
+    "related": [
+      {
+        "word": "mutual",
+        "meaning_ko": "상호의"
+      },
+      {
+        "word": "shared",
+        "meaning_ko": "공유된"
+      },
+      {
+        "word": "bilateral",
+        "meaning_ko": "양자간의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "mutual",
+        "meaning_ko": "상호의"
+      },
+      {
+        "word": "shared",
+        "meaning_ko": "공유된"
+      },
+      {
+        "word": "bilateral",
+        "meaning_ko": "양자간의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "interchangeable",
+        "meaning_ko": "교환 가능한(범위가 더 넓음)"
+      },
+      {
+        "word": "corresponding",
+        "meaning_ko": "대응하는"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "one-sided",
+        "meaning_ko": "일방적인"
+      },
+      {
+        "word": "unilateral",
+        "meaning_ko": "일방적인"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "reciprocal of",
+            "meaning_ko": "~의 상호"
+          },
+          {
+            "phrase": "reciprocal agreement",
+            "meaning_ko": "상호 협정"
+          },
+          {
+            "phrase": "reciprocal relationship",
+            "meaning_ko": "상호 관계"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "reciprocal trade",
+            "meaning_ko": "상호 무역"
+          },
+          {
+            "phrase": "reciprocal respect",
+            "meaning_ko": "상호 존중"
+          },
+          {
+            "phrase": "reciprocal benefit",
+            "meaning_ko": "상호 이익"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "reciprocal arrangement",
+            "meaning_ko": "상호 협정"
+          },
+          {
+            "phrase": "reciprocal obligation",
+            "meaning_ko": "상호 의무"
+          },
+          {
+            "phrase": "reciprocal exchange",
+            "meaning_ko": "상호 교환"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They had a reciprocal agreement.",
+            "meaning_ko": "그들은 상호 협정을 가지고 있었습니다."
+          },
+          {
+            "sentence": "She showed reciprocal respect.",
+            "meaning_ko": "그녀는 상호 존중을 보여주었습니다."
+          },
+          {
+            "sentence": "He understood the reciprocal relationship.",
+            "meaning_ko": "그는 그 상호 관계를 이해했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They had a reciprocal agreement, with their mutual arrangement creating benefits for both parties, though the reciprocal terms would require commitment from both sides.",
+            "meaning_ko": "그들은 상호 협정을 가지고 있었고, 그들의 상호 협정이 양쪽 당사자에게 이익을 만들었지만, 그 상호 조건은 양쪽에서 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "She showed reciprocal respect, with her mutual consideration creating a positive relationship, though the reciprocal behavior would require ongoing effort from both parties.",
+            "meaning_ko": "그녀는 상호 존중을 보여주었고, 그녀의 상호 배려가 긍정적 관계를 만들었지만, 그 상호 행동은 양쪽 당사자에서 지속적인 노력을 요구할 것입니다."
+          },
+          {
+            "sentence": "He understood the reciprocal relationship, with his recognition of mutual benefits creating a foundation for cooperation, though the reciprocal nature would require balance and fairness.",
+            "meaning_ko": "그는 그 상호 관계를 이해했고, 그의 상호 이익에 대한 인식이 협력을 위한 기초를 만들었지만, 그 상호적 성격은 균형과 공정성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The reciprocal arrangement that was established in the partnership created a framework for mutual benefit and cooperation, with the bilateral agreement ensuring that both parties would gain from the relationship, though the reciprocal terms would require ongoing communication and commitment.",
+            "meaning_ko": "그 파트너십에서 확립되었던 그 상호 협정은 상호 이익과 협력을 위한 틀을 만들었고, 그 양자간 협정이 양쪽 당사자가 그 관계에서 이익을 얻을 것임을 보장했지만, 그 상호 조건은 지속적인 소통과 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "The reciprocal obligation that was created in the agreement established mutual responsibilities and expectations, with the bilateral commitment ensuring that both sides would fulfill their duties, though the reciprocal nature would require accountability and follow-through.",
+            "meaning_ko": "그 협정에서 만들어진 그 상호 의무는 상호 책임과 기대를 확립했고, 그 양자간 헌신이 양쪽이 그들의 의무를 이행할 것임을 보장했지만, 그 상호적 성격은 책임과 실행을 요구할 것입니다."
+          },
+          {
+            "sentence": "The reciprocal exchange that was implemented in the system created a process of mutual giving and receiving, with the bilateral interaction ensuring that both parties would benefit, though the reciprocal process would require fairness and balance.",
+            "meaning_ko": "그 체제에서 실행되었던 그 상호 교환은 상호 주고받는 과정을 만들었고, 그 양자간 상호작용이 양쪽 당사자가 이익을 얻을 것임을 보장했지만, 그 상호 과정은 공정성과 균형을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "reciprocal는 '상호의, 서로의' 또는 '역수, 상호 관계' 의미로, 상호적이거나 서로의 상태를 가리킵니다. mutual, shared와 비슷하지만 더 수학적 뉘앙스가 있습니다. reciprocal of ~, reciprocal agreement 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "수학",
+      "사회",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: reciprocal = (A) one-sided (B) mutual or shared (C) unilateral (D) single",
+            "a": "B",
+            "meaning_ko": "reciprocal는 '상호의 또는 공유된' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They had a _____ agreement.",
+            "a": "reciprocal",
+            "meaning_ko": "reciprocal는 '상호의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of reciprocal? (A) mutual (B) shared (C) one-sided (D) bilateral",
+            "a": "C",
+            "meaning_ko": "one-sided(일방적인)가 reciprocal의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: reciprocal _____ agreement. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "reciprocal of ~는 '~의 상호' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: reciprocal = (A) one-sided (B) mutual (C) unilateral (D) single",
+            "a": "B",
+            "meaning_ko": "mutual(상호의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They had a reciprocal at agreement.' → Fix the preposition.",
+            "a": "They had a reciprocal agreement.",
+            "meaning_ko": "reciprocal는 직접 명사를 수식하므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They had a reciprocal agreement.'",
+            "a": "They had a mutual and bilateral arrangement, with their shared agreement creating benefits for both parties, though the reciprocal terms would require commitment from both sides.",
+            "meaning_ko": "reciprocal는 '상호의' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She showed _____ respect. (A) reciprocal (B) reciprocally (C) reciprocity (D) reciprocal's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 reciprocal가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses reciprocal most appropriately? (A) The reciprocal ran. (B) They had a reciprocal agreement. (C) She reciprocal smiled. (D) Reciprocal is good.",
+            "a": "B",
+            "meaning_ko": "reciprocal는 형용사로 '상호의'를 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "deity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "신, 신성; 신이나 신성.",
+        "note": "신이나 신성을 가리킵니다."
+      },
+      {
+        "definition_ko": "신격, 신적 존재; 신격이나 신적 존재.",
+        "note": "신격이나 신적 존재를 가리킵니다."
+      }
+    ],
+    "concept": "신이나 신성인 신, 또는 신격이나 신적 존재.",
+    "etymology": "라틴어 deitas(신성)에서 유래했으며, deus(신)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '신성' 의미였고, 현대에는 '신격이나 신적 존재'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 종교와 신화 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사로 자주 사용되며, deity 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 신",
+        "example": "deity of"
+      }
+    ],
+    "requiredComplements": [
+      "deity : 신/신성",
+      "deity of + 명사 : ~의 신"
+    ],
+    "morphology": "라틴어 deitas에서 유래한 단어로, deus(신)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "deities",
+        "meaning_ko": "신들(복수형)"
+      },
+      {
+        "word": "deify",
+        "meaning_ko": "신격화하다"
+      },
+      {
+        "word": "deification",
+        "meaning_ko": "신격화"
+      }
+    ],
+    "related": [
+      {
+        "word": "god",
+        "meaning_ko": "신"
+      },
+      {
+        "word": "divinity",
+        "meaning_ko": "신성"
+      },
+      {
+        "word": "godhead",
+        "meaning_ko": "신격"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "god",
+        "meaning_ko": "신"
+      },
+      {
+        "word": "divinity",
+        "meaning_ko": "신성"
+      },
+      {
+        "word": "godhead",
+        "meaning_ko": "신격"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "spirit",
+        "meaning_ko": "영혼(범위가 더 넓음)"
+      },
+      {
+        "word": "immortal",
+        "meaning_ko": "불멸의 존재"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "mortal",
+        "meaning_ko": "필멸자"
+      },
+      {
+        "word": "human",
+        "meaning_ko": "인간"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "deity of",
+            "meaning_ko": "~의 신"
+          },
+          {
+            "phrase": "ancient deity",
+            "meaning_ko": "고대 신"
+          },
+          {
+            "phrase": "pagan deity",
+            "meaning_ko": "이교 신"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "deity of war",
+            "meaning_ko": "전쟁의 신"
+          },
+          {
+            "phrase": "deity of love",
+            "meaning_ko": "사랑의 신"
+          },
+          {
+            "phrase": "deity of nature",
+            "meaning_ko": "자연의 신"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "deity of wisdom",
+            "meaning_ko": "지혜의 신"
+          },
+          {
+            "phrase": "deity of justice",
+            "meaning_ko": "정의의 신"
+          },
+          {
+            "phrase": "deity worship",
+            "meaning_ko": "신 숭배"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They worshipped the deity.",
+            "meaning_ko": "그들은 그 신을 숭배했습니다."
+          },
+          {
+            "sentence": "She prayed to the deity.",
+            "meaning_ko": "그녀는 그 신에게 기도했습니다."
+          },
+          {
+            "sentence": "He believed in the deity.",
+            "meaning_ko": "그는 그 신을 믿었습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They worshipped the deity, with their devotion and reverence creating a connection to the divine, though the worship would require faith and commitment.",
+            "meaning_ko": "그들은 그 신을 숭배했고, 그들의 헌신과 경외가 신성과의 연결을 만들었지만, 그 숭배는 신앙과 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "She prayed to the deity, with her supplication and devotion expressing faith and hope, though the prayer would require sincerity and belief.",
+            "meaning_ko": "그녀는 그 신에게 기도했고, 그녀의 탄원과 헌신이 신앙과 희망을 표현했지만, 그 기도는 진심과 믿음을 요구할 것입니다."
+          },
+          {
+            "sentence": "He believed in the deity, with his faith and trust creating a foundation for spiritual practice, though the belief would require ongoing devotion and commitment.",
+            "meaning_ko": "그는 그 신을 믿었고, 그의 신앙과 신뢰가 영적 실천의 기초를 만들었지만, 그 믿음은 지속적인 헌신과 헌신을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The deity of wisdom that was revered in the culture created a symbol of knowledge and understanding, with the divine figure representing intellectual and spiritual insight, though the deity worship would require devotion and study.",
+            "meaning_ko": "그 문화에서 숭배되었던 그 지혜의 신은 지식과 이해의 상징을 만들었고, 그 신적 인물이 지적이고 영적 통찰을 나타냈지만, 그 신 숭배는 헌신과 학습을 요구할 것입니다."
+          },
+          {
+            "sentence": "The deity of justice that was honored in the tradition created a representation of fairness and righteousness, with the divine being embodying principles of law and morality, though the deity worship would require commitment to ethical behavior.",
+            "meaning_ko": "그 전통에서 존경되었던 그 정의의 신은 공정성과 정의의 표현을 만들었고, 그 신적 존재가 법과 도덕의 원칙을 구현했지만, 그 신 숭배는 윤리적 행동에 대한 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "The deity worship that was practiced in the community created a framework for spiritual connection and devotion, with the religious practice providing meaning and guidance, though the worship would require faith and ongoing commitment.",
+            "meaning_ko": "그 공동체에서 실천되었던 그 신 숭배는 영적 연결과 헌신을 위한 틀을 만들었고, 그 종교적 실천이 의미와 지도를 제공했지만, 그 숭배는 신앙과 지속적인 헌신을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "deity는 '신, 신성' 또는 '신격, 신적 존재' 의미로, 신이나 신성을 가리킵니다. god, divinity와 비슷하지만 더 공식적 뉘앙스가 있습니다. deity of ~, ancient deity 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "종교",
+      "신화",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: deity = (A) mortal (B) god or divinity (C) human (D) creature",
+            "a": "B",
+            "meaning_ko": "deity는 '신 또는 신성' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They worshipped the _____.",
+            "a": "deity",
+            "meaning_ko": "deity는 '신'을 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of deity? (A) god (B) divinity (C) mortal (D) godhead",
+            "a": "C",
+            "meaning_ko": "mortal(필멸자)가 deity의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: deity _____ war. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "deity of ~는 '~의 신' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: deity = (A) mortal (B) god (C) human (D) creature",
+            "a": "B",
+            "meaning_ko": "god(신)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She prayed to the deity at war.' → Fix the preposition.",
+            "a": "She prayed to the deity of war.",
+            "meaning_ko": "deity of ~는 '~의 신' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They worshipped the deity.'",
+            "a": "They showed devotion and reverence to the god and divinity, with their worship creating a connection to the divine, though the deity worship would require faith and commitment.",
+            "meaning_ko": "deity는 '신'을 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: He believed in the _____. (A) deity (B) deities (C) deity's (D) deify",
+            "a": "A",
+            "meaning_ko": "명사 deity가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses deity most appropriately? (A) The deity ran. (B) They worshipped the deity. (C) She deity smiled. (D) Deity is good.",
+            "a": "B",
+            "meaning_ko": "deity는 명사로 '신'을 의미하며, worship과 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "furnish",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "제공하다, 공급하다; 제공하거나 공급하다.",
+        "note": "제공하거나 공급하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "가구를 배치하다, 장식하다; 가구를 배치하거나 장식하다.",
+        "note": "가구를 배치하거나 장식하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "제공하거나 공급하는 것, 또는 가구를 배치하거나 장식하는 것.",
+    "etymology": "프랑스어 fournir(공급하다)에서 유래했으며, 원래는 '공급하다' 의미였습니다.",
+    "semanticExtension": "원래는 '공급하다' 의미였고, 현대에는 '가구를 배치하거나 장식하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 자주 사용되며, furnish + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~로 제공하다",
+        "example": "furnish with"
+      }
+    ],
+    "requiredComplements": [
+      "furnish + 명사 : ~을 제공하다/공급하다",
+      "furnish with + 명사 : ~로 제공하다"
+    ],
+    "morphology": "프랑스어 fournir에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "furnished",
+        "meaning_ko": "제공된/가구가 배치된(과거분사/형용사)"
+      },
+      {
+        "word": "furnishing",
+        "meaning_ko": "제공하는/가구 배치(현재분사/명사)"
+      },
+      {
+        "word": "furniture",
+        "meaning_ko": "가구"
+      }
+    ],
+    "related": [
+      {
+        "word": "provide",
+        "meaning_ko": "제공하다"
+      },
+      {
+        "word": "supply",
+        "meaning_ko": "공급하다"
+      },
+      {
+        "word": "equip",
+        "meaning_ko": "장비를 갖추다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "provide",
+        "meaning_ko": "제공하다"
+      },
+      {
+        "word": "supply",
+        "meaning_ko": "공급하다"
+      },
+      {
+        "word": "equip",
+        "meaning_ko": "장비를 갖추다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "outfit",
+        "meaning_ko": "갖추다(범위가 더 넓음)"
+      },
+      {
+        "word": "decorate",
+        "meaning_ko": "장식하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "deprive",
+        "meaning_ko": "박탈하다"
+      },
+      {
+        "word": "remove",
+        "meaning_ko": "제거하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "furnish with",
+            "meaning_ko": "~로 제공하다"
+          },
+          {
+            "phrase": "furnish information",
+            "meaning_ko": "정보를 제공하다"
+          },
+          {
+            "phrase": "furnish room",
+            "meaning_ko": "방을 가구로 채우다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "furnish apartment",
+            "meaning_ko": "아파트를 가구로 채우다"
+          },
+          {
+            "phrase": "furnish evidence",
+            "meaning_ko": "증거를 제공하다"
+          },
+          {
+            "phrase": "furnish details",
+            "meaning_ko": "세부 사항을 제공하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "furnish proof",
+            "meaning_ko": "증명을 제공하다"
+          },
+          {
+            "phrase": "furnish documentation",
+            "meaning_ko": "문서를 제공하다"
+          },
+          {
+            "phrase": "furnish accommodation",
+            "meaning_ko": "숙소를 제공하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They furnished the room.",
+            "meaning_ko": "그들은 그 방을 가구로 채웠습니다."
+          },
+          {
+            "sentence": "She furnished the information.",
+            "meaning_ko": "그녀는 그 정보를 제공했습니다."
+          },
+          {
+            "sentence": "He furnished the apartment.",
+            "meaning_ko": "그는 그 아파트를 가구로 채웠습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They furnished the room, with their furniture and decorations creating a comfortable and functional space, though the furnishing would require planning and selection.",
+            "meaning_ko": "그들은 그 방을 가구로 채웠고, 그들의 가구와 장식이 편안하고 기능적인 공간을 만들었지만, 그 가구 배치는 계획과 선택을 요구할 것입니다."
+          },
+          {
+            "sentence": "She furnished the information, with her provision of data and details creating a foundation for understanding, though the information would need to be accurate and complete.",
+            "meaning_ko": "그녀는 그 정보를 제공했고, 그녀의 데이터와 세부 사항 제공이 이해를 위한 기초를 만들었지만, 그 정보는 정확하고 완전해야 할 것입니다."
+          },
+          {
+            "sentence": "He furnished the apartment, with his furniture and equipment creating a livable and functional space, though the furnishing would require investment and design.",
+            "meaning_ko": "그는 그 아파트를 가구로 채웠고, 그의 가구와 장비가 살 수 있고 기능적인 공간을 만들었지만, 그 가구 배치는 투자와 디자인을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to furnish proof that was made in the case created a foundation for the argument, with the provision of evidence supporting the position, though the proof would need to be credible and verifiable.",
+            "meaning_ko": "그 사건에서 내려졌던 그 증명을 제공하기로 한 그 결정은 그 논쟁을 위한 기초를 만들었고, 그 증거 제공이 그 입장을 지원했지만, 그 증명은 신뢰할 수 있고 검증 가능해야 할 것입니다."
+          },
+          {
+            "sentence": "The plan to furnish documentation that was implemented in the process created a record of information and details, with the provision of documents enabling verification and reference, though the documentation would require organization and accuracy.",
+            "meaning_ko": "그 과정에서 실행되었던 그 문서를 제공하기로 한 그 계획은 정보와 세부 사항의 기록을 만들었고, 그 문서 제공이 검증과 참조를 가능하게 했지만, 그 문서화는 조직과 정확성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The commitment to furnish accommodation that was established in the program created housing and living spaces for participants, with the provision of facilities enabling comfort and functionality, though the accommodation would require maintenance and management.",
+            "meaning_ko": "그 프로그램에서 확립되었던 그 숙소를 제공하기로 한 그 헌신은 참가자들을 위한 주거와 생활 공간을 만들었고, 그 시설 제공이 편안함과 기능성을 가능하게 했지만, 그 숙소는 유지보수와 관리를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "furnish는 '제공하다, 공급하다' 또는 '가구를 배치하다, 장식하다' 의미로, 제공하거나 공급하는 행동을 가리킵니다. provide, supply와 비슷하지만 더 공식적 뉘앙스가 있습니다. furnish with ~, furnish information 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: furnish = (A) deprive (B) provide or supply (C) remove (D) take",
+            "a": "B",
+            "meaning_ko": "furnish는 '제공하다 또는 공급하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They _____ the room.",
+            "a": "furnished",
+            "meaning_ko": "furnish는 '가구로 채우다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of furnish? (A) provide (B) supply (C) deprive (D) equip",
+            "a": "C",
+            "meaning_ko": "deprive(박탈하다)가 furnish의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: furnish _____ information. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "furnish with ~는 '~로 제공하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: furnish = (A) deprive (B) provide (C) remove (D) take",
+            "a": "B",
+            "meaning_ko": "provide(제공하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She furnished the room at furniture.' → Fix the preposition.",
+            "a": "She furnished the room with furniture.",
+            "meaning_ko": "furnish with ~는 '~로 제공하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They furnished the room.'",
+            "a": "They provided and equipped the space with furniture and decorations, with their furnishing creating a comfortable and functional area, though the furnishing would require planning and selection.",
+            "meaning_ko": "furnish는 '가구로 채우다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He _____ the apartment. (A) furnish (B) furnishes (C) furnished (D) furnishing",
+            "a": "C",
+            "meaning_ko": "과거형 furnished가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses furnish most appropriately? (A) The furnish ran. (B) They furnished the room. (C) She furnish smiled. (D) Furnish is good.",
+            "a": "B",
+            "meaning_ko": "furnish는 타동사로 '가구로 채우다'를 의미하며, 목적어와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

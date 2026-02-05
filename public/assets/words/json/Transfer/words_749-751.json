@@ -1,0 +1,826 @@
+[
+  {
+    "word": "qualify",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "자격을 갖추다, 자격을 얻다; 자격을 갖추거나 자격을 얻다.",
+        "note": "자격을 갖추거나 자격을 얻는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "수식하다, 한정하다; 수식하거나 한정하다.",
+        "note": "수식하거나 한정하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "자격을 갖추거나 자격을 얻는 것, 또는 수식하거나 한정하는 것.",
+    "etymology": "라틴어 qualificare(자격을 주다)에서 유래했으며, qualis(어떤) + facere(만들다)의 조합입니다.",
+    "semanticExtension": "원래는 '자격을 주다' 의미였고, 현대에는 '자격을 갖추거나 자격을 얻다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사와 자동사로 모두 사용되며, qualify + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "for",
+        "meaning_ko": "~을 위해 자격을 얻다",
+        "example": "qualify for"
+      },
+      {
+        "prep": "as",
+        "meaning_ko": "~로서 자격을 갖추다",
+        "example": "qualify as"
+      }
+    ],
+    "requiredComplements": [
+      "qualify : 자격을 갖추다/자격을 얻다",
+      "qualify + 명사 : ~을 수식하다",
+      "qualify for + 명사 : ~을 위해 자격을 얻다",
+      "qualify as + 명사 : ~로서 자격을 갖추다"
+    ],
+    "morphology": "라틴어 qualificare에서 유래한 단어로, qualis(어떤) + facere(만들다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "qualified",
+        "meaning_ko": "자격을 갖춘(과거분사/형용사)"
+      },
+      {
+        "word": "qualifying",
+        "meaning_ko": "자격을 얻는(현재분사/형용사)"
+      },
+      {
+        "word": "qualification",
+        "meaning_ko": "자격"
+      }
+    ],
+    "related": [
+      {
+        "word": "certify",
+        "meaning_ko": "인증하다"
+      },
+      {
+        "word": "entitle",
+        "meaning_ko": "자격을 주다"
+      },
+      {
+        "word": "modify",
+        "meaning_ko": "수식하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "certify",
+        "meaning_ko": "인증하다"
+      },
+      {
+        "word": "entitle",
+        "meaning_ko": "자격을 주다"
+      },
+      {
+        "word": "modify",
+        "meaning_ko": "수식하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "authorize",
+        "meaning_ko": "승인하다(범위가 더 넓음)"
+      },
+      {
+        "word": "limit",
+        "meaning_ko": "제한하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "disqualify",
+        "meaning_ko": "자격을 박탈하다"
+      },
+      {
+        "word": "exclude",
+        "meaning_ko": "제외하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "qualify for",
+            "meaning_ko": "~을 위해 자격을 얻다"
+          },
+          {
+            "phrase": "qualify as",
+            "meaning_ko": "~로서 자격을 갖추다"
+          },
+          {
+            "phrase": "qualify the statement",
+            "meaning_ko": "그 성명을 수식하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "qualify for the position",
+            "meaning_ko": "그 직위를 위해 자격을 얻다"
+          },
+          {
+            "phrase": "qualify as a teacher",
+            "meaning_ko": "교사로서 자격을 갖추다"
+          },
+          {
+            "phrase": "qualify the claim",
+            "meaning_ko": "그 주장을 수식하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "qualify for the competition",
+            "meaning_ko": "그 경쟁을 위해 자격을 얻다"
+          },
+          {
+            "phrase": "qualify as a professional",
+            "meaning_ko": "전문가로서 자격을 갖추다"
+          },
+          {
+            "phrase": "qualify the argument",
+            "meaning_ko": "그 논증을 수식하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He qualified for the position.",
+            "meaning_ko": "그는 그 직위를 위해 자격을 얻었습니다."
+          },
+          {
+            "sentence": "She qualified as a teacher.",
+            "meaning_ko": "그녀는 교사로서 자격을 갖췄습니다."
+          },
+          {
+            "sentence": "They qualified the statement.",
+            "meaning_ko": "그들은 그 성명을 수식했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He qualified for the position, with his skills and experience creating eligibility and suitability, though the qualification would require verification and approval.",
+            "meaning_ko": "그는 그 직위를 위해 자격을 얻었고, 그의 기술과 경험이 자격과 적합성을 만들었지만, 그 자격은 검증과 승인을 요구할 것입니다."
+          },
+          {
+            "sentence": "She qualified as a teacher, with her education and training providing certification and authorization, though the qualification would require ongoing development and improvement.",
+            "meaning_ko": "그녀는 교사로서 자격을 갖췄고, 그녀의 교육과 훈련이 인증과 승인을 제공했지만, 그 자격은 지속적인 발전과 개선을 요구할 것입니다."
+          },
+          {
+            "sentence": "They qualified the statement, with their modification and limitation creating nuance and precision, though the qualification would require careful consideration and clarity.",
+            "meaning_ko": "그들은 그 성명을 수식했고, 그들의 수정과 제한이 뉘앙스와 정확성을 만들었지만, 그 수식은 신중한 고려와 명확성을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to qualify for the competition that was made in the process created opportunities for participation and advancement, with the eligibility enabling access to higher levels and challenges, though the qualification would require meeting standards and requirements.",
+            "meaning_ko": "그 과정에서 내려졌던 그 경쟁을 위해 자격을 얻기로 한 그 결정은 참여와 발전을 위한 기회를 만들었고, 그 자격이 더 높은 수준과 도전에 대한 접근을 가능하게 했지만, 그 자격은 기준과 요구사항을 충족하는 것을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to qualify as a professional that was completed in the training created certification and recognition, with the qualification providing credibility and opportunities, though the professional status would require maintaining standards and continuing education.",
+            "meaning_ko": "그 훈련에서 완료되었던 그 전문가로서 자격을 갖추기 위한 그 노력은 인증과 인정을 만들었고, 그 자격이 신뢰성과 기회를 제공했지만, 그 전문가 지위는 기준을 유지하고 지속적인 교육을 요구할 것입니다."
+          },
+          {
+            "sentence": "The work to qualify the argument that was undertaken in the analysis created precision and nuance in the reasoning, with the modification providing clarity and avoiding oversimplification, though the qualification would need to be balanced and well-supported.",
+            "meaning_ko": "그 분석에서 착수되었던 그 논증을 수식하기 위한 그 작업은 그 추론에서 정확성과 뉘앙스를 만들었고, 그 수정이 명확성을 제공하고 과도한 단순화를 피했지만, 그 수식은 균형 잡히고 잘 뒷받침될 필요가 있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "qualify는 '자격을 갖추다, 자격을 얻다' 또는 '수식하다, 한정하다' 의미로, 자격을 갖추거나 자격을 얻는 행동을 가리킵니다. certify, modify와 비슷하지만 더 일반적 뉘앙스가 있습니다. qualify for ~, qualify as ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: qualify = (A) disqualify (B) certify or modify (C) exclude (D) reject",
+            "a": "B",
+            "meaning_ko": "qualify는 '인증하다 또는 수식하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ for the position.",
+            "a": "qualified",
+            "meaning_ko": "qualify는 '자격을 얻다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of qualify? (A) certify (B) entitle (C) disqualify (D) modify",
+            "a": "C",
+            "meaning_ko": "disqualify(자격을 박탈하다)가 qualify의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: qualify _____ the position. (A) for (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "qualify for ~는 '~을 위해 자격을 얻다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: qualify = (A) disqualify (B) certify (C) exclude (D) reject",
+            "a": "B",
+            "meaning_ko": "certify(인증하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She qualified at a teacher.' → Fix the preposition.",
+            "a": "She qualified as a teacher.",
+            "meaning_ko": "qualify as ~는 '~로서 자격을 갖추다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He qualified for the position.'",
+            "a": "He met the requirements and gained eligibility for the role, with his skills and experience creating suitability, though the qualification would require verification.",
+            "meaning_ko": "qualify는 '자격을 얻다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the statement. (A) qualify (B) qualifies (C) qualified (D) qualifying",
+            "a": "C",
+            "meaning_ko": "과거형 qualified가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses qualify most appropriately? (A) The qualify ran. (B) He qualified for the position. (C) She qualify smiled. (D) Qualify is good.",
+            "a": "B",
+            "meaning_ko": "qualify는 동사로 '자격을 얻다'를 의미하며, qualify for ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "generic",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "일반적인, 포괄적인; 일반적이거나 포괄적인.",
+        "note": "일반적이거나 포괄적인 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "상표 없는, 일반 상표의; 상표가 없거나 일반 상표의.",
+        "note": "상표가 없거나 일반 상표의 상태를 가리킵니다."
+      }
+    ],
+    "concept": "일반적이거나 포괄적인 상태, 또는 상표가 없거나 일반 상표의 상태.",
+    "etymology": "라틴어 genericus(종류의)에서 유래했으며, genus(종류)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '종류의' 의미였고, 현대에는 '일반적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be generic 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서 일반적인",
+        "example": "generic in"
+      }
+    ],
+    "requiredComplements": [
+      "be generic : 일반적이다",
+      "generic + 명사 : 일반적인 ~",
+      "generic in + 명사 : ~에서 일반적인"
+    ],
+    "morphology": "라틴어 genericus에서 유래한 단어로, genus(종류)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "generically",
+        "meaning_ko": "일반적으로"
+      },
+      {
+        "word": "genericity",
+        "meaning_ko": "일반성"
+      },
+      {
+        "word": "genera",
+        "meaning_ko": "종류들(복수형)"
+      }
+    ],
+    "related": [
+      {
+        "word": "general",
+        "meaning_ko": "일반적인"
+      },
+      {
+        "word": "common",
+        "meaning_ko": "공통의"
+      },
+      {
+        "word": "universal",
+        "meaning_ko": "보편적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "general",
+        "meaning_ko": "일반적인"
+      },
+      {
+        "word": "common",
+        "meaning_ko": "공통의"
+      },
+      {
+        "word": "universal",
+        "meaning_ko": "보편적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "universal",
+        "meaning_ko": "보편적인(범위가 더 넓음)"
+      },
+      {
+        "word": "standard",
+        "meaning_ko": "표준의"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "specific",
+        "meaning_ko": "구체적인"
+      },
+      {
+        "word": "particular",
+        "meaning_ko": "특정한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "generic in",
+            "meaning_ko": "~에서 일반적인"
+          },
+          {
+            "phrase": "generic name",
+            "meaning_ko": "일반적인 이름"
+          },
+          {
+            "phrase": "generic product",
+            "meaning_ko": "일반 상표 제품"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "generic term",
+            "meaning_ko": "일반적인 용어"
+          },
+          {
+            "phrase": "generic brand",
+            "meaning_ko": "일반 상표"
+          },
+          {
+            "phrase": "generic description",
+            "meaning_ko": "일반적인 설명"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "generic category",
+            "meaning_ko": "일반적인 범주"
+          },
+          {
+            "phrase": "generic medication",
+            "meaning_ko": "일반 의약품"
+          },
+          {
+            "phrase": "generic approach",
+            "meaning_ko": "일반적인 접근"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "It was a generic term.",
+            "meaning_ko": "그것은 일반적인 용어였습니다."
+          },
+          {
+            "sentence": "She bought a generic product.",
+            "meaning_ko": "그녀는 일반 상표 제품을 샀습니다."
+          },
+          {
+            "sentence": "He used a generic name.",
+            "meaning_ko": "그는 일반적인 이름을 사용했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "It was a generic term, with the general and common word creating broad application and understanding, though the generic usage would require specificity and precision.",
+            "meaning_ko": "그것은 일반적인 용어였고, 그 일반적이고 공통의 단어가 넓은 적용과 이해를 만들었지만, 그 일반적 사용은 구체성과 정확성을 요구할 것입니다."
+          },
+          {
+            "sentence": "She bought a generic product, with the common and standard item providing affordability and accessibility, though the generic choice would require quality and reliability.",
+            "meaning_ko": "그녀는 일반 상표 제품을 샀고, 그 공통적이고 표준의 제품이 경제성과 접근성을 제공했지만, 그 일반적 선택은 품질과 신뢰성을 요구할 것입니다."
+          },
+          {
+            "sentence": "He used a generic name, with the general and universal term creating simplicity and clarity, though the generic designation would need to be specific and meaningful.",
+            "meaning_ko": "그는 일반적인 이름을 사용했고, 그 일반적이고 보편적인 용어가 단순성과 명확성을 만들었지만, 그 일반적 지정은 구체적이고 의미 있게 될 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The generic category that was used in the classification created a broad and inclusive framework, with the general term enabling comprehensive understanding and application, though the generic classification would require refinement and specificity for detailed analysis.",
+            "meaning_ko": "그 분류에서 사용되었던 그 일반적인 범주는 넓고 포괄적인 틀을 만들었고, 그 일반적인 용어가 포괄적인 이해와 적용을 가능하게 했지만, 그 일반적 분류는 상세한 분석을 위해 정제와 구체성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The generic medication that was prescribed in the treatment created an affordable and accessible option, with the common drug providing the same therapeutic benefits as brand-name versions, though the generic alternative would require quality assurance and regulatory approval.",
+            "meaning_ko": "그 치료에서 처방되었던 그 일반 의약품은 경제적이고 접근 가능한 옵션을 만들었고, 그 공통 약물이 브랜드명 버전과 동일한 치료적 이점을 제공했지만, 그 일반적 대안은 품질 보증과 규제 승인을 요구할 것입니다."
+          },
+          {
+            "sentence": "The generic approach that was adopted in the strategy created a one-size-fits-all solution, with the general method providing broad applicability and simplicity, though the generic strategy would need to be customized and adapted for specific contexts and needs.",
+            "meaning_ko": "그 전략에서 채택되었던 그 일반적인 접근은 일률적인 해결책을 만들었고, 그 일반적인 방법이 넓은 적용 가능성과 단순성을 제공했지만, 그 일반적 전략은 특정 맥락과 필요에 맞게 맞춤화되고 적응될 필요가 있을 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "generic은 '일반적인, 포괄적인' 또는 '상표 없는, 일반 상표의' 의미로, 일반적이거나 포괄적인 상태를 가리킵니다. general, common과 비슷하지만 더 포괄적 뉘앙스가 있습니다. generic in ~, generic name 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: generic = (A) specific (B) general or common (C) particular (D) unique",
+            "a": "B",
+            "meaning_ko": "generic은 '일반적인 또는 공통의' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: It was a _____ term.",
+            "a": "generic",
+            "meaning_ko": "generic은 '일반적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of generic? (A) general (B) common (C) specific (D) universal",
+            "a": "C",
+            "meaning_ko": "specific(구체적인)가 generic의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: generic _____ term. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "generic in ~는 '~에서 일반적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: generic = (A) specific (B) general (C) particular (D) unique",
+            "a": "B",
+            "meaning_ko": "general(일반적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She bought a generic at product.' → Fix the preposition.",
+            "a": "She bought a generic product.",
+            "meaning_ko": "generic은 직접 명사를 수식하므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'It was a generic term.'",
+            "a": "It was a general and common word, with the generic designation creating broad application and understanding, though the term would require specificity and precision.",
+            "meaning_ko": "generic은 '일반적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: He used a _____ name. (A) generic (B) generically (C) genericity (D) generic's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 generic이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses generic most appropriately? (A) The generic ran. (B) It was a generic term. (C) She generic smiled. (D) Generic is good.",
+            "a": "B",
+            "meaning_ko": "generic은 형용사로 '일반적인'을 의미하며, 명사를 수식할 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "sanguine",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "낙관적인, 쾌활한; 낙관적이거나 쾌활한.",
+        "note": "낙관적이거나 쾌활한 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "혈색이 좋은, 붉은; 혈색이 좋거나 붉은.",
+        "note": "혈색이 좋거나 붉은 상태를 가리킵니다."
+      }
+    ],
+    "concept": "낙관적이거나 쾌활한 상태, 또는 혈색이 좋거나 붉은 상태.",
+    "etymology": "라틴어 sanguineus(혈색이 좋은)에서 유래했으며, sanguis(피)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '혈색이 좋은' 의미였고, 현대에는 '낙관적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be sanguine 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "about",
+        "meaning_ko": "~에 대해 낙관적인",
+        "example": "sanguine about"
+      }
+    ],
+    "requiredComplements": [
+      "be sanguine : 낙관적이다",
+      "sanguine + 명사 : 낙관적인 ~",
+      "sanguine about + 명사 : ~에 대해 낙관적인"
+    ],
+    "morphology": "라틴어 sanguineus에서 유래한 단어로, sanguis(피)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "sanguinely",
+        "meaning_ko": "낙관적으로"
+      },
+      {
+        "word": "sanguineness",
+        "meaning_ko": "낙관성"
+      }
+    ],
+    "related": [
+      {
+        "word": "optimistic",
+        "meaning_ko": "낙관적인"
+      },
+      {
+        "word": "cheerful",
+        "meaning_ko": "쾌활한"
+      },
+      {
+        "word": "hopeful",
+        "meaning_ko": "희망적인"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "optimistic",
+        "meaning_ko": "낙관적인"
+      },
+      {
+        "word": "cheerful",
+        "meaning_ko": "쾌활한"
+      },
+      {
+        "word": "hopeful",
+        "meaning_ko": "희망적인"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "confident",
+        "meaning_ko": "자신 있는(범위가 더 넓음)"
+      },
+      {
+        "word": "buoyant",
+        "meaning_ko": "낙천적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "pessimistic",
+        "meaning_ko": "비관적인"
+      },
+      {
+        "word": "gloomy",
+        "meaning_ko": "우울한"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "sanguine about",
+            "meaning_ko": "~에 대해 낙관적인"
+          },
+          {
+            "phrase": "sanguine outlook",
+            "meaning_ko": "낙관적인 전망"
+          },
+          {
+            "phrase": "sanguine attitude",
+            "meaning_ko": "낙관적인 태도"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "sanguine about the future",
+            "meaning_ko": "미래에 대해 낙관적인"
+          },
+          {
+            "phrase": "sanguine about prospects",
+            "meaning_ko": "전망에 대해 낙관적인"
+          },
+          {
+            "phrase": "sanguine disposition",
+            "meaning_ko": "낙관적인 성향"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "sanguine about the outcome",
+            "meaning_ko": "결과에 대해 낙관적인"
+          },
+          {
+            "phrase": "sanguine about the chances",
+            "meaning_ko": "기회에 대해 낙관적인"
+          },
+          {
+            "phrase": "sanguine temperament",
+            "meaning_ko": "낙관적인 기질"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He was sanguine about the future.",
+            "meaning_ko": "그는 미래에 대해 낙관적이었습니다."
+          },
+          {
+            "sentence": "She had a sanguine outlook.",
+            "meaning_ko": "그녀는 낙관적인 전망을 가지고 있었습니다."
+          },
+          {
+            "sentence": "They showed a sanguine attitude.",
+            "meaning_ko": "그들은 낙관적인 태도를 보였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He was sanguine about the future, with his optimistic and hopeful outlook creating confidence and expectation, though the sanguine perspective would require realism and preparation.",
+            "meaning_ko": "그는 미래에 대해 낙관적이었고, 그의 낙관적이고 희망적인 전망이 자신감과 기대를 만들었지만, 그 낙관적 관점은 현실주의와 준비를 요구할 것입니다."
+          },
+          {
+            "sentence": "She had a sanguine outlook, with her cheerful and positive attitude creating resilience and motivation, though the sanguine disposition would require balance and awareness.",
+            "meaning_ko": "그녀는 낙관적인 전망을 가지고 있었고, 그녀의 쾌활하고 긍정적인 태도가 회복력과 동기를 만들었지만, 그 낙관적 성향은 균형과 인식을 요구할 것입니다."
+          },
+          {
+            "sentence": "They showed a sanguine attitude, with their optimistic and confident approach creating enthusiasm and determination, though the sanguine behavior would need to be grounded and practical.",
+            "meaning_ko": "그들은 낙관적인 태도를 보였고, 그들의 낙관적이고 자신 있는 접근이 열정과 결심을 만들었지만, 그 낙관적 행동은 근거 있고 실용적일 필요가 있을 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The sanguine outlook about the outcome that was expressed in the discussion created confidence and positive expectations, with the optimistic perspective enabling resilience and determination, though the sanguine attitude would require realistic assessment and contingency planning.",
+            "meaning_ko": "그 토론에서 표현되었던 그 결과에 대한 그 낙관적 전망은 자신감과 긍정적 기대를 만들었고, 그 낙관적 관점이 회복력과 결심을 가능하게 했지만, 그 낙관적 태도는 현실적인 평가와 비상 계획을 요구할 것입니다."
+          },
+          {
+            "sentence": "The sanguine disposition about the chances that was demonstrated in the approach created enthusiasm and motivation, with the optimistic temperament providing strength and perseverance, though the sanguine outlook would need to be balanced with caution and preparation.",
+            "meaning_ko": "그 접근에서 입증되었던 그 기회에 대한 그 낙관적 성향은 열정과 동기를 만들었고, 그 낙관적 기질이 힘과 인내를 제공했지만, 그 낙관적 전망은 신중함과 준비와 균형을 맞출 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The sanguine temperament that was evident in the response created a positive and hopeful atmosphere, with the cheerful attitude enabling effective problem-solving and collaboration, though the sanguine perspective would require maintaining optimism while addressing challenges realistically.",
+            "meaning_ko": "그 응답에서 명백했던 그 낙관적 기질은 긍정적이고 희망적인 분위기를 만들었고, 그 쾌활한 태도가 효과적인 문제 해결과 협력을 가능하게 했지만, 그 낙관적 관점은 도전을 현실적으로 다루면서 낙관주의를 유지하는 것을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "sanguine은 '낙관적인, 쾌활한' 또는 '혈색이 좋은, 붉은' 의미로, 낙관적이거나 쾌활한 상태를 가리킵니다. optimistic, cheerful과 비슷하지만 더 문어적 뉘앙스가 있습니다. sanguine about ~, sanguine outlook 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "긍정"
+    ],
+    "frequency": "하",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: sanguine = (A) pessimistic (B) optimistic or cheerful (C) gloomy (D) sad",
+            "a": "B",
+            "meaning_ko": "sanguine은 '낙관적인 또는 쾌활한' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He was _____ about the future.",
+            "a": "sanguine",
+            "meaning_ko": "sanguine은 '낙관적인' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of sanguine? (A) optimistic (B) cheerful (C) pessimistic (D) hopeful",
+            "a": "C",
+            "meaning_ko": "pessimistic(비관적인)가 sanguine의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: sanguine _____ the future. (A) about (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "sanguine about ~는 '~에 대해 낙관적인' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: sanguine = (A) pessimistic (B) optimistic (C) gloomy (D) sad",
+            "a": "B",
+            "meaning_ko": "optimistic(낙관적인)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She had a sanguine at outlook.' → Fix the preposition.",
+            "a": "She had a sanguine outlook.",
+            "meaning_ko": "sanguine은 직접 명사를 수식하므로 전치사가 필요 없습니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He was sanguine about the future.'",
+            "a": "He was optimistic and hopeful regarding what lies ahead, with his sanguine perspective creating confidence and positive expectations, though the outlook would require realism and preparation.",
+            "meaning_ko": "sanguine은 '낙관적인' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They showed a _____ attitude. (A) sanguine (B) sanguinely (C) sanguineness (D) sanguine's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 sanguine이 필요합니다."
+          },
+          {
+            "q": "Which sentence uses sanguine most appropriately? (A) The sanguine ran. (B) He was sanguine about the future. (C) She sanguine smiled. (D) Sanguine is good.",
+            "a": "B",
+            "meaning_ko": "sanguine은 형용사로 '낙관적인'을 의미하며, sanguine about ~와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

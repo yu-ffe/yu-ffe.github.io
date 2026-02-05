@@ -1,0 +1,820 @@
+[
+  {
+    "word": "internal",
+    "partOfSpeech": [
+      "adjective"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "내부의, 안쪽의; 내부에 있거나 안쪽에 있는.",
+        "note": "내부에 있거나 안쪽에 있는 상태를 가리킵니다."
+      },
+      {
+        "definition_ko": "내적인, 정신적인; 내적이거나 정신적인.",
+        "note": "내적이거나 정신적인 상태를 가리킵니다."
+      }
+    ],
+    "concept": "내부에 있거나 안쪽에 있는 상태, 또는 내적이거나 정신적인 상태.",
+    "etymology": "라틴어 internus(내부의)에서 유래했으며, inter(사이)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '내부의' 의미였고, 현대에는 '내적이거나 정신적인'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 명사를 수식하거나 서술어로 쓰이며, be internal 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "to",
+        "meaning_ko": "~에 내부의",
+        "example": "internal to"
+      }
+    ],
+    "requiredComplements": [
+      "be internal : 내부적이다",
+      "internal + 명사 : 내부의 ~",
+      "internal to + 명사 : ~에 내부의"
+    ],
+    "morphology": "라틴어 internus에서 유래한 단어로, inter(사이)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "internally",
+        "meaning_ko": "내부적으로"
+      },
+      {
+        "word": "internalize",
+        "meaning_ko": "내면화하다"
+      },
+      {
+        "word": "internalization",
+        "meaning_ko": "내면화"
+      }
+    ],
+    "related": [
+      {
+        "word": "inner",
+        "meaning_ko": "내부의"
+      },
+      {
+        "word": "inside",
+        "meaning_ko": "안쪽의"
+      },
+      {
+        "word": "interior",
+        "meaning_ko": "내부의"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "inner",
+        "meaning_ko": "내부의"
+      },
+      {
+        "word": "inside",
+        "meaning_ko": "안쪽의"
+      },
+      {
+        "word": "interior",
+        "meaning_ko": "내부의"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "domestic",
+        "meaning_ko": "국내의(범위가 더 넓음)"
+      },
+      {
+        "word": "inward",
+        "meaning_ko": "내향적인"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "external",
+        "meaning_ko": "외부의"
+      },
+      {
+        "word": "outer",
+        "meaning_ko": "외부의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "internal to",
+            "meaning_ko": "~에 내부의"
+          },
+          {
+            "phrase": "internal structure",
+            "meaning_ko": "내부 구조"
+          },
+          {
+            "phrase": "internal conflict",
+            "meaning_ko": "내부 갈등"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "internal affairs",
+            "meaning_ko": "내부 사무"
+          },
+          {
+            "phrase": "internal medicine",
+            "meaning_ko": "내과"
+          },
+          {
+            "phrase": "internal communication",
+            "meaning_ko": "내부 소통"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "internal mechanism",
+            "meaning_ko": "내부 메커니즘"
+          },
+          {
+            "phrase": "internal process",
+            "meaning_ko": "내부 과정"
+          },
+          {
+            "phrase": "internal dynamics",
+            "meaning_ko": "내부 역학"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The structure was internal.",
+            "meaning_ko": "그 구조는 내부적이었습니다."
+          },
+          {
+            "sentence": "She had internal conflicts.",
+            "meaning_ko": "그녀는 내부 갈등을 가지고 있었습니다."
+          },
+          {
+            "sentence": "They discussed internal affairs.",
+            "meaning_ko": "그들은 내부 사무를 논의했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The structure was internal, with the inner organization creating a framework for function and operation, though the internal design would affect how the system worked.",
+            "meaning_ko": "그 구조는 내부적이었고, 그 내부 조직이 기능과 운영을 위한 틀을 만들었지만, 그 내부 설계는 그 체제가 어떻게 작동했는지에 영향을 줄 것입니다."
+          },
+          {
+            "sentence": "She had internal conflicts, with her inner struggles creating tension and difficulty, though the internal battles would require resolution and understanding.",
+            "meaning_ko": "그녀는 내부 갈등을 가지고 있었고, 그녀의 내적 투쟁이 긴장과 어려움을 만들었지만, 그 내부 전투는 해결과 이해를 요구할 것입니다."
+          },
+          {
+            "sentence": "They discussed internal affairs, with their focus on domestic matters creating a sense of organization and management, though the internal issues would require attention and resolution.",
+            "meaning_ko": "그들은 내부 사무를 논의했고, 그들의 국내 문제에 대한 초점이 조직과 관리의 감각을 만들었지만, 그 내부 문제는 주의와 해결을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The internal mechanism that was functioning in the system created a complex process of operation and interaction, with the inner workings enabling the system to perform its functions, though understanding the internal dynamics would require analysis and study.",
+            "meaning_ko": "그 체제에서 작동하고 있던 그 내부 메커니즘은 운영과 상호작용의 복잡한 과정을 만들었고, 그 내부 작동이 그 체제가 그 기능을 수행하는 것을 가능하게 했지만, 그 내부 역학을 이해하는 것은 분석과 연구를 요구할 것입니다."
+          },
+          {
+            "sentence": "The internal process that was occurring in the organization created a framework for decision-making and operation, with the inner dynamics affecting how things were managed and executed, though optimizing the internal functioning would require evaluation and improvement.",
+            "meaning_ko": "그 조직에서 발생하고 있던 그 내부 과정은 의사 결정과 운영을 위한 틀을 만들었고, 그 내부 역학이 사물이 어떻게 관리되고 실행되었는지에 영향을 주었지만, 그 내부 기능을 최적화하는 것은 평가와 개선을 요구할 것입니다."
+          },
+          {
+            "sentence": "The internal dynamics that were at play in the relationship created a complex interaction of forces and influences, with the inner workings affecting how the relationship developed and functioned, though understanding the internal mechanisms would require insight and awareness.",
+            "meaning_ko": "그 관계에서 작용하고 있던 그 내부 역학은 힘과 영향의 복잡한 상호작용을 만들었고, 그 내부 작동이 그 관계가 어떻게 발전하고 기능했는지에 영향을 주었지만, 그 내부 메커니즘을 이해하는 것은 통찰과 인식을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "internal는 '내부의, 안쪽의' 또는 '내적인, 정신적인' 의미로, 내부에 있거나 안쪽에 있는 상태를 가리킵니다. inner, inside와 비슷하지만 더 공식적 뉘앙스가 있습니다. internal to ~, internal structure 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: internal = (A) external (B) inner or inside (C) outer (D) outside",
+            "a": "B",
+            "meaning_ko": "internal는 '내부의 또는 안쪽의' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The structure was _____.",
+            "a": "internal",
+            "meaning_ko": "internal는 '내부의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of internal? (A) inner (B) inside (C) external (D) interior",
+            "a": "C",
+            "meaning_ko": "external(외부의)가 internal의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: internal _____ structure. (A) to (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "internal to ~는 '~에 내부의' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: internal = (A) external (B) inner (C) outer (D) outside",
+            "a": "B",
+            "meaning_ko": "inner(내부의)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'The mechanism was internal at the system.' → Fix the preposition.",
+            "a": "The mechanism was internal to the system.",
+            "meaning_ko": "internal to ~는 '~에 내부의' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The structure was internal.'",
+            "a": "The organization was inner and inside, with the interior design creating a framework for function and operation, though the internal structure would affect how the system worked.",
+            "meaning_ko": "internal는 '내부의' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: She had _____ conflicts. (A) internal (B) internally (C) internalize (D) internal's",
+            "a": "A",
+            "meaning_ko": "명사를 수식하는 형용사 internal가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses internal most appropriately? (A) The internal ran. (B) The structure was internal. (C) She internal smiled. (D) Internal is good.",
+            "a": "B",
+            "meaning_ko": "internal는 형용사로 '내부의'를 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "aim",
+    "partOfSpeech": [
+      "noun",
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "목표, 목적; 달성하려는 목표나 목적.",
+        "note": "달성하려는 목표나 목적을 가리킵니다."
+      },
+      {
+        "definition_ko": "목표로 하다, 겨누다; 목표로 하거나 겨누다.",
+        "note": "목표로 하거나 겨누는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "달성하려는 목표나 목적인 목표, 또는 목표로 하거나 겨누는 것.",
+    "etymology": "라틴어 aestimare(추정하다)에서 유래했으며, 원래는 '추정하다' 의미였고 현대에는 '목표'로 의미가 확장되었습니다.",
+    "semanticExtension": "원래는 '추정하다' 의미였고, 현대에는 '목표로 하거나 겨누다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "명사로는 가산명사로 자주 사용되며, aim 형태로 자주 사용됩니다. 동사로는 타동사와 자동사로 모두 사용되며, aim + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "자동사·타동사 모두(동사)",
+    "countability": "가산명사(명사)",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~을 목표로 하다",
+        "example": "aim at"
+      },
+      {
+        "prep": "for",
+        "meaning_ko": "~을 목표로 하다",
+        "example": "aim for"
+      }
+    ],
+    "requiredComplements": [
+      "aim : 목표/목표로 하다",
+      "aim at + 명사 : ~을 목표로 하다",
+      "aim for + 명사 : ~을 목표로 하다"
+    ],
+    "morphology": "라틴어 aestimare에서 유래한 단어로, 현대 영어에서는 단일 단어로 암기하는 편이 실용적입니다.",
+    "derivatives": [
+      {
+        "word": "aimed",
+        "meaning_ko": "목표로 한(과거분사/형용사)"
+      },
+      {
+        "word": "aiming",
+        "meaning_ko": "목표로 하는(현재분사/형용사)"
+      },
+      {
+        "word": "aimless",
+        "meaning_ko": "목표 없는"
+      }
+    ],
+    "related": [
+      {
+        "word": "goal",
+        "meaning_ko": "목표"
+      },
+      {
+        "word": "target",
+        "meaning_ko": "목표"
+      },
+      {
+        "word": "objective",
+        "meaning_ko": "목표"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "goal",
+        "meaning_ko": "목표"
+      },
+      {
+        "word": "target",
+        "meaning_ko": "목표"
+      },
+      {
+        "word": "objective",
+        "meaning_ko": "목표"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "purpose",
+        "meaning_ko": "목적(범위가 더 넓음)"
+      },
+      {
+        "word": "intention",
+        "meaning_ko": "의도"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "aimlessness",
+        "meaning_ko": "목표 없음"
+      },
+      {
+        "word": "randomness",
+        "meaning_ko": "무작위성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "aim at",
+            "meaning_ko": "~을 목표로 하다"
+          },
+          {
+            "phrase": "aim for",
+            "meaning_ko": "~을 목표로 하다"
+          },
+          {
+            "phrase": "main aim",
+            "meaning_ko": "주요 목표"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "aim at target",
+            "meaning_ko": "목표를 겨누다"
+          },
+          {
+            "phrase": "aim for success",
+            "meaning_ko": "성공을 목표로 하다"
+          },
+          {
+            "phrase": "aim of study",
+            "meaning_ko": "연구의 목표"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "aim at improvement",
+            "meaning_ko": "개선을 목표로 하다"
+          },
+          {
+            "phrase": "aim for excellence",
+            "meaning_ko": "우수성을 목표로 하다"
+          },
+          {
+            "phrase": "aim of research",
+            "meaning_ko": "연구의 목표"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "The aim was clear.",
+            "meaning_ko": "그 목표는 명확했습니다."
+          },
+          {
+            "sentence": "She aimed at the target.",
+            "meaning_ko": "그녀는 그 목표를 겨눴습니다."
+          },
+          {
+            "sentence": "They aimed for success.",
+            "meaning_ko": "그들은 성공을 목표로 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "The aim was clear, with the objective providing direction and purpose, though achieving the goal would require effort and commitment.",
+            "meaning_ko": "그 목표는 명확했고, 그 목적이 방향과 목적을 제공했지만, 그 목표를 달성하는 것은 노력과 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "She aimed at the target, with her focus and precision creating accuracy and effectiveness, though hitting the mark would require skill and practice.",
+            "meaning_ko": "그녀는 그 목표를 겨눴고, 그녀의 초점과 정밀함이 정확성과 효과를 만들었지만, 그 표적을 맞추는 것은 기술과 연습을 요구할 것입니다."
+          },
+          {
+            "sentence": "They aimed for success, with their goal-oriented approach creating motivation and determination, though reaching the objective would require planning and execution.",
+            "meaning_ko": "그들은 성공을 목표로 했고, 그들의 목표 지향적 접근이 동기와 결심을 만들었지만, 그 목적에 도달하는 것은 계획과 실행을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The aim at improvement that was established in the organization created a framework for growth and development, with the objective guiding efforts and resources toward enhancement, though achieving the goal would require strategic planning and sustained commitment.",
+            "meaning_ko": "그 조직에서 확립되었던 그 개선을 목표로 하는 것은 성장과 발전을 위한 틀을 만들었고, 그 목적이 향상을 향한 노력과 자원을 안내했지만, 그 목표를 달성하는 것은 전략적 계획과 지속적인 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "The aim for excellence that was demonstrated in the work created standards for quality and performance, with the objective inspiring high achievement and continuous improvement, though reaching the goal would require dedication and excellence in execution.",
+            "meaning_ko": "그 작업에서 보여졌던 그 우수성을 목표로 하는 것은 품질과 성능에 대한 기준을 만들었고, 그 목적이 높은 성취와 지속적인 개선을 영감을 주었지만, 그 목표에 도달하는 것은 실행에서의 헌신과 우수성을 요구할 것입니다."
+          },
+          {
+            "sentence": "The aim of research that was defined in the study created a focus for investigation and inquiry, with the objective guiding the direction and scope of the work, though achieving the research goal would require methodology and systematic approach.",
+            "meaning_ko": "그 연구에서 정의되었던 그 연구의 목표는 조사와 탐구를 위한 초점을 만들었고, 그 목적이 그 작업의 방향과 범위를 안내했지만, 그 연구 목표를 달성하는 것은 방법론과 체계적 접근을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "aim는 '목표, 목적' 또는 '목표로 하다, 겨누다' 의미로, 달성하려는 목표나 목적을 가리킵니다. goal, target와 비슷하지만 더 일반적 표현입니다. aim at ~, aim for ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 2,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: aim = (A) aimlessness (B) goal or target (C) randomness (D) confusion",
+            "a": "B",
+            "meaning_ko": "aim는 '목표 또는 목표' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: The _____ was clear.",
+            "a": "aim",
+            "meaning_ko": "aim는 '목표'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of aim? (A) goal (B) target (C) aimlessness (D) objective",
+            "a": "C",
+            "meaning_ko": "aimlessness(목표 없음)가 aim의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: aim _____ target. (A) at (B) on (C) in (D) by",
+            "a": "A",
+            "meaning_ko": "aim at ~는 '~을 목표로 하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: aim = (A) aimlessness (B) goal (C) randomness (D) confusion",
+            "a": "B",
+            "meaning_ko": "goal(목표)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She aimed on the target.' → Fix the preposition.",
+            "a": "She aimed at the target.",
+            "meaning_ko": "aim at ~는 '~을 목표로 하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'The aim was clear.'",
+            "a": "The goal and objective were clear, with the target providing direction and purpose, though achieving the aim would require effort and commitment.",
+            "meaning_ko": "aim는 '목표'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ for success. (A) aim (B) aims (C) aimed (D) aiming",
+            "a": "C",
+            "meaning_ko": "과거형 aimed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses aim most appropriately? (A) The aim ran. (B) The aim was clear. (C) She aim smiled. (D) Aim is good.",
+            "a": "B",
+            "meaning_ko": "aim는 명사로 '목표'를 의미하며, 서술어로 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "creed",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "신조, 신앙 고백; 신조나 신앙 고백.",
+        "note": "신조나 신앙 고백을 가리킵니다."
+      },
+      {
+        "definition_ko": "원칙, 신념; 원칙이나 신념.",
+        "note": "원칙이나 신념을 가리킵니다."
+      }
+    ],
+    "concept": "신조나 신앙 고백인 신조, 또는 원칙이나 신념.",
+    "etymology": "라틴어 credo(나는 믿는다)에서 유래했으며, credere(믿다)에서 파생되었습니다.",
+    "semanticExtension": "원래는 '신앙 고백' 의미였고, 현대에는 '원칙이나 신념'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 종교와 철학 맥락에서 자주 쓰입니다.",
+    "grammarNotes": "가산명사로 자주 사용되며, creed 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 신조",
+        "example": "creed of"
+      }
+    ],
+    "requiredComplements": [
+      "creed : 신조/원칙",
+      "creed of + 명사 : ~의 신조"
+    ],
+    "morphology": "라틴어 credo에서 유래한 단어로, credere(믿다)에서 파생되었습니다.",
+    "derivatives": [
+      {
+        "word": "creedal",
+        "meaning_ko": "신조의"
+      }
+    ],
+    "related": [
+      {
+        "word": "belief",
+        "meaning_ko": "신념"
+      },
+      {
+        "word": "doctrine",
+        "meaning_ko": "교리"
+      },
+      {
+        "word": "faith",
+        "meaning_ko": "신앙"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "belief",
+        "meaning_ko": "신념"
+      },
+      {
+        "word": "doctrine",
+        "meaning_ko": "교리"
+      },
+      {
+        "word": "faith",
+        "meaning_ko": "신앙"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "principle",
+        "meaning_ko": "원칙(범위가 더 넓음)"
+      },
+      {
+        "word": "tenet",
+        "meaning_ko": "교리"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "doubt",
+        "meaning_ko": "의심"
+      },
+      {
+        "word": "skepticism",
+        "meaning_ko": "회의주의"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "creed of",
+            "meaning_ko": "~의 신조"
+          },
+          {
+            "phrase": "religious creed",
+            "meaning_ko": "종교적 신조"
+          },
+          {
+            "phrase": "political creed",
+            "meaning_ko": "정치적 신조"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "creed of faith",
+            "meaning_ko": "신앙의 신조"
+          },
+          {
+            "phrase": "creed of belief",
+            "meaning_ko": "신념의 신조"
+          },
+          {
+            "phrase": "moral creed",
+            "meaning_ko": "도덕적 신조"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "creed of principles",
+            "meaning_ko": "원칙의 신조"
+          },
+          {
+            "phrase": "creed of values",
+            "meaning_ko": "가치의 신조"
+          },
+          {
+            "phrase": "creed of philosophy",
+            "meaning_ko": "철학의 신조"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "They followed a religious creed.",
+            "meaning_ko": "그들은 종교적 신조를 따랐습니다."
+          },
+          {
+            "sentence": "She believed in the creed.",
+            "meaning_ko": "그녀는 그 신조를 믿었습니다."
+          },
+          {
+            "sentence": "He wrote about the creed.",
+            "meaning_ko": "그는 그 신조에 대해 썼습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "They followed a religious creed, with their adherence to the beliefs creating a foundation for their faith and practice, though the doctrine would guide their actions and decisions.",
+            "meaning_ko": "그들은 종교적 신조를 따랐고, 그들의 신념에 대한 그들의 고수함이 그들의 신앙과 실천의 기초를 만들었지만, 그 교리는 그들의 행동과 결정을 안내할 것입니다."
+          },
+          {
+            "sentence": "She believed in the creed, with her faith in the principles creating a sense of purpose and direction, though the beliefs would influence her values and behavior.",
+            "meaning_ko": "그녀는 그 신조를 믿었고, 그 원칙에 대한 그녀의 신앙이 목적과 방향의 감각을 만들었지만, 그 신념은 그녀의 가치와 행동에 영향을 줄 것입니다."
+          },
+          {
+            "sentence": "He wrote about the creed, with his analysis examining the beliefs and principles, though the doctrine would provide insight into the philosophy and values.",
+            "meaning_ko": "그는 그 신조에 대해 썼고, 그의 분석이 그 신념과 원칙을 검토했지만, 그 교리는 그 철학과 가치에 대한 통찰을 제공할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The creed of principles that was established in the organization created a framework for decision-making and behavior, with the beliefs guiding how values were applied and actions were taken, though the doctrine would require ongoing reflection and commitment.",
+            "meaning_ko": "그 조직에서 확립되었던 그 원칙의 신조는 의사 결정과 행동을 위한 틀을 만들었고, 그 신념이 가치가 어떻게 적용되고 행동이 어떻게 취해졌는지 안내했지만, 그 교리는 지속적인 성찰과 헌신을 요구할 것입니다."
+          },
+          {
+            "sentence": "The creed of values that was embraced in the community created a shared foundation for understanding and cooperation, with the beliefs providing common ground and guiding principles, though the doctrine would require dialogue and mutual respect.",
+            "meaning_ko": "그 공동체에서 받아들여졌던 그 가치의 신조는 이해와 협력을 위한 공유된 기초를 만들었고, 그 신념이 공통의 기반과 안내 원칙을 제공했지만, 그 교리는 대화와 상호 존중을 요구할 것입니다."
+          },
+          {
+            "sentence": "The creed of philosophy that was developed in the school created a framework for thinking and inquiry, with the beliefs guiding how questions were approached and answers were sought, though the doctrine would require critical examination and open discussion.",
+            "meaning_ko": "그 학교에서 발전되었던 그 철학의 신조는 사고와 탐구를 위한 틀을 만들었고, 그 신념이 질문이 어떻게 접근되고 답이 어떻게 추구되었는지 안내했지만, 그 교리는 비판적 검토와 공개적 논의를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "creed는 '신조, 신앙 고백' 또는 '원칙, 신념' 의미로, 신조나 신앙 고백을 가리킵니다. belief, doctrine와 비슷하지만 더 공식적 뉘앙스가 있습니다. creed of ~, religious creed 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "종교",
+      "철학",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 6,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: creed = (A) doubt (B) belief or doctrine (C) skepticism (D) uncertainty",
+            "a": "B",
+            "meaning_ko": "creed는 '신념 또는 교리' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: They followed a religious _____.",
+            "a": "creed",
+            "meaning_ko": "creed는 '신조'를 의미합니다."
+          },
+          {
+            "q": "Which is the opposite of creed? (A) belief (B) doctrine (C) doubt (D) faith",
+            "a": "C",
+            "meaning_ko": "doubt(의심)가 creed의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: creed _____ faith. (A) of (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "creed of ~는 '~의 신조' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: creed = (A) doubt (B) belief (C) skepticism (D) uncertainty",
+            "a": "B",
+            "meaning_ko": "belief(신념)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'They followed a creed at faith.' → Fix the preposition.",
+            "a": "They followed a creed of faith.",
+            "meaning_ko": "creed of ~는 '~의 신조' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'They followed a religious creed.'",
+            "a": "They adhered to a set of religious beliefs and doctrine, with their faith in the principles creating a foundation for their practice, though the creed would guide their actions and decisions.",
+            "meaning_ko": "creed는 '신조'를 의미합니다."
+          },
+          {
+            "q": "Choose the best fit: She believed in the _____. (A) creed (B) creeds (C) creed's (D) creedal",
+            "a": "A",
+            "meaning_ko": "명사 creed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses creed most appropriately? (A) The creed ran. (B) They followed a religious creed. (C) She creed smiled. (D) Creed is good.",
+            "a": "B",
+            "meaning_ko": "creed는 명사로 '신조'를 의미하며, follow와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

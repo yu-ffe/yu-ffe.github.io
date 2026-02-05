@@ -1,0 +1,827 @@
+[
+  {
+    "word": "nepotism",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "족벌주의, 인척 선호; 족벌주의나 인척 선호.",
+        "note": "족벌주의나 인척 선호를 가리킵니다."
+      },
+      {
+        "definition_ko": "친인척 등용, 혈연주의; 친인척 등용이나 혈연주의.",
+        "note": "친인척 등용이나 혈연주의를 가리킵니다."
+      }
+    ],
+    "concept": "족벌주의나 인척 선호인 족벌주의, 또는 친인척 등용이나 혈연주의.",
+    "etymology": "라틴어 nepos(조카)에서 유래했으며, '조카' 의미에서 '족벌주의' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '조카' 의미였고, 현대에는 '족벌주의' 또는 '인척 선호'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 사용되지만, 특히 정치나 비즈니스 관련 문맥에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, nepotism 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 족벌주의",
+        "example": "nepotism in"
+      }
+    ],
+    "requiredComplements": [
+      "nepotism : 족벌주의/인척 선호",
+      "nepotism in + 명사 : ~에서의 족벌주의"
+    ],
+    "morphology": "라틴어 nepos에서 유래한 단어로, '조카' 의미에서 '족벌주의' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "nepotistic",
+        "meaning_ko": "족벌주의의"
+      },
+      {
+        "word": "nepotist",
+        "meaning_ko": "족벌주의자"
+      }
+    ],
+    "related": [
+      {
+        "word": "favoritism",
+        "meaning_ko": "편애"
+      },
+      {
+        "word": "cronyism",
+        "meaning_ko": "친구 등용"
+      },
+      {
+        "word": "patronage",
+        "meaning_ko": "후원"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "favoritism",
+        "meaning_ko": "편애"
+      },
+      {
+        "word": "cronyism",
+        "meaning_ko": "친구 등용"
+      },
+      {
+        "word": "patronage",
+        "meaning_ko": "후원"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "bias",
+        "meaning_ko": "편견(범위가 더 넓음)"
+      },
+      {
+        "word": "preference",
+        "meaning_ko": "선호"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "meritocracy",
+        "meaning_ko": "능력주의"
+      },
+      {
+        "word": "fairness",
+        "meaning_ko": "공정성"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "nepotism in",
+            "meaning_ko": "~에서의 족벌주의"
+          },
+          {
+            "phrase": "political nepotism",
+            "meaning_ko": "정치적 족벌주의"
+          },
+          {
+            "phrase": "corporate nepotism",
+            "meaning_ko": "기업 족벌주의"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "nepotism in hiring",
+            "meaning_ko": "그 채용에서의 족벌주의"
+          },
+          {
+            "phrase": "widespread nepotism",
+            "meaning_ko": "널리 퍼진 족벌주의"
+          },
+          {
+            "phrase": "alleged nepotism",
+            "meaning_ko": "주장된 족벌주의"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "nepotism in appointments",
+            "meaning_ko": "그 임명에서의 족벌주의"
+          },
+          {
+            "phrase": "systematic nepotism",
+            "meaning_ko": "체계적인 족벌주의"
+          },
+          {
+            "phrase": "institutional nepotism",
+            "meaning_ko": "제도적 족벌주의"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He criticized political nepotism.",
+            "meaning_ko": "그는 정치적 족벌주의를 비판했습니다."
+          },
+          {
+            "sentence": "She exposed nepotism in hiring.",
+            "meaning_ko": "그녀는 그 채용에서의 족벌주의를 폭로했습니다."
+          },
+          {
+            "sentence": "They opposed corporate nepotism.",
+            "meaning_ko": "그들은 기업 족벌주의에 반대했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He criticized political nepotism, with his favoritism and cronyism creating unfairness and corruption, though the nepotism would require reform and regulation.",
+            "meaning_ko": "그는 정치적 족벌주의를 비판했고, 그의 편애 그리고 친구 등용이 불공정과 부패를 만들었지만, 그 족벌주의는 개혁과 규제를 요구할 것입니다."
+          },
+          {
+            "sentence": "She exposed nepotism in hiring, with the patronage and bias creating injustice and inequality, though the nepotism would need to be addressed and prevented.",
+            "meaning_ko": "그녀는 그 채용에서의 족벌주의를 폭로했고, 그 후원 그리고 편견이 불공정과 불평등을 만들었지만, 그 족벌주의는 다뤄지고 방지될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They opposed corporate nepotism, with the preference and favoritism creating unfair advantage and discrimination, though the nepotism would require transparency and accountability.",
+            "meaning_ko": "그들은 기업 족벌주의에 반대했고, 그 선호 그리고 편애가 불공정한 이점과 차별을 만들었지만, 그 족벌주의는 투명성과 책임을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address nepotism in appointments that was made in the process created opportunities for fairness and meritocracy, with the addressing enabling reduction of favoritism and bias, though the nepotism would require comprehensive reform and oversight to ensure that appointments are fair and merit-based.",
+            "meaning_ko": "그 과정에서 내려졌던 그 임명에서 그 족벌주의를 다루기로 한 그 결정은 공정성과 능력주의를 위한 기회를 만들었고, 그 다루기가 편애와 편견의 감소를 가능하게 했지만, 그 족벌주의는 임명이 공정하고 능력 기반인 것을 보장하기 위해 포괄적인 개혁과 감독을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to prevent systematic nepotism that was undertaken in the initiative created pathways for transparency and accountability, with the prevention enabling reduction of bias and favoritism, though the nepotism would need to be systematically addressed through regulation and oversight to ensure that hiring is fair and opportunities are based on merit.",
+            "meaning_ko": "그 계획에서 착수되었던 그 체계적인 족벌주의를 방지하기 위한 그 노력은 투명성과 책임을 위한 경로를 만들었고, 그 방지가 편견과 편애의 감소를 가능하게 했지만, 그 족벌주의는 채용이 공정하고 기회가 능력에 기반을 두는 것을 보장하기 위해 규제와 감독을 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to eliminate institutional nepotism that was completed in the system created structure and methods for fairness and meritocracy, with the elimination enabling establishment of transparent processes and merit-based selection, though the nepotism would require ongoing oversight and enforcement to ensure that nepotism is prevented and fairness is maintained and strengthened.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 제도적 족벌주의를 제거하기 위한 그 작업은 공정성과 능력주의를 위한 구조와 방법을 만들었고, 그 제거가 투명한 프로세스와 능력 기반 선택의 확립을 가능하게 했지만, 그 족벌주의는 족벌주의가 방지되고 공정성이 유지되고 강화되는 것을 보장하기 위해 지속적인 감독과 집행을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "nepotism는 '족벌주의, 인척 선호' 또는 '친인척 등용, 혈연주의' 의미로, 족벌주의나 인척 선호를 가리킵니다. favoritism, cronyism와 비슷하지만 더 구체적 뉘앙스가 있습니다. nepotism in ~, political nepotism 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: nepotism = (A) meritocracy (B) favoritism or cronyism (C) fairness (D) equality",
+            "a": "B",
+            "meaning_ko": "nepotism는 '편애 또는 친구 등용' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He criticized political _____.",
+            "a": "nepotism",
+            "meaning_ko": "nepotism는 '족벌주의' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of nepotism? (A) favoritism (B) cronyism (C) meritocracy (D) patronage",
+            "a": "C",
+            "meaning_ko": "meritocracy(능력주의)가 nepotism의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: nepotism _____ hiring. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "nepotism in ~는 '~에서의 족벌주의' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: nepotism = (A) meritocracy (B) favoritism (C) fairness (D) equality",
+            "a": "B",
+            "meaning_ko": "favoritism(편애)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She exposed nepotism at hiring.' → Fix the preposition.",
+            "a": "She exposed nepotism in hiring.",
+            "meaning_ko": "nepotism in ~는 '~에서의 족벌주의' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He criticized political nepotism.'",
+            "a": "He condemned favoritism and cronyism in politics, with the nepotism creating unfairness and corruption, though the practice would require reform and regulation.",
+            "meaning_ko": "nepotism는 '족벌주의' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They opposed corporate _____. (A) nepotism (B) nepotisms (C) nepotistic (D) nepotist",
+            "a": "A",
+            "meaning_ko": "명사 nepotism가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses nepotism most appropriately? (A) The nepotism ran. (B) He criticized political nepotism. (C) She nepotism smiled. (D) Nepotism is good.",
+            "a": "B",
+            "meaning_ko": "nepotism는 명사로 '족벌주의'를 의미하며, criticize nepotism와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "weld",
+    "partOfSpeech": [
+      "verb",
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "용접하다, 접합하다; 용접하거나 접합하는 것.",
+        "note": "용접하거나 접합하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "용접, 접합; 용접이나 접합.",
+        "note": "용접이나 접합을 가리킵니다."
+      }
+    ],
+    "concept": "용접하거나 접합하는 행동, 또는 용접이나 접합.",
+    "etymology": "고대 영어 wellan(끓이다)에서 유래했으며, '끓이다' 의미에서 '용접하다' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '끓이다' 의미였고, 현대에는 '용접하다' 또는 '접합하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "동사로는 타동사로 사용되며, 명사로는 용접이나 접합을 가리킵니다.",
+    "transitivity": "타동사",
+    "countability": "가산명사·불가산명사 모두",
+    "prepositionPatterns": [
+      {
+        "prep": "together",
+        "meaning_ko": "함께 용접하다",
+        "example": "weld together"
+      },
+      {
+        "prep": "to",
+        "meaning_ko": "~에 용접하다",
+        "example": "weld to"
+      }
+    ],
+    "requiredComplements": [
+      "weld : 용접/접합",
+      "weld + 명사 : ~을 용접하다/접합하다",
+      "weld together : 함께 용접하다",
+      "weld to + 명사 : ~에 용접하다"
+    ],
+    "morphology": "고대 영어 wellan에서 유래한 단어로, '끓이다' 의미에서 '용접하다' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "welded",
+        "meaning_ko": "용접한(과거분사)"
+      },
+      {
+        "word": "welding",
+        "meaning_ko": "용접하는(현재분사)"
+      },
+      {
+        "word": "welder",
+        "meaning_ko": "용접공"
+      }
+    ],
+    "related": [
+      {
+        "word": "join",
+        "meaning_ko": "결합하다"
+      },
+      {
+        "word": "fuse",
+        "meaning_ko": "융합하다"
+      },
+      {
+        "word": "bond",
+        "meaning_ko": "결합하다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "join",
+        "meaning_ko": "결합하다"
+      },
+      {
+        "word": "fuse",
+        "meaning_ko": "융합하다"
+      },
+      {
+        "word": "bond",
+        "meaning_ko": "결합하다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "solder",
+        "meaning_ko": "납땜하다(범위가 더 넓음)"
+      },
+      {
+        "word": "braze",
+        "meaning_ko": "납땜하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "separate",
+        "meaning_ko": "분리하다"
+      },
+      {
+        "word": "disconnect",
+        "meaning_ko": "분리하다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "weld together",
+            "meaning_ko": "함께 용접하다"
+          },
+          {
+            "phrase": "weld to",
+            "meaning_ko": "~에 용접하다"
+          },
+          {
+            "phrase": "weld metal",
+            "meaning_ko": "금속을 용접하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "weld together the pieces",
+            "meaning_ko": "그 조각들을 함께 용접하다"
+          },
+          {
+            "phrase": "weld to the frame",
+            "meaning_ko": "그 프레임에 용접하다"
+          },
+          {
+            "phrase": "weld the steel",
+            "meaning_ko": "그 강철을 용접하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "weld together the components",
+            "meaning_ko": "그 구성 요소들을 함께 용접하다"
+          },
+          {
+            "phrase": "weld to the structure",
+            "meaning_ko": "그 구조에 용접하다"
+          },
+          {
+            "phrase": "weld the alloy",
+            "meaning_ko": "그 합금을 용접하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He welded the metal.",
+            "meaning_ko": "그는 그 금속을 용접했습니다."
+          },
+          {
+            "sentence": "She welded the pieces together.",
+            "meaning_ko": "그녀는 그 조각들을 함께 용접했습니다."
+          },
+          {
+            "sentence": "They welded the steel to the frame.",
+            "meaning_ko": "그들은 그 강철을 그 프레임에 용접했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He welded the metal, with his join and fuse creating connection and strength, though the welding would require skill and precision.",
+            "meaning_ko": "그는 그 금속을 용접했고, 그의 결합 그리고 융합이 연결과 강도를 만들었지만, 그 용접은 기술과 정밀도를 요구할 것입니다."
+          },
+          {
+            "sentence": "She welded the pieces together, with the bond and solder creating unity and connection, though the welding would need to be done carefully and accurately.",
+            "meaning_ko": "그녀는 그 조각들을 함께 용접했고, 그 결합 그리고 납땜이 통합과 연결을 만들었지만, 그 용접은 신중하게 그리고 정확하게 수행될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They welded the steel to the frame, with the braze and join creating attachment and stability, though the welding would require expertise and care.",
+            "meaning_ko": "그들은 그 강철을 그 프레임에 용접했고, 그 납땜 그리고 결합이 부착과 안정성을 만들었지만, 그 용접은 전문성과 돌봄을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to weld together the components that was made in the process created opportunities for integration and strength, with the welding enabling creation of unified structure and connection, though the welding would require comprehensive planning and precision to ensure that components are properly joined and structure is strong and durable.",
+            "meaning_ko": "그 과정에서 내려졌던 그 구성 요소들을 함께 용접하기로 한 그 결정은 통합과 강도를 위한 기회를 만들었고, 그 용접이 통합된 구조와 연결의 창조를 가능하게 했지만, 그 용접은 구성 요소가 적절히 결합되고 구조가 강하고 내구성이 있는 것을 보장하기 위해 포괄적인 계획과 정밀도를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to weld to the structure that was undertaken in the initiative created pathways for attachment and stability, with the welding enabling creation of secure connection and support, though the welding would need to be systematically executed through careful planning and expertise to ensure that attachment is secure and structure is stable and reliable.",
+            "meaning_ko": "그 계획에서 착수되었던 그 구조에 용접하기 위한 그 노력은 부착과 안정성을 위한 경로를 만들었고, 그 용접이 안전한 연결과 지지의 창조를 가능하게 했지만, 그 용접은 부착이 안전하고 구조가 안정적이고 신뢰할 수 있는 것을 보장하기 위해 신중한 계획과 전문성을 통해 체계적으로 실행될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to weld the alloy that was completed in the system created structure and methods for joining and connection, with the welding enabling creation of strong bonds and integration, though the welding would require ongoing quality control and testing to ensure that alloy is properly welded and bonds are strong and reliable.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 합금을 용접하기 위한 그 작업은 결합과 연결을 위한 구조와 방법을 만들었고, 그 용접이 강한 결합과 통합의 창조를 가능하게 했지만, 그 용접은 합금이 적절히 용접되고 결합이 강하고 신뢰할 수 있는 것을 보장하기 위해 지속적인 품질 관리와 테스트를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "weld는 '용접하다, 접합하다' 또는 '용접, 접합' 의미로, 용접하거나 접합하는 행동을 가리킵니다. join, fuse와 비슷하지만 더 기술적 뉘앙스가 있습니다. weld together, weld to ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: weld = (A) separate (B) join or fuse (C) disconnect (D) divide",
+            "a": "B",
+            "meaning_ko": "weld는 '결합하다 또는 융합하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ the metal.",
+            "a": "welded",
+            "meaning_ko": "weld는 '용접하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of weld? (A) join (B) fuse (C) separate (D) bond",
+            "a": "C",
+            "meaning_ko": "separate(분리하다)가 weld의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct usage: weld _____ together. (A) (no preposition needed) (B) to (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "weld together는 '함께 용접하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: weld = (A) separate (B) join (C) disconnect (D) divide",
+            "a": "B",
+            "meaning_ko": "join(결합하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She welded the pieces at together.' → Fix the sentence.",
+            "a": "She welded the pieces together.",
+            "meaning_ko": "weld together는 '함께 용접하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He welded the metal.'",
+            "a": "He joined and fused the material, with the welding creating connection and strength, though the action would require skill and precision.",
+            "meaning_ko": "weld는 '용접하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ the steel to the frame. (A) weld (B) welds (C) welded (D) welding",
+            "a": "C",
+            "meaning_ko": "과거형 welded가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses weld most appropriately? (A) The weld ran. (B) He welded the metal. (C) She weld smiled. (D) Weld is good.",
+            "a": "B",
+            "meaning_ko": "weld는 동사로 '용접하다'를 의미하며, weld + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "adversity",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "역경, 고난; 역경이나 고난.",
+        "note": "역경이나 고난을 가리킵니다."
+      },
+      {
+        "definition_ko": "불운, 재난; 불운이나 재난.",
+        "note": "불운이나 재난을 가리킵니다."
+      }
+    ],
+    "concept": "역경이나 고난인 역경, 또는 불운이나 재난.",
+    "etymology": "라틴어 adversitas(반대)에서 유래했으며, '반대' 의미에서 '역경' 의미로 확장되었습니다.",
+    "semanticExtension": "원래는 '반대' 의미였고, 현대에는 '역경' 또는 '고난'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용됩니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, adversity 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "불가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "in",
+        "meaning_ko": "~에서의 역경",
+        "example": "adversity in"
+      },
+      {
+        "prep": "against",
+        "meaning_ko": "~에 대한 역경",
+        "example": "adversity against"
+      }
+    ],
+    "requiredComplements": [
+      "adversity : 역경/고난",
+      "adversity in + 명사 : ~에서의 역경",
+      "adversity against + 명사 : ~에 대한 역경"
+    ],
+    "morphology": "라틴어 adversitas에서 유래한 단어로, '반대' 의미에서 '역경' 의미로 확장되었습니다.",
+    "derivatives": [
+      {
+        "word": "adversities",
+        "meaning_ko": "역경들(복수형)"
+      },
+      {
+        "word": "adverse",
+        "meaning_ko": "불리한"
+      }
+    ],
+    "related": [
+      {
+        "word": "hardship",
+        "meaning_ko": "고난"
+      },
+      {
+        "word": "difficulty",
+        "meaning_ko": "어려움"
+      },
+      {
+        "word": "misfortune",
+        "meaning_ko": "불운"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "hardship",
+        "meaning_ko": "고난"
+      },
+      {
+        "word": "difficulty",
+        "meaning_ko": "어려움"
+      },
+      {
+        "word": "misfortune",
+        "meaning_ko": "불운"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "tribulation",
+        "meaning_ko": "고난(범위가 더 넓음)"
+      },
+      {
+        "word": "trial",
+        "meaning_ko": "시련"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "prosperity",
+        "meaning_ko": "번영"
+      },
+      {
+        "word": "fortune",
+        "meaning_ko": "행운"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "adversity in",
+            "meaning_ko": "~에서의 역경"
+          },
+          {
+            "phrase": "adversity against",
+            "meaning_ko": "~에 대한 역경"
+          },
+          {
+            "phrase": "face adversity",
+            "meaning_ko": "역경에 직면하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "adversity in life",
+            "meaning_ko": "그 인생에서의 역경"
+          },
+          {
+            "phrase": "overcome adversity",
+            "meaning_ko": "역경을 극복하다"
+          },
+          {
+            "phrase": "deal with adversity",
+            "meaning_ko": "역경을 다루다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "adversity in circumstances",
+            "meaning_ko": "그 상황들에서의 역경"
+          },
+          {
+            "phrase": "persevere through adversity",
+            "meaning_ko": "역경을 통해 인내하다"
+          },
+          {
+            "phrase": "triumph over adversity",
+            "meaning_ko": "역경을 극복하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He faced adversity.",
+            "meaning_ko": "그는 역경에 직면했습니다."
+          },
+          {
+            "sentence": "She overcame adversity.",
+            "meaning_ko": "그녀는 역경을 극복했습니다."
+          },
+          {
+            "sentence": "They dealt with adversity.",
+            "meaning_ko": "그들은 역경을 다뤘습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He faced adversity, with his hardship and difficulty creating challenge and struggle, though the adversity would require resilience and determination.",
+            "meaning_ko": "그는 역경에 직면했고, 그의 고난 그리고 어려움이 도전과 투쟁을 만들었지만, 그 역경은 회복력과 결심을 요구할 것입니다."
+          },
+          {
+            "sentence": "She overcame adversity, with the misfortune and tribulation creating obstacles and trials, though the adversity would need to be confronted and conquered.",
+            "meaning_ko": "그녀는 역경을 극복했고, 그 불운 그리고 고난이 장애물과 시련을 만들었지만, 그 역경은 직면되고 정복될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They dealt with adversity, with the trial and hardship creating difficulty and challenge, though the adversity would require strength and perseverance.",
+            "meaning_ko": "그들은 역경을 다뤘고, 그 시련 그리고 고난이 어려움과 도전을 만들었지만, 그 역경은 힘과 인내를 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to persevere through adversity in circumstances that was made in the process created opportunities for growth and resilience, with the perseverance enabling development of strength and character, though the adversity would require comprehensive support and determination to ensure that circumstances are overcome and growth is achieved.",
+            "meaning_ko": "그 과정에서 내려졌던 그 상황들에서 그 역경을 통해 인내하기로 한 그 결정은 성장과 회복력을 위한 기회를 만들었고, 그 인내가 힘과 성격의 발전을 가능하게 했지만, 그 역경은 상황이 극복되고 성장이 달성되는 것을 보장하기 위해 포괄적인 지원과 결심을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to triumph over adversity that was undertaken in the initiative created pathways for success and achievement, with the triumph enabling overcoming of obstacles and challenges, though the adversity would need to be systematically addressed through resilience and determination to ensure that obstacles are overcome and success is achieved.",
+            "meaning_ko": "그 계획에서 착수되었던 그 역경을 극복하기 위한 그 노력은 성공과 성취를 위한 경로를 만들었고, 그 극복이 장애물과 도전의 극복을 가능하게 했지만, 그 역경은 장애물이 극복되고 성공이 달성되는 것을 보장하기 위해 회복력과 결심을 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to build resilience through adversity that was completed in the system created structure and methods for strength and character development, with the building enabling growth and adaptation, though the adversity would require ongoing support and perseverance to ensure that resilience is built and character continues to develop and strengthen.",
+            "meaning_ko": "그 시스템에서 완료되었던 그 역경을 통해 회복력을 구축하기 위한 그 작업은 힘과 성격 발전을 위한 구조와 방법을 만들었고, 그 구축이 성장과 적응을 가능하게 했지만, 그 역경은 회복력이 구축되고 성격이 계속 발전하고 강화되는 것을 보장하기 위해 지속적인 지원과 인내를 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "adversity는 '역경, 고난' 또는 '불운, 재난' 의미로, 역경이나 고난을 가리킵니다. hardship, difficulty와 비슷하지만 더 강한 뉘앙스가 있습니다. face adversity, overcome adversity 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 4,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: adversity = (A) prosperity (B) hardship or difficulty (C) fortune (D) success",
+            "a": "B",
+            "meaning_ko": "adversity는 '고난 또는 어려움' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He faced _____.",
+            "a": "adversity",
+            "meaning_ko": "adversity는 '역경' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of adversity? (A) hardship (B) difficulty (C) prosperity (D) misfortune",
+            "a": "C",
+            "meaning_ko": "prosperity(번영)가 adversity의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: adversity _____ life. (A) in (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "adversity in ~는 '~에서의 역경' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: adversity = (A) prosperity (B) hardship (C) fortune (D) success",
+            "a": "B",
+            "meaning_ko": "hardship(고난)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She overcame adversity at life.' → Fix the preposition.",
+            "a": "She overcame adversity in life.",
+            "meaning_ko": "adversity in ~는 '~에서의 역경' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He faced adversity.'",
+            "a": "He encountered hardship and difficulty, with the adversity creating challenge and struggle, though the situation would require resilience and determination.",
+            "meaning_ko": "adversity는 '역경' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They dealt with _____. (A) adversity (B) adversities (C) adverse (D) adversity's",
+            "a": "A",
+            "meaning_ko": "명사 adversity가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses adversity most appropriately? (A) The adversity ran. (B) He faced adversity. (C) She adversity smiled. (D) Adversity is good.",
+            "a": "B",
+            "meaning_ko": "adversity는 명사로 '역경'을 의미하며, face adversity와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]

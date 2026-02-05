@@ -1,0 +1,826 @@
+[
+  {
+    "word": "possess",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "소유하다, 가지다; 소유하거나 가지다.",
+        "note": "소유하거나 가지는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "지배하다, 장악하다; 지배하거나 장악하다.",
+        "note": "지배하거나 장악하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "소유하거나 가지는 것, 또는 지배하거나 장악하는 것.",
+    "etymology": "라틴어 possidere(소유하다)에서 유래했으며, potis(능력 있는) + sedere(앉다)의 조합입니다.",
+    "semanticExtension": "원래는 '앉다' 의미였고, 현대에는 '소유하거나 가지다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 매우 자연스럽게 사용됩니다.",
+    "grammarNotes": "타동사로 자주 사용되며, possess + 명사 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "of",
+        "meaning_ko": "~의 소유",
+        "example": "possess of"
+      }
+    ],
+    "requiredComplements": [
+      "possess + 명사 : ~을 소유하다",
+      "possess of + 명사 : ~의 소유"
+    ],
+    "morphology": "라틴어 possidere에서 유래한 단어로, potis(능력 있는) + sedere(앉다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "possessed",
+        "meaning_ko": "소유한(과거분사/형용사)"
+      },
+      {
+        "word": "possessing",
+        "meaning_ko": "소유하는(현재분사/형용사)"
+      },
+      {
+        "word": "possession",
+        "meaning_ko": "소유"
+      }
+    ],
+    "related": [
+      {
+        "word": "own",
+        "meaning_ko": "소유하다"
+      },
+      {
+        "word": "have",
+        "meaning_ko": "가지다"
+      },
+      {
+        "word": "hold",
+        "meaning_ko": "가지다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "own",
+        "meaning_ko": "소유하다"
+      },
+      {
+        "word": "have",
+        "meaning_ko": "가지다"
+      },
+      {
+        "word": "hold",
+        "meaning_ko": "가지다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "control",
+        "meaning_ko": "통제하다(범위가 더 넓음)"
+      },
+      {
+        "word": "occupy",
+        "meaning_ko": "점유하다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "lack",
+        "meaning_ko": "부족하다"
+      },
+      {
+        "word": "lose",
+        "meaning_ko": "잃다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "possess of",
+            "meaning_ko": "~의 소유"
+          },
+          {
+            "phrase": "possess knowledge",
+            "meaning_ko": "지식을 소유하다"
+          },
+          {
+            "phrase": "possess skills",
+            "meaning_ko": "기술을 소유하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "possess of the property",
+            "meaning_ko": "그 재산의 소유"
+          },
+          {
+            "phrase": "possess the ability",
+            "meaning_ko": "그 능력을 소유하다"
+          },
+          {
+            "phrase": "possess the power",
+            "meaning_ko": "그 권력을 소유하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "possess of the authority",
+            "meaning_ko": "그 권한의 소유"
+          },
+          {
+            "phrase": "possess the quality",
+            "meaning_ko": "그 품질을 소유하다"
+          },
+          {
+            "phrase": "possess the characteristic",
+            "meaning_ko": "그 특성을 소유하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He possessed knowledge.",
+            "meaning_ko": "그는 지식을 소유했습니다."
+          },
+          {
+            "sentence": "She possessed the ability.",
+            "meaning_ko": "그녀는 그 능력을 소유했습니다."
+          },
+          {
+            "sentence": "They possessed skills.",
+            "meaning_ko": "그들은 기술을 소유했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He possessed knowledge, with his own and have creating understanding and capability, though the possession would require application and use.",
+            "meaning_ko": "그는 지식을 소유했고, 그의 소유와 가지기가 이해와 능력을 만들었지만, 그 소유는 적용과 사용을 요구할 것입니다."
+          },
+          {
+            "sentence": "She possessed the ability, with her hold and control creating power and influence, though the possession would need to be developed and utilized.",
+            "meaning_ko": "그녀는 그 능력을 소유했고, 그녀의 가지기와 통제가 권력과 영향력을 만들었지만, 그 소유는 발전되고 활용될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They possessed skills, with their own and occupy creating competence and expertise, though the possession would require practice and improvement.",
+            "meaning_ko": "그들은 기술을 소유했고, 그들의 소유와 점유가 능력과 전문성을 만들었지만, 그 소유는 실천과 개선을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to possess the quality that was made in the development created opportunities for growth and achievement, with the acquisition enabling enhancement of capabilities and potential, though the possession would require ongoing cultivation and application to ensure that the quality is maintained and effectively utilized.",
+            "meaning_ko": "그 발전에서 내려졌던 그 품질을 소유하기로 한 그 결정은 성장과 성취를 위한 기회를 만들었고, 그 획득이 능력과 잠재력의 향상을 가능하게 했지만, 그 소유는 품질이 유지되고 효과적으로 활용되는 것을 보장하기 위해 지속적인 양성과 적용을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to possess the characteristic that was undertaken in the program created pathways for personal development and improvement, with the acquisition enabling integration of traits and attributes, though the possession would need to be nurtured and developed through consistent practice and commitment to ensure that the characteristic becomes a natural part of one's identity.",
+            "meaning_ko": "그 프로그램에서 착수되었던 그 특성을 소유하기 위한 그 노력은 개인적 발전과 개선을 위한 경로를 만들었고, 그 획득이 특성과 속성의 통합을 가능하게 했지만, 그 소유는 특성이 자신의 정체성의 자연스러운 부분이 되는 것을 보장하기 위해 일관된 실천과 헌신을 통해 양성되고 발전될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to maintain the possession of the authority that was completed in the organization created structure and responsibility, with the control enabling exercise of power and decision-making, though the possession would require careful management and accountability to ensure that authority is used appropriately and serves the intended purpose.",
+            "meaning_ko": "그 조직에서 완료되었던 그 권한의 그 소유를 유지하기 위한 그 작업은 구조와 책임을 만들었고, 그 통제가 권력과 의사결정의 행사를 가능하게 했지만, 그 소유는 권한이 적절히 사용되고 의도된 목적을 달성하는 것을 보장하기 위해 신중한 관리와 책임을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "possess는 '소유하다, 가지다' 또는 '지배하다, 장악하다' 의미로, 소유하거나 가지는 행동을 가리킵니다. own, have와 비슷하지만 더 문어적 뉘앙스가 있습니다. possess + 명사, possess of ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "일상 회화",
+      "문어",
+      "중립"
+    ],
+    "frequency": "상",
+    "difficulty": 3,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: possess = (A) lack (B) own or have (C) lose (D) miss",
+            "a": "B",
+            "meaning_ko": "possess는 '소유하다 또는 가지다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ knowledge.",
+            "a": "possessed",
+            "meaning_ko": "possess는 '소유하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of possess? (A) own (B) have (C) lack (D) hold",
+            "a": "C",
+            "meaning_ko": "lack(부족하다)가 possess의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct form: possess _____ knowledge. (A) the (B) a (C) an (D) -",
+            "a": "A",
+            "meaning_ko": "possess the knowledge는 '그 지식을 소유하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: possess = (A) lack (B) own (C) lose (D) miss",
+            "a": "B",
+            "meaning_ko": "own(소유하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She possessed of the ability.' → Fix the sentence.",
+            "a": "She possessed the ability.",
+            "meaning_ko": "possess는 타동사로 직접 목적어를 취합니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He possessed knowledge.'",
+            "a": "He owned and had understanding and information, with the possession creating capability and potential, though the knowledge would require application and use.",
+            "meaning_ko": "possess는 '소유하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ skills. (A) possess (B) possesses (C) possessed (D) possessing",
+            "a": "C",
+            "meaning_ko": "과거형 possessed가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses possess most appropriately? (A) The possess ran. (B) He possessed knowledge. (C) She possess smiled. (D) Possess is good.",
+            "a": "B",
+            "meaning_ko": "possess는 타동사로 '소유하다'를 의미하며, possess + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "indignation",
+    "partOfSpeech": [
+      "noun"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "분노, 격분; 분노나 격분.",
+        "note": "분노나 격분을 가리킵니다."
+      },
+      {
+        "definition_ko": "의분, 의로운 분노; 의분이나 의로운 분노.",
+        "note": "의분이나 의로운 분노를 가리킵니다."
+      }
+    ],
+    "concept": "분노나 격분인 분노, 또는 의분이나 의로운 분노.",
+    "etymology": "라틴어 indignatio(분노)에서 유래했으며, in(아닌) + dignus(가치 있는)의 조합입니다.",
+    "semanticExtension": "원래는 '가치 없는' 의미였고, 현대에는 '분노나 격분'으로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "주로 단수형으로 사용되며, indignation 형태로 자주 사용됩니다.",
+    "transitivity": "해당 없음",
+    "countability": "가산명사",
+    "prepositionPatterns": [
+      {
+        "prep": "at",
+        "meaning_ko": "~에 대한 분노",
+        "example": "indignation at"
+      },
+      {
+        "prep": "over",
+        "meaning_ko": "~에 대한 분노",
+        "example": "indignation over"
+      }
+    ],
+    "requiredComplements": [
+      "indignation : 분노/격분",
+      "indignation at/over + 명사 : ~에 대한 분노"
+    ],
+    "morphology": "라틴어 indignatio에서 유래한 단어로, in(아닌) + dignus(가치 있는)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "indignations",
+        "meaning_ko": "분노들(복수형)"
+      },
+      {
+        "word": "indignant",
+        "meaning_ko": "분노한"
+      },
+      {
+        "word": "indignantly",
+        "meaning_ko": "분노하여"
+      }
+    ],
+    "related": [
+      {
+        "word": "anger",
+        "meaning_ko": "분노"
+      },
+      {
+        "word": "rage",
+        "meaning_ko": "격분"
+      },
+      {
+        "word": "wrath",
+        "meaning_ko": "분노"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "anger",
+        "meaning_ko": "분노"
+      },
+      {
+        "word": "rage",
+        "meaning_ko": "격분"
+      },
+      {
+        "word": "wrath",
+        "meaning_ko": "분노"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "outrage",
+        "meaning_ko": "격분(범위가 더 넓음)"
+      },
+      {
+        "word": "resentment",
+        "meaning_ko": "분노"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "calm",
+        "meaning_ko": "평온"
+      },
+      {
+        "word": "peace",
+        "meaning_ko": "평화"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "indignation at",
+            "meaning_ko": "~에 대한 분노"
+          },
+          {
+            "phrase": "indignation over",
+            "meaning_ko": "~에 대한 분노"
+          },
+          {
+            "phrase": "righteous indignation",
+            "meaning_ko": "의로운 분노"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "indignation at the injustice",
+            "meaning_ko": "그 부정에 대한 분노"
+          },
+          {
+            "phrase": "indignation over the treatment",
+            "meaning_ko": "그 대우에 대한 분노"
+          },
+          {
+            "phrase": "public indignation",
+            "meaning_ko": "공개 분노"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "indignation at the decision",
+            "meaning_ko": "그 결정에 대한 분노"
+          },
+          {
+            "phrase": "indignation over the action",
+            "meaning_ko": "그 행동에 대한 분노"
+          },
+          {
+            "phrase": "widespread indignation",
+            "meaning_ko": "광범위한 분노"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He felt indignation.",
+            "meaning_ko": "그는 분노를 느꼈습니다."
+          },
+          {
+            "sentence": "She expressed indignation at the injustice.",
+            "meaning_ko": "그녀는 그 부정에 대한 분노를 표현했습니다."
+          },
+          {
+            "sentence": "They showed public indignation.",
+            "meaning_ko": "그들은 공개 분노를 보였습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He felt indignation, with his anger and rage creating strong emotion and response, though the indignation would require understanding and resolution.",
+            "meaning_ko": "그는 분노를 느꼈고, 그의 분노와 격분이 강한 감정과 반응을 만들었지만, 그 분노는 이해와 해결을 요구할 것입니다."
+          },
+          {
+            "sentence": "She expressed indignation at the injustice, with her wrath and outrage creating protest and demand, though the indignation would need to be addressed and resolved.",
+            "meaning_ko": "그녀는 그 부정에 대한 분노를 표현했고, 그녀의 분노와 격분이 항의와 요구를 만들었지만, 그 분노는 다뤄지고 해결될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They showed public indignation, with their resentment and anger creating widespread concern and action, though the indignation would require acknowledgment and response.",
+            "meaning_ko": "그들은 공개 분노를 보였고, 그들의 분노와 분노가 광범위한 우려와 행동을 만들었지만, 그 분노는 인정과 대응을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to address the indignation at the decision that was made in the response created opportunities for dialogue and resolution, with the recognition enabling understanding of concerns and grievances, though the indignation would require comprehensive response and action to ensure that the underlying issues are resolved and trust is restored.",
+            "meaning_ko": "그 응답에서 내려졌던 그 결정에 대한 그 분노를 다루기로 한 그 결정은 대화와 해결을 위한 기회를 만들었고, 그 인정이 우려와 불만에 대한 이해를 가능하게 했지만, 그 분노는 근본적인 이슈가 해결되고 신뢰가 회복되는 것을 보장하기 위해 포괄적인 대응과 행동을 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to understand the indignation over the action that was undertaken in the analysis created insights into the causes and impact of the anger, with the examination enabling identification of grievances and concerns, though the indignation would need to be systematically addressed through transparent communication and corrective measures to ensure that the anger is resolved and similar issues are prevented.",
+            "meaning_ko": "그 분석에서 착수되었던 그 행동에 대한 그 분노를 이해하기 위한 그 노력은 그 분노의 원인과 영향에 대한 통찰을 만들었고, 그 검토가 불만과 우려의 식별을 가능하게 했지만, 그 분노는 분노가 해결되고 유사한 이슈가 방지되는 것을 보장하기 위해 투명한 소통과 시정 조치를 통해 체계적으로 다뤄질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to respond to the widespread indignation that was completed in the program created pathways for reconciliation and improvement, with the response enabling acknowledgment of concerns and commitment to change, though the indignation would require ongoing attention and action to ensure that grievances are addressed and the relationship between parties is restored and strengthened.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 광범위한 분노에 대응하기 위한 그 작업은 화해와 개선을 위한 경로를 만들었고, 그 대응이 우려의 인정과 변화에 대한 헌신을 가능하게 했지만, 그 분노는 불만이 다뤄지고 당사자 간의 관계가 회복되고 강화되는 것을 보장하기 위해 지속적인 주의와 행동을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "indignation는 '분노, 격분' 또는 '의분, 의로운 분노' 의미로, 분노나 격분을 가리킵니다. anger, rage와 비슷하지만 더 문어적 뉘앙스가 있습니다. indignation at ~, indignation over ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "부정"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: indignation = (A) calm (B) anger or rage (C) peace (D) tranquility",
+            "a": "B",
+            "meaning_ko": "indignation는 '분노 또는 격분' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He felt _____.",
+            "a": "indignation",
+            "meaning_ko": "indignation는 '분노' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of indignation? (A) anger (B) rage (C) calm (D) wrath",
+            "a": "C",
+            "meaning_ko": "calm(평온)가 indignation의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: indignation _____ the injustice. (A) at (B) in (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "indignation at ~는 '~에 대한 분노' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: indignation = (A) calm (B) anger (C) peace (D) tranquility",
+            "a": "B",
+            "meaning_ko": "anger(분노)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She expressed indignation in the injustice.' → Fix the preposition.",
+            "a": "She expressed indignation at the injustice.",
+            "meaning_ko": "indignation at ~는 '~에 대한 분노' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He felt indignation.'",
+            "a": "He experienced anger and rage, with the indignation creating strong emotion and response, though the anger would require understanding and resolution.",
+            "meaning_ko": "indignation는 '분노' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They showed public _____. (A) indignation (B) indignations (C) indignant (D) indignantly",
+            "a": "A",
+            "meaning_ko": "명사 indignation가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses indignation most appropriately? (A) The indignation ran. (B) He felt indignation. (C) She indignation smiled. (D) Indignation is good.",
+            "a": "B",
+            "meaning_ko": "indignation는 명사로 '분노'를 의미하며, feel indignation와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "acquaint",
+    "partOfSpeech": [
+      "verb"
+    ],
+    "meanings": [
+      {
+        "definition_ko": "알게 하다, 소개하다; 알게 하거나 소개하다.",
+        "note": "알게 하거나 소개하는 행동을 가리킵니다."
+      },
+      {
+        "definition_ko": "익숙하게 하다, 친숙하게 하다; 익숙하게 하거나 친숙하게 하다.",
+        "note": "익숙하게 하거나 친숙하게 하는 행동을 가리킵니다."
+      }
+    ],
+    "concept": "알게 하거나 소개하는 것, 또는 익숙하게 하거나 친숙하게 하는 것.",
+    "etymology": "라틴어 accognitare(알게 하다)에서 유래했으며, ad(향하여) + cognoscere(알다)의 조합입니다.",
+    "semanticExtension": "원래는 '알게 하다' 의미였고, 현대에는 '익숙하게 하거나 친숙하게 하다'로 의미가 확장되었습니다.",
+    "nuanceRegister": "일상 회화와 문어 모두에서 자연스럽게 사용되며, 특히 문어에서 자주 쓰입니다.",
+    "grammarNotes": "타동사로 자주 사용되며, acquaint + with 형태로 자주 사용됩니다.",
+    "transitivity": "타동사",
+    "countability": "해당 없음",
+    "prepositionPatterns": [
+      {
+        "prep": "with",
+        "meaning_ko": "~에게 ~을 알게 하다",
+        "example": "acquaint with"
+      }
+    ],
+    "requiredComplements": [
+      "acquaint + 명사 + with + 명사 : ~에게 ~을 알게 하다",
+      "be acquainted with + 명사 : ~와 친숙하다"
+    ],
+    "morphology": "라틴어 accognitare에서 유래한 단어로, ad(향하여) + cognoscere(알다)의 조합입니다.",
+    "derivatives": [
+      {
+        "word": "acquainted",
+        "meaning_ko": "알게 한(과거분사/형용사)"
+      },
+      {
+        "word": "acquainting",
+        "meaning_ko": "알게 하는(현재분사/형용사)"
+      },
+      {
+        "word": "acquaintance",
+        "meaning_ko": "지인"
+      }
+    ],
+    "related": [
+      {
+        "word": "introduce",
+        "meaning_ko": "소개하다"
+      },
+      {
+        "word": "familiarize",
+        "meaning_ko": "익숙하게 하다"
+      },
+      {
+        "word": "inform",
+        "meaning_ko": "알리다"
+      }
+    ],
+    "synonyms": [
+      {
+        "word": "introduce",
+        "meaning_ko": "소개하다"
+      },
+      {
+        "word": "familiarize",
+        "meaning_ko": "익숙하게 하다"
+      },
+      {
+        "word": "inform",
+        "meaning_ko": "알리다"
+      }
+    ],
+    "nearSynonyms": [
+      {
+        "word": "present",
+        "meaning_ko": "제시하다(범위가 더 넓음)"
+      },
+      {
+        "word": "notify",
+        "meaning_ko": "알리다"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conceal",
+        "meaning_ko": "숨기다"
+      },
+      {
+        "word": "hide",
+        "meaning_ko": "숨기다"
+      }
+    ],
+    "collocations": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "phrase": "acquaint with",
+            "meaning_ko": "~에게 ~을 알게 하다"
+          },
+          {
+            "phrase": "be acquainted with",
+            "meaning_ko": "~와 친숙하다"
+          },
+          {
+            "phrase": "acquaint oneself with",
+            "meaning_ko": "~을 익숙하게 하다"
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "phrase": "acquaint with the facts",
+            "meaning_ko": "그 사실들을 알게 하다"
+          },
+          {
+            "phrase": "be acquainted with the situation",
+            "meaning_ko": "그 상황과 친숙하다"
+          },
+          {
+            "phrase": "acquaint oneself with the details",
+            "meaning_ko": "그 세부사항을 익숙하게 하다"
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "phrase": "acquaint with the procedure",
+            "meaning_ko": "그 절차를 알게 하다"
+          },
+          {
+            "phrase": "be acquainted with the system",
+            "meaning_ko": "그 시스템과 친숙하다"
+          },
+          {
+            "phrase": "acquaint oneself with the process",
+            "meaning_ko": "그 과정을 익숙하게 하다"
+          }
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "sentence": "He acquainted them with the facts.",
+            "meaning_ko": "그는 그들에게 그 사실들을 알게 했습니다."
+          },
+          {
+            "sentence": "She was acquainted with the situation.",
+            "meaning_ko": "그녀는 그 상황과 친숙했습니다."
+          },
+          {
+            "sentence": "They acquainted themselves with the details.",
+            "meaning_ko": "그들은 그 세부사항을 익숙하게 했습니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "sentence": "He acquainted them with the facts, with his introduce and inform creating awareness and understanding, though the acquaintance would require verification and confirmation.",
+            "meaning_ko": "그는 그들에게 그 사실들을 알게 했고, 그의 소개와 알림이 인식과 이해를 만들었지만, 그 지인은 검증과 확인을 요구할 것입니다."
+          },
+          {
+            "sentence": "She was acquainted with the situation, with her familiarize and know creating familiarity and knowledge, though the acquaintance would need to be maintained and updated.",
+            "meaning_ko": "그녀는 그 상황과 친숙했고, 그녀의 익숙하게 하기와 알기가 친숙함과 지식을 만들었지만, 그 지인은 유지되고 업데이트될 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "They acquainted themselves with the details, with their present and notify creating knowledge and awareness, though the acquaintance would require study and practice.",
+            "meaning_ko": "그들은 그 세부사항을 익숙하게 했고, 그들의 제시와 알림이 지식과 인식을 만들었지만, 그 지인은 학습과 실천을 요구할 것입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "sentence": "The decision to acquaint the team with the procedure that was made in the training created opportunities for learning and competence, with the introduction enabling understanding and capability, though the acquaintance would require ongoing practice and reinforcement to ensure that the procedure is properly understood and effectively applied.",
+            "meaning_ko": "그 훈련에서 내려졌던 그 팀에게 그 절차를 알게 하기로 한 그 결정은 학습과 능력을 위한 기회를 만들었고, 그 소개가 이해와 능력을 가능하게 했지만, 그 지인은 절차가 적절히 이해되고 효과적으로 적용되는 것을 보장하기 위해 지속적인 실천과 강화를 요구할 것입니다."
+          },
+          {
+            "sentence": "The effort to become acquainted with the system that was undertaken in the orientation created pathways for integration and effectiveness, with the familiarization enabling navigation and utilization, though the acquaintance would need to be deepened through continued engagement and learning to ensure that the system is fully understood and can be used efficiently.",
+            "meaning_ko": "그 오리엔테이션에서 착수되었던 그 시스템과 친숙해지기 위한 그 노력은 통합과 효과성을 위한 경로를 만들었고, 그 익숙하게 하기가 탐색과 활용을 가능하게 했지만, 그 지인은 시스템이 완전히 이해되고 효율적으로 사용될 수 있도록 지속적인 참여와 학습을 통해 깊어질 필요가 있을 것입니다."
+          },
+          {
+            "sentence": "The work to acquaint oneself with the process that was completed in the program created competence and confidence, with the learning enabling mastery and proficiency, though the acquaintance would require continuous attention and development to ensure that the process is fully internalized and can be executed with skill and precision.",
+            "meaning_ko": "그 프로그램에서 완료되었던 그 과정을 익숙하게 하기 위한 그 작업은 능력과 자신감을 만들었고, 그 학습이 숙달과 능력을 가능하게 했지만, 그 지인은 과정이 완전히 내재화되고 기술과 정밀도로 실행될 수 있도록 지속적인 주의와 발전을 요구할 것입니다."
+          }
+        ]
+      }
+    ],
+    "studyTips": "acquaint는 '알게 하다, 소개하다' 또는 '익숙하게 하다, 친숙하게 하다' 의미로, 알게 하거나 소개하는 행동을 가리킵니다. introduce, familiarize와 비슷하지만 더 문어적 뉘앙스가 있습니다. acquaint with ~, be acquainted with ~ 같은 고정 결합을 함께 외우면 좋습니다.",
+    "tags": [
+      "문어",
+      "일상 회화",
+      "중립"
+    ],
+    "frequency": "중",
+    "difficulty": 5,
+    "quiz": [
+      {
+        "level": "하",
+        "items": [
+          {
+            "q": "Choose the best meaning: acquaint = (A) conceal (B) introduce or familiarize (C) hide (D) cover",
+            "a": "B",
+            "meaning_ko": "acquaint는 '소개하다 또는 익숙하게 하다' 의미입니다."
+          },
+          {
+            "q": "Fill in the blank: He _____ them with the facts.",
+            "a": "acquainted",
+            "meaning_ko": "acquaint는 '알게 하다' 의미입니다."
+          },
+          {
+            "q": "Which is the opposite of acquaint? (A) introduce (B) familiarize (C) conceal (D) inform",
+            "a": "C",
+            "meaning_ko": "conceal(숨기다)가 acquaint의 반의어입니다."
+          }
+        ]
+      },
+      {
+        "level": "중",
+        "items": [
+          {
+            "q": "Choose the correct preposition: acquaint _____ the facts. (A) with (B) at (C) on (D) by",
+            "a": "A",
+            "meaning_ko": "acquaint with ~는 '~에게 ~을 알게 하다' 의미입니다."
+          },
+          {
+            "q": "Pick the best synonym: acquaint = (A) conceal (B) introduce (C) hide (D) cover",
+            "a": "B",
+            "meaning_ko": "introduce(소개하다)가 가장 가까운 동의어입니다."
+          },
+          {
+            "q": "Error check: 'She was acquainted at the situation.' → Fix the preposition.",
+            "a": "She was acquainted with the situation.",
+            "meaning_ko": "be acquainted with ~는 '~와 친숙하다' 의미입니다."
+          }
+        ]
+      },
+      {
+        "level": "상",
+        "items": [
+          {
+            "q": "Best paraphrase: 'He acquainted them with the facts.'",
+            "a": "He introduced and informed them about the information, with the acquaintance creating awareness and understanding, though the introduction would require verification and confirmation.",
+            "meaning_ko": "acquaint는 '알게 하다' 의미입니다."
+          },
+          {
+            "q": "Choose the best fit: They _____ themselves with the details. (A) acquaint (B) acquaints (C) acquainted (D) acquainting",
+            "a": "C",
+            "meaning_ko": "과거형 acquainted가 필요합니다."
+          },
+          {
+            "q": "Which sentence uses acquaint most appropriately? (A) The acquaint ran. (B) He acquainted them with the facts. (C) She acquaint smiled. (D) Acquaint is good.",
+            "a": "B",
+            "meaning_ko": "acquaint는 타동사로 '알게 하다'를 의미하며, acquaint + 명사 + with + 명사와 함께 쓰일 때 가장 자연스럽습니다."
+          }
+        ]
+      }
+    ]
+  }
+]
