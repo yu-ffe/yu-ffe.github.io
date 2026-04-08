@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import './WordStudy.css';
+import { hrefToTransferPage } from './transferNav.js';
 
 const CSV_COUNT = 92;
 const CARDS_PER_PAGE = 6;
@@ -275,6 +276,16 @@ export default function WordStudy() {
 
   return (
     <div className="word-study-layout">
+      <header className="study-topbar">
+        <div>
+          <p className="eyebrow">편입</p>
+          <h1>단어 카드</h1>
+          <p className="subtitle">CSV 기반 학습</p>
+        </div>
+        <a className="back-link" href={hrefToTransferPage('hub')}>
+          ← 편입 허브
+        </a>
+      </header>
       <section className="controls">
         <div className="control-group wide">
           <div className="page-buttons" role="group" aria-label="자료 페이지 선택">

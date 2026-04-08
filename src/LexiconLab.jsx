@@ -1,5 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import './LexiconLab.css';
+import { hrefToTransferPage } from './transferNav.js';
+import './transferHubNav.css';
 import {
   CHUNK_SIZE,
   CUSTOM_PRESET_COOKIE,
@@ -2004,6 +2006,11 @@ export default function LexiconLab() {
 
   return (
     <div className="lex-page">
+      <nav className="transfer-hub-nav" aria-label="편입 허브">
+        <a className="transfer-hub-back" href={hrefToTransferPage('hub')}>
+          ← 편입 허브
+        </a>
+      </nav>
       <header className="lex-topbar">
         <div className="topbar-title">
           <p className="eyebrow">Lexicon Lab</p>

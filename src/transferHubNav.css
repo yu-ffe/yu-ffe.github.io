@@ -1,0 +1,38 @@
+/* Lexicon Lab / Math Lab 상단 — 편입 허브로 돌아가기 (밝은 테마) */
+
+.transfer-hub-nav {
+  margin-bottom: clamp(10px, 2vw, 16px);
+}
+
+.transfer-hub-nav a.transfer-hub-back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 44px;
+  padding: 10px 16px;
+  border-radius: 14px;
+  font-weight: 700;
+  font-size: calc(clamp(13px, 2vw, 15px) * var(--font-scale, 1));
+  text-decoration: none;
+  color: var(--text-default);
+  background: var(--surface-strong);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-xs);
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.transfer-hub-nav a.transfer-hub-back:hover {
+  border-color: var(--color-primary-light);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-sm);
+}
+
+.transfer-hub-nav a.transfer-hub-back:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}

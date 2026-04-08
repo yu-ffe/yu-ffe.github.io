@@ -5,6 +5,21 @@ import ThreeCanvas from './components/ThreeCanvas.jsx';
 import WordStudy from './WordStudy.jsx';
 import LexiconLab from './LexiconLab.jsx';
 import MathLab from './MathLab.jsx';
+import TransferHub from './TransferHub.jsx';
+
+function isTransferHubPage() {
+  if (typeof window === 'undefined') {
+    return false;
+  }
+
+  const { pathname, search, hash } = window.location;
+  const params = new URLSearchParams(search);
+  return (
+    params.get('page') === 'transfer-hub' ||
+    pathname.includes('transfer-hub') ||
+    hash.includes('transfer-hub')
+  );
+}
 
 function isMathLabPage() {
   if (typeof window === 'undefined') {
@@ -45,6 +60,10 @@ function isLexiconLabPage() {
 }
 
 function App() {
+  if (isTransferHubPage()) {
+    return <TransferHub />;
+  }
+
   if (isMathLabPage()) {
     return <MathLab />;
   }

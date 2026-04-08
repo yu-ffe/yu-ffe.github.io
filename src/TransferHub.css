@@ -1,0 +1,99 @@
+.transfer-hub-page .eyebrow {
+  font-size: calc(clamp(11px, 1.5vw, 13px) * var(--font-scale, 1));
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-soft);
+  font-weight: 700;
+  margin: 0 0 4px;
+}
+
+.transfer-hub-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: clamp(12px, 2.5vw, 18px);
+  grid-template-columns: 1fr;
+}
+
+@media (min-width: 560px) {
+  .transfer-hub-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 900px) {
+  .transfer-hub-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.transfer-hub-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 8px;
+  min-height: 120px;
+  padding: clamp(18px, 3vw, 24px);
+  border-radius: 20px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-md);
+  text-decoration: none;
+  color: inherit;
+  transition:
+    transform 0.25s cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 0.25s ease,
+    border-color 0.2s ease;
+  position: relative;
+  overflow: hidden;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.transfer-hub-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--color-primary), var(--color-secondary));
+  opacity: 0;
+  transition: opacity 0.25s ease;
+}
+
+.transfer-hub-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--border-light);
+  box-shadow: var(--shadow-xl);
+}
+
+.transfer-hub-card:hover::before {
+  opacity: 1;
+}
+
+.transfer-hub-card:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 3px;
+}
+
+.transfer-hub-card-title {
+  font-size: calc(clamp(18px, 3.5vw, 22px) * var(--font-scale, 1));
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  color: var(--text-strong);
+}
+
+.transfer-hub-card-desc {
+  font-size: calc(clamp(13px, 2vw, 15px) * var(--font-scale, 1));
+  color: var(--text-muted);
+  line-height: 1.5;
+  flex: 1;
+}
+
+.transfer-hub-card-cta {
+  font-size: calc(clamp(12px, 1.8vw, 14px) * var(--font-scale, 1));
+  font-weight: 700;
+  color: var(--color-primary-dark);
+}

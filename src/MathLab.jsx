@@ -7,6 +7,8 @@ import {
   itemsByCategory,
   randomItem,
 } from './math/derivativeQuizData.js';
+import { hrefToTransferPage } from './transferNav.js';
+import './transferHubNav.css';
 
 const CATEGORY_ORDER = ['all', 'trig', 'invTrig', 'hyp', 'invHyp'];
 
@@ -74,6 +76,11 @@ export default function MathLab() {
 
   return (
     <div className="lex-page math-lab-root">
+      <nav className="transfer-hub-nav" aria-label="편입 허브">
+        <a className="transfer-hub-back" href={hrefToTransferPage('hub')}>
+          ← 편입 허브
+        </a>
+      </nav>
       <header className="lex-topbar">
         <div className="topbar-title">
           <h1>Math Lab</h1>
