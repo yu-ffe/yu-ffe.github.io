@@ -4,10 +4,10 @@ import { hrefToTransferPage } from './transferNav.js';
 
 const LINKS = [
   {
-    key: 'wordStudy',
+    key: 'lexiconLab',
     title: '편입 단어',
-    desc: '단어 전용 · CSV 단어 카드 학습',
-    pageKey: 'wordStudy',
+    desc: '단어 전용 · Lexicon Lab (단어장·콜로케이션·퀴즈)',
+    pageKey: 'lexiconLab',
   },
   {
     key: 'mathLab',

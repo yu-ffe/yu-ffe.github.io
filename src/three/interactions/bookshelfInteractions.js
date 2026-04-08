@@ -33,7 +33,12 @@ export function setupBookshelfInteractions(camera, books, bookEntries) {
     book.userData.link = link;
     book.userData.title = title ?? text ?? "";
 
-    if (typeof link === "string" && link.includes("word-study")) {
+    if (
+      typeof link === "string" &&
+      (link.includes("word-study") ||
+        link.includes("lexicon-lab") ||
+        link.includes("lexicon"))
+    ) {
       emphasizeWordStudyBook(book);
     }
   });

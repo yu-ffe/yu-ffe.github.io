@@ -1,7 +1,3 @@
-/**
- * Lexicon Lab — 폐기 보존용. 새 기능·편입 허브·네비에 연결하지 말 것.
- * 소스는 보관만 하며, 진입은 App.jsx의 구 URL 호환 라우트로만 허용.
- */
 import { useEffect, useMemo, useRef, useState } from 'react';
 import './LexiconLab.css';
 import { hrefToTransferPage } from './transferNav.js';
@@ -1672,7 +1668,6 @@ function LexiconEntry({ entry, settings, isMarked, onToggleMark, hiddenRelationW
   );
 }
 
-/** @deprecated 폐기 보존용 엔트리. 새 코드에서 재사용·import 금지. */
 export default function LexiconLab() {
   const initialViewState = useMemo(() => loadInitialViewState(), []);
 
@@ -2018,7 +2013,7 @@ export default function LexiconLab() {
       </nav>
       <header className="lex-topbar">
         <div className="topbar-title">
-          <p className="eyebrow">Lexicon Lab</p>
+          <p className="eyebrow">편입 단어 · Lexicon Lab</p>
           <h1>{viewTitle}</h1>
           <p className="subtitle">{viewSubtitle}</p>
           <ViewSwitcher active={viewMode} onChange={handleViewChange} />

@@ -2,8 +2,8 @@
 import './App.css';
 // Stream_LiveGame :: Three.js 경험을 렌더링하는 캔버스 컴포넌트.
 import ThreeCanvas from './components/ThreeCanvas.jsx';
+/** 폐기 보존: CSV 단어 카드. 직접 URL로만 진입. 새 코드에서 라우트·허브에 추가하지 말 것. */
 import WordStudy from './WordStudy.jsx';
-/** 폐기 보존: 직접 URL로만 진입. 새 코드에서 라우트·허브에 추가하지 말 것. */
 import LexiconLab from './LexiconLab.jsx';
 import MathLab from './MathLab.jsx';
 import TransferHub from './TransferHub.jsx';
@@ -36,6 +36,7 @@ function isMathLabPage() {
   );
 }
 
+/** Word Study (CSV) — 폐기 보존용. 북마크/구 URL 호환만. */
 function isWordStudyPage() {
   if (typeof window === 'undefined') {
     return false;
@@ -50,7 +51,6 @@ function isWordStudyPage() {
   );
 }
 
-/** Lexicon Lab — 폐기 보존용. 북마크/구 URL 호환만. */
 function isLexiconLabPage() {
   if (typeof window === 'undefined') {
     return false;

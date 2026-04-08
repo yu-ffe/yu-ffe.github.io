@@ -1,3 +1,7 @@
+/**
+ * Word Study (CSV 단어 카드) — 폐기 보존용. 편입 단어 학습은 Lexicon Lab을 사용.
+ * 진입은 App.jsx의 word-study 라우트(구 URL)로만 허용.
+ */
 import { useEffect, useMemo, useState } from 'react';
 import './WordStudy.css';
 import { hrefToTransferPage } from './transferNav.js';
@@ -249,6 +253,7 @@ function WordCard({ entry }) {
   );
 }
 
+/** @deprecated 폐기 보존용 엔트리. 새 코드에서 재사용·허브 연결 금지. */
 export default function WordStudy() {
   const { entries, loading, error } = useWordEntries();
   const [pageIndex, setPageIndex] = useState(0);
@@ -278,9 +283,9 @@ export default function WordStudy() {
     <div className="word-study-layout">
       <header className="study-topbar">
         <div>
-          <p className="eyebrow">편입 단어</p>
-          <h1>단어 카드</h1>
-          <p className="subtitle">단어 전용 · CSV 기반</p>
+          <p className="eyebrow">폐기 보존</p>
+          <h1>CSV 단어 카드</h1>
+          <p className="subtitle">구 방식 · 편입 단어는 Lexicon Lab 사용</p>
         </div>
         <a className="back-link" href={hrefToTransferPage('hub')}>
           ← 편입 허브
