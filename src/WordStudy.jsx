@@ -278,9 +278,9 @@ export default function WordStudy() {
     <div className="word-study-layout">
       <header className="study-topbar">
         <div>
-          <p className="eyebrow">편입</p>
+          <p className="eyebrow">편입 단어</p>
           <h1>단어 카드</h1>
-          <p className="subtitle">CSV 기반 학습</p>
+          <p className="subtitle">단어 전용 · CSV 기반</p>
         </div>
         <a className="back-link" href={hrefToTransferPage('hub')}>
           ← 편입 허브

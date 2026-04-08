@@ -57,7 +57,7 @@ function shuffleInPlace(arr, rng = Math.random) {
 }
 
 /**
- * 정답 + 같은 category의 다른 식들의 도함수 문자열을 섞어 4지선다 생성.
+ * 정방향: 정답 = 도함수 f′. 같은 category의 다른 도함수 문자열을 섞어 4지선다.
  */
 export function buildChoices(item, allInCategory, choiceCount = 4) {
   const answers = allInCategory.map((d) => d.answer);
@@ -66,6 +66,20 @@ export function buildChoices(item, allInCategory, choiceCount = 4) {
   const need = Math.min(choiceCount - 1, uniqueWrong.length);
   const wrongPick = uniqueWrong.slice(0, need);
   const pool = [item.answer, ...wrongPick];
+  shuffleInPlace(pool);
+  return pool;
+}
+
+/**
+ * 역방향: 정답 = 원함수 f. 같은 category의 다른 f(x) 식 문자열을 섞어 4지선다.
+ */
+export function buildChoicesReverse(item, allInCategory, choiceCount = 4) {
+  const exprs = allInCategory.map((d) => d.expr);
+  const uniqueWrong = [...new Set(exprs.filter((e) => e !== item.expr))];
+  shuffleInPlace(uniqueWrong);
+  const need = Math.min(choiceCount - 1, uniqueWrong.length);
+  const wrongPick = uniqueWrong.slice(0, need);
+  const pool = [item.expr, ...wrongPick];
   shuffleInPlace(pool);
   return pool;
 }

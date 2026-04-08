@@ -129,12 +129,62 @@
   line-height: 1.5;
 }
 
+.math-settings-stack {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(14px, 2.5vw, 20px);
+  margin-bottom: clamp(8px, 1.5vw, 12px);
+}
+
 .math-category-row {
-  margin-bottom: clamp(12px, 2vw, 18px);
+  margin-bottom: 0;
 }
 
 .math-category-row .source-label {
   margin-bottom: 6px;
+}
+
+.math-mode-hint {
+  margin: 8px 0 0;
+  font-size: calc(clamp(12px, 2vw, 13px) * var(--font-scale, 1));
+  color: var(--text-soft);
+  line-height: 1.45;
+}
+
+.math-type-badge {
+  display: inline-block;
+  margin: 0 auto 10px;
+  padding: 6px 14px;
+  border-radius: 999px;
+  font-size: calc(clamp(11px, 1.8vw, 12px) * var(--font-scale, 1));
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.math-type-badge--forward {
+  color: var(--color-primary-dark);
+  background: rgba(99, 102, 241, 0.12);
+  border: 1px solid rgba(99, 102, 241, 0.35);
+}
+
+.math-type-badge--reverse {
+  color: #0d9488;
+  background: rgba(20, 184, 166, 0.12);
+  border: 1px solid rgba(20, 184, 166, 0.4);
+}
+
+.math-question--reverse {
+  margin-bottom: 6px;
+}
+
+.math-question-follow {
+  font-family: var(--math-font);
+  font-size: calc(clamp(17px, 4vw, 22px) * var(--font-scale, 1));
+  font-weight: 600;
+  color: var(--text-default);
+  margin: 0;
+  line-height: 1.4;
 }
 
 @media (max-width: 480px) {
