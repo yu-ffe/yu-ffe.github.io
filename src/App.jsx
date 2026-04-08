@@ -4,6 +4,21 @@ import './App.css';
 import ThreeCanvas from './components/ThreeCanvas.jsx';
 import WordStudy from './WordStudy.jsx';
 import LexiconLab from './LexiconLab.jsx';
+import MathLab from './MathLab.jsx';
+
+function isMathLabPage() {
+  if (typeof window === 'undefined') {
+    return false;
+  }
+
+  const { pathname, search, hash } = window.location;
+  const params = new URLSearchParams(search);
+  return (
+    pathname.includes('math') ||
+    params.get('page') === 'math-lab' ||
+    hash.includes('math')
+  );
+}
 
 function isWordStudyPage() {
   if (typeof window === 'undefined') {
@@ -30,6 +45,10 @@ function isLexiconLabPage() {
 }
 
 function App() {
+  if (isMathLabPage()) {
+    return <MathLab />;
+  }
+
   if (isLexiconLabPage()) {
     return <LexiconLab />;
   }

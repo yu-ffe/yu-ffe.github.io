@@ -1,0 +1,145 @@
+/* Math Lab — Lexicon Lab과 동일 토큰을 쓰기 위해 LexiconLab.css를 함께 import */
+
+.math-lab-root {
+  --math-font: 'Cambria Math', 'STIX Two Math', 'Times New Roman', serif;
+}
+
+.math-stats {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(12px, 3vw, 24px);
+  flex-wrap: wrap;
+  margin-bottom: clamp(12px, 2vw, 20px);
+  font-size: calc(clamp(13px, 2vw, 15px) * var(--font-scale, 1));
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+.math-stats strong {
+  color: var(--color-primary-dark);
+  font-weight: 800;
+}
+
+.math-question-block {
+  text-align: center;
+  padding: clamp(8px, 2vw, 16px) 0 clamp(20px, 3vw, 28px);
+}
+
+.math-question-label {
+  font-size: calc(clamp(11px, 1.5vw, 12px) * var(--font-scale, 1));
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-soft);
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.math-question {
+  font-family: var(--math-font);
+  font-size: calc(clamp(20px, 5vw, 28px) * var(--font-scale, 1));
+  font-weight: 600;
+  color: var(--text-strong);
+  line-height: 1.45;
+  word-break: break-word;
+}
+
+.math-question .math-dd {
+  font-style: italic;
+  opacity: 0.92;
+}
+
+.math-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  max-width: 100%;
+}
+
+.math-option {
+  width: 100%;
+  min-height: 48px;
+  padding: 14px 16px;
+  border-radius: 16px;
+  border: 1.5px solid var(--border);
+  background: var(--surface-strong);
+  font-family: var(--math-font);
+  font-size: calc(clamp(15px, 3.8vw, 18px) * var(--font-scale, 1));
+  text-align: left;
+  cursor: pointer;
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.15s ease,
+    box-shadow 0.2s ease;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+  color: var(--text-default);
+  line-height: 1.35;
+  box-sizing: border-box;
+}
+
+.math-option:hover:not(:disabled) {
+  border-color: var(--color-primary-light);
+  background: rgba(99, 102, 241, 0.06);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-xs);
+}
+
+.math-option:disabled {
+  cursor: default;
+  opacity: 1;
+}
+
+.math-option.reveal-correct {
+  border-color: var(--color-success);
+  background: rgba(16, 185, 129, 0.12);
+  box-shadow: 0 0 0 1px rgba(16, 185, 129, 0.35);
+}
+
+.math-option.reveal-wrong {
+  border-color: #f87171;
+  background: rgba(248, 113, 113, 0.1);
+}
+
+.math-option.dimmed:not(.reveal-correct):not(.reveal-wrong) {
+  opacity: 0.45;
+}
+
+.math-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+  margin-top: clamp(16px, 3vw, 24px);
+}
+
+.math-actions .ghost {
+  min-height: 48px;
+  padding: 12px 20px;
+  touch-action: manipulation;
+}
+
+.math-hint {
+  margin-top: 12px;
+  font-size: calc(clamp(12px, 2vw, 14px) * var(--font-scale, 1));
+  color: var(--text-soft);
+  text-align: center;
+  line-height: 1.5;
+}
+
+.math-category-row {
+  margin-bottom: clamp(12px, 2vw, 18px);
+}
+
+.math-category-row .source-label {
+  margin-bottom: 6px;
+}
+
+@media (max-width: 480px) {
+  .math-option {
+    min-height: 52px;
+    padding: 16px 14px;
+  }
+}
