@@ -6,7 +6,7 @@ import { ROOM_SIZE } from "./constants.js";
 import { addWindow } from "./window.js";
 import meta from "./meta.json";
 
-const SCALE = 3.2; // Blender 1m -> 씬 단위
+const SCALE = 3.0; // Blender 1m -> 씬 단위
 const ROTATION_Y = THREE.MathUtils.degToRad(55); // 카메라(50,50,50) 쪽으로 열린 면이 향하도록 회전
 const BOOK_COLORS = [0xffebe0, 0xffcfd2, 0xf9b4ab, 0xbce6ff, 0xacc3ff, 0xd6e4f5, 0xf2e6b8];
 
