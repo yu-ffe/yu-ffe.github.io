@@ -5,32 +5,47 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Paint Feedback</title>
 <style>
-:root{--bg:#fafafa;--fg:#1c1c1e;--card:#fff;--line:#e2e2e6;--accent:#4f46e5}
-@media(prefers-color-scheme:dark){:root{--bg:#141417;--fg:#ececf0;--card:#1e1e23;--line:#33333b;--accent:#8b85ff}}
+:root{--bg:#fafafa;--fg:#1c1c1e;--card:#fff;--line:#e2e2e6}
+@media(prefers-color-scheme:dark){:root{--bg:#141417;--fg:#ececf0;--card:#1e1e23;--line:#33333b}}
 body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,sans-serif}
-main{max-width:960px;margin:0 auto;padding:24px 16px 64px}
+main{max-width:1600px;margin:0 auto;padding:24px 24px 64px}
 h1{margin:0 0 4px}p.lead{margin:0 0 24px;opacity:.75}
-.grid{display:grid;gap:16px;grid-template-columns:repeat(auto-fill,minmax(260px,1fr))}
+.row{display:grid;gap:16px;margin-bottom:16px;align-items:start}
+.r2{grid-template-columns:1fr 1fr}
+.r3{grid-template-columns:repeat(3,1fr)}
+@media(max-width:700px){.r2,.r3{grid-template-columns:1fr}}
 figure{margin:0;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}
 figure img,figure video{width:100%;height:auto;display:block;border-radius:8px;background:#333}
+figure img{cursor:zoom-in}
 figcaption{margin-top:8px;font-size:14px}
-.wide{grid-column:1/-1}
-a.btn{display:inline-block;margin-top:24px;padding:12px 20px;border-radius:10px;background:var(--accent);color:#fff;text-decoration:none;font-weight:600}
+#lb{position:fixed;inset:0;background:rgba(0,0,0,.88);display:none;align-items:center;justify-content:center;z-index:10;cursor:zoom-out}
+#lb.on{display:flex}
+#lb img{max-width:96vw;max-height:94vh;object-fit:contain}
 </style>
 </head>
 <body>
 <main>
 <h1>Paint Feedback</h1>
-<p class="lead">퍼펫 베이스 모델(Blender) 작업물과 레퍼런스입니다. 그림·형태 피드백을 남겨주세요.</p>
-<div class="grid">
-<figure class="wide"><video src="blender-workspace.mp4" controls preload="metadata" playsinline></video><figcaption>Blender 작업 영상 (puppet_workspace, 2026-10-21)</figcaption></figure>
+<p class="lead">퍼펫 베이스 모델(Blender) 작업물과 레퍼런스입니다. 이미지를 누르면 크게 볼 수 있습니다.</p>
+<div class="row r2">
+<figure><img src="base-4view.png" alt="베이스 4방향" loading="lazy"><figcaption>베이스 모델 — 4방향 비교</figcaption></figure>
 <figure><img src="ref-belly.png" alt="배·허리 레퍼런스" loading="lazy"><figcaption>레퍼런스: 배·허리 라인 (손글씨 메모 포함)</figcaption></figure>
+</div>
+<div class="row r3">
 <figure><img src="base-front.png" alt="베이스 정면" loading="lazy"><figcaption>베이스 모델 — 정면</figcaption></figure>
 <figure><img src="base-side.png" alt="베이스 측면" loading="lazy"><figcaption>베이스 모델 — 측면</figcaption></figure>
-<figure class="wide"><img src="base-4view.png" alt="베이스 4방향" loading="lazy"><figcaption>베이스 모델 — 4방향 비교</figcaption></figure>
-<figure><img src="torso-note.png" alt="어깨·몸통 표시" loading="lazy"><figcaption>어깨·팔(빨강)과 몸통 라인(파랑) 수정 방향 메모</figcaption></figure>
+<figure><img src="torso-note.png" alt="수정 방향 메모" loading="lazy"><figcaption>어깨·팔(빨강)과 몸통 라인(파랑) 수정 방향 메모</figcaption></figure>
 </div>
-<a class="btn" href="https://github.com/yu-ffe/yu-ffe.github.io/issues/new?title=%5BPaint%20Feedback%5D%20&body=%EC%96%B4%EB%8A%90%20%EC%9D%B4%EB%AF%B8%EC%A7%80%2F%EB%B6%80%EB%B6%84%EC%9D%B8%EC%A7%80%3A%0A%ED%94%BC%EB%93%9C%EB%B0%B1%3A%0A" target="_blank" rel="noopener">피드백 남기기 (GitHub Issue)</a>
+<div class="row">
+<figure><video src="blender-workspace.mp4" controls preload="metadata" playsinline></video><figcaption>Blender 작업 영상 (puppet_workspace, 2026-10-21)</figcaption></figure>
+</div>
 </main>
+<div id="lb"><img alt=""></div>
+<script>
+var lb=document.getElementById('lb'),li=lb.querySelector('img');
+document.querySelectorAll('figure img').forEach(function(i){i.onclick=function(){li.src=i.src;lb.classList.add('on')}});
+lb.onclick=function(){lb.classList.remove('on')};
+addEventListener('keydown',function(e){if(e.key==='Escape')lb.classList.remove('on')});
+</script>
 </body>
 </html>
