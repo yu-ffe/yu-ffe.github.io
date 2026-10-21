@@ -4,7 +4,7 @@ import { ThreeApp } from "../core/ThreeApp.js";
 // Stream_LiveGame :: 씬의 분위기를 조성하는 조명 배치 모듈.
 import { setupLights } from "../lights/winterRoomLights.js";
 // Stream_LiveGame :: 겨울 방 씬의 지오메트리를 구성한다.
-import { initializeWinterRoomScene } from "../scenes/winter-room/index.js";
+import { initializeTowerRoomScene } from "../scenes/tower-room/index.js";
 // Stream_LiveGame :: 객체 클릭 시 링크로 이동하는 상호작용을 등록한다.
 import { registerClickNavigation } from "../interactions/clickNavigation.js";
 // Stream_LiveGame :: 마우스 드래그를 통한 카메라 회전을 제공한다.
@@ -24,7 +24,8 @@ export function createThreeExperience(canvas) {
     bookshelfBooks = [],
     windowDetails,
     updateCallbacks = [],
-  } = initializeWinterRoomScene(app.scene) ?? {};
+    ready = Promise.resolve(),
+  } = initializeTowerRoomScene(app.scene) ?? {};
   setupLights(app.scene);
 
   // Stream_LiveGame :: 사용자 클릭을 추적하는 핸들러를 등록하고 제거 함수를 받는다.
@@ -35,7 +36,7 @@ export function createThreeExperience(canvas) {
   let isDisposed = false;
 
   // Stream_LiveGame :: 책장에 배치할 링크 데이터를 불러와 상호작용을 적용한다.
-  loadBookMetadata().then((bookEntries) => {
+  Promise.all([loadBookMetadata(), ready]).then(([bookEntries]) => {
     if (isDisposed) {
       return;
     }

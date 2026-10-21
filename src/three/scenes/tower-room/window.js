@@ -1,6 +1,6 @@
 // Stream_LiveGame :: 창문 구성 요소 생성을 위해 Three.js를 사용한다.
 import * as THREE from "three";
-import { ROOM_SIZE, WALL_THICKNESS } from "../constants.js";
+import { ROOM_SIZE, WALL_THICKNESS } from "./constants.js";
 
 export function addWindow(parent, opening = {}) {
   const { width, floorLevel } = ROOM_SIZE;
