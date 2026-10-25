@@ -14,6 +14,7 @@ import { setupBookshelfInteractions } from "../interactions/bookshelfInteraction
 import { setupWindowInteractions } from "../interactions/windowInteractions.js";
 // Stream_LiveGame :: 책장에 배치할 링크 메타데이터를 불러온다.
 import { loadBookMetadata } from "../loaders/bookMetadataLoader.js";
+import { createWalkingCharacter } from "../characters/walkingCharacter.js";
 
 export function createThreeExperience(canvas) {
   // Stream_LiveGame :: Three.js 앱 인스턴스를 생성하여 렌더링 환경을 준비한다.
@@ -21,6 +22,7 @@ export function createThreeExperience(canvas) {
 
   // Stream_LiveGame :: 3D 자산 및 장면 구성 요소를 초기화한다.
   const {
+    roomGroup,
     bookshelfBooks = [],
     windowDetails,
     updateCallbacks = [],
@@ -47,6 +49,21 @@ export function createThreeExperience(canvas) {
     );
   });
 
+  // 이전 모델 A: 방 glb 가 로드되면 캐릭터를 세우고 걸어다니게 한다(WASD/방향키, 바닥 클릭).
+  let walker = null;
+  ready
+    .then(() => (isDisposed ? null : createWalkingCharacter({ scene: app.scene, camera: app.camera, canvas, roomGroup })))
+    .then((created) => {
+      if (!created) return;
+      if (isDisposed) {
+        created.dispose();
+        return;
+      }
+      walker = created;
+      if (import.meta.env.DEV) window.__walker = created; // 개발 중 디버깅용
+    })
+    .catch((error) => console.error("walking character failed", error));
+
   // Stream_LiveGame :: 마우스 드래그 시 카메라를 부드럽게 회전시킨다.
   const orbitControls = createOrbitControls(app.camera, app.renderer);
 
@@ -56,6 +73,7 @@ export function createThreeExperience(canvas) {
   app.start(() => {
     const delta = clock.getDelta();
     orbitControls.update();
+    walker?.update(delta);
     updateCallbacks.forEach((update) => {
       if (typeof update === "function") {
         update(delta);
@@ -66,6 +84,7 @@ export function createThreeExperience(canvas) {
   return () => {
     // Stream_LiveGame :: 등록한 이벤트와 Three.js 자원을 정리한다.
     isDisposed = true;
+    walker?.dispose();
     disposeBookshelfInteractions?.();
     disposeWindowInteractions?.();
     removeClickHandler?.();
